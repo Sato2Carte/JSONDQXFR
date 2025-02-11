@@ -1,0 +1,791 @@
+{
+    "251718": {
+        "「誰っ！？　つまらない用事だったら\n　火あぶりに　するわよ！": "Qui va la !? Si c'est pour une affaire\nennuyeuse, je te brule vif !"
+    },
+    "251719": {
+        "「……って　ほんとに　誰？": "... Mais qui est-ce vraiment ?"
+    },
+    "251720": {
+        "<pc>は　リンベリィに\nゼクレス城に　連れていってほしいと　頼んだ！": "<pc> a demande a Linberry de l'emmener\nau chateau de Zechres !"
+    },
+    "251721": {
+        "「ハァ？　なんで　アンタみたいな下等魔族を\n　城へ　連れてかなきゃならないのよ！\n　さっさと　出ていきなさい！": "Ha ? Pourquoi devrais-je emmener un demon\ninferieur comme toi au chateau ! Sors d'ici\ntout de suite !"
+    },
+    "251722": {
+        "「ちょっと待って。\n　アンタ……私のパーティーに　忍び込んだ\n　こぎたない下等魔族！？": "Attends un peu. Toi... un demon inferieur sale\nqui s'est infiltre dans mon groupe !?"
+    },
+    "251723": {
+        "「うん……使えるかも！": "Hmm... Ca pourrait etre utile !"
+    },
+    "251724": {
+        "「私　新しい　しもべを　助けたいの！": "Je veux aider mon nouveau serviteur !"
+    },
+    "251725": {
+        "「……正確には　新しい　しもべ候補ね。\n　アイツが　私に夢中なのは　わかってるけど\n　ちょっとした障害が　あってね……。": "Pour etre precis, c'est un nouveau candidat\npour serviteur. Je sais qu'il est fou de moi,\nmais il y a un petit obstacle..."
+    },
+    "251726": {
+        "「ねえ。この話って\n　私たちに　何か　関係あるのかな……？": "He, tu penses que cette histoire a un rapport\navec nous...?"
+    },
+    "251727": {
+        "「あ　そっか。\n　アンタ　さては　知らなかったのね。": "Ah, je vois. Tu ne le savais pas, n'est-ce pas\n?"
+    },
+    "251728": {
+        "「魔界大戦が起きる　少し前……\n　パーティーで　アンタを助けた　骨董屋。\n　あの　シリルが　なんと……": "La Grande Guerre des Enfers s'est declenchee\npeu de temps avant... Au cours d'une fete, un\nantiquaire t'a sauve la mise. Ce Cyril,<br>incroyable..."
+    },
+    "251729": {
+        "「我が　ゼクレス魔導国の王\n　魔王アスバルだったのよ！！": "Notre roi de Zechres etait le seigneur demon\nAsbal !!"
+    },
+    "251730": {
+        "「平民に変装し　運命の恋を探していた魔王と\n　美しき大貴族の娘……。": "Le roi demon, deguise en simple roturier pour\ntrouver l'amour de sa vie, et la fille d'un\nnoble de grande beaute..."
+    },
+    "251731": {
+        "「アイツって　顔も声も　イケてるし\n　新しい　しもべに　してあげてもいいかなって\n　思ってたところに　あの　魔界大戦が……。": "Il a un visage et une voix vraiment charmants,\nalors je pensais que je pourrais bien en faire\nun nouveau serviteur. Et puis, cette grande<br>guerre du monde demoniaque est survenue..."
+    },
+    "251732": {
+        "「アスバルは　愛する王太后様の死で\n　悲しみの淵に……。\n　そこに　つけこんだヤツがいるのよ！": "Asbal est plonge dans le chagrin a cause de la\nmort de sa bien-aimee reine mere... Et\nquelqu'un en a profite !"
+    },
+    "251733": {
+        "「ソイツの名は……オジャロス！": "Son nom est... Ojalos !"
+    },
+    "251734": {
+        "「心身ともに傷を負った　アスバルは\n　叔父　オジャロスに\n　国をまかせ　喪に服しているわ……。": "Asbal, blesse aussi bien physiquement que\nmentalement, a confie le royaume a son oncle\nOjalos et est en deuil..."
+    },
+    "251735": {
+        "「で　元気づけてあげようと　何度か\n　城を訪ねてるんだけど　会わせてもらえないの。\n　オジャロスのヤツ　私を警戒してるみたい。": "Je suis allee plusieurs fois au chateau pour\nlui remonter le moral, mais on ne veut pas me\nlaisser le voir. Ce type de Ojalos semble se<br>mefier de moi."
+    },
+    "251736": {
+        "「……アイツは　いまや　国王気取り。\n　私が　アスバルを　立ち直らせたら\n　都合が悪いから　邪魔してるんだわっ！": "... Cet individu se prend maintenant pour le\nroi. Ca ne l'arrange pas que je redresse\nAsbal, alors il essaie de m'en empecher !"
+    },
+    "251737": {
+        "「……で　ここからが　アンタの出番。": "...Et c'est la que tu entres en jeu."
+    },
+    "251738": {
+        "「ほらっ。コレを　持ってきなさい！": "Tiens, prends ca avec toi !"
+    },
+    "251739": {
+        "<pc>は　リンベリィから\nしもべの証（だいじなもの）を\n押し付けられた！<me 60>": "<pc> a recu de force le Servant's Proof\n(objet cle) de Linberry ! <me 60>"
+    },
+    "251740": {
+        "「城の兵士の　何人かは　買収済み。\n　その　しもべの証を見せれば\n　下等魔族のアンタでも　入れてくれるわ。": "Quelques soldats du chateau ont deja ete\nsoudoyes. Si tu leur montres cette Servant's\nProof, meme un demon de bas etage comme toi<br>pourra entrer."
+    },
+    "251741": {
+        "「城に　潜入して\n　愛しの　リンベリィ様が　会いたがってると\n　魔王アスバルに　伝えなさい！": "Infiltrez-vous dans le chateau et dites au\nseigneur demon Asbal que la chere\nLinberry-sama souhaite le rencontrer !"
+    },
+    "251742": {
+        "「……アンタだって　パーティーで\n　アスバルに助けられた恩を　返したいでしょ？\n　オジャロスの魔の手から　助け出すのよ！": "Toi aussi, tu veux rendre la pareille a Asbal\npour t'avoir aide lors de la fete, non ?\nSauvons-le des griffes d'Ojalos !"
+    },
+    "251743": {
+        "「なに　ぼーっとしてんのよ！\n　とっとと　ゼクレス城に　行きなさい！": "Qu'est-ce que tu fais a revasser ! Depeche-toi\nd'aller au Chateau Zechres !"
+    },
+    "251744": {
+        "「……誰だい？\n　食事を　持ってきてくれたなら\n　そこの机に　置いておいてくれ……。": "…Qui est-ce ? Si tu m'apportes a manger,\nlaisse-le sur la table la-bas…"
+    },
+    "251745": {
+        "「国のことは　叔父上に　まかせている。\n　僕を　そっと　しておいてほしい……。": "Je confie les affaires du royaume a mon oncle.\nJe souhaite qu'on me laisse tranquille..."
+    },
+    "251746": {
+        "「今は……誰にも　会いたくない。\n　母上の死を　ひとりで悼みたいんだ……": "En ce moment... je ne veux rencontrer\npersonne. Je veux pleurer la mort de ma mere\nseul..."
+    },
+    "251747": {
+        "「げふーっ。\n　いやあ　この　お菓子　うまいなあ！": "Burp. Ouah, ces friandises sont vraiment\ndelicieuses !"
+    },
+    "251748": {
+        "「……ちょっと　様子が　おかしいみたい。\n　奥へ行って　直接　アスバルに\n　会ってみましょう。": "…Il semble y avoir quelque chose d'etrange.\nAllons vers l'interieur et rencontrons\ndirectement Asbal."
+    },
+    "251749": {
+        "「……ぷ　ぷぎぃーっ！？": "…Pu... Pugiiee !?"
+    },
+    "251750": {
+        "「私たち　アスバルに　大切な話があるの。\n　あなた……誰？\n　どうして　ここに　いるの？": "Nous avons quelque chose d'important a dire a\nAsbal. Toi... qui es-tu ? Pourquoi es-tu ici ?"
+    },
+    "251751": {
+        "「……オレの名は　ボッガン。\n　魔王アスバル様と　声が　そっくりなのを\n　見込まれて　身代わりを　してたんだ。": "Je suis Boggan. On a remarque que ma voix\nressemblait etrangement a celle du seigneur\nAsbal, alors j'ai servi de doublure."
+    },
+    "251752": {
+        "「キミたち。このお菓子　あげるからさ。\n　オレが　替え玉をしてたこと\n　城のみんなには　黙っててくれないかな……？": "Vous tous. Je vous donne ces friandises. En\nechange, pourriez-vous garder le secret que\nj'ai utilise un sosie au chateau...?"
+    },
+    "251753": {
+        "「私は　いいわ。\n　あなたが　食べて。": "Je suis d'accord. C'est toi qui devrais le\nmanger."
+    },
+    "251754": {
+        "「えっ　いらないの？\n　じゃあ　いっただっきまぁ～す！": "Oh, tu n'en veux pas ? Alors, je vais me\nservir !"
+    },
+    "251755": {
+        "「ええと……それで　なんだっけ？\n　ああ　アスバル様に　会いたいんだったね。": "Euh... Alors, qu'est-ce que c'etait deja ? Ah\noui, tu voulais rencontrer Asbal-sama."
+    },
+    "251756": {
+        "「アスバル様なら　この国には　いないよ？": "Asbal-sama n'est pas dans ce pays, tu sais ?"
+    },
+    "251757": {
+        "「オジャロス様の　すすめで\n　魔界を　出たんだ……。": "C'est sur la recommandation d'Ojalos-sama que\nj'ai quitte le monde demoniaque..."
+    },
+    "251758": {
+        "なんと　リンベリィから　押しつけられた\nしもべの証が　突然　光りだした！": "Incroyable ! La Servant's Proof que Linberry\nvous a confiee s'est soudain mise a briller !"
+    },
+    "251759": {
+        "「なぁんですってえっ！？": "Quoooi !?"
+    },
+    "251760": {
+        "「も…もきぃーっ！？\n　今度は　誰なんだよーっ！？": "Mo... Mon dieu !? Qui est-ce cette fois-ci !?"
+    },
+    "251761": {
+        "「……オジャロスめ　許せないッ！\n　私から　アスバルを　引き離すために\n　魔界から　追いやるなんてッ！": "Ojalos, je ne te pardonnerai jamais ! Me\nseparer d'Asbal et me chasser du monde des\ndemons, c'est impardonnable !"
+    },
+    "251762": {
+        "「あの……なんのこと？\n　アスバル様は　あんたのことなんて\n　なんも　言ってなかった……": "Euh... de quoi parles-tu ? Asbal-sama n'a rien\ndit a ton sujet..."
+    },
+    "251763": {
+        "「うっるさぁーい！！": "Tais-toi !!"
+    },
+    "251764": {
+        "「……やっぱり　思ったとおりだったわ。": "...Comme je le pensais."
+    },
+    "251765": {
+        "「オジャロスのやつ\n　アスバルを　魔界から追放して\n　ゼクレス魔導国を　手に入れるつもりだわッ！": "Ojalos a l'intention de bannir Asbal du monde\ndes demons pour s'emparer de Zechres !"
+    },
+    "251766": {
+        "「まーったく　あの　一族ってば　腹黒いわ！\n　亡きエルガドーラ様が　前王　イーヴ様を\n　追放した時と　そっくり　同じじゃない！": "Vraiment, cette famille est tellement\nsournoise ! C'est exactement comme lorsque feu\nElgadora-sama a banni l'ancien roi, Ieve-sama<br>!"
+    },
+    "251767": {
+        "「このままじゃ　アスバルも\n　お父上同様　殺されちゃうかもしれないわ！\n　急いで　連れ戻さなきゃ！": "Si ca continue comme ca, Asbal pourrait etre\ntue, tout comme notre pere ! Il faut vite le\nramener !"
+    },
+    "251768": {
+        "「そこの　つぶれまんじゅう！\n　アスバルは　今　どこなの！？\n　さっさと　白状なさい！": "Toi, la-bas, le manju ecrase ! Ou est Asbal en\nce moment ? Depeche-toi de me le dire !"
+    },
+    "251769": {
+        "「だ　だから……アストルティアの\n　ええと　ヴェリナード王国って　ところへ\n　旅立ったんだってば……。": "Alors... Il est parti en voyage vers un\nendroit appele le Royaume de Velinard en\nAstoltia..."
+    },
+    "251770": {
+        "「よりによって　アストルティア！？\n　ヤダッ　おぞましい！": "Pourquoi, parmi tous les endroits, Astoltia !?\nOh non, c'est horrible !"
+    },
+    "251771": {
+        "「……アストルティアへ転移する　魔法儀式なんて\n　この私でも　１ヶ月以上　かかるわ。\n　今すぐ　アスバルを　助けたいのにッ！！": "Le rituel de magie pour se teleporter a\nAstoltia, meme moi, cela me prendrait plus\nd'une minute. Je veux aider Asbal<br>immediatement !!"
+    },
+    "251772": {
+        "「アンタは　今は　だまってて！": "Toi, tais-toi pour l'instant !"
+    },
+    "251773": {
+        "「……ちょっと待って！\n　今　アンタ　アストルティアに行けるって\n　そう言ったの！？": "Attends un peu ! Tu viens de dire que tu peux\naller a Astoltia !?"
+    },
+    "251774": {
+        "「……しょうがないわね。\n　他に　手はないし\n　アスバルのことは　アンタに　まかせてあげる。": "Je suppose que je n'ai pas le choix. Il n'y a\npas d'autre solution. Je te confie Asbal."
+    },
+    "251775": {
+        "「アストルティアの　ヴェリナード王国\n　……とかいう場所へ行って\n　アスバルを　連れ戻してきなさい！": "Allez dans le royaume de Verinard en\nAstoltia... ou quelque chose comme ca, et\nramenez Asbal !"
+    },
+    "251776": {
+        "「じゃ　頼んだわよ～♪": "<me 60> Alors, je compte sur toi~♪"
+    },
+    "251777": {
+        "「……何がなんだか　わかんねえけど\n　とにかく　そういうことだし\n　オレは　関わりたくねえから　まかせたぜ！": "Je ne comprends pas trop ce qui se passe, mais\nen tout cas, c'est comme ca. Je ne veux pas\nm'en meler, alors je te laisse gerer !"
+    },
+    "251778": {
+        "「あと　ここで見たことは\n　くれぐれも　秘密にしてくれよなっ！": "Et surtout, garde bien secret tout ce que tu\nas vu ici !"
+    },
+    "251779": {
+        "「……いかがですか？　アスバル先生。\n　代々の　ヴェリナード王位継承者に\n　詩歌を伝えてきた　詩歌の遺跡の　ご感想は。": "......Qu'en pensez-vous ? Asbal-sensei. Votre\nimpression sur les Poetry Ruins, qui ont\ntransmis la poesie aux heritiers du trone de<br>Verinard depuis des generations."
+    },
+    "251780": {
+        "「まるで　夢のようだよ……！\n　歴史書に記された　この　すばらしい場所を\n　自分の目で　見ることができるとは……": "C'est comme un reve... ! Pouvoir voir de mes\npropres yeux cet endroit merveilleux, inscrit\ndans les livres d'histoire..."
+    },
+    "251781": {
+        "「やあ　ひさしぶりじゃないか！　我が親友よ！": "Hey, ca fait longtemps, n'est-ce pas ! Mon\ncher ami !"
+    },
+    "251782": {
+        "「僕の故郷の　友人を\n　オーディス王子は　ご存知だったのですか……。\n　不思議な偶然も　あるものですね。": "Mon ami de mon pays natal... Le Prince Odis le\nconnaissait ? Il y a vraiment d'etranges\ncoincidences dans ce monde."
+    },
+    "251783": {
+        "「なんと　ふたりが　知り合いだったとは！\n　アスバル先生は　高名な歴史家で\n　今は　僕の家庭教師を　してもらってるんだよ。": "Que vous vous connaissiez tous les deux,\nquelle surprise ! Asbal-sensei est un\nhistorien renomme, et il est actuellement mon<br>tuteur personnel."
+    },
+    "251784": {
+        "「そうだ！　つもる話も　あるだろうから\n　しばらく　授業は　中断しましょう。\n　僕は　そのあたりを　散歩してきます。": "Bien sur ! Vous devez avoir beaucoup de choses\na vous raconter, n'est-ce pas ? Suspendons le\ncours pour un moment. Je vais aller me<br>promener dans les environs."
+    },
+    "251785": {
+        "「……君が　アストルティアの出身であることは\n　知っていたけれど\n　まさか　僕に　会いにきてくれるなんて。": "...Je savais que tu venais d'Astoltia, mais je\nne m'attendais pas a ce que tu viennes me\nvoir."
+    },
+    "251786": {
+        "「……でも　どうして　ここが　わかったんだい？": "…Mais comment as-tu su que c'etait ici ?"
+    },
+    "251787": {
+        "<pc>は　リンベリィから\n追放されたアスバルを　連れ戻すよう\n頼まれていることを　伝えた！": "<pc> a informe que Linberry lui avait\ndemande de ramener Asbal, qui avait ete banni\n!"
+    },
+    "251788": {
+        "「……オジャロス叔父上が\n　僕を　追放しただって！？\n　ばかな。あの人は　母とは　ちがうよ。": "Oncle Ojalos m'aurait banni !? Impossible. Il\nn'est pas comme ma mere."
+    },
+    "251789": {
+        "「ベラストル家の　お嬢さんは\n　ひどい　カンちがいを　してるようだね。\n　叔父さんこそが　僕を　救ってくれたんだから。": "Il semble que la jeune demoiselle de la\nfamille Honeystrul ait fait une grosse erreur.\nC'est bien l'oncle qui m'a sauve."
+    },
+    "251790": {
+        "「あの大戦で　心底　思い知った。\n　母が　愛したのは　ゼクレスの栄華だけ。\n　……僕は　母にとって　道具でしかなかった。": "Lors de cette grande guerre, j'ai profondement\ncompris. Ce que ma mere aimait, c'etait\nuniquement la splendeur de Zekres. ...Pour<br>elle, je n'etais rien d'autre qu'un outil."
+    },
+    "251791": {
+        "「僕の悲しみを　わかってくれたのは\n　オジャロス叔父さんだけさ。\n　あの人は　昔から　とても　やさしいんだ。": "Le seul a avoir compris ma tristesse, c'est\nl'oncle Ojalos. Il a toujours ete tres gentil\ndepuis longtemps."
+    },
+    "251792": {
+        "「……アストルティアに来たのも\n　少し　国を離れて　気分転換したらどうだと\n　叔父さんが　すすめてくれたからさ。": "... Je suis venu a Astoltia parce que mon\noncle m'a suggere de quitter le pays un moment\npour changer d'air."
+    },
+    "251793": {
+        "「アストルティアは　すばらしいところだね。\n　自由で……平和で……。\n　心から　来てよかったと　そう思うよ。": "Astoltia est un endroit merveilleux. Libre...\net paisible... Je suis vraiment heureux d'etre\nvenu ici."
+    },
+    "251794": {
+        "「……もはや　魔界に　未練はない。\n　僕は　アストルティアで　生きていくよ。": "Je n'ai plus aucun regret envers le monde des\ndemons. Je vais vivre dans Astoltia."
+    },
+    "251795": {
+        "「悪いけど　オジャロス叔父さんに\n　二度と　魔界には帰らないと　伝えてくれ……": "Desole, mais dis a Oncle Ojalos que je ne\nretournerai plus jamais dans le monde des\ndemons..."
+    },
+    "251796": {
+        "「……おっと。僕が　魔族だということは\n　くれぐれも　オーディス王子には　秘密にね。": "…Oh. Le fait que je sois un demon, garde-le\nbien secret pour Prince Odis, d'accord ?"
+    },
+    "251797": {
+        "「では　授業を再開しましょう。": "Alors, reprenons le cours."
+    },
+    "251798": {
+        "「ヴェリナード王家には\n　恵みの歌　導きの歌を　はじめとする\n　さまざまな詩歌が　伝えられていますが……": "Dans la famille royale de Verinard, de\nnombreux poemes et chants, tels que le Chant\nde la Benediction et le Chant de la Guidance,<br>ont ete transmis..."
+    },
+    "251799": {
+        "「その詩の原点は　はるか　神話の時代。\n　儀式の中で　歌われた\n　古き祈りの詩とも　言われているそうです。": "L'origine de ce poeme remonte a l'ancienne\nMythical Age. On dit qu'il s'agit egalement\nd'un ancien chant de priere recite lors des<br>rituels."
+    },
+    "251800": {
+        "「そういえば　アスバル先生の故郷には\n　どんな詩歌が　伝えられているのですか？\n　ぜひ　僕に　お聞かせください！": "D'ailleurs, Sensei Asbal, quelles poesies sont\ntransmises dans votre pays natal ? J'aimerais\nbeaucoup que vous me les racontiez !"
+    },
+    "251801": {
+        "「……それでは\n　亡き母が　愛していた　古い詩を……。": "Alors, je vais reciter le vieux poeme que ma\ndefunte mere aimait tant..."
+    },
+    "251804": {
+        "「星が…消え去ろうとも　君に……": "Meme si les etoiles… venaient a disparaitre, a\ntoi…"
+    },
+    "251805": {
+        "「……花が枯れ　星が消え去ろうとも\n　君に捧げし　この心　変わらず。": "…Meme si les fleurs se fanent et que les\netoiles disparaissent, mon coeur, que je t'ai\noffert, restera inchange."
+    },
+    "251806": {
+        "「どうして　知ってるんだ！？": "どうして知ってるんだ！？"
+    },
+    "251807": {
+        "「い　痛い……。": "Aie... Ca fait mal..."
+    },
+    "251808": {
+        "「お願いだっ　教えてくれ！\n　どこで　この詩を　知ったんだ！？": "Je t'en prie, dis-le-moi ! Ou as-tu entendu ce\npoeme ?"
+    },
+    "251809": {
+        "「この詩は……ゼクレスのお城で　聞いたのよ。": "Ce poeme... je l'ai entendu au chateau de\nZekres."
+    },
+    "251810": {
+        "「オジャロスさんの部屋に　置いてあった\n　水槽の中の魔物が　この詩だけ\n　ずっと　くちずさんでいたの……。": "La creature dans l'aquarium de la chambre de\nOjalos-san murmurait sans cesse ce poeme..."
+    },
+    "251811": {
+        "「……オーディス王子。\n　急用ができましたので\n　今日の授業は　これで終わりにします。": "......Prince Odis. Une affaire urgente est\nsurvenue, donc nous allons conclure le cours\nd'aujourd'hui ici."
+    },
+    "251812": {
+        "「どうしたのです　アスバル先生。\n　お身体の具合でも……？": "Que se passe-t-il, Asbal sensei ? Vous ne vous\nsentez pas bien... ?"
+    },
+    "251813": {
+        "「僕は　故郷へ帰るよ。\n　どうしても　帰らなきゃいけないんだ……。": "Je retourne chez moi. Je dois absolument\nrentrer..."
+    },
+    "251814": {
+        "「お願いだ。君たちも　ゼクレスに来てくれ。\n　オジャロス叔父上のもとで　会おう。": "Je t'en prie. Venez aussi a Zekles.\nRetrouvons-nous aupres de l'oncle Ojalos."
+    },
+    "251815": {
+        "「待ってください！　アスバル先生っ！！": "Attendez, s'il vous plait ! Asbal-sensei !!"
+    },
+    "251816": {
+        "「……事情は　よくわからないけど\n　アスバル先生が　心配だ。": "Je ne comprends pas bien la situation, mais je\nsuis inquiet pour Asbal-sensei."
+    },
+    "251817": {
+        "「先生のことは　僕から　母上に伝えておく。\n　君は　先生の後を追ってくれ。\n　……頼んだよ。": "Je vais informer ma mere au sujet de sensei.\nToi, suis sensei. ...Je compte sur toi."
+    },
+    "251818": {
+        "「やーっと　魔界へ帰ってきたわね！\n　ほんっと　アンタってば　のろまなんだから。": "Enfin, nous sommes de retour dans le monde des\ndemons ! Tu es vraiment lent, tu sais."
+    },
+    "251819": {
+        "「で？　魔王アスバルは　どこ？\n　ちゃんと　連れ戻してきたんでしょうね。": "Alors ? Ou est le Roi-Demon Asbal ? Tu l'as\nbien ramene, n'est-ce pas ?"
+    },
+    "251820": {
+        "「ここ……オジャロスさんの部屋で\n　会おうって　言ってたわ。": "Ici... Ojalos-san avait dit de se retrouver\ndans sa chambre."
+    },
+    "251821": {
+        "「よくやったわ　ほめてあげる。\n　それじゃ　私に　ついてきなさい<heart>": "Bien joue, je te felicite. Maintenant,\nsuis-moi<heart>"
+    },
+    "251822": {
+        "「シリル……いいえ　魔王アスバル様。\n　ベラストル家　当主　リンベリィが\n　お見舞いに　参りました。": "Cyril... non, Seigneur Asbal le Roi Demon.\nLord Linberry de la famille Honey Stole est\nvenu vous rendre visite."
+    },
+    "251823": {
+        "「……君たち　すまないが　帰ってくれ。": "Je suis desole, mais vous devez partir."
+    },
+    "251824": {
+        "「どうして？\n　あなたが　ここに来てって　言ったのに。": "Pourquoi ? C'est toi qui m'as demande de venir\nici."
+    },
+    "251825": {
+        "「ハァァァ！？\n　アンタたち　いつの間に　そんな仲に……！": "Haaa !? Vous etes devenus si proches depuis\nquand... !"
+    },
+    "251826": {
+        "「おやおや……。\n　若い　お嬢さんたちに\n　ずいぶん人気なんだねえ　アスバル。": "Oh la la... Tu es vraiment populaire aupres\ndes jeunes demoiselles, Asbal."
+    },
+    "251827": {
+        "「ベラストル家のお嬢様と\n　そちらは……おお　魔瘴の巫女どのでしたな。\n　みなさま　ご機嫌うるわしゅう。": "Mademoiselle de la famille Honey Strohl, et\nvous etes... oh, la pretresse du miasme,\nn'est-ce pas. Mesdames et messieurs, je vous<br>salue avec respect."
+    },
+    "251828": {
+        "「彼女たちは　僕とは　関係ありません！！": "Herたちは 僕とは 関係ありません！！ Herたちは n'ont rien a voir\navec moi !!"
+    },
+    "251829": {
+        "「なっ……！": "Quoi... !"
+    },
+    "251830": {
+        "「……さきほど　ご相談した通り\n　ゼクレスの王位は　叔父上に　ゆずります。\n　ですから　これ以上　他人を巻き込むのは……": "Comme je vous l'ai mentionne precedemment, je\ncederai le trone de Zekres a mon oncle. Donc,\nil n'est plus necessaire d'impliquer d'autres<br>personnes..."
+    },
+    "251831": {
+        "「王位を　ゆずるですって！？\n　どうして　そんな　バカなことを\n　言い出すのよっ！": "Tu parles de ceder le trone !? Pourquoi dis-tu\nune chose aussi insensee !"
+    },
+    "251832": {
+        "「王家の血を引いていない　オジャロスには\n　王位継承権は　存在しないはず。\n　そもそも　アナタが生きてるのに　どうして！？": "Ojalos, qui ne possede pas le sang royal, ne\ndevrait pas avoir de droit a la succession du\ntrone. D'ailleurs, alors que vous etes<br>toujours en vie, pourquoi !?"
+    },
+    "251833": {
+        "「とにかく　決めたんだ……。\n　王位は　オジャロス叔父上に　ゆずり\n　僕は　ゼクレスで　一生を　静かに送ると。": "En tout cas, j'ai pris ma decision... Je vais\nceder le trone a mon oncle Ojalos et passer le\nreste de ma vie tranquillement a Zekres."
+    },
+    "251834": {
+        "「……行きましょう　叔父上。\n　王位交代の宣誓の日取りについて\n　臣下たちを集めて　相談しなくては。": "… Allons-y, oncle. Nous devons rassembler les\nvassaux et discuter de la date pour la\nceremonie de passation du trone."
+    },
+    "251835": {
+        "「おお　そうだったねえ。": "Oh, c'est vrai."
+    },
+    "251836": {
+        "「さてさて　お嬢さんたち。\n　我々は　これから　大切な用があるのでね。\n　今日のところは　お帰りいただけませんか？": "Eh bien, mesdemoiselles. Nous avons une\naffaire importante a regler maintenant. Pour\naujourd'hui, pourriez-vous rentrer chez vous ?"
+    },
+    "251837": {
+        "「言われなくたって　帰るわよっ！\n　二度と　こんなトコ　来るもんですか！": "Je n'avais pas besoin qu'on me le dise, je\nrentre chez moi ! Je ne remettrai plus jamais\nles pieds dans un endroit pareil !"
+    },
+    "251838": {
+        "「これは　返してもらうわよッ！！": "Je vais te le reprendre !!"
+    },
+    "251839": {
+        "リンベリィは　<pc>から\nしもべの証を　取り上げた！": "Linberry a pris la Preuve du Serviteur a\n<pc> !"
+    },
+    "251840": {
+        "「魔瘴の巫女どの　それでは　ご機嫌よう。": "Pretresse du Miasme, que la fortune soit avec\nvous."
+    },
+    "251841": {
+        "「………………。": ""
+    },
+    "251842": {
+        "アスバルは　別れ際に\n<pc>に　メモを渡していった……。": "Asbal a remis un memo a <pc> avant de\npartir..."
+    },
+    "251843": {
+        "<center>僕の店の　大きな箱の中にある書物\n『古秘術大全　４巻』の１１章の内容を　実行し\n店まで　戻ってきてくれ。　　　　　　アスバル": "Dans le grand coffre de ma boutique, execute\nle contenu du chapitre 11 du livre 『Old 秘術大全\n４巻』 et reviens au magasin. Asbal"
+    },
+    "251844": {
+        "「アスバルの店……って　城下町にある\n　あの骨董品店　六大陸堂が　そうなのね。\n　行ってみましょう。": "La boutique d'Asbal... c'est bien celle qui se\ntrouve dans la ville basse, cette boutique\nd'antiquites appelee Rokutairikudou, n'est-ce<br>pas ? Allons-y."
+    },
+    "251845": {
+        "「……店の中に　潜んでいる者は　いない。\n　今のところ　叔父には\n　気づかれていないようだね……。": "Il n'y a personne cache dans le magasin. Pour\nl'instant, il semble que mon oncle ne se soit\npas rendu compte de notre presence"
+    },
+    "251846": {
+        "「それで　無事に　リドのタリスマンは\n　手に入れてきてくれたかい？": "Alors, as-tu reussi a obtenir le Talisman de\nLido en toute securite ?"
+    },
+    "251847": {
+        "<pc>は　アスバルに\nリドのタリスマンを　渡した！": "<pc> a remis le Talisman de Lido a Asbal\n!"
+    },
+    "251848": {
+        "「……よしっ！\n　これで　母上を　助けられるぞ！": "…Bien ! Avec ca, je vais pouvoir sauver Mere !"
+    },
+    "251849": {
+        "「何も　事情を説明しないまま\n　協力してもらって　すまなかった……。": "Je suis desole de t'avoir demande de cooperer\nsans t'expliquer la situation..."
+    },
+    "251850": {
+        "「城の　叔父の部屋にあった　水槽……\n　あの中にいた　魔物を　覚えてるかい？": "Le bassin dans la chambre de mon oncle au\nchateau... Te souviens-tu du monstre qui y\netait ?"
+    },
+    "251851": {
+        "「お城で　ずっと　詩を　くちずさんでいた\n　あの　魔物のこと……？": "Tu parles de ce monstre qui fredonnait des\npoemes au chateau...?"
+    },
+    "251852": {
+        "<center>はてなき空　はてなき時　めぐりめぐる千の星\nひとつの花　ひとつの声　地に満ちる　千の生命": "Un ciel sans fin, un temps infini, mille\netoiles qui tournent et tournent Une fleur,\nune voix, mille vies qui remplissent la terre"
+    },
+    "251853": {
+        "<center>うつろう空　過ぎゆく時\n花が枯れ　星が消え去ろうとも\n君に捧げし　この心　変わらず": "Ciel changeant, temps qui passe Meme si les\nfleurs se fanent et les etoiles disparaissent\nMon coeur, dedie a toi, restera inchange."
+    },
+    "251854": {
+        "<center>ああ　愛しき人よ　信じておくれ\n我が心を燃やす　この愛を……": "Ah, ma bien-aimee, crois-moi, Cet amour qui\nembrase mon coeur..."
+    },
+    "251855": {
+        "「あの魔物は……\n　僕の母　王太后エルガドーラなんだ。": "Cet etre malefique... c'est ma mere, la reine\ndouairiere Elgadora."
+    },
+    "251856": {
+        "「でも……お母さんは　死んだはずじゃ？": "Mais... Maman n'etait-elle pas censee etre\nmorte ?"
+    },
+    "251857": {
+        "「僕も　詩歌の遺跡で\n　君たちと　再会するまでは　そう思っていた。": "Moi aussi, jusqu'a ce que je vous retrouve aux\nRuines de la Poesie, je pensais la meme chose."
+    },
+    "251858": {
+        "「けれど　あの古い詩は\n　母が　子守唄がわりに　聞かせてくれた\n　……僕と母以外　知るはずがない詩。": "Cependant, ce vieux poeme, ma mere me le\nchantait comme une berceuse... Un poeme que\npersonne d'autre que ma mere et moi ne devrait<br>connaitre."
+    },
+    "251859": {
+        "「……急ぎ　魔界へ戻った僕が　問い詰めると\n　オジャロスは　うれしそうに教えてくれたよ。": "Lorsque je suis retourne precipitamment dans\nle monde des demons pour l'interroger, Ojalos\nm'a repondu avec un air joyeux."
+    },
+    "251860": {
+        "「よく　あの変わり果てた姿に　気づいたねえ。\n　アスバル。\n　親子の愛とは　まこと　美しいものだ。": "Tu as bien remarque cette apparence\nmeconnaissable. Asbal. L'amour parental est\nvraiment quelque chose de beau."
+    },
+    "251861": {
+        "「……そうとも。\n　瀕死の状態だった　エルガドーラ姉上を\n　この私が　助けて差し上げたのだよ。": "C'est exact. J'ai sauve ma soeur Elgadora qui\netait dans un etat critique."
+    },
+    "251862": {
+        "「魔力が尽きて　抜けガラ同然になった\n　姉上の身体を……\n　新しい生命として　再構成したのさ。": "Le corps de ma soeur ainee, epuise de toute\nmagie et devenu une coquille vide... Je l'ai\nreassemble en une nouvelle vie."
+    },
+    "251863": {
+        "「……みじめで　下等な　魔物の姿にね。": "...Dans l'apparence miserable et inferieure\nd'un monstre."
+    },
+    "251864": {
+        "「もし　君のような強い魔力が　あったなら\n　姉上を　元の姿に　戻せたかもしれないが\n　あいにく生まれつき　出来が悪いものでねえ。": "Si seulement j'avais eu une puissante magie\ncomme la tienne, j'aurais peut-etre pu rendre\na ma soeur son apparence d'origine. Mais<br>malheureusement, je suis ne avec un talent\nmediocre."
+    },
+    "251865": {
+        "「私の魔力では　変わり果てた姉上を\n　生かしておくだけで　精一杯。": "Avec ma magie, je ne peux qu'a peine garder ma\nsoeur ainee en vie dans cet etat change."
+    },
+    "251866": {
+        "「ああ……残念だねえ。\n　君が　部屋に閉じこもっていなければ\n　姉上の再構成を　手伝ってもらえたのに。": "Ah... quel dommage. Si tu n'etais pas reste\nenferme dans ta chambre, tu aurais pu aider a\nla reconstitution de ma grande soeur."
+    },
+    "251867": {
+        "「だが……考えてごらん。アスバル。\n　君にとっては　これで　よかったのさ。": "Mais... reflechis un peu. Asbal. Pour toi,\nc'etait mieux ainsi."
+    },
+    "251868": {
+        "「今の姉上は　獣も同然。まともな知能のない\n　食べて　眠るだけの生き物だ。": "Actuellement, ma soeur ainee est comme une\nbete. Une creature sans intelligence, qui ne\nfait que manger et dormir."
+    },
+    "251869": {
+        "「つまり　君は　もう　支配されない！": "Autrement dit, tu ne seras plus controle !"
+    },
+    "251870": {
+        "「おめでとう　アスバル！\n　これからは　親子　仲むつまじく\n　幸せな日々を　送れるよ……。": "Felicitations, Asbal ! Desormais, tu pourras\nvivre des jours heureux en harmonie avec ton\nenfant..."
+    },
+    "251871": {
+        "「……あの魔物を　ひとめ見て　わかった。\n　叔父の言葉は　真実なのだと。": "En voyant ce monstre, j'ai compris d'un seul\ncoup d'oeil. Les paroles de mon oncle etaient\nbien vraies."
+    },
+    "251872": {
+        "「だが……あいつは\n　ひとつだけ　嘘をついている。": "Mais... il y a un mensonge qu'il a dit."
+    },
+    "251873": {
+        "「嘘……？": "Un mensonge... ?"
+    },
+    "251874": {
+        "「かつて　母エルガドーラは\n　身につけた者の意思をあやつる\n　魔法の首輪で　僕を　支配していた。": "Autrefois, ma mere Elgadora me controlait a\nl'aide d'un collier magique qui manipulait la\nvolonte de celui qui le portait."
+    },
+    "251875": {
+        "「あれに　使われていたのと\n　同じ宝石が　水槽の中の　母上にも……。": "La meme gemme qui a ete utilisee pour cela...\nest aussi dans l'aquarium de Mere..."
+    },
+    "251876": {
+        "「今の母に　知能がないなんて　嘘だ。\n　でなければ　あの宝石を使う必要がない。": "Il est impossible que ma mere n'ait plus\nd'intelligence. Sinon, elle n'aurait pas\nbesoin d'utiliser ce joyau."
+    },
+    "251877": {
+        "「……君たちに頼んだ　タリスマンがあれば\n　オジャロスの　支配の術を　打ち消せる。\n　母を　解き放てるんだ！": "Avec le talisman que je vous ai demande, nous\npourrons annuler le sort de controle de\nOjalos. Nous pourrons liberer ma mere !"
+    },
+    "251878": {
+        "「……今でも　母のことは　許せないさ。\n　だが　いくらなんでも\n　オジャロスの仕打ちは　ひどすぎる。": "Meme maintenant, je ne peux pas pardonner a ma\nmere. Cependant, quoi qu'il en soit, le\ntraitement d'Ojalos est vraiment trop cruel."
+    },
+    "251879": {
+        "「……オジャロスは　自分が　王位につく瞬間を\n　痛ましい姿になった母……エルガドーラに\n　見せてやるのだと　言っていた。": "Ojalos disait qu'il voulait montrer a sa mere,\nElgadora, qui etait dans un etat deplorable,\nle moment ou il monterait sur le trone."
+    },
+    "251880": {
+        "「もっとも　オジャロスが油断する瞬間……\n　王位譲渡の儀式に集まった民の前で\n　やつの罪を追及し　母を　助けるつもりだ。": "Le moment ou Ojalos baissera sa garde... Lors\nde la ceremonie de succession au trone, devant\ntous les citoyens rassembles, je compte<br>exposer ses crimes et sauver ma mere."
+    },
+    "251881": {
+        "「リンベリィに協力をあおぎ　王位交代の宣誓に\n　潜入してくれ。そして　僕が　合図したら\n　騒ぎを起こすよう　彼女に　伝えてほしい。": "Je veux que tu demandes l'aide de Linberry\npour infiltrer la ceremonie de serment pour le\nchangement de roi. Et lorsque je te fais<br>signe, informe Her de creer une diversion."
+    },
+    "251883": {
+        "「ほまれ高き　ゼクレス魔導国の民よ！": "O peuple honorable de Zechres !"
+    },
+    "251884": {
+        "「さきの大戦で　勝利をもたらすどころか\n　みなに　痛手を与えてしまったことは\n　ひとえに　我が　不徳の致すところである！": "Lors de la derniere grande guerre, au lieu\nd'apporter la victoire, j'ai cause de grandes\nsouffrances a tous. Cela est entierement du a<br>mon manque de vertu !"
+    },
+    "251885": {
+        "「……私　魔王アスバルは\n　偉大なるゼクレスの王には　ふさわしくない。": "Je suis le Roi-Demon Asbal, et je ne suis pas\ndigne d'etre le grand roi de Zekres."
+    },
+    "251886": {
+        "「よって　今日　この日。\n　もっとも　ゼクレスの玉座に\n　ふさわしき者に　王位を　譲渡せんと思う！": "Ainsi, en ce jour, je souhaite transmettre le\ntrone a celui qui est le plus digne de sieger\nsur le trone de Zekres !"
+    },
+    "251887": {
+        "「……いくわよ<heart>": "...Allons-y <heart>"
+    },
+    "251888": {
+        "「おやおや　魔瘴の巫女どのも\n　この良き日に　駆けつけてくださるとは。\n　まことに　光栄ですなあ。": "Oh oh, la pretresse du miasme malefique est\nvenue nous honorer de sa presence en ce jour\nspecial. C'est vraiment un honneur."
+    },
+    "251889": {
+        "「……僕が　呼んだのです。叔父上。": "C'est moi qui vous ai appele, oncle."
+    },
+    "251890": {
+        "「リンベリィの幻術で　他の者には\n　僕たちの会話は　聞こえていません……。\n　ですから　率直に　話しましょう。": "Avec l'illusion de Linberry, notre\nconversation n'est entendue par personne\nd'autre... Alors, parlons franchement."
+    },
+    "251891": {
+        "「母に　かけた術を　解いてください！": "S'il vous plait, liberez ma mere du sortilege\nque vous lui avez jete !"
+    },
+    "251892": {
+        "「その宝石で　母の意識を　支配し\n　醜い魔物の肉体に　封じていることは\n　わかっています。": "Je sais que ce joyau controle l'esprit de ma\nmere et l'emprisonne dans le corps d'un\nmonstre hideux."
+    },
+    "251893": {
+        "「……あなたには　恩もある。\n　今すぐ　母を元に戻し　この国から退くならば\n　罪を問うことは　しません。": "Je vous dois une dette. Si vous rendez ma mere\na son etat normal et quittez ce pays\nimmediatement, je ne vous tiendrai pas rigueur<br>de vos actes."
+    },
+    "251894": {
+        "「母上と　あなたは　あんなにも\n　仲が良い姉弟だったでは　ありませんか！": "N'etiez-vous pas des freres et soeurs si\nproches, vous et notre mere ?"
+    },
+    "251895": {
+        "「お願いです　オジャロス叔父上！\n　母を……\n　エルガドーラを　元に　戻してください！": "Je vous en prie, oncle Ojalos ! Rendez a ma\nmere... Rendez a Elgadora sa forme originelle\n!"
+    },
+    "251896": {
+        "「やれやれ……。\n　何を　言い出すかと思えば　困ったねえ。": "Eh bien, eh bien... Je me demande ce que tu\nvas dire apres ca. Quelle situation\nembarrassante."
+    },
+    "251897": {
+        "「姉上はもう　元の姿には　戻らない。\n　……残念ながら　これは　真実なんだ。\n　アスバル。": "姉上はもう 元の姿には 戻らない 残念ながら これは T. 実なんだ Asbal"
+    },
+    "251898": {
+        "「姉上は　幼い頃から　美しかった……。\n　姉とは似ても似つかぬ　私は\n　じつの親からも　あざけられ　軽んじられたよ。": "Ma soeur ainee etait belle depuis son plus\njeune age... Moi, qui ne lui ressemble en\nrien, j'ai ete moquee et meprisee meme par mes<br>propres parents."
+    },
+    "251899": {
+        "「あの　誇り高き姉上に\n　ご自慢の美貌も　魔力も失った\n　今の　ご自分の姿は　耐え難かろう……。": "Pour ma fiere soeur ainee, il doit etre\ninsupportable de se voir maintenant, ayant\nperdu a la fois sa beaute et sa puissance<br>magique tant vantees..."
+    },
+    "251900": {
+        "「だからこそ　私は　術を　かけたのだよ。\n　姉上が　何も考えず　生きていけるようにね。": "C'est precisement pour cela que j'ai lance ce\nsort. Pour que ma soeur puisse vivre sans se\nsoucier de rien."
+    },
+    "251901": {
+        "「姉上の知能を　獣同然に\n　封じているのは　むしろ　私の　優しささ。": "C'est plutot ma gentillesse qui scelle\nl'intelligence de ma soeur, la rendant\nsemblable a une bete."
+    },
+    "251902": {
+        "「優しさだと！？\n　言うに　ことかいて……っ！": "De la gentillesse, tu dis !? Comment\noses-tu... !"
+    },
+    "251903": {
+        "「叔父上！\n　もう　母をもてあそぶのは　やめてください！\n　でなければ　僕にも　考えがあります！": "Oncle ! Arretez de jouer avec ma mere ! Sinon,\nj'ai aussi mes propres idees !"
+    },
+    "251904": {
+        "「……交渉は　決裂のようね。": "... On dirait que les negociations ont echoue."
+    },
+    "251905": {
+        "「アスバル！　集まったみんなに\n　コイツの正体を　ブチまけてやりなさいっ！": "Asbal ! Revele a tout le monde ici la\nveritable identite de cet individu et\ntransperce-le avec ta lance !"
+    },
+    "251906": {
+        "「みんな　聞いてくれ！": "Tout le monde, ecoutez-moi !"
+    },
+    "251907": {
+        "「ここにいる　オジャロスは\n　卑劣な企みで　母エルガドーラを　陥れ\n　国に背きし　大逆人だ！": "Ici present, Ojalos est un traitre qui, par\nses manigances infames, a piege sa mere\nElgadora et trahi notre nation !"
+    },
+    "251908": {
+        "「ゼクレス魔導国が　魔王の名において\n　オジャロスの爵位を　剥奪！\n　永久に　国外追放とする！！": "Au nom du Seigneur des Tenebres, Zechres, le\ntitre de noblesse d'Ojalos est revoque ! Il\nest banni a jamais du royaume !!"
+    },
+    "251909": {
+        "「…………？": "......?"
+    },
+    "251910": {
+        "「魔界でも　屈指の魔力を誇る　お前に……\n　私が　なんの備えも　していないとでも\n　思っていたのかね？": "Meme dans le royaume demoniaque, toi qui es\nrepute pour ton immense pouvoir magique... Tu\npensais vraiment que je n'avais pris aucune<br>precaution ?"
+    },
+    "251911": {
+        "「……いけないっ！": "...C'est impossible !"
+    },
+    "251912": {
+        "「さすがは　魔瘴の巫女どの……。\n　まこと　すさまじきチカラだ。": "Comme on pouvait s'y attendre de la pretresse\ndu miasme... C'est une force veritablement\nredoutable."
+    },
+    "251913": {
+        "「きゃああっ！？": "Kyaaa !?"
+    },
+    "251914": {
+        "「おお　かわいそうな　アスバル！\n　聞き分けがないばっかりに\n　死ななければ　ならないとはねえ……。": "Oh, pauvre Asbal ! Il doit mourir simplement\nparce qu'il n'a pas voulu ecouter..."
+    },
+    "251915": {
+        "「お前が死んだら　姉上と　同じ姿にして\n　かわいがってやろう！\n　ほおーれ　かかっておいで！": "Si tu meurs, je te rendrai aussi adorable que\nma soeur ainee et je te cherirai ! Allez, viens\nte battre !"
+    },
+    "251916": {
+        "「……そんなことは　させるものか！\n　<cs_pchero>も　チカラを貸してくれ。\n　オジャロス。お前を　倒してみせる！": "Je ne te laisserai pas faire ca ! <cs_pchero>,\nprete-moi ta force. Ojalos. Nous allons te\nvaincre !"
+    },
+    "251917": {
+        "「母上……！　すぐに　お助けします！": "Mere... ! Je vais vous aider tout de suite !"
+    },
+    "251918": {
+        "アスバルは　魔物になったエルガドーラに\nリドのタリスマンを　使った！": "Asbal utilise le talisman de Lido sur\nElgadora, qui s'est transforme en monstre !"
+    },
+    "251919": {
+        "「………………？": "？"
+    },
+    "251920": {
+        "「良かった……！　術は　成功だ！": "Ouf... ! Le sort a reussi !"
+    },
+    "251921": {
+        "「ばかめ……。すべては　手遅れだ！": "Imbecile... Tout est deja trop tard !"
+    },
+    "251922": {
+        "「姉上の肉体を　再生するときに\n　ちょっとした　仕掛けを　しておいたのさ。": "Quand j'ai regenere le corps de grande soeur,\nj'ai ajoute une petite ruse."
+    },
+    "251923": {
+        "「その女の身体は　すでに　爆弾と化した！\n　自らの愛した国も　城も　みな\n　己のチカラで　灰燼に帰すのだ！": "Le corps de cette femme est deja devenu une\nbombe ! Le pays qu'elle aimait, ainsi que le\nchateau, tout retournera en cendres par sa<br>propre force !"
+    },
+    "251924": {
+        "「なんだって……！？": "Quoi...!?"
+    },
+    "251925": {
+        "「アスバル。お前の魔力なら\n　あるいは　解呪できるかもしれんが……\n　さあて　何日かかるかなぁ？": "Asbal. Avec ta puissance magique, tu pourrais\npeut-etre lever cette malediction... Mais je\nme demande combien de jours cela prendra..."
+    },
+    "251926": {
+        "「ああ。もうひとつ　方法はあったなあ……。\n　愛しい母上を殺せば　ゼクレスを守れるよ。": "Ah. Il y avait une autre facon, n'est-ce\npas... En tuant ma chere mere, je pourrais\nproteger Zekres."
+    },
+    "251927": {
+        "「王として　母を殺すか！\n　息子として　国を道連れに　滅び去るか！\n　お前の　望む未来を　選ぶがよい！！": "Choisis donc ton avenir ! En tant que roi,\nvas-tu tuer ta propre mere ? Ou bien, en tant\nque fils, entraineras-tu ton royaume vers sa<br>ruine ?"
+    },
+    "251928": {
+        "「……う……ん……。": "…Hm…"
+    },
+    "251929": {
+        "「母上！　僕です……アスバルです！！": "Mere ! C'est moi... Asbal !!"
+    },
+    "251930": {
+        "「今から　あなたの肉体を　爆弾に変えた術を\n　僕が　解呪します……。\n　必ずや　お助けしますから　ご安心を……": "Je vais maintenant lever le sort qui a\ntransforme votre corps en bombe. Je vous\nassure que je vais vous aider, alors soyez<br>tranquille..."
+    },
+    "251931": {
+        "「アスバル……この　愚か者めが！": "Asbal espece d'imbecile !"
+    },
+    "251932": {
+        "「……母上？": "...Mere ?"
+    },
+    "251933": {
+        "「高貴なる　ゼクレス王家の血を引きながら\n　大魔王にもなれず　オジャロスごときに\n　後れを取るとは　なんたる役立たず！": "Bien que tu descendes de la noble lignee\nroyale de Zekles, tu n'as meme pas pu devenir\nle Grand Roi Demon et tu es surpasse par<br>quelqu'un comme Ojalos. Quel bon a rien !"
+    },
+    "251934": {
+        "「……もはや　親でも　子でもない。": "......Nous ne sommes plus ni parents, ni\nenfants."
+    },
+    "251935": {
+        "「アスバル！\n　お前など　産むのではなかったわ！": "Asbal ! Je n'aurais jamais du te mettre au\nmonde !"
+    },
+    "251936": {
+        "「こ……こんな時まで\n　あなたは　憎まれグチを……っ！": "Jusqu'a un moment pareil, tu continues a\nlancer des piques... !"
+    },
+    "251937": {
+        "「はーっはっは！　母親が　憎いだろう！？\n　さあ　怒りのままに\n　その女を　たたき潰すがいい！！": "Ha-ha-ha ! Tu dois hair ta mere, n'est-ce pas\n!? Allez, laisse-toi emporter par ta colere et\necrase cette femme !!"
+    },
+    "251938": {
+        "「ア…ガアアア…アァアアア……！！": "A... Gaaah... Aaaaah... !!"
+    },
+    "251939": {
+        "<center>それでいい……": "Ca ira comme ca..."
+    },
+    "251940": {
+        "<center>ゼクレスを　頼んだぞ\n我が息子……\nいや　魔王アスバルよ……": "Je compte sur toi, Zekres, mon fils... Non,\nSeigneur Demon Asbal..."
+    },
+    "251941": {
+        "「………………。": ""
+    },
+    "251942": {
+        "「……あなたは　王として生きることを\n　初めて　自分の意志で　選んだのね。": "...C'est la premiere fois que tu choisis de\nvivre en tant que roi de ton propre gre."
+    },
+    "251943": {
+        "「ほら……。\n　あなたの民が　王を　待っているわ。": "Regarde... Ton peuple attend son roi."
+    },
+    "251944": {
+        "「ほまれ高き　ゼクレス魔導国の民よ！": "O peuple honorable de Zechres !"
+    },
+    "251945": {
+        "「王位を奪わんと　策謀をめぐらした\n　大逆人オジャロスは　この　魔王自身の手で\n　断罪したゆえ　安心してほしい！": "Le traitre Ojalos, qui a conspire pour usurper\nle trone, a ete juge par la main meme du Roi\nDemon. Soyez rassures !"
+    },
+    "251946": {
+        "「これまで　私の　ふがいなさゆえに\n　みなに　苦労をさせてしまった。\n　……ゼクレスの王として　心から詫びよう。": "Jusqu'a present, a cause de mon incompetence,\nj'ai cause beaucoup de souffrances a vous\ntous. ...En tant que roi de Zecles, je vous<br>presente mes sinceres excuses."
+    },
+    "251947": {
+        "「私は　ここに　誓う！": "Je jure ici !"
+    },
+    "251948": {
+        "「亡き母　エルガドーラが愛した\n　この　ゼクレスを……\n　我が生涯をかけて　守り　導いていくと！": "Je protegerai et guiderai ce Zekres, que ma\ndefunte mere Elgadora aimait tant, de toute\nmon existence !"
+    },
+    "251949": {
+        "「……僕の母は\n　炎のように　激しく　美しい人だった。": "...Ma mere etait une femme belle et passionnee\ncomme le feu."
+    },
+    "251950": {
+        "「母は　誇り高い人だ。あんな姿になったとは\n　誰にも　知られたくないだろう……。\n　あの魔物の正体は　内密にしてほしい。": "Ma mere est une personne fiere. Elle ne\nvoudrait que personne ne la voie dans cet\netat... Je vous demande de garder secrete la<br>veritable nature de ce monstre."
+    },
+    "251951": {
+        "「………………。": ""
+    },
+    "251952": {
+        "「ゼクレスのために　母が　おこなったことの\n　すべてが　正しかったとは思えないけれど……": "Je ne pense pas que tout ce que ma mere a fait\npour Zekres etait juste, mais..."
+    },
+    "251953": {
+        "「それでも……僕や　叔父よりも\n　あの人は　ずっと\n　この国のことを　愛していたと思う。": "Et pourtant... je pense que cette personne\naimait ce pays bien plus que mon oncle ou moi."
+    },
+    "251954": {
+        "「僕が　アストルティアに憧れたのは\n　母のいない世界で　暮らしたい……\n　そんな　逃避の気持ちからだった。": "Je suis attire par Astoltia parce que je\nvoulais vivre dans un monde sans ma mere...\nC'etait un desir d'evasion."
+    },
+    "251955": {
+        "「死んだ父さんが　赤ん坊だった僕を\n　連れていこうとしたという\n　自由の地　アストルティア……": "Le pays de la liberte, Astoltia... ou mon pere\ndecede avait essaye de m'emmener quand j'etais\nencore un bebe..."
+    },
+    "251956": {
+        "「アストルティアでなら　何もかも　上手くいく。\n　きっと幸せになれるんだと　信じてた。": "Dans Astoltia, tout ira bien. Je croyais\nfermement que je pourrais y etre heureux."
+    },
+    "251957": {
+        "「もし　きちんと　母と向き合っていれば。\n　叔父の　うわべだけの優しさを　疑っていれば\n　そうしたら　母は……。": "Si seulement j'avais fait face a ma mere\ncorrectement. Si j'avais remis en question la\nfausse gentillesse de mon oncle, alors ma mere<br>aurait..."
+    },
+    "251958": {
+        "「僕は　もう　逃げないよ。": "Je ne fuirai plus."
+    },
+    "251959": {
+        "「ゼクレス魔導国の　魔王として\n　僕は　この国で　生きていく。\n　……かつて　母が愛した　大切な故郷で。": "En tant que Seigneur des Tenebres de Zechres,\nje vivrai dans ce pays. ...Dans cette\nprecieuse patrie que ma mere a autrefois<br>aimee."
+    },
+    "251960": {
+        "「二度と　ゼクレスの民の血は　流させない。\n　そのためには　魔界全体が\n　平和でなくては　ならないんだ。": "Plus jamais le sang du peuple de Zekres ne\nsera verse. Pour cela, tout le monde des\ndemons doit etre en paix."
+    },
+    "251961": {
+        "「バルディスタや　ファラザードとも\n　かなうなら　和平を結びたい。\n　……君たちも　どうか　協力してくれ。": "J'aimerais conclure la paix avec Baldista et\nFarazard si possible. ...Je vous demande votre\naide, a vous aussi."
+    },
+    "251962": {
+        "「アスバル……。\n　あなたの決心　すごく　立派だと思うわ。": "Asbal... Je pense que ta determination est\nvraiment admirable."
+    },
+    "251963": {
+        "「君たちには　本当に　世話になったね。\n　ゼクレス魔導国の　魔王として\n　礼を　言わせてもらうよ。": "Vous m'avez vraiment beaucoup aide. En tant\nque Roi Demon de Zechres, je tiens a vous\nremercier."
+    },
+    "251964": {
+        "「それじゃ　また会おう。\n　これからのゼクレスは　開かれた国にしていく。\n　いつでも　立ち寄ってくれ。": "Alors, a la prochaine. Dorenavant, je vais\nfaire de Zekres un pays ouvert. N'hesite pas a\npasser quand tu veux."
+    },
+    "251965": {
+        "「……そうそう　ベラストル家のリンベリィ。\n　君にも　礼を言わなくてはならなかった。\n　感謝しているよ。では。": "...... Ah oui, Linberry de la famille\nHoneystle. Je dois aussi te remercier. Je suis\nreconnaissant. Alors, a bientot."
+    },
+    "251966": {
+        "「……ハァアアアアア！？": "…Quoiiiiiii !?"
+    },
+    "251967": {
+        "「シリルなんて　偽名を使って　私に近づいて！\n　さんざん　コキ使ったあげくに\n　なんなの　アスバルの　あの態度ッ！？": "Cyril a utilise le nom de F. pour s'approcher\nde moi ! Apres m'avoir exploitee sans\nvergogne, quelle est cette attitude d'Asbal ?!"
+    },
+    "251968": {
+        "「リンベリィ　落ち着いて……？": "Linberry, calme-toi..."
+    },
+    "251969": {
+        "「うっるさあーーーーい！！": "Silenceeeeeeez-vous !!"
+    },
+    "251970": {
+        "「……なるほどね。私に恋していると\n　みんなの前で　認められないから\n　あんな　強がりを　言ったってわけね。": "…Je vois. Donc, tu as dit ces mots bravaches\nparce que tu ne pouvais pas admettre devant\ntout le monde que tu es amoureux de moi."
+    },
+    "251971": {
+        "「見てなさい！　こうなったら\n　絶対に　アスバルを　私の魅力で\n　メロメロにして　ひざまずかせてやるッ！！": "Regarde bien ! Dans ce cas-la, je vais\nabsolument envouter Asbal avec mon charme et\nle faire tomber a genoux !"
+    },
+    "251972": {
+        "「もぉ～ッ　ムカツクぅ～ッ！！": "Mince alors ! Ca m'enerve !!"
+    },
+    "252363": {
+        "「今の　この国で　信頼できるのは\n　君たちしかいないんだ。\n　……どうか　頼んだよ。": "Dans ce pays actuellement, vous etes les seuls\nen qui j'ai confiance. ...Je compte sur vous,\ns'il vous plait."
+    },
+    "255011": {
+        "「アスバルからの熱い視線は　感じていたわ。": "Je sentais le regard intense d'Asbal sur moi."
+    },
+    "257316": {
+        "「だが……奥の手は　これからだよ！": "Mais... mon atout, c'est maintenant que je\nvais le reveler !"
+    },
+    "258628": {
+        "「まさか……！？": "Impossible... !?"
+    },
+    "258629": {
+        "「さきほど　退位すると　宣言したのは\n　反逆者を油断させるための　罠である！": "Ce que j'ai declare plus tot sur mon\nabdication n'etait qu'un piege pour tromper\nles traitres !"
+    },
+    "258630": {
+        "ゼクレス魔導国の問題を　解決できたので\n次は　バルディスタ要塞へ　向かおう。": "Ayant resolu le probleme de Zechres,\ndirigeons-nous maintenant vers la Forteresse\nValdista."
+    },
+    "258631": {
+        "ゼクレス魔導国と　バルディスタ要塞\n双方の問題を　解決できたので\nゴダ神殿にいる　魔仙卿に報告しに行こう！": "Zechres et Fortress Valdista Les problemes des\ndeux cotes ont ete resolus, allons en faire le\nrapport a The Oracle au temple de Goda !"
+    },
+    "258949": {
+        "<cs_pchero>は\nリドのタリスマン（だいじなもの）を\n手に入れた！<me 60>": "<cs_pchero> a obtenu le Talisman de Lido\n(objets cles) ! <me 60>"
+    },
+    "261033": {
+        "<center>はてなき空　はてなき時　めぐりめぐる千の星\nひとつの花　ひとつの声　地に満ちる　千の生命": "Un ciel sans fin, un temps infini, mille\netoiles qui tournent et tournent Une fleur,\nune voix, mille vies qui remplissent la terre"
+    },
+    "261034": {
+        "<center>うつろう空　過ぎゆく時\n花が枯れ　星が消え去ろうとも……": "Le ciel changeant, le temps qui passe, Meme si\nles fleurs se fanent et que les etoiles\ns'eteignent..."
+    },
+    "261156": {
+        "<pc>は\nアスバルのメモ（だいじなもの）を\n手に入れた！<me 60>": "<pc> a obtenu la Note d'Asbal (objets\ncles) ! <me 60>"
+    }
+}

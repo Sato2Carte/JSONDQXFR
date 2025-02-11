@@ -1,0 +1,704 @@
+{
+    "91150": {
+        "「おお　<pc>殿。\n　遠い所を呼びつけて　すまなかった。\n　さあ　こちらへ。": "Oh, <pc>-dono. Je suis desole de t'avoir\nfait venir de si loin. Allez, par ici."
+    },
+    "91151": {
+        "「久しぶりだな　<pc>君。\n　元気そうで　何よりだ。": "Ca fait longtemps, <pc>-kun. Je suis\nvraiment heureux de te voir en forme."
+    },
+    "91152": {
+        "「おっと　すまない。\n　僕だ。こんな格好だが　オーディスだよ。": "Oh, desole. C'est moi. Je sais que je suis\nhabille comme ca, mais c'est bien Audis."
+    },
+    "91153": {
+        "「……こんな格好で　悪かったな。": "… Desole pour cette apparence."
+    },
+    "91154": {
+        "「ああ　失礼……。\n　君の服のことを　悪く言ったわけじゃないんだ。\n　気にさわったのなら　謝ろう。": "Ah, pardonne-moi... Je ne voulais pas dire du\nmal de tes vetements. Si cela t'a offense, je\nm'excuse."
+    },
+    "91155": {
+        "「ふん……。別に　気にしちゃいないさ。": "Hmm... Je ne m'en fais pas vraiment."
+    },
+    "91156": {
+        "「ふたりとも　そこまでだ。\n　<pc>殿には　わらわから　説明しよう。": "Vous deux, arretez-vous la. Je vais moi-meme\nexpliquer la situation a <pc>-dono."
+    },
+    "91157": {
+        "「グランドタイタス号で　アンルシア姫と\n　ラグアス王子が　さらわれた事件……。\n　そなたも　忘れてはおるまい。": "L'incident ou la princesse Anlucia et le\nprince Raguas ont ete enleves a Grand Titus...\nTu ne l'as certainement pas oublie."
+    },
+    "91158": {
+        "「あの時　ふたりを誘拐した者は\n　あと　４人……という言葉を　残していった。\n　そして　犯人の狙いは　各国の王位を継ぐ者…。": "A ce moment-la, celui qui a kidnappe les deux\na laisse derriere lui les mots : Il en reste\nquatre.... Et la cible du criminel est ceux<br>qui heriteront des trones de chaque royaume..."
+    },
+    "91159": {
+        "「わらわの推測が　正しければ\n　我が息子オーディスが　その４人の中に\n　含まれていると　考えられるのだ……。": "Si mes suppositions sont correctes, je pense\nque mon fils, Odyss, fait partie de ces quatre\npersonnes..."
+    },
+    "91160": {
+        "「ヴェリナード王国には　魔法戦士団\n　衛士団という　優秀な戦力が存在するが\n　彼らには　それぞれ　重要な任務がある。": "Le royaume de Velinard dispose de forces\nd'elite, les guerriers-mages et la garde,\nchacun ayant des missions importantes a<br>accomplir."
+    },
+    "91161": {
+        "「そこで　ひとつの策を　講じることにした。\n　しばらくの間　オーディスの影武者を\n　立てようと思うのだ。": "C'est pourquoi j'ai decide de mettre en place\nune strategie. Pendant un certain temps, je\ncompte utiliser un double pour Odysseus."
+    },
+    "91162": {
+        "「いやあ　オーディスと　見た目が近くて\n　その上で　ウデの立つ者を探すのは\n　本当に　苦労して……": "Ah, il a ete vraiment difficile de trouver\nquelqu'un qui ressemble a Odis et qui soit\naussi competent..."
+    },
+    "91163": {
+        "「オレの紹介なら　不要だぜ。\n　<pc>とは　ガキの頃からの\n　付き合いなんでね。": "Pas besoin de me presenter. Je connais\n<pc> depuis qu'on est gamins, apres\ntout."
+    },
+    "91164": {
+        "「オレの紹介なら　不要だぜ。\n　こいつとは　ちょっとした　知り合いなんだ。": "Pas besoin de me presenter. Lui et moi, on se\nconnait un peu."
+    },
+    "91165": {
+        "「<pc>は　気づいてるよな？\n　そうだ　オレだよ。ヒューザだ。": "<pc>, tu as remarque, n'est-ce pas ?\nOui, c'est moi. Hyuza."
+    },
+    "91166": {
+        "「なんとっ！　ふたりは　知り合いだったか。\n　偶然というのは　あるものだなあ……。": "Quoi ! Vous vous connaissiez tous les deux ?\nLe hasard fait bien les choses..."
+    },
+    "91167": {
+        "「ならば　話は早い。\n　そなたには　影武者となったヒューザの護衛役を\n　しばらくの間　頼みたいのだ。": "Dans ce cas, allons droit au but. J'aimerais\nte confier la tache de proteger Hyuza, qui\njouera le role de ton double, pour un certain<br>temps."
+    },
+    "91168": {
+        "「オレは　イヤだって　言ったんだぜ。\n　でもよ。女王さま直々の頼みじゃ\n　どうやったって　断りきれねえだろ……。": "J'ai dit que je ne voulais pas, tu sais. Mais\nbon. Quand c'est une demande directe de la\nreine, on ne peut vraiment pas refuser,<br>n'est-ce pas...?"
+    },
+    "91169": {
+        "「それに　オレに釣られて\n　ノコノコと出てきた誘拐犯を　捕まえるのも\n　面白いんじゃねえかと思ってな。": "De plus, je me suis dit que ce serait amusant\nde capturer le kidnappeur qui sortirait\nimprudemment apres avoir ete attire par moi."
+    },
+    "91170": {
+        "「……母上。言われるままに\n　ヒューザ君と　入れ替わってみましたが\n　やはり　この策には　賛同できません。": "Mere. J'ai echange ma place avec Hyuza-kun\ncomme demande, mais je ne peux vraiment pas\napprouver ce plan."
+    },
+    "91171": {
+        "「僕のために　他人の命を危険にさらすなんて\n　とても　耐えられないのです！！": "Je ne peux absolument pas supporter l'idee de\nmettre la vie d'autrui en danger pour moi !!"
+    },
+    "91172": {
+        "「王を目指すことを決めた　お前の命は\n　もはや　お前ひとりのものではない。\n　ヴェリナードの民　すべての物だ。": "En decidant de viser la couronne, ta vie ne\nt'appartient plus uniquement. Elle appartient\ndesormais a tous les habitants de Velinard."
+    },
+    "91173": {
+        "「うっ……。それは　そうですが……。": "Ooh... C'est vrai, mais..."
+    },
+    "91174": {
+        "「……わかりました。それなら　僕は\n　旅人の振りをして　城内を歩いてみます。\n　王子と気づかれないか　試さなくては。": "...Tres bien. Dans ce cas, je vais me faire\npasser pour un voyageur et me promener dans le\nchateau. Il faut que je verifie si je ne suis<br>pas reconnu comme le prince."
+    },
+    "91175": {
+        "「いいだろう。城内なら　危険はあるまい。\n　正体がバレぬよう　気をつけるのだぞ。": "Tres bien. Tant que tu restes dans le chateau,\nil ne devrait pas y avoir de danger. Fais\nattention a ne pas reveler ta veritable<br>identite."
+    },
+    "91176": {
+        "「……むおっ！？\n　そういえば　今日は　オーディスの歌の先生が\n　城に　来る日ではなかったか？": "…Muo !? Maintenant que j'y pense, n'etait-ce\npas aujourd'hui que le professeur de chant\nd'Odys vient au chateau ?"
+    },
+    "91177": {
+        "「……む。たしかに　今日だったな。\n　このまま　ヒューザに行ってもらうのは\n　さすがに　無理があるか……。": "Hmm. C'est vrai, c'etait aujourd'hui. Envoyer\nHyuza dans cet etat serait vraiment\nimpossible..."
+    },
+    "91178": {
+        "「<pc>殿。すまぬが\n　オーディスの部屋へ行き　しばらくの間\n　歌の先生の相手を　してもらえぬだろうか。": "<pc>-dono. Pardonne-moi, mais\npourrais-tu te rendre dans la chambre d'Odysse\net tenir compagnie a son professeur de chant<br>pendant un moment ?"
+    },
+    "91179": {
+        "「わらわたちが　王家の者の振る舞いを\n　ヒューザに教える時間を　稼いでほしいのだ。\n　よろしく頼む。": "Nous avons besoin de gagner du temps pour\nenseigner a Hyuza les manieres de la famille\nroyale. Je compte sur toi."
+    },
+    "91180": {
+        "「オーディスの部屋は　２階の東側にあるぞ。\n　歌の先生は　もう来ているかもしれんから\n　急いで　向かってくれ！": "La chambre d'Odysseus se trouve a l'est du\ndeuxieme etage. Le professeur de chant est\npeut-etre deja arrive, alors depeche-toi d'y<br>aller !"
+    },
+    "91217": {
+        "「……そもそも　歌というのは\n　歌い手の声質が　まずは重要でしてねぇ。\n　リズムに乗るとかは　その後の話なんですねぇ。": "Avant tout, le chant repose sur la qualite de\nla voix du chanteur. Le rythme, c'est une\nquestion qui vient apres."
+    },
+    "91218": {
+        "「はあ。そうですか……。\n　私には　よく　わかりませんけど。": "Haa. Je vois... Je ne comprends pas tres bien,\nmais bon."
+    },
+    "91219": {
+        "「いやあ　あなたは　なかなか\n　よい声質をしておられますよぉ。\n　私のもとで　修行してみては　いかがですぅ？": "Eh bien, vous avez vraiment une tres belle\nvoix. Que diriez-vous de vous entrainer sous\nma tutelle ?"
+    },
+    "91220": {
+        "「おやあ？　王子さまが　いらしたのかと\n　思いましたが　ちがったようですねぇ。": "Oh ? J'ai cru que c'etait le prince qui\narrivait, mais il semble que je me sois\ntrompe."
+    },
+    "91221": {
+        "「おっと。私は　バリトーという者でしてねぇ。\n　お城の王子さまに　歌を教えてほしいと\n　女王さま直々に　頼まれているんですよぉ。": "Oh. Je suis Barito. La reine m'a\npersonnellement demande d'enseigner le chant\nau prince du chateau."
+    },
+    "91222": {
+        "「ですが　肝心の王子さまが　一向に現れず\n　ヒマを持て余していたところでしてねぇ。": "Cependant, le prince tant attendu ne se montre\ntoujours pas, et nous etions completement\ndesoeuvres."
+    },
+    "91223": {
+        "「……そうですねぇ。せっかくですから\n　あなたにも　タメになる　私の話を\n　聞かせてさしあげましょうかねぇ。": "...Eh bien, puisque vous etes la, laissez-moi\nvous raconter une histoire qui pourrait vous\netre utile."
+    },
+    "91224": {
+        "<pc>は　バリトーのうんちくを\nうんざりするほど　たっぷりと　聞かされた！": "<pc> a du ecouter longuement les\nanecdotes ennuyeuses de Barito !"
+    },
+    "91225": {
+        "「…………というわけなんですねぇ。": "......Voila comment cela se passe, n'est-ce\npas ?"
+    },
+    "91226": {
+        "「おおっ。オーディス王子さま。\n　お待ちしておりましたよぉ。\n　歌をお教えしに参りました　バリトーですぅ。": "Oh ! Prince Odis-sama. Je vous attendais. Je\nsuis Barito, venu vous enseigner le chant."
+    },
+    "91227": {
+        "「や…やあ　これは　これは。\n　僕のために　わざわざ　来ていただき\n　ありがとうございます　バリトー……殿。": "Ah... ah, bonjour, bonjour. Merci beaucoup\nd'etre venu specialement pour moi, Barito...\ndono."
+    },
+    "91228": {
+        "「いえいえぇ。いずれ　恵みの歌をお唄いになる\n　次期国王さまに　私ごときが　お教えできるなど\n　光栄の至りでございますぅ。": "Non, non ! C'est un immense honneur pour moi\nde pouvoir enseigner a celui qui deviendra le\nprochain roi et qui chantera la chanson de la<br>benediction."
+    },
+    "91229": {
+        "「では　さっそく　レッスンと参りましょうかぁ。\n　まずは　発声練習から　いきますよぉ。": "Alors, commencons la lecon sans plus tarder.\nNous allons d'abord faire des exercices de\nvocalisation."
+    },
+    "91230": {
+        "「う………………。": "Ouh..."
+    },
+    "91231": {
+        "「おやぁ？　どうしたのです？\n　さあ　私に続いて\n　まいまいテイルも　まみむめもっ！": "Oh ? Que se passe-t-il ? Allez, suivez-moi.\nSnaily Tail, et aussi mamimumemo !"
+    },
+    "91232": {
+        "「ごほっ　ごほっ……。申し訳ない。\n　ちょっと　風邪気味のようで……。": "*Cough cough...* Je suis desole. Il semble que\nj'ai attrape un petit rhume..."
+    },
+    "91233": {
+        "「風邪くらいで　レッスンをやめていては\n　うまくなど　なれないんですよぉ。\n　ほら　まいまいテイルも　まみむめもっっ！": "Ce n'est pas en arretant la lecon pour un\nsimple rhume que tu deviendras bon, tu sais.\nAllez, Snaily Tail, ma mi mu me mo !"
+    },
+    "91234": {
+        "「くっ…………。\n　とにかく　カンベンしてくれ！": "Argh... De toute facon, epargne-moi !"
+    },
+    "91235": {
+        "「むぉっ？　私のレッスンから　逃げるなんて\n　王子さまといえども　許しませんよぉ！": "Quoi ? Vous pensez pouvoir fuir mes lecons ?\nMeme un prince ne sera pas pardonne !"
+    },
+    "91236": {
+        "「こらーっ　お待ちなさぁーい！！": "Hey, attendez-moi !!"
+    },
+    "91237": {
+        "「……王子さま　どうしたんでしょうか？\n　風邪をひいたなんて　聞いてませんし\n　お客さまに　あのような態度を取るなんて……。": "Que se passe-t-il avec le prince ? Je n'ai pas\nentendu dire qu'il avait attrape un rhume, et\nadopter une telle attitude envers les<br>invites..."
+    },
+    "91238": {
+        "「でも　あの先生に教わるのがイヤで\n　城のどこかに　逃げ込んだのかもしれません。\n　私も　あの先生は　ちょっと……。": "Mais peut-etre qu'il s'est enfui quelque part\ndans le chateau pour eviter de prendre des\nlecons avec ce professeur. Moi aussi, ce<br>professeur, je le trouve un peu..."
+    },
+    "91239": {
+        "「ああ　<cs_pchero>か……。\n　さっきは　カッコ悪いとこを見せちまったな。\n　じつは　オレさ……": "ああ, <cs_pchero>... Je t'ai montre un cote peu\nreluisant tout a l'heure. En fait, je..."
+    },
+    "91240": {
+        "「なんだ　こいつらは！？": "Qu'est-ce que c'est que ces types-la !?"
+    },
+    "91241": {
+        "「どうやら　囲まれちまったようだ……。\n　王族を誘拐したってやつの　差し金か？": "Il semblerait que nous soyons encercles...\nEst-ce un coup monte par celui qui a enleve la\nfamille royale ?"
+    },
+    "91242": {
+        "「………………。": ""
+    },
+    "91243": {
+        "「ちっ……。しかたねえな。\n　オレたちで　やっちまおうぜ　<cs_pchero>。\n　そっちにいるのは　まかせたからな！": "Tch... Pas le choix. On va s'en charger,\n<cs_pchero>. Je compte sur toi pour ceux qui\nsont la-bas !"
+    },
+    "91244": {
+        "「………………！！": "！！"
+    },
+    "91245": {
+        "「おい　<cs_pchero>　何してやがる。\n　さっさと　こっちへ来て　加勢してくれっ！！": "Hey, <cs_pchero> ! Qu'est-ce que tu fais ?\nViens vite par ici et donne-nous un coup de\nmain !!"
+    },
+    "91246": {
+        "「………………！！": "！！"
+    },
+    "91247": {
+        "「紙切れみたいのが　魔物に化けてたようだが\n　こんな術は　見たことがねえな……。": "On dirait qu'un morceau de papier s'est\ntransforme en monstre, mais je n'ai jamais vu\nune telle technique auparavant..."
+    },
+    "91248": {
+        "「はぁ　はぁ……。王子さまぁ。\n　やっと　見つけましたよぉ！": "Haa, haa... Prince-sama. Je vous ai enfin\ntrouve !"
+    },
+    "91249": {
+        "「ちっ……。": "Tch..."
+    },
+    "91250": {
+        "「この私から　逃げだすなんてぇ……。\n　これは　ちょっと　ハードなレッスンを\n　受けていただく必要が　ありますねぇ。": "Oser s'echapper de moi... Il semble qu'une\npetite lecon difficile soit necessaire."
+    },
+    "91251": {
+        "「ふむ。せっかく　ここまで来たんですし\n　そこのバルコニーで　国民の皆さんを前に\n　唄っていただくことに　しましょうかぁ！": "Hum. Puisque vous etes venus jusqu'ici,\npourquoi ne pas chanter devant tout le peuple\nsur ce balcon ?"
+    },
+    "91252": {
+        "「……そっ　そんなのムリに決まってんだろ！\n　本当に　カンベンしてくれよ。\n　逃げたことは　謝るからさ……。": "C'est evident que c'est impossible ! S'il te\nplait, accorde-moi un peu de clemence. Je\nm'excuse d'avoir fui..."
+    },
+    "91253": {
+        "「今さら　謝っていただいても　遅いのですぅ。\n　グズグズしてるのは　男らしくないですよぉ。\n　さあ　キリキリと　唄ってもらいましょお！": "Il est trop tard pour des excuses maintenant.\nHesiter n'est pas tres viril, vous savez.\nAllez, chantez-nous une petite chanson !"
+    },
+    "91254": {
+        "「……わかった。そこまで言うなら　唄おう。\n　だが　どうなっても　責任は取らないぜ？": "...D'accord. Si tu insistes tant, je vais\nchanter. Mais je ne prends aucune\nresponsabilite pour ce qui pourrait arriver,<br>d'accord ?"
+    },
+    "91262": {
+        "「<pc>……。\n　理由は　よくわからんが　どうも\n　ヒューザを　怒らせてしまったようだ。": "<pc>... Je ne sais pas trop pourquoi,\nmais il semble que j'ai mis Hyuza en colere."
+    },
+    "91263": {
+        "「すまんが　彼を探してきてもらえんか？\n　ワシよりも　気心の知れた　そなたが\n　迎えにいったほうが　よいだろう。": "Je suis desole, mais pourrais-tu aller le\nchercher ? Tu le connais mieux que moi, alors\nce serait mieux que tu ailles l'accueillir."
+    },
+    "91264": {
+        "「ワシらは　食事を終えたら　女王の間に戻る。\n　ヒューザを見つけたら　そっちに来るよう\n　伝えてほしい。頼んだぞ。": "Nous retournerons dans la chambre de la reine\nune fois notre repas termine. Si tu trouves\nHyuza, dis-lui de venir nous rejoindre. Je<br>compte sur toi."
+    },
+    "91265": {
+        "「……<pc>殿。\n　無理を言って　すまないが\n　遺跡の調査の件　よろしく頼む。": "......<pc>-dono. Je suis desole de te\ndemander cela, mais je te confie la mission de\nl'exploration des ruines."
+    },
+    "91266": {
+        "「私は　王子が心配です……。\n　王子の格好をしていないのを　いいことに\n　これまで以上に　無茶をするのでは……。": "Je suis inquiet pour le prince... Ne va-t-il\npas faire encore plus de folies maintenant\nqu'il ne porte plus ses habits de prince ?"
+    },
+    "91267": {
+        "「な～に。今のオーディスなら　大丈夫だ。\n　自分の命が　自分だけの物ではないと\n　知っているのだからな！": "Nah, avec Odysseus tel qu'il est maintenant,\nca ira. Il sait que sa vie ne lui appartient\nplus seulement a lui !"
+    },
+    "91268": {
+        "「……だが　誘拐犯の正体に加え\n　封じられた魔物の存在も　不明なのだ。\n　充分　気をつけてくれ　<pc>。": "...... Cependant, en plus de l'identite du\nravisseur, l'existence du monstre scelle est\negalement inconnue. Sois tres prudent,<br><pc>."
+    },
+    "91269": {
+        "「ジュレイダ連塔遺跡は　ジュレットの町の\n　北側から入れる　ジュレー島下層の奥にある。\n　そなたも　すぐに　向かってくれ。": "Les Ruines de la Tour de Juleida se trouvent\nau fond de l'ile de Lower Jule, accessible\ndepuis le cote nord de Julet. Toi aussi,<br>dirige-toi la-bas immediatement."
+    },
+    "91271": {
+        "「……<pc>殿。ジュレイダ連塔遺跡で\n　何があったかは　オーディスより　聞いた。": "<pc>-dono. J'ai entendu de Odis ce qui\ns'est passe aux Ruines de la Tour Juleida."
+    },
+    "91272": {
+        "「オーディスの影武者が　狙われた以上\n　誘拐犯の狙いは　王家の者ということで\n　まちがいないだろう。": "Il ne fait aucun doute que, puisque le sosie\nd'Odyss a ete pris pour cible, l'intention des\nravisseurs est de viser un membre de la<br>famille royale."
+    },
+    "91273": {
+        "「そなたの友人を　巻き込んでしまい\n　申し訳なく　思っている。\n　できる限りのことは　させてもらいたい。": "Je suis desole d'avoir implique ton ami. Je\nvoudrais faire tout ce que je peux pour aider."
+    },
+    "91274": {
+        "「遺跡に現れた男の情報を　収集するよう\n　あらためて　魔法戦士団には　通達してある。\n　何か　わかったら　連絡が来るはずだ。": "\n遺跡にP.れた男の情報を収集するよう、あらためて魔法戦士団には通達してある何かわかったら連絡が来るはずだ"
+    },
+    "91275": {
+        "「なんとしても　誘拐犯の足取りを\n　つかまねばならぬ……。": "Nous devons absolument retrouver la trace des\nravisseurs..."
+    },
+    "91276": {
+        "「失礼いたします。\n　王立魔法戦士団　副団長ユナティ。\n　女王ディオーレ様に　ご報告に参りました。": "Je vous prie de m'excuser. Je suis Unaty,\nvice-commandant de la Brigade Royale des\nGuerriers Magiciens. Je suis venu faire un<br>rapport a Queen Diore sama."
+    },
+    "91277": {
+        "「ご苦労　ユナティ。\n　例の男の件　情報が　つかめたのだな？": "Bon travail, Unaty. Tu as reussi a obtenir des\ninformations sur cet homme, n'est-ce pas ?"
+    },
+    "91278": {
+        "「はっ。ドワチャッカ大陸にて　いくつか\n　不審な男の目撃情報が　確認されました。": "Ha. Des informations ont confirme la presence\nde plusieurs hommes suspects sur le continent\nde Dwachakka."
+    },
+    "91279": {
+        "「いずれも　ウデにヘビを巻きつけた男が\n　ドルワーム王国の近辺において\n　目撃されているとの　報告です。": "Un homme avec un serpent enroule autour de son\nbras a ete signale aux alentours des Royaumes\nde Dolworm."
+    },
+    "91280": {
+        "「……そうか。こちらに現れた誘拐犯と\n　同一人物である可能性が　高いな。\n　引き続き　情報収集を頼むぞ。": "Je vois. Il est fort probable que ce soit la\nmeme personne que le kidnappeur mentionne ici.\nContinuez a rassembler des informations, s'il<br>vous plait."
+    },
+    "91281": {
+        "「はっ！　おまかせください。": "Ha ! Laissez-moi faire."
+    },
+    "91282": {
+        "「<pc>殿。話は聞いていたな。\n　ヒューザをさらった誘拐犯は\n　次に　ドルワーム王国を　狙っているようだ。": "<pc>-dono. Tu as entendu parler,\nn'est-ce pas? Il semble que les ravisseurs qui\nont enleve Hyuza ciblent ensuite les Royaumes<br>de Dolworm."
+    },
+    "91283": {
+        "「じつは先刻　ドルワーム王国の使者が来てな。\n　ウラード国王が　そなたに　直々に\n　頼みたいことがあると　告げていった。": "En fait, un emissaire des Royaumes de Dolworm\nest venu plus tot. Le roi Woolard a dit qu'il\navait quelque chose a te demander<br>personnellement."
+    },
+    "91284": {
+        "「この誘拐犯がらみと見て　まちがいなかろう。\n　すぐに　ドルワーム王国へ向かってくれ。\n　そして　誘拐犯を捕えてほしいのだ。": "Il ne fait aucun doute que cela est lie au\nkidnappeur. Rendez-vous immediatement aux\nRoyaumes de Dolworm. Et j'aimerais que vous<br>capturiez le kidnappeur."
+    },
+    "91285": {
+        "「だが　その前に　ここまでの働きに報いるため\n　報酬を用意させてもらった。\n　受け取ってくれるか　<pc>殿。": "Mais avant cela, pour recompenser tes efforts\njusqu'ici, j'ai prepare une recompense.\nL'accepteras-tu, <pc>-dono ?"
+    },
+    "91288": {
+        "「<pc>君　僕も行くぞ！\n　ヒューザ君は　僕の身代わりになったんだ。\n　危険な目にあわせたまま　放っておけない！": "<pc>-kun, je viens aussi avec toi !\nHyuza-kun s'est sacrifie pour moi. Je ne peux\npas le laisser en danger comme ca !"
+    },
+    "91289": {
+        "「……落ち着け　オーディス。\n　ヒューザが　お前の影武者となったのは\n　なんのためなのか　よく考えろ。": "......Calme-toi, Odis. Reflechis bien a la\nraison pour laquelle Hyuza est devenu ton\ndouble."
+    },
+    "91290": {
+        "「<pc>にとっても\n　ヒューザは　大切な友人のはずだ。\n　ここは　まかせるべきではないか？": "Pour <pc>, Hyuza est aussi un ami\nprecieux. Ne devrions-nous pas lui faire\nconfiance ici ?"
+    },
+    "91291": {
+        "「くっ……。<pc>君……。\n　本当に　すまない…………。": "Argh... <pc>-kun... Je suis vraiment\ndesole..."
+    },
+    "91292": {
+        "「誘拐犯を捕らえることができれば\n　ヒューザだけでなく　アンルシア姫や\n　ラグアス王子の行方も　わかるはずだ。": "Si nous parvenons a capturer le ravisseur,\nnous devrions non seulement decouvrir ce qu'il\nest advenu de Hyuza, mais aussi retrouver la<br>trace de la Princesse Anlucia et du Prince\nRaguas."
+    },
+    "91293": {
+        "「重ねて　そなたのチカラを\n　借りることになってしまい　心苦しいが\n　どうか　よろしく頼む　<pc>殿。": "Je ressens un certain regret de devoir a\nnouveau solliciter ton aide, mais je compte\nsur toi, <pc>-dono."
+    },
+    "91505": {
+        "「<pc>殿。遠慮は不要だ。\n　そなたも　席に着くがよい。": "<pc>-dono. Inutile de te montrer\nreserve. Prends place, toi aussi."
+    },
+    "91506": {
+        "「よいな？　ヒューザには　影武者として\n　食事の席でのマナーも　覚えてもらうぞ。": "Compris ? Hyuza devra egalement apprendre les\nbonnes manieres a table en tant que sosie."
+    },
+    "91507": {
+        "「まあ　オーディスのマナーも\n　決して　ホメられたものじゃないからな。\n　変に　気負わなくてもいいぞ。": "Eh bien, les manieres d'Odys ne sont pas\nvraiment exemplaires non plus. Alors, ne te\nmets pas trop de pression."
+    },
+    "91508": {
+        "「そんなことありませんよ　父上。\n　僕のマナーは　カンペキですから！": "Ce n'est pas vrai, Pere. Mon savoir-vivre est\nparfait !"
+    },
+    "91509": {
+        "「わはははっ　そうか　そうか。\n　なら　いいんだがなあ。": "Wahaha, c'est bon ca, c'est bon. Tant mieux\nalors."
+    },
+    "91510": {
+        "「……あの　すみません。\n　せっかくのお料理が　冷めてしまいますし\n　お話は　そのくらいにしては……。": "...Euh, excusez-moi. Votre plat risque de\nrefroidir, alors peut-etre devrions-nous\nmettre fin a cette conversation..."
+    },
+    "91511": {
+        "「うむ　セーリアの言うとおりだ。\n　いただくとしよう。": "Hum, comme le dit Celia. Acceptons-le."
+    },
+    "91512": {
+        "「…………。": "."
+    },
+    "91513": {
+        "「ヒューザよ。いいかね？\n　ナイフとフォークの持ち方は　こうだ。\n　そして　使い方は　こう……。": "Hyuza, ecoute-moi bien. La facon de tenir le\ncouteau et la fourchette, c'est comme ca. Et\npuis, leur utilisation se fait ainsi..."
+    },
+    "91514": {
+        "メルー公は　ヒューザに　食事のマナーを\nあれやこれやと　教えていった。": "Lord Meru enseignait a Hyuza les bonnes\nmanieres a table, lui donnant divers conseils\na ce sujet."
+    },
+    "91515": {
+        "<pc>は　ヴェリナードの王族たちと\n豪華な料理を　楽しんだ。": "<pc> a profite d'un somptueux repas en\ncompagnie de la famille royale de Vellinard."
+    },
+    "91516": {
+        "「…………。": "."
+    },
+    "91517": {
+        "「む……。どうしたというのだ。\n　食事が　気に入らなかったのか？": "Hmm... Qu'est-ce qui se passe ? Le repas ne\nt'a pas plu ?"
+    },
+    "91518": {
+        "「いえ。たいへん　おいしかったですよ。\n　私には　よく　わかりませんが\n　何か　怒っていらしたような……。": "Non. C'etait vraiment delicieux. Je ne\ncomprends pas tres bien, mais vous sembliez en\ncolere..."
+    },
+    "91519": {
+        "「ふむ……。ワシの教えかたが\n　何か　まずかったのかも　しれんな。\n　とにかく　放ってはおけまい。": "Hum... Peut-etre que ma methode d'enseignement\nn'etait pas la bonne. Quoi qu'il en soit, je\nne peux pas laisser ca comme ca."
+    },
+    "91520": {
+        "「<pc>……。\n　理由は　よくわからんが　どうも\n　ヒューザを　怒らせてしまったようだ。": "<pc>... Je ne sais pas trop pourquoi,\nmais il semble que j'ai mis Hyuza en colere."
+    },
+    "91521": {
+        "「すまんが　彼を探してきてもらえんか？\n　ワシよりも　気心の知れた　そなたが\n　迎えにいったほうが　よいだろう。": "Je suis desole, mais pourrais-tu aller le\nchercher ? Tu le connais mieux que moi, alors\nce serait mieux que tu ailles l'accueillir."
+    },
+    "91522": {
+        "「ワシらは　食事を終えたら　女王の間に戻る。\n　ヒューザを見つけたら　そっちに来るよう\n　伝えてほしい。頼んだぞ。": "Nous retournerons dans la chambre de la reine\nune fois notre repas termine. Si tu trouves\nHyuza, dis-lui de venir nous rejoindre. Je<br>compte sur toi."
+    },
+    "91523": {
+        "「……ああ　<pc>か。\n　また　カッコ悪いとこを見せちまったな。": "......Ah, c'est toi, <pc>. J'ai encore\nmontre un cote peu reluisant."
+    },
+    "91524": {
+        "「でもな……。どうしても\n　あそこにいるのに　耐えられなくてよ。\n　思わず　飛びだしちまったんだ。": "Mais tu sais... Je ne pouvais vraiment pas\nsupporter d'etre la-bas. Alors, sans\nreflechir, j'ai fini par m'enfuir."
+    },
+    "91525": {
+        "「家族で仲良く　お食事なんてさ……。\n　オレにゃあ　無縁のものだ。\n　ああいう雰囲気に　なじめねえんだよ。": "Partager un repas en famille dans\nl'harmonie... Ca ne fait pas partie de ma vie.\nJe ne me sens pas a l'aise dans ce genre<br>d'ambiance."
+    },
+    "91526": {
+        "「……オレは　親のカオも覚えてない。\n　物心ついたときには　じいさんと\n　ふたりだけで　暮らしてたからな。": "Je ne me souviens meme pas du visage de mes\nparents. Depuis que j'ai pris conscience de\nmoi-meme, je vivais seul avec mon grand-pere."
+    },
+    "91527": {
+        "「そのじいさんも　すぐに死んじまって\n　オレは　レーンの村の孤児院で\n　世話になることに　なったんだ。": "Ce vieil homme est mort peu de temps apres, et\nj'ai fini par etre pris en charge a\nl'orphelinat du village de Lane."
+    },
+    "91528": {
+        "「そのおかげで　お前や　アーシクとは\n　ダチになれたけどよ……。": "Grace a cela, j'ai pu devenir ami avec toi et\nAashik..."
+    },
+    "91529": {
+        "「王族の連中を見て　やっぱ　家族ってのは\n　それとは　別モンだなと　思っちまった。\n　オレらしくねえよな……。": "En observant la royaute, j'ai realise que la\nfamille, c'est vraiment quelque chose de\ndifferent. Ce n'est pas dans mes habitudes de<br>penser ainsi..."
+    },
+    "91530": {
+        "「……そういや　<pc>の\n　家族の話って　聞いたこと　なかったよな？": "… Maintenant que j'y pense, je n'ai jamais\nentendu parler de la famille de <pc>."
+    },
+    "91531": {
+        "「……いや。つまんねえこと聞いちまった。\n　今のは　忘れてくれ。": "…Non. J'ai pose une question idiote. Oublie ce\nque je viens de dire."
+    },
+    "91532": {
+        "「こんなことを　気にするなんて\n　オレらしくねえよな……。": "Ce n'est pas dans mes habitudes de m'inquieter\npour des choses comme ca..."
+    },
+    "91533": {
+        "「……なんでか　わかんねえが\n　お前にだけは　こんなことまで\n　ベラベラと　話しちまうんだよ……。": "Je ne sais pas pourquoi, mais avec toi, je\nfinis toujours par discuter de tout et de rien\navec HoneyHoney..."
+    },
+    "91534": {
+        "「さてと。晩さん会も　終わっちまっただろうし\n　さっさと　女王の間に戻るとするか。\n　やると言った以上　影武者役は果たさねえとな。": "Bon. Le banquet est termine, alors retournons\nrapidement dans la salle de la reine. Puisque\nj'ai dit que je le ferais, je dois jouer le<br>role du double."
+    },
+    "91535": {
+        "「お前も　護衛の仕事を　ちゃんとやれよ。\n　もう出番は　ないかもしれねえがな。ははっ！": "Toi aussi, fais bien ton travail de garde du\ncorps. Meme s'il n'y aura peut-etre plus\nbesoin de toi. Haha !"
+    },
+    "91536": {
+        "「<pc>殿。手間をかけた。\n　このとおり　ヒューザは戻ってきてくれたぞ。": "<pc> dono. Je te remercie pour tes\nefforts. Comme tu peux le voir, Hyuza est\nrevenu parmi nous."
+    },
+    "91537": {
+        "「途中退席したことを　謝ってくれてな。\n　オーディスの影武者の役も\n　このまま　続けてくれるとのことだ。": "Il s'est excuse d'avoir quitte en cours de\nroute. Il a aussi dit qu'il continuerait a\njouer le role du double d'Odys."
+    },
+    "91538": {
+        "「して　これからのことなのだが……": "Et maintenant, parlons de ce qui nous\nattend..."
+    },
+    "91539": {
+        "「失礼するであります！\n　王立調査団より　ご報告があるのであります！": "Je vous prie de m'excuser ! Nous avons un\nrapport a presenter de la part de l'expedition\nroyale !"
+    },
+    "91540": {
+        "「それは　急を要する報告か？\n　そうでなければ　後にしてほしいのだが。": "Est-ce un rapport urgent ? Si ce n'est pas le\ncas, j'aimerais que tu attendes."
+    },
+    "91541": {
+        "「それが　事と次第によっては\n　この王国……いや　ウェナ諸島全域に\n　新たな危険がおよぶ　可能性がありまして……。": "Cela pourrait, selon les circonstances, poser\nun nouveau danger non seulement a ce\nroyaume... mais a l'ensemble des iles Wena..."
+    },
+    "91542": {
+        "「……ならば　聞こう。\n　報告するがいい　エリーゴ調査員。": "...Dans ce cas, ecoute-moi. Fais ton rapport,\nDetective Eriego."
+    },
+    "91543": {
+        "「はっ！　先日より　開始されました\n　ジュレイダ連塔遺跡の調査にて\n　石版がひとつ　発見されたのであります。": "Ha ! Lors de l'enquete qui a debute il y a\nquelques jours sur les vestiges de la Tour\nJuleida, une tablette de pierre a ete<br>decouverte."
+    },
+    "91544": {
+        "「鑑定の結果　その素材は　未知の物と判明。\n　さらには　次のような文面が\n　表面に　刻まれていたのであります。": "D'apres l'evaluation, ce materiau s'est avere\netre une substance inconnue. De plus, le\nmessage suivant etait grave a sa surface."
+    },
+    "91545": {
+        "「……読み上げるであります。": "......Je vais lire a voix haute."
+    },
+    "91546": {
+        "「ヴェリナード王家の者のみが　開放しうる扉。\n　その向こうに　ひとつのツボが眠る。\n　大いなる恐怖が封じられし　真紅のツボなり。": "Seuls les membres de la famille royale de\nVelinard peuvent ouvrir cette porte. De\nl'autre cote, un Pot repose. C'est le Pot<br>cramoisi ou une grande terreur est scellee."
+    },
+    "91547": {
+        "「大いなる恐怖は　やがて　目を覚まし\n　すべての島が　海のもくずと化すであろう。\n　ウェナの歴史の終わる時　来たれり……と！": "Le grand effroi finira par s'eveiller, et\ntoutes les iles seront reduites a des debris\nmarins. Le temps de la fin de l'histoire de<br>Wena est arrive... !"
+    },
+    "91548": {
+        "「ふむ。何かの警告のようだが……。\n　まさか　その遺跡に　バサグランデのような\n　強大な魔物が　眠っているとでもいうのか？": "Hmm. Cela ressemble a un avertissement de\nquelque sorte... Mais serait-il possible\nqu'une creature aussi puissante que BasagLMPD<br>repose dans ces ruines ?"
+    },
+    "91549": {
+        "「確証はないであります。\n　しかし　遺跡の中には　多くのしかけがあり\n　奥へ進むことが　難しく……": "Il n'y a pas de preuve formelle pour le\nmoment. Cependant, il y a de nombreux\nmecanismes a l'interieur des ruines, rendant<br>l'avancee vers les profondeurs tres\ndifficile..."
+    },
+    "91550": {
+        "「王家の者にしか　開けられない扉も\n　あるとのことなので　それ以上の調査ができず\n　このように　報告にうかがった次第であります。": "Il parait qu'il existe des portes que seuls\nles membres de la famille royale peuvent\nouvrir. En consequence, nous n'avons pas pu<br>approfondir davantage nos recherches, et c'est\npourquoi je suis venu vous faire ce rapport."
+    },
+    "91551": {
+        "「なるほど。確証はないが\n　さりとて　捨て置くわけにもいかぬ……か。": "Je vois. Je n'ai pas de certitude, mais je ne\npeux pas non plus l'ignorer..."
+    },
+    "91552": {
+        "「この件は　こちらで対応を決める。\n　それまで調査は　一時中断しておけ。\n　報告　ご苦労だった　エリーゴ調査員。": "Cette affaire sera traitee de notre cote. En\nattendant, suspendez temporairement l'enquete.\nMerci pour votre rapport, Detective Eriego."
+    },
+    "91553": {
+        "「はいっ。失礼するであります！": "Oui ! Je m'excuse de vous deranger !"
+    },
+    "91554": {
+        "「母上！　これは　放ってはおけません。\n　僕が　調査団を連れて　調査に行きます！！": "Mere ! Nous ne pouvons pas laisser cette\nsituation ainsi. Je vais emmener une equipe et\npartir enqueter !"
+    },
+    "91555": {
+        "「……ヒューザが行っても　扉は開かんよな？\n　だからといって　その姿のオーディスが行ったら\n　影武者作戦が　みんなに　バレてしまうぞ。": "Meme si Hyuza y va, la porte ne s'ouvrira pas,\nn'est-ce pas ? Et si Audis dans cet etat y va,\nle stratageme du double sera decouvert par<br>tout le monde."
+    },
+    "91556": {
+        "「僕とヒューザ君が　一緒に行けばいいのです。\n　そうすれば　何も問題はありません！": "Moi et Hyuza-kun devrions y aller ensemble.\nAinsi, il n'y aura aucun probleme !"
+    },
+    "91557": {
+        "「しかし　石版に書かれた内容が本当で\n　危険な魔物が封じられていたら　なんとする！？\n　それに　例の王族を狙う賊のこともある。": "Cependant, si le contenu inscrit sur la\ntablette est vrai et qu'un dangereux monstre\nest scelle la, que ferons-nous !? De plus, il<br>y a aussi l'affaire des bandits qui ciblent la\nfamille royale."
+    },
+    "91558": {
+        "「父上。暴君バサグランデをも倒した英雄が\n　ここにいるのを　お忘れですか？\n　<pc>君にも　来てもらえばいいのです！": "Pere. Vous avez oublie qu'un heros qui a\nvaincu le Tyrant Bogan est ici ? Nous devrions\ndemander a <pc>-kun de venir aussi !"
+    },
+    "91559": {
+        "「誘拐犯が　現れたんなら\n　そこで　とっ捕まえちまえば　事件は解決。\n　こんな変装とも　おサラバできるってわけだ。": "Si le kidnappeur a ete attrape, l'affaire est\nresolue. On peut se debarrasser de ce\ndeguisement."
+    },
+    "91560": {
+        "「封じられた魔物のほうも　オレと\n　<pc>で　退治しちまえばいいしな。\n　本当にいるんなら……だが。": "Quant aux creatures scellees, <pc> et\nmoi pourrions les eliminer. Si elles existent\nvraiment... cela dit."
+    },
+    "91561": {
+        "「<pc>殿　行ってくれるか？\n　本当に　遺跡に　魔物が封じられているなら\n　その排除を　頼みたい。": "<pc>-dono, pourriez-vous y aller ? Si\ndes monstres sont vraiment scelles dans les\nruines, je vous confierais la tache de les<br>eliminer."
+    },
+    "91562": {
+        "「お願いだ　<pc>君。\n　状況を知っている君にしか　頼めないんだ。\n　僕たちも　すぐに準備をして　遺跡に向かう！": "Je t'en prie, <pc>-kun. Je ne peux\ncompter que sur toi, qui connais la situation.\nNous allons aussi nous preparer immediatement<br>et nous diriger vers les ruines !"
+    },
+    "91563": {
+        "「ジュレイダ連塔遺跡は　ジュレットの町の\n　北側から入れる　ジュレー島下層の奥にある。\n　君も　そこへ向かってくれ！": "Les Ruines de la Tour de Juleida se trouvent\nau fond de l'ile de Lower Jule, accessible par\nle cote nord de Julet. Toi aussi, dirige-toi<br>la-bas !"
+    },
+    "91564": {
+        "「ワシは　女王のそばを\n　離れるわけには　いかんのでな……。\n　頼んだぞ　<pc>。": "Je ne peux pas me permettre de quitter le cote\nde la reine... Je compte sur toi, <pc>."
+    },
+    "91565": {
+        "「おお　<pc>君。よく来てくれた。\n　それじゃ　さっそく……": "Oh, <pc>-kun. Merci d'etre venu. Alors,\nsans plus tarder..."
+    },
+    "91566": {
+        "「君は　僕の護衛だろう？\n　仕切るのは　やめてもらおうか。": "Tu es cense etre mon garde du corps, non ?\nAlors, pourrais-tu arreter de prendre les\ncommandes ?"
+    },
+    "91567": {
+        "「……あっ。これは　失礼しました。": "…Oh, je vous prie de m'excuser."
+    },
+    "91568": {
+        "「オーディス王子。\n　<pc>どのは　私も知っていますが\n　こちらの方は　どなたですか？": "Prince Odis. Je connais egalement\n<pc>-dono, mais qui est cette personne ?"
+    },
+    "91569": {
+        "「彼も　僕の護衛のひとりだ。\n　ウデも立つし　信頼できる男だから\n　君たちは　心配しなくていい。": "Il fait aussi partie de mes gardes du corps.\nIl est competent et digne de confiance, vous\nn'avez donc pas a vous inquieter."
+    },
+    "91570": {
+        "「では　石版にあった　王家の者にしか\n　開けられない扉とやらを　探すとしよう。\n　エリーゴ調査員　案内を頼む。": "Alors, cherchons cette fameuse porte que seuls\nles membres de la famille royale peuvent\nouvrir, comme indique sur la tablette.<br>Detective Eriego, je compte sur vous pour nous\nguider."
+    },
+    "91571": {
+        "「怪しい物には　さわらぬようにして\n　ひととおり　遺跡内を見てまわりましたが\n　石版に書かれていた扉は　なかったであります。": "Je me suis abstenu de toucher a quoi que ce\nsoit de suspect et j'ai fait le tour des\nruines, mais la Porte mentionnee sur la stele<br>n'etait pas la."
+    },
+    "91572": {
+        "「ですが　いくつかの鐘や　音叉らしきものが\n　設置されているのは　確認したであります。\n　それらが　何かのカギではないかと……。": "Cependant, j'ai pu confirmer que plusieurs\ncloches et ce qui semble etre des diapasons\nont ete installes. Je pense qu'ils pourraient<br>etre une sorte de cle..."
+    },
+    "91573": {
+        "「僕たちは　もう一度　遺跡を周ってみよう。\n　<pc>君は　この辺りを調べてみてくれ。": "Nous devrions explorer a nouveau les ruines.\n<pc>-kun, pourrais-tu examiner les\nenvirons ?"
+    },
+    "91574": {
+        "「おおっ　<cs_pchero>どの。\n　遺跡のしかけを　解いてくれたのでありますね。\n　さすがは　<cs_pchero>どのであります！": "Oh, <cs_pchero> dono. Vous avez reussi a\ndejouer le mecanisme de la ruine. Comme on\npouvait s'y attendre de la part de <cs_pchero><br>dono !"
+    },
+    "91575": {
+        "「王族にしか　開けられない扉か……。\n　まずは　僕が試してみよう。": "Une porte que seuls les membres de la royaute\npeuvent ouvrir, hein... Laisse-moi essayer en\npremier."
+    },
+    "91576": {
+        "「なんだ……？　普通に開いちまったぞ。": "Qu'est-ce que... ? Ca s'est ouvert\nnormalement."
+    },
+    "91577": {
+        "「やはり　この扉は　王族にしか\n　開けなかったのでありますねっ。\n　これで　調査が続けられるであります！": "Cette porte ne peut vraiment etre ouverte que\npar la famille royale, n'est-ce pas ? Avec\ncela, nous pouvons poursuivre notre enquete !"
+    },
+    "91578": {
+        "「……開いたんなら　それで　よしとするか。\n　では　中へ入ってみるとしよう。\n　みんな　ついてきてくれ。": "…Puisque c'est ouvert, on peut dire que c'est\nbon. Alors, entrons a l'interieur. Tout le\nmonde, suivez-moi."
+    },
+    "91579": {
+        "「……エリーゴ調査員。\n　この部屋で　まちがいないのか？": "...Detective Eriego. C'est bien cette piece,\nn'est-ce pas ?"
+    },
+    "91580": {
+        "「はっ。まちがいない……はずであります。": "Ha. Il n'y a aucun doute... c'est certain."
+    },
+    "91581": {
+        "「……どうも　おかしいな。\n　魔物が封じられた　真紅のツボとやらは\n　どこに　あるんだ……？": "…Quelque chose cloche. Ou se trouve ce fameux\nT. Pot ecarlate qui renferme les monstres... ?"
+    },
+    "91582": {
+        "「そこかしこに　からくりのようなものを\n　作っていた名残が　見えますが\n　ツボと呼ぶには　無理がありますね……。": "La ou je regarde, je vois des vestiges de\nmecanismes un peu partout. Mais il est\ndifficile de les appeler des Pot..."
+    },
+    "91583": {
+        "「それじゃ　あの石版に書いてあった\n　大いなる恐怖ってのは　なんなんだ？": "Alors, c'est quoi cette grande terreur dont\nparlait cette tablette ?"
+    },
+    "91584": {
+        "「アハハハハハッ！！": "Ahahahahaha !!"
+    },
+    "91585": {
+        "「ま～た　ひっかかったね。\n　このバカ王子！": "Ah, tu t'es encore fait avoir. Espece de\nprince idiot !"
+    },
+    "91586": {
+        "「……誰だ　お前？": "…Qui es-tu ?"
+    },
+    "91587": {
+        "「わわわっ……忘れたっての！？\n　私だよ。キャ・ス・ラ・ンっっっ！": "Quoi ? Tu as oublie !? C'est moi. C'est\nCya-su-ra-nnnn !"
+    },
+    "91588": {
+        "「気をつけろ。こいつは　僕をだまして\n　暴君バサグランデを復活させた　ずる賢い女だ。\n　今まで　どこに逃げていたんだ……。": "Fais attention. C'est une femme rusee qui m'a\ntrompe et a ressuscite Tyrant Bogan. Ou\ns'est-elle cachee jusqu'a present..."
+    },
+    "91589": {
+        "「ん？　あんたなんかに\n　ずる賢い呼ばわりされる　いわれはないよ。\n　この　ありがちイケメン！": "Hmm? Je ne vois pas pourquoi je devrais etre\ntraite de sournois par quelqu'un comme toi.\nEspece de beau gosse classique !"
+    },
+    "91590": {
+        "「やっぱり　あんたは　ボンクラさ。\n　ウソの石版の言葉に　だまされて\n　ノコノコと　出てきちまうんだからね！": "Tu es vraiment un imbecile, hein. Tu t'es\nlaisse berner par les paroles mensongeres de\nla tablette et tu es venu ici tranquillement !"
+    },
+    "91591": {
+        "「あの石版は　ワナだったのか。\n　それじゃ　あんたが\n　王家の者を狙う　誘拐犯ってわけか？": "Alors cette tablette etait un piege. Donc, tu\nes le ravisseur qui cible la famille royale,\nc'est ca ?"
+    },
+    "91592": {
+        "「はっ　誘拐？　何よ　それ？\n　そんなの　知るもんか。": "Hein ? Un enlevement ? Qu'est-ce que c'est que\nca ? Je n'en sais rien."
+    },
+    "91593": {
+        "「私は　ヘビ使いのダンナに　王子はバカだから\n　単純なワナに引っかかりますって　伝えただけ。\n　そりゃもう　カンタンな　お仕事だったよ。": "J'ai simplement dit au maitre des serpents que\nle prince est stupide et qu'il tomberait dans\nun piege aussi simple. C'etait vraiment un<br>travail facile."
+    },
+    "91594": {
+        "「ヘビ使いのダンナ……？": "Le maitre des serpents... ?"
+    },
+    "91595": {
+        "「やはり　お前で　まちがいないな。\n　ウェディの王子よ。一緒に来てもらうぞ。": "Tu es bien celui que je cherchais. Le prince\nWeddie. Viens avec moi."
+    },
+    "91598": {
+        "「…………。": "."
+    },
+    "91599": {
+        "「……ふん。やる気は充分ってとこか？": "…Hmph. On dirait que tu es suffisamment\nmotive, n'est-ce pas ?"
+    },
+    "91600": {
+        "「……行け。": "... Va."
+    },
+    "91601": {
+        "「くっ……。同じ紙切れの化け物のくせに\n　城んときのより　やるじゃねえか。": "Tsk… Meme si tu es un monstre de papier comme\nles autres, tu es bien plus coriace que ceux\ndu chateau."
+    },
+    "91602": {
+        "「<cs_pchero>君！　ここは\n　君のチカラも　借りなきゃならないようだ。\n　こいつを　倒してくれ！！": "<cs_pchero> kun ! Ici, nous allons avoir\nbesoin de ton aide. Terrassons cet ennemi\nensemble !!"
+    },
+    "91603": {
+        "「そっちは　まかせるぜ　<cs_pchero>。\n　オレたちは　ヘビ男のほうを捕まえるからよ。": "Je te laisse t'occuper de ca, <cs_pchero>.\nNous, on va s'occuper de capturer\nl'homme-serpent."
+    },
+    "91604": {
+        "「<cs_pchero>　何してやがる。\n　お前が　こいつの相手をしてくれねえと\n　ヘビ男を　捕まえられねえだろうが！": "<cs_pchero> Qu'est-ce que tu fais la ? Si tu\nne t'occupes pas de lui, on ne pourra pas\nattraper l'homme-serpent !"
+    },
+    "91605": {
+        "「すまん　<cs_pchero>君！\n　君でなければ　こいつの相手は難しそうだ。\n　まかせるぞ！！": "Pardon, <cs_pchero>kun ! Sans toi, il serait\ndifficile de s'occuper de celui-la. Je compte\nsur toi !!"
+    },
+    "91606": {
+        "「……青狼鬼と　渡りあえるとはな。": "…Je ne pensais pas que tu pourrais tenir tete\na l'Ogre Loup Bleu."
+    },
+    "91607": {
+        "「だが　目的は果たした。\n　ヴェリナードの王子は　もらっていくぞ。": "Cependant, notre objectif est atteint. Nous\nemportons le prince de Velinardo."
+    },
+    "91608": {
+        "「くっ……。待て……っ。": "Argh... Attends..."
+    },
+    "91609": {
+        "「ちょ……ヘビ使いのダンナ　私は？\n　まだ報酬も　いただいてないんですけどっ！？": "He, monsieur le charmeur de serpents, et moi\nalors ? Je n'ai pas encore recu ma recompense\n!"
+    },
+    "91610": {
+        "「……キャスラン。\n　お前は　絶対に　許さないぞ……。": "......Cathlan. Je ne te pardonnerai\njamais......"
+    },
+    "91611": {
+        "「うひ……。": "Ouf..."
+    },
+    "91612": {
+        "「ひいいぃぃぃ！": "Hiiiiiiii !"
+    },
+    "91613": {
+        "「……女狐め。放っておくべきじゃなかった。\n　くそ……。必ず　捕まえてやるぞ……。": "Cette renarde... Je n'aurais pas du l'ignorer.\nBon sang... Je la capturerai a coup sur..."
+    },
+    "91614": {
+        "「<cs_pchero>君　すまない。\n　ヒューザ君が　僕の身代わりに…………。": "<cs_pchero> kun, je suis desole. Hyuza kun\ns'est sacrifie a ma place..."
+    },
+    "91615": {
+        "「ま……まさか　さらわれたのは　別人で\n　あなたが　本物の王子どのなのでありますか！？": "Ma... mais alors, la personne enlevee etait\nquelqu'un d'autre et vous etes le veritable\nprince dono !?"
+    },
+    "91616": {
+        "「……説明は　後だ。\n　急いで　ヴェリナード城に戻るぞ。\n　このことを　母上に伝えなくては……。": "Les explications viendront plus tard.\nDepechons-nous de retourner au chateau de\nVerinard. Je dois informer mere de cette<br>situation..."
+    },
+    "91617": {
+        "「……<cs_pchero>君。\n　君も　すぐに来てくれ……。": "......<cs_pchero>kun. Viens vite, toi\naussi......"
+    },
+    "93321": {
+        "「なるほど。あんたが　本物の誘拐犯か。\n　その女を使って　オレたちを\n　うまく　誘いだしたつもりらしいが……。": "なるほどAlors c'est toi le veritable kidnappeur.\nOn dirait que tu as utilise cette femme pour\nnous attirer habilement..."
+    },
+    "93322": {
+        "「そいつは　逆だぜ。\n　あんたが出てくるのを　待ってたのは\n　こっちのほうなんだからな！": "En fait, c'est tout le contraire. C'est nous\nqui t'attendions !"
+    },
+    "93323": {
+        "<center>この世のものとは思えない\nヘタクソな歌声が　城下に響きわたった！！<me_70>": "Une voix chantee incroyablement mauvaise\nresonne dans tout le chateau !! <me_70>"
+    },
+    "93324": {
+        "<center>城の前に集まった人々は　カオを見合わせ\n何かを言いたそうにしながらも\nそれぞれの生活に　戻っていった。": "Les gens rassembles devant le chateau\nechangerent des regards, semblant vouloir dire\nquelque chose, puis retournerent chacun a leur<br>vie quotidienne."
+    },
+    "93325": {
+        "「グランゼドーラの王女に　メギストリスの王子。\n　３人目は　ヴェリナードの王子か。\n　次は　しくじりはしない……。": "La princesse de Glenade, le prince de\nMegistrelis. Le troisieme est un prince de\nVelinard. Cette fois, je ne faillirai pas..."
+    },
+    "93326": {
+        "「……ああ　なんたることでしょう。\n　これほどオンチで　これほどヒドい歌は\n　今までに　聴いたことがありませんよぉ！！": "Ah, quelle horreur. Je n'ai jamais entendu une\nchanson aussi outrageusement Onチ et aussi\nterrible jusqu'a present !!"
+    },
+    "93327": {
+        "「もはや　私の手には負えません！\n　あなたに歌を教えるのは　無理だと\n　女王さまに　伝えておいてくださいっ。": "Je ne peux plus rien faire pour elle ! Dites a\nla Reine que c'est impossible de lui enseigner\nle chant."
+    },
+    "93328": {
+        "「……だから　言ったじゃねえか。\n　オレに　歌なんか　唄わせるから……。": "…Je te l'avais dit, non? Si tu me laisses\nchanter une chanson..."
+    },
+    "93329": {
+        "「あの先生のことは　どうでもいいが\n　さっきの魔物のことは　女王に伝えとこうぜ。\n　お前も　来てくれよ　<cs_pchero>。": "Pour ce qui est de ce professeur, je m'en\nmoque. Mais pour ce monstre de tout a l'heure,\ninformons la reine. Viens avec moi aussi,<br><cs_pchero>."
+    },
+    "115386": {
+        "「最初は　わしが　その役を買って出たんだが\n　王家に伝わるメイク術で　カオは似せられても\n　さすがに　体型までは　ごまかせなくてな。": "Au debut, j'ai voulu prendre ce role moi-meme,\nmais meme si je pouvais imiter le visage grace\na l'art du maquillage transmis dans la famille<br>royale, il m'etait impossible de tromper sur\nla silhouette."
+    },
+    "115387": {
+        "「まいまいテイルも　まみむめもっ。\n　はい　どうぞ！": "Snaily Tail aussi, mami mume mo. Allez, tiens\n!"
+    },
+    "115388": {
+        "「なんと言われても\n　だめなんだよ　歌だけは……。": "Peu importe ce qu'on me dit, je ne peux pas...\nchanter, c'est impossible..."
+    },
+    "115389": {
+        "「なるほどな……。\n　そいつは　案外　いい作戦かもしれねえぜ。": "Je vois... Ca pourrait etre un plan plutot\nastucieux."
+    },
+    "115390": {
+        "「……わらわは　この国の王だ。\n　息子の身だけを案じ　国を襲うかもしれぬ脅威を\n　放っておくことは　できぬ。": "Je suis le roi de ce pays. Je ne peux pas\nsimplement me preoccuper du sort de mon fils\net ignorer la menace qui pourrait frapper<br>notre royaume."
+    },
+    "115391": {
+        "「身代わりとは　いったい……。\n　どういうことなので　ありますか？": "Qu'entendez-vous par substitut... ? De quoi\ns'agit-il exactement ?"
+    },
+    "118095": {
+        "「各国に派遣した　魔法戦士たちには\n　警戒をおこたらぬよう　命令を出したところだが\n　こちらも　できる限りの対策は　しておきたい。": "J'ai deja ordonne aux mages guerriers envoyes\ndans chaque pays de rester vigilants, mais\nnous devons egalement prendre toutes les<br>mesures possibles de notre cote."
+    },
+    "118096": {
+        "「そういえば　セーリアちゃん。\n　ワシがプレゼントした　おしゃれなサンダルは\n　まだ　はいてくれんのか？": "A propos, Celia-chan. Tu ne portes toujours\npas les elegantes sandales que je t'ai\noffertes ?"
+    },
+    "118097": {
+        "「すみません……。\n　そういったものは　身につけないのが\n　普通だったので　慣れなくて……。": "Je suis desole... Je n'ai pas l'habitude de\nporter ce genre de choses, alors je ne m'y\nsuis pas encore habitue..."
+    },
+    "118098": {
+        "「無理じいは　よくありませんよ　父上。\n　セーリアが生まれた時代の文化は\n　おおいに　尊重するべきです！": "Il n'est pas bon de forcer les choses, Pere.\nIl est important de respecter pleinement la\nculture de l'epoque ou Celia est nee !"
+    },
+    "118099": {
+        "「おやおや？　ワシの選んだサンダルを\n　セーリアには　こっちのが似合うから～と\n　変えさせたのは　どこの誰だったかな？": "Oh la la ? Et qui donc a insiste pour changer\nles sandales que j'avais choisies pour Celia,\nen disant que celles-ci lui iraient mieux ?"
+    },
+    "118100": {
+        "「うっ。それは……。": "Ugh. C'est..."
+    },
+    "118101": {
+        "「あれは　王子が選んでくれたのですね。\n　おふたりとも　本当に　ありがとう。\n　それに　女王さまも。": "C'est le prince qui l'a choisi, n'est-ce pas ?\nMerci beaucoup a vous deux. Et a la reine\negalement."
+    },
+    "118102": {
+        "「……ふたりには　黙っていたが\n　じつは　わらわも　セーリアに\n　その……ブーツをな。贈ったのだ……。": "Je ne vous l'avais pas dit, mais en realite,\nmoi aussi, j'ai offert ces... bottes a Celia."
+    },
+    "118103": {
+        "「こいつは　おどろいた。\n　我々は　似た者家族というわけだな。\n　わっはっはっはっ！": "Eh bien, quelle surprise. On dirait que nous\nsommes une famille de semblables. Wahahahaha !"
+    },
+    "118105": {
+        "「おそらく　この扉の先に　石版に書かれていた\n　恐怖を封じたツボがあると　思うのであります。": "Je pense que, probablement, au-dela de cette\nporte, se trouve le Pot qui contient la\nterreur scellee, tel qu'indique sur la<br>tablette de pierre."
+    }
+}

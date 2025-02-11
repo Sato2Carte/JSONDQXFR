@@ -1,0 +1,221 @@
+{
+    "64274": {
+        "「おおっ！\n　そこにおるのは　<pc>じゃな！\n　おぬしを　ずっと待っていたんじゃ。": "Oh ! C'est toi, <pc>, n'est-ce pas ! Je\nt'attendais depuis longtemps."
+    },
+    "64275": {
+        "「いつぞやは　乾いていたワシを　助けてくれて\n　たいへん　感謝しておる。\n　おかげで　こうして無事　国に帰れたぞよ。": "Je vous suis tres reconnaissant de m'avoir\naide lorsque j'etais assoiffe. Grace a vous,\nj'ai pu rentrer sain et sauf dans mon pays."
+    },
+    "64276": {
+        "「じゃが　残念なことに\n　こんな有り様になってしもうた……。": "Mais malheureusement, les choses ont tourne\nainsi..."
+    },
+    "64277": {
+        "「ワシが　アラハギーロの王だと　主張しても\n　誰も　信じてくれんのじゃよ。\n　兵士や　大臣までも　バケモノ扱いじゃ……。": "J'ai beau affirmer etre le roi d'Aralhagi-lo,\npersonne ne veut me croire. Meme les soldats\net les ministres me traitent comme un<br>monstre..."
+    },
+    "64278": {
+        "「こんな姿では　しょうがないことと\n　わかってはおるんじゃが……\n　ワシ　くやしくって　情けなくって！": "Dans cet etat, je comprends bien qu'il n'y a\nrien a faire... Mais je suis tellement frustre\net desempare !"
+    },
+    "64279": {
+        "「そこでじゃ！　おぬしに頼みたいことがある。": "C'est pourquoi ! J'ai quelque chose a te\ndemander."
+    },
+    "64280": {
+        "「干からびかけて　砂漠の南部をさまよっていた時\n　<%sEV_QUE_NAME0>という魔物に　うっかり\n　大切な王しゃくを　盗られてしまっての。": "Alors que je me perdais dans le sud du desert,\na moitie desseche, un monstre appele\n<%sEV_QUE_NAME0> m'a malheureusement vole mon<br>precieux sceptre royal."
+    },
+    "64281": {
+        "「王家の紋章が　入っておって\n　アラハギーロの王に　代々　受け継がれる\n　黄金の王しゃくなんじゃ。": "C'est le Sceptre d'Or du Roi, orne de\nl'embleme royal, qui est transmis de\ngeneration en generation aux rois d'Araghiro."
+    },
+    "64282": {
+        "「それを　<%sEV_QUE_NAME0>から\n　取り戻してきてたもれ！\n　どうじゃ？　やってくれるかのう？": "Pourrais-tu le recuperer de <%sEV_QUE_NAME0>\npour moi ? Qu'en dis-tu ? Peux-tu le faire ?"
+    },
+    "64283": {
+        "「おおっ。ありがたや！\n　さすがは　ワシの命の恩人じゃ。\n　では　よろしく頼んだぞよ。": "Oh ! Merci beaucoup ! Comme attendu de la part\nde mon sauveur. Je compte sur vous, alors."
+    },
+    "64284": {
+        "「アラハギーロ王の証である　王しゃくさえあれば\n　ワシが　この国の王であると　証明できて\n　ここからも　出られるはずじゃ。": "Si seulement j'avais le sceptre royal, preuve\nde mon statut de roi d'AraHagi, je pourrais\nprouver que je suis le roi de ce pays et je<br>devrais pouvoir sortir d'ici."
+    },
+    "64285": {
+        "「おお。ありがたや……と　言いたいところじゃが\n　おぬし　他の者からの頼まれごとで\n　手が　いっぱいのようじゃな。": "Oh. Je suis reconnaissant... enfin, j'aimerais\nle dire, mais il semble que tu sois deja bien\noccupe avec les demandes des autres."
+    },
+    "64286": {
+        "「それらを　速やかに片付けて\n　急いで　戻ってまいるのじゃ。\n　ワシ　ここで待っておるからの。": "Debarrasse-toi de tout cela rapidement et\nreviens en toute hate. Je t'attendrai ici."
+    },
+    "64287": {
+        "「そ…そんな！　おぬしなら　引き受けてくれると\n　思っておったのに……。": "Qu... Quoi ? Je pensais que tu accepterais..."
+    },
+    "64288": {
+        "「気が変わったら　戻ってきてほしいのう。\n　おぬししか　ワシの頼みを\n　聞いてくれる者は　いないんじゃもの……。": "Si tu changes d'avis, je veux que tu\nreviennes. Il n'y a que toi qui accepte\nd'ecouter ma requete..."
+    },
+    "64289": {
+        "「そこにおるのは　<pc>じゃな！\n　また　来てくれると　信じておったぞ。": "Ah, c'est toi, <pc> ! Je savais que tu\nreviendrais nous voir."
+    },
+    "64290": {
+        "「改めて　おぬしに頼みたいんじゃ！": "Je veux te demander a nouveau, s'il te plait !"
+    },
+    "64291": {
+        "「干からびかけて　砂漠の南部をさまよっていた時\n　<%sEV_QUE_NAME0>という魔物に　うっかり\n　大切な王しゃくを　盗られてしまっての。": "Alors que je me perdais dans le sud du desert,\na moitie desseche, un monstre appele\n<%sEV_QUE_NAME0> m'a malheureusement vole mon<br>precieux sceptre royal."
+    },
+    "64292": {
+        "「王家の紋章が　入っておってな……\n　アラハギーロの王に　代々　受け継がれる\n　黄金の王しゃくなんじゃ。": "Il porte l'embleme royal... C'est le King's\nGolden Scepter, transmis de generation en\ngeneration aux rois d'AralHagi-ro."
+    },
+    "64293": {
+        "「それを　<%sEV_QUE_NAME0>から\n　取り戻してきてたもれ！\n　どうじゃ？　やってくれるかのう？": "Pourrais-tu le recuperer de <%sEV_QUE_NAME0>\npour moi ? Qu'en dis-tu ? Peux-tu le faire ?"
+    },
+    "64294": {
+        "「アラハギーロ王の証である　王しゃくさえあれば\n　ワシが　この国の王であると　証明できて\n　ここからも　出られるはずじゃ。": "Si seulement j'avais le sceptre royal, preuve\nde mon statut de roi d'AraHagi, je pourrais\nprouver que je suis le roi de ce pays et je<br>devrais pouvoir sortir d'ici."
+    },
+    "64295": {
+        "「ワシから　王しゃくを盗んだ\n　<%sEV_QUE_NAME0>は\n　アラハギーロ地方の南部にいるにちがいない！": "Celui qui m'a vole le sceptre royal,\n<%sEV_QUE_NAME0>, doit se trouver dans la\nregion sud de Al-Ahagiro !"
+    },
+    "64296": {
+        "「その　<%sEV_QUE_NAME0>を倒して\n　ワシの王しゃくを　取り戻してきてたもれ！": "Va vaincre ce <%sEV_QUE_NAME0> et recupere mon\nsceptre royal !"
+    },
+    "64297": {
+        "「ワシ　ここで待っておるからの。\n　頼んだぞ　<pc>！": "Je vais attendre ici. Je compte sur toi,\n<pc> !"
+    },
+    "64298": {
+        "「はわっ　<pc>！\n　……その顔は　もしや　ワシの王しゃくを\n　取り戻してきてくれたんじゃな。": "Hawa, <pc> ! ... Ce visage, aurais-tu\npar hasard recupere mon sceptre royal ?"
+    },
+    "64299": {
+        "「では……　さっそく\n　ワシの王しゃくを　渡してくれるかのう？<yesno><close>": "Alors... veux-tu bien me donner mon sceptre\nroyal ?<yesno><close>"
+    },
+    "64300": {
+        "<pc>は　わかめ王子に\n黄金の王しゃくを　渡した。": "<pc> a remis le Sceptre d'Or du Roi a\nKing Kelp."
+    },
+    "64301": {
+        "「おお！　これをふたたび\n　手にすることができようとは……感無量じゃ。\n　これさえあれば　ここを出られるぞー！！": "Oh ! Pouvoir tenir cela a nouveau entre mes\nmains... je suis submerge par l'emotion. Grace\na cela, je vais enfin pouvoir sortir d'ici !"
+    },
+    "64302": {
+        "「うるさいぞ！　おとなしくしていろ！": "Silence ! Tiens-toi tranquille !"
+    },
+    "64303": {
+        "「おお！　ちょうどよい。\n　見張りの兵士よ。カブースと　アブタルを\n　急ぎ　ここへ　呼んでまいれ。": "Oh ! Parfait. Soldat de garde, appelle Kabuース\net Abubarel ici d'urgence."
+    },
+    "64304": {
+        "「貴様！　魔物の分際で　何をエラそうに。\n　大臣と兵士長を　呼びつけようとは！": "Toi ! Comment oses-tu, simple monstre, te\nmontrer si arrogant ? Appeler ainsi le\nministre et le chef des soldats !"
+    },
+    "64305": {
+        "「早く　呼んでまいれ！　急ぐのじゃ！\n　さもないと　ヌルヌルした　ワシのわかめで\n　クチをふさいでやるぞ！！": "Depeche-toi de l'appeler ! Vite ! Sinon, je\nvais te baillonner avec mes algues gluantes !!"
+    },
+    "64306": {
+        "「ぐっ……。\n　し　しばらく　待っていろ！": "Guh... Attends un moment !"
+    },
+    "64307": {
+        "「いったい　なにごとだ！？": "Qu'est-ce qui se passe ici ?!"
+    },
+    "64308": {
+        "「来たな　ふたりとも。\n　これから　ワシこそ　アラハギーロの王じゃと\n　証明してしんぜよう。": "Vous etes venus, tous les deux. Je vais\nmaintenant vous prouver que c'est moi le\nveritable roi d'AraHagi-ro."
+    },
+    "64309": {
+        "「ジャジャーン！\n　これが　目に入らんかー！": "Jajaaaan ! Vous ne voyez pas ca ?"
+    },
+    "64310": {
+        "「我は　第７９代　国王ムーニス。\n　千年の栄光に　彩られし\n　アラハギーロ王国の国王であるぞ！": "Je suis le 79eme roi, Munis. Je suis le roi du\nRoyaume d'Al-Ahagiro, embelli par mille ans de\ngloire !"
+    },
+    "64311": {
+        "「今までの非礼は　大目に見よう。\n　さっ　早く　ここから　出すのじゃ。": "Je vais fermer les yeux sur votre impolitesse\njusqu'a present. Allez, depechez-vous de me\nsortir d'ici."
+    },
+    "64312": {
+        "「貴様……　どこで\n　その王しゃくを　手に入れた！？": "Toi... Ou as-tu obtenu ce sceptre royal ?!"
+    },
+    "64313": {
+        "「おおかた　ムーニス王から盗み取ったのだろう。\n　いやしい魔物め……。\n　ふぬぅ。いよいよ　王の安否が　心配だ。": "Il l'a probablement vole au roi Moonis. Sale\ncreature demoniaque... Hmmm. Je m'inquiete de\nplus en plus pour la securite du roi."
+    },
+    "64314": {
+        "「な　なんじゃと……。\n　これでも　信じぬというのか。\n　なんという　恩知らずどもじゃ。": "Qu... Quoi ?... Tu ne veux toujours pas y\ncroire ? Quelle bande d'ingrats."
+    },
+    "64315": {
+        "「ええい　アブタル！　おぬしがちょくちょく\n　調理室のチーズを　盗み食いしていること\n　黙ってやっているというのに！": "Eh bien, AbouBaril ! Meme si je garde le\nsilence sur le fait que tu voles et manges le\nfromage de la cuisine de temps en temps !"
+    },
+    "64316": {
+        "「な！　なぜ　そのことを知っている！": "Quoi ! Comment sais-tu cela ?"
+    },
+    "64317": {
+        "「カブース！　昔　ポエム入りの\n　寒いラブレターを　侍女に　書いておったこと\n　城の者に　バラしてもいいんじゃな！？": "Kabuー ! Tu te souviens des lettres d'amour un\npeu froides avec des poemes que tu faisais\necrire par les servantes ? Je pourrais bien<br>reveler ca aux gens du chateau, tu sais !"
+    },
+    "64318": {
+        "「キャー！　やめてーっ。": "Kyaa ! Arretez !"
+    },
+    "64319": {
+        "「いや　し…しかし　そのことは\n　私と王だけしか　知らぬはず……。": "Non, m-mais... cette affaire ne devrait etre\nconnue que de moi et du roi..."
+    },
+    "64320": {
+        "「まさか　本当に　ムーニス王……なのですか？": "Impossible... Est-ce vraiment King Moonis...?"
+    },
+    "64321": {
+        "「本当じゃ！　まだ　信じられぬようなら\n　おぬしの　こっぱずかしい過去を\n　もっともっと　話してもいいんじゃぞ。": "C'est vrai ! Si tu ne me crois toujours pas,\nje peux te raconter encore plus de tes\nsouvenirs embarrassants."
+    },
+    "64322": {
+        "「ひいーっ。それは……。": "Hiieee... C'est..."
+    },
+    "64323": {
+        "「わかったなら　さっさと\n　ワシを　ここから出すのじゃ！\n　ただちに　じゃ！": "Si tu as compris, depeche-toi de me sortir\nd'ici ! Immediatement, allez !"
+    },
+    "64324": {
+        "「は…はひっ。ただいま！": "H... Hehe. Je suis rentre !"
+    },
+    "64325": {
+        "「ふう。<pc>。\n　おぬしのおかげで　ワシが　ムーニスじゃと\n　ようやく　信じてもらえたようじゃ。": "Ouf. <pc>. Grace a toi, ils ont enfin\naccepte de croire que je suis bien Moonis."
+    },
+    "64326": {
+        "「おぬしには　礼をせねばな。\n　この後　玉座の間まで\n　足を運んでもらえるかのう。": "Je dois te remercier, n'est-ce pas ?\nPourrais-tu te rendre dans la salle du trone\napres cela ?"
+    },
+    "64327": {
+        "「では　待っておるぞ。": "Alors, je vous attends."
+    },
+    "64328": {
+        "「おお　<pc>。\n　よくぞ　まいった。": "Oh, <pc>. Merci d'etre venu."
+    },
+    "64329": {
+        "「命を助けられたばかりではなく\n　ワシが　王だと認めさせる\n　手助けまで　してもらうことになるとは……。": "Non seulement vous m'avez sauve la vie, mais\nvous allez egalement m'aider a etre reconnu\ncomme roi..."
+    },
+    "64330": {
+        "「おぬしには　本当に　世話になったのう。\n　これは　約束した礼じゃ！　受け取ってたもれ！": "Tu m'as vraiment beaucoup aide. Voici la\nrecompense promise ! Prends-la, je te prie !"
+    },
+    "64331": {
+        "「ムーニス王　今こそ　お聞かせください。\n　何が　どうなって　そのような　お姿に？": "King Moonis, pourriez-vous nous dire ce qui\ns'est passe pour que vous ayez pris une telle\napparence ?"
+    },
+    "64332": {
+        "「カブース……　これから話すことを\n　心して　聞いてほしい。\n　あの戦争で起こったことの　一部始終じゃ。": "Kabu... Ce que je vais te dire maintenant,\necoute-le attentivement. C'est le recit\ncomplet de ce qui s'est passe durant cette<br>guerre."
+    },
+    "64333": {
+        "「あの魔族との戦争に　ワシと\n　ゴリウス兵士長率いる　アラハギーロ軍は\n　必死の決意で挑み　はげしく戦った。": "Dans cette guerre contre les demons, l'armee\nd'AraHagi-Ro menee par Captain Gorius et\nmoi-meme avons combattu avec une determination<br>acharnee."
+    },
+    "64334": {
+        "「しかし　奮戦むなしく　こてんぱんにされ\n　魔族によって　捕らえられてしまったのじゃ。\n　ワシらは　死を覚悟した。": "Cependant, malgre notre vaillant combat, nous\navons ete severement battus et captures par\nles demons. Nous etions prets a accepter la<br>mort."
+    },
+    "64335": {
+        "「ところが　魔族の将は　ワシらを殺すことはせず\n　皆を　それぞれ　魔物の姿に変えたんじゃ。": "Cependant, le general des demons ne nous a pas\ntues. Il nous a tous transformes en creatures."
+    },
+    "64336": {
+        "「そして　魔物に変えられた兵士たちは\n　いずこかへ　連れ去られてしまった……。": "Et ensuite, les soldats transformes en\nmonstres ont ete emmenes quelque part..."
+    },
+    "64337": {
+        "「ただ　ワシはこの通り　わかめ王子の姿にされ\n　砂漠の日差しにより　干からびていたため\n　奴らの目につかず　助かったのじゃ。": "Cependant, comme vous pouvez le voir, j'ai ete\ntransforme en King Kelp et je me dessechais\nsous le soleil du desert. C'est ainsi que j'ai<br>echappe a leur attention et que j'ai pu etre\nsauve."
+    },
+    "64338": {
+        "「なんと　むごいことを……。": "Quel acte cruel..."
+    },
+    "64339": {
+        "「そうじゃな。……しかし　どこへ\n　なんの目的で　連れ去ったかは　わからんが\n　きっと　皆　生きていることと思う。": "C'est vrai... Cependant, je ne sais pas ou ils\nont ete emmenes ni dans quel but, mais je suis\nsur qu'ils sont tous en vie."
+    },
+    "64340": {
+        "「ワシはこれから　国を挙げて　情報を集め\n　なんとか　行方不明の者たちを\n　探しだすつもりじゃ。": "Je vais mobiliser tout le pays pour rassembler\ndes informations et tenter de retrouver ceux\nqui sont portes disparus."
+    },
+    "64341": {
+        "「<pc>。おぬしにも　また\n　何か　協力を依頼することになるやもしれぬ。\n　そのときは　どうか頼むぞよ。": "<pc>. Il se pourrait que nous ayons a\nsolliciter ton aide a nouveau. Lorsque ce\nmoment viendra, je compte sur toi."
+    },
+    "64342": {
+        "「おお　<pc>。\n　わざわざ　ワシのことを心配して\n　会いに来てくれたのか？": "Oh, <pc>. Tu t'es donne la peine de\nvenir me voir par inquietude pour moi ?"
+    },
+    "64343": {
+        "「このような姿じゃから　この玉座の間に\n　こもりっきりなんじゃが\n　オリの中よりかは　ずいぶん　マシじゃわい。": "Etant donne cette apparence, je suis reste\nenferme dans cette salle du trone, mais c'est\nbien mieux que d'etre dans une cage."
+    },
+    "64344": {
+        "「じゃが　このままの姿だと　行方不明の者たちを\n　探すにも　支障があるのう。\n　一刻も早く　人間に　戻らなくてはな……。": "Cependant, dans cet etat, il est difficile de\npartir a la recherche des personnes disparues.\nJe dois redevenir humain au plus vite..."
+    },
+    "64345": {
+        "「<pc>。近いうち\n　ふたたび　協力を頼むことになるやもしれぬ。\n　そのときは　よろしく頼むぞよ。": "<pc>-san, il se pourrait que je\nsollicite a nouveau ton aide dans un avenir\nproche. Je compte sur toi a ce moment-la."
+    },
+    "64889": {
+        "「ぬっ！？　何を申すか　おぬし。\n　それは　正真正銘　ワシのものじゃ！\n　この手に　さあ　渡すのじゃ！<yesno><close>": "ぬっ！？ Que dis-tu la, toi ? C'est l'authentique,\nl'unique, ca m'appartient ! Allez,\nremets-le-moi dans cette main !<yesno><close>"
+    }
+}

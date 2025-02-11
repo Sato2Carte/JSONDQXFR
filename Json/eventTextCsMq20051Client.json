@@ -1,0 +1,272 @@
+{
+    "56586": {
+        "「<pc>！　またまた　会ったのう。\n　アストルティアに　知らぬことなし！\n　ご存知　放浪の賢者　ホーローじゃ。": "<pc> ! Nous nous rencontrons a nouveau.\nJe suis Hollow, le sage vagabond, celui qui\nsait tout sur Astoltia !"
+    },
+    "56587": {
+        "「おぬしも　いろいろと　大変じゃったな。\n　まさか　迷いの霧の向こうに　わしらの知らない\n　レンダーシアが　広がっていたとは。": "Toi aussi, tu as traverse bien des epreuves.\nQui aurait cru qu'au-dela du brouillard de\nl'egarement s'etendrait un Rendersia que nous<br>ne connaissions pas."
+    },
+    "56588": {
+        "「わしが最初に作った　魔法の羅針盤には\n　迷いの霧を抜ける能力しか　なかったからのう。\n　知らんかったとはいえ　すまんことをした。": "Celui que j'ai cree en premier, le Magic\nCompass, n'avait que la capacite de traverser\nle brouillard de l'egarement. Meme si je<br>l'ignorais, je suis desole pour cela."
+    },
+    "56589": {
+        "「……じゃが！　グランゼドーラに行けぬと\n　相談を受けた　わしは　すぐさま調査を進め\n　魔法の羅針盤を　パワーアップさせた。": "...Mais ! Lorsqu'on m'a consulte a propos de\nl'impossibilite d'aller a Grans LMP Zedora,\nj'ai immediatement avance mes recherches et<br>ameliore le Magic Compass."
+    },
+    "56590": {
+        "「今では　好きなように　グランゼドーラへも\n　異世界のココラタの浜辺へも　行けるはずじゃ！\n　ふぉっふぉっふぉ。我ながら　大活躍じゃのう。": "Maintenant, tu devrais pouvoir te rendre aussi\nbien a GlMP Zedora qu'a Cocolata Beach dans\nl'autre monde ! Ho ho ho. Je dois dire que<br>j'ai vraiment bien travaille."
+    },
+    "56591": {
+        "「むう。ノリが悪いのう　<pc>。\n　……なに？　わしに　手紙をあずかってきたと？\n　それならそうと　早く言わんかい！": "Hmm. Tu n'es pas tres reactif, <pc>.\n...Quoi ? Tu es venu me confier une lettre ?\nDans ce cas, dis-le plus tot !"
+    },
+    "56592": {
+        "<pc>は　賢者ホーローに\nルシェンダの手紙を　渡した！": "<pc> a remis la Lettre de Lushenda au\nsage Hollow !"
+    },
+    "56593": {
+        "「こ　こ　これは……！\n　ルシェンダさまからの手紙……！？": "Ce... ce... ceci... ! Une lettre de\nLushenda-sama...!?"
+    },
+    "56594": {
+        "「お　おい！　おぬし！　<pc>！\n　ルシェンダさまに　失礼を\n　はたらいておらぬだろうな？": "He ! He, toi ! <pc> ! Tu ne manquerais\npas de respect a Lushenda-sama, n'est-ce pas ?"
+    },
+    "56595": {
+        "「い　いや……。こうしている場合ではない。\n　<pc>を　手ぶらで帰すわけにはいかん。\n　あの研究を　なんとか仕上げねば……。": "Non... Je ne peux pas rester ici sans rien\nfaire. Je ne peux pas laisser <pc>\nrepartir les mains vides. Je dois absolument<br>terminer cette recherche..."
+    },
+    "56596": {
+        "「すまんが　<pc>。手伝ってくれ！\n　ルシェンダさまに　お渡しする　研究の仕上げに\n　浄化のハーブが　<%nEV_QUE_T_NUM0>個　必要なんじゃ！": "Desole, <pc>. Peux-tu m'aider ? J'ai\nbesoin de <%nEV_QUE_T_NUM0> Purifying Herb\npour finaliser ma recherche a remettre a<br>Lushenda-sama !"
+    },
+    "56597": {
+        "「浄化のハーブは　オーグリード大陸の\n　オルセコ高地などにいる　<%sEV_QUE_NAME0>が\n　落とすと　言われておる！": "On dit que l'Herbe Purificatrice est lachee\npar <%sEV_QUE_NAME0> dans les Hautes Terres\nd'Orseco, sur le continent d'Ogreede !"
+    },
+    "56598": {
+        "「次は～　アズラン～　アズラン～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine station : AzLMP, AzLMP. Lors de\nvotre descente, veuillez ne rien oublier et\nfaites attention a vos effets personnels."
+    },
+    "56599": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine station : Kamiharmui City ～ カミハルムイ～.\nLors de votre descente, veuillez ne pas\noublier vos affaires et faites attention a vos<br>effets personnels."
+    },
+    "56600": {
+        "「次は～　岳都ガタラ～　ガタラ～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine etape : Mont Gatara... Gatara...\nLors de la descente, veuillez ne rien oublier\net faire attention a vos effets personnels."
+    },
+    "56601": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochain arret : Royaumes de Dolworm...\nRoyaumes de Dolworm... Veuillez faire\nattention a ne rien oublier en descendant du<br>train et verifiez bien vos affaires\npersonnelles."
+    },
+    "56602": {
+        "「次は～　オルフェア～　オルフェア～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochain arret : Orphea, Orphea. Lorsque vous\ndescendez, assurez-vous de ne rien oublier et\nfaites attention a vos affaires personnelles."
+    },
+    "56603": {
+        "「次は～　メギストリスの都　メギストリスの都。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine station : Megistris City, Megistris\nCity. Lorsque vous descendez, veuillez ne rien\noublier et faites attention a vos effets<br>personnels."
+    },
+    "56604": {
+        "「次は～　ジュレット～　ジュレット～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochain arret : Jurette, Jurette. Lors de\nvotre descente, veillez a ne rien oublier et\nfaites attention a vos effets personnels."
+    },
+    "56605": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine etape : Chateau de Verinard, Chateau\nde Verinard. Lors de votre descente, veillez a\nne rien oublier et faites attention a vos<br>effets personnels."
+    },
+    "56606": {
+        "「次は～　グレン城～　グレン城～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochain arret : Glen Castle, Glen Castle.\nVeuillez faire attention a ne rien oublier\nlorsque vous descendez, et gardez un oeil sur<br>vos effets personnels."
+    },
+    "56607": {
+        "「次は～　ガートラント城～　ガートラント城～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine destination : Chateau de Gartlant~\nChateau de Gartlant~. Veuillez ne rien oublier\nen descendant et faites attention a vos effets<br>personnels."
+    },
+    "56608": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochaine etape : l'ile de divertissement\nRakaran~ Rakaran~. Lors de votre descente,\nveuillez ne pas oublier vos effets personnels<br>et prenez garde a vos affaires."
+    },
+    "56609": {
+        "「次は～　港町レンドア～　レンドア～。\n　お降りの際は　お忘れ物のないよう\n　お手まわり品に　ご注意ください。": "Prochain arret~ Port Lendor~ Rendor~. Veuillez\nverifier que vous n'oubliez rien lorsque vous\ndescendez, et faites attention a vos affaires."
+    },
+    "56610": {
+        "「頼んだぞ！　浄化のハーブを　<%nEV_QUE_T_NUM0>個じゃ。\n　それが手に入った頃　また　大地の箱舟に乗れば\n　わしに会えるじゃろう。": "Je compte sur toi ! Apporte-moi\n<%nEV_QUE_T_NUM0> Purifying Herb. Quand tu les\nauras, monte a nouveau a bord de l'Arche de la<br>Terre et tu pourras me rencontrer."
+    },
+    "56611": {
+        "「うっうっ……。アズラン駅で\n　名物　カムシカせんべえを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... Je voulais acheter les fameux\ncrackers Azlantelope a la station Azlan, mais\nil semble que je n'aurai pas le temps."
+    },
+    "56612": {
+        "「うっうっ……。王都カミハルムイ駅で\n　名物　王都の桜もちを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... J'aurais voulu acheter le\ncelebre Royal Cherry Mochi a la station\nKamiharmui, mais il semble que je n'aurai pas<br>le temps."
+    },
+    "56613": {
+        "「うっうっ……。岳都ガタラ駅で\n　名物　ガタラのブタまんを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... A la gare de Gatara, j'aurais\nvoulu acheter les fameux Gatara Pig Buns, mais\nje n'en aurai probablement pas le temps."
+    },
+    "56614": {
+        "「うっうっ……。ドルワーム王国駅で\n　名物　銘菓　砂漠の月を買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... A la Station du Royaume de\nDolworm, je voulais acheter le fameux Moon\nDesert Dessert, mais il semble que je n'aurai<br>pas le temps."
+    },
+    "56615": {
+        "「うっうっ……。オルフェア駅で\n　名物　アクロバットケーキを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... Je voulais acheter le fameux\nAcrobatic Cake a la Station Orphea, mais il\nsemble que je n'aurai pas le temps."
+    },
+    "56616": {
+        "「うっうっ……。メギストリスの都駅で\n　名物　メギス鶏のからあげを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... Je voulais acheter le celebre\nMegis Fried Chicken a la gare de Megistris\nCity, mais je n'ai pas l'air d'avoir le temps."
+    },
+    "56617": {
+        "「うっうっ……。ジュレット駅で\n　名物　とこなつココナッツを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif snif... A la station Julet, je voulais\nacheter la fameuse Summer Coconut, mais il\nsemble que je n'aurai pas le temps."
+    },
+    "56618": {
+        "「うっうっ……。ヴェリナード城駅で\n　名物　女王様サブレを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... A la gare du Chateau de\nVerinard, j'aurais aime acheter les celebres\nsables de la reine, mais je crains de ne pas<br>avoir le temps..."
+    },
+    "56619": {
+        "「うっうっ……。グレン城下町駅で\n　名物　げんこつアメを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif snif... Je voulais acheter les celebres\nbonbons 'Poing' a la gare de Glen Castle Town,\nmais il semble que je n'aurai pas le temps."
+    },
+    "56620": {
+        "「うっうっ……。ガートラント城駅で\n　名物　オーガニックサラダを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... Je voulais acheter la celebre\nSalade Ogre-nic a la gare du Chateau de\nGartlant, mais on dirait que je n'aurai pas le<br>temps."
+    },
+    "56621": {
+        "「うっうっ……。娯楽島ラッカラン駅で\n　名物　コロシアムバーガーを買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... J'aurais voulu acheter le\ncelebre Coliseum Burger a la station de\nLuckland Island, mais il semble que je n'aurai<br>pas le temps."
+    },
+    "56622": {
+        "「うっうっ……。港町レンドア駅で\n　名物　グランドタイタス丼を買いたかったが\n　そんな時間は　なさそうじゃ。": "Snif, snif... A la station de Port Lendor, je\nvoulais acheter le celebre Grand Titus Bowl,\nmais il semble que je n'aurai pas le temps."
+    },
+    "56623": {
+        "「そ…そうじゃ！　ルシェンダさまには　まだ\n　わしと会えていないことに　しておくのじゃぞ！\n　くうっ……！　急がねば！": "So... c'est ca ! Fais comme si Lushenda-sama\nne m'avait pas encore rencontre ! Argh... ! Je\ndois me depecher !"
+    },
+    "56624": {
+        "「おおっ　<pc>ではないか！\n　頼んでおいた　浄化のハーブを\n　持ってきてくれたんじゃな！？": "Oh, mais ce ne serait pas <pc> ! Tu as\napporte l'Herbe Purificatrice que je t'avais\ndemandee ?"
+    },
+    "56625": {
+        "賢者ホーローに\n浄化のハーブを　渡しますか？<yesno><close>": "Voulez-vous donner l'Herbe Purifiante au sage\nHollow ?<yesno><close>"
+    },
+    "56626": {
+        "「ぐぬぬ！　なぜ　そんな意地悪を言う？\n　わしの賢者生命の　ピンチじゃ！\n　頼む！　今すぐ　渡してくれい！！": "Gnununu ! Pourquoi dis-tu des choses si\nmechantes ? Ma vie de sage est en danger ! Je\nt'en prie ! Donne-le-moi tout de suite !!"
+    },
+    "56627": {
+        "<pc>は　賢者ホーローに\n浄化のハーブを　渡した！": "<pc> a donne l'Herbe Purificatrice au\nsage Hollow !"
+    },
+    "56628": {
+        "「た…助かった！　感謝するぞ　<pc>。\n　さっそく　この浄化のハーブを使って\n　新しい秘薬を　仕上げねば……！": "Sa... sauve ! Je te remercie, <pc>. Je\ndois immediatement utiliser cette Herbe\nPurifiante pour concocter une nouvelle potion<br>secrete... !"
+    },
+    "56629": {
+        "「……わしの研究では　調合を重ねた　この薬に\n　浄化のハーブを　ワイルドかつ\n　センシティブに加えれば　完成するはず！": "Selon mes recherches, si j'ajoute cette herbe\npurificatrice au melange de ce medicament avec\nune touche de Ludo et une sensibilite Sen,<br>cela devrait etre parfait !"
+    },
+    "56630": {
+        "「……おおおっ！？　いい仕上がりじゃぞ！\n　あとは　今　仕上がった新しい秘薬を\n　これらに　ふりかければ　終わりじゃ！": "Ooooh !? Quel magnifique resultat ! Il ne\nreste plus qu'a saupoudrer ces objets avec la\nnouvelle potion secrete que je viens de<br>terminer, et ce sera fini !"
+    },
+    "56631": {
+        "「で……できたぞ！　<pc>。\n　この　ホーローの研究成果を\n　ルシェンダさまに　お届けしてくれい！": "J... J'ai reussi ! <pc>. Apporte ces\nResultats de Recherche d'Hollow a\nLushenda-sama !"
+    },
+    "56632": {
+        "<pc>は\nホーローの研究成果（だいじなもの）を\n受け取った！<me 60>": "<pc> a recu les Resultats de Recherche\nde Hollow (objets cles) ! <me 60>"
+    },
+    "56633": {
+        "「ふうっ。研究が完成して　ひと安心じゃわい。\n　……それはそうと　ルシェンダさまからの手紙\n　しかと　読ませてもらったぞ。": "Ouf. Je suis soulage que mes recherches soient\nenfin terminees. ... Soit dit en passant, j'ai\nbien lu la lettre de Lushenda-sama."
+    },
+    "56634": {
+        "「偽りの世界に落ちた　アンルシア姫を\n　この世界へ　救いだしたとは……\n　さすがの　はたらきじゃ　<pc>！": "F. Sauver la Princesse Anlucia, qui etait\ntombee dans le monde, pour la ramener dans ce\nmonde... C'est un exploit impressionnant,<br><pc> !"
+    },
+    "56635": {
+        "「グランゼドーラ王国の現状も　把握した。\n　他の賢者たちには　わしから伝えておこう。": "J'ai pris connaissance de la situation dans le\nRoyaume de Gran Zedora. Je vais informer les\nautres sages de cela."
+    },
+    "56636": {
+        "「次は～　アズラン～　アズラン～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station, AzLMP, AzLMP. L'ecart entre\nle train et le quai est large. Faites\nattention a vos pas en descendant s'il vous<br>plait."
+    },
+    "56637": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station : Kamiharmui City ～カミハルムイ～.\nL'ecart entre le train et le quai est large.\nVeuillez faire attention a vos pas en<br>descendant."
+    },
+    "56638": {
+        "「次は～　岳都ガタラ～　ガタラ～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station~ Mont Gatara~ Gatara~.\nFaites attention a l'ecart entre le train et\nle quai. Veuillez faire attention a vos pas en<br>descendant."
+    },
+    "56639": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station : Royaumes de Dolworm,\nRoyaumes de Dolworm. L'ecart entre le train et\nle quai est large. Veuillez faire attention a<br>vos pas en descendant, s'il vous plait."
+    },
+    "56640": {
+        "「次は～　オルフェア～　オルフェア～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station : Orphea, Orphea. L'ecart\nentre le wagon et le quai est important.\nVeuillez faire attention a vos pas en<br>descendant."
+    },
+    "56641": {
+        "「次は～　メギストリスの都　メギストリスの都。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station ~ Megistris City, Megistris\nCity. L'ecart entre le train et le quai est\nlarge. Veuillez faire attention a vos pas en<br>descendant."
+    },
+    "56642": {
+        "「次は～　ジュレット～　ジュレット～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station, Juretto, Juretto. L'ecart\nentre le train et le quai est important.\nVeuillez faire attention en descendant."
+    },
+    "56643": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station~ Chateau de Verinard~\nChateau de Verinard~. L'ecart entre le train\net le quai est large. Veuillez faire attention<br>a vos pas en descendant, s'il vous plait."
+    },
+    "56644": {
+        "「次は～　グレン城～　グレン城～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochaine station ~ Chateau de Glen ~ Chateau\nde Glen ~. L'ecart entre le train et le quai\nest large. Faites attention a vos pas en<br>descendant, s'il vous plait."
+    },
+    "56645": {
+        "「次は～　ガートラント城～　ガートラント城～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochain arret : Chateau de Gartlant, Chateau\nde Gartlant. L'ecart entre le train et le quai\nest large. Faites attention a vos pieds en<br>descendant."
+    },
+    "56646": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochain arret : Ile des loisirs, La Karan...\nLa Karan... L'ecart entre le train et le quai\nest large. Faites attention a vos pieds en<br>descendant."
+    },
+    "56647": {
+        "「次は～　港町レンドア～　レンドア～。\n　車両と　ホームの間が　広くなっております。\n　足もとに気をつけて　お降りください。": "Prochain arret : Port Lendor, Lendor. L'ecart\nentre le train et le quai est important.\nVeuillez faire attention a vos pieds en<br>descendant."
+    },
+    "56648": {
+        "「おお。もう着いたか……。\n　くれぐれも　賢者ルシェンダさまには\n　失礼のないよう　礼節を持って接するのだぞ。": "Oh. Nous sommes deja arrives... Veille a ne\npas manquer de respect envers Sage\nLushenda-sama et fais preuve de courtoisie en<br>sa presence."
+    },
+    "56649": {
+        "「いかん！　今日こそは　アズラン駅で\n　名物　カムシカせんべえを買うんじゃった。\n　こりゃ　急がねば！": "Non ! Aujourd'hui, je dois absolument acheter\nles celebres crackers Azlantelope a Azlan\nStation. Je dois me depecher !"
+    },
+    "56650": {
+        "「いかん！　今日こそは　王都カミハルムイ駅で\n　名物　王都の桜もちを買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! Aujourd'hui, je devais absolument\nacheter le celebre Royal Cherry Mochi a la\nstation Kamiharmui. Je dois me depecher !"
+    },
+    "56651": {
+        "「いかん！　今日こそは　岳都ガタラ駅で\n　名物　ガタラのブタまんを買うんじゃった。\n　こりゃ　急がねば！": "Ca ne va pas ! Aujourd'hui, je dois absolument\nacheter les fameux Gatara Pig Buns a la Gare\nde Gatara. Je dois me depecher !"
+    },
+    "56652": {
+        "「いかん！　今日こそは　ドルワーム王国駅で\n　名物　銘菓　砂漠の月を買うんじゃった。\n　こりゃ　急がねば！": "Ah non ! Aujourd'hui, je devais absolument\nacheter le celebre Moon Desert Dessert a la\nStation du Royaume de Dolworm. Vite, il faut<br>que je me depeche !"
+    },
+    "56653": {
+        "「いかん！　今日こそは　オルフェア駅で\n　名物　アクロバットケーキを買うんじゃった。\n　こりゃ　急がねば！": "Ca ne va pas ! Aujourd'hui, je devais\nabsolument acheter le fameux Acrobatic Cake a\nla station Orphea. Je dois me depecher !"
+    },
+    "56654": {
+        "「いかん！　今日こそは　メギストリスの都駅で\n　名物　メギス鶏のからあげを買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! Aujourd'hui, je devais absolument\nacheter le fameux Megis Fried Chicken a la\nMegistris City Station. Je dois me depecher !"
+    },
+    "56655": {
+        "「いかん！　今日こそは　ジュレット駅で\n　名物　とこなつココナッツを買うんじゃった。\n　こりゃ　急がねば！": "Pas question ! Aujourd'hui, je dois absolument\nacheter la fameuse Summer Coconut a la station\nJulet. Je dois me depecher !"
+    },
+    "56656": {
+        "「いかん！　今日こそは　ヴェリナード城駅で\n　名物　女王様サブレを買うんじゃった。\n　こりゃ　急がねば！": "Il faut que je me depeche ! Aujourd'hui, je\ndois absolument acheter les fameux sables de\nla reine a la station du Chateau Verinard. Je<br>dois me presser !"
+    },
+    "56657": {
+        "「いかん！　今日こそは　グレン城下町駅で\n　名物　げんこつアメを買うんじゃった。\n　こりゃ　急がねば！": "Ah non ! Aujourd'hui, je devais absolument\nacheter le fameux bonbon au poing a la station\nGlen Castle Town. Je dois me depecher !"
+    },
+    "56658": {
+        "「いかん！　今日こそは　ガートラント城駅で\n　名物　オーガニックサラダを買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! Aujourd'hui, je devais absolument\nacheter la celebre Salade Ogre-nic a la\nstation du chateau de Gartlant. Je dois me<br>depecher !"
+    },
+    "56659": {
+        "「いかん！　今日こそは　娯楽島ラッカラン駅で\n　名物　コロシアムバーガーを買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! Aujourd'hui, je devais absolument\nacheter le fameux Coliseum Burger a la station\nde Luckland Island. Je dois me depecher !"
+    },
+    "56660": {
+        "「いかん！　今日こそは　港町レンドア駅で\n　名物　グランドタイタス丼を買うんじゃった。\n　こりゃ　急がねば！": "Il faut que je me depeche ! Aujourd'hui, je\ndois absolument acheter le fameux Grand Titus\nBowl a la station de Port Lendor. Je dois me<br>presser !"
+    },
+    "56661": {
+        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また会おう！": "Alors, pour aujourd'hui, c'est un au revoir.\nQuand les voies du destin se croiseront, nous\nnous reverrons !"
+    },
+    "56662": {
+        "「ほう……　これは！": "Ho... Qu'est-ce que c'est !"
+    },
+    "56663": {
+        "「うん。うまい！\n　作りたての味が　しっかり保持されておる！": "Oui. Delicieux ! Le gout frais est\nparfaitement conserve !"
+    },
+    "56664": {
+        "「これなら　たとえ　数年経った料理でも\n　できたてと変わらぬ味で\n　おいしく　食べられるだろうな。": "Avec ca, meme un plat prepare il y a plusieurs\nannees peut etre deguste avec la meme saveur\nqu'un plat fraichement cuisine."
+    },
+    "56665": {
+        "「……まったく　ホーローのヤツめ。\n　これほどの技を　持っているのに\n　追いつめられないと　できないとは　情けない。": "Vraiment, ce Hollow. Il possede une technique\naussi puissante, et pourtant, il ne peut\nl'utiliser que lorsqu'il est accule. C'est<br>pitoyable."
+    },
+    "56666": {
+        "「きっと　今回も　あわてて\n　<pc>に手伝ってくれるよう\n　泣きついたことだろうて……。": "Je parie qu'encore une fois, il s'est\nprecipite pour demander de l'aide a <pc>\nen pleurant..."
+    },
+    "56667": {
+        "「だが　これだけの成果を上げれば　上出来だ。\n　この料理に使われている秘薬を　広めてやれば\n　世界中の料理人が　よろこぶだろうな。": "Mais obtenir un tel resultat, c'est\nimpressionnant. Si nous diffusons l'elixir\nsecret utilise dans ce plat, les chefs du<br>monde entier en seront ravis."
+    },
+    "56668": {
+        "「うん？　ホーローの使命に関わるという研究が\n　こんなに　地味なものだったとは\n　……とでも言いたげな　顔だな。": "Hmm ? Tu sembles surpris que la recherche liee\na la mission de Hollow soit si... discrete."
+    },
+    "56669": {
+        "「人々の生活のために\n　その叡智を役立てるのも　賢者の務めなのだぞ。": "Il est du devoir du sage d'utiliser sa sagesse\npour le bien-etre des gens."
+    },
+    "56670": {
+        "「……とはいえ　これから　しばらくは\n　その叡智を　大魔王マデサゴーラとの\n　戦いのために　結集させることになるだろう。": "...Cela dit, pour l'instant, nous devrons\nprobablement concentrer toute notre sagesse\npour combattre Madesagora."
+    },
+    "56671": {
+        "「我らは　そうして歴史の陰から\n　世界を支えてきた　善なる知識の守護者……": "Nous avons ainsi soutenu le monde dans l'ombre\nde l'histoire, en tant que gardiens du savoir\nbienveillant..."
+    },
+    "56672": {
+        "「叡智の冠なのだから。": "Parce que c'est la Couronne de la Sagesse."
+    },
+    "56673": {
+        "「……今回のはたらき　ご苦労であったな。\n　私の見込んだ通り　やはり　そなたは\n　信頼に値する人物であると確信した。": "Ce que tu as accompli cette fois est\nremarquable. Comme je l'avais predit, je suis\nconvaincu que tu es une personne digne de<br>confiance."
+    },
+    "56674": {
+        "「これからも　協力を頼むぞ。<pc>。\n　これは　ホーローに手紙を届け　研究成果を\n　持ちかえってくれた礼だ。受け取ってくれ。": "Je compte sur ta cooperation a l'avenir.\n<pc>. Voici une recompense pour avoir\nlivre la lettre a Hollow et rapporte les<br>resultats de la recherche. Accepte-la, s'il te\nplait."
+    },
+    "56675": {
+        "「引き続き　レンダーシアの調査を進めてくれ！\n　旅をして出会った人々に　チカラを貸してゆけば\n　やがて　世界の謎の全容が　見えてくるだろう。": "Continue a explorer Rendashia ! En aidant les\npersonnes que tu rencontres au cours de ton\nvoyage, les mysteres du monde te seront<br>bientot reveles."
+    }
+}
