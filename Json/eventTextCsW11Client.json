@@ -18,13 +18,13 @@
         "「きゃああああっ　<pc>っ！！！！": "Kyaaaaah, <pc> !"
     },
     "1944": {
-        "「我らの友人　<pc>は　幼きころに\n　ただひとり　小舟に乗せられ\n　このレーンの村へと　流れ着いた。": "Notre ami <pc>, lorsqu'il etait enfant,\na ete place seul sur un Small Boat et a derive\njusqu'a ce village de Lane."
+        "「我らの友人　<pc>は　幼きころに\n　ただひとり　小舟に乗せられ\n　このレーンの村へと　流れ着いた。": "<if_woman>Notre amie <pc> a ete mise seule dans\nune petite embarcation et a derive jusqu'a\nLane dans son enfance.<else>Notre ami <pc> a ete mis seul dans\nune petite embarcation et a derive jusqu'a\nLane dans son enfance.<endif>"
     },
     "1945": {
         "「この村で送った日々は　<pc>に\n　多くの幸福と　そして安息を与えたと\n　我らは　信じよう……。": "Les jours passes dans ce village ont apporte a\n<pc> beaucoup de bonheur et de paix,\nnous voulons le croire..."
     },
     "1946": {
-        "「<pc>は　母なる海へと還り\n　新たなる旅立ちを迎える。\n　皆で笑って　送りだそうではないか。": "<pc> retourne a la mer mere pour entamer\nun nouveau voyage. Rions tous ensemble pour\nl'accompagner."
+        "「<pc>は　母なる海へと還り\n　新たなる旅立ちを迎える。\n　皆で笑って　送りだそうではないか。": "<pc> retourne a la mer mere et entame un\nnouveau voyage.<br>Disons-lui adieu avec le sourire,\ntous ensemble."
     },
     "1947": {
         "「ううっ　<pc>……。\n　私が急に　声をかけたりしたから\n　こんなことに……。": "Ooh, <pc>... C'est parce que je t'ai\ninterpelle si soudainement que tout cela est\narrive..."
@@ -240,7 +240,7 @@
         "「ああ　あそこか。奥には地底湖が\n　広がってるって　聞いたことがあるぜ。": "Ah, la-bas ? J'ai entendu dire qu'il y a un\nlac souterrain qui s'etend a l'interieur."
     },
     "2021": {
-        "「そう　その地底湖だ。洞くつの奥にある\n　地底湖の水を　持ちかえってくることが\n　シェルナー試験の内容だ。": "Oui, c'est bien ce lac souterrain. Le contenu\nde l'epreuve de Shellner consiste a rapporter\nl'eau du lac souterrain situe au fond de la<br>caverne."
+        "「そう　その地底湖だ。洞くつの奥にある\n　地底湖の水を　持ちかえってくることが\n　シェルナー試験の内容だ。": "Oui, c'est bien ce lac souterrain.\nL'epreuve de Shelnar consiste a aller chercher\nson eau au fond de la grotte."
     },
     "2022": {
         "「このビンに　地底湖の水を汲み\n　先に持ちかえったほうを　シェルナーとする！": "Remplissez cette bouteille avec l'eau du lac\nsouterrain. Celui qui la ramenera en premier\nsera le Shelna !"
@@ -255,7 +255,7 @@
         "「……地底湖の水はな。\n　ビンに入れたまま　ほうっておくと\n　その美しい色合いが　消えてしまうのだ。": "L'eau du lac souterrain, tu sais. Si tu la\nlaisses dans une bouteille trop longtemps, sa\nbelle couleur finit par disparaitre."
     },
     "2027": {
-        "「だから　水を汲んだら　太陽と月が\n　ひと巡りする前に　わしの所へ持ってこい！\n　わかったな　ふたりとも！！": "Donc, une fois que vous avez puise l'eau,\napportez-la chez moi avant que le soleil et\nMn. aient fait un tour complet ! Vous avez<br>compris, tous les deux !!"
+        "「だから　水を汲んだら　太陽と月が\n　ひと巡りする前に　わしの所へ持ってこい！\n　わかったな　ふたりとも！！": "Alors, une fois l'eau prelevee, ramenez-la-moi\navant que le soleil et la lune ne fassent un\ntour complet !<br>C'est bien compris, vous deux ?"
     },
     "2028": {
         "「しかたねえな。やってやるよ。\n　<pc>よりも早く\n　このオレが　持ってきてやるぜ。": "Tant pis. Je vais le faire. Avant que\n<pc> ne l'apporte, je vais le ramener\nmoi-meme."
@@ -783,7 +783,7 @@
         "「確かに　ここの水は\n　他の水とは　ちがうらしいな。": "Il parait que l'eau d'ici est vraiment\ndifferente des autres."
     },
     "7288": {
-        "「これで　よし……と。": "Voila, c'est bon... et."
+        "「これで　よし……と。": "Voila, c'est bon..."
     },
     "7289": {
         "「あとは　村に帰るだけか。\n　で　早く着いたほうが\n　シェルナーに　なれるってわけだ……。": "Il ne reste plus qu'a retourner au village.\nCelui qui arrivera en premier deviendra un\nShellner..."
