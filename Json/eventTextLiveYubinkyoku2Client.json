@@ -78,7 +78,7 @@
     "「では　お受けいたしました！\n　こちらは　確かに　お届けいたします！\n<bw_break>": "Thank you! I'll have it sent out right away!\n<bw_break>"
   },
   "50504": {
-    "「郵便局へ　ようこそ！\n　本日は　どんな　ご用ですか？\n<break>": "<kyodai_rel1><kyodai_rel2><kyodai_rel3>\n<pc_rel1><pc_rel2><pc_rel3><break>"
+    "「郵便局へ　ようこそ！\n　本日は　どんな　ご用ですか？\n<break>": "Bienvenue a la poste !\nQue puis-je faire pour vous aujourd’hui ?<break>"
   },
   "50505": {
     "<select_se_off>\nうけとる\n売り上げうけとり\nおくる\nおもいで私書箱を見る\n説明を聞く\n<select_end><break>": "<select_se_off>\nreceive\nreceipt of sales\nsend (a thing)\nView the POBOX\nListen to the explanation\n<select_end><break>"
