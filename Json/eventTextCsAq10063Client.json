@@ -33,16 +33,16 @@
         "「これは　ラーディス王からの挑戦なんだ。\n　男王を目指す者よ　封印を解けるものなら\n　解いてみろ……。そう言っているんだ。": "C'est un defi de la part du roi Raddis. Pour\nceux qui aspirent a devenir le roi des hommes,\ns'ils peuvent briser le sceau, qu'ils essaient<br>de le faire... C'est ce qu'il dit."
     },
     "20370": {
-        "「この石版には　こう書かれている。\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に葬ろう……。": "Cette stele porte l'inscription suivante : ...\nJ'ai prete serment aux cinq voix de Shellner.\nEnsevelissons le chant dans le chant..."
+        "「この石版には　こう書かれている。\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に葬ろう……。": "Cette stele porte l'inscription suivante :<break>\"... J'ai prete serment aux Cinq Voix du\nCoquillier. Que le chant soit enseveli dans le\nchant...\""
     },
     "20371": {
         "「この文章は　男王の唄う育みの歌を\n　封印した場所を　示していると思うんだ。": "Je pense que ce texte indique l'endroit ou le\nChant de la Nourriture chante par le Roi des\nHommes est scelle."
     },
     "20372": {
-        "「君も知っているかもしれないが　シェルナーとは\n　レーンという村の　結婚の立会人のことだ。": "Tu le sais peut-etre deja, mais un Shelner est\nle temoin de mariage dans le village de Lain."
+        "「君も知っているかもしれないが　シェルナーとは\n　レーンという村の　結婚の立会人のことだ。": "Tu le sais peut-etre deja, mais a Lane,\nle Coquillier est le temoin des mariages."
     },
     "20373": {
-        "「そのシェルナーが　男王の歌に\n　どんな関係があるのかは　わからない。": "Je ne sais pas quel lien cet Shelner a avec la\nchanson du Roi Homme."
+        "「そのシェルナーが　男王の歌に\n　どんな関係があるのかは　わからない。": "Je ne sais pas quel lien ce Coquillier a avec\nla chanson du roi des hommes."
     },
     "20374": {
         "「だから　僕は　レーンの村に確かめにいく。\n　<pc>君に　同行してもらいたいのだが\n　来てくれるか？": "Donc, je vais aller verifier au village de\nLane. J'aimerais que tu m'accompagnes,\n<pc>-kun. Tu viens avec moi ?"
@@ -54,13 +54,13 @@
         "「ここから先は　調査員たちを使わずに\n　僕と　<pc>君の　ふたりで\n　ことを進めたいと思う。よろしく頼む。": "A partir d'ici, je souhaite avancer sans\nutiliser les enqueteurs, juste avec\n<pc>-kun et moi. Je compte sur toi."
     },
     "20377": {
-        "「そういえば　<pc>君は\n　レーンの村の出身じゃなかったか？\n　シェルナーについて　知っていることはないか？": "Au fait, <pc>-kun, tu ne viens pas du\nvillage de Lane ? Est-ce que tu sais quelque\nchose sur Shellner ?"
+        "「そういえば　<pc>君は\n　レーンの村の出身じゃなかったか？\n　シェルナーについて　知っていることはないか？": "Au fait, <pc>,\ntu es originaire de Lane, non ?\nTu ne saurais rien sur le Coquillier ?"
     },
-    "20378": {
-        "「……そうか。君は　アーシクとキールという\n　夫婦のシェルナーをやったのか。\n　だが　それ以上のことは　知らないのだな。": "…Je vois. Tu etais le Shelner pour le couple\nAashik et Keel. Mais tu ne sais rien de plus,\nn'est-ce pas."
+        "20378": {
+        "「……そうか。君は　アーシクとキールという\n　夫婦のシェルナーをやったのか。\n　だが　それ以上のことは　知らないのだな。": "…Je vois. Tu as ete Coquillier pour le couple\nAashik et Keel.\nMais tu n'en sais pas plus, hein ?"
     },
     "20379": {
-        "「僕は　シェルナーのことを　レーンの村の者に\n　手当たり次第に　聞いてみるつもりだ。\n　君も　そうしてくれると　助かる。": "Je vais demander a n'importe qui dans le\nvillage de Lanelle s'il connait Shellner. Si\ntu pouvais faire de meme, cela m'aiderait."
+        "「僕は　シェルナーのことを　レーンの村の者に\n　手当たり次第に　聞いてみるつもりだ。\n　君も　そうしてくれると　助かる。": "Je vais demander à tous les habitants de Lane\nce qu’ils savent sur le Coquillier.\nSi tu pouvais faire de meme, ca m’aiderait."
     },
     "20380": {
         "「では　すぐに出発するぞ。\n　<pc>君も　レーンの村へ急いでくれ！": "Alors, partons immediatement. <pc>-kun,\ndepeche-toi de rejoindre le village de Lene !"
@@ -81,13 +81,13 @@
         "「おお。<pc>君か……。\n　チカラを貸す気に　なってくれたか。": "Oh, c'est toi, <pc>-kun... Tu as\nfinalement decide de nous preter main-forte."
     },
     "20386": {
-        "「この石版には　こう書かれている。\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に葬ろう……。": "Cette stele porte l'inscription suivante : ...\nJ'ai prete serment aux cinq voix de Shellner.\nEnsevelissons le chant dans le chant..."
+        "「この石版には　こう書かれている。\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に葬ろう……。": "Cette stele porte l'inscription suivante :<break>\"... J'ai prete serment aux dCinq Voix du\nCoquillier. Que le chant soit enseveli dans le\nchant...\""
     },
     "20387": {
-        "「君も知っているかもしれないが　シェルナーとは\n　レーンという村の　結婚の立会人のことだ。": "Tu le sais peut-etre deja, mais un Shelner est\nle temoin de mariage dans le village de Lain."
+        "「君も知っているかもしれないが　シェルナーとは\n　レーンという村の　結婚の立会人のことだ。": "Tu le sais peut-etre deja, mais a Lane,\nle Coquillier est le temoin des mariages."
     },
     "20388": {
-        "「そのシェルナーが　男王の歌に\n　どんな関係があるのかは　わからない。": "Je ne sais pas quel lien cet Shelner a avec la\nchanson du Roi Homme."
+        "「そのシェルナーが　男王の歌に\n　どんな関係があるのかは　わからない。": "Je ne sais pas quel lien ce Coquillier a avec\nla chanson du roi des hommes."
     },
     "20389": {
         "「だから　僕は　レーンの村に確かめにいく。\n　<pc>君に　同行してもらいたいのだが\n　来てくれるか？": "Donc, je vais aller verifier au village de\nLane. J'aimerais que tu m'accompagnes,\n<pc>-kun. Tu viens avec moi ?"
@@ -99,13 +99,13 @@
         "「これは　おどろいた。本当に王子様だ。\n　いったい　なんの用で　うちなんかに……。": "Quelle surprise. Un vrai prince, ici.\nQu'est-ce qui peut bien vous amener chez\nnous... ?"
     },
     "20392": {
-        "「この村の夫婦に　シェルナーというものについて\n　聞いてまわっているところだ。\n　あなたは　何か　知っていることはないか？": "Je suis en train de demander aux couples de ce\nvillage a propos de ce qu'on appelle Shelnar.\nEst-ce que tu sais quelque chose a ce sujet ?"
+        "「この村の夫婦に　シェルナーというものについて\n　聞いてまわっているところだ。\n　あなたは　何か　知っていることはないか？": "Je suis en train de demander aux couples de ce\nvillage ce qu'ils savent sur le Coquillier.\nEst-ce que tu en sais quelque chose ?"
     },
     "20393": {
-        "「はあ……。シェルナーというのは\n　この村に伝わる　ならわしで\n　結婚する者の立会人をする……": "Haa... Le shelnar est une tradition transmise\ndans ce village, ou l'on devient temoin pour\nceux qui se marient..."
+        "「はあ……。シェルナーというのは\n　この村に伝わる　ならわしで\n　結婚する者の立会人をする……": "Haah... Le Coquillier, c'est une tradition de\nce village.\nIl fait office de temoin lors des mariages..."
     },
     "20394": {
-        "「それは　僕も知っている。\n　もっと他に　シェルナーについて\n　あなたが　知っていることはないか？": "Ca, je le sais aussi. Y a-t-il autre chose que\ntu connaisses sur Shelnar ?"
+        "「それは　僕も知っている。\n　もっと他に　シェルナーについて\n　あなたが　知っていることはないか？": "Ca, je le sais deja.\nMais y a-t-il autre chose que tu sais sur le\nCoquillier ?"
     },
     "20395": {
         "「他に……ですか。むむむ……。": "D'autres options... ? Hum, voyons voir..."
@@ -114,19 +114,19 @@
         "「おおっ　あった　ありました！": "Oh, je l'ai trouve !"
     },
     "20397": {
-        "「死んだ祖父が　シェルナーをやったようで。\n　今のシェルナーは　本来のシェルナーの姿じゃ\n　ないという話を　聞いたことがあります。": "Mon grand-pere decede jouait le role de\nShellner. J'ai entendu dire que le Shellner\nactuel ne reflete pas l'apparence originale de<br>Shellner."
+        "「死んだ祖父が　シェルナーをやったようで。\n　今のシェルナーは　本来のシェルナーの姿じゃ\n　ないという話を　聞いたことがあります。": "Mon grand-pere, aujourd'hui decede, a ete\nCoquillier.<br>J’ai entendu dire que le role du Coquillier\nactuel n’est plus ce qu’il etait à l’origine."
     },
     "20398": {
         "「おおっ　それは　興味深い話だ。\n　ぜひ　聞かせてくれ！": "Oh, voila une histoire interessante.\nRaconte-moi tout, je t'en prie !"
     },
     "20399": {
-        "「祖父の話によれば　シェルナーってのは\n　もともとは　このウェナ諸島を守る勇士に\n　与えられる名前だったと　いうことなんです。": "D'apres ce que disait mon grand-pere, le nom\nde Shellner etait a l'origine attribue aux\nbraves guerriers qui protegeaient les iles de<br>Wena."
+        "「祖父の話によれば　シェルナーってのは\n　もともとは　このウェナ諸島を守る勇士に\n　与えられる名前だったと　いうことなんです。": "D'apres mon grand-pere, le titre de Coquillier\netait a l'origine donne aux guerriers charges\nde proteger l’archipel de Wena."
     },
     "20400": {
         "「勇士になる者は　シエラ巡礼地って場所で\n　儀式をしなきゃならないんだとか。": "Ceux qui veulent devenir des heros doivent\nparticiper a une ceremonie dans un endroit\nappele Sierra Shrinelands."
     },
     "20401": {
-        "「そんで　勇士には　シェルナーって名前が\n　与えられたっていう　もっともらしい話でした。\n　本当かどうかは　責任は持ちませんが。": "Et donc, on raconte que le heros a recu le nom\nde Sherrner. Ca semble credible. Je ne\ngarantis pas la veracite de cette histoire,<br>cependant."
+        "「そんで　勇士には　シェルナーって名前が\n　与えられたっていう　もっともらしい話でした。\n　本当かどうかは　責任は持ちませんが。": "Apparemment, ces guerriers recevaient le titre\nde Coquillier. Ça parait plausible, mais je ne\npeux pas garantir que ce soit vrai."
     },
     "20402": {
         "「オレが聞いたのは　こんなもんです。\n　すみませんね　王子様。": "C'est tout ce que j'ai entendu. Desole,\nprince."
@@ -141,7 +141,7 @@
         "「シエラ巡礼地というのは　実在している。\n　たしか　この島の北にある場所が　そうだ。\n　彼の話は　真実かもしれない。": "Les terres sacrees de Sierra Shrinelands\nexistent reellement. Je suis presque sur que\nc'est un endroit au nord de cette ile. Son<br>histoire pourrait etre vraie."
     },
     "20406": {
-        "「ならば　ラーディス王の石版に書かれた\n　シェルナーの五声というのも　シエラ巡礼地に\n　関わりがあると　考えられるな。": "Dans ce cas, on peut supposer que les Cinq\nVoix de Schernar, mentionnees sur la stele du\nroi Radis, ont egalement un lien avec Sierra<br>Shrinelands."
+        "「ならば　ラーディス王の石版に書かれた\n　シェルナーの五声というのも　シエラ巡礼地に\n　関わりがあると　考えられるな。": "Dans ce cas, les Cinq Voix du Coquillier\nmentionnees sur la stele du roi Ladis\npourraient etre liees au sanctuaire de Sierra."
     },
     "20407": {
         "「さっそく　確かめにいってみよう！\n　レーナム緑野の北東が　シエラ巡礼地のはずだ。\n　<pc>君も　来てくれ！！": "Allons verifier ca tout de suite ! Au nord-est\ndes Lenam Fields, il devrait y avoir les\nSierra Shrinelands. Viens avec nous,<br><pc>-kun !"
@@ -153,16 +153,16 @@
         "「僕は　ヴェリナードの王子　オーディス。\n　あなたは　ここで　何をしている？": "Je suis Audis, le prince de Velinard. Que\nfais-tu ici ?"
     },
     "20410": {
-        "「私は　ナフナー。\n　五声の祈りを捧げる　シェルナーの案内人。\n　だが　もはや　その役は終えた……。": "Je suis Nafuna. Je suis la guide de Shellner,\noffrant la priere des cinq voix. Mais ce role\nest desormais termine..."
+        "「私は　ナフナー。\n　五声の祈りを捧げる　シェルナーの案内人。\n　だが　もはや　その役は終えた……。": "Je suis Nafuna\nguide des Coquillier et gardienne de la priere\ndes Cinq Voix.<br>Mais ce role est desormais revolu..."
     },
     "20411": {
-        "「シェルナーのチカラ……。\n　それは　失われた　古のチカラ。\n　そなたは　それを求めるのか？": "Le pouvoir de Shelner... C'est le pouvoir\nperdu de l'Ancien. Le recherches-tu ?"
+        "「シェルナーのチカラ……。\n　それは　失われた　古のチカラ。\n　そなたは　それを求めるのか？": "Le pouvoir du Coquillier…\nUne force ancienne, aujourd’hui disparue.\nCherches-tu a l’obtenir ?"
     },
     "20412": {
-        "「ナフナー殿。僕は　シェルナーではなく\n　王になるために　ここに来た。": "Nafuna-dono. Je ne suis pas venu ici pour etre\nun simple aventurier, mais pour devenir roi."
+        "「ナフナー殿。僕は　シェルナーではなく\n　王になるために　ここに来た。": "Dame Nafuna, je ne suis pas venu ici pour etre\nCoquillier, mais pour devenir roi."
     },
     "20413": {
-        "「シェルナーの五声とは\n　何を指す言葉なのか　教えてくれないか？": "Pourrais-tu m'expliquer ce que designent les\nCinq Voix de Shellner ?"
+        "「シェルナーの五声とは\n　何を指す言葉なのか　教えてくれないか？": "Dame Nafuna, pourriez-vous m’expliquer ce que\ndesignent exactement les Cinq Voix du\nCoquillier ?"
     },
     "20414": {
         "「五声とは　我らの発する声の持つチカラ。\n　すなわち　『呼』『言』『歌』『哭』『呻』の\n　五つの思いの表れなり。": "Les cinq voix representent la puissance de\nnotre voix. Elles se manifestent a travers\ncinq expressions : 'Appel', 'Parole', 'Chant',<br>'Pleurs' et 'Gemissements'."
@@ -174,7 +174,7 @@
         "「五声の中には　『歌』があるんだな……。\n　石版にあった　歌は　歌に葬るという言葉は\n　これを指しているのだろうか。": "Parmi les cinq voix, il y a le chant, n'est-ce\npas... Les mots sur la stele, enterrer par le\nchant, se referent-ils a cela ?"
     },
     "20417": {
-        "「五声の地は　シエラ巡礼地に　散らばる。\n　巡礼者は　自らの足で　五声を求め\n　儀式の後に　シェルナーとなる。　": "Les Terres des Cinq Voix sont dispersees a\ntravers les Sierra Shrinelands. Les pelerins\nrecherchent les Cinq Voix par eux-memes et<br>deviennent des Shelner apres le rituel."
+        "「五声の地は　シエラ巡礼地に　散らばる。\n　巡礼者は　自らの足で　五声を求め\n　儀式の後に　シェルナーとなる。　": "Les Terres des Cinq Voix sont dispersees a\ntravers le sanctuaire de Sierra.<br>Les pelerins doivent les trouver par eux-memes\net, apres le rituel, ils deviennent\nCoquilliers."
     },
     "20418": {
         "「……なるほど。五声の中の『歌』は\n　このシエラ巡礼地に　あるということだな。\n　ならば　それを探してみよう。": "Je vois. Le 'Chant' parmi les cinq voix se\ntrouve donc dans ces Terres Sacrees de Sierra.\nDans ce cas, cherchons-le."
@@ -201,7 +201,7 @@
         "「五声のひとつ　『歌』の声。\n　言葉を音に乗せ　思いをつむぐ声なり。": "L'une des cinq voix : la voix du chant. Une\nvoix qui tisse des pensees en portant des mots\nsur la melodie."
     },
     "20426": {
-        "「あなたは　この言葉に心当たりはないだろうか？\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に　葬ろう……という言葉だ。": "N'aurais-tu pas entendu ces mots quelque part\n? ... J'ai jure sur les cinq voix de Shellner.\nEnterrer le chant dans le chant... voila ce<br>que j'ai dit."
+        "「あなたは　この言葉に心当たりはないだろうか？\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に　葬ろう……という言葉だ。": "Avez-vous deja entendu ces mots ?<br>\"J’ai prete serment aux Cinq Voix du\nCoquillier.\nQue le chant soit enseveli dans le chant...\""
     },
     "20427": {
         "「その言葉を　どのようにして　お知りになった？": "Comment avez-vous appris ces mots ?"
@@ -234,9 +234,9 @@
         "「この歌が　恵みの歌と　同じ効果を出せれば\n　僕は　王になる資格を得たことになる！\n　さっそく　城へ帰って　準備をしなければ。": "Si cette chanson peut produire les memes\neffets que le Chant de la Benediction, alors\nj'aurai prouve que je suis digne de devenir<br>roi ! Je dois rentrer immediatement au chateau\net me preparer."
     },
     "20437": {
-        "「<pc>君。いろいろと手伝ってもらい\n　君には　感謝の言葉もない。\n　報酬として　これを受け取ってほしい。": "<pc>-kun. Tu m'as beaucoup aide, et je\nn'ai pas de mots pour te remercier. J'aimerais\nque tu acceptes ceci en guise de recompense."
+        "「<pc>君。いろいろと手伝ってもらい\n　君には　感謝の言葉もない。\n　報酬    として　これを受け取ってほしい。": "<pc>-kun. Tu m'as beaucoup aide, et je\nn'ai pas de mots pour te remercier. J'aimerais\nque tu acceptes ceci en guise de recompense."
     },
     "20438": {
-        "「僕は　王となって　この諸島を守っていこう。\n　かつて　シェルナーという勇士が\n　そうしていたように……。": "Je deviendrai roi et protegerai cet archipel.\nTout comme le valeureux Shellner l'avait fait\nautrefois..."
+        "「僕は　王となって　この諸島を守っていこう。\n　かつて　シェルナーという勇士が\n　そうしていたように……。": "Je deviendrai roi et protegerai cet archipel,\ncomme l’avaient fait autrefois les vaillants\nCoquilliers."
     }
 }
