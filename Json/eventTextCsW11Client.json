@@ -3,7 +3,7 @@
         "「ずいぶんと　ウデを上げたじゃねえか！\n　<pc>！！": "Tu t'es sacrement ameliore, <pc> !"
     },
     "1939": {
-        "「だがな！　シェルナーに選ばれるのは\n　このオレ　ヒューザさまだぜっ！！": "Cependant ! Celui qui sera choisi par\nShellner, c'est moi, Hyuza-sama !!"
+        "「だがな！　シェルナーに選ばれるのは\n　このオレ　ヒューザさまだぜっ！！": "Mais au final, c’est moi, le grand Hyuza,\nqui ai ete choisi comme Coquillier !!"
     },
     "1940": {
         "「そろそろ　勝負を決めるとするかっ！": "Il est temps de conclure ce combat !"
@@ -33,7 +33,7 @@
         "「わっわっ　ルベカちゃん！\n　お願いだから　泣かないで。": "Wa wa, Lubeka-chan ! S'il te plait, ne pleure\npas."
     },
     "1949": {
-        "「これから　シェルナーを決めようかという時に\n　なんということを。ヒューザ……。": "Alors que nous nous appretions a choisir le\nShelnar, quel malheur... Hyuza..."
+        "「これから　シェルナーを決めようかという時に\n　なんということを。ヒューザ……。": "Alors que nous etions sur le point de choisir\nle Coquillier...\nComment as-tu pu faire ca, Hyuza..."
     },
     "1950": {
         "「オレは殺す気なんて　なかったぜ　村長？\n　剣の修行を　してただけだからな。": "Je n'avais pas l'intention de tuer, chef du\nvillage. Je m'entrainais juste a l'epee."
@@ -78,7 +78,7 @@
         "「ルベカちゃんが　気に病むことはないんだよ。\n　ほら　<pc>は　無事だったんだし。": "Rubeka-chan, tu n'as pas a t'inquieter.\nRegarde, <pc> est sain et sauf."
     },
     "1964": {
-        "「まあ　なんにせよ　生きていてよかったな。\n　シェルナーは予定どおり　お前と　ヒューザの\n　どちらかから　選ぶことにするからな？": "Quoi qu'il en soit, je suis content que tu\nsois en vie. Shelner choisira entre toi et\nHyuza comme prevu."
+        "「まあ　なんにせよ　生きていてよかったな。\n　シェルナーは予定どおり　お前と　ヒューザの\n　どちらかから　選ぶことにするからな？": "Quoi qu’il en soit, l’important, c’est que tu\nsois en vie.<br>Comme prevu, le Coquillier sera choisi entre\ntoi et Hyuza."
     },
     "1965": {
         "「<pc>の　葬式は中止だ！\n　みんなも　家に帰った帰った！！": "Les funerailles de <pc> sont annulees !\nTout le monde, rentrez chez vous, rentrez chez\nvous !"
@@ -216,7 +216,7 @@
         "「……いかん　忘れておった。\n　村長が　おぬしと　ヒューザを呼んでいたのだ。": "......Ah, j'avais oublie. Le chef du village\nvous a convoques, toi et Hyuza."
     },
     "2013": {
-        "「いよいよ　シェルナー選びを行うようだ。\n　すぐに　村へ帰るのだぞ　<pc>。": "Il est enfin temps de choisir ton partenaire\nShellner. Retourne immediatement au village,\n<pc>."
+        "「いよいよ　シェルナー選びを行うようだ。\n　すぐに　村へ帰るのだぞ　<pc>。": "Il est enfin temps de choisir le Coquillier.\nRetourne vite au village,\n<pc>."
     },
     "2014": {
         "「ヒューザは　まだか？\n　まったく　あいつは　いつもフラフラと\n　ほっつき歩いておって　落ち着かんヤツだ！": "Hyuza n'est pas encore la ? Vraiment, ce type\ntraine toujours avec Fluffra et il ne se calme\njamais !"
@@ -228,7 +228,7 @@
         "「先ほど　ジュレットの町から　使いが来てな。\n　花嫁のキールが　祈りの宿へ向かったそうだ。": "Il y a un instant, un messager est venu de\nJulet. Il parait que Keel, la mariee, s'est\ndirigee vers l'Auberge de la Priere."
     },
     "2017": {
-        "「急いで　シェルナーを決めなければならん。\n　さっそくだが　ふたりには\n　わしの出す試験を　受けてもらうぞ。": "Nous devons rapidement choisir un successeur.\nSans plus attendre, je vous demanderai a vous\ndeux de passer l'epreuve que je vais vous<br>donner."
+        "「急いで　シェルナーを決めなければならん。\n　さっそくだが　ふたりには\n　わしの出す試験を　受けてもらうぞ。": "Nous devons choisir le Coquillier sans tarder.\nSans plus attendre, vous allez tous les deux\npasser l’epreuve que je vais vous donner."
     },
     "2018": {
         "「能書きはいらないぜ　村長。\n　……で　何をすればいい？": "Pas besoin de discours, chef du village.\n...Alors, que dois-je faire ?"
@@ -240,10 +240,10 @@
         "「ああ　あそこか。奥には地底湖が\n　広がってるって　聞いたことがあるぜ。": "Ah, la-bas ? J'ai entendu dire qu'il y a un\nlac souterrain qui s'etend a l'interieur."
     },
     "2021": {
-        "「そう　その地底湖だ。洞くつの奥にある\n　地底湖の水を　持ちかえってくることが\n　シェルナー試験の内容だ。": "Oui, c'est bien ce lac souterrain.\nL'epreuve de Shelnar consiste a aller chercher\nson eau au fond de la grotte."
+        "「そう　その地底湖だ。洞くつの奥にある\n　地底湖の水を　持ちかえってくることが\n　シェルナー試験の内容だ。": "Oui, ce lac souterrain.\nL’epreuve du Coquillier consiste a rapporter\nson eau depuis les profondeurs de la grotte."
     },
     "2022": {
-        "「このビンに　地底湖の水を汲み\n　先に持ちかえったほうを　シェルナーとする！": "Remplissez cette bouteille avec l'eau du lac\nsouterrain. Celui qui la ramenera en premier\nsera le Shelna !"
+        "「このビンに　地底湖の水を汲み\n　先に持ちかえったほうを　シェルナーとする！": "Remplissez cette bouteille avec l’eau du lac\nsouterrain.<br>Celui qui la rapportera en premier sera\ndesigne Coquillier !"
     },
     "2023": {
         "「さあ　このビンを受け取るのだ。": "Allez, prends cette bouteille."
@@ -270,7 +270,7 @@
         "「よーし。ふたりとも　ビンを持ったな？": "Tres bien. Vous avez tous les deux pris vos\nbouteilles, n'est-ce pas ?"
     },
     "2032": {
-        "「コホン。では　ただいまより\n　シェルナー選定試験……": "Hum. A partir de maintenant, le test de\nselection de Shelner va commencer..."
+        "「コホン。では　ただいまより\n　シェルナー選定試験……": "Hum hum. A partir de maintenant, l’epreuve de\nselection du Coquillier commence…"
     },
     "2033": {
         "「開始ぃっ！": "Commencez !"
@@ -291,7 +291,7 @@
         "「むむっ。もしや　地底湖まで\n　行けなかったというのか？\n　いやいや　そんなことはあるまい。": "Mumu. N'aurais-tu pas reussi a atteindre le\nlac souterrain ? Non, non, cela ne peut pas\netre possible."
     },
     "2039": {
-        "「わしに見せて　地底湖の水と認められなければ　\n　シェルナーには　なれんのだぞ？\n　もったいぶらんと　見せてみい。": "Montre-moi l'eau du lac souterrain, sinon je\nne te reconnaitrai pas comme un Shellner. Ne\nfais pas de manieres et montre-moi ca."
+        "「わしに見せて　地底湖の水と認められなければ　\n　シェルナーには　なれんのだぞ？\n　もったいぶらんと　見せてみい。": "Si je ne reconnais pas que c'est bien l’eau du\nlac souterrain, tu ne pourras pas devenir\nCoquillier.<br>Allez, arrete de faire durer le suspense et\nmontre-moi ca."
     },
     "2040": {
         "セトリー村長に　湖の水の入った\nガラスの小ビンを　見せますか？<yesno><close>": "Voulez-vous montrer la Bouteille en Verre\ncontenant de l'eau du lac a Chef Setorii ?\n<yesno><close>"
@@ -312,10 +312,10 @@
         "「どれどれ　ふむ……。\n　まちがいなく　これは地底湖の水だ。": "Voyons voir... Hum... Il n'y a aucun doute,\nc'est bien l'eau du lac souterrain."
     },
     "2046": {
-        "「よろしい！　試験は終わりだ。\n　アーシクのシェルナーを務める者は\n　<pc>であると　今ここに　宣言する！": "Tres bien ! L'examen est termine. Je declare\nici et maintenant que celui qui servira en\ntant que shielder d'Aashik est <pc> !"
+        "「よろしい！　試験は終わりだ。\n　アーシクのシェルナーを務める者は\n　<pc>であると　今ここに　宣言する！": "Tres bien ! L'epreuve est terminee.<br>Je declare ici et maintenant que <pc>\n sera le Coquillier d'Aashik !"
     },
     "2047": {
-        "「それでは　シェルナーになった証として\n　お前に　ルーラストーンをさずけよう！\n　使い方は　孤児院のティーティに聞くがいい。": "Alors, en tant que preuve que tu es devenu un\nShelner, je vais te confier la Zoomstone !\nPour savoir comment l'utiliser, tu devrais<br>demander a Titi de l'orphelinat."
+        "「それでは　シェルナーになった証として\n　お前に　ルーラストーンをさずけよう！\n　使い方は　孤児院のティーティに聞くがいい。": "En guise de preuve de ton statut de Coquillier\nje te remets une Telepierre !<br>Demande a Teatea de l'orphelinat comment\nl'utiliser."
     },
     "2048": {
         "<pc>は　セトリー村長から\nルーラストーンを　受け取った！<me 60>": "<pc> a recu une Zoomstone de Chief\nSetorii !<me 60>"
@@ -330,16 +330,16 @@
         "「あっ　ヒューザ？": "Ah, Hyuza ?"
     },
     "2052": {
-        "「おお　アーシク。\n　ついに　シェルナーが決まったぞ。\n　<pc>が　シェルナーとなったのだ。": "Oh, Aashik. Enfin, le Shellner a ete choisi.\n<pc> est devenu le Shellner."
+        "「おお　アーシク。\n　ついに　シェルナーが決まったぞ。\n　<pc>が　シェルナーとなったのだ。": "Oh, Aashik. Le Coquillier a enfin ete choisi.\nC'est <pc> qui a ete designe."
     },
     "2053": {
-        "「ほんとう！？　おめでとう　<pc>。\n　そっかあ　やっぱり　キミがボクの\n　シェルナーに　なってくれたんだね！！": "Vraiment !? Felicitations <pc>. Eh bien,\ntu es devenu mon partenaire, n'est-ce pas !!"
+        "「ほんとう！？　おめでとう　<pc>。\n　そっかあ　やっぱり　キミがボクの\n　シェルナーに　なってくれたんだね！！": "Vraiment !? Felicitations, <pc> !\nJe le savais, c'est toi qui allais devenir mon\nCoquillier !!"
     },
     "2054": {
         "「ヒューザも　がんばってくれたんだよね！\n　ありがとう　ヒューザ！！": "Hyuza, tu as aussi donne le meilleur de\ntoi-meme ! Merci, Hyuza !!"
     },
     "2055": {
-        "「オレに勝って　シェルナーになったんだ。\n　ヘマすんじゃねえぞ　<pc>！": "Tu m'as battu et tu es devenu un Chevalier du\nCorail. Ne fais pas de betises, <pc> !"
+        "「オレに勝って　シェルナーになったんだ。\n　ヘマすんじゃねえぞ　<pc>！": "T'as gagne contre moi et t'es devenu\nCoquillier. Fais pas de betises,\n<pc> !"
     },
     "2056": {
         "「アーシクよ。花嫁に贈る貝がらは\n　持ってきたのだろうな？": "Aashik. Tu as apporte le coquillage pour la\nmariee, n'est-ce pas ?"
@@ -393,7 +393,7 @@
         "「おかえりなさい　キールさん。\n　ちょうどよいところに　戻られましたな。": "Bienvenue chez vous, Keel-san. Vous arrivez\nvraiment au bon moment."
     },
     "2073": {
-        "「こちらは　レーンの村の　<pc>どの。\n　シェルナーとして参られた　お方です。": "Voici <pc>-dono du village de Lane. Il\nest venu en tant que Shellner."
+        "「こちらは　レーンの村の　<pc>どの。\n　シェルナーとして参られた　お方です。": "Voici <pc> de Lane.\nIl est venu en tant que Coquillier."
     },
     "2074": {
         "「あなたが　アーシクさまの……。\n　遠い所まで　ありがとうございます。": "Vous etes l'envoye de Aashik-sama... Merci\nd'avoir voyage d'aussi loin."
@@ -402,7 +402,7 @@
         "「私は　キールと申します。\n　アーシクさまの花嫁となる者です。": "Je m'appelle Keel. Je suis celle qui deviendra\nl'epouse de Aashik-sama."
     },
     "2076": {
-        "「よろしくお願いします。\n　シェルナーの　<pc>さま。": "Je vous prie de bien vouloir accepter mes\nsalutations distinguees. Seigneur <pc>\nde Shellner."
+        "「よろしくお願いします。\n　シェルナーの　<pc>さま。": "Enchante.\nCoquillier <pc>,\nje compte sur vous."
     },
     "2077": {
         "「ジュレットの町を　おとずれていた\n　アーシクさまと出会った　あの日から……。": "Depuis ce jour ou j'ai rencontre Aashik-sama\nen visitant Julet..."
@@ -417,10 +417,10 @@
         "「<pc>どの。花婿より　結納品となる\n　貝がらを　預かっておるはず。\n　それをキールさんに　渡していただけますかな？<yesno><close>": "<pc>-dono. Vous devriez avoir en votre\npossession les coquillages qui servent de\ncadeau de fiancailles de la part du marie.<br>Pourriez-vous les remettre a Keel-san ?\n<yesno><close>"
     },
     "2081": {
-        "「はっはっは。ご冗談を。\n　あなたはシェルナーとして　参られたはず。": "Ha ha ha. Vous plaisantez. Vous etes cense\netre ici en tant que Shelner."
+        "「はっはっは。ご冗談を。\n　あなたはシェルナーとして　参られたはず。": "Ha ha ha, arretez donc vos plaisanteries.\nVous etes cense etre ici\nen tant que Coquillier."
     },
     "2082": {
-        "「では　シェルナーより　花嫁キールに\n　結納品の貝がらの　贈呈を。": "Alors, au nom de Shelner, offrons a la mariee\nKeel le coquillage en guise de cadeau de\nfiancailles."
+        "「では　シェルナーより　花嫁キールに\n　結納品の貝がらの　贈呈を。": "Que le Coquillier offre le coquillage des fiancailles a la mariee Keel."
     },
     "2084": {
         "「なんて　美しいのでしょう！\n　アーシクさまの心の清さが　そのまま\n　この貝がらに　表れていますわ……。": "Quel spectacle magnifique ! La purete du coeur\nde Aashik-sama se reflete directement dans ce\ncoquillage..."
@@ -471,7 +471,7 @@
         "「つまり　今の魔物は\n　あの浜で　花嫁を失った花婿の霊が\n　悪霊と化した姿ということでしょうか……。": "En d'autres termes, le monstre actuel serait\nl'esprit du marie qui a perdu sa fiancee sur\ncette plage, transforme en esprit malefique..."
     },
     "2101": {
-        "「<pc>どの。花嫁の身の安全を\n　守ることは　シェルナーの大切な役目。": "<pc>-dono. Proteger la securite de la\nmariee est une mission importante pour\nShelner."
+        "「<pc>どの。花嫁の身の安全を\n　守ることは　シェルナーの大切な役目。": "<pc>, assurer la securite de la mariee\nest l’un des devoirs essentiels du Coquillier"
     },
     "2102": {
         "「……ムダだよ。": "...C'est inutile."
@@ -513,7 +513,7 @@
         "「ダーリアは　誰にも渡さない！": "Je ne laisserai Dahlia a personne !"
     },
     "2115": {
-        "「……君は　シェルナーだったね。": "......Tu etais le Shelner, n'est-ce pas ?"
+        "「……君は　シェルナーだったね。": "… Tu etais le Coquillier, n'est-ce pas ?"
     },
     "2116": {
         "「ちょうどいい。君も連れていこう。\n　チカラずくでもね。": "Parfait. Je vais t'emmener avec moi. Meme si\nje dois le faire par la force."
@@ -528,7 +528,7 @@
         "「……やあ　どこへ行っていたのかな？\n　君を　待っていたんだよ。": "...Eh bien, ou etais-tu passe ? Je\nt'attendais, tu sais."
     },
     "2120": {
-        "「シェルナーの　君がいないと\n　ぼくたちの結婚式が　できないからね……。\n　さあ　ぼくと　一緒に来てもらおうか！　": "Sans toi, cher Shelner, notre mariage ne peut\navoir lieu... Allez, viens avec moi !"
+        "「シェルナーの　君がいないと\n　ぼくたちの結婚式が　できないからね……。\n　さあ　ぼくと　一緒に来てもらおうか！　": "Sans toi, Coquillier, notre mariage ne peut\npas avoir lieu.\nAllez, viens avec moi !"
     },
     "2121": {
         "「ぐ……ぐおおおお！": "Gu... guooooo !"
@@ -627,7 +627,7 @@
         "「さて　<pc>よ。\n　そなたには　伝えねばならぬことが\n　いくつも　あるのだが……。": "Eh bien, <pc>. Il y a plusieurs choses\nque je dois te transmettre..."
     },
     "2157": {
-        "「それは　ふたりの結婚式が\n　つつがなく　終わってからだ。\n　シェルナーの役目は　まだ続いている。": "Cela se fera une fois que leur mariage sera\ncelebre sans encombre. Le role de Shellner\nn'est pas encore termine."
+        "「それは　ふたりの結婚式が\n　つつがなく　終わってからだ。\n　シェルナーの役目は　まだ続いている。": "Ce sera une fois que leur mariage se sera\nderoule sans encombre.\nLe role du Coquillier n’est pas termine."
     },
     "2158": {
         "「わしたちも　明日にそなえて\n　準備をするとしよう！": "Nous devons nous preparer pour demain nous\naussi !"
@@ -675,7 +675,7 @@
         "「やれやれ……。\n　無事に終わって　ホッとしたぞ。": "Ouf… Je suis soulage que tout se soit bien\ntermine."
     },
     "2174": {
-        "「<pc>よ。シェルナーとしての\n　お前の　はたらきも　見事だったぞ。": "<pc>. Ton travail en tant que Shelner\netait remarquable."
+        "「<pc>よ。シェルナーとしての\n　お前の　はたらきも　見事だったぞ。": "<pc>, tu as rempli ton role de\nCoquillier avec brio."
     },
     "2175": {
         "「誰もが　この一人前の証を受けるに\n　ふさわしいと　思うことだろう。\n　ほれ。冒険の書を出せ。": "Tout le monde doit penser que tu es digne de\nrecevoir cette preuve de maturite. Allez,\nmontre-moi ton Adventure Log."
@@ -753,13 +753,13 @@
         "「貝がらが　ボクに持ってってくれって\n　言ってたのは　ボクたちの幸せを\n　分けてほしいってことだと思うんだ！": "La coquille m'a dit de l'emporter. Je pense\nque cela signifie qu'elle veut partager notre\nbonheur !"
     },
     "3382": {
-        "「そうそう。シェルナーの試験が始まるんだね。\n　ボクは　<pc>と　ヒューザの\n　どっちも　おうえんしているよ！": "Oui, c'est vrai. L'examen de Shelner va\ncommencer, n'est-ce pas ? Moi, je soutiens a\nla fois <pc> et Hyuza !"
+        "「そうそう。シェルナーの試験が始まるんだね。\n　ボクは　<pc>と　ヒューザの\n　どっちも　おうえんしているよ！": "Ah oui, l’epreuve du Coquillier va commencer !\nJe vous soutiens tous les deux,\n<pc> et Hyuza !"
     },
     "4245": {
         "「まあ……。これが　アーシクさまが\n　私のために見つけてくださった　貝がら……。": "Eh bien... C'est le coquillage que Aashik-sama\na trouve pour moi..."
     },
     "5670": {
-        "「ボクのシェルナーに　なってくれて\n　ありがとう　<pc>！": "Merci de devenir mon partenaire, <pc> !"
+        "「ボクのシェルナーに　なってくれて\n　ありがとう　<pc>！": "Merci d’etre devenu mon Coquillier,\n<pc> !"
     },
     "5671": {
         "「キールが待ってるんだ。\n　祈りの宿に　早く　迎えにいってあげてよ。": "Keel vous attend. Depechez-vous d'aller le\nchercher a l'Auberge de la Priere."
@@ -786,10 +786,10 @@
         "「これで　よし……と。": "Voila, c'est bon..."
     },
     "7289": {
-        "「あとは　村に帰るだけか。\n　で　早く着いたほうが\n　シェルナーに　なれるってわけだ……。": "Il ne reste plus qu'a retourner au village.\nCelui qui arrivera en premier deviendra un\nShellner..."
+        "「あとは　村に帰るだけか。\n　で　早く着いたほうが\n　シェルナーに　なれるってわけだ……。": "Il ne reste plus qu’a retourner au village.\nDonc, celui qui arrive le premier sera designe\nCoquillier..."
     },
     "7290": {
-        "「お前が　両親を探すために\n　シェルナーに　なろうとしてることは\n　オレも　知ってるさ。だがな……。": "Je sais que tu veux devenir un Shellner pour\nretrouver tes parents. Cependant..."
+        "「お前が　両親を探すために\n　シェルナーに　なろうとしてることは\n　オレも　知ってるさ。だがな……。": "Je sais que tu veux devenir Coquillier pour\nretrouver tes parents.\nMais tu sais..."
     },
     "7291": {
         "「……勝つのは　オレだぜ？": "......C'est moi qui vais gagner, tu sais ?"
@@ -804,7 +804,7 @@
         "「むむっ。もしや　地底湖まで\n　行けなかったというのか？\n　いやいや　そんなことはあるまい。": "Mumu. N'aurais-tu pas reussi a atteindre le\nlac souterrain ? Non, non, cela ne peut pas\netre possible."
     },
     "7297": {
-        "「わしに見せて　地底湖の水と認められなければ　\n　シェルナーには　なれんのだぞ？\n　もったいぶらんと　見せてみい。": "Montre-moi l'eau du lac souterrain, sinon je\nne te reconnaitrai pas comme un Shellner. Ne\nfais pas de manieres et montre-moi ca."
+        "「わしに見せて　地底湖の水と認められなければ　\n　シェルナーには　なれんのだぞ？\n　もったいぶらんと　見せてみい。": "Si je ne confirme pas que c’est bien l’eau du\nlac souterrain, tu ne pourras pas devenir\nCoquillier. Allez, montre-moi ca."
     },
     "7298": {
         "セトリー村長に　湖の水の入った\nガラスの小ビンを　見せますか？<yesno><close>": "Voulez-vous montrer la Bouteille en Verre\ncontenant de l'eau du lac a Chef Setorii ?\n<yesno><close>"
@@ -942,7 +942,7 @@
         "「ゆえに　この慰霊碑が建てられた。\n　その若者の魂を　鎮めるためにな……。": "Ainsi, ce monument commemoratif a ete erige.\nPour apaiser l'ame de ce jeune homme..."
     },
     "26953": {
-        "「シェルナーとして活躍し　一人前と認められれば\n　おぬしは　この村を離れて\n　両親を探す旅に　出ることができよう。": "En tant que Shellner, si tu fais tes preuves\net que tu es reconnu comme pleinement\ncompetent, tu pourras quitter ce village et<br>partir a la recherche de tes parents."
+        "「シェルナーとして活躍し　一人前と認められれば\n　おぬしは　この村を離れて\n　両親を探す旅に　出ることができよう。": "Si tu fais tes preuves en tant que Coquillier\net que l'on te reconnait comme accompli.<br>Tu pourras quitter le village pour retrouver\ntes parents."
     },
     "26954": {
         "「そうすれば　小さな滝へ　たどり着く。\n　その左側にある　レーナム緑野へ\n　つながる道を越えたら　すぐ右側を見ろ。": "Ainsi, vous arriverez a une petite cascade.\nEnsuite, apres avoir traverse le chemin menant\na la gauche vers les champs de Lenam, regardez<br>immediatement sur votre droite."
