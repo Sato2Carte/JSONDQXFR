@@ -24,7 +24,7 @@
         "「この村で送った日々は　<pc>に\n　多くの幸福と　そして安息を与えたと\n　我らは　信じよう……。": "Les jours passes dans ce village ont apporte a\n<pc> beaucoup de bonheur et de paix,\nnous voulons le croire..."
     },
     "1946": {
-        "「<pc>は　母なる海へと還り\n　新たなる旅立ちを迎える。\n　皆で笑って　送りだそうではないか。": "<pc> retourne a la mer mere et entame un\nnouveau voyage.<br>Disons-lui adieu avec le sourire,\ntous ensemble."
+        "「<pc>は　母なる海へと還り\n　新たなる旅立ちを迎える。\n　皆で笑って　送りだそうではないか。": "<if_woman><pc> retourne vers la mer mere et\ns'apprete a entamer un nouveau voyage.\nEnvoyons-la avec le sourire, tous ensemble.<else><pc> retourne vers la mer mere et\ns'apprete a entamer un nouveau voyage.\nEnvoyons-le avec le sourire, tous ensemble.<endif>"
     },
     "1947": {
         "「ううっ　<pc>……。\n　私が急に　声をかけたりしたから\n　こんなことに……。": "Ooh, <pc>... C'est parce que je t'ai\ninterpelle si soudainement que tout cela est\narrive..."
