@@ -1,227 +1,161 @@
 {
-    "15600": {
-        "「おおっ　<pc>！\n　よく来てくれた！": "Oh, <pc> ! Merci d'etre venu !"
+    "15857": {
+        "「それには　およばんぞ！": "Cela ne sera pas necessaire !"
     },
-    "15601": {
-        "「そ…村王が　こんな手紙を残して\n　いなくなってしまったのだ。\n　読むから　そこで聞いていてくれ……。": "S... Le roi du village a laisse cette lettre\net a disparu. Je vais la lire, alors ecoutez\nbien..."
+    "15858": {
+        "「約束通り　わしとオーレンの関係を\n　話しにきてやったのだ。感謝せい！": "Comme promis, je suis venu te parler de ma\nrelation avec Oren. Sois reconnaissant !"
     },
-    "15602": {
-        "「……ギュランよ。\n　お前を　わしの側近としてから\n　もう　１０年あまりの時が過ぎるか。": "…Guran. Cela fait deja plus de 10 ans que tu\nes a mes cotes en tant que conseiller."
+    "15859": {
+        "「おおっ。これは　エイドスさま！\n　お待ちしておりましたぞ。\n　ささ。どうぞ　こちらへ。": "Oh ! C'est Eidos-sama ! Nous vous attendions.\nPar ici, s'il vous plait."
     },
-    "15603": {
-        "「お前に　ひとつ頼みたいことがある。\n　これから　お前には　ランガーオ村の\n　子供たちのために　学校を作ってほしい。": "J'ai une faveur a te demander. A partir de\nmaintenant, j'aimerais que tu construises une\necole pour les enfants du village de Langao."
+    "15860": {
+        "「……ふん。\n　ちょうど　メンツは　そろっておるな。\n　では　さっそく　始めるとしようかの。": "…Hmm. Tout le monde est present, n'est-ce pas\n? Alors, commencons sans plus tarder."
     },
-    "15604": {
-        "「わしは　こう思うのだ。\n　ランガーオ村の若者たちが　この村だけで\n　生涯を終える時代は　もう終わった……と。": "Je pense ceci : l'epoque ou les jeunes de\nLangao Village passaient toute leur vie\nuniquement dans ce village est revolue..."
+    "15861": {
+        "「どこから　話したものか……。\n　まず　お察しの通り　生前のオーレンと\n　わしは　知り合いじゃった。": "Par ou devrais-je commencer... Tout d'abord,\ncomme vous vous en doutez, j'ai connu Oren de\nson vivant."
     },
-    "15605": {
-        "「ジーガンフや　アロルドとマイユ\n　そして　<pc>のように　前途ある若者が\n　世界を旅することで　高みを目指す時代が来る。": "Comme Jiganf, Arold et Mayu, et aussi\n<pc>, une nouvelle ere arrive ou les\njeunes prometteurs cherchent a atteindre de<br>nouveaux sommets en parcourant le monde."
+    "15862": {
+        "「グレンの剣聖オーレンと　若き賢者エイドス。\n　剣と賢……進む道は　ちがえど　ふたりは\n　友人と言ってよい間柄じゃったよ。": "Oren, le saint de l'epee de Glen, et le jeune\nSage Eidos. L'epee et la sagesse... Bien que\nleurs chemins different, ils avaient une<br>relation que l'on pouvait qualifier d'amitie."
     },
-    "15606": {
-        "「だが　若者たちが　見果てぬ世界に旅立つ時\n　この村のことしか知らずにいたら　困るだろう。\n　彼らが　そんな目に　あわぬように……": "Cependant, lorsque les jeunes partent a\nl'aventure vers un monde inconnu, s'ils ne\nconnaissent que ce village, cela pourrait leur<br>poser probleme. Pour qu'ils n'aient pas a\nfaire face a une telle situation..."
+    "15863": {
+        "「……あんなことが　なければ\n　今でも　そうだったかも知れんな。": "…Si seulement cela ne s'etait pas produit, les\nchoses seraient peut-etre restees ainsi\njusqu'a aujourd'hui."
     },
-    "15607": {
-        "「お前が　子供たちに　この世界の\n　様々なことを　教えてやってほしいのだ。": "Je voudrais que tu enseignes aux enfants les\ndiverses choses de ce monde."
+    "15864": {
+        "「オーレンが　ベコン渓谷の調査に向かい\n　途中で　失踪したことは知っていよう？\n　その調査は　渓谷の魔瘴を調べるものだった。": "Vous savez qu'Oren est parti enqueter dans la\nvallee de Becon et qu'il a disparu en chemin,\nn'est-ce pas ? Cette enquete portait sur la<br>miasme du ravin."
     },
-    "15608": {
-        "「この村で　いちばんアタマのいい　お前が\n　<pc>たちからの協力を得れば\n　必ず　実現できることだと　わしは信じる。": "Toi, qui es le plus intelligent de ce village,\nsi tu obtiens l'aide de <pc> et des\nautres, je suis convaincu que tu pourras y<br>parvenir."
+    "15865": {
+        "「オーレンは　部下を引き連れ　渓谷に入った。\n　しかし　肝心の調査ポイントに着く前に\n　部下たちが　魔瘴の噴出に巻き込まれたのじゃ。": "Oren, accompagne de ses subordonnes, est entre\ndans la vallee. Cependant, avant d'atteindre\nle point d'investigation crucial, ses<br>subordonnes ont ete pris dans une eruption de\nmiasmes magiques."
     },
-    "15609": {
-        "「とても時間が　かかることだろう。\n　だが　わしからの　最後の頼みだ。\n　どうか　聞き届けてほしい。": "Cela prendra sans doute beaucoup de temps.\nMais c'est ma derniere requete. Je vous en\nprie, acceptez-la."
+    "15866": {
+        "「魔瘴に侵された　彼らを救うため\n　オーレンは　わしに　助けを求めた。\n　無論　わしも　助言を惜しまなかったとも。": "Oren m'a demande de l'aide pour sauver ceux\nqui etaient corrompus par le miasme. Bien sur,\nje n'ai pas hesite a donner mes conseils."
     },
-    "15610": {
-        "「……手紙は　ここで終わっている。\n　これは　村王の……遺書ということか……。": "La lettre se termine ici. Serait-ce le\ntestament du roi du village...?"
+    "15867": {
+        "「レムルの聖杯で　受けとめた\n　グロリスのしずくだけが　魔瘴のチカラを\n　打ち消すことが　できる……とな。": "Seule la Goutte de Gloire, recueillie dans le\nCalice de Lemure, peut annuler le pouvoir de\nla miasme..."
     },
-    "15611": {
-        "「手紙には　行方は書かれていないが\n　とにかく　村王を　探さなくては！\n　<pc>よ！　村王を　探してくれるか！": "La lettre ne mentionne pas ou il est parti,\nmais nous devons absolument retrouver le roi\ndu village ! <pc> ! Peux-tu chercher le<br>roi du village ?"
+    "15868": {
+        "「あの頃は　わしも若かった。\n　知識だけ与えれば　人を救えると思っていた。\n　どんな結果になるかなど　考えもせずにな。": "A cette epoque, j'etais aussi jeune. Je\npensais qu'en partageant simplement mes\nconnaissances, je pourrais sauver des gens.<br>Sans jamais reflechir aux consequences\npossibles, vous comprenez."
     },
-    "15612": {
-        "「すまぬ　<pc>！　恩に着るぞ！": "Merci, <pc> ! Je te suis redevable !"
+    "15869": {
+        "「わしの話は　ここまでじゃ。\n　これ以上は……正直　語りとうない。": "Je vais m'arreter la pour mon recit.\nHonnetement, je n'ai pas envie d'en dire plus."
     },
-    "15613": {
-        "「ただ　やみくもに　走り回るよりも\n　村王が　どこに行ったかの情報を\n　探す方が　確実だろう！": "Plutot que de courir partout sans but, il\nserait plus sur de chercher des informations\nsur l'endroit ou est alle le roi du village !"
+    "15870": {
+        "「正気を取り戻した　妖剣士オーレンなら\n　聖杯を持って　ランドン山脈の雲上湖に\n　行ってしまったよ。": "Swordmaster Oren, ayant retrouve ses esprits,\nest parti avec le Saint Graal au Lac Cloudtop\ndes Montagnes Landon."
     },
-    "15614": {
-        "「こちらも　手を尽くす。\n　<pc>も　まずは情報集めに\n　全力を　注いでくれ！": "Nous allons egalement faire tout notre\npossible. <pc>, concentre-toi d'abord\nsur la collecte d'informations de toutes tes<br>forces !"
+    "15871": {
+        "「今のやつには　誰の声も届かん。\n　結局　また　くり返してしまうのじゃな……。": "En ce moment, aucune voix ne l'atteint.\nFinalement, cela se repete encore une fois..."
     },
-    "15615": {
-        "「やってくれるか……。\n　しかし　どうやら　今は　頼まれごとで\n　手いっぱいのようだな……。": "Tu es pret a le faire, n'est-ce pas...\nCependant, il semble que tu sois deja bien\noccupe avec toutes les demandes qu'on t'a<br>faites..."
+    "15872": {
+        "「わかったような　わからんような……？": "Je comprends... enfin, je crois ?"
     },
-    "15616": {
-        "「取りかえしが　つかないことになる前に\n　一刻も早く　手を空けてきてくれ！": "Avant qu'il ne soit trop tard, viens nous\naider des que possible !"
+    "15873": {
+        "「ひとつ言えるのは　どうやら　オーレンは\n　歴史書に　記されているような\n　大悪党ではない……ということですか。": "Une chose est sure, il semble que Oren ne soit\npas le grand mechant decrit dans les livres\nd'histoire... n'est-ce pas ?"
     },
-    "15617": {
-        "「そうか……。\n　わかった。ならば　仕方がない。": "Je vois... D'accord. Dans ce cas, il n'y a pas\nd'autre choix."
+    "15874": {
+        "「エイドスさまは　オーレンが　聖杯を持って\n　雲上湖に向かったと　おっしゃってましたな。": "Eidos-sama a mentionne qu'Oren est parti avec\nle Saint Graal en direction du lac Cloudtop."
     },
-    "15618": {
-        "「だが　村王を探してくれる気になったら\n　ここに来てくれ。頼むぞ。": "Mais si tu te decides a chercher le roi du\nvillage, viens ici. Je t'en prie."
+    "15875": {
+        "「……<pc>どの。\n　すまぬが　ひとつ　頼まれてくださらんか？": "<pc>-dono. Je suis desole, mais\npourrais-je vous demander un service ?"
     },
-    "15619": {
-        "「おおっ　<pc>！\n　また来てくれたということは\n　頼みを　聞いてくれるのだな？": "Oh, <pc> ! Tu es revenu, cela signifie\nque tu vas accepter ma demande, n'est-ce pas ?"
+    "15876": {
+        "「ここまで　聞いてしまった以上\n　私は　オーレンが　何をするつもりなのか\n　最後まで　見届けたいと思うのですよ。": "ここまで 聞いてしまった以上 私は Orenが 何をするつもりなのか 最後まで\n見届けたいと思うのですよ"
     },
-    "15620": {
-        "「村王が残した手紙の内容を　聞きたいか？<yesno><close>": "Veux-tu entendre le contenu de la lettre\nlaissee par le roi du village ? <yesno><close>"
+    "15877": {
+        "「しかし　一国の大臣としては\n　おいそれと　城を離れるわけにも　いきませぬ。\n　そこで　あなたに　わが思いを託したいのです。": "Cependant, en tant que ministre d'un royaume,\nje ne peux pas quitter le chateau si\nfacilement. C'est pourquoi je souhaite vous<br>confier mes espoirs."
     },
-    "15621": {
-        "「わかった……。\n　ならば　もう一度　読もう。": "D'accord... Dans ce cas, lisons-le encore une\nfois."
+    "15878": {
+        "「ランドン山脈の雲上湖まで　行って\n　妖剣士オーレンの行いを見届け\n　私に　報告してくださらんかな？": "Pourriez-vous aller jusqu'au lac Cloudtop dans\nles montagnes de Landon, observer les actions\ndu Maitre d'epee Oren et me faire un rapport ?"
     },
-    "15622": {
-        "「……ギュランよ。\n　お前を　わしの側近としてから\n　もう　１０年あまりの時が過ぎるか。": "…Guran. Cela fait deja plus de 10 ans que tu\nes a mes cotes en tant que conseiller."
+    "15879": {
+        "「おお　引き受けてくださるか！\n　やはり　<pc>どのも　この件が\n　どうなるのか　気になるのですな。": "Oh, vous acceptez de prendre cette mission !\nComme je le pensais, vous aussi,\n<pc>-dono, etes curieux de savoir<br>comment cette affaire va se derouler."
     },
-    "15623": {
-        "「お前に　ひとつ頼みたいことがある。\n　これから　お前には　ランガーオ村の\n　子供たちのために　学校を作ってほしい。": "J'ai une faveur a te demander. A partir de\nmaintenant, j'aimerais que tu construises une\necole pour les enfants du village de Langao."
+    "15880": {
+        "「それでこそ　おまかせできるというもの。\n　では　くれぐれも　頼みましたぞ！": "C'est ainsi que je peux te confier cette\ntache. Je compte vraiment sur toi !"
     },
-    "15624": {
-        "「わしは　こう思うのだ。\n　ランガーオ村の若者たちが　この村だけで\n　生涯を終える時代は　もう終わった……と。": "Je pense ceci : l'epoque ou les jeunes de\nLangao Village passaient toute leur vie\nuniquement dans ce village est revolue..."
+    "15881": {
+        "「お気持ちは　うれしいのですが\n　どうやら　他の方からの頼まれごとで\n　お忙しい　ご様子ですな。": "Je suis touche par vos sentiments, mais il\nsemble que vous soyez occupe avec d'autres\nrequetes."
     },
-    "15625": {
-        "「ジーガンフや　アロルドとマイユ\n　そして　<pc>のように　前途ある若者が\n　世界を旅することで　高みを目指す時代が来る。": "Comme Jiganf, Arold et Mayu, et aussi\n<pc>, une nouvelle ere arrive ou les\njeunes prometteurs cherchent a atteindre de<br>nouveaux sommets en parcourant le monde."
+    "15882": {
+        "「どうか　先に　そちらを片付けてから\n　また　私に　話しかけてくだされ。": "Je vous en prie, occupez-vous de cela d'abord,\npuis revenez me parler."
     },
-    "15626": {
-        "「だが　若者たちが　見果てぬ世界に旅立つ時\n　この村のことしか知らずにいたら　困るだろう。\n　彼らが　そんな目に　あわぬように……": "Cependant, lorsque les jeunes partent a\nl'aventure vers un monde inconnu, s'ils ne\nconnaissent que ce village, cela pourrait leur<br>poser probleme. Pour qu'ils n'aient pas a\nfaire face a une telle situation..."
+    "15883": {
+        "「……むむう　残念ですなぁ。\n　この件を託せるのは　<pc>どのを\n　おいて　他にないというのに……。": "Hmm, c'est bien dommage. Il n'y a personne\nd'autre que <pc>-dono a qui nous\npuissions confier cette affaire..."
     },
-    "15627": {
-        "「お前が　子供たちに　この世界の\n　様々なことを　教えてやってほしいのだ。": "Je voudrais que tu enseignes aux enfants les\ndiverses choses de ce monde."
+    "15884": {
+        "「もし　気が変わりましたら\n　すぐにでも　私に　話しかけてくだされ。": "Si jamais vous changez d'avis, n'hesitez pas a\nvenir me parler immediatement."
     },
-    "15628": {
-        "「この村で　いちばんアタマのいい　お前が\n　<pc>たちからの協力を得れば\n　必ず　実現できることだと　わしは信じる。": "Toi, qui es le plus intelligent de ce village,\nsi tu obtiens l'aide de <pc> et des\nautres, je suis convaincu que tu pourras y<br>parvenir."
+    "15885": {
+        "「これが　グロリスのしずく……。\n　これがあれば　あいつらを\n　救ってやることが　できるのか。": "C'est donc ca, la Goutte de Gloris... Avec ca,\nje pourrais les sauver."
     },
-    "15629": {
-        "「とても時間が　かかることだろう。\n　だが　わしからの　最後の頼みだ。\n　どうか　聞き届けてほしい。": "Cela prendra sans doute beaucoup de temps.\nMais c'est ma derniere requete. Je vous en\nprie, acceptez-la."
+    "15886": {
+        "「……貴様。\n　さては　ガートラントの追っ手だな？": "Toi. Tu es un poursuivant de GarトLMPト,\nn'est-ce pas ?"
     },
-    "15630": {
-        "「……書かれているのは　これで　以上だ。": "…C'est tout ce qui est ecrit."
+    "15887": {
+        "「悪いが　今　このレムルの聖杯を\n　返すわけには　いかぬのだ。\n　無理にでも　通らせてもらうぞ！": "Je suis desole, mais je ne peux pas rendre ce\nCalice du Lemurien pour le moment. Je vais\ndevoir passer de force !"
     },
-    "15631": {
-        "「手紙には　行方は書かれていない。\n　<pc>よ。とにかく　村王を\n　見つけだしてほしい。やってくれるか？": "La lettre ne mentionne pas sa destination.\n<pc>. En tout cas, je veux que tu\nretrouves notre chef de village. Peux-tu le<br>faire ?"
+    "15888": {
+        "<center>お行きくださいませ　オーレン様。\nこの者は　私が止めておきましょう。": "Veuillez partir, Oren-sama. Je vais m'occuper\nde cette personne."
     },
-    "15632": {
-        "「<pc>！\n　村王のことは　何か　わかったか！": "<pc> ! As-tu appris quelque chose sur le\nroi du village ?"
+    "15889": {
+        "「おのれ　ガートラントの追っ手め！\n　こりずに　また　来たかっ！": "Maudit soit-tu, messager de Gar et de LMP ! Tu\nn'as pas encore renonce et tu reviens encore !"
     },
-    "15633": {
-        "「その様子だと　どうやら\n　何も　わからないようだな……。": "A te voir, il semble que tu ne comprends\nrien..."
+    "15890": {
+        "<center>お行きくださいませ　オーレン様。\nこの者は　私が止めておきましょう。": "Veuillez partir, Oren-sama. Je vais m'occuper\nde cette personne."
     },
-    "15634": {
-        "「とにかく　手遅れになる前に　急いで\n　村王を　探しだしてくれ。まずは　村人たちから\n　目撃情報を集めるのが　よいだろう。": "En tout cas, avant qu'il ne soit trop tard,\ndepeche-toi de retrouver le roi du village.\nPour commencer, il serait judicieux de<br>recueillir des informations aupres des\nvillageois."
+    "15891": {
+        "<center>オーレンさ……ま。\nど…うか　ご無事で……。": "Oren-sama... Je vous en prie, soyez sain et\nsauf..."
     },
-    "15635": {
-        "「おっとっと。こりゃ　すいません。": "Oh la la. Je suis vraiment desole."
+    "15892": {
+        "「オーレンならば　行ってしまったぞ。": "Oren est deja parti."
     },
-    "15636": {
-        "「おや？　あなたも　旅の方のようですな。\n　アッシも　世界を旅しながら　めずらしい物を\n　仕入れて回る　旅の商人でござんすよ。": "Oh ? Vous semblez etre un voyageur vous aussi.\nJe suis egalement un Peddler, parcourant le\nmonde a la recherche d'objets rares."
+    "15893": {
+        "「……やれやれ。\n　やはり　来てしまったのだな。\n　そんなことだろうと思っておったわ。": "Eh bien, eh bien. Tu es finalement venu,\nn'est-ce pas ? Je m'en doutais."
     },
-    "15637": {
-        "「……むむっ？　ワケありな様子でござんすね。\n　ほうほう……。村王クリフゲーンさまを\n　どこかで　見かけなかったかと？": "Hmm ? Vous semblez avoir une situation\nparticuliere, n'est-ce pas ? Oh oh... Vous\ncherchez a savoir si quelqu'un aurait apercu<br>Chief Cliffgain quelque part ?"
+    "15894": {
+        "「水竜ギルギッシュを　倒したか。\n　あれも　オーレンと同じく\n　あわれな最期をとげた　魂の成れの果てよ。": "As-tu vaincu Gilgish ? Lui aussi, tout comme\nOren, a rencontre une fin miserable, une ame\ndechue."
     },
-    "15638": {
-        "「村王なら　この村に来る道中に\n　おかしな場所で　見かけたでござんすよ。": "Si c'est le roi du village, je l'ai apercu en\nchemin vers ce village, dans un endroit\netrange."
+    "15895": {
+        "「……この間の話の　続きをしようか。": "Continuons la conversation de l'autre jour..."
     },
-    "15639": {
-        "「あれは　たしか……　獅子門から\n　グレン領東に抜けた辺り……村王は\n　そこから　西の方へ向かっていきやしたね。": "Ah, c'etait bien... Juste apres avoir traverse\ndepuis la Lion Gate en direction de Glen\nEast... Le roi du village s'est dirige vers<br>l'ouest a partir de la."
+    "15896": {
+        "「魔瘴に侵された部下たちを　救うには\n　レムルの聖杯が必要だと知った　オーレンは\n　聖杯を求めて　ガートラントへ向かった。": "Pour sauver ses subordonnes affectes par le\nmiasme malefique, Oren a appris qu'il avait\nbesoin du Calice de Lemur et s'est dirige vers<br>GarトLMPト a sa recherche."
     },
-    "15640": {
-        "「なんだか　顔色が悪かったんで\n　妙に　気がかりだったんでござんすよ。": "Je ne sais pas, vous aviez l'air pale, alors\nca m'inquietait etrangement."
+    "15897": {
+        "「だが　持ち主の大商人は　強欲な人物でな。\n　部下のために　聖杯を使わせてほしいという\n　オーレンの頼みに　耳を貸さなかったのじゃ。": "Mais le grand marchand de Lord Mochi etait un\nhomme avide. Il n'a pas prete attention a la\ndemande de Oren, qui souhaitait utiliser le<br>Saint Graal pour ses subordonnes."
     },
-    "15641": {
-        "「では　アッシは　先を急ぎますんで\n　失礼いたしやすよ。": "Alors, je suis presse, je vais vous laisser."
+    "15898": {
+        "「途方にくれるオーレンを救ったのは\n　大商人のひとり娘　パリンじゃった。": "Le grand commercant Pauline, fille unique, a\nsauve Oren, qui etait desespere."
     },
-    "15642": {
-        "「<pc>！\n　村王のことは　何か　わかったか！": "<pc> ! As-tu appris quelque chose sur le\nroi du village ?"
+    "15899": {
+        "「オーレンの高潔さに触れ　恋焦がれた娘は\n　聖杯を持ち出して　オーレンに渡したのじゃ。\n　自分も連れていくことを　条件としてな。": "Touchee par la noblesse d'Oren et eprise de\nlui, une jeune fille a emporte le Saint Graal\npour le remettre a Oren. A condition qu'il<br>l'emmene avec lui."
     },
-    "15643": {
-        "「……なに？　旅の商人が　グレン領東で\n　村王を見かけたという　情報があった？": "Quoi ? Il parait que le colporteur a apercu le\nroi du village a Glen East ?"
+    "15900": {
+        "「しかし　それは　軽率な行いじゃった。\n　パリンの父は　娘と聖杯が　奪われたと訴え\n　オーレンは　追われる身となったのじゃ。": "Cependant, cela a ete un acte imprudent. Le\npere de Pauline a proteste, affirmant que sa\nfille et le Saint Graal avaient ete enleves,<br>et Oren s'est retrouve traque."
     },
-    "15644": {
-        "「村王が　グレン領東に行くなどという話は\n　聞いていない……。それは　有力な情報だな。": "Je n'ai pas entendu parler du roi du village\nse rendant a Glen East... Voila une\ninformation precieuse."
+    "15901": {
+        "「グロリスのしずくを欲する　オーレンは\n　ガートラントからの追っ手を振り切って\n　どうにか　この雲上湖まで　たどり着いた。": "Oren, desireux d'obtenir le Droplet of Gloris,\na reussi a semer ses poursuivants de Gar et\nLMP pour finalement atteindre ce Lac Cloudtop."
     },
-    "15645": {
-        "「よし！　そういうことなら\n　急いで　グレン領東に行き　村王を探してくれ！\n　<pc>　頼んだぞ！": "Bien ! Dans ce cas, depeche-toi d'aller a Glen\nEast et trouve le roi du village ! <pc>,\nje compte sur toi !"
+    "15902": {
+        "「そして　湖に棲む凶悪な水竜　ギルギッシュに\n　襲われたのじゃ。キズつき　疲れていた\n　オーレンは　さぞや　苦戦したことじゃろう。": "Ensuite, il a ete attaque par le redoutable\ndragon aquatique Gilgish qui reside dans le\nlac. Oren, blesse et epuise, a surement du<br>livrer un combat difficile."
     },
-    "15646": {
-        "「あの　ガガベスの　忘れ形見……。\n　さぞ強くなっただろうと　思ってはいたが\n　よもや　これほどとはな……。": "Ah, le souvenir vivant de Gagabes... Je\nm'attendais a ce que tu sois devenu fort, mais\njamais je n'aurais imagine a ce point..."
+    "15903": {
+        "「どうにか　水竜を　倒したものの\n　この戦いに巻き込まれて　パリンは\n　命に関わるほどの大ケガを　負ってしまった。": "Nous avons reussi a vaincre le dragon d'eau,\nmais Pauline a ete gravement blessee dans\ncette bataille, au point de mettre sa vie en<br>danger."
     },
-    "15647": {
-        "「今の　お前ならば……\n　ジーガンフや　アロルドにさえ\n　勝てるかもしれん……。": "Dans ton etat actuel... tu pourrais meme\nvaincre Jiganf et Arold..."
+    "15904": {
+        "「オーレンは　娘にグロリスのしずくを与えるが\n　しずくのチカラは　キズを治すものではない。\n　パリンは　そのまま　息絶えたそうじゃ。": "Oren a donne a sa fille une Goutte de Gloris,\nmais le pouvoir de la goutte ne peut pas\nguerir les blessures. Pauline a rendu son<br>dernier souffle ainsi."
     },
-    "15648": {
-        "「自ら　戦いを挑みにきた　その勇気には\n　価値があると　認めてやろう。": "Je reconnais la valeur de ton courage pour\netre venu me defier toi-meme."
+    "15905": {
+        "「……以来　倒された　水竜ギルギッシュは\n　グロリスの木の守護者として　よみがえり\n　永遠の存在に　なったという。": "Depuis lors, Gilgish, qui a ete vaincu, a\nressuscite en tant que gardien de l'Arbre de\nGloris, devenant une existence eternelle."
     },
-    "15649": {
-        "「だが　相手の実力と　おのれの実力を\n　推し量る能力まで　失ったとあっては\n　ただの　もうろくした　年寄りだ。": "Cependant, si tu as perdu la capacite\nd'evaluer la force de ton adversaire ainsi que\nla tienne, tu n'es plus qu'un vieillard<br>senile."
+    "15906": {
+        "「おそらく　グロリスのしずくの効果で\n　パリンの魂が　水竜の身体と結びつき\n　あのような者に　なったのじゃろう……。": "Il semblerait que, grace a l'effet de la\nDroplet of Gloris, l'ame de Pauline se soit\nliee au corps du dragon aquatique,<br>transformant ainsi en cette creature..."
     },
-    "15650": {
-        "「……老いるということは　みじめなことだな。\n　クリフゲーン。": "... Vieillir, c'est une chose bien miserable,\nn'est-ce pas, Cliffgane."
+    "15907": {
+        "「お前さんも聞いた　ギルギッシュの声は\n　そういうことなのじゃ。\n　さあ　わかったら　もう　帰るがいい。": "Tu as entendu la voix de Gilgish, c'est ainsi\nque cela se passe. Maintenant que tu\ncomprends, rentre chez toi."
     },
-    "15651": {
-        "「……お前の　言うとおりだ。": "......Tu as raison."
+    "15908": {
+        "「……オーレンは　どうなったかだと？\n　むう。やはり　そこが　気になるか。": "...Tu te demandes ce qui est arrive a Oren ?\nHmm. C'est bien ca qui t'intrigue, n'est-ce\npas ?"
     },
-    "15652": {
-        "「どうやら　わしに　勝ち目はないようだ……。\n　さあ　とどめを刺せ……！\n　今こそ　父親の無念を　晴らすがいい。": "Il semble que je n'ai aucune chance de\ngagner... Allez, donnez-moi le coup de\ngrace... C'est le moment de venger l'injustice<br>subie par votre pere."
-    },
-    "15653": {
-        "「だが……　最後に　ひとつだけ\n　わしの願いを　聞いてくれぬか……。": "Mais... avant de partir, pourrais-tu accorder\nune derniere requete de ma part...?"
-    },
-    "15654": {
-        "「……言ってみろ。": "…Dis-le."
-    },
-    "15655": {
-        "「ガガイよ……。\n　ランガーオ村に　戻るのだ……。": "Gagai... Retourne au village de Langao..."
-    },
-    "15656": {
-        "「お前は　強い……。\n　あの村は　強き者を　尊敬で迎える。\n　きっと　お前は　歓迎されるはずだ……。": "Tu es fort... Ce village accueille les\npuissants avec respect. Je suis sur que tu\nseras bienvenu..."
-    },
-    "15657": {
-        "「ガガベスに勝った　あの日に……\n　お前を　復讐の鬼にしてしまったのなら\n　わしは　お前に　未来を返したいのだ……。": "Le jour ou tu as vaincu Gagabess... Si cela a\nfait de toi un demon de la vengeance, je veux\nte rendre ton avenir..."
-    },
-    "15658": {
-        "「故郷　ランガーオ村で生きよ。\n　わしは　誰にも伝えず　ここに来た。\n　お前が　わしを倒したことは　誰も知らん。": "Vis dans ton village natal, Langao Village. Je\nsuis venu ici sans en informer personne.\nPersonne ne saura que tu m'as vaincu."
-    },
-    "15659": {
-        "「貴様に　このオレの気持ちを知ることなど\n　できるはずがないのだ……。": "<player>... Tu ne peux pas comprendre ce que\nje ressens..."
-    },
-    "15660": {
-        "「残念だが　お前に　とどめは刺さん。": "Je suis desole, mais je ne vais pas t'achever."
-    },
-    "15661": {
-        "「な　なに……！？\n　なぜだ……。": "Qu-quoi... !? Pourquoi...?"
-    },
-    "15662": {
-        "「オレの目的は　お前を殺すことだけではない。": "Mon objectif n'est pas seulement de te tuer."
-    },
-    "15663": {
-        "「身体が動くようになったら\n　村に戻って　こう伝えろ。\n　死神が　この村を　滅ぼしにくる……とな。": "Quand ton corps pourra bouger a nouveau,\nretourne au village et dis-leur ceci : la Mort\nelle-meme va venir detruire ce village..."
-    },
-    "15664": {
-        "「死神から逃げるか　立ち向かうかは\n　お前たち次第だ。だが　いずれにせよ\n　ランガーオ村は　壊滅させる。": "Que vous choisissiez de fuir la mort ou de\nl'affronter, cela depend de vous. Mais quoi\nqu'il en soit, le village de Langao sera<br>detruit."
-    },
-    "15665": {
-        "「バカな……。お前は………。": "Incroyable... Tu es..."
-    },
-    "15666": {
-        "「あの　腐った村を　壊滅させなくては\n　オレが　この世に生を受けた　意味がない。": "Je dois aneantir ce village pourri, sinon ma\nnaissance en ce monde n'aura aucun sens."
-    },
-    "15667": {
-        "「そして　クリフゲーンよ。貴様には\n　あの村が滅びる様を　見届ける義務がある。\n　かんたんに　死なせてもらえると思うな。": "Et toi, Cliffghen. Tu as le devoir de\ntemoigner de la destruction de ce village. Ne\npense pas que tu seras autorise a mourir<br>facilement."
-    },
-    "15668": {
-        "「なっ……<pc>？\n　まさか……。": "Quoi... <pc> ? Impossible..."
-    },
-    "15669": {
-        "「そうか　ギュランに頼まれて\n　わしを探しにきてくれたのか……。": "Je vois, tu es venu me chercher a la demande\nde Guran..."
-    },
-    "15670": {
-        "「あれが　ガガベスの息子　ガガイ……。\n　若き日の　わしが生んでしまった\n　復讐の鬼だ……。": "<C'est le fils de Gagabess, Gagai... C'est le\ndemon de la vengeance que j'ai engendre dans\nma jeunesse...>"
-    },
-    "15671": {
-        "「戦ってみて　確信した……。\n　今の　ガガイの強さならば　本当に\n　たったひとりで　村を壊滅させられるだろう。": "En te combattant, j'en suis maintenant\nconvaincu... Avec la force actuelle de Gagai,\nil pourrait vraiment aneantir un village a lui<br>seul."
-    },
-    "15672": {
-        "「ジーガンフも　アロルドも\n　村にいない今　ガガイを　止める術がない。\n　いったい　どうすれば……。": "Ni Jiganf ni Arold ne sont dans le village en\nce moment, il n'y a donc aucun moyen d'arreter\nGagai. Que pouvons-nous bien faire..."
-    },
-    "15673": {
-        "「とにかく　一度　村に戻ろう……。\n　わしなら大丈夫だ。ひとりで　戻れる……。": "Quoi qu'il en soit, retournons au village une\nfois... Je peux me debrouiller seul, je peux\nrentrer tout seul..."
-    },
-    "15674": {
-        "「<pc>も　村に戻ったら\n　わしの所へ　来てくれ……。": "Quand tu seras de retour au village,\n<pc>, viens me voir..."
+    "15909": {
+        "「だが　その話は　また今度じゃ。\n　わしも　いろいろと多忙でな。\n　チグリ大臣にも　よろしく伝えておいてくれ。": "Mais cette discussion, nous la reprendrons une\nautre fois. Je suis assez occupe pour le\nmoment. Remets mes salutations a Minister<br>Chigri."
     }
 }
