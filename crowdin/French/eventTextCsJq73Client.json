@@ -1,131 +1,77 @@
 {
-    "315209": {
-        "「<pc>さんが　お手本を\n　見せてくださったおかげで　ドガンの呪文の\n　コツが　わかった気がします！": "Grace a <pc>-san qui nous a montre un\nexemple, je pense avoir compris l'astuce des\nsorts de Doga !"
+    "315251": {
+        "「あっ……！\n　この前と同じ　バケモノですっ！": "Ah...! C'est le meme monstre que l'autre jour\n!"
     },
-    "315210": {
-        "「さっそく　試してみますね！": "Je vais l'essayer tout de suite !"
+    "315252": {
+        "「とっとと　片付けるぞ。": "Depechons-nous de regler ca."
     },
-    "315211": {
-        "「……ドガン！": "...Doga !"
+    "315253": {
+        "「ここは　僕に　任せてください！": "Laissez-moi m'occuper de ca !"
     },
-    "315212": {
-        "「あれ？　おかしいな……。\n　でも　僕は　はじめは　うまくいかなくても\n　最終的には必ず　自分のモノにしてきたんです！": "Tiens ? C'est etrange... Mais meme si je ne\nreussis pas au debut, j'ai toujours fini par y\narriver a la fin !"
+    "315254": {
+        "「ドガン～！": "Doga !"
     },
-    "315213": {
-        "「精が出るな　アスパ。\n　見たところ　術を発動する魔力は　すでに十分。\n　あとは　術の完成形を　イメージすることだ。": "Tu travailles dur, Aspa. D'apres ce que je\nvois, tu as deja suffisamment de magie pour\nlancer le sort. Il ne te reste plus qu'a<br>imaginer la forme finale du sort."
+    "315255": {
+        "「どうです？　僕のドガンは！\n　もう　すっかり　板についたでしょう？": "Comment ca ? Mon Doga est-il impressionnant ?\nJe suis sur que je m'en sors pas mal\nmaintenant, non ?"
     },
-    "315214": {
-        "「バ…バウギス……！": "Ba... Baugis... !"
+    "315256": {
+        "「ひっ……！": "Hii...!"
     },
-    "315215": {
-        "「おまえを見ていると　あの頃のことを\n　思いだす……。": "En te regardant, je me rememore cette\nepoque..."
+    "315257": {
+        "「ドガント！": "ドGant！"
     },
-    "315216": {
-        "「あの頃……？": "A cette epoque... ?"
+    "315258": {
+        "「……ったく　詰めが甘いんだよ。": "… Franchement, tu laisses toujours des\nfailles."
     },
-    "315217": {
-        "「今から　数百年前……ランジェの家がある\n　ラギ雪原の　あの地域には\n　魔法使いたちが　住んでいてな。": "Il y a quelques centaines d'annees... Dans la\nregion ou se trouve la maison de Ranje, sur la\nplaine enneigee de Lagi, vivaient des<br>sorciers."
+    "315259": {
+        "「す…すみません……。": "Je... je suis desole..."
     },
-    "315218": {
-        "「その中に　ひとりだけ　おまえのように\n　不器用な魔法使いの娘が　いたのだ……。": "Parmi eux, il y avait une jeune magicienne\naussi maladroite que toi..."
+    "315260": {
+        "「なっ……！": "Quoi... !"
     },
-    "315219": {
-        "「娘は　魔法が不得意なことを理由に\n　仲間たちから　あなどられ　いじめられていた。": "Ma fille etait meprisee et harcelee par ses\ncamarades parce qu'elle n'etait pas douee en\nmagie."
+    "315261": {
+        "「えっ！？\n　ちょ…ちょっと　待ってください！\n　数が　多すぎますっ！": "Quoi !? Attendez... attendez un peu ! Il y en\na beaucoup trop !"
     },
-    "315220": {
-        "「その頃の私は　人々から恐れられていて\n　誰ひとり　近づく者など　いなかったが……": "A cette epoque, j'etais craint par les gens et\npersonne n'osait s'approcher de moi..."
+    "315262": {
+        "「グオォーーーッ！！！": "Gwoooaaah !!!"
     },
-    "315221": {
-        "「ある日　娘は　私のすみかの　そばで\n　仲間たちに　親の形見であるペンダントを\n　崖下に　投げ捨てられてしまったのだ。": "Un jour, pres de mon refuge, la fille s'est\nfait jeter par ses camarades le pendentif\nherite de ses parents en bas de la falaise."
+    "315263": {
+        "「うわあああぁぁーーっ！！": "Waaah !"
     },
-    "315222": {
-        "「幸い　ペンダントは　谷底まで落ちなかったが\n　手の届かない場所に　引っ掛かってしまってな。\n　娘は魔法で移動させて　取ろうとしていた。": "Heureusement, le pendentif n'est pas tombe\njusqu'au fond de la vallee, mais il s'est\ncoince dans un endroit hors de portee. Ma<br>fille essayait de le deplacer avec la magie\npour le recuperer."
+    "315264": {
+        "「ドガンタロス！": "DogaンTaroス！"
     },
-    "315223": {
-        "「目障りだから　殺してしまおうかとも　思ったが\n　何度　失敗しても　あきらめようとしない姿に\n　興をひかれ　私は娘を観察することにしたのだ。": "J'ai envisage de la tuer parce qu'elle\nm'agacait, mais sa tenacite, malgre ses echecs\nrepetes, a pique ma curiosite. J'ai donc<br>decide de l'observer."
+    "315265": {
+        "「グギャアアァァァァァァーーーッッッ！！！ ": "Gugyaaaaaaaaahhhhhh!!!"
     },
-    "315224": {
-        "「娘は不器用で　見ていて\n　いらだつことも　多かったが……数日後　ついに\n　ペンダントを移動させることに　成功した。": "Ma fille etait maladroite et cela m'irritait\nsouvent de la regarder... Mais quelques jours\nplus tard, elle a finalement reussi a deplacer<br>le pendentif."
+    "315266": {
+        "「３人とも　無事か？": "Est-ce que vous trois allez bien ?"
     },
-    "315225": {
-        "「しかし　指先が届くかというところで　魔法は\n　消えてしまい　娘は　ペンダントをつかもうと\n　身を乗り出して　谷底に落ちてしまったのだ。": "Cependant, alors que le bout de ses doigts\nallait toucher le pendentif, la magie s'est\nevanouie et la jeune fille, en se penchant<br>pour l'attraper, est tombee au fond du ravin."
+    "315267": {
+        "「し…師匠ぉ～～～っ！！！": "Maitre !!!"
     },
-    "315226": {
-        "「とっさに　助けようとしたが　狭い谷底に\n　入ることはできず……私は　魔法使いたちを呼び\n　娘を引き上げるように　命じた。": "Dans l'urgence, j'ai tente de la secourir,\nmais je ne pouvais pas descendre dans l'etroit\nravin... J'ai donc appele les magiciens et<br>leur ai ordonne de remonter ma fille."
+    "315268": {
+        "「バウギスから連絡があって　駆けつけたんだが\n　どうにか　間に合ったようだな。\n　みんな　よく　がんばってくれた。": "J'ai recu un message de Baugis et je suis\narrive en courant, mais il semble que je sois\narrive a temps. Vous avez tous fait du tres<br>bon travail."
     },
-    "315227": {
-        "「私が　生贄に欲していると思い込んだ\n　魔法使いたちは　あわてて　彼女を引き上げ\n　私の前に　差し出してきたよ。": "Les magiciens, persuades que je desirais un\nsacrifice, se sont empresses de retirer Her et\nl'ont presente devant moi."
+    "315269": {
+        "「もう　なんなんです？　あのバケモノたちはっ！\n　どうなることかと　思いましたよ……！": "Mais qu'est-ce que c'etait que ces monstres ?!\nJe me demandais ce qui allait se passer... !"
     },
-    "315228": {
-        "「娘は　今にも　死にそうだった……。\n　そこで私は　己の血を　与えることにした。\n　命を救う方法は　それしかなかったのだ……。": "Ma fille etait sur le point de mourir...\nAlors, j'ai decide de lui donner mon propre\nsang. Il n'y avait pas d'autre moyen de la<br>sauver..."
+    "315270": {
+        "「ヤツらの正体は　すでに　わかっている……。\n　それについては　後ほど話そう。": "Je connais deja la veritable identite de ces\ntypes... Je t'en parlerai plus tard."
     },
-    "315229": {
-        "「私の血によって　娘は回復し　目を覚ました。\n　すると……あれは　私を恐れることもなく微笑み\n　こんな言葉を　投げかけてきた……。": "Grace a mon sang, ma fille a pu se retablir et\nouvrir les yeux. Et la... elle m'a souri sans\naucune peur et m'a adresse ces mots..."
+    "315271": {
+        "「先日に続いて　おまえたちには\n　手間を掛けさせてしまったな。\n　これは　礼の品だ。受け取ってくれ。": "Suite a l'autre jour, je vous ai encore cause\ndes ennuis. Voici un cadeau pour vous\nremercier. Acceptez-le, je vous prie."
     },
-    "315230": {
-        "「助けてくれて　ありがとう。\n　どうして　そんなに寂しい眼をしているの？\n　あなたも　ひとりぼっちなの？　……と。": "Merci de m'avoir aide. Pourquoi as-tu un\nregard si triste ? Toi aussi, tu es seul..."
+    "315272": {
+        "「そんな……僕たちは　師匠の弟子として\n　当然のことをしたまでですっ！\n　でも　これは　ありがたくもらっておきますね！": "Ce n'est rien... Nous n'avons fait que notre\ndevoir en tant que disciples du maitre ! Mais\nnous acceptons ceci avec gratitude !"
     },
-    "315231": {
-        "「……ヒトの笑顔を見たのは　あの時が\n　初めてだった。今まで　経験したことのない\n　感情が　わき上がるのを　感じたものだ……。": "C'etait la premiere fois que je voyais un\nsourire humain. J'ai ressenti une emotion que\nje n'avais jamais eprouvee auparavant..."
+    "315273": {
+        "「ふ……頼もしいな。\n　これからも　期待しているぞ。\n　さあ　戻るとしよう。": "Hm... Tu es rassurant. Je compte sur toi a\nl'avenir. Allez, retournons."
     },
-    "315232": {
-        "「はるか昔に　そんなことが……。": "Il y a fort longtemps, il s'est passe quelque\nchose comme ca..."
+    "315274": {
+        "「はいっ！": "Oui !"
     },
-    "315233": {
-        "「……！": "... !"
-    },
-    "315234": {
-        "「バウギス……？　どうしたんです？": "Baugis... ? Que se passe-t-il ?"
-    },
-    "315235": {
-        "「南の方から　邪悪な気配を感じる……。": "Je ressens une presence malefique venant du\nsud..."
-    },
-    "315236": {
-        "「ええっ？　邪悪な気配って\n　な…なんですか　それっ！？": "Quoi ? Une presence malefique, qu'est-ce que\nc'est que ca !?"
-    },
-    "315237": {
-        "「確かなことは　言えないが……\n　おそらく　気配のもとは\n　この地にある　漆黒の間だろう。": "Je ne peux pas l'affirmer avec certitude,\nmais... il semblerait que la source de cette\npresence soit probablement la Black Room qui<br>se trouve en ces lieux."
-    },
-    "315238": {
-        "「私の身体の大きさでは　あの中には入れない。\n　私は　付近の上空を偵察する。\n　おまえたちは　内部を調べてくれ。": "Je ne peux pas entrer la-dedans avec ma\ntaille. Je vais effectuer une reconnaissance\ndans les environs depuis les airs. Vous, allez<br>explorer l'interieur."
-    },
-    "315239": {
-        "「わ…わかりましたっ！": "D'accord !"
-    },
-    "315240": {
-        "「<pc>さん　漆黒の間に行きましょう！": "<pc>-san, allons dans The Black Room !"
-    },
-    "315241": {
-        "「ドガンっ！！": "Dogaンっ！！"
-    },
-    "315242": {
-        "「ギャアアアアァァァァーーーッッッ！！！": "GYAAAAAAAHHHHHHH!!!"
-    },
-    "315243": {
-        "「や…やった～！\n　ついに　成功しましたあーっ！": "J'ai... j'ai reussi ! J'ai enfin reussi !"
-    },
-    "315244": {
-        "「……竜術士ハ　呪ワ……イル…………。": "......Le mage dragonique est maudit... Il..."
-    },
-    "315245": {
-        "「えっ？　今　なんて……？": "Quoi ? Qu'est-ce que tu viens de dire... ?"
-    },
-    "315246": {
-        "「ドガンをモノに　できたみたいだな。": "On dirait que tu as reussi a apprivoiser\nDogaン."
-    },
-    "315247": {
-        "「ルーインさん……！\n　なぜ　ここに？": "Ruine-san... ! Pourquoi es-tu ici ?"
-    },
-    "315248": {
-        "「師匠に言われた修行は　すぐに　片付けたんだが\n　おまえたちが　ここに入っていくのを見かけて\n　様子を　見にきたんだよ。": "J'ai rapidement termine l'entrainement que mon\nmaitre m'avait demande, mais en vous voyant\nentrer ici, je suis venu jeter un oeil."
-    },
-    "315249": {
-        "「今のバケモノ……どこかで\n　見たことが　ある気もするんだが……\n　いったい　なんなんだ？": "Ce monstre... J'ai l'impression de l'avoir\ndeja vu quelque part... Mais qu'est-ce que\nc'etait exactement ?"
-    },
-    "315250": {
-        "「わかりません……。\n　ひとまず　師匠に報告しましょう。": "Je ne comprends pas... Pour l'instant, allons\nen faire part a notre maitre."
-    },
-    "324667": {
-        "「だから　今回だって　きっと……！\n　えいっ！　やあっ！": "Donc, cette fois aussi, je suis sur que... !\nHein ! Yah !"
+    "315275": {
+        "「…………。": ""
     }
 }
