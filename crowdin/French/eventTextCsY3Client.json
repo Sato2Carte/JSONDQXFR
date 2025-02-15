@@ -1,92 +1,281 @@
 {
-    "126222": {
-        "<pc>は\n突然　めまいに襲われた。": "<pc> fut soudainement pris de vertiges."
+    "49980": {
+        "「<pc>さん。": "<pc>-san."
     },
-    "126223": {
-        "「……だし　しばらく……も　してないなぁ。\n　うーん　よしっ。次は　港のある町に　決めた！": "Ca fait un moment que je n'ai pas pris la mer.\nHum, d'accord ! La prochaine fois, je choisis\nune ville avec un port !"
+    "49981": {
+        "「あなたも　グランゼドーラ王国へ行くのですね？": "Vous allez aussi au royaume de Gran Zedora,\nn'est-ce pas ?"
     },
-    "126224": {
-        "「って　なんだ　えっ！？": "Quoi ? Hein !?"
+    "49982": {
+        "「……ふふっ。すみません。\n　そんなに警戒しないでください。": "… Fufu. Pardonnez-moi. Ne soyez pas si\nmefiant, je vous prie."
     },
-    "126225": {
-        "<shake_big>「あいたっ！！": "<shake_big>Aie !!"
+    "49983": {
+        "「あなたは　ご存知ないかもしれませんが……": "Vous ne le savez peut-etre pas, mais..."
     },
-    "126226": {
-        "「あたたた……。すまない。 \n　考え事をしながら　飛んではいけないね。\n　君は　大丈夫かい？": "あie, aie... Desole. Il ne faut pas voler en\netant distrait. Tu vas bien ?"
+    "49984": {
+        "「<pc>さん。あなたの名前は\n　意外に　知れ渡っているのですよ？\n　あの冥王ネルゲルを……　倒した人物としてね。": "<pc>-san. Votre nom est en realite assez\nconnu, vous savez ? En tant que celui qui a\nvaincu le Netherlord Nergel..."
     },
-    "126227": {
-        "「それはよかった。私は　サンビタリア。 \n　見ての通りの　妖精さ。\n　しかーも！　熟練の冒険者でもあるんだぜ！": "Ca, c'est une bonne chose. Je suis Sanvitalia.\nComme tu peux le voir, je suis une fee. Et en\nplus ! Je suis aussi une aventuriere<br>chevronnee !"
+    "49985": {
+        "「私の名前は　クロウズ。\n　ある人を探し求めて\n　世界中を　旅している者です。": "Mon nom est Claws. Je suis une personne qui\nparcourt le monde a la recherche de quelqu'un."
     },
-    "126228": {
-        "「へ？　妖精が　なんでこんなところにって？ \n　というか　君こそ　ここがどこだか\n　わかって言っているのかい？": "Hein ? Tu te demandes pourquoi une fee serait\ndans un endroit comme celui-ci ? D'ailleurs,\nest-ce que toi-meme tu sais vraiment ou tu es<br>en ce moment ?"
+    "49986": {
+        "「操舵室へ　行くところだったのでしょう？\n　私も　ご一緒させていただきますね。": "Tu te rendais a la salle de pilotage, n'est-ce\npas ? Je vais t'accompagner."
     },
-    "126229": {
-        "「ここは　夢と現実の境界さ。\n　元来　ここに　意識ある<pc_race>が\n　いることの方が　おかしいんだよ。": "Cet endroit est la frontiere entre les reves\net la realite. Normalement, c'est etrange\nqu'une <pc_race> consciente se trouve ici."
+    "49987": {
+        "「ダドリー副船長！\n　やはり　どこにも見当たりません！": "Vice-capitaine Dudley ! Il n'est nulle part en\nvue !"
     },
-    "126230": {
-        "「私は　たまに　思考を巡らせるために\n　この空間を利用するんだ。今日は何をしようか\n　ランチは　何を食べようか　とかね！": "Je me sers parfois de cet espace pour\nreflechir. Par exemple, aujourd'hui, je me\ndemande quoi faire, ou bien ce que je vais<br>manger chez LMP !"
+    "49988": {
+        "「なんということだ……。\n　私たちの命づなである　魔法の羅針盤が\n　消えてしまっただなんて……。": "Quelle catastrophe... Notre precieux Magic\nCompass, notre lien vital, a disparu..."
     },
-    "126231": {
-        "「……ふむ。どうやら　冒険者のようだが…… \n　なかなか　興味深いね。\n　君　名前は　なんて言うんだい？": "Hmm. On dirait que tu es un aventurier...\nC'est plutot interessant. Quel est ton nom ?"
+    "49989": {
+        "「お　お客さま！": "Oh, cher client !"
     },
-    "126232": {
-        "<if_woman>「なるほど……\n　<pc>ちゃんというのか。 <else>「なるほど……\n　<pc>くんというのか。 <endif>": "<if_woman>>Je vois... Tu t'appelles\n<pc>-chan.<else>>Je vois... Tu t'appelles <pc>-kun.<endif>"
+    "49990": {
+        "「申し訳ございません。\n　ただいま　取り込み中でございまして……。": "Je suis desole. Actuellement, je suis\noccupe..."
     },
-    "126233": {
-        "<if_woman>「よし！　<pc>ちゃん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<endif>": "<if_woman>>Bien ! <pc>-chan, notre\nrencontre ici est guidee par la Fairy\nQueen-sama ! Je veux que tu m'aides a<br>accomplir ma mission !<else>>Bien ! <pc>-kun, notre rencontre ici\nest guidee par la Fairy Queen-sama ! Je veux\nque tu m'aides a accomplir ma mission<br>!<endif>"
+    "49991": {
+        "「魔法の羅針盤が　なくなったのですね。": "Le Magic Compass a disparu."
     },
-    "126234": {
-        "「私は　みんなをハッピーにするべく \n　各地を冒険して　そこに住まう人たちや\n　冒険者に　つながりを生むことを促してきた。": "J'ai voyage a travers le monde pour rendre\ntout le monde heureux, en encourageant les\nhabitants et les aventuriers a creer des liens<br>entre eux."
+    "49992": {
+        "「い　いえ……　あの　その……。": "Non... euh... enfin..."
     },
-    "126235": {
-        "「人と人とのふれあいこそが　ハッピー！ \n　会話をして　笑ったり　助け合ったり\n　つながりを生むことが　ハッピーを生むんだ！": "Les interactions humaines sont la cle du\nbonheur ! Discuter, rire ensemble,\ns'entraider, c'est en creant des liens que le<br>bonheur nait !"
+    "49993": {
+        "「騒ぎは　外まで　聞こえていましたよ。\n　魔法の羅針盤がなくては　迷いの霧を越えられず\n　レンダーシアには　行けないはずですよね？": "Le bruit s'entendait meme de l'exterieur. Sans\nle Magic Compass, vous ne pouvez pas traverser\nle brouillard de confusion, et vous ne devriez<br>pas pouvoir aller a Lendersia, n'est-ce pas ?"
     },
-    "126236": {
-        "「……つまりだ。君には\n　私が選んだ　アストルティアにいる住人たちを\n　見つけだして　話しかけてほしいのさ！": "...En d'autres termes, je veux que tu trouves\nles habitants d'Astoltia que j'ai choisis et\nque tu leur parles !"
+    "49994": {
+        "「はい……。おっしゃる通りでございます。\n　しかし　エイブラム船長を始め\n　多くの船員たちが　探しておりますから……。": "Oui... Vous avez raison. Cependant, de\nnombreux marins, a commencer par le capitaine\nAbram, sont a sa recherche..."
     },
-    "126237": {
-        "「そのためには　準備が必要だね……。": "Pour cela, il faudra se preparer..."
+    "49995": {
+        "「私は　どうしても　レンダーシアに\n　行かなくてはならないのです。\n　……なんとか　しなくては。": "Je dois absolument me rendre a Lendercia. Je\ndois trouver un moyen..."
     },
-    "126238": {
-        "「ふっふーん。えーい！": "Fufuun. He !"
+    "49996": {
+        "「エイブラム船長！　魔法の羅針盤は……？": "Capitaine Abram ! La Boussole Magique... ?"
     },
-    "126239": {
-        "<if_woman>「君には　黄色い魔法……出会いの魔法をかけた。 \n　これで　<pc>ちゃんには\n　私が選んだ人の名前が　黄色に見えるはずさ！<else>「君には　黄色い魔法……出会いの魔法をかけた。 \n　これで　<pc>くんには\n　私が選んだ人の名前が　黄色に見えるはずさ！<endif>": "<if_woman>>Je t'ai jete un sort jaune... un\nsort de rencontre. Ainsi, <pc>-chan\ndevrait voir les noms des personnes que j'ai<br>choisies en jaune !<else>>Je t'ai jete un sort jaune... un sort de\nrencontre. Ainsi, <pc>-kun devrait voir\nles noms des personnes que j'ai choisies en<br>jaune !<endif>"
+    "49997": {
+        "「残念だが　わしの方は　収穫なしだ。\n　その様子では　そちらも　ダメか。": "C'est dommage, mais de mon cote, je n'ai rien\nrecolte. A en juger par ton expression, ce\nn'est pas mieux de ton cote, n'est-ce pas ?"
     },
-    "126240": {
-        "「これで　あとは　黄色い名前の人を\n　見つけて　話しかけるだけ！\n　どうだい　簡単だろう？": "Avec ca, il ne te reste plus qu'a trouver la\npersonne au nom jaune et lui parler ! Facile,\nn'est-ce pas ?"
+    "49998": {
+        "「……む？　キミは？": "...Hum ? Qui es-tu ?"
     },
-    "126241": {
-        "「手伝ってもらうんだ。何かお礼をしないとな。\n　……そうだね。ひとりに　話しかけるたびに\n　ちいさなメダルを　１枚あげよう。": "Je vais te demander de l'aide. Je devrais te\nremercier d'une maniere ou d'une autre. ...\nAh, je sais. Chaque fois que tu parleras a<br>quelqu'un, je te donnerai une Mini Medaille."
+    "49999": {
+        "「ちょっと　失礼。": "Un instant, s'il vous plait."
     },
-    "126242": {
-        "「さらに　話した人数に応じて\n　追加でご褒美だって　あげちゃうぞ！\n　どうだい　うれしいかい？<yesno><close>": "De plus, en fonction du nombre de personnes\navec qui tu as parle, je te donnerai une\nrecompense supplementaire ! Alors, ca te fait<br>plaisir ? <yesno><close>"
+    "50001": {
+        "「な…………？": "Quoi...?"
     },
-    "126243": {
-        "「君は　じつに　素直でいいね。\n　ますます　気に入ったよ。\n　そうだ　これも渡しておこうかな。": "Tu es vraiment honnete et c'est appreciable.\nJe t'aime de plus en plus. Tiens, je vais te\ndonner ca aussi."
+    "50002": {
+        "「おお　そうだ！　わしとしたことが\n　こんな大事なことを　忘れておったとは！": "Oh, c'est vrai ! J'ai failli oublier quelque\nchose d'aussi important !"
     },
-    "126244": {
-        "「まぁまぁ　そう言わずに。楽しくいこうぜ。\n　そうだ　これも渡しておかないとな。": "Allez, allez, ne dis pas ca. Amusons-nous. Ah,\nc'est vrai, je dois te donner ca aussi."
+    "50003": {
+        "「こんなこともあろうかと　魔法の羅針盤は\n　私が　ニセモノと　すり替えておいたのだった。": "En prevision de ce genre de situation, j'avais\nremplace le Magic Compass par un faux."
     },
-    "126245": {
-        "<pc>は\nイエローダイアリー（だいじなもの）を\n手に入れた！<me 60>": "<pc> a obtenu le Journal Nom Jaune\n(objets cles) ! <me 60>"
+    "50004": {
+        "「なくなったのは　ニセの羅針盤……\n　本物の　魔法の羅針盤は　無事だ。\n　騒がせて　申し訳ない。": "Ce qui a disparu, c'est la fausse boussole...\nLa veritable Magic Compass est en securite. Je\nsuis desole pour tout ce remue-menage."
     },
-    "126246": {
-        "「かわいいだろう。私のと　おそろいだぞ！\n　しかも　この２冊は　書いたものが\n　リンクされちゃう　ふしぎ機能付きなのさ！": "C'est mignon, n'est-ce pas ? C'est assorti au\nmien ! En plus, ces deux livres ont une\nfonction magique : ce qui est ecrit dans l'un<br>se retrouve dans l'autre !"
+    "50005": {
+        "「そんな……！？": "Quoi...!?"
     },
-    "126247": {
-        "<if_woman>「私がこっちに　アストルティアの住人を\n　書くと　<pc>ちゃんに\n　渡した方にも　記載されるんだ。　<else>「私がこっちに　アストルティアの住人を\n　書くと　<pc>くんに\n　渡した方にも　記載されるんだ。　<endif>": "<if_woman>>Quand j'ecris ici les habitants\nd'Astoltia, cela s'inscrit aussi sur ce que je\nremets a <pc>-chan.<else>>Quand j'ecris ici les habitants d'Astoltia,\ncela s'inscrit aussi sur ce que je remets a\n<pc>-kun. <endif>"
+    "50006": {
+        "「本船は　問題なく　レンダーシアに到着できる。\n　さあ　みんな　持ち場へ戻れ！": "Le navire arrivera sans probleme a Lendashia.\nAllez, tout le monde, retournez a vos postes !"
     },
-    "126248": {
-        "「私が選んだ　住人の名前を記入しておくので\n　どうぐの　だいじなものから\n　確認してみてくれ。": "J'ai inscrit le nom de l'habitant que j'ai\nchoisi, alors verifie dans les objets cles de\nton inventaire."
+    "50007": {
+        "「……くっ！": "...Grr !"
     },
-    "126249": {
-        "「私は　当面　港町レンドアの船着き場にいる。\n　気が向いたら　会いにくるといい。\n　それじゃあ　またね。": "Je suis actuellement au quai de Port Lendor.\nSi l'envie te prend, viens me voir. A bientot."
+    "50008": {
+        "「ニセの羅針盤があったとは　知りませんでした。\n　まったく　船長も　お人が悪い。": "Je ne savais pas qu'il y avait une fausse\nboussole. Franchement, le capitaine est\nvraiment un farceur."
     },
-    "126250": {
-        "「私は　当面　この町の船着き場にいる。\n　気が向いたら　会いにくるといい。\n　それじゃあ　またね。": "Je serai pour le moment a l'embarcadere de\ncette ville. Si tu en as envie, viens me voir.\nAlors, a bientot."
+    "50009": {
+        "「……どうした　ダドリー？\n　魔法の羅針盤の捜索は　どうなっている？": "Qu'est-ce qui se passe, Dudley ? Ou en est la\nrecherche du Magic Compass ?"
     },
-    "126251": {
-        "<color_yellow>サンビタリアが　かけた魔法で\n特定の人たちの名前が　黄色になりました。\n彼らを見つけ出して　話しかけてみましょう。": "<color_yellow>Grace a la magie de Sanvitalia,\nles noms de certaines personnes sont devenus\njaunes. Trouvons-les et parlons-leur."
+    "50010": {
+        "「えっ？　今　船長が\n　なくなったのは　ニセの羅針盤で\n　本物は　無事だと　おっしゃったのでは？": "Hein ? Vous venez de dire que le capitaine a\nperdu une fausse boussole et que la vraie est\nen securite, n'est-ce pas ?"
+    },
+    "50011": {
+        "「バカモノ！　なに　寝ぼけたことを言っとる！\n　ニセの羅針盤など　聞いたこともないぞ！！": "Imbecile ! Qu'est-ce que tu racontes dans ton\nsommeil ? Je n'ai jamais entendu parler d'une\nfausse boussole !!"
+    },
+    "50012": {
+        "「そんなことより　もう一度　手分けして\n　すみずみまで探すのだ！　急げ！！": "Plutot que de perdre du temps,\nrepartissons-nous et fouillons chaque recoin\nune fois de plus ! Depechez-vous !!"
+    },
+    "50013": {
+        "「は　はいっ！！": "Oui, oui !!"
+    },
+    "50014": {
+        "「船長には　すこし\n　記憶違いを　していただきました。\n　私は　こういう技を心得ているのです。": "Le capitaine a subi une legere alteration de\nmemoire. C'est une technique que je maitrise."
+    },
+    "50015": {
+        "「……それより　最初に　操舵室から出ていった\n　赤い髪の船員を　覚えていますね？\n　彼を　追ってください。": "…Avant tout, vous vous souvenez du marin aux\ncheveux rouges qui est sorti en premier de la\nsalle de pilotage, n'est-ce pas ? Suivez-le,<br>s'il vous plait."
+    },
+    "50016": {
+        "「お客さま　申し訳ございません。\n　先ほどは　たいへん見苦しいところを\n　お見せいたしました。": "<お客さま>、Veuillez nous excuser. Nous vous avons\nmontre une scene deplaisante tout a l'heure."
+    },
+    "50017": {
+        "「本船は　まもなく　迷いの霧が見える海域まで\n　近づいておりますが……　残念ながら\n　魔法の羅針盤は　まだ　見つかっておりません。": "Notre navire approche bientot de la zone ou\nl'on peut apercevoir la brume de\nl'egarement... Malheureusement, la Boussole<br>Magique n'a pas encore ete trouvee."
+    },
+    "50018": {
+        "「この操舵室には　誰でも入れる状態でしたが\n　常にクルーが　ふたり以上　おりましたし\n　怪しい者がいたという報告も　ありません。": "La salle de pilotage etait accessible a tout\nle monde, mais il y avait toujours au moins\ndeux membres d'equipage presents, et aucun<br>rapport n'a signale la presence de personnes\nsuspectes."
+    },
+    "50019": {
+        "「ふと見たら　魔法の羅針盤が\n　煙のように　消えていたのでございます。\n　いったい　何が起こったのか　サッパリで……。": "Quand j'ai regarde par hasard, la Boussole\nMagique avait disparu comme de la fumee. Je\nn'ai absolument aucune idee de ce qui a bien<br>pu se passer..."
+    },
+    "50020": {
+        "「しかし　このままでは　レンドア島に\n　戻らなくてはいけません。\n　なんとしても　探しださなくては！": "Cependant, si cela continue ainsi, nous\ndevrons retourner sur Lendor Island. Nous\ndevons absolument le trouver !"
+    },
+    "50021": {
+        "「……これが　ニセモノだと？\n　まさか　そんなはずが……。": "C'est un faux ? Impossible, cela ne se peut\npas..."
+    },
+    "50022": {
+        "「先に着いているとは　さすがですね。\n　<pc>さん。": "Vous etes deja arrive, comme prevu. <pc>\nsan."
+    },
+    "50023": {
+        "「お…お前ら……　見やがったな！？": "V...Vous... Vous avez vu ca, n'est-ce pas !?"
+    },
+    "50024": {
+        "「ニセの羅針盤を　つかまされるとは\n　このオレも　ヤキが　回ったもんだぜ。": "Me faire avoir avec une boussole factice... Je\ncommence vraiment a perdre la main."
+    },
+    "50025": {
+        "「いいえ。ニセの羅針盤なんて\n　最初から　存在しませんよ。": "Non. Une fausse boussole n'a jamais existe."
+    },
+    "50027": {
+        "「え？　ええ？": "Quoi ? Hein ?"
+    },
+    "50028": {
+        "「……私たちは　どうしても\n　レンダーシアに　渡らなくてはならないのです。": "......Nous devons absolument nous rendre a\nLendashia."
+    },
+    "50029": {
+        "「その　本物の羅針盤を　返してもらいますよ。": "Je vais recuperer cette veritable boussole."
+    },
+    "50030": {
+        "「くっそおぉおおぉぉおおおおおおっ！！\n　よくも　だましやがったな！！": "Maudit sois-tu ! Comment as-tu ose me tromper\nainsi !"
+    },
+    "50031": {
+        "「絶対　レンダーシアには　行かせねえええ！！\n　魔法の羅針盤なんか　こうしてやるっ！！": "Je ne te laisserai absolument pas aller a\nLendashia !! Je vais detruire cette Magic\nCompass comme ca !!"
+    },
+    "50032": {
+        "「捨てても　無駄です。": "Jeter est inutile."
+    },
+    "50033": {
+        "「たとえ　海の底に沈めたとしても\n　私が　たやすく　見つけだしてみせましょう。": "Meme si vous le cachez au fond de l'ocean, je\nle retrouverai sans difficulte."
+    },
+    "50034": {
+        "「くっ……！\n　どこまでも　こしゃくな！！": "Grr... ! Quelle impertinence !!"
+    },
+    "50035": {
+        "「………………。": ""
+    },
+    "50036": {
+        "「コトを荒立てるなと　言われていたが\n　……こうなったら　仕方がない。": "On m'avait dit de ne pas faire de vagues,\nmais... maintenant que les choses en sont\narrivees la, je n'ai pas le choix."
+    },
+    "50037": {
+        "「オレは　冥王ネルゲルさまの使い　マボック！": "Je suis Mavok, l'emissaire de Netherlord\nNergel-sama !"
+    },
+    "50038": {
+        "「冥王さまの　ご遺命により\n　何者にも　レンダーシアの地は　踏ません！！": "Par la volonte de Seigneur des Ombres,\npersonne ne foulera la terre de Lendashia !!"
+    },
+    "50039": {
+        "「……私は　急いでいるのです。": "Je suis presse."
+    },
+    "50040": {
+        "「ぐ……　ぁ…………。": "Guh... ah..."
+    },
+    "50041": {
+        "「死して後も　冥王ネルゲルは\n　レンダーシアの地へ渡る者を　妨害するよう\n　配下に　命じていたのですね……。": "Apres sa mort, Netherlord Nergel avait ordonne\na ses subordonnes de continuer a entraver ceux\nqui souhaitent se rendre en Rendarcia..."
+    },
+    "50042": {
+        "「いったい　なんの騒ぎだ！？": "Qu'est-ce que tout ce vacarme !?"
+    },
+    "50043": {
+        "「ま　ま　ま　魔物がっ！": "Un-un-un monstre !"
+    },
+    "50044": {
+        "「レ…レンダーシアの地を……　踏む者に\n　災い……　あ　れ…………！": "Que le malheur s'abatte... sur ceux qui\nfoulent... la terre de Lendorcia..."
+    },
+    "50045": {
+        "「よかった。海に　捨てられなくて。\n　危うく　<pc>さんに\n　海へ　飛び込んでもらうところでしたよ。": "Ouf, je suis soulage. Heureusement qu'on n'a\npas du le jeter a la mer. On etait a deux\ndoigts de demander a <pc>-san de<br>plonger."
+    },
+    "50046": {
+        "「我々が求め　探し続けていた　魔法の羅針盤が\n　ついに　この手に戻った……。": "Le Magic Compass que nous avons cherche et\nrecherche sans relache est enfin revenu entre\nnos mains..."
+    },
+    "50047": {
+        "「諸君の協力に　感謝する！\n　まもなく　本船は　迷いの霧に突入する。\n　キミたちも　船内で安全を確保してくれたまえ！": "Je vous remercie tous pour votre cooperation !\nNous allons bientot penetrer dans le\nbrouillard de l'illusion. Veuillez assurer<br>votre securite a l'interieur du navire !"
+    },
+    "50048": {
+        "「これで　レンダーシアに行けるはず……\n　とはいえ　到着するまでには\n　まだ　しばらく時間が　かかるでしょう。": "Avec cela, nous devrions pouvoir aller a\nLendersia... Cependant, il faudra encore un\ncertain temps avant d'y arriver."
+    },
+    "50049": {
+        "「もし　船内で　することがなくなったら\n　客室案内係に言えば　港に着くまで\n　部屋で　休ませてもらえますよ。": "S'il n'y a plus rien a faire a bord, dites-le\na l'agent de service des cabines. Vous pourrez\nvous reposer dans votre chambre jusqu'a ce que<br>nous atteignions le port."
+    },
+    "50050": {
+        "「１階の　カウンターにいる人です。\n　覚えておいてくださいね。": "C'est la personne au comptoir du premier\netage. Souvenez-vous en, d'accord ?"
+    },
+    "50051": {
+        "「<pc>さん。": "<pc>-san."
+    },
+    "50052": {
+        "「あなたも　これから\n　お休みになるところでしたか。": "Vous alliez vous reposer aussi ?"
+    },
+    "50053": {
+        "「ご乗船の　お客さまに申し上げます。": "Chers passagers a bord, nous avons une annonce\na vous faire."
+    },
+    "50054": {
+        "「これより　本船は　迷いの霧に突入いたします。\n　甲板や　デッキにいらっしゃる　お客さまは\n　速やかに　船内へ　お戻りくださいませ。": "Le navire va maintenant entrer dans le\nbrouillard de confusion. Les passagers\npresents sur le pont ou le pont superieur,<br>veuillez immediatement retourner a l'interieur\ndu navire."
+    },
+    "50055": {
+        "「ダメですっ！\n　計器が……　すべて　作動しません！！": "Non, ca ne va pas ! Les instruments... aucun\nne fonctionne !!"
+    },
+    "50056": {
+        "「こちらもです！\n　まったく　舵が　ききません！！": "Nous aussi ! Le gouvernail ne repond plus du\ntout !!"
+    },
+    "50057": {
+        "「これが……　迷いの霧のチカラか。": "C'est donc... le pouvoir du Brouillard de\nl'Hesitation."
+    },
+    "50058": {
+        "「頼むぞ。\n　英知の結晶……　魔法の羅針盤よ！": "Je t'en prie. Cristal de sagesse... Magic\nCompass !"
+    },
+    "50059": {
+        "「だ……　ダメか…………。": "Ca... Ca ne va pas..."
+    },
+    "50060": {
+        "「せ…船長！\n　舵が！　舵が　ききます！！": "Ca... Capitaine ! Le gouvernail ! Le\ngouvernail fonctionne !!"
+    },
+    "50061": {
+        "「よし！\n　あの光が指し示す方向に　進路を取れ！！": "Bien ! Prenez la direction indiquee par cette\nlumiere !!"
+    },
+    "50062": {
+        "「……どうやら　落ち着いたようですね。": "......Il semble que vous vous soyez calme."
+    },
+    "50063": {
+        "「後のことは　船員たちに　まかせて\n　私たちは　休ませてもらうことにしましょう。": "Laissons le reste aux marins et prenons un peu\nde repos."
+    },
+    "50064": {
+        "「なぜだ……？": "Pourquoi...?"
+    },
+    "50065": {
+        "「迷いの霧は　無事　抜けましたが……\n　潮の流れが強く　グランゼドーラの海域には\n　どうやっても　近づけないようです。": "Nous avons reussi a sortir en toute securite\ndu brouillard mysterieux... Cependant, le\ncourant de la mer est si fort qu'il semble<br>impossible de s'approcher de la zone maritime\nde Glamp Zedora."
+    },
+    "50066": {
+        "「仕方あるまい。\n　今は　レンダーシアへの上陸が　最優先だ。": "Il n'y a pas d'autre choix. Pour l'instant,\nnotre priorite absolue est de debarquer a\nLendarsia."
+    },
+    "50067": {
+        "「本船は　ここに停泊する！\n　不本意ではあるが　乗客には　陸路で\n　グランゼドーラ王国へ　向かってもらおう。": "Ce navire va rester ici a quai ! Bien que cela\nne soit pas notre desir, les passagers devront\nse rendre au Royaume de Gran Zedora par la<br>voie terrestre."
+    },
+    "50068": {
+        "「お客さまに　ご案内申し上げます。\n　本船は　レンダーシアに　到着いたしました。": "Mesdames et Messieurs, nous avons le plaisir\nde vous annoncer que notre navire est arrive a\ndestination, a Lendersia."
+    },
+    "50069": {
+        "「目的地である　グランゼドーラ王国の港とは\n　異なる場所となりましたが　レンダーシア上陸を\n　最優先と判断し　停泊いたします。": "Bien que nous soyons arrives a un endroit\ndifferent du port du royaume de Gran Zedora,\nnous avons juge qu'il etait prioritaire<br>d'accoster a Lendersia."
+    },
+    "50070": {
+        "「現在　クルーたちが\n　お客さまを　浜辺まで　お送りしております。": "P. Les membres d'equipage accompagnent nos\ninvites jusqu'a la plage."
+    },
+    "50071": {
+        "「グランゼドーラ王国を目指される　お客さまは\n　陸路にて　お向かいください。": "Les clients se rendant au Royaume de Gran\nZedora sont pries de prendre la route\nterrestre."
+    },
+    "50072": {
+        "「なお　レンドア島へのお戻りを\n　ご希望なされる　お客さまは\n　浜辺にいるクルーに　お申し付けください。": "Pour nos chers clients souhaitant retourner\nsur l'ile de Lendor, veuillez vous adresser a\nl'equipage situe sur la plage."
+    },
+    "50172": {
+        "「なぜ　グランゼドーラ王国に　着けん……。": "Pourquoi ne pouvons-nous pas atteindre le\nRoyaume de Gran Zedora...?"
+    },
+    "74714": {
+        "「おそらく　１階のデッキに向かったはず……。\n　私も　すぐに向かいます。": "Il est probablement alle sur le pont du\npremier etage... Je vais m'y rendre\nimmediatement."
     }
 }
