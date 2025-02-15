@@ -1,173 +1,188 @@
 {
-    "186489": {
-        "「<cs_pchero>殿……！": "<cs_pchero> dono... !"
+    "165258": {
+        "「……では　次は　カタログナンバー　１１番。\n　シャトー・レビュールの　４５年物です。": "......Ensuite, nous passons au numero 11 du\ncatalogue. Un Chateau Levieur de 45 ans d'age."
     },
-    "186490": {
-        "「遅れて　申し訳ありませぬ。 \n　……ですが　さすがは　<cs_pchero>殿。\n　無事に　暴魔を　退治されたようですね。": "Je suis desole pour le retard. ...Cependant,\ncomme on pouvait s'y attendre de votre part,\n<cs_pchero> dono. Il semble que vous ayez<br>vaincu le demon avec succes."
+    "165261": {
+        "「ワインの女王として名高い　レビュールの \n　最高の当たり年の物を　４５年寝かせました。\n　今が　もっとも　飲み頃となっています。": "En tant que Reine des Vins, nous avons laisse\nreposer le millesime exceptionnel de Leviur\npendant 45 ans. C'est maintenant le moment<br>ideal pour le deguster."
     },
-    "186491": {
-        "「おい　父ちゃん！\n　遅刻するなんて　かっこ悪りぃぞ！": "He, papa ! C'est pas tres classe d'etre en\nretard !"
+    "165263": {
+        "「１００万ゴールドからの　スタートです！": "C'est un depart avec 1 000 000 Gold !"
     },
-    "186492": {
-        "「なっ……！　ルビー！！\n　村で　兵士たちと　待っていなさいと\n　言っただろうッ！": "Quoi... ! Ruby !! Je t'avais dit d'attendre au\nvillage avec les soldats !"
+    "165265": {
+        "「１００万！": "1 million !"
     },
-    "186493": {
-        "「あんな　何もねぇ村で\n　じっとなんか　してられるか。": "Je ne peux pas rester sans rien faire dans un\nvillage ou il n'y a rien."
+    "165267": {
+        "「１２０万！": "1 200 000 !"
     },
-    "186494": {
-        "「……やれやれ　困ったものです。 \n　闇の領界に　着いてすぐに　こいつが\n　ついてきているのを　見つけましてね。": "Eh bien, bien, quel ennui. Des que je suis\narrive dans le Dark Realm, je l'ai trouve en\ntrain de me suivre."
+    "165269": {
+        "「１５５万！！": "1 550 000 !!"
     },
-    "186495": {
-        "「何度も　戻るようにと　言ったのですが\n　ちっとも　聞きやしない。\n　そのせいで　遅れてしまいました……。": "Je lui ai dit de revenir plusieurs fois, mais\nil n'ecoutait pas du tout. C'est pour ca que\nnous sommes en retard..."
+    "165271": {
+        "「１５５万！　１５５万です。\n　他の方は　いらっしゃいますか？": "1 550 000 ! 1 550 000 ! Y a-t-il d'autres\nencherisseurs ?"
     },
-    "186496": {
-        "「……ったく　協団ってのは　あれもダメ\n　これもダメって　うるさいよなあ。": "...Franchement, l'association, c'est toujours\nnon a ceci, non a cela. C'est vraiment\nagacant."
+    "165273": {
+        "「……１５５万にて　落札です！": "......Adjuge pour 1 550 000!"
     },
-    "186497": {
-        "「それに比べて　ここは　落ち着くなー。\n　はじめて来たのに　なんだか　懐かしいよ。": "En comparaison, cet endroit est vraiment\napaisant. C'est ma premiere visite ici, mais\nd'une certaine maniere, j'ai l'impression d'y<br>etre deja venu."
+    "165275": {
+        "「それでは　次は　カタログナンバー１２番。\n　真紅のダイヤ　ファロン・フェニックスです。": "Ensuite, passons au numero 12 du catalogue. T.\nLe Diamant ecarlate, Falon Phoenix."
     },
-    "186498": {
-        "「なあ　父ちゃん。\n　ここで一緒に　住むってのは　どうだ？": "He, papa. Que dirais-tu qu'on vive ici\nensemble ?"
+    "165277": {
+        "「ダイヤの中で　最も希少性の高い真紅のダイヤ。\n　こちらは　大富豪ファロン氏が所有されていた\n　最大級のカラット数を誇る　逸品です。": "Dans le monde des diamants, le T. Crimson\nDiamond est le plus rare. Celui-ci etait la\npropriete de M. Fallon, un magnat, et se vante<br>d'un nombre de carats exceptionnel."
     },
-    "186499": {
-        "「バカなこと　言うんじゃない。\n　こんな危険な場所に　住めるわけないだろう。": "Ne dis pas de betises. Il est impossible de\nvivre dans un endroit aussi dangereux."
+    "165279": {
+        "「３００万ゴールドからの　スタートです！": "Le jeu commence avec 3 000 000 d'or !"
     },
-    "186500": {
-        "「ちぇっ。": "Tch."
+    "165281": {
+        "「３５０万！": "3 500 000 !"
     },
-    "186501": {
-        "「でも　いつか……。": "Mais un jour..."
+    "165283": {
+        "「５００万！": "5 000 000 !"
     },
-    "186502": {
-        "「そんな世界に　なったら\n　こうして　一緒に出かけるのも　いいな。": "Dans un tel monde, ce serait agreable de\nsortir ensemble comme ca."
+    "165285": {
+        "「８５０万！！　８５０万！！": "8 500 000 !! 8 500 000 !!"
     },
-    "186503": {
-        "「本当か！？　絶対だぞ！": "Vraiment !? C'est sur !"
+    "165287": {
+        "「８５０万が出ました。\n　他の方は　いらっしゃいますか？": "8 500 000 ont ete atteints. Y a-t-il quelqu'un\nd'autre ?"
     },
-    "186504": {
-        "「ああ。約束だ。": "Ah. C'est promis."
+    "165289": {
+        "「……８５０万にて　落札です！": "......Adjuge pour 8 500 000 !"
     },
-    "186505": {
-        "「……はっ！　こうしている場合ではない！\n　暴魔が　倒されたことを\n　カイラム村長に　報告しなければ。": "...Ah ! Ce n'est pas le moment de rester ici !\nJe dois informer Chief Kairam que le demon a\nete vaincu."
+    "165291": {
+        "「おっと　これは……カタログナンバー１３番。\n　ク……クロ・マネキの像！": "Oh, ca alors... C'est le numero 13 du\ncatalogue. Le... Black Mannequin Statue !"
     },
-    "186506": {
-        "「<cs_pchero>殿　カーラモーラ村に\n　戻りましょう。": "<cs_pchero> dono, retournons au village de\nCarlamora."
+    "165293": {
+        "「えっと　こちらは……\n　歴代の所有者が皆　破産してしまったという\n　いわくがある……玄人サマ向けの　一品です。": "Hum, voici... Un objet destine aux\nconnaisseurs, avec une reputation telle que\ntous ses precedents proprietaires ont fini par<br>faire faillite."
     },
-    "186507": {
-        "「…………。": ""
+    "165295": {
+        "「１万ゴールドからの　スタートです！": "Le jeu commence avec 10 000 Gold !"
     },
-    "186511": {
-        "「<cs_pchero>殿……\n　来てくださったのですね。": "<cs_pchero> dono... Vous etes venu..."
+    "165297": {
+        "「ハイ　１万ゴールドからです。\n　どなたか　いらっしゃいませんかー？": "Oui, a partir de 10,000 Gold. Y a-t-il\nquelqu'un d'interesse ?"
     },
-    "186512": {
-        "「あの魔物が　暴魔と思われるのですが \n　先ほどから　ピクリとも　動かないのです。\n　眠ってでもいるのでしょうか……？": "Je pense que ce monstre est un暴魔, mais il ne\nbouge pas d'un poil depuis tout a l'heure.\nSerait-il en train de dormir...?"
+    "165299": {
+        "「１０億。": "10 milliards."
     },
-    "186513": {
-        "「まるで　遺跡の一部が\n　魔物化したかのようです……。": "On dirait qu'une partie des ruines s'est\ntransformee en monstre..."
+    "165301": {
+        "「……へっ？": "…Hein ?"
     },
-    "186514": {
-        "「協団長……\n　見てください　あの石を……。": "Chef de la coalition... Regardez cette\npierre..."
+    "165303": {
+        "「１０億。": "10 milliards."
     },
-    "186515": {
-        "「なんだか　不思議なチカラを\n　感じます……。": "Je ressens une sorte de force mysterieuse..."
+    "165305": {
+        "「……何？　足りないの？\n　じゃあ　ひゃく…………": "Quoi ? Cela ne suffit pas ? Alors, cent..."
     },
-    "186516": {
-        "「……っく！\n　退けッ！！": "...Grr ! Ecartez-vous !!"
+    "165307": {
+        "「わーーーーッ！！　足りています！\n　充分ですとも！　クロ・マネキの像\n　１０億で　落札されましたーッ！！": "Waouh !! C'est suffisant ! C'est plus que\nsuffisant ! La Statue du Mannequin Noir a ete\nadjugee pour 1 milliard !!"
     },
-    "186517": {
-        "「うわああぁぁっ……！！": "Ouwaaaah... !!"
+    "165350": {
+        "「キャァアアアアーーーーー！！！！": "Kyaaaaaaaahーーーーー!!!!"
     },
-    "186518": {
-        "「うぐっ……！\n　<cs_pchero>殿……\n　どうか　奴を　打ち倒してください……！": "Ugh...! <cs_pchero> dono... Je vous en prie,\nabattez cet ennemi... !"
+    "165352": {
+        "「なっ…なんだ　コイツら！？": "Qu... Qu'est-ce que c'est que ces types-la !?"
     },
-    "186519": {
-        "「<cs_pchero>殿……\n　どうか　奴を　打ち倒してください……！": "<cs_pchero> dono... S'il vous plait, abattez\ncet ennemi... !"
+    "165358": {
+        "「ホッヒョーーーッ！！　かしらァ！\n　クロークに　ありましたぜ！\n　例の　シュミの悪いお宝！！": "Hohhyo-ohhh!! Chef ! J'ai trouve ca dans la\nsalle des manteaux ! Le fameux tresor de\nmauvais gout !!"
     },
-    "186520": {
-        "「<cs_pchero>殿……　また　あなたに\n　助けられてしまいました……。": "<cs_pchero>dono... Une fois de plus, vous\nm'avez sauve..."
+    "165362": {
+        "「キシシーッ！　愉快痛快！\n　笑いが　止まらないんだな！！": "Kishishii ! Quelle joie, quelle excitation !\nJe ne peux pas m'arreter de rire !!"
     },
-    "186521": {
-        "「この　妖しき風のようなものは\n　深海のほこらで　見たものと同じ……。\n　これが　暴魔の根源なのでしょうか……。": "Ce phenomene mysterieux, semblable a un vent\netrange, est le meme que ce que j'ai vu au\nDeep Sea Shrine... Est-ce cela la source des<br>maux demoniaques...？"
+    "165366": {
+        "「あーーーーーッッ！！！！\n　オマエら！　ふざけるなよ！！\n　私のクロ・マネキを　返せーーーーーッ！！": "Aaaaaaahhh !! Vous la ! Ne vous moquez pas !!\nRendez-moi mon Kuro-Maneki !!"
     },
-    "186522": {
-        "「なんと……？\n　これは　魔瘴というものなのですか！？\n　それが魔物に憑りついて　暴魔を生むと……？": "Quoi... ? C'est ce qu'on appelle le miasme\ndemoniaque !? Cela s'attache aux monstres et\nengendre des creatures dechainees...?"
+    "165368": {
+        "「ホッヒョヒョー！　見ろよ　トニー！\n　あのカオ　超ウケるんですけどォ～！\n　クロ・マネキを　返せェ～！　だってヒョー！": "Hohohoho ! Regarde, Tony ! Cette tete est\ntellement hilarante ! Rends-moi le Cro-Manecki\n! Hahaha !"
     },
-    "186523": {
-        "「では……もしや\n　あの石も　魔瘴に……？": "Alors... se pourrait-il que cette pierre soit\naussi impregnee de miasmes malefiques...?"
+    "165370": {
+        "「ププ……や…やめるんだな　ベニー！\n　シュミ悪いんだな！　そんな　モノマネ……\n　いくら必死すぎて　面白いからって……ププ！！": "Pff... Ar... arrete, Benny ! C'est de mauvais\ngout, vraiment ! Une telle imitation de\nNoma... Meme si c'est tellement desespere que<br>ca en devient drole... pff !!"
     },
-    "186524": {
-        "「<cs_pchero>殿……その話　後ほど\n　大神殿で　くわしく　お聞かせください。": "<cs_pchero> dono... Je vous prie de me\nraconter cette histoire en detail plus tard,\nau grand temple."
+    "165373": {
+        "「あははっ　君たち　面白いねー。\n　気にいったから　イイことを教えてあげよう。\n　ケンカを売る相手は　ちゃんと選ばないと……": "Ahaha ! Vous etes vraiment amusants, vous\nsavez. Je vous apprecie bien, alors je vais\nvous donner un bon conseil. Il est important<br>de bien choisir vos adversaires quand vous\ncherchez la bagarre..."
     },
-    "186525": {
-        "「ん……？": "Hmm...?"
+    "165375": {
+        "「…………長生きできないぞ。": "...... Tu ne pourras pas vivre longtemps."
     },
-    "186526": {
-        "「なっ……！\n　魔瘴を　食らっただと……！？": "Quoi... ! Il a absorbe la miasma malefique...\n!?"
+    "165379": {
+        "「ひぇええええ　待ってぇ～～～！！": "Hiiiiii, attends-moi～～～ !!"
     },
-    "186527": {
-        "「おい　待てッ！！": "He, attends !"
+    "165380": {
+        "「おかしらぁ～～～～～！！": "Oh, chef～～～～～ !!"
     },
-    "186528": {
-        "「いったい　あれは\n　なんなんだ……？": "Qu'est-ce que c'etait que ca...?"
+    "165382": {
+        "「逃がさないッ……！": "Je ne te laisserai pas t'echapper...!"
     },
-    "186529": {
-        "「……とにかく　いったん　イーサの村に戻り\n　ノグリット村長に　報告することにしましょう。": "En tout cas, retournons d'abord au village\nd'Ether et faisons notre rapport au chef\nNogrit."
+    "165384": {
+        "「げほっ……！？　何これ……ッ！\n　お　オマエら　待て……！": "Gah... !? Qu'est-ce que c'est... ! H-He vous\nla, attendez... !"
     },
-    "186531": {
-        "「<pc>殿　申し訳ありません。\n　ルビーが　体調を崩してしまったので\n　先に　帰らせていただきました。": "<pc>-dono, je vous presente mes excuses.\nRuby ne se sent pas bien, alors je l'ai\nlaissee rentrer chez elle."
+    "165387": {
+        "リーネのお宝は　海賊に盗まれてしまった。\n<pc>と　リーネは　ひとまず\nヴェリナード城下町へと　戻っていった……。": "Le tresor de Renee a ete vole par des pirates.\n<pc> et Renee sont retournes pour\nl'instant a la ville basse du chateau de<br>Verinard..."
     },
-    "186532": {
-        "「あんなに　元気だったのに\n　いったい　どうしたことか……？\n　早く　よくなるといいのですが……。": "Il etait si plein d'energie... Que s'est-il\npasse... ? J'espere qu'il ira mieux\nrapidement..."
+    "165449": {
+        "「ぷ……ぷぷぷぷ…………！": "Pff... pfffff... !"
     },
-    "186533": {
-        "「……っと　すみません。それでは　暴魔の正体が\n　魔瘴が憑いた　魔物だという話について\n　くわしく聞かせて　いただけますか？<yesno><close>": "Ah, excusez-moi. Pourriez-vous m'en dire plus\nsur cette histoire selon laquelle les monstres\npossedes par le miasme sont en realite des<br>demons ?<yesno><close>"
+    "165450": {
+        "「ちょっとォ～　トニーさァ～ん。\n　いくらこの人が　俺たちが流した　ニセ情報に\n　踊らされたからって　笑っちゃ悪いですよう～！": "He, Tony-san ! Meme si cette personne s'est\nlaissee berner par nos fausses informations,\nce n'est pas bien de se moquer !"
     },
-    "186534": {
-        "「このような時に　冗談はおやめください。\n　事は　一刻を争うのです。": "Veuillez cesser vos plaisanteries en un moment\npareil. La situation est urgente."
+    "165451": {
+        "「かっ……海賊が　よりによって　大・山・林！！": "Quoi... des pirates ici, en plein milieu de\ncette immense foret et montagne !"
     },
-    "186535": {
-        "<pc>は　神獣パチャティカから\n聞いた話を　トビアスに伝えた。": "<pc> a transmis a Tobias l'histoire\nqu'il a entendue de la Bete Divine Pachatika."
+    "165452": {
+        "「ぶひゃーっひゃっひゃっひゃっひゃ！！": "Buhyaaa-hyah-hyah-hyah-hyah!!"
     },
-    "186536": {
-        "「なんと……！　ナドラガ神の体内に\n　宿っていた魔瘴が　ナドラガンド全土に\n　飛び散ったですと……！？": "Quoi... !? La miasme qui residait a\nl'interieur de Nadraga s'est repandue sur tout\nle territoire de Nadragan... !?"
+    "165453": {
+        "「やーいやーい！　ひっかかったな！\n　俺たち　スクアーロ海賊団のアジトは\n　こんな所に　無いんだな！！": "Ha ha ha ! Tu t'es bien fait avoir ! Nous,\nl'equipage de pirates Squale, on n'a pas de\nHorse Mackerel par ici !!"
     },
-    "186537": {
-        "「おまけに　何者かが　魔瘴のチカラを\n　集めていると……。": "De plus, quelqu'un semble rassembler la\npuissance des miasmes malefiques..."
+    "165454": {
+        "「トーゼン　お宝も　ココには無いぷ～！\n　残念ぷ～だ　オナラぷ～だ！！": "Bien sur, il n'y a pas de tresor ici, pff !\nQuel dommage, pff ! Oups, pardon !"
     },
-    "186538": {
-        "「そういえば　アヴィーロ遺跡で　魔瘴を食らい \n　飛び去っていった魔物が　いましたね。\n　あれが　そうなのでしょうか……？": "Maintenant que j'y pense, il y avait un\nmonstre aux Ruines d'Aviro qui avait absorbe\nle miasme et s'etait envole. Serait-ce<br>celui-la... ?"
+    "165455": {
+        "「ホヒョヒョーーーッ！！\n　ついでに　オマエは　俺たちに　ここで\n　やられちまうんだよぉ～～だッ！！": "ホヒョヒョーーーッ！！ Et en passant, toi, tu vas te\nfaire avoir par nous ici-meme !!"
     },
-    "186539": {
-        "「そして　再び現れたという　邪悪なる意志……。\n　奴が　あの　魔瘴食らいを使って\n　魔瘴を　集めているのだとしたら……。": "Et ensuite, l'Evil Will a ressurgi... Si ce\ntype utilise ce devoreur de miasmes pour\nrassembler les miasmes..."
+    "165456": {
+        "「ホヒョヒョーーーッ！！ \n　何度来ても　オマエは　俺たちに　ここで\n　やられちまうんだよぉ～～だッ！！": "Hohohooooooo ! Peu importe combien de fois tu\nviens, tu te feras toujours battre ici par\nnous !"
     },
-    "186540": {
-        "「……くそッ！　これは　大変なことになったぞ。 \n　邪悪なる意志を見つけだし　止めなければ……！": "Mince ! Ca devient serieux. Il faut absolument\ntrouver Evil Will et l'arreter... !"
+    "165457": {
+        "「い　痛い　痛い　いた～～～～い！！": "Aie, aie, ca fait maaaaal !!"
     },
-    "186541": {
-        "「すぐに　全領界の者に　このことを伝え\n　奴の捜索に　あたりましょう。": "Nous devons immediatement informer tous les\nroyaumes de cette affaire et commencer la\nrecherche de cet individu."
+    "165458": {
+        "「おぉぉぉ……かわいそうな　トニー！！": "Ohhh… Pauvre Tony !!"
     },
-    "186542": {
-        "「邪悪なる意志の行方が　わかり次第\n　また　ご連絡させていただきます。\n　ご協力いただき　ありがとうございました。": "Des que nous aurons des nouvelles concernant\nl'Evil Will, nous vous contacterons a nouveau.\nMerci pour votre cooperation."
+    "165459": {
+        "「はぁはぁ……すまない……。血も涙もない人に\n　暴力を振るわれたせいで　今にも死にそうだから\n　お医者さんへ　連れていってほしいんだな……。": "Haa haa... Desole... A cause de cette personne\nsans coeur ni ame qui m'a agresse, je suis sur\nle point de mourir. J'aimerais que tu<br>m'emmenes chez le medecin..."
     },
-    "186543": {
-        "「協団長となった　今でも\n　<pc>殿には　助けられてばかり……\n　私は　何ひとつ変わっていない……。": "Meme en tant que chef de la guilde, je\ncontinue d'etre constamment aidee par\n<pc>-dono... Je n'ai pas change du<br>tout..."
+    "165460": {
+        "「あぁ　なんて　ヒドイことをする奴がいるんだ！\n　キズにさわるから　もう話すな　マイ・バディ。\n　今から　一緒に　お医者さんへ行こうな。": "Ah, quel genre de personne pourrait faire une\nchose aussi horrible ! Ca me blesse d'en\nparler davantage, mon ami. Allons ensemble<br>chez le medecin maintenant."
     },
-    "186544": {
-        "「<pc>殿のように　強くなるため\n　やはり　竜化の術を　体得しなければ……！": "Pour devenir aussi fort que <pc>-dono,\nil faut absolument maitriser l'art de la\ntransformation en dragon... !"
+    "165461": {
+        "「……戦いに負けたからって　宝は返さねーよ！\n　ってか　ここには　ねーよ！！\n　じゃーな！　ばーか！！": "...Meme si j'ai perdu le combat, je ne rendrai\npas le tresor ! En fait, il n'est meme pas ici\n!! Allez, salut ! Imbecile !!"
     },
-    "186545": {
-        "「……かつて　私は　エステラとともに\n　ナダイアさまから　竜化の術を学んでいました。": "Autrefois, j'ai etudie l'art de la\ntransformation en dragon aupres de Nadaia-sama\navec Estella."
+    "168231": {
+        "「大山林に　アジトが　あるとか……っ！\n　さっ……山賊じゃないんだな！　うぷぷぷ……": "Il paraitrait qu'il y a un Horse Mackerel dans\nla grande foret... ! C'est pas... c'est pas un\nbandit, hein ! Upupupu..."
     },
-    "186546": {
-        "「しかし　それは　困難を極め\n　私は　ついに　術を　体得することが\n　できなかったのです……。": "Cependant, cela s'est avere extremement\ndifficile et je n'ai finalement jamais reussi\na maitriser cette technique..."
+    "169133": {
+        "「ショウ・タ～イムだぜ　ベイビィ。": "C'est l'heure du spectacle, bebe."
     },
-    "186547": {
-        "「暴魔に立ち向かうには　竜化の術が必要……。\n　今一度　鍛錬を積み直し\n　必ずや　体得してみせましょう。": "Pour affronter le demon, la technique de la\ntransformation en dragon est necessaire... Je\nvais m'entrainer a nouveau, et je maitriserai<br>cette technique, c'est certain."
+    "169134": {
+        "「ヒャッッハァーーーーーー！！！！": "Hyaaaahaaaaaーーー！！"
     },
-    "186623": {
-        "「あの娘……。": "Cette fille..."
+    "169135": {
+        "「テメェら！　お宝だ！　お宝を探せェーーッ！！": "Vous la-bas ! Un tresor ! Cherchez le tresor\n!!"
     },
-    "192170": {
-        "「皆が安心して　外に出歩ける世界にしたいと\n　思っている。": "Je veux creer un monde ou tout le monde peut\nsortir en toute securite."
+    "169136": {
+        "「ヒャッハァー！　ここのお宝は\n　この！　世界の海を股にかける大海賊\n　キャプテン・スクアーロ様が　いただくぜェ！": "Hyahaa ! Ce tresor ici present sera a moi !\nMoi, le grand capitaine Squaro, le pirate qui\nsillonne les mers du monde !"
+    },
+    "169137": {
+        "「ヒャッハー！　でかしたぞ！\n　それが　時価１０億ゴールドのお宝か！！": "Hyah-ha ! Bien joue ! C'est le tresor qui vaut\n10 milliards de Gold !!"
+    },
+    "169138": {
+        "「ヤロウども！　引き上げるぞ！！": "He, les gars ! On se retire !!"
+    },
+    "169139": {
+        "「オマエら　油売ってんじゃねぇ！！\n　さっさとズラかんぞ！！": "Vous trainez, la ?! Allez, on file vite !!"
+    },
+    "169177": {
+        "「オマエ　なんてことをするんだ！\n　トニーは　身体が　とても弱いんだぞ！！": "Qu'est-ce que tu fais ?! Tony a une sante tres\nfragile !!"
+    },
+    "177880": {
+        "「ぶひゃーっひゃっひゃっひゃっひゃ！！": "Buhyaaa-hyah-hyah-hyah-hyah!!"
     }
 }
