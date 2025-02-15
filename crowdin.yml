@@ -1,9 +1,29 @@
 files:
-  - source: /**/eventTextCs*.json
-    translation: /crowdin/%language%/%original_file_name%
-    type: json
-    update_option: update_as_unapproved
+  - source: "/**/eventTextCs*.json"
+    translation: "/crowdin/%language%/%original_file_name%"
+    type: "json"
+    update_option: "update_as_unapproved"
+    escape_quotes: 3
+    multilingual: false
+
+    source_language: "ja"  # Définit le japonais comme langue source
+
+    context:
+      key: "context"  # Indique à Crowdin d'utiliser la valeur "context" comme clé de référence
+
     translation_replace:
-      - ''
-      - ''
-      - ''
+      # Remplace les <if_woman> <else> <endif> pour qu'ils n'affectent pas la traduction
+      - pattern: "<if_woman>(.*?)<else>(.*?)<endif>"
+        replacement: "{GENDER:$1|$2}"  # Formate la variable pour Crowdin
+
+      # Limite à 46 caractères par ligne, sauf si <br> est présent
+      - pattern: "(.{46})(?!\n|<br>).*"
+        replacement: "\1"
+
+      # Limite à 3 sauts de ligne (\n)
+      - pattern: "(?:([^\n]*\n)){4,}"
+        replacement: ""
+
+      # Remplace \n par <br> après 3 lignes
+      - pattern: "(\n)"
+        replacement: "<br>"
