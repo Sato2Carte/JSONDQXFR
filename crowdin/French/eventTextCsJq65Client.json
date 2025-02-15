@@ -1,65 +1,257 @@
 {
-    "14132": {
-        "「あー！　あいつですー！\n　あいつが　手強い旅芸人ですよー！": "Ah ! C'est lui ! C'est le redoutable artiste\nitinerant !"
+    "277154": {
+        "<pipipi_low><center>無駄なことだ。\n我がチカラは　不滅なり。": "<pipipi_low> C'est inutile. Mon pouvoir est\neternel."
     },
-    "14133": {
-        "「フォッフォッフォ　感じます……。\n　私の弟弟子ポルファンと　同じオーラを。": "Fofofo, je ressens quelque chose... La meme\naura que celle de mon jeune camarade Polfan."
+    "277155": {
+        "「くそっ　復活しやがった！\n　これじゃ　ジリ貧だよ　マドロック！？": "Merde, il est revenu a la vie ! On est dans\nune impasse, Madrock !"
     },
-    "14134": {
-        "「あなたは　ポルファンの弟子ですね。\n　役立たずのゲイザーより　お強いようで。\n　私　好きですよ。強い方が……。": "Vous etes l'eleve de Polfan, n'est-ce pas ? Il\nsemble que vous soyez plus fort que l'inutile\nGazer. J'aime ca, vous savez. Les plus<br>forts..."
+    "277156": {
+        "「フレンジー　<cs_pchero>！\n　ムネにある宝石だ。\n　あれを　奴から　はぎ取るんだ！！": "Frenzy <cs_pchero> ! Le joyau sur sa poitrine.\nArrache-le-lui !!"
     },
-    "14135": {
-        "「でもね　残念です。私　嫌いなんですよ。\n　くだらん芸をする　旅芸人っていうのがね……。\n　なんと言いますかね。受けつけないんですよ。": "Mais bon, c'est dommage. Je n'aime pas ca. Ces\nartistes itinerants qui font des spectacles\nfutiles... Comment dire... je ne peux pas les<br>supporter."
+    "277157": {
+        "「……見えた！！": "...Je vois !!"
     },
-    "14136": {
-        "「もうね　好き嫌いの問題ではないです……。\n　生理的にダメ。つまらん芸とか　ナンセンス。\n　あれで笑える奴の神経が　理解できない……。": "Ce n'est plus une question de gouts ou de\npreferences... C'est physiologiquement\nimpossible. Ces blagues ennuyeuses, c'est du<br>non-sens. Je ne peux pas comprendre les nerfs\nde ceux qui rient de ca..."
+    "277158": {
+        "「グギャアァァァァッ！！": "<gugyaaaaaa!!>"
     },
-    "14137": {
-        "「もうね　ホント世の中どうかしてますよ。\n　どいつもこいつも　つまらん芸で笑ってるのに\n　私のセンスが通用しないのは　狂ってますね。": "Vraiment, le monde devient fou. Tout le monde\nrit de ces spectacles ennuyeux, mais mon sens\nde l'humour ne passe pas ? C'est insense."
+    "277159": {
+        "「チカラが……。\n　私には　チカラが必要だ…………。": "Du pouvoir... J'ai besoin de pouvoir..."
     },
-    "14138": {
-        "「で　結論。なにが言いたいのかというとですね。\n　旅芸人は　この世から消えてください。\n　消えないのなら　私が　殺してさしあげます。": "En conclusion. Ce que je veux dire, c’est\nceci. Les artistes itinerants devraient\ndisparaitre de ce monde. Si ce n’est pas le<br>cas, je me chargerai de les eliminer."
+    "277160": {
+        "「なぜ　それほどまでに　海賊を憎む……。\n　我々が　あんたに　何をした？": "Pourquoi detestes-tu autant les pirates... Que\nt'avons-nous fait ?"
     },
-    "14139": {
-        "「キャッ　キャッ♪\n　ボクたちも　殺したいですー♪": "Hi hi ♪ Nous aussi, nous voulons tuer ♪"
+    "277161": {
+        "「……しばらく前のことだ。\n　小さな漁村の近くで　海賊どもが争い\n　外れた砲弾が　漁村に　大きな被害を与えた。": "Il y a quelque temps, pres d'un petit village\nde pecheurs, des pirates se sont affrontes. Un\nboulet de canon egare a cause de grands<br>dommages au village."
     },
-    "14140": {
-        "「ボクたち　ルルルリーチ様の特訓で\n　ちょー　強くなったぜー♪": "Nous sommes devenus super forts grace a\nl'entrainement de Rururīchi-sama ! ♪"
+    "277162": {
+        "「私が駆けつけたときには　海賊どもの姿はなく\n　崩れ落ちた家屋と　多くのケガ人が\n　その場に　残されているばかりだった……。": "Quand je suis arrive, les pirates avaient deja\ndisparu, ne laissant derriere eux que des\nmaisons effondrees et de nombreux blesses..."
     },
-    "14141": {
-        "「殺し～♪　殺す～♪　殺せ～♪": "Tuer ~♪ Tuer ~♪ Tue-les ~♪"
+    "277163": {
+        "「そうか……。我々が　ハルバルドから\n　海で奇襲を受けた　あのときか……。": "Je vois... C'etait donc a ce moment-la,\nlorsque nous avons ete attaques en mer par\nsurprise par HalbaLudo..."
     },
-    "14142": {
-        "「私　好きなんですよ。命をかけた戦いが。\n　芸も　似たようなものですよね？\n　フォッフォッフォ。さあ　楽しみましょう。": "J'aime ca, les combats ou l'on met sa vie en\njeu. L'art, c'est un peu la meme chose,\nn'est-ce pas ? Ho ho ho. Allez, amusons-nous."
+    "277164": {
+        "「私の弟も　そこで　暮らしていたのだ。\n　弟は　そのとき　漁に出ていたらしいが\n　発見されたのは　漁船の破片だけだった。": "Mon frere y vivait aussi. Il semblerait qu'il\netait parti pecher a ce moment-la, mais tout\nce qu'on a retrouve, ce sont des debris de son<br>bateau de peche."
     },
-    "14143": {
-        "「あなた　また来たんですか？\n　あれだけ　痛めつけてさしあげたのに\n　まだ　私の愛のムチが　欲しいんですね？": "Vous etes revenu, n'est-ce pas ? Malgre toute\nla douleur que je vous ai infligee, vous\ndesirez encore les coups de fouet de mon amour<br>?"
+    "277165": {
+        "「海賊どもによって　弟は　殺された。\n　私は　弟……ピードの仇を　討たねばならん！！": "Les pirates ont tue mon frere. Je dois venger\nla mort de mon frere... Peid !!"
     },
-    "14144": {
-        "「フォッフォッフォ　うれしいです。\n　私　好きなんですよ。弱い者をいたぶるのが。\n　私の趣味に協力してくれるとは　素敵な方だ。": "Fofofo, je suis ravi. J'adore ca, tourmenter\nles faibles. Vous etes une personne formidable\nde cooperer avec mon passe-temps."
+    "277166": {
+        "「おい　ピードって　まさか……。": "He, Peid, tu ne veux pas dire..."
     },
-    "14145": {
-        "「フォッフォッフォ。さあ　楽しませてください。\n　私は　まだまだ　満足していませんから。": "Fofofo. Allez, divertissez-moi. Je ne suis pas\nencore satisfait."
+    "277167": {
+        "「ああ。今の話を聞く限り　まちがいないな。": "Ah. D'apres ce que j'ai entendu, il n'y a\naucun doute."
     },
-    "14146": {
-        "「……フォッフォッフォ。お強いですね。\n　しかし　悲しいことですが　才能ある者は\n　この世から　差別されるのですよ。": "…Fo, fo, fo. Vous etes fort, n'est-ce pas.\nCependant, c'est triste a dire, mais ceux qui\nont du talent sont discrimines dans ce monde."
+    "277168": {
+        "「あんたの弟は　死んではいない。\n　ピードは　我々の仲間として　暮らしている。": "Ton frere n'est pas mort. Peid vit parmi nous\nen tant que l'un des notres."
     },
-    "14147": {
-        "「私は　ポルファンより　才能がありましたが\n　魔物の芸など　ウケるわけなく　どこへ行っても\n　私の芸は　受け入れられませんでした……。": "J'avais plus de talent que Polfan, mais les\nperformances de monstres ne plaisaient a\npersonne. Ou que j'aille, mon art n'etait<br>jamais accepte..."
+    "277169": {
+        "「あいつが……　生きている？\n　しかも　海賊として……だと！？\n　そんなことが　あるものか！！": "Cet homme... est vivant ? Et en plus, il est\ndevenu pirate... !? Ca ne se peut pas !!"
     },
-    "14148": {
-        "「しかし　自分より才能のない多くの旅芸人が\n　成功している……。私は絶望しましたよ。\n　次第に　芸を恨むようになりましてねえ……。": "Cependant, de nombreux artistes de cirque avec\nmoins de talent que moi ont reussi... J'etais\ndesespere. Peu a peu, j'ai commence a en<br>vouloir a mon art..."
+    "277170": {
+        "「船長！　お宝は　どうなりやした？\n　およばずながら　加勢に来やしたぜっ。\n　……って　こりゃあ　いったい？": "Capitaine ! Qu'est-il advenu du tresor ? Je\nsuis venu vous preter main-forte, dans la\nmesure de mes capacites. ... Mais, qu'est-ce<br>que c'est que ca ?"
     },
-    "14149": {
-        "「フォッフォッフォ。才能が　あったところで\n　世の中は　それを正しくは評価しませんよ？": "Fo fo fo. Meme si vous avez du talent, le\nmonde ne l'evaluera pas correctement, vous\nsavez ?"
+    "277171": {
+        "「なんで　ピードまで　連れてきたんだい。\n　荒事には　巻き込むなって　言ったろ？": "Pourquoi as-tu amene Peid ici ? Je t'avais dit\nde ne pas l'impliquer dans des affaires\ndangereuses."
     },
-    "14150": {
-        "「あなたは　自分の才能が認められなくても\n　くさらずに　笑いの道を極められますか？<yesno><close>": "Peux-tu continuer a poursuivre la voie de\nl'humour sans te decourager, meme si ton\ntalent n'est pas reconnu ?<yesno><close>"
+    "277172": {
+        "「それが……。どうしても　船長の\n　お役に立ちたいって　ゴネられまして。\n　すんません　アネさん。": "Eh bien... Il a insiste pour etre utile au\ncapitaine, peu importe quoi. Desole, Ane-san."
     },
-    "14151": {
-        "「フォッフォッフォ。そうでしょうね……。\n　そのように　強い心を持った旅芸人など\n　この世に　いるわけがない……。": "Ho ho ho. Je m'en doutais bien... Il n'existe\npas de troubadour avec un coeur aussi vaillant\ndans ce monde..."
+    "277173": {
+        "「……兄さん？": "......Nii-san ?"
     },
-    "14152": {
-        "「フォッフォッフォ。ムリですよ……。\n　そのように　強い心を持った旅芸人など\n　この世に　いるわけがない……。": "Ho ho ho. C'est impossible... Un artiste\nitinerant avec un coeur aussi fort n'existe\ntout simplement pas dans ce monde..."
+    "277174": {
+        "「いいや。でかしたよ　タクホ。\n　これで　この兄チャンも　アタイたちが\n　ウソを言ってないって　わかってくれるはずさ。": "Non. Bien joue, Takuho. Grace a ca, ce grand\nfrere comprendra que les Red Snapper ne\nmentent pas."
+    },
+    "277175": {
+        "「本当に　ピードなの……か？\n　その格好は　海賊の…………。": "Est-ce vraiment Peid... ? Cette tenue est\ncelle d'un pirate..."
+    },
+    "277176": {
+        "「あのとき　漁に出ていた僕の船は\n　突進してきた　海賊の船に　ぶつけられて\n　コナゴナに　なって……": "A ce moment-la, mon bateau qui etait parti\npecher a ete percute par le navire pirate qui\navancait a toute allure et s'est brise en<br>mille morceaux..."
+    },
+    "277177": {
+        "「海に投げ出された後　沈みかけていた僕を\n　マドロック海賊団の人が　助けてくれたんだよ。": "Apres avoir ete jete a la mer et alors que je\ncommencais a couler, c'est un membre de\nl'equipage des pirates de Madrock qui m'a<br>sauve."
+    },
+    "277178": {
+        "「それで　そのまま　居着いてしまったんだ。\n　海賊の暮らしが　とても　楽しくて……。": "Et c'est ainsi que je suis reste ici. La vie\nde pirate est vraiment amusante..."
+    },
+    "277179": {
+        "「私は　弟の命の恩人を\n　この手で　殺すところだったのか…………。": "J'ai failli tuer de mes propres mains le\nsauveur de la vie de mon petit frere..."
+    },
+    "277180": {
+        "「……ごめんよ　ゲーダム兄さん。\n　僕が　無事なことを\n　もっと早く　知らせるべきだったね。": "Je suis desole, frere Gedam. J'aurais du te\nfaire savoir plus tot que j'etais sain et\nsauf."
+    },
+    "277181": {
+        "「僕が　海賊になったなんて　知らせたら\n　兄さんに　迷惑が　かかると思って……。": "Je pense que si j'annoncais etre devenu\npirate, cela causerait des ennuis a mon\nfrere..."
+    },
+    "277182": {
+        "「いいんだ。お前が　生きていたなら\n　それだけで…………。": "C'est bon. Tant que tu es en vie, c'est tout\nce qui compte..."
+    },
+    "277183": {
+        "<pipipi_low><center>……チカラの欠片は　ひとつにあらず。\nいずれ　ふたたび　我らは現れる。\nそして…………": "<pipipi_low> Les fragments de pouvoir ne sont\npas uniques. Un jour, nous serons unifies a\nnouveau. Et alors"
+    },
+    "277184": {
+        "「こんな秘宝が　他にもあるということか？\n　まったく　ゾッとしない話だな……。": "Y a-t-il d'autres tresors aussi secrets que\ncelui-ci ? C'est vraiment une perspective\neffrayante..."
+    },
+    "277185": {
+        "「あんたは　秘宝のチカラに惑わされ\n　自分を見失っていただけだ。\n　気に病む必要はない。": "Tu as simplement ete egare par le pouvoir du\ntresor sacre et tu t'es perdu. Il n'y a pas\nbesoin de te tourmenter."
+    },
+    "277186": {
+        "「それに　非は　こちらにもある。\n　漁村の件は　申し訳ないことをした。\n　できる限りの償いは　させてもらうつもりだ。": "Nous avons aussi notre part de responsabilite\ndans cette affaire. Je suis desole pour ce qui\ns'est passe dans le village de pecheurs. Nous<br>ferons tout notre possible pour reparer cela."
+    },
+    "277187": {
+        "「……感謝する。私は　すべてを　女王に報告し\n　この罪を　裁かれなくてはならない。": "......Je te remercie. Je dois tout rapporter a\nla reine et faire face au jugement pour ce\ncrime."
+    },
+    "277188": {
+        "「ピードを　よろしく　頼む……。": "Je vous confie Peid..."
+    },
+    "277189": {
+        "「ゲーダム兄さん　ありがとう。\n　あとで　必ず　会いにいくから！": "Gedam niisan, merci. Je viendrai te voir plus\ntard, c'est sur !"
+    },
+    "277190": {
+        "「話も済んだし　そろそろ　引き上げないかい？\n　今回ばかりは　さすがのアタイも　ヘトヘトだ。\n　船に帰って　ひと眠りしたいところさ。": "La discussion est terminee, alors ne serait-il\npas temps de partir ? Cette fois, meme le Red\nSnapper est epuise. Je voudrais retourner sur<br>le bateau et faire une petite sieste."
+    },
+    "277191": {
+        "「ああ。船に帰ろう。オレたちの家にな。": "Ah. Retournons au bateau. C'est notre maison,\napres tout."
+    },
+    "277192": {
+        "「ああ……。海賊どもが\n　また　やって来たか…………。": "Ah... Les pirates sont encore venus..."
+    },
+    "277193": {
+        "「今すぐ　秘宝を捨てろっ。\n　そいつの声に　耳を貸すな！！": "Jette immediatement le tresor ! Ne prete pas\nattention a sa voix !"
+    },
+    "277194": {
+        "<center><pipipi_low>さあ　我が　怨嗟のチカラを与えよう。\nさすれば　そなたの望みは　かなう。": "<pipipi_low>Bien, je vais te donner le pouvoir\nde ma rancoeur. Ainsi, ton souhait sera exauce."
+    },
+    "277195": {
+        "<center><pipipi_low>怨讐の念に従い　すべてを　滅ぼすがいい。\nそなたの欲するままに。": "<pipipi_low> Laisse-toi guider par ton\nressentiment et detruis tout. Fais selon tes\ndesirs."
+    },
+    "277196": {
+        "「グググ……グヒャヒャヒャッ！": "Grgrgr… Guhyahya !"
+    },
+    "277197": {
+        "「そうだ！　オレが　滅ぼしてやる。\n　海賊どもを！　弟を殺した者どもを！！": "C'est ca ! Je vais les detruire. Les pirates !\nCeux qui ont tue mon frere !!"
+    },
+    "277198": {
+        "「これが　海を支配するチカラの正体……なのか？\n　まったく　ロクなもんじゃない。": "C'est donc ca, la veritable nature du pouvoir\nqui controle la mer... ? Ce n'est vraiment pas\nquelque chose de bien."
+    },
+    "277199": {
+        "「ああ　同感だね。\n　こんなもん　お宝でも　なんでもないよ！": "Ah, je suis d'accord. Ce genre de chose n'est\nni un tresor ni quoi que ce soit !"
+    },
+    "277200": {
+        "「オレたちで　なんとかするぞ。\n　<cs_pchero>　フレンジー　抜かるなよ。": "On va s'en sortir ensemble. <cs_pchero>\nFrenzy, ne baisse pas ta garde."
+    },
+    "277201": {
+        "「アイアイサー！": "Aye aye, sir!"
+    },
+    "277202": {
+        "「……くそっ。<cs_pchero>！！\n　あれの相手は　お前に　まかせる！": "...Merde. <cs_pchero> !! Je te confie le soin\nde t'occuper de ca !"
+    },
+    "277203": {
+        "「グヒャヒャヒャッ！　いいだろう。\n　ひとりずつ　じっくりと　滅ぼしてやる。\n　まずは　貴様からだっ！！": "Guhyahyahya ! Tres bien. Je vais vous detruire\nun par un, lentement. Et toi, tu seras le\npremier !!"
+    },
+    "277204": {
+        "「ゲーダムの旦那ぁ。\n　これで　ワシだけは\n　見逃してもらえるんだよな？": "Monsieur Gedam. Avec ca, vous allez me laisser\npartir, n'est-ce pas ?"
+    },
+    "277205": {
+        "「海神の秘宝……。なるほど。\n　たしかに　大きなチカラを感じる。": "Richesse du Dieu de la Mer... Je vois. En\neffet, je ressens une grande puissance."
+    },
+    "277206": {
+        "「こんなものを　貴様たちが　手にしたら\n　何をしでかすか　わかったものじゃない……。": "Si vous mettez la main sur un tel objet, qui\nsait ce que vous pourriez faire..."
+    },
+    "277207": {
+        "「へへっ。それじゃ　ワシは　この辺で……。": "Hehe. Bon, je vais m'arreter ici..."
+    },
+    "277208": {
+        "「……女王よ。\n　こんな卑怯で　恥知らずな海賊どもを\n　生かしておく価値など　どこに　あるのか！？": "Ma reine. Pourquoi laisser vivre ces pirates\nlaches et sans honneur ?"
+    },
+    "277209": {
+        "「こんな奴らに　私の弟は　殺されたのだぞ！\n　もはや　私は……私は…………。": "Mon frere a ete tue par des gens comme eux !\nJe ne peux plus... je ne peux plus..."
+    },
+    "277210": {
+        "<pipipi_low><center>ああ　よいぞ……。\n心地よい　負の感情で満たされる。": "<pipipi_low> Ah, c'est bon... Je suis rempli\nd'emotions negatives apaisantes."
+    },
+    "277211": {
+        "<pipipi_low><center>そなたの望み。\n我がチカラで　応えよう……。": "<pipipi_low> Tes souhaits, je vais y repondre\navec mon pouvoir..."
+    },
+    "277212": {
+        "「なっ　なんだ　これは……！？\n　うぎゃああああぁぁっ！！": "Qu-Qu'est-ce que c'est que ca... !? Aaaahhh !!"
+    },
+    "277213": {
+        "「ククク……。\n　このチカラがあれば　私は…………。": "Kuku... Avec ce pouvoir, je..."
+    },
+    "277214": {
+        "<pipipi_low><center>あわてることはない……。\nみずからの手で　事を成すのだ。": "<pipipi_low> Il n'y a pas lieu de se\nprecipiter... Accomplis la tache de tes\npropres mains."
+    },
+    "277215": {
+        "<pipipi_low><center>そなたに　我がチカラの一端を与える。\nさあ……。船の墓場へ向かえ。\n儀式を始めようぞ。": "<pipipi_low> Je vais te confier une partie de\nmon pouvoir. Allons... Dirige-toi vers le\nCimetiere des Navires. Nous allons commencer<br>le rituel."
+    },
+    "277216": {
+        "「こいつは　ヤバいことになった。\n　やはり　あの秘宝は　危険なシロモノだ。": "Ca devient dangereux. Ce tresor cache est\nvraiment un objet perilleux."
+    },
+    "277217": {
+        "「でも　放っとけないだろ？\n　アイツは　海賊に　恨みがあったみたいだ。\n　このままじゃ　何をしでかすか……。": "Mais on ne peut pas l'ignorer, n'est-ce pas ?\nIl semble qu'il ait une rancune contre les\npirates. Dans cet etat, qui sait ce qu'il<br>pourrait faire..."
+    },
+    "277218": {
+        "「ああ　そのとおりだな……。": "Ah, c'est exact..."
+    },
+    "277219": {
+        "「あれを　野放しにするわけには　いかない。\n　<pc>。チカラを貸してくれるか？<yesno><close>": "Je ne peux pas laisser cela en liberte.\n<pc>. Peux-tu m'aider ? <yesno><close>"
+    },
+    "277220": {
+        "「おいおい。怖気づいちまったのかい？\n　ここで　退くわけにゃいかないだろ！": "He, he. T'aurais peur, maintenant ? On ne peut\npas reculer ici, tu sais !"
+    },
+    "277221": {
+        "「お前のチカラが　必要と判断したんだ。\n　<pc>。やってくれるな？<yesno><close>": "Nous avons juge que ta force est necessaire.\n<pc>. Tu es pret a le faire ?\n<yesno><close>"
+    },
+    "277222": {
+        "「おっ　ヤる気だね　<pc>。\n　そうこなくっちゃね！": "Ah, tu es motive, <pc>. C'est l'esprit !"
+    },
+    "277223": {
+        "「戦いは　避けられないだろう。\n　このまま　突入するのは　危険だ。\n　いったん　準備をしたほうがいい。": "Le combat sera inevitable. Il est dangereux de\nse lancer ainsi. Il vaudrait mieux se preparer\nd'abord."
+    },
+    "277224": {
+        "「よし。じゃあ　準備ができたら\n　秘密の部屋の先の　船の墓場に\n　突入ってことで　頼んだよ　<pc>！": "D'accord. Alors, une fois que tu es pret, je\ncompte sur toi pour te rendre dans le\nCimetiere des Navires au-dela de la Chambre<br>Secrete, <pc> !"
+    },
+    "277225": {
+        "「やるな　<pc>。\n　オレたちより先に　お宝まで\n　たどり着くとは　思わなかった。": "Pas mal, <pc>. Je ne m'attendais pas a\nce que tu atteignes le tresor avant nous."
+    },
+    "277226": {
+        "「さっそく　開けてみようじゃないか！": "Allons-y, ouvrons-le tout de suite !"
+    },
+    "277227": {
+        "「ふんふん。ワナは　ないようだね。\n　いいかい？　開けちまうよ！！": "Hmm hmm. Il semble n'y avoir aucun piege.\nD'accord ? Je vais l'ouvrir !!"
+    },
+    "277228": {
+        "「こいつは……。\n　これが　海神の秘宝……なのか？": "C'est... Est-ce que c'est ca, la Richesse du\nDieu de la Mer... ?"
+    },
+    "277229": {
+        "「とんでもなく　嫌な予感がしやがる。\n　こいつは　そっとしておくべきじゃないか？": "J'ai un tres mauvais pressentiment. Ne\ndevrions-nous pas le laisser tranquille ?"
+    },
+    "277230": {
+        "「はあ！？　何　言ってるんだい。\n　アタイたちは　ずっと　探してたんじゃないか。\n　海を支配するチカラを秘めた　コイツをさ！": "Hein !? Qu'est-ce que tu racontes ? N'as-tu\npas cherche les Red Snapper tout ce temps ? Ce\ntruc detient le pouvoir de dominer la mer !"
+    },
+    "277231": {
+        "「仮に　そんなチカラが　なくたって\n　こんだけのお宝だ。売りゃ　いい金になる。\n　船だって　すぐに　直せるよ！": "Meme si TMP n'a pas ce pouvoir, regarde tous\nces tresors. En les vendant, ca rapportera une\nbelle somme. On pourra reparer le bateau en un<br>rien de temps !"
+    },
+    "277232": {
+        "「……放置して　他の誰かの手に\n　渡ってしまうのも　やっかいか。\n　オレたちが　確保しておいたほうが……": "Le laisser de cote et le voir tomber entre les\nmains de quelqu'un d'autre pourrait etre\nproblematique. Il vaudrait mieux que nous le<br>securisions nous-memes..."
+    },
+    "277233": {
+        "「いいね。この重み……。\n　これこそ　お宝の重みってヤツだよ。": "Super. Ce poids... C'est ca, le poids d'un\nvrai tresor."
+    },
+    "277234": {
+        "「よっしゃ　船に戻ろうじゃないか。\n　コイツを　みんなにも　見せてやらないとね！": "Allons, retournons au navire. Il faut montrer\nca a tout le monde !"
+    },
+    "277235": {
+        "「<pc>。お前は　オレが　思ってた以上に\n　ウデは立つし　頼りにもなるようだ。\n　これからも　期待させてもらうぞ。": "<pc>. Tu es plus competent et fiable que\nje ne l'avais imagine. Je vais continuer a\navoir de grandes attentes envers toi."
+    },
+    "277236": {
+        "「さあ　引き上げるとしよう。": "Allez, remontons."
+    },
+    "286840": {
+        "「船長サンが　ハルバルドにばかり　かまって\n　宝の地図は　どうでもいいって態度じゃなけりゃ\n　もっと　早く　ここに来れたのにさ。": "Le capitaine San s'occupait tellement de Halba\nLudo, qu'il avait l'air de se moquer\ncompletement de la carte au tresor. Si<br>seulement il avait ete plus concentre, on\naurait pu arriver ici bien plus tot."
+    },
+    "286841": {
+        "「アタイだって　あんな　ヘタクソな芝居をして\n　ハルバルドに取り入る必要も　なかったんだ。\n　まっ。もう　過ぎたことだけどね。": "Meme Red Snapper n'avait pas besoin de faire\nun jeu d'acteur aussi mediocre pour se faire\nbien voir par Halba Ludo. Enfin. C'est du<br>passe maintenant."
     }
 }
