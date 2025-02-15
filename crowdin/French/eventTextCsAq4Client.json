@@ -1,197 +1,119 @@
 {
-    "169166": {
-        "<pc>は\n海賊スクアーロの手紙を　読んだ。": "<pc> a lu la lettre du pirate Squalo."
+    "188460": {
+        "「もう　会ってると思うけど　紹介するよ。\n　ダルル盗賊団の新入り　ピンチョだよ！": "Je pense que vous vous etes deja rencontres,\nmais laissez-moi vous presenter. Voici Pincho,\nle nouveau membre de la bande de voleurs Darul<br>!"
     },
-    "169167": {
-        "<center>ゲルト海峡の　海上で待つ。\nトンネルを抜けてから　５秒後に\n今いる座席の窓から　身代金を投げわたせ。": "Gert Strait vous attendra en mer. Cinq\nsecondes apres etre sorti du tunnel, jetez la\nrancon par la fenetre de votre siege actuel."
+    "188461": {
+        "「あ…あの時は　どうも……。\n　僕　ピンチョって　いいます。": "Ah... merci pour ce moment-la... Je m'appelle\nPincho."
     },
-    "169168": {
-        "<center>無事に　受けわたしが完了して\n１００億ゴールド　手に入ったら\nクロ・マネキの像は　返してやる。": "Une fois la transaction completee en toute\nsecurite et que j'aurai obtenu 100 milliards\nde Gold, je vous rendrai la Statue du<br>Mannequin Noir."
+    "188462": {
+        "「キ　キミは　怪盗ポイックリンを　どう思う？\n　彼女のような存在こそ　今の世界に必要な\n　ヒ　ヒーローだと思わないかい？<yesno><close>": "Qu'est-ce que tu penses de Phantom Thief\nPoiclin ? Je crois que des heros comme elle\nsont necessaires dans le monde actuel. Tu ne<br>penses pas ? <yesno><close>"
     },
-    "169169": {
-        "……海賊たちは　ゲルト海峡で待っているらしい。\n<pc>は　１００億の身代金を　抱えながら\n列車が　ゲルト海峡に差しかかるのを待った……。": "...Il parait que les pirates attendent a Gert\nStrait. <pc>, avec une rancon de 10\nmilliards, attendait que le train atteigne<br>Gert Strait..."
+    "188463": {
+        "「アッ　そうか！　ヒーローじゃなくて\n　ヒロインだって　言いたいんだね！\n　でも　僕にとって　彼女はヒーローなのさ！": "Ah, je vois ! Tu veux dire que c'est une\nheroine, pas un heros ! Mais pour moi, elle\nest un heros !"
     },
-    "169170": {
-        "そして　トンネルを抜けた！": "Et nous avons traverse le tunnel !"
+    "188464": {
+        "「そうだよね！　キミはいい人だね！\n　お　同じ気持ちを持つ　仲間に出会えて\n　本当に　うれしいよ！": "C'est vrai ! Tu es une bonne personne ! Je\nsuis vraiment heureux d'avoir rencontre un\ncamarade qui partage les memes sentiments !"
     },
-    "169171": {
-        "「こんにちは～。こちらの　リーネさん宛ての\n　お手紙を　お届けにあがりました～。": "Bonjour~. Je suis ici pour livrer une lettre\nadressee a Renee~."
+    "188465": {
+        "「漆黒のスーツの　マントをひるがえし\n　夜の町を駆け抜ける　正義の怪盗……。\n　そんな姿に憧れて　僕も真似してみたんだ！": "Vetu de la cape noire de Sue, je traverse la\nville nocturne en tant que voleur justicier...\nInspire par cette image, j'ai decide de m'y<br>essayer moi aussi, comme T. !"
     },
-    "169172": {
-        "「ハイ　どうぞ～！": "Oui, allez-y~ !"
+    "188466": {
+        "「コイツの着てる衣装　型紙から\n　自分で作ったんだってよ。小道具も全部。\n　ほんと　筋金入りだよな……。": "Il parait qu'il a fabrique lui-meme ce costume\na partir du patron. Meme les accessoires.\nC'est vraiment un passionne jusqu'au bout..."
     },
-    "169173": {
-        "「ハイ　ご苦労さん。": "Hai, bon travail, san."
+    "188467": {
+        "「ま　ちょいと　変わったヤツだけど\n　正義を愛する心意気は　人一倍だからね。\n　あたいは　そこを買ったのさ！": "Eh bien, c'est un type un peu etrange, mais\nson esprit de justice est hors du commun.\nC'est ca qui m'a seduit !"
     },
-    "169174": {
-        "「いったい　誰からだろう？\n　よくある　ワケのわかんない\n　投資案内とかじゃなければ　いいんだけど。": "Qui cela peut-il bien etre ? J'espere que ce\nn'est pas encore une de ces propositions\nd'investissement incomprehensibles."
+    "188468": {
+        "「だ　だけど……最近　ポイックリンが\n　悪質な方法で　荒稼ぎしてるって\n　言われているじゃないか。": "Ma... mais, recemment, on dit que Poiclin fait\nfortune en utilisant des methodes douteuses,\nn'est-ce pas ?"
     },
-    "169175": {
-        "「これは……写真？\n　なになに　えっと……": "Qu'est-ce que c'est... une photo T. ? Voyons\nvoir, euh..."
+    "188469": {
+        "「僕　絶対に　そんなハズないって\n　思ったんだ！　だから　直接会って\n　事情を聞こうとして……。": "Je me suis dit que ca ne pouvait absolument\npas etre vrai ! C'est pourquoi j'ai voulu te\nrencontrer directement pour comprendre la<br>situation..."
     },
-    "169176": {
-        "「親愛なるマヌケへ。俺は　海賊スクアーロだ。\n　お宝を　返してほしければ　写真の場所まで\n　身代金１００億ゴールド　持ってこい……！？": "Cher imbecile, je suis Pirate Squalo. Si tu\nveux recuperer ton tresor, apporte une rancon\nde 100 milliards de Gold a l'endroit indique<br>sur la photo... !"
+    "188470": {
+        "「そこで　アンタに　はち合わせたんだとさ。\n　まったく　人騒がせな　ヤツだよ。": "C'est la qu'il est tombe sur toi. Quel type\nperturbateur, vraiment."
     },
-    "178838": {
-        "「いいか　オマエら。女ってのは　ロマンチックな\n　ムードってヤツに弱い。": "Ecoutez bien, vous tous. Les femmes sont\nsensibles a ce qu'on appelle une ambiance\nromantique."
+    "188471": {
+        "「とりあえず　極悪非道の冷血怪盗と呼ばれている\n　ポイックリンが　ニセモノだと判明して\n　よかった。あたいも　仲間に伝えておくよ。": "Pour l'instant, c'est un soulagement de savoir\nque Poiklin, qui etait appele le voleur\nimpitoyable et sans coeur, est en fait un<br>imposteur. Je vais le faire savoir a mes\ncompagnons."
     },
-    "178839": {
-        "「あとはとにかく　こう\n　キラキラ～ってしたモンが　好きなんだよ！": "En gros, j'adore vraiment ces trucs qui font\nun peu Lycae !"
+    "188472": {
+        "「協力してくれて　ありがとう。\n　さあ　今回の報酬を受け取っておくれ！\n　　　　　　　　　　　": "Merci pour ton aide. Allez, prends ta\nrecompense cette fois-ci !"
     },
-    "178840": {
-        "「だから　夜景のキレイな　ロケーションで\n　甘～い言葉を　耳元でささやけば\n　もう　メロメロ～ってなるワケだ！": "Donc, dans un endroit ou la vue nocturne est\nmagnifique, si tu murmures des mots doux a\nl'oreille, alors la personne sera completement<br>sous le charme !"
+    "188473": {
+        "「だ…ダークポイックリンは\n　これは　ふ…復讐だって　言ってた……。": "Da... Dark Poiclin disait que c'etait une...\nvengeance..."
     },
-    "178841": {
-        "「だから今度　酒場のリンダちゃん……\n　まぁ　あの娘は　絶対　俺に気があるんだが……\n　あの娘をだな　夜景のキレイな所へデートに……": "Donc, cette fois, la petite Linda du bar... Eh\nbien, cette fille est definitivement\ninteressee par moi... Je vais l'emmener pour<br>un rendez-vous dans un endroit ou la vue\nnocturne est magnifique..."
+    "188474": {
+        "「だ…だから　アイツは　まだ何か\n　悪事を　働こうとしているのかもしれない。\n　そ…その前に　早く捕まえないとね！": "Da... donc, il se pourrait qu'il soit encore\nen train de preparer un mauvais coup. Il faut\nl'attraper rapidement avant qu'il n'agisse !"
     },
-    "178842": {
-        "「おい　バカども。": "He, bande d'idiots."
+    "188475": {
+        "「ぼ…僕は　アイツの　手がかりがないか\n　調べておくよ。何かわかったら\n　連絡するから　ま…また　協力して！": "Bo... Je vais chercher des indices sur lui. Si\nje decouvre quelque chose, je te contacterai.\nAl... Alors, aide-moi encore !"
     },
-    "178843": {
-        "「なッ……お前は　リーネ！！\n　どうやって　ここにッ！？": "Quoi... tu es Renee !! Comment es-tu arrive\nici !?"
+    "188476": {
+        "「フン。ずいぶん　あっけなく　捕まったものネ。\n　さぁ　人様のモノを盗む　その浅ましいカオ\n　見せてみなさいヨ。": "Hum. Tu t'es fait capturer bien trop\nfacilement, n'est-ce pas ? Allez, montre-moi\nce visage miserable qui vole les biens des<br>autres."
     },
-    "178844": {
-        "「どうやって？　舟に決まってんでしょ。\n　その首の上に　くっついてんのは　風船かしら。": "Comment ? En bateau, bien sur. Est-ce que ce\nqui est attache a ton cou est un ballon ?"
+    "188477": {
+        "「ハァ！？　オメー　誰だよ！\n　もしかして　ニセモノかッ！？\n　いくらなんでも　クオリティ低すぎんだろ！！": "Quoi !? Qui es-tu, toi ? Serais-tu un\nimposteur !? Ton niveau de qualite est\nvraiment trop bas !!"
     },
-    "178845": {
-        "「チッ。相変わらず　くそムカつく女だぜ。\n　あの頃から　ちっとも変わらねぇ……。\n　俺たちゃ　泣く子も黙る　極悪海賊団だぞ！": "Tch. Elle est toujours aussi exasperante,\ncette femme. Elle n'a pas change depuis cette\nepoque... Nous sommes une bande de pirates<br>redoutables qui ferait taire meme les enfants\nqui pleurent !"
+    "188478": {
+        "「びょぇえええええええ！！\n　ごめんなさい　ゴメンナサイぃいいい！\n　い　い　命だけは　お助けぇえええーーーー！！": "Byoeeeeeeee !! Je suis desole, je suis\nvraiment desole !! P-p-please, epargnez ma\nvieeeeeeeeeeーーー！！"
     },
-    "178846": {
-        "「……ん？　あの頃？\n　なんの話を　しているんだ？\n　私は　お前なんか　知らないぞ。": "…Hm ? A cette epoque ? De quoi parles-tu ? Je\nne te connais pas."
+    "188479": {
+        "「チッ……わざわざ　アシ運んで　ソンしたわ。\n　コイツを　王立騎士団のヤツらに　突きだして\n　さっさと帰ろ…………": "Tch... J'ai fait tout ce chemin pour rien. Je\nvais livrer celui-ci aux Chevaliers Royaux et\nrentrer rapidement..."
     },
-    "178847": {
-        "「ふっ……ざけンなッ！　俺は　お前への\n　復讐のために　ここまで　やってるんだぞッ！": "Fuh... Ne te moque pas de moi ! Je suis alle\naussi loin pour me venger de toi !"
+    "188480": {
+        "「えっ？": "Euh ?"
     },
-    "178848": {
-        "「うーん。復讐されるようなことを\n　アンタにした覚え　まったく　ないんだけど……": "Hmm. Je ne me souviens absolument pas t'avoir\nfait quelque chose qui merite une vengeance..."
+    "188481": {
+        "「天知る！　地知る！　人ぞ知る！": "Le ciel le sait ! La terre le sait ! Les gens\nle savent !"
     },
-    "178849": {
-        "「えっと～　人ちがいじゃ　ございません？": "Euh... Vous ne faites pas erreur sur la\npersonne ?"
+    "188482": {
+        "「美少女怪盗ポイックリン！\n　華麗に　任務完了でございますわっ！": "La belle Phantom Thief Poiclin ! Mission\naccomplie avec elegance !"
     },
-    "178850": {
-        "「んなワケあるかッ！\n　あの時のことを　忘れたとは言わせねぇぞ……": "Impossible ! Je ne te laisserai pas dire que\ntu as oublie ce moment-la..."
+    "188483": {
+        "「それでは皆さん……ごきげんよう。": "Eh bien, mesdames et messieurs... au revoir."
     },
-    "178851": {
-        "「俺は　酒場で働きながら　アイドルを目指す\n　ピーチちゃんって娘に　ずっと\n　片思いをしてたんだ。そんな　ある日……": "Je travaillais dans une taverne tout en\naspirant a devenir une idole. J'avais le\nbeguin pour une fille nommee Peach-chan depuis<br>longtemps. Puis, un jour..."
+    "188484": {
+        "「チリも残さず　キレイに退さ…………": "Pas un grain de poussiere, nettoyons tout\nimpeccablement..."
     },
-    "178852": {
-        "「彼女は　大事なオーディションをひかえて\n　おしゃれさが上がる　指輪をほしがっていた。\n　俺は　それを絶対　手に入れると約束した。": "Her avait une audition importante a venir et\nelle voulait une bague qui augmenterait son\nelegance. J'ai promis de l'obtenir a tout<br>prix."
+    "188485": {
+        "「フーン。コッチは　よくできてんじゃない。": "Hmm. Celui-ci est plutot bien fait, n'est-ce\npas ?"
     },
-    "178853": {
-        "「そして　俺は　お前の店で　合成を依頼した。\n　うまいこといったよ！　と言われた俺は\n　すぐ　彼女に指輪を渡した。その　次の日……": "Et ensuite, j'ai demande une fusion dans ta\nboutique. On m'a dit que c'etait avec Maiko !\nEn entendant cela, j'ai immediatement remis la<br>bague a Her. Le lendemain..."
+    "188486": {
+        "「なっ……なんですの　アナタ！？\n　どうやって　ここに……。": "Qu... Qui etes-vous !? Comment etes-vous\narrive ici... ?"
     },
-    "178854": {
-        "「俺は　彼女に　強烈な平手打ちを　食らった。\n　そう……お前が　合成でつけた効果は\n　おしゃれさ　じゃなく　おもさ　だったんだ！": "Je me suis pris une gifle monumentale de Her.\nC'est ca... L'effet que tu as ajoute lors de\nla synthese, ce n'etait pas la beaute, mais le<br>poids !"
+    "188487": {
+        "「アンタさぁ……いったい　誰の許可取って\n　こんな　茶番やってるワケ？": "Dis donc... Qui t'a donne la permission de\nfaire cette comedie ?"
     },
-    "178855": {
-        "「俺の愛の指輪を　あんなスクラップにして\n　なーにが　気に入ってくれるといいな　だ！\n　この　サギ師！": "Je ne peux pas croire que ma precieuse bague\nd'amour soit reduite a de la ferraille. Et\nelle ose dire J'espere que ca te plaira !<br>Cette arnaqueuse !"
+    "188488": {
+        "「は……？": "Hein… ?"
     },
-    "178856": {
-        "「俺の　ピーチちゃんを　返せよバカ！！": "Rends-moi ma Peach-chan, idiot !!"
+    "188489": {
+        "「天知る　地知る　人ぞ知る…………": "Le ciel sait, la terre sait, et les gens\nsavent..."
     },
-    "178857": {
-        "「はァ！？　ちゃんと　合成効果ついてんじゃん！": "Quoi !? Les effets de synthese sont bien\npresents !"
+    "188490": {
+        "「真の美少女怪盗ポイックリン！\n　華麗に　参上でございますわっ！": "T. La belle et mysterieuse voleuse fantome\nPoiclin ! Je fais une entree eblouissante !"
     },
-    "178858": {
-        "「っていうか　合成効果ぐらいで　フラれるなんて\n　アンタが　その程度の男だったってことでしょ。": "En fait, se faire larguer juste a cause d'un\neffet de synthese, ca montre simplement que tu\netais un homme de ce calibre-la."
+    "188491": {
+        "「さぁ　ニセモノ！\n　いさぎよく　正体を現しなさい！": "Allez, imposteur ! Revele ta veritable\nidentite !"
     },
-    "178859": {
-        "「そういう　自分の魅力の無さを　棚に上げて\n　他人の足ばっか引っぱろうとする　腐った根性を\n　オマエは見透かされたんだよ　このダボハゼが！": "Tu as ete perce a jour avec cette attitude\npourrie qui consiste a ignorer ton propre\nmanque de charme et a essayer de tirer les<br>autres vers le bas, espece de cretin !"
+    "188492": {
+        "「ポ　ポ　ポイックリン様だぁ～～～～！！\n　超カッコいい～～～～ッ！！": "Po... Po... Poikku-samaaaaa !! Super classe\n!!!"
     },
-    "178860": {
-        "「ヒャッッハァーーーーーーー！！\n　キャプテン・スクアーロさん\n　プッツン　キちまったぜェーーーー！！": "Hiyaaaahhhーーーーーーー！！ Capitaine Squaro-san, je\nsuis completement dechaineーーー！！"
+    "188493": {
+        "「我が名は　ダークポイックリン……。\n　キサマを　奈落の底へ　突き落とす者。": "Je suis Dark Poiclin... Celui qui te\nprecipitera dans les abysses."
     },
-    "178861": {
-        "「テメェら！　コイツらまとめて\n　海に　沈めてやれェーーーーーッ！！": "Vous tous ! Faites-les couler dans la mer !!"
+    "188494": {
+        "「これは…………復讐だ。": "Ca... c'est une vengeance."
     },
-    "178862": {
-        "「<cs_pchero>！\n　私は　ザコをまとめて　つぶすから\n　スクアーロの相手を　お願い！！": "<cs_pchero> ! Je vais m'occuper des ennemis\nfaibles en bloc, alors je te laisse t'occuper\nde Squaro, s'il te plait !"
+    "188495": {
+        "「待ちなさいッ！": "Attends !"
     },
-    "178863": {
-        "「こっ……コイツら　なんて強さだ……。": "Ces types... Quelle force incroyable..."
+    "188496": {
+        "「……次は　逃がさないわ。": "...La prochaine fois, je ne te laisserai pas\nt'echapper."
     },
-    "178864": {
-        "「俺たちは……いくつもの　漁村をつぶした\n　最強の　極悪海賊団なんだぞ……クソッ！": "Nous sommes... le plus puissant et redoutable\nequipage de pirates qui a detruit de nombreux\nvillages de pecheurs... Merde !"
+    "188497": {
+        "「それでは皆さん　ごきげんよう。\n　チリも残さず\n　キレイに退散ですわっ！": "Alors, mesdames et messieurs, je vous souhaite\nune bonne journee. Nous allons nous retirer en\nlaissant tout parfaitement propre sans laisser<br>la moindre trace !"
     },
-    "178865": {
-        "「ハッ！　あーはっはっはっは！\n　アンタたち　やっぱ　面白いわ。": "Haha ! Ahahaha ! Vous etes vraiment droles,\nvous autres."
-    },
-    "178866": {
-        "「いいことを　教えてあげよう！\n　私ぐらいになると　買った覚えもない恨みが\n　世界中から　次々と　配送されてくるんだよ。": "Laisse-moi te reveler quelque chose de\nfascinant ! A mon niveau, des rancunes dont je\nne me souviens meme pas avoir achetees me sont<br>livrees du monde entier, l'une apres l'autre."
-    },
-    "178867": {
-        "「私が　生きているのが　気に入らない連中が\n　どうやら　この世界には　大勢いるらしいね。": "Il semble qu'il y ait beaucoup de gens dans ce\nmonde qui n'apprecient pas que je sois en vie."
-    },
-    "178868": {
-        "「おかげで　信頼できるのは　数少ない身内だけ。\n　常に　命を狙われてるから\n　うかうか　デートも　してらんない。": "Grace a cela, je ne peux compter que sur les\nrares personnes de confiance parmi mes\nproches. Je suis constamment la cible de<br>menaces sur ma vie, je ne peux meme pas me\npermettre de sortir tranquillement pour un\nrendez-vous."
-    },
-    "178869": {
-        "「アンタたちは　いいね。\n　弱い者いじめだけ　してりゃいいんだから。": "Vous avez de la chance, vous autres. Vous\nn'avez qu'a vous en prendre aux plus faibles."
-    },
-    "178870": {
-        "「クソッ　クソッ！　悪魔めェー！！": "Maudit ! Maudit ! Sale demon !!"
-    },
-    "178871": {
-        "「なんてこと……っ！": "Quel desastre... !"
-    },
-    "178872": {
-        "「ヘッ……ザマァみろ。\n　このスクアーロ様は　転んでも\n　タダじゃ　起きねーのさ……。": "Heh... Regarde ca. Meme si ce Squaro-sama\ntombe, il ne se relevera pas sans rien..."
-    },
-    "178873": {
-        "「ニャンニャニャーーーン！！": "Meownya MIAOUUU !!"
-    },
-    "178874": {
-        "「にゃほー！　やっと　自由になれたニャ～！\n　もう　せまい所　疲れたニャン。\n　思う存分　グルーミングしたいニャーン！": "Nya-ho ! Enfin, je suis libre nya~ ! J'en\navais assez des endroits exigus, nyan. Je veux\nme toiletter a fond, nyaan !"
-    },
-    "178875": {
-        "「なっ……なんだ　コイツ！？": "Qu... Qu'est-ce que c'est que ce type !?"
-    },
-    "178876": {
-        "「うにゃ？　オマエら　何者ニャン。": "Unya ? Qui etes-vous, vous autres ?"
-    },
-    "178877": {
-        "「オイラ　デビルニャン。ヒトの財産を\n　根こそぎ奪う　最凶の悪霊として\n　恐れられているニャーン！　ひれ伏せニャン！": "Je suis Devil Cat. Je suis redoute comme le\nplus redoutable des esprits malefiques qui\ns'empare de toutes les richesses humaines.<br>Tremblez devant moi, miaou !"
-    },
-    "178878": {
-        "「……ニャッ！　あんなところに\n　ゴールドが　あるじゃニャいか！": "… Miaou ! Il y a de l'or la-bas !"
-    },
-    "178879": {
-        "「まずは　アレから　いただくニャーン！": "D'abord, je vais prendre ca, miaou !"
-    },
-    "178880": {
-        "「あそーれ！　おっしごっと　おっしごっと\n　はっじめっるニャーン！　おカネは　ぜんぶ\n　没収ニャン！　ひとつも　残らず　没収ニャン！": "あsoーre! Au travail, au travail, on commence,\nnyaan! Tout l'argent sera confisque, nyaan!\nPas un seul centime ne sera epargne, nyaan!"
-    },
-    "178881": {
-        "「おっ……俺の　カネがァーーーーッ！！": "Oh... Mon argent, noooooon !!"
-    },
-    "178882": {
-        "「没収ニャン！　没収ニャン！": "Confisque miaou ! Confisque miaou !"
-    },
-    "178883": {
-        "「ニャー。いいシゴトしたニャー！": "Miaou. Bon travail, miaou !"
-    },
-    "178884": {
-        "「でもオイラ　ずっと　休んでたから\n　お仕事　いっぱい　たまってるニャン！": "Mais comme j'ai pris une longue pause, j'ai\nplein de travail en retard, nyan !"
-    },
-    "178885": {
-        "「待てッ！！": "Attends !!"
-    },
-    "178886": {
-        "「久々だから　はりきって　お仕事するニャ～！\n　世界中の　お金持ちを　み～んな　まとめて\n　ビンボーに　しってやっるニャーーーン！！": "Ca faisait longtemps, alors je vais me donner\na fond dans mon travail, nya~ ! Je vais rendre\ntous les riches du monde pauvres d'un coup,<br>nyaaaaan !!"
-    },
-    "178887": {
-        "「くっ…………。": "Grrr..."
-    },
-    "178888": {
-        "「<cs_pchero>。\n　ここにいても　ラチが明かないから\n　いったん　ヴェリナードに　戻ろう。": "<cs_pchero>. Puisque rester ici ne mene a\nrien, revenons un moment a Velinard."
-    },
-    "178889": {
-        "「早く　アイツを捕まえないと……。": "Il faut qu'on l'attrape rapidement..."
-    },
-    "178890": {
-        "<cs_pchero>とリーネは　スクアーロ海賊団を\n衛士団へ突きだし　ヴェリナード城下町の\nアクセサリー屋へと　戻っていった……。": "<cs_pchero> et Renee ont livre l'equipage des\npirates de Squaro a la garde, puis sont\nretournes a la boutique d'accessoires de la<br>ville basse du chateau de Verinard..."
-    },
-    "178891": {
-        "「<cs_pchero>！　よかった！\n　ザコどもは　私がなんとかするから\n　スクアーロの相手を　お願い！！": "<cs_pchero> ! Je suis soulage ! Je vais\nm'occuper de ces petits monstres, alors je te\nlaisse t'occuper de Squaro !"
+    "188498": {
+        "どうやら　悪質な手口で　荒稼ぎしていたのは\nポイックリンの　ニセモノだったようだ。\n岳都ガタラの酒場にいる　ダルルに報告しよう。": "Il semble que celui qui faisait des profits\nillicites avec des methodes sournoises etait\nun imposteur de Poiclin. Allons en faire le<br>rapport a Darul a la taverne de Mount Gatara."
     }
 }
