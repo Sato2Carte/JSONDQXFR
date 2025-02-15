@@ -3,12 +3,7 @@ files:
     translation: /crowdin/%language%/%original_file_name%
     type: json
     update_option: update_as_unapproved
-    escape_quotes: 3
-    multilingual: 
     translation_replace:
-      - pattern: '(.{46})(?!\n|<br>).*'
-        replacement: \1
-      - pattern: '(?:([^\n]*\n)){4,}'
-        replacement: 
-      - pattern: (\n)
-        replacement: <br>
+      - ''
+      - ''
+      - ''
