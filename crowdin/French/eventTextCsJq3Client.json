@@ -1,89 +1,83 @@
 {
-    "18789": {
-        "「ギィーーーーーーッ！！": "Guieeeeeee !!"
+    "58253": {
+        "「ムニュムニュ……。だ～れ？\n　ママなら　クスリをかいにいって\n　いまは　いないけど……": "Munyumunyu... Qui est-ce ? Si c'est maman,\nelle est partie acheter des medicaments et\nelle n'est pas la en ce moment..."
     },
-    "18790": {
-        "「ち…ちくしょう……。\n　あたいの技が　通用しないなんて……。": "Ch...chikushou... Je ne peux pas croire que ma\ntechnique ne fonctionne pas..."
+    "58254": {
+        "「あーっ！！　モーモンたんだーっ！": "Ah ! C'est Teeny Sanguini-chan !"
     },
-    "18791": {
-        "「修行した　あたいなら勝てるって\n　先生　言ってたのに……。\n　なんで　勝てないのよ……。": "Le sensei disait que je pourrais gagner si je\nm'entrainais... Alors pourquoi je ne peux pas\ngagner... ?"
+    "58255": {
+        "「わーい　わーい！　こんなに　ちかくで\n　モーモンたん　みるの　はじめてー！\n　すごい　すごーい！": "Waouh, waouh ! C'est la premiere fois que je\nvois un Teeny Sanguini d'aussi pres ! C'est\nincroyable, incroyable !"
     },
-    "18792": {
-        "「<cs_pchero>……！\n　あんた　なにしに来たのよ！？": "<cs_pchero>... ! Qu'est-ce que tu viens faire\nici !?"
+    "58256": {
+        "<if_woman>「ねえねえ　おねえちゃん。\n　このモーモンたん　おねえちゃんの？\n　どうして　つれあるいて　へいきなの？<else>「ねえねえ　おにいちゃん。\n　このモーモンたん　おにいちゃんの？\n　どうして　つれあるいて　へいきなの？<endif>": "<if_woman>>Dis, grande soeur. Ce Teeny\nSanguini, c'est le tien ? Pourquoi tu peux le\npromener comme ca sans probleme ?<else>>Dis, grand frere. Ce Teeny Sanguini, c'est le\ntien ? Pourquoi tu peux le promener comme ca\nsans probleme ? <endif>"
     },
-    "18793": {
-        "「あんたが勝てる相手じゃないわ！\n　さっさと　逃げなさい！": "Ce n'est pas un adversaire que tu peux vaincre\n! File vite d'ici !"
+    "58257": {
+        "<if_woman>「……へえ～。おねえちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<else>「……へえ～。おにいちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<endif>": "<if_woman>>He~. Grande soeur, tu fais le metier\nde dresseuse de monstres. C'est style !<else>>He~. Grand frere, tu fais le metier de\ndresseur de monstres. C'est style !<endif>"
     },
-    "18794": {
-        "「ギィーーーーーーッ！！": "Guieeeeeee !!"
+    "58258": {
+        "「カーヤ。ただいまー。\n　いい子に　して……": "KayaJe suis rentre ! As-tu ete sage..."
     },
-    "18795": {
-        "「<cs_pchero>……！\n　あんた　なにしに来たのよ！？": "<cs_pchero>... ! Qu'est-ce que tu viens faire\nici !?"
+    "58259": {
+        "「ぎゃーーーーーーーーッ！！\n　魔物よーーーーーッ！！": "Gyaaaaaaaah !! Un monstre !!"
     },
-    "18796": {
-        "「あんたが勝てる相手じゃないわ！\n　さっさと　逃げなさい！": "Ce n'est pas un adversaire que tu peux vaincre\n! File vite d'ici !"
+    "58260": {
+        "「カーヤ！　危険だわ！\n　下がってなさい！": "Kaya ! C'est dangereux ! Recule !"
     },
-    "18797": {
-        "「ギィーーーーーーッ！！": "Guieeeeeee !!"
+    "58261": {
+        "「ママ　ちがうの。このコはね……": "Maman, ce n'est pas ca. Cet enfant, tu vois..."
     },
-    "18798": {
-        "「ギョエーーーーーーッ！！": "Gyoooooooh !!"
+    "58262": {
+        "「この魔物を　部屋に入れたのは　あなたね！？\n　いったい　どういうつもり？\n　魔物を連れて　さっさと出ていってちょうだい！": "C'est vous qui avez fait entrer ce monstre\ndans la piece !? Qu'est-ce qui vous a pris ?\nEmmenez ce monstre et sortez d'ici<br>immediatement !"
     },
-    "18799": {
-        "「スターデビルを　倒した……？\n　後輩の　あんたが……？": "Tu as vaincu le Star Devil... ? Toi, mon\ncadet... ?"
+    "58263": {
+        "「早く！": "Depeche-toi !"
     },
-    "18800": {
-        "「……ふ　ふん！": "…Hmph !"
+    "58264": {
+        "<if_woman>「ごめんね……。おねえちゃん……。<else>「ごめんね……。おにいちゃん……。<endif>": "<if_woman>>Je suis desole(e)... Grande soeur...<else>>Je suis desole(e)... Grand frere... <endif>"
     },
-    "18801": {
-        "「あんた　そんなに強くなってたんだ。\n　なかなか　やるじゃない。\n　ちょっとだけ　見直したわ。": "Ah, tu es devenu si fort. Pas mal du tout. Je\nte vois maintenant sous un autre jour."
+    "58265": {
+        "「いいぞ　ファーベル！\n　剣を振る姿が　なかなか　サマになってきた。": "Bien joue, Fabel ! Ta facon de manier l'epee\ncommence a avoir fiere allure."
     },
-    "18802": {
-        "「言っとくけどね！\n　これで　あんたに負けたわけじゃないから！": "Je te previens ! Ca ne veut pas dire que j'ai\nperdu contre toi !"
+    "58266": {
+        "「よし　この辺で　ひと息入れよう。": "Bien, faisons une petite pause ici."
     },
-    "18803": {
-        "「あたいは　天才なの！\n　近い将来　プレシアンナさえも超える逸材だって\n　サルバリータ先生も　認めてるわ！": "Moi, je suis un genie ! Meme Sarubarita sensei\nreconnait que je suis un talent exceptionnel,\nqui surpassera meme Prescianna dans un futur<br>proche !"
+    "58267": {
+        "「アンタ……。\n　前に　ウチの中で　会ったよな。\n　たしか　<pc>って言ったっけ？": "Toi... On s'est deja rencontre dans la maison,\nnon ? Tu t'appelles <pc>, c'est ca ?"
     },
-    "18804": {
-        "「このままじゃ　引き下がれない。\n　死ぬほど修行しまくって……いつか\n　あんたも　プレシアンナも超えてやるわ。": "Je ne peux pas abandonner comme ca. Je vais\nm'entrainer jusqu'a en mourir... Un jour, je\nte surpasserai, toi et Prescianna."
+    "58268": {
+        "「ハハァン。母さんが頼みごとをした\n　まもの使いって　アンタだな？": "Ah-ha. La dompteuse de monstres dont maman a\nparle, c'est toi, n'est-ce pas ?"
     },
-    "18805": {
-        "「……あたいに勝ったからって\n　これぐらいで　満足してちゃダメよ。": "...Ce n'est pas parce que tu m'as battue que\ntu dois te contenter de si peu."
+    "58269": {
+        "「それで　どうだった？\n　モーモンで　女の子を元気づけるっていう\n　母さんの作戦は　うまくいったかい？<yesno><close>": "Alors, comment ca s'est passe ? Le plan de\nmaman pour remonter le moral de la fille avec\nle Teeny Sanguini a-t-il fonctionne<br>?<yesno><close>"
     },
-    "18806": {
-        "「上には上が　いるんだから……。\n　くやしい思いを　したくなかったら\n　もっと修行に　はげむことね。": "Il y a toujours quelqu'un de meilleur que\nsoi... Si tu veux eviter la frustration, tu\ndevrais t'entrainer encore plus."
+    "58270": {
+        "「はははっ！　マジメに答えなくても\n　その暗い顔を見れば　わかるよ。\n　どうせ　追い返されて　帰ってきたんだろう？": "Ha ha ha ! Pas besoin de repondre\nserieusement, je peux le deviner en voyant ton\nair sombre. Tu as ete repousse et tu es<br>revenu, n'est-ce pas ?"
     },
-    "18807": {
-        "「あは<heart>　面白いショーだったわ。\n　旅の途中だったけど　いいものが見れたかも。": "Ah <heart> C'etait un spectacle amusant. Meme\nsi j'etais en voyage, j'ai peut-etre vu\nquelque chose de bien."
+    "58271": {
+        "「魔物は　しょせん　魔物。\n　怖がられて　きらわれて……\n　それが　当然の存在だよ。": "Les monstres restent des monstres. Ils sont\ncraints et detestes... C'est leur nature\nevidente."
     },
-    "18808": {
-        "「やっほ～<heart>　<cs_pchero>。": "Salut~<heart> <cs_pchero>."
+    "58272": {
+        "「すまない。どうやら　ファーベルが\n　失礼なことを言ったみたいだ。": "Je suis desole. Il semble que Fabel ait dit\nquelque chose d'impoli."
     },
-    "18809": {
-        "「あたし　ずっと見てたのよ。\n　おかげで　いい時間つぶしになったわ。\n　あは<heart>　ありがとね。": "Je t'ai observe tout ce temps. Ca m'a bien\ndivertie. Ahah<heart> Merci."
+    "58273": {
+        "「……っと　自己紹介が　遅れたな。\n　オレは　デイラー。旅のバトルマスターだ。": "... Oh, j'ai oublie de me presenter. Je suis\nDailer, le maitre Bato en voyage."
     },
-    "18810": {
-        "「それにしても　さっきの小娘はウザかったわ。\n　暑苦しい青春ってやつ？\n　ああいうタイプさ　あたし　苦手なのよね。": "En tout cas, cette gamine de tout a l'heure\netait vraiment agacante. Cette jeunesse\netouffante et passionnee ? Ce genre de Red<br>Snapper, je ne le supporte pas."
+    "58274": {
+        "「少し前に　ファーベルと知り合って\n　ヤツに　剣を教えたりしている。\n　まあ　いわゆる　師弟関係ってやつだ。": "Il y a quelque temps, j'ai fait la\nconnaissance de Fabel, et je lui apprends a\nmanier l'epee. On pourrait dire que nous avons<br>une relation maitre-eleve."
     },
-    "18811": {
-        "「あたしを超えるとか　言ってたけど\n　あの小娘のハートじゃ　もろくてムリね。\n　まあ　別にいいけど……。": "Elle disait qu'elle allait me surpasser, mais\navec un coeur aussi fragile que le sien, c'est\nimpossible. Enfin, ce n'est pas vraiment<br>important..."
+    "58275": {
+        "「ファーベルは……\n　どうやら　魔物がらみで\n　つらい過去が　あるみたいなんだ。": "Fabel semble avoir un passe douloureux lie aux\nmonstres..."
     },
-    "18812": {
-        "「あは<heart>　それにしても\n　あなたの動きは　ファンタスティックね。\n　さっきのバトルなんか　うっとりしちゃったわ。": "Ah <heart> En tout cas, tes mouvements sont\nfantastiques. Le combat d'avant etait tout\nsimplement fascinant."
+    "58276": {
+        "「だから　まもの使いを見ると\n　つい　あんな態度を取ってしまうらしい。\n　大目に見てやってくれ。": "Donc, quand il voit un dompteur de monstres,\nil ne peut s'empecher d'agir ainsi. Je te\ndemande d'etre indulgent avec lui."
     },
-    "18813": {
-        "「……でも<heart>": "Mais <heart>"
+    "58277": {
+        "「デイラーさん。いつまで　おしゃべりしてるの？\n　今日は　お城の方まで　修行にいくんでしょ？\n　早く　行こうよ。": "Dailer-san. Combien de temps vas-tu continuer\na bavarder ? Aujourd'hui, nous devons nous\nrendre jusqu'au chateau pour l'entrainement,<br>non ? Allez, depeche-toi."
     },
-    "18814": {
-        "「あんなものじゃないでしょ？\n　あなたの　潜在能力は。": "Ce n'est pas tout ce que vous avez, n'est-ce\npas ? Votre potentiel est bien plus grand."
+    "58278": {
+        "「ああ　そうだったな！\n　わかった！　すぐ行くよ！": "Ah, c'est vrai ! D'accord ! J'y vais tout de\nsuite !"
     },
-    "18815": {
-        "「ねえ<heart>　もっと見せてよ……。\n　あたしの知らない世界を……。\n　もっと　あたしをドキドキさせて……。": "He<heart> montre-moi encore plus... Un monde\nque je ne connais pas... Fais-moi vibrer\nencore plus..."
-    },
-    "18816": {
-        "「理性なんか　捨てちゃって\n　もっともっと　貪欲にならないと\n　モンスターゾーンには　到達できないわよ……。": "Il faut abandonner la raison et devenir encore\nplus avide, sinon tu n'atteindras jamais la\nMonster Zone..."
-    },
-    "18817": {
-        "「じゃあね～<heart>": "Alors, a plus tard～<heart>"
+    "58279": {
+        "「それじゃ　オレたちは　これで。": "Alors, nous allons y aller."
     }
 }
