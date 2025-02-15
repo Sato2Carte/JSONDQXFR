@@ -1,401 +1,197 @@
 {
-    "106765": {
-        "「聞きましたよ　カンダタ子分Ａさん！\n　カンダタ親分さんと　月世界へ\n　悪者退治に　向かうそうですね！": "J'ai entendu dire, Robbin' 'Ood subalterne\nA-san ! Vous allez vous rendre sur la Lune\navec votre chef Robbin' 'Ood pour combattre<br>les mechants !"
+    "98852": {
+        "<pc>は　突然のめまいに　おそわれ\n意識が　遠のいていった……。": "<pc> fut soudainement pris de vertiges\net perdit connaissance..."
     },
-    "106766": {
-        "「子分Ｂの私も　お手伝いしたいのですが\n　あいにく　生まれてこのかた　無職でしたので\n　特技も　呪文も　使えませんで……。": "Moi, le subalterne B, j'aimerais aussi aider,\nmais malheureusement, depuis ma naissance, je\nsuis sans emploi, donc je ne sais utiliser ni<br>competences speciales ni sorts..."
+    "98853": {
+        "「残る刻印は　あと　ひとつ……。": "Il ne reste plus qu'une seule marque..."
     },
-    "106767": {
-        "「ですが　おふたりのご活躍を　ここで\n　ひたすらに　祈ってますよ！\n　ささっ。どうぞ　ビッグホルンへ！": "Cependant, je prie ardemment pour vos succes\nici ! Allez-y, direction Big Horn !"
+    "98854": {
+        "<pc>のもとに\n光に包まれた巻物が　降りてきた。": "Un parchemin enveloppe de lumiere est descendu\nvers <pc>."
     },
-    "106768": {
-        "「いってらっしゃい　カンダタ子分Ａさん！": "Bon voyage, Robbin' 'Ood Kobun A-san !"
+    "98855": {
+        "<pc>は\n古びた巻物（だいじなもの）を　手に入れた！<me 60>": "<pc> a obtenu l'objet cle : Old Scroll !<me 60>"
     },
-    "106769": {
-        "なんと　<pc>は　月に到着した！": "Incroyable, <pc> est arrive a Mn.!"
+    "98856": {
+        "<cs_pchero>は　突然のめまいに　おそわれ\n意識が　遠のいていった……。": "<cs_pchero> fut soudainement pris de vertige\net perdit progressivement conscience..."
     },
-    "106770": {
-        "「カグヤ＝ムーン様が　おそれていた通り\n　侵略者の王が　ふたたび　大船団を率い\n　月へ　攻め込んできたのです……。": "Comme Mistress Moon-sama le craignait, le roi\ndes envahisseurs a de nouveau mene une grande\nflotte et a attaque Mn."
+    "98857": {
+        "「刻印は　すべて　刻まれた……。\n　さあ……。私のもとへ来るのだ……。": "Les marques ont toutes ete gravees... Alors...\nViens a moi..."
     },
-    "106771": {
-        "「今度こそ　降伏せよと命じる侵略者に\n　姫様は　救世主カンダタ様がいる限り\n　月は　滅ぼされはせぬと　抵抗を……。": "Les envahisseurs ordonnent une fois de plus de\nse rendre, mais la princesse resiste,\naffirmant que tant que le sauveur Lord Robbin'<br>'Ood-sama est la, Mn. ne sera pas detruit..."
+    "98858": {
+        "「また　刻印が……。\n　大丈夫なのか　<cs_pchero>？": "Encore une marque… Tu vas bien, <cs_pchero> ?"
     },
-    "106772": {
-        "「それに　腹を立てた　侵略者の王\n　リルグレイドは　我らが姫様を\n　やつらの母船へと　連れ去ったのです！": "De plus, le roi des envahisseurs, Lil' Gray,\nfurieux, a emmene notre princesse a bord de\nleur vaisseau-mere !"
+    "98859": {
+        "<center>時は　来たれり…………。": "Le moment est venu..."
     },
-    "106773": {
-        "「テメー　<pc>ッ！\n　来るのが遅えんだよ！": "Toi, <pc> ! Tu es en retard !"
+    "98860": {
+        "<center>いけにえを　我らが主のもとへ…………。": "Offrons ce sacrifice a notre Seigneur..."
     },
-    "106774": {
-        "「カグヤから預かった　ヘンテコな首飾りで\n　あいつ　俺様に　助けを求めてきてな。\n　急いで月に駆けつけたら　この有様よ。": "Avec le drole de collier que Kaguya m'a\nconfie, elle est venue me demander de l'aide.\nQuand je me suis precipite a Mn., voila ce que<br>j'ai trouve."
+    "98861": {
+        "「この邪悪な気配は……！？": "Cette aura malefique est... !?"
     },
-    "106775": {
-        "「これも　子分のテメーが\n　しっかり　月を見張ってねえからだ！\n　どうしてくれるんでい！": "Tout ca, c'est parce que toi, mon sbire, tu\nn'as pas bien surveille Mn. ! Qu'est-ce que tu\ncomptes faire a ce sujet !"
+    "98862": {
+        "「いけにえの羊よ……。\n　我らが主……　破壊と殺りくの神……\n　ダークドレアム様のもとへ　来るのだ……。": "O mouton de sacrifice... Viens a nous, vers\nnotre Seigneur... Le dieu de la destruction et\ndu carnage... Aupres de Nokturnus-sama..."
     },
-    "106776": {
-        "「カンダタ様。どうか　気をお静めください。\n　今は　姫様をお助けするのが　先決。": "Robbin' 'Ood-sama. Je vous en prie,\ncalmez-vous. Pour l'instant, aider la\nprincesse est notre priorite."
+    "98863": {
+        "「まずい！　また　あいつらか？": "Mince ! C'est encore eux ?"
     },
-    "106777": {
-        "「あなた様に授けられた　首飾りで\n　どうか　囚われの姫に\n　ご連絡を　とっていただけませんか？": "Avec le collier qui vous a ete confie,\npourriez-vous, je vous prie, entrer en contact\navec la princesse captive ?"
+    "98864": {
+        "「いけにえの羊よ……。\n　何者も　逃れることは　かなわない。\n　ダークドレアム様のもとへ　来るのだ……。": "O mouton sacrificiel... Nul ne peut echapper a\nson destin. Viens aupres de Nokturnus-sama..."
     },
-    "106778": {
-        "「おう。そういや　そうだったな。": "Oh. C'est vrai, je m'en souviens maintenant."
+    "98865": {
+        "「大丈夫だったか　<cs_pchero>？\n　あいつらは　いったい　なんなんだ！？": "Tout va bien, <cs_pchero> ? Mais qui sont ces\ntypes-la ?!"
     },
-    "106779": {
-        "「おいっ　カグヤ！\n　カンダタ様が　月まで来てやったぞ！\n　返事をしやがれいっ。": "He, Kaguya ! Robbin' 'Ood-sama est venu\njusqu'a Mn. pour te voir ! Reponds-lui, bon\nsang !"
+    "98866": {
+        "「やはり　キミに刻まれた刻印と\n　何か　関係があるのか？": "Est-ce que cela a vraiment un lien avec\nl'embleme grave en toi ?"
     },
-    "106780": {
-        "カグヤの首飾りから　声が聞こえてくる……。": "Une voix emane du collier de Kaguya..."
+    "98867": {
+        "「いけにえの羊よ……。\n　我々は　貴様を　我が主のもとへ\n　連れていくまで　追いつづける……。": "O brebis sacrificielle... Nous te traquerons\nsans relache jusqu'a ce que nous t'amenions a\nnotre Seigneur..."
     },
-    "106781": {
-        "「おお……その　うるわしき声は　カンダタ様。\n　はるばる　月まで　おいでくださったとは。\n　なんと　ありがたや……。": "Oh... cette voix melodieuse est celle de\nRobbin' 'Ood-sama. Vous etes venu de si loin\njusqu'a Mn. Je suis tellement reconnaissant..."
+    "98868": {
+        "「キミが戦っている間に　解読は終わらせた。\n　呪われたものを浄化する　この古代呪文ならば\n　ドレアムの刻印も　消し去れるはずだ。": "Pendant que tu te battais, j'ai termine le\ndechiffrage. Avec ce vieux sort de\npurification des objets maudits, nous devrions<br>pouvoir effacer l'embleme de Doream."
     },
-    "106782": {
-        "「姫様！　おケガは　ございませぬか！？": "Princesse ! Etes-vous blessee !?"
+    "98869": {
+        "「不浄なるものよ……。\n　この世に　けがれをもたらすものよ……。": "O vous, impurs... Vous qui apportez la\nsouillure a ce monde..."
     },
-    "106783": {
-        "「わらわは　大事ありませぬ。\n　されど　侵略者の王に　月の秘宝をよこせ。\n　さもなくば月を滅ぼすと　おどされております。": "Je ne suis pas en danger. Cependant, le roi\ndes envahisseurs exige que je lui remette le\nTreasure of the Moon. Sinon, il menace de<br>detruire Mn."
+    "98870": {
+        "「我が言葉を聞き　鎮まりたまえ。\n　破邪の光にて　消え去りたまえ……。": "Ecoutez mes paroles et apaisez-vous. Que la\nlumiere purificatrice vous fasse\ndisparaitre..."
     },
-    "106784": {
-        "「なんだとお！？\n　月の秘宝は　俺様のモンだ！\n　どこのどいつか知らねえが　ぶっとばす！": "Quoi !? Treasure of the Moon m'appartient ! Je\nne sais pas qui c'est, mais je vais le\npulveriser !"
+    "98871": {
+        "「……シャナク！！": "...Shanaku !!"
     },
-    "106785": {
-        "「カンダタ様……なんと頼もしきお言葉。 \n　やはり　あなた様こそ　伝説の救世主……。": "Robbin' 'Ood-sama... quelles paroles\nrassurantes. Vous etes veritablement le\nlegendaire sauveur Lord..."
+    "98872": {
+        "「……本来なら　この呪文は\n　膨大な魔力を消費しなければ\n　唱えることの　できないものなんだ。": "…Normalement, ce sort necessite une quantite\nenorme de magie pour etre lance."
     },
-    "106786": {
-        "「んなこたぁ　どうでもいいんだ！\n　どうやって　そこに殴り込みゃいいんだ！？\n　さっさと教えろ！": "Ce genre de detail, je m'en fiche ! Comment\nest-ce qu'on fait pour aller se battre la-bas\n!? Dis-le moi tout de suite !"
+    "98873": {
+        "「だが　この巻物には　あらかじめ\n　魔力が　込められていたようだ。\n　おかげで　うまくいった。": "Cependant, il semble que ce parchemin ait deja\nete impregne de magie. Grace a cela, tout\ns'est bien deroule."
     },
-    "106787": {
-        "「どうか　お鎮まりくだされ　カンダタ様。\n　わらわが　囚われている　侵略者の母船は\n　見ての通り　王宮の上空に　浮かんでおります。": "Je vous en prie, calmez-vous, Robbin'\n'Ood-sama. Le vaisseau-mere des envahisseurs\nqui me retient captive flotte au-dessus du<br>palais royal, comme vous pouvez le voir."
+    "98874": {
+        "「刻印だけじゃなく　それによって現れた\n　魔物どもも　消し去ってしまったからな。\n　本当に　すばらしいチカラだと思わないか？": "Non seulement l'embleme a ete efface, mais\naussi les monstres qui en ont ete invoques. Tu\nne trouves pas que c'est vraiment un pouvoir<br>incroyable ?"
     },
-    "106788": {
-        "「侵略者たちなら　いざしらず\n　我ら　月の民には　母船まで飛ぶことは\n　とうてい　できませぬ……。": "Pour ce qui est des envahisseurs, c'est une\nchose, mais pour nous, le peuple de Mn., il\nest absolument impossible de rejoindre le<br>vaisseau-mere..."
+    "98875": {
+        "「……この古代呪文の名は　シャナク。\n　これこそ　ボクの求めていたものだ。\n　礼を言おう　<cs_pchero>。": "Le nom de ce vieux sort est Shanaku. C'est\nexactement ce que je cherchais. Je te\nremercie, <cs_pchero>."
     },
-    "106789": {
-        "「じゃあ　あきらめろってぇのか！\n　俺様の月の秘宝を　どうしてくれる！！": "Alors, tu veux que j'abandonne ?! Qu'est-ce\nque tu comptes faire de mon Treasure of the\nMoon ?!"
+    "98876": {
+        "<center>……私の刻印から\n逃れる者がいようとはな。": "Il semble qu'il y ait quelqu'un qui echappe a\nmon empreinte."
     },
-    "106790": {
-        "「……ひとつだけ　方法があるやもしれませぬ。": "...Il y a peut-etre une seule facon de faire."
+    "98877": {
+        "<center>だが　刻印を刻まれし者は\nお前だけではないと　知るがいい。\nいずれ　別の供物が捧げられよう……。": "Cependant, sache que tu n'es pas le seul a\nporter cette marque. Un autre sacrifice sera\noffert en temps voulu..."
     },
-    "106791": {
-        "「太古の昔……こたびと　同様に\n　侵略者たちが　月へと　襲いきた時\n　伝説の救世主様が　お使いになった神具。": "Dans des temps tres anciens... Lorsque des\nenvahisseurs ont attaque Mn. de la meme\nmaniere, le legendaire Seigneur Sauveur a<br>utilise un artefact divin."
+    "98878": {
+        "「……刻印は　消すことができたが\n　キミには　まだ　やらなきゃならないことが\n　ありそうな感じだな。": "…La marque a pu etre effacee, mais il semble\nqu'il te reste encore des choses a accomplir."
     },
-    "106792": {
-        "「ひとけりで　空の彼方まで　駆ける\n　あの　空とぶくつが　あれば……。": "Si seulement j'avais ces Skysoar Shoes qui te\npropulsent jusqu'au-dela des cieux en une\nseule foulee..."
+    "98879": {
+        "「ボクは　シャナクの完全な会得を目指そう。\n　巻物は　なくなってしまったが　必ず\n　この呪文を　自分のものにしてみせるさ。": "Je vais m'efforcer de maitriser completement\nle sort Shanak. Meme si le parchemin a\ndisparu, je vais absolument faire de ce sort<br>le mien."
     },
-    "106793": {
-        "「空とぶくつ……だと？ \n　なんだぁ？　どっかで　聞いたような……。": "Skysoar Shoes... Vraiment ? C'est quoi ca ? Ca\nme dit quelque chose..."
+    "98880": {
+        "「キミは　夢占い師のもとへ　戻ったほうがいい。\n　刻印が消えたことを　しらせるんだ。": "Tu devrais retourner voir l'interprete des\nreves. Informe-le que la marque a disparu."
     },
-    "106794": {
-        "「かつての救世主様は　空とぶくつにて\n　侵略者の宇宙船へ　乗り込み\n　きゃつらを　追い払われました。": "Le Seigneur Sauveur d'autrefois est monte a\nbord du vaisseau spatial des envahisseurs avec\nles Skysoar Shoes et les a chasses."
+    "98881": {
+        "「お久しぶり……と言って　いいものか\n　迷うところですが　どうしても\n　あなたに会いたくて　やってきました。": "Ca fait longtemps... Je ne sais pas si je\ndevrais le dire ainsi, mais je suis venu ici\nparce que je voulais vraiment te voir."
     },
-    "106795": {
-        "「伝説の救世主　ジンダタ様の神具 \n　空とぶくつならば　この宇宙船までも\n　ひと飛びで　来られましょうに……。": "Si seulement nous avions les chaussures\ncelestes de l'illustre Seigneur sauveur\nJindata-sama, nous pourrions meme atteindre ce<br>vaisseau spatial en un seul saut..."
+    "98882": {
+        "「私が果たせなかった使命……。\n　私の身体を受け継いだ　あなたに\n　託したことを　覚えていますか？": "Ma mission inachevee... Vous souvenez-vous de\nce que je vous ai confie, a vous qui avez\nherite de mon corps ?"
     },
-    "106796": {
-        "「ジンダタだとっ！？\n　そりゃあ　俺様の　ご先祖様の名前だぜ！": "Jindata !? C'est le nom de mon illustre\nancetre !"
+    "98883": {
+        "「エルフの失われし呪文を　身につけ\n　滅びの運命にある　緑の大地を救うこと。\n　それが　私の使命でした。": "Apprendre le sort perdu des Elfes et sauver la\nterre verte vouee a la destruction. C'etait ma\nmission."
     },
-    "106797": {
-        "「なんと……！ \n　そ　それは　まことでございますか！？": "Quoi... ! Est-ce... est-ce vraiment vrai !?"
+    "98884": {
+        "「あのシャナクの呪文こそ\n　その　失われし呪文の　ひとつなのです。": "Le sort de Shanak fait partie de ces sorts\nperdus."
     },
-    "106798": {
-        "「おう　間違いねえぜ。\n　月と俺様の間にゃあ　ずいぶんと\n　おかしな因縁が　あるもんだぜ。": "Oh, pas de doute la-dessus. Il y a vraiment\nune drole de destinee entre Mn. et moi."
+    "98885": {
+        "「唱えたのが　アサナギだったことには\n　少しだけ　おどろきましたが　彼もまた\n　緑の大地を守るべく　努力していたのですね。": "J'ai ete un peu surpris que ce soit Asanagi\nqui ait chante, mais lui aussi s'efforcait de\nproteger la terre verte."
     },
-    "106799": {
-        "「ご先祖様は　自分の墓に　お宝を遺したと \n　代々　伝えられてる。\n　きっと　それが　空とぶくつにちげえねえ。": "Il est transmis de generation en generation\nque nos ancetres ont laisse un tresor dans\nleur tombe. Ce doit surement etre les Skysoar<br>Shoes."
+    "98886": {
+        "「その努力が実ったのも　あなたが\n　シャナクの呪文を　見つけてくれたおかげ。\n　お礼を　言わせていただきたいのです。": "Grace a vos efforts, nous avons pu trouver le\nsortilege de Shanak. Je tiens a vous remercier\npour cela."
     },
-    "106800": {
-        "「おいっ　<pc>！\n　テメーは　今すぐ　ご先祖様の墓へ行き\n　空とぶくつを　取ってこい！": "He, <pc> ! Va immediatement au tombeau\nde tes ancetres et rapporte les Skysoar Shoes\n!"
+    "98887": {
+        "「まだ　ひとつだけとはいえ　あの呪文は\n　エルフの未来を救う　足がかりとなるはず。\n　本当に　ありがとうございました。": "Meme s'il ne s'agit que d'un seul, ce\nsortilege devrait servir de tremplin pour\nsauver l'avenir des Elfes. Je vous remercie<br>sincerement."
     },
-    "106801": {
-        "「俺様の先祖　ジンダタの墓は\n　プクランド大陸　キラキラ大風車塔　入口そばの\n　川っぺりに　あるはずだ！": "Le tombeau de mon ancetre, Jindata, devrait se\ntrouver pres de la riviere, a cote de la\ngrande tour du moulin a vent de la region de<br>PuKuLMPdo, sur le continent de KiLycae."
+    "98888": {
+        "「……私は　ずっと　悩んでいました。\n　私の果たすべき使命を　あなたに\n　押しつけるように　してしまったことを。": "... J'ai longtemps ete tourmentee. Je me suis\nretrouvee a vous imposer la mission que je\ndevais accomplir."
     },
-    "106802": {
-        "「俺様は　テメーが戻ってくるまで\n　昼寝……いや　英気を養っておく。\n　いいか　すぐに　見つけてこいよ！": "Moi, je vais faire une sieste... enfin,\nrecharger mes batteries jusqu'a ce que tu\nreviennes. Compris ? Trouve-le vite !"
+    "98889": {
+        "「あなたには　あなたの　やらなければ\n　ならないことが　たくさん　ある。\n　その邪魔をしてしまったのでは　ないかと。": "Vous avez beaucoup de choses que vous devez\nfaire. Je me demande si je ne vous ai pas\ngene."
     },
-    "106803": {
-        "「<pc>様……お願いいたします。\n　どうか　救世主カンダタ様のため\n　空とぶくつを　お探しください……！": "<pc>-sama... S'il vous plait. Je vous en\nprie, trouvez les Skysoar Shoes pour notre\nsauveur, Lord Robbin' 'Ood-sama... !"
+    "98890": {
+        "「……アサナギとは　学びの庭で\n　日々を同じく過ごす　よき学友であり\n　お互いを高め合う　よきライバルでした。": "......Asanagi etait un bon camarade avec qui\nje partageais mes journees au jardin\nd'apprentissage, et nous etions de bons rivaux<br>qui nous stimulions mutuellement."
     },
-    "106804": {
-        "「おや　カンダタ子分Ａさん！\n　とっくに　月へ向かったと思っていましたが\n　なにか　忘れ物でも　したんですか？": "Oh, Robbin' 'Ood subalterne A-san ! Je pensais\nque vous etiez deja en route pour Mn.\nAvez-vous oublie quelque chose ?"
+    "98891": {
+        "「アサナギは　今後も　努力を続けるでしょう。\n　彼にならば　私も安心して\n　エルフの未来を託すことが　できそうです。": "Asanagi continuera surement a faire des\nefforts. Avec lui, je pense que je peux\nconfier l'avenir des Elfes en toute<br>tranquillite."
     },
-    "106805": {
-        "「ささっ。どうぞ　ビッグホルンへ！": "Allez-y. Bienvenue a Big Horn Rune !"
+    "98892": {
+        "「ですから　どうか　これからは\n　あなた自身のために　あなたのすべきことを\n　なさってください。": "Alors, a partir de maintenant, s'il vous\nplait, faites ce que vous devez faire pour\nvous-meme."
     },
-    "106806": {
-        "「いってらっしゃい　カンダタ子分Ａさん！": "Bon voyage, Robbin' 'Ood Kobun A-san !"
+    "98893": {
+        "「それが　私の　あなたに対する\n　新しい願いです。": "C'est mon nouveau souhait pour vous."
     },
-    "106807": {
-        "なんと　<pc>は　月に到着した！": "Incroyable, <pc> est arrive a Mn.!"
+    "98894": {
+        "「……どうやら　時間のようです。\n　私は　行かねばなりません。": "Il semble que le moment soit venu. Je dois y\naller."
     },
-    "106808": {
-        "「救世主　カンダタ様！\n　あなたの従者　<cs_pchero>様が\n　ようやく　戻られましたよ！": "Seigneur Sauveur Robbin' 'Ood-sama ! Votre\nserviteur <cs_pchero>-sama est enfin revenu !"
+    "98895": {
+        "「さようなら　エテーネの村の<pc>……。\n　どうか　お元気で……。": "Adieu, <pc> du village d'Ethene...\nPrenez soin de vous..."
     },
-    "106809": {
-        "「よーし　<cs_pchero>。\n　今度こそ　あの　胸クソ悪い\n　ドロドロヤローを　ぶちのめすぞ！": "Tres bien, <cs_pchero>. Cette fois, on va\nvraiment botter les fesses de ce sale type\ndegoutant !"
+    "98896": {
+        "「エルフの失われし呪文を　身につけ\n　滅びの運命にある　緑の大地を救うこと。\n　それが　私の使命でしたわ。": "En maitrisant les sorts perdus des Elfes, je\ndevais sauver la terre verte vouee a la\ndestruction. C'etait ma mission."
     },
-    "106810": {
-        "「俺様に　しっかり　つかまれ！\n　<cs_pchero>！": "Accroche-toi bien a moi ! <cs_pchero> !"
+    "98897": {
+        "「あのシャナクの呪文こそ\n　その　失われし呪文の　ひとつなのです。": "Le sort de Shanak fait partie de ces sorts\nperdus."
     },
-    "106811": {
-        "カンダタは　空とぶくつを　はいた！": "Robbin' 'Ood a chausse les Skysoar Shoes !"
+    "98898": {
+        "「唱えたのが　アサナギだったことには\n　少々　おどろかされましたけど　彼もまた\n　緑の大地を守るべく　努力していたのですね。": "Je dois admettre que j'ai ete un peu surpris\nque celui qui a chante soit Asanagi, mais lui\naussi s'efforcait de proteger la terre verte."
     },
-    "106812": {
-        "「いてて……。\n　こりゃあ　どこに着いたんだ？": "Ouille... Ou est-ce que je suis arrive ?"
+    "98899": {
+        "「その努力が実ったのも　あなたが\n　シャナクの呪文を　見つけてくれたおかげ。\n　お礼を　言わせていただきたいのですわ。": "Ces efforts ont porte leurs fruits grace a toi\nqui as trouve le sort de Shanak. Je tiens a te\nremercier pour cela."
     },
-    "106814": {
-        "「そなたの言いなりになど　ならぬぞ。\n　侵略者の王　リルグレイド！": "Je ne me plierai pas a ta volonte, roi des\nenvahisseurs, Lil' Gray !"
+    "98900": {
+        "「まだ　ひとつだけとはいえ　あの呪文は\n　エルフの未来を救う　足がかりとなるはず。\n　本当に　ありがとうございました。": "Meme s'il ne s'agit que d'un seul, ce\nsortilege devrait servir de tremplin pour\nsauver l'avenir des Elfes. Je vous remercie<br>sincerement."
     },
-    "106815": {
-        "「きっと　伝承どおり　救世主様が\n　わらわを　助けに来てくださるはず！\n　さすれば　そなたは終わりじゃ！": "Je suis certaine que, selon la legende, le\nSeigneur Sauveur viendra me secourir ! Et\nalors, ce sera la fin pour toi !"
+    "98901": {
+        "「……私は　ずっと　悩んでいました。\n　私の果たすべき使命を　あなたに\n　押しつけるように　してしまったことを。": "... J'ai longtemps ete tourmentee. Je me suis\nretrouvee a vous imposer la mission que je\ndevais accomplir."
     },
-    "106816": {
-        "「……愚カナ。８７６１２７３時間前\n　我々ヲ撃退シタ　野蛮人ナラバ\n　スデニ　活動停止ヲ　確認シテイル。": "Imbeciles. Il y a 8761273 heures, nous avons\ndeja confirme que les barbares qui nous\navaient repousses ont cesse toute activite."
+    "98902": {
+        "「あなたには　あなたの　やらなければ\n　ならないことが　たくさん　ある。\n　その邪魔をしてしまったのでは　ないかと。": "Vous avez beaucoup de choses que vous devez\nfaire. Je me demande si je ne vous ai pas\ngene."
     },
-    "106817": {
-        "「降伏セヨ　カグヤ＝ムーン。\n　助ケガ　来ル確率ハ\n　０.０００３ぱーせんと　ダ……。": "Rends-toi, Mistress Moon. La probabilite d'un\nsecours est de 0.0003 pour cent..."
+    "98903": {
+        "「……アサナギとは　学びの庭で\n　日々を同じく過ごす　よき学友であり\n　お互いを高め合う　よきライバルでしたの。": "Asanagi est un bon camarade de classe avec qui\nje passe mes journees au jardin\nd'apprentissage. C'est aussi un excellent<br>rival qui me pousse a m'ameliorer."
     },
-    "106818": {
-        "「愚か者は　そなたじゃぞ！\n　リルグレイドっ！！": "Le fou, c'est toi ! Lil' Gray !!"
+    "98904": {
+        "「アサナギは　これからも　精進を続けますわ。\n　彼にならば　私も安心して\n　エルフの未来を託せると　思いますの。": "Asanagi continuera a s'ameliorer. Je pense que\nje peux lui confier l'avenir des Elfes en\ntoute tranquillite."
     },
-    "106819": {
-        "「よう　カグヤ！　来てやったぜ！！": "Yo, Kaguya ! Je suis venu te voir !!"
+    "98905": {
+        "「ですから　どうか　これからは\n　あなた自身のために　あなたのすべきことを\n　なさってくださいまし。": "Donc, s'il vous plait, a partir de maintenant,\nfaites ce que vous devez faire pour vous-meme."
     },
-    "106820": {
-        "「侵入者……？\n　ドウシテ　野蛮人ガ　コノ母船ニ。\n　せきゅりてぃ・えらー　カ……？": "Intrus... ? Pourquoi un barbare se trouve-t-il\nsur ce vaisseau-mere ? Une erreur de\nsecurite... ?"
+    "98906": {
+        "「それが　私の　あなたに対する\n　新しい願いですわ。": "C'est mon nouveau souhait pour toi."
     },
-    "106821": {
-        "「つべこべ　うるせえんだよ！": "Arrete de jacasser, tu me fatigues !"
+    "98907": {
+        "「……どうやら　時間のようですわね。\n　そろそろ　失礼しないと……。": "…Il semble que l'heure soit venue. Je vais\ndevoir m'excuser et partir bientot..."
     },
-    "106822": {
-        "「いいか！　月の秘宝は　俺様のモンだ。\n　邪魔するヤツは　ぶっとばす！\n　……いくぞっ　<cs_pchero>！": "Ecoute bien ! Le Treasure of the Moon\nm'appartient. Quiconque se mettra en travers\nde mon chemin sera ecrase ! ...Allons-y,<br><cs_pchero> !"
+    "98908": {
+        "「さようなら　エテーネの村の<pc>……。\n　どうか　お元気でいてくださいまし……。": "Adieu, <pc> du village d'Ethene...\nVeuillez prendre soin de vous..."
     },
-    "106823": {
-        "「……優先順位　変更。 \n　侵入者ノ　排除ヲ　執行スル！！": "... Changement de priorite. Execution de\nl'elimination de l'intrus !!"
+    "98911": {
+        "「お久しぶりですね……と言って　いいものか\n　迷うところですが　どうしても\n　あなたに会いたくて　やってきましたわ。": "Cela fait longtemps... Je ne sais pas si c'est\napproprie de le dire ainsi, mais je tenais\nabsolument a vous revoir, alors je suis venue."
     },
-    "106824": {
-        "「おお……カンダタ様！\n　きっと　また来てくださると\n　わらわは　信じておりましたぞ！": "Oh... Sir Robbin' 'Ood ! J'etais certaine que\nvous reviendriez me voir un jour !"
+    "98912": {
+        "「私が果たせなかった使命……。\n　私の身体を受け継いだ　あなたに\n　託したことを　覚えていらっしゃいますか？": "La mission que je n'ai pas pu accomplir...\nVous souvenez-vous de ce que j'ai confie a\nvous, qui avez herite de mon corps ?"
     },
-    "106825": {
-        "「再ビ　戦イヲ挑ンダトコロデ\n　勝利ノ確率ハ　変化シナイ。\n　野蛮人ノ　知能ハ　でーたヨリ低イト　判断。": "Meme si vous tentez a nouveau le combat, les\nchances de victoire ne changent pas. J'en\nconclus que l'intelligence des barbares est<br>inferieure aux donnees."
+    "100175": {
+        "「これは　私からのお礼です。\n　いつか　きっと　何かの役に立つでしょう。\n　受け取ってください。": "Voici un petit remerciement de ma part. Cela\nvous sera surement utile un jour. Veuillez\nl'accepter."
     },
-    "106826": {
-        "「へっ。ごたくを　並べやがって。\n　今度こそ　勝つのは　俺様だ！\n　……いくぞっ　<cs_pchero>！！": "Heh. Arrete de raconter des salades. Cette\nfois-ci, c'est moi qui vais gagner !\n...Allons-y, <cs_pchero> !!"
+    "100176": {
+        "<pc>は\n夢現のタネ（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Graine de Reve (objet\ncle) ! <me 60>"
     },
-    "106827": {
-        "「最優先事項。\n　侵入者ノ　排除ヲ　執行スル！！ ": "Priorite absolue. Execution de l'elimination\ndes intrus !!"
+    "100177": {
+        "「これは　私からのお礼です。\n　いつか　きっと　何かの役に立つでしょう。\n　受け取ってください。": "Voici un petit remerciement de ma part. Cela\nvous sera surement utile un jour. Veuillez\nl'accepter."
     },
-    "106828": {
-        "「アリエ…ナイ……。\n　野蛮人……８７６１２７３時間ノ　間ニ\n　ココマデ　進化　シタトハ……？": "Arie... nai... Des barbares... qu'ils aient\nevolue a ce point en 8 761 273 heures... ?"
+    "100178": {
+        "<pc>は\n夢現のタネ（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Graine de Reve (objet\ncle) ! <me 60>"
     },
-    "106829": {
-        "「どうでい！\n　俺様の強さを　思い知ったか！": "Alors, qu'en dis-tu ! As-tu compris a quel\npoint je suis puissant ?"
+    "106450": {
+        "「おい　どうしたっていうんだ？\n　しっかりしろ！！": "Hey, qu'est-ce qui se passe ? Reprends-toi !!"
     },
-    "106830": {
-        "「機能……低下……\n　修復不可能……不可能……不可……": "Fonctions... defaillantes... Reparation\nimpossible... impossible... imposs..."
-    },
-    "106831": {
-        "「あらーと。 \n　管理者ノ　心音停止二ヨリ\n　自爆装置ヲ　起動スル。総員　退避セヨ。": "Alerte. En raison de l'arret cardiaque de\nl'administrateur, le dispositif\nd'autodestruction s'active. Evacuation de tout<br>le personnel."
-    },
-    "106832": {
-        "「キケン……キケ……キケキケキケキケ\n　ピー！　ガガーガーガーガー！！！": "Kiken... Kike... Kikekikekikekike Pii!\nGaGarGarGarGar!!!"
-    },
-    "106833": {
-        "「カンダタ様っ！": "Robbin' 'Ood-sama !"
-    },
-    "106834": {
-        "「やべえ　ずらかるぞっ！": "Fuyons d'ici !"
-    },
-    "106835": {
-        "「おう！　<pc>っ！！\n　テメーも　無事だったようだな。": "He ! <pc> !! On dirait que toi aussi, tu\nt'en es sorti indemne."
-    },
-    "106836": {
-        "「救世主カンダタ様……\n　そして　従者<pc>様。": "O grand sauveur Lord Robbin' 'Ood... Et vous,\nfidele serviteur <pc>-sama."
-    },
-    "106837": {
-        "「こたびは　月の民のために\n　悪しき侵略者どもを　退治いただき\n　まことに　感謝しておりまする。": "Cette fois, pour les habitants de Mn., nous\nvous exprimons notre sincere gratitude pour\navoir vaincu les mechants envahisseurs."
-    },
-    "106838": {
-        "「へっ。あの程度のヤロー\n　俺様と　<pc>にかかれば\n　朝メシ前だぜ！": "Heh. Un gars de ce calibre, si on s'y met,\n<pc> et moi, c'est du gateau !"
-    },
-    "106839": {
-        "「おたわむれを。\n　救世主カンダタ様の　おチカラなくば\n　月は　今ごろ　滅びていたはず。": "Ne plaisantez pas. Sans le pouvoir du sauveur\nLord Robbin' 'Ood-sama, Mn. aurait deja ete\ndetruit."
-    },
-    "106840": {
-        "「ああ　もう　わかったわかった！\n　なんでもいいから\n　とっとと　約束のアレを出しやがれ！": "Ah, d'accord, d'accord ! Peu importe quoi,\nsors-moi ce fichu truc promis, et vite !"
-    },
-    "106841": {
-        "「おお……これは　申し訳ありませぬ。": "Oh... Je suis vraiment desole."
-    },
-    "106842": {
-        "「これこそが　月の秘宝……。\n　所有する者に　不老不死のチカラを与える\n　神秘の樹木……。": "Ceci est le Treasure of the Moon... L'arbre\nmystique qui confere a son possesseur le\npouvoir de l'immortalite et de l'eternelle<br>jeunesse..."
-    },
-    "106843": {
-        "「王宮に祀られた　この樹が \n　光輝いている間だけ　我等　月の民は\n　老いや病より　守られるのでございます……。": "Tant que cet arbre venere dans le palais royal\nbrille de mille feux, nous, le peuple de Mn.,\nsommes proteges de la vieillesse et de la<br>maladie..."
-    },
-    "106844": {
-        "「…………。": ""
-    },
-    "106845": {
-        "「救世主カンダタ様。\n　月の秘宝……いえ　月のすべてを\n　あなた様に　差し上げまする。": "Cher Lord Robbin' 'Ood-sama, Nous vous offrons\nle Tresor de la Lune... ou plutot, tout ce qui\nappartient a Mn."
-    },
-    "106846": {
-        "「はあっ？　どういうことでい。": "Hein ? Qu'est-ce que ca signifie ?"
-    },
-    "106847": {
-        "「……カンダタ様。\n　どうか　わらわの夫となり\n　月世界を　治めてはくださいませぬか。": "...Robbin' 'Ood-sama. Je vous en prie,\nacceptez de devenir mon epoux et de gouverner\nThe Moon."
-    },
-    "106848": {
-        "「なっ……なんだとぉ！？": "Qu... Quoi !?"
-    },
-    "106849": {
-        "「あなた様の強さ　そして　優しさに\n　わらわの心は　奪われてしまいました。\n　お願いいたします。どうか　わらわと……": "Votre force et votre gentillesse ont conquis\nmon coeur. Je vous en prie, s'il vous plait,\nacceptez d'etre avec moi..."
-    },
-    "106850": {
-        "「やなこった。": "Je refuse."
-    },
-    "106851": {
-        "「なっ……なんと　おっしゃいました！？": "Qu... Qu'avez-vous dit !?"
-    },
-    "106852": {
-        "「月のすべてってのは　魅力的だが \n　俺様にゃあ　世界の１００大秘宝を全部まるごと\n　手に入れるっていう　でっかい夢がある。": "Tout ce qui concerne Mn. est seduisant, mais\nmoi, j'ai un grand reve : acquerir tous les\n100 plus grands tresors du monde."
-    },
-    "106853": {
-        "「こんなトコで　モタモタしてらんねえぜ。\n　そんじゃあ　あばよ。": "On ne peut pas trainer ici. Allez, a plus\ntard."
-    },
-    "106854": {
-        "「で……では\n　せめて　月の秘宝だけでも\n　お持ちくだされ！": "De... de ce fait, veuillez au moins emporter\nle Treasure of the Moon avec vous !"
-    },
-    "106855": {
-        "「死なねえカラダになったら \n　盗みのスリルが　味わえねえじゃねーか。": "Si je deviens immortel, je ne pourrai plus\nprofiter du frisson du vol !"
-    },
-    "106856": {
-        "「生きるか死ぬかの　大勝負に勝って \n　見たこともないような　お宝を手に入れる。\n　それが　大盗賊カンダタ様の　生きがいよ。": "Gagner des paris de vie ou de mort pour\nobtenir des tresors jamais vus. C'est ca, la\npassion du grand voleur Robbin' 'Ood-sama."
-    },
-    "106857": {
-        "「…………。": ""
-    },
-    "106858": {
-        "「ま　ヨボヨボの　ジジイになって \n　隠居したくなったら　オメーに世話になるぜ。\n　それまで　月の秘宝は　預けといてやる！": "Eh bien, le jour ou je deviendrai un vieux\nbonhomme et que je voudrai prendre ma\nretraite, je compterai sur toi pour veiller<br>sur moi. D'ici la, je te confie le Tresor de\nla Lune !"
-    },
-    "106859": {
-        "「……かしこまりました　カンダタ様。": "Bien compris, Robbin' 'Ood-sama."
-    },
-    "106860": {
-        "「わらわは　この月より…… \n　あなた様の　おかえりを\n　いつまでも　お待ち申しております……。": "Je suis ici, depuis ce Mn... J'attendrai\ntoujours votre retour, votre majeste..."
-    },
-    "106861": {
-        "「おう。そん時は　よろしくな！": "Oh. Quand ce moment viendra, je compte sur toi\n!"
-    },
-    "106862": {
-        "「よーし！　めでたく　月の秘宝も\n　俺様のモンに　なったし\n　地上へ戻るぞ！　<pc>！": "Tres bien ! Le Treasure of the Moon est enfin\na moi ! Revenons a la surface, <pc> !"
-    },
-    "106863": {
-        "「よ～し　<pc>！\n　それじゃあ　オルフェアに戻るぜっ！": "Tres bien, <pc> ! Alors, retournons a\nOrphea !"
-    },
-    "106864": {
-        "「おう！　戻ったぜ　ペリポン！": "Oh ! Je suis de retour, Peripon !"
-    },
-    "106865": {
-        "「おかえりなさい　カンダタ子分Ａさん！\n　おふたりとも　ご無事で何よりです！": "Bienvenue, Robbin' 'Ood subalterne A-san ! Je\nsuis vraiment soulage de voir que vous etes\ntous deux sains et saufs !"
-    },
-    "106866": {
-        "「<pc>。俺様のために\n　よく　働いてくれたな。\n　さすがは　最強の子分だぜ！": "<pc>. Tu as bien travaille pour moi.\nComme prevu, tu es le plus puissant de mes\nsbires !"
-    },
-    "106867": {
-        "「ほれっ。侵略者のヤローの　船から\n　こっそり盗んできた　お宝だ。\n　今回の駄賃に　とっときな！": "Tiens, voila. C'est un tresor que j'ai\ndiscretement vole sur le bateau de ces\nenvahisseurs. Garde-le comme recompense pour<br>cette fois-ci !"
-    },
-    "106868": {
-        "「ふ～っ。しかし　月の秘宝を手に入れるのは \n　なかなか　骨の折れる仕事だったぜ。\n　しばらくは　のんびり休むとするか。": "Ouf... Obtenir le Treasure of the Moon a ete\nun travail vraiment ardu. Je pense que je vais\nme reposer tranquillement pendant un moment."
-    },
-    "106869": {
-        "「また　新しいお宝を　奪いにいく時は \n　テメーにも　働いてもらう！\n　それまでに　今よりも　強くなっておけよ！": "La prochaine fois qu'on ira voler un nouveau\ntresor, tu vas devoir bosser aussi ! D'ici la,\ndeviens plus fort qu'aujourd'hui !"
-    },
-    "106870": {
-        "「カンダタ親分さん！\n　子分Ｂの私に　お駄賃は　ないんですか！？": "Chef Robbin' 'Ood-san ! Pas de pourboire pour\nmoi, le subalterne B ?!"
-    },
-    "106871": {
-        "「ん？　悪ぃ悪ぃ。すっかり　忘れてたぜ！\n　そのへんで　なにかしら　みつくろって\n　テメーに　くれてやるから　ついてきな！": "Hmm ? Desole, desole. J'avais completement\noublie ! Je vais trouver quelque chose par ici\net je te le donnerai, alors suis-moi !"
-    },
-    "106872": {
-        "「やったあ！　ありがとうございますっ。": "Hourra ! Merci beaucoup !"
-    },
-    "106873": {
-        "「……しかし　初めて会った時は　敵だった\n　テメーが　俺様の右ウデになるとは\n　不思議なモンだな　<pc>。": "Cependant, la premiere fois que nous nous\nsommes rencontres, tu etais un ennemi. C'est\netrange de penser que toi, tu es devenu mon<br>Right Arm, <pc>."
-    },
-    "107691": {
-        "「救世主　カンダタ様！\n　あなたの従者　<cs_pchero>様が\n　空とぶくつを手に入れて　戻られました！": "Seigneur sauveur Robbin' 'Ood-sama ! Votre\nfidele serviteur <cs_pchero> sama est revenu\navec les Skysoar Shoes !"
-    },
-    "107692": {
-        "「おう。待ちわびたぜ　<cs_pchero>！": "Oh. Je t'attendais avec impatience,\n<cs_pchero> !"
-    },
-    "107693": {
-        "「まずは　空とぶくつを\n　こっちに　もらうぜ。いいな？<yesno><close>": "Tout d'abord, je vais prendre les Skysoar\nShoes. Ca te va ? <yesno><close>"
-    },
-    "107694": {
-        "「ふざけてる場合じゃねえ！\n　早く　空とぶくつを　よこせってんだ！\n　な！　な！<yesno><close>": "Ce n'est pas le moment de plaisanter !\nDonne-moi vite les Skysoar Shoes ! Allez !\nAllez ! <yesno><close>"
-    },
-    "107695": {
-        "<cs_pchero>は　カンダタに\n空とぶくつを　渡した！": "<cs_pchero> a donne les Chaussures Celestes a\nRobbin' 'Ood !"
-    },
-    "107696": {
-        "「ほう……。\n　これが　ご先祖様が　使ったっていう\n　空とぶくつか。えらく　ボロっちいな。": "Oh... Ce sont donc les Skysoar Shoes que nos\nancetres utilisaient. Elles sont vraiment en\npiteux etat."
-    },
-    "107697": {
-        "「まあいい。\n　さっそく　侵略者のトコに　殴り込むぞ！\n　俺様に　つかまれ！　<cs_pchero>！": "Tres bien. Nous allons immediatement prendre\nd'assaut l'endroit des envahisseurs !\nAccroche-toi a moi, <cs_pchero> !"
-    },
-    "107698": {
-        "<cs_pchero>は　カンダタのマントのすそを\nしっかり　つかんだ。": "<cs_pchero> attrapa fermement le bord de la\ncape de Robbin' 'Ood."
-    },
-    "107699": {
-        "「そんじゃあ　いくぜ！！": "Alors, allons-y !!"
-    },
-    "107700": {
-        "カンダタは　空とぶくつを　はいた！": "Robbin' 'Ood a chausse les Skysoar Shoes !"
-    },
-    "107701": {
-        "「おふたりとも　お気を付けて！ \n　どうか　姫様を　お救いくださいまし！！": "Faites attention, tous les deux ! Je vous en\nprie, sauvez la princesse !!"
-    },
-    "107702": {
-        "「原住民ノ　支配者　カグヤ＝ムーン。\n　月ノ秘宝ヲ　渡スカ　星ゴト滅ブカ。\n　合理的判断ヲ　下スノダ。": "Maitresse de la Lune, la souveraine des\nautochtones. Livrer le tresor de Mn. ou perir\navec les etoiles. Prends une decision<br>rationnelle."
-    },
-    "114852": {
-        "なんと　<cs_pchero>と　カンダタは\n侵略者の母船の　外壁に到着した！": "Incroyable, <cs_pchero> et Robbin' 'Ood ont\natteint la paroi exterieure du vaisseau mere\ndes envahisseurs !"
-    },
-    "114853": {
-        "「なんだ。こりゃあ　宇宙船の外じゃねえか！\n　どうやって　中に入るんでい。": "Qu'est-ce que c'est ? On est a l'exterieur du\nvaisseau spatial ! Comment allons-nous entrer\na l'interieur ?"
-    },
-    "114854": {
-        "「ええい　硬い壁だな。\n　コノヤロ　開けっ！　開かねえか！！\n　どりゃーーーっ！！！": "Eh bien, quel mur solide. Bon sang, ouvre-toi\n! Tu ne veux pas t'ouvrir !! Prends ca !!!"
-    },
-    "114855": {
-        "なんと　カンダタは　外壁をけやぶり\n勢いあまって　<cs_pchero>を道連れに\n宇宙船の中に　落っこちた！": "Incroyable ! Robbin' 'Ood a perce la paroi\nexterieure et, emportant <cs_pchero> avec lui,\nest tombe a l'interieur du vaisseau spatial !"
-    },
-    "114856": {
-        "「ぬおーっ！！": "Nuooh !!"
-    },
-    "114857": {
-        "「カグヤは　俺様にまかせろ。\n　月世界の王宮で　おちあおうぜ！\n　<cs_pchero>！！": "Laisse Kaguya a moi. Retrouvons-nous au palais\nroyal de The Moon ! <cs_pchero> !!"
-    },
-    "114858": {
-        "宇宙船は　こっぱみじんに　爆発した！": "Le vaisseau spatial a explose en mille\nmorceaux !"
-    },
-    "114859": {
-        "<cs_pchero>と　カンダタは\nバラバラに　ふっとばされてしまった……。": "<cs_pchero> et Robbin' 'Ood ont ete projetes\npar Barabara..."
-    },
-    "114860": {
-        "「そうそう　空とぶくつの　くつ底から\n　ご先祖様が遺した　地図が見つかってな……\n　おっと。ここから先は　またの　お楽しみだ。": "Ah oui, un jour, j'ai trouve une carte laissee\npar mes ancetres sous la semelle des Skysoar\nShoes... Oh, mais pour la suite, ce sera une<br>surprise."
-    },
-    "114861": {
-        "「世界の１００大……いや　９９大秘宝は\n　俺様とテメーで　全部　手に入れるんだ。\n　世界の果てだろうが　ついてこいよ！": "Les 100... non, les 99 plus grands tresors du\nmonde, nous les obtiendrons tous ensemble, toi\net moi ! Meme au bout du monde, suis-moi !"
-    },
-    "114862": {
-        "「じゃあな　<pc>。\n　俺様の　最強の子分よ！\n　次の　お宝探しまで　くたばるんじゃねえぞ。": "A plus tard, <pc>. Mon fidele et\npuissant acolyte ! Ne meurs pas avant notre\nprochaine chasse au tresor."
-    },
-    "114903": {
-        "「いってらっしゃい　カンダタ子分Ａさん！": "Bon voyage, Robbin' 'Ood Kobun A-san !"
-    },
-    "114904": {
-        "なんと　<pc>は　月に到着した！": "Incroyable, <pc> est arrive a Mn.!"
+    "106451": {
+        "<center>そのとき　私は　夢より出でて\nお前たちの世界を　この手にするのだ。\nすべてを　無に帰すために……。": "A ce moment-la, je sortirai du reve et je\nprendrai votre monde dans mes mains. Pour\nramener tout a neant..."
     }
 }
