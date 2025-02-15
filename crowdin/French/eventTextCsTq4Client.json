@@ -1,104 +1,83 @@
 {
-    "167319": {
-        "「我が名は　アサヒ……\n　あまつちに　雷鳴轟かせる者たちの末裔。": "Mon nom est Asahi... Je suis le descendant de\nceux qui font resonner le tonnerre dans les\ncieux et sur la terre."
+    "196304": {
+        "「……っひゅー！　スッゲーーー！\n　めっちゃ　おもれーーーっ！": "......Wouah ! C'est incroyable ! C'est super\namusant !"
     },
-    "167320": {
-        "「そなた……天地雷鳴士を　知っているか？<yesno><close>": "Toi... connais-tu le Tenchi Raimeishi ?\n<yesno><close>"
+    "196305": {
+        "「超スッゲーよ　<pc>っち！！\n　そんな　スゲーおもろい　<pc>っちは\n　ゴーカクッ！　遊び人　合格だ！！": "Incroyable, <pc>-san !! <pc>-san\nest tellement genial et amusant. C'est un\nsucces eclatant ! Vous etes admis en tant que<br>Joueur !"
     },
-    "167321": {
-        "「クスクス……さかしいな。\n　それでこそ　八卦で　見定めたかいがある。": "Kusukusu... Tu es vraiment perspicace. C'est\npour des moments comme celui-ci que ca valait\nla peine de consulter les augures."
+    "196306": {
+        "「……いやだってさ。あんな　怪しげに置いてある\n　バナナの皮なんて　フツー　踏まねーっしょ。\n　しかも　絶対に踏むなよって言ったのに。": "Non mais serieusement. Un Banana Peel place de\nmaniere aussi suspecte, normalement tu ne\nmarches pas dessus, non ? Et en plus, je<br>t'avais bien dit de ne surtout pas marcher\ndessus."
     },
-    "167322": {
-        "「クスクス……それでよい。\n　そなたに　知らしめるために　呼んだのだから。": "Ah ah ah... C'est bien ainsi. Je t'ai appele\npour te faire savoir cela."
+    "196307": {
+        "「……けど　その踏んだ気持ち　わかるんだわ！\n　それは……　踏んだら　なんか面白そうだなって\n　心のどこかで　感じたんだろ！　そうだろ？": "...Mais je comprends ce sentiment de vouloir\nappuyer dessus ! C'est que... tu as pense que\nca pourrait etre amusant quelque part au fond<br>de toi, n'est-ce pas ?"
     },
-    "167323": {
-        "「……とくと　見届けよ。\n　我ら　天地雷鳴士の　みわざを！": "…Regardez attentivement. Admirez l'oeuvre de\nnous, les guerriers celestes du tonnerre et de\nla foudre !"
+    "196308": {
+        "「そう！　それこそが！\n　<pc>っちの中に眠る　遊び心さ！": "Oui ! C'est exactement ca ! C'est l'esprit\nludique qui sommeille en toi, <pc> !"
     },
-    "167324": {
-        "「ヒトフタ　ミヨ　イツム　ナナヤ　ココノタリ！": "Un, deux, trois, quatre, cinq, six, sept,\nhuit, neuf, Konota-ri !"
+    "196309": {
+        "「あの迷いのない転び方を見て……オレっち\n　確信しちゃったんだわ！　<pc>っちには\n　世紀の遊び人になれる　遊び心があるってな！": "En voyant cette chute sans hesitation... J'en\nsuis convaincu maintenant ! <pc> a\nl'esprit ludique pour devenir le joueur du<br>siecle !"
     },
-    "167325": {
-        "「姿　現したまえ　シュジャク！": "Apparais, P. ! Peashock！"
+    "196310": {
+        "「つーことで　テストは　文句なしの合格！\n　……なんだけど　遊びクラブに入るには\n　入会の儀式を　しなくちゃならねーのよ！": "Donc, Test a reussi haut la main !\n...Cependant, pour rejoindre le club de jeux,\nil faut passer par la ceremonie d'initiation !"
     },
-    "167326": {
-        "「ジャーーーーーークッ！": "Jaaaaaaark !"
+    "196311": {
+        "「オレっちは戻って　儀式の準備してっからさ。\n　悪いんだけど　<pc>っちは　儀式で使う\n　ネコヤシの実って果物を　集めてほしいんだわ。": "Je vais retourner preparer le rituel. Desole\nde te demander ca, mais j'aimerais que tu\nramasses des fruits Cat Coconut pour le<br>rituel, <pc>."
     },
-    "167327": {
-        "「きゃーーーーー！！\n　たっ　たいへーーーん！！": "Kyahhhhh!! C'est une catastrophe !!"
+    "196312": {
+        "「ネコヤシの実は　ミューズ海岸や猫島にいる\n　<%sEV_QUE_NAME0>が　よく　隠し持ってんだ。\n　そいつを倒せば　実が手に入るはずだぜ～。": "Cat Coconut se trouve souvent a Muse Coast ou\nsur l'ile aux Chats. Le < %sEV_QUE_NAME0 > a\nl'habitude de les cacher. Si tu arrives a le<br>vaincre, tu devrais pouvoir obtenir le fruit."
     },
-    "167328": {
-        "「よかったーーーっ！　目覚めてくれたー！": "Je suis si soulage ! Tu t'es enfin reveille !"
+    "196313": {
+        "「このネコヤシの実を　<%nEV_QUE_T_NUM0>コ！\n　<%nEV_QUE_T_NUM0>コを　遊びハウスまで　持ってきてくれ！\n　つー感じで～　シクヨロな！": "Apporte-moi ces <%nEV_QUE_T_NUM0> noix de coco\nchat jusqu'a Gadabode ! Voila, c'est tout, je\ncompte sur toi !"
     },
-    "167329": {
-        "「ねえっ　ケガしてない！？　風邪ひいてない！？\n　魂　とびだしてない！？": "He ! Tu n'es pas blesse ? Tu n'as pas attrape\nfroid ? Ton ame ne s'est pas envolee ?"
+    "196314": {
+        "「遊びクラブ～　入会　おめでと～！！": "Felicitations pour votre adhesion au Club de\nJeux !"
     },
-    "167330": {
-        "「ほ　ほんとに　ごめんね……。\n　キミを襲うつもりは　なかったの！": "Je suis... vraiment desolee... Je n'avais pas\nl'intention de t'attaquer !"
+    "196315": {
+        "「アハハッ　<pc>っち　おどろいた～？\n　これが　遊び人流の入会の儀式……\n　つまりは　ウェルカムパーティーさ！": "Ahaha, <pc>-kun, tu as ete surpris～?\nC'est le rituel d'entree de la guilde des\nJoueurs... En d'autres termes, une fete de<br>bienvenue !"
     },
-    "167331": {
-        "「あっ！　あらためて　自己紹介させて！\n　あたしは　アサヒ！": "Ah ! Permets-moi de me presenter a nouveau !\nJe suis Asahi !"
+    "196316": {
+        "「……で　知ってるかもしれないけど\n　そいつらは　遊びクラブのメンバーたち！\n　ひとクセある連中だけど　仲良くしろな！": "...Tu les connais peut-etre deja, mais ce sont\nles membres du club de loisirs ! Ils ont tous\nleur petit caractere, mais essaie de bien<br>t'entendre avec eux !"
     },
-    "167332": {
-        "「おちゃめなエルフっ子は　世を忍ぶ仮の姿……": "L'adorable enfant elfe cache en realite la\nveritable apparence du TMP..."
+    "196317": {
+        "「イエ～イッ　<pc>さん！\n　ルッチーさんから　お話は聞いてま～すっ！\n　遊びクラブへのご入会　おめでとさんで～す！": "Yeaaah, <pc>-san ! Lucchie-san m'a deja\nparle de toi ! Felicitations pour ton adhesion\nau club de jeux !"
     },
-    "167333": {
-        "「その正体は天地雷鳴士　陽衆の頭領だよ！\n　まいったか！！": "Son veritable role est celui de chef des\nYoshi, les Maitres du Tonnerre et de la Terre\n! Impressionnant, n'est-ce pas !!"
+    "196318": {
+        "「<pc>ちゃん　よろぴよ～♪\n　あそクラはね～　とっても　楽しいところだよ！\n　これから　みんなで一緒に　遊ぼうね～<heart>": "<pc>-chan, salut~♪ AsoKura est un\nendroit vraiment amusant ! A partir de\nmaintenant, amusons-nous tous ensemble~<heart>"
     },
-    "167334": {
-        "「そして　ここは　陽衆の隠れ家なの！\n　じゃじゃーーーん！！": "Et ici, c'est la cachette du clan Yang ! Tadah\n!!"
+    "196319": {
+        "「フーーーアッッ！！！\n　<pc>！！　オレタチのマブダチッ！！！": "Fuuuuahhh !!! <pc> !! Notre pote !!!"
     },
-    "167335": {
-        "「あはは！　すこーし　さびれてるでしょ！\n　今じゃ　一族は　数人しかいなくて！": "Ahaha ! C'est un peu desert, n'est-ce pas ? De\nnos jours, il n'y a plus que quelques membres\ndans la tribu !"
+    "196320": {
+        "「ヘイ！！　カモンッ！！！\n　ファンキィー　ディスコ　ターイムッ！！": "Hey !! Viens par ici !!! C'est l'heure du\nFan-kie Disco Time !!"
     },
-    "167336": {
-        "「ゆーえーにー！　キミを呼んだのだー！！": "UA-ni ! C'est pourquoi je t'ai appele !!"
+    "196321": {
+        "「ほら　<pc>っちのドリンクだ。\n　主賓が手ぶらじゃ　始まらないだろ～？": "Tiens, c'est la boisson de <pc>. Lord\nHinn ne peut pas commencer les festivites les\nmains vides, n'est-ce pas ?"
     },
-    "167337": {
-        "「あたしの家　陽衆は…… \n　エルトナの歴史の陰で　都を守り続けてきた\n　天地雷鳴士の　宗家なんだ！": "Ma famille, les Yoshu, a protege la capitale\ndans l'ombre de l'histoire d'Eltona en tant\nque maison principale des Tenchi Raimeishi !"
+    "196322": {
+        "「ふふっ　じつは　採ってきてもらった実は\n　この通り　おいしいドリンクになるの～。": "Fufu, en fait, les fruits que tu as rapportes\ndeviennent une delicieuse boisson comme\ncelle-ci~."
     },
-    "167338": {
-        "「天地雷鳴士とは　光と陰のはざまに生ける職業。 \n　あまつちにまつわる術を　あやつったり\n　幻魔という　使い魔を呼ぶことができるよ！": "Le Tenchi Raimeishi est une profession qui\nexiste entre la lumiere et l'ombre. Ils\nmaitrisent les arts lies au ciel et a la<br>terre, et peuvent invoquer une creature\nappelee Genma, un Familiar !"
+    "196323": {
+        "「だからね　<pc>ちゃんには　ドリンクを\n　人数分　持ってきてもらったことになるかな～。\n　でも　これも　立派な遊び人の儀式なんだよ♪": "Donc, <pc>-chan a apporte des boissons\npour tout le monde. C'est aussi un rite\nimportant pour un bon aventurier, tu sais ♪"
     },
-    "167339": {
-        "「はるか昔　カミハルムイの都は\n　千夜嵐という　みぞうの天変地異に襲われてね。": "Il y a bien longtemps, la capitale de\nKamiharmui a ete frappee par une catastrophe\nnaturelle sans precedent appelee Sen'ya<br>Arashi."
+    "196324": {
+        "「さぁーて　皆さん　準備はよろし？": "Alors, tout le monde, etes-vous prets ?"
     },
-    "167340": {
-        "「その時　千夜嵐を退けたのが　ご先祖さま！": "A ce moment-la, c'est notre ancetre qui a\nrepousse la tempete millenaire !"
+    "196325": {
+        "「遊び人のニューフェイス　<pc>っちの\n　遊びクラブ入会を祝してぇ～……": "Pour celebrer l'adhesion du nouveau visage du\nclub des joueurs, <pc>..."
     },
-    "167341": {
-        "「だけど……時代とともに　忘れ去られて \n　数を減らしていって……\n　今では　名を知る人のほうが　少ないよね！": "Mais... au fil du temps, cela a ete oublie et\nleur nombre a diminue... De nos jours, ceux\nqui connaissent leur nom sont rares !"
+    "196326": {
+        "「乾杯！！": "A la votre !!"
     },
-    "167342": {
-        "「ゆーえーにー！　あたし　決めちゃった！！": "YU-E-NI ! J'ai pris ma decision !!"
+    "196327": {
+        "「かんぱ～いっ！！": "Sante !!"
     },
-    "167343": {
-        "「あたしの代で　天地雷鳴士を\n　バイーンと　盛りあげようって！！": "Je vais dynamiser la classe des Mages du\nTonnerre et du Ciel a fond !"
+    "196328": {
+        "「ベイベー！　今夜はァ　オマエを離さないッ！\n　ダンシン・オールナイッ！！": "Bebe ! Ce soir, je ne te lacherai pas ! Danse\ntoute la nuit !!"
     },
-    "167344": {
-        "「古い慣習なんて　脱ぎすてちゃって\n　なうで　やんぐな　イケてる人を\n　天地雷鳴士に　勧誘しよーってわけ！": "Abandonnons les vieilles habitudes et\nrecrutons des personnes modernes, jeunes et\nstylees pour devenir des Tenchiraimashi !"
+    "196329": {
+        "遊びクラブのメンバーによる\n熱烈な歓迎を受けた　<pc>は\n大いに笑い　楽しい時を過ごした。": "<pc>, accueilli chaleureusement par les\nmembres du club de jeux, a beaucoup ri et\npasse un moment des plus agreables."
     },
-    "167345": {
-        "「そんでね！　八卦っていう占いをしたら \n　<pc>という名前の　奇異な星のもとに\n　生まれた人が　王都を訪れると見えたんだ！": "Et donc ! Quand j'ai fait une divination\nappelee le Bagua, j'ai vu qu'une personne nee\nsous l'etrange etoile nommee <pc> allait<br>visiter la capitale royale !"
-    },
-    "167346": {
-        "「もー　この人しかいない！　って \n　ビビっと来ちゃったの　霊感的なアレが！": "Je savais que c'etait la bonne personne ! J'ai\neu comme un flash, une intuition presque\nsurnaturelle !"
-    },
-    "167347": {
-        "「それで……あの……\n　キミを呼びだして　天地雷鳴士の\n　すごいところを　見せようとしたんだけど……": "Alors... euh... Je t'ai fait venir ici pour te\nmontrer les incroyables capacites de\nl'Eclaircisseur Celeste, mais..."
-    },
-    "167348": {
-        "「その……まだまだ　未熟で…… \n　幻魔が言うこと聞かなくて　あんな事故に……。": "Eh bien... Je suis encore inexperimente... Les\nesprits ne m'ecoutent pas, ce qui a cause un\ntel accident..."
-    },
-    "167349": {
-        "「だから　ほんとに　ごめーーーん！！": "Donc, je suis vraiment desole !!"
-    },
-    "167350": {
-        "「あっ　あたしってば……\n　期待の新人さんを　落水させて……": "Ah, je... J'ai fait tomber notre nouvelle\nrecrue pleine de promesses a l'eau..."
-    },
-    "167351": {
-        "「おまけに　幻魔のシュジャクちゃんも\n　逃げちゃって……": "En plus de ca, la petite Peashock, la creature\nmagique, s'est echappee..."
-    },
-    "167352": {
-        "「これって　お家断絶かもーーーーー！？": "C'est peut-etre la fin de notre famille !?"
+    "196330": {
+        "そして　夜が明けた……！<me 64>": "Et le jour se leva... ! <me 64>"
     }
 }
