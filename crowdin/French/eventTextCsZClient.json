@@ -1,503 +1,1250 @@
 {
-    "9421": {
-        "「おぬし　どうやら　一度死んで\n　生き返しを受けた者……\n　すなわち　生き返リストのようじゃな。": "Il semblerait que tu sois quelqu'un qui est\ndeja mort une fois et a ete ressuscite... En\nd'autres termes, un ressuscitiste."
+    "10469": {
+        "「……ん～？": "......Hm~?"
     },
-    "9422": {
-        "「わしの名は　放浪の賢者ホーロー。": "Mon nom est Hollow, le Sage errant."
+    "10470": {
+        "「な～んだい　アンタ。\n　人んちに　勝手に上がり込んできてさ～。\n　押し売りなら　帰っとくれよ。": "Eh bien, qui voila. Tu te permets de rentrer\nchez les gens comme ca. Si tu es un vendeur a\nla sauvette, retourne d'ou tu viens."
     },
-    "9423": {
-        "「このアストルティアに\n　知らぬことなしと　うたわれる\n　賢者の中の賢者じゃよ<heart>": "Dans cette Astoltia, je suis chante comme le\nsage parmi les sages, celui qui ne connait\nrien d'inconnu."
+    "10471": {
+        "「じゃまするぞい。": "Je vais entrer."
     },
-    "9424": {
-        "「わしの眼力にかかれば　おぬしが\n　生き返リストか　どうかなど\n　一目りょーぜんというわけじゃ！": "Avec mon oeil percant, je peux dire en un coup\nd'oeil si tu es un Ikikaerist ou non !"
+    "10472": {
+        "「破邪舟使いの末裔　フルッカじゃな？\n　わしは　賢者ホーローじゃ。\n　そなたに　頼みがあってきた。": "Es-tu Fluka, l'heritier des utilisateurs du\nSacred Ship ? Je suis Hollow, le sage. Je suis\nvenu te demander un service."
     },
-    "9425": {
-        "「……さて　こちらが　名乗ったのだから\n　おぬしも名乗るのが　礼儀じゃろ？\n　まずは　名前を聞かせてもらおーかの。": "...Eh bien, puisque je me suis presente, il\nest de coutume que tu te presentes egalement,\nn'est-ce pas ? Commencons par entendre ton<br>nom."
+    "10473": {
+        "「え？　フルッカは　あたしだけど。\n　今どき　破邪舟使いって……。": "Quoi ? Fluka, c'est moi. Un utilisateur de\nSacred Ship de nos jours, vraiment..."
     },
-    "9426": {
-        "「……ふーむ　<pc>というのか。\n　いかにも　エテーネの民らしい\n　プリミティブかつ　エレガントな名前じゃな。": "...Hmm, tu t'appelles donc <pc>. C'est\neffectivement un nom a la fois primitif et\nelegant, typique des habitants d'Ethene."
+    "10474": {
+        "「単刀直入に言おう。冥王の心臓に行くため\n　おぬしのチカラが必要じゃ。\n　わしらのために　破邪舟の術を使ってくれんか？": "Je vais etre direct. Nous avons besoin de ta\nforce pour nous rendre a Hades' Heart.\nPourrais-tu utiliser le pouvoir du Sacred Ship<br>pour nous aider ?"
     },
-    "9427": {
-        "「……そう　おぬしの故郷　エテーネの村は\n　冥王ネルゲルの手で　封印されし大地\n　レンダーシアの真ん中に　位置しておる。": "Oui, ton village natal, Ethene Village, se\ntrouve dans la terre scellee par Netherlord\nNergel, au coeur de Rendashia."
+    "10475": {
+        "「はぁ？　冥王の心臓？　なによそれ。\n　それに破邪舟の術なんて　あたしゃ使えないよ。": "Quoi ? Hades' Heart ? C'est quoi ca ? En plus,\nje ne peux pas utiliser la technique du Sacred\nShip."
     },
-    "9428": {
-        "「そして　勇者覚醒の光が　放たれたのも\n　レンダーシア……　そう。\n　おぬしは　かの地を目指さねばならぬのじゃ！": "Et ensuite, la lumiere de l'eveil du heros a\nete emise egalement a Lendersia... Oui. Tu\ndois te diriger vers cette terre !"
+    "10476": {
+        "「なに？　おぬしは　使えないのか。\n　ならば　誰が使える？\n　破邪舟の術は　一子相伝の術だと聞いたが……。": "Quoi ? Tu ne peux pas l'utiliser ? Alors, qui\npeut l'utiliser ? J'ai entendu dire que la\ntechnique du Sacred Ship est transmise de<br>maitre a disciple..."
     },
-    "9429": {
-        "「そのためには　何をすべきか\n　教えてやってもいいのじゃが……。　": "Pour cela, je pourrais te dire ce qu'il faut\nfaire..."
+    "10477": {
+        "「今は　誰も使えないわよ～。\n　そもそも　父ちゃんが　使えなかったしね～。": "Actuellement, personne ne peut l'utiliser~.\nD'ailleurs, meme papa n'a pas pu l'utiliser~."
     },
-    "9430": {
-        "「……ときに　おぬし\n　いくつ集めたんじゃ？": "Dis-moi, combien en as-tu rassemble ?"
+    "10478": {
+        "「つまり　そんな術　どこにもないってワケ。\n　破邪舟使いの一族なんて肩書きも\n　大昔ならともかく　今は使わないわよ～。": "En d'autres termes, ce genre de technique\nn'existe nulle part. Quant au titre de Clan\ndes utilisateurs du Sacred Ship, il etait<br>peut-etre utilise autrefois, mais plus\nmaintenant."
     },
-    "9431": {
-        "「…………。": ".........."
+    "10479": {
+        "「な　なんということじゃ……。": "Q-Quelle chose incroyable..."
     },
-    "9432": {
-        "「……………………。": "........................"
+    "10480": {
+        "「破邪舟の術は　歴史の中から\n　消えてしまったというのか……。\n　う～む　万事休すじゃな。": "La technique du Sacred Ship a-t-elle vraiment\ndisparu dans les meandres de l'histoire... ?\nHmm, cela semble etre la fin de tout espoir."
     },
-    "9433": {
-        "「……むっ　言葉足らずだったようじゃな。\n　すまん　すまん。": "…Hmmm, il semble que je n'ai pas ete assez\nclair. Desole, desole."
+    "10481": {
+        "「……いや　待てよ。": "...Non, attends un peu."
     },
-    "9434": {
-        "「わしが聞きたいのは　キーエンブレムの数じゃ。\n　それを聞けば　おぬしの実力と活躍のほどが\n　どれくらいのものか　わかるからのう。": "Ce que je veux savoir, c'est le nombre de Key\nEmblems. En connaissant ce nombre, je pourrai\nevaluer la mesure de ton talent et de tes<br>exploits."
+    "10482": {
+        "「おお　そうか！　そういうことか！\n　わしの連れ合いは　このことまで\n　ちゃんと　見抜いておったわ！": "Oh, je vois ! C'est donc ca ! Ma compagne\navait tout prevu jusque-la !"
     },
-    "9435": {
-        "<pc>は　賢者ホーローに\n自分の持つ　キーエンブレムの数を教えた。": "<pc> a informe le sage Hollow du nombre\nd'emblemes-cles qu'il possedait."
+    "10483": {
+        "「のう　<pc>よ。\n　先ほど　わしが教えた予言を　覚えておるか？": "Eh bien, <pc>. Te souviens-tu de la\nprophetie que je t'ai enseignee tout a l'heure\n?"
     },
-    "9436": {
-        "「なんと！　それだけか！？\n　うむむむ……これは　先が思いやられるのう。": "Quoi !? C'est tout !? Hum… ca ne presage rien\nde bon."
+    "10484": {
+        "「輝ける破邪舟は　時の海を渡り\n　救世主　大いなる闇を　越える……。": "Le brillant Sacred Ship traverse l'ocean du\ntemps, le sauveur Lord depasse la grande\nobscurite..."
     },
-    "9437": {
-        "「まあ　それしかないのなら仕方ない。 \n　これから　がんばれば　よいのじゃからな。\n　今は　ただ　キーエンブレムを集めるのじゃ。": "Eh bien, s'il n'y a pas d'autre choix, tant\npis. Il suffit de faire de notre mieux a\npartir de maintenant. Pour l'instant, il<br>s'agit simplement de rassembler les emblemes\ncles."
+    "10485": {
+        "「この　時の海を渡り……という一節は\n　現代に失われた破邪舟を　過去にさかのぼり\n　復活させることを　意味してたんじゃ……。": "Traverser cette mer du temps... Cette phrase\nsignifiait peut-etre remonter dans le passe\npour ressusciter le Sacred Ship perdu a<br>l'epoque P."
     },
-    "9438": {
-        "「おぬしの実力が　頼むに足りると\n　判断したとき　レンダーシアの封印を\n　解くための方法を　教えちゃおう。　": "Quand je jugerai que ta competence est\nsuffisante, je te revelerai comment lever le\nsceau de Lendashia."
+    "10486": {
+        "「いかにも　信じられんといった顔じゃな。\n　だがな　<pc>。\n　おぬしがいれば　それも可能であろう。": "Je vois bien que tu as du mal a y croire.\nMais, <pc>. Avec toi, cela pourrait etre\npossible."
     },
-    "9439": {
-        "「次は～　アズラン～　アズラン～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station ~ AzLMP ~ AzLMP ~. L'ecart\nentre le train et le quai est large. Veuillez\nfaire attention a vos pieds en descendant."
+    "10487": {
+        "「かつて　自分の<kyodai_rel3>に　時渡りの術を使った\n　おぬしならばな……。": "Toi qui autrefois as utilise l'art du voyage\ntemporel sur ton <kyodai_rel3>..."
     },
-    "9441": {
-        "「い　いかん！　アズラン駅では　\n　名物のカムシカせんべえを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah, c'est pas bon ! J'ai oublie d'acheter les\ncelebres Azlantelope senbei a la station Azlan\n! Je ne peux pas me permettre de trainer ici."
+    "10488": {
+        "「だが　そのチカラを　使うために\n　おぬしは　人間の姿を取り戻す必要がある。\n　その身体の持ち主は　別の種族の者だからな。": "Cependant, pour utiliser ce pouvoir, il te\nfaut retrouver ton apparence humaine. Le corps\nque tu possedes appartient a un autre peuple."
     },
-    "9442": {
-        "「い　いかん！　娯楽島ラッカラン駅では　\n　名物のコロシアムバーガーを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il ne faut pas ! A la station de Luckland\nIsland, j'ai achete le celebre Coliseum Burger\n! Je ne peux pas rester ici a trainer."
+    "10489": {
+        "「案ずるでない。おぬしの真の姿は\n　故郷　エテーネの村に　今も存在しておる。": "Ne t'inquiete pas. Ton apparence, T., existe\ntoujours dans ton village natal, Ethene\nVillage."
     },
-    "9443": {
-        "「そのときまで　せいぜい\n　キーエンブレムを　集めておくのじゃぞ！\n　ホッホッホッ……。": "D'ici la, fais de ton mieux pour rassembler\nles emblemes cles ! Hohoho..."
+    "10490": {
+        "「これから　わしの呪文で　おぬしの魂を\n　エテーネの村まで　送りとどけてやるから\n　おぬしは　人間の姿を取り戻すのじゃ。": "Desormais, grace a mon sort, je vais\ntransporter ton ame jusqu'au village d'Ethene.\nLa-bas, tu pourras retrouver ton apparence<br>humaine."
     },
-    "9444": {
-        "「おお　そのビビッドかつ　ユニークな\n　顔立ちは　<pc>ではないか！\n　また　会ったのう。": "Oh, ce visage si vif et unique, ne serait-ce\npas <pc> ! Nous nous rencontrons a\nnouveau."
+    "10491": {
+        "「よいか　<pc>。\n　わしは　ここで待っておる。\n　準備ができたら　ふたたび　ここへ来てくれ。": "Ecoute bien, <pc>. Je vais t'attendre\nici. Reviens ici des que tu seras pret."
     },
-    "9445": {
-        "「よもや　わしのことを　忘れちゃいまいな？\n　アストルティアに　知らぬことなし！\n　放浪の賢者　ホーローじゃ。": "Tu ne m'aurais tout de meme pas oublie,\nn'est-ce pas ? Il n'y a rien que je ne sache\nsur Astoltia ! Je suis Hollow, le sage<br>vagabond."
+    "10492": {
+        "「え～。なに　勝手に決めてんのよ～？\n　ここ　私の家なんですけど～。": "Eh~. Pourquoi tu decides ca tout seul~? Ici,\nc'est chez moi quand meme~."
     },
-    "9446": {
-        "「……して　いくつ集めたんじゃ？": "Combien en as-tu rassemble... ?"
+    "10493": {
+        "「ふふ。おまえの　ものぐさな根性も\n　<pc>が　過去を変えたついでに\n　変わればよいのう。": "Fufu. J'espere que ta paresse changera aussi\nquand <pc> modifiera le passe."
     },
-    "9447": {
-        "「…………。": ".........."
+    "10494": {
+        "「ネルゲルの手に落ちた　エテーネの村では\n　何が起こるか　わからんからのう。\n　くれぐれも　気をつけるのじゃぞ！": "Le village d'Ethene est tombe entre les mains\nde Nelgel, et on ne sait pas ce qui peut\narriver. Faites bien attention !"
     },
-    "9448": {
-        "「……………………。": "........................"
+    "10495": {
+        "「あれが　ネルゲルの居城……\n　冥王の心臓じゃ。": "Voila le chateau de Nelgel... Le Coeur d'Hades."
     },
-    "9449": {
-        "「……むう　ツーカーとはいかんもんじゃな。\n　わしが　聞きたいのは　とーぜん\n　おぬしの持つ　キーエンブレムの数じゃ。": "Hmm, ce n'est pas facile de comprendre sans\nmots. Evidemment, ce que je veux savoir, c'est\nle nombre de cles emblemes que tu possedes."
+    "10496": {
+        "「あの中に　おぬしら　エテーネの民を滅ぼし\n　レンダーシアを封印した　悪の権化\n　にっくき　ネルゲルがおる。": "A l'interieur se trouve Nergel, l'incarnation\ndu mal qui a detruit votre peuple d'Ethene et\nscelle Lendersia."
     },
-    "9450": {
-        "<pc>は　賢者ホーローに\n自分の持つ　キーエンブレムの数を教えた。": "<pc> a informe le sage Hollow du nombre\nd'emblemes-cles qu'il possedait."
+    "10497": {
+        "「今から　わしが　冥王の心臓に行けるよう\n　光の橋を　かけてやろう。\n　それを渡り　ネルゲルを倒してくるのじゃ……！": "A partir de maintenant, je vais creer un pont\nde lumiere pour que vous puissiez vous rendre\na Hades' Heart. Traversez-le et vainquez<br>Nelgel... !"
     },
-    "9451": {
-        "「ほう　そうか　そうか。\n　なかなか　がんばってるようじゃな。": "Oh, vraiment, vraiment. Tu sembles faire des\nefforts, n'est-ce pas ?"
+    "10498": {
+        "「では　ゆくぞ。": "Alors, allons-y."
     },
-    "9452": {
-        "「そうじゃなぁ……５個？\n　いや　６個……６個じゃな！": "Hmm... Peut-etre cinq ? Non, six... Oui, six !"
+    "10499": {
+        "「かああああぁぁぁぁぁぁ！！！": "Kaaaaaaahhhhhh !!!"
     },
-    "9453": {
-        "「……<pc>よ。\n　おぬしには　キーエンブレムを６個以上\n　集めてきてほしいのじゃ。": "...<pc>. Je veux que tu collectes au\nmoins six emblemes cles."
+    "10500": {
+        "「なんという　邪悪なチカラじゃ……。": "Quel pouvoir malefique..."
     },
-    "9454": {
-        "「それほどのウデ前の　持ち主ならば\n　わしも　安心して　おぬしに\n　大事な使命を　託すことができるからのう。": "Si tu es un Lord avec un tel talent, alors je\npeux te confier cette mission importante en\ntoute confiance."
+    "10501": {
+        "「たとえ　橋が　かかったとしても\n　あれでは　おぬしが呑み込まれてしまうな。": "Meme si un pont est construit, tu risques\nd'etre englouti."
     },
-    "9455": {
-        "「……その使命とは　ズバリ！\n　冥王ネルゲルを倒し　やつに封印された\n　レンダーシアの大地を救うことじゃ！": "Cette mission, en un mot ! C'est de vaincre\nNetherlord Nergel et de sauver la terre de\nLendersia qu'il a scellee !"
+    "10502": {
+        "「さて　どうしたものか……。": "Bon, que devrions-nous faire..."
     },
-    "9456": {
-        "「故郷の村を　ネルゲルに滅ぼされた\n　おぬしじゃ。できることなら　今すぐ\n　仇討ちを果たしたいことじゃろう。": "Tu es celui dont le village natal a ete\ndetruit par Nelgel. Si cela etait possible, tu\nvoudrais surement te venger immediatement,<br>n'est-ce pas ?"
+    "10503": {
+        "「……そう言えば　わしの連れ合いが\n　昔　気になることを　言っておったな……。": "... Maintenant que j'y pense, mon partenaire a\ndit quelque chose qui m'a intrigue il y a\nlongtemps..."
     },
-    "9457": {
-        "「だがな　お若いの。焦りは禁物じゃよ。\n　今のおぬしでは　とうてい\n　あの冥王には　勝てまい。": "Cependant, jeune homme. Ne vous precipitez\npas. Dans votre etat actuel, il vous est\nabsolument impossible de vaincre ce roi des<br>tenebres."
+    "10504": {
+        "「わしの連れ合いは　予知のチカラを持つ女でな。\n　なんでも　ピシャリと言い当てた。\n　やつが　ある日　突然言ったんじゃ……。": "Ma compagne possedait le pouvoir de la\nprophetie. Elle predisait tout avec une\nprecision etonnante. Un jour, elle a<br>soudainement declare..."
     },
-    "9458": {
-        "「それに　ヤツの支配する　冥界への入り口は\n　ランドン山脈の奥深く　断崖の先にあり　\n　誰も　そこへ至ることは　かなわぬという。": "De plus, l'entree vers le royaume des morts\nqu'il controle se trouve au fin fond des\nMontagnes Landon, au-dela des falaises. On dit<br>que personne ne peut y parvenir."
+    "10505": {
+        "「輝ける破邪舟は　時の海を渡り\n　救世主　大いなる闇を　越える……\n　とな。": "Le Sacre Navire Brillant traverse la mer du\ntemps, et le Seigneur Sauveur surmonte la\nGrande Obscurite... C'est ce qui est ecrit."
     },
-    "9459": {
-        "「……そう。このワシを　のぞいてはな。": "... Oui. Sauf moi, bien sur."
+    "10506": {
+        "「破邪舟とは　その名の通り　邪悪をしりぞけ\n　天空を駆ける　魔法の舟だという話じゃ。": "Le Sacred Ship, comme son nom l'indique, est\nun bateau magique qui repousse le mal et\nnavigue a travers le ciel."
     },
-    "9460": {
-        "「今は　実力の証　キーエンブレムを集めながら\n　チカラを　たくわえる時期なのじゃ。\n　くれぐれも　無策　無謀に走るでないぞ。": "En ce moment, c'est le moment de rassembler\nles emblemes cles, preuve de notre puissance,\ntout en accumulant de la force. Veille a ne<br>pas agir de maniere irreflechie ou imprudente."
+    "10507": {
+        "「連れ合いが言うには　その破邪舟を\n　創りだすことができる　魔法使いの末裔が\n　グレン城に　身を寄せているらしい。": "Mon partenaire dit qu'il semble qu'un\ndescendant du magicien capable de creer ce\nSacred Ship se trouve actuellement au Chateau<br>de Glen."
     },
-    "9461": {
-        "「次は～　アズラン～　アズラン～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine station~ AzLMP~ AzLMP~. Aujourd'hui,\nvotre conducteur est le chauffeur Skippio~ et\nvotre guide est moi, Marius, le chef de train."
+    "10508": {
+        "「その者の手を借りれば　冥王の心臓まで\n　たどりつけるかもしれんな……。": "Si nous obtenons l'aide de cette personne,\nnous pourrions peut-etre atteindre le Coeur\nd'Hades..."
     },
-    "9463": {
-        "「いかん！　アズラン駅では　名物の\n　カムシカせんべえを　買うんじゃった。\n　こりゃ　急がねば！": "Il ne faut pas oublier ! J'ai failli oublier\nd'acheter les celebres biscuits Azlantelope a\nla station Azlan. Il faut que je me depeche !"
+    "10509": {
+        "「<pc>よ。\n　ここは　あやつの予言を信じ\n　その魔法使いに　会ってみようではないか。": "<pc>. Ici, croyons en sa prophetie et\nrencontrons ce magicien."
     },
-    "9464": {
-        "「いかん！　娯楽島ラッカラン駅では　名物の\n　コロシアムバーガーを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! J'ai oublie d'acheter le celebre\nColiseum Burger a la station de Luckland\nIsland. Je dois me depecher !"
+    "10510": {
+        "「わしも　グレン城に向かうとしよう。\n　破邪舟の魔法使いは　城下町のどこかで\n　くらしているはずじゃ。": "Moi aussi, je vais me diriger vers Glen\nCastle. Le magicien du Sacred Ship doit vivre\nquelque part dans la ville du chateau."
     },
-    "9465": {
-        "「おぬしが　キーエンブレムを\n　６個以上　集める日を\n　わしは　心待ちにしておるからな～。": "J'attends avec impatience le jour ou tu auras\nrassemble plus de six emblemes cles."
+    "10511": {
+        "「それでは　<pc>よ。\n　また　むこうで落ち合おうぞ！\n　": "Alors, <pc>. Retrouvons-nous la-bas !"
     },
-    "9466": {
-        "「……見つけたぞ　エテーネの民の生き残りよ。": "... Je t'ai trouve, survivant du peuple\nd'Ethene."
+    "10512": {
+        "「エテーネの村に　行く準備は\n　できたかな？<yesno><close>": "Es-tu pret pour te rendre au village d'Ethene\n? <yesno><close>"
     },
-    "9467": {
-        "「貴様たちは　危険な存在……\n　ひとりたりとも　生かしてはおけぬ……。": "Vous etes des etres dangereux... Je ne peux\npas laisser un seul d'entre vous en vie..."
+    "10513": {
+        "「そうか。\n　これから先　何が起きるか　わからんから\n　怖気づくのも　無理はあるまいな。": "Je vois. Avec tout ce qui pourrait arriver a\nl'avenir, il n'est pas surprenant d'avoir\npeur."
     },
-    "9468": {
-        "「……ずいぶん　うなされていたのう。": "...Tu avais l'air de faire un cauchemar."
+    "10514": {
+        "「よし。それでは　これから\n　おぬしの故郷である　エテーネの村まで\n　おぬしの魂を　飛ばしてやろう。": "Tres bien. A present, je vais envoyer ton ame\njusqu'a ton village natal, Ethene Village."
     },
-    "9469": {
-        "「なにか悪い夢でも　見ていたようじゃが\n　よかったら　このジジイに　聞かせてくれんか？": "On dirait que tu as fait un mauvais reve. Si\ntu veux, tu peux le raconter a ce vieux\nbonhomme."
+    "10515": {
+        "「冥王ネルゲルに　こちらの動きを\n　読まれる恐れがあるため　さけていたが\n　もう　そんなことは言っておれん。": "Nous avons evite cela par crainte que\nNetherlord Nergel ne devine nos mouvements,\nmais nous ne pouvons plus nous permettre de<br>telles considerations."
     },
-    "9470": {
-        "<pc>は　賢者ホーローに\n夢の内容を　語った。": "<pc> raconta le contenu de son reve au\nsage Hollow."
+    "10516": {
+        "「よいか　<pc>。もう一度　言うぞ。\n　おぬしの人間としての姿は　これから行く\n　エテーネの村にある。": "Ecoute bien, <pc>. Je vais le redire.\nTon apparence humaine se trouve dans le\nvillage d'Ethene, la ou tu te rends."
     },
-    "9471": {
-        "「……なるほどのう。\n　夢の中で　ネルゲルが　そんなことを……。": "Je vois. Dans tes reves, Nelger faisait donc\nune telle chose..."
+    "10517": {
+        "「今こそ　その真の姿を　取り戻すときじゃ。\n　時を超え　破邪舟を復活させるという\n　おぬしにしか　できぬ使命を果たすためにな！": "Il est temps de retrouver cette veritable\napparence, T. C'est ta mission unique de faire\nrevivre le Sacred Ship a travers le temps !"
     },
-    "9472": {
-        "「どうやら　事態は　思っていた以上に\n　シリアスかつ　デンジャーなようじゃな。\n　こりゃ　ノンビリしておれん！": "Il semble que la situation soit plus serieuse\net dangereuse que je ne le pensais. Je ne peux\npas rester sans rien faire !"
+    "10518": {
+        "「……生まれ育った村の　惨状を見るのは\n　つらいことかもしれんが……。": "...... Voir l'etat desastreux du village ou tu\nes ne et as grandi peut etre difficile,\nmais..."
     },
-    "9473": {
-        "「次は～　アズラン～　アズラン～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : AzLMP, AzLMP. Les\npassagers souhaitant descendre, veuillez\nverifier que vous n'avez rien oublie avant de<br>descendre du vehicule."
+    "10519": {
+        "「頼んだぞ　<pc>……！\n　世界の命運は　おぬしに　かかっておる……！！": "Je compte sur toi, <pc>... ! Le destin\ndu monde repose sur tes epaules... !!"
     },
-    "9475": {
-        "「……おっと　しかし　メギストリスの都駅では　\n　名物のメギス鶏のからあげを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais je viens d'acheter le celebre\nMegis Fried Chicken a la station de Megistris\nCity. Pour l'instant, c'est prioritaire !"
+    "10520": {
+        "「かああああああぁぁぁぁぁぁぁっ！！！": "Kaahhhhhhhhhh!!!"
     },
-    "9476": {
-        "「おぬしは　一刻も早く\n　キーエンブレムを　６個以上集めるのじゃぞ。\n　わしは　わしで　準備を進めておくからな。": "Tu dois te depecher de rassembler au moins six\nemblemes-cles. Je vais de mon cote me preparer\negalement."
+    "10521": {
+        "「よくぞ……よくぞ　戻ってきたのう。": "Tu es revenu... Tu es vraiment revenu."
     },
-    "9477": {
-        "「……ほっほう。\n　これは　これは……。": "......Oh oh. Eh bien, eh bien......"
+    "10522": {
+        "「死して後も　わしは　こうして\n　ずっと　お前を待っておったのじゃ。\n　おかえり　<pc>や。　": "Meme apres ma mort, je t'ai attendu ainsi tout\nce temps. Bienvenue chez toi, <pc>."
     },
-    "9478": {
-        "「またまた　会ったのう　<pc>。\n　アストルティアに　知らぬことなし！\n　ご存知　放浪の賢者　ホーローじゃ。": "Encore une fois, nous nous rencontrons,\n<pc>. Il n'y a rien que je ne connaisse\npas en Astoltia ! Je suis Hollow, le sage<br>errant bien connu."
+    "10523": {
+        "「わしが　まだ幼い頃　ひとりの若い錬金術師が \n　この村を訪れ　死にかけていた　わしと\n　この村を　不思議な技で救ってくれたのじゃ。": "Quand j'etais encore jeune, un jeune\nalchimiste est venu visiter notre village.\nGrace a une technique mysterieuse, il a sauve<br>ma vie alors que j'etais mourant, ainsi que\nnotre village."
     },
-    "9479": {
-        "「……ふむ。ひと目見て　ピンと来たぞい。\n　おぬし　ついに　キーエンブレムを６個以上\n　集めたようじゃな。": "Hmmm. Des le premier coup d'oeil, j'ai compris.\nTu as finalement reussi a rassembler au moins\nsix emblemes cles."
+    "10524": {
+        "「……そう。お前の<kyodai_rel3>のことじゃ。\n　わしは　<kyodai>が　生まれた時から\n　あやつこそ　あの錬金術師だと気づいておった。": "C'est ca. Je parle de ton <kyodai_rel3>. Je\nsavais depuis la naissance de <kyodai> qu'il\netait cet alchimiste."
     },
-    "9480": {
-        "「いやはや　見ちがえたの～。\n　グレートかつ　マーベラスな\n　おぬしの強さ　ビンビン感じるぞい。": "Eh bien, je ne t'avais pas reconnu~. Ta force\nest vraiment Great et Marvelous, je la ressens\nintensement."
+    "10525": {
+        "「そして　あれを過去に送った　時渡りの術者が\n　<pc_rel2>である　お前だということにもな……。": "Et il s'avere que celui qui a envoye cela dans\nle passe avec la technique du voyage dans le\ntemps, c'est toi, <pc_rel2>..."
     },
-    "9481": {
-        "「時は来たれり……ということか。": "Le moment est venu... n'est-ce pas ?"
+    "10526": {
+        "「……さあ　ついてくるがよい。\n　お前が　帰ってきた目的は　わかっておる。\n　すべては　今日のためにあったのじゃからな。": "Bien, suis-moi. Je connais le but de ton\nretour. Tout a mene a ce jour, apres tout."
     },
-    "9482": {
-        "「では　かねてからの約束通り　今こそ\n　レンダーシア解放への道を　教えちゃおうぞ！": "Alors, comme promis depuis longtemps, il est\ntemps de vous reveler le chemin vers la\nliberation de Lendersia !"
+    "10527": {
+        "「この通り　魂の抜けた　お前の身体を\n　カメさまが　守っていてくださったのじゃ。": "Comme tu peux le voir, Galapagod a protege ton\ncorps dont l'ame etait absente."
     },
-    "9483": {
-        "「レンダーシアを　封印から解放するには\n　それをなした者……冥王ネルゲルを\n　倒さねばならんのが　道理じゃ。": "Pour liberer Rendaashia du sceau, il est\nlogique de devoir vaincre celui qui l'a\ncree... Netherlord Nergel."
+    "10528": {
+        "「この身体に触れれば　お前の魂は\n　自然と　元に戻るはず。\n　さあ　触れてみるが　よいぞ。": "Si tu touches ce corps, ton ame devrait\nnaturellement retrouver sa place. Allez,\nessaie de toucher."
     },
-    "9484": {
-        "「だが　ネルゲルの支配する　冥界への入り口は \n　ランドン山脈の奥深く　断崖の先にあり　\n　誰も　そこへ至ることは　かなわぬ。": "Cependant, l'entree du monde souterrain\ncontrole par Nelgel se trouve au-dela des\nfalaises profondes des montagnes de Landon, et<br>personne ne peut y parvenir."
+    "10529": {
+        "「……おおっ　戻った！\n　戻ったぞ　<pc>っ！": "…Oh, tu es revenu ! Tu es revenu, <pc> !"
     },
-    "9485": {
-        "「……しかし　方法がないわけではない。\n　この放浪の賢者ホーローに\n　まかせておけば　バッチリじゃ！": "...Cependant, il n'est pas impossible de\ntrouver une methode. Si tu laisses cela aux\nsoins du sage vagabond Hollow, tout ira<br>parfaitement bien !"
+    "10530": {
+        "「こうなると　わかってはいたが……\n　やはり　この目で見るまでは　不安じゃったよ。": "Je savais que cela finirait ainsi... Mais je\nne pouvais m'empecher d'etre inquiet tant que\nje ne l'avais pas vu de mes propres yeux."
     },
-    "9486": {
-        "「まずは　オーグリード大陸にそびえる\n　ランドン山脈の　冥界への入り口が見える\n　断崖まで　行ってみることにしようぞ。": "Tout d'abord, dirigeons-nous vers la falaise\nd'ou nous pouvons apercevoir l'entree vers le\nmonde infernal, nichee dans les imposantes<br>montagnes Landon du continent Ogride."
+    "10531": {
+        "「さあ　あとは　カメさまに目覚めていただき\n　おチカラを　お借りすれば……。": "Maintenant, il ne reste plus qu'a reveiller\nGalapagod et emprunter sa puissance..."
     },
-    "9487": {
-        "「次は～　アズラン～　アズラン～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Ensuite, c'est a... AzLMP... AzLMP...\nRecemment, il y a eu une recrudescence\nd'accidents impliquant des voyageurs en<br>exterieur, victimes de la malveillance\nmagique."
+    "10532": {
+        "<center>　人の姿を　取り戻したか。\n　いまわしき　エテーネの生き残りよ。": "As-tu retrouve ton apparence humaine ?\nSurvivant detestable d'Ethene."
     },
-    "9488": {
-        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination~ l'ile de divertissement\nRakaran~ Rakaran~. Recemment, de nombreux\nvoyageurs en plein air ont ete victimes des<br>miasmes demoniaques. Les incidents se\nmultiplient."
+    "10533": {
+        "<center>　だが　この地は　すでに我の支配下。\n　ここで起こることは　すべて\n　冥王ネルゲルの知るところ……。": "Cependant, cette terre est deja sous mon\ncontrole. Tout ce qui se passe ici est connu\nde Netherlord Nergel..."
     },
-    "9489": {
-        "「……聞いたじゃろう？\n　近ごろ　魔瘴の被害が　増えているのは\n　レンダーシア封印の影響に　他ならぬ。": "...Tu as entendu, n'est-ce pas ? Recemment,\nles dommages causes par le miasme ont\naugmente, et c'est sans aucun doute du a<br>l'effet du sceau de Lendersia."
+    "10534": {
+        "<center>　我が　闇の炎輪は　\n　その内にあるものを　焼き尽くす。\n　貴様に　逃れる術はないと知れ。": "Mon cercle de flammes obscures brule tout ce\nqui se trouve en lui. Sache qu'il n'y a aucun\nmoyen d'y echapper."
     },
-    "9490": {
-        "「このまま　ネルゲルめを放置すれば\n　やがて　アストルティアは\n　魔瘴におおわれ　滅ぼされるじゃろう。": "Si nous laissons ainsi Nergel agir, Astoltia\nsera bientot recouverte par le miasme et\ndetruite."
+    "10535": {
+        "「……こういうことか。\n　やはり　お告げは　正しかったようじゃ。": "…C'est donc cela. Il semble que la prophetie\netait juste."
     },
-    "9491": {
-        "「それだけは　防がねばならん！": "Je dois absolument l'empecher !"
+    "10536": {
+        "「覚えておるか　<pc>？\n　あの日　わしに頼まれて\n　お前が採ってきた　テンスの花じゃよ。": "Te souviens-tu, <pc> ? Ce jour-la, a ma\ndemande, tu es alle cueillir la Fleur de Tens."
     },
-    "9492": {
-        "「わしは　こうして　世界をめぐり\n　おぬしのような若者が　育つのを\n　ずっと　待っておった。": "Je parcours le monde ainsi, et j'ai toujours\nattendu qu'un jeune comme toi grandisse."
+    "10537": {
+        "「今こそ　これを使うべきときが　来たのじゃ！": "Le moment est venu d'utiliser ceci !"
     },
-    "9493": {
-        "「<pc>よ。\n　おぬしは　わしの希望じゃ。\n　どうか　この使命　果たしてくれよ！": "<pc>. Tu es mon espoir. Accomplis cette\nmission, je t'en prie !"
+    "10538": {
+        "「……<pc>。\n　これからも　お前の行く先には\n　多くの苦難が　待ち受けておるじゃろう。": "...<pc>. Dorenavant, de nombreuses\nepreuves t'attendront sur ton chemin."
     },
-    "9494": {
-        "「……ううっ！　熱弁をふるっていたら\n　駅弁を食いそびれてしまった！": "…Oh non ! J'etais tellement pris dans mon\ndiscours passionne que j'ai rate l'occasion de\nmanger mon bento de la gare !"
+    "10539": {
+        "「それを知りながら　もはや\n　なんの手助けもしてやれない\n　わしのことを　許しておくれよ。": "Alors que je le savais, je ne peux plus\nt'apporter aucune aide. Pardonne-moi, je t'en\nprie."
     },
-    "9495": {
-        "「じゃが　アズラン駅では\n　名物　カムシカせんべえを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la gare d'Azlan, il faut absolument\nacheter les fameux crackers Azlantelope !\nDesole, mais je vais devoir vous laisser ici."
+    "10540": {
+        "「だが　お前なら……\n　カメさまの申し子である　<pc>なら\n　きっと　乗り越えてくれると信じておるぞ！": "Mais toi... En tant qu'enfant elu de\nGalapagod, <pc>, je suis sur que tu\nsauras surmonter cela !"
     },
-    "9496": {
-        "「じゃが　娯楽島ラッカラン駅では\n　名物　コロシアムバーガーを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, a la Luckland Island Station, il\nfaut absolument acheter le celebre Coliseum\nBurger ! Desole, mais je vais devoir vous<br>laisser ici."
+    "10541": {
+        "「……お別れじゃ　<pc>。\n　わしのことは　気にせずに　ゆけ！\n　そして　必ずや　冥王ネルゲルを倒すのじゃ！　": "…C'est un adieu, <pc>. Ne t'inquiete pas\npour moi, pars ! Et surtout, vaincs absolument\nle Netherlord Nergel !"
     },
-    "9497": {
-        "「そして　その奥深くにある　\n　冥界への入り口が見える　断崖まで行ってくれ。\n　わしも　すぐに　後を追うからの。": "Et ensuite, rends-toi jusqu'a la falaise d'ou\nl'on apercoit l'entree du monde des tenebres,\nbien au fond. Je te rejoindrai rapidement."
+    "10542": {
+        "「はじめまして。\n　エテーネの村の　<pc>。": "Enchante. <pc> du village d'Ethene."
     },
-    "9498": {
-        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また会おう！": "Alors, pour aujourd'hui, c'est le moment de\nnous separer. Quand les voies du destin se\ncroiseront, nous nous reverrons !"
+    "10543": {
+        "「名乗るまでもないとは思いますが\n　私は　ツスクルの村の\n　<pc>といいます。": "Il me semble inutile de me presenter, mais je\nsuis <pc> du village de Tsusukul."
     },
-    "12121": {
-        "「ホッホッホッ……図星かね？\n　なんで　そんなことが　わかるのかと\n　聞きたいようじゃのう？": "Ho ho ho... Ai-je touche juste ? Tu te\ndemandes comment je le sais, n'est-ce pas ?"
+    "10544": {
+        "「そう。先刻まで　あなたの魂が\n　入り込んでいた　エルフの若者の姿……\n　その元の持ち主が　私です。": "Oui. Jusqu'a tout a l'heure, l'apparence du\njeune Elfe dans lequel ton ame s'est\nintroduite... C'est moi, le Lord originel de<br>ce corps."
     },
-    "32998": {
-        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : Kamiharmui City ～\nカミハルムイ ～. Recemment, de nombreux voyageurs en\nplein air ont ete victimes de la malveillance<br>des miasmes."
+    "10545": {
+        "「おそらく　同じ名前であるがゆえに\n　あなたの魂と私の姿が　引かれ合い\n　あなたは　私の姿に入り込んだのでしょうね。": "Peut-etre que c'est parce que nous partageons\nle meme nom que nos ames ont ete attirees\nl'une par l'autre, et que vous avez penetre<br>dans mon apparence."
     },
-    "32999": {
-        "「次は～　岳都ガタラ～　ガタラ～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : Mount Gatara...\nGatara... Recemment, il y a eu de nombreux\nincidents ou des voyageurs en exterieur ont<br>ete victimes des miasmes."
+    "10546": {
+        "「いえ。気に病む必要はありません。\n　あなたの魂が　入り込んだとき\n　私は　すでに死んでいたのですから。": "Non. Ne vous tourmentez pas. Lorsque votre ame\na penetre ici, j'etais deja morte."
     },
-    "33000": {
-        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret : Royaumes de Dolworm~ Royaumes\nde Dolworm~. Recemment, de nombreux voyageurs\nen plein air ont ete victimes de la<br>malfaisance miasmique."
+    "10547": {
+        "「あなたさえよければ　今後も　私の姿を\n　お使いください。": "Si cela vous convient, n'hesitez pas a\ncontinuer d'utiliser mon apparence."
     },
-    "33001": {
-        "「次は～　オルフェア～　オルフェア～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret~ Orphea~ Orphea~. Recemment, de\nnombreux voyageurs en plein air ont ete\nvictimes de l'influence nefaste des miasmes."
+    "10548": {
+        "「ええ。私の姿は　人間に戻った\n　あなたの中に　今も　存在しています。": "Oui. Mon apparence humaine existe encore en\nvous."
     },
-    "33002": {
-        "「次は～　メギストリスの都　メギストリスの都。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine etape : Megistris City, Megistris\nCity. Recemment, de nombreux voyageurs ont ete\nvictimes de miasmes lors de leurs aventures en<br>plein air."
+    "10549": {
+        "「今のあなたは　教会へ行くことで\n　人間の姿と　エルフの姿とを　\n　自由に変えることが　できるはずです。": "Actuellement, vous devriez etre capable de\nvous rendre a l'Eglise pour librement alterner\nentre votre apparence humaine et celle d'un<br>Elfe."
     },
-    "33003": {
-        "「次は～　ジュレット～　ジュレット～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine etape : Jurette, Jurette. Recemment,\nde nombreux voyageurs ont ete victimes de\nmiasmes lors de leurs deplacements en plein<br>air."
+    "10550": {
+        "「これはきっと　冥王ネルゲルを倒すという\n　使命を果たすため　神が　あなたに\n　授けてくださった　能力なのでしょう。": "C'est surement une capacite que Dieu vous a\naccordee pour accomplir la mission de vaincre\nle Netherlord Nergel."
     },
-    "33004": {
-        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : le Chateau de\nVerinard, le Chateau de Verinard. Recemment,\nde nombreux voyageurs ont ete victimes des<br>miasmes demoniaques lors de leurs deplacements\nen exterieur."
+    "10551": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
     },
-    "33005": {
-        "「次は～　グレン城～　グレン城～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret~ Glen Castle~ Glen Castle~.\nRecemment, de nombreuses personnes voyageant\nen exterieur ont ete victimes de l'influence<br>nefaste des miasmes."
+    "10552": {
+        "「……この声の主が　あなたを\n　ここに　運んでくれたのでしょうね。\n　おそらくは　伝説の天馬が……。": "…Cette voix du Seigneur vous a surement amene\nici. Probablement par le legendaire cheval\nceleste…"
     },
-    "33006": {
-        "「次は～　ガートラント城～　ガートラント城～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : Chateau de Gartlant,\nChateau de Gartlant. Recemment, de nombreux\nvoyageurs en plein air ont ete victimes de<br>miasmes magiques."
+    "10553": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
     },
-    "33007": {
-        "「次は～　港町レンドア～　レンドア～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret : Port Lendor, Lendor.\nRecemment, de nombreux voyageurs en exterieur\nont ete victimes d'accidents dus aux miasmes<br>malefiques."
+    "10554": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
     },
-    "33008": {
-        "「お出かけの際は　くれぐれもお気をつけて。\n　魔瘴には　よらず　さわらず　踏み込まずを\n　心がけ　安全な旅を　お楽しみください。": "Lorsque vous partez en voyage, veillez a etre\ntres prudent. Evitez de vous approcher, de\ntoucher ou de vous aventurer dans les miasmes<br>malefiques. Profitez d'un voyage en toute\nsecurite."
+    "10555": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
     },
-    "33009": {
-        "「じゃが　王都カミハルムイ駅では\n　名物　王都の桜もちを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, je dois absolument acheter le\ncelebre Royal Cherry Mochi a la station\nKamiharmui ! Je suis desole, mais je vais<br>devoir vous laisser ici."
+    "10556": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
     },
-    "33010": {
-        "「じゃが　岳都ガタラ駅では\n　名物　ガタラのブタまんを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la gare de Gatara, il faut absolument\nacheter les fameux Gatara Pig Buns ! Desole,\nmais je vais devoir vous laisser ici."
+    "10557": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
     },
-    "33011": {
-        "「じゃが　ドルワーム王国駅では\n　名物　銘菓　砂漠の月を買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "A la Station du Royaume de Dolworm, il faut\nabsolument acheter le celebre Moon Desert\nDessert ! Desole, mais je vais devoir vous<br>laisser ici."
+    "10558": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
     },
-    "33012": {
-        "「じゃが　オルフェア駅では\n　名物　アクロバットケーキを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la station Orphea, il faut absolument\nacheter le fameux Acrobatic Cake ! Desole,\nmais je vais devoir vous quitter ici."
+    "10559": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
     },
-    "33013": {
-        "「じゃが　メギストリスの都駅では\n　名物　メギス鶏のからあげを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, a la gare de Megistris City, il\nfaut absolument acheter le fameux Megis Fried\nChicken ! Desole, mais je vais devoir vous<br>laisser ici."
+    "10560": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
     },
-    "33014": {
-        "「じゃが　ジュレット駅では\n　名物　とこなつココナッツを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la Julet Station, il faut absolument\nacheter la fameuse Summer Coconut ! Desole,\nmais je vais devoir vous laisser ici."
+    "10561": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
     },
-    "33015": {
-        "「じゃが　ヴェリナード城駅では\n　名物　女王様サブレを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, au Verinard Castle Station, il faut\nabsolument acheter les sables de la reine !\nDesole, mais je vais devoir vous laisser ici."
+    "10562": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
     },
-    "33016": {
-        "「じゃが　グレン城下町駅では\n　名物　げんこつアメを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la gare de Glen Castle Town, je dois\nabsolument acheter le celebre bonbon Gencotsu\n! Desole, mais je vais devoir vous laisser<br>ici."
+    "10563": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
     },
-    "33017": {
-        "「じゃが　ガートラント城駅では\n　名物　オーガニックサラダを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais je dois absolument acheter la celebre\nOgre-nic Salad a la gare du Chateau de\nGartlant ! Desole, je vais devoir vous laisser<br>ici."
+    "10564": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　エルフの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme d'Elfe,\nles autres vous verront de la meme maniere."
     },
-    "33018": {
-        "「じゃが　港町レンドア駅では\n　名物　グランドタイタス丼を買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, a la station de Port Lendor, il\nfaut absolument acheter le celebre Grand Titus\nBowl ! Desole, je vais devoir vous laisser<br>ici."
+    "10565": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
     },
-    "33019": {
-        "「もう一度　言っとくぞい。\n　オーグリード大陸にそびえる\n　ランドン山脈に　向かうのじゃ。": "Je vais te le redire. Dirige-toi vers les\nMontagnes Landon qui se dressent sur le\ncontinent d'Augridhe."
+    "10566": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
     },
-    "33021": {
-        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret ~ Kamiharmui City ~ Kamiharmui\n~. Aujourd'hui, le conducteur etait Skippio ~\nEt moi, Marius, votre guide en tant que<br>Conductor."
+    "10567": {
+        "「……どうやら　あなたのなすべきことが\n　ハッキリしたようですね。": "......Il semble que ce que vous devez faire\nsoit devenu clair."
     },
-    "33022": {
-        "「次は～　岳都ガタラ～　ガタラ～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine etape~ Mount Gatara~ Gatara~.\nAujourd'hui, le conducteur est Skippio~ Et le\nguide de votre voyage est moi, Marius."
+    "10568": {
+        "「今後の戦い。できれば　人間の姿だけでなく\n　エルフの姿も　使ってやってください。": "Les prochaines batailles. Si possible,\nutilisez non seulement votre forme humaine,\nmais aussi votre forme d'Elfe."
     },
-    "33023": {
-        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret~ Royaumes de Dolworm~ Royaumes\nde Dolworm~. Aujourd'hui, le conducteur est\nSkippio~ Et moi, Marius, votre conducteur de<br>train, je vous ai guide."
+    "10569": {
+        "「そして　その姿を使って　\n　生前　私が　果たせなかった夢を……。": "Et ensuite, en utilisant cette apparence,\naccomplir le reve que je n'ai pas pu realiser\nde mon vivant..."
     },
-    "33024": {
-        "「次は～　オルフェア～　オルフェア～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination : Orphea, Orphea~.\nAujourd'hui, notre conducteur est Skippio~. Et\nmoi, Marius, je suis votre controleur."
+    "10570": {
+        "「……いえ。\n　今　言うべきことでは　ありませんでしたね。\n　どうか　忘れてください。": "Non. Ce n'etait pas quelque chose a dire\nmaintenant. S'il vous plait, oubliez ca."
     },
-    "33025": {
-        "「次は　メギストリスの都　メギストリスの都。\n　本日の運転は　スキッピオ運転手が　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine station : Megistris City, Megistris\nCity. Aujourd'hui, votre conducteur est\nSkippio, et moi, Marius, je suis votre<br>accompagnateur."
+    "10571": {
+        "「それでは　お気をつけて。\n　必ず　冥王ネルゲルを倒して\n　レンダーシアを　解放してください。": "Alors, prenez soin de vous. Assurez-vous de\nvaincre Netherlord Nergel et de liberer\nRendersia."
     },
-    "33026": {
-        "「次は～　ジュレット～　ジュレット～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine etape~ Juretto~ Juretto~.\nAujourd'hui, notre chauffeur est Skippio~ et\nmoi, Marius, votre conducteur, j'ai eu le<br>plaisir de vous guider."
+    "10572": {
+        "「はじめまして……でよいのかしら？\n　エテーネの村の　<pc>。": "Enchantee de faire votre connaissance...\nenfin, je suppose ? Je suis <pc> du\nvillage d'Ethene."
     },
-    "33027": {
-        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination : Chateau de Verinard,\nChateau de Verinard. Aujourd'hui, notre\nconducteur est le chauffeur Scipio. Et moi,<br>Marius, je suis votre guide, votre conducteur."
+    "10573": {
+        "「すでに　ご承知のこととは思いますが\n　私は　ツスクルの村の\n　<pc>と申します。": "Vous le savez probablement deja, mais je suis\n<pc> du village de Tsusukul."
     },
-    "33028": {
-        "「次は～　グレン城～　グレン城～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret : Glen Castle, Glen Castle.\nAujourd'hui, le conducteur est Skippio, et\nmoi, Marius, le chef de train, je vous ai<br>accompagne."
+    "10574": {
+        "「そう。先刻まで　あなたの魂が\n　入り込んでいた　エルフの娘の姿……\n　その元の持ち主が　私なのです。": "Oui. Jusqu'a tout a l'heure, l'apparence de la\njeune Elfe dans laquelle votre ame s'est\nimmiscee... J'en suis la proprietaire<br>d'origine, le Lord."
     },
-    "33029": {
-        "「次は～　ガートラント城～　ガートラント城～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret~ Chateau de Gartlant~ Chateau\nde Gartlant~. Aujourd'hui, votre chauffeur\netait Skippio~ Et moi, Marius, en tant que<br>conducteur, je vous ai guide."
+    "10575": {
+        "「それにしても　不思議なものですわね。\n　たまたま　同じ名前の方の魂が　\n　私の姿に　入ってしまうなんて……。": "En tout cas, c'est vraiment etrange. Qu'une\name portant le meme nom que moi se retrouve\npar hasard dans mon apparence..."
     },
-    "33030": {
-        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination~ Ile du divertissement\nRakkaran~ Rakkaran~. Aujourd'hui, le\nconducteur Skippio est aux commandes~ Et moi,<br>Marius, votre guide et conducteur~."
+    "10576": {
+        "「いえ。そのことは　気にしていませんわ。\n　あなたの魂が　入り込んだとき\n　私の命は　すでに　絶えてましたもの。": "Non, je ne m'en soucie pas. Quand ton ame est\nentree, ma vie etait deja terminee."
     },
-    "33031": {
-        "「次は～　港町レンドア～　レンドア～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination : Port Lendor, Lendor !\nAujourd'hui, notre conducteur est Skippio, et\nmoi, Marius, je serai votre guide en tant que<br>Conductor."
+    "10577": {
+        "「そういうわけですから　あなたさえよければ\n　今後も　私の姿をお使いください。": "Voila pourquoi, si cela vous convient,\nn'hesitez pas a continuer d'utiliser mon\napparence a l'avenir."
     },
-    "33032": {
-        "「……おお　もう着いたのか。\n　相変わらず　大地の箱舟は　速いのう。　": "Oh, nous sommes deja arrives. L'Arche de la\nTerre est vraiment rapide, comme toujours."
+    "10578": {
+        "「ええ。私の姿は　人間に戻った\n　あなたの中に　今も　存在しています。": "Oui. Mon apparence humaine existe encore en\nvous."
     },
-    "33033": {
-        "「いかん！　王都カミハルムイ駅では　名物の\n　王都の桜もちを　買うんじゃった。\n　こりゃ　急がねば！": "Il ne faut pas trainer ! A la station\nKamiharmui, j'ai oublie d'acheter le celebre\nRoyal Cherry Mochi. Je dois me depecher !"
+    "10579": {
+        "「これからは　教会へ行くことで\n　人間の姿と　エルフの姿とを　\n　自由に変えることが　できるはずですわ。": "A partir de maintenant, en allant a l'eglise,\nvous devriez etre en mesure de changer\nlibrement entre votre apparence humaine et<br>celle d'un elfe."
     },
-    "33034": {
-        "「いかん！　岳都ガタラ駅では　名物の\n　ガタラのブタまんを　買うんじゃった。\n　こりゃ　急がねば！": "C'est pas possible ! J'ai oublie d'acheter les\ncelebres Gatara Pig Buns a la station de\nGatara. Je dois me depecher !"
+    "10580": {
+        "「これはきっと　冥王ネルゲルを倒すという\n　使命を果たすため　神が　あなたに\n　授けてくださった能力なのでしょう。": "C'est surement une capacite que le dieu vous a\naccordee pour accomplir la mission de vaincre\nle Netherlord Nergel."
     },
-    "33035": {
-        "「いかん！　ドルワーム王国駅では　名物の\n　銘菓　砂漠の月を　買うんじゃった。\n　こりゃ　急がねば！": "Ca ne va pas du tout ! A la Station du Royaume\nde Dolworm, j'ai oublie d'acheter le celebre\nMoon Desert Dessert. Je dois me depecher !"
+    "10581": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
     },
-    "33036": {
-        "「いかん！　オルフェア駅では　名物の\n　アクロバットケーキを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! Je devais acheter le celebre\nAcrobatic Cake a la station Orphea. Je dois me\ndepecher !"
+    "10582": {
+        "「……この声の主が　あなたを\n　ここに　運んでくれたのでしょうね。\n　おそらくは　伝説の天馬かと……。": "Cette voix du Seigneur vous a probablement\namene ici. Je suppose que c'etait peut-etre le\nlegendaire cheval celeste..."
     },
-    "33037": {
-        "「いかん！　メギストリスの都駅では　名物の\n　メギス鶏のからあげを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! J'ai oublie d'acheter le celebre\nMegis Fried Chicken a la Megistris City\nStation. Il faut que je me depeche !"
+    "10583": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
     },
-    "33038": {
-        "「いかん！　ジュレット駅では　名物の\n　とこなつココナッツを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! J'ai oublie d'acheter le fameux\nSummer Coconut a la Julet Station. Je dois me\ndepecher !"
+    "10584": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
     },
-    "33039": {
-        "「いかん！　ヴェリナード城駅では　名物の\n　女王様サブレを　買うんじゃった。\n　こりゃ　急がねば！": "Ah mince ! J'ai oublie d'acheter les sables de\nla reine, une specialite de la station du\nchateau de Verinard. Je dois me depecher !"
+    "10585": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
     },
-    "33040": {
-        "「いかん！　グレン城下町駅では　名物の\n　げんこつアメを　買うんじゃった。\n　こりゃ　急がねば！": "Zut ! A la gare de Glen Castle Town, j'avais\nprevu d'acheter les fameux bonbons en forme de\npoing. Je dois me depecher !"
+    "10586": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
     },
-    "33041": {
-        "「いかん！　ガートラント城駅では　名物の\n　オーガニックサラダを　買うんじゃった。\n　こりゃ　急がねば！": "Zut ! J'ai oublie d'acheter la celebre salade\nOgre-nic a la gare du chateau de Gartlant. Je\ndois me depecher !"
+    "10587": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
     },
-    "33042": {
-        "「いかん！　港町レンドア駅では　名物の\n　グランドタイタス丼を　買うんじゃった。\n　こりゃ　急がねば！": "Il faut que je me depeche ! J'avais prevu\nd'acheter le celebre Grand Titus Bowl a la\nstation de Port Lendor. Je dois me presser !"
+    "10588": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
     },
-    "33043": {
-        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また会おう！": "Alors, pour aujourd'hui, c'est le moment de\nnous separer. Quand les voies du destin se\ncroiseront, nous nous reverrons !"
+    "10589": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
     },
-    "33044": {
-        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Kamiharmui City ～ カミハルムイ～\nLes passagers qui descendent a cet arret sont\npries de verifier qu'ils n'ont rien oublie<br>avant de descendre."
+    "10590": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
     },
-    "33045": {
-        "「次は～　岳都ガタラ～　ガタラ～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station～ Mont Gatara～ Gatara～.\nVeuillez vous assurer de ne rien oublier avant\nde descendre du vehicule."
+    "10591": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
     },
-    "33046": {
-        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Royaumes de Dolworm,\nRoyaumes de Dolworm. Passagers souhaitant\ndescendre, veuillez verifier que vous n'avez<br>rien oublie avant de quitter le vehicule, s'il\nvous plait."
+    "10592": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
     },
-    "33047": {
-        "「次は～　オルフェア～　オルフェア～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine destination : Orphea ! Orphea ! Pour\nles passagers qui descendent, veuillez\nverifier que vous n'oubliez rien avant de<br>quitter le vehicule."
+    "10593": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
     },
-    "33048": {
-        "「次は　メギストリスの都　メギストリスの都。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Megistris City, Megistris\nCity. Passagers souhaitant descendre, veuillez\nverifier que vous n'avez rien oublie avant de<br>quitter le train."
+    "10594": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　エルフの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme d'Elfe,\nles autres vous verront de la meme maniere."
     },
-    "33049": {
-        "「次は～　ジュレット～　ジュレット～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochain arret~ Juretto~ Juretto~. Pour les\npassagers qui descendent, veuillez verifier\nque vous n'avez rien oublie avant de descendre<br>du vehicule."
+    "10595": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
     },
-    "33050": {
-        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine etape~ Chateau de Verinard~ Chateau\nde Verinard~. Pour les passagers qui\ndescendent, veuillez vous assurer de ne rien<br>oublier et verifiez une fois de plus avant de\ndescendre, s'il vous plait."
+    "10596": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
     },
-    "33051": {
-        "「次は～　グレン城～　グレン城～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Chateau de Glen, Chateau\nde Glen. Les passagers qui descendent,\nveuillez verifier que vous n'avez rien oublie<br>avant de descendre du vehicule."
+    "10597": {
+        "「……どうやら　あなたのなすべきことが\n　ハッキリしたようですわね。": "…Il semble que ce que vous devez accomplir\nsoit devenu clair."
     },
-    "33052": {
-        "「次は～　ガートラント城～　ガートラント城～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine etape : Chateau de Gartlant. Chateau\nde Gartlant. Pour les passagers qui\ndescendent, veuillez verifier que vous<br>n'oubliez rien avant de quitter le vehicule."
+    "10598": {
+        "「できれば　人間の姿だけでなく　私の姿も\n　これからの戦いに　使ってあげてください。": "S'il est possible, j'aimerais que vous\nutilisiez non seulement ma forme humaine, mais\naussi ma veritable apparence dans les combats<br>a venir."
     },
-    "33053": {
-        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine destination ~ L'ile de\ndivertissement Lucky Karan ~ Lucky Karan ~.\nPour les passagers qui descendent, veuillez<br>verifier que vous n'avez rien oublie avant de\nquitter le vehicule."
+    "10599": {
+        "「そして　その姿を使って　\n　私が生前　果たせなかった夢を……。": "Et ensuite, en utilisant cette forme, je\nrealiserai le reve que je n'ai pas pu\naccomplir de mon vivant..."
     },
-    "33054": {
-        "「次は～　港町レンドア～　レンドア～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochain arret : Port Lendor, Lendor. Pour les\npassagers qui descendent, veuillez verifier\nune derniere fois que vous n'avez rien oublie<br>avant de quitter le train."
+    "10600": {
+        "「……いいえ。\n　今　言うべきことでは　ありませんわね。\n　どうか　忘れてください。": "......Non. Ce n'est pas quelque chose a dire\nmaintenant. S'il vous plait, oubliez cela."
     },
-    "33055": {
-        "「……おっと　しかし　アズラン駅では　\n　名物のカムシカせんべえを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a Azlan Station, j'ai achete les\nfameux crackers Azlantelope. Pour l'instant,\nc'est la priorite !"
+    "10601": {
+        "「それでは　くれぐれも　お気をつけください。\n　必ずや　冥王ネルゲルを倒して\n　レンダーシアを　解放してくださいまし。": "Alors, s'il vous plait, prenez bien soin de\nvous. Assurez-vous de vaincre Netherlord\nNergel et liberez Lendersia."
     },
-    "33056": {
-        "「……おっと　しかし　王都カミハルムイ駅では　\n　名物の王都の桜もちを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "Oh, mais a la Kamiharmui Station, j'ai achete\nle celebre Royal Cherry Mochi. Pour l'instant,\nc'est ca qui est prioritaire !"
+    "10602": {
+        "「おいーっす！\n　よーやく　話せたなぁ\n　エテーネの村の　<pc>。": "Salut ! On peut enfin discuter, hein ?\n<pc> du village d'Ethene."
     },
-    "33057": {
-        "「……おっと　しかし　岳都ガタラ駅では　\n　名物のガタラのブタまんを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais a la station de Gatara, j'ai achete\nles fameux Gatara Pig Buns. Pour l'instant,\nc'est ca qui est prioritaire !"
+    "10603": {
+        "「もう　知ってると思うけどよぅ\n　オイラは　アグラニの　<pc>ってんだ。": "Je suppose que tu le sais deja, mais je suis\n<pc> d'Agrani."
     },
-    "33058": {
-        "「……おっと　しかし　ドルワーム王国駅では　\n　名物の銘菓　砂漠の月を　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a la Station du Royaume de\nDolworm, j'ai achete la fameuse Moon Desert\nDessert. Pour l'instant, c'est ca qui est<br>prioritaire !"
+    "10604": {
+        "「おうさ。さっきまで　あんたの魂が\n　入ってた　ドワーフの姿……\n　あれが　オイラのものだってわけだ。": "Oui. La forme de Nain dans laquelle ton ame\netait jusqu'a recemment... C'est bien la\nmienne."
     },
-    "33059": {
-        "「……おっと　しかし　オルフェア駅では　\n　名物のアクロバットケーキを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a Orphea Station, j'ai achete le\ncelebre Acrobatic Cake. Pour l'instant, c'est\nca qui est prioritaire !"
+    "10605": {
+        "「名前が同じモンの魂が　オイラの姿に\n　入るなんて　奇妙なもんだなぁ。\n　なんか　運命的なもんを感じちまうよ。": "C'est etrange qu'une ame portant le meme nom\nque moi prenne mon apparence. Je ressens une\nsorte de destin dans tout ca."
     },
-    "33060": {
-        "「……おっと　しかし　ジュレット駅では　\n　名物のとこなつココナッツを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais a la station Julet, j'ai achete la\nfameuse Summer Coconut. Pour l'instant, c'est\nca qui est prioritaire !"
+    "10606": {
+        "「ああ　気にするこたぁねーぞ。\n　オイラ　あのとき　死んじまってたんだから\n　どーってことねぇさ。": "Ah, ne t'en fais pas. A ce moment-la, j'etais\ndeja mort, donc ce n'est pas un probleme."
     },
-    "33061": {
-        "「……おっと　しかし　ヴェリナード城駅では　\n　名物の女王様サブレを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a la Verinard Castle Station, j'ai\nachete les fameux sables de la reine. Pour\nl'instant, c'est ca qui est prioritaire !"
+    "10607": {
+        "「それに　オイラのほうが\n　あきらかに　いい男だもんなぁ。": "Et puis, je suis clairement un bien meilleur\nparti."
     },
-    "33062": {
-        "「……おっと　しかし　グレン城下町駅では　\n　名物のげんこつアメを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais j'ai achete les celebres bonbons au\npoing a la gare de Glen Castle Town. Pour\nl'instant, c'est la priorite !"
+    "10608": {
+        "「あんた　これからも　オイラの姿を\n　使ってったほうが　人生明るいと思うぜ。": "Je pense que ta vie sera plus lumineuse si tu\ncontinues a utiliser mon apparence a partir de\nmaintenant."
     },
-    "33063": {
-        "「……おっと　しかし　ガートラント城駅では　\n　名物のオーガニックサラダを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "Oh, mais d'abord, a la Gartlant Castle\nStation, je dois acheter leur fameuse Ogre-nic\nSalad. Pour l'instant, c'est ma priorite !"
+    "10609": {
+        "「おう。オイラの姿だけど\n　人間に戻った　あんたの中に\n　今も　ちゃーんと　存在してるんだ。": "Oh. Mon apparence, tu sais, meme si tu es\nredevenu humain, elle existe toujours bien en\ntoi."
     },
-    "33064": {
-        "「……おっと　しかし　娯楽島ラッカラン駅では　\n　名物のコロシアムバーガーを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais j'ai achete le celebre Coliseum\nBurger a la station de Luckland Island. Pour\nl'instant, ca passe en priorite !"
+    "10610": {
+        "「ウソだと思うなら　教会へ行ってみなよ。　\n　そうすりゃ　人間の姿と　オイラの姿\n　好きなときに　好きなほうを　使えるはずさ。": "Si tu penses que c'est un mensonge, va voir a\nl'eglise. La-bas, tu pourras choisir entre ton\napparence humaine et la mienne et les utiliser<br>quand tu le souhaites."
     },
-    "33065": {
-        "「……おっと　しかし　港町レンドア駅では　\n　名物のグランドタイタス丼を　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais a la Port Lendor Station, j'ai\nachete le celebre Grand Titus Bowl. Pour le\nmoment, c'est ca la priorite !"
+    "10611": {
+        "「こりゃあきっと　冥王ネルゲルを倒すって\n　使命のため　あんたに　宿った能力に\n　ちげぇねえよ。": "C'est surement un pouvoir qui t'a ete confie\npour accomplir la mission de vaincre\nNetherlord Nergel."
     },
-    "33066": {
-        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また　会おう！\n　": "Alors, pour aujourd'hui, c'est un au revoir.\nQuand les voies du destin se croiseront, nous\nnous reverrons !"
+    "10612": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
     },
-    "33067": {
-        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine destination : Kamiharmui City ～\nカミハルムイ～. L'ecart entre le train et le quai est\nlarge. Faites attention a vos pas en<br>descendant."
+    "10613": {
+        "「……この声の主が　あんたを\n　ここまで　運んでくれたんじゃないのか？\n　たぶん　伝説の天馬……。": "......Cette voix de Lord ne t'a-t-elle pas\namene jusqu'ici ? Peut-etre le legendaire\ncheval celeste..."
     },
-    "33068": {
-        "「次は～　岳都ガタラ～　ガタラ～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine etape～ Mont Gatara～ Gatara～. L'ecart\nentre le train et le quai est important.\nFaites attention a vos pieds en descendant."
+    "10614": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
     },
-    "33069": {
-        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochain arret : Royaumes de Dolworm~ Royaumes\nde Dolworm~. L'ecart entre le train et le quai\nest large. Veuillez faire attention a vos pas<br>en descendant."
+    "10615": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
     },
-    "33070": {
-        "「次は～　オルフェア～　オルフェア～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station : Orphea, Orphea. L'espace\nentre le train et le quai est assez large.\nVeuillez faire attention a vos pieds en<br>descendant."
+    "10616": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
     },
-    "33071": {
-        "「次は　メギストリスの都　メギストリスの都。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine etape : Megistris City, Megistris\nCity. L'espace entre le train et le quai est\nlarge. Veuillez faire attention a vos pieds en<br>descendant."
+    "10617": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
     },
-    "33072": {
-        "「次は～　ジュレット～　ジュレット～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station~ Juretto~ Juretto~. L'ecart\nentre le train et le quai est large. Veuillez\nfaire attention a vos pieds en descendant."
+    "10618": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
     },
-    "33073": {
-        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochain arret : Chateau de Verinard, Chateau\nde Verinard. L'espace entre le train et le\nquai est assez large. Veuillez faire attention<br>a vos pas en descendant."
+    "10619": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
     },
-    "33074": {
-        "「次は～　グレン城～　グレン城～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochain arret : Glen Castle, Glen Castle.\nL'ecart entre le train et le quai est large.\nFaites attention a vos pas en descendant, s'il<br>vous plait."
+    "10620": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
     },
-    "33075": {
-        "「次は～　ガートラント城～　ガートラント城～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station : Chateau de Gartlant~\nChateau de Gartlant~. L'espace entre le\nvehicule et le quai est large. Veuillez faire<br>attention a vos pieds en descendant."
+    "10621": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
     },
-    "33076": {
-        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "La prochaine station est... l'ile de\ndivertissement La Karan... La Karan... L'ecart\nentre le train et le quai est large. Veuillez<br>faire attention a vos pas en descendant."
+    "10622": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
     },
-    "33077": {
-        "「次は～　港町レンドア～　レンドア～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station~ Port Lendor~ Lendor~.\nL'espace entre le train et le quai est large.\nVeuillez faire attention a vos pieds en<br>descendant."
+    "10623": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
     },
-    "33078": {
-        "「……おお　もう着いたのか。\n　この大地の箱舟という乗り物は　じつによい。\n　まったく　便利な世の中になったもんじゃ。": "Oh, nous sommes deja arrives. Cet engin,\nappele Ark of the Earth, est vraiment\nformidable. Le monde est devenu bien pratique."
+    "10624": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
     },
-    "33079": {
-        "「い　いかん！　王都カミハルムイ駅では　\n　名物の王都の桜もちを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Oh non ! J'ai oublie d'acheter le Royal Cherry\nMochi, une specialite de la station Kamiharmui\n! Je ne peux pas me permettre de trainer ici."
+    "10625": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　ドワーフの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme de\nNain, les autres vous verront toujours de la<br>meme maniere."
     },
-    "33080": {
-        "「い　いかん！　岳都ガタラ駅では　\n　名物のガタラのブタまんを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il faut que je me depeche ! J'ai oublie\nd'acheter les celebres Gatara Pig Buns a la\nstation Gatara ! Je ne peux pas trainer ici."
+    "10626": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
     },
-    "33081": {
-        "「い　いかん！　ドルワーム王国駅では　\n　名物の銘菓　砂漠の月を　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah, zut ! A la Station du Royaume de Dolworm,\nj'ai oublie d'acheter le celebre Moon Desert\nDessert ! Je ne peux pas me permettre de<br>trainer."
+    "10627": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
     },
-    "33082": {
-        "「い　いかん！　オルフェア駅では　\n　名物のアクロバットケーキを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah non ! A la station Orphea, j'avais prevu\nd'acheter le celebre Acrobatic Cake ! Je ne\npeux pas rester ici a trainer."
+    "10628": {
+        "「……どうも　あんたのやるべきことが\n　ハッキリしたようだなぁ。": "…On dirait bien que ce que tu dois faire est\ndevenu clair maintenant."
     },
-    "33083": {
-        "「い　いかん！　メギストリスの都駅では　\n　名物のメギス鶏のからあげを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il faut que je fasse vite ! A la station de\nMegistris City, j'avais prevu d'acheter le\nfameux Megis Fried Chicken ! Je ne peux pas<br>trainer."
+    "10629": {
+        "「できたら　人間の姿だけじゃなく\n　オイラの姿も　使ってやってくれ。": "Si possible, utilise aussi ma forme, pas\nseulement celle humaine."
     },
-    "33084": {
-        "「い　いかん！　ジュレット駅では　\n　名物のとこなつココナッツを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il faut que je fasse vite ! J'ai oublie\nd'acheter le fameux Summer Coconut a la Julet\nStation ! Je ne peux pas me permettre de<br>trainer ici."
+    "10630": {
+        "「で　モノは相談なんだけどよ。\n　その姿で　オイラが果たせなかった夢を……。": "Eh bien, j'ai une proposition a te faire. Avec\ncette apparence, pourrais-tu realiser le reve\nque je n'ai pas pu accomplir..."
     },
-    "33085": {
-        "「い　いかん！　ヴェリナード城駅では　\n　名物の女王様サブレを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Oh non ! J'ai oublie d'acheter les celebres\nsables de la reine a la station du chateau de\nVerinard ! Je ne peux pas trainer ici."
+    "10631": {
+        "「……いんや。\n　今　言うべきことじゃあなかったな。\n　悪い　悪い　忘れてくれ！": "...Non. Ce n'etait pas le moment de le dire.\nDesole, desole, oublie ca !"
     },
-    "33086": {
-        "「い　いかん！　グレン城下町駅では　\n　名物のげんこつアメを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "C'est pas possible ! J'ai oublie d'acheter les\ncelebres bonbons poing a la station de Glen\nCastle Town ! Je ne peux pas trainer ici."
+    "10632": {
+        "「それじゃ　気ぃつけて行ってこいよ！\n　きっと　ネルゲルの野郎をブッ飛ばして\n　レンダーシアを　解放してくれっ！": "Alors, prends soin de toi en chemin ! Va\nbotter les fesses de ce Nergel et libere\nRendaashia pour nous !"
     },
-    "33087": {
-        "「い　いかん！　ガートラント城駅では　\n　名物のオーガニックサラダを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah, non ! A la Gare du Chateau de Gartlant,\nj'avais prevu d'acheter la celebre salade\nOgre-nic ! Je ne peux pas perdre de temps ici."
+    "10633": {
+        "「はじめまして……だわね？\n　エテーネの村の　<pc>。": "Enchantee de faire ta connaissance... n'est-ce\npas ? Je suis <pc> du village d'Ethene."
     },
-    "33088": {
-        "「い　いかん！　港町レンドア駅では　\n　名物のグランドタイタス丼を　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il… il ne fallait pas ! A la station Port\nLendor, j'ai achete le celebre Grand Titus\nBowl ! Pas le temps de trainer."
+    "10634": {
+        "「もう　知ってるとは思うけど\n　あたしは　アグラニの　<pc>さぁ。": "Je pense que tu le sais deja, mais je suis\n<pc> d'Agrani, tu sais."
     },
-    "33089": {
-        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また　会おう！": "Alors, pour aujourd'hui, c'est un au revoir.\nLorsque les chemins du destin se croiseront,\nnous nous reverrons !"
+    "10635": {
+        "「そうそう。さっきまで　あんたの魂が\n　入ってた　ドワーフの娘の姿……\n　あれが　あたしなんだわ。": "Oui, oui. La fille de Nain dans laquelle ton\name etait jusqu'a il y a un instant... c'est\nmoi."
+    },
+    "10636": {
+        "「神さまも　なんでまた　同じ名前のモンの魂を\n　あたしの姿に　入れたりしたんだろね？\n　ややこしくって　仕方ないよ。": "Pourquoi les dieux ont-ils mis l'ame d'une\ncreature portant le meme nom dans mon\napparence ? C'est vraiment complique."
+    },
+    "10637": {
+        "「あー　気にしなくてもいいってばさ！\n　あたし　あのとき　もう死んじゃってたから\n　別に　痛くも　なんともなかったし。": "Ah, ne t'inquiete pas pour ca ! A ce\nmoment-la, j'etais deja morte, donc ca ne m'a\nfait ni mal ni rien du tout."
+    },
+    "10638": {
+        "「それに　今の　あんたの姿より\n　あたしの姿のほうが　めんこいだろ？": "Et puis, je suis bien plus mignonne que toi en\nce moment, n'est-ce pas ?"
+    },
+    "10639": {
+        "「あんたさえよければ　これからも\n　あたしの姿　使ってもらってかまわないよ。\n　やー　あんたは　運がいいわ。": "Si cela te convient, tu peux continuer a\nutiliser mon apparence a partir de maintenant.\nAh, tu as de la chance."
+    },
+    "10640": {
+        "「そうそう。あたしの姿だけど　\n　人間の姿に戻った　あんたの中に\n　今も　ちゃーんと　あるみたいなんだわ。": "Oui, oui. Quant a mon apparence, il semble\nqu'elle soit toujours presente en toi, meme\nmaintenant que tu as retrouve ta forme<br>humaine."
+    },
+    "10641": {
+        "「ウソだと思うんなら　教会へ行ってみな。\n　そうすりゃ　人間の姿と　あたしの姿\n　好きなときに　好きなほうを　使えるからさ。": "Si tu ne me crois pas, va a l'eglise. Ainsi,\ntu pourras choisir entre ton apparence humaine\net la mienne, et les utiliser a ta guise."
+    },
+    "10642": {
+        "「こりゃあきっと　冥王ネルゲルを倒すって\n　使命のため　あんたに　宿った能力に\n　ちげぇねえだよ。": "Ca doit certainement etre une capacite qui t'a\nete conferee pour accomplir la mission de\nvaincre le Netherlord Nergel."
+    },
+    "10643": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10644": {
+        "「……この声の主が　あんたを\n　ここまで　運んでくれたんじゃないかね？\n　たぶん　これって　伝説の天馬……。": "Cette voix du Lord t'a probablement amene\njusqu'ici, n'est-ce pas ? Je pense que c'est\nle legendaire cheval aile..."
+    },
+    "10645": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
+    },
+    "10646": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
+    },
+    "10647": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10648": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
+    },
+    "10649": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10650": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10651": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
+    },
+    "10652": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10653": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10654": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
+    },
+    "10655": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10656": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　ドワーフの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme de\nNain, les autres vous verront toujours de la<br>meme maniere."
+    },
+    "10657": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10658": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10659": {
+        "「……どーやら　あんたのやるべきこと\n　ハッキリしたみたいだわね。": "Il semblerait que ce que tu dois faire soit\ndevenu clair."
+    },
+    "10660": {
+        "「できたら　人間の姿だけじゃなく\n　あたしの姿も　役立ててほしいもんだわ。": "Si possible, j'aimerais que tu puisses aussi\nutiliser mon apparence, pas seulement celle\ndes humains."
+    },
+    "10661": {
+        "「んで　モノは相談なんだけどさ。\n　その姿で　あたしの果たせなかった夢を……。": "En fait, j'aimerais te demander quelque chose.\nDans cette apparence, pourrais-tu realiser le\nreve que je n'ai pas pu accomplir... ?"
+    },
+    "10662": {
+        "「……いんや。\n　今　言うべきことじゃなかったね。\n　悪い　悪い。忘れてほしいんだわ。": "…Non. Ce n'etait pas le moment d'en parler.\nDesole, desole. Oublie ca, s'il te plait."
+    },
+    "10663": {
+        "「そんじゃ　気をつけてなー！\n　きっと　ネルゲルの野郎を倒して\n　レンダーシアを　解放しておくれよっ！": "Alors, fais attention a toi ! Assure-toi de\nvaincre ce salaud de Nelgel et de liberer\nLendersia !"
+    },
+    "10664": {
+        "「よう！　ようやく　会えたな。\n　エテーネの村の　<pc>！": "Yo ! On se rencontre enfin. <pc> du\nvillage d'Ethene !"
+    },
+    "10665": {
+        "「とっくに　知ってると思うが\n　オレは　ランガーオ村の　<pc>だ。": "Je suppose que tu le sais deja, mais je suis\n<pc> du village de Langao."
+    },
+    "10666": {
+        "「ああ　そうだ。さっきまで　あんたの魂が\n　入ってた　オーガの姿……\n　オレは　あの肉体の　真の持ち主さ。": "Ah, c'est vrai. La forme de l'Ogre dans\nlaquelle ton ame etait jusqu'a present... Je\nsuis le seigneur T. qui possedait ce corps."
+    },
+    "10667": {
+        "「まったく　不思議なもんだよな。\n　生き返しってのは　そういうルールなのか？\n　同じ名前のヤツの魂が　入り込むなんてよ。": "C'est vraiment etrange, n'est-ce pas ? C'est\nca, les regles de la resurrection ? Qu'une ame\nd'une personne avec le meme nom puisse<br>entrer..."
+    },
+    "10668": {
+        "「いや　別に気にしなくていいんだぜ。\n　むしろ　オレの肉体を　きたえてくれた\n　あんたには　感謝してるっつーか……。": "Non, ne t'inquiete pas pour ca. En fait, je\ndevrais plutot te remercier, car tu as\ncontribue a renforcer mon corps..."
+    },
+    "10669": {
+        "「まあ　そういうわけだからよ。\n　あんたさえよけりゃ　今後も\n　オレの姿を　使ってくれていいんだぜ。": "Eh bien, c'est comme ca. Si ca te convient, tu\npeux continuer a utiliser mon apparence a\nl'avenir."
+    },
+    "10670": {
+        "「……ああ　オレの姿だけどよ。\n　人間の姿に戻った　あんたの中に\n　今も　ちゃーんと　存在してるんだよ。": "Ah, en ce qui concerne mon apparence. Meme\nmaintenant que tu es redevenu humain, je\ncontinue d'exister parfaitement en toi."
+    },
+    "10671": {
+        "「ウソだと思うなら　教会へ行ってみな。\n　そうすりゃ　人間の姿と　オレの姿\n　好きなときに　好きなほうを　使えるはずさ。": "Si tu penses que c'est un mensonge, va donc a\nl'eglise. Ainsi, tu pourras choisir entre une\napparence humaine et la mienne, et utiliser<br>celle que tu preferes a tout moment."
+    },
+    "10672": {
+        "「こりゃあきっと　冥王ネルゲルを倒すって\n　使命のため　あんたに　宿った能力に\n　ちがいないだろうよ。": "Il est certain que cette capacite s'est\nmanifestee en toi pour accomplir la mission de\nvaincre le Netherlord Nergel."
+    },
+    "10673": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10674": {
+        "「……この声の主が　あんたを\n　ここまで　運んだんじゃないのか？\n　オレが思うに　たぶん　伝説の天馬が……。": "Cette voix du Seigneur ne t'a-t-elle pas amene\njusqu'ici ? Je pense que c'est probablement le\nlegendaire cheval celeste qui l'a fait..."
+    },
+    "10675": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
+    },
+    "10676": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。　": "Le pouvoir des tenebres detenu par Netherlord\nNergel domine desormais le pouvoir de la\nlumiere dans ce monde."
+    },
+    "10677": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10678": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
+    },
+    "10679": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10680": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10681": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。　　　": "Et ainsi, pour preserver un mince espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant des yeux de Nergel."
+    },
+    "10682": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10683": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10684": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
+    },
+    "10685": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10686": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　オーガの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme d'Ogre,\nles autres vous verront de la meme maniere."
+    },
+    "10687": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10688": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10689": {
+        "「……どうやら　あんたが　次にやるべきこと\n　ハッキリしたようだな。": "Il semble que ce que tu dois faire ensuite\nsoit devenu clair."
+    },
+    "10690": {
+        "「ネルゲルとの戦い……できれば\n　オレの姿も　使ってくれよな。": "Le combat contre Nelgel... si possible,\nutilise aussi mon apparence."
+    },
+    "10691": {
+        "「……あとな　頼みたいことがあるんだ。\n　あんたなら　オレの姿を使って\n　オレが　果たせなかった夢を　かなえて……。": "...Ensuite, j'ai quelque chose a te demander.\nAvec toi, en utilisant mon apparence, realise\nle reve que je n'ai pas pu accomplir..."
+    },
+    "10692": {
+        "「……いや　すまねぇ。\n　今は　ネルゲルを倒すのが　先決だもんな。\n　オレの言ったことは　忘れてくれ。": "...... Non, desole. Pour l'instant, la\npriorite est de vaincre Nelgel. Oublie ce que\nj'ai dit."
+    },
+    "10693": {
+        "「それじゃ　気をつけてくれよ！\n　必ず　ネルゲルの野郎をブッ飛ばして\n　レンダーシアを　解放してくれっ！": "Alors, prends soin de toi ! Assure-toi de\nbotter les fesses de cet enfoire de Nelgel et\nlibere Rendasia !"
+    },
+    "10694": {
+        "「やっと　こうして　話せるときが来たんだね。\n　うれしいよ。\n　エテーネの村の　<pc>。": "Enfin, le moment est venu ou nous pouvons\nainsi discuter. Je suis heureux. <pc> du\nVillage Ethene."
+    },
+    "10695": {
+        "「アタシは　ランガーオ村の　<pc>。\n　……って　とーぜん　知ってるわね。": "Je suis <pc> du village de Langao. …Bien\nsur, tu me connais deja."
+    },
+    "10696": {
+        "「そう。さっきまで　あんたの魂が入ってた\n　オーガ娘の姿。\n　アタシは　あれの元の持ち主ってわけ。": "Oui. C'etait l'apparence de la jeune Ogre dans\nlaquelle ton ame etait jusqu'a recemment. Je\nsuis celle qui est la veritable proprietaire<br>de ce corps."
+    },
+    "10697": {
+        "「しかし　変な話だよね。\n　たまたま　アタシと　名前が同じ人間が\n　アタシの姿を　使うことになるなんてさ。": "Cependant, c'est une drole d'histoire,\nn'est-ce pas ? C'est par hasard qu'une\npersonne avec le meme nom que moi va finir par<br>utiliser mon apparence."
+    },
+    "10698": {
+        "「……ん？　別に　気にすることないって。\n　むしろ　貧弱だった　アタシの身体を\n　きたえてくれて　感謝したいくらいだよ。": "…Hm ? Pas la peine de t'inquieter. Au\ncontraire, je devrais te remercier d'avoir\nendurci mon corps qui etait si faible."
+    },
+    "10699": {
+        "「そういうワケだからさ。\n　あんたさえよけりゃ　今後も　アタシの姿を\n　自由に　使ってくれていいんだよ。": "Voila comment ca se passe. Si ca te convient,\na partir de maintenant, tu peux utiliser\nlibrement mon apparence."
+    },
+    "10700": {
+        "「気づいてなかったかい？　アタシの姿は\n　人間の姿に戻った　あんたの中に\n　今も　ちゃんと　存在してるんだ。": "Tu ne l'avais pas remarque ? Mon apparence est\nredevenue humaine, et elle existe toujours\nparfaitement en toi."
+    },
+    "10701": {
+        "「ウソだと思うなら　教会へ行ってごらんよ。\n　そうすりゃ　人間の姿と　アタシの姿\n　好きなときに　好きなほうを　使えるはずさ。": "Si tu penses que c'est un mensonge, va donc a\nl'eglise. La-bas, tu pourras choisir\nd'utiliser la forme humaine ou la mienne, a ta<br>guise."
+    },
+    "10702": {
+        "「これは　きっと　冥王ネルゲルを\n　倒すって　使命のために\n　あんたに宿った能力に　ちがいないよ。": "C'est surement une capacite qui t'a ete\nconferee pour accomplir la mission de vaincre\nle Netherlord Nergel."
+    },
+    "10703": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10704": {
+        "「……この声の主が　あんたを\n　ここまで　運んでくれたんじゃない？\n　たぶん　これ　伝説の天馬……。": "Cette voix du Lord ne t'aurait-elle pas amene\njusqu'ici ? Peut-etre est-ce le legendaire\ncheval celeste..."
+    },
+    "10705": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
+    },
+    "10706": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
+    },
+    "10707": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10708": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
+    },
+    "10709": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10710": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10711": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
+    },
+    "10712": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10713": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10714": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
+    },
+    "10715": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10716": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　オーガの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme d'Ogre,\nles autres vous verront de la meme maniere."
+    },
+    "10717": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10718": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10719": {
+        "「……どうやら　次に　あんたのやるべきことが\n　ハッキリしたみたいだね。": "On dirait que ce que tu dois faire ensuite est\ndevenu clair, n'est-ce pas ?"
+    },
+    "10720": {
+        "「ネルゲルとの戦い……アタシの姿も\n　使ってもらえると　うれしいね。": "Le combat contre Nelgel... Je serais ravie si\ntu pouvais aussi utiliser mon apparence."
+    },
+    "10721": {
+        "「……あとさ　頼みたいことがあるんだ。\n　あんたなら　アタシの姿を使って\n　アタシが　果たせなかった夢を……。": "...En fait, j'ai quelque chose a te demander.\nAvec toi, en utilisant mon apparence, tu\npourrais realiser le reve que je n'ai pas pu<br>accomplir..."
+    },
+    "10722": {
+        "「……今は　それどころじゃないか。\n　何より　ネルゲルを倒すのが　先決。\n　今　言いかけたことは　忘れとくれ。": "......Ce n'est peut-etre pas le moment pour\nca. Il est primordial de vaincre Nergel avant\ntout. Oublie ce que j'etais sur le point de<br>dire."
+    },
+    "10723": {
+        "「それじゃ　元気でな。\n　必ず　ネルゲルの野郎を倒して\n　レンダーシアを　解放してくれよ！": "Alors, prends soin de toi. Assure-toi de\nvaincre ce salaud de Nelgel et libere\nLendersia !"
+    },
+    "10724": {
+        "「はじめまして……でいいのかな？\n　とにかく　話せて　うれしいよ\n　エテーネの村の　<pc>。": "Enchante de faire ta connaissance... enfin, je\nsuppose ? En tout cas, je suis content de\npouvoir te parler. Je suis <pc> du<br>village d'Ethene."
+    },
+    "10725": {
+        "「僕は　レーンの村の　<pc>。\n　……って　そんなこと　とっくに\n　わかってるよな。": "Je suis <pc> du village de Lene. ...\nEnfin, tu le savais deja, n'est-ce pas ?"
+    },
+    "10726": {
+        "「そう。さっきまで　君の魂が\n　入ってた　ウェディの若者……\n　あの姿の　元の持ち主ってことさ。": "Oui. Le jeune Weddie dans lequel ton ame etait\njusqu'a il y a peu... C'est le proprietaire\noriginel de cette apparence, Lord."
+    },
+    "10727": {
+        "「まったく　奇妙な話だよなぁ。\n　同じ名前だからって　別人の魂が\n　僕の姿に入って　動かすなんてさ。": "C'est vraiment une histoire etrange. Juste\nparce qu'on a le meme nom, une ame differente\nprend possession de mon corps et le controle."
+    },
+    "10728": {
+        "「あっ！　別に　いいんだよ。\n　あのとき　僕は　もう死んでたんだから\n　何も　気に病むことはないさ。": "Ah ! Ce n'est rien. A ce moment-la, j'etais\ndeja mort, alors ne t'inquiete pas."
+    },
+    "10729": {
+        "「うん。君さえよければ　これからも\n　僕の姿を　使ってくれていいんだよ。": "Oui. Tant que cela te convient, tu peux\ncontinuer a utiliser mon apparence a l'avenir."
+    },
+    "10730": {
+        "「じつはね　僕の姿なんだけど\n　人間の姿に戻った　君の中に\n　今も　ちゃんと　存在してるみたいなんだ。": "En fait, ma veritable apparence semble\ntoujours exister en toi, meme maintenant que\ntu as retrouve ta forme humaine."
+    },
+    "10731": {
+        "「試しに　教会へ行ってみるといいよ。\n　今の君は　人間の身体と　ウェディの身体を\n　自由に選んで　使うことができるはずさ。": "Tu devrais essayer d'aller a l'eglise.\nActuellement, tu devrais pouvoir choisir\nlibrement entre utiliser un corps humain ou<br>celui d'un Weddie."
+    },
+    "10732": {
+        "「これは　きっと　冥王ネルゲルを\n　倒すという使命のため\n　君に宿った能力に　ちがいないよ。": "Je suis certain que cette capacite s'est\neveillee en toi pour accomplir la mission de\nvaincre Netherlord Nergel."
+    },
+    "10733": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10734": {
+        "「……たぶん　この声の主が\n　君を　ここまで　運んだんだろうね。\n　もしかしたら　伝説の天馬が……。": "Peut-etre que ce Lord de la voix t'a amene\njusqu'ici. Peut-etre que c'etait le legendaire\ncheval celeste..."
+    },
+    "10735": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
+    },
+    "10736": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
+    },
+    "10737": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10738": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
+    },
+    "10739": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10740": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10741": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
+    },
+    "10742": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10743": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10744": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
+    },
+    "10745": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10746": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　ウェディの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace a la magie que je viens de lancer, que\nvous soyez sous forme humaine ou sous forme\nWeddie, les autres vous verront toujours de la<br>meme maniere."
+    },
+    "10747": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10748": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10749": {
+        "「……どうやら　君のやるべきことが\n　ハッキリしたようだね。": "…Il semble que ce que tu dois faire soit\ndevenu clair."
+    },
+    "10750": {
+        "「できれば　僕のウェディの姿も\n　使ってくれると　うれしいな。": "Si possible, j'aimerais bien que tu utilises\naussi mon apparence de Weddie."
+    },
+    "10751": {
+        "「そして　いずれは　僕の姿を使って\n　生前の僕が　果たせなかった　あの夢を……。": "Et un jour, avec mon apparence, je realiserai\nenfin le reve que je n'ai pas pu accomplir de\nmon vivant..."
+    },
+    "10752": {
+        "「……いや　いいんだ。\n　少なくとも　今　言うべきことじゃない。\n　失言だったよ。": "…Non, ce n'est rien. Ce n'est pas quelque\nchose que je devrais dire maintenant, de toute\nfacon. C'etait une parole malheureuse."
+    },
+    "10753": {
+        "「それじゃあ　気をつけて！\n　きっと　ネルゲルを討ちほろぼして\n　レンダーシアを　解放してくれよっ！": "D'accord, fais attention a toi ! Assure-toi de\nvaincre Nelgel et de liberer Lendarsia !"
+    },
+    "10754": {
+        "「ハーイ！　ごきげんいかが？\n　エテーネの村の　<pc>さん。": "Salut ! Comment ca va ? <pc>-san du\nvillage d'Ethene."
+    },
+    "10755": {
+        "「私は　レーンの村の　<pc>。\n　……なーんて　自己紹介するまでもないよね。": "Je suis <pc> du village de Lane.\n...Enfin, pas besoin de me presenter, n'est-ce\npas ?"
+    },
+    "10756": {
+        "「そうそう。さっきまで　あなたの魂が\n　入ってた　ウェディの娘の姿。\n　あれの　本来の持ち主が　私ってわけ！": "Oui, oui. Juste avant, l'apparence de la jeune\nWeddie dans laquelle ton ame etait. C'est moi\nqui suis la veritable proprietaire de ce corps<br>!"
+    },
+    "10757": {
+        "「やっぱり　あれかしらね？\n　同じ名前してるから　あなたの魂が\n　私の姿に　入り込んじゃったのかしら？": "Est-ce que c'est a cause de ca ? Parce que\nnous avons le meme nom, ton ame aurait-elle pu\ns'immiscer dans mon apparence ?"
+    },
+    "10758": {
+        "「あ　でも　気にすることはないわよ。\n　あのときには　私　もう死んでたんだから\n　どーしようもなかったし。": "Ah, mais ne t'en fais pas. A ce moment-la,\nj'etais deja morte, donc il n'y avait rien a\nfaire."
+    },
+    "10759": {
+        "「あなたさえよければ　これからも\n　私の姿を　使ってくれていいんだよ。\n　私のルックスって　超イケてるしね<heart>": "Si cela te convient, tu pourras continuer a\nutiliser mon apparence a l'avenir. Apres tout,\nj'ai vraiment un super look ! <heart>"
+    },
+    "10760": {
+        "「……あ　気づいてない？\n　私の姿だけど　人間の姿に戻った\n　あなたの中に今も　存在してるの。": "Oh, tu n'avais pas remarque ? J'ai repris\nforme humaine. Je continue d'exister en toi."
+    },
+    "10761": {
+        "「そうね。教会へ　行ってみるといいわ。\n　そうすれば　人間の姿と　私の姿\n　好きなほうを　使えるようになるはずよ。": "C'est ca. Tu devrais essayer d'aller a\nl'eglise. Comme ca, tu pourras choisir entre\nton apparence humaine et la mienne."
+    },
+    "10762": {
+        "「これって　きっと　冥王ネルゲルを\n　倒す使命を背負った　あなたに与えられた\n　特別な能力に　ちがいないわ！": "Je suis sure que c'est un pouvoir special qui\nt'a ete accorde pour accomplir la mission de\nvaincre le Netherlord Nergel !"
+    },
+    "10763": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10764": {
+        "「……この声の主が　あなたを\n　ここまで　運んでくれたんじゃないの？\n　ひょっとして　伝説の天馬……。": "…N'est-ce pas la voix de Lord qui t'a amene\njusqu'ici ? Serait-ce... le legendaire cheval\nceleste... ?"
+    },
+    "10765": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
+    },
+    "10766": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。　": "Le pouvoir des tenebres detenu par Netherlord\nNergel domine desormais le pouvoir de la\nlumiere dans ce monde."
+    },
+    "10767": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10768": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
+    },
+    "10769": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10770": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10771": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
+    },
+    "10772": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10773": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10774": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
+    },
+    "10775": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10776": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　ウェディの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace a la magie que je viens de lancer, que\nvous soyez sous forme humaine ou sous forme\nWeddie, les autres vous verront toujours de la<br>meme maniere."
+    },
+    "10777": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10778": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10779": {
+        "「……どうやら　あなたのやるべきこと\n　ハッキリしたみたいね。": "......On dirait que ce que tu dois faire est\ndevenu clair."
+    },
+    "10780": {
+        "「できたら　人間の姿だけじゃなく\n　私の姿も　役立ててほしいかなーなんて。": "Si possible, j'aimerais que tu puisses\nutiliser non seulement mon apparence humaine,\nmais aussi ma veritable apparence."
+    },
+    "10781": {
+        "「それで　いずれは　その姿で\n　私が　生きてる間に果たせなかった夢を……。": "Et ainsi, un jour, sous cette forme, je\nrealiserai le reve que je n'ai pas pu\naccomplir de mon vivant..."
+    },
+    "10782": {
+        "「……ううん。なんでもない。\n　今　言うべきことじゃないから\n　気にしないで！": "…Non, ce n'est rien. Ce n'est pas le moment\nd'en parler, alors ne t'inquiete pas !"
+    },
+    "10783": {
+        "「それじゃ　気をつけてね！\n　きっと　ネルゲルのネクラ野郎を倒して\n　レンダーシアを　解放してよっ！": "Alors, fais attention a toi ! Assure-toi de\nvaincre ce sombre Nergel et de liberer\nRendarcia !"
+    },
+    "10784": {
+        "「やあ　やあ！　やっと　会えたね。\n　エテーネの村の　<pc>。\n　こうして話せるなんて　うれしーよ。": "Salut, salut ! Enfin, nous nous rencontrons.\nJe suis <pc> du village d'Ethene. Je\nsuis tellement content de pouvoir te parler<br>ainsi."
+    },
+    "10785": {
+        "「ボクは　プクレット村の　<pc>。\n　……なーんて　知ってるよね？\n　ボクって　ちょっとした　有名人だからさ。": "Je suis <pc> du village de Pukulet.\n...Enfin, tu le sais deja, non ? Je suis un\npeu une celebrite, apres tout."
+    },
+    "10786": {
+        "「そんなボクと　同名に生まれちゃうなんて\n　キミにとっては　不幸だったかもね。\n　だって　絶対くらべられちゃうもの。": "Naitre avec le meme nom que moi, ca a du etre\nune malchance pour toi. Parce qu'on nous\ncomparera toujours."
+    },
+    "10787": {
+        "「でも　そのおかげで　このボクの姿に\n　なれたんだから　トータルで考えれば\n　まあ　悪くなかったんじゃないの？": "Mais grace a cela, j'ai pu prendre cette\napparence. Si on y reflechit avec le Tronc de\nBaril, eh bien, ce n'etait pas si mal,<br>n'est-ce pas ?"
+    },
+    "10788": {
+        "「いやいや。気にすることはないんだよ。\n　他人に姿を　乗っ取られるなんて体験\n　なかなか　できるもんじゃないしね。": "Non, non. Ne t'inquiete pas. Ce n'est pas tous\nles jours qu'on a l'occasion de vivre une\nexperience ou quelqu'un d'autre prend<br>possession de notre apparence, n'est-ce pas ?"
+    },
+    "10789": {
+        "「これも　笑いの道を極めるため。\n　芸のこやしになるなら　望むところってもんさ！\n　……もう　死んでるけど。": "Tout cela est pour parfaire l'art du rire. Si\ncela peut nourrir mon talent, alors c'est ce\nque je desire ! ... Meme si je suis deja mort."
+    },
+    "10790": {
+        "「……プフッ！\n　キミも　今　面白いと思ったでしょ？": "...Pouf ! Tu as trouve ca amusant, n'est-ce\npas ?"
+    },
+    "10791": {
+        "「まあ　ボクは　心が広いからね。\n　今後も　ボクの姿を　使うこと\n　許してあげるよ。": "Eh bien, j'ai un grand coeur, tu sais. Je te\npermets de continuer a utiliser mon apparence."
+    },
+    "10792": {
+        "「……あり？　気づいてない？\n　ボクの姿だけど　人間に戻った\n　キミの中に　今も　ちゃんとあるんだよ。": "... Quoi ? Tu n'as pas remarque ? Mon\napparence, tu sais, bien que je sois redevenu\nhumain, elle est toujours presente en toi, tu<br>sais."
+    },
+    "10793": {
+        "「ウソだと思うなら　教会へ行ってみなよ。\n　たぶん　ボクの姿と　キミの姿\n　好きなほうを　使えるようになってるからさ。": "Si tu ne me crois pas, va faire un tour a\nl'eglise. Il y a de fortes chances que tu\npuisses choisir entre mon apparence et la<br>tienne."
+    },
+    "10794": {
+        "「これって　冥王ネルゲルを倒すっていう\n　キミの身体をはったギャグに　笑いの神さまが\n　チカラを貸してくれたからだろうね！": "C'est surement parce que le Dieu de l'humour\nt'a prete sa force pour ton gag audacieux de\nvaincre Netherlord Nergel avec ton propre<br>corps !"
+    },
+    "10795": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10796": {
+        "「……おおっと？　ナレーションの人！？\n　ちょっとー　トーン暗いよぉ。\n　もっと　明るく　盛り上げてくれなきゃ！": "Oh !? La voix off !? He, le ton est trop\nsombre. Il faut rendre ca plus joyeux et\nenthousiasmant !"
+    },
+    "10797": {
+        "<center>　今の　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "En utilisant toute ma force actuelle, j'ai\nreussi a vous faire echapper a l'interieur de\nla barriere de ce Temple de la Lumiere."
+    },
+    "10798": {
+        "「うおっ！\n　スルーされた？　このボクがっ！？": "Whoa ! Je viens d'etre ignore ? Moi ? Vraiment\n?"
+    },
+    "10799": {
+        "「さ　さすが　伝説の天馬だよ。\n　スルー技術が　ハンパねぇ……。": "Wow, c'est vraiment un cheval aile legendaire.\nSa capacite a esquiver est incroyable..."
+    },
+    "10800": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。": "La puissance des tenebres que possede\nNetherlord Nergel surpasse desormais celle de\nla lumiere dans ce monde."
+    },
+    "10801": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10802": {
+        "<center>　そして　それを防ぐことができるのは\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et celui qui peut empecher cela, c'est\n<pc>... Vous seul, qui avez retrouve\nl'apparence du peuple d'Ethene."
+    },
+    "10803": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10804": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10805": {
+        "<center>　そして　私は　わずかな希望をつなぐべく\n　あなたの魂を　生き返しの儀によって　逃がし\n　ネルゲルの目から　かくしたのです。": "Et alors, pour ne pas perdre l'espoir, j'ai\nlibere votre ame grace au rituel de\nresurrection, la cachant ainsi des yeux de<br>Nelgel."
+    },
+    "10806": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10807": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10808": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを\n　あるべき時代へと　導いてくれるでしょう。": "La fameuse arche, qui m'est proche, te guidera\nvers l'epoque qui t'est destinee, grace a ton\npouvoir de voyager a travers le temps."
+    },
+    "10809": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10810": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　プクリポの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme de\nPukulipo, les autres vous verront de la meme<br>maniere."
+    },
+    "10811": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10812": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10813": {
+        "「ンゴ～　ンゴゴゴ……。": "N'go~ N'gogogo..."
+    },
+    "10814": {
+        "「……ファ～～。\n　話が長すぎて　思わず　寝ちゃったよ。": "…Pfiouu. La conversation etait tellement\nlongue que je me suis endormi sans m'en rendre\ncompte."
+    },
+    "10815": {
+        "「……んで　キミの　そのカオを見るに\n　やるべきことが　わかったみたいだね。": "…Alors, en voyant ton visage, on dirait que tu\nsais ce qu'il te reste a faire."
+    },
+    "10816": {
+        "「まあ　目的があるのは　いいことだよ。\n　ボクも　生きてたころには\n　そりゃあ　ビッグな夢が　あったもんさ。": "Eh bien, avoir un objectif, c'est une bonne\nchose. Moi aussi, quand j'etais en vie,\nj'avais vraiment de grands reves."
+    },
+    "10817": {
+        "「……おおっ　そーだよ！\n　変身できるんだから　ボクの夢は\n　キミにかなえてもらえば　いいんじゃ……": "...Oh, c'est vrai ! Puisque tu peux te\ntransformer, tu pourrais realiser mon reve,\nn'est-ce pas... ?"
+    },
+    "10818": {
+        "「……あ～　いやいや。\n　いくら　ボクの姿に変われるからって\n　こればっかりは　どうにもならないや。": "…Ah, non, non. Meme si tu peux prendre mon\napparence, pour ca, il n'y a rien a faire."
+    },
+    "10819": {
+        "「お笑いスピリッツとは　心に宿るもの！\n　ひとつの笑いを　取るためだけに\n　すべてを投げ打つことができる　黄金の精神！": "L'esprit comique est quelque chose qui reside\ndans le coeur ! Un esprit dore qui peut tout\nsacrifier rien que pour obtenir un seul rire !"
+    },
+    "10820": {
+        "「もし　キミが　その精神の持ち主なら\n　迷わず　頼むんだけどな～。\n　……確かに　素質はあるみたいだけど。": "Si tu es le genre de personne a avoir cet\nesprit noble, alors je n'hesiterais pas a te\ndemander de l'aide. ...Il semble en effet que<br>tu en aies le potentiel."
+    },
+    "10821": {
+        "「……まあ　いいや。\n　とりあえず　キミは　キミの夢を追ってくれよ！": "...... Enfin, peu importe. Pour l'instant,\npoursuis simplement ton reve !"
+    },
+    "10822": {
+        "「じゃあね　エテーネ村の　<pc>。　\n　キミが　ネルゲル倒して　レンダーシアを\n　解放してくれること　そこそこ期待してるよ！": "Alors, <pc> du village d'Ethene. Je\ncompte sur toi pour vaincre Nelgel et liberer\nLendashia !"
+    },
+    "10823": {
+        "「きゃっほぅ！　やっと　会えたね。\n　エテーネの村の　<pc>。\n　こうして話せるなんて　うれしーよ。": "Yahoo ! Enfin, nous nous rencontrons.\n<pc> du village d'Ethene. Je suis\ntellement heureux de pouvoir te parler comme<br>ca."
+    },
+    "10824": {
+        "「アタシは　プクレット村の　<pc>。\n　……なーんて　知ってるよね？\n　アタシってば　ちょっとした　有名人だし<heart>": "Je suis <pc> du village de Pukulet.\n...Tu le sais deja, n'est-ce pas ? Je suis une\npetite celebrite, apres tout<heart>"
+    },
+    "10825": {
+        "「そんなアタシと　同名に生まれちゃうなんて\n　キミにとっては　不幸だったかもね。\n　だって　絶対くらべられちゃうもの。": "Naitre avec le meme nom que moi, pour toi, ca\na peut-etre ete une malchance. Parce qu'on te\ncomparera toujours a moi."
+    },
+    "10826": {
+        "「でも　そのおかげで　アタシの姿に\n　なれたんだから　キミにとっては\n　悪くなかったんじゃない？　　　": "Mais grace a ca, tu as pu prendre mon\napparence, donc ce n'etait pas si mal pour\ntoi, n'est-ce pas ?"
+    },
+    "10827": {
+        "「あーでも　気にしなくていいよ。　\n　他人に姿を　乗っ取られるなんて体験\n　しようったって　できないもんね<heart>": "Ah, mais ne t'inquiete pas. Se faire posseder\npar l'apparence de quelqu'un d'autre, c'est\nune experience qu'on ne peut pas vivre tous<br>les jours <heart>"
+    },
+    "10828": {
+        "「これも　笑いの道を極めるため。\n　芸のこやしになるなら　望むところよっ！\n　……もう　死んでるけど。": "Tout cela est pour maitriser l'art du rire. Si\ncela peut enrichir mon talent, j'accepte\nvolontiers ! ... Meme si je suis deja mort."
+    },
+    "10829": {
+        "「……プフフッ。\n　ねえ　キミも　今の面白かったでしょ？": "…Pufufu. He, tu as trouve ca amusant, n'est-ce\npas ?"
+    },
+    "10830": {
+        "「まあ　アタシって　心が広いからね。\n　今後も　アタシの姿を　使うこと\n　許してあげるよ。": "Eh bien, je suis quelqu'un de tres genereux.\nJe te permets d'utiliser mon apparence a\nl'avenir."
+    },
+    "10831": {
+        "「……あれ？　気づいてないの？\n　アタシの姿　人間に戻った\n　キミの中に　今も　ちゃんとあるんだよ。": "...Oh ? Tu n'as pas remarque ? Mon apparence\nest redevenue humaine. Elle est toujours bien\npresente en toi."
+    },
+    "10832": {
+        "「ウソだと思うなら　教会へ行ってみなよ。\n　たぶん　アタシの姿と　キミの姿\n　好きなほうを　使えるようになってるから。": "Si tu ne me crois pas, va a l'eglise. Tu\npourras probablement choisir entre mon\napparence et la tienne."
+    },
+    "10833": {
+        "「これって　冥王ネルゲルを倒すっていう\n　キミの身体をはったギャグに　笑いの神さまが\n　チカラを貸してくれたからだろうね<heart>": "C'est surement parce que le dieu du rire a\nprete sa force a ta blague audacieuse, visant\na vaincre le Netherlord Nergel<heart>"
+    },
+    "10834": {
+        "<center>　聞こえますか？\n　エテーネの民　<pc>よ。": "Entendez-vous ? Peuple d'Ethene, <pc>."
+    },
+    "10835": {
+        "「……あれっ？　ナレーションの人！？\n　ちょっとぉ　トーン暗いわよぉ。\n　もっと　明るく　盛り上げてよー！": "... Hein ? Le narrateur !? Tu sais, ton ton\nest un peu sombre. Allez, fais ca de maniere\nplus joyeuse et entrainante !"
+    },
+    "10836": {
+        "<center>　おとろえた　私のチカラでは\n　あなたを　この光の神殿の結界の中に\n　逃がすのが　精一杯でした。": "Avec mes forces declinantes, tout ce que j'ai\npu faire, c'est vous faire fuir a l'interieur\nde la barriere de ce Temple de Lumiere."
+    },
+    "10837": {
+        "「あふんっ！\n　スルーされたの？　このアタシがっ！？": "Ah ! On m'a ignoree ? Moi, la grande moi !?"
+    },
+    "10838": {
+        "「さ　さすが　伝説の天馬ね。\n　スルー技術が　ハンパないわ……。": "Ah, comme on peut s'y attendre du legendaire\ncheval celeste. Sa technique d'esquive est\nincroyable..."
+    },
+    "10839": {
+        "<center>　冥王ネルゲルの持つ　闇のチカラは　今や\n　この世界の光のチカラを　圧倒しています。　": "Le pouvoir des tenebres detenu par Netherlord\nNergel domine desormais le pouvoir de la\nlumiere dans ce monde."
+    },
+    "10840": {
+        "<center>　このままでは　レンダーシアはおろか\n　世界のすべてが　いずれ　闇の封印に\n　堕とされてしまうことでしょう。": "Si cela continue ainsi, non seulement\nRendashia, mais le monde entier finira par\netre englouti par le sceau des tenebres."
+    },
+    "10841": {
+        "<center>　そして　それを防ぐことができるのは　\n　エテーネの民の姿を　取り戻した\n　<pc>……あなただけなのです。": "Et vous seul, <pc>, qui avez retrouve\nvotre apparence de peuple d'Ethene, pouvez\nempecher cela."
+    },
+    "10842": {
+        "<center>　あなたは　いにしえのエテーネの民の血を\n　もっとも強く　受け継ぐ者。\n　そのチカラは　歴史の因果すら変えうるのです。": "Vous portez en vous le sang des anciens\npeuples d'Ethene plus fortement que quiconque.\nCette puissance est capable de changer meme le<br>cours de l'histoire."
+    },
+    "10843": {
+        "<center>　ネルゲルも　それを恐れるが故に\n　エテーネの村と　エテーネの民を\n　滅ぼさんとしたのでしょう。": "C'est probablement pour cette raison que\nNergel, craignant cela, a voulu detruire le\nvillage d'Ethene et ses habitants."
+    },
+    "10844": {
+        "<center>　今こそ　希望の芽の息吹くとき。": "C'est le moment ou les bourgeons de l'espoir\ncommencent a eclore."
+    },
+    "10845": {
+        "<center>　あなた方が　大地の箱舟と呼ぶ　乗り物。\n　あれこそは　かつて　天の箱舟と呼ばれた\n　神秘なる存在の　生まれ変わりし姿。": "Le vehicule que vous appelez Ark of the Earth,\nc'est en realite la reincarnation d'une entite\nmystique autrefois connue sous le nom de<br>Starflight Express."
+    },
+    "10846": {
+        "<center>　私に近しい存在である　かの箱舟が\n　時渡りのチカラを持つ　あなたを……": "L'arche, une entite qui m'est proche, vous a\nchoisi, vous qui possedez le pouvoir de\ntraverser le temps..."
+    },
+    "10847": {
+        "<center>　あるべき時代へと　導いてくれるでしょう。": "Cela nous guidera vers l'epoque qui nous est\ndestinee."
+    },
+    "10848": {
+        "<center>　そして　もうひとつ……。": "Et puis, encore une chose..."
+    },
+    "10849": {
+        "<center>　今　かけた魔法によって　あなたは\n　人間の姿　プクリポの姿　どちらであっても\n　他者から　同じに見えるようになりました。": "Grace au sort que je viens de lancer, que vous\nsoyez sous forme humaine ou sous forme de\nPukulipo, les autres vous verront de la meme<br>maniere."
+    },
+    "10850": {
+        "<center>　これで　あなたのことを知る人々が\n　あなたが　姿を変えることによって\n　混乱することは　なくなるでしょう。": "Ainsi, les personnes qui vous connaissent ne\nseront plus confuses par vos transformations."
+    },
+    "10851": {
+        "<center>　過去への旅の準備は　ととのいました。\n　さあ　そろそろ　お戻りなさい。\n　エテーネの民　<pc>よ。": "Les preparatifs pour le voyage dans le passe\nsont complets. Allez, il est temps de rentrer.\nPeuple d'Ethene, <pc>."
+    },
+    "10852": {
+        "「すぴ～　すぴ～……。": "<sommeil leger> <sommeil leger>......"
+    },
+    "10853": {
+        "「……ファ～～。\n　話が長すぎて　思わず　寝ちゃったよ。": "…Pfiouu. La conversation etait tellement\nlongue que je me suis endormi sans m'en rendre\ncompte."
+    },
+    "10854": {
+        "「……んで　そのカオからすると　キミ\n　次にやるべきことが　わかったみたいだね。": "...D'apres ton expression, on dirait que tu as\ncompris ce que tu dois faire ensuite."
+    },
+    "10855": {
+        "「うん。目的があるのは　いいことよね。\n　アタシも　生きてたころには\n　そりゃあ　ビッグな夢が　あったもの。": "Oui. Avoir un but, c'est une bonne chose. Moi\naussi, de mon vivant, j'avais de grands reves."
+    },
+    "10856": {
+        "「……ああっ　そーよ！\n　変身できるんだから　アタシの夢は\n　キミにかなえてもらえば　いいんじゃ……": "Ah, mais oui ! Puisque tu peux te transformer,\npourquoi ne pas realiser mon reve pour moi..."
+    },
+    "10857": {
+        "「……あ～　でもな～。\n　いくら　アタシの姿を使えるからって\n　こればっかりは　どうにもならないかぁ。": "...Ah~ mais bon. Meme si tu peux utiliser mon\napparence, il n'y a rien a faire pour ca."
+    },
+    "10858": {
+        "「お笑いスピリッツとは　心に宿るもの！\n　ひとつの笑いを　取るためだけに\n　すべてを投げ打つことができる　黄金の精神！": "L'esprit comique est quelque chose qui reside\ndans le coeur ! Un esprit dore qui peut tout\nsacrifier rien que pour obtenir un seul rire !"
+    },
+    "10859": {
+        "「もし　キミが　その精神の持ち主なら\n　迷わず　頼むんだけどな～。\n　……う～ん　素質はあるみたいだけど。": "Si tu es vraiment dote de cet esprit de Lord,\nje n'hesiterais pas a te le demander... Hmm...\nTu sembles avoir le potentiel, cependant."
+    },
+    "10860": {
+        "「……まあ　いいや。\n　とりあえず　キミは　キミの夢を追えばいいよ！": "… Eh bien, peu importe. Pour l'instant, tu\ndevrais simplement poursuivre ton reve !"
+    },
+    "10861": {
+        "「じゃあね。エテーネ村の　<pc>。\n　キミが　ネルゲル倒して　レンダーシアを\n　解放してくれるの　ほんのり期待してるよ！": "Alors, au revoir. <pc> du village\nd'Ethene. J'ai un peu d'espoir que tu battras\nNelgel et libereras Lendashia !"
+    },
+    "10862": {
+        "「おおっ　おぬしは……？\n　<pc>！　<pc>なのか！？": "Oh ! Serais-tu... ? <pc> ! Est-ce\nvraiment toi, <pc> !?"
+    },
+    "10863": {
+        "「そうか　その姿が……！": "Je vois... C'est donc cette apparence...!"
+    },
+    "10864": {
+        "「うむうむ。\n　いかにも　おぬしらしい　キャッチーで\n　グッドルッキンな面構えじゃな。": "Hum hum. Ca te ressemble bien, un visage\naccrocheur et beau gosse."
+    },
+    "10865": {
+        "「よし。それでは　むこうで　何があったか\n　くわしく　話してくれるかな？": "Tres bien. Alors, pourrais-tu me raconter en\ndetail ce qui s'est passe la-bas ?"
+    },
+    "10866": {
+        "「……そうか。アバのやつに会ってきたか。\n　死してなお　おぬしを見守っておるとは……。\n　まったく　見上げた女じゃのう。": "Je vois. Tu as rencontre Abba. Meme dans la\nmort, elle veille encore sur toi... C'est\nvraiment une femme admirable."
+    },
+    "10867": {
+        "「そして　自分の真の姿を取り戻したのち\n　光の神殿で　不思議な声から\n　助言をもらったというのか……。": "Et ensuite, apres avoir retrouve ta veritable\napparence, tu as recu des conseils d'une voix\nmysterieuse au Temple de la Lumiere... ?"
+    },
+    "10868": {
+        "「ならば　まちがいない。その声の導きどおり\n　人間の姿で　大地の箱舟……列車に乗れば\n　破邪舟が失われた時代に　行けるはずじゃ。": "Alors, il n'y a aucun doute. En suivant la\nvoix qui te guide, si tu prends l'apparence\nhumaine et montes a bord de l'Arche de la<br>Terre... ce train, tu devrais pouvoir te\nrendre a l'epoque ou le Vaisseau Sacre a ete\nperdu."
+    },
+    "10869": {
+        "「じつはな　おぬしをエテーネの村に送ったあと\n　わしも　この家にある書物を読み\n　破邪舟について　調べてみたんじゃ。": "En fait, apres t'avoir envoye au village\nd'Ethene, j'ai moi aussi lu les livres de\ncette maison et me suis renseigne sur le<br>Sacred Ship."
+    },
+    "10870": {
+        "「こんな大事なモノを　読まずに\n　ほこりを　かぶらせておくとは\n　フルッカには　あきれて　ものも言えんわい。": "Laisser un objet aussi precieux prendre la\npoussiere sans le lire, c'est vraiment\ndesolant de la part de Fluka. Je suis sans<br>voix."
+    },
+    "10871": {
+        "「この書には　グレンの歴史が書かれていてな。\n　破邪舟という記述が　消えたのは\n　今から　５００年くらい前からなんじゃ。": "Ce livre relate l'histoire de Glen. La mention\ndu Sacred Ship a disparu il y a environ 500\nans."
+    },
+    "10872": {
+        "「でな。気になるのは　このページじゃ。": "Et maintenant, ce qui m'intrigue, c'est cette\npage."
+    },
+    "10873": {
+        "「ちょうど　それと同じ時代\n　空前の大災害があったと　記されておる。": "A la meme epoque, il est ecrit qu'il y a eu\nune catastrophe sans precedent."
+    },
+    "10874": {
+        "「大災害は　その時代に生きる者が\n　チカラをあわせ　なんとかしたようじゃが\n　破邪舟は　なぜか　姿を消してしまったんじゃ。": "Les personnes vivant a cette epoque ont uni\nleurs forces pour faire face a la grande\ncatastrophe d'une maniere ou d'une autre.<br>Cependant, le Sacred Ship a mysterieusement\ndisparu."
+    },
+    "10875": {
+        "「よいか？　おぬしのなすべきことは\n　破邪舟の術が　途絶えた原因をつきとめ\n　現代にまで　継承させることじゃ。": "Ecoute bien. Ta tache est de decouvrir la\ncause de l'interruption de la technique du\nSacred Ship et de la transmettre a la<br>generation suivante."
+    },
+    "10876": {
+        "「未知なる　過去への旅……。\n　長い道のりになるかもしれんが\n　自分の使命を　決して忘れるでないぞ。": "Un voyage vers un passe inconnu... Cela\npourrait etre un long periple, mais n'oublie\njamais ta mission."
+    },
+    "10877": {
+        "「冥王の心臓に　たどりつくためには\n　破邪舟のチカラを　借りるほかないのじゃ。\n　頼んだぞ　<pc>！": "Pour atteindre le Coeur d'Hades, il n'y a pas\nd'autre choix que d'emprunter la puissance du\nVaisseau Sacre. Je compte sur toi, <pc><br>!"
+    },
+    "10878": {
+        "「おや？　どうした　<pc>。\n　おぬしの　なすべきことを\n　忘れてしまったのか？": "Oh ? Que se passe-t-il, <pc> ? Aurais-tu\noublie ce que tu dois accomplir ?"
+    },
+    "10879": {
+        "「おぬしのなすべきことは　過去へ行き\n　破邪舟の術が　途絶えた原因をつきとめ\n　現代にまで継承させることじゃ。": "Ce que tu dois faire, c'est voyager dans le\npasse, decouvrir la cause de l'interruption de\nla technique du Sacred Ship, et la transmettre<br>jusqu'a l'ere de P."
+    },
+    "10880": {
+        "「人間の姿で　大地の箱舟……列車に乗れば\n　破邪舟の失われた時代に\n　行くことができるであろう。": "En prenant la forme humaine, il est possible\nde monter a bord de l'Arche de la Terre... le\ntrain, et ainsi se rendre a l'epoque perdue du<br>Navire Sacre."
+    },
+    "10881": {
+        "「冥王の心臓に　たどりつくためには\n　破邪舟のチカラを　借りるほかないのじゃ。\n　しっかり　頼んだぞ！": "Pour atteindre le Coeur d'Hades, il n'y a\nd'autre choix que d'emprunter la puissance du\nVaisseau Sacre. Je compte sur toi !"
+    },
+    "32273": {
+        "「ようやく　お前に\n　このことを　話せる日が来た……。": "Enfin, le jour est venu ou je peux te parler\nde cela..."
+    },
+    "32274": {
+        "「その者は　時渡りの術で \n　遠き未来より　過去に飛ばされ\n　滅びの運命を逃れえた　エテーネの民……。": "Ceux-la, grace a l'art du voyage temporel, ont\nete projetes du lointain futur vers le passe,\nechappant ainsi au destin funeste de la<br>destruction... le peuple d'Ethene..."
+    },
+    "32275": {
+        "「お前たちの成長を見守りながら　わしは\n　かつて　錬金術師が語った　滅びの運命が\n　我らに近づいていると　悟ったのじゃ。": "En vous observant grandir, j'ai compris que le\ndestin de destruction, dont les alchimistes\nd'autrefois parlaient, se rapproche de nous."
     }
 }
