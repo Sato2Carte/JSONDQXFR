@@ -1,56 +1,77 @@
 {
-    "15771": {
-        "「た　た　た　大変ですっ！\n　チグリ大臣！": "Ta-ta-ta... c'est une catastrophe ! Ministre\nChigri !"
+    "15789": {
+        "「そこにおるのは　<pc>か？": "Est-ce que c'est toi, <pc> ?"
     },
-    "15772": {
-        "「どうしたのじゃ？　そんなにあわてて……。\n　落ち着いて　報告せよ。": "Que se passe-t-il ? Pourquoi toute cette\nprecipitation... ? Calme-toi et fais ton\nrapport."
+    "15790": {
+        "「……フム。ここに来たということは\n　さては　お前さん　妖剣士オーレンのことを\n　調べておるのじゃな？<yesno><close>": "Hum. Si tu es venu jusqu'ici, c'est que tu\nenquetes sur Swordmaster Oren, n'est-ce pas ?\n<yesno><close>"
     },
-    "15773": {
-        "「じ　じつは　宝物庫に置かれていた\n　レムルの聖杯が　奪われてしまったのです！": "En fait, le Calice de Lemur qui etait place\ndans le Tresor a ete vole !"
+    "15791": {
+        "「……いや　みなまで言うな。\n　どうせ　チグリ大臣あたりの差し金であろう。": "Non, inutile d'en dire plus. C'est surement un\ncoup de Minister Chigri."
     },
-    "15774": {
-        "「な　なんとっ！\n　もう　魔物が押し入ってきたのか！？\n　ええい　兵士たちは　何をしておったのじゃ？": "Qu... Quoi ! Les monstres ont deja reussi a\npenetrer ici !? Mais que faisaient les soldats\n?"
+    "15792": {
+        "「お前さんに　忠告しておこう！\n　悪いことは言わんから　オーレンのことは\n　捨て置くがよい。": "Je te donne un conseil ! Je ne vais pas te\nmentir, laisse tomber l'affaire Oren."
     },
-    "15775": {
-        "「魔物……？　なんのことですか？\n　レムルの聖杯を　持ち去ったのは\n　エイドスさまなのですが……。": "Les monstres... ? De quoi parlez-vous ? C'est\nEidos-sama qui a emporte le Calice de Lemur..."
+    "15793": {
+        "「そんなもの　調べるだけ　時間のムダ。\n　決して　真実には　たどり着けぬ。\n　チグリ大臣にも　そう伝えておけ！": "S'en occuper serait une perte de temps. Jamais\ntu ne pourras atteindre T. 実. Informe-en\negalement le Ministre Chigri !"
     },
-    "15776": {
-        "「は……？　エイドスさまじゃと？　\n　なんで　ここで　エイドスさまが出てくる？": "Quoi...? L'eminent Eidos-sama ? Pourquoi\nest-ce qu'Eidos-sama apparait ici ?"
+    "15794": {
+        "ダンデルは　歴史書を解読するため\n部屋から　飛びだしていった！": "Danderu s'est precipite hors de la piece pour\ndechiffrer le livre d'histoire !"
     },
-    "15777": {
-        "「やれやれ　騒々しいのう……。": "Eh bien, quel vacarme..."
+    "15795": {
+        "「どうやら　ダンデルからの依頼を\n　果たしてくれたようですな。": "Il semble que vous ayez accompli la mission de\nDanderu."
     },
-    "15778": {
-        "「こ　これは　エイドスさまっ！\n　エイドスさまが　レムルの聖杯を奪ったという話\n　まさか　事実では　ありませんよなっ！？": "Co... c'est Eidos-sama ! Vous n'allez pas me\ndire que l'histoire selon laquelle Eidos-sama\naurait vole le Calice de Lemur est vraie,<br>n'est-ce pas !?"
+    "15796": {
+        "「それでは　報酬は　私のほうから\n　お渡ししておきましょう。\n　どうぞ　これを　受け取ってくだされ。": "Alors, permettez-moi de vous remettre la\nrecompense de ma part. Veuillez accepter ceci,\nje vous prie."
     },
-    "15779": {
-        "「……フム。見張りの兵士どもを　押し切って\n　宝物庫から　聖杯を持ち出したのは\n　確かに　この　わしじゃ。": "Hum. C'est bien moi qui ai passe outre les\ngardes et emporte le Saint Graal du Treasury."
+    "15797": {
+        "<pc>は　チグリ大臣に\nエイドスからの忠告を伝えた。": "<pc> a transmis l'avertissement d'Eidos\nau ministre Chigri."
     },
-    "15780": {
-        "「無論　それなりの理由があってのこと。\n　レムルの聖杯を求める魔物……\n　妖剣士オーレンに　返してやるためじゃよ。": "Bien sur, il y a une raison a cela. Les\nmonstres a la recherche du Calice de Lemur...\nC'est pour le rendre au Maitre d'Epee Oren."
+    "15798": {
+        "「……なんと！　洞くつの前に\n　エイドスさまが　現れて　そんなことを……。": "…Quoi ! Devant la grotte, Eidos-sama a ete P.\net cela…."
     },
-    "15781": {
-        "「……は？": "...Hein ?"
+    "15799": {
+        "「う～む。じつに　不可解ですな。\n　いったい　エイドスさまは　オーレンの\n　何を知っているのじゃろうか……。": "Hmmm. C'est vraiment mysterieux. Que pourrait\nbien savoir Eidos-sama a propos de Oren..."
     },
-    "15782": {
-        "「聖杯さえ　渡しておけば　アレも\n　ベコン渓谷から　さまよい出てきたりせず\n　おとなしくしておるはずじゃからな。": "Tant que je lui remets le Saint Graal, il ne\ndevrait pas errer hors de Becon Valley et\ndevrait rester tranquille."
+    "15800": {
+        "「見つかったのデス！！": "Je l'ai trouve !!"
     },
-    "15783": {
-        "「オーレン……それが　ウワサの魔物ですか。\n　<pc>どのの手で　倒されたものと\n　聞いておりましたが……。": "Oren... est-ce le fameux monstre dont on parle\ntant ? J'avais entendu dire qu'il avait ete\nvaincu par <pc>-dono..."
+    "15801": {
+        "「やはり　４７巻でしたっ！\n　オーレンの名前を発見したのデス！": "C'etait bien le volume 47 ! J'ai trouve le nom\nde Oren !"
     },
-    "15784": {
-        "「アレは　妄念に縛られた　哀れな亡者よ。\n　何度　倒したところで　そのたびに\n　よみがえってくる存在じゃ……。": "Ce sont des ames miserables enchainees par des\npensees delirantes. Peu importe combien de\nfois tu les vaincs, elles reviennent toujours<br>a la vie..."
+    "15802": {
+        "「おお　でかしたぞ！\n　……して　妖剣士オーレンとは\n　いったい　何者だったのじゃ？": "Oh, bien joue ! ... Mais qui etait donc ce\nSwordmaster Oren ?"
     },
-    "15785": {
-        "「とにかく　もともと　この国のものでは\n　ないのだから　惜しがる必要もあるまい。\n　聖杯は　オーレンに　あずけておけ！": "De toute facon, ce n'est pas un objet qui\nappartient a ce pays a l'origine, donc il n'y\na pas de raison de le regretter. Confie le<br>Saint Graal a Oren !"
+    "15803": {
+        "「おっほ！　\n　これは　大臣サマ。来ておられたのデスか！？": "Oh ! Voila Monsieur le Ministre. Vous etes\nvenu, n'est-ce pas ?"
     },
-    "15786": {
-        "「何を　ボサッとしておる？\n　ほれっ！　エイドスさまを　お止めするのじゃ！": "Qu'est-ce que tu fais la a revasser ? Allez !\nArretez Eidos-sama !"
+    "15804": {
+        "「……オッホン！\n　それでは　妖剣士オーレンの半生を\n　語らせていただきましょう。": "Hum, hum ! Permettez-moi de vous raconter une\npartie de la vie de Swordmaster Oren."
     },
-    "15787": {
-        "「お待ちください　エイドスさまっ！": "Veuillez patienter, Eidos-sama !"
+    "15805": {
+        "「生前の彼は　グレン城に仕える騎士であり\n　剣聖オーレンと呼ばれる　英雄だったそうデス。\n　……そう。ある事件が　起こるまでは。": "De son vivant, il etait un chevalier au\nservice de Glen Castle et un heros connu sous\nle nom de l'epeiste sacre Oren. ...Oui,<br>jusqu'a ce qu'un certain incident se produise."
     },
-    "15788": {
-        "「いったい　どういうことなんじゃ？\n　エイドスさまは　何を考えておられる……？": "Qu'est-ce que cela signifie donc ? Que pense\nEidos-sama...?"
+    "15806": {
+        "「ある時　オーレンは　ベコン渓谷を\n　調査するという任務を負って\n　部下を引きつれ　グレン城を出発しました。": "A un moment donne, Oren a recu pour mission\nd'enqueter sur la vallee de Becon. Il est\nparti du chateau de Glen accompagne de ses<br>subordonnes."
+    },
+    "15807": {
+        "「ところが　彼は　その途中で姿をくらまし\n　次に　ガートラントの　さる大商人宅に\n　姿を現しました。": "Cependant, en chemin, il disparut et reapparut\nensuite chez un grand marchand de GarトLMPト."
+    },
+    "15808": {
+        "「そして　信じられないことに　オーレンは\n　大商人をおそって　その持ち物であった\n　レムルの聖杯と　商人の娘を強奪したのデス。": "Et incroyable mais vrai, Oren a attaque le\ngrand marchand et a vole le Calice de Lemur\nainsi que la fille du marchand."
+    },
+    "15809": {
+        "「この事件は　グレン　ガートラント両国の\n　関係を悪化させ　やがて　戦争へと発展する\n　引き金となりました。": "Cet incident a deteriore les relations entre\nles deux nations, Glen et GartoLMP, et a\nfinalement declenche une guerre."
+    },
+    "15810": {
+        "「以来　オーレンは　国を裏切った逆賊。\n　戦争を引き起こした大罪人として\n　表の歴史では　語られなくなったのデス。": "Depuis lors, Oren est considere comme un\ntraitre a la nation, un rebelle. En tant que\ngrand criminel responsable d'avoir declenche<br>la guerre, il n'est plus mentionne dans\nl'histoire officielle."
+    },
+    "15811": {
+        "「……いやはや　妖剣士オーレンとは\n　とんでもない悪党だったのデスな。\n　魔物になるのも　うなずける話デス。": "Eh bien, Swordmaster Oren etait un veritable\nscelerat, n'est-ce pas ? Il est comprehensible\nqu'il soit devenu un monstre."
+    },
+    "15812": {
+        "「むむう……。\n　今の話を聞いて　ますます\n　わからなくなってきましたわい。": "Hmm... Apres avoir entendu ca, je suis encore\nplus confus."
+    },
+    "15813": {
+        "「エイドスさまは　どうして\n　そんな悪党を　のさばらせておくのか……？": "Pourquoi Eidos-sama laisse-t-il de tels\nscelerats agir impunement...?"
     }
 }
