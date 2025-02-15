@@ -1,179 +1,221 @@
 {
-    "13640": {
-        "「義賊のヤツらめ……。\n　なぜ　このオレが　あの偽善者どもに\n　引けを　とらなきゃいけないんだ！": "Les fichus voleurs vertueux... Pourquoi\ndevrais-je, moi, etre eclipse par ces F.\nbienfaiteurs ?!"
+    "261769": {
+        "「<pc>さん　待っていたわ。\n　さあ　煉獄のつるぎを渡して。": "<pc>-san, je t'attendais. Allez,\ndonne-moi le Purgatory Sabre."
     },
-    "13641": {
-        "「オレが　間違ってるっていうのか！？\n　答えろよ　ギャスモン！": "Tu oses dire que j'ai tort !? Reponds-moi,\nBuntzenberner !"
+    "261770": {
+        "アガサに　煉獄のつるぎを\n渡しますか？<yesno><close>": "Voulez-vous donner le Sabre du Purgatoire a\nAgatha ? <yesno><close>"
     },
-    "13642": {
-        "「答エナド　必要ナイ。\n　汝ハ　求メレバ　得ラレルノダ。\n　ソノ欲望コソガ　汝ノ　ちから……。": "Repondre n'est pas necessaire, Ena. Si tu\ncherches, tu trouveras. Ce desir est ta\nveritable force..."
+    "261771": {
+        "「今は　ふざけている場合じゃないのよ。\n　煉獄のつるぎを　渡してちょうだい。<yesno><close>": "Ce n'est pas le moment de plaisanter.\nDonne-moi le Purgatory Sabre, s'il te plait."
     },
-    "13643": {
-        "「へへっ　そうか。それじゃあ\n　今よりも　強い魔物を操るチカラをくれ！\n　旅団を　もっと　でかくしてやるんだ！": "Hehe, c'est ca. Alors, donne-moi le pouvoir de\ncontroler des monstres encore plus puissants !\nJe vais agrandir la troupe !"
+    "261772": {
+        "<pc>は　アガサに\n煉獄のつるぎを渡した！": "<pc> a remis le Purgatory Sabre a Agatha\n!"
     },
-    "13644": {
-        "「マタ　魔物ヲ　操ルちからカ……。\n　ソロソロ　汝自身　強クナル\n　必要ガ　アルノデハ　ナイカ……？": "Encore ce pouvoir de controler les monstres,\nhein... Il est peut-etre temps que tu\ndeviennes plus fort par toi-meme, non,<br>Squid...？"
+    "261773": {
+        "「ありがとう。": "Merci."
     },
-    "13645": {
-        "「ソノ手デ　憎シミヲ　断ツタメニ……。": "Avec cette main, pour couper la haine..."
+    "261774": {
+        "「フフフッ。兄さんも　<pc>さんが\n　心配で　来てくれたみたい。": "Fufuフッ. Il semble que mon frere soit venu\nparce qu'il s'inquiete aussi pour\n<pc>-san."
     },
-    "13646": {
-        "「ホウラ……。ソノコトヲ告ゲル\n　使者ガ　来タヨウダ……。": "Hola... Il semble qu'un messager soit venu\npour annoncer cela..."
+    "261775": {
+        "「フン。お前は\n　ウィーヌムをおびき寄せるための　エサだ。\n　勝手に死なれたら　困る。": "Hum. Tu n'es qu'un appat pour attirer Wīnum.\nCe serait ennuyeux si tu mourais de ton propre\nchef."
     },
-    "13647": {
-        "「何しにきやがった。\n　オレを　正しい道に進ませようとか\n　ふざけたこと　考えてんじゃねえだろうな。": "Qu'est-ce que tu viens faire ici ? Ne me dis\npas que tu penses a quelque chose d'idiot\ncomme essayer de me remettre sur le droit<br>chemin."
+    "261776": {
+        "「さあ　始めましょう。\n　集中して　自分の心と　向き合って。\n　大丈夫　自分を信じて……。": "Allons-y, commencons. Concentre-toi et fais\nface a ton coeur. Tout ira bien, crois en\ntoi..."
     },
-    "13648": {
-        "「チッ！　親父と同じ　偽善者の目……。\n　その目を見てると　むしずが走るぜ！\n　アンタ　親父が何したか　知ってんのかよ！": "Tch ! Les memes yeux de bienfaiteur que mon\npere... Ces yeux me donnent la chair de poule\n! Tu sais ce que mon pere a fait, n'est-ce pas<br>?"
+    "261777": {
+        "「魂を　魔に染めし者よ。\n　汝のすべてを　剣の前に示せ。": "Toi qui as teinte ton ame de mal, montre tout\nce que tu es devant l'epee."
     },
-    "13649": {
-        "「ムーチョが　町長の家に盗みに入った日……\n　オレの母さんは　生死の境を　さまよっていた。\n　……何年も続いた　大病の果てにな。": "Le jour ou Mucho est entre par effraction dans\nla maison du maire... Ma mere luttait entre la\nvie et la mort. ... Apres des annees a<br>souffrir d'une grave maladie."
+    "261778": {
+        "「剣の呼びかけに応え\n　魔の波動よ　目覚めたまえ！": "Reponds a l'appel de l'epee, Que l'onde\nmalefique s'eveille !"
     },
-    "13650": {
-        "「うちは　貧乏でよ。薬を買う金もなかった……。\n　そんなとき　町長の財宝を持ったムーチョが\n　うちに来たのさ。オレは　小おどりしたね！": "Nous etions pauvres, tu sais. Nous n'avions\nmeme pas l'argent pour acheter des\nmedicaments... Puis, a ce moment-la, Mucho est<br>venu chez nous avec le tresor du maire.\nJ'etais tellement excite !"
+    "261779": {
+        "「……っく……ひっく……。\n　<pc>さん　痛い……痛いよ……。": "…Snif… Hic… <pc>-san, ca fait mal… ca\nfait mal…"
     },
-    "13651": {
-        "「……けどよ！　ムーチョは……\n　親父は　母さんの　まくらもとに立っても\n　何も置いていかずに　去っていったんだ！": "...Mais ! Mucho, lui... Papa est parti sans\nrien laisser a cote de maman !"
+    "261780": {
+        "「みんな　魔物にやられちまった。\n　死にたくない　死にたくないよ……。\n　助けて　<pc>……。": "Tout le monde a ete attaque par les monstres.\nJe ne veux pas mourir, je ne veux pas\nmourir... A l'aide, <pc>..."
     },
-    "13652": {
-        "「次の日に　母さんは　死んだよ。\n　親父は泣いてたが　今思えば　あのときの涙も\n　うそっぱちだったに　ちがいねえ。": "Le lendemain, maman est morte. Papa pleurait,\nmais en y repensant maintenant, ces larmes\netaient surement fausses."
+    "261781": {
+        "「<pc>さん　無事ね？　無事なのね？\n　本当に　良かった……！": "<pc>-san, tu vas bien ? Tu es sain et\nsauf ? Je suis vraiment soulagee... !"
     },
-    "13653": {
-        "「オレは　ムーチョへの復讐を誓い　家を出た。\n　……そして　ここにいるギャスモンと出会い\n　魔物を操るチカラを　手に入れたのさ！": "Je jurai de me venger de Mucho et quittai la\nmaison. ...Et c'est alors que je rencontrai\nBuntzenberner ici, acquerant ainsi le pouvoir<br>de controler les monstres !"
+    "261782": {
+        "「儀式は成功よ。\n　……ここまで　強力な魔の波動を\n　制御することが　できるなんて。": "Le rituel a reussi. … Je ne pensais pas qu'il\netait possible de controler une onde malefique\naussi puissante."
     },
-    "13654": {
-        "「盗賊なんて　しょせん悪党……。\n　そのことを　世間に教えてやるために\n　つむじ風の旅団を　結成したんだ！": "Les voleurs ne sont rien d'autre que des\nscelerats... J'ai forme la Brigade des\nTourbillons pour enseigner cela au monde !"
+    "261783": {
+        "「あなたは　過去と絶望と向き合い\n　その痛みを……すべてを　受け入れたのね。\n　すべて背負って　生きていくと決めたのね。": "Tu as fait face au passe et au desespoir, et\ntu as accepte cette douleur... tout cela. Tu\nas decide de porter tout cela et de continuer<br>a vivre."
     },
-    "13655": {
-        "「でもよ……　もう　つむじ風の旅団なんて\n　まわりくどいことは　やめるぜ。\n　オレは　貴様らを　直接　皆殺しにしてやる！": "Mais bon... J'en ai assez de ces detours avec\nla Brigade du Tourbillon. Je vais vous\nmassacrer tous directement !"
+    "261784": {
+        "「本当に　強い人……。\n　あなたは　正真正銘　最強の魔剣士のひとりよ。\n　これで　ウィーヌムとも戦える。": "Veritablement une personne forte... Tu es sans\naucun doute l'un des plus puissants maitres de\nl'epee magique. Avec cela, tu pourras<br>affronter Winum."
     },
-    "13656": {
-        "「ギャスモン！　さあ　オレにチカラをくれ！\n　こいつらを　ひねりつぶすための\n　絶大なチカラを……！！": "Buntzenberner ! Allez, donne-moi ta puissance\n! Une force immense pour ecraser ces\nennemis... !!"
+    "261785": {
+        "「まさか　覚醒の儀を乗り越えるとはな。\n　魔剣士として　少しは認めてやらんでもない。": "Je ne m'attendais pas a ce que tu surmontes le\nRite de l'Eveil. Je suis pret a te\nreconnaitre, un peu, en tant que mage-sabreur."
     },
-    "13657": {
-        "「スベテハ　欲望ノ　オモムクママニ……。": "Tout est guide par le caprice du desir..."
+    "261786": {
+        "「おめでとうございまーーすっ！\n　ウフッ。<pc>さんも　覚醒の儀を終えて\n　ずいぶんと　おいしそうになりましたねぇ。": "Felicitations ! Uhuhu. <pc>-san a aussi\ntermine le rituel de l'eveil et il est devenu\nvraiment appetissant, n'est-ce pas ?"
     },
-    "13658": {
-        "「おお……　みなぎる　みなぎるぞ！！！\n　黒いチカラが　オレの身体に………ッ！！！": "Oh... Ca bouillonne, ca deborde !!! Une force\nobscure envahit mon corps... !"
+    "261787": {
+        "「<pc>さんの覚醒を　祝して\n　食事会でも　いかがです？\n　もちろん　ディゼルさんもご一緒に！": "Pour celebrer l'eveil de <pc>-san, que\ndiriez-vous d'un repas ? Bien sur, Diezel-san,\nvous etes egalement invite !"
     },
-    "13659": {
-        "「ウガァァァァァァァァァァァ……！！！": "Ugaaaaaaaaaaaah...!!!"
+    "261788": {
+        "「前菜は　<pc>さん！\n　メインディッシュは　ディゼルさん！\n　極上の魔剣士のフルコース！": "Les hors-d'oeuvre, c'est <pc>-san ! Le\nplat principal, c'est Diezel-san ! Un menu\ncomplet de maitre epeiste d'exception !"
     },
-    "13660": {
-        "「ブルルルルッ！\n　すべての義賊に　死を……！\n　死を　死をォォォ…………ッ！！！": "ブルルルルッ！ すべての義賊に 死を！ 死を 死をォォォッ！！！"
+    "261789": {
+        "「ごちそうのためなら　逃げも隠れもしません。\n　ワタクシを殺す　絶好のチャンスですよ？\n　これを逃す手は　ありませんよねぇ？": "Pour un festin, je ne fuis ni ne me cache.\nC'est une occasion en or de me tuer, vous ne\ntrouvez pas ? Vous ne voulez pas laisser<br>passer cette chance, n'est-ce pas ?"
     },
-    "13661": {
-        "「ブルルルルッ！！　何度来ても同じこと！\n　貴様ら　義賊は　オレには勝てん！！\n　正しいのは　オレのほうだ！！": "ブルルルルッ！！ Chaque fois que vous venez, c'est la\nmeme chose ! Vous, les soi-disant justiciers,\nne pouvez pas me vaincre !! C'est moi qui ai<br>raison !!"
+    "261790": {
+        "「レビュール街道南の　西にある\n　古跡の井戸へ　いらっしゃい。\n　お待ちしておりますよ……イヒヒヒヒィ……！": "Bienvenue au Puits Historique, situe a l'ouest\nde Reviewle Highway South. Nous vous attendons\navec impatience... Ihihihihi...!"
     },
-    "13662": {
-        "「ブルルルルッ！\n　すべての義賊に　死を……！\n　死を　死をォォォ…………ッ！！！": "ブルルルルッ！ すべての義賊に 死を！ 死を 死をォォォッ！！！"
+    "261791": {
+        "「…………ククッ。\n　アハ　ハハハハハハハハハハッ！！": "...Kuku. Ahahaha ! Hahahahahaha !"
     },
-    "13663": {
-        "「ブ…ブルルルル……。\n　憎しみに身をまかせ　チカラを得た\n　このオレが　なぜ　義賊なんかに……。": "Bu... Burururu... Pourquoi moi, qui ai obtenu\nce pouvoir en me laissant emporter par la\nhaine, suis-je battu par un simple voleur<br>justicier...?"
+    "261792": {
+        "「フフ……やっとだ。\n　やっと　殺せる。": "Fufu... enfin. Enfin, je vais pouvoir tuer."
     },
-    "13664": {
-        "「憎しみが　足りないのか……？\n　義賊を……　親父を　憎む心が……。": "Est-ce que ma haine n'est pas suffisante...?\nLa haine envers le voleur de justice... envers\nmon pere..."
+    "261793": {
+        "「兄さん　待って！　落ち着いて！！": "Grand frere, attends ! Calme-toi !!"
     },
-    "13665": {
-        "「この　バカ息子ーーーーー！！！": "Espece de fils idiot !!!"
+    "261794": {
+        "「魔の波動が　一気にふくれ上がって\n　抑えられなくなっていた。\n　このままじゃ　兄さんは……。": "La vague malefique s'est soudainement\namplifiee et je ne peux plus la contenir. Si\ncela continue ainsi, mon frere..."
     },
-    "13666": {
-        "「アンタは　母親の思いを　踏みにじる気かい！！\n　妻を救えなかった　親父さんの気持ちを\n　少しでも　考えたことが　あるのかい！？": "Tu comptes vraiment pietiner les sentiments de\nta mere ?!! As-tu seulement pense, ne\nserait-ce qu'un instant, a ce que ressent ton<br>pere qui n'a pas pu sauver sa femme ?!!"
+    "261795": {
+        "「<pc>さん　お願い！\n　兄さんのあとを　追って！": "<pc>-san, s'il te plait ! Suis mon frere\n!"
     },
-    "13667": {
-        "「アンタの親父さんね　このままじゃいけないって\n　あたいに　真相を話してくれたよ。\n　アンタも　耳の穴かっぽじって　よく聞きな！": "Ton pere, tu sais, il m'a parle de T. Il a dit\nque ca ne pouvait pas continuer comme ca.\nAlors, ouvre bien tes oreilles et ecoute<br>attentivement !"
+    "261796": {
+        "「兄さんは　ウィーヌムを追って\n　レビュール街道南の　西にある\n　古跡の井戸に　向かったはず。": "Mon frere est parti a la poursuite de Wīnum et\nil devrait se diriger vers le puits\nhistorique, situe a l'ouest de la Reviewle<br>Highway South."
     },
-    "13668": {
-        "「……町長の家に盗みに入った　あの日\n　ワシは　お前の母を　助けられるだけのカネを\n　置いていこうとしたんだ。": "...Le jour ou je suis entre par effraction\ndans la maison du maire, je voulais laisser\nassez d'argent pour sauver ta mere."
+    "261797": {
+        "「今の状態で　ウィーヌムと戦ったら\n　兄さんの　魔の波動が暴走して\n　取り返しのつかないことになる。だから……": "Si nous affrontons Wīnum dans notre etat\nactuel, les ondes malefiques de mon frere\nrisquent de derailler et de provoquer une<br>catastrophe irreversible. C'est pourquoi..."
     },
-    "13669": {
-        "「だが　お前の母は……": "Cependant, ta mere..."
+    "261798": {
+        "「……危険なことを　任せてしまって\n　ごめんなさい。兄さんを　助けて……！": "Je suis desolee de t'avoir confie quelque\nchose d'aussi dangereux. S'il te plait, sauve\nmon frere… !"
     },
-    "13670": {
-        "「私たちの約束を　忘れたのですか……。\n　そう言って　カネを置いていくことを\n　強く　こばんだのだ。": "As-tu oublie notre promesse... Tu as fermement\nrefuse de laisser l'argent en partant."
+    "261799": {
+        "「ヒヒヒィ！　いいですよ　ディゼルさんッ！\n　よだれが出そうなほど　ステキな憎悪です！": "Hi hi hi ! Tres bien, Diezel-san ! Une haine\nsi delicieuse qu'elle en ferait presque baver\n!"
     },
-    "13671": {
-        "「約束……？\n　約束って　なんだよ……？": "Une promesse... ? C'est quoi, une promesse...?"
+    "261800": {
+        "「……ウィーヌム！\n　貴様は！　ここで殺すッ！！": "......Wynum ! Je vais te tuer ici et\nmaintenant !"
     },
-    "13672": {
-        "「ワシが　ムーチョになると決めたとき\n　妻は　いっさいの盗品を　自分たちのために\n　使わないと　約束してくれ　と言った。": "Quand j'ai decide de devenir Mucho, ma femme\nm'a demande de promettre de ne jamais utiliser\nles objets voles pour nous-memes."
+    "261801": {
+        "「ハァァァァァァ……ッ！！": "Haaaaaa... !!"
     },
-    "13673": {
-        "「盗んだものを　少しでも　自分たちのために\n　使ってしまえば　それは義賊ではなく\n　ただのドロボーだ……と　そう告げたのだ。": "Si l'on utilise ne serait-ce qu'un peu de ce\nqui a ete vole pour soi-meme, alors ce n'est\npas un acte de noble bandit, mais simplement<br>celui d'un voleur... C'est ce qu'il a dit."
+    "261802": {
+        "「ヒャハハハハァッ！　すばらしい！！\n　こんなに心が躍るのは　いつぶりでしょう！！": "Hyahaha ! C'est merveilleux !! Cela faisait\ncombien de temps que je n'avais pas ressenti\nune telle excitation !!"
     },
-    "13674": {
-        "「そして　私利私欲のために　動くのではなく\n　人のために尽くすことを　固く誓い\n　ワシは　ムーチョになったのだ……。": "Et ainsi, je jure fermement de ne pas agir\npour mon propre interet, mais de me devouer\naux autres. C'est ainsi que je suis devenu<br>Muucho..."
+    "261803": {
+        "「おやぁ……<cs_pchero>さん！\n　前菜が遅れるなんて　いけませんねぇ。\n　先に　メインディッシュを始めちゃいました。": "Oh... <cs_pchero> san ! Il est inacceptable\nque l'entree soit en retard. J'ai deja\ncommence le plat principal."
     },
-    "13675": {
-        "「ねえ　チャムール。\n　ふたりの心意気……。\n　アンタには　もう　わからないのかい？": "Dis-moi, Chamour. Le courage de ces deux-la...\nTu ne le comprends plus, n'est-ce pas ?"
+    "261804": {
+        "「極上の魔の波動を持つ　ごちそうが　ふたり。\n　ジュル……！　たまりませんねぇ……！\n　ワタクシ　どうにかなってしまいそうです……。": "Un festin de premier choix avec une aura\nmalefique exquise, deux en un. Miam... ! Je ne\npeux pas y resister... ! Je sens que je vais<br>perdre le controle..."
     },
-    "13676": {
-        "「この　オルゴールの音色を聞いても\n　母親の優しさを　思いだせなかったのかい？": "Meme en ecoutant la melodie de cette boite a\nmusique, tu n'as pas pu te rememorer la\ntendresse de ta mere ?"
+    "261805": {
+        "「……コイツの助けなど　必要ない。\n　貴様は　俺ひとりで片付ける！": "Je n'ai pas besoin de l'aide de ce type. Je\nvais m'occuper de toi tout seul !"
     },
-    "13677": {
-        "「母さん……。": "Maman..."
+    "261806": {
+        "「俺たち家族が受けた以上の　痛みと絶望を\n　貴様に返してやるッ！": "Nous allons te rendre la douleur et le\ndesespoir que notre famille a subis, mais en\npire !"
     },
-    "13678": {
-        "「うっ…　うおおおおぉぉぉ！！": "Ugh... Uooooohhh!!"
+    "261807": {
+        "「うんうん……ふたりとも　ゾクゾクするほど\n　おいしそうですよ。しかし　まだ\n　ちょっぴり　足りない気もしますねぇ……。": "Hmm hmm... Vous deux avez l'air delicieusement\nappetissants. Cependant, il me semble qu'il\nmanque encore quelque chose..."
     },
-    "13679": {
-        "「憎シミノ心ガ　消エタ……。\n　コノ器ハ　使エヌ。欲望ガ足リヌ……。": "Le coeur de la haine a disparu... Ce receptacle\nest inutile. Le desir est insuffisant..."
+    "261808": {
+        "「では　最後の仕上げといきますか。": "Alors, allons-y pour la touche finale."
     },
-    "13680": {
-        "「チャムール！！": "Chamour !!"
+    "261809": {
+        "「……チッ！": "... Tch !"
     },
-    "13681": {
-        "「すまなかったなあ　チャムール……。\n　もう　お前を　ひとりにはせん。\n　やり直そう。ワシと　一緒に……。": "Je suis desole, Chamour... Je ne te laisserai\nplus jamais seul. Reparons Spear. Ensemble,\ntoi et moi..."
+    "261810": {
+        "「存分に憎みなさい　絶望なさい！\n　あなたたちの　魔の波動を\n　すべて　たいらげてさしあげましょうッ！": "Haissez-moi autant que vous le pouvez,\ndesesperez ! Je vais absorber totalement vos\nondes malefiques !"
     },
-    "13682": {
-        "「……グスッ。ダメだね……。\n　あたい　こういうのには　弱いんだ。": "… Snif. Je suis fichue… Je suis vraiment\nfaible face a ce genre de choses."
+    "261811": {
+        "「ク………ガハァッ！？": "Ku... Gahaa !?"
     },
-    "13683": {
-        "「……さてと　これにて　一件落着だね。\n　つむじ風の旅団も　いなくなったし\n　ブデチョたちの　わだかまりも消えたよ。": "…Eh bien, l'affaire est reglee maintenant. La\nbrigade des vents tourbillonnants a disparu,\net le ressentiment de Budecho et des autres<br>s'est dissipe."
+    "261812": {
+        "「父と母の仇！　覚悟しろ　ウィーヌムッ！": "Le meurtre de mon pere et de ma mere !\nPrepare-toi, Weenumu !"
     },
-    "13684": {
-        "「<cs_pchero>　今回も　また大活躍だったね。\n　その礼をするからさ\n　ガタラの酒場に　来ておくれよっ。": "<cs_pchero>, tu as encore une fois ete\nimpressionnant cette fois-ci. Pour te\nremercier, rejoins-moi a la taverne de Gatara."
+    "261813": {
+        "「グ……グフ………\n　グフフフフフフフ………。": "Gu... Gufu... Gufufufufufu..."
     },
-    "13685": {
-        "「では　ワシから　礼をさせてくれ。": "Alors, laisse-moi te remercier."
+    "261814": {
+        "「何が　おかしい！？": "Qu'est-ce qui te fait rire !?"
     },
-    "13686": {
-        "「<pc>よ。\n　お前には　オルゴールの件や\n　今回の件で　本当に　世話になった。": "<pc>. Je te suis vraiment reconnaissant\npour ton aide precieuse concernant la boite a\nmusique et cette affaire recente."
+    "261815": {
+        "「……なーんにも　覚えていないんですね。\n　本気で　ワタクシがアナタの両親を\n　殺したと　信じてるんですか？": "Vous ne vous souvenez vraiment de rien,\nn'est-ce pas ? Croyez-vous sincerement que\nj'ai tue vos parents ?"
     },
-    "13687": {
-        "「その恩返しに　盗賊の必殺技を\n　お前に　伝授しよう。\n　さあ　目を　つむるがよい。": "En retour de cette faveur, je vais t'enseigner\nla technique ultime du voleur. Ferme les yeux,\nmaintenant."
+    "261816": {
+        "「……何を　言っている？": "......Qu'est-ce que tu racontes ?"
     },
-    "13688": {
-        "<pc>は　ブデチョの言葉に\n耳をかたむけた……。": "<pc> tendit l'oreille aux paroles de\nBudecho..."
+    "261817": {
+        "「ワタクシはただ　親とケンカして\n　両親への不満をためこんでいた　子供がいたから\n　たわむれに　絶望の毒を植えつけただけ。": "Je n'ai fait que semer par jeu le poison du\ndesespoir dans le coeur d'un enfant qui\naccumulait du ressentiment envers ses parents<br>apres une simple dispute."
     },
-    "13689": {
-        "「その恩返しに　これを受け取ってくれ。\n　大事に　使うんだぞ。": "En reconnaissance de ta gentillesse, accepte\nceci. Utilise-le avec soin."
+    "261818": {
+        "「ワタクシは　アナタのご両親には\n　指いっぽん　触れていません。\n　実際に　おふたりを殺したのは……": "Je n'ai pas touche un seul doigt a vos\nparents. En realite, ceux qui les ont tues\nsont..."
     },
-    "13690": {
-        "「お前は　盗賊を極められる器だ。\n　時が満ちたら　ワシの所へ来るがいい。\n　もちろん　盗賊になるのを　忘れんようにな。": "Tu as le potentiel pour devenir un maitre\nvoleur. Quand le moment sera venu, viens me\nvoir. Bien sur, n'oublie pas de devenir un<br>voleur."
+    "261819": {
+        "「彼らの　かわいい　かわいい息子。\n　そう　アナタのことですよ。\n　ディゼルさん？": "Leur adorable, adorable fils. Oui, je parle de\nvous. Diezel-san ?"
     },
-    "13691": {
-        "「とっておきの　試練を用意しといてやろう。\n　では　またな。": "Je vais te preparer une epreuve speciale. A\nbientot."
+    "261820": {
+        "「……ウ　ウソだ。そんな……。": "...Ce... Ce n'est pas possible. Ca ne peut pas\netre vrai..."
     },
-    "13692": {
-        "「ブ…ブデチョのオッサン！\n　あ！　いや！　ムーチョ先生っ！！": "Bu... Budecho no Ossan ! Ah ! Non ! Sensei\nMucho !!"
+    "261821": {
+        "「ウソなものですか。ワタクシの絶望の毒に\n　我を忘れたアナタは　ナイフで\n　お父様とお母様の胸を刺して　殺したんです。": "Ce n'est pas un mensonge. Sous l'effet du\npoison de mon desespoir, vous avez perdu la\nraison et avez poignarde avec un couteau votre<br>pere et votre mere en plein coeur, les tuant\nainsi."
     },
-    "13693": {
-        "「あたいを　弟子にしてくれないかい！？\n　あたい　マスク・ド・ムーチョに　あこがれて\n　この世界に　飛び込んだんだ！　頼むよ！": "Est-ce que tu pourrais faire de moi ton\ndisciple !? J'admire Mask de Mucho, et c'est\npour ca que je me suis lancee dans ce monde !<br>Je t'en prie !"
+    "261822": {
+        "「ククッ……他でもない　アナタの手で\n　おふたりは　死んだんです。\n　本当に　忘れてしまったんですか？": "Kuku... Ce n'est pas n'importe qui, c'est de\nvotre main que ces deux-la sont morts. Vous\navez vraiment oublie ?"
     },
-    "13694": {
-        "「すまんな。ワシは　もう\n　弟子は　とらないことにしてるんだ。": "Je suis desole. J'ai decide de ne plus prendre\nd'eleves."
+    "261823": {
+        "「あ……。": "Ah..."
     },
-    "13695": {
-        "「もう……ってことは\n　すでに　お弟子さんが　いるのかい！？": "Alors... cela veut dire que tu as deja un\ndisciple !?"
+    "261824": {
+        "「ああ……。": "Ah..."
     },
-    "13696": {
-        "「どこで　ワシの正体を知ったのか\n　ちょっと前に　怪盗ポイなんとかって女の子が\n　ワシの所に　やってきたんだ。": "Ou as-tu decouvert ma veritable identite ? Il\ny a quelque temps, une fille qui se faisait\nappeler la mysterieuse voleuse Poi quelque<br>chose est venue me voir."
+    "261825": {
+        "「うわああああああああああああッ！！！": "Ouwaaaaaaaaaaaah !!!"
     },
-    "13697": {
-        "「もともと　弟子をとるつもりは　なかったが\n　かわいい顔で　熱心に頼みこんできたから\n　ついつい　断りきれなくてなあ。": "Je n'avais pas l'intention de prendre un\ndisciple, mais avec ce visage adorable et sa\ndemande si passionnee, je n'ai pas pu<br>resister."
+    "261826": {
+        "「父さん　母さん……！\n　俺は……なんてことを……ッ！！": "Pere, Mere... ! Qu'ai-je fait... !?"
     },
-    "13698": {
-        "「ところが　そのコ　なかなか　スジがよくて\n　今は　彼女の指導で　手いっぱいなんだ。\n　そういうわけで　すまんなあ。はっはっはっは。": "Cependant, cet enfant a vraiment du potentiel,\net je suis deja tres occupe avec la formation\nde Her. C'est pourquoi, je suis desole. Ha ha<br>ha ha."
+    "261827": {
+        "「アハハハハハハッ！　思いだしましたか？\n　愛する両親に　ナイフを突き刺した\n　悲しくも　すばらしい瞬間を！": "Ahahahahah ! Vous vous en souvenez ? Le moment\na la fois triste et magnifique ou vous avez\nplante un couteau dans vos parents bien-aimes<br>!"
+    },
+    "261828": {
+        "「妹さんも　かわいそうに。\n　お兄さんに　大好きな両親を殺され\n　彼女も　顔と心に大きなキズを負ってしまった。": "Ta pauvre petite soeur. Ton frere a tue ses\nparents bien-aimes, et elle porte desormais de\nprofondes cicatrices sur son visage et dans<br>son coeur. Her aussi a ete marquee a jamais."
+    },
+    "261829": {
+        "「アガサ……お前は　すべて知っていて\n　俺を……。": "Agatha... tu savais tout depuis le debut, et\npourtant tu m'as..."
+    },
+    "261830": {
+        "「ぐわあああああ……ッ！！！": "Gwaaaah... !!!"
+    },
+    "261831": {
+        "「ブラーヴォー！　すべて　ワタクシの計画通り！\n　ずっと　この瞬間を　待っていたのです！\n　ディゼルさん……アナタの絶望は最高だ！": "Bravo ! Tout s'est deroule selon mon plan !\nJ'ai attendu ce moment depuis si longtemps !\nDiezel-san... Votre desespoir est exquis !"
+    },
+    "261832": {
+        "「痛いでしょう？　苦しいでしょう？\n　私が今　楽にしてさしあげましょう……。": "Cela fait mal, n'est-ce pas ? C'est difficile,\nn'est-ce pas ? Je vais vous soulager\nmaintenant..."
+    },
+    "261833": {
+        "「ヒヒッ……いただきまァすッ！": "Hi hi... A l'attaque !"
+    },
+    "261834": {
+        "「ウマァーイ！　ウマすぎる！！\n　今まで味わったことのない　深く暗い絶望……。\n　いくらでも　喰えるぞ。いくらでも……": "Delicieux ! C'est tellement bon !! Un\ndesespoir profond et sombre que je n'avais\njamais goute auparavant... Je pourrais en<br>devorer autant que je veux. Autant que je\nveux..."
+    },
+    "261835": {
+        "「………オォ？": "…Hmm ?"
+    },
+    "261836": {
+        "「バカな！？　喰っても喰っても　無くならない！\n　絶望がどんどん　ふくれ上がっていく……。": "Baka na!? J'ai beau devorer, ca ne disparait\npas ! Le desespoir ne cesse de grandir..."
+    },
+    "261837": {
+        "「このままじゃ　は　破裂するゥ……苦しい……！": "Je vais exploser comme ca... C'est\ninsoutenable... !"
+    },
+    "261838": {
+        "「だが……もはや　死んでもいい！\n　もっとだ！　この美食を　もっと味わいたいッ！\n　イヒ　ヒヒヒヒィ……！": "Mais... je pourrais mourir heureux maintenant\n! Encore plus ! Je veux savourer encore plus\nde ce festin ! Ihi hihihihi... !"
+    },
+    "261839": {
+        "「ヒヒヒ……ヒィィギャァァアアアアッ！？": "Hihi... Hiyaaaahhh !?"
+    },
+    "261840": {
+        "「く………くるな。来ないでくれ……ッ！！": "Ne... ne t'approche pas. Ne viens pas... !!"
+    },
+    "272393": {
+        "つるぎの酒場にいる　アガサに\nディゼルに起こった異変を　報告しにいこう。": "Allons informer Agatha, qui se trouve a Doom\n'n' Gloom, des evenements etranges qui sont\narrives a Diezel."
     }
 }
