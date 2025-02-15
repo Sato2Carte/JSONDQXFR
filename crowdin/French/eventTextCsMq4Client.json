@@ -1,173 +1,95 @@
 {
-    "57479": {
-        "「ルコリア。今は　来客中だ。\n　お前は　ノックも　まともにできないのか？": "Lucolia. Nous avons des invites en ce moment.\nTu ne sais meme pas frapper correctement a la\nporte ?"
+    "56676": {
+        "「チャオー！\n　バジェオじいさんの家へ　ようこそー！": "Ciao ! Bienvenue chez grand-pere Bajeo !"
     },
-    "57480": {
-        "「……ママから　話を聞いたの。\n　町の人のために　集会を開くんですってね。": "Maman m'a parle. Tu vas organiser une reunion\npour les habitants de la ville, n'est-ce pas ?"
+    "56677": {
+        "「……って　お前さん　見ない顔じゃな。\n　もしや　わしの技師としてのウデを見込んで\n　仕事の依頼にでも来たんか？": "...Tiens, je ne reconnais pas ton visage.\nSerais-tu ici pour solliciter mes talents\nd'ingenieur et me proposer du travail ?"
     },
-    "57481": {
-        "「い　忙しいとか　言い訳して　まだ一度も\n　姉さんのお墓参り……行ってないじゃない。": "Tu as toujours l'excuse d'etre occupe, mais tu\nn'es encore jamais alle te recueillir sur la\ntombe de grande soeur..."
+    "56678": {
+        "「じゃが　残念ー！　ワシは技師を辞めて\n　隠居生活を　満喫チューなのじゃ！\n　仕事の話なら　ノーセンキューじゃぞ。": "Mais helas ! J'ai pris ma retraite en tant que\ntechnicien et je profite d'une vie paisible !\nSi c'est pour parler de travail, c'est non,<br>merci."
     },
-    "57482": {
-        "「私には　町長として　なすべきことがある。\n　子供が　大人のやることに\n　いちいち　クチをはさむんじゃない。": "En tant que maire, j'ai des responsabilites a\nassumer. Les enfants ne devraient pas se meler\ndes affaires des adultes."
+    "56679": {
+        "「……な　なにっ？　お前さん\n　エイブラム船長の使いで来たじゃとっ！？": "Quoi ? Tu dis que tu es venu de la part de\nCaptain Abram !?"
     },
-    "57483": {
-        "「…………。": ""
+    "56680": {
+        "「ふ…ふんっ！　エイブラムなんて　知らんもん！\n　知らんって言ったら　知らんもん！！": "Hmph ! Je ne connais pas cet Abram ! Je te dis\nque je ne le connais pas !!"
     },
-    "57484": {
-        "「話のジャマだ。さあ　出ていけ。": "Tu genes la conversation. Allez, sors d'ici."
+    "56681": {
+        "バジェオに\n技師の工具かばんを　渡しますか？<yesno><close>": "Voulez-vous donner la Sacoche d'Ingenieur a\nBajeo ? <yesno><close>"
     },
-    "57485": {
-        "「まったく　見苦しいところを\n　お見せしましたな。\n　近頃　すっかり　生意気になりまして……。": "Je suis vraiment desole de vous avoir montre\nun tel spectacle. Ces derniers temps, il est\ndevenu extremement impertinent..."
+    "56682": {
+        "「もう　エイブラムなんて　知らんもん！\n　知らんって言ったら　知らんもん！！": "Je ne veux plus entendre parler d'Abram ! Je\nt'ai dit que je ne le connaissais pas, alors\nje ne le connais pas !"
     },
-    "57486": {
-        "「さあ　集会まで　あまり時間がありません。\n　安らぎの香の調達を　頼みましたぞ。": "Allez, il ne reste plus beaucoup de temps\navant la reunion. Je vous ai confie la tache\nde vous procurer l'Encens de Paix."
+    "56683": {
+        "<pc>は\n技師の工具かばんを　取りだした！": "<pc> a sorti le sac a outils de\nl'ingenieur !"
     },
-    "57487": {
-        "「町の大人たちったら　子供たちの幽霊に\n　恨まれてるとか　おびえちゃって　バカみたい。\n　……ほら　姉さんの日記　読んでみてよ。": "Les adultes de la ville ont vraiment peur\nd'etre hantes par les fantomes des enfants.\nC'est ridicule. Regarde, lis le journal de ma<br>grande soeur."
+    "56684": {
+        "「これは……　ワシの仕事道具……！\n　しかも　なんじゃ？　壊れたスパナの代わりに\n　ハイテクスパナが　入っておる……？": "Ca, c'est... mes outils de travail... ! Et\nqu'est-ce que c'est ? A la place de ma cle a\nmolette cassee, il y a une High-Tech Wrench...<br>?"
     },
-    "57488": {
-        "<pc>は　リゼロッタの日記帳を読んだ。": "<pc> a lu le journal de Lieselotte."
+    "56685": {
+        "「くっ！　エイブラムめ！　なんで\n　ワシの愛用のスパナを　取り替えたんじゃ！？\n　こ…こんな　ハイテクなぞにしおって！": "Argh ! Cet Abram ! Pourquoi a-t-il remplace ma\ncle a molette preferee ?! Avec... avec un\nengin aussi high-tech !"
     },
-    "57489": {
-        "……今まで　大人に反抗してきた　私たちだけど\n自力で　生活するようになってから\n大人のありがたみが　わかるようになったわ。": "Jusqu'a present, nous avons toujours defie les\nadultes, mais depuis que nous avons commence a\nvivre par nous-memes, nous avons compris a<br>quel point leur soutien est precieux."
+    "56686": {
+        "「ワシが　あのスパナに\n　どれほどの愛着を持っていたか！　壊れたら直し\n　古さならではの良さを愛して　使っていたのに！": "J'etais tellement attache a cette cle ! Je la\nreparais chaque fois qu'elle se cassait et\nl'aimais pour ses qualites uniques d'Old."
     },
-    "57490": {
-        "今は　みんなで　毎日　ダーマ神殿に行って\n大人たちが　早く帰ってくるように\nお祈りを欠かさないようにしているの。": "En ce moment, tout le monde se rend chaque\njour a l'Abbaye des Vocations pour prier sans\nrelache pour que les adultes reviennent<br>rapidement."
+    "56687": {
+        "「まったく　勝手なことをしやが……": "C'est vraiment egoiste de sa part..."
     },
-    "57491": {
-        "もしかしたら　大人たちとは\nもう　二度と会えないのかもしれないけど\n祈りつづけていれば　いつか……。": "Peut-etre que nous ne reverrons jamais les\nadultes, mais si nous continuons a prier, un\njour..."
+    "56688": {
+        "「って………………。": "...quoi..."
     },
-    "57492": {
-        "「……姉さんたちは　誰も　恨んでない。\n　毎日　ダーマ神殿で　静かにお祈りして\n　大人たちの帰りを　待ってるのよ。": "...... Les grandes soeurs n'en veulent a\npersonne. Elles prient paisiblement chaque\njour a l'Abbaye d'Alltrades, attendant le<br>retour des adultes."
+    "56689": {
+        "「………………。": ""
     },
-    "57493": {
-        "「町の大人たちは　すっかり\n　お祈りに行かなくなったのに……\n　これじゃ　まるで　あべこべだわ。": "Les adultes de la ville ont completement cesse\nd'aller prier... C'est comme si tout etait a\nl'envers."
+    "56690": {
+        "「勝手なことをするな……か。\n　そう言えば　アイツも　ケンカした時\n　同じこと言ってたなあ……。": "Ne fais pas ce que tu veux... hein. En y\nrepensant, il disait la meme chose quand on\ns'est dispute..."
     },
-    "57494": {
-        "「おお　安らぎの香を　持ってきてくれましたか。\n　集会に間に合ったようで　何よりです。\n　さっそく　渡していただけますかな？<yesno><close>": "Oh, vous avez apporte l'Encens de Paix. Il\nsemblerait que vous soyez arrive a temps pour\nla reunion, c'est l'essentiel. Pourriez-vous<br>me le remettre immediatement ? <yesno><close>"
+    "56691": {
+        "「……そうか。\n　アイツは　こんな気持ちじゃったのか。": "Je vois. C'est donc ce qu'il ressentait."
     },
-    "57495": {
-        "「……おや　どうしました。\n　安らぎの香がないと　集会が始められません。\n　さあ　渡していただけますかな？<yesno><close>": "......Oh, que se passe-t-il ? Nous ne pouvons\npas commencer la reunion sans l'encens de\npaix. Allez, pourriez-vous me le donner ?<br><yesno><close>"
+    "56692": {
+        "「ぶひゃひゃひゃひゃひゃ！！": "Buhyah yah yah yah yah yah !!"
     },
-    "57496": {
-        "<pc>は　ブラト町長に\n安らぎの香を　渡した。": "<pc> a remis l'Encens de Paix au Maire\nBurat."
+    "56693": {
+        "「エイブラムめ　こしゃくなマネを！\n　オーケー　オーケー！　ワシも　悪かったわ！\n　そもそも先にやっちゃったのは　ワシじゃしな！": "Cet Abram, quel impertinent ! D'accord,\nd'accord ! J'admets que j'ai aussi mes torts !\nApres tout, c'est moi qui ai commence en<br>premier !"
     },
-    "57497": {
-        "「いや　助かりました。\n　今回は　特別ゲストも　お招きしていますし\n　この集会は　きっと　うまくいくことでしょう。": "Ah, vous m'avez sauve. Cette fois, nous avons\naussi invite un invite special, cette reunion\nse passera surement bien."
+    "56694": {
+        "「そう……。ワシは　あのエイブラムが\n　何より愛する　グランドタイタス号の心臓部\n　……動力装置に　やらかしちゃったんじゃよ。": "Oui... J'ai vraiment cause des degats au coeur\nde Grand Titus, le moteur que cet Abram\ncherissait par-dessus tout."
     },
-    "57498": {
-        "「ためになるお話が　聞けますし\n　ぜひ　あなたも参加していってください。": "Vous pourrez entendre des histoires\nenrichissantes, alors n'hesitez pas a\nparticiper."
+    "56695": {
+        "「修理の時……　ワシは　ヤツのためを思い\n　あの船が　迷いの霧の嵐にも耐えられるよう\n　最新の動力装置を開発して　載せてやった。": "Lors des reparations... pour son bien, j'ai\ndeveloppe et installe un systeme de propulsion\ndernier cri sur ce bateau, afin qu'il puisse<br>resister aux tempetes du brouillard de\nl'egarement."
     },
-    "57499": {
-        "町中の　大人たちが\n集会所に　集まってきた。": "Les adultes de la ville se sont rassembles\ndans la salle de reunion Assembly Hall."
+    "56696": {
+        "「なのに　アイツときたら　船の最大の\n　ミリョクである　武骨で味わいのある動力装置を\n　勝手に　ハイテクにしたって　怒ったんじゃ！": "Et pourtant, cet idiot a decide tout seul de\ntransformer l'authentique et robuste moteur,\nqui est le charme principal du navire, en une<br>machine high-tech. Ca m'a vraiment mis en\ncolere !"
     },
-    "57500": {
-        "「皆さん　本日は\n　突然の集会に　お集まりいただき\n　まことに　ありがとうございます。": "Mesdames et Messieurs, merci a tous de vous\netre rassembles pour cette reunion imprevue\naujourd'hui."
+    "56697": {
+        "「あんときは　なんて了見のせまいヤツじゃ！　と\n　怒りにまかせ　工具かばんをほっぽり出して\n　つい　船を下りてしまったが……": "A ce moment-la, je me suis dit : Quel type\netroit d'esprit !. Sous l'emprise de la\ncolere, j'ai jete ma boite a outils et j'ai<br>fini par descendre du bateau..."
     },
-    "57501": {
-        "「あの　古い教会の事故が起きてから\n　この町は　深い悲しみに包まれ　幽霊の姿に\n　おびえるようになりました。そこで……": "Depuis l'accident de cette vieille eglise,\ncette ville est enveloppee d'une profonde\ntristesse et a commence a s'effrayer a la vue<br>des fantomes. C'est pourquoi..."
+    "56698": {
+        "「同じことをされて　ワシもわかった。\n　よかれと思ってやったことが\n　相手を怒らせることも　あるんじゃな。": "En subissant la meme chose, j'ai compris. Meme\nsi l'on pense bien faire, cela peut parfois\nprovoquer la colere chez l'autre."
     },
-    "57502": {
-        "「……本日は　そんな　皆さんを\n　悩みや　苦しみから解き放つため\n　このぼくが　やってきました。": "Aujourd'hui, je suis venu pour liberer chacun\nde vous de vos soucis et de vos souffrances."
+    "56699": {
+        "「まあ　これで　おあいこじゃ！\n　かばんを届けてくれたのは　技師を続けろという\n　エイブラムなりの　メッセージじゃろうよ。": "Eh bien, nous sommes quittes maintenant ! Le\nfait que tu m'aies rapporte mon sac doit etre\nle message d'Abram pour me dire de continuer<br>en tant qu'ingenieur."
     },
-    "57503": {
-        "「ぼくは　サダク。\n　悪霊におびやかされている　この町を\n　救うためにやってきた　旅の霊媒師です。": "Je suis Sadak. Je suis un medium itinerant\nvenu sauver cette ville menacee par des\nesprits malefiques."
+    "56700": {
+        "「さて……まずは　この　技師の工具かばんで\n　たまった仕事を片付けることから　始めるかの。\n　む？　そういえば……": "さてまずはこのEngineer's Toolbagで\nたまった仕事を片付けることから始めるかの む？ そういえば"
     },
-    "57504": {
-        "「ウ　ウチの子を……悪霊ですって！？": "Mon... mon enfant est... un mauvais esprit !?"
+    "56701": {
+        "「グランゼドーラ城の例の装置も　そろそろ……。\n　おっと！　すまん　こっちの話じゃ。\n　んでは　エイブラムに　よろしくのう！": "L'appareil du chateau de Gran Zedora aussi,\nbientot... Oh ! Desole, c'etait une\nconversation de mon cote. Allez, transmettez<br>mes salutations a Abram !"
     },
-    "57505": {
-        "「……そう　悪霊なのです。\n　恨みを抱いたまま　死んでしまった者の魂は\n　悪霊となって　生者を呪うのですよ。": "... Oui, ce sont des mauvais esprits. Les ames\nde ceux qui sont morts en portant de la\nrancoeur deviennent des esprits malveillants et<br>maudissent les vivants."
+    "56702": {
+        "「チャオー！\n　天才技師バジェオの家に　ようこそー！": "Ciao ! Bienvenue dans la maison de Bajeo, le\ngenie des ingenieurs !"
     },
-    "57506": {
-        "「まずは　悪霊が入ってこないように\n　安らぎの香に　ぼくが用意した聖灰を混ぜて\n　たくことで　この集会所を清めましょう。": "Tout d'abord, pour empecher les mauvais\nesprits d'entrer, melangeons la cendre sacree\nque j'ai preparee avec l'encens de paix et<br>purifions ainsi cette salle de reunion."
+    "56703": {
+        "「……っと　お前さんか。\n　いつぞやは　世話になったのう。": "…Ah, c'est toi. A un moment, tu m'avais bien\naide."
     },
-    "57507": {
-        "「あら？　いい香り……。": "Oh ? Une bonne odeur..."
+    "56704": {
+        "「エイブラムのヤツは　相変わらず素直じゃなくて\n　わざわざ　スパナを交換して　届けるなんて\n　回りくどいことをしてくれやがったが……": "Abram, fidele a lui-meme, n'est toujours pas\ntres franc. Il s'est donne la peine d'echanger\nla cle a molette et de la livrer lui-meme,<br>quelle maniere detournee de faire les\nchoses..."
     },
-    "57508": {
-        "「ああ……なんだか　安らぐよ……。": "Ahh... Je me sens apaise..."
+    "56705": {
+        "「工具が戻ってきて　正直　助かった。\n　グランゼドーラ城の　あの装置も　そろそろ\n　メンテナンスが必要な頃じゃったしな！": "Les outils sont revenus, et honnetement, ca\nm'aide beaucoup. L'appareil du chateau de Gran\nZedora a egalement besoin d'un peu de<br>maintenance, c'est le bon moment !"
     },
-    "57509": {
-        "「……さあ　お子さんが　生きていた時のことを\n　ようく　思いだしてみてください。": "......Alors, essayez de bien vous rememorer la\nperiode ou votre enfant etait en vie."
-    },
-    "57510": {
-        "「彼らが　何か恨みを抱くような\n　きっかけは　ありませんでしたか？\n　子供に　つらく当たった覚えは　ありませんか？": "Y a-t-il eu un evenement qui aurait pu leur\ndonner une raison de vous en vouloir ?\nN'avez-vous pas ete severe avec les enfants ?"
-    },
-    "57511": {
-        "「わ　私……いつも　門限を厳しくして\n　あまり　遊ばせてあげなかったわ……。": "Je... je vous ai toujours impose un couvre-feu\nstrict et je ne vous ai pas laisse beaucoup\nvous amuser..."
-    },
-    "57512": {
-        "「オ　オレ……しょっちゅう\n　勉強しろって　お説教してたから\n　それが　子供を追い詰めたのかも……。": "Je... Je lui faisais souvent des sermons pour\nqu'il etudie, alors peut-etre que cela a\npousse l'enfant a bout..."
-    },
-    "57513": {
-        "「なるほど……。厳しい　しつけに追い詰められ\n　町の子供たちは　大人を嫌い\n　古い教会に閉じこもって　遊ぶようになった。": "Je vois... Sous la pression d'une education\nstricte, les enfants de la ville en sont venus\na detester les adultes et se sont mis a jouer<br>enfermes dans l'Old Church."
-    },
-    "57514": {
-        "「そして　ガケ崩れにより　命を落とし\n　この世に　恨みを抱いたまま　悪霊として\n　さまよっているのですね……。": "Et ainsi, vous avez perdu la vie a cause de\nl'eboulement, et vous errez maintenant en tant\nque mauvais esprit, toujours rempli de rancune<br>envers ce monde..."
-    },
-    "57515": {
-        "「このままだと　皆さんは　悪霊に呪われ続け\n　いずれは　道連れに……。": "Si cela continue ainsi, vous serez tous\nmaudits par les mauvais esprits et finiront\npar etre entraines avec eux..."
-    },
-    "57516": {
-        "「ですが　ご安心ください。\n　皆さんが　悪霊におびやかされぬよう\n　これからは　ぼくが　お守りいたします！": "Cependant, soyez rassures. A partir de\nmaintenant, je vous protegerai pour que vous\nne soyez plus menaces par les mauvais esprits<br>!"
-    },
-    "57517": {
-        "「……あなた　ウソつきね。": "......Tu es un menteur."
-    },
-    "57518": {
-        "「姉さんたちは　大人を　恨んでなんかいない。\n　この日記帳を見れば　わかるはず……。": "Mes soeurs ne detestent pas les adultes. Tu\ndevrais pouvoir le comprendre en lisant ce\njournal..."
-    },
-    "57519": {
-        "「……これは　姉さんの遺品。\n　この世と　あの世をつなぐ　特別な日記帳よ。": "Ceci est le souvenir de ma soeur. C'est un\njournal special qui relie ce monde a\nl'au-dela."
-    },
-    "57520": {
-        "「……中を読めば　あの世のことが　わかるわ。\n　教会の事故で　死んだ子供たちは\n　自分が死んだってことに　気づいてないの。": "…En lisant a l'interieur, tu comprendras le\nmonde de l'au-dela. Les enfants qui sont morts\ndans l'accident de l'eglise ne se rendent pas<br>compte qu'ils sont morts."
-    },
-    "57521": {
-        "「子供しかいない　死の世界で\n　どこかに消えてしまった　大人たちが\n　帰ってきてくれるのを　待ち続けているのよ！": "Dans ce monde des morts ou seuls les enfants\nexistent, nous continuons a attendre que les\nadultes, qui ont disparu quelque part,<br>reviennent vers nous !"
-    },
-    "57522": {
-        "「ルコリア！　また　私に逆らおうというのか！": "Lucolia ! Tu oses encore me defier !"
-    },
-    "57523": {
-        "「……わざわざ　リゼロッタの字まで　マネして\n　ずいぶん　手の込んだ話を作ったものだ。\n　子供の空想で　大人を振り回すんじゃない。": "Tu as meme pris la peine d'imiter l'ecriture\nde Lieselotte pour creer cette histoire si\nelaboree. Ne laisse pas l'imagination des<br>enfants embrouiller les adultes."
-    },
-    "57524": {
-        "「く……空想なんかじゃ……": "C-Ce n'est pas qu'une simple imagination..."
-    },
-    "57525": {
-        "「さっさと　出ていけ！\n　もう　二度と　私のジャマをするな！": "Sors d'ici immediatement ! Ne me derange plus\njamais !"
-    },
-    "57526": {
-        "「まったく　ウチの娘が　とんだ失礼を……。\n　大切な集会に　水を差してしまいましたな。": "Vraiment, ma fille a ete terriblement\nimpolie... Elle a perturbe notre precieuse\nreunion."
-    },
-    "57527": {
-        "「いえいえ　お気になさらず。\n　今日のところは　ひとまず　お開きにして\n　集会の続きは　また後日おこないましょう。": "Non, non, ne vous en faites pas. Pour\naujourd'hui, concluons ici, et poursuivons\nnotre reunion un autre jour."
-    },
-    "57528": {
-        "「目的は　果たせましたし\n　今日のところは　これで失礼いたします。\n　悪霊のことは　ぼくに　おまかせください。": "Mon objectif est atteint, je vais donc prendre\nconge pour aujourd'hui. Laissez-moi m'occuper\ndes mauvais esprits."
-    },
-    "57529": {
-        "大人たちは　サダクの後に\nしたがうように　出ていった……。": "Les adultes ont suivi Sadak et sont sortis..."
-    },
-    "57530": {
-        "「せっかく　準備を手伝っていただいたのに\n　こんなカタチで　終わってしまい\n　申し訳ありませんでしたな。": "Je suis desole que tout se soit termine de\ncette maniere, alors que vous aviez pris la\npeine de m'aider avec les preparatifs."
-    },
-    "57531": {
-        "「サダクさんの言った通り　安らぎの香のおかげで\n　皆さん　途中までは　リラックスして\n　お話を聞いていてくれたのですが……。": "Comme l'a dit Sadak-san, grace a l'encens de\npaix, tout le monde a pu se detendre et\necouter l'histoire jusqu'a un certain point..."
-    },
-    "57532": {
-        "「これにこりず　また\n　次の集会に　ご参加ください。\n　これは　今回のお礼です。": "Ne vous laissez pas decourager, et participez\na notre prochaine reunion. Voici un\nremerciement pour cette fois-ci."
-    },
-    "57533": {
-        "「……それでは　失礼。": "...... Sur ce, je vous laisse."
-    },
-    "87147": {
-        "「あなたに　取ってきていただきたい\n　安らぎの香は　リャナ荒涼地帯にいる\n　<%sEV_QUE_NAME0>が　落とすそうなのです。": "J'aimerais que vous alliez chercher pour moi\nl'Encens de Paix que le <%sEV_QUE_NAME0>\nlaisse tomber dans la region desolee de Lyana."
-    },
-    "87175": {
-        "「そ　そんなことより　姉さんのお墓に……\n　お花のひとつでも　供えてきたらどうなの？": "Plutot que de parler de ca... Ne devrais-tu\npas aller deposer une fleur sur la tombe de\nnotre soeur ?"
+    "56706": {
+        "「さすがは　エイブラム！\n　バッチリ　グッドな　タイミングじゃったぞい！\n　……んでは　エイブラムに　よろしくのう！": "Comme prevu d'Abram ! C'etait une performance\nparfaitement bonne de Red Snapper ! ...Eh\nbien, transmettez mes salutations a Abram !"
     }
 }
