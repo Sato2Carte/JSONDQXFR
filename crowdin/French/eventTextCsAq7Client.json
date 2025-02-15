@@ -1,125 +1,230 @@
 {
-    "63716": {
-        "「この音色……\n　以前　私たちが来た時に\n　聞こえた音と　同じだわ……。": "Cette melodie... C'est la meme que celle que\nnous avions entendue la derniere fois que nous\nsommes venus..."
+    "63757": {
+        "「………………。": ""
     },
-    "63717": {
-        "「ここから先は　魔物が集まってて　危険ですわ。\n　さあ　レムオルの粉をかけますわよ。": "Au-dela de cet endroit, les monstres se\nrassemblent et c'est dangereux. Allez, je vais\nutiliser la Poudre de Disparition."
+    "63758": {
+        "「あぁ……　なんてことだ……。": "Ah... Quelle catastrophe..."
     },
-    "63718": {
-        "「すっかり　見えなくなりましたわね。\n　この効果は　あまり　長くもたないそうですから\n　急いで　行きましょう。": "On ne voit plus rien maintenant. Il parait que\ncet effet ne dure pas tres longtemps, alors\ndepechons-nous d'y aller."
+    "63759": {
+        "「……今　人と話す気分じゃないんだ。\n　悪いけど　ひとりにしてくれるかな。": "......En ce moment, je n'ai pas envie de\nparler a qui que ce soit. Desole, mais\npourrais-tu me laisser seul ?"
     },
-    "63719": {
-        "「ご　ごめんなさい！\n　どこにいるか　わからなくて……。\n　手探りしながら　行きますわね。": "Je suis... desolee ! Je ne sais pas ou je\nsuis... Je vais avancer en tatonnant."
+    "63760": {
+        "「……おや。リゼロッタから\n　僕の頼みを　聞いてくれって　言われたのかい？": "Oh. Lieselotte t'a demande d'ecouter ma\nrequete ?"
     },
-    "63720": {
-        "「やあ　こんにちは。\n　キミたちも　僕の演奏を聴きにきたのかい？": "Salut, bonjour. Vous etes venus ecouter mon\nconcert, vous aussi ?"
+    "63761": {
+        "「じつは　トゥーラを　ずっと練習していたら\n　弦が　切れてしまってさ。\n　弾くことができずに　困ってたんだ。": "En fait, j'ai beaucoup pratique le Torban, et\nla corde a fini par casser. Je suis embete, je\nne peux plus en jouer."
     },
-    "63721": {
-        "「……あなた　誰？\n　ここで　いったい何をしているの？": "Qui etes-vous ? Que faites-vous ici exactement\n?"
+    "63762": {
+        "「いつもなら　予備の弦を持っているんだけど\n　僕のかばんの中に　しまったまま\n　父さんに　預けっぱなしだったんだよね。": "Normalement, j'ai toujours des cordes de\nrechange avec moi, mais je les ai laissees\ndans mon sac, que j'avais confie a mon pere."
     },
-    "63722": {
-        "「僕は　セリク。\n　グランゼドーラ王国から　やってきた\n　トゥーラ弾きの　セリクさ。": "Je suis Selik. Je viens du Royaume de Gran\nZedora, et je suis Selik, le joueur de Torban."
+    "63763": {
+        "「キミが　父さんの持ってる　かばんを\n　ここに届けてくれるなら　修理もできるけど\n　そんなの　無理だろうし……。": "Si tu pouvais m'apporter le sac que ton pere\na, je pourrais le reparer, mais... c'est\nimpossible, n'est-ce pas ?"
     },
-    "63723": {
-        "「ずっとひとりで　退屈だったから\n　愛用のトゥーラを　奏でていたんだ。\n　そしたら　魔物が集まってしまってね。": "J'etais seul et je m'ennuyais, alors je jouais\nde mon fidele Torban. Et voila que des\nmonstres se sont rassembles autour de moi."
+    "63764": {
+        "「……それにしても　父さんと母さんは\n　いったい　どこに行ったんだろう？\n　一緒に　セレドの町に来るはずだったのに。": "Cela dit, ou papa et maman ont-ils bien pu\naller ? Ils etaient censes venir avec moi a la\nTown of Celed."
     },
-    "63724": {
-        "「はじめは　びっくりしたけど\n　みんな　僕の曲が聴きたいだけみたいだから\n　敵意はないと思うよ。安心して。": "Au debut, j'etais surpris, mais il semble que\ntout le monde veut juste ecouter ma musique.\nJe ne pense pas qu'ils soient hostiles.<br>Rassure-toi."
+    "63765": {
+        "「……トゥーラの弦が　切れてしまって\n　弾くことが　できないんだ。": "......Les cordes du Torban sont cassees, je ne\npeux plus en jouer."
     },
-    "63725": {
-        "「……あなたは　どうして\n　こんな　ほら穴に　ひとりでいるの？\n　お父さんや　お母さんは　いないの？": "Pourquoi es-tu ici tout seul dans cette grotte\n? Tu n'as pas de pere ou de mere ?"
+    "63766": {
+        "「父さんが持っている　予備の弦が入ったかばんを\n　キミが　ここに届けてくれるなら\n　修理もできるけど　そんなの無理だろうしね。": "Si tu pouvais apporter ici le sac contenant\nles cordes de rechange que papa a, je pourrais\naussi faire la reparation, mais ca me semble<br>impossible, n'est-ce pas ?"
     },
-    "63726": {
-        "「僕は　父さんや母さんと一緒に\n　セレドという町に行くところだったんだ。\n　だけど　その道中で　気を失ってしまって……": "J'etais en route pour la ville de Seredo avec\nmon pere et ma mere. Mais en chemin, j'ai\nperdu connaissance..."
+    "63767": {
+        "「……それにしても　父さんと母さんは\n　いったい　どこに行ったんだろう？\n　一緒に　セレドの町に来るはずだったのに。": "Cela dit, ou papa et maman ont-ils bien pu\naller ? Ils etaient censes venir avec moi a la\nTown of Celed."
     },
-    "63727": {
-        "「目が覚めたら　ふたりとも　いなくなっててさ。\n　さまよい歩いて　たどりついた　このほら穴で\n　誰かが見つけてくれるのを　待っていたんだよ。": "Quand je me suis reveille, vous etiez tous les\ndeux partis. J'ai erre jusqu'a atteindre cette\ncaverne, en esperant que quelqu'un viendrait<br>me trouver."
+    "63768": {
+        "「……おや？\n　もしかして　セリクのファンの方ですか？": "...Oh ? Seriez-vous un fan de Selik ?"
     },
-    "63728": {
-        "「そう……。\n　あなたの　お父さんも　お母さんも\n　いつの間にか　消えてしまったのね。": "Je vois... Ton pere et ta mere ont disparu\nsans que tu t'en rendes compte."
+    "63769": {
+        "「こんな遠い所まで　わざわざ……。\n　さあ　どうぞ　会っていってください。": "Vous etes venu de si loin, expres... Allez-y,\nrencontrez-le, je vous en prie."
     },
-    "63729": {
-        "「私の名前は　リゼロッタ。\n　もし　よろしかったら　私と一緒に\n　セレドの町まで　参りませんこと？": "私の名前はリゼロッテ もしよろしければ、一緒にセレッドの町まで参りませんか？"
+    "63770": {
+        "「息子は　かつて　グランゼドーラ王国で\n　トゥーラの名手として　人気を集めていましたが\n　そんな栄華も　今となっては昔の話です。": "Mon fils etait autrefois tres populaire en\ntant que maitre du Torban au royaume de Gran\nZedora, mais toute cette gloire appartient<br>desormais au passe."
     },
-    "63730": {
-        "「おや……？\n　キミは　セレドの町の子なのかい？": "Oh… ? Es-tu l'enfant de la Ville de Celed ?"
+    "63771": {
+        "「はるばる　入院先まで　お見舞いに来てくださる\n　あなたのような　熱心なファンが\n　まだ　いらしたんですね……。": "Je suis touche de voir qu'un fan aussi devoue\nque vous ait fait tout ce chemin jusqu'a\nl'hopital pour me rendre visite..."
     },
-    "63731": {
-        "「ええ。あなたさえよければ\n　その　すばらしいトゥーラの音色を\n　町のみんなに　聴かせてあげてほしいわ。": "Oui. Si cela vous convient, j'aimerais que\ntout le monde en ville puisse entendre le\nmerveilleux son de votre Torban."
+    "63772": {
+        "「ほら　セリク。\n　あなたに　お客さんよ……。": "Regarde, Selik. Tu as de la visite..."
     },
-    "63732": {
-        "「……ふふっ。\n　それじゃ　お言葉に　甘えようかな。": "…Fufufu. Dans ce cas, je vais accepter votre\noffre."
+    "63773": {
+        "「この子は　身体の端から　少しずつ\n　石化してしまう難病を　わずらっていて\n　もう　ずっと　こんな状態なんです。": "Cette enfant souffre d'une maladie rare qui\npetrifie progressivement son corps, et elle\nest dans cet etat depuis un certain temps."
     },
-    "63733": {
-        "「<pc>さん　そういうことですから\n　私　彼を　セレドの町まで連れていきますわ。": "<pc>-san, c'est ainsi que les choses se\npassent. Je vais l'accompagner jusqu'a la\nville de Celed."
+    "63774": {
+        "「いつか　グランゼドーラの音楽祭で\n　優勝するのが夢だと言って　がんばっていたのに\n　なぜ　よりによって　うちのセリクが……。": "Elle disait que son reve etait de remporter le\nfestival de musique de GlMP Zedora et elle\ntravaillait si dur pour y parvenir...<br>Pourquoi, parmi tant de possibilites, cela\ndevait-il arriver a notre Selik..."
     },
-    "63734": {
-        "「今回のお礼を　差し上げますから\n　後で　セレドの町の\n　高台の教会まで　いらしてください。": "En remerciement, je vous offre un petit\nquelque chose. Je vous prie de bien vouloir\nvous rendre plus tard a la Haute Eglise de la<br>Ville de Celed."
+    "63775": {
+        "「この　おぞましい病気が治療できたとしても\n　息子の指が　動くようになる保証はありません。\n　長く　つらい訓練が必要とのことです。": "Bien que cette maladie effroyable puisse etre\ntraitee, rien ne garantit que les doigts de\nvotre fils retrouveront leur mobilite. Un long<br>et difficile entrainement sera necessaire."
     },
-    "63735": {
-        "「さあ　こちらですわ。": "Par ici, s'il vous plait."
+    "63776": {
+        "「その道中　ついに　リャナ荒涼地帯の山道で\n　意識を失ってしまい\n　それ以来　目を覚まさないのですよ。": "Sur le chemin, elle a finalement perdu\nconnaissance dans le sentier montagneux de\nLyana Desolate Area, et depuis, elle ne s'est<br>pas reveillee."
     },
-    "63736": {
-        "「わぁっ　すごい　すごいー！": "Waouh, incroyable, incroyable !"
+    "63777": {
+        "「しかも　この子が大事にしていた　かばんも\n　魔物に奪われてしまうし\n　まったく　災難続きですね……。": "En plus, le sac que cet enfant tenait si\nprecieusement a ete vole par des monstres.\nQuelle serie de malheurs..."
     },
-    "63737": {
-        "「すごく　キレイな音色だね。\n　感動したよ……。": "Quelle belle melodie. Je suis vraiment\ntouche..."
+    "63778": {
+        "「え……　そのかばんが　どうなったかですって？\n　リャナ荒涼地帯の　<%sEV_QUE_NAME0>に\n　ひったくられたままですが　それが何か……？": "Hein... Vous me demandez ce qu'il est advenu\nde ce sac ? Il a ete vole par <%sEV_QUE_NAME0>\ndans la zone desolee de Lyana, mais pourquoi<br>cette question...?"
     },
-    "63738": {
-        "「やだ　アタシ　泣いちゃった……。": "Zut, j'ai pleure..."
+    "63779": {
+        "「そろそろ　検査のお時間です。\n　どうぞ　お引き取りください。": "Il est presque l'heure de l'examen. Je vous\nprie de bien vouloir vous retirer."
     },
-    "63739": {
-        "「……ね。ステキでしょう？\n　前に　山の中で見かけた　魔物の群れは\n　この演奏を聴きに　集まってたのよ。": "...Tu vois, n'est-ce pas magnifique ? La\nderniere fois, un groupe de monstres que j'ai\napercu dans la montagne s'etait rassemble pour<br>ecouter cette melodie."
+    "63780": {
+        "「……おっと　時間のようですね。\n　この子も　お客さんが来ると　うれしいだろうし\n　また　面会にいらしてください。": "Oh, il semble que le temps soit ecoule. Cette\npetite sera surement contente de recevoir des\nvisites, alors n'hesitez pas a revenir la<br>voir."
     },
-    "63740": {
-        "「彼は　セリクっていうの。\n　ご両親と一緒に　セレドの町に\n　来るはずだったんですって。": "Il s'appelle Selik. Il devait venir a la Ville\nde Celed avec ses parents."
+    "63781": {
+        "「………………。": ""
     },
-    "63741": {
-        "「けれど　町に来る途中　気を失って\n　目が覚めたら　お父さんも　お母さんも\n　消えていたそうなの……。": "Mais, sur le chemin pour venir en ville, il a\nperdu connaissance. Quand il s'est reveille,\nson pere et sa mere avaient disparu..."
+    "63782": {
+        "「ああっ　それは　僕のかばんじゃないか！\n　僕の両親は　いったい　どこにいたんだい？": "Ah ! Ce n'est pas mon sac, ca ! Ou etaient\ndonc mes parents ?"
     },
-    "63742": {
-        "「リズ　それって……。": "Riz, c'est..."
+    "63783": {
+        "「……まあ　トゥーラさえ直せれば\n　そんなこと　どうだっていいか。\n　さあ　かばんを　渡してくれないか？<yesno><close>": "Eh bien, tant que je peux reparer Torban, peu\nimporte pour le reste. Alors, pourrais-tu me\ndonner le sac ? <yesno><close>"
     },
-    "63743": {
-        "「……みんな。\n　セリクを　私たちの\n　新しい仲間に加えていいかしら？": "......Tout le monde. Est-ce que ca vous va si\nnous ajoutons Selik comme notre nouveau\ncompagnon ?"
+    "63784": {
+        "「……トゥーラが　弾けないと\n　僕は　生きていけないよ。\n　お願いだから　かばんを渡してくれ。<yesno><close>": "Si je ne peux pas jouer du Torban, je ne peux\npas vivre. Je t'en prie, rends-moi mon sac.\n<yesno><close>"
     },
-    "63744": {
-        "「ありがとう　みんな。": "Merci a tous."
+    "63785": {
+        "<pc>は　セリクのかばんを\nセリクに　渡した。": "<pc> a remis le Sac de Selik a Selik."
     },
-    "63745": {
-        "「これから　よろしくお願いしますわ。\n　私や　みんなを　家族だと思って\n　いつでも　頼りにしてくださいな。": "A partir de maintenant, je compte sur vous.\nConsiderez-moi et tout le monde ici comme\nvotre famille. N'hesitez jamais a faire appel<br>a nous."
+    "63786": {
+        "「ありがとう。これで　やっと\n　トゥーラの修理に　とりかかれるよ。\n　さて……。": "Merci. Avec cela, je vais enfin pouvoir\nm'occuper de la reparation de Torban. Bon,\nalors..."
     },
-    "63746": {
-        "「……ところで　気になってたんだけど\n　この町にいるのは　子供たちばかりだね。\n　大人は　いないのかい？": "…Au fait, ca m'intriguait, mais il n'y a que\ndes enfants dans cette ville. Il n'y a pas\nd'adultes ?"
+    "63787": {
+        "「ふふっ。すっかり　元通りさ。\n　それじゃ　さっそく……。": "Fufufu. Tout est revenu a la normale. Alors,\nsans plus attendre..."
     },
-    "63747": {
-        "「そっ……　それはね　ええと……。": "Euh... eh bien, c'est... voyons voir..."
+    "63788": {
+        "「どうやら　セリクのトゥーラは\n　無事に　直ったみたいですわね。\n　<pc>さん　ありがとうございます。": "Il semblerait que le Torban de Selik soit\nrepare sans encombre. Merci beaucoup,\n<pc>-san."
     },
-    "63748": {
-        "「まあ　そんなこと　どうでもいいか。\n　ちょっと　トゥーラの練習をしてくるよ。": "Eh bien, peu importe tout ca. Je vais aller\nm'entrainer un peu au Torban."
+    "63789": {
+        "「ねえ　セリク。\n　ちょっと　お話があるから\n　高台の教会の２階まで　来てくださる？": "He, Selik. J'aimerais te parler un moment.\nPourrais-tu venir au deuxieme etage de la High\nChurch ?"
     },
-    "63749": {
-        "「なんだか　彼　不思議な人ね……。": "Il est vraiment etrange, cet homme..."
+    "63790": {
+        "「とても　大事なお話ですから\n　<pc>さんも　ぜひ　いらしてください。\n　それでは　お待ちしてますわ。": "C'est une discussion tres importante, alors\n<pc>-san, je vous prie de bien vouloir\nvenir. Nous vous attendons avec impatience."
     },
-    "63750": {
-        "「<pc>さんも　お気づきかもしれませんが\n　セリクも　その……\n　私たちと同じなんだと思いますの。": "<pc>-san, vous l'avez peut-etre\nremarque, mais Selik est aussi... Je pense\nqu'il est comme nous."
+    "63791": {
+        "「トゥーラの練習が　したかったのに……。\n　大事な話って　なんだろう？　": "Je voulais m'entrainer sur le Torban... Quelle\nest cette affaire importante ?"
     },
-    "63751": {
-        "「きっと　セレドの町に来る道中で\n　何か　不幸があって　それで……。": "Peut-etre qu'en chemin vers la ville de Celed,\nil leur est arrive un malheur, et alors..."
+    "63792": {
+        "「あっ　<pc>　いらっしゃい！": "Ah, <pc>, bienvenue !"
     },
-    "63752": {
-        "「まだ　本人は　気づいてないみたいですが\n　いつか　折を見て　伝えるつもりですから\n　今は　そっとしておいてあげてください。": "Il semble qu'il ne s'en soit pas encore rendu\ncompte, mais je prevois de le lui dire quand\nle moment sera opportun. Pour l'instant,<br>laissez-le tranquille, s'il vous plait."
+    "63793": {
+        "「へへっ　あとは　主役だけだな！": "Hehe, il ne reste plus que le role de Lord !"
     },
-    "63753": {
-        "「今回は　私の頼みを聞いてくださって\n　ありがとうございます。\n　これは　私からのお礼ですわ。": "Cette fois-ci, merci d'avoir ecoute ma\ndemande. Voici un petit remerciement de ma\npart."
+    "63794": {
+        "「おや　なんだか　にぎやかだね……？": "Oh, ca a l'air anime ici..."
     },
-    "63754": {
-        "「それでは　失礼いたしますわ。": "Sur ce, je vais prendre conge."
+    "63795": {
+        "「いったい　どうしたんだい……？": "Qu'est-ce qui s'est passe...?"
     },
-    "63755": {
-        "「……なぜか　わからないけど\n　ここにいると　落ち着くんだ。": "...Je ne sais pas pourquoi, mais etre ici me\ncalme."
+    "63796": {
+        "「きょうは　セリクの　かんげいパーティーよ！": "Aujourd'hui, c'est la fete de bienvenue pour\nSelik !"
     },
-    "63756": {
-        "「でも　見られてると　集中できないよ。\n　悪いけど　ひとりで練習させてくれないかな。": "Mais si on me regarde, je ne peux pas me\nconcentrer. Desole, mais pourrais-tu me\nlaisser m'entrainer seul ?"
+    "63797": {
+        "「へへっ。びっくりしただろ？\n　ずっと　ナイショにしてたんだぜ！": "Hehe. Tu es surpris, n'est-ce pas ? Je l'ai\ngarde secret tout ce temps !"
+    },
+    "63798": {
+        "「女王様が　あなたのために\n　パーティーをしようって　言ってね。\n　みんなで　こっそり準備してたのよ。": "La reine a dit qu'elle voulait organiser une\nfete pour vous. Nous avons tous prepare cela\nen secret."
+    },
+    "63799": {
+        "「わぁ……　すごい！\n　これ　みんな　キミたちが用意したのかい？": "Waouh... incroyable ! Est-ce que c'est vous\ntous qui avez prepare tout ca ?"
+    },
+    "63800": {
+        "「自分でお菓子を作るなんて　はじめてだったから\n　おいしくできたか　自信ないけれど……。\n　みんな　手伝ってくれましたの。": "C'etait la premiere fois que je faisais des\ngateaux moi-meme, alors je ne suis pas sure\nqu'ils soient delicieux... Mais tout le monde<br>m'a aidee."
+    },
+    "63801": {
+        "「それから　あなたに\n　プレゼントも　ありますのよ。": "Et ensuite, j'ai aussi un cadeau pour vous."
+    },
+    "63802": {
+        "「このロザリオは　セレドの町の……。\n　子供の国の一員としての　絆の証ですわ。": "Ce rosaire Leo est... la preuve de notre lien\nen tant que membre du Royaume des Enfants de\nla ville de Celed."
+    },
+    "63803": {
+        "「……これも　キミたちの　手作りなのかい？": "......Est-ce aussi fait maison par vous?"
+    },
+    "63804": {
+        "「ご両親がいなくて　つらい時もあると思うけれど\n　そんな時は　このロザリオを見て\n　私たちという仲間がいることを　思いだして。": "Il y aura des moments difficiles sans tes\nparents, mais dans ces instants, regarde ce\nRosaLeo et souviens-toi que tu as des amis<br>comme nous."
+    },
+    "63805": {
+        "「この絆がある限り　あなたは\n　いつだって　私たちの大切な仲間よ。": "Tant que ce lien existe, tu seras toujours un\nmembre precieux de notre groupe."
+    },
+    "63806": {
+        "「ありがとう……。こんなに　心のこもった\n　もてなしを受けたのは　生まれて　はじめてだ。": "Merci... C'est la premiere fois de ma vie que\nje recois un accueil aussi chaleureux."
+    },
+    "63807": {
+        "「みんなへの　感謝のしるしに\n　一曲　プレゼントさせてもらうよ。": "En guise de remerciement a vous tous, je vais\nvous offrir une chanson."
+    },
+    "63808": {
+        "「ありがとう　みんな。\n　こんな　晴れ晴れとした気持ちで\n　トゥーラを弾くのは　本当に　ひさしぶりだよ。": "Merci a tous. Cela faisait vraiment longtemps\nque je n'avais pas joue du Torban avec un\nsentiment aussi radieux."
+    },
+    "63809": {
+        "「僕は　つい最近まで　手足の先から\n　だんだん石化してしまうという\n　おぞましい病気に　かかっていてね。": "J'etais atteint d'une terrible maladie qui,\njusqu'a recemment, transformait lentement mes\nmembres en pierre."
+    },
+    "63810": {
+        "「トゥーラを弾くどころか　立つこともできなくて\n　僕に　こんな運命を与えた神様を\n　呪いながら　日々　過ごしていたんだ。": "Je ne pouvais meme pas me lever, encore moins\njouer du Torban. Chaque jour, je passais mon\ntemps a maudire le dieu qui m'avait inflige un<br>tel destin."
+    },
+    "63811": {
+        "「……でも　こっちの世界に来たら\n　そんな病気は　跡形もなく　消えさっててね。\n　また　トゥーラが弾けるようになったんだよ。": "...Mais en venant dans ce monde, cette maladie\na completement disparu. Je peux a nouveau\njouer du Torban."
+    },
+    "63812": {
+        "「なぁ……　僕って\n　本当は　死んでるんだろう？": "Hey... Je suis vraiment mort, n'est-ce pas ?"
+    },
+    "63813": {
+        "「……やっぱり　そうか。\n　グランゼドーラの音楽祭で　優勝する夢は\n　もう　かなわないんだね。": "…Donc, c'est bien ca. Le reve de remporter le\nfestival de musique de Glimzedora ne se\nrealisera pas, hein."
+    },
+    "63814": {
+        "「あ　あの……。": "Euh, hum..."
+    },
+    "63815": {
+        "「でも　そんなこと　どうでもいいよ。\n　病気で苦しんで　指先も動かせない人生より\n　ここで　好きなだけ　曲が弾けるほうがいい。": "Mais peu importe tout ca. Plutot que de mener\nune vie ou je souffre de la maladie, incapable\nde bouger le bout de mes doigts, je prefere<br>etre ici et jouer autant de morceaux que je\nveux."
+    },
+    "63816": {
+        "「僕の演奏で　よろこんでくれる人もいるし\n　これ以上の幸せは　ないよ。\n　みんな　今日は　本当にありがとう！": "Il y a des gens qui sont heureux grace a ma\nmusique, et je ne pourrais etre plus comble.\nMerci beaucoup a vous tous aujourd'hui !"
+    },
+    "63817": {
+        "「こちらこそ　すばらしい演奏を　ありがとう。\n　さあ　おやつも　たくさんあることだし\n　今日は　思いっきり　楽しみましょう！": "Merci a toi pour cette magnifique performance.\nAllez, il y a plein de collations, alors\nprofitons pleinement d'aujourd'hui !"
+    },
+    "63818": {
+        "「おかげさまで　セリクの歓迎パーティーは\n　無事に　終わりましたわ。\n　さあ　こちらを　お受け取りください。": "Grace a vous, la fete de bienvenue de Selik\ns'est deroulee sans encombre. Veuillez\naccepter ceci, je vous prie."
+    },
+    "63819": {
+        "「彼は　自分の死に　気づいていたんですね……。\n　ちょっと　おどろきましたけれど\n　あまり落ち込んでいない様子で　安心しました。": "Il avait conscience de sa propre mort,\nn'est-ce pas... J'etais un peu surpris, mais\nje suis rassure de voir qu'il ne semblait pas<br>trop abattu."
+    },
+    "63820": {
+        "「ところで　向こうのセレドの町で\n　セリクのご両親に　お会いしたようですわね。\n　どんな　ご様子でしたの……？": "ところで、向こうのTown of\nCeledでSelikのご両親にお会いしたようですねどんなご様子でしたの？"
+    },
+    "63821": {
+        "<pc>は　真のレンダーシアにある\nセレドの町で見てきたことを　説明した。": "<pc> a explique ce qu'il a vu dans la\nville de Celed, situee a T. Lendarsia."
+    },
+    "63822": {
+        "「えっ……！？　向こうのセレドの町にも\n　セリクが　いたですって！？": "Quoi... !? Il y avait aussi un Selik dans la\nville de Celed la-bas !?"
+    },
+    "63823": {
+        "「施療院で　意識を失ったまま？\n　それじゃあ　セリクは\n　まだ　生きているの……？": "Il a perdu connaissance a la clinique ? Alors,\nca veut dire que Selik est toujours en vie...?"
+    },
+    "63824": {
+        "「……ちょっと　考えたいことがあるから\n　私　部屋に　戻ってますわね。\n　今日は　ありがとうございました。": "J'ai quelque chose a reflechir, alors je vais\nretourner dans ma chambre. Merci pour\naujourd'hui."
+    },
+    "63825": {
+        "「……セレドの町へ来る道中　眠りから覚めて\n　治らないはずの病が　治ったと気づいた時から\n　なんとなく　おかしいとは思っていたんだ。": "En venant vers la ville de Celed, je me suis\nreveille de mon sommeil et j'ai realise que la\nmaladie qui ne devait pas guerir avait<br>disparu. Depuis ce moment, j'ai trouve cela un\npeu etrange."
+    },
+    "63826": {
+        "「僕の病気は　いずれ死に至る　不治の病……。\n　あまり　長く生きられないことは\n　あらかじめ　わかっていたよ。": "Mon mal est une maladie incurable qui finira\npar me conduire a la mort... Je savais deja\nque je ne vivrais pas longtemps."
+    },
+    "63827": {
+        "「まあ　死んだことなんて　どうでもいいさ。\n　立って歩くことも　できなかった僕が\n　好きなだけ　トゥーラを弾けるんだからね。": "Eh bien, etre mort, ca n'a pas vraiment\nd'importance. Moi qui ne pouvais meme pas me\ntenir debout et marcher, je peux maintenant<br>jouer du Torban autant que je veux."
+    },
+    "63828": {
+        "「……練習に打ち込みたいから\n　そろそろ　ひとりにしてくれるかな？\n　見られていると　集中できないんだ。": "......Je veux me consacrer a l'entrainement,\nalors pourrais-tu me laisser seul un moment ?\nJe n'arrive pas a me concentrer quand je suis<br>observe."
+    },
+    "88924": {
+        "<pc>たちは　セリクの歓迎パーティーで\n楽しいひとときを　過ごした。": "<pc> et ses amis ont passe un moment\nagreable a la fete de bienvenue de Selik."
+    },
+    "99633": {
+        "「今は　人と話す気分じゃないんだ。\n　悪いけど　ひとりにしてくれるかな。": "En ce moment, je n'ai pas vraiment envie de\nparler a qui que ce soit. Desole, mais\npourrais-tu me laisser seul ?"
+    },
+    "99634": {
+        "「今は　人と話す気分じゃないんだ。\n　悪いけど　ひとりにしてくれるかな。": "En ce moment, je n'ai pas vraiment envie de\nparler a qui que ce soit. Desole, mais\npourrais-tu me laisser seul ?"
+    },
+    "99635": {
+        "「それでも　私たちは息子に生きていてほしい。\n　そんな思いから　評判の高い　この施療院を調べ\n　治療に来る途中だったのですが……": "Malgre tout, nous voulons que notre fils vive.\nAnimes par ce desir, nous avons enquete sur\ncette clinique reputee et etions en route pour<br>le traitement, mais..."
     }
 }
