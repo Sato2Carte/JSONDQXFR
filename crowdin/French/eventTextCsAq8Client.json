@@ -1,35 +1,194 @@
 {
-    "19430": {
-        "「ホントに　着いちゃったし。マジで。\n　やべえ。魔物恐怖症　克服したかも。\n　いえーい。オレ　気分最高。絶好調。": "On est vraiment arrives. Serieux. Trop bien.\nJ'ai peut-etre surmonte ma peur des monstres.\nOuais ! Je me sens au top. Pleine forme."
+    "64605": {
+        "「……材料さえ　取ってきてくれれば\n　薬を作れて　この人が治るかもしれないのよ！": "…Si seulement tu pouvais apporter les\ningredients, je pourrais preparer le remede et\npeut-etre guerir cette personne !"
     },
-    "19431": {
-        "「ていうか　<pc>が先導しなきゃ\n　オレ　到着できなかった可能性大。マジで。\n　いちおう　言っとくわ。ありがとう。": "<me 60> En fait, sans l'aide de <pc>, il\ny avait de fortes chances que je n'arrive pas\nici. Vraiment. Je voulais juste te le dire.<br>Merci."
+    "64606": {
+        "「そんなこと言って　オレたちを\n　危険な目に遭わせようとしてんじゃないのか？": "Tu ne dis pas ca juste pour nous mettre en\ndanger, n'est-ce pas ?"
     },
-    "19432": {
-        "「やべえ。フォステイル像とか　ロマンだし。\n　盗みてえ。オレ　ちょー盗みてえ。\n　ていうか　マジ　武者震い止まらねえし。": "Incroyable. La Statue de Fostail, c'est\ntellement romantique. Je veux vraiment la\nvoler. Je veux absolument la voler. En fait,<br>je n'arrive pas a arreter de trembler\nd'excitation."
+    "64607": {
+        "「その薬で治る保証が　どこにあるのよ！？\n　アンタの言うことなんか\n　信じられるわけが　ないでしょ！": "Ou est la garantie que ce medicament va guerir\n!? Je ne peux pas croire ce que tu dis !"
     },
-    "19433": {
-        "「いえーい。ちょうだいしまーす。": "Yeah ! Je vais le prendre !"
+    "64608": {
+        "「ガクガクガク……。\n　寒い　寒い　寒い……。": "Glaglagla... Il fait froid, il fait froid, il\nfait froid..."
     },
-    "19434": {
-        "「せーの……………！！": "Prets... Partez...!!"
+    "64609": {
+        "「この人　助けたくないの？\n　仲間が　死んじゃってもいいの！？": "Tu ne veux pas aider cette personne ? Tu es\nd'accord pour que nos compagnons meurent !?"
     },
-    "19435": {
-        "「うおおおぉぉぉぉぉ……………。": "Uoooooohhhhhh..........."
+    "64610": {
+        "「でも　アンタのことは　信じられない！\n　ベルムド王に　さんざん　たてついて……\n　アンタのせいで　王様が死んだのよ！": "Mais je ne peux pas te faire confiance ! Tu\nt'es oppose a King Bermud encore et encore...\nC'est a cause de toi que le roi est mort !"
     },
-    "19436": {
-        "「やべえ……。オレ　ピンチ。マジで。\n　ていうか　冗談抜きで　やべえ……。": "Je suis foutu... Vraiment. Sans blague, c'est\nserieux..."
+    "64611": {
+        "「えっ　<pc>さん！？": "Eh, <pc>-san !?"
     },
-    "19437": {
-        "「バロのアニキ。大丈夫ですか？": "Grand frere Baro. Ca va ?"
+    "64612": {
+        "「ちょうど　よかった！　今　困ってたの。\n　最近　城下町で　寒い寒いって　身体の震えが\n　止まらない病気が　はやっててね……。": "C'est tombe a pic ! J'avais justement des\nennuis. Recemment, une maladie qui provoque\ndes frissons incontrolables a frappe la ville<br>du chateau..."
     },
-    "19438": {
-        "「バ…バカ！　触るな！　マジで！\n　腰だ！　オレの腰　マジ最悪！": "Ba... Baka ! Ne me touche pas ! Serieusement !\nC'est mon dos ! Mon dos est vraiment dans un\netat lamentable !"
+    "64613": {
+        "「それで　病気について　調べてみたら\n　このまま　放っておくと　凍死してしまう\n　死の病だってことが　わかったの。": "Alors, en enquetant sur la maladie, j'ai\ndecouvert que si on la laisse sans traitement,\nc'est une maladie mortelle qui conduit a<br>mourir de froid."
     },
-    "19439": {
-        "「ていうか　お前ら　撤収！　速攻で！\n　オレを支えて　連れて帰れ！　速攻で！\n　やれ！　今すぐ　やれ！": "Je veux dire, vous tous, on remballe !\nImmediatement ! Soutenez-moi et ramenez-moi a\nla maison ! Immediatement ! Allez ! Faites-le,<br>tout de suite !"
+    "64614": {
+        "「治すには　特別な薬が必要なんだけど\n　ローヌにんじんと　サリュウコツって\n　材料がないと　その薬は　作れないんだ。": "Pour le guerir, un medicament special est\nnecessaire, mais il ne peut pas etre fabrique\nsans les ingredients Rhone Carrot et Sand<br>Bone."
     },
-    "19440": {
-        "「へ…へいーーー！": "He... Heeeーーー !"
+    "64615": {
+        "「私は　ここで　薬を作る準備を\n　しなきゃならないから　<pc>さんに\n　材料集めを　手伝ってほしいの。": "Je dois preparer les medicaments ici, alors\nj'aimerais que tu aides <pc>-san a\nrassembler les ingredients."
+    },
+    "64616": {
+        "「この人たちに　集めてきてもらうように\n　お願いしてたんだけど　断られちゃって……。\n　どう？　お願いできないかな？": "Je leur avais demande de les rassembler, mais\nils ont refuse... Qu'en penses-tu ?\nPourrais-tu m'aider, s'il te plait ?"
+    },
+    "64617": {
+        "「ホント？　ありがとう！　ローヌにんじんは\n　こっちの世界の　ローヌ樹林帯の\n　南の果てに　生えてるはずだよ。": "Vraiment ? Merci ! La Rhone Carrot devrait\npousser a l'extremite sud de la Rhone Forest\nBelt dans ce monde."
+    },
+    "64618": {
+        "「サリュウコツは　こっちの世界の\n　アラハギーロ地方の　東の砂漠にいる\n　<%sEV_QUE_NAME0>を　倒すと　落とすみたい。": "Il semblerait que le Sand Bone se trouve dans\nle desert a l'est de la region d'Al-Ahagiro de\nce monde. Il est possible d'en obtenir en<br>battant < %sEV_QUE_NAME0 >."
+    },
+    "64619": {
+        "「私　ここで　調合の準備をして　待ってるね。": "Moi, je vais preparer les ingredients ici et\nattendre."
+    },
+    "64620": {
+        "「おいおい　なに　勝手に話進めてんだよ！\n　早く　こっから出てってくれ！": "He, he, pourquoi tu prends des decisions tout\nseul ? Sors d'ici rapidement !"
+    },
+    "64621": {
+        "「私……　この人を治すまで\n　絶対　ここを出ていかないわ。\n　そう決めたの！": "Je... Je ne quitterai absolument pas cet\nendroit tant que je n'aurai pas soigne cette\npersonne. C'est decide !"
+    },
+    "64622": {
+        "「じゃあ　ローヌにんじんと\n　サリュウコツを　集めたら\n　ここへ戻ってきてね　<pc>さん。": "Alors, une fois que tu auras rassemble la\nCarotte de Rhone et l'Os de Sable, reviens\nici, <pc>-san."
+    },
+    "64623": {
+        "「ホント！？　あっ　でも……\n　<pc>さん　他の人からの頼まれごとも\n　いっぱい　引き受けてるんじゃない？": "Vraiment !? Ah, mais... <pc>-san, tu as\ndeja accepte beaucoup d'autres demandes des\ngens, non ?"
+    },
+    "64624": {
+        "「じゃあ　今は頼めないね。\n　仕方ないから　ダメもとで　もう１回\n　あの人たちに　頼んでみるわ！": "Alors, je ne peux pas compter sur toi pour\nl'instant. Tant pis, je vais essayer de\nredemander a ces personnes, meme si ca ne<br>marche pas !"
+    },
+    "64625": {
+        "「そっか……。仕方ないね。\n　<pc>さんになら　お願いできると\n　思ってたんだけどな。": "Je vois... Tant pis. Je pensais que je\npourrais demander a <pc>-san, mais bon."
+    },
+    "64626": {
+        "「それじゃあ　私　ダメもとで　もう１回\n　あの人たちに　頼んでみるわ！": "Alors, je vais tenter ma chance une fois de\nplus en leur demandant a nouveau !"
+    },
+    "64627": {
+        "「……あなたたちが　この材料さえ\n　集めてきてくれれば　薬が作れて\n　この人が　治るかもしれないのよ！？": "Si seulement vous pouviez rassembler ces\ningredients, je pourrais preparer le remede et\npeut-etre guerir cette personne !？"
+    },
+    "64628": {
+        "「お前の言うことなんか　信用できっか！": "Comment pourrais-je croire ce que tu dis !"
+    },
+    "64629": {
+        "「早く　ここから出てってちょうだいよ！": "S'il te plait, pars d'ici rapidement !"
+    },
+    "64630": {
+        "「あ　<pc>さん！　来てくれたのね。": "Ah, <pc>-san ! Tu es venu."
+    },
+    "64631": {
+        "「最近　城下町で　寒い寒いって\n　震えている人がいるから　いろいろ調べて\n　治す薬を　見つけたんだ。": "Recemment, dans la ville du chateau, il y a\ndes gens qui tremblent en se plaignant du\nfroid. J'ai donc fait quelques recherches et<br>j'ai trouve un remede pour les soigner."
+    },
+    "64632": {
+        "「でも　その薬を作るのには\n　ローヌにんじんと　サリュウコツって\n　材料が　足りないの……。": "Mais pour fabriquer ce remede, il me manque\ndes ingredients : une Carotte de Rhone et un\nOs de Sable..."
+    },
+    "64633": {
+        "「私は　ここで　薬を作る準備を\n　しなきゃならないから　<pc>さんに\n　材料集めを　手伝ってほしいの。": "Je dois preparer les medicaments ici, alors\nj'aimerais que tu aides <pc>-san a\nrassembler les ingredients."
+    },
+    "64634": {
+        "「この人たちに　集めてきてもらうように\n　お願いしてたんだけど　断られちゃって……。\n　どう？　お願いできないかな？": "Je leur avais demande de les rassembler, mais\nils ont refuse... Qu'en penses-tu ?\nPourrais-tu m'aider, s'il te plait ?"
+    },
+    "64635": {
+        "「あっ　<pc>さん。\n　お願いしてた　薬の材料集めは\n　どんな感じかな？": "Ah, <pc>-san. Comment ca se passe pour\nla collecte des ingredients du remede que je\nt'avais demande ?"
+    },
+    "64636": {
+        "「ローヌにんじんは　こっちの世界の\n　ローヌ樹林帯の　南の果てに\n　生えてるはずだから　しらべてみて。": "La Carotte de Rhone devrait pousser a\nl'extremite sud de la Ceinture de la Foret de\nRhone dans ce monde, donc allez y jeter un<br>oeil."
+    },
+    "64637": {
+        "「サリュウコツは　こっちの世界の\n　アラハギーロ地方の　東の砂漠にいる\n　<%sEV_QUE_NAME0>を　倒すと　落とすみたい。": "Il semblerait que le Sand Bone se trouve dans\nle desert a l'est de la region d'Al-Ahagiro de\nce monde. Il est possible d'en obtenir en<br>battant < %sEV_QUE_NAME0 >."
+    },
+    "64638": {
+        "「おい　セラフィ！\n　人の家で　勝手なマネしてんじゃねぇよ！": "He, Seraphie ! Ne fais pas ce que tu veux chez\nles gens !"
+    },
+    "64639": {
+        "「私は　ここで　薬の調合の準備をして\n　待ってるから　よろしくね！": "Je vais rester ici pour preparer les potions,\nalors compte sur moi !"
+    },
+    "64640": {
+        "「シメールが大変なときに　なに　悠長に\n　本なんか　読んでんだ！？\n　いいかげん　出ていかないと　つまみだすぞ！！": "Quand Shimere est en difficulte, pourquoi tu\nprends le temps de lire un livre !? Si tu ne\nsors pas rapidement, je vais te jeter dehors<br>!!"
+    },
+    "64641": {
+        "「そろそろ　<pc>さんが\n　帰ってくるはずだから\n　薬を調合する手順を　確認してるんだってば！": "<pc>-san devrait bientot revenir, alors\nje verifie les etapes de preparation des\npotions !"
+    },
+    "64642": {
+        "「あ　<pc>さん！\n　おかえりなさい！": "Ah, <pc>-san ! Bienvenue chez vous !"
+    },
+    "64643": {
+        "「お願いした　ローヌにんじんと\n　サリュウコツを　集めてきてくれたのね。\n　こっちの準備は　バッチリだよ。": "Tu as ramene les Rhone Carrot et Sand Bone que\nje t'avais demandes. De mon cote, tout est\npret !"
+    },
+    "64644": {
+        "「じゃあ　さっそくだけど　薬を作って\n　あの人に　飲ませてあげたいから\n　材料を　もらってもいいかな？<yesno><close>": "Alors, sans plus attendre, j'aimerais preparer\nle remede et le faire boire a cette personne.\nPuis-je avoir les ingredients ? <yesno><close>"
+    },
+    "64645": {
+        "「そんな……　材料がないと　薬が作れないよ。\n　どうしよう……。": "Sans ca... Je ne peux pas preparer le remede\nsans les ingredients. Que vais-je faire..."
+    },
+    "64646": {
+        "「ねえ　<pc>さん　意地悪しないで……。\n　薬の材料　もらってもいいかな？<yesno><close>": "He, <pc>-san, ne sois pas mechant...\nEst-ce que je pourrais avoir les ingredients\npour la potion ? <yesno><close>"
+    },
+    "64647": {
+        "<pc>は　セラフィに\nローヌにんじんと　サリュウコツを\n渡した。": "<pc> a remis Rhone Carrot et Sand Bone a\nSeraffy."
+    },
+    "64648": {
+        "「ありがとう！　これがあれば\n　薬を作って　病気の人たちを助けられるよ！": "Merci ! Grace a ca, je vais pouvoir fabriquer\ndes medicaments et aider les personnes malades\n!"
+    },
+    "64649": {
+        "セラフィは　薬を調合して\nシメールに飲ませた。": "SeRafui a prepare une potion et l'a donnee a\nShimere."
+    },
+    "64650": {
+        "「震えは　おさまったみたい！": "Il semble que les tremblements se soient\ncalmes !"
+    },
+    "64651": {
+        "「……ん？　あんなに寒かったのに\n　もう　寒くない……　オレ　治ったのか？": "…Hm? Il faisait si froid, mais maintenant je\nn'ai plus froid... Suis-je gueri ?"
+    },
+    "64652": {
+        "「薬が　効いたみたいね。もう　大丈夫！": "Le medicament semble avoir fait effet. Tout va\nbien maintenant !"
+    },
+    "64653": {
+        "「まったく　心配かけやがって！！": "Tu m'as vraiment inquiete !!"
+    },
+    "64654": {
+        "「<pc>さん　私ね……\n　こうやって　この国の人たちを守りたかったの。\n　だから　いっぱい勉強したんだ。": "<pc>-san, tu sais... Je voulais proteger\nles gens de ce pays de cette facon. C'est\npourquoi j'ai beaucoup etudie."
+    },
+    "64655": {
+        "「だって　この国の真実を知っているのは\n　私だけだから……。": "Parce que je suis la seule a connaitre la\nverite sur T. dans ce pays..."
+    },
+    "64656": {
+        "「<pc>さん　協力してくれてありがとう。\n　いつも　助けてもらってるね。\n　コレ……　今回の　お礼だよ！": "<pc>-san, merci pour ton aide. Tu es\ntoujours la pour me soutenir. Voici... un\npetit remerciement pour cette fois !"
+    },
+    "64657": {
+        "「……ねえ　シメールさん。\n　なぜ　この病気にかかったか　心当たりある？\n　いつから　寒くなっちゃった？": "Dis-moi, Shimere-san. As-tu une idee de\npourquoi tu as attrape cette maladie ? Depuis\nquand as-tu commence a ressentir ce froid ?"
+    },
+    "64658": {
+        "「そうだっ　アイツだ！\n　あのバッファロンを　見たときからだ！！": "C'est ca, c'est lui ! Depuis que j'ai vu ce\nBuffalogre !!"
+    },
+    "64659": {
+        "「あのバッファロンって？": "Ce Buffalogre, c'est quoi ?"
+    },
+    "64660": {
+        "「格闘場のショーで　最初に　ベルムド王が\n　ズッタズタにした　あのバッファロンだよ！！": "Lors du spectacle de l'arene, c'est ce\nBuffalogre que King Bermud a mis en pieces en\npremier !!"
+    },
+    "64661": {
+        "「夜中に　ベルムドォォォ……って\n　低くうなる声がして　外に出てみたら\n　ヤツがいてよ。急に襲ってきやがったんだ。": "Au milieu de la nuit, j'ai entendu une voix\ngrave murmurer 'Bermudooo…'. Je suis sorti\npour voir ce que c'etait, et il etait la. Il<br>m'a attaque sans prevenir."
+    },
+    "64662": {
+        "「ところが　そのまま　オレの身体を通りぬけて\n　消えてっちゃってさ。\n　ありゃあ　生きてる魔物じゃねぇ……。": "Mais alors, il est passe a travers mon corps\net a disparu. Ce n'etait pas un monstre\nvivant..."
+    },
+    "64663": {
+        "「怨霊だ……　怨霊になって\n　この町に　戻ってきたんだっ！！": "Un esprit vengeur... Il est revenu dans cette\nville sous forme d'esprit vengeur !!"
+    },
+    "64664": {
+        "「そうだよ。アイツに襲われたときから　急に\n　猛烈な寒気が襲ってきて　身体が思うように\n　動かなくなっちまったんだよ……。": "C'est vrai. Depuis qu'il nous a attaques, un\nfroid intense m'a submerge soudainement et je\nne peux plus bouger comme je le voudrais..."
+    },
+    "64665": {
+        "「……やっぱり　この病気は\n　怨霊が振りまいた　呪いなのね。": "Comme je le pensais, cette maladie est en fait\nune malediction semee par un esprit vengeur."
+    },
+    "64666": {
+        "「ねぇ　<pc>さん。最初のショーで\n　殺されたバッファロンって　元は人間だよね。\n　……いったい　誰だったんだろう？": "Dis, <pc>-san. Le Buffalogre qui a ete\ntue lors du premier spectacle, c'etait un\nhumain a l'origine, non ? ...Je me demande<br>bien qui il etait."
+    },
+    "64667": {
+        "「うーん……。気になるけど　\n　今は　病気にかかってる人たちに\n　この薬を飲ませてあげるほうが　先だよね。": "Hmm... Je suis curieux, mais pour le moment,\nil est plus important de donner ce medicament\naux personnes malades."
+    },
+    "64668": {
+        "「じゃ　<pc>さん！　私は　もう行くね。\n　本当に　助かったよ！": "Alors, <pc>-san ! Je m'en vais\nmaintenant. Tu m'as vraiment beaucoup aide !"
     }
 }
