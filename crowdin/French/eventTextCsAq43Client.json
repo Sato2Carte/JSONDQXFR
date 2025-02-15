@@ -1,224 +1,131 @@
 {
-    "194707": {
-        "「改めて　紹介するね。\n　みんな　もう知ってると思うけど\n　ピンチョの婚約者……ファヒータよ。": "Je vais vous la presenter a nouveau. Je pense\nque tout le monde la connait deja, mais voici\nFajita, la fiancee de Pincho."
+    "197786": {
+        "「……ああ　ワガハイだ。回収任務指令の\n　第２９１号にて　指定された民家に　到着した。\n　これより　任務を開始する。": "…Ah, c'est moi. Je suis arrive a la maison\ndesignee par l'ordre de mission de\nrecuperation numero 291. Je vais maintenant<br>commencer la mission."
     },
-    "194708": {
-        "「元・婚約者よ。イヤミな女ね。": "Ancienne fiancee, hein ? Quelle femme\nagacante."
+    "197787": {
+        "「キミのことは　知っているよ。\n　<pc>君。それがキミの名だ。": "Je te connais. <pc>-kun, c'est ton nom."
     },
-    "194709": {
-        "「私　あのヒト……ピンチョを助けたいの。\n　アンタ達に　協力するのは\n　利害が一致しているから。それだけよ。": "Je veux aider cette personne... Pincho. Je\ncollabore avec vous parce que nos interets\nconvergent. C'est tout."
+    "197788": {
+        "「ワガハイを　追ってきたことも　知っている。\n　先を越されるとは　思っていなかったがね。": "Je sais que tu m'as suivi. Je ne pensais pas\nque tu me devancerais."
     },
-    "194710": {
-        "「……あのキェルグって悪魔は　３つの秘宝を\n　ほしがっていたわ。そのうちの　ふたつは\n　すでに　ヤツの手の中にある。": "Ce demon, Kjellg, voulait obtenir les trois\ntresors secrets. Deux d'entre eux sont deja\nentre ses mains."
+    "197789": {
+        "「しかし……だ。": "Cependant..."
     },
-    "194711": {
-        "「アンタ達も知ってのとおり　双角のかぶとと\n　虚無の瞳が　それよ。きっとヤツは\n　残りのひとつを　奪いにやってくるわ。": "Comme vous le savez, le casque cornu et l'oeil\ndu neant sont ceux-la. Je suis sure qu'il\nviendra s'emparer du dernier."
+    "197790": {
+        "「悪く　思わないでくれたまえ。\n　キミに　かまっている時間は　ないのだよ。": "Ne m'en veux pas. Je n'ai pas le temps de\nm'occuper de toi."
     },
-    "194712": {
-        "「残りのひとつは　風の腰布と呼ばれる物で\n　ドルワーム水晶宮の　王立研究院にあるわ。": "Le dernier objet est appele Wind Cloth et se\ntrouve a l'Institut Royal de Recherche du\nPalais de Cristal de Dolworm."
+    "197791": {
+        "<pc>は　深い眠りに　落ちた……。": "<pc> est tombe dans un profond\nsommeil..."
     },
-    "194713": {
-        "「キェルグは　その３つを使って\n　天魔クァバルナを　復活させるつもりよ。\n　だから　私達は全力で　それを阻止するの。": "Kielg veut utiliser ces trois elements pour\nressusciter Kukulkannibal. C'est pourquoi nous\ndevons tout faire pour l'en empecher."
+    "197792": {
+        "どこからか　足音が　聞こえてくる……。": "Des bruits de pas se font entendre de quelque\npart..."
     },
-    "194714": {
-        "「もちろん　身体を乗っ取られてしまった\n　ピンチョのことも　救出するわ。": "Bien sur, nous allons aussi sauver Pincho, qui\ns'est fait posseder."
+    "197793": {
+        "「ほう……。もう　回復したか。\n　さすが　<pc>君というところだな。": "Oh... Tu as deja recupere. Comme on pouvait\ns'y attendre de <pc>-kun."
     },
-    "194715": {
-        "「……私も行くわ。悪魔のチカラが無くたって\n　ここにいる　ボンクラどもよりは\n　役に立つはずよ。": "......Je viens aussi. Meme sans le pouvoir\ndemoniaque, je devrais etre plus utile que ces\nidiots ici."
+    "197794": {
+        "「キミの用件は　わかっている。\n　ある少年に　頼まれて\n　これを　届けにきたのだろう？": "Je comprends pourquoi tu es la. Un certain\ngarcon t'a demande de me remettre ceci,\nn'est-ce pas ?"
     },
-    "194716": {
-        "「だっ……誰が　ボンクラだッ。\n　<pc>の大親分に　負けた分際で！！\n　この　プッツン女！　オマエ　友達いないだろ！": "Qu-... Qui est un cretin ?! Comment oses-tu me\ntraiter ainsi apres avoir perdu contre le\ngrand chef de <pc> !! Espece de folle !<br>Tu n'as surement pas d'amis !"
+    "197795": {
+        "<pc>は　ふところに入れておいた\nボンドルの手紙が　なくなっていることに\n気がついた！": "<pc> se rend compte que la Lettre de\nBondor, qu'il avait gardee dans sa poche, a\ndisparu !"
     },
-    "194717": {
-        "「……言葉には　気をつけることね。\n　そのクチを　二度ときけなくする方法ぐらい\n　いくらでも知っているわよ。": "...Fais attention a tes paroles. Je connais de\nnombreuses facons de te faire taire a jamais,\ntu sais."
+    "197796": {
+        "「すまないが　ワガハイは\n　弟子は取らないと　決めているのでね。": "Je suis desole, mais j'ai decide de ne pas\nprendre d'apprenti."
     },
-    "194718": {
-        "「もちろん　あなたにも　来てもらうわ。\n　キェルグについて　一番くわしいのは\n　他でもない　あなただからね。": "Bien sur, je veux que tu viennes aussi. Apres\ntout, c'est toi qui connais le mieux Kyerug."
+    "197797": {
+        "「この手紙の差出人には　キミから\n　丁重に　断っておいてくれたまえ。": "Veuillez informer l'expediteur de cette lettre\nde mon refus avec la plus grande courtoisie."
     },
-    "194719": {
-        "「<pc>。私はファヒータと一緒に行くから\n　ドルワーム水晶宮の　王立研究院で\n　合流しましょ。": "<pc>. Je vais avec Fajita, alors\nretrouvons-nous a l'Institut Royal de\nRecherche du Palais de Cristal de Dolworm."
+    "197798": {
+        "「では　さらば！": "Eh bien, adieu !"
     },
-    "194720": {
-        "「風の腰布は　レモモという研究員が\n　管理しているわ。\n　先に着いたら　彼女に話を聞いてみてね。": "Le Wind Cloth est gere par une chercheuse\nnommee Remomo. Lorsque tu arriveras la-bas,\nessaie de parler a Her."
+    "197799": {
+        "オルフェアの町にいるボンドルに\n弟子入りの話が　パクレ警部から\n断られてしまったことを　伝えにいこう。": "Allons informer Bondor a Orphea que la demande\nd'apprentissage a ete refusee par l'Inspecteur\nPakul."
     },
-    "194721": {
-        "「大丈夫？　<pc>。\n　ピンチョ……というか　悪魔キェルグが\n　部屋から　飛び出していったけど……。": "Ca va ? <pc>. Pincho... ou plutot Devil\nKyerug est sorti en trombe de la piece..."
+    "197800": {
+        "「おい　お前。さっきも　ここに　来てたが\n　もしや　オレと同じで　パクレの野郎に\n　借金でも　返してもらおうってのか？": "He, toi. Tu etais la tout a l'heure aussi. Ne\nme dis pas que, comme moi, tu es la pour que\nce salaud de Pakure te rembourse une dette ?"
     },
-    "194722": {
-        "<pc>は\nレモモに化けた　悪魔キェルグに\n風の腰布を盗まれたことを　伝えた！": "<pc> a informe Devil Kyerug, deguise en\nRemomo, que le Wind Cloth avait ete vole !"
+    "197801": {
+        "<if_woman>「あっ　お姉ちゃん。\n　もしかして　パクレ警部に　会えたのかな？<yesno><close><else>「あっ　お兄ちゃん。\n　もしかして　パクレ警部に　会えたのかな？<yesno><close><endif>": "<if_woman>>Ah, grande soeur. Est-ce que tu as\npu rencontrer Inspector Pakul ?<yesno><close<else>>Ah, grand frere. Est-ce que tu as pu\nrencontrer Inspector Pakul\n?<yesno><close><endif>"
     },
-    "194723": {
-        "「フン……。\n　これで　クァバルナを呼び出すために必要な\n　３つの秘宝は　まんまと奪われたってワケね。": "Hmph... Avec ca, les trois tresors necessaires\npour invoquer Kuwabarna ont ete habilement\nvoles."
+    "197802": {
+        "「……なんだ　ちがうのか。\n　別の用事ってんなら　オレには　関係ねえな。": "Ah, ce n'est pas ca. Si c'est pour autre\nchose, ca ne me concerne pas."
     },
-    "194724": {
-        "「キェルグは　クァバルナ復活のための儀式を\n　どこかで　するはずよ。\n　それだけは　止めなきゃいけない。": "Kyerug doit surement mener un rituel quelque\npart pour la resurrection de Cuabarlna. Il\nfaut absolument l'en empecher."
+    "197803": {
+        "<if_woman>「あははっ。お姉ちゃんは\n　ウソが　ヘタクソみたいだね。<else>「あははっ。お兄ちゃんは\n　ウソが　ヘタクソみたいだね。<endif>": "<if_woman>>Ahaha. Grande soeur, on dirait que\ntu es mauvaise pour mentir.<else>>Ahaha. Grand frere, on dirait que tu es\nmauvais pour mentir. <endif>"
     },
-    "194725": {
-        "「問題は　あの悪魔がどこへ行ったのか\n　わからないということ……。": "Le probleme, c'est que nous ne savons pas ou\nce demon est alle..."
+    "197804": {
+        "「パクレ警部と　会ってきたって\n　思いっきり　カオに　書いてあるよ！": "On dirait que tu as rencontre l'Inspecteur\nPakul, ca se lit sur ton visage !"
     },
-    "194726": {
-        "「……そういえば　アイツ\n　ボロヌスの穴の奥にあるっていう\n　海底の牢獄への行き方を　知りたがっていたわ。": "D'ailleurs, il voulait savoir comment se\nrendre a la Prison Sous-Marine qui se trouve\nau fond de Boronus Hole."
+    "197805": {
+        "「どっちにしても　パクレの野郎なら\n　帰ってくる気配は　ねえぜ。\n　お前も　とっとと引き上げるこったな。": "De toute facon, cet idiot de Pakure ne semble\npas revenir. Toi aussi, tu ferais mieux de te\nretirer rapidement."
     },
-    "194727": {
-        "「私は　そんな場所　興味なかったから\n　テキトーに　聞き流してたんだけど　たしか\n　そこで　大事なヒトに　再会したいって……。": "Je n'etais pas vraiment interesse par cet\nendroit, alors j'ecoutais distraitement, mais\nil me semble qu'il disait vouloir retrouver<br>une personne importante la-bas..."
+    "197806": {
+        "<if_woman>「よかった。お姉ちゃんなら\n　きっと　見つけてくれるって　信じてたんだ！<else>「よかった。お兄ちゃんなら\n　きっと　見つけてくれるって　信じてたんだ！<endif>": "<if_woman>>Super ! Je savais que ma grande\nsoeur finirait par le retrouver !<else>>Super ! Je savais que mon grand frere\nfinirait par le retrouver ! <endif>"
     },
-    "194728": {
-        "「ファヒータ！　その情報　とても役に立つわ！\n　あの悪魔はきっと　海底の牢獄で\n　クァバルナを　復活させるつもりよ。": "Fajita ! Cette information est tres utile ! Ce\ndemon a surement l'intention de ressusciter\nQuabalna dans la prison sous-marine."
+    "197807": {
+        "「……それで　ボクの手紙は　渡してくれたよね。\n　警部は　なんて　言ってたの？": "Alors, tu as bien remis ma lettre, n'est-ce\npas ? Qu'est-ce que l'inspecteur a dit ?"
     },
-    "194729": {
-        "「<pc>　覚えてるよね？\n　あなたが最初に　クァバルナを倒した場所よ。": "<pc>, tu te souviens, n'est-ce pas ?\nC'est l'endroit ou tu as vaincu Kuwabarna pour\nla premiere fois."
+    "197808": {
+        "<pc>は　ボンドルに\n弟子入りの話が　パクレ警部から\n断られてしまったことを　告げた。": "<pc> a informe Bondor que l'Inspector\nPakul avait refuse sa demande de devenir\napprenti."
     },
-    "194730": {
-        "「フン。それじゃあ　さっそく　そこへ行って\n　アイツを切り刻んでやれば　いいのね？": "Hmph. Dans ce cas, allons-y immediatement, et\ndecoupons cet individu en morceaux, n'est-ce\npas ?"
+    "197809": {
+        "「……うわ～。\n　やっぱり　ダメだったかあ。\n　そんな気は　してたんだけどね。": "...... Oh, non. Ca n'a pas fonctionne, hein.\nJe m'en doutais un peu, tu sais."
     },
-    "194731": {
-        "「ええ。ピンチョを助けた上でね。": "Oui. En aidant Pincho, bien sur."
+    "197810": {
+        "「おいおい。パクレに弟子入りだと？\n　そんなことを　考えていたのか。\n　おかしなヤツだな　お前……。": "Oh la la. Tu veux devenir l'apprenti de Pakure\n? Tu pensais a quelque chose comme ca. Tu es\nvraiment un type etrange..."
     },
-    "194732": {
-        "「……ちょっと　考えがあるの。\n　<pc>は　先に海底の牢獄へ向かってて。\n　ファヒータは　私と一緒に　来てくれない？": "J'ai une idee. <pc>, va d'abord a la\nPrison Sous-Marine. Fajita, pourrais-tu venir\navec moi ?"
+    "197811": {
+        "「もしかして　パクレの野郎に\n　どこかで　会ってきたってのかよ？": "Peut-etre que tu as rencontre ce fichu Pakure\nquelque part ?"
     },
-    "194733": {
-        "「誰が　アンタの言うことなんか……って\n　言いたいところだけど　アンタのことだから\n　どうせまた　何か企んでるんでしょ。": "Qui ecouterait ce que tu dis... J'aimerais\ndire ca, mais vu que c'est toi, tu dois\nsurement encore comploter quelque chose."
+    "197812": {
+        "<if_woman>「ねえ　お姉ちゃん。参考までに\n　パクレ警部が　どこで　何をしてたのか\n　見てきたことを　ぜーんぶ　教えてくれる？<else>「ねえ　お兄ちゃん。参考までに\n　パクレ警部が　どこで　何をしてたのか\n　見てきたことを　ぜーんぶ　教えてくれる？<endif>": "<if_woman>>Dis, grande soeur. Pourrais-tu me\nraconter tout ce que tu as vu et appris sur ce\nque faisait Inspector Pakul et ou il etait ?<else>>Dis, grand frere. Pourrais-tu me raconter\ntout ce que tu as vu et appris sur ce que\nfaisait Inspector Pakul et ou il etait ?<br><endif>"
     },
-    "194734": {
-        "「いいわ。乗ってあげる。\n　アンタのその悪知恵には\n　さんざん　してやられたからね。": "D'accord. Je vais te suivre. Tu m'as bien eu\navec tes ruses sournoises."
+    "197813": {
+        "<pc>は　ボンドルに\nパクレ警部が　ジュレットの町の酒場で\nしでかしたことを　話してあげた。": "<pc> a raconte a Bondor ce que\nl'Inspecteur Pakul avait fait a la taverne de\nJulet."
     },
-    "194735": {
-        "「ふふっ。ありがとう　ファヒータ。\n　それじゃ　<pc>は\n　先に　海底の牢獄に　向かってて。": "Fufufu. Merci, Fajita. Alors, <pc>,\nrends-toi d'abord a la prison sous-marine."
+    "197814": {
+        "「はあ？　パクレの野郎が\n　ジュレットの酒場で　あばれてたってか？\n　そいつは　初耳だなあ。": "Hein ? Tu dis que ce vaurien de Pakure faisait\ndes siennes a la taverne de Jurett ? C'est\nbien la premiere fois que j'entends ca."
     },
-    "194736": {
-        "「向こうでは　何が起こるかわからないから\n　準備は　万全にして行ってね。\n　それじゃ　また後で！": "La-bas, on ne sait jamais ce qui peut arriver,\nalors assure-toi d'etre bien prepare avant de\npartir. A plus tard !"
+    "197815": {
+        "<if_woman>「ふ～ん。パクレ警部が\n　酒場の置き物を　壊しちゃって\n　お姉ちゃんが　代わりに　弁償したんだね。<else>「ふ～ん。パクレ警部が\n　酒場の置き物を　壊しちゃって\n　お兄ちゃんが　代わりに　弁償したんだね。<endif>": "<if_woman>>Hmm. L'inspecteur Pakul a casse\nl'ornement de la taverne et ta grande soeur a\ndu le remplacer.<else>>Hmm. L'inspecteur Pakul a casse l'ornement de\nla taverne et ton grand frere a du le\nremplacer. <endif>"
     },
-    "194737": {
-        "「オン　マルィーヤ……。\n　ダマトゥーン　サラトゥーン\n　ザワン　イサ　クァバルナ……。": "On マルィーヤ ダマトゥーン サラトゥーン ザワン イサ クァバルナ"
+    "197816": {
+        "「でも　なんで　そんなことに　なったのかな？\n　追いつめた犯人と　現場で格闘の末\n　巻き込んで　壊しちゃった……とかかも。": "Mais pourquoi est-ce que ca s'est passe comme\nca ? Apres avoir accule le criminel, un combat\ns'est engage sur le parking et... Peut-etre<br>que tout a ete detruit dans la melee..."
     },
-    "194738": {
-        "「永劫の輪を巡りし　我が主\n　天魔クァバルナよ……。今ふたたび\n　その御身　この地に現したまえ……。": "O mon Seigneur, toi qui parcours la roue\neternelle, Kukulkannibal... Que ton etre\nrevienne a nouveau en ce lieu..."
+    "197817": {
+        "「それで　その後　警部は　どうしたのかな？": "Alors, que s'est-il passe ensuite avec\nl'inspecteur ?"
     },
-    "194739": {
-        "「お……おお…………。\n　その　美しいお姿を　目にすることを\n　どれほど　夢見ていたか……！！": "Oh... oh... Combien j'ai reve de contempler\ncette belle apparence... !!"
+    "197818": {
+        "<pc>は　ボンドルに\n王都カミハルムイ南の　民家の前で\nパクレ警部と会えたことを　話してあげた。": "<pc> a raconte a Bondor qu'il avait pu\nrencontrer l'inspecteur Pakul devant une\nmaison au sud de la ville de Kamiharmui."
     },
-    "194740": {
-        "「お待ちしておりました　クァバルナ様……。\n　あなたの忠実な下僕　キェルグでございマス。\n　共に　この大陸を　滅ぼしてくれましょうゾ！": "Je vous attendais, Quabalna-sama... Je suis\nvotre fidele serviteur, Kjelg. Ensemble,\ndetruisons ce continent !"
+    "197819": {
+        "「なにぃ？　あいつは今\n　カミハルムイに　いるってのか！？\n　オレも　後で　行ってみるとするか……。": "Quoi ? Il est a Kamiharmui en ce moment !? Je\ndevrais peut-etre y aller plus tard..."
     },
-    "194741": {
-        "「……我ガ　従僕　キェルグよ。\n　このたびの働きヲ　まずは　ほめてヤロウ。\n　よくやッタ……。": "......O mon serviteur, Kyerug. Je te felicite\nd'abord pour ton travail cette fois-ci. Tu as\nbien agi......"
+    "197820": {
+        "<if_woman>「……ふんふん。警部は\n　お姉ちゃんを　眠らせている間に\n　その家に　入っていったんだね。<else>「……ふんふん。警部は\n　お兄ちゃんを　眠らせている間に\n　その家に　入っていったんだね。<endif>": "<if_woman>>... Hum hum. Le commissaire est\nentre dans cette maison pendant que grande\nsoeur dormait.<else>>... Hum hum. Le commissaire est entre dans\ncette maison pendant que grand frere dormait.<endif>"
     },
-    "194742": {
-        "「ハッ。ありがたき　お言葉……！": "Ha. Je vous remercie pour vos paroles\nbienveillantes… !"
+    "197821": {
+        "「そして　何かを持って　出てきた……と。": "Et ensuite, il est sorti en tenant quelque\nchose..."
     },
-    "194743": {
-        "「我のために　ここまで尽くしてくれる\n　従僕は貴様だけダ……。さア　久しい再会ダ。\n　貴様ノ　真の姿ヲ　我が前ニ……。": "Pour moi, tu es le seul serviteur qui se\ndevoue autant... Alors... Cela faisait\nlongtemps que nous ne nous etions pas revus.<br>Montre-moi ta veritable apparence devant\nmoi..."
+    "197822": {
+        "「それ　なんだろうね？\n　もしかして　その家は　凶悪な強盗犯のアジトで\n　盗まれたものを　取り返しにいったとか……？": "Qu'est-ce que cela pourrait etre ? Peut-etre\nque cette maison etait la cachette d'un\ndangereux voleur, un repaire nomme Horse<br>Mackerel, et qu'on est alle recuperer ce qui\navait ete vole..."
     },
-    "194744": {
-        "「仰せのままに……。": "A vos ordres..."
+    "197823": {
+        "「……あっ。家宅捜査ってヤツじゃないかな。\n　きっと　証拠品を押さえて\n　強盗犯を　バッチリ　捕まえる気なんだよ！": "...Ah. Ce doit etre une perquisition. Ils\nveulent surement saisir des preuves et\nattraper le voleur en un clin d'oeil !"
     },
-    "194745": {
-        "「本当に　大儀であッタナ…………。": "Vraiment, cela a ete un grand honneur..."
+    "197824": {
+        "「やっぱり　パクレ警部は　すごいなあ。\n　ますます　あこがれちゃった。": "Comme prevu, l'Inspecteur Pakul est vraiment\nincroyable. Je l'admire de plus en plus."
     },
-    "194746": {
-        "「……ま　全部　ムダだったけどね。": "...Eh bien, tout cela a ete en vain, n'est-ce\npas ?"
+    "197825": {
+        "「しかし　よりによって　カミハルムイかよ。\n　あの辺りには　あんまり　近寄りたく\n　ねえんだよなあ……。": "Mais pourquoi Kamiharmui, de tous les endroits\npossibles ? Je n'ai vraiment pas envie de\nm'approcher de cette region..."
     },
-    "194747": {
-        "「天知る！　地知る！　人ぞ知る！": "Le ciel le sait ! La terre le sait ! Les gens\nle savent !"
+    "197826": {
+        "<if_woman>「弟子入りを断られたのは　残念だったけど\n　お姉ちゃんが　行ってくれたおかげで\n　パクレ警部のこと　いろいろ　わかったよ。<else>「弟子入りを断られたのは　残念だったけど\n　お兄ちゃんが　行ってくれたおかげで\n　パクレ警部のこと　いろいろ　わかったよ。<endif>": "<if_woman>>C'est dommage que je n'aie pas pu\ndevenir apprenti, mais grace a toi, grande\nsoeur, j'ai appris beaucoup de choses sur<br>l'Inspecteur Pakul.<else>>C'est dommage que je n'aie pas pu devenir\napprenti, mais grace a toi, grand frere, j'ai\nappris beaucoup de choses sur l'Inspecteur<br>Pakul. <endif>"
     },
-    "194748": {
-        "「美少女怪盗団　ポイックリンズ！\n　トリオになって\n　華麗に　参上でございますわっ！": "La bande des jolies voleuses, les Poikurins !\nNous voici, sous la forme de Leo, faisant une\nentree eclatante !"
+    "197827": {
+        "「本当に　ありがとう。\n　これ　お礼だよ。受け取ってね！": "Merci beaucoup. Voici un petit cadeau pour te\nremercier. Accepte-le, s'il te plait !"
     },
-    "194749": {
-        "「ふたりとも！\n　早く　ピンチョを安全な場所へ！": "Vous deux ! Vite, mettez Pincho en lieu sur !"
-    },
-    "194750": {
-        "「キェエエーーーッ！？　なぜダ！\n　なぜ　お前らが　ここにいるッ！？\n　召喚の儀は　間違イなく　成功したハズ……！": "Kieeeeeeeeeeeeeeeeeeeeeeeeeeッ！？ Pourquoi ?\nPourquoi etes-vous ici !? Le rituel\nd'invocation a certainement reussi... !"
-    },
-    "194751": {
-        "「ふふ。本当に　私が　３つの秘宝を\n　みすみす　盗まれたと思っていたの？\n　あなたのねらいは　最初からお見通しだったわ。": "Fufufu. Tu pensais vraiment que j'avais laisse\nles trois tresors se faire voler sous mon nez\n? J'avais devine tes intentions depuis le<br>debut."
-    },
-    "194752": {
-        "「あなたが盗んだ　双角のかぶと　虚無の瞳\n　風の腰布……。あれらは全て　あらかじめ私が\n　ニセモノに　すり替えておいた物だったの。": "Le Horned Helmet, l'OEil du Neant, le Vetement\ndu Vent que tu as voles... En realite, tous\nces objets avaient deja ete remplaces par de<br>fausses repliques que j'avais preparees a\nl'avance."
-    },
-    "194753": {
-        "「秘宝がなければ　クァバルナも復活しない。\n　つまり　あなたの作戦は\n　最初から　詰んでいたのよ！！": "Sans les tresors, Kuwabarna ne peut pas\nrenaitre. Autrement dit, ton plan etait voue a\nl'echec des le depart !!"
-    },
-    "194754": {
-        "「キキェーッ！？\n　あ…悪魔をダマすなんて\n　なんて　極悪なヤツらなんですカッ！！": "Kikiェーッ！？ Ah... Tromper un demon, quel etre\nmalefique oserait faire ca !!"
-    },
-    "194755": {
-        "「私を怒らせたことを　あの世で\n　たっぷり　後悔させてやりマスヨッ！！\n　キェエエエエエーーーーーーーッ！": "Je te ferai amerement regretter de m'avoir\nmise en colere dans l'autre monde avec ma\nlance, Massayo !! Kyaaaaaaaahーーーッ !"
-    },
-    "194756": {
-        "「クソッ！　高貴なる　悪魔の私が……\n　こんな小娘に　敗れ…る……など……。": "Merde ! Moi, le noble demon... etre vaincu par\nune gamine comme toi..."
-    },
-    "194757": {
-        "「ファヒータ……。\n　そ…その　いろいろと　ごめん。": "Fajita... Je... je suis desole pour tout."
-    },
-    "194758": {
-        "「だけど　こ…今度こそ　僕は……": "Mais cette fois-ci... je vais vraiment..."
-    },
-    "194759": {
-        "「いいの。もう　気にしないで。\n　私にも　いたらないところがあったのだから。": "C'est bon. Ne t'inquiete plus. J'avais aussi\nmes propres defauts."
-    },
-    "194760": {
-        "「ファヒータ……。そ　それじゃ……。": "Fajita... A-alors..."
-    },
-    "194761": {
-        "「私って　一度こうだと思い込むと　他のことが\n　何も　見えなくなってしまうから……\n　真実の愛を　見失ってしまっていたの。": "Je suis du genre a ne plus rien voir d'autre\nune fois que je me mets une idee en tete...\nJ'en ai perdu de vue le veritable amour."
-    },
-    "194762": {
-        "「でも今回　あなた達に　助けられたことで\n　誰かを　本当に愛するっていうことが\n　どういうことなのか　気づくことができたわ。": "Mais cette fois, grace a votre aide, j'ai pu\nrealiser ce que cela signifie vraiment d'aimer\nquelqu'un."
-    },
-    "194763": {
-        "「うん　ぼ　僕も　そうなんだ。\n　だから　もう一度……。": "Oui, mo... moi aussi. C'est pourquoi, encore\nune fois..."
-    },
-    "194764": {
-        "「もう　迷わないわ……。\n　優しくて　強くて　かっこいい\n　私の運命のヒト……。": "Je ne douterai plus... La personne de mon\ndestin, douce, forte et admirable..."
-    },
-    "194765": {
-        "「ファヒータ…………。": "Fajita..."
-    },
-    "194766": {
-        "「ポイックリン……。\n　アナタこそ　私の愛……。": "Poikku-rin... Tu es mon amour..."
-    },
-    "194767": {
-        "「えっ…………？": "Euh... ?"
-    },
-    "194769": {
-        "「今回　自分より　頼りがいのあるヒトに\n　リードされているうち\n　今までにない感情が　芽生えてきたのよ……。": "Cette fois, en etant guidee par quelqu'un de\nplus fiable que moi, des sentiments que je\nn'avais jamais ressentis auparavant ont<br>commence a eclore..."
-    },
-    "194770": {
-        "「だから　婚約のことは　もういいの。\n　お互いスッキリ　水に流して　忘れましょ！": "Donc, oublions nos fiancailles. Mettons tout\ncela derriere nous et passons a autre chose !"
-    },
-    "194771": {
-        "「えぇええええ～～～ッ！？\n　そ…そんなぁ～～～～～！！": "Eh, quoi !? Qu... Quoi... !!"
-    },
-    "194772": {
-        "「ふふ。ひとまず　一件落着……\n　って　とこかしら？": "Fufu. Pour l'instant, on peut dire que\nl'affaire est reglee... n'est-ce pas ?"
-    },
-    "194773": {
-        "「一度　クァバルナが　復活してしまえば\n　それを封印するために\n　必ず　誰かの　犠牲が必要になる……。": "Une fois que Kuwaburna sera ressuscite, pour\nle sceller a nouveau, il faudra inevitablement\nle sacrifice de quelqu'un..."
-    },
-    "194774": {
-        "「いろいろ黙っていて　ごめんね。\n　それでも　協力してくれて　ありがとう。": "Je suis desole de t'avoir cache tant de\nchoses. Merci quand meme pour ton aide."
-    },
-    "194775": {
-        "「本当だよ！　水くさいねえ！\n　ヒーローってのは　孤独なモンなのかも\n　しれないけどさあ……。": "C'est vrai ! Ne sois pas si distant !\nPeut-etre que les heros sont voues a etre\nsolitaires..."
-    },
-    "194776": {
-        "「もう　あたい達３人は　美少女怪盗団\n　ポイックリンズの　仲間なんだから\n　ひとりで　抱え込むんじゃないよ！": "Nous faisons maintenant partie toutes les\ntrois du groupe des jolies voleuses, les\nPoikurins ! Ne garde pas tout pour toi toute<br>seule !"
-    },
-    "194777": {
-        "「ふふっ。ありがとう　ダルル。\n　それじゃ最後に　いつもの\n　いってみましょうか！": "Fufu. Merci, Darul. Alors pour finir, faisons\ncomme d'habitude !"
-    },
-    "194778": {
-        "「それでは皆さん　ごきげんよう。": "Sur ce, mesdames et messieurs, portez-vous\nbien."
-    },
-    "194779": {
-        "「チリも残さず\n　キレイに退散ですわっ！": "Pas un grain de poussiere ne restera, je vais\ntout nettoyer avec soin !"
-    },
-    "199198": {
-        "「そして　<cs_pchero>。\n　これは　私たちからの　お礼よ。\n　よかったら　受け取って。": "Et <cs_pchero>. C'est un cadeau de notre part.\nSi cela te fait plaisir, accepte-le."
-    },
-    "199199": {
-        "「だから　もう二度と\n　そんな犠牲を　出させたりしない。\n　あのとき　私は　そう誓ったの。": "Donc, je ne laisserai plus jamais un tel\nsacrifice se produire. A ce moment-la, j'ai\nfait ce serment."
+    "197828": {
+        "「でも　ボク　あきらめないよ。\n　パクレ警部を追いかけて　ぜったいに\n　弟子入りしてやるんだ！！": "Mais je n'abandonnerai pas. Je vais poursuivre\nInspector Pakul et je deviendrai absolument\nson disciple !!"
     }
 }
