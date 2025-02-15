@@ -1,95 +1,158 @@
 {
-    "22239": {
-        "「シェリルッ！　バカなマネは　やめて！！": "Cheryl ! Arrete de faire des betises !!"
+    "18818": {
+        "「あんたか……。": "C'est toi..."
     },
-    "22240": {
-        "「来るな！　私に近づくなぁっ！": "Ne t'approche pas de moi ! Ne viens pas ici !"
+    "18819": {
+        "「ここで　プレシアンナが修行してるらしいわ。\n　あたいね　あれから　必死で修行をこなしたの。\n　今なら　プレシアンナにだって負けない。": "Ici, il parait que Prescianna s'entraine. Moi,\ndepuis ce moment-la, je me suis entrainee avec\nacharnement. Maintenant, je ne perdrai meme<br>pas face a Prescianna."
     },
-    "22241": {
-        "「シェリル……。\n　本当のこと　教えてくれて　ありがとう。\n　助けにきたわ。さあ　こっちに来て……。": "Cheryl... Merci de m'avoir dit la verite. Je\nsuis venue te sauver. Allez, viens par ici..."
+    "18820": {
+        "「プレシアンナと勝負して……勝ってみせる。\n　天才が　どれほどのものか見てやるわ！": "Je vais me mesurer a Prescianna... et lui\nmontrer que je peux gagner. Je vais decouvrir\nce que vaut vraiment un genie !"
     },
-    "22242": {
-        "「うぐぐ……！　やめてくれ　頼む……。": "Ugh... ! Arrete, je t'en prie..."
+    "18821": {
+        "「……あとさ　あの時　言えなかったから\n　今　言っとくね。": "…Et puis, comme je n'ai pas pu le dire a ce\nmoment-la, je vais te le dire maintenant."
     },
-    "22243": {
-        "「優しい言葉を　かけないでくれ……。\n　心を開いてしまうと　その隙間から\n　呪いが　しみだしてくるんだ……。": "Ne me parle pas avec douceur... Si j'ouvre mon\ncoeur, la malediction s'infiltrera par cette\nouverture..."
+    "18822": {
+        "「スターデビルと戦った時……。\n　あの時は助けてくれて　ありがと……。": "Quand nous avons combattu le Star Devil...\nMerci de m'avoir aidee a ce moment-la..."
     },
-    "22244": {
-        "「……お前から　受け取った呪いは\n　私の中で　どんどん　大きくなって……\n　もう……　私には　おさえきれない……。": "La malediction que j'ai recue de toi ne cesse\nde grandir en moi... Je ne peux plus... la\ncontenir..."
+    "18823": {
+        "「でも　忘れないで。": "Mais n'oublie pas."
     },
-    "22245": {
-        "「だから……　このまま　身を投げて\n　呪いもろとも……。": "Alors... je vais me jeter ainsi, emportant\navec moi la malediction..."
+    "18824": {
+        "「プレシアンナを倒したら\n　次は　あんたの番だからね。": "Une fois que Prescianna sera vaincue, ce sera\nton tour."
     },
-    "22246": {
-        "「そんなこと　させない！": "Je ne te laisserai pas faire ca !"
+    "18825": {
+        "「これが実力の差よ。もう　いいかしら？\n　まあ　死にたいのなら\n　徹底的に　やってあげてもいいけど。": "Voila la difference de niveau. Alors, tu en as\nassez ? Bon, si tu tiens vraiment a mourir, je\npeux te finir completement."
     },
-    "22247": {
-        "<if_woman>「<pc>ちゃん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<else>「<pc>くん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<endif>": "<if_woman>><pc>-chan ! Commencons le\nrituel pour liberer Cheryl de la malediction !\nAllez, repands le Lightdust et le Moonsand !<else>><pc>-kun ! Commencons le rituel pour\nliberer Cheryl de la malediction ! Allez,\nrepands le Lightdust et le Moonsand !<endif>"
+    "18826": {
+        "「うう……。これが　天才プレシアンナ……。\n　まったく　歯が立たないなんて……。\n　負けた……。負けた……。": "Oh... C'est donc ca, le genie de Prescianna...\nJe n'ai absolument aucune chance... J'ai\nperdu... J'ai perdu..."
     },
-    "22248": {
-        "光の粉と　月の砂を　使いますか？<yesno><close>": "Utiliser Lightdust et Moonsand ?\n<yesno><close>"
+    "18827": {
+        "「あなたは　チカラをムダに使いすぎよ。\n　その身体じゃ　もう一生　踊れないわね。\n　まあ　別にいいけど。": "Tu gaspilles trop ton energie. Avec ce corps,\ntu ne pourras plus jamais danser. Enfin, peu\nimporte."
     },
-    "22249": {
-        "「使いどころは　今しかないわ！\n　さあ　光の粉と　月の砂を　ふりまいて！": "Nous n'avons pas d'autre moment pour\nl'utiliser ! Allez, repandons la Lightdust et\nle Moonsand !"
+    "18828": {
+        "「あは<heart>　<pc>。また会ったわね。\n　あなたも　モンスターゾーンに到達するために\n　ここへ　来たんでしょ？": "Ah, <heart> <pc>. On se rencontre a\nnouveau. Toi aussi, tu es venu ici pour\natteindre la zone des monstres, n'est-ce pas ?"
     },
-    "22250": {
-        "<pc>は　光の粉と　月の砂を\nアーニアのまわりに　ふりまいた！": "<pc> a repandu Lightdust et Moonsand\nautour d'Anya !"
+    "18829": {
+        "「でも　修行をこなしても\n　あの究極の表現領域には　入れなかった……。\n　そうでしょ？": "Mais meme apres avoir maitrise ton\nentrainement, tu n'as pas pu acceder a cet\nultime domaine, n'est-ce pas ?"
     },
-    "22251": {
-        "<if_woman>「準備オッケー……。\n　ありがとう　<pc>ちゃん。<else>「準備オッケー……。\n　ありがとう　<pc>くん。<endif>": "<if_woman>>Tout est pret... Merci,\n<pc>-chan.<else>>Tout est pret... Merci, <pc>-kun.<endif>"
+    "18830": {
+        "「あは<heart>　あなたに　いいこと教えてあげる<heart>": "Ah <heart> Je vais te reveler quelque chose de\nsympa <heart>"
     },
-    "22252": {
-        "「アーニア……。お前　まさか……？": "Anya... Tu ne serais pas en train de...?"
+    "18831": {
+        "「モンスターゾーンに到達するにはね…… \n　あの修行をこなすだけでなく　その名の通り\n　魔物のような心も　必要なの。": "Pour atteindre la zone des monstres... Il ne\nsuffit pas de reussir cet entrainement, il\nfaut aussi avoir un coeur semblable a celui<br>d'une creature."
     },
-    "22253": {
-        "「あなたは愚かよ　シェリル……。\n　全部　ひとりで　背負って生きていくなんて\n　できるわけないじゃない……。": "Tu es insensee, Cheryl... Il est impossible de\ntout porter seule dans cette vie..."
+    "18832": {
+        "「やさしさ…いつくしみ…愛……。\n　そんな感情を捨てて　相手を　たたきのめし\n　その能力を吸収した時……。": "La gentillesse... la compassion... l'amour...\nLorsque l'on abandonne ces emotions pour\nabattre son adversaire et absorber ses<br>capacites..."
     },
-    "22254": {
-        "「……でも　いちばん　愚かなのは　私。\n　友達が　こんなふうに苦しみながら\n　生きていたことに　気づかないなんて……。": "...Mais celle qui est la plus stupide, c'est\nmoi. Je n'ai meme pas remarque que mon amie\nvivait en souffrant ainsi..."
+    "18833": {
+        "「あたしたち　スーパースターは\n　人の領域を超えることができる。": "Nous, les Suepers Stars, avons le pouvoir de\ntranscender les limites humaines."
     },
-    "22255": {
-        "「ごめんね　シェリル。\n　返してもらうわ　私のチカラ。": "Desolee, Cheryl. Je vais reprendre mon\npouvoir."
+    "18834": {
+        "「<pc>……。": "<pc>..."
     },
-    "22256": {
-        "「呪いと　一緒にね……。": "Avec la malediction..."
+    "18835": {
+        "「た…助けて……。": "A… Aidez-moi…"
     },
-    "22257": {
-        "「アーニア　なぜ！？\n　こんなことをしたら　お前が……！\n　お前は　呪いに立ち向かえると言うのか！？": "Anya, pourquoi !? Si tu fais ca, toi... !\nPeux-tu vraiment affronter la malediction !?"
+    "18836": {
+        "「あは<heart>　さようなら<heart>": "Ahah<heart> Au revoir<heart>"
     },
-    "22258": {
-        "「……ううん　わかんない。\n　でも……": "Non, je ne sais pas. Mais..."
+    "18837": {
+        "「あなたの能力を　いただくわ。": "Je vais m'approprier tes capacites."
     },
-    "22259": {
-        "「ふたりなら　きっと　大丈夫…だよ……。": "Si nous sommes ensemble, tout ira bien... j'en\nsuis sur..."
+    "18838": {
+        "「ああん……。来たわ……。\n　これが　モンスターゾーンなの？": "Ah... Ca y est... C'est ca, la zone des\nmonstres ?"
     },
-    "22260": {
-        "「アーニア……？　アーニアッ！！": "Anya... ? Anya !!"
+    "18839": {
+        "「チ　チカラが　みなぎる……。\n　こんな身体で　ダンスしたら\n　あたし　どうなっちゃうのかしら<heart>": "La puissance deborde en moi... Si je danse\navec un tel corps, je me demande ce qui va\nm'arriver<heart>"
     },
-    "22261": {
-        "「……息がある。\n　よかった。気を失っているだけか……。": "…Il respire. Ouf, il a juste perdu\nconnaissance..."
+    "18840": {
+        "「あは<heart>　光栄に思いなさい。": "Ah <heart> Tu devrais te sentir honore."
     },
-    "22262": {
-        "「……<pc>だな。ウワサは　聞いている。\n　アーニアを導いた　才能ある賢者だと……。": "......Tu es <pc>, n'est-ce pas ? J'ai\nentendu les rumeurs. On dit que tu es un sage\ntalentueux qui a guide Anya......"
+    "18841": {
+        "「あたしは　ついに\n　モンスターゾーンに　到達できたのよ。\n　あなたの能力は　その一部となった……。": "Moi, j'ai enfin pu atteindre la zone des\nmonstres. Tes capacites en sont devenues une\npartie integrante..."
     },
-    "22263": {
-        "「結局　アーニアに　かけられた呪いは\n　彼女のもとへ　戻ってしまった……。\n　私が　ふがいないばっかりに……。": "Finalement, la malediction qui avait ete jetee\nsur Anya est retournee a Her... Tout cela a\ncause de mon incompetence..."
+    "18842": {
+        "「ゴミでも役に立てたんだし　満足でしょ？": "Meme les ordures peuvent etre utiles, alors tu\ndevrais etre satisfait, non ?"
     },
-    "22264": {
-        "「この呪いはな……。\n　賢者の持つ　心の闇に棲みつき\n　その闇を増幅させ　心を　むしばんでいく……。": "Cette malediction, tu vois... Elle s'installe\ndans le Heart of Darkness du sage, amplifiant\ncette obscurite et rongeant lentement son<br>coeur..."
+    "18843": {
+        "「あは<heart>　<pc>。\n　あたしは　究極のダンスをマスターするわ。": "Ah <heart> <pc>. Je vais maitriser la\ndanse ultime."
     },
-    "22265": {
-        "「そして　それに　耐えられなくなったとき\n　呪われた者は　悪しき賢者……\n　闇賢者に　その身を堕としてしまうのだ。": "Et lorsque cela devient insupportable, celui\nqui est maudit se transforme en un sage\nmalefique... Il tombe dans les tenebres pour<br>devenir un sage des ombres."
+    "18844": {
+        "「マスターしたら　あなたに見せてあげる<heart>\n　その時は　ふたりで楽しみましょうね。": "Une fois que je l'aurai maitrise, je te le\nmontrerai <heart> A ce moment-la, profitons-en\nensemble."
     },
-    "22266": {
-        "「このまま　放っておけば　アーニアも\n　呪いに心を侵され　闇賢者に堕ちてしまう。\n　なんとしても　それは阻止せねば……！": "Si nous laissons les choses ainsi, Anya sera\negalement envahie par la malediction et\nsombrera dans les tenebres des sages. Nous<br>devons absolument empecher cela... !"
+    "18845": {
+        "「じゃあね～<heart>": "Alors, a plus tard～<heart>"
     },
-    "22267": {
-        "「アーニアは　私が　研究院に連れていく。\n　<pc>も　あとから来てくれ。": "Anya, je l'emmene a l'institut de recherche.\n<pc>, rejoins-nous plus tard."
+    "18846": {
+        "「ク…クリスレイ！": "<me 60> Christley !"
     },
-    "22268": {
-        "「アーニアを届けたのち　私は　各地をまわって\n　呪いを完全に解く方法を　探すつもりだ。": "Apres avoir livre Anya, je compte parcourir\ndiverses regions pour trouver un moyen de\nlever completement la malediction."
+    "18847": {
+        "「クリスレイ！　クリスレイ！": "Christley ! Christley !"
     },
-    "22269": {
-        "「今度こそ　われらの　呪われた運命に\n　終止符を打たなければ……。\n　それでは　失礼する……。": "Cette fois, nous devons mettre un terme a\nnotre destin maudit... Sur ce, je vous\nlaisse..."
+    "18848": {
+        "「ああ……。なんてことなの……。\n　あたしが止めていたら　こんなことには……。": "Ah... Qu'est-ce qui s'est passe... Si\nseulement j'avais pu l'arreter, cela ne serait\njamais arrive..."
+    },
+    "18849": {
+        "「うう……。ごめん……。ごめんね……。": "Uuh... Pardon... Je suis desole..."
+    },
+    "18850": {
+        "「く…くやしい……。": "C'est... c'est frustrant..."
+    },
+    "18851": {
+        "「こ…れで　終…わりな…んて……。\n　あたい…もっ…と　踊りた…い……。": "C'est... la fin... ? Je... veux encore...\ndanser..."
+    },
+    "18852": {
+        "「まさか……完全に　意識を失っている状態で\n　しゃべるなんて……。\n　よっぽど　悔しかったのね……。": "Incroyable... Parler alors qu'il est\ncompletement inconscient... Il devait vraiment\netre frustre..."
+    },
+    "18853": {
+        "「ま…まさか　そのオーラは……。": "Ma... mais cette aura..."
+    },
+    "18854": {
+        "「あなたも　到達しつつあるのかしら……。\n　究極の表現領域　モンスターゾーンに……。": "Toi aussi, es-tu en train d'atteindre...\nl'ultime domaine, la Monster Zone...?"
+    },
+    "18855": {
+        "「<pc>！": "<pc> !"
+    },
+    "18856": {
+        "「あと少し！　あと少しよ！\n　もうすぐ　モンスターゾーンに入れるわ！": "Encore un peu ! Encore un peu ! Nous allons\nbientot entrer dans la zone des monstres !"
+    },
+    "18857": {
+        "「最後の手助けは　おばちゃんに　させて！\n　後で　メギストリスの酒場に来てちょうだい！": "La derniere aide, laisse-la a ta tante ! Viens\na la taverne de Megistris plus tard !"
+    },
+    "18858": {
+        "「クリスレイは　自宅で治療を受けているわ。\n　あのコは　すっかり感情を失ってしまった。": "Christley recoit des soins a la maison. Cette\nfille a completement perdu ses emotions."
+    },
+    "18859": {
+        "「相手の能力を吸収し　人の心を捨てることで\n　プレシアンナは　モンスターゾーンに到達した。": "En absorbant les capacites de ses adversaires\net en renoncant a son humanite, Prescianna a\natteint la zone des monstres."
+    },
+    "18860": {
+        "「……あなたは　どうしてかしら？\n　もしかして　ひどい目にあった先輩を見て\n　怒りが　秘めたる能力を目覚めさせたのかもね。": "Pourquoi cela, je me demande ? Peut-etre que\nvoir un senpai dans une situation difficile a\nreveille un pouvoir cache en toi grace a la<br>colere."
+    },
+    "18861": {
+        "「……あなたの　その怒りは　まちがってないわ。\n　正しさを貫くためにはね　心を鬼にして\n　戦わなければならない時が　あると思うの。": "Votre colere n'est pas injustifiee. Pour\ndefendre ce qui est juste, parfois, il faut\nendurcir son coeur et se battre."
+    },
+    "18862": {
+        "「<pc>。怒りを　おさえることないわ。\n　今こそ　感情を爆発させる時よ。": "<pc>. Ne reprime pas ta colere. C'est le\nmoment de laisser exploser tes emotions."
+    },
+    "18863": {
+        "「プレシアンナを止められるのは……。\n　あなたしか　いないわ。": "Seul toi... peux arreter Prescianna."
+    },
+    "18864": {
+        "「そ…それよ！": "S-S'est ca !"
+    },
+    "18865": {
+        "「それこそが　真のモンスターゾーンだわ！\n　ついに　やったわね！": "C'est ca, la zone T. Monstre ! Enfin, nous\nl'avons fait !"
+    },
+    "18866": {
+        "「モンスターゾーンは　究極の表現領域。\n　自分の弟子が　そこに到達する瞬間に\n　立ち会えるなんて……　長生きは　するものね。": "La zone des monstres est le domaine ultime.\nPouvoir etre present au moment ou mon disciple\ny parvient... Vivre longtemps a ses avantages."
+    },
+    "18867": {
+        "「それこそが　真のモンスターゾーンだわ！\n　<pc>。ついに　やったわね。\n　これは　おばちゃんからのプレゼントよ。": "C'est ca, la zone T. Monster ! <pc>. Tu\nl'as finalement fait. Voici un cadeau de ma\npart."
+    },
+    "18868": {
+        "「同じモンスターゾーンに到達した　あなたなら\n　プレシアンナの暴走を　止められるわ。": "Toi qui as atteint la meme zone de monstres,\ntu pourras arreter la folie de Prescianna."
+    },
+    "18869": {
+        "「プレシアンナの行方には　心当たりがあるの。\n　……もし　追いかける気に　なったら\n　また　ここに戻ってきてちょうだい。": "Je pense savoir ou se trouve Prescianna. ...Si\ntu decides de la poursuivre, reviens ici, s'il\nte plait."
     }
 }
