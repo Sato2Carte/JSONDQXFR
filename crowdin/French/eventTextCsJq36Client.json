@@ -1,155 +1,245 @@
 {
-    "121722": {
-        "「……ようこそ　占いの館へ。\n　あなたを　お待ちしていました。\n　さあ　こちらへ　お掛けになってください。": "Bienvenue a la maison de la voyance. Je vous\nattendais. Allez-y, asseyez-vous ici, s'il\nvous plait."
+    "121770": {
+        "「あの……すみません。\n　私　シュリナと申す者ですが\n　占いの館は　こちらでしょうか？": "Euh... Excusez-moi. Je m'appelle Shrina.\nSerait-ce ici la maison de la voyance ?"
     },
-    "121723": {
-        "「それではまず　あなたのお名前と\n　お仕事を　教えてくださいますか？": "Pour commencer, pourriez-vous me dire votre\nnom et votre profession ?"
+    "121771": {
+        "「はっ！　せっ　せせせせ……先生っ！？\n　すいません！　ごめんなさい！\n　お部屋を　間違えてしまいました！": "Ah ! Se... Sensei !? Je suis desole ! Pardon !\nJe me suis trompe de chambre !"
     },
-    "121724": {
-        "「あ……はい。私の名は　サラシナと申します。\n　カミハルムイ王の命により　世界中の魔瘴を\n　調査するため　連れの者と　旅をしております。": "あ oui. Je me nomme Sarashina. Sur ordre du roi\nde Kamiharmui, je voyage avec mes compagnons\npour enqueter sur les miasmes du monde entier."
+    "121772": {
+        "「いいえ　間違っていませんよ。\n　ようこそ　占いの館へ。お待ちしていました。\n　さあ　こちらへ来て　お掛けになってください。": "Non, vous ne vous trompez pas. Bienvenue dans\nla maison de la divination. Je vous attendais.\nAllez, venez par ici et asseyez-vous, je vous<br>prie."
     },
-    "121725": {
-        "「サラシナさんですね。\n　本日は　この占い師　<pc>が\n　あなたの悩みを　解決へと導きます。": "Vous etes Sarashina-san, n'est-ce pas ?\nAujourd'hui, cet astrologue, <pc>, va\nvous guider pour resoudre vos preoccupations."
+    "121773": {
+        "「ええっ？　先生が　そこに座って\n　私が　先生の真向かいに　座ってしまったりして\n　それってつまり　先生が　私を占う……？": "Hein ? Le sensei va s'asseoir la, et moi je\nvais m'asseoir en face de lui... Cela signifie\nque le sensei va me predire l'avenir...?"
     },
-    "121726": {
-        "「さあ……心安らかに　リラックスして。\n　どんなことでも構いません。あなたの悩みを\n　<pc>に　語って聞かせてください。": "Allez... Apaisez votre coeur et relaxez-vous.\nPeu importe ce qui vous tracasse, n'hesitez\npas. Confiez vos soucis a <pc>."
+    "121774": {
+        "「ええ。本日は　占い師　<pc>が\n　あなたの悩みを　解決へと導きます。\n　……<pc>と　お知り合いなのですか？": "Eh bien. Aujourd'hui, le devin <pc> va\nguider vos soucis vers une solution.\n...Etes-vous un ami de <pc> ?"
     },
-    "121727": {
-        "「え…ええ。それでは……\n　全世界における　魔瘴の被害が　拡大の一途を\n　たどっていることを　ご存じでしょうか。": "Eh... eh bien. Savez-vous que les degats\ncauses par le miasme malefique continuent de\ns'etendre a travers le monde entier ?"
+    "121775": {
+        "「はい！　先生は　洗練されたセンスの持ち主で\n　女優を目指す私に　演技のレッスンをしてくれる\n　それはそれは　すばらしい　お方なんです。": "Oui ! Le sensei est un maitre possedant un\nsens raffine, et il m'offre des lecons\nd'acteur, moi qui aspire a devenir actrice.<br>C'est vraiment une personne merveilleuse."
     },
-    "121728": {
-        "「私は　かつてない危機感を覚えています……。\n　急ぎ調査を進め　わが王に　ご報告せねばと\n　つねづね　思っているのです。": "Je ressens un sentiment de crise sans\nprecedent... Je pense constamment qu'il est\nurgent de poursuivre l'enquete et d'en faire<br>rapport a notre roi."
+    "121776": {
+        "「演技だけでなく　占いまで　こなせるなんて\n　先生は本当に　何でも　お出来になるんですね。\n　私　ますます尊敬してしまいます！": "Non seulement vous etes doue pour la comedie,\nmais vous excellez egalement dans la\ndivination. Sensei, vous pouvez vraiment tout<br>faire. Je vous respecte de plus en plus !"
     },
-    "121729": {
-        "「なるほど……。つまり　サラシナさんは\n　世界の危機について憂い　悩んでいる。\n　そういうことでしょうか？": "なるほどつまり、Sarashina-san est preoccupe et\ntourmente par la crise mondiale. C'est bien\ncela ?"
+    "121777": {
+        "「なるほど。シュリナさんは　女優を目指して\n　毎日　演技の勉強に　はげんでいるのですね。\n　そんなあなたを　悩ませている問題とは……？": "Je vois. Shrina-san aspire a devenir actrice\net s'investit chaque jour dans l'etude du jeu\nd'acteur. Quel est donc le probleme qui vous<br>tracasse...?"
     },
-    "121730": {
-        "「あっ　いえ……。私が　相談したかったのは\n　人間関係の悩み……といいますか\n　同僚の　イナニワのことなのですが……。": "Ah, euh... En fait, ce dont je voulais parler,\nc'est plutot un souci de relations humaines...\nDisons, c'est a propos de mon collegue<br>Inaniwa..."
+    "121778": {
+        "「あ……ええと　その……………………。": "Ah... euh, alors..."
     },
-    "121731": {
-        "「イナニワときたら……とんだマイペース男で！\n　資料に没頭したら　周りが見えなくなって\n　ひとりで　自分勝手に行動してしまうのです。": "Inaniwa est... un homme incroyablement\nindependant ! Quand il se plonge dans ses\ndocuments, il en oublie tout ce qui l'entoure<br>et finit par agir tout seul, a sa guise."
+    "121779": {
+        "「……最近　自分に自信が持てなくて。\n　このままじゃ　女優になって劇場に立つなんて\n　夢で　終わってしまうんじゃないかと……。": "Recemment, je manque de confiance en moi. Je\ncrains que si ca continue, devenir actrice et\nmonter sur scene reste un reve inaccompli..."
     },
-    "121732": {
-        "「これでは　何のために　ふたりで旅に出たのか。\n　いまだ　これといった成果を上げることもできず\n　わが王にも面目が立たず　あせるばかりです。": "Pourquoi sommes-nous partis en voyage ensemble\nsi c'est pour ca ? Nous n'avons pas encore\nobtenu de resultats significatifs, et je ne<br>peux montrer aucun honneur a notre roi. Je ne\nfais que m'inquieter."
+    "121780": {
+        "「だから　私　本当は……。\n　いえ……でも　こんなこと先生には……。": "Alors, en realite, moi... Non... Mais ce genre\nde chose, je ne peux pas le dire a sensei..."
     },
-    "121733": {
-        "「この先　彼とうまくやっていける気がしません。\n　もう　いっそのこと　ひとりでエルトナへ\n　帰ってしまおうかしら……！": "Je ne pense pas pouvoir bien m'entendre avec\nlui a l'avenir. Peut-etre devrais-je tout\nsimplement rentrer seule a Eltona... !"
+    "121781": {
+        "「…………？": "？"
     },
-    "121734": {
-        "「……人の行く手には　常に\n　無数の選択肢が　広がっています。": "... Sur le chemin de chacun, une infinite de\nchoix s'offre toujours."
+    "121782": {
+        "「せ　先生……。お聞きしても　よろしいですか？\n　正直なところ　どうでしょうか……。\n　私の演技は　成長していると　思われますか？<yesno><close>": "Sensei... Puis-je vous poser une question ?\nHonnetement, que pensez-vous... ? Pensez-vous\nque mon jeu d'acteur s'ameliore ?<br><yesno><close>"
     },
-    "121735": {
-        "「あなたは　彼に黙って　帰ってしまってもいい。\n　しかし　心迷い　占いの館を訪ねたということは\n　何か別の……隠された思いが　あるのでは？": "Vous pouvez partir sans rien dire a lui.\nCependant, le fait que vous ayez visite la\nmaison de la voyance dans le doute signifie<br>qu'il y a peut-etre quelque chose d'autre...\nun sentiment cache, n'est-ce pas ?"
+    "121783": {
+        "「そ……そうですよね……。\n　自分でも　そうじゃないかと　思っていたので\n　ちょっと……　泣きそうです。": "Oui... c'est vrai... Je le pensais moi-meme,\ndonc je suis un peu... sur le point de\npleurer."
     },
-    "121736": {
-        "「そ…それは……………………。": "Ce... cela..."
+    "121784": {
+        "「ああ　そんな。気をつかわないでください……。\n　せっかく　先生に　教えていただいてるのに\n　私ときたら　いつまでも　未熟なままで……。": "Ah, non. Ne vous inquietez pas pour moi...\nMeme si notre professeur prend la peine de\nnous enseigner, je reste toujours aussi<br>inexperimentee..."
     },
-    "121737": {
-        "「……わかりました。\n　セラピアカードが　あなたの真実の心へと\n　導いてくれるでしょう。": "D'accord. Les Serapia Cards vous guideront\nvers le coeur de T. 実."
+    "121785": {
+        "「…………はあ。": "...Ha."
     },
-    "121738": {
-        "「さあ　<pc>さん。\n　サラシナさんの心に　寄り添って……。\n　彼女に　カードを１枚　引いてもらうのです。": "Allez, <pc>-san. Approchez-vous du coeur\nde Sarashina-san... Faites-lui tirer une\ncarte."
+    "121786": {
+        "「……どうやら　ここは\n　アルカナ・セラピアの　出番のようですね。": "Il semblerait que ce soit le moment pour\nAlkana Serapia d'entrer en scene."
     },
-    "121739": {
-        "サラシナは　セラピアカードから\n「恋人たち」のカードを引いた！": "Sarashina a tire la carte Les Amoureux des\ncartes Serapia !"
+    "121787": {
+        "「セラピアカードが　シュリナさんの心の扉を\n　開いてくれるでしょう。さあ……\n　彼女に　カードを１枚　引いてもらうのです。": "Les cartes Serapia ouvriront la porte du coeur\nde Shrina-san. Allez... Faites-lui tirer une\ncarte."
     },
-    "121740": {
-        "なんと　サラシナが引いたカードが\n不思議な声で　<pc>に\n語りかけてくる……。": "Incroyable ! La carte tiree par Sarashina\ns'adresse a <pc> d'une voix\nmysterieuse..."
+    "121788": {
+        "シュリナは　セラピアカードから\n「星」のカードを引いた！": "Shrina a tire la carte de l'etoile des cartes\nSerapia !"
     },
-    "121741": {
-        "<center>素直な気持ちで　まっすぐに　胸の的を射よ。\n<%sEV_QUE_NAME0>を　<%nEV_QUE_T_NUM0>匹倒せ。\nさすれば　かの者の　心の扉は開かれん。": "Avec un coeur sincere, vise droit sur la cible\nde ton coeur. Vaincs <%nEV_QUE_T_NUM0>\n<%sEV_QUE_NAME0>. Ainsi, la porte de son coeur<br>s'ouvrira."
+    "121789": {
+        "なんと　シュリナが引いたカードが\n不思議な声で　<pc>に\n語りかけてくる……。": "Incroyable, la carte tiree par Shrina commence\na s'adresser a <pc> d'une voix\nmysterieuse..."
     },
-    "121742": {
-        "「恋人たちのカードに導かれ\n　この　<pc>が　ふたたび　あなたの前に\n　現れたとき　悩みは　すべて解決するでしょう。": "Guide par la carte des amoureux, lorsque ce\n<pc> apparaitra a nouveau devant vous,\ntous vos soucis seront resolus."
+    "121790": {
+        "<center>眠れる星を呼び覚まし　その手につかめ。\n<%sEV_QUE_NAME0>を　<%nEV_QUE_T_NUM0>匹倒せ。\nさすれば　かの者の　心の扉は開かれん。": "Reveille l'etoile endormie et saisis-la de tes\nmains. Vaincs <%nEV_QUE_T_NUM0>\n<%sEV_QUE_NAME0>. Ainsi, la porte du coeur de<br>cet etre s'ouvrira."
     },
-    "121743": {
+    "121791": {
+        "「星のカードに導かれ　この　<pc>が\n　ふたたび　あなたの前に　現れたとき\n　悩みは　すべて解決するでしょう。": "Guide par la carte de l'etoile, lorsque ce\n<pc> apparaitra de nouveau devant vous,\ntous vos soucis seront resolus."
+    },
+    "121792": {
         "「どうか　私たちの占いを信じて\n　心安らかに　お待ちください……。": "Veuillez croire en notre divination et\npatientez en toute tranquillite..."
     },
-    "121744": {
-        "「……わかりました。私は　このオルフェアの町の\n　預かり所のソファで　お待ちしています。\n　どうか　よろしくお願いいたしますね……。": "…D'accord. Je vais vous attendre sur le canape\ndu Depot d'Orphea. Je compte sur vous, s'il\nvous plait…"
+    "121793": {
+        "「わかりました……ありがとうございます。\n　私はグレン城下町の　いつもの場所にいます。\n　先生……私　ずっと　待ってますから。": "D'accord... merci beaucoup. Je suis a\nl'endroit habituel de Glen Castle Town.\nSensei... je vous attends toujours."
     },
-    "121745": {
-        "「さあ　<pc>さん。あなたには　これから\n　サラシナさんのお悩みを　解決するため\n　セラピアカードに　チカラを宿してもらいます。": "Alors, <pc>-san. A partir de maintenant,\nvous allez utiliser les Serapia Cards pour\nresoudre les preoccupations de Sarashina-san."
+    "121794": {
+        "「ふふ……さすがは　<pc>さん。\n　大陸をまたいで　活躍しているんですね。\n　彼女は　あなたを　心から慕っているようです。": "Fufu... Comme attendu de <pc>-san. Vous\netes actif sur plusieurs continents. Her\nsemble vraiment vous admirer de tout coeur."
     },
-    "121746": {
-        "「先ほど　サラシナさんが引いたカードが\n　あなたに　何かしらの試練を課したはず。\n　その内容を　覚えていますか？": "Plus tot, la carte que Sarashina-san a tiree a\nsurement impose une sorte d'epreuve sur vous.\nVous souvenez-vous de son contenu ?"
+    "121795": {
+        "「だからこそ　シュリナさんの悩みは\n　あなたが　解決してあげるべきでしょう……。\n　今度の試練は　どんなものだったのですか？": "C'est precisement pour cette raison que tu\ndevrais aider Shrina-san a resoudre son\nprobleme... Quelle a ete l'epreuve cette<br>fois-ci ?"
     },
-    "121747": {
-        "「……なるほど。でしたら　どの地域に生息する\n　<%sEV_QUE_NAME0>でも構いませんから\n　<%nEV_QUE_T_NUM0>匹　倒してみせてください。": "Je vois. Dans ce cas, peu importe la region ou\nvivent les <%sEV_QUE_NAME0>, veuillez en\nvaincre <%nEV_QUE_T_NUM0>."
+    "121796": {
+        "「……なるほど。でしたら　どの地域に生息する\n　<%sEV_QUE_NAME0>でも構いませんので\n　前と同じように　<%nEV_QUE_T_NUM0>匹　倒してください。": "…Je vois. Dans ce cas, peu importe la region\nou vivent les <%sEV_QUE_NAME0>, veuillez en\neliminer <%nEV_QUE_T_NUM0> comme la derniere<br>fois."
     },
-    "121748": {
-        "「この近くだと　オルフェア地方東にある\n　オルッパ地下洞くつの　奥の方で\n　見かけたことがありますよ。": "Dans les environs, j'ai deja apercu cela au\nfond des Grottes Souterraines d'Orppa, situees\na l'est de la region d'Orphea."
+    "121797": {
+        "「たしか　ウェナ諸島の　キュララナ海岸の浜辺に \n　たくさんいると　聞いたことがあります。\n　他には　ギルザッド地方の海辺にも　いるとか。": "Il parait qu'il y en a beaucoup sur la plage\nde la cote Kyurarana dans l'archipel de Wena.\nOn dit qu'on en trouve aussi au bord de la mer<br>dans la region de Gilzad."
     },
-    "121749": {
-        "「あなたが　その試練を乗り越えた時\n　セラピアカードに　特別なチカラが\n　宿るでしょう。": "Lorsque vous surmonterez cette epreuve, un\npouvoir special habitera les Serapia Cards."
+    "121798": {
+        "「試練を乗り越え　カードにチカラが宿ったら\n　占い師の状態で　シュリナさんのもとへ向かい\n　彼女の話に耳を傾け　カードをかざすのです。": "Lorsque vous aurez surmonte l'epreuve et que\nla puissance des cartes s'eveillera,\nrendez-vous aupres de Shrina-san en tant que<br>devin, ecoutez attentivement ce que Her a a\ndire, et brandissez les cartes."
     },
-    "121750": {
-        "「その後　占い師になっている状態で　ひとりで\n　サラシナさんのもとへ行き　チカラの宿った\n　セラピアカードを　かざしてください。": "その後、占い師の状態で一人でSarashinaさんのもとへ行き、力の宿ったSerapia\nCardsをかざしてください"
+    "121799": {
+        "「そこから先は……もう　おわかりですよね？\n　強力な心の闇が　襲ってくるかもしれませんから\n　準備は　万全にととのえておきましょう。": "A partir de la... vous comprenez deja,\nn'est-ce pas ? Un puissant Heart of Darkness\npourrait nous attaquer, alors preparons-nous<br>soigneusement."
     },
-    "121751": {
-        "「そこから先は　タロット占いの秘術\n　アルカナ・セラピアが　真の威力を\n　発揮することと　なるでしょう……。": "La-bas, le secret de la divination par Tarot,\nl'Arcana Therapy, deploiera sa puissance..."
+    "121800": {
+        "「では　私たちの占いで　シュリナさんの悩みを\n　すっきり　解決してあげましょう。\n　がんばりましょうね　<pc>さん！": "Alors, grace a notre divination, resolvons les\nsoucis de Shrina-san. Faisons de notre mieux,\n<pc>-san !"
     },
-    "121752": {
-        "「時に　命の危険に　さらされることもあります。\n　何が起きてもいいように　準備だけは\n　万全に　ととのえておいてくださいね。": "Parfois, vous pourriez etre expose a des\ndangers mortels. Assurez-vous d'etre\nparfaitement prepare a toute eventualite."
+    "121801": {
+        "「モウ　イヤ……ヤメタイ……。\n　クルシイ……クルシイノ……。": "Je n'en peux plus... Arrete, Red Snapper...\nC'est douloureux... tellement douloureux..."
     },
-    "121753": {
-        "「それでは　よろしくお願いします。\n　私たちの占いで　サラシナさんの悩みを\n　すっきり　解決してあげましょう！": "Alors, je compte sur vous. Avec notre\ndivination, nous allons aider Sarashina-san a\nresoudre ses preoccupations de maniere claire<br>!"
+    "121802": {
+        "「ワタシ……コレイジョウ　ドウヤッテ\n　ガンバレバ　イイノ…………？": "Moi... Comment puis-je faire de mon mieux a\npartir de maintenant...?"
     },
-    "121754": {
-        "「コワイ……コワイノ……。": "C'est effrayant... Tellement effrayant..."
+    "121803": {
+        "「ナニモカモガ　ツラクテ……ツラスギテ……\n　モウ　ワカラナイノ…………！！": "Rien ne va, Mocha est en peine... c'est trop\ndur... Je ne peux plus continuer, Lana...!!"
     },
-    "121755": {
-        "「アノヒトニ　キラワレタクナイ……\n　キズツキタクナイ……。デモ……。": "Je ne veux pas etre deteste par cette\npersonne... Je ne veux pas etre blesse...\nMais..."
+    "121804": {
+        "「ワタシニ　ガンバレ　ナンテ\n　イワナイデェェェェーーーーーーッッ！！！": "Me dire de m'accrocher, c'est comme dire a une\ntruite de lac de voler !"
     },
-    "121756": {
-        "「ヒトリハ……サビシイヨォ……！": "Etre seul... c'est si triste..."
+    "121805": {
+        "「お見事でした　<cs_pchero>さん。": "C'etait remarquable, <cs_pchero> san."
     },
-    "121757": {
-        "「サビシイヨォオオオ……！\n　クルシイヨォオオオオオ！！\n　カナシイノヨォォオオーーーーッ！！！": "Je me sens si seul... ! C'est tellement\ndouloureux ! Je suis si triste !!!"
+    "121806": {
+        "「まだ二度目なのに　アルカナ・セラピアを\n　すっかり　使いこなしているようですね。": "Bien que ce soit seulement la deuxieme fois,\nil semble que vous maitrisiez deja\nparfaitement l'Alkana Serapia."
     },
-    "121758": {
-        "「うまくいったようですね　<cs_pchero>さん。": "Ca semble avoir bien fonctionne, <cs_pchero>\nsan."
+    "121807": {
+        "「……がんばっても　夢に　手が届かない。\n　自分には　才能がないのかもしれない。\n　努力は　すべて　無駄なのかもしれない……。": "...Meme en faisant de mon mieux, je n'arrive\npas a atteindre mon reve. Peut-etre que je\nn'ai pas de talent. Peut-etre que tous mes<br>efforts sont vains..."
     },
-    "121759": {
-        "「セラピアカードのチカラを用いて　あなたが\n　サラシナさんの心を　開いてくださったので\n　私も　彼女の心の中へ　来ることができました。": "Grace au pouvoir des cartes Serapia, vous avez\nreussi a ouvrir le coeur de Sarashina-san, ce\nqui m'a permis d'entrer egalement dans son<br>coeur."
+    "121808": {
+        "「そんな　将来への不安と　自信のなさが\n　心の闇を　生み出してしまったのでしょう。\n　がんばり屋な人ほど　くじけやすいのです……。": "Une telle inquietude pour l'avenir et un\nmanque de confiance en soi ont probablement\ndonne naissance au Heart of Darkness. Les<br>personnes qui s'efforcent le plus sont souvent\nles plus susceptibles de flancher..."
     },
-    "121760": {
-        "「……好きな人に拒絶されたら　どうしよう？\n　素直な気持ちを　伝えるのが怖い。だったら\n　いっそのこと　想いは　秘めてしまおう……。": "...... Que faire si la personne que j'aime me\nrejette ? J'ai peur de lui avouer mes\nsentiments sinceres. Dans ce cas, autant<br>garder ces sentiments secrets......"
+    "121809": {
+        "「いつも　シュリナさんを見守ってきた\n　<cs_pchero>さんだからこそ　きれいさっぱりと\n　心の闇を　晴らすことができたのだと思います。": "C'est parce que c'etait vous, <cs_pchero> san,\nqui avez toujours veille sur Shrina san, que\nvous avez pu dissiper le Heart of Darkness si<br>proprement."
     },
-    "121761": {
-        "「今のは　そんな　サラシナさんの心の闇。\n　イナニワさんへの想いが　増すなかで生まれた\n　彼女の弱気な心が　具現化した姿だったのです。": "Maintenant, c'etait le Heart of Darkness de\nSarashina-san. C'etait la forme materialisee\nde son coeur hesitant, ne de ses sentiments<br>croissants pour Inaniwa-san."
+    "121810": {
+        "「……以前　占い師の　究極の目的とは\n　人々の悩みを　解決することだと　言いました。\n　そのために　私たちが　できることは……": "J'ai deja dit que le but ultime d'un voyant\nest de resoudre les problemes des gens. Pour\ncela, ce que nous pouvons faire est de..."
     },
-    "121762": {
-        "「こうして　相談者の心の中に入り\n　心の闇に直接対決を挑み　撃退することで\n　人を悩ます原因を　消し去ることができる……。": "Ainsi, en penetrant dans le coeur de la\npersonne en detresse et en affrontant\ndirectement le Heart of Darkness, il est<br>possible de faire disparaitre la cause de ses\ntourments..."
+    "121811": {
+        "「人々が抱える悩みと　真剣に向き合い\n　その苦しみに　誠実に　寄り添い続けること。\n　あなたは　ひとりじゃない……と　支えること。": "Les gens font face a leurs soucis et se\nconfrontent a l'epee T. Accompagner\nsincerement cette souffrance. Soutenir en<br>disant : Vous n'etes pas seul..."
     },
-    "121763": {
-        "「従来の常識を　くつがえす　画期的な占い。\n　それこそが　アルカナ・セラピアなのです。": "Une voyance revolutionnaire qui bouleverse les\nidees recues. C'est precisement cela,\nAlkana-Therapia."
+    "121812": {
+        "「<cs_pchero>さんは　私が教えなくても\n　自然とシュリナさんに……相談者の心に\n　慈しみを持って　接していましたね。": "<cs_pchero>san, meme sans que je vous\nl'enseigne, vous avez naturellement approche\nShrina-san... avec bienveillance et compassion<br>envers le coeur du consultant."
     },
-    "121764": {
-        "「<cs_pchero>さんが　心の闇を消し去ったことで\n　勇気を出せなかった　サラシナさんにも\n　心境の変化が起きるでしょう。そして……": "<cs_pchero> san ayant reussi a effacer le\nHeart of Darkness, cela entrainera\nprobablement un changement dans l'etat<br>d'esprit de Sarashina san, qui n'avait pas pu\ntrouver le courage jusqu'a present. Et\nensuite..."
+    "121813": {
+        "「私は　その慈しみの心を持つことこそが\n　占い師としての適性であり　才能なのでは……\n　そう　思っているのです。": "Je crois que posseder ce coeur plein de\ncompassion est precisement ce qui constitue\nl'aptitude et le talent d'un veritable<br>voyant... C'est ce que je pense."
     },
-    "121765": {
-        "「これは　ピュアパール。\n　アルカナ・セラピアを使って　浄化された\n　人の心から生まれる　美しい宝石です。": "Ceci est une Pure Perle. Une magnifique gemme\nqui nait du coeur purifie d'une personne grace\na Alkana Serapia."
+    "121814": {
+        "「私の師匠も　あなたのような　広い心を持ち\n　慈愛に満ちた　占い師なのですよ。\n　近いうちに　師匠に　紹介させてくださいね。": "Mon maitre est egalement un devin au grand\ncoeur et plein de bienveillance, tout comme\nvous. Je vous presenterai a lui prochainement."
     },
-    "121766": {
-        "「占い師の　究極の目的とは……\n　世界中の人々の悩みを解決すること。\n　人々の悩み苦しみを　なくしてあげることです。": "Le but ultime d'un voyant est de resoudre les\nproblemes des gens du monde entier. C'est\nd'eliminer les soucis et les souffrances des<br>gens."
+    "121815": {
+        "「さあ……元の世界へ　帰りましょう。\n　前と同じように　シュリナさんの様子を見てから\n　占いの館へ　戻ってきてくださいね。": "Alors... retournons dans notre monde. Comme\navant, allez voir comment va Shrina-san, puis\nrevenez a la maison de la voyance."
     },
-    "121767": {
-        "「このピュアパールは　いつか　世の人々すべてを\n　悩みから解放するために　必要なもの……。\n　ですから　私は　これを集めているのですよ。": "Cette Perle Pure est necessaire pour liberer\nun jour toutes les personnes du monde de leurs\ntourments... C'est pourquoi je les collecte."
+    "121816": {
+        "「……それでね　母さん。少しずつだけれど\n　お客さんが　増えてきているんです！": "…Et tu sais, maman. Peu a peu, les clients\ncommencent a affluer !"
     },
-    "121768": {
-        "「おつかれさまでした　<cs_pchero>さん。\n　一人前の占い師への　着実な一歩を\n　踏み出すことが　できましたね。": "Bon travail, <cs_pchero> san. Vous avez fait\nun pas concret vers le statut de veritable\ndevin."
+    "121817": {
+        "「ユノの占い　大評判になってるわよ～。\n　悩みを　きれいサッパリ　解決してくれるって。\n　すごいじゃない！": "Juno, ton art de la divination fait sensation\n! On dit que tu resous les problemes de facon\nradicale. C'est incroyable !"
     },
-    "121769": {
-        "「さあ……そろそろ　元の世界へ帰りましょう。\n　サラシナさんの様子を　見たあとで\n　占いの館へ　戻ってきてくださいね。": "Bon... Il est temps de retourner dans notre\nmonde. Apres avoir jete un oeil a l'etat de\nSarashina-san, revenez a la maison de la<br>voyance."
+    "121818": {
+        "「う　うん……ユノはすごいよ。\n　僕とエゼルなんて　毎日　掃除するくらいしか\n　やることないしさ……。": "O-oui... Juno est incroyable. Moi et Ezell, on\nn'a pas grand-chose a faire a part nettoyer\ntous les jours..."
     },
-    "142640": {
-        "<pc>は　サラシナへの　思いを込めて\nテーブルに　セラピアカードを並べた。": "<pc>, empli de pensees pour Sarashina, a\ndispose des cartes Serapia sur la table."
+    "121819": {
+        "「情けないわねえ。ニワトリ占いはどうなの？\n　ちゃんとチキ坊と　修行してるんでしょうね～？\n　さもないと　そろそろ　丸焼きにしちゃうわよ<heart>": "Quel dommage. Comment va la divination par\npoulet ? Tu t'entraines bien avec Chickibo,\nn'est-ce pas~ ? Sinon, je vais bientot te<br>faire rotir entier<heart>"
     },
-    "142641": {
-        "「それでは　引きますね……。": "Bien, je vais tirer maintenant..."
+    "121820": {
+        "「だっ　だめだよ母さん。いくらチキ坊が\n　大メシ食らいでも　それだけは　勘弁して……！\n　修行も　鳥小屋の掃除も　ちゃんとするから。": "Da... D'accord, maman. Meme si Chickibo mange\nbeaucoup, epargne-le, s'il te plait... ! Je\nm'entrainerai et je nettoyerai le poulailler<br>correctement."
     },
-    "142642": {
-        "「……今　サラシナさんが　引いたカードに\n　占い師の秘術　アルカナ・セラピアで\n　特別なチカラを　宿らせます。": "...... Je vais maintenant impregner la carte\nque Sarashina-san a tiree d'un pouvoir special\ngrace a l'art secret du devin, Alkana Therapy."
+    "121821": {
+        "「母さん！　母さん！　母さーんっ！": "Maman ! Maman ! Mamannn !"
+    },
+    "121822": {
+        "「母さん！　あたしは？　あたしはどう？\n　ソーンなんかと違って　役に立ってるでしょ？\n　エライでしょ？　ねえねえ　ねえったら！": "Maman ! Et moi ? Moi, je suis comment ? Je\nsuis utile, pas comme Thorn, n'est-ce pas ? Je\nsuis geniale, n'est-ce pas ? He, he, dis-moi !"
+    },
+    "121823": {
+        "「んも～……かわいいっ。\n　どうして　あなたたち　そんなにかわいいの？\n　みんなまとめて　ギュッとしちゃいたい！": "Oh la la... tellement adorables. Pourquoi\netes-vous tous si mignons ? J'ai envie de vous\nserrer tous dans mes bras !"
+    },
+    "121824": {
+        "「この　占いの館が　うまくいってるのは\n　みんなのおかげよ。いつも　ありがとうね♪\n　あなたたちは　アタシの希望　そのものよ！": "Cette maison de voyance fonctionne bien grace\na vous tous. Merci beaucoup ! Vous etes ma\nveritable source d'espoir !"
+    },
+    "121825": {
+        "「あら……お客さんかしら。何かお困り？\n　悩みがあるなら　占ってあげましょうか。": "Oh... Serait-ce un client ? Avez-vous un souci\n? Si vous avez des preoccupations, voulez-vous\nque je vous fasse une prediction ?"
+    },
+    "121826": {
+        "<if_woman>「母さん。彼女が　さっき話していた人です。\n　私たちを　手伝ってくれている\n　新人占い師の　<pc>ですよ。<else>「母さん。彼が　さっき話していた人です。\n　私たちを　手伝ってくれている\n　新人占い師の　<pc>ですよ。<endif>": "<if_woman>>Maman. C'est la personne dont Her\nparlait tout a l'heure. C'est <pc>, le\nnouvel apprenti devin qui nous aide.<else>>Maman. C'est la personne dont je parlais tout\na l'heure. C'est <pc>, le nouvel\napprenti devin qui nous aide. <endif>"
+    },
+    "121827": {
+        "「あらあら……まあまあ！　そうだったのね。\n　あなたが　ウワサの　デキる新人の子なのね～！": "Oh la la... Eh bien ! Je vois ! Tu es le\nfameux nouveau talent dont tout le monde\nparle, n'est-ce pas ?"
+    },
+    "121828": {
+        "「アタシは　この占いの館のオーナーにして\n　みんなのお師匠様　天才占い師マルグリット。\n　ようこそ　占いの館へ。大歓迎しちゃう♪": "Je suis Margaret, la proprietaire de cette\nmaison de la voyance et la maitresse de tous,\nune voyante geniale. Bienvenue dans la maison<br>de la voyance. Je vous accueille\nchaleureusement ♪"
+    },
+    "121829": {
+        "「あなたの活躍は　ユノから聞かせてもらったわ。\n　アルカナ・セラピアを　使いこなしちゃうなんて\n　きっと将来　いい占い師になるわよ～！": "J'ai entendu parler de tes exploits par Juno.\nMaitriser Alカナ・セラピア comme tu le fais, je suis\nsure que tu deviendras un excellent voyant a<br>l'avenir !"
+    },
+    "121830": {
+        "「そもそも　アルカナ・セラピアっていうのは\n　占いの歴史から失われてしまった　古代の占術。\n　占い師の世界では　幻と呼ばれていた秘術なの。": "Alkana Serapia, pour commencer, est une\ntechnique divinatoire de l'ere Old qui a ete\nperdue dans l'histoire de la divination. Dans<br>le monde des voyants, c'etait un art secret\nappele un mythe."
+    },
+    "121831": {
+        "「それを　この　天才占い師様が\n　世界各地を巡って　研究を重ねた末\n　ついに　現代に復活させた……そういうわけ。": "Et c'est ainsi que moi, le genial voyant,\napres de nombreuses recherches a travers le\nmonde, ai finalement reussi a faire revivre<br>l'ere de P. Voila l'histoire."
+    },
+    "121832": {
+        "「い～い？　占い師の　究極の目的は……\n　世界中から　悩める人々を　一切なくすこと。": "Ecoute bien. Le but ultime d'un voyant est...\nd'eliminer toutes les preoccupations des gens\ndu monde entier."
+    },
+    "121833": {
+        "「みんな幸せになりたいはずよ。くよくよ悩んで\n　うじうじ腐るなんて　まっぴらごめんじゃない。\n　だから　私たち占い師が　行動を起こすのよ！": "Tout le monde devrait vouloir etre heureux. Se\nmorfondre et se laisser abattre, c'est hors de\nquestion. C'est pourquoi nous, les voyants,<br>devons passer a l'action !"
+    },
+    "121834": {
+        "「レッツ！　ハートのレボリューション★\n　心の大革命を　始めましょ！！": "Let's ! Revolution du coeur ★ Commencons la\ngrande revolution de l'ame !!"
+    },
+    "121835": {
+        "「みんなの心を救うために　あなたにも\n　バンッバン　協力してもらっちゃうからね♪\n　一緒に　理想の世界を　築いていきましょ！": "Pour sauver le coeur de tout le monde, je vais\navoir besoin de ta precieuse aide, BanッBan♪\nEnsemble, construisons le monde ideal !"
+    },
+    "121836": {
+        "「それじゃ　また様子を見にくるわ。\n　その時はまた　大活躍の武勇伝を聞かせて♪\n　これからも　よろしくね～<heart>": "Alors, je repasserai te voir plus tard. La\nprochaine fois, raconte-moi encore tes\nexploits heroiques♪ Continue de bien veiller<br>sur toi~<heart>"
+    },
+    "121837": {
+        "「母さんは　普段　お店にいないの。\n　ちょ～忙しい占い師だから　いつも旅に出てて\n　こうして　たま～に　帰ってきてくれるんだ。": "Maman n'est generalement pas a la boutique.\nComme elle est une voyante tres occupee, elle\npart souvent en voyage, et parfois, elle<br>rentre a la maison comme ca."
+    },
+    "121838": {
+        "「相変わらず　すごい　ハイテンションだったね。\n　いつも　自信たっぷりで　すごいなあ……。\n　見習いたいね　チキ坊？": "Comme toujours, il etait incroyablement\nenergique. Il a toujours une telle assurance,\nc'est impressionnant... Tu devrais prendre<br>exemple, Chickibo."
+    },
+    "121839": {
+        "「ふふ……。さっそく　<pc>さんのことを\n　母さんに　紹介できて　よかったです。": "Fufufu... Je suis contente d'avoir pu te\npresenter a ma mere, <pc>-san."
+    },
+    "121840": {
+        "「母さんは　孤児だった私たちを　引き取って\n　占いを教え　生きるすべを与えてくれた……。\n　母として　師匠として　心から尊敬しています。": "Mere nous a recueillis alors que nous etions\norphelins, nous a enseigne l'art de la\ndivination et nous a donne les moyens de<br>vivre... Je la respecte profondement, a la\nfois comme mere et comme mentor."
+    },
+    "121841": {
+        "「母さんが抱く　大きな夢を　かなえるためなら\n　どんなことでも　協力したいんです。\n　それが　私にできる　唯一の恩返しだから……。": "Pour realiser le grand reve que ma mere porte\nen elle, je suis prete a cooperer de toutes\nles manieres possibles. C'est la seule facon<br>pour moi de lui rendre tout ce qu'elle m'a\ndonne..."
+    },
+    "121842": {
+        "「<pc>さんが　仲間に加わってくれて\n　本当に　心強いです。これからも　一緒に\n　がんばっていきましょうね！": "<pc>-san s'est joint a nous, et je me\nsens vraiment rassure. Continuons a nous\ndonner a fond ensemble !"
+    },
+    "121843": {
+        "「また　新しい仕事を　手伝ってくださる時は\n　占い師の状態で　私を訪ねてくださいね。\n　次も　期待しています！": "Lorsque vous viendrez m'aider pour un nouveau\ntravail, veuillez me rendre visite en tant que\ndevin. J'attends avec impatience notre<br>prochaine rencontre !"
+    },
+    "122413": {
+        "「そうそう。今回の報酬を　お渡ししますね。\n　あなたに　よく似合うと思いますよ。\n　どうぞ　受け取ってください。": "Oh, oui. Je vais vous remettre votre\nrecompense cette fois-ci. Je pense que cela\nvous ira tres bien. Veuillez l'accepter."
+    },
+    "122414": {
+        "「そうそう。今回の報酬を　お渡ししますね。\n　どうぞ　受け取ってください。": "Ah oui, je vais maintenant vous remettre la\nrecompense de cette fois-ci. Veuillez\nl'accepter."
+    },
+    "142643": {
+        "「どうせ　私の演技なんて　誰にも\n　必要とされてないのに　女優になりたいなんて\n　思うこと自体　おこがましいですよね……。": "De toute facon, personne n'a besoin de mon jeu\nd'actrice, alors vouloir devenir actrice est\nsurement presomptueux de ma part..."
+    },
+    "142644": {
+        "「そもそも　占いに頼ろうとしてる時点で\n　夢を追う資格なんて　ないのかも……\n　はあっ……。": "En fait, si je me fie aux predictions,\npeut-etre que je n'ai pas le droit de\npoursuivre mes reves... Haa..."
+    },
+    "142645": {
+        "<pc>は　シュリナへの　思いを込めて\nテーブルに　セラピアカードを並べた。": "<pc>, rempli d'affection pour Shrina,\ndisposa les cartes Serapia sur la table."
+    },
+    "142646": {
+        "「では……引かせていただきます……。": "Alors... je vais tirer..."
+    },
+    "142647": {
+        "「……今　シュリナさんが　引いたカードに\n　占い師の秘術　アルカナ・セラピアで\n　特別なチカラを　宿らせます。": "Maintenant, je vais impregner la carte que\nShrina-san vient de tirer d'un pouvoir special\ngrace a la technique secrete de l'oracle,<br>Alkana Serapia."
     }
 }
