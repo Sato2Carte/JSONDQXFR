@@ -1,113 +1,137 @@
 {
-    "19525": {
-        "「おや……。あの者は……。\n　我が城の　精鋭部隊の者か……。": "Oh... Cette personne la-bas... Fait-elle\npartie de l'unite d'elite de mon chateau...?"
+    "74866": {
+        "「う……うう……。": "Ouh... ouh..."
     },
-    "19526": {
-        "「ラグアス王子！　一大事であります！": "Prince Raguas ! C'est une affaire urgente !"
+    "74867": {
+        "「キッキッキッキッ！！": "Kikikikiki !!"
     },
-    "19527": {
-        "「エピステーサ丘陵を巡察している兵士から\n　先ほど　報告が　ありました！": "Nous venons de recevoir un rapport d'un soldat\nen patrouille dans les collines d'Epistesa !"
+    "74868": {
+        "「キーッ？　キッキーーー！！": "Kiih? Kikkiii!!"
     },
-    "19528": {
-        "「ここより西　エピステーサ丘陵の東にある\n　ピテッザのほら穴に\n　亡霊兵士が　現れたそうです！": "Il parait qu'un soldat fantome a ete apercu a\nla Grotte de Pitheza, situee a l'est des\nCollines d'Epistesa, a l'ouest d'ici !"
+    "74869": {
+        "「うっ……うう……。": "Ooh... oooh..."
     },
-    "19529": {
-        "「亡霊兵士だって！？\n　また　現れたのか！": "Des soldats fantomes !? Encore attaques par P.\n?"
+    "74870": {
+        "「…………だめだ。\n　チカラが　入らない……。": "Non, ca ne va pas. Je n'ai plus de force…"
     },
-    "19530": {
-        "「多くの亡霊兵士が城を襲う　あの夢……。\n　ぼくの見た夢が　もしも現実になるのなら\n　亡霊兵士は　今後も現れるということか……。": "Beaucoup de soldats fantomes attaquent le\nchateau... ce reve... Si le reve que j'ai vu\ndevient realite, cela signifie que les soldats<br>fantomes continueront d'apparaitre..."
+    "74871": {
+        "「そこの……旅の人か……？\n　すまないが　グランゼドーラ城に行き\n　カノック料理長の……。": "Toi la... Es-tu un voyageur... ? Je suis\ndesole, mais pourrais-tu aller au chateau de\nGran Zedora pour voir le chef cuisinier<br>Cannock... ?"
     },
-    "19531": {
-        "「民に　不安を与えるわけにはいかない！\n　情報がもれないよう　お前たち精鋭部隊で\n　亡霊兵士の　討伐に向かってくれ！": "Nous ne pouvons pas permettre que le peuple\nsoit inquiet ! Avec votre unite d'elite,\npartez affronter et eliminer les soldats<br>fantomes avant que l'information ne se repande\n!"
+    "74872": {
+        "「……カノック料理長の料理を\n　なんでもいい。持ってきてくれないか……。\n　た……頼む……。": "Pourrais-tu m'apporter n'importe quel plat du\nchef cuisinier de Cannock... Je t'en prie...\nJe te le demande..."
     },
-    "19532": {
-        "「はっ！　おまかせください！": "Ha ! Laissez-moi faire !"
+    "74873": {
+        "「うっ……誰か　いるのか……？": "Ugh... Y a-t-il quelqu'un... ?"
     },
-    "19533": {
-        "「精鋭部隊は　いずれも\n　メギストリス流剣術をマスターしている\n　実力者たちばかりですが……": "Les membres de l'unite d'elite ont tous\nmaitrise l'art du combat a l'epee de l'ecole\nde Megistris. Ce sont des combattants<br>accomplis..."
+    "74874": {
+        "「そこの……人……。\n　すまないが　グランゼドーラ城に行き\n　カノック料理長の……。": "Toi la-bas... Toi... Excuse-moi, mais\npourrais-tu aller au chateau de Gran Zedora et\nparler au chef Cannock..."
     },
-    "19534": {
-        "「ぜひ　<pc>さんのチカラも\n　貸していただきたい。": "Nous aimerions vraiment que <pc>-san\nnous prete egalement sa force."
+    "74875": {
+        "「……カノック料理長の料理を\n　なんでもいい。持ってきてくれないか……。\n　た……頼む……。": "Pourrais-tu m'apporter n'importe quel plat du\nchef cuisinier de Cannock... Je t'en prie...\nJe te le demande..."
     },
-    "19535": {
-        "「ここより西　エピステーサ丘陵の東にある\n　ピテッザのほら穴へ行き　精鋭部隊と協力して\n　亡霊兵士を　倒してくれませんか？": "Ici a l'ouest, en direction de la colline\nEpistesa, se trouve la grotte de Pitheza.\nPourriez-vous vous rendre la-bas et collaborer<br>avec l'unite d'elite pour vaincre les soldats\nfantomes ?"
+    "74876": {
+        "「うっ……誰か　いるのか……？": "Ugh... Y a-t-il quelqu'un... ?"
     },
-    "19536": {
-        "「ありがとうございます！\n　<pc>さんがいれば　不安はありません。\n　それでは　よろしくお願いしますね。": "Merci beaucoup ! Avec vous, <pc>-san, je\nn'ai aucune inquietude. En comptant sur vous,\nje vous confie la suite."
+    "74877": {
+        "「ああ……カノック料理長の料理を\n　持ってきてくれたのか……。\n　頼む　それをオレに……。<yesno><close>": "ああ Tu as apporte le plat du chef de Cannock...\nJe t'en prie, donne-le-moi... <yesno><close>"
     },
-    "19537": {
-        "「ありがとうございます！\n　……ですが　どうやら　頼まれごとを\n　たくさん　抱えていらっしゃるようですね。": "Merci beaucoup ! ...Cependant, il semble que\nvous ayez beaucoup de requetes a gerer,\nn'est-ce pas ?"
+    "74878": {
+        "「そんなことを言わずに　頼む……。\n　その料理を　オレに……。<yesno><close>": "Ne dis pas ca, je t'en prie... Donne-moi ce\nplat..."
     },
-    "19538": {
-        "「民の安全にも　関わりますので\n　<pc>さんのチカラが　必要なんですが\n　うーん……。困りましたね……。": "La securite du peuple est en jeu, nous avons\ndonc besoin de la force de <pc>-san.\nHmmm... C'est problematique..."
+    "74879": {
+        "<pc>は　行き倒れの男に\nスペシャルランチを　渡した。": "<pc> a donne le Special Lunch a l'homme\neffondre."
     },
-    "19539": {
-        "「ほかの用事が　終わったら\n　また　ここに戻ってきてください。\n　お待ちしてますよ　<pc>さん。": "Une fois que vous aurez termine vos autres\naffaires, revenez ici. Nous vous attendrons,\n<pc>-san."
+    "74880": {
+        "「ああ……ありがとう。\n　さっそく　食わせてもらうよ……。": "Ah... Merci. Je vais le manger tout de\nsuite..."
     },
-    "19540": {
-        "「うーん……。そうですか。\n　<pc>さんは　頼りになるので\n　協力を　お願いしたいのですが……。": "Hmm... Je vois. <pc>-san est quelqu'un\nde fiable, alors j'aimerais demander votre\naide..."
+    "74881": {
+        "行き倒れの男は　ものすごい勢いで\nスペシャルランチを　食べはじめた！": "L'homme effondre a commence a manger le\nSpecial Lunch avec une incroyable voracite !"
     },
-    "19541": {
-        "「ムリに頼んでは失礼ですね。\n　気が変わったら　また　来てください。\n　ぼくは　ここで　お待ちしてます。": "Ce serait impoli de vous forcer a accepter. Si\nvous changez d'avis, revenez me voir. Je vous\nattendrai ici."
+    "74882": {
+        "「……おおお。チカラが　みなぎるぞ！": "...... Ohhh. Une force debordante m'envahit !"
     },
-    "19542": {
-        "「私たち…精鋭部隊が…敗れるとは……？\n　な…なんという　強さだ……。": "Nous... l'unite d'elite... avons ete\nvaincus... ? Qu-quelle force incroyable..."
+    "74883": {
+        "「今まで食った中でも　最高に　うまかった。\n　まるで　生き返ったみたいだよ！": "C'etait le meilleur repas que j'aie jamais\nmange. Je me sens comme si j'avais repris vie\n!"
     },
-    "19543": {
-        "「あの剣さばき　私たち…と似て…いる。\n　メギストリス流剣術に…………。": "Ce maniement de l'epee... Il ressemble au\nnotre... A l'art de l'epee de l'ecole\nMegistris..."
+    "74884": {
+        "「世話になったな　旅の人。\n　オレの名は　テグラム。しがない剣士さ。": "Je vous suis reconnaissant, voyageur. Mon nom\nest Tegram. Je ne suis qu'un humble epeiste."
     },
-    "19544": {
-        "「我らハ　不屈ノ闘志を持つ豪傑……。\n　我らヲ止めラレる者なド　おらヌ……。": "Nous sommes les vaillants guerriers dotes\nd'une determination inebranlable... Personne\nne peut nous arreter..."
+    "74885": {
+        "「……あの日　オレは　勇者姫に呼ばれ\n　城の西の塔に　向かったはずだった。": "Ce jour-la, j'avais ete convoque par la\nprincesse heroique et je devais me rendre a la\ntour ouest du chateau."
     },
-    "19545": {
-        "「我ラは　戦イ抜く……。\n　愛すル家族ヲ　救いダすノダ……。": "Nous allons nous battre jusqu'au bout... Nous\ndevons sauver notre chere famille..."
+    "74886": {
+        "「でも　そこから先を　覚えていない。\n　気づいたら　ここに倒れ\n　動けなくなっていたんだ……。": "Mais je ne me souviens de rien apres ca. Quand\nj'ai repris conscience, j'etais allonge ici,\nincapable de bouger..."
     },
-    "19546": {
-        "「我ラは　戦イ抜く……。\n　愛すル家族ヲ　救いダすノダ……。": "Nous allons nous battre jusqu'au bout... Nous\ndevons sauver notre chere famille..."
+    "74887": {
+        "「なぜかは知らないが　その勇者姫も\n　今は　この世にいないと　わかるんだ。\n　オレが　何者かに作られた存在であることも。": "Je ne sais pas pourquoi, mais je sais que\ncette princesse heroique n'est plus de ce\nmonde. Je comprends aussi que j'ai ete cree<br>par quelqu'un."
     },
-    "19547": {
-        "「おのレエエエ……。\n　憎キ　フォステイルめ……。": "Oh, toi... maudite Fostail..."
+    "74888": {
+        "「……そんなことより　城へ戻って\n　オレの無事を　じいさんに　伝えないとな。\n　本当に　助かったよ　旅の人。": "…Mais avant tout, je dois retourner au chateau\net informer mon grand-pere que je suis sain et\nsauf. Vous m'avez vraiment sauve, voyageur."
     },
-    "19548": {
-        "「パルカラス王ガ　フタタび\n　号令ヲ　かけタ時……。\n　我らハ進軍シ　愛すル家族ヲ　救いダす……。": "Lorsque le roi Palkaras donnera de nouveau\nl'ordre... Nous avancerons alors pour sauver\nnos familles bien-aimees..."
+    "74889": {
+        "「……うむ　そうなのだ。\n　国の者は皆　自分たちが　何者かによって\n　作りだされた存在と　気づいておる。": "Oui, c'est bien cela. Tous les habitants du\nroyaume ont realise qu'ils ont ete crees par\nquelqu'un."
     },
-    "19549": {
-        "<cs_pchero>は\nボロボロの本（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu un livre en lambeaux\n(objets cles) ! <me 60>"
+    "74890": {
+        "「そのうえ　勇者姫も消えて　頼る者を失い\n　生きる気力すら　なくしている状態でな……。": "De plus, avec la disparition de la princesse\nheroique, ils ont perdu celui sur qui ils\npouvaient compter et ont meme perdu la volonte<br>de vivre..."
     },
-    "19550": {
-        "「これは　ずいぶんと古い本ですね。\n　表紙に書かれている　題名を見るかぎり\n　現代の文字では　ないようですが……。": "C'est un livre vraiment ancien, n'est-ce pas ?\nEn regardant le titre ecrit sur la couverture,\nce ne semble pas etre des caracteres de l'ere<br>actuelle..."
+    "74891": {
+        "「おや。あのときの旅の人か。\n　君も見ただろう。この国の有様を。": "Oh, mais c'est toi, le voyageur de l'autre\nfois. Tu as du le voir aussi, n'est-ce pas ?\nL'etat de ce pays."
     },
-    "19551": {
-        "「うーむ……。これは……。\n　昔　プクランド大陸で使われていた\n　古代文字ですね。": "Hmm... Cela... Ce sont d'anciens caracteres\nutilises autrefois sur le continent de\nPukuLMP."
+    "74892": {
+        "「なんて　ふがいない！\n　オレや　じいさんが　勇者姫に仕えて\n　守りたかったのは　こんな国じゃないはずだ！！": "Quel manque de courage ! Ce n'est pas pour\nservir la princesse courageuse et proteger un\npays comme celui-ci que mon grand-pere et moi<br>avons consacre notre vie !!"
     },
-    "19552": {
-        "「以前　勉強していたので\n　これくらいなら　ぼくでも　読めますよ。\n　どれどれ……。": "J'avais etudie ca avant, donc je peux lire a\npeu pres ca. Voyons voir..."
+    "74893": {
+        "「そういえば　リゲス大臣。\n　オレのじいさんの姿が見えないが\n　どこにいるんだ？": "Au fait, Ministre Rigez. Je ne vois pas mon\ngrand-pere. Ou est-il ?"
     },
-    "19553": {
-        "「フォ……。ス……。テイル…伝……。\n　フォステイル伝……？": "Fo...s...tail...伝... Fostail Biography...?"
+    "74894": {
+        "「それは……その……。": "Eh bien... c'est que..."
     },
-    "19554": {
-        "「こ…これは　もしや！": "C... ceci est peut-etre !"
+    "74895": {
+        "「テグラムさま！　ご無事だったと\n　お聞きして　まいりました！！": "Tegram-sama ! J'ai entendu dire que vous etiez\nsain et sauf, alors je suis venu !!"
     },
-    "19555": {
-        "「<pc>さん！\n　この本は　もしかしたら　フォステイルの生涯が\n　記された本かもしれませんよ！": "<pc>-san ! Ce livre pourrait bien etre\ncelui qui relate la vie de Fostail !"
+    "74896": {
+        "「おお　久しぶりだな　キッパー。\n　オレのじいさんが　どこにいるか\n　お前なら　知ってるか？": "Oh, ca fait longtemps, Kipper. Tu sais ou est\nmon grand-pere ?"
     },
-    "19556": {
-        "「５００年前　フォステイルが\n　王国に仕官してから　王になるまでの歴史も\n　この本になら　書かれているかもしれない……。": "Il est possible que l'histoire de Fostail,\ndepuis qu'il a rejoint le service du royaume\njusqu'a devenir roi, soit consignee dans ce<br>livre..."
+    "74897": {
+        "「お前たち　従者を仕切っていた\n　従者頭のダイムだぞ？\n　忘れたなんて　言うんじゃないだろうな？": "Je suis Daim, le chef des serviteurs qui vous\nencadrait. Ne me dites pas que vous avez\noublie ?"
     },
-    "19557": {
-        "「うーむ……。": "Hmm..."
+    "74898": {
+        "「……ダイム老は　亡くなられました。\n　失礼ながら　葬儀は　私たちで\n　すでに　済ませてあります。": "Old Man Dyme est decede. Pardonnez-moi, mais\nnous avons deja organise les funerailles."
     },
-    "19558": {
-        "「本格的に　解読するとなると\n　学者に頼まないと　ダメですね……。": "Si nous voulons dechiffrer cela serieusement,\nnous devrons demander l'aide d'un erudit..."
+    "74899": {
+        "「な……。じいさんが　死んだ？\n　そんな　バカな……。": "Quoi... Grand-pere est mort ? C'est insense..."
     },
-    "19559": {
-        "「よし……。学者たちを呼んで\n　さっそく　解読させましょう。": "D'accord... Faisons venir les erudits et\ndemandons-leur de decrypter cela\nimmediatement."
+    "74900": {
+        "「こんなことを　ウソでは申せません。\n　私たちにとっても　まったく\n　突然のことでした……。": "Je ne pourrais jamais mentir sur une telle\nchose. C'etait aussi totalement inattendu pour\nnous..."
     },
-    "19560": {
-        "「亡霊を討伐し　貴重な本まで手に入れるとは\n　さすがは　<pc>さんですね。\n　どうぞ　これを受け取ってください。": "Vaincre un fantome et obtenir un livre\nprecieux, c'est vraiment digne de vous,\n<pc>-san. Veuillez accepter ceci."
+    "74901": {
+        "「そうか……。あの　じいさんが\n　死んじまうなんてな……。": "Je vois... Ce vieux monsieur est donc\ndecede..."
     },
-    "19561": {
-        "「これから　学者たちと協力して\n　解読を行いますので　また　しばらくしたら\n　来てください。よろしくお願いします。": "A partir de maintenant, nous allons collaborer\navec les chercheurs pour dechiffrer cela.\nRevenez dans quelque temps, s'il vous plait.<br>Merci de votre comprehension."
+    "74902": {
+        "「ダイム老が　生きておられたなら\n　城内が　このように荒れることを\n　許されるはずは　なかったのですが……。": "Si le vieux Dyme etait encore en vie, il\nn'aurait jamais permis que le chateau tombe\ndans un tel etat de desordre..."
+    },
+    "74903": {
+        "「このままでは　城のみならず\n　王国そのものの未来も　閉ざされよう。\n　だが　どうすればいいのか……。": "Si cela continue ainsi, non seulement le\nchateau, mais aussi l'avenir meme du royaume\nseront compromis. Mais que devons-nous<br>faire... ?"
+    },
+    "74904": {
+        "「放っておきたくはないが……。\n　こんなオレに　できることが\n　何か　あるんだろうか……。": "Je ne veux pas l'abandonner, mais... Y a-t-il\nquelque chose que je puisse faire dans cet\netat...?"
+    },
+    "74905": {
+        "「しばらく　ひとりで　考えてみたい。\n　オレは　これで失礼しよう。": "J'aimerais reflechir seul un moment. Je vais\nprendre conge pour l'instant."
+    },
+    "74906": {
+        "「<pc>殿　ご苦労さまでした。\n　よもや　行き倒れていた者が　ダイム老の孫\n　テグラムとは　思いもよりませんでしたが。": "<pc>-dono, merci pour vos efforts. Je\nn'aurais jamais imagine que la personne que\nnous avons trouvee inanimee serait Tegram, le<br>petit-fils d'Old Man Dyme."
+    },
+    "74907": {
+        "「テグラムは　名うての剣士。\n　剣のウデは　姫さまにも劣らぬもので\n　城下にも　その名は知られておりました。": "Tegram etait un epeiste renomme. Son talent a\nl'epee n'avait rien a envier a celui de la\nprincesse, et son nom etait bien connu dans la<br>cite du chateau."
+    },
+    "74908": {
+        "「しかし　あるときから\n　まったく　姿を見せなくなりましてな。\n　これまで　行方不明とされていたのです。": "Cependant, a un certain moment, il a\ncompletement cesse de se montrer. Jusqu'a\npresent, il etait considere comme disparu."
+    },
+    "74909": {
+        "「王国は　このような状態ですが\n　彼が　生きて戻ったことは\n　よろこばしいことと　言えましょう。": "Le royaume est dans cet etat, mais on peut\ndire que c'est une joie qu'il soit revenu\nvivant."
+    },
+    "74910": {
+        "「……おっと　いけません。\n　<pc>殿に　願いを聞いていただいた礼を\n　お渡ししませんとな。": "...Oh, je ne peux pas oublier. Je dois vous\nremettre un remerciement pour avoir exauce mon\nsouhait, <pc>-dono."
     }
 }
