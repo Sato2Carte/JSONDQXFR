@@ -1,353 +1,311 @@
 {
-    "18625": {
-        "「なんだか　イムイ地下空洞へ\n　呼ばれている気がするの……。\n　ボクたち　後をついてくから　よろしくね。": "J'ai comme l'impression qu'on m'appelle dans\nla grotte souterraine d'Imui... Nous allons te\nsuivre, alors compte sur nous."
+    "21269": {
+        "「おお……。<pc>か……。\n　よく…来てくれたな……。\n　ルナナの足取りが……　つかめたのだ……。": "Oh... <pc>... Tu es bien... venu... Nous\navons reussi a suivre les traces de Lunana..."
     },
-    "18626": {
-        "「その洞くつ　たぶん　ボクと博士さんが\n　はじめて会った　洞くつだよ……。": "Cette grotte, c'est probablement celle ou le\nprofesseur et moi nous sommes rencontres pour\nla premiere fois..."
+    "21270": {
+        "「ルナナは　魔獣ビュブロスを…追って……\n　このラニアッカから　南西のザグバン丘陵に抜け\n　南の果てにある　ザアグの洞門に向かった……。": "Lunana a poursuivi la Bete Magique Byblos...\nElle est passee par les Collines de Zagban au\nsud-ouest de Laniakka et s'est dirigee vers la<br>Caverne de Zaag, situee a l'extremite sud..."
     },
-    "18627": {
-        "「北へ行って　カミハルムイ領北に着いたら\n　ずっと　北に行ったところにある\n　イムイ地下空洞だと思う。よ…よろしく。": "Quand tu iras vers le nord et que tu arriveras\na Kamiharmui North, continue toujours vers le\nnord pour atteindre l'Imui Underground Cave,<br>je pense. Je... je compte sur toi."
+    "21271": {
+        "「じつはな……　その　ザアグの洞門こそ\n　わしが　かつて　レオン・ビュブロを討ち……\n　ホルタが果てた　因縁の地なのだ……！": "En fait... cette Cave of Zaag est justement le\nlieu ou j'ai autrefois vaincu Leon Byblo... et\nou Horu a trouve sa fin. C'est un endroit<br>charge d'histoire pour moi... !"
     },
-    "18646": {
-        "「ここから東　夢幻の森に着いたら\n　ずっと東に進めば　捨てられた城があるわ！\n　そこの裏手の庭の泉が　聖地につながってるの！": "A l'est d'ici, une fois arrive a la Dream\nForest, continue toujours vers l'est et tu\ntrouveras le Abandoned Castle ! La source du<br>jardin derriere ce chateau est reliee a la\nterre sacree !"
+    "21272": {
+        "「なにやら　いやな予感がする……。\n　レオン・ビュブロの子である　魔獣ビュブロスが\n　なぜ　その因縁の地に　向かっているのか……。": "J'ai un mauvais pressentiment... Pourquoi la\nBete Magique Byblos, enfant de Leon Byblo, se\ndirige-t-elle vers ce lieu charge de<br>destinee...?"
     },
-    "18647": {
-        "「お前たちの意志　強い。\n　われらも　お前たちを信じる。": "Votre volonte est forte. Nous croyons en vous\negalement."
+    "21273": {
+        "「<pc>よ……　時は来た。\n　わしを……　かの地まで　導いてくれぬか？\n　そして　ルナナを　魔獣の牙から守るのだ……。": "<pc>, le moment est venu. Peux-tu me\nguider jusqu'a cet endroit ? Et protege Lunana\ndes crocs des betes demoniaques..."
     },
-    "18648": {
-        "「われらは　先に　暗黒大樹に戻っている。": "Nous retournerons d'abord a l'Arbre Sombre."
+    "21274": {
+        "「ありがたい。本当に　恩に着る……。\n　目がかすみ……　いよいよ　誰かの手を借りねば\n　何も　できぬようになってしまった……。": "Je vous suis reconnaissant. Je vous dois\nvraiment beaucoup... Ma vue se brouille... Il\nsemble que je doive enfin compter sur l'aide<br>de quelqu'un pour accomplir quoi que ce\nsoit..."
     },
-    "18685": {
-        "「ありがとね　<pc>。\n　あなたのおかげで　ここまで来れたわ。": "Merci, <pc>. C'est grace a toi que j'ai\npu arriver jusqu'ici."
+    "21275": {
+        "「だが　あの杖さえ　取り戻せば……\n　わしも　ビュブロスと戦える……。\n　それまでは　おぬしに　必死で…ついていく。": "Mais si seulement je pouvais recuperer ce\nbaton... Je pourrais aussi me battre contre\nBiblros... Jusque-la, je te suivrai de toutes<br>mes forces..."
     },
-    "18686": {
-        "「感じるわ。聖地のチカラを……。\n　このチカラを　体内に宿せば……。": "Je le sens. Le pouvoir du sanctuaire sacre...\nSi je peux abriter ce pouvoir en moi..."
+    "21276": {
+        "「<pc>……　頼んだぞ……。\n　ホルタとルナナ　ふたりの不幸な運命の連鎖は\n　わしらの手で　断ち切るのだ……！": "<pc>... Je compte sur toi... Nous allons\nbriser de nos propres mains la chaine de\ndestins tragiques de Horuta et Lunana... !"
     },
-    "18689": {
-        "「お待たせ　<cs_pchero>。": "Je t'ai fait attendre, <cs_pchero>."
+    "21277": {
+        "「引き受けてくれるのは　ありがたいが……。\n　おぬしは……　他の者の依頼が\n　たまっているようだな……。": "Je te remercie d'accepter, mais... il semble\nque tu aies deja beaucoup de demandes en\nattente de la part des autres..."
     },
-    "18690": {
-        "「聖地のチカラを宿した　今のハッパなら\n　魔瘴を　消滅させることができるはずよ。\n　暗黒大樹の芯を覆う　魔瘴もね。": "Avec le pouvoir sacre que Happa detient\nmaintenant, il devrait etre capable de\ndissiper le miasme. Y compris celui qui<br>recouvre le coeur de l'Arbre Sombre."
+    "21278": {
+        "「仕方あるまい……。\n　わしは　しばらく　ここにいるから\n　先に　そちらを片付けてくるがよい……。": "Je n'ai pas le choix... Je vais rester ici un\nmoment, alors allez d'abord regler vos\naffaires la-bas..."
     },
-    "18691": {
-        "「あとは　ハッパが\n　濃い魔瘴に　耐えられるかどうか……。": "Ensuite, il faudra voir si Happa peut resister\na cette epaisse miasme malefique..."
+    "21279": {
+        "「そうか……。だが　情けないことに\n　今のわしは　ひとりでは　何もできん……。\n　おぬしだけが　頼りなのだ……。": "Je vois... Cependant, c'est regrettable, mais\ndans mon etat actuel, je ne peux rien faire\nseul... Je compte sur toi..."
     },
-    "18700": {
-        "「<cs_pchero>！　あいつを倒さないと\n　芯に　近づくことができないわ！": "<cs_pchero> ! Si nous ne le battons pas, nous\nne pourrons pas nous rapprocher du noyau !"
+    "21280": {
+        "「<pc>よ……　頼む……。\n　気が変わったら　また来てくれんか……。\n　わしは　ルナナを守らねばならんのだ……！": "<pc>... Je t'en prie... Si tu changes\nd'avis, reviens me voir... Je dois proteger\nLunana... !"
     },
-    "18701": {
-        "「魔物の討伐！　あなたに　まかせるわ！": "La chasse aux monstres ! Je te la confie !"
+    "21281": {
+        "「おお……。<pc>か……。\n　よく…来てくれたな……。\n　ルナナの足取りが……　つかめたぞ……。": "Oh... <pc>, n'est-ce pas... Merci d'etre\nvenu... Nous avons enfin trouve la piste de\nLunana..."
     },
-    "18708": {
-        "「ナイス　<cs_pchero>！\n　やっぱり　あなたは頼りになるね！": "Bien joue, <cs_pchero> ! Tu es vraiment\nquelqu'un sur qui on peut compter !"
+    "21282": {
+        "「ルナナは　魔獣ビュブロスを…追って……\n　このラニアッカから　南西のザグバン丘陵に抜け\n　南の果てにある　ザアグの洞門に向かった……。": "Lunana a poursuivi la Bete Magique Byblos...\nElle est passee par les Collines de Zagban au\nsud-ouest de Laniakka et s'est dirigee vers la<br>Caverne de Zaag, situee a l'extremite sud..."
     },
-    "18709": {
-        "「さてと……": "Bon, alors..."
+    "21283": {
+        "「じつはな……　その　ザアグの洞門こそ\n　わしが　かつて　レオン・ビュブロを討ち……\n　ホルタが果てた　因縁の地なのだ……！": "En fait... cette Cave of Zaag est justement le\nlieu ou j'ai autrefois vaincu Leon Byblo... et\nou Horu a trouve sa fin. C'est un endroit<br>charge d'histoire pour moi... !"
     },
-    "18710": {
-        "「次は　ハッパの番だね。\n　準備はいい？": "Ensuite, c'est au tour de Happa. Tu es pret ?"
+    "21284": {
+        "「<pc>よ……　時は来た。\n　わしを……　かの地まで　導いてくれぬか？\n　そして　ルナナを　魔獣の牙から守るのだ……。": "<pc>, le moment est venu. Peux-tu me\nguider jusqu'a cet endroit ? Et protege Lunana\ndes crocs des betes demoniaques..."
     },
-    "18711": {
-        "「ハ…ハネ……ハネ……": "Ha... Hane... Hane..."
+    "21285": {
+        "「わしの杖を奪った　ルナナは……\n　最後の…魔獣ビュブロスを追い　ザグバン丘陵の\n　南の果てにある　ザアグの洞門に向かった……。": "Lunana, qui a vole mon baton... a poursuivi la\nderniere... Bete Magique Byblos et s'est\ndirigee vers la Cave of Zaag, situee a<br>l'extremite sud des Zagban Hills..."
     },
-    "18712": {
-        "「ハネツキお姉ちゃん……。": "Hanetsuki onee-chan..."
+    "21286": {
+        "「その　ザアグの洞門こそ……\n　わしが　かつて　レオン・ビュブロを討ち……\n　ホルタが果てた　因縁の地……。": "Cette Cave of Zaag est precisement...\nl'endroit ou j'ai autrefois vaincu Leon\nByblo... et ou Horuta a rencontre son<br>destin..."
     },
-    "18713": {
-        "「えへへ。ちゃんと　呼べたじゃん。\n　どしたの？": "Eh eh. Tu as bien reussi a m'appeler.\nQu'est-ce qu'il y a ?"
+    "21287": {
+        "「<pc>よ……　時は来た。\n　わしを……　その因縁の地まで　導き……\n　そして　ルナナを　魔獣の牙から守るのだ……。": "<pc>, le moment est venu. Guide-moi\njusqu'a cette terre de destin... Et protege\nLunana des crocs de la bete malefique..."
     },
-    "18714": {
-        "「ハネツキお姉ちゃん……。\n　もしも　戻れなかったら　ごめんね。": "Grande soeur Hanetsuki... Si je ne peux pas\nrevenir, je suis desolee."
+    "21288": {
+        "「あの杖さえ　取り戻せば……\n　わしも　ビュブロスと戦える……。\n　それまでは　おぬしに　必死で…ついていく。": "Si seulement je pouvais recuperer ce baton...\nJe pourrais alors combattre Biubros\nmoi-meme... En attendant, je vais m'accrocher<br>desesperement a toi."
     },
-    "18715": {
-        "「今まで　ありがと……。\n　ボク　いってくるね。": "Merci pour tout jusqu'a present... Je m'en\nvais maintenant."
+    "21289": {
+        "「<pc>……　頼んだぞ……。\n　ホルタとルナナ　ふたりの不幸な運命の連鎖は\n　わしらの手で　断ち切るのだ……！": "<pc>... Je compte sur toi... Nous allons\nbriser de nos propres mains la chaine de\ndestins tragiques de Horuta et Lunana... !"
     },
-    "18716": {
-        "「うん。ここで　待ってるから。\n　いってらっしゃい。": "Oui. Je vais attendre ici. Bonne chance."
+    "21290": {
+        "「……着いたぞ。ここが　わしらの因縁の地。\n　よもや　このようなかたちで……\n　ふたたび　訪れようとはな……。": "...Nous sommes arrives. Voici le lieu de notre\ndestinee. Jamais je n'aurais pense qu'un\njour... Nous reviendrions ici de cette<br>maniere..."
     },
-    "18717": {
-        "「よ…よし　行くぞ。": "D'accord... Allons-y."
+    "21291": {
+        "「……ムッ！？": "...Mmm !?"
     },
-    "18718": {
-        "「ううううううううう……………。": "Uuuuuuuuuuuuu..."
+    "21292": {
+        "「ルナナァ……ッ！！　杖を……\n　その杖を　わしに　よこすのだ……ッ！！": "Lunana... !! Donne-moi... ce baton... !!"
     },
-    "18719": {
-        "「ううううう……。く…苦しい……。\n　た…耐えなきゃ　耐えるんだ……。": "Uuuuuu... C'est... c'est dur... Je dois... je\ndois tenir bon... tenir bon..."
+    "21293": {
+        "「ふふん。遅い！\n　遅いわよ　賢者ブロッゲン！": "Fufun. En retard ! Tu es en retard, Sage\nBroggen !"
     },
-    "18720": {
-        "「ハァハァ……。つ…着いた。\n　ここが　大樹の芯……。\n　せ…聖地のチカラを　使わなきゃ……。": "Haa, haa... Je suis... arrive. C'est ici, le\ncoeur de l'Arbre du Monde... Je dois...\nutiliser le pouvoir du Sanctuaire..."
+    "21294": {
+        "「この魔獣は　あたしのエモノよ！\n　こいつを倒して　あたしの輝かしい経歴に\n　新たな１ページを　加えるのよ！": "Ce monstre est ma proie ! Je vais le vaincre\net ajouter une nouvelle page a ma brillante\ncarriere !"
     },
-    "18721": {
-        "「ううう……。ダ…ダメだ。\n　もう　か…身体が　もた…な…い……。": "Ooooh... Je... Je n'en peux plus. Mon... mon\ncorps ne... tiendra... pas..."
+    "21295": {
+        "「お…愚かな……。欲に　目がくらみおって……。\n　あの杖は…　わしが使わなくては……。": "Oh... Imbeciles... Aveugles par leur desir...\nCe baton... C'est moi qui devrais\nl'utiliser..."
     },
-    "18722": {
-        "「ハッパ……。これも運命か……。": "Happa... Serait-ce aussi le destin...?"
+    "21296": {
+        "「さあ　棒切れ！　いよいよ　アンタの出番よ！\n　目の前にいる魔獣を　ケチョンケチョンに\n　のしてしまいなさいッ！！": "Allez, baton ! C'est enfin ton tour ! Mets\ncette bete magique au tapis devant toi !"
     },
-    "18723": {
-        "「ハッパ……。": "Happa..."
+    "21297": {
+        "「何度　言ったら　わかるでアールか！！\n　ワガハイは　魔獣の光線を　防ぐのみ！！\n　トドメは　ブロッゲンさまが刺すのでアール！！": "Combien de fois dois-je te le repeter, Aru !!\nJe ne fais que repousser les rayons des betes\nmagiques !! Le coup de grace sera porte par<br>Broggen-sama, Aru !!"
     },
-    "18724": {
-        "「あ…あれ？\n　身体が　なんともない。": "あ… ah ? Mon corps ne ressent rien."
+    "21298": {
+        "「この期に及んで　なに言ってるのよ！！\n　そんな　つまんないジョークは　いいから\n　さっさと　攻撃を……": "A ce stade, qu'est-ce que tu racontes ?! Assez\nde ces blagues ennuyeuses, attaque\nrapidement..."
     },
-    "18725": {
-        "「全然　苦しくないぞ……。\n　よ…よーし！": "Je ne souffre pas du tout... Allons-y !"
+    "21299": {
+        "「グルルル……。その愚かな物言い……。\n　我が父を討った　神父ホルタの忘れ形見とは\n　到底　思えんな……。": "Grrr... Ces paroles insensees... Je ne peux\nabsolument pas croire que tu sois l'heritier\ndu pretre Horuta, qui a vaincu mon pere..."
     },
-    "18726": {
-        "「奇跡……。奇跡　起きた……。\n　ハッパ　エルフなのに\n　魔瘴の耐性に　目覚めた……。": "Miracle... Un miracle s'est produit... Bien\nque je sois un elfe Happa, je me suis eveille\na la resistance a la miasme..."
+    "21300": {
+        "「……ハァ！？　なんで　魔物のクチから\n　父さんの名前が　出てくるワケ？": "Quoi !? Pourquoi le nom de mon pere sort-il de\nla bouche d'un monstre ?"
     },
-    "18727": {
-        "「ハ…ハネツキお姉ちゃん。\n　ボク　やったよ……。": "Ha... Grande soeur Hanetsuki. Je l'ai fait..."
+    "21301": {
+        "「グルルル……。無知とは　恐ろしい……。\n　どうやら　ここへ　おびきだされたことも\n　気づいていないようだ……。": "Grururu... L'ignorance est vraiment\neffrayante... Il semble que tu n'as meme pas\nrealise que tu as ete attire ici..."
     },
-    "18728": {
-        "「へへっ　やるじゃん。\n　最高に　かっこよかったよ。": "Hehe, bien joue. C'etait vraiment\nimpressionnant."
+    "21302": {
+        "「我ら兄弟は　父を葬った　ふたりの男に\n　真の復讐を果たすことのみを\n　使命とし　生きてきた……！": "Nous, les Brothers, avons vecu uniquement pour\naccomplir notre mission : venger notre pere\nenterre par ces deux hommes...!"
     },
-    "18729": {
-        "「え…えへへ。": "E... ehehe."
+    "21303": {
+        "「幾多の旅人から　魂を吸い集めたのは\n　この地に眠る　父の怨念を呼び覚ますため！\n　今こそ　我は　真の復讐の　のろしを上げる！": "J'ai rassemble les ames de nombreux voyageurs\npour reveiller la rancoeur de mon pere, qui\ndort en ces lieux ! Le moment est venu pour<br>moi, T., de lever l'etendard de la vengeance !"
     },
-    "18730": {
-        "「<cs_pchero>さんと　一緒に\n　いろんな経験が　できたから\n　ボク…強くなれたんだと思う。": "Je pense que j'ai pu devenir plus fort grace a\ntoutes les experiences vecues avec <cs_pchero>\nsan."
+    "21304": {
+        "「無念の地に眠る　父　レオン・ビュブロよ！\n　ついに　復讐のときは　来た！\n　そのチカラを託し　我を　猛り狂う魔獣とせよ！": "O pere, Leon Byblo, qui repose en cette terre\nde regrets ! Enfin, l'heure de la vengeance\nest arrivee ! Confie-moi ta force et fais de<br>moi une bete magique enragee !"
     },
-    "18731": {
-        "「今まで　ありがとね……。\n　こ…これ　受け取って。": "Merci pour tout jusqu'a maintenant... Tiens,\nprends ca."
+    "21305": {
+        "「グオオオオォォォォォォ……！！！": "Guooooooaaaaaahhh...!!!"
     },
-    "18732": {
-        "「世界樹に　危機　訪れし時\n　世界樹を救うため　世に現れる存在……。\n　ハッパ　もしかしたら……。": "Quand une crise menace l'Arbre-Monde, une\nexistence apparait pour sauver\nl'Arbre-Monde... Happa, peut-etre que..."
+    "21306": {
+        "「な…なんということだ……。\n　あれは……　レオン・ビュブロそのもの……。\n　この地に来たのは　そういうわけか……。": "Qu... que se passe-t-il... ? C'est... Leon\nByblo lui-meme... C'est donc pour cela qu'il\nest venu ici..."
     },
-    "18733": {
-        "「ハネツキお姉ちゃん。\n　ボク　決めたよ。": "Hanetsuki onee-chan. J'ai pris ma decision."
+    "21307": {
+        "「この姿で　父のカタキを討ち\n　そして　その血筋をも　根絶やしにする……。\n　それこそが　真の復讐よ……。": "Dans cette apparence, je vengerai mon pere et\nj'aneantirai cette lignee... Voila ce qu'est\nla vengeance de T."
     },
-    "18734": {
-        "「なにを？": "Que veux-tu dire ?"
+    "21308": {
+        "「神父ホルタの　忘れ形見……！\n　まずは　貴様を　一撃で葬ってくれる！！\n　震えろぉッ！　小娘ェェェェッ！！": "L'heritage oublie du pretre Horuta... !\nD'abord, je vais t'envoyer ad patres en un\nseul coup !! Tremble ! Petite effrontee !!"
     },
-    "18735": {
-        "「ボク　ここで生きていく。": "Je vais vivre ici."
+    "21309": {
+        "「キャァァァァァァーーーーッッッ！！！！": "Kyyaaaaaaaaaaaahhhhhhh !"
     },
-    "18736": {
-        "「それで　聖地と暗黒大樹を往復して\n　これからも　大樹に現れた魔瘴を消していく。\n　ボクが　大樹を守っていくよ。": "Je vais continuer a faire des allers-retours\nentre le sanctuaire sacre et l'Arbre Sombre\npour purifier le miasme corrompu par l'Arbre.<br>Je protegerai l'Arbre."
+    "21310": {
+        "「キェェェェェェーーーーッ！！！！\n　バリア　全　開　放　でアーーーーール！！！！": "Kyaaaaaaaaah !!!!! Barriere, deploiement total\n!!!!"
     },
-    "18737": {
-        "「えへへ　かっこいいじゃん。\n　なんか　あれだね。": "Eh eh eh, il est cool, n'est-ce pas ? C'est un\npeu ca, tu sais."
+    "21311": {
+        "「ダメだ……！　あれでは　杖が　もたん……！\n　ヤツの…攻撃が　強すぎる……！": "C'est impossible... ! Le baton ne tiendra\npas... ! Son... attaque est trop puissante...\n!"
     },
-    "18738": {
-        "「暗黒大樹の守り人って　感じだね。": "On dirait bien que c'est le gardien du Grand\nArbre des Tenebres."
+    "21312": {
+        "「……ギ…ギギ…ギェェェーー……ッ！！": "...Gi...Gigi...Gyaaaa---...!!"
     },
-    "29900": {
-        "「あっ！　待ってたよ！\n　ねぇねぇ　知ってる！？": "Ah ! Je t'attendais ! He, he, tu sais quoi !?"
+    "21313": {
+        "「もう…　限界で…アーーーーーーール！！！！": "Je suis a... ma limite... AAAAAAAAAAAAAH !"
     },
-    "29901": {
-        "「博士さんがね　魔瘴を消す方法を\n　突き止めたんだよ！": "Le docteur a trouve un moyen pour dissiper le\nmiasme demoniaque !"
+    "21314": {
+        "「小賢しいマネを……。": "Toujours a faire des manigances..."
     },
-    "29902": {
-        "「でも　博士さんね　ずっと暗い顔してるんだ。\n　なんでかなあ？": "Mais vous savez, le professeur a toujours\nl'air preoccupe. Je me demande pourquoi."
+    "21315": {
+        "「それほどまで　死に急ぐのなら\n　貴様から　血祭りにあげてくれるわァッ！！": "Si tu es si presse de mourir, je vais te\nsacrifier en premier !!"
     },
-    "29903": {
-        "「あっ。ご…ごめんなさい。\n　勝手に　しゃべっちゃって。": "Ah. P... pardon. J'ai parle sans reflechir."
+    "21316": {
+        "「<cs_pchero>　わしは　もう動けん……。\n　今　この危機を救えるのは　おぬしだけだ……！\n　レオン・ビュブロを……　討ってくれ……！": "<cs_pchero> Je ne peux plus bouger... En ce\nmoment, tu es le seul a pouvoir sauver cette\nsituation critique... Defais Leon Byblo... !"
     },
-    "29904": {
-        "「あ…あのね。ボク　ちょっと\n　出かけたいんだけど　よかったら\n　一緒に　行ってくれないかな？": "Ah... euh. J'aimerais sortir un peu. Si ca te\ndit, tu pourrais venir avec moi ?"
+    "21317": {
+        "「ルナナと……　杖を　たの…む……。": "Lunana et... le baton... s'il vous plait..."
     },
-    "29905": {
-        "「カミハルムイ領北の　イムイ地下空洞なんだけど\n　ど…どう？　お願いできる？": "C'est a propos de la grotte souterraine\nd'Imui, au nord de Kamiharmui. Alors... qu'en\npenses-tu ? Pourrais-tu m'aider ?"
+    "21318": {
+        "「我が復讐に　アダなす者よ……。\n　また　現れたか……。": "O toi qui entraves ma vengeance... Tu as\nencore ose te dresser contre moi..."
     },
-    "29906": {
-        "「あ…ありがと。ボク　なんだか\n　その場所から　呼ばれてる気がするんだ。\n　そ…それじゃあ……": "Ah... merci. J'ai l'impression que cet endroit\nm'appelle. Allez... alors..."
+    "21319": {
+        "「邪魔立ては　許さぬ！\n　今度こそ　血祭りにあげてくれるわァッ！！": "Je ne tolererai aucune interference ! Cette\nfois, je te reduirai en bouillie !"
     },
-    "29907": {
-        "「ちょっと待って　ハッパ。\n　イムイ地下空洞に　行くの？": "Attends un peu, Happa. Tu vas dans la grotte\nsouterraine d'Imui ?"
+    "21320": {
+        "「ウゴァァァァァァ………………！！！\n　我が…復讐がぁぁぁ……！\n　ち…父よ……　お許しをぉぉぉ……！！": "Ugoaaaaaaa...!!! Ma... vengeance...! Pere...\npardonne-moi...!!"
     },
-    "29908": {
-        "「あ……。うん。\n　すぐに　戻ってくるよ。": "Ah... Oui. Je reviendrai tout de suite."
+    "21324": {
+        "「よくぞ　やってくれた……。\n　<cs_pchero>……！": "Tu as bien reussi... <cs_pchero>...!"
     },
-    "29909": {
-        "「あたしも　行くわ。": "Moi aussi, j'y vais."
+    "21325": {
+        "「……ふん。\n　コイツ……　父親のチカラなんかに頼るから\n　こんな　あわれな最期を迎えるのよ。": "…Hmph. Cet idiot... C'est parce qu'il s'appuie\nsur la force de son pere qu'il rencontre une\nfin aussi pitoyable."
     },
-    "29910": {
-        "「最近　研究　研究で\n　ずっと　引きこもってたから\n　ちょっと　気晴らしにね。": "Ces derniers temps, je me suis enferme dans\nmes recherches, alors j'ai decide de prendre\nun peu l'air pour me changer les idees."
+    "21326": {
+        "「ルナナ……。無事で　なによりだ……。\n　さあ　その杖を　わしに返せ……。\n　おぬしには　もう　必要ないであろう……？": "Lunana... Je suis soulage que tu sois en\nsecurite... Allez, rends-moi ce baton... Tu\nn'en as plus besoin, n'est-ce pas ?"
     },
-    "29911": {
-        "「わ…わかった。": "D'accord..."
+    "21327": {
+        "「ハァ！？　冗談じゃないわよ！": "Ha !? Certainement pas une blague !"
     },
-    "29912": {
-        "「それじゃあ　ボクたち　後から　ついていくね。\n　その洞くつ　ボクと博士さんが\n　はじめて会った　洞くつだよ……。": "Alors, nous vous suivrons un peu plus tard.\nC'est la grotte ou le docteur et moi nous\nsommes rencontres pour la premiere fois..."
+    "21328": {
+        "「こんな使える杖　簡単に　手放すものですか！\n　これがあれば　どんな攻撃にも耐えられるのよ？\n　使い方次第では　名声も　思いのままじゃない！": "Est-ce que quelqu'un se separerait aussi\nfacilement d'un baton aussi utile ? Avec ca,\nje peux resister a n'importe quelle attaque !<br>Et selon comment je l'utilise, la renommee est\na ma portee !"
     },
-    "29913": {
-        "「北へ行って　カミハルムイ領北に着いたら\n　さらに　北に行ったところにある\n　洞くつだからね。よ…よろしく。": "Quand tu arriveras a Kamiharmui North en\nallant vers le nord, il y aura une grotte\nencore plus au nord. Je... je compte sur toi."
+    "21329": {
+        "「それよりも……。ねえ！\n　なんで　あの魔物　父さんのこと　知ってたの？\n　あなた……　何か　かくしてない？": "それよりもねえ！ なんで あの魔物 父さんのこと 知ってたの？ あなた 何か かくしてない？"
     },
-    "29914": {
-        "「あ…ありがと。でも　なんか\n　他の人たちの頼まれごとで　いっぱいだね。\n　急いでないから　そっちが先で　大丈夫だよ。": "Ah... merci. Mais on dirait que tu as deja\nbeaucoup de requetes d'autres personnes. Ce\nn'est pas urgent, alors tu peux t'occuper<br>d'eux en premier."
+    "21330": {
+        "「それは……": "Ca, c'est..."
     },
-    "29915": {
-        "「そ…そうだよね。ごめんなさい。\n　変なこと　頼んだりして……。": "O-Oui, tu as raison. Je suis desole. Je t'ai\ndemande quelque chose de bizarre..."
+    "21331": {
+        "「……杖があれば　どんな攻撃にも耐えられる？\n　やれやれ……。父親に頼っているのは\n　あなたも　同じだと思うんですがねえ……。": "Avec ce baton, tu pourrais resister a\nn'importe quelle attaque ? Bon sang... Je\npense que tu depends aussi de ton pere,<br>n'est-ce pas..."
     },
-    "29916": {
-        "「で…でも　ボクだけじゃ不安だし\n　どうすればいいんだろ……。": "Ma... mais je suis inquiet de le faire tout\nseul. Que devrais-je faire...?"
+    "21332": {
+        "「ハァ！？　この棒　なに言ってんの！？\n　ワケわかんないこと　言ってんじゃないわよ！": "Hein !? Qu'est-ce qu'il raconte, ce baton !?\nNe dis pas des choses incomprehensibles !"
     },
-    "29917": {
-        "「よく来た　勇気ある者。\n　ハッパと賢い者も　来たな。": "Bienvenue, courageux aventurier. Happa et\nl'intelligent sont egalement venus."
+    "21333": {
+        "「……あたしは　名声なんか　いらない！\n　そう言って　名の知れた父親を　嫌っていた子が\n　今では　名声の　とりこですか？": "...Je n'ai que faire de la renommee ! Ainsi\ndisait l'enfant qui detestait son pere\ncelebre, et maintenant, cette meme enfant<br>est-elle devenue captive de la renommee ?"
     },
-    "29918": {
-        "「魔瘴が　外に　もれている……。\n　このままじゃ　王都は……。": "Le miasme se repand a l'exterieur... Si cela\ncontinue, la capitale royale..."
+    "21334": {
+        "「なんで……？　なんで　そのことを……！？": "Pourquoi... ? Pourquoi sais-tu cela... !?"
     },
-    "29919": {
-        "「エルフの城　魔瘴により滅ぶ。\n　大樹周辺　濃い魔瘴に覆われる。\n　この大陸に　ハッパの帰る場所なくなる。": "Le chateau des elfes a ete detruit par le\nmiasme malefique. Les environs du Grand Arbre\nsont recouverts d'un miasme dense. Il n'y a<br>plus de lieu ou les Happa peuvent retourner\nsur ce continent."
+    "21335": {
+        "「よいのか……？　ホルタよ……。": "C'est bien ainsi... ? Horu est parti..."
     },
-    "29920": {
-        "「勇気ある者と　賢い者よ。\n　ハッパとともに　ほかの大陸に逃げてくれ。": "O courageux et sage, fuis vers un autre\ncontinent avec Happa."
+    "21336": {
+        "「……はい　ブロッゲンさま。\n　もはや　復讐の因果は　解かれましたし\n　ちょうど　いい機会かと……。": "......Oui, Broggen-sama. La chaine de la\nvengeance a ete rompue, et c'est une bonne\noccasion..."
     },
-    "29921": {
-        "「だ…大丈夫だよ　パパ。": "Ca... ca va aller, papa."
+    "21337": {
+        "「ちょ…　ちょっと　待ちなさいよ！\n　今　ホルタって　言った！？\n　その杖が　父さんだって言うの！？": "Attends... attends un peu ! Tu viens de dire\nHoruta !? Tu dis que cette baguette est mon\npere !?"
     },
-    "29922": {
-        "「博士さんが　魔瘴を消す方法を\n　突き止めてくれたんだ。": "Le docteur a decouvert comment eliminer le\nmiasme."
+    "21338": {
+        "「……ルナナ　よく聞きなさい。\n　私は　はやり病で　果てたのではありません。\n　レオン・ビュブロに　殺されたのです。": "Lunana, ecoute bien. Je ne suis pas mort de la\nSpear maladie. J'ai ete tue par Leon Byblo."
     },
-    "29923": {
-        "「暗黒大樹の芯を覆う　魔瘴を消せば\n　魔瘴を取り込むチカラが　回復するでしょ？": "Si tu elimines la miasme qui couvre le coeur de\nl'Arbre Sombre, le pouvoir d'absorber la\nmiasme devrait se retablir, n'est-ce pas ?"
+    "21339": {
+        "「かつて　私と　ブロッゲンさまは\n　レオン・ビュブロと戦い　勝利しました。\n　だが　その代償は　あまりに大きかった……。": "Autrefois, Broggen-sama et moi avons combattu\nLeon Byblo et nous avons remporte la victoire.\nMais le prix a payer a ete bien trop eleve..."
     },
-    "29924": {
-        "「そうなれば　暗黒大樹が\n　魔瘴を浄化してくれるから\n　エルトナ大陸を　守れるよ。": "Si cela se produit, le Grand Arbre des\nTenebres purifiera le miasme, protegeant ainsi\nle continent d'Eltona."
+    "21340": {
+        "「……私は　致命的なキズを負い\n　ブロッゲンさまも　また　全精力を使い果たし\n　一歩も　動けなくなってしまわれたのです。": "... J'ai subi une blessure mortelle et\nBroggen-sama a egalement epuise toute son\nenergie, se retrouvant incapable de faire un<br>seul pas."
     },
-    "29925": {
-        "「……ムリよ。魔瘴を消す方法は\n　わかったけど　それは　実現不可能なの。": "......C'est impossible. J'ai compris comment\ndissiper le miasme malefique, mais c'est en\nrealite irrealisable."
+    "21341": {
+        "「放っておけば　死に至るのは　明白……。\n　たとえ　命を取り留めたとしても\n　誰かの支えなしでは　生きられない……。": "Si on laisse les choses ainsi, la mort est\nevidente... Meme si cette vie est sauvee, elle\nne pourrait survivre sans l'aide de<br>quelqu'un..."
     },
-    "29926": {
-        "「えっ……？": "Quoi...?"
+    "21342": {
+        "「ブロッゲンさまの　心と身体は\n　それほどまでに　弱り果てていたのです。": "Le coeur et le corps de Broggen-sama etaient\naffaiblis a ce point."
     },
-    "29927": {
-        "「捨てられた城の裏手にある　王家の庭の泉が\n　聖地につながっていて　そこに魔瘴と対をなす\n　聖なるチカラが　眠っているの。": "La source du jardin royal, situee derriere le\nChateau Abandonne, est reliee au sanctuaire\nsacre. C'est la que repose le pouvoir sacre<br>qui s'oppose a la malediction."
+    "21343": {
+        "「そこで　私は　いよいよ事切れる直前……\n　ブロッゲンさまに　こう申し上げました。": "A ce moment-la, juste avant de rendre mon\ndernier souffle... je me suis adresse a\nBroggen-sama en disant ceci."
     },
-    "29928": {
-        "「そのチカラを　体内に宿し\n　魔力とともに放てば　魔瘴を\n　消滅させることができるはずだけど……。": "En canalisant cette puissance dans ton corps\net en la liberant avec ta magie, tu devrais\npouvoir aneantir le miasme..."
+    "21344": {
+        "「これからは　私が　目となり　クチとなり\n　あなたを　支えていきましょう。どうか\n　死にゆく私の魂を　杖に宿してください……と。": "A partir de maintenant, je serai vos yeux et\nvotre voix pour vous soutenir. Je vous en\nprie, que mon ame mourante habite votre<br>baton..."
     },
-    "29929": {
-        "「そのためには　魔瘴に入る必要がある。\n　エルフでは　魔瘴に耐えられないわ。": "Pour cela, il est necessaire d'entrer dans le\nmiasme. En tant qu'elfe, je ne peux pas\nresister au miasme."
+    "21345": {
+        "「……こうして　私の命は　尽きましたが\n　私は　ブロッゲンさまの杖として\n　生まれ変わったのです。": "...Ainsi, ma vie a pris fin, mais je suis\nrenait sous la forme du baton de Broggen-sama."
     },
-    "29930": {
-        "「われらなら　魔瘴に耐えられるが\n　聖なるチカラには　耐えられない。\n　われらでも　ムリだ。": "Nous pouvons supporter le miasme malefique,\nmais pas la puissance sacree. Meme pour nous,\nc'est impossible."
+    "21346": {
+        "「なかば眠っている　ブロッゲンさまに代わり\n　杖である私が　世話を焼いているのは\n　すべて　そういうわけなのです。": "En l'absence de Broggen-sama, qui est a moitie\nendormi, c'est moi, le baton, qui m'occupe de\ntout cela. Voila la raison de ma presence."
     },
-    "29931": {
-        "「つまり……魔瘴の消滅は　誰にもできないのよ。\n　期待させちゃって　ごめんね。": "En d'autres termes... Personne ne peut faire\ndisparaitre la malediction demoniaque. Je suis\ndesolee d'avoir donne de faux espoirs."
+    "21347": {
+        "「そして　ルナナ……。\n　私は　杖となってからも\n　あなたのことを　見ていましたよ。": "Et puis, Lunana... Meme apres etre devenue un\nbaton, je t'observais."
     },
-    "29932": {
-        "「ボ…ボクなら　できるよ。": "Je... je peux le faire."
+    "21348": {
+        "「ウソでしょ……。\n　ホントに　この杖が　父さんだったなんて……。": "Ce n'est pas possible... Cette baguette etait\nvraiment mon pere...?"
     },
-    "29933": {
-        "「ハッパ……？": "Happa...?"
+    "21349": {
+        "「……昔の　あなたは　功名心の鬼ではなかった。\n　しかし　今は　周りの人を巻き込んででも\n　むりやり　名声を得ようとしている様子……。": "...Autrefois, vous n'etiez pas obsede par la\nquete de gloire. Mais maintenant, vous semblez\npret a entrainer les autres avec vous pour<br>obtenir desesperement cette renommee..."
     },
-    "29934": {
-        "「ちょっと　なにやってんのよ！？": "Qu'est-ce que tu fais la !?"
+    "21350": {
+        "「あなたが　そんな風に変わってしまったのは\n　死んでしまった　私のため……。": "Tu as change de cette maniere a cause de ma\nmort..."
     },
-    "29935": {
-        "「……み　みんな　知ってるでしょ？\n　ボク　ずっと暗黒大樹で育ったから\n　魔瘴に　耐えられるんだ。": "...Vous le savez tous, n'est-ce pas ? J'ai\ngrandi tout le temps sous l'Arbre Sombre,\nc'est pourquoi je peux resister au miasme<br>malefique."
+    "21351": {
+        "「……そう。私以上の　名声を得ることで\n　私が生きているときに　できなかった親孝行を\n　果たそうとしているように　思えるのです。": "...Je vois. J'ai l'impression qu'en obtenant\nune reputation plus grande que la mienne, il\nessaie de faire ce que je n'ai pas pu<br>accomplir de mon vivant pour honorer nos\nparents."
     },
-    "29936": {
-        "「ちょ…ちょっと　気持ちわるくなるけどね。\n　えへへ……。": "Heu... ca donne un peu la nausee, tu sais. Eh\neh eh..."
+    "21352": {
+        "「本当に　そうだとしたら\n　私は　素直に　うれしいです。\n　ありがとう　ルナナ……。": "Si c'est vraiment le cas, je suis sincerement\nheureuse. Merci, Lunana..."
     },
-    "29937": {
-        "「……ハッパ　ダメよ。\n　今まで　だまってたけど\n　それって　生命力が失われている証なの。": "…Happa, ce n'est pas bien. Jusqu'a present, je\nn'en ai pas parle, mais c'est le signe que ta\nvitalite s'amenuise."
+    "21353": {
+        "「ふん……。父さんが　そう思うなら\n　勝手に　そう思ってれば？": "Hmph... Si c'est ce que tu penses, pere, alors\npense ce que tu veux."
     },
-    "29938": {
-        "「続ければ　死期を近づけるわ。\n　しかも　暗黒大樹の芯を覆っているのは\n　とても濃い魔瘴。あんたじゃ　耐えられない。": "Continuer ainsi rapprochera ton heure de mort.\nDe plus, ce qui recouvre le coeur de l'Arbre\nSombre est une miasme magique tres dense. Tu<br>ne pourras pas y resister."
+    "21354": {
+        "「ただし……！": "Cependant...！"
     },
-    "29939": {
-        "「でも　このままじゃ　エルトナ大陸の全部が\n　魔瘴だらけになっちゃう！\n　みんなの帰る家が　なくなるなんてイヤだ！": "Mais si ca continue comme ca, tout le\ncontinent d'Eltona sera envahi par les miasmes\n! Je ne veux pas que tout le monde perde sa<br>maison !"
+    "21355": {
+        "「本当に　名声を得たいのであれば\n　私利私欲を　忘れなさい。\n　そして　周囲から　信頼される人物になり……": "Si tu veux vraiment acquerir la renommee,\noublie tes interets personnels. Deviens une\npersonne digne de confiance pour ceux qui<br>t'entourent..."
     },
-    "29940": {
-        "「ボク　やっとわかったんだ。\n　なんのために　生まれてきたのか。": "J'ai enfin compris pourquoi je suis ne."
+    "21356": {
+        "「ちょ……　ちょっと待ったッ！！\n　いい話になるかと思ったら　お説教！？\n　杖に　説教されるなんて　ゴメンだわ！": "He... Attends un peu ! Je pensais que ca\nallait etre une belle histoire, mais c'est un\nsermon !? Je refuse de me faire sermonner par<br>un baton !"
     },
-    "29941": {
-        "「エルフなのに　魔瘴に耐えられる　この身体。\n　イヤだったけど　今は　誇りに思える。": "Bien que je sois une Elfe, ce corps peut\nsupporter la miasme. Je n'aimais pas ca, mais\nmaintenant, j'en suis fiere."
+    "21357": {
+        "「あたしは　あたしのやり方で　生きていくの！\n　だいたいね！　あたしは昔っから\n　説教くさい　父さんが　大っ嫌いだったのよ！！": "Je vais vivre a ma maniere avec ma lance ! De\ntoute facon, j'ai toujours deteste mon pere\nqui adore sermonner !!"
     },
-    "29942": {
-        "「これは　ボクにしかできないんだ。\n　ボクが魔瘴を消して　みんなを守るよ。": "Ca, je suis le seul a pouvoir le faire. Je\nvais dissiper le miasme malefique et proteger\ntout le monde."
+    "21358": {
+        "「あー　ヤダヤダ！　自分の父親が　棒だなんて\n　恥ずかしくって　誰にも言えないわよ！\n　ホント　気分悪い！": "Ah, c'est insupportable ! C'est tellement\nembarrassant d'avoir un pere qui est un baton,\nje ne peux le dire a personne ! Franchement,<br>ca me met de mauvaise humeur !"
     },
-    "29943": {
-        "「自然の意志に　逆らうか……。\n　ハッパの意志　とても強い。": "Tu oses defier la volonte de la nature...\nHappa, ta determination est vraiment forte."
+    "21359": {
+        "「ムチェッ　ブチャッ！　行くわよ！\n　こんなとこ　さっさと引き上げましょう！": "Mutch ! Butch ! Allons-y ! Quittons cet\nendroit au plus vite !"
     },
-    "29944": {
-        "「やれやれ。言うようになったじゃない。\n　どうやら　止めても　ムダみたいね……。": "Eh bien, eh bien. Tu commences a parler comme\nil faut. Il semble que te stopper ne servirait\na rien..."
+    "21360": {
+        "「ルナナッ！　待ちなさい！\n　まだ　話が……": "Lunana ! Attends ! Je n'ai pas fini de te\nparler..."
     },
-    "29945": {
-        "「仕方ない。ひとつだけ　アドバイスしとくわ。": "Pas le choix. Je vais te donner un seul\nconseil."
+    "21361": {
+        "「もう　いいでしょ……？": "Ca suffit maintenant... ?"
     },
-    "29946": {
-        "「……おのれの生命力を削り　魔瘴に対する耐性を\n　限界まで引き上げれば　ほんの少しの間なら\n　濃度の濃い魔瘴にも　耐えられるかもしれない。": "...En reduisant sa propre vitalite et en\naugmentant sa resistance a la miasme au\nmaximum, on pourrait peut-etre supporter, ne<br>serait-ce qu'un court instant, une forte\nconcentration de miasme."
+    "21362": {
+        "「……話なんて　いつでも　できるじゃない。\n　父さんは　そこにいるって\n　わかったんだから……。": "......Nous pourrons parler quand tu le\nvoudras. Maintenant que je sais que pere est\nla..."
     },
-    "29947": {
-        "「でも　これは賭けだわ……。\n　耐えられなかったら　確実に…死ぬわよ。\n　ハッパ。それでも　構わないのね？": "Mais c'est un pari... Si tu ne supportes pas,\ntu mourras a coup sur. Happa. Tu es pret a\nprendre ce risque ?"
+    "21363": {
+        "「それよりも……　いいッ？\n　その杖から　しっかり見ときなさいよ！\n　あたしの　伝説に残る　活躍をねッ！": "Mais avant tout... tu es pret ? Regarde bien a\npartir de ce baton ! Observe les exploits\nlegendaires que je vais accomplir !"
     },
-    "29948": {
-        "「うん。ボク　やるよ！": "Oui. Je vais le faire !"
+    "21364": {
+        "「やれやれ……。\n　根は　悪い子ではないんですがねえ。\n　どこで　教育を　間違えてしまったのやら……。": "Ah la la... Au fond, ce n'est pas un mauvais\nenfant. Je me demande ou son education a\nderape..."
     },
-    "29949": {
-        "「……そう。わかったわ。": "...D'accord. J'ai compris."
+    "21365": {
+        "「<cs_pchero>さん。旅人の　あなたなら\n　また　あの子に　会うかもしれません。\n　そのときは　どうか　よろしくお願いしますね。": "<cs_pchero> san. En tant que voyageur, vous\npourriez rencontrer cet enfant a nouveau.\nLorsque ce moment viendra, je vous en prie,<br>prenez soin de lui."
     },
-    "29950": {
-        "「そこまで　命をかけてんなら\n　あたしも　最後まで見届けるわ！": "Si tu es pret a risquer ta vie a ce point,\nalors je vais aussi te suivre jusqu'au bout!"
+    "21366": {
+        "「それではッ！　ワガハイは\n　いつもの　しゃべり方に　戻るでアール！！\n　これ　結構　気に入ってるのでアール！！": "それではッ！ ワガハイは いつもの しゃべり方に 戻るでAru！！ これ 結構\n気に入ってるのでAru！！"
     },
-    "29951": {
-        "「ハッパ！　行くわよ！\n　まずは　聖地！\n　聖なるチカラを　宿しにいくわ！": "Happa ! On y va ! D'abord, le sanctuaire !\nAllons y insuffler le pouvoir sacre !"
+    "21367": {
+        "「<cs_pchero>……。\n　おぬしの　おかげで　ホルタ親子は救われた。\n　本当に　感謝している。": "<cs_pchero>...... Grace a toi, les Horuta,\npere et fils, ont ete sauves. Je te suis\nvraiment reconnaissant."
     },
-    "29952": {
-        "「う…うん！　博士さん！": "Oui... oui ! Docteur-san !"
+    "21368": {
+        "「これは　今までの礼だ。\n　受け取ってくれ。": "C'est pour te remercier pour tout jusqu'a\nmaintenant. Accepte-le, je t'en prie."
     },
-    "29953": {
-        "「<pc>！　あなたも　協力して！\n　聖地までの護衛を　お願い！\n　あたしたちは　後から　ついてくわ！": "<pc>！ Toi aussi, prete-nous main-forte !\nNous te demandons de nous escorter jusqu'au\nsanctuaire ! Nous te suivrons juste derriere !"
+    "21369": {
+        "「<cs_pchero>よ。わしは　いつか\n　子供たちに　怒鳴ったことがあったな。\n　この杖は　わしの罪で　できている……と。": "<cs_pchero> Yo. Un jour, il m'est arrive de\ncrier sur les enfants. J'ai dit que ce baton\nest fait de mes peches..."
     },
-    "29954": {
-        "「ここから東　夢幻の森に着いたら\n　ずっと東に進めば　捨てられた城があるわ！\n　そこの裏手の庭の泉が　聖地につながってるの！": "A l'est d'ici, une fois arrive a la Dream\nForest, continue toujours vers l'est et tu\ntrouveras le Abandoned Castle ! La source du<br>jardin derriere ce chateau est reliee a la\nterre sacree !"
+    "21370": {
+        "「そう……。この杖は　わしの罪だ。\n　戦友のホルタに　安らかな眠りを与えず\n　杖に閉じ込めてしまった　わしのな……。": "Oui... Ce baton est mon peche. Je n'ai pas\ndonne le repos eternel a mon camarade Horuta,\net je l'ai enferme dans ce baton..."
     },
-    "29955": {
-        "「お前たちの意志　強い。\n　われらも　お前たちを信じる。": "Votre volonte est forte. Nous croyons en vous\negalement."
+    "21371": {
+        "「犯した罪は　消えるものではない。\n　……だが　ホルタとルナナが　心を通わし\n　わしの心も　すこし楽になったよ……。": "Le peche que j'ai commis ne s'effacera jamais.\n...Cependant, voir Horuta et Lunana se\nrapprocher a apaise un peu mon coeur..."
     },
-    "29956": {
-        "「われらは　先に　暗黒大樹に戻っている。": "Nous retournerons d'abord a l'Arbre Sombre."
+    "21372": {
+        "「今ならば　あの子供たちに\n　笑って　杖を　見せられるかもしれんな。": "Maintenant, peut-etre que je pourrais montrer\nle baton aux enfants avec un sourire."
     },
-    "29957": {
-        "「<pc>！　あなたも　協力して！\n　聖地までの護衛を　お願い！\n　あたしたちは　後から　ついてくわ！": "<pc>！ Toi aussi, prete-nous main-forte !\nNous te demandons de nous escorter jusqu'au\nsanctuaire ! Nous te suivrons juste derriere !"
+    "21373": {
+        "「それでは　<cs_pchero>。\n　わしは　この杖…ホルタと　ふたたび旅に出る。\n　また　どこかで会おう。": "Alors, <cs_pchero>. Je vais reprendre la route\navec ce baton... Horuta. Nous nous reverrons\nquelque part."
     },
-    "29958": {
-        "「ハッパ？　準備はいい？\n　目をつぶって　精神を集中させるのよ。": "Happa ? Pret ? Ferme les yeux et\nconcentre-toi."
-    },
-    "29959": {
-        "「精神を集中……。": "Concentrez votre esprit..."
-    },
-    "29960": {
-        "「どう？　なにか感じる？": "Alors ? Ressens-tu quelque chose ?"
-    },
-    "29961": {
-        "「うん……。感じる。": "Oui... Je le sens."
-    },
-    "29962": {
-        "「身体が　あったかい。\n　身体の中に　小さな光が入ったみたい。": "Mon corps est tout chaud. C'est comme si une\npetite lumiere etait entree a l'interieur de\nmoi."
-    },
-    "29963": {
-        "「上出来よ。その光を　魔力で放てば\n　魔瘴を　消滅させることができるはずだわ。": "Bien joue. En liberant cette lumiere avec ta\nmagie, tu devrais pouvoir dissiper le miasme\nmalefique."
-    },
-    "29964": {
-        "「あとは　実践あるのみね。\n　暗黒大樹に　向かいましょう。": "Il ne reste plus qu'a passer a la pratique.\nAllons vers l'Arbre Sombre."
-    },
-    "29965": {
-        "「うん！": "Oui !"
-    },
-    "29966": {
-        "「もし　前みたいに　魔瘴から魔物が現れたら\n　あたしたちじゃ　太刀打ちできないわ。\n　<pc>。あなたも　暗黒大樹に来てね。": "もし前みたいに、魔瘴から魔物が現れたら、私たちじゃ太刀打ちできないわ\n<pc>あなたも暗黒大樹に来てね"
-    },
-    "29967": {
-        "「われら　ハッパのチカラを信じる。\n　お前の意志　見せてみろ。": "Nous croyons en la puissance de Happa.\nMontre-nous ta volonte."
-    },
-    "29968": {
-        "「パパ……。うん　わかった。": "Papa... Oui, j'ai compris."
-    },
-    "29969": {
-        "「地面から　震動……！？": "Un tremblement… venant du sol…!?"
-    },
-    "29970": {
-        "「<cs_pchero>！　魔物が出るわよ！\n　あなたに　まかせるわ！": "<cs_pchero> ! Des monstres apparaissent ! Je\ncompte sur toi !"
-    },
-    "29971": {
-        "「グオオオオオオオオォォォーーーーーッ！！": "Gwoooooooaaaaaahhhhhhh !"
-    },
-    "29972": {
-        "「グオオオオオオオオォォォーーーーーッ！！": "Gwoooooooaaaaaahhhhhhh !"
+    "21374": {
+        "「<cs_pchero>！　さようならでアーール！\n　本当に　ありがとうなのでアーールーーー！！": "<cs_pchero> ! Au revoir ! Je vous remercie du\nfond du coeur !!"
     }
 }
