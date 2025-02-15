@@ -1,26 +1,68 @@
 {
-    "46453": {
-        "「さすが　ラセドに見込まれた方ね。\n　見事な出来の　さんぞくのサーベルだわ。\n　これなら　あの子に　ピッタリでしょう。": "Comme prevu, vous etes quelqu'un que Rased a\nchoisi. C'est une Bandit Blade magnifiquement\nrealisee. Avec ca, elle conviendra<br>parfaitement a cet enfant."
+    "46431": {
+        "「おお……　ツィム！　いいところに来ましたね。\n　防具鍛冶ギルドに依頼した品を\n　職人さんが　届けにきてくださいましたよ。": "Oh... Zim ! Tu arrives au bon moment.\nL'artisan de la Armorsmith Guild est venu\nlivrer la commande que nous avions passee."
     },
-    "46454": {
-        "「その息子は　どこにいるかですって？\n　……ラセドも　そこまでは　教えてないのね。\n　ええ。知りたいのなら　教えてあげましょう。": "Vous vous demandez ou se trouve son fils ? ...\nAlors, meme Rasedo ne vous a pas informe\njusque-la. Tres bien. Si vous voulez le<br>savoir, je vais vous le dire."
+    "46432": {
+        "「本当ですか！？": "Vraiment !?"
     },
-    "46455": {
-        "「ラセドと私の息子……　ロゼフは\n　５年前　この光の河に落ち　命を落としたの。\n　まだ　たった　１０歳だったのに……。": "Mon fils, Roseph, et Lasedo... Il y a cinq\nans, il est tombe dans cette riviere de\nlumiere et a perdu la vie. Il n'avait que dix<br>ans..."
+    "46433": {
+        "「……すごい。\n　素人のボクでもわかる　精巧さ……。\n　これだけの品を作るとは　すばらしい才能だ。": "…Incroyable. Meme un amateur comme moi peut\nvoir la finesse de cet ouvrage... Creer une\ntelle piece temoigne d'un talent exceptionnel."
     },
-    "46456": {
-        "「それ以来　ラセドは　毎年の誕生日に\n　あの子が生きていたら　ちょうど合うだろう\n　武器を作って　贈り物にしているのよ。": "Depuis ce jour, a chaque anniversaire, Rasedo\nforge une arme qui aurait ete parfaite pour\ncet enfant, s'il etait toujours en vie, et<br>l'offre en cadeau."
+    "46434": {
+        "「よかったですね　ツィム。\n　私は　所用を済ませてきますから\n　ちゃんと　職人さんに　お礼を言うのですよ。": "Je suis content pour toi, Zim. Je dois\nm'occuper de quelques affaires, alors n'oublie\npas de remercier correctement l'artisan."
     },
-    "46457": {
-        "「きっと　ロゼフが　向こうで\n　困らないようにと　思ってのことでしょうね。\n　あの子は　武器ひとつ持ってなかったから……。": "C'etait surement pour que Roseph ne rencontre\npas de problemes la-bas. Elle n'avait pas une\nseule arme avec elle..."
+    "46435": {
+        "「はいっ。ありがとうございます　神父。": "Oui. Merci, mon pere."
     },
-    "46458": {
-        "シェインは　さんぞくのサーベルを\n光の河に　投げ落とした。": "Shane a jete la Bandit Blade dans la riviere\nde lumiere."
+    "46436": {
+        "「あなたが　この品を作った　職人さんですね。\n　お名前は……　そう　<pc>さんと\n　おっしゃるのですか。": "Vous etes l'artisan qui a fabrique cet objet,\nn'est-ce pas ? Votre nom est... Ah, vous vous\nappelez <pc>-san, c'est bien ca ?"
     },
-    "46459": {
-        "「こうして　毎年　あの子のために作った武器を\n　光の河へ投げ入れるのが　私たちにできる\n　たったひとつの　弔いなんです。": "Ainsi, chaque annee, jeter l'arme que nous\navons fabriquee pour cet enfant dans la\nriviere de lumiere est la seule facon dont<br>nous pouvons lui rendre hommage."
+    "46437": {
+        "「ボクは　どうしても知りたかったんです。\n　あなたのように才能のある　ウデきき職人さんが\n　今のギルドマスターを　どう思っているのか。": "Je tenais absolument a savoir ce que vous, un\nartisan talentueux, pensiez du maitre actuel\ndu jeu de Ludo."
     },
-    "46460": {
-        "「わざわざ　ご足労様でした。\n　今の話を聞いて　もし　いやな思いを\n　なさったなら……　ごめんなさいね。": "Je vous remercie d'avoir fait le deplacement.\nSi ce que vous avez entendu vous a\ncontrarie... je m'en excuse."
+    "46438": {
+        "「どうか　マスター・リリムのことを\n　聞かせてくれませんか？　あの人は……\n　防具鍛冶ギルドで　うまくやれているのですか？<yesno><close>": "Pourriez-vous me parler de Guildmaster Lilim ?\nCette personne... Est-elle en train de bien\ns'en sortir avec la Armorsmith Guild<br>?<yesno><close>"
+    },
+    "46439": {
+        "「なるほど　そうですか……。\n　では　あなたも　何か感じているのですね。": "なるほど そうですか では あなたも 何か感じているのですね"
+    },
+    "46440": {
+        "「そうですか……。\n　言っていることは　すこし変わっているけど\n　それなりに　うまくやっていると……。": "Je vois... Ce que tu dis est un peu etrange,\nmais ca semble bien se passer..."
+    },
+    "46441": {
+        "「………………。": ""
+    },
+    "46442": {
+        "「リリムは……　ボクの実姉です。\n　１０年前　父を亡くしたとき\n　ボクは　姉と生き別れ　それきりになりました。": "Lilim est... ma soeur ainee. Il y a dix ans,\nlorsque notre pere est decede, je me suis\nsepare de ma soeur et nous n'avons plus jamais<br>ete reunis."
+    },
+    "46443": {
+        "「ずっと　姉を探していて……　ようやく\n　それらしき人物が　防具鍛冶ギルドで\n　マスターをしていることを　つかんだのです。": "J'ai cherche ma soeur pendant longtemps... et\nenfin, j'ai decouvert qu'une personne qui\npourrait etre elle est maitresse a la<br>Armorsmith Guild."
+    },
+    "46444": {
+        "「聞けば　マスター・リリムは\n　命が　終わる瞬間に生む　炎を使って\n　防具を作る……なんて言っているとか。": "J'ai entendu dire que Guildmaster Lilim\nutilise les flammes generees a l'instant de la\nmort pour creer des armures... C'est ce qu'on<br>raconte."
+    },
+    "46445": {
+        "「……だとしたら　間違いないでしょう。\n　リリムは　ボクの姉で……　そうやって\n　誰かの命の炎を使い　防具を作っているのです。": "Dans ce cas, il n'y a aucun doute. Lilim est\nma soeur ainee... et elle utilise ainsi la\nflamme de la vie de quelqu'un pour fabriquer<br>des armures."
+    },
+    "46446": {
+        "「それだけじゃないっ！\n　ボクの推測が正しければ　父さんが死んだのは\n　事故なんかじゃなく…………！": "Ce n'est pas tout ! Si mes suppositions sont\ncorrectes, la mort de mon pere n'etait pas un\naccident... !"
+    },
+    "46447": {
+        "「……す　すみません　取り乱して。": "… Je suis desole, je me suis emporte."
+    },
+    "46448": {
+        "「でも……　もし　あなたが\n　防具鍛冶職人を続けるのなら　これからも\n　姉の様子を　ボクに教えてくれませんか？": "Mais... si tu continues a etre un forgeron\nd'armures, pourrais-tu continuer a me donner\ndes nouvelles de ma soeur ?"
+    },
+    "46449": {
+        "「どうか……　どうか　お願いします。\n　今日は　姉のことを聞かせてくれて……\n　ありがとうございました。": "Je vous en prie... Je vous en supplie. Merci\nd'avoir pris le temps aujourd'hui de me parler\nde ma soeur..."
+    },
+    "46450": {
+        "「……話は　終わったようですな。\n　こんな呼びだし方をしてしまい\n　お気を悪くされたのなら　申し訳ない……。": "Il semble que la conversation soit terminee.\nJe suis desole si cette facon de vous appeler\nvous a offense..."
+    },
+    "46451": {
+        "「でも　ツィムのことは　私が保証しますよ。\n　彼は信頼できる　とても優しい若者です。": "Mais je vous assure que vous pouvez faire\nconfiance a Zim. C'est un jeune homme tres\ngentil et digne de confiance."
+    },
+    "46452": {
+        "「だからこそ　彼に代わって\n　依頼をしてやろうと思ったのです。\n　悩んでいる彼の姿は　見るに忍びなくて……。": "C'est pour cette raison que j'ai pense a faire\nla demande a sa place. Je ne pouvais pas\nsupporter de le voir se tourmenter ainsi..."
     }
 }
