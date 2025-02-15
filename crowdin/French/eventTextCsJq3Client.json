@@ -1,98 +1,113 @@
 {
-    "13182": {
-        "「だ……れか　いませ……んか？<yesno><close>": "Y a-t-il... quelqu'un ici ?<yesno><close>"
+    "13347": {
+        "「聞こ……えま…すか？<yesno><close>": "Vous m'entendez… ?"
     },
-    "13183": {
-        "「……ああ。よ……やく　応えて……らえた。": "Ah. Enfin... tu as repondu..."
+    "13348": {
+        "「あ…あ　その声……は　<pc>さ…ん。\n　お元気で……たか？": "Ah... Ah, cette voix... est-ce vous,\n<pc>-san ? Vous allez bien ?"
     },
-    "13184": {
-        "「シーバの鏡とは……２枚ひと組で\n　遠く……はなれた相手と……会話できる\n　魔法の…鏡なのです。": "Le Miroir de Sheba est... une paire de miroirs\nmagiques qui permet de converser avec un\ninterlocuteur meme a une grande distance..."
+    "13349": {
+        "「こ…うして　会話は…できますが\n　あいかわ……ず　雑…音が　ひど……ですね。": "Je... peux discuter ainsi... mais le...\nbrouhaha est... toujours... terrible."
     },
-    "13185": {
-        "「あなたは……<pc>さんで…すか。\n　レベル３０以上の……魔法使いの方と\n　お見受け……しました。": "Vous etes... <pc>-san, n'est-ce pas ? Je\ncrois deviner que vous etes... un mage de\nniveau 30 ou plus."
+    "13350": {
+        "「じつは…私　あれ…から　しらべ……んです。\n　この…シーバの鏡のメンテ…ナンスの方法…を。": "En fait... depuis cet evenement, j'ai fait des\nrecherches... sur la methode d'entretien de\nce... miroir de Shiva."
     },
-    "13186": {
-        "「え…え。この鏡は……それなりの魔力を\n　持った者に……しか　使えな…いのです。": "E... eh. Ce miroir... ne peut etre utilise que\npar quelqu'un qui possede une certaine\npuissance magique..."
+    "13351": {
+        "「その…方法という……は　魔物に…\n　マホトラを使って……あるアイテムに…\n　<%nEV_QUE_T_NUM0>ＭＰ分の魔力をためる…というものです。": "Eh bien... cette methode implique...\nd'utiliser Mahotra sur un monstre... pour\naccumuler la puissance magique equivalente a<br><%nEV_QUE_T_NUM0> MP dans un certain objet..."
     },
-    "13187": {
-        "「ところで……私は　ウェ…ナ諸島に\n　いるのですが……あなたは　ど…こで\n　私の声を　聞いて……るのですか？": "\n<player>さん、ところで私はウェナ諸島にいるのですがあなたはどこで私の声を聞いているのですか？"
+    "13352": {
+        "「ただ……勝たな…と　その戦い…で　ためた分は\n　無効…す。今後の…スムーズ…な会話のた…めに\n　どうか　頼まれて……くれませんか？": "Cependant... si vous ne gagnez pas, les points\naccumules lors de ce combat seront annules.\nPour faciliter les conversations futures dans<br>le <Sumーズ>... Pourriez-vous, je vous en prie,\naccepter ?"
     },
-    "13188": {
-        "「……ほほ…う。港町レンドアの…宿屋で…すか。\n　それは　すば……らしい！": "Ho ho… oh. A l'auberge de Port Lendor...\nvraiment. C'est... merveilleux !"
+    "13353": {
+        "「ありが……うございます。\n　それ…では　まず　これを……\n　受け取っ……ください。": "Merci beaucoup... Alors, pour commencer,\nveuillez... accepter ceci..."
     },
-    "13189": {
-        "「港町レンドアと…いうことは　鉄道を使えば\n　オ……グリード大…陸の　ゲルト海…峡まで\n　すぐじゃ……ないですか。": "Port Lendor... ce qui signifie que si nous\nutilisons le train, il ne nous faudra pas\nlongtemps pour atteindre le detroit de Gelt<br>sur le continent d'Ogreede."
+    "13354": {
+        "「今から…送るのは　シーバの鏡…を\n　メンテナンス…するのに　欠かせ…いものです。\n　その名も……メイジダスター！": "A present... ce que je vais envoyer est le\nMiroir de Sheeva... c'est un outil\nindispensable pour sa maintenance. Son nom<br>est... Mage Duster !"
     },
-    "13190": {
-        "「知りあった…ばかりの　あな…たに\n　こんなこと頼む…のも　気が引けますが\n　ひとつ　お願いが……るんです。": "Je sais que nous venons tout juste de nous\nrencontrer, et je suis un peu hesitant a vous\ndemander cela, mais j'aurais une faveur a vous<br>demander."
+    "13355": {
+        "<pc>は　\nメイジダスター（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Mage Duster (objet cle) !<me 60>"
     },
-    "13191": {
-        "「じつは　その　ゲルト海峡に出現す…る\n　<%sEV_QUE_NAME0>に　イオでとどめをさすと\n　魔導の石を　落とす……ですよ。": "En fait, si vous achevez <%sEV_QUE_NAME0> avec\nun sort de Io a Gert Strait, il laissera\ntomber une Magic Stone... Voila."
+    "13356": {
+        "「メイジダスターは　魔力を吸…収して\n　こすった…モノに　その魔力をあた…える\n　特別な…魔法の布……。": "Le Mage Duster est un tissu magique special\nqui absorbe la magie et transfere cette magie\na l'objet frotte."
     },
-    "13192": {
-        "「その　魔導の石を　手に入れて……\n　もう一度　こ…の鏡に　話しかけて……\n　もらえませ…んか？": "Pourriez-vous obtenir cette pierre magique...\net parler a nouveau a ce miroir... s'il vous\nplait ?"
+    "13357": {
+        "「マホトラで…<%nEV_QUE_T_NUM0>ＭＰの魔力を…ためたら\n　シーバの…鏡を　こすって…ください。\n　そう…すれば　鏡は直るはず……です。": "Avec Mahotra, accumulez <%nEV_QUE_T_NUM0>\npoints de magie... puis frottez le miroir de\nSheeva... S'il vous plait. Ainsi... le miroir<br>devrait se reparer..."
     },
-    "13193": {
-        "「おお。ありがとうござ…います。\n　あなたは　すばらし……人だ！": "Oh. Merci beaucoup... Vous etes une personne\nmerveilleuse !"
+    "13358": {
+        "「くれぐれも　よろし……くお願いします。\n　では　今日のとこ…ろは　\n　こ……れで　失礼させていた……きますね。": "Je vous prie de bien vouloir prendre soin de\ncela... Eh bien, pour aujourd'hui... Je vais\ndonc prendre conge."
     },
-    "13194": {
-        "「くれぐれも　よろし……くお願いします。\n　それでは　今日のとこ…ろは　\n　こ……れで　失礼させていた……きますね。": "Je vous prie de bien vouloir veiller... a\ncela. Sur ce, je vais prendre conge pour\naujourd'hui."
+    "13359": {
+        "「ありが……うございます。\n　で…も　あなたは　たく…さんの\n　頼まれご…とを　抱えているよ……ですね。": "Merci beaucoup... Mais... vous avez deja\nbeaucoup de requetes a gerer, n'est-ce pas...\n?"
     },
-    "13195": {
-        "「おお。ありがとうござ…います。\n　で…も　あなたは　たく…さんの\n　頼まれご…とを　抱えているよ……ですね。": "Oh. Merci beaucoup... Mai...s vous avez\nde...ja beaucoup de demandes a gerer, n'est-ce\npas...？"
-    },
-    "13196": {
+    "13360": {
         "「しかた……ありませんね。\n　この件は　また今度……ということで。": "Il n'y a pas d'autre choix... N'est-ce pas ?\nOn reprendra cette affaire une autre fois...\nalors."
     },
-    "13197": {
+    "13361": {
         "「そ…うですか。残念……です。\n　もし　気が変わ……たら　また\n　この鏡に　話しかけてみ……ください。": "Je vois... C'est dommage... Si jamais vous\nchangez d'avis, n'hesitez pas a reparler a ce\nmiroir."
     },
-    "13337": {
-        "「そ…れでは　その魔導の石を\n　鏡に向か……て　かかげて…ください。\n　こ…の鏡には　ステキな能力が　ある……です。": "Alors... veuillez diriger cette Pierre Magique\nvers le miroir... et la lever... s'il vous\nplait. Ce... miroir possede une capacite<br>merveilleuse..."
+    "13363": {
+        "「もしか……して　シーバの…鏡の\n　メンテナンスをして…ほしいという頼みを\n　引き受けてく…れる　気になりました…か？": "Peut-etre... avez-vous decide d'accepter la\ndemande... de vous occuper de la\nmaintenance... du miroir de Sheba ?"
     },
-    "13338": {
-        "「なんと　鏡自体の大き…さを超えな…モノなら\n　鏡を通し…て　相手側に　送るこ……が\n　できるんです…よ！": "Incroyable ! Si l'objet n'est pas plus grand\nque le miroir lui-meme, on peut le faire\npasser de l'autre cote a travers le miroir !"
+    "13365": {
+        "「そ…れでは　そのダスター……で\n　シーバの鏡を　こす……てみてください。<yesno><close>": "Eh bien... dans ce cas, essayez de frotter le\nmiroir de Sheba avec ce plumeau... s'il vous\nplait."
     },
-    "13339": {
-        "魔導の石は　光に変わって\n鏡の中に　吸い込まれていった！": "La Magic Stone s'est transformee en lumiere et\na ete absorbee par le miroir !"
+    "13366": {
+        "「……す…みませ……雑音…が多く…て\n　聞き…とれな……。おねが……します。\n　ダスターで　鏡を　こす……てみてください。<yesno><close>": "Pardon… il y a… beaucoup de bruit… je n'arrive\npas… a entendre. S'il vous plait… utilisez le\nplumeau pour… frotter le miroir… essayez."
     },
-    "13340": {
-        "「ちゃん…と　届きまし…たよ。\n　それでは　こちらか……も　今回のお礼……\n　送らせてもら……ますね！": "Ca... a bien ete recu. Alors, laissez-moi vous\nenvoyer... un remerciement cette fois-ci..."
+    "13367": {
+        "<pc>は　メイジダスターで\nはげしく　鏡をこすってみた！": "<pc> frotte vigoureusement le miroir\navec le Mage Duster !"
     },
-    "13341": {
-        "「本当……あり……とうござい……た。\n　あな……が　親切な……で……かったです。": "本当ありがとうございました あなたが親切なで良かったです Vraiment... merci\nbeaucoup... Je suis content... que tu aies ete\nsi gentil."
+    "13368": {
+        "メイジダスターは　魔力を使い果たし\nボロボロに　くずれさった。": "Le Mage Duster a epuise toute sa magie et\ns'est effondre en lambeaux."
     },
-    "13342": {
-        "「あ…れ？　……を送っ……ら\n　急に……声……れなくな…………したね。": "Ah... quoi ? ... Envoyer... tout a coup... la\nvoix... n'est plus... entendue."
+    "13369": {
+        "「…………。": ""
     },
-    "13343": {
-        "「こ……鏡は……古……から……調子が……。\n　これ以……会話……には……。": "Le... miroir... depuis Old... ne fonctionne\npas bien. A partir de maintenant... la\nconversation... sera..."
+    "13370": {
+        "「どうです　ちゃんと聞こえますか？<yesno><close>": "Comment ca va ? Vous m'entendez bien ?\n<yesno><close>"
     },
-    "13344": {
-        "「……うですね。時が……たら……\n　試し……しょう。……まで\n　鏡の直しか…た……らべておきま……ね。": "Oui. Quand le moment sera venu Essayons D'ici\nla, je vais preparer la reparation du miroir…"
+    "13371": {
+        "「ああ　うまくいったようですね！\n　すっかり　声が　クリアに聞こえるように\n　なりましたよ。": "Ah, ca a bien fonctionne, on dirait ! On\nentend maintenant clairement votre voix."
     },
-    "13345": {
-        "「もしか……して　私の　お願い…を\n　引き受けてく…れる気に　なりました…か？": "Peut-etre... avez-vous decide de... repondre a\nma demande ?"
+    "13372": {
+        "「本当に　ありがとうございます。\n　お礼と言っては　なんですが\n　これを　受け取ってください。": "Je vous remercie vraiment du fond du coeur. Ce\nn'est pas grand-chose, mais acceptez ceci en\nguise de remerciement."
     },
-    "26234": {
-        "「私は……魔法使い…リュナン。\n　たまたま　この…シーバの鏡を手に入れ……\n　鏡の向こうの　あな…たに　話しかけて…ます。": "Je suis... la magicienne... Lunan. Par hasard,\nj'ai obtenu... ce miroir de Sheba... et je\nm'adresse a... vous de l'autre cote du miroir."
+    "13373": {
+        "「この　シーバの鏡を手に入れてから\n　毎晩のように　語りかけてきたのですが\n　応えてくれたのは　あなただけでした。": "Depuis que j'ai mis la main sur ce Miroir de\nSheba, je lui parle presque chaque nuit, mais\nla seule personne qui m'a repondu, c'est vous."
     },
-    "41528": {
+    "13374": {
+        "「<pc>さんは　いい人ですね。\n　私は　だんだん　あなたのことが\n　気になってきましたよ。": "<pc>-san est une bonne personne,\nn'est-ce pas ? Je commence a m'interesser de\nplus en plus a toi."
+    },
+    "13375": {
+        "「考えてみれば　こうして　会話しているのに\n　私たちは　おたがいの顔すら\n　知らないんですよね……。": "En y reflechissant, bien que nous soyons en\ntrain de discuter ainsi, nous ne connaissons\nmeme pas nos visages respectifs..."
+    },
+    "13376": {
+        "「偶然が与えてくれた　出会いとはいえ……\n　フフフ……じつに　奇妙な関係ですね。": "Meme si c'est une rencontre offerte par le\nhasard... Fufu... c'est vraiment une relation\netrange, n'est-ce pas ?"
+    },
+    "13377": {
+        "「……おっと。もう　こんな時間だ。\n　すっかり　会話に夢中になってしまいました。\n　よろしければ　また　お話ししましょう。": "... Oh, tiens. Il est deja si tard. Je me suis\ncompletement laisse emporter par notre\nconversation. Si vous le souhaitez, parlons a<br>nouveau."
+    },
+    "13378": {
+        "「今回は　私ばかり\n　話してしまいましたから……": "Cette fois, c'est moi qui ai fait tout le\ndiscours..."
+    },
+    "13379": {
+        "「次は　もっと　あなたの話を\n　聞きたいですね。\n　それでは　今日のところは　これで！": "La prochaine fois, j'aimerais en savoir plus\nsur vous. Pour aujourd'hui, c'est tout !"
+    },
+    "41535": {
         "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
     },
-    "41529": {
-        "「……れか　い……か？": "...Quelqu'un est la...?"
+    "41536": {
+        "「……えま……か？": "......Ema......?"
     },
-    "41530": {
+    "41537": {
         "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
     },
-    "41531": {
-        "「おや。あ…なたは　<pc>さん？\n　ま…た　お会いできるとは……\n　うれしい……ですね。": "Oh. Ah... Vous etes <pc>-san ? Je suis\nvraiment content... de vous revoir... C'est un\nplaisir... vraiment."
+    "41538": {
+        "「お……や。<pc>さん？\n　ま…た　来て……くれたんですね。": "Oh... tiens. <pc>-san ? Tu es... revenu\nnous voir."
     },
-    "41532": {
+    "41539": {
         "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
     },
-    "41533": {
-        "「あ……あ。<pc>さん。\n　約束の……魔導の石を……\n　取ってきて……れたんで…すね。": "Ah... Ah. <pc>-san. Vous avez ramene...\nla Magic Stone que vous aviez promise...\nn'est-ce pas ?"
+    "41540": {
+        "「あ……あ。<pc>さん。\n　どう…やら　メイジダスターに……\n　魔力を　ためて……きてくれたようですね。": "Ah... Ah. <pc>-san. Il semblerait que\nvous ayez... accumule de la magie dans le Mage\nDuster... et que vous soyez venu."
     }
 }
