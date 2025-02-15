@@ -1,155 +1,191 @@
 {
-    "17355": {
-        "「来てくれたか　<pc>……。\n　キミのことを待っていた！": "Tu es venu, <pc>... Je t'attendais !"
+    "15459": {
+        "「そ　村王……！　お戻りか！？": "Oh, roi du village... ! Etes-vous revenu !?"
     },
-    "17356": {
-        "「リジン！！　戦士たちを呼べ！\n　これより軍議を行う！\n　ただちに　作戦会議室に　集うのだ！！": "Rijin !! Appelle les guerriers ! Nous allons\ntenir un conseil de guerre ! Rassemblez-vous\nimmediatement dans la salle de reunion<br>strategique !!"
+    "15460": {
+        "「いや　<pc>だったか……。\n　おどろかせて　すまなかった。\n　だが　いいところに来てくれたな。": "Ah, c'etait <pc>, n'est-ce pas... Je\nsuis desole de t'avoir surpris. Mais tu\narrives au bon moment."
     },
-    "17357": {
-        "「承知！": "Compris !"
+    "15461": {
+        "「じつは　村王クリフゲーンさまが\n　帰りの遅い村人を探しに\n　雪山に行ったまま　戻ってこないのだ。": "En fait, Chief Cliffgain-sama est parti a la\nrecherche d'un villageois qui tardait a\nrentrer dans la montagne enneigee, et il n'est<br>toujours pas revenu."
     },
-    "17358": {
-        "「<pc>！　まずは　朗報だ。\n　ヴァルハラの戦士たちの　はたらきにより\n　三賢人の　ひとりの居場所が　明らかとなった！": "<pc> ! Tout d'abord, une bonne nouvelle.\nGrace aux efforts des guerriers de Valhalla,\nl'emplacement de l'un des trois sages a ete<br>revele !"
+    "15462": {
+        "「ちがったか……。お前は　旅の者だな。\n　ふむ。<pc>というのか。": "Ah, je me suis trompe... Tu es un voyageur,\nn'est-ce pas ? Hmm. Tu t'appelles donc\n<pc>."
     },
-    "17359": {
-        "「三賢人とは　来たるべき最終戦争の際\n　我ら　ヴァルハラの戦士と共に　立つといわれる\n　英知の結晶に　ございます。": "Les Trois Sages sont, lors de la guerre finale\na venir, les incarnations de la sagesse qui se\ntiendront aux cotes de nos guerriers de<br>Valhalla."
+    "15463": {
+        "「じつは　このランガーオ村の村王である\n　クリフゲーンさまが　帰りの遅い村人を探しに\n　雪山に行ったまま　戻ってこないのだ。": "En fait, le chef du village de Langao, le\nseigneur Cliffgan, est parti a la recherche\nd'un villageois qui tardait a rentrer dans la<br>montagne enneigee, mais il n'est toujours pas\nrevenu."
     },
-    "17360": {
-        "「彼らは　それぞれ　チカラと　愛　そして光を\n　つかさどる賢人。こたび　居場所が判明したのは\n　チカラの賢人トールでございます。": "Ils sont chacun des sages qui maitrisent la\nforce, l'amour et la lumiere. Cette fois,\nl'emplacement revele est celui du Sage de la<br>Force, Thor."
+    "15464": {
+        "「村王は　お父さんを　探しにいったの！": "Le roi du village est parti chercher mon pere\n!"
     },
-    "17361": {
-        "「……で　その　チカラの賢人トールは\n　巨人族が　この世の楽園と呼ぶ\n　娯楽の島とやらにいることが　わかったんでさ。": "...Donc, il semblerait que ce Sage Thor, dote\nde cette puissance, se trouve sur cette ile de\ndivertissement que les geants appellent le<br>paradis sur terre."
+    "15465": {
+        "「お父さんが帰ってこないのって　私が言ったら\n　すぐに連れ戻してくるから　お前は\n　心配しないで待ってろ　ガハハって……。": "Quand j'ai dit que papa n'etait pas rentre, il\na repondu : 'Je vais le ramener tout de suite,\nalors ne t'inquiete pas, attends-moi. Ga ha<br>ha!'"
     },
-    "17362": {
-        "「ひとつ問題なのは　その娯楽の島が\n　途方もなく　遠方の地だってことでして。\n　誰が　娯楽の島へ行くべきか……。": "Un probleme est que cette ile de\ndivertissement se trouve incroyablement loin.\nQui devrait y aller..."
+    "15466": {
+        "「村の者が　雪山から戻らないときに\n　村王が捜索に行くのは　よくあることだが\n　これほど帰りが遅いのは　はじめてなのだ。": "Il est courant que le chef du village parte a\nla recherche lorsque quelqu'un ne revient pas\ndes montagnes enneigees, mais c'est la<br>premiere fois qu'il tarde autant a rentrer."
     },
-    "17363": {
-        "「賢人トールの　捜索にあたる人員は\n　もう　決めてある。\n　ボクと　<pc>が行こう！": "Les personnes chargees de la recherche de Sage\nThor ont deja ete designees. <pc> et\nmoi-meme allons y aller !"
+    "15467": {
+        "「考えたくはないが……　村王の身に\n　何か　あったのかもしれん。すまないが\n　村王を探しに　雪山に行ってくれないか！？": "Je n'aime pas y penser, mais... il se pourrait\nqu'il soit arrive quelque chose au roi du\nvillage. Pourriez-vous, s'il vous plait, aller<br>le chercher dans les montagnes enneigees ?"
     },
-    "17364": {
-        "「シグルド様　お考え直しを！！\n　あなたは　我らヴァルハラの戦士を率いるお方。\n　御身に　もしものことが　あっては……！": "Sig Ludo-sama, je vous en prie, reconsiderez\nvotre decision ! Vous etes celui qui mene nos\nguerriers de Valhalla. Si quelque chose devait<br>vous arriver... !"
+    "15468": {
+        "「おおっ　本当か！　恩に着るぞ！": "Oh, vraiment ! Je te suis reconnaissant !"
     },
-    "17365": {
-        "「リジンよ。まだ　それを言うか。": "Rijin. Tu dis encore ca ?"
+    "15469": {
+        "「お父さんは　今日は\n　ラギ雪原の方に行くって　言ってました。\n　町で売れる素材を　採るんだって……。": "Papa a dit qu'il allait aujourd'hui du cote de\nla plaine enneigee de Largi. Il va recolter\ndes materiaux a vendre en ville..."
     },
-    "17366": {
-        "「ボクは　皆を導く指導者として\n　巨人族の世界を　深く知っておく必要がある！\n　お前は　それを止めようというのか？": "Moi, en tant que guide pour tous, je dois bien\nconnaitre le monde des Geants ! Veux-tu m'en\nempecher ?"
+    "15470": {
+        "「村王にも　そう伝えたから\n　そっちの方に行けば\n　きっと　ふたりに　会えるはずです！": "Je l'ai aussi dit au roi du village, alors si\nvous allez de ce cote, vous devriez\ncertainement pouvoir les rencontrer tous les<br>deux !"
     },
-    "17367": {
-        "「……めっそうも　ございません。\n　では　せめて　お気をつけて\n　いってくださいませ。": "...Je n'oserais jamais. Alors, au moins,\nprenez soin de vous en partant."
+    "15471": {
+        "「ラギ雪原は　ランガーオ山地の東端から\n　北へ抜けた所にある　厳しい雪原だ。\n　そこへ行くなら　これを持っていってくれ。": "La plaine de neige de Lagi se trouve au-dela\nde l'extremite est des montagnes Langao, en\ndirection du nord. C'est une region<br>impitoyable. Si tu comptes t'y rendre, prends\nceci avec toi."
     },
-    "17368": {
-        "「さて　巨人族の戦士　<pc>よ！\n　キミの役目は　先ほど話したとおりだ。": "Maintenant, guerrier du peuple des geants,\n<pc> ! Ton role est tel que je te l'ai\nexplique precedemment."
+    "15472": {
+        "<pc>は\nヌーク草（だいじなもの）を　手に入れた！<me_60>": "<pc> a obtenu un Nook Grass (objet cle)\n! <me_60>"
     },
-    "17369": {
-        "「キミには　このボクと　ともに\n　娯楽の島に　行ってもらいたい！\n　チカラの賢人トールの　捜索に　あたろう！": "Je veux que tu viennes avec moi sur l'ile des\ndivertissements ! Partons a la recherche du\nSage Thor de la Force !"
+    "15473": {
+        "「それは　雪山で体力をうばわれぬよう\n　身体を　あたためるための　薬草の一種だ。": "Ce sont des herbes medicinales qui rechauffent\nle corps pour eviter que la force vitale ne\nsoit drainee par la montagne enneigee."
     },
-    "17370": {
-        "「心強い返事だ。巨人族である\n　キミと一緒なら　チカラの賢人トールも\n　必ずや　見つけだすことができるだろう！": "C'est une reponse rassurante. Avec toi, qui\nfais partie de la tribu des geants, nous\npourrons surement retrouver le Sage de la<br>Force, Thor !"
+    "15474": {
+        "「もしも　村王や　フウミの父親が\n　寒さで弱っていたら　それを食べさせてくれ。\n　よろしく頼んだぞ。": "Si jamais le chef du village ou le pere de\nFuumi s'affaiblissent a cause du froid,\ndonne-leur ceci a manger. Je compte sur toi."
     },
-    "17371": {
-        "「それでは　すぐに　出発しよう！\n　ボクは　キミの　かばんの中に入らせてもらう。": "Alors, partons immediatement ! Je vais me\nglisser dans ton sac."
+    "15475": {
+        "「<pc>さん！　お父さんと\n　村王のことを　よろしくお願いします！": "<pc>-san ! Prenez soin de mon pere et du\nroi du village, s'il vous plait !"
     },
-    "17372": {
-        "「皆！　留守を　頼んだぞ！！": "Tout le monde ! Je compte sur vous pour garder\nla maison !!"
+    "15476": {
+        "「おおっ　恩に着るぞ……と言いたいところだが\n　どうやら　今は　頼まれごとが\n　いっぱいのようだな……。": "Oh, je te dois une fiere chandelle... c'est ce\nque j'aimerais dire, mais il semble que tu\naies deja beaucoup de demandes en cours..."
     },
-    "17373": {
-        "<pc>は\n戦士シグルド（だいじなもの）を　手に入れた！<me 60>": "<pc> a obtenu le Warrior Sigurd (objets\ncles) ! <me 60>"
+    "15477": {
+        "「無理強いはできんが　こちらも急を要する。\n　できるなら　手を空けてきて\n　私の頼みを　聞いてほしいところだ。": "Je ne veux pas te forcer, mais la situation\nest urgente. Si possible, j'aimerais que tu te\nliberes pour ecouter ma demande."
     },
-    "17374": {
-        "「むっ！？　待て　<pc>！\n　どうやら　キミは　他にも\n　多数の使命を　抱えているようだな。": "Hm !? Attends, <pc> ! Il semble bien que\ntu portes sur tes epaules de nombreuses autres\nmissions."
+    "15478": {
+        "「そ　そうか……。\n　こうなったら　村王が　無事に戻られることを\n　天に祈るよりほかにないな……。": "Ah, je vois... Dans ce cas, il ne nous reste\nplus qu'a prier les cieux pour que le roi du\nvillage revienne sain et sauf..."
     },
-    "17375": {
-        "「まずは　その使命を　まっとうしてくれ。\n　それが戦士たる者の　つとめであろう。": "D'abord, accomplis cette mission. C'est le\ndevoir de tout guerrier."
+    "15479": {
+        "「おお　<pc>よ……。\n　また来てくれたのだな。": "Oh, <pc>... Tu es revenu me voir."
     },
-    "17376": {
-        "「そうか……。\n　ならば　無理強いすることはできないな。\n　キミにも　事情というものが　あるのだろう。": "Je vois... Dans ce cas, je ne peux pas te\nforcer. Tu dois avoir tes propres raisons."
+    "15480": {
+        "「もう一度　頼もう。\n　村王が　帰りの遅い村人を探しに\n　雪山に行ったまま　戻ってこないのだ。": "Je vais devoir te demander encore une fois. Le\nroi du village est parti chercher un\nvillageois qui tardait a rentrer dans la<br>montagne enneigee, et il n'est toujours pas\nrevenu."
     },
-    "17377": {
-        "「よくぞ　戻ってきてくれた！": "Tu es bien revenu !"
+    "15481": {
+        "「村の者が　雪山から戻らないときに\n　村王が捜索に行くのは　よくあることだが\n　これほど帰りが遅いのは　はじめてなのだ。": "Il est courant que le chef du village parte a\nla recherche lorsque quelqu'un ne revient pas\ndes montagnes enneigees, mais c'est la<br>premiere fois qu'il tarde autant a rentrer."
     },
-    "17378": {
-        "「巨人族の戦士　<pc>よ。\n　以前　話したとおり　チカラの賢人トールの\n　居場所が　明らかになったのだ。": "O guerrier du peuple des geants, <pc>.\nComme je te l'avais dit auparavant,\nl'emplacement du Sage de la Force, Thor, a ete<br>revele."
+    "15482": {
+        "「考えたくはないが……　村王の身に\n　何か　あったのかもしれん。すまないが\n　村王を探しに　雪山に行ってくれないか！？": "Je n'aime pas y penser, mais... il se pourrait\nqu'il soit arrive quelque chose au roi du\nvillage. Pourriez-vous, s'il vous plait, aller<br>le chercher dans les montagnes enneigees ?"
     },
-    "17379": {
-        "「キミには　このボクと　ともに\n　娯楽の島に　行ってもらいたい！\n　チカラの賢人トールの　捜索に　あたろう！": "Je veux que tu viennes avec moi sur l'ile des\ndivertissements ! Partons a la recherche du\nSage Thor de la Force !"
+    "15483": {
+        "「おお　<pc>！\n　村王と　フウミの父親は　見つかったのか！？": "Oh, <pc> ! As-tu trouve le pere du roi\ndu village et de Fuumi !?"
     },
-    "17380": {
-        "かばんの中から　シグルドの声が聞こえる。": "Tu entends la voix de ShiguLudo provenant de\nton sac."
+    "15484": {
+        "「そうか。まだか……。\n　いや　急かして　すまない。": "Je vois. Pas encore... Desole de te presser."
     },
-    "17381": {
-        "「すばらしい……！\n　ボクの想像を　はるかに超えている！": "Incroyable... ! Cela depasse de loin mon\nimagination !"
+    "15485": {
+        "「村王と　フウミの父親は\n　ラギ雪原の方に　向かったと思われる。\n　そちらを　重点的に探してみてくれ。": "Le roi du village et le pere de Fuumi semblent\ns'etre diriges vers la plaine enneigee de\nLagi. Concentrez vos recherches dans cette<br>direction."
     },
-    "17382": {
-        "「この島が　巨人族の　娯楽の島！\n　<pc>！　ボクは　こんなに\n　美しい景色を　見たことがない！": "Cette ile est le lieu de divertissement du\npeuple des geants ! <pc> ! Je n'ai\njamais vu un paysage aussi magnifique !"
+    "15486": {
+        "「頼りは　お前だけなのだ。\n　よろしく頼むぞ。": "Je compte sur toi. Je te confie cette tache."
     },
-    "17383": {
-        "「……むっ！？　あ…あれは……！": "…Hum !? Ah… ca, c'est… !"
+    "15487": {
+        "「<pc>さん！　お父さんと\n　村王のことを　よろしくお願いします！": "<pc>-san ! Prenez soin de mon pere et du\nroi du village, s'il vous plait !"
     },
-    "17384": {
-        "「なんと　幸運なんだ！\n　こんなに早く　見つかるとは！": "Quel coup de chance ! Le trouver aussi\nrapidement !"
+    "15488": {
+        "「お…お前は……。": "O... toi, tu es..."
     },
-    "17385": {
-        "「<pc>！　あの　ご婦人を追ってくれ！\n　離れていても感じる　チカラの波動……。\n　あのオレンジ色の者こそが　賢人トールだ！": "<pc> ! Suis cette dame ! Meme a\ndistance, je ressens les ondes de son\npouvoir... Cette personne en orange est Sage<br>Thor !"
+    "15489": {
+        "「<pc>……？　まさか　わしは\n　幻覚を　見ているんじゃないだろうな……。": "<pc>... ? Je ne suis pas en train\nd'halluciner, j'espere..."
     },
-    "17386": {
-        "「皆　待たせたな！\n　ボクだ！　今　帰ったぞ！！": "Merci de m'avoir attendu, tout le monde !\nC'est moi ! Je suis de retour !!"
+    "15490": {
+        "「わしを　助けにきたのか……。": "Vous etes venu me sauver..."
     },
-    "17387": {
-        "「おお……！\n　この方が　チカラの賢人トール様！\n　なんという神々しき　お姿……！": "Oh... ! Voici l'illustre Sage Thor-sama,\nmaitre de la puissance ! Quelle apparence\ndivine... !"
+    "15491": {
+        "「……目を覚ませ　クーガ。\n　どうやら　神さまは　まだ\n　わしらを　死なせてくれんらしいぞ。": "Reveille-toi, Cougar. Il semble que le bon\nDieu ne veut pas encore nous laisser mourir."
     },
-    "17388": {
-        "「英知の結晶よ！　我が声に　応えたまえ！": "O cristal de la sagesse ! Reponds a mon appel\n!"
+    "15492": {
+        "「いかんな……。寒さで　意識を\n　失ってしまっている。何か　身体を\n　あたためる物が　あればよいのだが……。": "C'est mauvais... Le froid l'a fait perdre\nconnaissance. Si seulement il y avait quelque\nchose pour rechauffer son corps..."
     },
-    "17389": {
-        "「天命のもとに　その英知を　捧げよ！\n　賢人トール！　その瞳に　光を！": "Sous le destin celeste, offrez votre sagesse !\nSage Thor ! Que la lumiere eclaire vos yeux !"
+    "15493": {
+        "村王クリフゲーンに\nヌーク草を　渡しますか？<yesno><close>": "Souhaitez-vous donner l'Herbe Nook a Chief\nCliffgain ? <yesno><close>"
     },
-    "17390": {
-        "「ううぅ……　ぐ…むう……。": "Ooooh... guh... mou..."
+    "15494": {
+        "「お前は　村から来たのだろう？\n　だったら　ランガーオ村の者から\n　何か　あずかっては　いないか？": "Tu viens du village, n'est-ce pas ? Dans ce\ncas, n'aurais-tu pas quelque chose que\nquelqu'un du village de Langao t'aurait confie<br>?"
     },
-    "17391": {
-        "「賢人トール！！\n　ようやく　あなたに　お会いできた！": "Sage Thor !! Enfin, je peux vous rencontrer !"
+    "15495": {
+        "<pc>は　村王クリフゲーンに\nヌーク草を　渡した。": "<pc> a remis l'Herbe Noire a Chief\nCliffgain."
     },
-    "17392": {
-        "「ふうむ……　賢人トール……？\n　ひさかたぶりに　我が名を呼ばれたわい。\n　ずいぶん長く　眠っておったようじゃ……。": "Hum... Sage Thor... ? Cela fait bien longtemps\nque l'on n'a pas prononce mon nom. Il semble\nque j'ai dormi pendant une eternite..."
+    "15496": {
+        "「おお　ヌーク草を持ってきてくれたか！\n　よし！　これさえあれば！": "Oh, tu as apporte de l'herbe Nook Grass ! Bien\n! Avec ca, je peux... !"
     },
-    "17393": {
-        "「賢人トールよ　あなたのチカラを借りたい！\n　天命の戦乙女が　連れ去られたために\n　世界の均衡が　崩れ始めているのだ！": "Sage Thor, nous avons besoin de votre pouvoir\n! La War Maiden de Fate a ete enlevee, et\nl'equilibre du monde commence a s'effondrer !"
+    "15497": {
+        "「さあ　クーガ。\n　これを　食べるんだ。": "Allez, Cougar. Mange ca."
     },
-    "17394": {
-        "「な　なんじゃと！？　天命の戦乙女が！？": "Q-Quoi !? La Vierge de Guerre du Destin !?"
+    "15498": {
+        "「……………………。": "................................"
     },
-    "17395": {
-        "「こうしては　おれん。すぐに　我が占術で\n　残りの三賢人の居場所を　明らかにせねば……。\n　ひとまず　ワシに　まかせてくれい。": "Je ne peux pas rester ici sans rien faire. Je\ndois immediatement utiliser mes arts\ndivinatoires pour reveler l'emplacement des<br>trois autres sages restants... Laisse-moi m'en\noccuper pour l'instant."
+    "15499": {
+        "「うっはあああああ～～～～っ！！": "Ouhaaaaaaaaah～～～～!!"
     },
-    "17396": {
-        "「<pc>。キミのおかげで\n　天命の戦乙女の奪還に向けて　大きな一歩を\n　踏みだせた。わずかだが　これは礼だ。": "<pc>. Grace a toi, nous avons pu faire\nun grand pas en avant pour recuperer le Fate's\nWar Maiden. Ce n'est pas grand-chose, mais<br>c'est pour te remercier."
+    "15500": {
+        "「さすが　効果絶大だな。\n　よし　わしも　ひとクチいただこう。": "Comme prevu, l'effet est formidable. Tres\nbien, je vais en prendre une bouchee moi\naussi."
     },
-    "17397": {
-        "「……そういえば　キミには　天命の戦乙女の話を\n　ほとんど　したことがなかったな。": "…Maintenant que j'y pense, je ne t'ai presque\njamais parle de Fate's War Maiden."
+    "15501": {
+        "「いやあ　ありがとうございました。\n　おかげで　血が沸き立つくらい\n　全身ポカポカです。これなら　村まで帰れます！": "Ah, merci beaucoup. Grace a vous, je me sens\nrevigore, le sang bouillonne dans mes veines\net tout mon corps est chaud. Avec ca, je peux<br>rentrer au village !"
     },
-    "17398": {
-        "「ボクは　あの方に出会った日を　忘れはしない。\n　あの日……　敵の夜襲に倒れた　ボクの前に\n　昇るはずのない　太陽が現れたのだ。": "Je n'oublierai jamais le jour ou j'ai\nrencontre cette personne. Ce jour-la... alors\nque j'etais tombe lors d'une attaque nocturne<br>de l'ennemi, un soleil qui n'aurait jamais du\nse lever est apparu devant moi."
+    "15502": {
+        "「村王も　ありがとうございました。\n　もし　村王が岩陰に運んでくれなかったら\n　今頃　凍え死んでいたかもしれません……。": "Le roi du village, merci beaucoup. Si vous ne\nm'aviez pas transporte a l'abri des rochers,\nje serais peut-etre deja mort de froid a<br>l'heure qu'il est..."
     },
-    "17399": {
-        "<center>勇猛なる戦士　シグルドよ。\n目を　覚ましなさい……。": "Vaillant guerrier, Ludo le Courageux.\nReveille-toi..."
+    "15503": {
+        "「ガハハ！　わしに　礼はいらん！\n　わしも　寒さに体力をうばわれて\n　ここまで運ぶのが　精一杯だったのだ。": "Gahaha ! Je n’ai pas besoin de remerciements !\nMoi aussi, le froid m’a epuise, et vous\ntransporter jusqu’ici etait tout ce que je<br>pouvais faire."
     },
-    "17400": {
-        "<center>……戦いに散った　あなたの魂は　尊きもの。\nこれからは　ヴァルハラの戦士として\n新たな人生を　歩むのです……。": "......L'ame de celui qui est tombe au combat\nest precieuse. Desormais, en tant que guerrier\ndu Valhalla, tu vas entamer une nouvelle<br>vie..."
+    "15504": {
+        "「ヌーク草も持たずに　雪山に来るとは\n　わしも　うかつだったわ。\n　いや　それより……": "Venir dans la montagne enneigee sans emporter\nd'herbe de Nook, quelle imprudence de ma part.\nNon, plus important encore..."
     },
-    "17401": {
-        "「そうして　ボクは……\n　美しく気高い　天命の戦乙女に仕える\n　ヴァルハラの戦士に　生まれ変わった。": "Ainsi, je suis devenu un guerrier de Valhalla,\nau service de la belle et noble Fate's War\nMaiden."
+    "15505": {
+        "「この　わしが　雪山で動けなくなる日が\n　来るとはな……。": "Qu'il est ironique que moi, je me retrouve\nincapable de bouger dans cette montagne\nenneigee..."
     },
-    "17402": {
-        "「ボクの命は　天命の戦乙女のもの。\n　決して　あの方を失うわけには　いかないのだ。": "Ma vie appartient a Fate's War Maiden. Je ne\npeux absolument pas me permettre de la perdre."
+    "15506": {
+        "「いやいや。そんなこと言ってる場合ではない。\n　ヌーク草の　効果が切れる前に\n　わしらも　村に戻るとしよう！": "Non, non. Ce n'est pas le moment de dire ca.\nAvant que l'effet du Nook Grass ne s'estompe,\nretournons au village !"
     },
-    "17403": {
-        "「ありがとう　<pc>。\n　キミのおかげで　チカラの賢人トールを\n　見つけだすことができた。": "Merci, <pc>. Grace a toi, j'ai pu\ntrouver le Sage Thor de la Force."
+    "15507": {
+        "「ガハハ！　<pc>よ！\n　お前には　礼をせねばな！\n　村に戻ったら　わしの家まで来てくれ！": "Gahaha ! <pc> ! Je dois te remercier !\nQuand tu retourneras au village, viens chez\nmoi !"
     },
-    "17404": {
-        "「これで　天命の戦乙女の奪還に向けて\n　ボクたちは　大きな一歩を　踏みだせたのだ。": "Avec cela, nous avons pu faire un grand pas en\navant vers la recuperation de la Fate's War\nMaiden."
+    "15508": {
+        "「おっ　<pc>　戻ったか！\n　ガハハ！　待っていたぞ！": "Oh, <pc>, tu es de retour ! Gahaha ! Je\nt'attendais !"
     },
-    "17405": {
-        "「今は　賢人トールが　占術を使って\n　残りの三賢人の居場所を　探してくれている。\n　彼にまかせ　休息を取っていてくれ。": "En ce moment, Sage Thor utilise la divination\npour localiser les trois autres sages\nrestants. Laisse-lui cette tache et prends du<br>repos."
+    "15509": {
+        "「お前が　村に来てくれて　助かった！\n　もし　お前が　いなかったらと思うと\n　ぞっとするぞ！　ガハハハ！": "Je suis soulage que tu sois venu au village !\nRien que de penser a ce qui se serait passe\nsans toi, ca me fait froid dans le dos !<br>Gahaha !"
+    },
+    "15510": {
+        "「<pc>さん　ありがとうございました。\n　おかげで　お父さんも　村王も\n　無事に　帰ってきてくれました。": "<pc>-san, merci beaucoup. Grace a vous,\nmon pere et le roi du village sont revenus\nsains et saufs."
+    },
+    "15511": {
+        "「採取の帰りに　急に吹雪が強くなりまして……。\n　雪山には　慣れているつもりだったのですが\n　まったく　面目ありません。": "Sur le chemin du retour apres la collecte, la\ntempete de neige s'est soudainement\nintensifiee... Je pensais etre habitue aux<br>montagnes enneigees, mais je n'ai aucune\nexcuse."
+    },
+    "15512": {
+        "「まあ　みんな無事で　なによりだ！\n　そうだ　ギュラン。忘れないうちに\n　あれを　<pc>に　渡してくれ。": "Eh bien, le principal, c'est que tout le monde\nest sain et sauf ! Ah, Guran. Avant d'oublier,\ndonne ca a <pc>."
+    },
+    "15513": {
+        "「これは　私と村王からの　心ばかりの　お礼だ。\n　受け取ってくれ。": "Voici un modeste remerciement de la part du\nroi du village et de moi-meme. S'il te plait,\naccepte-le."
+    },
+    "15514": {
+        "「では　私たちは　これで。": "Nous allons donc y aller maintenant."
+    },
+    "15515": {
+        "「<pc>さん！\n　今度　うちにも　遊びにきてくださいね！": "<pc>-san ! La prochaine fois, venez nous\nrendre visite, d'accord ?"
+    },
+    "15516": {
+        "「今　この村の　若くて強い連中は\n　みんな　修行の旅に出ている。その間くらいは\n　しっかり　村を守ろうと思ったのだが……": "En ce moment, tous les jeunes et forts de ce\nvillage sont partis en voyage pour\ns'entrainer. J'avais l'intention de bien<br>proteger le village pendant leur absence,\nmais..."
+    },
+    "15517": {
+        "「……わしも　トシをとったということか。\n　どうやら　もう　若い頃と\n　同じようには　いかんようだ……。": "...... Je suppose que j'ai vieilli. Il semble\nque je ne puisse plus faire les choses de la\nmeme maniere qu'a ma jeunesse..."
+    },
+    "15518": {
+        "「そういえば　村王。\n　村王が　村を離れられている間に\n　こんな手紙が　届いておりましたぞ。": "A propos, roi du village. Pendant que vous\netiez absent du village, une lettre comme\ncelle-ci est arrivee."
+    },
+    "15519": {
+        "「おお。わしにか？\n　わしに手紙など　めずらしいな。": "Oh. Pour moi ? Recevoir une lettre, c'est\nrare."
+    },
+    "15520": {
+        "「そうか。あいつが　来るか……。": "Je vois. Il va venir, hein..."
+    },
+    "15521": {
+        "「きっと……　強くなったのだろうな。": "Tu dois etre devenu... vraiment fort."
     }
 }
