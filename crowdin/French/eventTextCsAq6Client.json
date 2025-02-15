@@ -1,164 +1,215 @@
 {
-    "20234": {
-        "「おおっ　これが　ナゴミオイルか。\n　ありがとう　<pc>君！": "Oh, c'est donc ca l'Huile de Relaxation.\nMerci, <pc>-kun !"
+    "20288": {
+        "「もう来ていたか　<pc>君。\n　相変わらず　早いな。": "Tu es deja la, <pc>-kun. Toujours aussi\nrapide, a ce que je vois."
     },
-    "20235": {
-        "「よし。あとは　父上が用意してくれた材料と\n　混ぜ合わせれば　薬が　できるはずだ。": "Bien. Il ne reste plus qu'a melanger les\ningredients que Pere a prepares, et la potion\ndevrait etre prete."
+    "20289": {
+        "「詩歌の守り手は　あのときのまま\n　動かなくなっているようだ……。": "Il semble que l'Elegiac Crablet soit reste\nimmobile depuis ce moment-la..."
     },
-    "20236": {
-        "「父上！　オチツキ草をお願いします。": "Pere ! Pourriez-vous me donner de l'Ochitsuki\n?"
+    "20290": {
+        "「詩歌の守り手よ　聞こえるか！？\n　ヴェリナード王国の王子　オーディスだ！": "Elegiac Crablet, m'entends-tu !? Je suis\nAudis, le prince du royaume de Velinard !"
     },
-    "20237": {
-        "「うむ。ちゃんと用意してあるぞ。\n　いやあ　苦労したのだよ。\n　城の衛士を　２０名も動員してな……。": "Hum. Tout est pret comme il se doit. Ah, cela\nn'a pas ete facile, tu sais. J'ai mobilise pas\nmoins de 20 gardes du chateau pour ca..."
+    "20291": {
+        "「今日は聞きたいことがあって　ここに来た！\n　どうか　僕の呼びかけに　応えてくれ！！": "Aujourd'hui, je suis venu ici parce que j'ai\ndes questions a poser ! S'il te plait, reponds\na mon appel !!"
     },
-    "20238": {
-        "「ん？　オチ……ツキ草？": "Hmm ? L'herbe de... Serenite ?"
+    "20292": {
+        "「…………頼む。\n　応えてくれ　詩歌の守り手よ……。": "...Je t'en prie. Reponds-moi, Elegiac\nCrablet..."
     },
-    "20239": {
-        "「どうしたんですか　父上！？": "どうしたんですか 父上！？"
+    "20293": {
+        "どこからともなく　声が聞こえる……。": "Une voix se fait entendre de nulle part..."
     },
-    "20240": {
-        "「あの……その～　なんだ……。\n　必要なのは　オチツキ草……だったか？": "Euh... Alors... Comment dire... Ce qu'il nous\nfaut, c'est de l'herbe calmante... C'est bien\nca ?"
+    "20294": {
+        "<center>……王家の血を引きし者よ。\n我に　何用があるのか？": "Toi qui portes le sang royal. Que me veux-tu ?"
     },
-    "20241": {
-        "「そうですが……。それが　何か？": "Oui, c'est exact... Et alors ?"
+    "20295": {
+        "「おおっ　応えてくれたか！\n　詩歌の守り手よ　教えてほしいことがある！！": "Oh ! Tu as repondu a mon appel ! Elegiac\nCrablet, j'ai quelque chose a te demander !!"
     },
-    "20242": {
-        "「ワ…ワシが　苦労して用意したのは……\n　モ…モチツキ草……だった……。": "Je... j'ai prepare avec tant de peine... de\nl'herbe de Robbit..."
+    "20296": {
+        "「恵みの歌には　男王のために用意された\n　別の歌があると　僕は知った。": "Il existe une autre chanson de benediction\nspecialement preparee pour le roi des hommes,\nje le sais."
     },
-    "20243": {
-        "「…………………………。": ""
+    "20297": {
+        "「だが　その歌は　最後の男王\n　ラーディス王によって　封印されたんだ。\n　封印の場所を知っていたら　教えてほしい！": "Cependant, cette chanson a ete scellee par le\ndernier roi homme, le roi Radis. Si tu connais\nl'endroit ou elle a ete scellee, s'il te<br>plait, dis-le-moi !"
     },
-    "20244": {
-        "「わはっ……わははは。安心しろ。\n　オチツキ草なら　たしか　この城にも\n　いくつか　保管されていたはずだ！": "Wa ha... wa ha ha. Ne t'inquiete pas. Je suis\nsur que quelques herbes calmantes etaient\ngardees dans ce chateau !"
+    "20298": {
+        "<center>我に刻まれるは　永遠……刹那……\nそして……　女王が唄いし　恵みの歌のみなり。": "Ce qui est grave en moi, c'est l'eternite...\nun instant... Et puis... la melodie chantee\npar la reine, le chant de la benediction."
     },
-    "20245": {
-        "「…………すまん。": "...Pardon."
+    "20299": {
+        "「……あなたは　詩歌を守り　伝える役目を\n　持っているはずだ。知らないはずがない。": "...... Vous avez le devoir de proteger et de\ntransmettre la poesie. Vous ne pouvez pas\nl'ignorer."
     },
-    "20246": {
-        "「はぁ……。": "Ha..."
+    "20300": {
+        "<center>……我に刻まれし　ひとつの歌。\nかつて　時の王により　消された歌。": "......Un chant grave en moi. Un chant\nautrefois efface par le roi du temps."
     },
-    "20247": {
-        "「……父上が　そのように　いいかげんだから\n　男が　王位に就くべきではないなどという話が\n　当たり前のように　なってしまうんですよ。": "…C'est parce que Pere est si negligent que\nl'idee que les hommes ne devraient pas monter\nsur le trone devient une evidence."
+    "20301": {
+        "「……やはり　知っているんだな。\n　ならば　教えてくれ　詩歌の守り手よ！": "Alors, tu sais vraiment. Dans ce cas,\ndis-le-moi, Elegiac Crablet !"
     },
-    "20248": {
-        "「まったくもって　面目ない……。": "Je suis vraiment desole..."
+    "20302": {
+        "<center>ジュレー島……。ジュレリア地下廃坑……。\nそこにある　詩吟のほこらを　目指すがよい。\n我が知ることは　それのみなり……。": "L'ile de Juler...... La mine souterraine de\nJuleria...... Dirige-toi vers le sanctuaire de\nla poesie qui s'y trouve. C'est tout ce que je<br>sais......"
     },
-    "20249": {
-        "「……僕は　オチツキ草を取りにいって\n　同調のための薬を　作ってきます。\n　母上は　恵みの歌を唄う準備をお願いします。": "...Je vais aller chercher de l'herbe\nd'Ochitsuki pour preparer une potion de\nsynchronisation. Mere, veuillez vous preparer<br>a chanter la Chanson de la Grace."
+    "20303": {
+        "「ありがとう　詩歌の守り手よ。\n　僕は　その歌の封印を見つけだし\n　真に詩歌を継ぐ者となると　改めて誓おう。": "Merci, Elegiac Crablet. Je vais decouvrir le\nsceau de cette chanson et je jure a nouveau de\ndevenir celui qui transmettra la poesie a T."
     },
-    "20250": {
-        "「わかった。バルコニーに行くとしよう。\n　城下の民にも　結果を見定めてもらうのだ。": "D'accord. Allons a BalConnie. Les habitants du\nchateau devront egalement constater le\nresultat."
+    "20304": {
+        "<center>我が名は　詩歌の守り手……。\n歌を見守り　歌を育む者なり……。": "Mon nom est Elegiac Crablet... Je suis celui\nqui veille sur le chant et qui le nourrit..."
     },
-    "20251": {
-        "「よろしくお願いします　母上。\n　僕も薬を作ったら　すぐに向かいます。": "Je compte sur vous, Mere. Des que j'aurai\nprepare le remede, je vous rejoindrai\nimmediatement."
+    "20305": {
+        "「さあ　<pc>君。\n　詩歌の守り手が　教えてくれた\n　ジュレリア地下廃坑の　詩吟のほこらへ行こう！": "Allons-y, <pc>-kun. Dirigeons-nous vers\nle Sanctuaire de la Poesie de la Mine\nSouterraine de Juleria, comme nous l'a indique<br>Elegiac Crablet !"
     },
-    "20252": {
-        "「君にも　ぜひ　立ち会ってもらいたいんだ。\n　城のバルコニーまで　来てほしい。": "Je souhaiterais vraiment que tu sois present.\nPourrais-tu venir jusqu'au balcon du chateau ?"
+    "20306": {
+        "「詩歌の守り手が　教えてくれた　ほこらは\n　ここに　まちがいなさそうだ。": "Le sanctuaire que l'Elegiac Crablet nous a\nindique semble etre ici sans aucun doute."
     },
-    "20253": {
-        "「<pc>君　待たせたな。\n　君が用意してくれた　ナゴミオイルのおかげで\n　母上と心を同調させるための薬は　完成したぞ。": "<pc>-kun, je t'ai fait attendre. Grace a\nl'huile de relaxation que tu as preparee, le\nmedicament pour synchroniser mon esprit avec<br>celui de ma mere est enfin pret."
+    "20307": {
+        "「……だが　何もないようだな。\n　男王の歌が　ここに封印されているようには\n　とても　見えないが……。": "...Cependant, il semble qu'il n'y ait rien\nici. Cela ne ressemble pas du tout a un\nendroit ou le chant du roi homme serait<br>scelle..."
     },
-    "20254": {
-        "「薬を飲んで　とても　落ち着いた気分だ。\n　これで　恵みの歌の効果を生みだせるだろう。\n　さあ　報酬を先に　受け取ってくれ。": "Je me sens tres calme apres avoir pris le\nmedicament. Avec ca, je devrais pouvoir\nproduire l'effet de la chanson de benediction.<br>Allez, prends d'abord ta recompense."
+    "20308": {
+        "「むっ　待て　<cs_pchero>君！\n　何かが　いるぞ！！": "He, attends, <cs_pchero> kun ! Il y a quelque\nchose ici !!"
     },
-    "20255": {
-        "「よし。では　恵みの歌を唄おう！！": "Bien. Chantons la chanson de la benediction !"
+    "20309": {
+        "「何者だ。お前たち。": "Qui etes-vous ? Vous tous."
     },
-    "20256": {
-        "「母上。王家のチカラを　僕に……。": "Mere. Accordez-moi le pouvoir royal..."
+    "20310": {
+        "「帰れ。用がなければ。": "Rentre chez toi. Si tu n'as rien a faire ici."
     },
-    "20257": {
-        "「オーディス。わらわは\n　お前なら　できると信じているぞ。": "Odis. Je crois en toi. Je suis sure que tu\npeux le faire."
+    "20311": {
+        "「僕は　ヴェリナード王国の王子　オーディス。\n　封印された男王の歌を探して　ここに来た。": "Je suis Audis, le prince du royaume de\nVelinard. Je suis venu ici a la recherche de\nla chanson scellee du roi des hommes."
     },
-    "20258": {
-        "<center>……海に生まれ　海に生きる。\nそれが我ら　ウェディの民。": "...Nes de la mer, vivant par la mer. Telle est\nla vie de notre peuple, les Weddie."
+    "20312": {
+        "「解かせない。封印は。": "Je ne te laisserai pas briser le sceau."
     },
-    "20259": {
-        "<center>母なる海に祈りを捧げ\n我らは求める　神の恵みを。": "Nous offrons nos prieres a la mer mere,\ncherchant la benediction divine."
+    "20313": {
+        "「約束した。ラーディスと。": "J'ai fait une promesse. Avec Radis."
     },
-    "20260": {
-        "<center>大いなる海の神よ。\n我らの命　我らの思い\n守りたまえ　清めたまえ……。": "O grand dieu de la mer. Protegez nos vies,\npurifiez nos pensees..."
+    "20314": {
+        "「……ここで正解だったようだ。\n　こいつらは　ラーディス王が置いた\n　封印の守り手というわけか。": "...Il semble que nous ayons trouve le bon\nendroit. Ces creatures sont les gardiens du\nsceau places par le roi Radis."
     },
-    "20261": {
-        "「……なぜだ。\n　どうして　何も起こらないんだ！": "...Pourquoi ? Pourquoi rien ne se passe-t-il\n?！"
+    "20315": {
+        "「どうしても　歌の封印を解かせないというなら\n　ここから先は　実力行使ということになる。\n　平和的な交渉は　望めそうもないか？": "Si vous insistez pour ne pas lever le sceau de\nla chanson, alors il faudra en venir a la\nforce. Il semble que nous ne puissions pas<br>esperer une negociation pacifique."
     },
-    "20262": {
-        "「……そんなはずはない。\n　オーディスには　王の資格があると\n　わらわは　感じている。": "Cela ne se peut pas. Je ressens qu'Odys\npossede les qualites necessaires pour etre\nroi."
+    "20316": {
+        "「排除する。封印を解くというなら。": "Je vais m'en debarrasser. Si tu dis que tu vas\nbriser le sceau."
     },
-    "20263": {
-        "「歌のチカラが　まったく発揮されないなど\n　ありえないことだ……。": "Il est impossible que le pouvoir du chant ne\nse manifeste pas du tout..."
+    "20317": {
+        "「去るがいい。死にたくなければ。": "Va-t'en. Si tu ne veux pas mourir."
     },
-    "20264": {
-        "「僕の努力が　まだ足りないというのか……。": "Tu veux dire que mes efforts ne suffisent\ntoujours pas..."
+    "20318": {
+        "「……どうやら　話し合いは　できそうにないな。": "......Il semble qu'une discussion ne soit pas\npossible."
     },
-    "20265": {
-        "「……その恵みの歌は\n　男性が唄っても　効果が出ないのです。": "......Ce chant de benediction n'a aucun effet\nlorsqu'il est chante par un homme."
+    "20319": {
+        "「君が　こいつらを引きつけている間に\n　僕は　歌が封印されている場所を探そう。": "Pendant que tu les distrais, je vais chercher\nl'endroit ou la chanson est scellee."
     },
-    "20266": {
-        "「セーリア……。\n　君は　何か知っているのか？": "Celia... Est-ce que tu sais quelque chose ?"
+    "20320": {
+        "「ここは　まかせたぞ　<cs_pchero>君！": "Je te laisse cette tache, <cs_pchero> kun !"
     },
-    "20267": {
-        "「これは……私の父　ラーディスより\n　後世に伝えることを　禁じられた話です。": "Ceci est... une histoire que mon pere, Raddis,\nm'a interdit de transmettre aux generations\nfutures."
+    "20321": {
+        "「ウキョキョキョ！！": "Ukyo kyo kyo !!"
     },
-    "20268": {
-        "「ですが　王子は　私を救ってくれた恩人。\n　このまま　だまっていては\n　その恩をアダで　返すことになってしまう……。": "Cependant, le prince est mon bienfaiteur qui\nm'a sauve. Si je garde le silence ainsi, je\nrisque de lui rendre sa gentillesse par<br>l'ingratitude..."
+    "20322": {
+        "「イキャキャキャ！！": "Ikya kya kya!!"
     },
-    "20269": {
-        "「なんと……。そなたの父は\n　最後の男王　ラーディス王であったか。": "Quoi... ? Ton pere etait donc le dernier roi,\nle roi Radis ?"
+    "20323": {
+        "「また来たのか。お前たち。": "Encore vous, hein. Vous etes revenus."
     },
-    "20270": {
-        "「はい……。隠していたわけでは　ありませんが\n　王子を前にして　言いだせなくて……。": "Oui... Je ne le cachais pas vraiment, mais\nface au prince, je n'ai pas pu trouver les\nmots..."
+    "20324": {
+        "「帰れ。命が惜しくば。": "Partez. Si vous tenez a votre vie."
     },
-    "20271": {
-        "「そんなことは　気にしなくてもいい。\n　男が唄っても　効果がないと言ったね？\n　どういうことなのか　教えてほしいんだ。": "Ne t'inquiete pas pour ca. Tu as dit qu'il n'y\navait pas d'effet si un homme chantait,\nn'est-ce pas ? J'aimerais que tu m'expliques<br>pourquoi."
+    "20325": {
+        "「僕は　歌が封印されている場所を探す。\n　ここは　まかせたぞ　<cs_pchero>君！": "Je vais chercher l'endroit ou la chanson est\nscellee. Je te laisse t'occuper de cela,\n<cs_pchero>kun !"
     },
-    "20272": {
-        "「遠い昔……。\n　諸島を囲む海に　聖なる加護を与える歌は\n　育みの歌と呼ばれる　ひとつの歌でした。": "Il y a tres longtemps... La chanson qui\noffrait une benediction sacree a la mer\nentourant les iles etait appelee la Chanson de<br>la Nurture."
+    "20326": {
+        "「おお　倒してくれたか　<cs_pchero>君。\n　さすが　頼りになるな！": "Oh, tu l'as vaincu, <cs_pchero> kun. Comme\nprevu, tu es vraiment fiable !"
     },
-    "20273": {
-        "「ですが　長い歴史の中で\n　育みの歌は　歌の効果を高めるため\n　ふたつの歌に　分けられました。": "Cependant, au fil de la longue histoire, pour\naccroitre l'effet du Chant de\nl'Epanouissement, celui-ci a ete divise en<br>deux chants distincts."
+    "20327": {
+        "「しかし　歌が封印されているような場所は\n　どこにも　見つからなかった。\n　こいつらに　聞いてみよう。": "Cependant, je n'ai trouve aucun endroit ou le\nchant pourrait etre scelle. Demandons-leur."
     },
-    "20274": {
-        "「恵みの歌は　そのひとつ。\n　女王が唄うために作られた　歌なのです。": "La Chanson de la Grace est l'une d'elles.\nC'est une chanson creee pour etre chantee par\nla reine."
+    "20328": {
+        "「……封印の守り手よ。\n　男王の歌は　どこに封印されている？\n　今すぐに　教えるんだ！": "... Gardien du sceau. Ou le Chant du Roi\nest-il scelle ? Dis-le-moi immediatement !"
     },
-    "20275": {
-        "「女王が唄うため……？　ということは\n　男王のための歌も　存在するというのか？\n　だが　そんな歌は　王家に伝わっていない……。": "Pour que la reine puisse chanter... ? Cela\nsignifie-t-il qu'il existe aussi une chanson\npour le roi ? Cependant, une telle chanson n'a<br>pas ete transmise dans la famille royale..."
+    "20329": {
+        "「……ここには　ない。男王の歌は。": "…Il n'est pas ici. Le chant du roi des hommes."
     },
-    "20276": {
-        "「男王の歌は　ラーディス王が\n　王位を退く際に　その手で封印しました。": "Le chant du roi masculin a ete scelle de la\nmain du roi Radis lorsqu'il a abdique."
+    "20330": {
+        "「……知らない。封印の場所は。": "Je ne sais pas... l'endroit du sceau."
     },
-    "20277": {
-        "「……なるほど。ラーディス王以降に\n　女王が国を治める時代となったのも\n　それゆえ……というわけか。": "Je vois. C'est donc pour cela que, depuis le\nregne du roi Radis, une reine gouverne le\nroyaume."
+    "20331": {
+        "「そんなはずはない！！\n　詩歌の守り手は　ここに行けと言ったんだ！": "Ce n'est pas possible !! Elegiac Crablet m'a\ndit d'aller ici !"
     },
-    "20278": {
-        "「男王の歌が　どこに封印されたのか\n　君は　知っているのか？": "Sais-tu ou le Chant du Roi des Hommes a ete\nscelle ?"
+    "20332": {
+        "「我々に言った。ラーディスは。": "Il nous a dit. Radis."
     },
-    "20279": {
-        "「ごめんなさい……。\n　それは　私にも　わからないのです。": "Je suis desolee... Je ne connais pas la\nreponse non plus."
+    "20333": {
+        "「これを渡せ。男の王を目指す者に。": "Remets ceci. A celui qui aspire a devenir le\nroi des hommes."
     },
-    "20280": {
-        "「いや。あやまらないでくれ。\n　君が悪いわけじゃない。": "Non. Ne t'excuse pas. Ce n'est pas de ta\nfaute."
+    "20334": {
+        "「クキャキャキャキャ！\n　フキョキョキョキョキョ！！": "Kukyakya ! Fukyokyokyokyo !!"
     },
-    "20281": {
-        "「……ありがとう　セーリア。\n　君は　僕のために　父上との約束を破って\n　このことを　話してくれたんだね。": "...Merci, Celia. Tu as rompu ta promesse avec\nmon pere pour me parler de cela."
+    "20335": {
+        "「……これは　石版か。\n　何か　文字が書かれているな。\n　かなり古い　王家の文字のようだ。": "…C'est une tablette de pierre, n'est-ce pas ?\nIl y a quelque chose d'ecrit dessus. Cela\nressemble a une ecriture tres ancienne de la<br>famille royale."
     },
-    "20282": {
-        "「君のおかげで　王になるために\n　僕が　やるべきことが　わかった。\n　封印された歌を　見つけだしてみせよう！": "Grace a toi, j'ai compris ce que je devais\nfaire pour devenir roi. Je vais retrouver la\nchanson scellee !"
+    "20336": {
+        "「封印の場所が　書かれているかもしれない。\n　城へ戻って　解読することにしよう。": "Il est possible que l'emplacement du sceau\nsoit indique ici. Retournons au chateau pour\nle dechiffrer."
     },
-    "20283": {
-        "「もしかしたら　君のチカラを\n　借りることに　なるかもしれない。\n　そのときは　よろしく頼むぞ　<pc>君。": "Peut-etre aurons-nous besoin de ton aide. Dans\nce cas, je compte sur toi, <pc>-kun."
+    "20337": {
+        "「<cs_pchero>君への謝礼も　渡さないとな。\n　すまないが　ヴェリナード城へ来てくれ。": "Je dois egalement te remettre ta recompense,\n<cs_pchero>kun. Je suis desole, mais\npourrais-tu venir au Chateau Verinard ?"
     },
-    "20284": {
-        "「セーリア！　くわしい話を聞かせてほしい。\n　一緒に来てくれるかい？": "Celia ! J'aimerais entendre les details.\nPeux-tu venir avec moi ?"
+    "20338": {
+        "「ラーディス王……。僕は絶対に\n　封印された男王の歌を　見つけてみせるぞ。": "Roi Ladis... Je te promets de retrouver\nl'hymne du roi scelle."
     },
-    "20285": {
-        "「は……はい。行きます。": "Oui... D'accord. J'y vais."
+    "20339": {
+        "「<pc>君。よく来てくれた。\n　今　各地に　調査に行った者から\n　報告を受けていたところだ。": "<pc>-kun. Merci d'etre venu. Je recevais\njustement des rapports de ceux qui sont partis\nenqueter aux quatre coins du pays."
     },
-    "20286": {
-        "「どうやら　オーディスが　王となるためには\n　まだ　越えねばならぬカベが　あるようだ。": "Il semble qu'il y ait encore des obstacles que\nOdis doit surmonter pour devenir roi."
+    "20340": {
+        "「……残念ながら　彼らの方に収穫はなかった。\n　だが　<pc>君のおかげで\n　僕は　この石版を手に入れたんだ！": "…Malheureusement, ils n'ont rien recolte de\nleur cote. Mais grace a toi, <pc>-kun,\nj'ai pu obtenir cette tablette de pierre !"
     },
-    "20287": {
-        "「今後も　オーディスが　そなたを\n　必要としたときは　手を貸してやってくれ。\n　女王として……いや　母としての頼みだ。": "A l'avenir, si Odysseus a encore besoin de\ntoi, prete-lui main-forte. C'est la requete\nd'une reine... non, d'une mere."
+    "20341": {
+        "「君が来るまで　読むのを待っていたんだ。\n　今から読み上げる。みんなも聞いてほしい。": "J'ai attendu que tu arrives pour commencer la\nlecture. Je vais maintenant la lire a haute\nvoix. J'aimerais que tout le monde ecoute."
+    },
+    "20342": {
+        "<center>私の名は　ラーディス。\nヴェリナードの国王である。": "Je suis Radis. Le roi de Verinard."
+    },
+    "20343": {
+        "<center>私は　王位を　妻ヴェリーナにゆずり\n王であることを辞すると　今ここに誓う。": "Je jure ici de ceder le trone a ma femme\nVelinna et de renoncer a etre roi."
+    },
+    "20344": {
+        "<center>その決意の証として　私の唄う歌を封じよう。\n今後　ヴェリナード王国において\n男が王位に就くことは　まかりならぬ。": "En signe de cette resolution, je vais sceller\nla chanson que je chante. Dorenavant, dans le\nroyaume de Verinard, il est interdit qu'un<br>homme monte sur le trone."
+    },
+    "20345": {
+        "「セーリアの言っていたことが真実だと\n　これで証明されたな……。\n　男王の歌は　ラーディス王に封印されたんだ。": "Ce que disait Celia etait vrai, n'est-ce\npas... Cela prouve que T. 実. La chanson du Roi\ndes Hommes a ete scellee par le Roi Radis."
+    },
+    "20346": {
+        "「だが　なぜ　ラーディス王は\n　自分が　王位を退いただけでなく\n　その後も　男が王になることを禁じたんだ……？": "Pourquoi le roi Radis a-t-il non seulement\nabdique, mais aussi interdit qu'un homme\ndevienne roi par la suite...?"
+    },
+    "20347": {
+        "「それは……わかりません。": "Je ne sais pas..."
+    },
+    "20348": {
+        "「石版には　まだ続きの文字がある。\n　そこに答えが　書いてあるかもしれないな。": "Il y a encore des inscriptions sur la\ntablette. Peut-etre que la reponse s'y trouve."
+    },
+    "20349": {
+        "「……し……えな……。言葉……。\n　ダメだ。難しくて　僕には読めない……。": "...Je ne peux... comprendre... les mots...\nC'est trop difficile, je n'arrive pas a\nlire..."
+    },
+    "20350": {
+        "「ならば　わらわが読もう。": "Dans ce cas, je vais lire."
+    },
+    "20351": {
+        "「いいえ！　母上の手は借りません。\n　これは　僕自身のチカラで\n　やらなければならないことです！": "Non ! Je ne demanderai pas l'aide de ma mere.\nC'est quelque chose que je dois accomplir par\nmes propres moyens !"
+    },
+    "20352": {
+        "「大丈夫です　母上。\n　僕は　必ず　この石版を読み解き\n　封印された男王の歌を　見つけだします！": "Tout ira bien, mere. Je vais absolument\ndechiffrer cette tablette de pierre et\nretrouver la chanson du roi scelle !"
+    },
+    "20353": {
+        "「だが　オーディスよ。その決意。\n　命をかけることに　なるかもしれぬぞ。": "Cependant, Audis. Cette determination. Cela\npourrait te couter la vie."
+    },
+    "20354": {
+        "「もとより　覚悟の上。\n　ですが　死ぬわけには　まいりません。\n　僕は　王になるのですから！！": "De toute facon, j'en etais conscient des le\ndebut. Cependant, je ne peux pas mourir ici.\nCar je deviendrai roi !!"
+    },
+    "20355": {
+        "「……わかった。\n　ならば　わらわは　何もせぬ。": "......D'accord. Dans ce cas, je ne ferai rien."
+    },
+    "20356": {
+        "「<pc>君。石版の続きを読むには\n　すこし　時間が　かかりそうだ。": "<pc>-kun. Il semble que cela prendra un\npeu de temps pour continuer a lire la\ntablette."
+    },
+    "20357": {
+        "「今回の謝礼を　渡しておこう。\n　遠くまで　つきあってもらい　感謝する。": "Je vais te donner la recompense cette fois-ci.\nMerci de m'avoir accompagne jusqu'ici."
+    },
+    "20358": {
+        "「石版の文字を読み解いたとき\n　また　君のチカラを貸してもらうかもしれない。\n　そのときは　よろしく頼む！": "Lorsque nous dechiffrerons les ecrits de la\ntablette, il se peut que nous ayons a nouveau\nbesoin de ton aide. A ce moment-la, je compte<br>sur toi !"
     }
 }
