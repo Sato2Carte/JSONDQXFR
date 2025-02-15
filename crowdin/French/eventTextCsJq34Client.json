@@ -1,164 +1,290 @@
 {
-    "13431": {
-        "「……ああ　届いてくれた。\n　<pc>さん　私です！\n　リュナンです！": "…Ah, tu as bien recu mon message.\n<pc>-san, c'est moi ! C'est Lunan !"
+    "63928": {
+        "「……そいつが　お前の元相棒　キッズか。\n　ようやく　バトルマスターになる\n　決心が　ついたんだな。ファーベル。": "...Alors c'est lui, ton ancien partenaire,\nFry. Tu as enfin pris la decision de devenir\nun maitre Bato, Fabel."
     },
-    "13432": {
-        "「……っと　大声は　マズいですね。\n　申し訳ないですが　<pc>さんも\n　お静かに　お願いします。": "…Oups, je ne devrais pas parler si fort. Je\nsuis desole, mais <pc>-san,\npourriez-vous aussi rester silencieux, s'il<br>vous plait ?"
+    "63929": {
+        "「これから先　剣の修行は　過酷になる。\n　まもの使いに未練を残したまま\n　生半可な気持ちで　続けられると困るんだ。": "A partir de maintenant, l'entrainement a\nl'epee deviendra plus rigoureux. Je serais\nembete si tu continues avec une passion<br>incomplete en gardant des regrets en tant que\ndompteur de monstres."
     },
-    "13433": {
-        "「じつは　私　今　メギドロームの\n　手下の魔物に　捕まっている状態なんです。": "En realite, je suis actuellement capturee par\nles sbires du demon Megidrome."
+    "63930": {
+        "「こいつは　オレが　野に帰しといてやる。\n　さあ　キッズを　こっちによこしな！": "Je vais le relacher dans la nature. Allez,\npasse-moi Fry !"
     },
-    "13434": {
-        "「そうです。この間の会話のときに　突然\n　奴らが　私の家に押し入ってきて……。\n　おかげで　シーバの鏡も　割れてしまいました。": "Oui, c'est ca. Lors de notre derniere\nconversation, ils ont soudainement fait\nirruption chez moi... Et a cause de cela, le<br>miroir de Sheba s'est brise."
+    "63931": {
+        "「なぜ　そこまで　キッズに固執する？\n　こいつは　父親を襲った魔物なんだろ？": "Pourquoi t'obstines-tu autant avec Fry ? C'est\nbien le monstre qui a attaque ton pere, non ?"
     },
-    "13435": {
-        "「この会話も　そのとき　隠しもった\n　鏡の破片を使って　おこなってるんです。\n　……ああ　連絡が通じて　本当によかった。": "Cette conversation se deroule aussi grace a un\neclat de miroir cache a ce moment-la. …Ah, je\nsuis vraiment soulage que nous ayons pu<br>etablir le contact."
+    "63932": {
+        "「お前は　キッズが憎くないのか？": "Tu ne detestes pas Fry ?"
     },
-    "13436": {
-        "「ここは　どうやら　エルトナ大陸の\n　夢幻の森……　捨てられた城のどこかの\n　建物のようです。": "Il semble que nous soyons dans la Dream Forest\ndu continent d'Eltona... Cela ressemble a l'un\ndes batiments de l'Abandoned Castle."
+    "63933": {
+        "「……わかったよ。オレ　覚悟を決める。": "...D'accord. Je prends ma decision."
     },
-    "13437": {
-        "「そんなワケで　<pc>さん。\n　ご迷惑だとは思いますが　どうか　私を\n　助けにきてもらえないでしょうか？": "C'est pourquoi, <pc>-san. Je sais que\ncela pourrait vous deranger, mais\npourriez-vous venir a mon secours, s'il vous<br>plait ?"
+    "63934": {
+        "「でも　キッズは　オレの手で　野に帰すよ。\n　そこまでしないと　未練なんか\n　断ち切れないと思うんだ。": "Mais je vais ramener Fry dans la nature de mes\npropres mains. Je pense que c'est la seule\nfacon de vraiment couper tous les liens."
     },
-    "13438": {
-        "「ありがとうございます。\n　今は　<pc>さんだけが　頼りですよ。": "Merci beaucoup. En ce moment, vous etes notre\nseul espoir, <pc>-san."
+    "63935": {
+        "「やめときな。自分で　手放そうとすると\n　情に　ほだされて　せっかくの決心が……": "Arrete ca. Si tu essaies de t'en defaire\ntoi-meme, tu seras submerge par tes emotions\net ta precieuse decision sera..."
     },
-    "13439": {
-        "「奴らに　見つかるとマズいので\n　今後　連絡は　ひかえるようにしますが\n　どうか　よろしくお願いします。": "Il serait problematique qu'ils nous\ndecouvrent, donc je vais limiter nos\ncommunications a l'avenir. Je compte sur votre<br>comprehension. Merci."
+    "63936": {
+        "「……仕方がない。お前の好きにしろ。": "......Pas le choix. Fais comme tu veux."
     },
-    "13440": {
-        "「よかった！……と言いたいところですが\n　あなたは　今　たくさんの頼まれごとを\n　抱えているみたいですね。": "Super !... C'est ce que j'aimerais dire, mais\nil semble que tu as beaucoup de demandes a\ngerer en ce moment."
+    "63937": {
+        "「そんな所で　何してるのさ？\n　また　母さんに　何か頼まれたのか？": "Qu'est-ce que tu fais par ici ? Ta mere t'a\nencore demande quelque chose ?"
     },
-    "13441": {
-        "「私のほうは　まだ　しばらく\n　持ちこたえられそうですから\n　まずは　そちらを　片付けてきてください。": "Je peux encore tenir un moment de mon cote,\nalors occupez-vous d'abord de cette affaire."
+    "63938": {
+        "「……ふぅん。まもの使い宛てに来た　仕事の話を\n　レンドアの町長の所へ　聞きにいくんだ……。\n　そんなことに　なってんのか。": "... Hmm. Alors, tu vas te renseigner aupres du\nmaire de Lendor pour un travail destine aux\ndompteurs de monstres. C'est donc ce qui se<br>passe."
     },
-    "13442": {
-        "「……そうですか。\n　残念ですけど　しかたないですね。": "...Je vois. C'est regrettable, mais c'est\ncomme ca."
+    "63939": {
+        "「……………………。": "."
     },
-    "13443": {
-        "「それでも　もし……もし　少しでも\n　私を　助けてくれてもいいと思ったなら\n　また　この鏡に　話しかけてみてください。": "Et pourtant, si... si jamais, meme un peu,\nvous pensez que vous pourriez m'aider, alors\nessayez de parler a ce miroir a nouveau."
+    "63940": {
+        "「よし。オレも　その仕事に付き合うよ。": "Bien. Je vais aussi participer a ce travail."
     },
-    "13445": {
-        "「さっそくですが　お願いです。\n　ご迷惑だとは　わかっていますが\n　どうか　助けにきてもらえませんか？": "Aussitot dit, j'ai une requete a vous faire.\nJe comprends que cela puisse vous deranger,\nmais pourriez-vous venir nous aider, s'il vous<br>plait ?"
+    "63941": {
+        "「まもの使いの仕事を　目に焼き付けて……\n　それで　決めたいんだ。": "Je veux observer attentivement le travail d'un\ndompteur de monstres... et ensuite prendre ma\ndecision."
     },
-    "13446": {
-        "「もしかして　そこにいるのは\n　<pc>さんですか！？": "Serait-ce <pc>-san qui est la !?"
+    "63942": {
+        "「アンタの後ろから　適当に　ついていくし。\n　オレのことは　気にしないで\n　目的地まで　行ってくれればいいよ。": "Je te suivrai sans probleme. Ne t'inquiete pas\npour moi, il suffit que tu atteignes notre\ndestination."
     },
-    "13447": {
-        "「よく　こんな危険な場所まで……\n　本当に　お礼の言葉もありません。": "Vous etes vraiment venu jusqu'a cet endroit\ndangereux... Je ne sais comment vous\nremercier."
+    "63943": {
+        "「じゃ。よろしくな。": "Alors. Je compte sur toi."
     },
-    "13448": {
-        "「メギドロームが　私をさらい\n　こんな場所に　閉じ込めたのは\n　ある目的を　果たすため……。": "Megidrome m'a enleve et m'a enferme dans cet\nendroit pour atteindre un certain objectif..."
+    "63944": {
+        "「どうだい　<pc>さん？\n　怪しい鳥の魔物は　見つかった？": "Comment ca va, <pc>-san ? As-tu trouve\nle monstre oiseau suspect ?"
     },
-    "13449": {
-        "「そして　奴は　すでに　その野望をかなえて\n　用なしとなった私は　そのまま\n　ここに　捨てさられたというワケです。": "Et ensuite, il a deja realise son ambition, et\ncomme je ne lui etais plus utile, il m'a\nsimplement abandonne ici."
+    "63945": {
+        "「へへ。オレも　シガールのオッサンから\n　話を聞きだして　駆けつけたんだ。\n　でも　その様子じゃ　まだみたいだな。": "Hehe. J'ai aussi entendu parler de l'histoire\npar Ossan de Shigar, alors je suis venu en\ncourant. Mais a voir ton expression, ca n'a<br>pas encore l'air d'etre le moment."
     },
-    "13450": {
-        "「今　あなたの目の前にあるのは\n　メギドロームが　私を逃がさないために張った\n　魔法の結界で　ふつうには通れません。": "Ce que vous avez devant vous en ce moment est\nune barriere magique que Megidrome a erigee\npour m'empecher de m'echapper. Vous ne pouvez<br>pas la traverser normalement."
+    "63946": {
+        "「それじゃ　鳥魔物が現れるかどうか\n　ここで　しばらく　様子を見るとするか。": "Alors, voyons voir si le monstre oiseau va\napparaitre ici. Attendons un moment pour\nobserver."
     },
-    "13451": {
-        "「この結界を解くには　<%sEV_QUE_NAME0>に\n　ヒャドで　とどめをさしたときだけ\n　手に入るという　トラマナ石が　必要なんです。": "Pour briser cette barriere, nous avons besoin\nde la Pierre de Passage Sur, que l'on ne peut\nobtenir qu'en portant le coup de grace a<br><%sEV_QUE_NAME0> avec un sort de Hyado."
+    "63947": {
+        "「……オレ　デイラーさんに言われたんだ。\n　バトルマスターになるためには\n　まもの使いへの未練を　断ち切れって。": "... Dailer-san m'a dit quelque chose. Pour\ndevenir un maitre Bato, je dois rompre avec\ntout attachement envers les monstres."
     },
-    "13452": {
-        "「<%sEV_QUE_NAME0>は　夢幻の森に\n　夜だけ　現れるそうです。どうか\n　トラマナ石を　持ってきてもらえませんか？<yesno><close>": "<%sEV_QUE_NAME0> apparait dans la Foret des\nReves seulement la nuit. Pourriez-vous, s'il\nvous plait, nous rapporter la Pierre de<br>Passage Sur ?<yesno><close>"
+    "63948": {
+        "「そのためには　キッズを　野に帰せって……。\n　だから　最後に　まもの使いのアンタと一緒に\n　旅をして　自分の心を見極めたかったんだ。": "Pour cela, il faut que Fry retourne a la\nnature... C'est pourquoi, a la fin, je voulais\nvoyager avec toi, le dompteur de monstres,<br>pour comprendre mon propre coeur."
     },
-    "13453": {
-        "「ありがとうございます。\n　お手数をおかけして　申し訳ありませんが\n　どうか　よろしくお願いしますね。": "Merci beaucoup. Je suis desole de vous causer\ndes ennuis, mais je compte sur vous."
+    "63949": {
+        "「本当に　まもの使いを　あきらめて\n　このまま　バトルマスターになっていいのか。\n　それとも……": "Dois-je vraiment renoncer a etre un dompteur\nde monstres et devenir un maitre du Bato comme\nca ? Ou bien..."
     },
-    "13454": {
-        "「……そうですか。\n　残念ですが　しかたありませんね。\n　でも　来てくれただけで　うれしいですよ。": "…Je vois. C'est dommage, mais c'est comme ca.\nMais je suis content que tu sois venu(e)."
+    "63950": {
+        "「ん？　どうした　キッズ？": "Hmm ? Qu'est-ce qui se passe, Fry ?"
     },
-    "13456": {
-        "「……<pc>さんですか？\n　また　来てくれたんですね。": "......Est-ce que c'est vous, <pc>-san ?\nVous etes revenu, n'est-ce pas ?"
+    "63951": {
+        "「あっ　<pc>さん！　あれッ！": "Ah, <pc>-san ! He !"
     },
-    "13457": {
-        "「でも　その結界は　トラマナ石がないと\n　解くことは　できないんです。": "Cependant, sans la Safe Passage Stone, il est\nimpossible de briser cette barriere."
+    "63952": {
+        "「怪しい鳥魔物って　アイツだよな……。\n　確かに　あんな色の　ひくいどり\n　オレ　今まで　見たことねえよ。": "L'oiseau-monstre suspect, c'est bien lui,\nn'est-ce pas... C'est vrai que je n'ai jamais\nvu un Firebird de cette couleur jusqu'a<br>maintenant."
     },
-    "13458": {
-        "「トラマナ石は　<%sEV_QUE_NAME0>に\n　ヒャドで　とどめをさしたときだけ\n　手に入るという　めずらしい石です。": "La Safe Passage Stone est une pierre rare que\nl'on ne peut obtenir qu'en donnant le coup de\ngrace a <%sEV_QUE_NAME0> avec un sort de<br>Hyado."
+    "63953": {
+        "「後を追ってみようぜ　<pc>さん！\n　ヤツが飛んでった　北東の方角には\n　たしか　ナギリ洞って　ほら穴があったはずだ！": "Allons le suivre, <pc>-san ! Il s'est\nenvole en direction du nord-est. Il me semble\nqu'il y a une grotte appelee Nagiri Cave par<br>la-bas !"
     },
-    "13459": {
-        "「たしか　<%sEV_QUE_NAME0>は\n　夢幻の森に　夜だけ現れるはずです。\n　どうか　トラマナ石を　持ってきてください。": "Il me semble que <%sEV_QUE_NAME0> n'apparait\nque la nuit dans la Foret des Reves. S'il vous\nplait, apportez la Pierre de Passage Sur."
+    "63954": {
+        "「オレたちは　先に　ナギリ洞に行ってるぜ！\n　いいか？　ナギリ洞だぞ　忘れんなよ！": "Nous allons d'abord a Nagiri Cave ! Tu as\ncompris ? Nagiri Cave, ne l'oublie pas !"
     },
-    "13460": {
-        "トラマナ石のチカラで　結界は消し飛んだ！": "La barriere a ete detruite grace au pouvoir de\nla Pierre de Passage Sur !"
+    "63955": {
+        "「<cs_pchero>さん……　こっち　こっち……。": "<cs_pchero> san... par ici, par ici..."
     },
-    "13461": {
-        "「入らないでくださいっ！！": "Ne rentrez pas, s'il vous plait !"
+    "63956": {
+        "「……商品ナンバー１３も　だいぶ\n　オレたちの言うことを　聞くようになったな。": "L'Item Number 13 commence vraiment a nous\necouter."
     },
-    "13462": {
-        "「どうか　それ以上は　近づかないでください！\n　今は……今は　会えません……。": "Je vous en prie, ne vous approchez pas\ndavantage ! Pour le moment... pour le moment,\nje ne peux pas vous rencontrer..."
+    "63957": {
+        "「ブヒヒ。ここまで長かったもんね。\n　レンドア島に　行って帰ってを\n　何回　繰り返させたことか。": "Buhi hi. Ca a ete long jusqu'ici, n'est-ce pas\n? Combien de fois avons-nous fait\nl'aller-retour sur l'ile de Lendor ?"
     },
-    "13463": {
-        "「これまで　さんざん　お世話になっておいて\n　顔も見せられないとは　何事かと思うでしょうが\n　どうか　許してください。": "J'imagine que vous devez vous demander\npourquoi je ne peux meme pas vous montrer mon\nvisage apres tout ce que vous avez fait pour<br>moi, mais je vous en prie, pardonnez-moi."
+    "63958": {
+        "「だが　その甲斐あって　商品ナンバー１３は\n　切り込み部隊として　使えるまでになった……。": "Cependant, grace a ces efforts, l'Item Number\n13 est devenu utilisable en tant que force\nd'intervention..."
     },
-    "13464": {
-        "「閉じ込められていたせいで　ひどい姿ですし\n　何より　今は　自分に自信が持てないから……。": "Je suis dans un etat deplorable a cause de mon\nemprisonnement, et surtout, je manque de\nconfiance en moi en ce moment..."
+    "63959": {
+        "「さあて　いよいよだ。 \n　後は　おかしらが　最強の兵器となる獲物を\n　手に入れてきたら　実行に移すだけ。": "Bien, c'est enfin le moment. Il ne reste plus\nqu'a attendre que le chef revienne avec son\narme ultime, et nous pourrons passer a<br>l'action."
     },
-    "13465": {
-        "「どうやら　<pc>さんが\n　結界を解いてくれたおかげで\n　呪文で　脱出できるようになったみたいです。": "Il semble que grace a <pc>-san, la\nbarriere a ete levee et nous pouvons\nmaintenant nous echapper avec un sort."
+    "63960": {
+        "「オレたち　魔物商人の未来を決める\n　レンドア島壊滅作戦をな……！": "Nous allons decider de l'avenir des marchands\nde monstres avec notre plan d'aneantissement\nde l'ile de Lendor...!"
     },
-    "13466": {
-        "「ひと足先に　失礼させていただきますね。\n　くわしい話は　後ほど　シーバの鏡で！": "Je vous prie de m'excuser de partir un peu\nplus tot. Je vous donnerai plus de details\nplus tard, avec le miroir de Shiva !"
+    "63961": {
+        "「レンドア島……壊滅作戦……？": "L'ile de Lendor... une operation de\ndestruction ?"
     },
-    "13539": {
-        "「あなたには　私が　ねらわれていた理由……\n　話しておかないわけには　いきませんね。": "Je ne peux pas ne pas vous parler des raisons\npour lesquelles j'etais visee..."
+    "63962": {
+        "「クァァアアアア！": "Quaaaaaaa !"
     },
-    "13540": {
-        "「私は　魔法使いの必殺技　ミラクルゾーンを\n　他者に　授けることができるという\n　特別な術を継承する　魔法使いなのです。": "Je suis un magicien qui a herite d'une\ntechnique speciale permettant de conferer la\ncompetence ultime des magiciens, la Zone<br>Miracle, a d'autres."
+    "63963": {
+        "「誰だッ！": "Qui va la !"
     },
-    "13541": {
-        "「ミラクルゾーンは　ＭＰを消費せず\n　魔法を使いまくれるという　秘術。\n　強力な術者ほど　恩恵に　あずかれるでしょう。": "La Zone Miracle est une technique secrete\npermettant d'utiliser la magie sans consommer\nde MP. Plus le lanceur de sorts est puissant,<br>plus il pourra en beneficier."
+    "63964": {
+        "「ブヒヒ。なんだ　こいつら？\n　まあ　あの作戦のこと　聞かれちゃったからには\n　生きて帰すわけには　いかないよね。": "Buhihi. Qu'est-ce que c'est que ces types ?\nBon, maintenant qu'ils ont entendu parler de\nnotre plan, on ne peut pas les laisser<br>repartir vivants, hein."
     },
-    "13542": {
-        "「メギドロームは　強大にして残忍な魔術師。\n　ミラクルゾーンを　覚えたら　どんな悪事を\n　巻き起こすか　知れない存在でした。": "Megidrome etait un puissant et cruel magicien.\nOn ne savait pas quels mefaits il aurait pu\naccomplir s'il avait maitrise la Miracle Zone."
+    "63965": {
+        "「そうだな。こいつらには　商品ナンバー１３の\n　実戦訓練の相手にでも　なってもらうか。\n　……いくぞ　チャーマン！": "C'est ca. On va les utiliser comme adversaires\npour l'entrainement pratique de l'Item Number\n13. ... Allons-y, Charman !"
     },
-    "13543": {
-        "「そのため　技を覚えさせろという要求を\n　断ってきたのですが……今回　こばみきれず\n　奴に　ミラクルゾーンを授けてしまいました。": "Pour cette raison, j'ai toujours refuse sa\ndemande d'apprendre des techniques. Cependant,\ncette fois-ci, je n'ai pas pu resister et je<br>lui ai accorde la Miracle Zone."
+    "63966": {
+        "「あいよぉッ　トレダァッ！": "Allez, c'est parti ! Tresor !"
     },
-    "13544": {
-        "「ですが　このままでは　すませませんよ。\n　秘術の継承者として　私は\n　課せられた責任を　果たしてみせます！": "Mais je ne peux pas laisser les choses ainsi.\nEn tant qu'heritiere des arts secrets, je\nremplirai la responsabilite qui m'a ete<br>confiee !"
+    "63967": {
+        "「ブヒヒ。取り逃がしたかと思ったら\n　のこのこ　そっちから来てくれるなんて\n　ありがたいったらないね。": "Buhihi. Je pensais t'avoir laisse filer, mais\nte voir venir vers moi si facilement, c'est\nvraiment une aubaine."
     },
-    "13545": {
-        "「……っと　<pc>さんには\n　関係のない話でしたね。\n　それより　今回のお礼をさせてください。": "......Ah, cela ne concerne pas <pc>-san.\nMais permettez-moi de vous remercier pour\ncette fois-ci."
+    "63968": {
+        "「レンドア島壊滅作戦のことを　知られた以上\n　生かしておくわけには　いかねえ。\n　……いくぞ　チャーマン！": "Maintenant que vous etes au courant de\nl'operation de destruction de l'ile de Lendor,\nje ne peux pas vous laisser vivre.<br>...Allons-y, Chairman !"
     },
-    "13546": {
-        "「あなたならば　ミラクルゾーンを会得しても\n　悪事に用いることは　ないでしょう。\n　これが　私にできる　最大のお礼です。": "Si c'est vous, meme en maitrisant la Zone\nMiracle, vous ne l'utiliserez pas a des fins\nmauvaises. C'est le plus grand remerciement<br>que je puisse vous offrir."
+    "63969": {
+        "「あいよぉッ　トレダァッ！": "Allez, c'est parti ! Tresor !"
     },
-    "13547": {
-        "「深き知恵と　大いなる魔力を持つ者よ。\n　汝の名は　<pc>。\n　今こそ　魔術の深奥へと　至らんっ！！": "O toi, qui possedes une sagesse profonde et un\ngrand pouvoir magique. Ton nom est <pc>.\nIl est temps d'atteindre les profondeurs de la<br>magie !"
+    "63970": {
+        "「クソッ！　なにもんだ　てめえ……。\n　魔物を操って　戦うのは\n　オレら魔物商人の専売特許だってのによ……。": "Merde ! Qui diable es-tu... ? Manipuler des\nmonstres pour combattre, c'est le privilege\nexclusif de nous, les marchands de monstres..."
     },
-    "13548": {
-        "「鏡を通してでも可能なのか　心配でしたが\n　どうやら　無事　会得できたようですね。\n　ミラクルゾーン　役に立ててください。": "Meme a travers un miroir, j'etais inquiet,\nmais il semble que vous ayez reussi a\nl'apprendre sans encombre. Utilisez la Zone<br>Miracle a bon escient."
+    "63971": {
+        "「ああっ！！": "Ah !!"
     },
-    "13549": {
-        "「私は　これから　メギドロームを探しつつ\n　奴を倒すための修行に　入ろうと思います。": "Je vais maintenant chercher le Megidrome tout\nen m'engageant dans un entrainement pour le\nvaincre."
+    "63972": {
+        "「おかしらッ！！": "Chef !!"
     },
-    "13550": {
-        "「フフ。心配なさらないでください。\n　奴は強敵ですが　負ける気はありませんよ。": "Fufu. Ne vous inquietez pas. Cet adversaire\nest redoutable, mais je n'ai pas l'intention\nde perdre."
+    "63973": {
+        "「デイラー……さん……？\n　どういうこと……？": "Dailer... san... ? Que se passe-t-il...?"
     },
-    "13551": {
-        "「どうか　私の勝利を　祈っていてください。\n　それでは　お元気で！": "Veuillez prier pour ma victoire. Prenez soin\nde vous !"
+    "63974": {
+        "「悪いが　そういうことでね。\n　旅のバトルマスターなんて　デタラメ……。\n　オレは　こいつらの親玉だったってワケだ。": "Desole, mais c'est comme ca. Le maitre du\nvoyage Bato, c'etait du pipeau... En realite,\nj'etais le chef de ces types."
     },
-    "28313": {
-        "「私です！　リュナンです！": "C'est moi ! Lunan !"
+    "63975": {
+        "「オレが　お前に近づいた目的は　ただひとつ。\n　そこにいる　キッズを\n　お前から　奪いとるためだったのさ。": "Mon seul objectif en m'approchant de toi etait\nde te prendre Fry, qui est juste la."
     },
-    "41549": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "63976": {
+        "「そんな……。それで　<cs_pchero>さんや\n　オレの後を　つけてきて　ここに……。": "C'est pas possible... Donc, <cs_pchero> san et\nmoi avons ete suivis jusqu'ici..."
     },
-    "41550": {
-        "「……さん……　<pc>さ…ん。<yesno><close>": "......san...... <pc>-san. <yesno><close>"
+    "63977": {
+        "「ふふ。お前んちの　ばあさんは\n　一流の　まもの使いだったらしいじゃねえか。\n　そんなヤツの前じゃ　うかつに手は出せねえ。": "He he. On dirait que ta grand-mere etait une\ndresseuse de monstres de premier ordre. Face a\nquelqu'un comme ca, on ne peut pas agir<br>imprudemment."
     },
-    "41551": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "63978": {
+        "「だから　お前のトラウマを利用して\n　平和的に　キッズを手放してもらおうと\n　お前を　手なずけてたってワケだ。": "Donc, j'ai utilise ton traumatisme pour te\nmanipuler pacifiquement et te faire abandonner\nFry."
     },
-    "41552": {
-        "「……ああ　<pc>さん。\n　また　来てくれたんですね。\n　よかった！　ひとりで　心細かったんですよ。": "...Ah, <pc>-san. Tu es revenu. Je suis\nsoulage ! J'etais un peu inquiet tout seul."
+    "63979": {
+        "「まあ　途中から　ばあさん以外にも\n　ジャマなヤツが現れたがな。": "Eh bien, en cours de route, il y a eu d'autres\ngeneurs que la vieille femme."
     },
-    "41553": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "63980": {
+        "「さてと……　それじゃ　ファーベル。\n　いい子だから　キッズを　オレに渡しな。": "Bon, alors... Fabel. Sois sage et donne-moi\nFry."
     },
-    "41554": {
-        "「助けていただいて　ありがとうございました。\n　本当に　<pc>さんには\n　お世話になりっぱなしで……。": "Merci beaucoup de m'avoir aide. Je suis\nvraiment redevable envers vous,\n<pc>-san..."
+    "63981": {
+        "「きたねえ……。\n　誰が　お前なんかに　キッズを渡すもんか！": "Quelle horreur... Personne ne te donnera Fry,\nespece de vaurien !"
+    },
+    "63982": {
+        "「キッズ！　こんなヤツ\n　お前の炎で　丸コゲにしてやれ！": "Fry ! Fais en sorte que ce type soit\ncompletement grille par tes flammes !"
+    },
+    "63983": {
+        "「ギャウッ！？": "Gyah !?"
+    },
+    "63984": {
+        "「ギャ…ギャルルゥゥワァァァァ……！": "Gy... Gyaruruwahhhh...!"
+    },
+    "63985": {
+        "「キッズ……！？": "Fry... !?"
+    },
+    "63986": {
+        "「グルァァァァァ！！": "Graaaaaaah !!"
+    },
+    "63987": {
+        "「キッズ……。どうしたんだよ？\n　これじゃ　まるで　あの時と……\n　父さんを襲った時と同じじゃないか。": "Fry... Qu'est-ce qui se passe ? On dirait\npresque ce moment-la... Comme lorsque mon pere\na ete attaque."
+    },
+    "63988": {
+        "「まさか……。": "Pas possible..."
+    },
+    "63989": {
+        "「ククク……　そうだ。\n　あの時　キッズを狂わせたのは　このオレさ。": "Kukuク Oui. Celui qui a rendu Fry fou a ce\nmoment-la, c'est moi."
+    },
+    "63990": {
+        "「チャーマン！　トレダ！\n　そのドラゴンキッズを捕まえて　眠らせておけ！": "Charman ! Treda ! Attrapez ce Small Fry et\nendormez-le !"
+    },
+    "63991": {
+        "「キッズ！": "Fry !"
+    },
+    "63992": {
+        "「ギャウ…ウウウ……！": "<Gyaou... Ouuuu... !>"
+    },
+    "63993": {
+        "「こいつは　魔物と　まもの使いの絆を断ち切り\n　野生に戻す粉。こうでもしないと　捕まえた後\n　オレらの言うことを　聞いてくれないんでね。": "C'est une poudre qui coupe le lien entre les\nmonstres et leur maitre, les rendant sauvages\na nouveau. Si nous ne faisons pas cela, ils ne<br>nous ecoutent pas apres avoir ete captures."
+    },
+    "63994": {
+        "「あの時も……お前らが来るのを　待ち伏せして\n　この粉をまいたんだ。お前の親父は\n　いち早く　状況を察したみたいだったがな。": "A ce moment-la aussi... je vous ai tendu une\nembuscade en repandant cette poudre. Ton pere\nsemble avoir compris la situation tres<br>rapidement."
+    },
+    "63995": {
+        "「しかし　お前の親父も　アレだよな。\n　オレに気づいて　追ってこなけりゃ\n　殺されずに済んだのによ。": "Cependant, ton pere... Il aurait pu eviter la\nmort s'il ne m'avait pas remarque et\npoursuivi."
+    },
+    "63996": {
+        "「父さんを……　お前が…………。": "Papa... c'est toi qui..."
+    },
+    "63997": {
+        "「おかげで　こいつを手に入れるのに\n　ずいぶんと　苦労したぜ。": "Grace a ca, j'ai vraiment eu du mal a mettre\nla main dessus."
+    },
+    "63998": {
+        "「この　絶滅寸前の超希少種……\n　ゴールデンキングリザードの子供をな……。": "Cet enfant de l'espece extremement rare et\npresque eteinte... Le Goalden Liege Lizard..."
+    },
+    "63999": {
+        "「じゃあな　ファーベル。\n　お前のかわいいキッズが　レンドア島を\n　海に沈める日を　楽しみに待ってな！": "Adieu, Fabel. J'attends avec impatience le\njour ou ta chere Fry fera sombrer l'ile de\nLendor dans la mer !"
+    },
+    "64000": {
+        "「<cs_pchero>さん……。\n　さっきは　助けてくれて　ありがとう。": "<cs_pchero> san... Merci de m'avoir aide tout\na l'heure."
+    },
+    "64001": {
+        "「シガールのオッサンには　オレが伝えとくよ。\n　このままじゃ　レンドアが危ないって。": "Je vais informer Shigarul de l'Ossan. Si cela\ncontinue ainsi, Lendash sera en danger."
+    },
+    "64002": {
+        "「<cs_pchero>さんは　先に\n　母さんのとこに　帰っててくれ。\n　後から　オレも行くからさ。": "<cs_pchero> san, retourne d'abord chez maman.\nJe te rejoindrai plus tard."
+    },
+    "64003": {
+        "「ファーベル……。どうしたの　あなた？\n　そんな所に突っ立って。\n　キッズは？　一緒じゃなかったの？": "Fabel... Qu'est-ce qui t'arrive ? Pourquoi\nrestes-tu plante la ? Et Fry ? Il n'est pas\navec toi ?"
+    },
+    "64004": {
+        "「母さん　ばあちゃん　話があるんだ。\n　……父さんのことで。": "Maman, grand-mere, j'ai quelque chose a vous\ndire... C'est a propos de papa."
+    },
+    "64005": {
+        "「そんな……。デイラーさんが\n　あの人を殺した　犯人だったなんて……。": "C'est impossible... Que Dailer-san soit le\ncoupable qui a tue cette personne..."
+    },
+    "64006": {
+        "「……………………。": "."
+    },
+    "64007": {
+        "「ゴメン。ふたりとも……。\n　オレ　なんにも知らずに　あんなヤツを\n　うちに招き入れたりして……。": "Desole, vous deux... Je ne savais vraiment\nrien, et j'ai laisse un type comme lui entrer\nchez nous..."
+    },
+    "64008": {
+        "「気にすることないわよ。\n　そんなの　私にも　わからなかったし……。\n　あなたのことを　とやかく言うつもりはないわ。": "Ne t'en fais pas pour ca. Moi non plus, je ne\ncomprenais pas... Je n'ai pas l'intention de\nte critiquer."
+    },
+    "64009": {
+        "「あの……<pc>さん。今回は\n　思いがけず　うちのゴタゴタに巻き込んじゃって\n　たいへん　ご迷惑をおかけしました。": "Euh... <pc>-san. Cette fois-ci, je t'ai\ninvolontairement entraine dans nos problemes.\nJe suis vraiment desolee pour tous les<br>desagrements que cela a pu causer."
+    },
+    "64010": {
+        "「せめてもの　お詫びに\n　何か　お贈りしたいのですが……　困ったわ。\n　いったい　何が　ふさわしいのかしら……。": "Pour m'excuser au moins, j'aimerais vous\noffrir quelque chose... Mais je suis embetee.\nJe me demande bien ce qui serait approprie..."
+    },
+    "64011": {
+        "「若いの。ちょっと　こっちに来な。": "Jeune homme. Viens ici un instant."
+    },
+    "64012": {
+        "「これからの戦いに　必要じゃろう。\n　まもの使いの必殺技を\n　お前さんに　伝授してやる。": "Cela te sera necessaire pour les batailles a\nvenir. Je vais t'enseigner la technique\nsecrete des Dompteurs de Monstres."
+    },
+    "64013": {
+        "「まもの使いの必殺技……。それは素晴らしいわ。\n　おばあちゃん　すみません。\n　私が　いたらないばっかりに……。": "La technique secrete du dompteur de\nmonstres... C'est merveilleux. Grand-mere, je\nsuis desolee. C'est a cause de mes<br>insuffisances..."
+    },
+    "64014": {
+        "「いくよ　若いの。\n　しっかり　目をつぶってな。": "Allons-y, jeune homme. Ferme bien les yeux."
+    },
+    "64015": {
+        "メドウは　呪文を唱えはじめた。\n<pc>は　目を閉じ\nメドウの言葉に　耳をかたむけた……。": "Medow commenca a incanter un sort. <pc>\nferma les yeux et preta attention aux paroles\nde Medow..."
+    },
+    "64016": {
+        "「……と思うたが\n　お前さんは　もう　必殺技を覚えてたか。\n　じゃあ　これをやるよ。": "...Je pensais que c'etait le cas, mais tu\navais deja appris une technique speciale. Dans\nce cas, je vais te donner ca."
+    },
+    "64017": {
+        "「どこに行くの　ファーベル？": "Ou vas-tu, Fabel ?"
+    },
+    "64018": {
+        "「……ひとりで　考えたいことがあるんだ。": "J'ai besoin de reflechir seul a quelque chose."
+    },
+    "64019": {
+        "「ハァ……。ムリもないわね。\n　相棒だった　キッズが\n　悪者に利用されるかもしれないなんて……。": "Ha... Je comprends. C'est difficile a croire,\nn'est-ce pas ? Que notre partenaire Fry puisse\netre utilise par des mechants..."
+    },
+    "64020": {
+        "「でも　<pc>さんのおかげで\n　事前に　魔物商人たちの企みを\n　知ることができたのは　幸いでした。": "Mais grace a <pc>-san, nous avons eu la\nchance de decouvrir a l'avance les\nmachinations des marchands de monstres."
+    },
+    "64021": {
+        "「レンドア島壊滅なんて　本当に　ゆるせない。\n　それだけは　絶対に　阻止しないと。": "Je ne peux vraiment pas pardonner la\ndestruction de l'ile de Lendor. C'est quelque\nchose que je dois absolument empecher."
+    },
+    "64022": {
+        "「……<pc>さん。\n　あなたに頼ってばかりで　申し訳ありませんが\n　その時は　ぜひ　チカラを貸してください。": "......<pc>-san. Je suis desole de\ntoujours compter sur vous, mais a ce\nmoment-la, je vous prie de bien vouloir<br>m'aider."
+    },
+    "64023": {
+        "「ですが　相手も　レンドア島の壊滅を企むような\n　強敵です。ウデをみがき　時が来たら\n　ふたたび　チカラを貸してくださいね。": "Cependant, l'ennemi que nous affrontons est un\nadversaire redoutable, pret a detruire l'ile\nde Lendor. Perfectionne tes competences et,<br>lorsque le moment sera venu, prete-nous a\nnouveau ta force."
     }
 }
