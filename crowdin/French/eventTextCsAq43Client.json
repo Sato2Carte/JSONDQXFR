@@ -1,245 +1,224 @@
 {
-    "173819": {
-        "「そのハナシ　ちょ～っと　待った！": "<me 60> Hey Hana, attends une seconde !"
+    "194707": {
+        "「改めて　紹介するね。\n　みんな　もう知ってると思うけど\n　ピンチョの婚約者……ファヒータよ。": "Je vais vous la presenter a nouveau. Je pense\nque tout le monde la connait deja, mais voici\nFajita, la fiancee de Pincho."
     },
-    "173820": {
-        "「アナタ様は……リーネ様！？": "Vous etes... Renee-sama !?"
+    "194708": {
+        "「元・婚約者よ。イヤミな女ね。": "Ancienne fiancee, hein ? Quelle femme\nagacante."
     },
-    "173821": {
-        "「ご…ご高名は　かねがね　うかがっております。\n　本日は　どちらのご丁目を\n　お求めでいらっしゃいますか？": "Je... j'ai souvent entendu parler de votre\nrenom. Aujourd'hui, quelle adresse\nrecherchez-vous ?"
+    "194709": {
+        "「私　あのヒト……ピンチョを助けたいの。\n　アンタ達に　協力するのは\n　利害が一致しているから。それだけよ。": "Je veux aider cette personne... Pincho. Je\ncollabore avec vous parce que nos interets\nconvergent. C'est tout."
     },
-    "173822": {
-        "「ゴメンゴメン。今のところ\n　新しい家を買う予定は　無いんだー。": "Desole, desole. Pour le moment, je n'ai pas\nl'intention d'acheter une nouvelle maison."
+    "194710": {
+        "「……あのキェルグって悪魔は　３つの秘宝を\n　ほしがっていたわ。そのうちの　ふたつは\n　すでに　ヤツの手の中にある。": "Ce demon, Kjellg, voulait obtenir les trois\ntresors secrets. Deux d'entre eux sont deja\nentre ses mains."
     },
-    "173823": {
-        "「この島にいる　エージェントから\n　君が来ているって聞いて　ピンときたんだ。\n　あの化け猫の　いる場所についてね。": "J'ai entendu dire par un agent sur cette ile\nque tu etais la, et ca m'a fait tilt.\nConcernant l'endroit ou se trouve ce chat<br>monstrueux."
+    "194711": {
+        "「アンタ達も知ってのとおり　双角のかぶとと\n　虚無の瞳が　それよ。きっとヤツは\n　残りのひとつを　奪いにやってくるわ。": "Comme vous le savez, le casque cornu et l'oeil\ndu neant sont ceux-la. Je suis sure qu'il\nviendra s'emparer du dernier."
     },
-    "173824": {
-        "「それと　急な頼みで　悪いんだけど\n　この先は　君と私\n　ふたりっきりで　行きたい。": "Et desole de te demander ca si soudainement,\nmais a partir d'ici, j'aimerais qu'on\ncontinue, toi et moi, juste tous les deux."
+    "194712": {
+        "「残りのひとつは　風の腰布と呼ばれる物で\n　ドルワーム水晶宮の　王立研究院にあるわ。": "Le dernier objet est appele Wind Cloth et se\ntrouve a l'Institut Royal de Recherche du\nPalais de Cristal de Dolworm."
     },
-    "173825": {
-        "「……この先では　誰かの不幸な場面を\n　目にするかもしれないからさ。\n　あまり　人目に　触れさせたくないんだ。": "...... Plus loin, tu pourrais etre temoin\nd'une scene malheureuse pour quelqu'un. Je\nprefere eviter que trop de gens ne la voient."
+    "194713": {
+        "「キェルグは　その３つを使って\n　天魔クァバルナを　復活させるつもりよ。\n　だから　私達は全力で　それを阻止するの。": "Kielg veut utiliser ces trois elements pour\nressusciter Kukulkannibal. C'est pourquoi nous\ndevons tout faire pour l'en empecher."
     },
-    "173826": {
-        "「だから　この先は　君だけ一緒に来てほしい。\n　君の準備ができたら　私も行くから\n　広報係さんに　話しかけてね。": "Donc, a partir de maintenant, je veux que ce\nsoit toi seul qui m'accompagne. Une fois que\ntu seras pret, je te rejoindrai. Parle a la<br>responsable des relations publiques, d'accord\n?"
+    "194714": {
+        "「もちろん　身体を乗っ取られてしまった\n　ピンチョのことも　救出するわ。": "Bien sur, nous allons aussi sauver Pincho, qui\ns'est fait posseder."
     },
-    "173827": {
-        "「……これ　いつもの所に\n　保管しておいてちょうだい。": "...Peux-tu le ranger a l'endroit habituel,\ns'il te plait ?"
+    "194715": {
+        "「……私も行くわ。悪魔のチカラが無くたって\n　ここにいる　ボンクラどもよりは\n　役に立つはずよ。": "......Je viens aussi. Meme sans le pouvoir\ndemoniaque, je devrais etre plus utile que ces\nidiots ici."
     },
-    "173829": {
-        "「よろしく頼んだよ。": "Je compte sur vous."
+    "194716": {
+        "「だっ……誰が　ボンクラだッ。\n　<pc>の大親分に　負けた分際で！！\n　この　プッツン女！　オマエ　友達いないだろ！": "Qu-... Qui est un cretin ?! Comment oses-tu me\ntraiter ainsi apres avoir perdu contre le\ngrand chef de <pc> !! Espece de folle !<br>Tu n'as surement pas d'amis !"
     },
-    "173832": {
-        "「わかった。報告ありがとう。": "D'accord. Merci pour le rapport."
+    "194717": {
+        "「……言葉には　気をつけることね。\n　そのクチを　二度ときけなくする方法ぐらい\n　いくらでも知っているわよ。": "...Fais attention a tes paroles. Je connais de\nnombreuses facons de te faire taire a jamais,\ntu sais."
     },
-    "173833": {
-        "「これで…………": "Avec ca..."
+    "194718": {
+        "「もちろん　あなたにも　来てもらうわ。\n　キェルグについて　一番くわしいのは\n　他でもない　あなただからね。": "Bien sur, je veux que tu viennes aussi. Apres\ntout, c'est toi qui connais le mieux Kyerug."
     },
-    "173834": {
-        "「……今回も　世界の均衡は　保たれた。": "...... Cette fois encore, l'equilibre du monde\na ete preserve."
+    "194719": {
+        "「<pc>。私はファヒータと一緒に行くから\n　ドルワーム水晶宮の　王立研究院で\n　合流しましょ。": "<pc>. Je vais avec Fajita, alors\nretrouvons-nous a l'Institut Royal de\nRecherche du Palais de Cristal de Dolworm."
     },
-    "173835": {
-        "「今回は　いろいろ手伝ってくれて\n　本当　ありがとね。これは　私からの\n　感謝の気持ちだから　受け取って！": "Cette fois, tu m'as vraiment aidee de\nnombreuses manieres, merci beaucoup. Voici un\npetit cadeau pour te montrer ma gratitude,<br>accepte-le !"
+    "194720": {
+        "「風の腰布は　レモモという研究員が\n　管理しているわ。\n　先に着いたら　彼女に話を聞いてみてね。": "Le Wind Cloth est gere par une chercheuse\nnommee Remomo. Lorsque tu arriveras la-bas,\nessaie de parler a Her."
     },
-    "173837": {
-        "「にゃんだ　オマエら。\n　まだ　息があったのニャ？　それじゃあ……": "Eh bien, vous etes toujours en vie ? Dans ce\ncas..."
+    "194721": {
+        "「大丈夫？　<pc>。\n　ピンチョ……というか　悪魔キェルグが\n　部屋から　飛び出していったけど……。": "Ca va ? <pc>. Pincho... ou plutot Devil\nKyerug est sorti en trombe de la piece..."
     },
-    "173860": {
-        "「にゃっふぅ～～～～！！\n　苦しゅうない　苦しゅうない　ちこう寄れ！\n　一緒に　にくきゅう　プニプニするにゃん<heart>": "Nyah-fuu～～～～!! Approche, approche, n'aie pas\npeur ! Viens, on va faire des pattes toutes\ndouces ensemble <heart>"
+    "194722": {
+        "<pc>は\nレモモに化けた　悪魔キェルグに\n風の腰布を盗まれたことを　伝えた！": "<pc> a informe Devil Kyerug, deguise en\nRemomo, que le Wind Cloth avait ete vole !"
     },
-    "181641": {
-        "「……かしこまりました。いつもどおり\n　リーネ様専用の　地下の大金庫室に\n　厳重に　保管いたします。": "…Tres bien. Comme d'habitude, nous allons\nstocker cela en toute securite dans la grande\nchambre forte souterraine reservee a<br>Renee-sama."
+    "194723": {
+        "「フン……。\n　これで　クァバルナを呼び出すために必要な\n　３つの秘宝は　まんまと奪われたってワケね。": "Hmph... Avec ca, les trois tresors necessaires\npour invoquer Kuwabarna ont ete habilement\nvoles."
     },
-    "181642": {
-        "「……先ほど　レンダーヒルズ\n　８３８８６１丁目の　元住人への入金が\n　完了したと　連絡がありました。": "Nous venons de recevoir la confirmation que le\npaiement a l'ancien resident du district\n838861 de Render Hills a ete effectue."
+    "194724": {
+        "「キェルグは　クァバルナ復活のための儀式を\n　どこかで　するはずよ。\n　それだけは　止めなきゃいけない。": "Kyerug doit surement mener un rituel quelque\npart pour la resurrection de Cuabarlna. Il\nfaut absolument l'en empecher."
     },
-    "181643": {
-        "「奪われた財産は　今回の入金で　すべて\n　元の所有者に　返却されたとのことです。": "Les biens voles ont ete entierement restitues\na leurs proprietaires d'origine grace a ce\ndernier versement."
+    "194725": {
+        "「問題は　あの悪魔がどこへ行ったのか\n　わからないということ……。": "Le probleme, c'est que nous ne savons pas ou\nce demon est alle..."
     },
-    "181644": {
-        "「フフ！　今後とも　アクセサリー合成屋を\n　ごひいきにお願いするよ。それと　たまには\n　ボディーガードも　お願いするかもね♪": "Fufu ! Je compte sur toi pour continuer a\nfrequenter notre boutique de fusion\nd'accessoires. Et de temps en temps, je<br>pourrais aussi te demander de faire appel a un\ngarde du corps, qui sait ♪"
+    "194726": {
+        "「……そういえば　アイツ\n　ボロヌスの穴の奥にあるっていう\n　海底の牢獄への行き方を　知りたがっていたわ。": "D'ailleurs, il voulait savoir comment se\nrendre a la Prison Sous-Marine qui se trouve\nau fond de Boronus Hole."
     },
-    "181645": {
-        "「ウニャアアアアアアーーーーーッ！！\n　オイラが　世界中のおカネを\n　奪ってやるんだニャァアアアアアアアッ！！": "Monsieur Cat Aaaaaahーーーーーッ !! Je vais voler\ntout l'argent du monde,\nMiaouuuuuuuuuuuuuuuuuuuuuuuuuuッ !!"
+    "194727": {
+        "「私は　そんな場所　興味なかったから\n　テキトーに　聞き流してたんだけど　たしか\n　そこで　大事なヒトに　再会したいって……。": "Je n'etais pas vraiment interesse par cet\nendroit, alors j'ecoutais distraitement, mais\nil me semble qu'il disait vouloir retrouver<br>une personne importante la-bas..."
     },
-    "181646": {
-        "「……みんな　不幸で　いいワケないでしょ。": "...Tout le monde ne peut pas etre malheureux,\nn'est-ce pas ?"
+    "194728": {
+        "「ファヒータ！　その情報　とても役に立つわ！\n　あの悪魔はきっと　海底の牢獄で\n　クァバルナを　復活させるつもりよ。": "Fajita ! Cette information est tres utile ! Ce\ndemon a surement l'intention de ressusciter\nQuabalna dans la prison sous-marine."
     },
-    "181647": {
-        "「そんなチカラを　持ってるんだったら\n　泣いている誰かを　笑わせてみなさいよ\n　この　勘違い猫ーーーーーーッ！！": "Si tu possedes un tel pouvoir, fais donc\nsourire quelqu'un qui pleure, espece de chat\npretentieux !"
+    "194729": {
+        "「<pc>　覚えてるよね？\n　あなたが最初に　クァバルナを倒した場所よ。": "<pc>, tu te souviens, n'est-ce pas ?\nC'est l'endroit ou tu as vaincu Kuwabarna pour\nla premiere fois."
     },
-    "181648": {
-        "「ニャァアアアアアアアアッ！！": "Nyaaaaaaa !!"
+    "194730": {
+        "「フン。それじゃあ　さっそく　そこへ行って\n　アイツを切り刻んでやれば　いいのね？": "Hmph. Dans ce cas, allons-y immediatement, et\ndecoupons cet individu en morceaux, n'est-ce\npas ?"
     },
-    "181649": {
-        "「き……効いたにゃぁ…………。": "Ca... ca a marche, miaou..."
+    "194731": {
+        "「ええ。ピンチョを助けた上でね。": "Oui. En aidant Pincho, bien sur."
     },
-    "181650": {
-        "「まったく…………": "Vraiment..."
+    "194732": {
+        "「……ちょっと　考えがあるの。\n　<pc>は　先に海底の牢獄へ向かってて。\n　ファヒータは　私と一緒に　来てくれない？": "J'ai une idee. <pc>, va d'abord a la\nPrison Sous-Marine. Fajita, pourrais-tu venir\navec moi ?"
     },
-    "181651": {
-        "「…………不器用な　カミサマだね。": "........Un dieu maladroit, n'est-ce pas."
+    "194733": {
+        "「誰が　アンタの言うことなんか……って\n　言いたいところだけど　アンタのことだから\n　どうせまた　何か企んでるんでしょ。": "Qui ecouterait ce que tu dis... J'aimerais\ndire ca, mais vu que c'est toi, tu dois\nsurement encore comploter quelque chose."
     },
-    "181652": {
-        "「うにゃあ～　よく寝たニャ～～ン！": "Ouah, j'ai bien dormi, miaouuu !"
+    "194734": {
+        "「いいわ。乗ってあげる。\n　アンタのその悪知恵には\n　さんざん　してやられたからね。": "D'accord. Je vais te suivre. Tu m'as bien eu\navec tes ruses sournoises."
     },
-    "181653": {
-        "「なっ……！　アンタ　死んだんじゃないの！？": "Quoi... ! Tu n'etais pas mort !?"
+    "194735": {
+        "「ふふっ。ありがとう　ファヒータ。\n　それじゃ　<pc>は\n　先に　海底の牢獄に　向かってて。": "Fufufu. Merci, Fajita. Alors, <pc>,\nrends-toi d'abord a la prison sous-marine."
     },
-    "181654": {
-        "「ボクは　ゴールドニャン。\n　ヒトに　莫大な富をもたらす　ありがた～い\n　神様ニャン。お供えするニャン！": "Je suis Gold Cat. Je suis l'adorable dieu qui\napporte une immense fortune aux humains.\nOffrez-moi vos offrandes, nyan !"
+    "194736": {
+        "「向こうでは　何が起こるかわからないから\n　準備は　万全にして行ってね。\n　それじゃ　また後で！": "La-bas, on ne sait jamais ce qui peut arriver,\nalors assure-toi d'etre bien prepare avant de\npartir. A plus tard !"
     },
-    "181655": {
-        "「これまで　ボクのチカラで　裕福になった人達は\n　財産や　地位や名声を　失うことを恐れて\n　ひたすら　求め続けるばかりだったけど……": "Jusqu'a present, les personnes qui sont\ndevenues riches grace a mon pouvoir\ncraignaient de perdre leur fortune, leur<br>statut ou leur renommee et ne faisaient que\nchercher sans cesse..."
+    "194737": {
+        "「オン　マルィーヤ……。\n　ダマトゥーン　サラトゥーン\n　ザワン　イサ　クァバルナ……。": "On マルィーヤ ダマトゥーン サラトゥーン ザワン イサ クァバルナ"
     },
-    "181656": {
-        "「アンタしゃんは　見知らぬ誰かを　救うために\n　惜しみなく　自らのゴールドを投げうったニャ。": "Anta-san a genereusement sacrifie son propre\nGold pour sauver un inconnu."
+    "194738": {
+        "「永劫の輪を巡りし　我が主\n　天魔クァバルナよ……。今ふたたび\n　その御身　この地に現したまえ……。": "O mon Seigneur, toi qui parcours la roue\neternelle, Kukulkannibal... Que ton etre\nrevienne a nouveau en ce lieu..."
     },
-    "181657": {
-        "「その　イチから　己のチカラで稼いだという\n　プライドと信念の宿った　浄財に打たれることで\n　ボクは　元のカミサマに戻れたのニャー。": "En etant touche par les fonds purs que tu as\ngagnes par tes propres efforts, avec fierte et\nconviction, j'ai pu redevenir le Dieu que<br>j'etais autrefois, nya."
+    "194739": {
+        "「お……おお…………。\n　その　美しいお姿を　目にすることを\n　どれほど　夢見ていたか……！！": "Oh... oh... Combien j'ai reve de contempler\ncette belle apparence... !!"
     },
-    "181658": {
-        "「は……はは。なるほどね。\n　悪霊が　元の善神に　戻ったってワケね。": "Ha... haha. Je vois. L'esprit malefique est\nredevenu le dieu bienveillant qu'il etait\nautrefois."
+    "194740": {
+        "「お待ちしておりました　クァバルナ様……。\n　あなたの忠実な下僕　キェルグでございマス。\n　共に　この大陸を　滅ぼしてくれましょうゾ！": "Je vous attendais, Quabalna-sama... Je suis\nvotre fidele serviteur, Kjelg. Ensemble,\ndetruisons ce continent !"
     },
-    "181659": {
-        "「誰かひとりだけ　裕福にするカミサマなんて\n　もう　ケチくさくて　ナンセンスにゃ。\n　廃業ニャ！　転職ニャ！": "Un dieu qui rend riche une seule personne,\nc'est tellement mesquin et absurde. Je ferme\nboutique ! Je change de metier !"
+    "194741": {
+        "「……我ガ　従僕　キェルグよ。\n　このたびの働きヲ　まずは　ほめてヤロウ。\n　よくやッタ……。": "......O mon serviteur, Kyerug. Je te felicite\nd'abord pour ton travail cette fois-ci. Tu as\nbien agi......"
     },
-    "181660": {
-        "「これからは　みんなが幸せになれるよう\n　不幸なヒトに　ちょっぴり　手を貸す\n　イキで　だんでぃーな　カミサマになるニャー。": "A partir de maintenant, je vais devenir un\ndieu elegant et distingue qui prete un petit\ncoup de main aux personnes malheureuses pour<br>que tout le monde puisse etre heureux."
+    "194742": {
+        "「ハッ。ありがたき　お言葉……！": "Ha. Je vous remercie pour vos paroles\nbienveillantes… !"
     },
-    "181661": {
-        "「さーて　これ以上　こんな俗世間にいたら\n　徳が下がるから　元いた場所に　帰るのニャ。\n　バイバイニャーン！": "Bon, si je reste plus longtemps dans ce monde\nprofane, ma vertu va en patir. Je retourne\ndonc a l'endroit d'ou je viens. Bye bye nyaan<br>!"
+    "194743": {
+        "「我のために　ここまで尽くしてくれる\n　従僕は貴様だけダ……。さア　久しい再会ダ。\n　貴様ノ　真の姿ヲ　我が前ニ……。": "Pour moi, tu es le seul serviteur qui se\ndevoue autant... Alors... Cela faisait\nlongtemps que nous ne nous etions pas revus.<br>Montre-moi ta veritable apparence devant\nmoi..."
     },
-    "181662": {
-        "「まったく　人騒がせな　カミサマだね。": "Quel dieu troublant et inquietant."
+    "194744": {
+        "「仰せのままに……。": "A vos ordres..."
     },
-    "181663": {
-        "「ハハ……私　こんなんだから\n　どこの誰かもわかんない　奴らに\n　命を狙われることも　少なくなくてさ。": "Haha... Je suis comme ca, alors il n'est pas\nrare que ma vie soit menacee par des inconnus."
+    "194745": {
+        "「本当に　大儀であッタナ…………。": "Vraiment, cela a ete un grand honneur..."
     },
-    "181664": {
-        "「前に　信じられるヒトは\n　数少ない身内だけ……って言ったじゃない？\n　あの時は　確かに　そうだったんだけど……": "Avant, je disais que les seules personnes en\nqui je pouvais avoir confiance etaient les\nrares membres de ma famille... N'est-ce pas ?<br>A ce moment-la, c'etait vrai, mais..."
+    "194746": {
+        "「……ま　全部　ムダだったけどね。": "...Eh bien, tout cela a ete en vain, n'est-ce\npas ?"
     },
-    "181665": {
-        "「でも　ここまで付き合ってくれた\n　お人よしな　君のこと……\n　今では　信頼に足るヒトだって　確信してる。": "Mais le fait que tu m'aies accompagne\njusqu'ici, avec ta gentillesse... Je suis\nmaintenant convaincu que tu es une personne<br>digne de confiance."
+    "194747": {
+        "「天知る！　地知る！　人ぞ知る！": "Le ciel le sait ! La terre le sait ! Les gens\nle savent !"
     },
-    "181666": {
-        "「いろいろ　ありがとね。\n　優秀な　ボディーガードさん♪": "Merci pour tout. Excellent garde du corps-san\n♪"
+    "194748": {
+        "「美少女怪盗団　ポイックリンズ！\n　トリオになって\n　華麗に　参上でございますわっ！": "La bande des jolies voleuses, les Poikurins !\nNous voici, sous la forme de Leo, faisant une\nentree eclatante !"
     },
-    "181667": {
-        "「さっ！　<cs_pchero>。帰ろ！": "Allez ! <cs_pchero>. Rentrons !"
+    "194749": {
+        "「ふたりとも！\n　早く　ピンチョを安全な場所へ！": "Vous deux ! Vite, mettez Pincho en lieu sur !"
     },
-    "181668": {
-        "「今度こそ　オマエらの\n　息の根を止めにゃいとニャーーーーッ！！": "Cette fois, je vais definitivement vous faire\ntaire, nyahhhhh !!"
+    "194750": {
+        "「キェエエーーーッ！？　なぜダ！\n　なぜ　お前らが　ここにいるッ！？\n　召喚の儀は　間違イなく　成功したハズ……！": "Kieeeeeeeeeeeeeeeeeeeeeeeeeeッ！？ Pourquoi ?\nPourquoi etes-vous ici !? Le rituel\nd'invocation a certainement reussi... !"
     },
-    "181669": {
-        "「イヤ～ン<heart>　デビルニャン様ったらぁ～！": "Oooh <heart> ! Devil Cat-sama, voyons !"
+    "194751": {
+        "「ふふ。本当に　私が　３つの秘宝を\n　みすみす　盗まれたと思っていたの？\n　あなたのねらいは　最初からお見通しだったわ。": "Fufufu. Tu pensais vraiment que j'avais laisse\nles trois tresors se faire voler sous mon nez\n? J'avais devine tes intentions depuis le<br>debut."
     },
-    "181670": {
-        "「ダメですニャ～！　いけない　お方っ<heart>": "C'est non, miaou~ ! Vous etes une personne\nvilaine<heart>"
+    "194752": {
+        "「あなたが盗んだ　双角のかぶと　虚無の瞳\n　風の腰布……。あれらは全て　あらかじめ私が\n　ニセモノに　すり替えておいた物だったの。": "Le Horned Helmet, l'OEil du Neant, le Vetement\ndu Vent que tu as voles... En realite, tous\nces objets avaient deja ete remplaces par de<br>fausses repliques que j'avais preparees a\nl'avance."
     },
-    "181671": {
-        "「ニャフフッ！　ういヤツよの～。": "Nyafufu ! Quelle charmante creature~."
+    "194753": {
+        "「秘宝がなければ　クァバルナも復活しない。\n　つまり　あなたの作戦は\n　最初から　詰んでいたのよ！！": "Sans les tresors, Kuwabarna ne peut pas\nrenaitre. Autrement dit, ton plan etait voue a\nl'echec des le depart !!"
     },
-    "181672": {
-        "「お～い　そこの者よ。マタタビジュースにゃ！\n　マタタビジュース　持ってこ～い！": "He, toi la-bas ! Un jus de matatabi, miaou !\nApporte-moi un jus de matatabi !"
+    "194754": {
+        "「キキェーッ！？\n　あ…悪魔をダマすなんて\n　なんて　極悪なヤツらなんですカッ！！": "Kikiェーッ！？ Ah... Tromper un demon, quel etre\nmalefique oserait faire ca !!"
     },
-    "181673": {
-        "「ニャ……にゃにをするニャ！\n　この　不届き者！": "Nyah... Que fais-tu, nyah ! Espece d'insolent\n!"
+    "194755": {
+        "「私を怒らせたことを　あの世で\n　たっぷり　後悔させてやりマスヨッ！！\n　キェエエエエエーーーーーーーッ！": "Je te ferai amerement regretter de m'avoir\nmise en colere dans l'autre monde avec ma\nlance, Massayo !! Kyaaaaaaaahーーーッ !"
     },
-    "181674": {
-        "「黙れ　この　むっちりスケベ。\n　文字どおり　ドロボウ猫のオマエが奪った\n　みんなの財産　耳をそろえて　返してもらうよ！": "Tais-toi, espece de coquine grassouillette.\nToi, veritable chat voleur, tu vas nous rendre\ntous les biens que tu as derobes, et en<br>totalite !"
+    "194756": {
+        "「クソッ！　高貴なる　悪魔の私が……\n　こんな小娘に　敗れ…る……など……。": "Merde ! Moi, le noble demon... etre vaincu par\nune gamine comme toi..."
     },
-    "181675": {
-        "「フシャーッ！！\n　むっちりでも　ドロボウ猫でもないニャン！ ": "Fshaaah !! Je ne suis ni potele ni un chat\nvoleur, nya !"
+    "194757": {
+        "「ファヒータ……。\n　そ…その　いろいろと　ごめん。": "Fajita... Je... je suis desole pour tout."
     },
-    "181676": {
-        "「オイラ　人間の財産を　根こそぎ奪う\n　最凶の悪霊ニャン！　おそれろニャン！": "Je suis le plus redoutable des esprits felins,\ncelui qui depouille les humains de tous leurs\nbiens ! Tremblez devant moi, Nyan !"
+    "194758": {
+        "「だけど　こ…今度こそ　僕は……": "Mais cette fois-ci... je vais vraiment..."
     },
-    "181677": {
-        "「アンタが何者だって　カンケーない。\n　私は　理不尽に　人を不幸にする\n　アンタを　見逃しはしない。": "Peu importe qui tu es. Je ne laisserai pas\npasser quelqu'un comme toi, qui rend les gens\nmalheureux sans raison."
+    "194759": {
+        "「いいの。もう　気にしないで。\n　私にも　いたらないところがあったのだから。": "C'est bon. Ne t'inquiete plus. J'avais aussi\nmes propres defauts."
     },
-    "181678": {
-        "「ニャハッ！　いいことを　教えてやるニャ。\n　オイラ　もともとは　人々に莫大な富をもたらす\n　ありがた～い　カミサマだったのニャ！": "Nyaha ! Je vais te reveler un secret. A\nl'origine, j'etais un dieu tres venere qui\napportait une immense richesse aux gens, nyah<br>!"
+    "194760": {
+        "「ファヒータ……。そ　それじゃ……。": "Fajita... A-alors..."
     },
-    "181679": {
-        "「だけど　欲深い奴らが　オイラの像をめぐって\n　だましあい　裏切りあい　命まで奪いあうのを\n　イヤというほど　見せられて……": "Mais j'ai ete contraint de voir les hommes\navides se battre pour ma statue, se tromper,\nse trahir et meme s'entretuer..."
+    "194761": {
+        "「私って　一度こうだと思い込むと　他のことが\n　何も　見えなくなってしまうから……\n　真実の愛を　見失ってしまっていたの。": "Je suis du genre a ne plus rien voir d'autre\nune fois que je me mets une idee en tete...\nJ'en ai perdu de vue le veritable amour."
     },
-    "181680": {
-        "「お金なんかあるから　ヒトはおかしくなるニャ！\n　あんなモノ　ぜーんぶ　オイラが奪っちゃえば\n　ヒトの世界から　争いは無くなるのニャ！": "L'argent rend les gens fous, miaou ! Si je\nm'emparais de tout ca, les conflits\ndisparaitraient du monde des humains, miaou !"
+    "194762": {
+        "「でも今回　あなた達に　助けられたことで\n　誰かを　本当に愛するっていうことが\n　どういうことなのか　気づくことができたわ。": "Mais cette fois, grace a votre aide, j'ai pu\nrealiser ce que cela signifie vraiment d'aimer\nquelqu'un."
     },
-    "181681": {
-        "「……そう思ってたら　いつの間にか\n　ヒトの財産を　根こそぎ奪う\n　悪霊に　なってたニャ。": "...En y pensant, je suis devenu, sans m'en\nrendre compte, un esprit malefique qui derobe\nles biens des gens."
+    "194763": {
+        "「うん　ぼ　僕も　そうなんだ。\n　だから　もう一度……。": "Oui, mo... moi aussi. C'est pourquoi, encore\nune fois..."
     },
-    "181682": {
-        "「みーんな等しく　ビンボーになって\n　みーんな等しく　不幸せになれば\n　仲良く　助け合って　暮らすハズにゃん！": "Si tout le monde devenait pauvre de maniere\negale et que tout le monde devenait egalement\nmalheureux, alors nous devrions vivre ensemble<br>et nous entraider amicalement, n'est-ce pas !"
+    "194764": {
+        "「もう　迷わないわ……。\n　優しくて　強くて　かっこいい\n　私の運命のヒト……。": "Je ne douterai plus... La personne de mon\ndestin, douce, forte et admirable..."
     },
-    "181683": {
-        "「ニャッ！？\n　オマエ　さては　かなりの　大富豪だニャ？\n　おカネのニオイが　プンプンにゃ！": "Quoi !? Serais-tu un grand magnat, par hasard\n? Je sens l'odeur de l'argent partout !"
+    "194765": {
+        "「ファヒータ…………。": "Fajita..."
     },
-    "181684": {
-        "「争いを生むだけの　おカネなんて\n　オイラが　根こそぎ奪ってやるニャ！\n　最凶の悪霊のチカラ　とくと見ろニャーン！": "L'argent qui ne fait que provoquer des\nconflits, je vais tout vous prendre, miaou !\nRegardez bien la puissance de l'esprit<br>malefique le plus redoutable, miaou !"
+    "194766": {
+        "「ポイックリン……。\n　アナタこそ　私の愛……。": "Poikku-rin... Tu es mon amour..."
     },
-    "181685": {
-        "「私を　そんじょそこいらの　小金持ちと\n　一緒にしないでちょうだい。": "Ne me confonds pas avec un riche quelconque du\ncoin, s'il te plait."
+    "194767": {
+        "「えっ…………？": "Euh... ?"
     },
-    "181686": {
-        "「自分の才能だけで　ここまで稼いだ女のチカラ\n　とくと　見せてあげるッ！！": "Je vais te montrer la puissance d'une femme\nqui a reussi a gagner autant par son seul\ntalent !"
+    "194769": {
+        "「今回　自分より　頼りがいのあるヒトに\n　リードされているうち\n　今までにない感情が　芽生えてきたのよ……。": "Cette fois, en etant guidee par quelqu'un de\nplus fiable que moi, des sentiments que je\nn'avais jamais ressentis auparavant ont<br>commence a eclore..."
     },
-    "181687": {
-        "「サイッコーに　ゴージャスに　してあげる！\n　うまくいくよう　祈ってなさい！": "Je vais te rendre absolument magnifique ! Prie\npour que ca fonctionne bien !"
+    "194770": {
+        "「だから　婚約のことは　もういいの。\n　お互いスッキリ　水に流して　忘れましょ！": "Donc, oublions nos fiancailles. Mettons tout\ncela derriere nous et passons a autre chose !"
     },
-    "181688": {
-        "「アイツの能力は　けっこー　厄介だからね。\n　リーネさんも　全力を出せるよう\n　戦闘服に　着替えさせてもらったよ！": "Ses capacites sont assez embetantes, tu sais.\nRenee-san, je t'ai permis de te changer en\ntenue de combat pour que tu puisses donner le<br>meilleur de toi-meme !"
+    "194771": {
+        "「えぇええええ～～～ッ！？\n　そ…そんなぁ～～～～～！！": "Eh, quoi !? Qu... Quoi... !!"
     },
-    "181689": {
-        "「……にゃんか　オマエ　すっごく\n　イヤな感じがするニャ。": "…Miaou, j'ai une tres mauvaise impression de\ntoi, miaou."
+    "194772": {
+        "「ふふ。ひとまず　一件落着……\n　って　とこかしら？": "Fufu. Pour l'instant, on peut dire que\nl'affaire est reglee... n'est-ce pas ?"
     },
-    "181690": {
-        "「オイラのカン　かなり　当たるんだニャ。\n　だから…………": "Je fais souvent confiance a mon instinct, tu\nsais. Alors..."
+    "194773": {
+        "「一度　クァバルナが　復活してしまえば\n　それを封印するために\n　必ず　誰かの　犠牲が必要になる……。": "Une fois que Kuwaburna sera ressuscite, pour\nle sceller a nouveau, il faudra inevitablement\nle sacrifice de quelqu'un..."
     },
-    "181691": {
-        "「ここで　オマエらの息の根を\n　止めておかにゃいとニャァーーーーッ！！": "Ici, je dois mettre fin a vos jours,\nmiaouuuuuu !"
+    "194774": {
+        "「いろいろ黙っていて　ごめんね。\n　それでも　協力してくれて　ありがとう。": "Je suis desole de t'avoir cache tant de\nchoses. Merci quand meme pour ton aide."
     },
-    "181692": {
-        "「<pc>　来るよ！\n　気をつけてッ！": "<pc> arrive ! Fais attention !"
+    "194775": {
+        "「本当だよ！　水くさいねえ！\n　ヒーローってのは　孤独なモンなのかも\n　しれないけどさあ……。": "C'est vrai ! Ne sois pas si distant !\nPeut-etre que les heros sont voues a etre\nsolitaires..."
     },
-    "181693": {
-        "「オラァ！　さっさとしろッ。\n　ここはもう　オマエらのモンじゃ　ねぇんだ！": "Allez ! Depechez-vous. Cet endroit ne vous\nappartient plus !"
+    "194776": {
+        "「もう　あたい達３人は　美少女怪盗団\n　ポイックリンズの　仲間なんだから\n　ひとりで　抱え込むんじゃないよ！": "Nous faisons maintenant partie toutes les\ntrois du groupe des jolies voleuses, les\nPoikurins ! Ne garde pas tout pour toi toute<br>seule !"
     },
-    "181694": {
-        "「テメェら　さっさと出ていけやッ！": "Sortez d'ici, tout de suite !"
+    "194777": {
+        "「ふふっ。ありがとう　ダルル。\n　それじゃ最後に　いつもの\n　いってみましょうか！": "Fufu. Merci, Darul. Alors pour finir, faisons\ncomme d'habitude !"
     },
-    "181695": {
-        "「おまえたち……本当にすまない……。": "Vous... Je suis vraiment desole..."
+    "194778": {
+        "「それでは皆さん　ごきげんよう。": "Sur ce, mesdames et messieurs, portez-vous\nbien."
     },
-    "181696": {
-        "「あ……あの日……突然　全財産が\n　消えたりしなければ　こんなことには……。": "Ah... ce jour-la... Si seulement toute ma\nfortune n'avait pas disparu soudainement, rien\nde tout cela ne serait arrive..."
+    "194779": {
+        "「チリも残さず\n　キレイに退散ですわっ！": "Pas un grain de poussiere ne restera, je vais\ntout nettoyer avec soin !"
     },
-    "181697": {
-        "「うっうっ……やだ　やだぁ！\n　おばあちゃんがくれた　ピアノは\n　絶対に　持っていくのっ！": "Snif… Non, non ! Je ne veux pas ! Le piano que\nma grand-mere m'a donne, je l'emmenerai\nabsolument avec moi !"
+    "199198": {
+        "「そして　<cs_pchero>。\n　これは　私たちからの　お礼よ。\n　よかったら　受け取って。": "Et <cs_pchero>. C'est un cadeau de notre part.\nSi cela te fait plaisir, accepte-le."
     },
-    "181698": {
-        "「無理を　言わないで……。\n　私たちが　これから住む所に\n　あんな大きなものは　置けないのよ。": "Ne dis pas des choses impossibles... Nous ne\npouvons pas mettre quelque chose d'aussi grand\nla ou nous allons vivre."
-    },
-    "181699": {
-        "「ひどい……ひどいよぉ……。\n　大好きだった　おばあちゃんの\n　のこしてくれた　大切なものなのに……っ！": "C'est horrible... C'est vraiment horrible...\nC'etait un precieux souvenir de ma grand-mere\nque j'aimais tant... !"
-    },
-    "181701": {
-        "「うわああああーーーーーん！！": "Ouuuaaahhh !!!"
-    },
-    "181702": {
-        "「…………っ。": "っ."
-    },
-    "181703": {
-        "「……急ごう。<pc>。": "......Depechons-nous. <pc>."
-    },
-    "188445": {
-        "「おばあちゃんと　たくさん練習した\n　思い出の　ピアノなのに……っ！": "C'est le piano avec lequel j'ai tant pratique\navec grand-mere, plein de souvenirs... !"
-    },
-    "189499": {
-        "「……ピアノも　ちゃんと取り戻せた？": "As-tu pu recuperer le piano correctement ?"
-    },
-    "189500": {
-        "「はい　抜かりなく。\n　ツバクロ組から　買い戻して\n　例の家族のもとへ　送り届けました。": "Oui, tout a ete fait sans faille. J'ai rachete\na la bande Tsubakuro et livre a la famille en\nquestion."
+    "199199": {
+        "「だから　もう二度と\n　そんな犠牲を　出させたりしない。\n　あのとき　私は　そう誓ったの。": "Donc, je ne laisserai plus jamais un tel\nsacrifice se produire. A ce moment-la, j'ai\nfait ce serment."
     }
 }
