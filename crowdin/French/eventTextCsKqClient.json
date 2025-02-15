@@ -1,29 +1,29 @@
 {
-    "49178": {
-        "「どうやら　女神の黄玉石は\n　無事　光の河に捧げられたようです。": "Il semble que le Joyau de la Deesse Jaune ait\nete offert avec succes a la Riviere de\nLumiere."
+    "51833": {
+        "「どうやら　女神の紅蓮石は\n　無事　光の河に捧げられたようだな。": "Il semblerait que le Joyau de la Deesse Rouge\nait ete offert avec succes a la Riviere de\nLumiere."
     },
-    "49179": {
-        "「さあ。女神に　祈りましょう。": "Allons-y. Prions la deesse."
+    "51834": {
+        "「では　女神に祈るがいい。": "Prie donc la deesse."
     },
-    "49180": {
+    "51835": {
         "<pc>は　祈りを捧げた。": "<pc> a offert une priere."
     },
-    "49181": {
+    "51836": {
         "どこからともなく　声が　聞こえてくる。": "Une voix se fait entendre de nulle part."
     },
-    "49182": {
+    "51837": {
         "<center>……聞け。\nアストルティアの子よ。": "......Ecoute. Enfant d'Astoltia."
     },
-    "49183": {
-        "<center>大いなる災い……\nその存在によって　魔瘴が\nアストルティアに　もたらされた。": "La grande calamite... A cause de cette entite,\nla malveillance magique a ete amenee sur\nAstoltia."
+    "51838": {
+        "<center>六聖陣は　アストルティアに\nあまたいる　英雄　聖者の中から\n特に優れた六名が選ばれ　誕生した。": "Les Six Sages ont ete choisis parmi les\nnombreux heros et saints d'Astoltia,\nselectionnes pour leur excellence<br>particuliere, et ainsi sont-ils nes."
     },
-    "49184": {
-        "<center>……そして　今は\n数百年ごとに訪れる　魔瘴の荒ぶりし時。": "...Et maintenant, c'est le moment ou la miasme\ndemoniaque se dechaine, une fois tous les\nquelques siecles."
+    "51839": {
+        "<center>六聖陣とは　招かれざる魔族どもから\nアストルティアを守る　聖なる盾……。": "Les Six Saints sont des Shields sacres qui\nprotegent Astoltia des demons indesirables..."
     },
-    "49185": {
-        "<center>この機に乗じ　魔族どもは\n大いなる災厄を呼びよせんと　暗躍を始める。": "Profitant de cette occasion, les demons ont\ncommence a manigancer pour invoquer un grand\ndesastre."
+    "51840": {
+        "<center>魔族どもの暗躍を阻止せんと　彼らは\n従者である聖使者らを率いて　異界の地へ向かい\n多くの命と引き換えに　戦いを制した。": "Afin de contrecarrer les machinations des\ndemons, ils ont conduit leurs fideles\nserviteurs, les saints messagers, vers le<br>monde des tenebres et ont remporte la bataille\nau prix de nombreuses vies."
     },
-    "49186": {
-        "<center>存続か　滅亡か……。\nアストルティアは　試練の時を迎えた。": "La survie ou la destruction... Astoltia fait\nface a une epreuve decisive."
+    "51841": {
+        "<center>魔瘴の荒ぶりし時が　巡りくるたび\n新たな六聖陣が生まれ　いつ果てるともない\n聖戦が　繰り広げられてきた……。": "A chaque fois que les tempetes demoniaques se\ndechainent, un nouvel ensemble des Six Saints\nnait, et une guerre sacree, sans fin en vue,<br>s'engage..."
     }
 }
