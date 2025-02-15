@@ -1,290 +1,242 @@
 {
-    "27616": {
-        "「猫島に　ヒポポ・サードンのことを\n　報告に行ったんニャが　マンマーさまに\n　追い返されちまったのニャ～。": "Je suis alle sur l'ile Cat Island pour faire\nmon rapport sur Hippo Sardon, mais la dame\nManma-sama m'a renvoye."
+    "22054": {
+        "「<pc>さん！\n　今の話　ボクも聞かせてもらいましたよ！\n　どうやら　有力な情報みたいですね！": "<pc>-san ! J'ai entendu la conversation\na l'instant aussi ! On dirait que c'est une\ninformation precieuse !"
     },
-    "27617": {
-        "「アヤツを　オレひとりのチカラで倒して\n　マンマーさまに　ゆるしてもらおうと\n　思っていたのにニャー……。": "Je pensais pouvoir le vaincre par mes propres\nmoyens et obtenir le pardon de Mamma-sama,\nmais..."
+    "22055": {
+        "「シエラ巡礼地は　たしか　ジュレットの町の南\n　ミューズ海岸から　ジュレー島下層大空洞に出て\n　東に渡った　レーナム緑野の北東にあったはず。": "Sierra Shrinelands se trouve bien au sud de\nJulet. Depuis la Cote de Muse, on atteint la\nGrande Caverne de l'ile de Lower Jule, puis en<br>traversant vers l'est, on arrive au nord-est\ndes Champs de Lenam."
     },
-    "27618": {
-        "「あー　ミャルジなら　いないニャ。\n　猫島の様子を　見にいってるのニャよ。": "Ah, Myarji n'est pas la. Elle est partie voir\ncomment les choses se passent sur Cat Island."
+    "22056": {
+        "「うん。行ってみる価値は　ありますね！\n　そこに　ドゥラくんがいないか\n　シエラ巡礼地を　くまなく探してみましょう！": "Oui. Ca vaut le coup d'y aller ! Explorons les\nSierra Shrinelands de fond en comble pour voir\nsi Dura-kun s'y trouve !"
     },
-    "27619": {
-        "「もう帰ってきても　いい頃なんだがニャー。\n　ミャルジのヤツ　遅いのニャー。": "Il devrait deja etre rentre a la maison, mais\nMyarji est en retard..."
+    "22057": {
+        "「ドゥラくん　海を見ながら\n　妙な気を起こしてなければ　いいけど……。\n　それでは　<pc>さん　行きましょう！": "Dura-kun, j'espere qu'il ne fait rien de\nbizarre en regardant la mer... Alors,\n<pc>-san, allons-y !"
     },
-    "27620": {
-        "「ニャーーーーーーーーッ！？": "Nyaaaaaaaaaaah!?"
+    "22058": {
+        "「ドゥラくん！！": "Dura-kun !!"
     },
-    "27621": {
-        "「リベ……リオさ……ま……。": "Ribe... Leo-sama..."
+    "22059": {
+        "「ラ　ラミザ王子……？\n　それに　<pc>さんも……。": "La... Prince Lamiza... ? Et <pc>-san\naussi..."
     },
-    "27622": {
-        "「ミャルジーっ。どうしたのニャー！\n　しっかりするのニャーーーー！！": "Myarjiー ! Que se passe-t-il, Nyah !\nReprends-toi, Nyahーーーー !!"
+    "22060": {
+        "「探したんだよ　ドゥラくん！\n　行き先も告げず　こんな所に来て……\n　いったい　何してるのさ！？": "Je t'ai cherche partout, Dura-kun ! Sans\nprevenir de ta destination, tu es venu ici...\nMais qu'est-ce que tu fais donc !?"
     },
-    "27623": {
-        "「大変でヤンス……。猫島が……猫島が\n　ヒポポ・サードンに　襲われてる……でヤンス。": "C'est terrible... Cat Island... Cat Island est\nattaquee par Hippo Sardon..."
+    "22061": {
+        "「お…落ち着いてください　ラミザ王子。\n　私は　花を摘みにきただけですよ。": "O... Calmez-vous, Prince Ramiza. Je suis\nsimplement venu cueillir des fleurs."
     },
-    "27624": {
-        "「リベリオの旦那……。アッシに　かまわず\n　マンマーさまと　ジュニアさまを……。\n　みんなを守りにいってほしい…でヤン……": "リベLeoの旦那アッシにかまわず マンマーさまとジュニアさまを\nみんなを守りにいってほしい…でヤン"
+    "22062": {
+        "「は…　花……？": "La... fleur... ?"
     },
-    "27625": {
-        "「…………ぐふっ。": "Gouh."
+    "22063": {
+        "「はい。これです。\n　シエラの花というのですが\n　ここにしか咲かない　貴重な花なのです。": "Oui. C'est ca. Elle s'appelle la Fleur de\nSierra, c'est une fleur precieuse qui ne\npousse qu'ici."
     },
-    "27626": {
-        "「うおーん　ミャルジーっ！\n　ミャルジよーーーーーーーっ！！": "Ouahー Myarjiー ! Myarjiーーー !!"
+    "22064": {
+        "「そうだったんだ。よかった……。\n　ドゥラくん　思いつめた顔をしてたから\n　ボクは　てっきり……。": "Ah, c'est donc ca. Je suis soulage...\nDura-kun, tu avais l'air tellement preoccupe\nque j'ai vraiment cru..."
     },
-    "27627": {
-        "「くっ……ミャルジよ。オレは　行くニャ。\n　オマエの死は　ムダにはしないのニャ……。": "Grr... Myarji. Je pars, nya. Ta mort ne sera\npas vaine, nya..."
+    "22065": {
+        "「私が　自ら　命を絶つのではないか…と？": "Vous pensez que je pourrais mettre fin a mes\njours moi-meme... ?"
     },
-    "27628": {
-        "「ヒポポ・サードン！　覚悟するのニャーーー！！": "Hippo Sardon ! Prepare-toi a recevoir ta\npunition, nyaaa !!"
+    "22066": {
+        "「う　うん……。": "Oui...."
     },
-    "27629": {
-        "「ミャギャッ！": "Miaou !"
+    "22067": {
+        "「お気づかい　ありがとうございます。\n　ですが　心配いりません。": "Merci pour votre sollicitude. Cependant, il\nn'y a pas lieu de s'inquieter."
     },
-    "27630": {
-        "「ちょっと　芝居が過ぎたでヤンスかねえ。\n　でも　これで　リベリオの旦那も\n　やる気が出たでヤンしょー。": "Peut-etre que j'en ai un peu trop fait, hein.\nMais avec ca, le patron de Libero doit etre\nmotive maintenant, non ?"
+    "22068": {
+        "「私には　まだ　やるべきことが\n　残っていますので……。": "Il me reste encore des choses a faire..."
     },
-    "27631": {
-        "「ミャハッ。<pc>さま。\n　アッシの死は　芝居でヤンしたが\n　猫島が危ないのは　本当のことでヤンス。": "Miaha ! <pc>-sama. Ma mort etait une\nmise en scene, mais le danger qui menace Cat\nIsland est bien reel."
+    "22069": {
+        "「それでは　失礼します。": "Sur ce, je vous laisse."
     },
-    "27632": {
-        "「ヒポポ・サードンが　大勢の手下を連れて\n　大暴れしてるんでヤンスよ！　": "Hippo Sardon seme le chaos avec une horde de\nsbires a ses cotes !"
+    "22070": {
+        "「え？　ドゥ…ドゥラくん！\n　今度は　どこへ行くの？": "Hein ? Dou... Dura-kun ! Cette fois, ou vas-tu\n?"
     },
-    "27633": {
-        "「仲間のネコたちが　応戦してるでヤンスが\n　どれだけ　持ちこたえられるか……。": "Les chats allies se defendent, mais combien de\ntemps pourront-ils tenir..."
+    "22071": {
+        "「モガレ修道院に　この花を\n　渡さなくてはならない人がいるのです。": "Il y a une personne au Monastere de Mogare a\nqui je dois remettre cette fleur."
     },
-    "27634": {
-        "「旦那は　カンジンなところで\n　ドジをかますことが　多いでヤンスから\n　<pc>さまの手も　借りたいのでヤンス。": "Mon mari a souvent tendance a faire des\nerreurs cruciales, je voudrais donc emprunter\nl'aide de <pc>-sama."
+    "22072": {
+        "「では……。": "Alors..."
     },
-    "27635": {
-        "「猫島に行って　リベリオの旦那と共に\n　サードンを　やっつけてほしいでヤンス。\n　よろしく　お願いするでえヤンス～！": "J'aimerais que vous alliez a l'ile des Chats\net que vous eliminiez le Saurdon avec M.\nLibeleo. Je compte sur vous !"
+    "22073": {
+        "「モガレ修道院……。\n　マザー・ヘレナがいた　ドゥラくんの故郷……。": "Monastere de Mogare... Le village natal de\nDura-kun, ou vivait Mere Helena..."
     },
-    "27636": {
-        "「ありがたミャー。<pc>さまは\n　猫島へ　向かってほしいでヤンス。": "Merci beaucoup. <pc>-sama, veuillez vous\ndiriger vers Cat Island, s'il vous plait."
+    "22074": {
+        "「<pc>さん　なにやら　胸騒ぎがします！\n　ボクたちも行きましょう　モガレ修道院に！": "<pc>-san, j'ai un mauvais pressentiment\n! Allons-y nous aussi au Monastere Mogare !"
     },
-    "27637": {
-        "「もちろん　アッシも行くでヤンスよ！\n　リベリオの旦那　待ってておくれでヤンス～。": "Bien sur, je viens aussi avec vous !\nAttendez-moi, maitre Libeo~."
+    "22075": {
+        "「ドゥラ……！？\n　修道院を捨てた　アンタが\n　今さら　何しにきたのさ？": "Dura... !? Toi qui as abandonne le monastere,\nqu'est-ce que tu viens faire ici maintenant ?"
     },
-    "27638": {
-        "「ミャー？　<pc>さまは\n　他の頼まれごとで　忙しいようでヤンスね……。": "Mya ? Il semble que <pc>-sama soit\noccupe avec d'autres demandes..."
+    "22076": {
+        "「それに……　マザー・ヘレナは\n　一緒じゃないのかい？": "Et... Mother Helena n'est-elle pas avec vous ?"
     },
-    "27639": {
-        "「そいつらを　すぐに片付けてきちゃあ\n　もらえねえでヤンスか。その間　アッシは\n　猫島の様子を　見てくるでヤンスから。": "Peux-tu t'occuper d'eux immediatement ?\nPendant ce temps, je vais aller voir comment\nca se passe sur Cat Island."
+    "22077": {
+        "「……ニニカ。とりあえず\n　これを　受け取ってくれないか。": "Ninika. Pour l'instant, pourrais-tu accepter\nceci ?"
     },
-    "27640": {
-        "「そんミャー……。<pc>さまは\n　リベリオの旦那を　見殺しにするって\n　そう言うんでヤンスかい？": "Son Myah... Est-ce que <pc>-sama va\nvraiment laisser mourir le mari de Ribel Leo\nen le regardant faire ?"
+    "22078": {
+        "「これって……。シエラの花？\n　あたいが　遠足のときに摘んできた……。": "Ca... c'est... La Fleur de Sierra ? Celle que\nj'ai cueillie lors de l'excursion..."
     },
-    "27641": {
-        "「……失礼しヤンした。<pc>さまが\n　そんなお人でねえことは　わかってるでヤンス。\n　猫島の様子を　見てくるでヤンスね……。": "Je vous prie de m'excuser. Je sais bien que\n<pc> sama n'est pas ce genre de\npersonne. Je vais aller voir comment se<br>portent les choses sur Cat Island..."
+    "22079": {
+        "「そう。そして　世話係になったオレが\n　すぐに　枯らしてしまった花だ。\n　あのときは　キミに　散々　恨まれたっけな。": "Oui, c'est ca. Et c'est moi, en tant que\nresponsable, qui ai fini par laisser cette\nfleur se faner. A ce moment-la, tu m'en as<br>beaucoup voulu."
     },
-    "27642": {
-        "「ミャハーッ。<pc>さま。\n　ヒポポ・サードンが　大勢の手下を連れて\n　猫島で　大暴れしてるんでヤンスよ！": "Myaha ! <pc>-sama. Hippo Sardon est en\ntrain de semer le chaos sur Cat Island avec\nune armee de sbires !"
+    "22080": {
+        "「当時は　子供だけで　あそこに行けなかったから\n　大人になったら　その罪滅ぼしをしようと\n　ずっと　思っていたんだ。": "A l'epoque, nous ne pouvions pas y aller seuls\nen tant qu'enfants, alors je m'etais promis de\nracheter cette faute une fois adulte."
     },
-    "27643": {
-        "「仲間のネコたちが　応戦してるでヤンスが\n　どれだけ　持ちこたえられるか……。\n　<pc>さまの　手も借りたいでヤンス。": "Les chats de notre groupe resistent, mais\ncombien de temps tiendront-ils... J'aimerais\naussi demander l'aide de <pc>-sama."
+    "22081": {
+        "「アンタが　この花のこと\n　覚えてるなんて　思わなかったよ……。\n　でも　なんで　今になって？": "Je ne pensais pas que tu te souviendrais de\ncette fleur... Mais pourquoi maintenant ?"
     },
-    "27644": {
-        "「猫島に行って　リベリオの旦那と共に\n　ヒポポ・サードンを　やっつけるのでヤンス。\n　よろしく　お願いするでえヤンス～！": "Je vais a l'ile aux Chats avec Monsieur Rebon\nLeo pour combattre Hippo Sardon. Je compte sur\nvous, merci beaucoup !"
+    "22082": {
+        "「意味なんてない。\n　ただ　借りを返したくなっただけだ……。": "Il n'y a pas de sens a tout ca. J'ai juste eu\nenvie de rendre la pareille, c'est tout..."
     },
-    "27645": {
-        "「ヒポポ・サードン！　キサマ……。\n　言いたいことは　それだけかニャッ！？": "Hippo Sardon ! Espece de... C'est tout ce que\ntu as a dire, miaou !?"
+    "22083": {
+        "「ドゥラ……？": "Dura... ?"
     },
-    "27646": {
-        "「おぬしにとって　悪い話ではないドン？\n　ワシと　手を組むだけでいいのだド。\n　この猫島で　好き放題できるドーン。　": "Ce n'est pas une mauvaise affaire pour toi,\nn'est-ce pas, dono ? Il te suffit de t'allier\na moi. Sur cette Cat Island, tu pourras faire<br>tout ce que tu veux !"
+    "22084": {
+        "「……私は　キミたちに\n　伝えなければならないことがある。": "......J'ai quelque chose a vous dire."
     },
-    "27647": {
-        "「その　やり方は　あいかわらずだニャ。\n　新しい手下たちも　うまいこと言って\n　仲間に　引き入れたんだニャ？": "Ce Spear est toujours le meme, n'est-ce pas ?\nIl a meme dit a tes nouveaux sbires qu'ils\netaient talentueux et les a recrutes, n'est-ce<br>pas ?"
+    "22085": {
+        "「マザー・ヘレナは……\n　もう　ここには帰ってこない。": "Mere Helena ne reviendra plus ici..."
     },
-    "27648": {
-        "「だが　このキャット・リベリオさまが\n　そんな甘い言葉に乗ると　思うニャよ！": "Mais ne pense pas que ce Purrgatroyd-sama se\nlaissera seduire par de telles paroles\nmielleuses !"
+    "22086": {
+        "「帰ってくることが　できないんだ……。": "Je ne peux pas revenir..."
     },
-    "27649": {
-        "「おぬしは　マンマーによって　猫島から\n　追いだされたのでは　なかったかド？\n　もはや　義理立てすることもないだドン？": "Ne t'avais-tu pas fait expulser de Cat Island\npar Manma ? Tu n'as plus besoin de te montrer\nloyal, n'est-ce pas ?"
+    "22087": {
+        "「………………………………。": ""
     },
-    "27650": {
-        "「……オレは　追いだされても\n　仕方のないことを　してしまったのニャ。": "Je ne peux m'en prendre qu'a moi-meme pour\navoir fait quelque chose qui m'a valu d'etre\nexpulse, nya."
+    "22088": {
+        "「……ウソだ。そんなのウソだ。\n　マザー・ヘレナが　魔物と　一緒に\n　封印されて　帰れなくなったなんて……。": "C'est impossible. Ce n'est pas vrai. Que Mere\nHelena ait ete scellee avec les monstres et\nqu'elle ne puisse plus revenir... c'est<br>impensable..."
     },
-    "27651": {
-        "「だからオレは　今ここで　キサマを倒して\n　その罪をつぐなうのニャ！！": "Voila pourquoi je vais te vaincre ici et\nmaintenant pour expier cette faute, nya !!"
+    "22089": {
+        "「ドゥラ……！　貴様ァァァァ……！！\n　お前が　ついていながら　マザー・ヘレナを\n　見殺しにしたって言うのか！？　ああッ！？": "Dura... ! Espece de... !! Alors tu etais la,\net tu as laisse Mother Helena mourir !? Ahh !?"
     },
-    "27652": {
-        "「ドーン！　ドーン！！": "BOUM ! BOUM !"
+    "22090": {
+        "「うえぇぇぇん！　返してよ……！！\n　あたしたちの　マザー・ヘレナを返してよ！\n　返してよう！！": "Ouuin ! Rendez-la-nous... !! Rendez-nous notre\nMother Helena ! Rendez-la-nous !!"
     },
-    "27653": {
-        "「ドハハハァッ！　ならば　相手になるドン。\n　かかってくるがいいドーン！！": "Dohohoho ! Dans ce cas, je serai ton\nadversaire, Don. Viens m'affronter, Doon !!"
+    "22091": {
+        "「……すまない。\n　今の私には　どうすることもできないのだ。": "Je suis desole. En l'etat actuel, je ne peux\nrien faire."
     },
-    "27654": {
-        "「<cs_pchero>！　手出し無用ニャ。\n　これは　決闘なのニャーーー！！": "<cs_pchero> ! N'interviens pas. C'est un duel\n!"
+    "22092": {
+        "「……だが　キミたちに\n　だまっているわけには　いかなかった。\n　だから　それだけ　伝えにきたんだ。": "…Cependant, je ne pouvais pas vous cacher\ncela. C'est pourquoi je suis venu seulement\npour vous le dire."
     },
-    "27655": {
-        "「…………ニャギャッ！？": "…Nyaaaah !?"
+    "22093": {
+        "「私のことを　恨んでくれて構わない。\n　この修道院にも　もう二度と　足を運ばない。\n　本当に　すまなかった……。": "Il n'y a pas de probleme si tu me detestes. Je\nne remettrai plus jamais les pieds dans ce\nmonastere. Je suis vraiment desole..."
     },
-    "27656": {
-        "「ドハハッ！　猫魔族界　最強の剣豪の名が\n　聞いて　あきれるドン。": "Do haha ! Le nom du plus grand epeiste du\nroyaume des Nekomazoku n'est pas a prendre a\nla legere, don."
+    "22094": {
+        "「ドゥラ…くん……。": "Dura... kun..."
     },
-    "27657": {
-        "「ぐうっ……。\n　目つぶしとは　ひきょうニャ……。": "Ugh... Utiliser un coup bas comme un\naveuglement, c'est lache, nya..."
+    "22095": {
+        "「待ちな！　ドゥラ！": "Attends ! Dura !"
     },
-    "27658": {
-        "「おぬしは　群れがなくては　何もできない\n　しょせんは　あわれなノラネコだドン。": "Tu n'es rien sans ta meute, au final, tu n'es\nqu'un pauvre chat errant, Dono."
+    "22096": {
+        "「アンタ　これから　どうするつもりだい？\n　言いたいこと言って　死んじまおうだなんて\n　考えてるんじゃないだろうね？": "Qu'est-ce que tu comptes faire maintenant ? Tu\nne penses pas dire ce que tu veux et mourir,\nn'est-ce pas ?"
     },
-    "27659": {
-        "「さらばだドン。冥土へ旅立つがよいド。": "Adieu, Don. Pars en paix vers l'au-dela, Do."
+    "22097": {
+        "「………………………………。": ""
     },
-    "27660": {
-        "「……ぬおっ！？": "...Quoi !?"
+    "22098": {
+        "「アンタね。\n　死んで　責任逃れができるなんて思ったら\n　大間違いだよ！": "Toi la. Si tu penses qu'en mourant, tu pourras\nechapper a tes responsabilites, tu te trompes\nlourdement !"
     },
-    "27661": {
-        "「リベリオさまの　イチの子分。\n　ミャルジさま　参上でヤンス～！": "<liberLeo-sama> le premier subordonne.\n<myarji-sama> est arrive, yan-su~ !"
+    "22099": {
+        "「オレが　自分の命を　どうしようが勝手だ！\n　キミに指図されたくはない！": "Ma vie m'appartient, je fais ce que je veux\navec elle ! Je ne veux pas recevoir d'ordres\nde ta part !"
     },
-    "27662": {
-        "「生きていたのニャ　ミャルジ～～～！！\n　さすが　スーパー・不死身キャットなのニャ！": "Tu es vivant, Myarji～～～！！ Comme prevu, tu es\nvraiment un super chat immortel, n'est-ce pas\n!"
+    "22100": {
+        "「待ちな！": "Attends !"
     },
-    "27663": {
-        "「リベリオの旦那を　やろうっていうなら\n　相手になるでヤンスよ！": "Si tu veux t'en prendre a monsieur Ribleo, je\nserai ton adversaire, yansu !"
+    "22101": {
+        "「……あたいも　アンタに渡す物がある。": "Moi aussi, j'ai quelque chose a te donner."
     },
-    "27664": {
-        "「おぬしが　ワシと戦うだド？\n　ドハハハッ。笑わせるな　チビスケ。": "Toi, tu veux te battre contre moi ? Dohahahah\n! Ne me fais pas rire, petit morveux."
+    "22102": {
+        "「……これ。\n　マザー・ヘレナから　アンタにって。": "......Tiens. C'est de la part de Mere Helena\npour toi."
     },
-    "27665": {
-        "「ミャッ。アッシじゃないでヤンス。\n　そこにいる　<cs_pchero>さまが\n　相手になると言っているのでヤンス～！": "Meow. Ce n'est pas moi, voyez-vous. C'est\n<cs_pchero> sama la-bas qui dit qu'il va etre\nvotre adversaire !"
+    "22103": {
+        "「手紙？　マザー・ヘレナが　オレに……。": "Une lettre ? De Mother Helena... pour moi..."
     },
-    "27666": {
-        "「……ドハハハッ　リベリオは倒したドン。\n　もうワシに勝てる者など　おらんド！": "Doha ha ha ! J'ai vaincu Ribereo. Il n'y a\nplus personne qui puisse me battre maintenant\n!"
+    "22104": {
+        "「この間　アンタが使いを　よこした後\n　代筆を頼まれて　書いたんだ。\n　心して　読みな……。": "L'autre jour, apres que tu m'aies envoye un\nmessage, on m'a demande d'ecrire en utilisant\nun stylo de remplacement. Lis-le<br>attentivement..."
     },
-    "27667": {
-        "「どのみち　すべて　始末するつもりだドン。\n　おぬしから　冥土に送ってやるド。": "De toute facon, j'ai l'intention de tout\nregler, dono. Je vais commencer par t'envoyer\ndans l'au-dela, do."
+    "22105": {
+        "<center>ドゥラ。私の愛しい子。\n私の身に　何かあったときのため\n手紙を　残しておこうと思いました。": "Dura. Mon cher enfant. Je pense laisser cette\nlettre au cas ou quelque chose m'arriverait."
     },
-    "27668": {
-        "「<cs_pchero>とやら　覚悟するドーン！！": "<cs_pchero> et toi, prepare-toi, Doon !!"
+    "22106": {
+        "<center>あなたは　人一倍　正義感が強く\n誰よりも　思いやりのある　優しい子でした。": "Tu etais un enfant avec un sens aigu de la\njustice, et plus gentil que quiconque avec une\ndetermination inebranlable."
     },
-    "27669": {
-        "「<cs_pchero>さま　お願いするでヤンス！\n　ヒポポ・サードンを　やっつけて\n　ほしいんでヤンスよ！！": "<cs_pchero> sama, je vous en prie !\nPourriez-vous vaincre le Hippo Sardon pour moi\n?!!"
+    "22107": {
+        "<center>おなかを空かせた子がいたら　パンを分けあたえ\nお友達が　ガキ大将に　いじめられたと知ったら\nわき目もふらず　飛びだしていった。": "Si tu vois un enfant affame, partage ton pain\navec lui. Et si tu apprends que ton ami est\nharcele par un tyran, sans hesiter, cours a<br>son secours."
     },
-    "27670": {
-        "「ぬう？　おぬし　冥土に送ったと思ったが\n　まだ　生きておったのかドン。": "Hmm ? Je pensais t'avoir envoye dans\nl'au-dela, mais te voila encore en vie, Don."
+    "22108": {
+        "<center>そして　目の見えない　私を思いやって\nいつも　私の手を引いてくれましたね……。": "Et tu as toujours pris soin de moi, qui ne\npouvais pas voir, en me tenant la main..."
     },
-    "27671": {
-        "「ならば　今度こそ　戻ってこれぬよう\n　冥土の奥底へ　たたき落としてくれるドーン！": "Cette fois, je vais t'envoyer au plus profond\ndes Enfers, d'ou tu ne reviendras jamais, boum\n!"
+    "22109": {
+        "「……ね　ねえ　マザー・ヘレナ？": "… Dis, dis, Mere Helena ?"
     },
-    "27672": {
-        "「うぐっ……ドーン！？": "Ouf... Dooon !?"
+    "22110": {
+        "「なあに？　ドゥラ。": "Quoi donc ? Dura."
     },
-    "27673": {
-        "「ぬおお……ワシが敗れるだド……。\n　なんたる不覚……だドン……。": "Ouah... Je suis vaincu... Quelle erreur\nimpardonnable... Don..."
+    "22111": {
+        "「あ　あのね　ボクね。\n　マザー・ヘレナに　ひとつだけ\n　お願いがあるんだ……。": "Ah, euh, tu sais... J'ai une seule demande a\nte faire, Mere Helena..."
     },
-    "27674": {
-        "「ミャハッ。さすがでヤンス　<cs_pchero>さま。\n　リベリオの旦那も勝てなかった\n　サードンを　倒しちまうんでヤンスから。": "Mya-ha ! Comme prevu, <cs_pchero> sama. Vous\navez reussi a vaincre Sardon, que meme le\nmaitre LibeLeo n'a pas pu battre."
+    "22112": {
+        "「マザー・ヘレナのこと……\n　お母さん…　って呼んでもいい？": "A propos de Mere Helena... Est-ce que je peux\nl'appeler... maman ?"
     },
-    "27675": {
-        "「ぐっ……情けないのニャ……。\n　こんなんじゃ　マンマーさまに\n　ゆるしてもらえないのは　当然ニャ……。": "Gu... C'est pathetique, nya... Avec ca, il est\nevident que Maman-sama ne me pardonnera pas,\nnya..."
+    "22113": {
+        "<center>……しかし　手のアザに　気づいたときから\nあなたは　変わってしまった。": "......Cependant, depuis que vous avez remarque\nla marque sur votre main, vous avez change."
     },
-    "27676": {
-        "「リベリオよ。そなたは　これまで\n　<cs_pchero>に頼り　ソーミャに頼り……。\n　何をやるにしても　人まかせにしていたな。": "Ribeleo. Jusqu'a present, tu t'es repose sur\n<cs_pchero> et sur Sormya... Peu importe ce\nque tu faisais, tu laissais tout aux autres."
+    "22114": {
+        "<center>自分が　ドルワームの王子であることを\nみんなに　認めてもらうため\n自分を押し殺し　必死に勉強をした……。": "Pour que tout le monde reconnaisse que je suis\nle prince de Dolworm, j'ai reprime mes desirs\net etudie avec acharnement..."
     },
-    "27677": {
-        "「……しかし今　この猫島のため　命をかけて\n　ひとりで戦う姿　しかと見させてもらった。": "......Cependant, pour l'instant, pour cette\nile Cat Island, je t'ai vu te battre seul,\nrisquant ta vie."
+    "22115": {
+        "<center>まるで　王子でなければ\n自分には　生きている価値がないとでも\n感じているかのように……。": "C'est comme s'il ressentait que sa vie n'avait\naucune valeur s'il n'etait pas prince..."
     },
-    "27678": {
-        "「わらわは　そなたをゆるそう。\n　これからは　また以前のように\n　この島に身を置いて　かまわぬぞ。": "Je te pardonne. Desormais, tu peux a nouveau\nsejourner sur cette ile comme avant."
+    "22116": {
+        "<center>そして　私は　風の便りで　耳にしました。\n自分が　王子でないと知った　あなたは\nひどく落ち込んでしまったと……。": "Et j'ai entendu par des rumeurs que lorsque\nvous avez decouvert que vous n'etiez pas un\nprince, cela vous a terriblement abattu..."
     },
-    "27679": {
-        "「マンマーさま……ありがとうございますニャ。": "Merci beaucoup, Maman-sama... Miau."
+    "22117": {
+        "<center>けれど　ドゥラ。": "Mais c'est Dura."
     },
-    "27680": {
-        "「よかったね　リベリオ。\n　もう　ジュニアちゃんを　いじめちゃ\n　ダメなんだからね。": "C'est bien, Leo. Tu ne dois plus embeter\nJunior-chan, d'accord ?"
+    "22118": {
+        "<center>あなたは　その手で　人のためになる研究をし\nその手で　パンを分けあたえ　その手で……\n目の見えない私の手を　引いてくれたのです。": "Avec ces mains, vous avez mene des recherches\npour le bien des gens, partage le pain avec\nces mains, et avec ces mains... vous avez<br>guide mes mains aveugles."
     },
-    "27681": {
-        "「……ソーミャも　ありがとニャ。": "......Merci a toi aussi, Somya nya."
+    "22119": {
+        "<center>あなたの価値は　手のアザにあるのではなく\nあなたの手　そのものにあるのです。": "Votre valeur ne reside pas dans les marques\nsur votre main, mais dans votre main\nelle-meme."
     },
-    "27682": {
-        "「<cs_pchero>。心の友よ。\n　ヒポポ・サードンを　よくぞ倒してくれたニャ。\n　キサマには　本当に感謝するのニャ。": "<cs_pchero>Ami de coeur. Tu as bien vaincu\nHippo Sardon. Je te suis vraiment\nreconnaissant."
+    "22120": {
+        "<center>これからも　その手で\n多くの人を　救いなさい。\nあなたには　それができるのですよ。": "Continuez a sauver de nombreuses personnes\navec vos mains. Vous en etes capable."
     },
-    "27683": {
-        "「コイツは　オレのとっておきなのニャ。\n　受け取ってほしいのニャ。": "Celui-ci est mon prefere, nya. J'aimerais que\ntu l'acceptes, nya."
+    "22121": {
+        "「うう……。母さん……。\n　ヘレナ母さん……！": "Ooh... Maman... He, maman Lena... !"
     },
-    "27684": {
-        "「アッシからも　礼を言うでヤンス。\n　リベリオの旦那のために　いろいろと\n　ありがとうでヤンした　<cs_pchero>さま。": "Aussi, je tiens a vous remercier. Merci\nbeaucoup pour tout ce que vous avez fait pour\nle maitre Ribeleo, <cs_pchero> sama."
+    "22122": {
+        "「……ねえ　ドゥラ。アンタ　覚えてる？\n　マザー・ヘレナが　あたいたちに\n　いつも言っていた言葉……。": "Dis, Dura. Tu te souviens ? Mother Helena nous\nrepetait toujours ces mots..."
     },
-    "27685": {
-        "「これで　猫島の平和は守られた。\n　<cs_pchero>の名は　猫島の救世主として\n　わらわが　語り継ごう。": "Ainsi, la paix de Cat Island est preservee. Je\ntransmettrai le nom de <cs_pchero> en tant que\nSeigneur Sauveur de Cat Island."
+    "22123": {
+        "「……あなたたちは　両親の愛情には\n　恵まれなかったかもしれない。": "…Il est possible que vous n'ayez pas ete benis\npar l'affection de vos parents."
     },
-    "27686": {
-        "「これで　ジュニアちゃんも　安心できますね。\n　私は　町に帰ります　マンマーさん。": "Maintenant, Junior-chan peut etre tranquille.\nJe retourne en ville, Manma-san."
+    "22124": {
+        "「でも　見守っていてくれる人は　必ずいる。\n　その人たちのためにも\n　いつでも　精一杯　生きなさい……。": "Mais n'oublie pas, il y a toujours quelqu'un\nqui veille sur toi. Pour ces personnes aussi,\nvis toujours pleinement..."
     },
-    "27687": {
-        "「ソーミャ。そなたも　よく来てくれたな。": "Sohmya. Je te remercie d'etre venue."
+    "22125": {
+        "「だから　お願い　ドゥラ……。\n　自分から　命を絶とうなんて\n　もう二度と　思わないで……。": "Donc, s'il te plait, Dura... Ne pense plus\njamais a mettre fin a ta propre vie..."
     },
-    "27688": {
-        "「ううん。何もできなくて　ごめんなさい。\n　ジュニアちゃんが心配で　来ちゃっただけ。": "Non. Je suis desolee de ne rien pouvoir faire.\nJe suis juste venue parce que j'etais inquiete\npour Junior-chan."
+    "22126": {
+        "「手紙に書いてある通り\n　アンタには　あたいたちにはない才能がある。\n　それを信じて　がんばりな。": "Comme il est ecrit dans la lettre, tu possedes\nun talent que nous n'avons pas. Crois en toi\net donne le meilleur de toi-meme."
     },
-    "27689": {
-        "「ソーミャよ。そなたは　今\n　ひとりきりで　町で暮らしているのだったな。": "Somya. Tu vis seule en ville maintenant,\nn'est-ce pas ?"
+    "22127": {
+        "「……ありがとう　ニニカ。": "......Merci, Ninika."
     },
-    "27690": {
-        "「よければ　そなたも　ここで暮らさぬか？\n　ジュニアも　よろこぶぞ？": "Si tu le souhaites, pourquoi ne pas vivre ici\n? Junior serait ravi, tu sais."
+    "22128": {
+        "「私は　マザー・ヘレナと\n　キミたちによって……": "Je suis... par vous et Mother Helena..."
     },
-    "27691": {
-        "「ええっ？　そんな　私……。": "Eh ? Vraiment ? Moi..."
+    "22129": {
+        "「生きることを　ゆるされた…………。": "J'ai ete autorise a vivre..."
     },
-    "27692": {
-        "「……ありがとう　マンマーさん。\n　でも　それは　お断りします。": "......Merci, Manmaa-san. Mais je dois refuser\ncela."
+    "22130": {
+        "「よかったですね　ドゥラくん。\n　本当に　よかった……。": "Je suis content pour toi, Dura-kun. Vraiment\ncontent..."
     },
-    "27693": {
-        "「ひとりで生きていくのって　大変です。\n　でも　私は　ヒューザ兄ちゃんと約束したの。\n　誰にも頼らず　ひとりで生きていくって。": "Vivre seule, c'est difficile. Mais j'ai fait\nune promesse a Hyuza ani-chan. Je vivrai sans\ndependre de personne."
+    "22131": {
+        "「<pc>さん。\n　これまで　ありがとうございました。\n　どうか　ボクからのお礼　受け取ってください。": "<pc>-san. Merci pour tout jusqu'a\npresent. S'il vous plait, acceptez ce petit\ncadeau de ma part."
     },
-    "27694": {
-        "「もし　お父さんと　お母さんに会えたら\n　ふたりの子は　こんなに立派になったよって\n　言えるようになりたい。": "Si jamais je peux revoir mon pere et ma mere,\nj'aimerais pouvoir leur dire que leur enfant\nest devenu quelqu'un de si remarquable."
+    "22132": {
+        "「ドゥラくんは　もう大丈夫ですよね。\n　人生の宝物ともいえる　最高の贈り物を\n　母親から　もらったんですから。": "Dura-kun va bien maintenant. Il a recu le plus\nbeau des cadeaux, un veritable tresor dans la\nvie, de sa mere."
     },
-    "27695": {
-        "「だから……。ひとりでも　だいじょうぶです！": "Donc... Je peux me debrouiller seul !"
-    },
-    "27696": {
-        "「そなたは　強いな……。\n　そのような　ちいさな身体に\n　あふれんばかりの強い意志が　宿っている。": "Tu es vraiment fort... Dans ce petit corps,\nreside une volonte debordante de force."
-    },
-    "27697": {
-        "「そうか……。そうだったのニャ！": "Je vois... C'etait donc ca, nya !"
-    },
-    "27698": {
-        "「ひとりで　何かをやるってことは\n　誰かにやれって言われて　やることじゃない。\n　自分で考えて　生きていくことなのニャ。": "Faire quelque chose seul, ce n'est pas parce\nque quelqu'un te l'a demande. C'est reflechir\npar toi-meme et vivre ta vie, miaou."
-    },
-    "27699": {
-        "「マンマーさま。おゆるしをいただいたばかりで\n　申し訳ありませんが　私は猫島を離れて\n　ひとりで生きていこうと　思いますのニャ。": "Manma-sama. Je suis desole de demander cela\njuste apres avoir recu votre pardon, mais je\npense quitter Cat Island pour vivre par<br>moi-meme, nya."
-    },
-    "27700": {
-        "「よくぞ言った　リベリオよ。\n　そなたが　自分で決めたことだ。\n　わらわは　止めたりはせぬ。": "Tu as bien parle, LibeLeo. C'est une decision\nque tu as prise toi-meme. Je ne t'en\nempecherai pas."
-    },
-    "27701": {
-        "「だが　どこに行こうと　そなたは\n　我ら猫島の仲間だ。それを忘れぬようにな。": "Mais ou que tu ailles, tu restes un membre de\nnotre equipe de Cat Island. N'oublie jamais\ncela."
-    },
-    "27702": {
-        "「ははっ　ありがたき　お言葉。": "Haha, merci pour vos aimables paroles."
-    },
-    "27703": {
-        "「これまで　お世話になりましたのニャ。\n　マンマーさまも　ジュニアさまも\n　どうか　お元気で……。": "Merci pour tout ce que vous avez fait pour moi\njusqu'a present, nya. Prenez bien soin de\nvous, Maman-sama et Junior-sama..."
-    },
-    "27704": {
-        "「うむ。そなたも　達者でな。": "Hum. Prends soin de toi aussi."
-    },
-    "27705": {
-        "「ミャーーー！　リベリオの旦那ぁ。\n　アッシも　連れてってほしいでヤンス！！": "Miaouuu ! Seigneur Ribero Leo ! Emmenez-moi\navec vous, je vous en prie !!"
-    },
-    "27706": {
-        "「オレは　ひとりで生きていくと決めたのニャ。\n　オマエは　猫島のみんなを守るのニャ。": "J'ai decide de vivre seul, miaou. Toi, tu dois\nproteger tout le monde sur Cat Island, miaou."
-    },
-    "27707": {
-        "「……そんなの　ダメでヤンス！\n　アッシは　どこまでも　旦那に\n　ついていくと　決めているのでヤンスから！": "… Ca, c'est hors de question pour moi ! Je\nsuis resolu a suivre le maitre ou qu'il aille\n!"
-    },
-    "27708": {
-        "「なんだか　ライバルができたって　気がするよ。\n　私も　負けないようにしなきゃ。": "Je ressens comme si j'avais trouve un rival en\nRai. Je dois m'assurer de ne pas perdre face a\nlui."
-    },
-    "27709": {
-        "「早く大きくなって　お父さんと　お母さんを\n　探しにいこうと　思ってるの。\n　これからも　ひとりで　がんばるよ！": "Je veux vite grandir pour partir a la\nrecherche de mon pere et de ma mere. Je vais\ncontinuer a me battre seule !"
-    },
-    "46108": {
-        "「オレが　マンマーさまのお部屋に\n　サードンを　おびきよせたいとか\n　余計なことを　言っちまったせいニャ……。": "C'est de ma faute... J'ai dit des choses\ninutiles, comme attirer Sardon dans la chambre\nde Manma-sama..."
-    },
-    "46109": {
-        "「そんで　サードンを探しだして\n　倒してやろうと　がんばったんニャが\n　まったく　見つけられないのニャよ～。": "Ensuite, nous avons essaye de trouver Sardon\net de le vaincre, mais nous n'avons pas reussi\na le trouver du tout, miaou."
+    "22133": {
+        "「それでは　<pc>さん。\n　ボクも　ドルワームに戻りますね！\n　また　会いましょう！": "Alors, <pc>-san. Je retourne aussi a\nDolworm ! A bientot !"
     }
 }
