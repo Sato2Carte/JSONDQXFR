@@ -1,218 +1,200 @@
 {
-    "17105": {
-        "「ここが　ウワサの幽霊部屋　桜の間……。": "C'est donc ici, la fameuse Chambre des\nFantomes, la Chambre des Cerisiers..."
+    "17406": {
+        "「ややっ！　巨人族の戦士　<pc>様！\n　これは　よい時に　参られましたな。": "Oh ! Guerrier des geants, <pc>-sama !\nVous arrivez a un moment opportun."
     },
-    "17106": {
-        "「見たところ　ふつうの部屋ですね。\n　もうちょっと　おどろおどろしい部屋を\n　想像してたのに。ちょっと　ガッカリかも。": "A premiere vue, c'est une piece ordinaire.\nJ'imaginais quelque chose d'un peu plus\nsinistre, je suis un peu decu."
+    "17407": {
+        "「ちょうど　賢人トール様の\n　占術の結果が　出ようとしているのです。\n　ささっ　こちらへ……。": "Justement, le resultat de la divination de\nSage Thor-sama est sur le point de sortir. Par\nici, s'il vous plait..."
     },
-    "17129": {
-        "「封印が　道を　ふさいじゃってる。 \n　それも　なんて強いチカラ……。": "Le sceau bloque le chemin. Et quelle puissance\nincroyable..."
+    "17408": {
+        "「大地の精霊たちが　呼びかけに　応えてくれた。\n　この　かがやきが　残りの三賢人の居場所を\n　教えてくれるじゃろう。": "Les esprits de la terre ont repondu a notre\nappel. Cette lueur nous indique l'emplacement\ndes trois sages restants."
     },
-    "17130": {
-        "「こんなに強い封印……　あたしには\n　とても解けないです。先に進むのは\n　あきらめるしか　ありませんね……。 ": "Un sceau aussi puissant… Je ne peux absolument\npas le briser. Il ne nous reste plus qu'a\nabandonner l'idee d'aller plus loin…"
+    "17409": {
+        "「ふむ……。この世界の　どこかに\n　巨人族が治める　桃色の城があるらしい。\n　とても雄大で　美しい城じゃ……。": "Hmm... Il parait qu'il existe quelque part\ndans ce monde un chateau rose gouverne par des\ngeants. C'est un chateau majestueux et<br>magnifique..."
     },
-    "17131": {
-        "「やはり　私の読みに\n　まちがいは　なかったようだ。": "Il semblerait que ma lecture ait ete correcte."
+    "17410": {
+        "「その城下にある　身寄りなき子が集う家に\n　英知の星が　ふたつ見える……。\n　ふたりの賢人は　そこで　眠っておるじゃろう。": "Dans la maison situee en contrebas du chateau,\nou se rassemblent les enfants sans famille,\ndeux etoiles de sagesse brillent... Les deux<br>erudits y dorment probablement."
     },
-    "17132": {
-        "「すっ　すごい！　封印が　消えちゃった。\n　でも先生……　いいんですか？": "Incroyable ! Le sceau a disparu. Mais\nsensei... est-ce vraiment bien ?"
+    "17411": {
+        "「なんと！　ふたりの賢人は\n　同じ場所にいるというのですか！\n　これは　探す手間が　はぶけますな！": "Que vois-je ! Les deux sages se trouvent au\nmeme endroit ! Cela nous epargne bien des\nrecherches !"
     },
-    "17133": {
-        "「あの……！　ハジカ先生！？": "Euh... ! Hajika-sensei !?"
+    "17412": {
+        "「しかし　身寄りなき子が集う家とは……？": "Cependant, une maison ou se reunissent des\nenfants sans famille..."
     },
-    "17134": {
-        "「すっげー。ここが　神代の間なのかな。\n　うへへ　オイラ　足跡つけとこ。": "Incroyable. Est-ce la Salle de Dieu ?\nHehe, je vais laisser mes empreintes ici."
+    "17413": {
+        "「<pc>なら　思い当たる場所が\n　あるのではないか？　ボクも　同行するから\n　一緒に　賢人の捜索に　あたってほしい。": "Si c'est <pc>, ne connais-tu pas un\nendroit qui pourrait correspondre ? Je vais\nt'accompagner, alors cherchons ensemble le<br>sage."
     },
-    "17135": {
-        "「どうしたってんだよ　ハジカ先生～。\n　いったい　なにやってんだ？": "Que se passe-t-il, Hajika-sensei~. Qu'est-ce\nque vous faites ?"
+    "17414": {
+        "「ありがとう！　キミには　いつも感謝している。\n　それでは　すぐに　出発するとしよう！": "Merci ! Je te suis toujours reconnaissant.\nAlors, partons sans tarder !"
     },
-    "17136": {
-        "「ああ……　すまない。そういえば\n　君たちに　借りていたものが　あるんだ。\n　ここで　返しておこう。": "Ah... desole. Maintenant que j'y pense, il y a\nquelque chose que je vous avais emprunte.\nLaissez-moi vous le rendre ici."
+    "17415": {
+        "「シグルド様。\n　また　あなたが　行かれるのですか？": "Seigneur Ludo. Vous partez a nouveau ?"
     },
-    "17137": {
-        "「この手紙は　参考にさせてもらったよ。": "Je me suis inspire de cette lettre."
+    "17416": {
+        "「あなたは　指導者という立場を　お忘れでは？\n　天命の戦乙女を思うあまり\n　どうやら　冷静さを失っておられるようだ。": "Vous n'auriez pas oublie votre position de\nleader, n'est-ce pas ? Il semble que votre\npreoccupation pour Fate's War Maiden vous ait<br>fait perdre votre calme."
     },
-    "17138": {
-        "「オイラが拾った　ラブレター！！\n　な　なんで……？": "C'est la lettre d'amour que j'ai trouvee !!\nPo... pourquoi...?"
+    "17417": {
+        "「冷静さを　失っているのではない。\n　ボクはただ　あの方を救うことこそが\n　我が使命と　心得ているだけだ。": "Je n'ai pas perdu mon calme. Je suis\nsimplement convaincu que sauver cette personne\nest ma mission."
     },
-    "17139": {
-        "「ハジカ先生……\n　ラブレターを　盗んだのは\n　あなただったんですね。": "Hajika sensei... C'etait donc vous qui avez\nvole la lettre d'amour."
+    "17419": {
+        "「むっ！？　待て　<pc>！\n　どうやら　キミは　他にも\n　多数の使命を　抱えているようだな。": "Hm！？ Attends, <pc> ! Il semble que tu as\nde nombreuses autres missions a accomplir."
     },
-    "17140": {
-        "<center><pipipi_low>……ウウウウゥウウウウゥウ……": "<pipipi_low>... Oooooooh..."
+    "17420": {
+        "「……ならば　仕方があるまい。\n　キミは　その使命を　まっとうしてくれ。\n　それが済んだら　出発するとしよう。": "Dans ce cas, il n'y a pas d'autre choix.\nAccomplis ta mission. Une fois cela fait, nous\npartirons."
     },
-    "17141": {
-        "「……なんだ　この声は。": "......Quelle est cette voix."
+    "17421": {
+        "「そうか……。以前　キミに話したとおり\n　ボクたちは　巨人族の視線を　あびると\n　身体が　動かなくなるのだ。": "Je vois... Comme je te l'ai dit auparavant,\nquand nous sommes sous le regard des geants,\nnos corps ne peuvent plus bouger."
     },
-    "17142": {
-        "「グルルル……！\n　ウォオオオーーーン！！": "Grrrrr... ! Woooooaaaan!!"
+    "17422": {
+        "「キミのチカラが　借りられないとなると\n　何か　他の手立てを　考えるしかないな。": "Si je ne peux pas compter sur ta force, je\nvais devoir envisager une autre solution."
     },
-    "17143": {
-        "「い　行っちゃった……。\n　今のは　いったい……。": "Il... Il est parti... Qu'est-ce que c'etait\nque ca...?"
+    "17423": {
+        "「<pc>か！\n　よくぞ　ふたたび　訪ねてくれた！": "<pc> ! Je suis ravi que tu sois revenu\nme rendre visite !"
     },
-    "17144": {
-        "「そなたたち……　なんということを。": "Vous… Qu'est-ce que vous avez fait ?"
+    "17424": {
+        "「<pc>。大地の精霊たちの声が\n　我らに　残りの三賢人の居場所を伝えてくれた。": "<pc>. Les esprits de la terre nous ont\nrevele l'emplacement des trois sages restants."
     },
-    "17145": {
-        "「で……　で…………": "De... de..."
+    "17425": {
+        "「この世界の　どこかに\n　巨人族が治める　桃色の城があるらしい。\n　とても雄大で　美しい城じゃ……。": "Dans ce monde, il parait qu'il existe quelque\npart un chateau rose gouverne par une tribu de\ngeants. C'est un chateau majestueux et<br>magnifique..."
     },
-    "17146": {
-        "「でた～～～～～～！！\n　あんちゃーん！　女の幽霊だよ！！": "Elle est la～～～～～～！！ Grand frere !\nC'est le fantome !!"
+    "17426": {
+        "「その城下にある　身寄りなき子が集う家に\n　英知の星が　ふたつ見えた……。\n　ふたりの賢人は　そこで　眠っておるじゃろう。": "Dans la maison situee dans cette ville, ou se\nrassemblent les enfants sans famille, deux\netoiles de sagesse brillent... Deux erudits y<br>dorment probablement."
     },
-    "17147": {
-        "「ヒメア様！！　どうして　ここに！？": "Himea-sama !! Pourquoi etes-vous ici !?"
+    "17427": {
+        "「<pc>。賢人が眠る場所に\n　心当たりは　ないか？　ボクも　同行する。\n　一緒に　賢人の捜索に　あたってほしい。": "<pc>. Aurais-tu une idee de l'endroit ou\nle sage repose ? Je vais t'accompagner.\nJ'aimerais que tu participes a la recherche du<br>sage avec moi."
     },
-    "17148": {
-        "「…………へっ？": "...Hein ?"
+    "17428": {
+        "「わお！　それがウワサの　ベリーダンスね。\n　あんたって　あたしの神様！？\n　それなら　あたしにも　おどれそう！": "Wow ! C'est donc ca, la fameuse danse du\nventre ! Tu es comme un dieu pour moi !? Dans\nce cas, je pourrais peut-etre danser aussi !"
     },
-    "17149": {
-        "「ハジカ……　封印を解いたのは\n　そなただな？　師とも　あろうものが\n　どういうつもりか　聞かせてもらおうか？": "Hajika... C'est toi qui as brise le sceau,\nn'est-ce pas ? En tant que maitre, pourrais-tu\nm'expliquer tes intentions ?"
+    "17429": {
+        "「これで　ダンスパーティも　バッチリね！\n　あとは　ププリさえ…………。": "Maintenant, la fete de danse est parfaitement\nprete ! Il ne manque plus que Pupuri..."
     },
-    "17150": {
-        "「ヒメア様の　ご登場とは　参りましたね。\n　あなたのことです。お察しでしょうから　\n　素直に　白状しましょうか。": "L'apparition de Himea-sama m'a vraiment pris\nde court. Vous voyez de quoi je parle,\nn'est-ce pas ? Je vais donc avouer<br>honnetement."
+    "17430": {
+        "「……ううん　なんでもない。\n　あいつのことなんて　どーでもいいんだった。": "...Non, c'est rien. Je m'en fiche de ce type."
     },
-    "17151": {
-        "「私は　あなたが　５００年前に使ったという\n　不老の禁術を　目当てに\n　このツスクルの村へ　来たのです。": "Je suis venu dans ce village de Tsusukul pour\ndecouvrir l'art ancien de l'immortalite que\nvous auriez utilise il y a 500 ans."
+    "17431": {
+        "「わあっ　それが　さそうおどり？\n　あ　ありがと……　それなら\n　あたしにも　おどれそう……かな。": "Waouh, c'est ca la danse envoutante ? Ah,\nmerci... Alors peut-etre que moi aussi je\npourrai danser..."
     },
-    "17152": {
-        "「私は　これまでの人生を\n　すべて　学問に　捧げてきました。\n　そして　悟ったのです。": "J'ai consacre toute ma vie a l'etude. Et j'ai\natteint l'illumination."
+    "17432": {
+        "「あ……！　ち　ちがうよ……？\n　ダンスパーティに　行きたいんじゃないの。\n　あ…あたしの　お友達は　お人形だけ。": "Ah... ! Ce... ce n'est pas ca... ? Je ne veux\npas aller a la soiree dansante. Ah... mes\nseuls amis sont des poupees."
     },
-    "17153": {
-        "「真理に　たどりつくには\n　人の一生は　あまりにも短いと……。": "Il semble que la vie d'une personne soit\nbien trop courte pour parvenir a la verite..."
+    "17433": {
+        "「ただ……　おどったら　どんな気持ちになるか\n　ちょっとだけ……　知りたかったんだ……。": "Je voulais juste... savoir un peu ce que ca\nferait de danser..."
     },
-    "17154": {
-        "「……死とは　残酷なものです。\n　いかなる賢者の英知も　命が尽きれば\n　一瞬で　無に帰してしまうのですから。": "...La mort est quelque chose de cruel. Quelle\nque soit la sagesse des plus grands sages,\nquand la vie s'eteint, elle retourne<br>instantanement au neant."
+    "17434": {
+        "「あっ！　ヤッバい！！\n　もう　ダンスパーティの時間じゃん！\n　それじゃあね　旅人さん！！": "Ah ! Mince !! C'est deja l'heure de la fete\ndansante ! A plus, voyageur-san !!"
     },
-    "17155": {
-        "「それで　この神代の間へ\n　不老の禁術の書を　探しにきたというのか。": "Donc, tu es venu ici, dans cette Salle de\nDieu, pour chercher le livre des arts\ninterdits de l'immortalite."
+    "17435": {
+        "「そ……　そっか……\n　もう　そんな時間…………。": "Ah... Je vois... C'est deja l'heure..."
     },
-    "17156": {
-        "「おそれを知らぬ　愚か者め。\n　不老の禁術は　書に残してなどおらぬ。": "Imbecile ! La magie interdite de\nl'immortalite n'est pas consignee dans les\necrits."
+    "17436": {
+        "「ちょっとくらい…………\n　ちょっとくらいなら　のぞいたって……\n　い…いいよね？": "Un petit coup d'oeil... Un tout petit coup\nd'oeil... C'est... c'est bon, non ?"
     },
-    "17157": {
-        "「愚か者……？　それは　あなただ　ヒメア。\n　不老の禁術が　どれだけ人々に\n　可能性を　もたらすことか。": "Imbecile...? C'est toi, Himea. Sais-tu combien\nla magie interdite de l'immortalite peut\noffrir de possibilites aux gens ?"
+    "17437": {
+        "<center>その日　メギストリスの都の　教会前広場では\nとびきりの　ダンスパーティが　開かれた。": "Ce jour-la, sur la place devant l'eglise de\nMegistris City, une fete dansante\nextraordinaire a eu lieu."
     },
-    "17158": {
-        "「そのような　すばらしい術を知りながら\n　なぜ　世のために　使おうとしない？": "Pourquoi, sachant une technique aussi\nmerveilleuse, ne cherches-tu pas a l'utiliser\npour le bien du monde ?"
+    "17438": {
+        "<center>大人も子供も　楽しい音楽に合わせて\n時を忘れて　おどり続け\nやがて　夜は　ふけていった……。": "Les adultes comme les enfants continuerent a\ndanser, emportes par la musique joyeuse,\noubliant le temps qui passe. Bientot, la nuit<br>s'avanca lentement..."
     },
-    "17159": {
-        "「あの禁術は　そなたの思っているような \n　万能の術ではない。禁術のチカラを\n　受け入れることができる者は　限られている。": "Cette technique interdite n'est pas aussi\nuniverselle que tu le penses. Seuls quelques\nelus peuvent accueillir le pouvoir de cette<br>technique interdite."
+    "17439": {
+        "「た…ただいま　旅人さん……。\n　えへ。あたしも……　おどってきちゃった。\n　あんなに　楽しかったの　はじめて……。": "Je... je suis de retour, voyageur-san... Eh\neh. Moi aussi... j'ai danse. C'etait la\npremiere fois que je m'amusais autant..."
     },
-    "17160": {
-        "「多くの者は　禁術のチカラに　たえきれず\n　人としての心と身体を失い　死ぬこともできずに\n　永遠を　さまようことになるのだ。": "Beaucoup d'entre eux ne peuvent supporter le\npouvoir des arts interdits. Ils perdent alors\nleur coeur et leur corps humains, condamnes a<br>errer pour l'eternite sans jamais pouvoir\nmourir."
+    "17440": {
+        "「だったら　ウジウジするの　やめようよ。\n　あのね。あたし　ほんとは　ずっと\n　ププリと　なかよくなりたかったんだ。": "D'accord, alors arretons de nous morfondre. Tu\nsais, en fait, j'ai toujours voulu devenir\namie avec Pupuri."
     },
-    "17161": {
-        "「そう……。\n　先刻　ここを逃げだした　あの獣のようにな。": "C'est vrai... Comme cette creature qui s'est\nechappee d'ici tout a l'heure."
+    "17441": {
+        "「今日　いっしょに　おどれて　うれしかったよ！\n　あたしたち　これからは　友達だよね？": "Aujourd'hui, j'ai vraiment apprecie danser\navec toi ! Nous sommes amis a partir de\nmaintenant, n'est-ce pas ?"
     },
-    "17162": {
-        "「この部屋は　あの　おぞましい獣を\n　閉じ込めておくために　封じていたのだ。\n　まったく　余計なことをしてくれたな。": "Cette piece etait scellee pour emprisonner\ncette bete abominable. Tu n'aurais vraiment\npas du t'en meler."
+    "17442": {
+        "「う……　うん！！": "Mm... Oui !!"
     },
-    "17163": {
-        "「私は　あの獣を　捕らえなくてはならぬ。\n　そなたらも　立ち去りなさい。": "Je dois capturer cette creature. Vous devriez\nvous en aller aussi."
+    "17443": {
+        "<if_woman>「おねえちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<else>「おにいちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<endif>": "<if_woman>>Grande soeur... Je... je te donne\ncette poupee. J'ai trouve une vraie amie...\nalors je pense que je n'en ai plus besoin...<else>>Grand frere... Je... je te donne cette\npoupee. J'ai trouve un vrai ami... alors je\npense que je n'en ai plus besoin... <endif>"
     },
-    "17164": {
-        "「あの獣は　不老の禁術の　犠牲者ということか。\n　……ならば　ヤツの身体を調べ\n　我が手で　禁術のチカラを　解き明かすまでだ。": "Cet animal serait donc une victime de\nl'interdit de l'immortalite. ...Dans ce cas,\nje vais examiner son corps et decouvrir par<br>moi-meme le pouvoir de cette technique\ninterdite."
+    "17444": {
+        "<if_woman>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　ねーちゃんに　あげるよ。<else>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　にーちゃんに　あげるよ。<endif>": "<if_woman>>Alors, comme je me suis bien\nentendue avec Pupuri, je n'ai plus besoin de\ncette poupee ! Je vais la donner a la grande<br>soeur voyageuse.<else>>Alors, comme je me suis bien entendu avec\nPupuri, je n'ai plus besoin de cette poupee !\nJe vais la donner au grand frere voyageur.<br><endif>"
     },
-    "17165": {
-        "「オイラが　桜の間で見た　女の幽霊って……\n　ヒメア様だったんだな。": "Le fantome de femme que j'ai vu dans la\nchambre des cerisiers... c'etait donc\nHimea-sama."
+    "17445": {
+        "<pc>は\n愛の賢人フレイヤ（だいじなもの）と\n光の賢人バルドル（だいじなもの）を手に入れた！<me 60>": "<pc> a obtenu l'objet cle : Sage de\nl'Amour Freya et l'objet cle : Sage de la\nLumiere Baldr ! <me 60>"
     },
-    "17166": {
-        "「うへへ……　オイラさ～\n　ヒメア様に　会ったことなかったから\n　カンちがいしちまったぜ。": "Uhehe... Tu sais, moi... Je n'avais jamais\nrencontre Himea-sama, alors je me suis trompe."
+    "17446": {
+        "かばんの中から　シグルドの声が聞こえる。": "Depuis le sac, la voix de ShiguLudo se fait\nentendre."
     },
-    "17167": {
-        "「あ～　ゴホン！！　というわけで\n　ついに　秘められた謎の部屋　神代の間の姿が\n　我らの前に　明らかになった！": "Ah~ Ahem!! Ainsi, la mysterieuse Salle de\nDieu, une piece secrete, se devoile enfin\ndevant nous!"
+    "17447": {
+        "「巨人族の戦士　<pc>よ！\n　ついに　愛の賢人フレイヤと\n　光の賢人バルドルを　見つけだしたな！": "Guerrier de la tribu des geants, <pc> !\nTu as enfin trouve la Sage de l'amour, Freya,\net le Sage de la lumiere, Baldr !"
     },
-    "17168": {
-        "「みごと任務を完遂した　諸君らには \n　記念品を　贈呈しよう！　受け取れい！": "A vous qui avez brillamment accompli votre\nmission, je vais offrir un souvenir en guise\nde recompense ! Recevez-le !"
+    "17448": {
+        "「彼らにも　目醒めの術を　かけなくては。\n　急ぎ　ヴァルハラの館へ　戻ろう！": "Nous devons egalement utiliser le rituel\nd'eveil sur eux. Depechons-nous de retourner a\nTo Valhalla Hall !"
     },
-    "17169": {
-        "「これにて　若葉の探検隊は　解散だ！\n　さあ　帰ろう！　すぐ　帰ろう！": "Sur ce, l'equipe d'exploration des jeunes\nfeuilles est dissoute ! Allez, rentrons !\nRentrons tout de suite !"
+    "17449": {
+        "「リジン！　皆を集めよ！！": "Rijin ! Rassemble tout le monde !"
     },
-    "17170": {
-        "「待ってよ　あんちゃ～ん！": "Attends-moi, grand frere !"
+    "17450": {
+        "「おおっ　おかえりなさいませ！\n　シグルド様！　<pc>様！\n　もしや……ついに　我らのもとに　三賢人が！？": "Oh ! Soyez les bienvenus ! Seigneur ShiguLudo\n! Seigneur <pc> ! Serait-ce... enfin,\nles trois sages sont parmi nous !?"
     },
-    "17171": {
-        "「まさか　あたしたちの　探検が\n　こんな結果を　招いてしまうなんて……。 ": "Je n'aurais jamais cru que notre exploration\naboutirait a un tel resultat..."
+    "17451": {
+        "「……承知！　すぐに　皆を集めましょう！！": "......Compris ! Rassemblons tout le monde\nimmediatement !!"
     },
-    "17172": {
-        "「でも　こんな状況だというのに\n　あたしには　ひとつ　どうしても\n　気がかりなことが　ありました。 ": "Mais malgre cette situation, il y avait une\nchose qui me preoccupait vraiment."
+    "17452": {
+        "「三賢人よ！　その瞳に　光を！": "O Trois Sages ! Que la lumiere illumine vos\nyeux !"
     },
-    "17173": {
-        "「なぜ　ハジカ先生は\n　コノタが拾った　ラブレターなんて\n　ほしがったんでしょう？": "Pourquoi le professeur Hajika voulait-il tant\ncette lettre d'amour que Konota a trouvee ?"
+    "17453": {
+        "「愛の賢人フレイヤ　光の賢人バルドルよ！\n　我が名は　シグルド。こうして\n　お前たちに会えたこと　うれしく思う。": "Sage Freya de l'amour, Sage Baldr de la\nlumiere ! Je suis Sig Ludo. Je suis heureux de\npouvoir enfin vous rencontrer."
     },
-    "17174": {
-        "「そのことが　どうしても気になって\n　あたしは　ひとりになってから\n　ラブレターを開き……ようやく気づいたのです。": "Cette affaire me preoccupait tellement que,\nune fois seule, j'ai ouvert la lettre\nd'amour... et c'est alors que j'ai enfin<br>compris."
+    "17454": {
+        "「……聞いてくれ　我が同胞たちよ。\n　今　調停者オーディンによって\n　世界の均衡が　失われつつあるのじゃ。": "...Ecoutez-moi, mes compagnons. En ce moment,\npar l'entremise du mediateur Odin, l'equilibre\ndu monde est en train de se perdre."
     },
-    "17175": {
-        "「あたし……どうして　今まで \n　このことに　気づかなかったんだろう……。 ": "Je... Je me demande pourquoi je n'avais pas\nrealise cela jusqu'a maintenant..."
+    "17455": {
+        "「そなたらも　戦士シグルドにチカラを預け\n　ともに　戦ってはくれぬか？": "Ne pourriez-vous pas aussi preter votre force\na Warrior Sigurd et combattre a ses cotes ?"
     },
-    "39111": {
-        "「この部屋の　どこかに　神代の間へ続く\n　地下迷宮の入り口が　あるはずです！\n　いろんな所を調べてみましょう。": "Dans cette piece, il doit y avoir quelque part\nune entree menant au labyrinthe souterrain\nvers la Salle de Dieu ! Explorons les<br>differents endroits pour la trouver."
+    "17456": {
+        "「愚問ですわ　賢人トール。\n　答えは　ひとつに決まっています。\n　我らの命　戦士シグルドに　預けましょう。": "C'est une question inutile, Sage Thor. La\nreponse est evidente. Confions nos vies a\nWarrior Sigurd."
     },
-    "60614": {
-        "棚の下から　地下へ続く　はしごが現れた！": "Une echelle menant au sous-sol a ete revelee\nsous l'etagere !"
+    "17457": {
+        "「異論はない。すべては　世界の均衡のために！": "Pas d'objection. Tout est pour l'equilibre du\nmonde !"
     },
-    "60615": {
-        "<center><pipipi_low>……ウウゥウウゥウ……": "<pipipi_low>... Ooooh..."
+    "17458": {
+        "「礼を言う！　そなたら　三賢人には\n　いずこかへ連れ去られた　天命の戦乙女の\n　居場所を　突き止めてもらいたい！": "Je vous remercie ! Je compte sur vous, les\ntrois sages, pour decouvrir l'endroit ou a ete\nemmenee la Fate's War Maiden !"
     },
-    "60616": {
-        "「今……　なにか　聞こえませんでしたか？": "Est-ce que... vous avez entendu quelque chose\n?"
+    "17459": {
+        "「もはや　一刻の猶予も　許されんのだ！\n　急いでくれ！": "Il n'y a plus une minute a perdre !\nDepeche-toi !"
     },
-    "60617": {
-        "「ゆ　ゆ　幽霊だ……！！\n　女の幽霊の声だよ　あんちゃん！\n　なあ　帰ろう！　やっぱりヤバイって！": "U- un... un fantome... !! C'est la voix d'un\nfantome feminin, grand frere ! Allez, rentrons\n! C'est vraiment dangereux !"
+    "17460": {
+        "「承知した。我ら　三賢人が　そろった今なら\n　天命の戦乙女も　見つけだせましょう。\n　我らの占術で　必ずや　探しだしてみせますぞ。": "Compris. Maintenant que nous, les trois sages,\nsommes reunis, nous devrions pouvoir trouver\nla Guerriere du Destin. Grace a notre art de<br>la divination, nous la retrouverons sans\nfaute."
     },
-    "60618": {
-        "「ビビってんなよ　風の音だろ？\n　諸君！　これより　我々　若葉の探検隊は\n　神代の間を目指し　地下探検に出発する！": "Ne vous laissez pas intimider, c'est juste le\nbruit du vent, n'est-ce pas ? Mes amis ! A\npartir de maintenant, notre equipe<br>d'exploration des Jeunes Feuilles se dirige\nvers la Salle de Dieu pour une expedition\nsouterraine !"
+    "17461": {
+        "「<pc>。キミには　本当に感謝している。\n　三賢人が　一堂に会することが　できたのは\n　皆　キミの　はたらきのおかげだ。": "<pc>. Je te suis vraiment reconnaissant.\nSi les trois sages ont pu se reunir, c'est\ngrace a ton travail."
     },
-    "60619": {
-        "「この先　いかなる危険が　あるともわからん。 \n　しかし数々の苦難を　乗り越えてきた我々だ。\n　全員で　生きて帰ってこれると信じているぞ！ ": "Nous ne savons pas quels dangers nous\nattendent. Cependant, nous avons surmonte de\nnombreuses epreuves. Je crois que nous<br>reviendrons tous sains et saufs !"
+    "17462": {
+        "「この品は　戦士たちに用意させた。\n　どれほど役に立つかは　わからないが\n　今後の戦いに　使ってほしい。": "Cet objet a ete prepare pour les guerriers. Je\nne sais pas a quel point il sera utile, mais\nj'aimerais que vous l'utilisiez dans vos<br>combats a venir."
     },
-    "60620": {
-        "「……それで　生きて帰ってこれなかったら\n　どうするつもりだい？": "...Et si tu ne reviens pas en vie, que\ncomptes-tu faire ?"
+    "17463": {
+        "「今は　三賢人にまかせ\n　しばらく　休息を取っていてくれ！\n　何か　進展があれば　しらせよう！": "Pour l'instant, laisse les trois sages s'en\noccuper. Repose-toi un moment ! Je te tiendrai\ninforme s'il y a du nouveau !"
     },
-    "60621": {
-        "「ハ……　ハジカ先生……！": "Ha... Hajika-sensei... !"
+    "17464": {
+        "「<pc>か！": "<pc>, hein !"
     },
-    "60622": {
-        "「なにやら　さわがしいから　来てみれば……\n　本当に　神代の間への道を　見つけるとはね。": "Comme il y avait de l'agitation, je suis venu\nvoir ce qui se passait... Et vous avez\nvraiment trouve le chemin vers la Salle de<br>Dieu."
+    "17465": {
+        "「<pc>。キミには　本当に感謝している。\n　三賢人が　一堂に会することが　できたのは\n　皆　キミの　はたらきのおかげだ。": "<pc>. Je te suis vraiment reconnaissant.\nSi les trois sages ont pu se reunir, c'est\ngrace a ton travail."
     },
-    "60623": {
-        "「行動力があるのは　いいことだが \n　私が　師である以上　学徒の君たちに\n　危険な行動を　許すわけには　いかないな。": "Avoir de l'initiative est une bonne chose,\nmais tant que je suis votre maitre, je ne peux\npas permettre a mes eleves de prendre des<br>actions dangereuses."
+    "17466": {
+        "「今　三賢人たちが　占術をもって\n　天命の戦乙女の　居場所を探している。": "En ce moment, les trois sages utilisent leurs\npouvoirs divinatoires pour localiser la Vierge\nGuerriere du Destin."
     },
-    "60624": {
-        "「<pc>さん……と　いいましたか。\n　もちろん　あなたもですよ。\n　探検ごっこは　あきらめて　帰ってくれますね？<yesno><close>": "<pc>-san… c'est bien cela ? Bien sur,\ncela vaut aussi pour vous. Vous allez renoncer\na ce petit jeu d'exploration et rentrer chez<br>vous, n'est-ce pas ? <yesno><close>"
+    "17467": {
+        "「今は　彼らにまかせ\n　しばらく　休息を取っていてくれ！\n　何か　進展があれば　しらせよう。": "Pour le moment, laisse-leur la tache et prends\nun peu de repos ! Je te tiendrai informe s'il\ny a du nouveau."
     },
-    "60625": {
-        "「なに言ってんだよ　隊員２号！！": "Mais qu'est-ce que tu racontes, membre de\nl'equipe numero 2 !!"
+    "17810": {
+        "「巨人族の戦士　<pc>よ！\n　キミの　かばんに　入らせてもらうぞ！": "Guerrier du peuple des geants, <pc> ! Je\nvais me mettre dans ton sac !"
     },
-    "60626": {
-        "「オレは　イヤだね。危険が　なんだ！\n　先生だって　言ってたじゃないか！\n　学問とは　タンキュー心だって。": "Je refuse. Qu'importe le danger ! Meme le\nsensei l'a dit, n'est-ce pas ? La recherche,\nc'est avant tout la curiosite."
+    "17811": {
+        "<pc>は\n戦士シグルド（だいじなもの）を　手に入れた！<me 60>": "<pc> a obtenu le Warrior Sigurd (objet\ncle) ! <me 60>"
     },
-    "60627": {
-        "「よく言ったぜ　隊員２号！！": "Bien dit, membre de l'equipe numero 2 !!"
+    "37586": {
+        "なんと！　<%sEV_QUE_NAME0>は\nおどりの極意を　落としていった！\n<pc>は　おどりの極意を読んだ。": "Quel incroyable ! <%sEV_QUE_NAME0> a laisse\ntomber le secret de la danse ! <pc> a lu\nle secret de la danse."
     },
-    "60628": {
-        "「オレも　イヤだね。危険が　なんだ！\n　先生だって　言ってたじゃないか！\n　学問とは　タンキュー心だって。": "Moi aussi, je refuse. Quel danger ? Meme le\nsensei l'a dit, n'est-ce pas ? L'etude est une\nquete de curiosite."
+    "37587": {
+        "おどりとは　すなわち愛。\n見る者に　情熱を伝え\n心をつなぎあう　愛の告白である。　　　　大先生": "La danse, c'est l'amour. Elle transmet la\npassion a ceux qui la regardent et relie les\ncoeurs dans une declaration d'amour. - Grand<br>Sensei"
     },
-    "60629": {
-        "「あたしも　この先に　なにがあるのか\n　自分の目で　確かめたいんです。\n　行かせてください……　お願いします。": "Je veux aussi voir de mes propres yeux ce\nqu'il y a au-dela. Laissez-moi y aller... Je\nvous en prie."
-    },
-    "60630": {
-        "「ふう…………。": "Ouf..."
-    },
-    "60631": {
-        "「わかった。では　こうしよう。\n　私も引率として　君たちに　ついていく。": "D'accord. Alors, faisons ainsi. Je vous\naccompagnerai en tant que guide."
-    },
-    "60632": {
-        "「すこしでも　危険があったら引き返すこと。\n　そして　絶対に　はぐれないこと。\n　……ちゃんと　約束してくれるね？": "S'il y a le moindre danger, fais demi-tour. Et\nne te perds surtout pas. ... Tu me le promets,\nd'accord ?"
-    },
-    "60633": {
-        "「さっすが　ハジカ先生！\n　話の　わかる男だぜ！": "Comme attendu de Hajika-sensei ! Un homme qui\nsait comprendre les choses !"
-    },
-    "60634": {
-        "「それでは新たなメンバー　隊員４号を加えて\n　地下探検に　出発だ！！": "Alors, en ajoutant notre nouveau membre,\nl'Agent Numero 4, partons a l'exploration\nsouterraine !!"
-    },
-    "60635": {
-        "「えへ。ど　どうしよう。\n　ハジカ先生が　一緒だなんて……。": "Eheh. Que faire ? C'est incroyable d'etre avec\nHajika sensei..."
+    "37588": {
+        "<pc>は\nしぐさ『ベリーダンス』を　覚えた！<me 71>": "<pc> a appris le geste Danse du ventre !<me 71>"
     }
 }
