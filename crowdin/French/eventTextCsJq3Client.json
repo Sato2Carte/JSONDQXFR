@@ -1,116 +1,98 @@
 {
-    "13896": {
-        "「大丈夫。すぐに　よくなる。\n　さあ　眠りなさい　アルノー。": "Ca va aller. Tu iras mieux tres bientot.\nAllez, dors maintenant, Alno."
+    "13182": {
+        "「だ……れか　いませ……んか？<yesno><close>": "Y a-t-il... quelqu'un ici ?<yesno><close>"
     },
-    "13897": {
-        "「うん……。ありがとう　お母さん。": "Oui... Merci, maman."
+    "13183": {
+        "「……ああ。よ……やく　応えて……らえた。": "Ah. Enfin... tu as repondu..."
     },
-    "13898": {
-        "「あの子は……　アルノーは　私の息子なのだ。": "Cet enfant... Al-Noor est mon fils."
+    "13184": {
+        "「シーバの鏡とは……２枚ひと組で\n　遠く……はなれた相手と……会話できる\n　魔法の…鏡なのです。": "Le Miroir de Sheba est... une paire de miroirs\nmagiques qui permet de converser avec un\ninterlocuteur meme a une grande distance..."
     },
-    "13899": {
-        "「……<pc>。\n　私が　恐れていた日が　来てしまった。": "<pc>. Le jour que je redoutais est enfin\narrive."
+    "13185": {
+        "「あなたは……<pc>さんで…すか。\n　レベル３０以上の……魔法使いの方と\n　お見受け……しました。": "Vous etes... <pc>-san, n'est-ce pas ? Je\ncrois deviner que vous etes... un mage de\nniveau 30 ou plus."
     },
-    "13900": {
-        "「これは　ただの　はやり病ではない。\n　死神の息吹……　３００年もの昔に\n　多くの人々の命をうばった　滅びの病だ。": "Ce n'est pas une simple maladie de la lance.\nC'est le souffle du dieu de la mort... Une\nmaladie destructrice qui a pris la vie de<br>nombreuses personnes il y a 300 ans."
+    "13186": {
+        "「え…え。この鏡は……それなりの魔力を\n　持った者に……しか　使えな…いのです。": "E... eh. Ce miroir... ne peut etre utilise que\npar quelqu'un qui possede une certaine\npuissance magique..."
     },
-    "13901": {
-        "「冒された者は　身体に　黒いアザが現れ\n　やがては　死に至る。このままでは……。": "Ceux qui sont touches developpent des taches\nnoires sur le corps et finissent par mourir.\nSi cela continue ainsi..."
+    "13187": {
+        "「ところで……私は　ウェ…ナ諸島に\n　いるのですが……あなたは　ど…こで\n　私の声を　聞いて……るのですか？": "\n<player>さん、ところで私はウェナ諸島にいるのですがあなたはどこで私の声を聞いているのですか？"
     },
-    "13902": {
-        "「ひいひい　ふうふう……。\n　はぁ～　やっと　着きました。": "Hii hii fuu fuu... Ah, enfin arrive."
+    "13188": {
+        "「……ほほ…う。港町レンドアの…宿屋で…すか。\n　それは　すば……らしい！": "Ho ho… oh. A l'auberge de Port Lendor...\nvraiment. C'est... merveilleux !"
     },
-    "13903": {
-        "「あっ　<pc>さん！": "Oh, <pc>-san !"
+    "13189": {
+        "「港町レンドアと…いうことは　鉄道を使えば\n　オ……グリード大…陸の　ゲルト海…峡まで\n　すぐじゃ……ないですか。": "Port Lendor... ce qui signifie que si nous\nutilisons le train, il ne nous faudra pas\nlongtemps pour atteindre le detroit de Gelt<br>sur le continent d'Ogreede."
     },
-    "13904": {
-        "「そうでしたか……　やはり　はやり病とは\n　死神の息吹のことだったんですね。": "Je vois... Ainsi, la maladie Spear etait en\nfait le souffle du dieu de la mort."
+    "13190": {
+        "「知りあった…ばかりの　あな…たに\n　こんなこと頼む…のも　気が引けますが\n　ひとつ　お願いが……るんです。": "Je sais que nous venons tout juste de nous\nrencontrer, et je suis un peu hesitant a vous\ndemander cela, mais j'aurais une faveur a vous<br>demander."
     },
-    "13905": {
-        "「じつは　ともしびの木の　お礼がしたくて\n　いろいろ調べていたら　香術の書に\n　死神の息吹についての記述を　見つけたんです。": "En fait, en cherchant comment remercier pour\nl'Arbre de la Lumiere, j'ai trouve une mention\ndu Souffle du Dieu de la Mort dans un livre<br>d'encens."
+    "13191": {
+        "「じつは　その　ゲルト海峡に出現す…る\n　<%sEV_QUE_NAME0>に　イオでとどめをさすと\n　魔導の石を　落とす……ですよ。": "En fait, si vous achevez <%sEV_QUE_NAME0> avec\nun sort de Io a Gert Strait, il laissera\ntomber une Magic Stone... Voila."
     },
-    "13906": {
-        "「それによると　３００年前に\n　死神の息吹から　人々を救ったのは\n　閃香樹と呼ばれる　香木だったそうなのです。": "Selon cela, il y a 300 ans, c'est un arbre\nparfume appele Senkouju qui a sauve les gens\ndu souffle mortel du dieu de la mort."
+    "13192": {
+        "「その　魔導の石を　手に入れて……\n　もう一度　こ…の鏡に　話しかけて……\n　もらえませ…んか？": "Pourriez-vous obtenir cette pierre magique...\net parler a nouveau a ce miroir... s'il vous\nplait ?"
     },
-    "13907": {
-        "「ですが……私も　長年　香術師をやってますが\n　閃香樹という香木は　聞いたことがありません。": "Cependant... cela fait des annees que je suis\nmaitre parfumeur, mais je n'ai jamais entendu\nparler d'un bois parfume appele Senkouju."
+    "13193": {
+        "「おお。ありがとうござ…います。\n　あなたは　すばらし……人だ！": "Oh. Merci beaucoup... Vous etes une personne\nmerveilleuse !"
     },
-    "13908": {
-        "「でも　ちょうど　北西のモリナラ大森林に\n　エルトナ・レンジャー協会モリナラ支部の\n　山小屋が　あるんです。": "Mais il se trouve justement une cabane de\nmontagne de la branche Molinara de\nl'Association des Rangers d'Eltona dans la<br>foret de Molinara, au nord-ouest."
+    "13194": {
+        "「くれぐれも　よろし……くお願いします。\n　それでは　今日のとこ…ろは　\n　こ……れで　失礼させていた……きますね。": "Je vous prie de bien vouloir veiller... a\ncela. Sur ce, je vais prendre conge pour\naujourd'hui."
     },
-    "13909": {
-        "「森の木々をよく知る　レンジャーたちなら\n　閃香樹のことが　わかるかもしれません。\n　行ってみましょう！": "Les rangers, qui connaissent bien les arbres\nde la foret, pourraient en savoir plus sur\nl'arbre parfume. Allons-y !"
+    "13195": {
+        "「おお。ありがとうござ…います。\n　で…も　あなたは　たく…さんの\n　頼まれご…とを　抱えているよ……ですね。": "Oh. Merci beaucoup... Mai...s vous avez\nde...ja beaucoup de demandes a gerer, n'est-ce\npas...？"
     },
-    "13910": {
-        "「ここは　世界に　名立たる\n　エルトナ・レンジャー協会\n　モリナラ支部で　ございますぞ。 ": "Ici, vous etes a la celebre Association des\nRangers d'Eltona, dans la succursale de\nMorinara."
+    "13196": {
+        "「しかた……ありませんね。\n　この件は　また今度……ということで。": "Il n'y a pas d'autre choix... N'est-ce pas ?\nOn reprendra cette affaire une autre fois...\nalors."
     },
-    "13911": {
-        "「……なるほど。\n　閃香樹について　お知りになりたいと？ \n　よろしい。お教えいたしましょう。": "Je vois. Vous souhaitez en savoir plus sur\nl'Arbre Eclatant ? Tres bien. Je vais vous\nl'expliquer."
+    "13197": {
+        "「そ…うですか。残念……です。\n　もし　気が変わ……たら　また\n　この鏡に　話しかけてみ……ください。": "Je vois... C'est dommage... Si jamais vous\nchangez d'avis, n'hesitez pas a reparler a ce\nmiroir."
     },
-    "13912": {
-        "「閃香樹は　神聖なチカラが宿るといわれ\n　昔から　祭事などに　使われていた木です。": "L'arbre sacre Senka est repute pour abriter un\npouvoir divin et etait utilise dans les\nrituels et les ceremonies depuis les temps<br>anciens."
+    "13337": {
+        "「そ…れでは　その魔導の石を\n　鏡に向か……て　かかげて…ください。\n　こ…の鏡には　ステキな能力が　ある……です。": "Alors... veuillez diriger cette Pierre Magique\nvers le miroir... et la lever... s'il vous\nplait. Ce... miroir possede une capacite<br>merveilleuse..."
     },
-    "13913": {
-        "「それが証拠に　あなた方の\n　キリカ修道会に伝わる　木彫りの神像も\n　閃香樹を素材として　作られているそうです。": "Pour preuve, il parait que l'Idole en Bois\ntransmise par votre Ordre de Kirika est\negalement fabriquee a partir de l'arbre<br>parfume."
+    "13338": {
+        "「なんと　鏡自体の大き…さを超えな…モノなら\n　鏡を通し…て　相手側に　送るこ……が\n　できるんです…よ！": "Incroyable ! Si l'objet n'est pas plus grand\nque le miroir lui-meme, on peut le faire\npasser de l'autre cote a travers le miroir !"
     },
-    "13914": {
-        "「ですが……今から　閃香樹を探しても\n　手には入りませんぞ。なにしろ\n　３００年も前に　絶滅した木ですからな。": "Cependant... meme si vous cherchez l'arbre\nEclatant maintenant, vous ne pourrez pas\nmettre la main dessus. Apres tout, cet arbre a<br>disparu il y a 300 ans."
+    "13339": {
+        "魔導の石は　光に変わって\n鏡の中に　吸い込まれていった！": "La Magic Stone s'est transformee en lumiere et\na ete absorbee par le miroir !"
     },
-    "13915": {
-        "「なんと……！　<pc>さん。\n　木かげの集落に　戻りましょう。\n　僧正様たちに　このことを　お伝えしなくては。": "Que... ! <pc>-san. Retournons au hameau\nombrage. Nous devons informer les pretres de\ncela."
+    "13340": {
+        "「ちゃん…と　届きまし…たよ。\n　それでは　こちらか……も　今回のお礼……\n　送らせてもら……ますね！": "Ca... a bien ete recu. Alors, laissez-moi vous\nenvoyer... un remerciement cette fois-ci..."
     },
-    "13916": {
-        "「おお　<pc>と\n　香術師の方では　ありませんか。\n　いったい　おふたりで　どちらへ？": "Oh, mais n'est-ce pas <pc> et le maitre\ndes parfums ? Ou allez-vous tous les deux ?"
+    "13341": {
+        "「本当……あり……とうござい……た。\n　あな……が　親切な……で……かったです。": "本当ありがとうございました あなたが親切なで良かったです Vraiment... merci\nbeaucoup... Je suis content... que tu aies ete\nsi gentil."
     },
-    "13917": {
-        "「じつは　私と　<pc>さんは\n　死神の息吹から　人々を救う方法を\n　探していたのです。": "En fait, <pc>-san et moi recherchions un\nmoyen de sauver les gens du souffle du dieu de\nla mort."
+    "13342": {
+        "「あ…れ？　……を送っ……ら\n　急に……声……れなくな…………したね。": "Ah... quoi ? ... Envoyer... tout a coup... la\nvoix... n'est plus... entendue."
     },
-    "13918": {
-        "「そして　３００年前に　死神の息吹が \n　吹き荒れた時　閃香樹という香木による香術が\n　当時の人々を救ったと　わかりました。": "Et il a ete decouvert que, lorsque le souffle\ndu dieu de la mort a balaye le monde il y a\n300 ans, l'art des parfums utilisant le bois<br>parfume appele Senkōju a sauve les gens de\nl'epoque."
+    "13343": {
+        "「こ……鏡は……古……から……調子が……。\n　これ以……会話……には……。": "Le... miroir... depuis Old... ne fonctionne\npas bien. A partir de maintenant... la\nconversation... sera..."
     },
-    "13919": {
-        "「ですが……残念ながら　その閃香樹は\n　すでに　絶滅していました……。": "Mais... malheureusement, cet arbre lumineux a\ndeja disparu..."
+    "13344": {
+        "「……うですね。時が……たら……\n　試し……しょう。……まで\n　鏡の直しか…た……らべておきま……ね。": "Oui. Quand le moment sera venu Essayons D'ici\nla, je vais preparer la reparation du miroir…"
     },
-    "13920": {
-        "「おお……　なんということでしょう。": "Oh... Mais quelle surprise."
+    "13345": {
+        "「もしか……して　私の　お願い…を\n　引き受けてく…れる気に　なりました…か？": "Peut-etre... avez-vous decide de... repondre a\nma demande ?"
     },
-    "13921": {
-        "「ふふふ……。\n　しかし　グッドニュースですよ　皆さん！ ": "Fufufu... Cependant, j'ai une bonne nouvelle\npour vous tous !"
+    "26234": {
+        "「私は……魔法使い…リュナン。\n　たまたま　この…シーバの鏡を手に入れ……\n　鏡の向こうの　あな…たに　話しかけて…ます。": "Je suis... la magicienne... Lunan. Par hasard,\nj'ai obtenu... ce miroir de Sheba... et je\nm'adresse a... vous de l'autre cote du miroir."
     },
-    "13922": {
-        "「じゃじゃ～ん！　なんと！\n　あなた方の　ご神像が　その閃香樹で\n　作られているということが　わかったのです！": "Ta-da ! Incroyable ! Nous avons decouvert que\nvotre statue divine est fabriquee a partir de\ncet arbre lumineux !"
+    "41528": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
     },
-    "13923": {
-        "「………………。": ""
+    "41529": {
+        "「……れか　い……か？": "...Quelqu'un est la...?"
     },
-    "13924": {
-        "「……つまり　あのご神像を　お香にして焚けば \n　みんな　助かるってことですよ！！": "En d'autres termes, si nous brulons cette\nstatue sacree comme encens, tout le monde sera\nsauve !"
+    "41530": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
     },
-    "13925": {
-        "「……お前は　何も知らんのだ。 ": "...... Tu ne sais rien."
+    "41531": {
+        "「おや。あ…なたは　<pc>さん？\n　ま…た　お会いできるとは……\n　うれしい……ですね。": "Oh. Ah... Vous etes <pc>-san ? Je suis\nvraiment content... de vous revoir... C'est un\nplaisir... vraiment."
     },
-    "13926": {
-        "「あの　ご神像には　まことに\n　エルドナ神が　宿っている。\n　それを焚くことなど　できるはずがない。": "La statue sacree abrite veritablement Eldona.\nIl est impensable de la bruler."
+    "41532": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
     },
-    "13927": {
-        "「そ　そんな……。": "Je... je n'arrive pas a y croire..."
-    },
-    "13928": {
-        "「だが　よく調べてくれた。\n　その　絶滅した閃香樹とかいうのが\n　他に残っていないか　探してみるとしよう。 ": "Mais tu as bien enquete. Voyons si cet arbre\nlumineux, pretendument eteint, ne se trouve\npas ailleurs."
-    },
-    "13929": {
-        "「<pc>よ　ご苦労でしたね。\n　これを　お持ちなさい。": "<pc>, vous avez bien travaille. Prenez\nceci."
-    },
-    "13930": {
-        "「今は　これ以上　できることは　ありません。\n　死神の息吹のことは　我らにまかせて\n　あなたは　修練に　戻りなさい。": "Pour l'instant, il n'y a rien de plus que nous\npuissions faire. Laissez-nous nous occuper du\nSouffle du Dieu de la Mort. Retournez a votre<br>entrainement."
-    },
-    "13931": {
-        "「案ずることはない。\n　必ず　閃香樹を見つけだしてみせる。\n　あの子を……　アルノーを　死なせるものか。": "Ne t'inquiete pas. Je trouverai l'arbre\nEclatant a coup sur. Je ne laisserai pas cet\nenfant... Alnore mourir."
-    },
-    "32314": {
-        "「はぁはぁ……　どうして？\n　なんで　みんな　悲しそうな顔するの？": "Haa haa... Pourquoi ? Pourquoi tout le monde a\nl'air si triste ?"
-    },
-    "32315": {
-        "「ボク…どんなに　苦しくてもガマンできるよ。\n　お母さんが　どんな病気も　治してくれるもの。\n　だから　ボクのこと　心配しないで……。": "Moi... Peu importe combien c'est difficile, je\npeux supporter. Maman soignera toutes les\nmaladies. Alors, ne t'inquiete pas pour moi..."
+    "41533": {
+        "「あ……あ。<pc>さん。\n　約束の……魔導の石を……\n　取ってきて……れたんで…すね。": "Ah... Ah. <pc>-san. Vous avez ramene...\nla Magic Stone que vous aviez promise...\nn'est-ce pas ?"
     }
 }
