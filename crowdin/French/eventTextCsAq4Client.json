@@ -1,128 +1,227 @@
 {
-    "19709": {
-        "<pipipi_low>「やっているね　<pc>くん。\n　私も　聞き込みしてみたのだが\n　残念ながら　収穫は　なかったよ。": "<pipipi_low> Tu es en pleine action,\n<pc>-kun. J'ai essaye de recueillir des\ninformations moi aussi, mais malheureusement,<br>je n'ai rien trouve de concluant."
+    "15600": {
+        "「おおっ　<pc>！\n　よく来てくれた！": "Oh, <pc> ! Merci d'etre venu !"
     },
-    "19710": {
-        "「なんじゃ。ルベカの探偵ごっこか。\n　子守唄について　聞きたいとは\n　何を　調べているのやら。": "Qu'est-ce que c'est ? Encore un jeu de\ndetective de Rubeka ? Tu veux en savoir plus\nsur la berceuse ? Qu'est-ce que tu cherches<br>exactement ?"
+    "15601": {
+        "「そ…村王が　こんな手紙を残して\n　いなくなってしまったのだ。\n　読むから　そこで聞いていてくれ……。": "S... Le roi du village a laisse cette lettre\net a disparu. Je vais la lire, alors ecoutez\nbien..."
     },
-    "19711": {
-        "「バーバサさんは　声が聞こえるとか\n　闇に呑まれるとか　そういう歌詞の\n　子守唄を　知りませんか？": "Barbasa-san, ne connaissez-vous pas une\nberceuse avec des paroles qui parlent\nd'entendre des voix ou d'etre englouti par les<br>tenebres ?"
+    "15602": {
+        "「……ギュランよ。\n　お前を　わしの側近としてから\n　もう　１０年あまりの時が過ぎるか。": "…Guran. Cela fait deja plus de 10 ans que tu\nes a mes cotes en tant que conseiller."
     },
-    "19712": {
-        "「おお　それは　あの歌のことじゃな。\n　ルベカが　小さいころに\n　唄ってやったことが　ある気がするのう。": "Oh, cela doit etre a propos de cette chanson.\nJe crois que j'ai chante ca a Rubeka quand\nelle etait petite."
+    "15603": {
+        "「お前に　ひとつ頼みたいことがある。\n　これから　お前には　ランガーオ村の\n　子供たちのために　学校を作ってほしい。": "J'ai une faveur a te demander. A partir de\nmaintenant, j'aimerais que tu construises une\necole pour les enfants du village de Langao."
     },
-    "19713": {
-        "<center>ねーむれ～　よい子よ　ねーむれ～。\nねーむれ～　今すぐ　ねーむれ～。\nねむらーないと　聞こえてくーる～♪": "Dors, gentil enfant, dors. Dors, dors\nmaintenant. Si tu ne dors pas, tu l'entendras\nvenir~ ♪"
+    "15604": {
+        "「わしは　こう思うのだ。\n　ランガーオ村の若者たちが　この村だけで\n　生涯を終える時代は　もう終わった……と。": "Je pense ceci : l'epoque ou les jeunes de\nLangao Village passaient toute leur vie\nuniquement dans ce village est revolue..."
     },
-    "19714": {
-        "「昔は　よう唄われとったんじゃが\n　子供たちが　気味悪がってのう。\n　いつの間にか　唄われないようになったんじゃ。": "Autrefois, cette chanson etait souvent\nchantee, mais les enfants la trouvaient\neffrayante. Petit a petit, elle a cesse d'etre<br>chantee."
+    "15605": {
+        "「ジーガンフや　アロルドとマイユ\n　そして　<pc>のように　前途ある若者が\n　世界を旅することで　高みを目指す時代が来る。": "Comme Jiganf, Arold et Mayu, et aussi\n<pc>, une nouvelle ere arrive ou les\njeunes prometteurs cherchent a atteindre de<br>nouveaux sommets en parcourant le monde."
     },
-    "19715": {
-        "「おまえが死ぬ。命の輝きが　闇に呑まれる……。\n　そうよ。この子守唄だわ……。": "Tu vas mourir. La lueur de ta vie sera\nengloutie par les tenebres... Oui, c'est bien\nca. Cette berceuse..."
+    "15606": {
+        "「だが　若者たちが　見果てぬ世界に旅立つ時\n　この村のことしか知らずにいたら　困るだろう。\n　彼らが　そんな目に　あわぬように……": "Cependant, lorsque les jeunes partent a\nl'aventure vers un monde inconnu, s'ils ne\nconnaissent que ce village, cela pourrait leur<br>poser probleme. Pour qu'ils n'aient pas a\nfaire face a une telle situation..."
     },
-    "19716": {
-        "「バーバサさん　その子守唄について\n　他に　知っていることは　ありませんか！？": "Barbasa-san, y a-t-il autre chose que vous\nsachiez sur cette berceuse ?!"
+    "15607": {
+        "「お前が　子供たちに　この世界の\n　様々なことを　教えてやってほしいのだ。": "Je voudrais que tu enseignes aux enfants les\ndiverses choses de ce monde."
     },
-    "19717": {
-        "「はて……。これを　唄ってくれた母が\n　昔　この村に立ち寄った　旅の詩人が作ったと\n　言っておったような……。": "Hm... Ma mere, qui m'a chante cela, disait\nqu'un poete itinerant, qui s'etait arrete\nautrefois dans ce village, l'avait compose..."
+    "15608": {
+        "「この村で　いちばんアタマのいい　お前が\n　<pc>たちからの協力を得れば\n　必ず　実現できることだと　わしは信じる。": "Toi, qui es le plus intelligent de ce village,\nsi tu obtiens l'aide de <pc> et des\nautres, je suis convaincu que tu pourras y<br>parvenir."
     },
-    "19718": {
-        "「その詩人は　世界を旅して回り\n　旅先で聞いた出来事なんかを　もとにして\n　歌を作っておったらしいぞ。": "Le poete parcourait le monde, et il semble\nqu'il composait des chansons basees sur les\nevenements qu'il entendait lors de ses<br>voyages."
+    "15609": {
+        "「とても時間が　かかることだろう。\n　だが　わしからの　最後の頼みだ。\n　どうか　聞き届けてほしい。": "Cela prendra sans doute beaucoup de temps.\nMais c'est ma derniere requete. Je vous en\nprie, acceptez-la."
     },
-    "19719": {
-        "「……ということは　この子守唄にも \n　もとになった出来事か何かが\n　あったってことよね？": "…Cela signifie qu'il y a eu un evenement ou\nquelque chose qui a inspire cette berceuse,\nn'est-ce pas ?"
+    "15610": {
+        "「……手紙は　ここで終わっている。\n　これは　村王の……遺書ということか……。": "La lettre se termine ici. Serait-ce le\ntestament du roi du village...?"
     },
-    "19720": {
-        "「おそらく　その詩人は　レーンの村の次は\n　新たな歌の題材を探して　ジュレットの町にでも\n　行ったんじゃないかのう。": "Il est probable que ce poete, apres etre passe\npar le village de L'Anne, soit parti a Julet\npour chercher un nouveau sujet de chanson."
+    "15611": {
+        "「手紙には　行方は書かれていないが\n　とにかく　村王を　探さなくては！\n　<pc>よ！　村王を　探してくれるか！": "La lettre ne mentionne pas ou il est parti,\nmais nous devons absolument retrouver le roi\ndu village ! <pc> ! Peux-tu chercher le<br>roi du village ?"
     },
-    "19721": {
-        "「それじゃ　ジュレットのお年寄りなら\n　その詩人のことを　知ってる人がいる\n　可能性があるか……。": "Alors, il y a une possibilite que quelqu'un\nparmi les personnes agees de Jullet connaisse\nce poete..."
+    "15612": {
+        "「すまぬ　<pc>！　恩に着るぞ！": "Merci, <pc> ! Je te suis redevable !"
     },
-    "19722": {
-        "「ん～……。ちょっと　頼りない情報だけど \n　ジュレットの町の　お年寄りにも聞き込みして\n　旅の詩人のことを　調べてくれるかな。 ": "Hmm... Ce n'est pas une information tres\nfiable, mais pourrais-tu interroger les\npersonnes agees de Julet pour en savoir plus<br>sur le poete voyageur ?"
+    "15613": {
+        "「ただ　やみくもに　走り回るよりも\n　村王が　どこに行ったかの情報を\n　探す方が　確実だろう！": "Plutot que de courir partout sans but, il\nserait plus sur de chercher des informations\nsur l'endroit ou est alle le roi du village !"
     },
-    "19723": {
-        "「私も行くけど　だまって出かけると\n　お父さん　うるさいから　外出許可とってくる。\n　<pc>は　先に向かっててね。": "Je vais y aller aussi, mais si je pars sans\nrien dire, mon pere va faire toute une scene.\nJe vais donc demander la permission de sortir.<br><pc>, tu peux y aller en avant."
+    "15614": {
+        "「こちらも　手を尽くす。\n　<pc>も　まずは情報集めに\n　全力を　注いでくれ！": "Nous allons egalement faire tout notre\npossible. <pc>, concentre-toi d'abord\nsur la collecte d'informations de toutes tes<br>forces !"
     },
-    "19724": {
-        "「……これからは　この女の子のことを\n　調べていこうと思うの。\n　そのときは　また　チカラを貸してね。": "Desormais, je pense que je vais enqueter sur\ncette jeune fille. Quand ce moment viendra,\nprete-moi encore ta force."
+    "15615": {
+        "「やってくれるか……。\n　しかし　どうやら　今は　頼まれごとで\n　手いっぱいのようだな……。": "Tu es pret a le faire, n'est-ce pas...\nCependant, il semble que tu sois deja bien\noccupe avec toutes les demandes qu'on t'a<br>faites..."
     },
-    "19725": {
-        "「だけど今は　早く家に帰って　休みたいわ。\n　<pc>くん　またね……。": "Mais pour l'instant, je veux juste rentrer\nchez moi et me reposer. <pc>-kun, a\nbientot..."
+    "15616": {
+        "「取りかえしが　つかないことになる前に\n　一刻も早く　手を空けてきてくれ！": "Avant qu'il ne soit trop tard, viens nous\naider des que possible !"
     },
-    "28437": {
-        "<center>おまえが死ぬと～　聞こえる　あの声～。\n命の～　輝きが　闇に呑まれるーと～。\nだーから　よいー子よ～♪": "Quand j'entends cette voix qui murmure que tu\nvas mourir... Ils disent que l'eclat de la vie\nsera englouti par les tenebres. Alors, cher<br>enfant... ♪"
+    "15617": {
+        "「そうか……。\n　わかった。ならば　仕方がない。": "Je vois... D'accord. Dans ce cas, il n'y a pas\nd'autre choix."
     },
-    "28438": {
-        "<center>名前を～　呼ばれる　その前ーに～。\nねーむれ～　今すぐ　ねーむれ～♪": "Avant que mon nom ne soit appele～. Dors～ Dors\nmaintenant～♪"
+    "15618": {
+        "「だが　村王を探してくれる気になったら\n　ここに来てくれ。頼むぞ。": "Mais si tu te decides a chercher le roi du\nvillage, viens ici. Je t'en prie."
     },
-    "28478": {
-        "「昔を思いだして　ちょっと　唄ってみようかね。": "Je vais repenser au bon vieux temps et chanter\nun peu."
+    "15619": {
+        "「おおっ　<pc>！\n　また来てくれたということは\n　頼みを　聞いてくれるのだな？": "Oh, <pc> ! Tu es revenu, cela signifie\nque tu vas accepter ma demande, n'est-ce pas ?"
     },
-    "28479": {
-        "<pipipi_low>「むむっ。もしかして　何か\n　手がかりを見つけたのかね　<pc>くん。": "<pipipi_low>Hum. Aurais-tu trouve un indice,\n<pc>-kun ?"
+    "15620": {
+        "「村王が残した手紙の内容を　聞きたいか？<yesno><close>": "Veux-tu entendre le contenu de la lettre\nlaissee par le roi du village ? <yesno><close>"
     },
-    "28480": {
-        "「ちょっと　私に貸して。読んでみるから！": "Un instant, prete-le-moi. Je vais essayer de\nle lire !"
+    "15621": {
+        "「わかった……。\n　ならば　もう一度　読もう。": "D'accord... Dans ce cas, lisons-le encore une\nfois."
     },
-    "28481": {
-        "「……ジュレットの町。立ち並ぶ貝がらの家。\n　浜辺に集う恋人たち。愛の歌。別れの歌。\n　香る潮風。海の歌……。": "Julet. Les maisons en forme de coquillages\nalignees. Les amoureux se rassemblant sur la\nplage. Chants d'amour. Chants de separation.<br>Le parfum du vent marin. Chants de la mer."
+    "15622": {
+        "「……ギュランよ。\n　お前を　わしの側近としてから\n　もう　１０年あまりの時が過ぎるか。": "…Guran. Cela fait deja plus de 10 ans que tu\nes a mes cotes en tant que conseiller."
     },
-    "28482": {
-        "「ふむふむ……。このノートには\n　歌の題材に　なりそうなものが \n　書かれてるみたいね。": "Hmm hmm... Il semble que ce carnet contienne\ndes idees qui pourraient servir de sujets pour\ndes chansons."
+    "15623": {
+        "「お前に　ひとつ頼みたいことがある。\n　これから　お前には　ランガーオ村の\n　子供たちのために　学校を作ってほしい。": "J'ai une faveur a te demander. A partir de\nmaintenant, j'aimerais que tu construises une\necole pour les enfants du village de Langao."
     },
-    "28483": {
-        "「あっ　そういうことね！": "Ah, je vois ce que tu veux dire !"
+    "15624": {
+        "「わしは　こう思うのだ。\n　ランガーオ村の若者たちが　この村だけで\n　生涯を終える時代は　もう終わった……と。": "Je pense ceci : l'epoque ou les jeunes de\nLangao Village passaient toute leur vie\nuniquement dans ce village est revolue..."
     },
-    "28484": {
-        "「この真実　いただきます！": "Je prends ce T. Jitsu !"
+    "15625": {
+        "「ジーガンフや　アロルドとマイユ\n　そして　<pc>のように　前途ある若者が\n　世界を旅することで　高みを目指す時代が来る。": "Comme Jiganf, Arold et Mayu, et aussi\n<pc>, une nouvelle ere arrive ou les\njeunes prometteurs cherchent a atteindre de<br>nouveaux sommets en parcourant le monde."
     },
-    "28485": {
-        "「これは　重要な手がかりよ！\n　よく　見つけだしてくれたわ。\n　これは　お礼だから　とっておいてね。": "Voici un indice important ! Tu as bien fait de\nle trouver. Ceci est une recompense, alors\ngarde-le precieusement."
+    "15626": {
+        "「だが　若者たちが　見果てぬ世界に旅立つ時\n　この村のことしか知らずにいたら　困るだろう。\n　彼らが　そんな目に　あわぬように……": "Cependant, lorsque les jeunes partent a\nl'aventure vers un monde inconnu, s'ils ne\nconnaissent que ce village, cela pourrait leur<br>poser probleme. Pour qu'ils n'aient pas a\nfaire face a une telle situation..."
     },
-    "28486": {
-        "「これが　レーンの村に来た　詩人のノートなら \n　あの子守唄のもとになった出来事も\n　書かれているはず！　それを　見つければ……。": "Si c'est le carnet du poete qui est venu au\nvillage de Lain, alors l'evenement qui a\ninspire cette berceuse devrait y etre ecrit !<br>Si nous pouvons le trouver..."
+    "15627": {
+        "「お前が　子供たちに　この世界の\n　様々なことを　教えてやってほしいのだ。": "Je voudrais que tu enseignes aux enfants les\ndiverses choses de ce monde."
     },
-    "28487": {
-        "「あったわ……。": "Je l'ai trouve..."
+    "15628": {
+        "「この村で　いちばんアタマのいい　お前が\n　<pc>たちからの協力を得れば\n　必ず　実現できることだと　わしは信じる。": "Toi, qui es le plus intelligent de ce village,\nsi tu obtiens l'aide de <pc> et des\nautres, je suis convaincu que tu pourras y<br>parvenir."
     },
-    "28488": {
-        "「……レーンの村。興味深い話。\n　死を呼ぶ少女。恐れる村人。": "...Le village de Lain. Une histoire\ninteressante. Une jeune fille qui invoque la\nmort. Les villageois effrayes."
+    "15629": {
+        "「とても時間が　かかることだろう。\n　だが　わしからの　最後の頼みだ。\n　どうか　聞き届けてほしい。": "Cela prendra sans doute beaucoup de temps.\nMais c'est ma derniere requete. Je vous en\nprie, acceptez-la."
     },
-    "28489": {
-        "「……名前を呼ばれて　死ぬ村人。\n　少女が使う　死の言葉とは……。": "...Un villageois qui meurt lorsqu'on prononce\nson nom. Quels sont ces mots de mort utilises\npar la jeune fille...?"
+    "15630": {
+        "「……書かれているのは　これで　以上だ。": "…C'est tout ce qui est ecrit."
     },
-    "28490": {
-        "「…………が死ぬ。命の輝き　闇に呑まれる。": "...... va mourir. La lueur de la vie est\nengloutie par les tenebres."
+    "15631": {
+        "「手紙には　行方は書かれていない。\n　<pc>よ。とにかく　村王を\n　見つけだしてほしい。やってくれるか？": "La lettre ne mentionne pas sa destination.\n<pc>. En tout cas, je veux que tu\nretrouves notre chef de village. Peux-tu le<br>faire ?"
     },
-    "28491": {
-        "「これって　やっぱり……。\n　あれは　空耳なんかじゃ　なかったんだわ……。": "Ca alors, c'est vrai... Ce n'etait pas qu'une\nillusion auditive..."
+    "15632": {
+        "「<pc>！\n　村王のことは　何か　わかったか！": "<pc> ! As-tu appris quelque chose sur le\nroi du village ?"
     },
-    "28492": {
-        "「……あのね　<pc>。\n　変なことを言うようだけど　聞いてほしいの。": "…Tu sais, <pc>. Je vais peut-etre te\ndire quelque chose d'etrange, mais j'aimerais\nque tu m'ecoutes."
+    "15633": {
+        "「その様子だと　どうやら\n　何も　わからないようだな……。": "A te voir, il semble que tu ne comprends\nrien..."
     },
-    "28493": {
-        "「私のアタマの中でね。\n　ときどき　女の子の声が　聞こえるの。": "Dans ma tete, parfois, j'entends la voix d'une\nfille."
+    "15634": {
+        "「とにかく　手遅れになる前に　急いで\n　村王を　探しだしてくれ。まずは　村人たちから\n　目撃情報を集めるのが　よいだろう。": "En tout cas, avant qu'il ne soit trop tard,\ndepeche-toi de retrouver le roi du village.\nPour commencer, il serait judicieux de<br>recueillir des informations aupres des\nvillageois."
     },
-    "28494": {
-        "「…………が死ぬ。\n　命の輝きが　闇に呑まれる……って。": "...quelqu'un va mourir. La lueur de la vie\nsera engloutie par les tenebres..."
+    "15635": {
+        "「おっとっと。こりゃ　すいません。": "Oh la la. Je suis vraiment desole."
     },
-    "28495": {
-        "「なんだか　気味が悪いし……。\n　ただの空耳だって　思うようにしてた。　　": "Je ne sais pas, ca me donne un peu la chair de\npoule... J'essayais de me convaincre que ce\nn'etait que mon imagination."
+    "15636": {
+        "「おや？　あなたも　旅の方のようですな。\n　アッシも　世界を旅しながら　めずらしい物を\n　仕入れて回る　旅の商人でござんすよ。": "Oh ? Vous semblez etre un voyageur vous aussi.\nJe suis egalement un Peddler, parcourant le\nmonde a la recherche d'objets rares."
     },
-    "28496": {
-        "「だけど　古い村人名簿から\n　女の子の名前が　消されてるのを見たとき\n　すごく　イヤな予感がして……。": "Mais quand j'ai vu que le nom de la fille\navait ete efface de la Old Villager List, j'ai\neu un tres mauvais pressentiment..."
+    "15637": {
+        "「……むむっ？　ワケありな様子でござんすね。\n　ほうほう……。村王クリフゲーンさまを\n　どこかで　見かけなかったかと？": "Hmm ? Vous semblez avoir une situation\nparticuliere, n'est-ce pas ? Oh oh... Vous\ncherchez a savoir si quelqu'un aurait apercu<br>Chief Cliffgain quelque part ?"
     },
-    "28497": {
-        "「昔　聴いた子守唄に　アタマの中の声と\n　同じ言葉があったのを　思いだしたの！": "Je me suis souvenu que la berceuse que j'ai\nentendue autrefois contenait les memes mots\nque ceux de la voix dans ma tete !"
+    "15638": {
+        "「村王なら　この村に来る道中に\n　おかしな場所で　見かけたでござんすよ。": "Si c'est le roi du village, je l'ai apercu en\nchemin vers ce village, dans un endroit\netrange."
     },
-    "28498": {
-        "「私のアタマの中に　聞こえるのは\n　たぶん　この女の子の声なんだよ……。": "Ce que j'entends dans ma tete, c'est\nprobablement la voix de cette fille..."
+    "15639": {
+        "「あれは　たしか……　獅子門から\n　グレン領東に抜けた辺り……村王は\n　そこから　西の方へ向かっていきやしたね。": "Ah, c'etait bien... Juste apres avoir traverse\ndepuis la Lion Gate en direction de Glen\nEast... Le roi du village s'est dirige vers<br>l'ouest a partir de la."
     },
-    "28499": {
-        "「なんで　私に話しかけるの？\n　この女の子は　いったい　何者なの！？": "Pourquoi me parles-tu ? Qui est donc cette\nfille !?"
+    "15640": {
+        "「なんだか　顔色が悪かったんで\n　妙に　気がかりだったんでござんすよ。": "Je ne sais pas, vous aviez l'air pale, alors\nca m'inquietait etrangement."
     },
-    "28500": {
-        "「村人名簿からも　名前が消されてるなんて\n　この女の子は　どうなったの……。": "Il semble que son nom ait ete efface du\nregistre des villageois... Qu'est-il arrive a\ncette jeune fille..."
+    "15641": {
+        "「では　アッシは　先を急ぎますんで\n　失礼いたしやすよ。": "Alors, je suis presse, je vais vous laisser."
+    },
+    "15642": {
+        "「<pc>！\n　村王のことは　何か　わかったか！": "<pc> ! As-tu appris quelque chose sur le\nroi du village ?"
+    },
+    "15643": {
+        "「……なに？　旅の商人が　グレン領東で\n　村王を見かけたという　情報があった？": "Quoi ? Il parait que le colporteur a apercu le\nroi du village a Glen East ?"
+    },
+    "15644": {
+        "「村王が　グレン領東に行くなどという話は\n　聞いていない……。それは　有力な情報だな。": "Je n'ai pas entendu parler du roi du village\nse rendant a Glen East... Voila une\ninformation precieuse."
+    },
+    "15645": {
+        "「よし！　そういうことなら\n　急いで　グレン領東に行き　村王を探してくれ！\n　<pc>　頼んだぞ！": "Bien ! Dans ce cas, depeche-toi d'aller a Glen\nEast et trouve le roi du village ! <pc>,\nje compte sur toi !"
+    },
+    "15646": {
+        "「あの　ガガベスの　忘れ形見……。\n　さぞ強くなっただろうと　思ってはいたが\n　よもや　これほどとはな……。": "Ah, le souvenir vivant de Gagabes... Je\nm'attendais a ce que tu sois devenu fort, mais\njamais je n'aurais imagine a ce point..."
+    },
+    "15647": {
+        "「今の　お前ならば……\n　ジーガンフや　アロルドにさえ\n　勝てるかもしれん……。": "Dans ton etat actuel... tu pourrais meme\nvaincre Jiganf et Arold..."
+    },
+    "15648": {
+        "「自ら　戦いを挑みにきた　その勇気には\n　価値があると　認めてやろう。": "Je reconnais la valeur de ton courage pour\netre venu me defier toi-meme."
+    },
+    "15649": {
+        "「だが　相手の実力と　おのれの実力を\n　推し量る能力まで　失ったとあっては\n　ただの　もうろくした　年寄りだ。": "Cependant, si tu as perdu la capacite\nd'evaluer la force de ton adversaire ainsi que\nla tienne, tu n'es plus qu'un vieillard<br>senile."
+    },
+    "15650": {
+        "「……老いるということは　みじめなことだな。\n　クリフゲーン。": "... Vieillir, c'est une chose bien miserable,\nn'est-ce pas, Cliffgane."
+    },
+    "15651": {
+        "「……お前の　言うとおりだ。": "......Tu as raison."
+    },
+    "15652": {
+        "「どうやら　わしに　勝ち目はないようだ……。\n　さあ　とどめを刺せ……！\n　今こそ　父親の無念を　晴らすがいい。": "Il semble que je n'ai aucune chance de\ngagner... Allez, donnez-moi le coup de\ngrace... C'est le moment de venger l'injustice<br>subie par votre pere."
+    },
+    "15653": {
+        "「だが……　最後に　ひとつだけ\n　わしの願いを　聞いてくれぬか……。": "Mais... avant de partir, pourrais-tu accorder\nune derniere requete de ma part...?"
+    },
+    "15654": {
+        "「……言ってみろ。": "…Dis-le."
+    },
+    "15655": {
+        "「ガガイよ……。\n　ランガーオ村に　戻るのだ……。": "Gagai... Retourne au village de Langao..."
+    },
+    "15656": {
+        "「お前は　強い……。\n　あの村は　強き者を　尊敬で迎える。\n　きっと　お前は　歓迎されるはずだ……。": "Tu es fort... Ce village accueille les\npuissants avec respect. Je suis sur que tu\nseras bienvenu..."
+    },
+    "15657": {
+        "「ガガベスに勝った　あの日に……\n　お前を　復讐の鬼にしてしまったのなら\n　わしは　お前に　未来を返したいのだ……。": "Le jour ou tu as vaincu Gagabess... Si cela a\nfait de toi un demon de la vengeance, je veux\nte rendre ton avenir..."
+    },
+    "15658": {
+        "「故郷　ランガーオ村で生きよ。\n　わしは　誰にも伝えず　ここに来た。\n　お前が　わしを倒したことは　誰も知らん。": "Vis dans ton village natal, Langao Village. Je\nsuis venu ici sans en informer personne.\nPersonne ne saura que tu m'as vaincu."
+    },
+    "15659": {
+        "「貴様に　このオレの気持ちを知ることなど\n　できるはずがないのだ……。": "<player>... Tu ne peux pas comprendre ce que\nje ressens..."
+    },
+    "15660": {
+        "「残念だが　お前に　とどめは刺さん。": "Je suis desole, mais je ne vais pas t'achever."
+    },
+    "15661": {
+        "「な　なに……！？\n　なぜだ……。": "Qu-quoi... !? Pourquoi...?"
+    },
+    "15662": {
+        "「オレの目的は　お前を殺すことだけではない。": "Mon objectif n'est pas seulement de te tuer."
+    },
+    "15663": {
+        "「身体が動くようになったら\n　村に戻って　こう伝えろ。\n　死神が　この村を　滅ぼしにくる……とな。": "Quand ton corps pourra bouger a nouveau,\nretourne au village et dis-leur ceci : la Mort\nelle-meme va venir detruire ce village..."
+    },
+    "15664": {
+        "「死神から逃げるか　立ち向かうかは\n　お前たち次第だ。だが　いずれにせよ\n　ランガーオ村は　壊滅させる。": "Que vous choisissiez de fuir la mort ou de\nl'affronter, cela depend de vous. Mais quoi\nqu'il en soit, le village de Langao sera<br>detruit."
+    },
+    "15665": {
+        "「バカな……。お前は………。": "Incroyable... Tu es..."
+    },
+    "15666": {
+        "「あの　腐った村を　壊滅させなくては\n　オレが　この世に生を受けた　意味がない。": "Je dois aneantir ce village pourri, sinon ma\nnaissance en ce monde n'aura aucun sens."
+    },
+    "15667": {
+        "「そして　クリフゲーンよ。貴様には\n　あの村が滅びる様を　見届ける義務がある。\n　かんたんに　死なせてもらえると思うな。": "Et toi, Cliffghen. Tu as le devoir de\ntemoigner de la destruction de ce village. Ne\npense pas que tu seras autorise a mourir<br>facilement."
+    },
+    "15668": {
+        "「なっ……<pc>？\n　まさか……。": "Quoi... <pc> ? Impossible..."
+    },
+    "15669": {
+        "「そうか　ギュランに頼まれて\n　わしを探しにきてくれたのか……。": "Je vois, tu es venu me chercher a la demande\nde Guran..."
+    },
+    "15670": {
+        "「あれが　ガガベスの息子　ガガイ……。\n　若き日の　わしが生んでしまった\n　復讐の鬼だ……。": "<C'est le fils de Gagabess, Gagai... C'est le\ndemon de la vengeance que j'ai engendre dans\nma jeunesse...>"
+    },
+    "15671": {
+        "「戦ってみて　確信した……。\n　今の　ガガイの強さならば　本当に\n　たったひとりで　村を壊滅させられるだろう。": "En te combattant, j'en suis maintenant\nconvaincu... Avec la force actuelle de Gagai,\nil pourrait vraiment aneantir un village a lui<br>seul."
+    },
+    "15672": {
+        "「ジーガンフも　アロルドも\n　村にいない今　ガガイを　止める術がない。\n　いったい　どうすれば……。": "Ni Jiganf ni Arold ne sont dans le village en\nce moment, il n'y a donc aucun moyen d'arreter\nGagai. Que pouvons-nous bien faire..."
+    },
+    "15673": {
+        "「とにかく　一度　村に戻ろう……。\n　わしなら大丈夫だ。ひとりで　戻れる……。": "Quoi qu'il en soit, retournons au village une\nfois... Je peux me debrouiller seul, je peux\nrentrer tout seul..."
+    },
+    "15674": {
+        "「<pc>も　村に戻ったら\n　わしの所へ　来てくれ……。": "Quand tu seras de retour au village,\n<pc>, viens me voir..."
     }
 }
