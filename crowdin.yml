@@ -1,5 +1,5 @@
 files:
-  - source: "/**/*.json"  # Tous les fichiers JSON du projet
+  - source: "/**/eventTextCs*.json"  # Tous les fichiers JSON du projet
     translation: "/crowdin/%language%/%original_file_name%"  # Structure d'export des traductions
     type: "json"  # Indique à Crowdin que les fichiers sont en JSON
     update_option: "update_as_unapproved"  # Garde les nouvelles entrées non validées
