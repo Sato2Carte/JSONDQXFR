@@ -1,83 +1,41 @@
 {
-    "57715": {
-        "「ま…待って　ウサギさん。\n　ゴホッ……ケホッ　ケホッ！": "At... attends, M. Lapin. Gah... *tousse*\n*tousse* !"
+    "57431": {
+        "「……あなた　町の入り口で会った人ね。\n　パパなら　留守よ。なんの用？": "Oh, vous etes la personne que j'ai rencontree\na l'entree de la ville. Papa n'est pas la en\nce moment. Que puis-je faire pour vous ?"
     },
-    "64890": {
-        "「見て見て　ジャーミィ。\n　この子ったら　苦しそう～。": "Regarde, regarde, Jamy. Ce petit a l'air de\nsouffrir~."
+    "57432": {
+        "「って　それ……。": "Quoi... ?"
     },
-    "64891": {
-        "「ホントね　バーティ。\n　ゼーゼーいっちゃって　みっともないわぁ。": "Vraiment, Barty. Tu es a bout de souffle,\nc'est assez peu flatteur."
+    "57433": {
+        "「それ……姉さんの日記帳……。\n　ねえ　返して……！<yesno><close>": "Ca... c'est le journal intime de ma soeur...\nS'il te plait, rends-le-moi... <yesno><close>"
     },
-    "64892": {
-        "「あたしたち　とっても忙しくって\n　かまってあげる　ヒマなんてないのに～。": "Nous sommes tellement occupees que nous\nn'avons meme pas le temps de nous occuper de\ntoi~."
+    "57434": {
+        "「言うこと聞かないと　呪うわよ。\n　早く　返して……！<yesno><close>": "Si tu ne fais pas ce que je dis, je te\nmaudirai. Rends-le moi vite... !\n<yesno><close>"
     },
-    "64893": {
-        "「ほんとよぉ！　いつまでも\n　ついてきちゃって　しつこい子ねぇ。": "Vraiment ! Tu continues de me suivre sans\ncesse, quel enfant collant."
+    "57435": {
+        "<pc>は　女の子に\nきらきらした本を　渡した！": "<pc> a donne le Glittering Book a la\nfille !"
     },
-    "64894": {
-        "「あららん？　あの子\n　どこかで　見たような～？": "Ah, tiens ? Cette enfant... Je suis sure de\nl'avoir deja vue quelque part~ ?"
+    "57436": {
+        "「この日記帳　ずっと探してたの……。\n　えっと　あなたは……？": "Ce journal intime... Je l'ai cherche\npartout... Euh, qui etes-vous... ?"
     },
-    "64895": {
-        "「おややん？　ジャマ者が　もう１匹！\n　こーなったら　まとめて\n　ボコって　追い払ってやるわぁ！": "Oh la la ! Un autre intrus se pointe ! Dans ce\ncas, je vais vous botter le derriere et vous\nchasser tous les deux !"
+    "57437": {
+        "「……ふうん　<pc>というの。\n　私は　ルコリア。この日記の持ち主である\n　リゼロッタ姉さんの　双子の妹よ……。": "Hmm, tu t'appelles <pc>. Je suis\nLucolia. Je suis la soeur jumelle de\nLieselotte, la proprietaire de ce journal..."
     },
-    "64896": {
-        "「たいへん　バーティ。ハラペコだわぁ。": "C'est difficile, Berti. J'ai vraiment faim."
+    "57438": {
+        "「これはね……。\n　リゼロッタ姉さんの遺品なの……。": "Ceci... Ce sont les effets personnels de ma\nsoeur Lieselotte..."
     },
-    "64897": {
-        "「奇遇ね　ジャーミィ。おやつの時間よ～。\n　ボコボコは　明日にしましょ～。": "Quelle coincidence, Jarmy. C'est l'heure du\ngouter~. Reportons les Bangers a demain~."
+    "57439": {
+        "「めずらしく　部屋から出てきたと思ったら\n　玄関先で　立ち話か。\n　お前には　他にやることがないのか？": "Tu sors rarement de ta chambre, et quand tu le\nfais, c'est pour bavarder a l'entree. N'as-tu\ndonc rien de mieux a faire ?"
     },
-    "64898": {
-        "「ゴホッ……。\n　ごめんなさい　<pc>さん。\n　ご心配を　おかけしました。": "*Kof kof*... Je suis desole, <pc>-san.\nJe vous ai cause du souci."
+    "57440": {
+        "「パ…パパは　毎日　お忙しいもの……ね。\n　姉さんの墓参りなんて　忘れちゃうくらい\n　……た　大変なんでしょ？": "Pa... Papa est tres occupe chaque jour...\nn'est-ce pas. Il doit etre tellement pris\nqu'il en oublie meme de se recueillir sur la<br>tombe de ma soeur..."
     },
-    "64899": {
-        "「私　あのウサギさんたち　知ってます。 \n　おじいさまの　童話に出てきた\n　いたずらウサギさんです。": "Je connais ces lapins. Ce sont les lapins\nespiegles qui apparaissent dans les contes de\nmon grand-pere."
+    "57441": {
+        "「子供が　大人の仕事に　クチをはさむな！\n　あんな恥さらし　娘でもなんでもない。": "Un enfant ne devrait pas se meler des affaires\ndes adultes ! Cette honte, ce n'est ni ma\nfille ni rien."
     },
-    "64900": {
-        "「童話の人物が　本当にいるなんて\n　おかしいと思って\n　夢中で　追いかけてきてしまって……。": "Je trouve ca etrange que des personnages de\ncontes de fees existent vraiment, alors je me\nsuis laisse emporter et je les ai poursuivis<br>sans reflechir..."
+    "57442": {
+        "「旅の方。せっかく　お訪ねいただいたのに\n　すみませんが　今は　立て込んでおりましてな。\n　今日のところは　お引き取りください。": "Voyageur. Je suis desole que vous ayez fait\ntout ce chemin, mais nous sommes tres occupes\nen ce moment. Pour aujourd'hui, je vous prie<br>de bien vouloir repartir."
     },
-    "64901": {
-        "「やっぱり　ウサギさんに\n　会って　話を聞かなきゃ……。": "Il faut vraiment que je rencontre Madame Lapin\net que je lui parle..."
-    },
-    "64908": {
-        "「ウサギさん　いないわ。\n　どこへ　行ったのかしら？": "Le petit lapin n'est pas la. Ou a-t-il bien pu\naller ?"
-    },
-    "64909": {
-        "「ここは　どこだ？ \n　こもれびの広場……なのか？": "Ou sommes-nous ? Est-ce la Clairiere des\nRayons de Soleil... ?"
-    },
-    "64910": {
-        "「よお　嬢ちゃん。見かけねえ顔だな。": "Salut, jeune demoiselle. Je ne reconnais pas\nton visage."
-    },
-    "64911": {
-        "「あなたは　もしかして……。": "Es-tu peut-etre..."
-    },
-    "64912": {
-        "「俺は　ザンクローネ！\n　あんたが　メルサンディの村人なら\n　当然　知ってんだろ？": "Je suis Zankrone ! Si tu es un villageois de\nMelSan, tu me connais forcement, non ?"
-    },
-    "64913": {
-        "「あぁっ……。": "Ah..."
-    },
-    "64914": {
-        "「おい！　ひとの顔見て\n　ぶっ倒れるたぁ　どういうことだよ！": "He ! Que veux-tu dire par t'evanouir en voyant\nle visage de quelqu'un ?"
-    },
-    "64915": {
-        "「まいったぜ……。": "Je suis vraiment depasse..."
-    },
-    "64916": {
-        "「……ん？\n　お前　<pc>じゃねえか！": "…Hm ? Mais tu ne serais pas <pc> !"
-    },
-    "64917": {
-        "「なんか　よくわかんねえけど\n　いたずらウサギを追って　井戸に飛び込んだら\n　同じ井戸から　飛びだしちまってな。": "Je ne comprends pas trop, mais en poursuivant\nun lapin farceur, j'ai saute dans le puits et\nme voila ressorti par le meme puits."
-    },
-    "64918": {
-        "「だが　まさかその先に　お前がいるとは！ \n　会えて　うれしいぜ。": "Mais je ne m'attendais pas a te trouver la !\nJe suis content de te voir."
-    },
-    "64919": {
-        "「さて　あの失礼な嬢ちゃんを\n　なんとかしねえとな。どの家のヤツだ？": "Bon, il faut faire quelque chose a propos de\ncette demoiselle impolie. De quelle famille\nvient-elle ?"
-    },
-    "64920": {
-        "「でけえ　テラスの家？\n　ラスカの家に　あんな嬢ちゃんいたか？": "Une grande maison avec une terrasse ? Y\navait-il une demoiselle comme ca chez Raska ?"
-    },
-    "64921": {
-        "「まあ　いいぜ……。 \n　家までは　運んどくから　後のことは頼む。": "Tres bien... Je vais le transporter jusqu'a la\nmaison, alors je compte sur toi pour la suite."
+    "57443": {
+        "「……日記帳　届けてくれて　ありがと。\n　それじゃ　さよなら。": "...Merci de m'avoir apporte le journal. Alors,\nau revoir."
     }
 }
