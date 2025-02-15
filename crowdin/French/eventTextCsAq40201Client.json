@@ -1,0 +1,149 @@
+{
+    "186440": {
+        "「うぐっ……！": "Ugh... !"
+    },
+    "186441": {
+        "「<cs_pchero>殿……！": "<cs_pchero> dono... !"
+    },
+    "186442": {
+        "「あの少女を　どうか\n　助けてやってください……！": "S'il vous plait, sauvez cette jeune fille... !"
+    },
+    "186443": {
+        "「おい……大丈夫か！？": "He... ca va ?!"
+    },
+    "186444": {
+        "「ケガは　ないようですが\n　どうやら　気を失っているようです。": "Il ne semble pas blesse, mais il a apparemment\nperdu connaissance."
+    },
+    "186445": {
+        "「<cs_pchero>殿のおかげで　助かりました。\n　しかし　どうして　ここへ……？": "Grace a vous, <cs_pchero> dono, j'ai ete\nsauve. Mais comment etes-vous arrive ici...?"
+    },
+    "186446": {
+        "「……そうですか。\n　ディカス殿に　聞いて\n　駆けつけてくださったのですね。": "Je vois. Vous avez entendu Dicus-dono et vous\netes venu en hate, n'est-ce pas ?"
+    },
+    "186447": {
+        "「邪悪なる意志が現れたという　話を聞いて\n　いてもたってもいられず……\n　ここまで　たどり着いてしまいました。": "J'ai entendu dire que Evil Will a ete P. Ca\nm'a tellement trouble... Je suis arrive\njusqu'ici sans pouvoir me retenir."
+    },
+    "186448": {
+        "「すると　この少女が倒れていて\n　突如　あの魔物が　現れたのです。": "C'est alors que cette jeune fille s'est\neffondree et soudainement, ce monstre est\napparu."
+    },
+    "186449": {
+        "「なんとか　守ろうとしたのですが\n　チカラ及ばず……。情けないところを\n　お見せしてしまいました。": "J'ai essaye de proteger, mais je n'ai pas eu\nla force... Je vous ai montre une facette bien\npitoyable de moi."
+    },
+    "186450": {
+        "「あの魔物……　怪しげな煙になって\n　どこかへ　流れ去っていきましたが\n　あれは　いったい……？": "Ce monstre... Il s'est transforme en une fumee\netrange et s'est dissipe quelque part.\nQu'etait-ce donc...?"
+    },
+    "186451": {
+        "「とにかく　ひとまず　この少女を連れて\n　ルシュカへ　戻りましょう。\n　ディカス殿に　報告しなくては。": "En tout cas, ramenons d'abord cette jeune\nfille a Luschka. Nous devons en informer\nDicus-dono."
+    },
+    "186452": {
+        "「くっ……！\n　なに　これくらいのキズ……\n　たいしたことは　ありません。": "Argh... ! Ce n'est rien, une blessure comme\ncelle-ci... Ce n'est pas grave."
+    },
+    "186453": {
+        "「<cs_pchero>殿も　ルシュカまで\n　おこしください。": "<cs_pchero>殿も、ルシュカまでお越しください"
+    },
+    "186454": {
+        "「そうか……。\n　邪悪なる意志は　見つからなかったのだな。": "Je vois... Tu n'as pas trouve Evil Will."
+    },
+    "186455": {
+        "「こちらでも　その後　目撃情報はない……。\n　何が　目的なのかは　わからぬが\n　引き続き　警戒することにしよう。": "Ici non plus, nous n'avons pas eu d'autres\nobservations depuis... Nous ne savons toujours\npas quel est leur objectif, mais restons<br>vigilants."
+    },
+    "186456": {
+        "「<pc>殿も　ご苦労だった。": "<pc>-dono, vous avez egalement beaucoup\ntravaille."
+    },
+    "186457": {
+        "「……ディカス殿。邪悪なる意志に\n　得体のしれない魔物……　このような状況下で\n　会談への出席が厳しいのは　重々　承知です。": "......Dicus-dono. Je comprends parfaitement\nqu'il soit difficile d'assister a la reunion\ndans une situation ou Evil Will est accompagne<br>d'une creature aux intentions inconnues..."
+    },
+    "186458": {
+        "「しかし　だからこそ　今後について \n　皆で　話し合う必要が　あるのでは？\n　今こそ　全領界が　協力しあう時なのです！": "Cependant, c'est precisement pour cela qu'il\nest necessaire de discuter ensemble de\nl'avenir. C'est maintenant que tous les<br>territoires doivent cooperer !"
+    },
+    "186459": {
+        "「……わかりました。本当に\n　邪悪なる意志が　復活したのだとすれば\n　それは　この地だけの　問題ではない。": "Je comprends. Si vraiment Evil Will a\nressuscite, ce n'est pas un probleme qui\nconcerne uniquement cette region."
+    },
+    "186460": {
+        "「会談には　出席させていただこう。": "Je vais assister a la reunion."
+    },
+    "186461": {
+        "「……失礼します。": "...... Excusez-moi."
+    },
+    "186462": {
+        "「気が　ついたか。": "Tu es enfin reveille."
+    },
+    "186463": {
+        "「はい。ですが……\n　何を聞いても　答えてくれないのです。\n　よっぽど　怖い思いを　したのでしょう……。": "Oui. Cependant... Elle ne repond a aucune de\nnos questions. Elle a du vivre quelque chose\nde vraiment effrayant..."
+    },
+    "186464": {
+        "「心配する必要はない。\n　ここは　安全だ。": "Il n'y a pas besoin de s'inquieter. Ici, c'est\nsur."
+    },
+    "186465": {
+        "「君は　ルシュカの者では　ないようだが……\n　どこから　来たのだ？": "Tu n'as pas l'air d'etre de Luschka... D'ou\nviens-tu ?"
+    },
+    "186466": {
+        "「町の者にも　聞いてみたのですが\n　この子を　知っている者は　ひとりも\n　いなかったんですよ。": "J'ai egalement interroge les habitants de la\nville, mais personne ne connait cet enfant."
+    },
+    "186467": {
+        "「……ふむ。今は　まだ\n　混乱しているのかもしれぬな。\n　しばらく　ここに　滞在してもらうとしよう。": "…Hmmm. Tu es peut-etre encore confus en ce\nmoment. Je pense que tu devrais rester ici un\nmoment."
+    },
+    "186468": {
+        "「では　私は　これで……。": "Alors, je vous laisse ici..."
+    },
+    "186469": {
+        "「父ちゃん……！！": "Papa... !!"
+    },
+    "186470": {
+        "「と……？": "Et... ?"
+    },
+    "186471": {
+        "「と…………。": "Et..."
+    },
+    "186472": {
+        "「父ちゃああぁぁんッッッ……！？": "PAPAAAAA... !?"
+    },
+    "186473": {
+        "「なんだぁ。\n　トビアスさんの　娘さんでしたか。 \n　それなら　そうと言ってくださればいいのに。": "Ah, c'etait donc vous, la fille de Tobias-san.\nVous auriez pu me le dire des le debut."
+    },
+    "186474": {
+        "「ち…ちちちがう　ちがううッ！！ \n　私には　子供など　おらん！\n　そもそも　結婚すら　しておらんぞッ！！": "Ch... ch-ch-ch-ce n'est pas vrai, ce n'est pas\nvrai !! Je n'ai pas d'enfant ! D'ailleurs, je\nne suis meme pas marie !!"
+    },
+    "186475": {
+        "「……ああ　なるほど。\n　いろいろと　フクザツな事情がある……\n　というわけですね！": "…Ah, je vois. Il y a des circonstances\ncomplexes... C'est bien cela !"
+    },
+    "186476": {
+        "「そっ…そんな事情など\n　これっぽっちも　ないわッ……！ \n　私は　断じて　父親などではないッ！！": "Je... je n'ai absolument aucune raison... de\npenser une chose pareille ! Je ne suis\nabsolument pas un pere !!"
+    },
+    "186477": {
+        "「トビアス殿の子で　ないとすれば \n　いったい　どこの子だというのだ……？": "Si cet enfant n'est pas celui de Tobias-dono,\nalors de qui peut-il bien etre...?"
+    },
+    "186478": {
+        "「……あなたは　これから\n　どうしたいのですか？": "......Que voulez-vous faire a partir de\nmaintenant ?"
+    },
+    "186479": {
+        "「そんなの　父ちゃんと一緒に\n　行くに　決まってんだろ！": "Bien sur que j'irai avec papa !"
+    },
+    "186480": {
+        "「……トビアス殿。 \n　ずいぶんと　なついているようですし\n　その子のことを　お願いできないだろうか？": "…Tobias-dono. Il semble vraiment s'attacher a\ntoi. Pourrais-tu t'occuper de cet enfant ?"
+    },
+    "186481": {
+        "「こっ…困ります……！ \n　会談の準備も　ありますし\n　協団の長として　そのような……": "Co... c'est embarrassant... ! J'ai aussi des\npreparatifs pour la reunion, et en tant que\nchef de l'association, je ne peux pas me<br>permettre de..."
+    },
+    "186482": {
+        "「へ～。子供を捨てる親が　協団の長ねぇ。\n　聞いて　あきれるぜ。": "Eh bien. Un parent qui abandonne son enfant\nest a la tete de l'association, hein. C'est a\nen rester bouche bee."
+    },
+    "186483": {
+        "「トビアス殿……　私からも　お願いします。\n　どうにか　してあげられないでしょうか？": "Tobias-dono... Je vous en prie, pourriez-vous\nfaire quelque chose pour lui ?"
+    },
+    "186484": {
+        "「わ…わかった！\n　お前の好きにするがいい！": "D'accord... d'accord ! Fais comme bon te\nsemble !"
+    },
+    "186485": {
+        "「では　すまぬが　よろしく頼む。\n　こちらでも　何かわかったら　連絡しよう。": "Je compte sur toi, je te laisse t'en occuper.\nJe te contacterai si je decouvre quoi que ce\nsoit de mon cote."
+    },
+    "186486": {
+        "「……それで　お前の名は？": "Alors, quel est ton nom ?"
+    },
+    "186487": {
+        "「…………さあ？\n　そんなもん　忘れちまったよ。": "...... Eh bien ? J'ai completement oublie ca."
+    },
+    "186488": {
+        "「……<pc>殿　大神殿に戻られましたら\n　嵐の領界での成果について　お聞かせください。\n　では　私は先に　この子を連れてまいります。": "<pc>-dono, lorsque vous serez de retour\nau Grand Temple, veuillez nous faire part des\nresultats obtenus dans le Storm Realm. Alors,<br>je vais partir en premier et emmener cet\nenfant avec moi."
+    }
+}
