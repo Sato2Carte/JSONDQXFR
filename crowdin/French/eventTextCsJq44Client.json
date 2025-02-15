@@ -1,158 +1,158 @@
 {
-    "13887": {
-        "<pc>の　持っている\n『超天遊戯－死の書－』が　光り始めた！": "Le 『Chosen's Teachings Book 4』 que <pc>\npossede a commence a briller !"
+    "62008": {
+        "「よく来てくれたでンス。 \n　どうぐ使いとして　さらに強くなったようで\n　さすがは　<pc>さんでンスね。": "Merci d'etre venu. En tant qu'utilisateur\nd'outils, il semble que vous soyez devenu\nencore plus fort. Comme on pouvait s'y<br>attendre de vous, <pc>-san."
     },
-    "13888": {
-        "白紙だったページに　文字が浮かびあがってくる。\n<pc>とヤーンは　その文字を読んだ。": "Des lettres commencent a apparaitre sur la\npage vierge. <pc> et Yarn les lisent."
+    "62009": {
+        "「ちょっと　お話が　あるでンスから\n　こっちへ　来てほしいでンスよ。": "J'ai quelque chose a te dire, alors j'aimerais\nque tu viennes par ici."
     },
-    "13889": {
-        "修行も今回で　最後になるからの……。\nこれで終わりでは　ないぞ。": "L'entrainement touche a sa fin cette\nfois-ci... Mais ce n'est pas la fin."
+    "62010": {
+        "「ご主人さまをさらった　隊長ゴルゴンザでンスが\n　当分は　魔界に戻れないと思うでンス。": "Le capitaine Gorgonza, qui a enleve notre\nSeigneur, ne pourra probablement pas retourner\ndans le monde des demons pour le moment."
     },
-    "13890": {
-        "ガタラ原野のどこかにある　グルグ地下道。\nその奥の部屋の床に　魔獣の左角と\n魔獣の右角を　突きたてるのじゃ。": "Gulug Underpass, quelque part dans les champs\nde Gatara. Enfoncez la Corne Gauche et la\nCorne Droite de la Bete dans le sol de la<br>piece au fond."
+    "62011": {
+        "「というのも　魔界に戻るためには\n　魔界へ通じる門を開く必要が　あるでンスが\n　これには　けっこう時間が　かかるでンス。": "En effet, pour retourner dans le monde des\ndemons, il est necessaire d'ouvrir une porte\nqui y mene, mais cela prend pas mal de temps,<br>voyez-vous."
     },
-    "13891": {
-        "そこで　おぬしは　命をかけることになる。\n不退転の決意で　この修行を果たせ。\n途中で　投げだすことは許さぬ。": "La, tu devras mettre ta vie en jeu. Accomplis\ncet entrainement avec une determination\ninebranlable. Abandonner en cours de route ne<br>sera pas pardonne."
+    "62012": {
+        "「今頃　奴らは　この世界のどこかで\n　魔界への門を　開いているはずでンスよ……。": "A l'heure qu'il est, ils doivent etre en train\nd'ouvrir la porte vers le monde demoniaque\nquelque part dans ce monde..."
     },
-    "13892": {
-        "「いよいよ　来たな～。\n　ドワーフの国の　ガタラ原野にある洞くつが\n　最後の修行の舞台に　なるみたいだぜ～。": "Enfin, nous y sommes. Il semble que la grotte\nsituee dans les Champs de Gatara, au pays de\nNain, sera le theatre de notre ultime<br>entrainement."
+    "62013": {
+        "「この間に　ご主人さまを　助けなくては\n　ならないでンスが　今の　<pc>さんでは\n　ゴルゴンザには　勝てないでンス……。": "Pendant ce temps, nous devons sauver notre\nSeigneur, mais dans l'etat actuel de\n<pc>-san, il ne peut pas vaincre<br>Gorgonza..."
     },
-    "13893": {
-        "「そんじゃ～　はりきって\n　修行を　果たしにいくとしようか～。\n　もちろん　オレも　つきあうからさ～。": "Alors, allons-y avec enthousiasme pour\naccomplir notre entrainement. Bien sur, je\nt'accompagne !"
+    "62014": {
+        "「でも　ご主人さまが編み出した\n　どうぐ使いの必殺技を　習得すれば\n　きっと　勝機が出てくるはずでンスよ……。": "Mais si nous maitrisons la technique secrete\ndes utilisateurs d'objets inventee par\nLord-sama, nous aurons surement une chance de<br>victoire..."
     },
-    "13894": {
-        "「命をかけろって　言ってるくらいだからな～。\n　何が起こるか　わからねえぜ？\n　準備は　しっかりとしていけよ～。": "Il dit de risquer sa vie, donc... On ne sait\npas ce qui peut arriver, hein ? Prepare-toi\nbien avant de partir."
+    "62015": {
+        "「お願いでンス　<pc>さん。\n　ゴルゴンザに勝つために　必殺技を\n　習得してもらえないでンスか？": "Je vous en prie, <pc>-san. Pour vaincre\nGorgonza, pourriez-vous apprendre une\ntechnique speciale ?"
     },
-    "13895": {
-        "「安心しろって～！！　なんたって\n　今回は　このオレが　ついてるからな～！": "Rassure-toi !! Cette fois, tu peux compter sur\nmoi !"
+    "62016": {
+        "「魔物を従えている状態で\n　ゴブル砂漠西などにいる　<%sEV_QUE_NAME0>を\n　<%nEV_QUE_T_NUM0>匹　倒してきてほしいでンス。": "Je souhaite que vous alliez abattre\n<%nEV_QUE_T_NUM0> de <%sEV_QUE_NAME0>, que\nl'on trouve notamment dans le Goble Desert<br>West, tout en etant accompagne par des\nmonstres."
     },
-    "13932": {
-        "「ここの床に　魔獣の左角と　魔獣の右角を\n　突きたてれば　いいんだな～。": "Il suffit de planter ici la Corne Gauche de la\nBete et la Corne Droite de la Bete dans le\nsol."
+    "62017": {
+        "「必殺技を習得するには　この特訓が\n　どうしても　必要になるでンス。\n　それでは　よろしくでンスよ。": "Pour maitriser la technique secrete, cet\nentrainement est absolument necessaire. Alors,\nje compte sur vous."
     },
-    "13933": {
-        "「何が起こるか　お楽しみだな。\n　よし　<cs_pchero>　始めるか～？<yesno><close>": "Je me demande ce qu'il va se passer. Tres\nexcitant ! Bon, <cs_pchero>, tu es pret a\ncommencer ? <yesno><close>"
+    "62018": {
+        "「ご主人さまが編み出した　どうぐ使いの必殺技を\n　習得すれば　隊長ゴルゴンザとの戦いにも\n　勝機が　生まれるはずでンス。": "Si nous maitrisons la technique secrete du\ndompteur d'objets que notre Seigneur a\nelaboree, nous devrions pouvoir creer une<br>opportunite de victoire contre le capitaine\nGorgonza."
     },
-    "13934": {
-        "「おいおい。ビビッたのか？\n　オレが　ついてるって言っただろ。\n　いいから　さっさと　やれって～！<yesno><close>": "He, he. Tu as eu peur ? Je t'ai dit que je\nsuis la avec toi. Allez, depeche-toi et\nfais-le !<yesno><close>"
+    "62019": {
+        "「ただ　その前に　必殺技習得の準備として\n　やってきてほしいことが　あるでンスよ。": "Mais avant cela, il y a quelque chose que je\nvoudrais que tu fasses en preparation pour\nmaitriser la technique speciale."
     },
-    "13935": {
-        "<cs_pchero>は　魔獣の左角と　魔獣の右角を\nふたつとも　床に突きたてた……。": "<cs_pchero> planta a la fois la Corne Gauche\nde la Bete et la Corne Droite de la Bete dans\nle sol..."
+    "62020": {
+        "「魔物を従えている状態で\n　ゴブル砂漠西などにいる　<%sEV_QUE_NAME0>を\n　<%nEV_QUE_T_NUM0>匹　倒してきてほしいでンス。": "Je souhaite que vous alliez abattre\n<%nEV_QUE_T_NUM0> de <%sEV_QUE_NAME0>, que\nl'on trouve notamment dans le Goble Desert<br>West, tout en etant accompagne par des\nmonstres."
     },
-    "13936": {
-        "「ズギャアアアァァァッ！！": "Zugyaaahhh !!"
+    "62021": {
+        "「必殺技を習得するには　この特訓が\n　どうしても　必要になるでンスよ……。\n　<pc>さん。よろしくでンス。": "Pour maitriser les techniques ultimes, cet\nentrainement est absolument necessaire...\n<pc>-san. Je compte sur vous."
     },
-    "13937": {
-        "「出やがった　出やがった～！\n　コイツを倒せってことのようだぜ。": "Il est apparu, il est apparu~ ! On dirait\nqu'il faut le vaincre."
+    "62022": {
+        "「おお！　特訓をこなしたでンスね！\n　では　最後の仕上げでンスよ！": "Oh ! Vous avez termine l'entrainement ! Alors,\npassons a la touche finale !"
     },
-    "13938": {
-        "「お～っと。アンタが倒さないと\n　修行失敗ってことも　ありえるな～。": "Oh, attention. Si tu ne le bats pas, il est\npossible que ton entrainement soit un echec..."
+    "62023": {
+        "「<pc>さん！　マスターキーを\n　取り出してもらってもいいでンスか！？<yesno><close>": "<pc>-san ! Pourriez-vous sortir la\nMaster Key s'il vous plait ? <yesno><close>"
     },
-    "13939": {
-        "「お手並み拝見と　いかせてもらうぜ。\n　がんばってくれよ　<cs_pchero>～！": "お手並み拝見といかせてもらうぜ がんばってくれよ、<cs_pchero>～！"
+    "62024": {
+        "<pc>は\nマスターキーを　取り出した！": "<pc> a sorti la Master Key !"
     },
-    "13940": {
-        "「グリュウウ……！": "Grrr !"
+    "62025": {
+        "「<pc>さんが　特訓をこなしたおかげで\n　キーに　パワーが　たまったでンス。\n　おかげで　リミッターが　解除されたでンスよ。": "Grace a l'entrainement intensif de\n<pc>-san, l'energie s'est accumulee dans\nla cle. Grace a cela, le limiteur a ete<br>desactive."
     },
-    "13941": {
-        "「<cs_pchero>　今度はイケるよな？\n　アイツは　ヤル気マンマンみたいだぜ～。": "<cs_pchero> Cette fois, ca va marcher,\nn'est-ce pas ? Il a vraiment l'air motive, tu\nsais."
+    "62026": {
+        "「さあ　その　マスターキーを使って\n　ボクの二段目の引き出しを　開くでンス。\n　その中にある物を　取り出すでンスよ。": "Allez, utilisez cette Master Key pour ouvrir\nle deuxieme tiroir de mon bureau. Sortez ce\nqui s'y trouve."
     },
-    "13942": {
-        "「ズッギャァァァン！！": "ZUGGYAAN!!"
+    "62027": {
+        "<pc>は　タンスの引き出しを開け\n中に入っていた本を　取り出した！": "<pc> a ouvert le tiroir de la Wardrobe\net a sorti le livre qui s'y trouvait !"
     },
-    "13943": {
-        "「やるじゃねえか～。ここまでの修行を\n　こなしてきたチカラは　ダテじゃね～な。": "Tu te debrouilles bien ! La force que tu as\nacquise jusqu'ici n'est pas qu'un simple\napparat."
+    "62028": {
+        "「その本は　ご主人さまが長年の研究の末に\n　編み出したという　どうぐ使いの必殺技の\n　習得方法が書かれた　マニュアルでンス。": "Ce livre est un manuel decrivant la methode\npour maitriser l'attaque speciale des\nutilisateurs d'objets, developpee par<br>Lord-sama apres de longues annees de\nrecherche."
     },
-    "13944": {
-        "「これで　超天道士の名は\n　アンタに継がれた……のか？\n　死ぬ心配は　なくなったはずだよな～？": "Alors, le titre de Maitre Celeste Supreme est\nmaintenant entre tes mains... n'est-ce pas ?\nTu ne devrais plus avoir a t'inquieter de<br>mourir, n'est-ce pas ?"
+    "62029": {
+        "「その本を読めば　どうぐ使いの必殺技が\n　習得できるはずでンスよ。": "En lisant ce livre, tu devrais pouvoir\nmaitriser la technique ultime de l'utilisateur\nd'objets."
     },
-    "13945": {
-        "「おいおい　<cs_pchero>。\n　アンタ　手を抜いたんじゃね～だろうな？": "He he, <cs_pchero> ! Tu n'aurais pas retenu\ntes coups, par hasard ?"
+    "62030": {
+        "<pc>は\n『どうぐ使い必殺技マニュアル』と\n書かれた本を　読んだ。": "<pc> a lu un livre intitule Manuel des\ntechniques ultimes pour les utilisateurs\nd'outils."
     },
-    "13946": {
-        "「あ～あ。結局　オレが　やっちまったか。\n　<cs_pchero>　平気か～？\n　死にそうだったり　しね～よな？": "あ～あ Finalement, c'est moi qui ai fait ca.\n<cs_pchero>, tout va bien ? Tu n'es pas sur le\npoint de mourir, n'est-ce pas ?"
+    "62031": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
     },
-    "13947": {
-        "「ギャリギャリギャリ……。": "Gyari Gyari Gyari..."
+    "62032": {
+        "「その必殺技があれば　隊長ゴルゴンザとの\n　戦いを　優位に進められるはずでンス。": "Avec cette technique speciale, le combat\ncontre le capitaine Gorgonza devrait pencher\nen notre faveur."
     },
-    "13948": {
-        "「バカな？": "Impossible ?"
+    "62033": {
+        "「……と言いたいところでンスが\n　すでに　必殺技を習得してるようでンスね。\n　では　代わりに　これをどうぞでンス。": "…J'aurais aime dire cela, mais il semble que\nvous ayez deja maitrise la technique secrete.\nAlors, prenez ceci a la place."
     },
-    "13949": {
-        "「コイツは　不死身の魔物なのか！\n　だとしたら　コレは……マジでヤバいか？": "Ce monstre serait-il immortel ? Si c'est le\ncas... c'est vraiment dangereux !"
+    "62034": {
+        "「前に　ご主人さまには　夢があると言ったのを\n　覚えてるでンスか？": "Vous souvenez-vous que je vous ai dit que\nj'avais un reve, cher Lord ?"
     },
-    "13950": {
-        "「その魔物は　強烈なショック状態に\n　おとさないかぎり　倒すことはできないと\n　超天道士様に　聞いたことがありますよ。": "J'ai entendu dire par le grand sage que vous\nne pouvez vaincre ce monstre qu'en le\nplongeant dans un etat de choc intense."
+    "62035": {
+        "「じつは　隊長ゴルゴンザを倒すことこそが\n　ご主人さまの夢だったでンスよ。\n　そして　それは　ボクの夢でもあるでンス。": "En realite, vaincre le capitaine Gorgonza est\nle reve de notre Seigneur. Et c'est aussi mon\nreve."
     },
-    "13951": {
-        "「そういうことかよ……。": "Je vois... C'est comme ca..."
+    "62036": {
+        "タンスが　自分の戸棚を開けると\nなんと　たくさんの　どうぐが飛び出した！": "Lorsque Wardrobe ouvre son placard, une\nmultitude d'objets en jaillit !"
     },
-    "13952": {
-        "「なんとかしないと　<cs_pchero>殿は\n　本当に　死んでしまうかもしれませんね。": "Il faut faire quelque chose, <cs_pchero> dono\npourrait vraiment mourir."
+    "62037": {
+        "「ボクの中には　ご主人さまが集めてた\n　アストルティアで使われている　どうぐが\n　たくさん　収納されてるでンスよ。": "Dans mon etre sont stockes de nombreux outils\nutilises en Astoltia que le Seigneur a\nrassembles."
     },
-    "13953": {
-        "「ガウラド～。お前　あの技がなきゃ\n　コイツを倒せないのを　知ってたんだな。\n　じ～さんの　仕込みってわけか？": "Gaura... Tu savais qu'on ne pourrait pas le\nvaincre sans cette technique, n'est-ce pas ?\nC'est un coup appris par le vieux, hein ?"
+    "62038": {
+        "「魔界にいた頃から　ご主人さまは\n　この世界の住人が作った　どうぐを\n　集めることが　趣味だったでンス。": "Depuis son sejour dans le royaume des demons,\nnotre Seigneur a pour passe-temps de\ncollectionner les objets fabriques par les<br>habitants de ce monde."
     },
-    "13954": {
-        "「はあ～。あの技は使いたくないのによ……。\n　なによりも　じ～さんの思うツボってのが　\n　気に入らね～んだが　しかたね～なあ。": "Haah... Je ne veux vraiment pas utiliser cette\ntechnique... Mais ce que le vieux pense etre\nle Pot, ca ne me plait pas du tout... Je n'ai<br>pas le choix, hein."
+    "62039": {
+        "「この世界のどうぐに魅せられた　ご主人さまは\n　やがて　好きが高じて　どうぐの能力を引き出す\n　研究に　のめり込んでいったでンスよ……。": "Le noble Seigneur, captive par les objets de\nce monde, a fini par se passionner au point de\nse plonger profondement dans la recherche<br>visant a exploiter les capacites de ces\nobjets..."
     },
-    "13955": {
-        "「それなら　食らえよ！\n　超天道士直伝の必殺技！！": "Dans ce cas, prends ca ! Voici la technique\nsecrete ultime enseignee par le Grand Maitre\nCeleste !!"
+    "62040": {
+        "「だけど　魔界の連中は　意味のない研究などせず\n　強化薬の開発を続けるよう　いつもいつも\n　ご主人さまに　強く言っていたでンス……。": "Mais les habitants du monde demoniaque\ninsistent toujours aupres de Lord-sama pour\npoursuivre le developpement de potions de<br>renforcement, plutot que de se livrer a des\nrecherches inutiles..."
     },
-    "13956": {
-        "「喝！！": "Garde courage !"
+    "62041": {
+        "「ある日　ご主人さまは　自分の研究の価値を\n　証明すべく　どうぐを使った　自作の戦闘兵器で\n　ゴルゴンザに　勝負を挑んだでンス。": "Un jour, notre cher Lord-sama a decide de\nprouver la valeur de ses recherches. Il a\ndefie Gorgonza en utilisant une arme de combat<br>qu'il avait fabriquee lui-meme avec ses\npropres outils."
     },
-    "13957": {
-        "<cs_pchero>の　持っている\n『超天遊戯－死の書－』が　光り始めた！": "Le 『Chosen's Teachings Book 4』 que possede\n<cs_pchero> commence a briller !"
+    "62042": {
+        "「その戦闘兵器こそが　このボク……\n　バトルガジェット１号　タンスだったでンスよ。": "Ce redoutable engin de combat, c'etait moi...\nLe Bato-robot modele 1, Wardrobe."
     },
-    "13958": {
-        "「……よくぞ　最後の修行を果たした。\n　ワシが残せるものは　これで　すべてじゃ。": "…Tu as bien accompli ta derniere epreuve. Ceci\nest tout ce que je peux te transmettre."
+    "62043": {
+        "「ボクは　ご主人さまの期待に応えようと\n　隊長ゴルゴンザと戦ったでンスが　ボロボロに\n　負け　二度と戦えない身体になったでンス……。": "J'ai voulu repondre aux attentes de notre\nseigneur en affrontant le capitaine Gorgonza,\nmais j'ai ete completement vaincu et je suis<br>devenu incapable de me battre a nouveau..."
     },
-    "13959": {
-        "「超天道士の名は　おぬしが受け継ぐがいい。\n　その技と心　そして教えと共に。": "Le nom de Maitre Supreme des Cieux, tu devrais\nle heriter. Avec sa technique, son coeur, et\nses enseignements."
+    "62044": {
+        "「敗北を喫した　ご主人さまは　アイツに勝つには\n　どうぐの扱いに長けた　アストルティアの住人に\n　チカラを借りるしかないと判断したでンス。": "Ayant subi une defaite, votre Seigneurie a\njuge qu'il n'y avait d'autre choix que de\nsolliciter l'aide des habitants d'Astoltia,<br>experts dans l'utilisation des objets, pour\nvaincre cet adversaire."
     },
-    "13960": {
-        "「新たな超天道士の誕生と　新たな伝説の始まりを\n　ワシは　あの世から見守るとしよう……か。\n　じ～さん　死ぬことが　わかってたんだな……。": "La naissance d'un nouveau maitre celeste et le\ndebut d'une nouvelle legende... Je vais\nobserver tout cela depuis l'au-dela...<br>n'est-ce pas ? Grand-pere savait qu'il allait\nmourir..."
+    "62045": {
+        "「そして　ご主人さまとボクは　この世界に来て\n　最初に出会った者に　キーを与えたでンス。\n　……それが　<pc>さんだったでンスよ。": "Et ensuite, lorsque Son Excellence et moi\nsommes arrives dans ce monde, nous avons donne\nla cle a la premiere personne que nous avons<br>rencontree. ...C'etait <pc>-san."
     },
-    "13961": {
-        "「おみごとです　ヤーン様！": "Bravo, Yarn-sama !"
+    "62046": {
+        "「<pc>さん……。ご主人さまの研究を\n　カケラも理解しようとしなかった　あの巨人に\n　どうぐ使いの強さを　示してほしいでンス。": "<pc>-san... Je voudrais que vous\nmontriez la force des utilisateurs d'outils a\nce geant qui n'a pas cherche a comprendre la<br>moindre parcelle des recherches de Lord."
     },
-    "13962": {
-        "「これで　あなたは\n　名実ともに　超天道士の名を\n　その身に　受け継いだのです！！": "Par cela, vous avez desormais herite du nom de\nGrand Maitre Celeste, a la fois en titre et en\nrealite !"
+    "62047": {
+        "「今のうちに　修行して \n　あの巨人を倒す　心の準備ができたら\n　また　ここに戻ってきてほしいでンスよ。": "Pendant que tu as le temps, entraine-toi.\nQuand tu seras pret, dans ton coeur, a\naffronter ce geant, reviens ici, s'il te<br>plait."
     },
-    "13963": {
-        "「お前　もしかして　オレをハメたのか？\n　<cs_pchero>が死ぬって話も\n　ウソだったんじゃ　ね～だろうな？": "Toi, ne me dis pas que tu m'as piege ?\nL'histoire de la mort de <cs_pchero>, ce\nn'etait pas un mensonge, hein ?"
+    "62048": {
+        "「ボクは　それまでに\n　奴らの居場所を　探しておくでンス。": "Je vais chercher leur repaire d'ici la."
     },
-    "13964": {
-        "「人聞きが悪いですよ　ヤーン様。\n　武闘家たる者　死の危険は\n　いつ　いかなるときも　そばにあるのです。": "Cela donne une mauvaise impression, Yarn-sama.\nPour un maitre des arts martiaux, le danger de\nmort est toujours present, a tout moment et en<br>tout lieu."
+    "62049": {
+        "「ご主人さまは　隊長ゴルゴンザを倒すという夢を\n　<pc>さんに　託したでンスよ。\n　それは　ボクの夢でもあるでンス……。": "Notre Seigneur a confie a <pc>-san le\nreve de vaincre le capitaine Gorgonza. C'est\naussi un reve que je partage..."
     },
-    "13965": {
-        "「やっちまったものは　しかたないな……。\n　超天道士の名。もらうだけ　もらっとくよ。": "Ce qui est fait est fait, on n'y peut rien...\nJe vais prendre le titre de Maitre celeste\nsupreme."
+    "62050": {
+        "「ご主人さまの研究の価値を　カケラも\n　理解しようとしなかった　あの巨人に\n　どうぐ使いの強さを　示してほしいでンス。": "Je veux que vous montriez la puissance de\nl'utilisateur d'outils a ce geant qui n'a\njamais cherche a comprendre la valeur des<br>recherches de Lord-sama."
     },
-    "13966": {
-        "「<cs_pchero>に　超天道士の名を\n　継いでもらおうって　オレの作戦は失敗だ。\n　死の書は　このまま返してもらうぜ。": "<cs_pchero>, mon plan pour te faire heriter du\ntitre de Maitre Celeste a echoue. Je reprends\ndonc le Livre de la Mort."
+    "62051": {
+        "「修行して　もっと強い　どうぐ使いになったら\n　また　ここに戻ってきてほしいでンスよ。\n　それまでに　奴らの居場所を探しておくでンス！": "Quand tu te seras entraine et que tu seras\ndevenu un utilisateur d'outils encore plus\nfort, je veux que tu reviennes ici. D'ici la,<br>je chercherai l'endroit ou ils se cachent !"
     },
-    "13967": {
-        "<cs_pchero>は　ヤーンに\n超天遊戯－死の書－を　返した。": "<cs_pchero> a rendu le Chosen's Teachings Book\n4 a Yarn."
+    "62052": {
+        "「ご主人さまは　隊長ゴルゴンザを倒すという夢を\n　<pc>さんに　託したでンスよ。\n　それは　ボクの夢でもあるでンス……。": "Notre Seigneur a confie a <pc>-san le\nreve de vaincre le capitaine Gorgonza. C'est\naussi un reve que je partage..."
     },
-    "13968": {
-        "「オレのわがままで　アンタを\n　つきあわせちまって　悪かったな～。": "Desole de t'avoir entraine dans mes caprices."
+    "62053": {
+        "「ご主人さまの研究の価値を　カケラも\n　理解しようとしなかった　あの巨人に\n　どうぐ使いの強さを　示してほしいでンス。": "Je veux que vous montriez la puissance de\nl'utilisateur d'outils a ce geant qui n'a\njamais cherche a comprendre la valeur des<br>recherches de Lord-sama."
     },
-    "13969": {
-        "「おわびと言っちゃ～アレだが\n　さっきの技を　アンタにも　教えてやるよ。\n　武闘家の必殺技　一喝っていうんだ。": "Pour m'excuser, disons... je vais t'apprendre\nla technique que je viens d'utiliser. C'est\nune attaque speciale des artistes martiaux<br>appelee Ikatsu."
+    "62054": {
+        "「あの巨人を倒す　心の準備ができたら\n　また　ここに戻ってきてほしいでンスよ。\n　それまでに　奴らの居場所を探しておくでンス！": "Quand tu seras pret a affronter ce geant,\nreviens ici. D'ici la, je chercherai ou ils se\ntrouvent !"
     },
-    "13970": {
-        "<cs_pchero>は　ヤーンの言葉に\n耳をかたむけた……。": "<cs_pchero> preta l'oreille aux paroles de\nYarn..."
+    "62234": {
+        "「おお！　ありがたいでンス！\n　では　必殺技を習得するための準備として\n　やってきてほしいことが　あるでンスよ。": "Oh ! Merci beaucoup ! Alors, pour te preparer\na apprendre la technique ultime, il y a\nquelque chose que je voudrais que tu fasses."
     },
-    "13971": {
-        "「たいしたものじゃないが　コレを\n　アンタに　贈らせてもらおう。": "Ce n'est pas grand-chose, mais je tiens a\nt'offrir ceci."
+    "62235": {
+        "「おお！　ありがたいでンス！\n　ありがたいでンスが…………": "Oh ! Merci beaucoup ! C'est vraiment gentil de\nvotre part, mais..."
     },
-    "13972": {
-        "「なあ～　今度　オレと勝負してくれよ。\n　アンタとだったら　きっと\n　いい闘いが　できると思うぜ～。": "He, la prochaine fois, affronte-moi, d'accord\n? Je suis sur qu'avec toi, on pourrait avoir\nun super combat."
+    "62236": {
+        "「<pc>さんは　頼まれごとで\n　いっぱいでンスね……。でも　急ぎでンスから\n　早く　そっちを片付けてくるでンスよ！": "<pc>-san, vous etes vraiment deborde par\nles demandes... Mais c'est urgent, alors\ndepechez-vous de regler ca !"
     },
-    "13973": {
-        "「オレも　準備に取りかかるからさ～。\n　武闘家になって　また　オレんとこへ来てくれ。\n　それじゃ　またな　<cs_pchero>～。": "Je vais aussi commencer a me preparer. Deviens\nun martialiste et reviens me voir. Alors, a\nplus tard, <cs_pchero>～."
+    "62237": {
+        "「そうでンスか……。でも　この世界で\n　頼れるのは　<pc>さんだけでンス。\n　ボクは　信じて　待ってるでンスよ。": "Ah, vraiment... Mais dans ce monde, la seule\npersonne sur qui je peux compter, c'est\n<pc>-san. Je vais attendre avec<br>confiance."
     },
-    "13974": {
-        "「ついに超天道士の復活が　なされた！\n　どれだけ　この時を待ったのか……。": "Enfin, la resurrection du grand maitre celeste\na eu lieu ! Combien de temps avons-nous\nattendu ce moment..."
+    "62238": {
+        "「最後の仕上げには　マスターキーが\n　どうしても　必要なんでンス。\n　ツベコベ言わずに　さっさと出すでンス。": "Pour la touche finale, nous avons absolument\nbesoin de la Master Key. Alors, arrete de\ntergiverser et donne-la-nous tout de suite."
     }
 }
