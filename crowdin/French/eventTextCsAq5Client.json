@@ -1,239 +1,290 @@
 {
-    "19939": {
-        "「ミャハッ。これは　<pc>さま。\n　ちょうどいいときに　来てくれたでヤンス。": "Mya-ha ! C'est <pc>-sama. Tu arrives\njuste au bon moment, yanse."
+    "15675": {
+        "「おおっ　<pc>か！\n　よく来てくれた！": "Oh, <pc> ! Je suis content que tu sois\nvenu !"
     },
-    "19940": {
-        "「リベリオの旦那が　ずーっと　ブツブツと\n　独り言を言ってて　気味が悪いんでヤンスよ。\n　ちょっと　見てやってほしいんでヤンス。": "Le mari de Ribero Leo ne cesse de marmonner\ndes choses etranges. C'est vraiment\ninquietant. Pourriez-vous aller jeter un oeil,<br>s'il vous plait ?"
+    "15676": {
+        "「ケガを負って　帰って以来\n　ずっと　村王の熱が下がらなかったのだが\n　さきほど　ついに　意識を失ってしまった……。": "Depuis qu'il est revenu blesse, la fievre du\nroi du village n'est jamais redescendue, et a\nl'instant, il a finalement perdu<br>connaissance..."
     },
-    "19941": {
-        "「…………ぅ　ぃゃニャ。": "...... Non, miaou."
+    "15677": {
+        "「こ　このままでは　村王の　命が危ない！\n　急いで　解熱薬を用意せねばならん！": "Ce... Ce n'est pas bon, la vie du roi du\nvillage est en danger ! Nous devons preparer\nun medicament pour faire baisser la fievre<br>rapidement !"
     },
-    "19942": {
-        "「さっきから　何を言ってるんでヤンスか？\n　よく聞こえないでヤンスよ　リベリオの旦那。": "Depuis tout a l'heure, que dites-vous ? Je ne\nvous entends pas bien, maitre Rib Leo."
+    "15678": {
+        "「<pc>よ！　材料となる\n　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>を\n　早急に　持ってきてもらえんか！": "<pc> ! Peux-tu m'apporter d'urgence les\nmateriaux <%sEV_QUE_NAME4> et <%sEV_QUE_NAME5>\n?"
     },
-    "19943": {
-        "「……もう　いやなんニャ。": "......Je n'en peux plus, miaou."
+    "15679": {
+        "「ありがたい！　どちらも　特別なことをせずとも\n　手に入るものだ！　もし見つからないなら\n　旅人バザーを　のぞいたりしてみてくれ！": "Merci beaucoup ! Les deux sont des objets que\nl'on peut obtenir sans effort particulier ! Si\ntu ne les trouves pas, essaie de jeter un oeil<br>au Traveler's Bazaar !"
     },
-    "19944": {
-        "「……ハミャ？　何がでヤンスか？": "…Hein ? Qu'est-ce que c'est ?"
+    "15680": {
+        "「私は　村王から　目が離せん！\n　よろしく頼むぞ！！": "Je ne peux pas quitter le roi du village des\nyeux ! Je compte sur toi !!"
     },
-    "19945": {
-        "「こんな暮らしは　もう　いやなんニャー！！！": "Je ne supporte plus cette vie, nyaaa !!!"
+    "15681": {
+        "「やってくれるか……。\n　だが　頼まれごとで　いっぱいではないか！": "Tu vas le faire... Mais tu ne serais pas deja\ndeborde par toutes les demandes qu'on te fait\n!"
     },
-    "19946": {
-        "「ミャギャーーー！！！": "Myaaaah !!!"
+    "15682": {
+        "「手遅れになる前に　頼みを聞ける状態にして\n　また来てくれ！　急ぐのだぞ！　いいな！": "Avant qu'il ne soit trop tard, mets-toi en\netat de m'ecouter et reviens me voir !\nDepeche-toi ! D'accord !"
     },
-    "19947": {
-        "「ウマいものも　なーんにも　食えニャい！\n　楽しいことなんか　なにひとーつ　ニャい！！": "Je ne peux rien manger de bon ! Il n'y a rien\nd'amusant !!"
+    "15683": {
+        "「お前だけが　頼りなのだ！\n　そう言わずに　もう一度　考え直してくれ！": "Tu es notre seul espoir ! Ne dis pas cela,\nreflechis-y encore une fois !"
     },
-    "19948": {
-        "「こんな暮らしは　もう　やめニャ！\n　帰るニャ！　マンマーさまの所へ帰るニャ！！": "Je ne veux plus vivre comme ca ! Je rentre !\nJe retourne chez Maman-sama !!"
+    "15684": {
+        "「おおっ　<pc>！\n　来てくれたか！": "Oh, <pc> ! Tu es venu !"
     },
-    "19949": {
-        "「リベリオの旦那が　帰りたいって言うなら\n　アッシは　かまわないんでヤンスが……。": "Si le mari de RibeLeo veut rentrer, je n'ai\npas d'objection, vous savez..."
+    "15685": {
+        "「村王が　熱で　意識を失ってしまった……。\n　このままでは　命が危ない！\n　急いで　解熱薬を用意せねばならん！": "Le roi du village a perdu connaissance a cause\nde la fievre... A ce rythme, sa vie est en\ndanger ! Nous devons preparer un remede contre<br>la fievre immediatement !"
     },
-    "19950": {
-        "「マンマーさまや　息子のジュニアさまに\n　あんだけのことをしといて　はたして\n　ゆるして　もらえるものやら……。": "Apres tout ce que nous avons fait a Mamma-sama\net a son fils Junior-sama, je me demande\nvraiment si nous serons pardonnes..."
+    "15686": {
+        "「<pc>よ！　材料となる\n　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>を\n　早急に　持ってきてもらえんか！": "<pc> ! Peux-tu m'apporter d'urgence les\nmateriaux <%sEV_QUE_NAME4> et <%sEV_QUE_NAME5>\n?"
     },
-    "19951": {
-        "「問題は　そこニャ！": "Voila le probleme, miaou !"
+    "15687": {
+        "「<pc>！　戻ったか！": "<pc> ! Te voila de retour !"
     },
-    "19952": {
-        "「あんなタンカを切って　出てきたからニャー。\n　ただ　フラフラと帰っても　マンマーさまは\n　ゆるしてくれないだろうニャ。　": "Je suis sorti avec tant de determination. Je\nne pense pas que Maman-sama nous pardonnera si\nnous rentrons simplement avec Fluff."
+    "15688": {
+        "「む……。どうやら　まだ\n　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>は\n　手に入らないようだな……。": "Hum... Il semble que je ne puisse pas encore\nobtenir <%sEV_QUE_NAME4> et\n<%sEV_QUE_NAME5>..."
     },
-    "19953": {
-        "「……だが　オレに　いい考えがあるニャ。": "...Cependant, j'ai une bonne idee, nya."
+    "15689": {
+        "「ならば　ここに来ている場合ではない！\n　解熱薬の材料を　急いで　集めてきてくれ！": "Alors, ce n'est pas le moment de rester ici !\nVite, va rassembler les ingredients pour le\nmedicament contre la fievre !"
     },
-    "19954": {
-        "「さっすが　リベリオの旦那。\n　アタマ　さえてるでヤンス～！": "Comme prevu de la part de maitre Riber Leo.\nVous avez un esprit vif, c'est sur~ !"
+    "15690": {
+        "「どうだ！\n　解熱薬の材料は　手に入ったか！": "Comment ca se passe ? As-tu reussi a obtenir\nles ingredients pour l'antipyretique ?"
     },
-    "19955": {
-        "「キサマとオレは　かつて　敵として戦ったが\n　昔のことは　きれいサッパリ　水に流して\n　チカラを　貸してほしいのニャ。": "Toi et moi avons autrefois combattu en tant\nqu'ennemis, mais laissons le passe derriere\nnous et j'aimerais que tu m'offres ton aide."
+    "15691": {
+        "ギュランに　<%sEV_QUE_NAME4>と\n<%sEV_QUE_NAME5>を　渡しますか？<yesno><close>": "Souhaitez-vous donner <%sEV_QUE_NAME4> et\n<%sEV_QUE_NAME5> a Guran ? <yesno><close>"
     },
-    "19956": {
-        "「猫島の巨猫の巣に行って　オレのことを\n　改心したとかなんとか言って\n　マンマーさまに　とりなしてくれないかニャ？<yesno><close>": "Pourrais-tu aller au Cat's Cradle de Cat\nIsland et dire a Maman-sama que j'ai change,\nou quelque chose comme ca, pour plaider en ma<br>faveur, miaou ? <yesno><close>"
+    "15692": {
+        "「……そうか。まだ　手に入らないか。\n　ならば　ここに来ている場合ではない！\n　解熱薬の材料を　急いで　集めてきてくれ！": "…Je vois. On ne l'a pas encore obtenu. Dans ce\ncas, ce n'est pas le moment de rester ici !\nDepeche-toi de rassembler les ingredients pour<br>le medicament contre la fievre !"
     },
-    "19957": {
-        "「ニャッ？　そこを　ニャんとか！！\n　頼めそうなのは　<pc>しか\n　いないのニャよ。": "Nyah ? La, fais quelque chose, nyan ! Tu es le\nseul a qui je peux demander, <pc>, nyan."
+    "15693": {
+        "<pc>は　ギュランに\n<%sEV_QUE_NAME4>と\n<%sEV_QUE_NAME5>を　渡した！": "<pc> a remis a Guran <%sEV_QUE_NAME4> et\n<%sEV_QUE_NAME5> !"
     },
-    "19958": {
-        "「猫島の巨猫の巣に行って　オレのことを\n　改心したとかなんとか言って\n　マンマーさまに　とりなしてくれないかニャ？<yesno><close>": "Pourrais-tu aller au Cat's Cradle de Cat\nIsland et dire a Maman-sama que j'ai change,\nou quelque chose comme ca, pour plaider en ma<br>faveur, miaou ? <yesno><close>"
+    "15694": {
+        "「おおっ！　ありがたい！\n　さっそく　解熱薬を　調合しよう！\n　これで　村王を　助けられるぞ！": "Oh ! Merci beaucoup ! Je vais immediatement\npreparer l'antipyretique ! Avec ca, nous\npourrons sauver le roi du village !"
     },
-    "19959": {
-        "「キサマ　いいヤツなのニャーーー！！\n　昨日の敵は　今日の友ってヤツだニャッ。\n　心の友と　呼ばせてもらうニャ！！": "Toi, tu es vraiment un bon gars, miaou !!\nHier, nous etions ennemis, mais aujourd'hui,\nnous sommes amis, c'est ca, miaou. Je vais<br>t'appeler mon ami de coeur, miaou !!"
+    "15695": {
+        "「よく眠っておられる……。\n　どうやら　落ち着いたようだ。": "Il dort profondement... On dirait qu'il s'est\ncalme."
     },
-    "19960": {
-        "「さっそく　マンマーさまの所へ\n　出発するのニャー。": "Allons immediatement chez Maman-sama, miaou."
+    "15696": {
+        "「しばらく　ゆっくり眠れば\n　また元気な村王に　戻られるだろう。\n　ありがとう。<pc>のおかげだ。": "Apres un bon repos, le roi du village\nretrouvera surement sa vitalite. Merci. C'est\ngrace a <pc>."
     },
-    "19961": {
-        "「リベリオの旦那。ちょっと　待つでヤンス。\n　何か　マンマーさまが喜ぶものを\n　手みやげにしたら　どうでヤンスかね。": "Maitre Riberio. Attendez un instant. Que\ndiriez-vous d'apporter quelque chose qui\nferait plaisir a Mamma-sama ?"
+    "15697": {
+        "「……私は　１０年　お仕えしているが\n　村王の　お気持ちは　まだまだ\n　理解できていない部分が　多いのかもしれんな。": "Cela fait 10 ans que je sers, mais il y a\nencore de nombreux aspects des sentiments du\nroi du village que je ne parviens pas a<br>comprendre."
     },
-    "19962": {
-        "「おおーっ　さすがは　ミャルジ。\n　いいところに　気がついたのニャ。\n　スーパー・アイディアキャットなのニャー！": "Oh ! Comme prevu de Myarji. Tu as remarque un\ntres bon point, n'est-ce pas ? Tu es un super\nchat d'idees !"
+    "15698": {
+        "「……だが　心から　人に優しい方であることは\n　知っている。今　多くを語られないことにも\n　相応の理由が　あってのことなのだろう……。": "...Mais je sais que c'est une personne\nprofondement bienveillante. S'il ne peut pas\nen dire plus pour l'instant, c'est<br>certainement pour une bonne raison..."
     },
-    "19963": {
-        "「やっぱし　手ぶらは　まずいよニャ。\n　手みやげの定番は　食い物かニャあ。": "Il ne serait pas bien de venir les mains\nvides, miaou. Le classique des cadeaux, c'est\nde la nourriture, n'est-ce pas ?"
+    "15699": {
+        "「村王！　村王ーっ！！": "Chef du village ! Chef du village !!"
     },
-    "19964": {
-        "「思いだしたのニャ！\n　マンマーさまの好物は　ネコマンマの実ニャ。": "Je me souviens maintenant, nya ! Le plat\nprefere de Mama-sama est le Cat Manma Fruit,\nnya."
+    "15700": {
+        "「やめんかっ！　村王は　お休み中だ！": "Arretez ca ! Le roi du village est en train de\nse reposer !"
     },
-    "19965": {
-        "「あれは　ジュレー島の北　キュララナ海岸や\n　オーグリード大陸の　ギルザッド地方とかにいる\n　タコメットを倒せば　時々落としていくニャよ。": "Ca, tu peux parfois le trouver en battant un\nOctopot, qui se trouvent au nord de l'ile de\nJulea, sur la cote de Kyurarana ou dans la<br>region de Gilzad sur le continent d'Ougrida."
+    "15701": {
+        "「た　大変なんです！！": "C'est... c'est terrible !!"
     },
-    "19966": {
-        "「ネコマンマの実を手に入れて　巨猫の巣の\n　マンマーさまの所へ　持っていってほしいニャ。\n　<pc>　やってくれるよニャ？": "J'aimerais que tu recuperes le Fruit de Cat\nManma et l'apportes a Mamma-sama au Cat's\nCradle. <pc>, tu vas le faire pour moi,<br>n'est-ce pas, nya ?"
+    "15702": {
+        "「何事だ。\n　つまらんことだったら　承知せんぞ。": "Qu'y a-t-il ? Si c'est quelque chose de\nfutile, je ne le tolererai pas."
     },
-    "19967": {
-        "「おおっ　さすが　心の友ニャ。\n　それじゃあ　よろしく頼むのニャ！！": "Oh ! Comme prevu de mon ami du coeur, miaou.\nAlors, je compte sur toi, miaou !!"
+    "15703": {
+        "「む　村の武闘場に\n　見たことのないヤツが　入り込んできて\n　占拠してるんです！": "Un type que je n'ai jamais vu s'est infiltre\ndans l'arene du village et l'a prise d'assaut\n!"
     },
-    "19968": {
-        "「ネコマンマの実を　手に入れたら\n　まっすぐに　巨猫の巣へ向かっていいからニャ。\n　オレも　それを見計らって　行くのニャ～。": "Une fois que tu as obtenu le Fruit Cat Manma,\ntu peux te diriger directement vers le Cat's\nCradle. Je m'arrangerai pour y aller aussi."
+    "15704": {
+        "「で　そいつは　自分のことを\n　死神だとか　言ってやがるんです！": "Et ce type pretend etre un dieu de la mort !"
     },
-    "19969": {
-        "「では　ミャルジよ。出発するのニャー。": "Alors, Myarji. Il est temps de partir, miaou."
+    "15705": {
+        "「なんだと……？": "Quoi...?"
     },
-    "19970": {
-        "「おおっ　やってくれるのニャ？\n　だが　<pc>は　頼まれごとで\n　いっぱいのようニャ。": "Oh ! Tu veux bien le faire, hein ? Mais il\nsemble que <pc> soit deja deborde de\ndemandes."
+    "15706": {
+        "「それは　確かに　ただごとではないな。\n　村王が　このようなときに\n　村を　襲ってくるとは……。": "Ca, c'est vraiment inquietant. Que le roi du\nvillage attaque a un moment pareil..."
     },
-    "19971": {
-        "「それが終わったら　また来てほしいニャ。\n　オレは　ハラが減ったから\n　食い物でも　探してくるのニャー。": "Quand tu auras termine, reviens me voir,\nmiaou. J'ai le ventre vide, alors je vais\nchercher quelque chose a manger, miaou."
+    "15707": {
+        "「<pc>よ！\n　すまないが　武闘場の様子を\n　見にいってくれ！": "<pc> ! Je suis desole, mais pourrais-tu\naller voir ce qui se passe a l'arene de combat\n?"
     },
-    "19972": {
-        "「やっぱし　ムリかニャ……。\n　気が変わったら　また来てほしいのニャ。": "Apres tout, c'est peut-etre trop difficile,\nn'est-ce pas... Si jamais tu changes d'avis,\nreviens me voir, d'accord ?"
+    "15708": {
+        "「味方が増えるのは　ありがたい！\n　一緒に　行きましょう！": "Avoir un allie de plus, c'est formidable !\nAllons-y ensemble !"
     },
-    "19973": {
-        "「ハラが減ってきたから\n　食い物でも　探しにいってくるニャ……。": "J'ai l'estomac qui commence a crier famine. Je\nvais partir a la recherche de quelque chose a\nmanger, nya..."
+    "15709": {
+        "「<pc>っ！\n　私は　村王のそばから　離れられん！": "<pc>っ！ Je ne peux pas quitter le cote du\nroi du village !"
     },
-    "19974": {
-        "「ミャハッ。<pc>さま。\n　リベリオの旦那の頼みを\n　聞きにきてくれたでヤンスか？": "Miya-ha ! <pc>-sama. Es-tu venu ecouter\nla demande de monsieur RibeLeo, yansu ?"
+    "15710": {
+        "「武闘場の様子を　見にいってくれ！\n　頼れるのは　お前だけだ！　頼むぞ！": "Va voir ce qui se passe dans l'arene de combat\n! Je ne peux compter que sur toi ! Je t'en\nprie !"
     },
-    "19975": {
-        "「おお　そうニャんか！？": "Oh, vraiment !?"
+    "15711": {
+        "「……これで　もう終わりか？": "Est-ce deja la fin ?"
     },
-    "19976": {
-        "「オレが　猫島に帰るために\n　マンマーさまへの　手みやげにする\n　ネコマンマの実が必要なのニャ！": "Pour que je puisse retourner a Cat Island,\nj'ai besoin de Cat Manma Fruit comme cadeau\npour Mama-sama !"
+    "15712": {
+        "「強さこそ至上と唱えた　ランガーオ村とは\n　とても思えぬ　歯ごたえのなさだ。": "Il est difficile de croire que ce manque de\ndefi provienne du village de Langao, qui\npronait la force comme valeur supreme."
     },
-    "19977": {
-        "「あれは　ジュレー島の北　キュララナ海岸や\n　オーグリード大陸の　ギルザッド地方とかにいる\n　タコメットを倒せば　時々落としていくニャよ。": "Ca, tu peux parfois le trouver en battant un\nOctopot, qui se trouvent au nord de l'ile de\nJulea, sur la cote de Kyurarana ou dans la<br>region de Gilzad sur le continent d'Ougrida."
+    "15713": {
+        "「どうやら　集まってきたようだな。": "Il semble que tout le monde soit reuni."
     },
-    "19978": {
-        "「ネコマンマの実を手に入れて　巨猫の巣の\n　マンマーさまの所へ　持っていってほしいニャ。\n　<pc>　やってくれるよニャ？": "J'aimerais que tu recuperes le Fruit de Cat\nManma et l'apportes a Mamma-sama au Cat's\nCradle. <pc>, tu vas le faire pour moi,<br>n'est-ce pas, nya ?"
+    "15714": {
+        "「ランガーオ村の　愚民どもに告ぐ！\n　オレは　今から　この村を　滅ぼす！！": "Aux imbeciles du village de Langao ! Je vais\ndetruire ce village des maintenant !!"
     },
-    "19979": {
-        "「ミャハッ。<pc>さま。\n　リベリオの旦那が　途中で疲れたって\n　言いだすんで　いったん　帰ってきヤンした。": "Mya-ha ! <pc>-sama. Le mari de Riber Leo\na dit qu'il etait fatigue en cours de route,\nalors nous sommes rentres pour le moment."
+    "15715": {
+        "「不意打ちのような　ひきょうなマネはしない。\n　戦う意志のあるやつは\n　全員　相手をしてやろう！": "Je ne ferai pas de coups bas par surprise.\nJ'affronterai tous ceux qui ont la volonte de\nse battre !"
     },
-    "19980": {
-        "「おお　心の友よ。マンマーさまの大好物の\n　ネコマンマの実は　キュララナ海岸とかにいる\n　タコメットを倒せば　時々落としていくのニャ。": "Oh, mon ami de coeur. Le fruit prefere de\nMaman-sama, le Cat Manma Fruit, est parfois\nlaisse par les Octopot que l'on trouve sur la<br>cote de Kyurarana."
+    "15716": {
+        "「さあ　好きなタイミングで　かかってこい！\n　束になってきても　構わんぞ！！": "Allez, affronte-moi avec ta technique de Red\nSnapper preferee ! Meme si vous venez en\ngroupe, cela ne me derange pas !!"
     },
-    "19981": {
-        "「ネコマンマの実を手に入れて　巨猫の巣の\n　マンマーさまの所へ　持っていってほしいニャ！<open_irai>": "Je voudrais que tu prennes le Fruit de Cat\nManma et que tu l'apportes a Manma-sama au\nCat's Cradle, miaou ! <open_irai>"
+    "15717": {
+        "「やれやれ。どうやら　今\n　この村にいるのは　戦う勇気さえも失った\n　情けないオーガばかりのようだな。": "Eh bien, eh bien. Il semblerait\nqu'actuellement dans ce village, il n'y ait\nque des Ogres pitoyables qui ont meme perdu le<br>courage de se battre."
     },
-    "19982": {
-        "「ネコマンマの実を　手に入れたら\n　まっすぐに　巨猫の巣へ向かっていいからニャ。\n　オレも　それを見計らって　行くのニャ～。": "Une fois que tu as obtenu le Fruit Cat Manma,\ntu peux te diriger directement vers le Cat's\nCradle. Je m'arrangerai pour y aller aussi."
+    "15718": {
+        "「ならば　こっちも遠慮はせん。\n　端から順番に　殺していってやろう。\n　命乞いしたいやつは　せいぜい叫ぶがいい。": "Dans ce cas, je ne me retiendrai pas non plus.\nJe vais vous eliminer un par un. Ceux qui\nveulent supplier pour leur vie, criez autant<br>que vous le pouvez."
     },
-    "19983": {
-        "<close_irai>「では　ミャルジよ。出発するのニャー。": "<close_irai>Alors, Myarji. C'est l'heure de\npartir, miaou."
+    "15719": {
+        "「き　き　貴様ぁ！\n　次は……　次は　オ　オレが相手だ！": "Ki... ki... espece de... ! La prochaine\nfois... la prochaine fois, c'est moi qui\nt'affronterai !"
     },
-    "19984": {
-        "「みゃあああ。みゃうみゃう……。": "Miyaaah. Miaou miaou..."
+    "15720": {
+        "「よし。それでこそ\n　ランガーオ村の　勇気あるオーガだ。\n　次に死ぬのは　お前にしてやる。": "Bien. Voila qui fait de toi un Ogre courageux\ndu village de Langao. La prochaine fois, je te\nlaisserai mourir."
     },
-    "19985": {
-        "「そなたのおかげで　このように元気であるぞ。": "Grace a toi, je suis en pleine forme."
+    "15721": {
+        "「……待てっ！": "...Attends !"
     },
-    "19986": {
-        "「……ふむ。どうやら　ジュニアの姿を\n　見にきたというわけでは　ないようだな。": "Hum. On dirait que tu n'es pas venu juste pour\nvoir Junior."
+    "15722": {
+        "「ギュランよ……。すまんな。\n　ここからは　ひとりで行く。": "Guran... Desole. A partir d'ici, je dois\ncontinuer seul."
     },
-    "19987": {
-        "「他ならぬ　そなたのためじゃ。\n　願いがあるなら　申してみよ。": "Pour toi et pour personne d'autre. Si tu as un\nsouhait, exprime-le."
+    "15723": {
+        "「村王…………。": "Le roi du village..."
     },
-    "19988": {
-        "「……なるほど。どうやら\n　そこにいる者のことで　来たと見える。": "...Je vois. Il semble que tu sois venu ici a\ncause de la personne qui se trouve la-bas."
+    "15724": {
+        "「……ガガイよ。\n　今　この村には　お前に勝てるような\n　強いオーガは　ひとりもいない……。": "Gagai. Dans ce village, il n'y a pas un seul\nOgre assez fort pour te vaincre..."
     },
-    "19989": {
-        "「マンマーさま！": "Maman-sama !"
+    "15725": {
+        "「……だが　わしは　この村の王だ。\n　たとえ　どんなことをしてでも\n　村の者を　守り抜かなくてはならない。": "Cependant, je suis le roi de ce village. Peu\nimporte ce qu'il en coute, je dois proteger\nles habitants du village."
     },
-    "19990": {
-        "「私は　あれから　大いに反省し\n　心を入れ替えましたのニャ。": "Depuis cet evenement, j'ai beaucoup reflechi\net j'ai change d'attitude, nya."
+    "15726": {
+        "「これが　今の　わしにできる　すべてだ。": "Voila tout ce que je peux faire pour le\nmoment."
     },
-    "19991": {
-        "「数々のご無礼を　おゆるしくださいニャ。\n　また　おそばに置いていただきたいのですニャ！": "Je vous prie de pardonner mes nombreuses\nimpolitesses, nya. Je souhaite a nouveau etre\na vos cotes, nya !"
+    "15727": {
+        "「この通りだ。頼む……。\n　この村の者を　殺さないでくれ……。\n　わしの命ならば　いくらでも　くれてやる。": "Comme tu peux le voir. Je t'en prie... Epargne\nles habitants de ce village... Si c'est ma vie\nque tu veux, je te la donne volontiers."
     },
-    "19992": {
-        "「……心を入れ替えたとな？\n　わらわには　何も\n　変わっていないように見えるが？": "…Tu dis avoir change de coeur ? Pourtant, a mes\nyeux, rien ne semble avoir change."
+    "15729": {
+        "「はっはっは！\n　いい姿だな　クリフゲーン。": "Ha ha ha ! Quelle belle allure, Crifgan."
     },
-    "19993": {
-        "「そんなことは　ありませんニャ！\n　私は　変わったのですニャ。": "Il n'en est rien, miaou ! J'ai change, miaou."
+    "15730": {
+        "「見るがいい　ランガーオ村の者たちよ！\n　これが　貴様らが　村王などと呼び\n　崇める者の　本当の姿だ！": "Regardez bien, habitants du village de Langao\n! Voici la veritable apparence de celui que\nvous appelez et venerez comme le roi du<br>village !"
     },
-    "19994": {
-        "「……<pc>。ネコマンマの実を\n　取ってきたニャ？　オレに　よこすのニャ！<yesno><close>": "<pc>. As-tu rapporte le Cat Manma Fruit\n? Donne-le-moi, miaou ! <yesno><close>"
+    "15731": {
+        "「つい先日のことだ。\n　この男は　オレとの真剣勝負に敗れた。\n　今も　そのキズで　満足に動けないようだ。": "Il y a quelques jours a peine. Cet homme a\nperdu un duel d'epees contre moi. Meme\nmaintenant, il semble incapable de bouger<br>correctement a cause de cette blessure."
     },
-    "19995": {
-        "「ニャー！？　今さら　なに言ってるんニャ。\n　いいから　渡すんニャー！！<yesno><close>": "Quoi ?! Qu'est-ce que tu racontes maintenant ?\nAllez, donne-le-moi !!<yesno><close>"
+    "15732": {
+        "「この男は　敗者だ！\n　貴様らは　それを知っても　この男を\n　同じように　村王と呼び続けられるのか！！": "Ce type est un perdant ! Meme en sachant cela,\npouvez-vous continuer a l'appeler roi du\nvillage ?!"
     },
-    "19996": {
-        "<pc>は　キャット・リベリオに\nネコマンマの実を　渡した。": "<pc> a donne le Cat Manma Fruit a\nPurrgatroyd."
+    "15733": {
+        "「よ　呼び続けられるもん……。": "Je... je suis constamment appele..."
     },
-    "19997": {
-        "「これは　つまらないものですが……。": "Ceci n'est qu'une simple babiole, mais..."
+    "15734": {
+        "「そうだよっ！　村王は　村王だもん！\n　勝者とか敗者とか　そんなのカンケーないよっ！": "Exactement ! Le roi du village est le roi du\nvillage ! Ca n'a rien a voir avec etre\nvainqueur ou perdant !"
     },
-    "19998": {
-        "「そんなもので　わらわの機嫌を\n　取れると思うてか？\n　ナメられたものよな……。": "Penses-tu vraiment pouvoir m'amadouer avec ca\n? On me sous-estime, n'est-ce pas..."
+    "15737": {
+        "「この村に　お前の居場所は　なーいっ！\n　早々に　立ち去れい！": "Dans ce village, il n'y a pas de place pour\ntoi ! Pars sur-le-champ !"
     },
-    "19999": {
-        "「いえ！　決して　そのようなつもりでは。\n　ネコマンマの実は　マンマーさまの\n　お気に召さなかったようで……。　": "Non ! Ce n'etait absolument pas mon intention.\nIl semble que le Cat Manma Fruit n'ait pas plu\na Manma-sama..."
+    "15738": {
+        "「き…貴様ら……。": "<me 60> Vo...Vous... !"
     },
-    "20000": {
-        "「やはり　そなたは　何も変わってはおらん。": "Tu n'as vraiment pas change."
+    "15739": {
+        "「……ガガイよ。今は　ちがうのだ。\n　ランガーオ村は　変わったのだ。": "...Gagai. Ce n'est plus comme avant. Le\nvillage de Langao a change."
     },
-    "20001": {
-        "「マンマーさまに　ご注進！": "A Maman-sama, je vais rapporter cela !"
+    "15740": {
+        "「だ　だまれえええっ！！！": "Tais-toi !!!"
     },
-    "20002": {
-        "「……そうか。奴らが猫島を……な。\n　わかった……よきに　はからえ。": "…Je vois. Ils ont pris l'ile des Chats... hmm.\nTres bien... fais ce qu'il faut."
+    "15741": {
+        "「変わったなど　オレは認めんっ！！\n　貴様ら　皆殺しにしてやるっ！！": "Je ne reconnais pas avoir change !! Je vais\ntous vous massacrer !!"
     },
-    "20003": {
-        "「……何か　あったんですかニャ？": "Il s'est passe quelque chose, nyan ?"
+    "15742": {
+        "「<cs_pchero>っ！　村王を！\n　村王を　お守りしてくれっ！！": "<cs_pchero> ! Protege le roi du village !\nProtege le roi du village !"
     },
-    "20004": {
-        "「ここを出ていった　そなたには関係ない。": "Cela ne te concerne plus, maintenant que tu es\nparti d'ici."
+    "15743": {
+        "「<cs_pchero>っ！　戻ってきてくれたか！": "<cs_pchero> ! Tu es revenu !"
     },
-    "20005": {
-        "「……わらわは　忙しいのだ。\n　そなたの　くだらぬ戯言に\n　つきあっているヒマなど　ないわ。": "Je suis occupee. Je n'ai pas de temps a perdre\navec tes balivernes insignifiantes."
+    "15744": {
+        "「今度こそ　ガガイを倒し　村王を……\n　いや　この村を　守ってくれっ！！": "Cette fois, bats Gagai et protege le roi du\nvillage... Non, protege ce village !"
     },
-    "20006": {
-        "「そっ　そこを　なんとか！\n　そうニャ　こうしましょうニャ。": "S'il te plait, d'une maniere ou d'une autre !\nAllons, faisons comme ca, miaou."
+    "15745": {
+        "「何度やっても　同じことだ！\n　この村のやつらは　ひとり残らず\n　殺してやるっ！！": "Peu importe combien de fois je m'y essaie,\nc'est toujours la meme chose ! Je vais tous\nles eliminer, sans en laisser un seul dans ce<br>village !!"
     },
-    "20007": {
-        "「この　<pc>が　ジュニアさまの\n　面倒を見させてもらいますニャ。": "Moi, <pc>, je prendrai soin de\nJunior-sama, nya."
+    "15746": {
+        "「……バ　バカな。\n　このオレが……敗れた…だと……？": "…Im…Impossible. Moi, etre vaincu… par vous… ?"
     },
-    "20008": {
-        "「そうすりゃ　マンマーさまの手も空いて\n　忙しさも　すこしは……。": "Comme ca, Mamma-sama aurait un peu plus de\ntemps libre et serait un peu moins occupee..."
+    "15747": {
+        "「……これが　神の意志だというのか。\n　親子二代に渡り　同じ場所で\n　同じ屈辱にまみれて　死ねと……。": "Est-ce vraiment la volonte divine... Que sur\ndeux generations, pere et fils, nous mourrions\nau meme endroit, enveloppes dans la meme<br>humiliation...?"
     },
-    "20009": {
-        "「やれやれ……。\n　もう　そなたの話など　聞く耳は持たぬ。": "Bon, bon... Je n'ecouterai plus tes histoires."
+    "15748": {
+        "「オレの……負けだ！　さあ　オレを殺せ！": "Je... j'ai perdu ! Allez, tue-moi !"
     },
-    "20010": {
-        "「そこにいられては　目ざわりだ。\n　どこへなりと　消えるがよい！": "Ta presence ici est agacante. Disparais\nn'importe ou ailleurs !"
+    "15749": {
+        "「お前たちが　父と母にしたのと同じように\n　敗れた弱者を　さげすみながら\n　オレを　殺すがいい！": "Comme vous l'avez fait avec mon pere et ma\nmere, meprisez les faibles que vous avez\nvaincus, et tuez-moi !"
     },
-    "20011": {
-        "「そんニャ……。　": "Impossible..."
+    "15750": {
+        "「お前を　死なすわけにはいかん。": "Je ne peux pas te laisser mourir."
     },
-    "20012": {
-        "「リベリオの旦那ぁ　しっかりするでヤンス。\n　あきらめちゃ　いけねえでヤンスよ。": "Reprends-toi, Maitre RibeLeo. Ne perdez pas\nespoir, voyons."
+    "15753": {
+        "「どっちも　サイコーに　かっけーぜっ！\n　オイラ　チョーあこがれちまうぜーっ！": "Les deux sont hyper styles ! Je les admire\ntellement !"
     },
-    "20013": {
-        "「ミャルジ。今日のところは　帰るのニャ……。": "Myarji. Pour aujourd'hui, je rentre chez\nmoi..."
+    "15754": {
+        "「見てくれ　ガガイ。\n　このランガーオ村は　変わったのだ。": "Regarde, Gagai. Ce village de Langao a change."
     },
-    "20014": {
-        "「……<pc>さま。\n　手を貸してくれて　ありがとうでヤンス。\n　これは　ささやかな気持ちでヤンス。": "<pc>-sama. Merci pour votre aide. Ceci\nest un modeste present de ma part."
+    "15755": {
+        "「死への恐怖に打ち勝ち　勇気を持って\n　戦った両者を　等しく敬え。\n　それが　今の　この村の教えだ。": "Honorez egalement ceux qui ont surmonte la\npeur de la mort et ont combattu avec courage.\nC'est l'enseignement actuel de notre village."
     },
-    "20015": {
-        "「それじゃ　アッシも　これで……。": "Alors, je vais y aller aussi..."
+    "15756": {
+        "「お前が　村を出ていってから\n　２０年かけて……　この教えを\n　村の皆に　行きわたらせたのだ。": "Cela fait 20 ans depuis ton depart du\nvillage... Durant ce temps, j'ai diffuse cet\nenseignement a tous les villageois."
     },
-    "20016": {
-        "「……あやつも　根っからの悪党と\n　いうわけではないのだがな……。": "… Ce n'est pas vraiment un mechant de nature,\ntu sais…"
+    "15757": {
+        "「ガガイよ。言わば　お前の父親の死が\n　今の　この村の姿を　作ったのだ……。": "Gagai. On pourrait dire que la mort de ton\npere a faconne le village tel qu'il est\naujourd'hui..."
     },
-    "20017": {
-        "「わかっておらんのだ……リベリオは。": "Je ne comprends pas... RibeLeo."
+    "15758": {
+        "「バカな…………。": "Quel imbecile..."
+    },
+    "15759": {
+        "「もう一度言う。ガガイよ。": "Je le repete encore une fois. C'est Gagai."
+    },
+    "15760": {
+        "「お前には　この村で　暮らしてほしい。\n　そして　その強さを\n　この村のために　役立ててほしいのだ。": "Je souhaite que tu vives dans ce village. Et\nque tu utilises ta force pour le bien de ce\nvillage."
+    },
+    "15761": {
+        "「それが　かなえば　きっと\n　ガガベスも　報われるだろう……。": "Si cela se realise, Gagabes sera surement\nrecompense..."
+    },
+    "15762": {
+        "「これは　私も　最近　村人から聞いて\n　知ったことだが……。": "<me 60> Ca, je l'ai aussi appris recemment\nd'un villageois..."
+    },
+    "15763": {
+        "「この村では　当時　敗者の墓を作ることは\n　禁じられていた。だが　村王は　オキテを破って\n　ガガベス殿の墓を作り　今も供養しているのだ。": "Dans ce village, a l'epoque, il etait interdit\nde construire des tombes pour les vaincus.\nCependant, le roi du village a enfreint cette<br>regle en erigeant une tombe pour Gagabes dono,\net il continue de lui rendre hommage a ce\njour."
+    },
+    "15764": {
+        "「墓を作ったことも　新しい教えを\n　行きわたらせたことも　すべては　いつの日か\n　そなたを　この村に　迎えたいと願ったため。": "Le fait d'avoir construit un cimetiere et\nrepandu la nouvelle doctrine, tout cela etait\ndans l'espoir de pouvoir t'accueillir un jour<br>dans ce village."
+    },
+    "15765": {
+        "「ガガイ殿よ……。\n　どうか　村王の気持ちを　察してくれまいか。": "Gagai-dono... Je vous en prie, pourriez-vous\ncomprendre les sentiments du roi du village ?"
+    },
+    "15766": {
+        "「わかった……。もう充分だ。": "D'accord... C'est assez."
+    },
+    "15767": {
+        "「だが……オレには　オレの　けじめがある。\n　この村で　暮らすことは　できない……。": "Mais... j'ai mes propres responsabilites. Je\nne peux pas vivre dans ce village..."
+    },
+    "15768": {
+        "「オレは　罪を重ねすぎた……。": "J'ai commis trop de peches..."
+    },
+    "15769": {
+        "「ありがとう　<cs_pchero>よ。\n　まったく　お前には\n　最後まで　世話に　なりっぱなしだったな。": "Merci, <cs_pchero>. Tu m'as vraiment aide\njusqu'a la fin."
+    },
+    "15770": {
+        "「せめてものことは　させてほしい。\n　後で　わしの所に　来てくれ。": "Permets-moi au moins de faire quelque chose\npour toi. Viens me voir plus tard."
+    },
+    "50293": {
+        "「村王さま……。": "Village Roi-sama..."
+    },
+    "50294": {
+        "「そうだそうだ！\n　オレたちが　村王を尊敬しているのは\n　強いからだけじゃないぞ！": "Exactement, exactement ! Si nous respectons le\nroi du village, ce n'est pas seulement parce\nqu'il est fort !"
+    },
+    "50295": {
+        "「あたしたちは　村王が　立派な人だから\n　心から　尊敬してるんだよ！": "Nous respectons sincerement notre chef de\nvillage parce qu'il est une personne\nremarquable !"
+    },
+    "50296": {
+        "「ガガイーっ！\n　お前は　負けはしたが　すごかったぞー！": "Gagaiー ! Tu as peut-etre perdu, mais tu etais\nincroyable !"
+    },
+    "50297": {
+        "「最後まで　あきらめずに戦い続けて\n　<cs_pchero>も　ガガイも　本当に立派だよ！\n　あたし　感動で　泣けてきたよっ！！": "Jusqu'a la fin, vous avez continue a vous\nbattre sans jamais abandonner. <cs_pchero> et\nGagai, vous etes vraiment admirables ! Je suis<br>tellement emue que j'en pleure !!"
     }
 }
