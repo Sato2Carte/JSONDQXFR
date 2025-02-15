@@ -1,134 +1,224 @@
 {
-    "13810": {
-        "「わあ　<pc>さん！\n　お待ちしていましたよ！": "Ah, <pc>-san ! Je vous attendais !"
+    "19139": {
+        "「あれ？　支部長。\n　もしかして　そいつが　うわさの新人かい？": "Tiens ? Chef de section. Serait-ce le nouveau\ndont tout le monde parle ?"
     },
-    "13811": {
-        "「どうやら　洗礼の儀を行う時が　来たようだな。": "Il semblerait que le moment soit venu\nd'accomplir le rite du bapteme."
+    "19140": {
+        "「うむ。期待の新人　<pc>じゃ！\n　ちょうど　お前たちの話をしていたところだし\n　それぞれ　自己紹介すると　しようかい。": "Hum. Voici le nouveau talent prometteur,\n<pc> ! Nous parlions justement de vous.\nFaisons donc les presentations."
     },
-    "13812": {
-        "「<pc>。よくぞ　はげんだ。": "<pc>. Tu as bien persevere."
+    "19141": {
+        "「……うーくっくっくっ。\n　自己紹介を　しようかい……くっくっ。": "…Ahahaha. Devrais-je me presenter… haha."
     },
-    "13813": {
-        "「キリカ修道会に入門し　チカラをつけた僧侶は\n　知恵の神　エルドナ神による\n　洗礼の儀を　受けることを許されるのだ。": "Les pretres qui rejoignent l'ordre de Kirika\net acquierent de la puissance sont autorises a\nrecevoir le rite du bapteme de la deesse de la<br>sagesse, Eldona."
+    "19142": {
+        "「モリナラ支部へ　ようこそ！\n　私は　アズラン出身の　ユウギリ。": "Bienvenue a la branche de Morinara ! Je suis\nYugiri, originaire de AzLMP."
     },
-    "13814": {
-        "「これより　お前には　洗礼の儀で使う\n　聖具を　用意してもらう。": "A partir de maintenant, tu devras preparer les\nreliques sacrees utilisees pour la ceremonie\nde bapteme."
+    "19143": {
+        "「自分より　新しい人が　来てくれるの\n　はじめてだから　うれしいわ。\n　よろしくね　<pc>！": "C'est la premiere fois que quelqu'un de plus\nrecent que moi arrive, je suis ravie.\nEnchantee de te rencontrer, <pc> !"
     },
-    "13815": {
-        "「くわしい指示は　コクヨウに伝えてある。\n　出発の準備が　できたら\n　彼に　声をかけるといい。": "Les instructions detaillees ont ete transmises\na Yokuyou. Une fois que tu es pret a partir,\nadresse-toi a lui."
+    "19144": {
+        "「オレは　ジュレット出身のレーノス。\n　ふ～ん。期待の新人ねぇ……。": "Je viens de Juret et je m'appelle Renosu.\nHmm... Un nouveau talent prometteur, hein..."
     },
-    "13816": {
-        "「はげめよ　<pc>。\n　これも　お前に与えられる\n　ひとつの試練なのだ。": "Courage, <pc>. Ceci est egalement une\nepreuve qui t'est donnee."
+    "19145": {
+        "「そんなふうに　言われてる奴に限って\n　使えねえ場合が　多いんだけどな……。\n　まあ　よろしく頼むわ。": "Ceux qui sont decrits de cette maniere sont\nsouvent inutiles... Enfin, je compte sur toi."
     },
-    "13817": {
-        "「まちがいありません。\n　世界各地に　確かな前兆が　現れていました。": "Il n'y a aucun doute. Des signes precurseurs\ncertains se manifestent a travers le monde."
+    "19146": {
+        "「あとは　オモテで　見張り番をしている\n　マルチャと　お前さんを加えて\n　総勢５人が　モリナラ支部のメンバーじゃ。": "Ensuite, avec Marcha qui monte la garde a\nl'exterieur et vous, cela fait un total de\ncinq membres pour la branche de Morinara."
     },
-    "13818": {
-        "「ふうむ…………。": "Hmm............"
+    "19147": {
+        "「じゃ　顔合わせも　すんだとこで\n　オレは　帰らせてもらいますわ。\n　これから　アズランで　合コンなんで！": "Alors, maintenant que nous avons fait\nconnaissance, je vais vous laisser. Je vais a\nune soiree avec des amis a l'AzLMP !"
     },
-    "13819": {
-        "「みかがみの泉に　かげりが差したと聞き\n　あなたに　調べさせましたが……。\n　やはり　死神の息吹は　避けられないのですね。": "J'ai entendu dire qu'une ombre est tombee sur\nla Fontaine de Mikagami, alors je vous ai\ndemande d'enqueter... Il semble que le souffle<br>du Dieu de la Mort soit inevitable."
+    "19148": {
+        "「……やれやれ　しかたのないヤツじゃ。\n　ユウギリ。悪いが　今から　ひとつ\n　仕事を頼めんか？": "…Bon sang, tu es vraiment incorrigible.\nYugiri. Desole, mais pourrais-tu accepter une\nmission des maintenant ?"
     },
-    "13820": {
-        "「多くの者が……　死ぬのでしょうか。": "Beaucoup de gens... vont-ils mourir ?"
+    "19149": {
+        "「あ　はい！\n　例の　<%sEV_QUE_NAME0>の件ですよね？\n　まかせてくださいっ！": "Ah, oui ! C'est a propos de <%sEV_QUE_NAME0>,\nn'est-ce pas ? Laissez-moi m'en occuper !"
     },
-    "13821": {
-        "「そういう時代も　あるということでしょう……。\n　不安を　あおらぬよう　人々には\n　このことは　伏せておきなさい。いいですね？": "Il y a des epoques comme celle-ci... Pour ne\npas semer l'inquietude, il vaut mieux garder\ncela secret pour le peuple. D'accord ?"
+    "19150": {
+        "「よっし！　\n　初の単独任務だ。がんばるぞぉー！": "Allons-y ! C'est ma premiere mission en solo.\nJe vais tout donner !"
     },
-    "13822": {
-        "「ええ。洗礼の儀が済んだら\n　私は　調査に出かけます。\n　何か手立てが　見つかるかも……": "Oui. Une fois la ceremonie de bapteme\nterminee, je partirai en mission de\nreconnaissance. Peut-etre que je trouverai<br>quelque chose qui pourra nous aider..."
+    "19151": {
+        "「そうじゃ　<pc>。\n　せっかくだから　お前さんに\n　はじめての任務を　頼もうかの。": "Eh bien, <pc>. Puisque l'occasion se\npresente, je vais te confier ta premiere\nmission."
     },
-    "13825": {
-        "「……しかし　それは　まちがいです。 \n　あなたが　気づこうと気づくまいと\n　死神の息吹は　世に現れたのですから。 ": "......Cependant, c'est une erreur. Que vous en\nsoyez conscient ou non, le souffle du dieu de\nla mort a deja penetre le monde."
+    "19152": {
+        "「じつは　モリナラ大森林では　最近\n　<%sEV_QUE_NAME0>が　大量発生して\n　森を荒らすという問題が　起こっておるのじゃ。": "En fait, dans la foret de Molinara, un\nprobleme est survenu recemment : des\n<%sEV_QUE_NAME0> sont apparus en grand nombre,<br>ravageant la foret."
     },
-    "13826": {
-        "「調査も　いいですが\n　たまには　家に帰りなさい。\n　アルノーの顔も　しばらく見ていないのでは？": "L'enquete, c'est bien, mais rentre a la maison\nde temps en temps. Tu n'as pas vu le visage\nd'Alnore depuis un moment, n'est-ce pas ?"
+    "19153": {
+        "「魔物といえど　命は命じゃからな。 \n　できれば　不必要な殺生はせずに\n　すませたいというのが　悩みどころじゃ。": "Meme si ce sont des monstres, une vie reste\nune vie. Idealement, j'aimerais eviter de tuer\ninutilement, mais c'est la que reside le<br>dilemme."
     },
-    "13827": {
-        "「大僧正様…………。": "Daisojo-sama..."
+    "19154": {
+        "「まあ　どういう方法をとるかは　ユウギリと\n　相談して決めてくれ。サバイバルスキルの\n　みのがすは　心得として　覚えておくべきかの。": "Eh bien, discute avec Yugiri pour decider de\nla methode a adopter. La competence 'Mackerel\nIbaruskill' de 'passer son tour' devrait etre<br>retenue comme un savoir essentiel, n'est-ce\npas ?"
     },
-    "13828": {
-        "「さあ　中で　祈りましょう。\n　きっと　エルドナ神が　お守りくださいますよ。": "Allez, prions a l'interieur. Eldona veillera\nsurement sur nous."
+    "19155": {
+        "「来たばかりで　お疲れのところ　悪いが\n　あの子だけでは　どうにも不安でな。\n　ひとつ　頼まれてくれんかのう？": "Je suis desole de te demander cela alors que\ntu viens d'arriver et que tu dois etre\nfatigue, mais je ne peux m'empecher de<br>m'inquieter pour cet enfant. Pourrais-tu me\nrendre un service ?"
     },
-    "13829": {
-        "「おお　<pc>。\n　待っていましたよ。": "O, <pc>. Je vous attendais."
+    "19156": {
+        "「それでは　頼んだぞ。\n　まず　先に森の奥へ行った　ユウギリに追いつき\n　具体的にどうするか　相談して決めるのじゃ。": "Alors, je compte sur toi. Tout d'abord,\nrejoins Yugiri qui est deja parti au fond de\nla foret. Ensuite, discutez ensemble pour<br>decider precisement de ce qu'il faut faire."
     },
-    "13830": {
-        "「ごらんなさい。\n　この　木彫りのエルドナ神像を。": "Regardez donc. Cette statue en bois d'Eldona."
+    "19157": {
+        "「では　頼んだぞ……と思ったら\n　なんじゃ　その　頼まれごとの数は！？": "Eh bien, je compte sur vous... Mais qu'est-ce\nque c'est que ce nombre de requetes !?"
     },
-    "13831": {
-        "「この木彫りの像は　エルトナ大陸を\n　守護するため　はるか昔に　大僧侶キリカが\n　お作りになった　奇跡の神像なのですよ。": "Cette sculpture en bois est une statue divine\nmiraculeuse que le grand pretre Kirika a creee\nil y a tres longtemps pour proteger le<br>continent d'Eltona."
+    "19158": {
+        "「それでは　仕事のひとつも　頼めんぞ！\n　ええい。さっさと　手を空けてくるのじゃ！": "Dans ce cas, je ne peux pas te confier de\ntache ! Allez, depeche-toi de te liberer les\nmains !"
     },
-    "13832": {
-        "「さあ　<pc>よ。\n　かがり火の石を　ここに。": "Allez, <pc>. Apporte la Bonfire Stone\nici."
+    "19159": {
+        "「期待の新人が来たと　よろこんでいたら\n　いきなり　逆らわれた……。\n　ああ　もう　信じんらんない！": "Je me rejouissais de l'arrivee de la nouvelle\nrecrue prometteuse, mais elle s'est rebellee\nimmediatement... Ah, je n'arrive plus a y<br>croire !"
     },
-    "13833": {
-        "<pc>は　イヨリ大僧正に\nかがり火の石を　渡した。": "<pc> a remis la Pierre de Feu de Joie au\nGrand Pretre Iyori."
+    "19160": {
+        "「……うーくっくっくっ。\n　新人が…信じんらんない……くっくっ。": "… Hehe, je n'arrive pas a y croire... Un\nnouveau... Haha."
     },
-    "13834": {
-        "「これで　準備は　ととのいました。\n　洗礼の儀を　始めるといたしましょう。": "Les preparatifs sont maintenant termines.\nCommencons la ceremonie du bapteme."
+    "19161": {
+        "「……あ！　<pc>も来たんだ。": "…Ah ! <pc> est venu aussi."
     },
-    "13835": {
-        "「……偉大なる　エルドナ神よ。\n　ここに　新たなる御手\n　<pc>が　参りました。": "O grand Eldona. Voici que votre nouvelle main,\n<pc>, est arrivee."
+    "19162": {
+        "「そっか。私も　もう　先輩だもんね。\n　<pc>の面倒を　見ながら\n　任務を　こなせってことだね！": "D'accord. Je suis deja une senpai, apres tout.\nJe dois m'occuper de <pc> tout en\naccomplissant mes missions !"
     },
-    "13836": {
-        "「この　かがり火の石を\n　お受け取りくださいませ。\n　そして　この者に　祝福を……。": "Veuillez accepter cette Pierre de Feu de Joie.\nEt accordez votre benediction a cette\npersonne..."
+    "19163": {
+        "「よーし　それじゃあ　お姉さんが\n　レンジャーの仕事を教えてあげましょう！\n　えーっと　まずはね……": "D'accord, alors je vais vous apprendre le\nmetier de Ranger ! Voyons voir, pour\ncommencer..."
     },
-    "13837": {
-        "<center>……<pc>……": "<pc>"
+    "19164": {
+        "「そうそう！　このモリナラ大森林では\n　無計画な伐採が　行われないように\n　私たちが　切られる木の数を管理してるの。": "Oui, oui ! Dans cette foret de Molinara, nous\ngerons le nombre d'arbres abattus pour\nqu'aucune coupe non planifiee ne soit<br>effectuee."
     },
-    "13838": {
-        "<center>……おお　お前の顔が見える……\nよくぞ　我がもとに　参りました。": "Oh, je peux voir ton visage...... Merci d'etre\nvenu jusqu'a moi."
+    "19165": {
+        "「日々　森のパトロールを　おこたらず\n　もしも　勝手に　木を切ってる人がいたら\n　注意してあげるのも　大切な仕事なんだよ。": "Chaque jour, je patrouille dans la foret sans\nrelache. Et si jamais je trouve quelqu'un en\ntrain de couper des arbres sans permission,<br>c'est aussi une partie importante de mon\ntravail de le rappeler a l'ordre."
     },
-    "13839": {
-        "「<pc>　聞こえるか？\n　これが　エルドナ神の声だ……。": "<pc>, tu m'entends ? C'est la voix\nd'Eldona..."
+    "19166": {
+        "「……って　それよりも　任務だよね。\n　森を荒らす　<%sEV_QUE_NAME0>を\n　どうにかしないと……。": "…Mais avant tout, c'est la mission qui prime.\nNous devons faire quelque chose a propos de\n<%sEV_QUE_NAME0> qui ravage la foret…"
     },
-    "13840": {
-        "<center>……大いなる災いが　せまっています。\nお前のチカラが　必要なのです……": "Un grand malheur approche. Nous avons besoin\nde ta force"
+    "19167": {
+        "「<pc>も　聞いてるだろうけど\n　私たち　レンジャー協会は　魔物といえど\n　むやみに　殺したりはしない方針なの。": "<pc>, tu dois deja le savoir, mais notre\nAssociation des Rangers a pour principe de ne\npas tuer les monstres sans raison."
     },
-    "13841": {
-        "<center><pc>よ……\n人々を　救いなさい……\nそして　災いが…おとずれた時には…… ": "<pc>... Sauvez les gens... Et lorsque le\nmalheur frappera..."
+    "19168": {
+        "「うん！　それじゃ　こうしよう！\n　<%sEV_QUE_NAME0>と戦いになったら\n　サバイバルスキルの　みのがすを使うの。": "Oui ! Alors, faisons comme ca ! Quand tu te\nretrouves a combattre <%sEV_QUE_NAME0>,\nutilise la competence Mackerel Ibaru :<br>'ignorer'."
     },
-    "13842": {
-        "<center>………この……像を………": "…Cette… statue…"
+    "19169": {
+        "「こっちの気迫で　ビビらせれば　\n　相手は逃げていくから。そしたら　もう\n　森を荒らしたりしないと　思うんだ。": "Si on peut les intimider avec notre\ndetermination, ils s'enfuiront. Et alors, je\npense qu'ils ne derangeront plus la foret."
     },
-    "13843": {
-        "「終わったようですね……。": "On dirait que c'est termine..."
+    "19170": {
+        "「そんな感じで　手分けして　ひとり<%nEV_QUE_T_NUM0>匹の\n　<%sEV_QUE_NAME0>を　みのがしたら\n　ここで　合流することにしましょ。": "Dans ce cas, separons-nous. Si l'un de nous\nlaisse echapper un <%sEV_QUE_NAME0>,\nretrouvons-nous ici."
     },
-    "13844": {
-        "「おどろきましたか！？　エルドナ神は\n　このようにして　洗礼の儀の時にだけ\n　新たな兄弟に　声を聞かせてくださるんです！": "As-tu ete surpris !? Eldona, de cette maniere,\nne permet a ses nouveaux freres d'entendre sa\nvoix que lors de la ceremonie du bapteme !"
+    "19171": {
+        "「戦闘に負けたり　途中で逃げたりしちゃったら\n　その分は数えないから　気をつけてね！\n　さあ　先輩の実力　見せちゃうんだから！": "Si tu perds un combat ou que tu t'enfuis en\ncours de route, ca ne comptera pas, alors fais\nattention ! Allez, montre-moi de quoi tu es<br>capable, senpai !"
     },
-    "13845": {
-        "「でも　大僧正様。大いなる災いとは……？": "Mais, grand pretre-sama. Que signifie ce grand\nfleau... ?"
+    "19172": {
+        "ユウギリは　みのがすを　使った！": "Yugiri a utilise Eviter !"
     },
-    "13846": {
-        "「災いのことは　時が来たら　お話ししましょう。\n　しかし　神は　<pc>のチカラを\n　求めていたようですが　それは　なぜか……。": "Je vous parlerai des calamites en temps voulu.\nCependant, il semble que les dieux\nrecherchaient le pouvoir de <pc>, mais<br>pourquoi donc..."
+    "19173": {
+        "「さ……さあ　逃げなさいっ！\n　わ　私と戦っても　勝ち目なんてないのよ！": "Al... allez, fuyez ! Il n'y a aucune chance de\nvictoire en combattant contre moi !"
     },
-    "13847": {
-        "「きっと　神の　サービスというものでしょう。\n　<pc>の　入門を祝い\n　はげんでもらうための　言葉ですよ。": "C'est surement ce qu'on appelle un service\ndivin. C'est une parole pour celebrer l'entree\nde <pc> et l'encourager."
+    "19174": {
+        "しかし　なにも　おこらなかった！": "Cependant, rien ne s'est passe !"
     },
-    "13848": {
-        "「ふむう……。なるほど。": "Hmm... Je vois."
+    "19175": {
+        "「きゃっ！！": "Ah !!"
     },
-    "13849": {
-        "「<pc>。ご苦労だったな。\n　この日を祝って　私たちからの　贈り物だ。": "<pc>. Tu as bien travaille. Pour\ncelebrer ce jour, voici un cadeau de notre\npart."
+    "19176": {
+        "突然　現れた　光の球に\n<%sEV_QUE_NAME0>は　おどろき　にげだした！": "Soudainement surpris par la balle de lumiere,\n<%sEV_QUE_NAME0> s'enfuit !"
     },
-    "13850": {
-        "「……かがり火の石を　手に入れるのは\n　なかなか　手を焼いただろう。": "...Obtenir la Pierre de Feu de Joie a\ncertainement du te donner du fil a retordre."
+    "19177": {
+        "「おうおう　やっと会えたな　相棒！\n　オレ様　スピルってんだ！\n　見ての通りの　森の精霊さぁ。": "Oh, oh, enfin nous nous rencontrons,\npartenaire ! Je suis Spiel ! Comme tu peux le\nvoir, je suis l'esprit de la foret."
     },
-    "13851": {
-        "「じつは　お前には　教えなかったが\n　かがり火の石は　<%sEV_QUE_NAME1>を\n　倒すことでも　簡単に　手に入るのだ。": "En fait, je ne te l'avais pas dit, mais il est\nfacile d'obtenir une Bonfire Stone en battant\n<%sEV_QUE_NAME1>."
+    "19178": {
+        "「えっ？　えっ！？\n　ま　まさか　ホントに　精霊さんなの？\n　<pc>が　相棒って……。": "Hein ? Hein !? Tu... tu es vraiment un esprit\n? Et tu dis que <pc> est ton\npartenaire... ?"
     },
-    "13852": {
-        "「だが　お前には　あえて　強い方の\n　<%sEV_QUE_NAME0>と　教えたのだ。\n　弟子に　厳しいのが　私のやり方でな。": "Cependant, je t'ai intentionnellement appris\nla version plus forte de <%sEV_QUE_NAME0>.\nEtre severe avec mes disciples, c'est ma<br>maniere de manier la lance."
+    "19179": {
+        "「どうやら　嬢ちゃんの方は\n　ちったぁ　わかってるみたいだな。\n　ひとつ　説明してやってくれよ！": "On dirait que la demoiselle a compris,\nn'est-ce pas ? Pourrais-tu lui expliquer un\npeu ?"
     },
-    "13853": {
-        "「これも　お前をきたえるため。\n　強くなれ　<pc>。\n　お前のような者のチカラが　いずれ必要となる。": "C'est aussi pour te renforcer. Deviens plus\nfort, <pc>. Un jour, nous aurons besoin\nde la puissance de quelqu'un comme toi."
+    "19180": {
+        "「え……ええ。\n　レンジャーに転職するための試練で\n　精霊の実を食べたのは　覚えてるでしょ？": "Eh... oui. Tu te souviens avoir mange le fruit\nde l'esprit lors de l'epreuve pour devenir\nRanger, n'est-ce pas ?"
     },
-    "24452": {
-        "「ヘルガ。あなたは　やさしい人です。": "Helga. Tu es une personne gentille."
+    "19181": {
+        "「あれは　レンジャーが　精霊のチカラを\n　身に宿すための儀式だけど　実際には\n　ほとんど　形だけのものになってるのよ。": "C'est un rituel pour que les Rangers\ns'impregnent du pouvoir des esprits, mais en\nrealite, cela n'est presque plus qu'une simple<br>formalite."
     },
-    "24453": {
-        "「死神の息吹の前兆に　最初に気づいたがゆえに\n　この災いの　すべてを　自分が \n　背負わねばならぬもののように感じている。": "Parce que j'ai ete le premier a remarquer les\nsignes avant-coureurs du Souffle du Dieu de la\nMort, je ressens que je dois porter seul tout<br>le poids de ce fleau."
+    "19182": {
+        "「ところが　ごくまれに……それこそ\n　１０年にひとり　本当に　精霊を身に宿す\n　選ばれし　レンジャーが　現れるの。": "\nところが、ごくまれにそれこそ10年にひとり、本当に精霊を身に宿す選ばれしレンジャーが現れるの"
+    },
+    "19183": {
+        "「つまり　<pc>。\n　あなたが　その　選ばれし　レンジャーなのよ。\n　……この精霊さんが　本物ならだけど。": "En d'autres termes, <pc>. Tu es le\nranger choisi. ... Si cet esprit est\nveritable, bien sur."
+    },
+    "19184": {
+        "「カ～ッ！　嬢ちゃん\n　見かけによらず　キッツいなぁ。\n　オレが　精霊以外の　なんに見えるんだよ？": "Eh bien ! Jeune demoiselle, tu es plutot\ncoriace malgre les apparences. A quoi d'autre\npourrais-je ressembler qu'a un esprit ?"
+    },
+    "19185": {
+        "「ううっ。私の中の　精霊のイメージがぁ……。\n　もしかして　宿主の　<pc>から\n　悪い影響　受けちゃったの？": "Ugh. L'image que j'avais des esprits en moi\nest en train de... Serait-ce possible que j'ai\nete influencee negativement par l'hote<br><pc> ?"
+    },
+    "19186": {
+        "「カッカッカー。その可能性は　否めないな。\n　なにしろ　オレ様にとって　相棒は\n　育ての親みたいなもんだからなー。": "Kakkaッカー. Cette possibilite ne peut etre\necartee. Apres tout, pour moi, mon partenaire\nest comme un parent adoptif, tu sais."
+    },
+    "19187": {
+        "「まー　そういうわけだ。\n　これから　よろしく頼むぜ　相棒！！": "Eh bien, c'est comme ca. Je compte sur toi a\npartir de maintenant, partenaire !!"
+    },
+    "19188": {
+        "「そうだっ！　こうしちゃいられないよ。\n　<pc>と　精霊さんのこと\n　支部長に　報告しないと！": "Oui, c'est vrai ! Je ne peux pas rester la\nsans rien faire. Je dois absolument informer\nle chef de section au sujet de <pc> et<br>de l'esprit !"
+    },
+    "19189": {
+        "「あわただしい　嬢ちゃんだなー。": "Quelle demoiselle agitee !"
+    },
+    "19190": {
+        "「……っと　オレ様　生まれたばっかりで\n　まだ　元気マックスとは　言えねえんだ。\n　相棒の中で　休ませてもらうぜ。": "Eh bien, je viens juste de naitre, donc je ne\nsuis pas encore a mon maximum d'energie. Je\nvais me reposer un peu a l'interieur de notre<br>partenaire."
+    },
+    "19191": {
+        "「どうやら　<%sEV_QUE_NAME0>は\n　なんとかしてくれたようじゃな。": "Il semble que <%sEV_QUE_NAME0> ait reussi a\narranger les choses."
+    },
+    "19192": {
+        "「ところで　ユウギリは　どうしたんじゃ？\n　一緒では　なかったのか？": "Au fait, ou est passe Yugiri ? Il n'etait pas\navec vous ?"
+    },
+    "19193": {
+        "「あれっ　<pc>？\n　いつの間に　追い抜いてたの！？": "Hein, <pc> ? Depuis quand tu m'as\ndepasse !?"
+    },
+    "19194": {
+        "「……とにかく　ふたりとも　ご苦労だった。\n　特に　<pc>は　はじめての任務で\n　よく　がんばってくれたな。": "En tout cas, vous avez tous les deux bien\ntravaille. Surtout toi, <pc>, c'etait ta\npremiere mission et tu as vraiment fait de ton<br>mieux."
+    },
+    "19195": {
+        "「これは　任務達成の　お祝いじゃ。\n　受け取るがよい。": "C'est pour celebrer l'accomplissement de ta\nmission. Prends-le."
+    },
+    "19196": {
+        "「そうだった　支部長！\n　大変なことが　起こったんです！": "C'est vrai, Chef de section ! Quelque chose de\ngrave est arrive !"
+    },
+    "19197": {
+        "ユウギリは　<pc>に\n精霊が宿ったことを　ポランパンに報告した！": "Yugiri a rapporte a Poranpan que <pc>\nest habite par un esprit !"
+    },
+    "19198": {
+        "「なんと……　そりゃ　まことか？\n　本当だとしたら　すばらしいことじゃが……。": "Quoi... Est-ce vraiment vrai ? Si c'est le\ncas, c'est merveilleux..."
+    },
+    "19199": {
+        "「ヘイヘイ。動かぬ証拠を　お見せするぜ！\n　オレが　うわさの精霊スピル様だぁ！": "Hee hee. Laissez-moi vous montrer une preuve\nirrefutable ! Je suis le fameux esprit\nSpiel-sama !"
+    },
+    "19200": {
+        "「おお！　まことに　精霊さまじゃ！\n　ということは　<pc>は\n　選ばれし　レンジャーなのか！？": "Oh ! C'est vraiment l'Esprit sacre ! Cela\nsignifie que <pc> est le Ranger elu !?"
+    },
+    "19201": {
+        "「さすがは　支部長さんだ。\n　ものわかりが　いいじゃねーか！\n　やっぱ　人の上に立つヤツは　ちがうねぇ。": "Comme on pouvait s'y attendre du chef de\nsection. Tu as vraiment une bonne\ncomprehension des choses ! C'est clair que<br>ceux qui dirigent les autres sont differents."
+    },
+    "19202": {
+        "「いやいや　スピルどのこそ\n　その　精霊っぽくない　くだけた口調が\n　逆に　ただ者でない風格を　感じさせますぞ。": "Non, non, c'est vous, Spiel-dono, avec votre\nlangage decontracte qui ne ressemble pas a\ncelui d'un esprit, qui donne au contraire une<br>impression de grandeur extraordinaire."
+    },
+    "19203": {
+        "「いやいや　それほどでも……あるけどな。\n　カーッカッカッカッ！！": "Non, non, ce n'est pas grand-chose... mais en\nfait, si. Haha ! Kakka !"
+    },
+    "19204": {
+        "「うーくっくっくっ。": "Uuh, ku ku ku."
+    },
+    "19205": {
+        "「……どうやら　支部長と　精霊さんは\n　相性が　いいみたいだね。\n　まわりは　苦労しそうだけど……。": "…Il semble que le chef de section et l'esprit\ns'entendent bien. Cela risque d'etre complique\npour ceux qui les entourent, cependant..."
+    },
+    "25066": {
+        "「ところでさ　<pc>。\n　今回の任務で　森を回ってるときに\n　なにか違和感を　感じなかった？<yesno><close>": "Au fait, <pc>. Lors de notre mission\ndans la foret, as-tu ressenti quelque chose\nd'etrange ?<yesno><close>"
+    },
+    "25067": {
+        "「さすが　選ばれし　レンジャーね！\n　はじめてでも　バッチリ気づいちゃうんだ。": "Comme on pouvait s'y attendre de la part d'un\nRanger elu ! Meme si c'est la premiere fois,\ntu as parfaitement remarque."
+    },
+    "25068": {
+        "「……そっか。<pc>は　まだ\n　この森に　なれてないもんね。\n　気づかないのも　無理ないか。": "... Je vois. <pc> n'est pas encore\nhabitue a cette foret. Il est comprehensible\nqu'il ne s'en rende pas compte."
+    },
+    "25069": {
+        "「モリナラでは　勝手に　木が切られないように\n　私たちレンジャーが　管理してるって話は\n　もう　したと思うんだけど……。": "Dans la foret de Morinara, je pense t'avoir\ndeja dit que nous, les rangers, veillons a ce\nque les arbres ne soient pas coupes sans<br>autorisation..."
+    },
+    "25070": {
+        "「今日の任務で　森を回ってたら　\n　明らかに　伐採されている木の数が\n　多い場所を　見つけちゃったのよね。": "Lors de la mission d'aujourd'hui, en\nparcourant la foret, j'ai decouvert un endroit\nou le nombre d'arbres abattus est clairement<br>important."
+    },
+    "25071": {
+        "「もしかして　何者かが　許可を得ずに\n　木を切ってるのかも……？": "Peut-etre que quelqu'un coupe des arbres sans\nautorisation...?"
+    },
+    "25072": {
+        "「よっし！　私　ちょっと調査してくるね。\n　それで　自分の考えに　確信が持てたら\n　支部長に　報告してみるよ！": "Yosh ! Je vais aller faire quelques\nrecherches. Si je suis sure de mes idees, je\nles rapporterai au chef de section !"
     }
 }
