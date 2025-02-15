@@ -1,173 +1,191 @@
 {
-    "13381": {
-        "「ああ　<pc>さん。おひさしぶりです。\n　そろそろ　いらっしゃる頃かと思い\n　連絡を　取ろうとしてたんですよ。": "Ah, <pc>-san. Cela faisait longtemps. Je\npensais que vous alliez bientot arriver, alors\nj'essayais de vous contacter."
+    "58327": {
+        "「……ファーベル？": "...Fabel ?"
     },
-    "13382": {
-        "「この間なんて　全然ちがう人に\n　話しかけてしまって　ずいぶん　相手を\n　おどろかせてしまいました。": "L'autre jour, j'ai parle a quelqu'un de\ncompletement different par erreur, et je l'ai\nvraiment surpris."
+    "58328": {
+        "「オレも……っていいか……？": "Je peux... aussi... ?"
     },
-    "13383": {
-        "「あなたと　こうして話すのも\n　もう　けっこうな回数になるのに\n　あんな失敗するなんて　情けない限りです。": "Meme si nous avons deja eu de nombreuses\nconversations ensemble, il est vraiment\ndecevant de faire une telle erreur."
+    "58329": {
+        "「え？　なに？　聞こえないわ。": "Hein ? Quoi ? Je n'entends pas."
     },
-    "13384": {
-        "「…………。": ""
+    "58330": {
+        "「オレも　ついていっていいか！？\n　って言ったんだよ！": "J'ai demande : Est-ce que je peux venir avec\nvous !?"
     },
-    "13385": {
-        "「……あのぅ　<pc>さん。": "......Euh, <pc>-san."
+    "58331": {
+        "「ついていくって……。\n　あなた　<pc>さんと一緒に\n　護衛の仕事に行くって言うの？": "Tu vas y aller… Tu veux dire que tu vas\naccompagner <pc>-san pour un travail de\ngarde ?"
     },
-    "13386": {
-        "「もし……もし　よかったらで\n　いいんですけれど……\n　一度　私と　会ってみませんか？": "Si... si cela ne vous derange pas...\nJ'aimerais vous rencontrer, au moins une fois."
+    "58332": {
+        "「まもの使いとか　興味ないけどな。\n　その……護衛とかは　なんか興味あるし。": "Je ne suis pas vraiment interesse par le\nmetier de dompteur de monstres. Mais... en ce\nqui concerne l'escorte, ca m'interesse un peu."
     },
-    "13387": {
-        "「おたがい　相手の顔が　わからないので\n　目印となる服装と　待ち合わせ場所を\n　決めておくと　いいと思うんです。": "Comme nous ne connaissons pas le visage de\nl'autre, je pense qu'il serait bon de decider\nd'une tenue distinctive et d'un lieu de<br>rendez-vous."
+    "58333": {
+        "「……ふふ。わかったわ。": "...Fufu. Je comprends."
     },
-    "13388": {
-        "「……そうですね。<%sEV_QUE_NAME4>を装備して\n　プクランド大陸のミュルエルの森\n　フォステイル広場で会うなんて　どうです？": "Eh bien, que diriez-vous d'equiper\n<%sEV_QUE_NAME4> et de nous retrouver dans la\nforet de Myurelle, sur le continent de<br>PlukLMP, a la Place Fostail ?"
+    "58334": {
+        "「それでは　<pc>さん。すみませんが\n　ファーベルも　連れていってもらえますか？\n　一度　言いだしたら　この子　聞かなくって。": "Eh bien, <pc>-san. Desole, mais\npourriez-vous emmener Fabel avec vous ? Une\nfois qu'il a une idee en tete, il n'ecoute<br>plus."
     },
-    "13389": {
-        "「おお　よかった！\n　断られるんじゃないかと思って\n　ドキドキしちゃいましたよ。": "Oh, super ! J'avais tellement peur que tu\nrefuses, j'etais tout nerveux."
+    "58335": {
+        "「アンタの後ろから　適当に　ついていくし。\n　オレのことは　気にしないで\n　目的地まで　行ってくれればいいよ。": "Je te suivrai sans probleme. Ne t'inquiete pas\npour moi, il suffit que tu atteignes notre\ndestination."
     },
-    "13390": {
-        "「じつは　以前から　<pc>さんとは\n　直接　会ってみたいと思ってたんです。\n　あなたも　同じ気持ちだったみたいですね。": "En fait, depuis un certain temps, je voulais\nrencontrer <pc>-san en personne. Il\nsemble que tu ressentais la meme chose."
+    "58336": {
+        "「じゃ。またな。": "Bon, a plus tard."
     },
-    "13391": {
-        "「おたがいに　<%sEV_QUE_NAME4>を装備して\n　ミュルエルの森のフォステイル広場で\n　待ち合わせですよ。忘れないでくださいね！": "Equipons-nous de <%sEV_QUE_NAME4> tous les\ndeux et retrouvons-nous a la Fostail Square\ndans la foret de Myurel. N'oubliez pas,<br>d'accord !"
+    "58337": {
+        "「コラッ！　ファーベル！\n　あなた　ちゃんと　お礼を言って……": "He ! Fabel ! Tu dois dire merci\ncorrectement..."
     },
-    "13392": {
-        "「それでは　今日のところは　失礼します。\n　お会いできるの　楽しみにしてますから！": "Eh bien, je vais prendre conge pour\naujourd'hui. J'ai hate de vous revoir !"
+    "58338": {
+        "「ハァ……。本当に　申し訳ありません。\n　あの子　礼儀がなってなくて。\n　私が　いたらないばっかりに……。": "Ha… Je suis vraiment desolee. Cette enfant\nmanque vraiment de politesse. Tout cela est de\nma faute…"
     },
-    "13393": {
-        "「よかった！……と言いたいところですが\n　あなたは　今　たくさんの頼まれごとを\n　抱えているみたいですね。": "Super !... C'est ce que j'aimerais dire, mais\nil semble que tu as beaucoup de demandes a\ngerer en ce moment."
+    "58339": {
+        "「それでは　<pc>さん。\n　いろいろと　よろしくお願いしますね。": "Alors, <pc>-san. Je compte sur vous pour\ntout, d'accord ?"
     },
-    "13394": {
-        "「しかたありません。\n　この件は　また今度……ということで。": "Il n'y a pas le choix. Nous reparlerons de\ncette affaire une autre fois..."
+    "58340": {
+        "「護衛を待っている人との\n　待ち合わせ場所って　ここか？": "Est-ce ici le lieu de rendez-vous avec la\npersonne que nous devons escorter ?"
     },
-    "13395": {
-        "「……そうですか。残念ですね。\n　もし　気が変わったら　また\n　この鏡に　話しかけてみてください。": "Je vois. C'est dommage. Si jamais vous changez\nd'avis, n'hesitez pas a parler a ce miroir a\nnouveau."
+    "58341": {
+        "「……仲間の魔物さ\n　アンタに　よく　なついてるみたいだな。\n　後ろで　見させてもらってたよ。": "… Tes compagnons monstres semblent vraiment\nbien s'entendre avec toi. J'ai observe cela\ndepuis l'arriere."
     },
-    "13397": {
-        "「……あ！　もしかして　直接　会いたいって\n　私の願いを　かなえてくださるとか？": "Ah ! Peut-etre que vous allez exaucer mon\nsouhait de vous rencontrer en personne ?"
+    "58342": {
+        "「うわっ！　相変わらず　ひどい道だなあ。\n　これじゃあ　馬車が壊れちまうよ。": "Ouaah ! C'est toujours une sacree route\nabimee. A ce rythme, notre chariot risque de\nse briser."
     },
-    "13398": {
-        "「<%sEV_QUE_NAME4>をつけたヤツ……\n　貴様が　リュナンだな？": "Celui qui porte le nom <%sEV_QUE_NAME4>...\nc'est toi, Lunan, n'est-ce pas ?"
+    "58343": {
+        "「まもの使いってのは　あなたのことですね？\n　魔物を連れてるから　すぐに　わかりましたよ。\n　あたしは　ティルツキン。旅の商人です。": "Vous etes un dompteur de monstres, n'est-ce\npas ? Je l'ai tout de suite compris en voyant\nles creatures qui vous accompagnent. Je suis<br>Tiltzkin, un Peddler."
     },
-    "13399": {
-        "「……あで？　おかしいど　アニキ。\n　聞いた話だど　リュナンって奴は　もっと……": "Hein ? C'est bizarre, Aniki. D'apres ce que\nj'ai entendu, ce type nomme Lunan est suppose\netre plus..."
+    "58344": {
+        "「……って　あなたは　<pc>さん！！\n　覚えてますか　あたしのこと！？\n　ほら　倒れてたあなたを村まで運んであげた……": "…Vous etes <pc>-san !! Vous vous\nsouvenez de moi !? Vous savez, je vous ai\nramene au village quand vous etiez tombe..."
     },
-    "13400": {
-        "「うっせー　うっせー！\n　メギドローム様は　<%sEV_QUE_NAME4>を\n　つけたヤツを　連れてこいって言ってただろ？": "Taisez-vous, taisez-vous ! Megidrome-sama a\ndit de ramener celui qui porte le\n<%sEV_QUE_NAME4>, non ?"
+    "58345": {
+        "「いえ……ルーラストーンを　ネコババした男\n　と言ったほうが　思いだせそうですかね。\n　なんにせよ　なつかしい……なつかしいなあ。": "Non… Peut-etre que vous vous souvenez mieux de\nmoi en tant que l'homme qui a vole le\nZoomstone. Quoi qu'il en soit, c'est<br>nostalgique… vraiment nostalgique."
     },
-    "13401": {
-        "「だったら　オレら　舎弟は\n　言われたとおりにするだけだろーが！": "Dans ce cas, nous autres, les subalternes,\nn'avons qu'a faire ce qu'on nous dit !"
+    "58346": {
+        "「しばらく見ない間に　ご立派になられましたね。\n　あたしもね　あれから　心を入れ替え\n　商売に精を出しているんです。本当ですよ。": "Cela fait un moment que je ne vous ai pas vu,\nvous etes devenu si impressionnant. Moi aussi,\ndepuis lors, j'ai change d'etat d'esprit et je<br>me consacre serieusement a mon commerce.\nVraiment."
     },
-    "13402": {
-        "「……あぐぅ。\n　そ　それも　そうなんだな。": "......Agh. Oui, c'est vrai aussi."
+    "58347": {
+        "「今は　ある名士の方の　お抱え商人として\n　雇ってもらってましてね。今回　あなた方に\n　依頼を出したのも　その方なんですよ。": "En ce moment, je suis employe comme marchand\npersonnel d'une certaine personnalite\neminente. C'est d'ailleurs cette personne qui<br>a passe commande aupres de vous."
     },
-    "13403": {
-        "「おい　貴様っ！　メギドローム様の命令だど。\n　一緒に　来てもらうかんな！": "He, toi ! C'est un ordre de Megidrome-sama. Tu\nvas venir avec nous !"
+    "58348": {
+        "「……と言っても　今は　ある名士の方に\n　雇われている身でしてね。今回　あなた方に\n　依頼を出したのも　その方なんですよ。": "...Cela dit, je suis actuellement employe par\nune personnalite eminente. C'est d'ailleurs\ncette personne qui vous a fait cette demande."
     },
-    "13404": {
-        "「抵抗しても　いいんだぜぇ！\n　ただし　ようしゃなく　たたきのめすケドな！\n　グヒャヒャヒャ……。": "Tu peux resister, si tu veux ! Mais je te\npreviens, je ne te ferai aucun cadeau en te\nbattant ! Guhyahya..."
+    "58349": {
+        "「さてと……　それでは\n　今回の依頼について　説明しましょう。": "Bien, alors… Je vais vous expliquer la mission\nde cette fois-ci."
     },
-    "13405": {
-        "「……あのぅ　もしかして　あなたが\n　<cs_pchero>さんですか？<yesno><close>": "Euh, ne seriez-vous pas <cs_pchero> san par\nhasard ? <yesno><close>"
+    "58350": {
+        "「そちらには　護衛の仕事とだけ\n　話が　いってるかもしれませんが　実際には\n　道中の　つゆ払いをお願いしたいのです。": "Il se peut qu'on vous ait parle d'une mission\nde protection, mais en realite, nous aimerions\nque vous degagiez le chemin pendant le voyage."
     },
-    "13406": {
-        "「ああ　よかった！\n　ウルトラ速達便で　ここに届けるよう\n　言われて　はるばる来たんです。": "Ah, je suis soulage ! On m'a demande de\nl'apporter ici en express ultra-rapide, alors\nje suis venu de loin."
+    "58351": {
+        "「あたし　この辺で　採取をしたいんですがね\n　なんでも　ここには　トガスのぬしという\n　凶暴な魔物が潜んでいるとか……。": "Je voudrais faire quelques recoltes dans cette\nregion, mais il parait qu'une creature feroce\nappelee Togas Dogus roderait par ici..."
     },
-    "13407": {
-        "「こんな魔物の出る　危険な場所で\n　もし　届ける相手が　見つからなかったら\n　どうしようかと思いましたよー。": "Dans un endroit aussi dangereux rempli de\nmonstres, je me demandais bien ce que je\nferais si je ne trouvais pas la personne a qui<br>livrer ceci."
+    "58352": {
+        "「そこで　あなたに　トガスのぬしを倒してもらい\n　あたしが　気持ちよ～く\n　採取に　専念できるようにしてほしいのです。": "Alors, j'aimerais que vous vainquiez Togas\nDogus pour que je puisse me consacrer\npleinement et sereinement a la collecte."
     },
-    "13408": {
-        "「うわー　どうしよう！\n　ウルトラ速達便で　ここに届けるよう\n　言われて　来たんですよー。": "Oh la la, que faire ! On m'a dit de livrer ca\nici en express ultra-rapide, alors me voila."
+    "58353": {
+        "「トガスのぬしは　このトガス岩道の西\n　トガの広場という所を　根城にしてるようです。\n　準備を整え　そこに行ってみてください。": "Togas Dogus semble avoir fait de la place\nTogas, a l'ouest de la route Togas Rock Road,\nson repaire. Preparez-vous bien et allez-y."
     },
-    "13409": {
-        "「もう　特別料金　もらっちゃってるから\n　放りだすわけにも　いかないし……。": "Je ne peux pas vraiment te laisser tomber\nmaintenant, surtout que j'ai deja recu le\ntarif special..."
+    "58354": {
+        "「あたしは　身を潜めながら\n　まもの使いの実力を　見せてもらいますので\n　仲間の魔物を　必ず　連れていってくださいね。": "Je vais me cacher et observer vos competences\nde dompteur de monstres, alors assurez-vous\nd'emmener vos compagnons monstres avec vous."
     },
-    "13410": {
-        "「いいや！　もう　あなたに　託しちゃいます。\n　<cs_pchero>って人が　来たら\n　あなたから　渡してあげてください！": "Non ! Je vais te confier ca maintenant. Si\nquelqu'un nomme <cs_pchero> arrive,\nremets-le-lui, s'il te plait !"
+    "63714": {
+        "「あれが　トガスのぬしってヤツか。": "C'est donc ca, le fameux Togas Dogus."
     },
-    "13411": {
-        "「それじゃ　これ　受け取ってくださいね。": "Alors, veuillez accepter ceci, s'il vous\nplait."
+    "63715": {
+        "「へへっ。それじゃ　<cs_pchero>さん。\n　アンタと仲間の魔物が　どんだけ強いか\n　ゆっくり　見物させてもらうぜ。": "Hehe. Alors, <cs_pchero> san. Je vais prendre\nmon temps pour voir a quel point toi et tes\ncompagnons monstres etes forts."
     },
-    "13412": {
-        "<cs_pchero>は\nリュナンの手紙（だいじなもの）を　受け取った！<me 60>": "<cs_pchero> a recu la Lettre de Lunan (objet\ncle) !<me 60>"
+    "63897": {
+        "「すげえ……。": "Incroyable..."
     },
-    "13413": {
-        "「確かに　渡しましたから！\n　では　私は　これで失礼しますっ！": "Je vous l'ai bien remis ! Alors, je vais\nprendre conge maintenant !"
+    "63898": {
+        "「おお！　トガスのぬしを倒しましたか！": "Oh ! Vous avez vaincu Togas Dogus !"
     },
-    "13414": {
-        "<cs_pchero>は　リュナンの手紙を読んだ。": "<cs_pchero> a lu la lettre de Lunan."
+    "63899": {
+        "「いやはや　<cs_pchero>さん。\n　プクレット村にいた頃とは　見違えましたね。": "Eh bien, <cs_pchero> san. Vous avez bien\nchange depuis votre sejour au village de\nPukulet."
     },
-    "13415": {
-        "親愛なる　<cs_pchero>さんへ\nまず　最初に　謝らせてください。\n今日は　行けなくて　すみませんでした。": "Cher <cs_pchero> san, Tout d'abord,\npermettez-moi de m'excuser. Je suis desole de\nne pas avoir pu venir aujourd'hui."
+    "63900": {
+        "「きっと　たくさんの出会いと別れを経験し\n　あなたは　強くなっていったのでしょう。\n　う～ん　感慨深い……感慨深いなあ。": "Tu as surement vecu de nombreuses rencontres\net separations, ce qui t'a rendu plus fort.\nHmm, c'est emouvant... vraiment emouvant."
     },
-    "13416": {
-        "ギリギリになって　どうしても行けない理由が\nできてしまい　中止を伝えようにも方法がなく\n間に合わなかったのです。": "A la derniere minute, une raison m'a empeche\nd'y aller, et je n'ai pas pu trouver de moyen\nd'annuler a temps."
+    "63901": {
+        "「後ろから　こっそり見ていましたが\n　トガスのぬしが　あんな化け物だったなんて\n　おどろきましたよ。": "J'observais discretement de derriere, et j'ai\nete surpris de voir que Togas Dogus etait un\ntel monstre."
     },
-    "13417": {
-        "くわしい事情は　シーバの鏡を通して\n説明したいので　申し訳ないのですが\n戻ってもらえないでしょうか？": "Je voudrais expliquer les details a travers le\nmiroir de Sheba, donc je suis desole, mais\npourriez-vous revenir ?"
+    "63902": {
+        "「いや　しかし　ウワサにたがわぬ　その強さ。\n　あの凶暴な魔物を　ひるまず　倒してしまうとは\n　まもの使いというのは　本当に　スゴイですな。": "Non, mais quelle force incroyable, digne de sa\nreputation. Qu'un dompteur de monstres\nparvienne a abattre cette creature feroce sans<br>ciller, c'est vraiment impressionnant."
     },
-    "13418": {
-        "どうか　この手紙が\n無事　あなたの元に　届きますように。\n　　　　　　　　　あなたの友人　リュナンより": "J'espere sincerement que cette lettre vous\nparviendra sans encombre. Votre ami, Lunan."
+    "63903": {
+        "「あたしの雇い主……シガール様にも\n　今回の活躍ぶりを　報告しておきますよ。\n　さぞ　およろこびになるでしょう。": "Mon cher employeur, le Seigneur... Je vais\negalement informer Sir Sigurd de vos exploits\ncette fois-ci. Il en sera surement ravi."
     },
-    "13420": {
-        "「待ち合わせに　行けなかったばかりか\n　魔物が　私とあなたを　まちがえて\n　襲いかかるなんて……。": "Non seulement je n'ai pas pu te rejoindre au\nrendez-vous, mais en plus, un monstre m'a\nconfondue avec toi et m'a attaquee..."
+    "63904": {
+        "「おっと……　そろそろ　仕事に戻らないと。\n　それでは　あたしは行きますね。\n　また　いつか会いましょう　<cs_pchero>さん。": "Oh... Je dois retourner au travail bientot.\nAlors, je m'en vais maintenant. On se reverra\nun jour, <cs_pchero> san."
     },
-    "13421": {
-        "「もう　お気づきのこととは思いますが\n　じつは　私　メギドロームという魔物に\n　ねらわれているんです。": "Je pense que vous l'avez deja remarque, mais\nen fait, je suis la cible d'un monstre appele\nMegidrome."
+    "63905": {
+        "「おっと……　そろそろ　仕事に戻らないと。\n　それでは　あたしは行きますね。\n　また　いつか会いましょう　まもの使いの方。": "Oh... Je dois retourner au travail bientot. Eh\nbien, je vais y aller. A une prochaine fois,\nutilisateur des monstres."
     },
-    "13422": {
-        "「今回　行けなかったのも　私が\n　フォステイル広場に　行くという予定が\n　ヤツに　バレてしまったからなんですよ。": "Cette fois, je n'ai pas pu y aller parce que\nmon plan d'aller a Fostail Square a ete\ndecouvert par lui."
+    "63906": {
+        "「……<cs_pchero>さん。": "<cs_pchero> san."
     },
-    "13423": {
-        "「……でも　こっちの勝手な都合ですよね。\n　せめてもの　おわびの気持ちです。\n　どうか　これを受け取ってください。": "...Mais ce sont nos propres circonstances\negoistes, n'est-ce pas ? C'est le moins que\nl'on puisse faire pour s'excuser. Veuillez<br>accepter ceci, je vous prie."
+    "63907": {
+        "「アンタは　どうして\n　まもの使いなんてやってるんだ？\n　魔物を信じるって　怖くないのかよ。<yesno><close>": "Pourquoi tu fais ce metier de dresseur de\nmonstres ? Ca ne te fait pas peur de faire\nconfiance aux monstres ? <yesno><close>"
     },
-    "13424": {
-        "「……今回のことで　こりましたよ。\n　魔物にねらわれている身の上で\n　人と会おうなんて　まちがいでした。": "Cette experience m'a suffi. C'etait une erreur\nde vouloir rencontrer des gens alors que je\nsuis la cible des monstres."
+    "63908": {
+        "「オレも……昔は　まもの使いの修業をしてた。\n　でも　急に　仲間の魔物が\n　オレの言うことを聞かなくなって……": "Moi aussi... Dans le passe, j'ai suivi un\nentrainement pour devenir dompteur de\nmonstres. Mais soudainement, les monstres avec<br>qui j'etais allie ont cesse de m'ecouter..."
     },
-    "13425": {
-        "「……いえ。この鏡での会話も　しばらくは\n　ひかえた方が　いいかもしれませんね。": "...... Non. Peut-etre devrions-nous egalement\neviter de converser a travers ce miroir\npendant un certain temps."
+    "63909": {
+        "「一緒にいた人を　傷つけちまったんだ。": "J'ai blesse la personne avec qui j'etais."
     },
-    "13426": {
-        "「とても　なごり惜しいですが……": "C'est vraiment difficile de dire au revoir,\nmais..."
+    "63910": {
+        "「もう　あんな悲しい思いはしたくないから\n　魔物にも……まもの使いにも\n　関わらないって　決めたんだよ。": "Je ne veux plus jamais ressentir cette\ntristesse, alors j'ai decide de ne plus avoir\naffaire ni aux monstres, ni aux dresseurs de<br>monstres."
     },
-    "13427": {
-        "「あ　あなたたちは　なんですかっ！？": "Ah, qui etes-vous ?!"
+    "63911": {
+        "「……それじゃな。": "...Eh bien, a bientot."
     },
-    "13428": {
-        "「な　何をする……うぐっ！！": "Qu... Qu'est-ce que tu fais... Ouf !!"
+    "63912": {
+        "「そうですか……。一緒にいた人を\n　自分の仲間の魔物が　傷つけてしまった……。\n　あの子は　そう言っていたのですね。": "Je vois... La personne avec qui elle etait a\nete blessee par l'un de ses propres\nmonstres... C'est ce qu'elle a dit, n'est-ce<br>pas ?"
     },
-    "13429": {
-        "「…………。": ""
+    "63913": {
+        "「じつは……　ファーベルの言う\n　一緒にいた人というのは　あの子の父親のことで\n　仲間の魔物というのは　あのキッズなんです。": "En fait... la personne dont Fabel parlait,\ncelle avec qui elle etait, c'est le pere de\ncette enfant, et la creature alliee dont elle<br>parlait, c'est ce Fry."
     },
-    "13552": {
-        "「おう　おう　また来てくれるとは\n　うれしーじゃねえか！": "Oh oh, ca fait plaisir de te revoir !"
+    "63914": {
+        "「……ファーベルが　私のお腹にいる時でした。\n　夫が　母親を失った魔物のタマゴを\n　ひとつ　持ち帰りました。": "C'etait quand Fabel etait dans mon ventre. Mon\nmari a ramene un oeuf de monstre qui avait\nperdu sa mere."
     },
-    "13553": {
-        "「連れてこいって　命令なのに\n　ブッ倒しちまって　どうすんだって\n　困ってたところだったんだど。": "On m'avait ordonne de te ramener, mais je t'ai\nmis K.O. Qu'est-ce que je suis cense faire\nmaintenant ? J'etais vraiment dans l'embarras."
+    "63915": {
+        "「そして　ファーベルが産まれると　ほぼ同時に\n　そのタマゴからも　一匹のドラゴンが\n　産まれたのです。それが……キッズでした。": "Et puis, presque en meme temps que la\nnaissance de Fabel, un Green Dragon est ne de\ncet oeuf. C'etait... Fry."
     },
-    "13554": {
-        "「バッ……テメエ。\n　余計なこと言うんじゃねーよ！": "Hey... Toi. Ne dis pas des choses inutiles !"
+    "63916": {
+        "「キッズとファーベルは　兄弟のように仲がよく\n　あの子が成長して　まもの使いになった後も\n　ふたりの息は　ピッタリでした。": "Fry et Fabel etaient aussi proches que des\nfreres, et meme apres que cet enfant ait\ngrandi et soit devenu un dresseur de monstres,<br>leur complicite etait parfaite."
     },
-    "13555": {
-        "「とにかく　今度こそは\n　一緒に　来てもらうぜぇ！\n　覚悟しなっ！！": "Quoi qu'il en soit, cette fois-ci, tu viens\navec nous ! Prepare-toi !!"
+    "63917": {
+        "「ですが　そんな矢先に　事件が起きたのです。\n　こちらに越してきて　夫と　ファーベルと\n　キッズで　修業に出向いた時のこと……。": "Mais c'est alors qu'un incident s'est produit.\nC'etait au moment ou nous venions de nous\ninstaller ici, et que mon mari, Fabel et Fry<br>etaient partis en voyage pour leur\nentrainement..."
     },
-    "41542": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "63918": {
+        "「……突然　キッズが言うことを聞かなくなり\n　ファーベルに襲いかかってきたのです。": "Soudainement, Fry a cesse d'obeir et s'est\njete sur Fabel."
     },
-    "41543": {
-        "「……えーと。もしもし　聞こえますかぁ？<yesno><close>": "Euh. Allo, vous m'entendez ? <yesno><close>"
+    "63919": {
+        "「ファーベルをかばうために\n　あの子の前に　立ちふさがった　夫は\n　その時　深手を負ってしまいました。": "Pour proteger Fabel, mon mari s'est interpose\ndevant cet enfant et a ete grievement blesse a\nce moment-la."
     },
-    "41544": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "63920": {
+        "「夫は　負傷しながらも\n　暴れるキッズを　当て身で気絶させ\n　なんとか　その場を　しのいだのですが……": "Mon mari, bien qu'il fut blesse, a reussi a\nmaitriser Fry en l'assommant d'un coup, et a\nainsi pu surmonter cette situation..."
     },
-    "41545": {
-        "「おや。<pc>さん？\n　また　来てくれたんですね。": "Oh, <pc>-san ? Tu es revenu nous voir."
+    "63921": {
+        "「なぜか　あの人は　キズの手当てもしないまま\n　ファーベルに　家に戻るよう告げると\n　ひとりで　その場を立ち去ってしまったのです。": "Pour une raison inconnue, cette personne a dit\na Fabel de rentrer chez lui sans meme soigner\nses blessures, puis elle est partie seule."
     },
-    "41546": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "63922": {
+        "「それから　夫の帰らぬ日々が続き\n　ついに　あの人は　遺体で発見されました……。": "Ensuite, les jours sans le retour de mon mari\nse sont enchaines, jusqu'a ce qu'il soit\nfinalement retrouve sans vie..."
     },
-    "41547": {
-        "「……そうですか　そんなことが。\n　重ね重ね　すみませんでした。": "...Je vois, c'est donc ca. Je suis vraiment\ndesole pour tout cela."
+    "63923": {
+        "「ファーベルは　自分の未熟さから\n　父親の死を招いたのだと　自らを責め　それ以来\n　まもの使いの道を　閉ざしてしまったのです。": "Fabel s'est blame pour la mort de son pere,\npensant que c'etait du a son inexperience, et\ndepuis lors, il a abandonne la voie des<br>maitres des monstres."
+    },
+    "63924": {
+        "「あんなに　仲のよかったキッズが\n　あの子を襲ったなんて　信じたくありませんが\n　失敗なんて　誰にでもあるもの。": "Je n'arrive pas a croire que Fry, avec qui\nnous etions si proches, ait attaque cette\nenfant. Mais tout le monde peut faire des<br>erreurs."
+    },
+    "63925": {
+        "「クヨクヨせずに　あの人と同じ\n　まもの使いになってほしいと　私は\n　今でも　思っているんですけどね……。": "Je voudrais vraiment que tu deviennes un\ndresseur de monstres comme cette personne,\nsans te tracasser..."
+    },
+    "63926": {
+        "「いけない！　すっかり　話し込んじゃいました。\n　ごめんなさい　<pc>さんって\n　なんだか　すごく　話しやすいから……。": "Oh non ! J'ai completement perdu la notion du\ntemps en discutant. Je suis desolee,\n<pc>-san, c'est juste que c'est<br>tellement facile de parler avec vous..."
+    },
+    "63927": {
+        "「あなたの優しさに　甘えちゃって……。\n　いけませんね　こんなことじゃ。": "Je me laisse aller a profiter de votre\ngentillesse... Je ne devrais pas faire ca."
+    },
+    "76218": {
+        "「それじゃ　暗い話は　ここまでにして\n　今は　この勢いのまま　まもの使いのよさを\n　広めていくことだけを考えましょう！": "Alors, finissons-en avec ces histoires\nsombres. Pour l'instant, concentrons-nous\nuniquement sur la diffusion des bienfaits des<br>dompteurs de monstres avec cet elan !"
+    },
+    "76219": {
+        "「というわけで　<pc>さん。\n　ウデをみがいて　時が来たら\n　また　チカラを貸してくださいね！": "Ainsi, <pc>-san. Ameliorez vos\ncompetences, et lorsque le moment sera venu,\npretez-nous a nouveau votre force !"
     }
 }
