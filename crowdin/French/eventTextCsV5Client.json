@@ -1,545 +1,650 @@
 {
-    "218110": {
-        "「あらっ　もう　来てくれていたのね！": "Ah, tu es deja arrive !"
+    "203322": {
+        "「貴様ら　何者だ！？\n　この先は　荘厳にして偉大なる　ゼクレス城だ。\n　身分の不確かな者は　入れんぞ！": "Qui etes-vous ?! Au-dela de ce point se trouve\nle majestueux et grandiose Chateau Zechres.\nLes personnes de statut incertain ne sont pas<br>autorisees a entrer !"
     },
-    "218112": {
-        "「……待たせちゃったかしら？\n　急な　お誘いだったのに\n　来てくれて　ありがとう……。うれしいわ！": "Je t'ai fait attendre ? Merci d'etre venu\nmalgre cette invitation de derniere minute. Je\nsuis vraiment contente !"
+    "203323": {
+        "「見たところ　この国の民ではないようだが……\n　ここは　貴様らのような　よそ者が来る\n　場所ではない。さっさと　消えろ！": "A en juger par votre apparence, vous ne\nsemblez pas etre de ce pays... Cet endroit\nn'est pas fait pour des etrangers comme vous.<br>Disparaissez sur-le-champ !"
     },
-    "218114": {
-        "「私……気球に乗るのが　夢だったのよ。\n　だから　期間限定で　気球に乗れるって聞いて\n　思わず　予約しちゃったの。": "Moi... C'etait mon reve de monter a bord d'un\nballon. Alors, quand j'ai entendu dire qu'on\npouvait monter dans un ballon pour une duree<br>limitee, je n'ai pas pu m'empecher de reserver\ntout de suite."
+    "203324": {
+        "「私は　ファラザード国の魔王の使者 \n　ユシュカという者だ。": "Je suis Yushka, l'emissaire du Roi Demon du\nroyaume de Farazard."
     },
-    "218116": {
-        "「それと　前から　あなたと\n　のんびり　過ごしてみたかったから……\n　一緒に　どうかな……と思って。": "Et puis, depuis un moment, j'avais envie de\npasser du temps tranquille avec toi... Je me\ndemandais si ca te dirait de le faire<br>ensemble..."
+    "203325": {
+        "「主からの命で　魔王アスバル陛下に \n　お目通り願いたく　ここへ参った。\n　通しては　もらえないだろうか？": "Sur ordre de Lord, je suis venu demander\naudience aupres de Sa Majeste le Roi Demon\nAsbal. Pourriez-vous me laisser passer ?"
     },
-    "218118": {
-        "「……うふふ。\n　それじゃ　さっそく　乗りましょう！": "…Oufufu. Alors, montons sans tarder !"
+    "203326": {
+        "「ファラザードだと……？ \n　南方に　そんな新興国があると\n　聞いてはいるが……。": "Farazard, dis-tu... ? J'ai entendu dire qu'il\ny a un nouvel Etat au sud, mais..."
     },
-    "218120": {
-        "<pc>と　アンルシアは\n気球に　乗り込んだ！": "<pc> et Anlucia sont montes a bord du\nballon !"
+    "203327": {
+        "「たとえ　他国の使者であろうと \n　許可なき者を　通すわけには　いかん。\n　早々に　立ち去れい！": "Meme si vous etes un emissaire d'un autre\npays, nous ne pouvons laisser passer quelqu'un\nsans autorisation. Partez immediatement !"
     },
-    "218198": {
-        "「おお　そなた　無事だったか！\n　アンルシア姫も　よくやってくれた！": "Oh, tu es sain et sauf ! La princesse Anlucia\na bien fait son travail !"
+    "203328": {
+        "「使者である私への　その態度は　すなわち \n　我が王への侮辱と　受け取るが……\n　それでも　通せないと？": "Votre attitude envers moi, l'emissaire, est\ndonc une insulte envers notre roi... Et malgre\ncela, vous ne comptez toujours pas me laisser<br>passer ?"
     },
-    "218200": {
-        "「……ええ　危機一髪のところでした。\n　ルシェンダさまの　おかげです。\n　けれど……　ピュージュを逃してしまいました。": "Oui, c'etait a un cheveu pres. C'est grace a\nLushenda-sama. Cependant... Pyuju nous a\nechappe."
+    "203329": {
+        "「……いや！　ま……待て。\n　確認を取るので　しばし待たれよ！": "Non ! At... attendez. Je vais verifier, alors\npatientez un instant !"
     },
-    "218202": {
-        "「そうだ！　ルシェンダさま。\n　彼女の荷物は　無事ですか？\n　ピュージュが　狙っていたようでしたが……。": "Ah, c'est vrai ! Lushenda-sama. Ses affaires\nsont-elles en securite ? Il semble que Pyuju\nles convoitait..."
+    "203330": {
+        "「アスバルは　どこへ行った！？\n　今日こそ　わらわの茶会に出席しろと\n　あれほど　言ったのに……": "Ou est passe Asbal ?! Je lui avais pourtant\ndit de venir a ma ceremonie du the\naujourd'hui..."
     },
-    "218204": {
-        "「荷物自体は　無事のようだが……\n　何かを　盗られた　恐れがあるのか？\n　ならば　調べてみるがいい。": "Les bagages semblent intacts, mais...\nCraignez-vous que quelque chose ait ete vole ?\nSi c'est le cas, vous devriez verifier."
+    "203331": {
+        "「お前たち！　あやつを　連れ戻せ！ \n　見つけるまで　城に戻ることは　許さぬぞ！": "Vous la-bas ! Ramenez-le immediatement ! Je ne\nvous autorise pas a revenir au chateau tant\nque vous ne l'aurez pas trouve !"
     },
-    "218206": {
-        "<pc>は　急いで　荷物をしらべた……。": "<pc> se depecha d'examiner les\nbagages..."
+    "203332": {
+        "「はッ！　承知いたしました！": "Ha ! Bien compris !"
     },
-    "218208": {
-        "<pc>の　だいじなものの中から\n時元神キュロノスが　落とした\n戦禍のタネが　なくなっていた！": "Parmi les objets cles de <pc>, le\nKyuronos, Ruler of Time a fait tomber la Seed\nof Conflict qui a disparu !"
+    "203333": {
+        "「まさか　いきなりの　お出ましとはな。\n　エルガドーラ王太后様も\n　お元気そうなことで……。": "Je ne m'attendais pas a une apparition\nsoudaine. Il semble que Sa Majeste la Reine\nMere Elgadora soit en pleine forme..."
     },
-    "218210": {
-        "「……なに？　戦禍のタネだと？\n　それを　奪われたというのか。": "...... Quoi ? La Seed of Conflict ? Tu dis\nqu'elle a ete volee ?"
+    "203334": {
+        "「報告を受けていないとは　失礼した！\n　どうやら　行き違いがあったようなので\n　出直させてもらうことにしよう。": "Je m'excuse de ne pas avoir recu le rapport !\nIl semble qu'il y ait eu un malentendu, je\nvais donc revenir plus tard."
     },
-    "218212": {
-        "「ルシェンダさま。\n　戦禍のタネとは　いったい　なんなのでしょう？\n　なぜ　それを　ピュージュが……？": "Lushenda sama. Qu'est-ce que ce Seed of\nConflict exactement ? Pourquoi Pyuju le\npossede-t-il...?"
+    "203335": {
+        "「さて　今の話は　聞いてたな？\n　この国の魔王アスバルは　城にご不在のようだ。\n　ひとつ　町で　情報収集でもしてみるか。": "さて 今の話は 聞いてたな？ この国の魔王Asbalは 城にご不在のようだ ひとつ 町で\n情報収集でもしてみるか"
     },
-    "218214": {
-        "「……ふむ　そうか。そなたたちには\n　戦禍のタネについて　教えてなかったな。\n　では　私の知っている限りのことを　話そう。": "…Hmm, je vois. Je ne vous ai pas parle de la\nSeed of Conflict, n'est-ce pas ? Alors,\nlaissez-moi vous raconter ce que je sais a ce<br>sujet."
+    "203336": {
+        "「とりあえず　情報を持っていそうな \n　町の有力者を見つけて　聞き込みしてみるか。": "Pour l'instant, trouvons un notable de la\nville qui semble avoir des informations et\nposons-lui quelques questions."
     },
-    "218216": {
-        "「ガートラントの事件を　覚えているか？\n　ピュージュが　そっくりの偽者をあやつる術で\n　内乱をそそのかし　国に混乱を起こした事件だ。": "Te souviens-tu de l'affaire de GarトLMPト ?\nC'etait l'incident ou Pyuju a utilise une\ntechnique de manipulation de F. personnes pour<br>inciter a la guerre civile et semer le chaos\ndans le pays."
+    "203337": {
+        "「おっと　さっそく　それらしいのが……": "Oh, ca ressemble deja a quelque chose qui..."
     },
-    "218218": {
-        "「私は　ガートラント王国と　懇意にしていてな。\n　ピュージュが　事件を起こして以来……\n　ひそかに　ヤツの動向を　探っていたのだ。": "Je suis en bons termes avec le royaume de\nGarトLMPト. Depuis que Pyuju a cause des\nincidents... J'ai discretement enquete sur ses<br>agissements."
+    "203338": {
+        "「お前ら　何者だ！\n　こちらは　ベラストル家　ご当主の\n　リンベリィ様であるぞ！　気安く近寄るな！": "Qui etes-vous ?! Vous vous tenez devant\nLinberry-sama, le seigneur de la noble maison\nHoneystle ! N'approchez pas avec tant de<br>desinvolture !"
     },
-    "218220": {
-        "「その結果……　ピュージュは　どうやら\n　あるものを求めて　各地に　争いの火種を\n　まいていたことがわかった。それこそが……": "En consequence... il semble que Pyuju\ncherchait quelque chose et semait les graines\ndu conflit partout. Et ce quelque chose est..."
+    "203339": {
+        "「ほう？　そんなに　エラいお方なら \n　いい情報　持ってそうじゃないか。": "Oh ? Si c'est quelqu'un d'aussi important, il\ndoit avoir de bonnes informations, n'est-ce\npas ?"
     },
-    "218222": {
-        "「戦禍のタネ……というワケなのですね。": "Seed of Conflict... c'est donc cela."
+    "203340": {
+        "「……ちょっと！　なによ　アンタたち！ \n　みっすぼらしい身なりで……よくも　この私に\n　クチが　きけるわね。": "He, vous la ! Avec votre apparence\nmiserable... Vous osez vraiment m'adresser la\nparole."
     },
-    "218224": {
-        "「うむ。戦禍のタネは　魔瘴に関わる戦いにより\n　生まれる　戦いの怨念と魔瘴が\n　結実したもの……と　言われている。": "Hum. On dit que la Seed of Conflict est le\nfruit de la rancune des combats et du miasme\nmalefique qui se materialise a travers les<br>batailles liees au miasme."
+    "203341": {
+        "「これだから　身分をわきまえない　\n　下等魔族は　嫌なのよ……。\n　今すぐ　目の前から　消えてくれない？": "Voila pourquoi je deteste ces demons de bas\netage qui ne connaissent pas leur place...\nPourrais-tu disparaitre de ma vue<br>immediatement ?"
     },
-    "218226": {
-        "「ピュージュは　人々をだまし　争いを起こしては\n　たくさんの戦禍のタネを　生みだし\n　拾い集めていたようなのだ。": "Pyuju trompait les gens et provoquait des\nconflits, creant ainsi de nombreuses Seed of\nConflict qu'il ramassait."
+    "203342": {
+        "「はじめまして　リンベリィ様。 \n　ぶしつけな問いで　恐縮ですが\n　魔王アスバルの居場所を　ご存知ありませんか？": "Enchantee de faire votre connaissance,\nLinberry-sama. Je suis desolee de poser une\nquestion aussi directe, mais sauriez-vous ou<br>se trouve le Seigneur des Tenebres, Asbal ?"
     },
-    "218228": {
-        "「そんなことが　あったなんて……。\n　でも　ピュージュは　なんのために……？": "Je n'arrive pas a croire que cela soit\narrive... Mais dans quel but Pyuju a-t-il fait\nca...?"
+    "203343": {
+        "「あ～もう　全っ然　ヒトの話を……": "Ah, tu n'ecoutes jamais ce que je dis..."
     },
-    "218230": {
-        "「そういえば……地獄の扉が　開かれて\n　災いが　あふれ出す……と\n　ピュージュは　言っていました。": "Ah, maintenant que j'y pense... Pyuju a dit\nque la Porte de l'Enfer s'ouvrirait et que le\nmalheur en deborderait..."
+    "203344": {
+        "「って……あら？　あらあら？ \n　アナタ　よく見たら\n　なかなか　イケてるじゃない！": "Oh... Oh la la ? En y regardant de plus pres,\ntu es plutot charmant, n'est-ce pas !"
     },
-    "218232": {
-        "「……そして　こうも言っていましたね。\n　これで　必要な分が　そろった。\n　まもなく　大願が　かなう……と。": "......Et il a aussi dit ceci : Avec cela, tout\nce qui est necessaire est reuni. Bientot, le\ngrand souhait sera exauce..."
+    "203345": {
+        "「そんな　みすぼらしい格好をしているなんて \n　もったいないわ！　みがけば　最高にいい男に\n　なること　間違いなしですもの！": "Quel gachis de s'habiller de maniere si\nnegligee ! Si tu te faisais un peu plus\nsoigne, tu deviendrais un homme absolument<br>remarquable, c'est sur !"
     },
-    "218234": {
-        "「……どうやら　事態は　切迫しているようだ。\n　これは　一刻も早く　ピュージュから\n　戦禍のタネを　取り返さねばならぬな……。": "…Il semble que la situation soit urgente. Nous\ndevons recuperer au plus vite la Seed of\nConflict de Pyuju…"
+    "203346": {
+        "「あ　あぁ？": "Ah, ah ?"
     },
-    "218236": {
-        "「ルシェンダさまぁ～！": "Lushenda-samaaa !"
+    "203347": {
+        "「……そうだ！　ねえアナタ　我がベラストル家で \n　今夜　開催される　秘蔵の芸術品の\n　おひろめパーティーに　招待してあげる！": "...C'est ca ! He, toi ! Je vais t'inviter a la\nsoiree de presentation des tresors artistiques\nde la famille Honey Stoll qui se tiendra ce<br>soir !"
     },
-    "218238": {
-        "「スピンドル兵士長　参上！": "Captain Spindle, a votre service !"
+    "203348": {
+        "「ねえ！\n　招待状を　この者に１枚　渡してちょうだい！": "He ! Donne une invitation a cette personne,\ns'il te plait !"
     },
-    "218240": {
-        "「……頼まれていた件の　ご報告です！\n　ピュージュどもの行き先が　つかめました！": "Je viens vous faire le rapport de la mission\ndemandee ! Nous avons decouvert la destination\ndes Pyuju !"
+    "203349": {
+        "「私が直々に　アナタに見合う　衣装を \n　見つくろって　専属の召使いとして\n　雇ってあげるわ！": "Je vais personnellement choisir une tenue qui\nvous conviendra et vous engager comme\nserviteur personnel !"
     },
-    "218242": {
-        "「おお　でかしたぞ！　スピンドル兵士長！": "Oh, bien joue, Captain Spindle !"
+    "203350": {
+        "「このリンベリィ様の　お気に入りになれば \n　出世は　約束されたも同然！\n　いい目を　見させてあげるわよ<heart>": "Si vous devenez le favori de Linberry-sama,\nvotre succes est pratiquement garanti ! Je\nvous promets de belles perspectives<heart>"
     },
-    "218244": {
-        "「ふふっ　我らの情報網にかかれば　お手のモノ！\n　２匹もいたとは　意外でしたが……\n　今度こそ　ヤツらを　とっちめてやりましょう！": "Fufufu, avec notre reseau d'informations,\nc'est un jeu d'enfant ! Je ne m'attendais pas\na ce qu'il y en ait deux... Cette fois,<br>donnons-leur une bonne lecon et\ntranspercons-les avec notre lance !"
+    "203351": {
+        "「リンベリィ様　そろそろパーティーの\n　準備のお時間が……。": "Linberry-sama, il est presque l'heure de\npreparer la fete..."
     },
-    "218246": {
-        "「ピュージュどもは　ふた手に分かれ\n　依然　海上を飛行しながら　逃走中です！\n　一方は　ウェナ諸島の無人島へ……": "Les Pyuju se sont divises en deux groupes et\ncontinuent de fuir en volant au-dessus de la\nmer ! L'un des groupes se dirige vers une ile<br>deserte de l'archipel de Wena..."
+    "203352": {
+        "「そうだったわ！\n　私としたことが　まだ　会場のお花の色を\n　決めてなかったわね。急がなくちゃ！": "Ah, c'est vrai ! J'ai completement oublie de\nchoisir la couleur des fleurs pour la salle.\nJe dois me depecher !"
     },
-    "218248": {
-        "「もう一方の　ピュージュは　どうやら\n　ゲルト海峡の方角に　向かっているようです！": "L'autre Pyuju semble se diriger vers Gert\nStrait !"
+    "203353": {
+        "「それじゃ　アナタ！　この私に\n　気に入られたこと　光栄に思いなさいよ！": "Alors, toi ! Considere-toi honore d'avoir ete\napprecie par moi !"
     },
-    "218250": {
-        "「早くしないと　ピュージュを逃してしまうわ。\n　けれど　２匹のうち　どちらが戦禍のタネを\n　奪っていったか　わからない……。": "Si nous ne nous depechons pas, nous allons\nlaisser Pyuju s'echapper. Mais parmi les deux,\nje ne sais pas lequel a emporte la Seed of<br>Conflict..."
+    "203354": {
+        "「パーティー会場で　また会いましょ！": "A bientot a la salle de fete !"
     },
-    "218252": {
-        "「……では　こうしよう。ウェナ諸島の無人島へ\n　逃げたピュージュは　ファルシオンさまと共に\n　アンルシア姫が　追ってくれ。": "…Alors, faisons ainsi. Que Princess Anlucia,\naccompagnee de FaruShion sama, pourchasse\nPyuju qui s'est enfui vers l'ile deserte des<br>iles Wena."
+    "203355": {
+        "「パーティーは　ごめんだが　何か情報は \n　得られるかもな……。俺は　城下を探索するから\n　パーティーには　お前が　潜入してくれ。": "Je ne suis pas fan des fetes, mais on pourrait\nobtenir des informations... Je vais explorer\nle chateau, alors infiltre-toi dans la fete."
     },
-    "218254": {
-        "「そなたは　ゲルト海峡へと逃げた\n　ピュージュのほうを　追いかけるのだ。": "Tu dois poursuivre Pyuju qui s'est enfui vers\nGert Strait."
+    "203356": {
+        "「お互い　聞き込みを終えたら\n　また　城下で落ち合おう。 \n　招待状は　渡しておくぜ。": "Une fois que nous aurons termine nos\ninvestigations, retrouvons-nous a nouveau dans\nla ville du chateau. Je te donnerai<br>l'invitation."
     },
-    "218256": {
-        "「ふた手に分かれて　追うのですね。\n　いいでしょう……。": "Nous allons nous separer en deux groupes pour\nles poursuivre, n'est-ce pas ? Tres bien..."
+    "203357": {
+        "<pc>は　ユシュカから\nパーティーの招待状（だいじなもの）を\n受け取った！<me 60>": "<pc> a recu l'Invitation a la fete de\nYushka (objets cles) ! <me 60>"
     },
-    "218258": {
-        "「まかせてください！\n　必ずや　ピュージュを　追い詰めます！": "Laissez-moi faire ! Je vais certainement\ncoincer Pyuju !"
+    "203358": {
+        "「せいぜい　あの　ワガママお嬢様のご機嫌を \n　損ねないようにな。": "Fais de ton mieux pour ne pas contrarier cette\njeune demoiselle capricieuse."
     },
-    "218260": {
-        "「私は　万が一の事態にそなえ\n　スピンドル兵士長と共に　ガートラントへ向かい\n　応援を　連れてこよう。": "Je vais me preparer pour toute eventualite et\nme rendre a GarトLMPト avec le capitaine Spindle\npour ramener du renfort."
+    "203359": {
+        "「……はぁ？　アンタ　誰？ \n　なんで　こんな　みっすぼらしいのが\n　パーティーに　まぎれ込んでるわけ？": "... Hein ? Toi, t'es qui ? Pourquoi quelqu'un\nd'aussi minable traine dans notre groupe ?"
     },
-    "218262": {
-        "「地獄の扉が開く……か。": "La porte des enfers s'ouvre... hein."
+    "203360": {
+        "「えっ！！\n　あの　イケてる男の　横にいたヤツ！？\n　全ッ然　記憶にないんだけど！": "Hein !! Le type qui etait a cote de ce beau\ngosse !? Je n'en ai absolument aucun souvenir\n!"
     },
-    "218264": {
-        "「ゲルト海峡に浮かぶ小島……ガミルゴの盾島では\n　島に空いた　大きな穴を　石化した巨人が\n　ふさいでいるというが……": "Sur la petite ile flottant dans le detroit de\nGert... sur l'ile du Bouclier de Gamilgo, on\ndit qu'un geant petrifie bouche un grand trou<br>dans l'ile..."
+    "203361": {
+        "「あの美男子は　どこいったの！？ \n　私が招待したのは　従者のアンタじゃなくて\n　アイツなのに！": "Ou est passe ce bel homme !? C'est lui que\nj'ai invite, pas toi, son serviteur !"
     },
-    "218266": {
-        "「それは　約５００年前の　ガミルゴという術士が\n　その大穴……魔界へと通じるという穴を\n　封じるために　命に代えて　変身した姿なのだ。": "C'est l'apparence que le sorcier nomme Gamilgo\na prise il y a environ 500 ans, en sacrifiant\nsa vie pour sceller ce grand gouffre... une<br>ouverture menant au monde demoniaque."
+    "203362": {
+        "「ひどいわ！ \n　私の誘いを断るなんて　許せないッ！": "C'est horrible ! Refuser mon invitation est\nimpardonnable !"
     },
-    "218268": {
-        "「術士ガミルゴは　他でもない　私の先祖でな。\n　なぜだか　無性に　胸騒ぎがするのだ。": "Le magicien Gamilgo est nul autre que mon\nancetre. Pour une raison inconnue, j'ai un\npressentiment inexplicable."
+    "203363": {
+        "「今度　見かけたら　ゼッタイ　ゼッタイ \n　会いにこなかったことを　後悔させてやる！": "La prochaine fois que je te croise, je te\nferai regretter de ne pas etre venu me voir,\nc'est jure, Red Snapper, c'est jure, Red<br>Snapper !"
     },
-    "218270": {
-        "「我が身に流れる　父祖の血が\n　危機を知らせているような……。": "Il semble que le sang de mes ancetres qui\ncoule dans mes veines m'avertisse d'un\ndanger..."
+    "203364": {
+        "「……もう！　その招待状はアンタにあげたんじゃ\n　ないんだからっ！　返してよね！": "Oh la la ! Cette invitation ne t'etait pas\ndestinee ! Rends-la-moi, maintenant !"
     },
-    "218272": {
-        "「……くれぐれも　気をつけてくれ。\n　武運を祈る。": "...... Prends bien soin de toi. Je prie pour\nta victoire."
+    "203365": {
+        "「このパーティーは　招待されてない客は\n　入場　お断りなのよ！\n　お前たち　今すぐこいつを　つまみ出しなさい！": "Cette fete est reservee aux invites seulement\n! Les visiteurs non invites ne sont pas admis\n! Vous la-bas, sortez-le immediatement !"
     },
-    "218274": {
-        "「あはは♪　もうすこしで……\n　あのお方の願いを　かなえることができる♪\n　とっても　すばらしいことが　起きるんだ！": "Ahaha♪ Bientot... Je pourrai realiser le\nsouhait de cette personne. Quelque chose de\nvraiment merveilleux va se produire !"
+    "203366": {
+        "「ちょっと待ってください。": "Un instant, s'il vous plait."
     },
-    "218276": {
-        "「……おや　おや～？\n　盟友くん　じゃないか～♪": "…Oh, oh~? Mais ne serait-ce pas notre cher\nallie~♪"
+    "203367": {
+        "「その子は　僕の連れなんです。 \n　慣れない場で　迷ってしまったようで……。": "Cet enfant est avec moi. Il semble s'etre\nperdu dans cet environnement inconnu..."
     },
-    "218278": {
-        "「ようこそ～！\n　この世の地獄……魔界の入り口へ！！": "Bienvenue~ ! Aux enfers de ce monde... a\nl'entree du royaume demoniaque !!"
+    "203368": {
+        "「……なんだ。アナタのしもべだったの？ \n　下等魔族が　うろうろしないよう　ちゃんと\n　首輪つけておいてよね。": "…Quoi ? C'etait ton serviteur ? Assure-toi de\nbien lui mettre un collier pour que ce demon\ninferieur ne traine pas partout."
     },
-    "218280": {
-        "「あはは　あはは～♪\n　戦禍のタネが　喜びに　ふるえてる♪\n　もうすぐ　魔界への扉が　開かれるよ！": "Ahaha ahaha~♪ La Graine du Conflit tremble de\njoie♪ Bientot, la Porte vers le Monde des\nTenebres sera ouverte !"
+    "203369": {
+        "「ふふ　これは失礼しました。\n　よく言っておくよ。": "Fufu, veuillez m'excuser. Je vais m'assurer de\nbien le dire."
     },
-    "218282": {
-        "「むかしむかし　戦禍の邪神が空けた　大穴は\n　光の河を貫いて　魔界まで　つながってるんだ！\n　あのお方も　開通を　楽しみに待ってるよ～♪": "Il y a longtemps, le grand trou ouvert par le\ndieu malefique des guerres traversait la\nriviere de lumiere et menait jusqu'au royaume<br>des demons ! Cette personne-la attend avec\nimpatience l'ouverture, tu sais ♪"
+    "203370": {
+        "「君も　びっくりさせてしまったね。 \n　さあ　僕についておいで。": "Je t'ai aussi surpris, n'est-ce pas ? Allez,\nsuis-moi."
     },
-    "218284": {
-        "「ねえ！　いいこと　思いついたよ～♪\n　彼女のむくろを　この儀式の　供物にしよう♪": "He ! J'ai une idee geniale ♪ Utilisons le\ncorps de Her comme offrande pour ce rituel ♪"
+    "203371": {
+        "「あっ！　ねえ　シリル！\n　次のコレクションに　どの絵を買うべきか\n　迷ってるから　アナタの意見が聞きたいの！": "Ah ! Dis, Cyril ! Je suis indecise sur quelle\npeinture acheter pour ma prochaine collection.\nJ'aimerais connaitre ton avis !"
     },
-    "218286": {
-        "「さんせ～　さんせ～！\n　歴史的瞬間に　花を添えよう♪": "Sanse ~ Sanse ~ ! Ajoutons une touche de fleur\na ce moment historique ♪"
+    "203372": {
+        "「ちょっと　こっちに来てよ！": "Viens par ici !"
     },
-    "218288": {
-        "「あはは　名案だね～！\n　とっても　楽しい儀式に　なりそうだ！": "Ahaha, quelle idee geniale ! Ca promet d'etre\nune ceremonie tres amusante !"
+    "203373": {
+        "「わかったよ。\n　すぐに行くから　少しだけ待ってて。": "J'ai compris. Je viens tout de suite,\nattends-moi un instant."
     },
-    "218290": {
-        "「それじゃ　決まりだ♪": "C'est decide alors !♪"
+    "203374": {
+        "「……僕の名は　シリル。 \n　君と話したくて　つい出しゃばってしまった。": "...... Mon nom est Cyril. Je me suis permis\nd'intervenir car je voulais te parler."
     },
-    "218292": {
-        "「さあ　世にも　おそろしい\n　旅芸人ピュージュの　残酷ショーを\n　とくと　ご覧あれ～！": "Voici le spectacle effroyable et cruel de\nMinstrel Pyuju ! Profitez-en pleinement !"
+    "203375": {
+        "「今は　手が離せないから　平民街の北にある\n　僕が経営する骨董屋　『六大陸堂』で\n　待ち合わせしよう。": "Je suis occupe en ce moment, alors\nretrouvons-nous a ma boutique d'antiquites,\n'Rokutairikudo', situee au nord du quartier<br>des plebeiens."
     },
-    "218294": {
-        "「……あはッ…あれれ　おかしいな？\n　ボクたちは……　どうして　負けたんだろう。": "…Ahah... Tiens, c'est etrange, non ? Pourquoi\nest-ce que nous avons perdu, nous ?"
+    "203376": {
+        "「用が済んだら　すぐに僕も向かうから\n　そこで　話をさせてくれないか。": "Une fois que j'aurai termine ce que j'ai a\nfaire, je te rejoindrai tout de suite.\nPourrions-nous discuter la-bas ?"
     },
-    "218296": {
-        "「でもっ……　もう間に合わないね……♪": "Mais... il est deja trop tard, n'est-ce\npas...♪"
+    "203377": {
+        "「それじゃ　またあとで　六大陸堂で会おう！": "Dans ce cas, retrouvons-nous plus tard au\nRokutairikudou !"
     },
-    "218298": {
-        "「タネから　あふれだした　戦禍の呪力が\n　封印を破壊して　魔界の扉が　開かれるよ♪\n　じきに　バルディスタの連中が　現れる……♪": "Le pouvoir malefique emanant de la graine a\ndetruit le sceau, ouvrant ainsi la Porte du\nMonde des Tenebres ♪ Bientot, les gens de<br>Valdistar seront P. ...♪"
+    "203378": {
+        "「やあ　いらっしゃい……あっ　君か！": "Salut, bienvenue... Oh, c'est toi !"
     },
-    "218300": {
-        "「これで　ボクたちの役目は　果たされた♪\n　本当に怖いのは　ここからだよ♪": "Notre mission est maintenant accomplie ♪ Le\nvrai defi commence a partir d'ici ♪"
+    "203379": {
+        "「案外　早かったね。無事に着いて　よかった！\n　こっちは　リンベリィを　振り切るのに\n　もう　大変だったよ。": "Finalement, tu es arrive plus tot que prevu.\nJe suis soulage que tu sois arrive sain et\nsauf ! De mon cote, c'etait vraiment difficile<br>de semer Linberry."
     },
-    "218302": {
-        "「……ここが　アストルティア。": "...... Voici Astoltia."
+    "203380": {
+        "「そういえば　まだ　名前を \n　聞いていなかったよね。": "Ah, d'ailleurs, je ne t'ai pas encore demande\nton nom."
     },
-    "218304": {
-        "「この地は……我らが　征服する。": "Cette terre... nous allons la conquerir."
+    "203381": {
+        "「君は　なんていう名前なのかな？": "Quel est ton nom ?"
     },
-    "218306": {
-        "「……目ざわりだ　失せろ。": "...Tu es une nuisance. Disparais."
+    "203382": {
+        "「そうか……いい名前だね。": "Je vois... C'est un bon nom."
     },
-    "218308": {
-        "「……ほう。\n　少しは　やるようだな。": "…Oh. Tu te debrouilles un peu, on dirait."
+    "203383": {
+        "「もしかして　君は　アストルティアから\n　来たんじゃないかな？": "Peut-etre que tu viens d'Astoltia ?"
     },
-    "218310": {
-        "「だが……　これで　終わりだ。": "Mais... c'est la fin."
+    "203384": {
+        "「あの時　ひと目　君の身なりを見て\n　すぐ　わかったんだよ。": "A ce moment-la, en un coup d'oeil, j'ai tout de\nsuite compris en te voyant."
     },
-    "218312": {
-        "「ハアアッ！！": "Haah !!"
+    "203385": {
+        "「僕は　ずっと昔から　身分の差がなく\n　自由に暮らせる　アストルティアに　憧れてた。\n　だから　すぐ　ピンときたんだ。": "Je reve depuis toujours d'une Astoltia ou il\nn'y a pas de difference de statut et ou l'on\npeut vivre librement. C'est pourquoi j'ai tout<br>de suite compris."
     },
-    "218314": {
-        "「テキスト削除": "Je suis desole, mais il semble que le texte a\nete supprime. Pourrais-tu me fournir plus\nd'informations ou un autre texte a traduire ?"
+    "203386": {
+        "「この店も　この国の貴族たちが所有する\n　アストルティアゆかりの品を　集めるために\n　開業したんだよ。": "Ce magasin a ete ouvert pour rassembler des\nobjets lies a Astoltia, appartenant aux nobles\nde ce pays."
     },
-    "218316": {
-        "「まだ　息はあるようだな……。": "Il semble qu'il respire encore..."
+    "203387": {
+        "「あっ　それでさ！　君が持っている\n　それは　キーエンブレムだろ！？\n　よかったら　それを僕に　見せてくれないか？": "Ah, a propos ! Ce que tu as la, c'est bien une\ncle embleme, non ? Si ca ne te derange pas,\npourrais-tu me la montrer ?"
     },
-    "218318": {
-        "「……気に入った。\n　お前の命　救ってやろう。": "Je suis impressionne. Je vais te sauver la\nvie."
+    "203388": {
+        "「ずっと憧れていたけど　本物を見るのは \n　はじめてだよ……。これは国を救う程の偉業を\n　達成した者にだけ　与えられる品なんだろう？": "J'en ai toujours reve, mais c'est la premiere\nfois que je vois l'original… C'est un objet\nqui n'est donne qu'a ceux qui ont accompli des<br>exploits capables de sauver un pays, n'est-ce\npas ?"
     },
-    "218320": {
-        "「……俺と　共に来い。": "...... Viens avec moi."
+    "203389": {
+        "「なんて　きれいなんだ……。\n　これを授与されているなんて　君はきっと\n　すごく　ウデが　立つんだろうね……。": "Quelle beaute... Si tu as recu cela, tu dois\netre extremement talentueux, n'est-ce pas..."
     },
-    "218322": {
-        "なんと　<cs_pchero>は\n異形の姿に　変わっていた！": "Quel choc ! <cs_pchero> s'est transforme en\nune creature etrange !"
+    "203390": {
+        "「ピキャーー！！": "Piyaa!!"
     },
-    "218324": {
-        "アビスジュエルを　手に入れた！<me 60>": "Vous avez obtenu le Joyau des Abysses ! <me\n60>"
+    "203391": {
+        "「おや　フラフ　どうしたんだい？": "Oh, Fluff, qu'est-ce qui se passe ?"
     },
-    "218326": {
-        "「……ようやく　目覚めたか。\n　待ちくたびれたぞ。": "...Enfin, tu t'es reveille. Je commencais a\nm'impatienter."
+    "203392": {
+        "「……まさか　この鳴き方は……。": "...Impossible, ce cri..."
     },
-    "218328": {
-        "「どうした　ほうけたカオをして。\n　何か　身体に異常でも　あったか？<yesno><close>": "Qu'est-ce qui se passe ? Tu sembles perdu.\nEst-ce que tu ressens un probleme physique ?"
+    "203393": {
+        "「あっ。急に　ごめんよ。": "Ah. Desole pour l'imprevu."
     },
-    "218330": {
-        "「……そうか。なるほど　なるほど。\n　ならば　血の契約は　うまくいったようだな。": "...Je vois. Je comprends, je comprends. Alors,\nil semble que le pacte de sang ait bien\nfonctionne."
+    "203394": {
+        "「この子は　フラフっていって\n　ゼクレス魔導国近くの　ベルヴァイン湖に\n　渡ってくる　銀翼竜のヒナなんだ。": "Cette petite s'appelle Fluff. C'est un bebe\ndragon argente qui traverse le lac Belvain\npres de Zechres."
     },
-    "218332": {
-        "「テキスト削除": "Je suis desole, mais il semble que le texte a\nete supprime. Pourrais-tu me fournir plus\nd'informations ou un autre texte a traduire ?"
+    "203395": {
+        "「毎年　そこで　銀翼竜の群れを見るのが \n　僕の楽しみだったんだけど　数年前　その湖に\n　凶暴化した魔獣が　住みついてしまったんだよ。": "Chaque annee, j'avais pour habitude d'observer\nles nuees de dragons argentes la-bas, c'etait\nmon plaisir. Mais il y a quelques annees, une<br>bete feroce a elu domicile dans ce lac."
     },
-    "218334": {
-        "「……俺の名は　ユシュカ。\n　見ての通り　魔族の旅人だ。": "Mon nom est Yushka. Comme tu peux le voir, je\nsuis un voyageur demoniaque."
+    "203396": {
+        "「それで　銀翼竜の群れを　襲うようになって…… \n　この子は　去年　襲われていたところを\n　僕が助けて　この店で　手当てしていたんだ。": "Et donc, les hordes de dragons aux ailes\nd'argent ont commence a attaquer... L'annee\nderniere, alors que cette petite creature<br>etait attaquee, je l'ai sauvee et soignee ici\ndans cette boutique."
     },
-    "218336": {
-        "「で　ここは　魔界。\n　俺たち　魔族が暮らしている　麗しき世界だ。": "Et ici, c'est le monde demoniaque. Un\nmagnifique univers ou nous, les demons,\nvivons."
+    "203397": {
+        "「また今年　群れがきたら　返そうと\n　思っていたんだけど……参ったな。\n　今年は例年より　群れが戻るのが　早いようだ。": "Je pensais rendre la pareille au troupeau s'il\nrevenait cette annee... Mais c'est embetant.\nCette annee, il semble que le troupeau soit<br>revenu plus tot que d'habitude."
     },
-    "218338": {
-        "「まったく　ワケがわからない。\n　……というカオを　しているな。\n　順を追って　説明してやるから　そこに座れ。": "Je vois que tu as l'air completement perdu...\nAssieds-toi, je vais t'expliquer etape par\netape."
+    "203398": {
+        "「湖に　竜たちが降り立つ前に　魔獣を倒さないと\n　またフラフの家族が　襲われてしまう……。": "Avant que les dragons n'atteignent le lac, il\nfaut vaincre la bete malefique, sinon la\nfamille de Fluff sera de nouveau attaquee..."
     },
-    "218340": {
-        "「……そうだな。\n　まず　この魔界のことを　教えておこう。": "......C'est vrai. D'abord, je vais te parler\nde ce monde demoniaque."
+    "203399": {
+        "「そうだ！　君なら……。": "Ah, c'est vrai ! Toi, tu pourrais..."
     },
-    "218342": {
-        "「アストルティアから　光の河をへだてた\n　近くて遠い世界……": "Un monde a la fois proche et lointain, separe\nde l'Astoltia par la Riviere de Lumiere..."
+    "203400": {
+        "「銀翼竜の群れが　ベルヴァイン湖につく前に\n　湖の魔獣を　倒してくれないか？": "Pourrais-tu vaincre la bete magique du lac\navant que la horde de dragons ailes n'atteigne\nle lac Belvain ?"
     },
-    "218344": {
-        "「……鉄血と暴力の国　バルディスタ要塞。": "…Le pays de fer et de violence, Fortress\nValdista."
+    "203401": {
+        "「お礼として　僕にできることなら \n　この後　なんだって　チカラになる！\n　だから……どうか　お願いだ！<yesno><close>": "En remerciement, si c'est en mon pouvoir, je\npourrais t'aider pour n'importe quoi apres\ncela ! Alors... je t'en prie !"
     },
-    "218346": {
-        "「この辺りは　武力にモノを言わせて\n　拡大を続ける　バルディスタに\n　滅ぼされた集落の　跡地だ。": "Ces environs sont les vestiges d'un village\ndetruit par Baldista, qui continue a s'etendre\npar la force des armes."
+    "203402": {
+        "「突然　こんなことを頼まれても　困るのは \n　よく　わかるんだけど……今　頼めるのは\n　君しかいない！　どうか　お願いだ！<yesno><close>": "Je comprends bien que c'est soudain et que\ncela te met dans l'embarras... Mais en ce\nmoment, je ne peux demander cela qu'a toi ! Je<br>t'en prie ! <yesno><close>"
     },
-    "218348": {
-        "「そのバルディスタが　ついに\n　アストルティアに　攻め入ると聞いて\n　俺は　ヤツらの軍に　まぎれこんだ。": "J'ai entendu dire que Baldista allait enfin\nenvahir Astoltia, alors je me suis infiltre\ndans leur armee."
+    "203403": {
+        "「本当かい！？　ありがとう……！": "Vraiment !? Merci... !"
     },
-    "218350": {
-        "「そうして　首尾よく　アストルティアに\n　たどり着いたところで　お前が\n　倒れているのを　見つけたんだ。": "C'est ainsi que, apres avoir reussi a\natteindre Astoltia, je t'ai trouve effondre."
+    "203404": {
+        "「じゃあ　僕もフラフを連れて　すぐ出発するから\n　君も急いで　ベルヴァイン湖に　向かってくれ！": "Alors, je vais emmener Fluff et partir\nimmediatement. Toi aussi, depeche-toi de te\nrendre au lac Belvain !"
     },
-    "218352": {
-        "「お前は　瀕死の状態だった。\n　普通の回復呪文では　追いつかないほど\n　ひどいキズを　負っていたんだ。": "Tu etais dans un etat critique. Les blessures\nque tu avais subies etaient si graves qu'un\nsimple sort de recuperation n'aurait pas<br>suffi."
+    "203405": {
+        "「ベルヴァイン湖は　この国を出て\n　ベルヴァインの森の西側から　南の方角だ。\n　この店は閉めるから　湖で待ち合わせしよう！": "Le lac Belvain se trouve en dehors de ce pays,\nau sud, a l'ouest de la foret de Belvain. Je\nvais fermer cette boutique, alors<br>retrouvons-nous au lac !"
     },
-    "218354": {
-        "「しかし　俺は　お前を見て　使えると思ってな。\n　だから　こうして　魔界に連れ帰って\n　魔族に伝わる　血の契約を　おこなったのさ。": "Cependant, en te voyant, j'ai pense que tu\npourrais etre utile. C'est pourquoi je t'ai\nramene dans le monde des demons pour sceller<br>un pacte de sang transmis par les demons."
+    "203406": {
+        "「探したぜ。それで　どうだ？ \n　何か　有力な情報は　得られたか？": "Je t'ai cherche. Alors, quoi de neuf ? As-tu\nobtenu des informations interessantes ?"
     },
-    "218356": {
-        "「この俺の血を　そそいでやったんだ。\n　その影響で　お前は　魔族の姿に変わったが……\n　命があるだけ　俺に　感謝するんだな。": "J'ai verse mon sang en toi. A cause de cela,\ntu as pris l'apparence d'un demon... Mais tu\ndevrais me remercier d'etre en vie."
+    "203407": {
+        "「シリルってやつの　手伝いだと……？ \n　おいおい　いったい　何をしている。\n　魔王を探す　って話は　どうなったんだ？": "Tu es en train d'aider ce Cyril... ? He, he,\nmais qu'est-ce que tu fais ? Qu'en est-il de\nnotre quete pour trouver le Roi Demon ?"
     },
-    "218358": {
-        "「それから　お前……\n　俺がくれてやった　アビスジュエルは\n　ちゃんと　持っているようだな。": "Et toi... il semble que tu as bien garde le\nAbyss Jewel que je t'ai donne."
+    "203408": {
+        "「……あの　白いドラキーは……。": "Ce Dracky blanc, la-bas..."
     },
-    "218360": {
-        "「その宝石は　この魔界を移動するのに\n　欠かせないものだ。\n　好きに　使うがいい。": "Ce joyau est indispensable pour se deplacer\ndans ce monde demoniaque. Utilise-le comme bon\nte semble."
+    "203409": {
+        "「そうか　なるほどな……。": "Je vois, je comprends maintenant..."
     },
-    "218362": {
-        "「……長話にも　飽きたな。\n　バルディスタの連中に　見つかっても　面倒だし\n　そろそろ　行くか。": "...Je commence a me lasser de cette longue\nconversation. Et ce serait embetant d'etre\nreperes par les gens de Baldista. Il est temps<br>de partir."
+    "203410": {
+        "「よし　お前は　シリルってやつと \n　しばらく　行動を共にしろ。\n　俺は　引き続き　町で　情報を集める。": "Bien, toi, accompagne Cyril pendant un moment.\nMoi, je vais continuer a rassembler des\ninformations en ville."
     },
-    "218364": {
-        "「……どこへ行くか　だと？\n　しもべのお前が　気にすることではない。": "Tu me demandes ou je vais ? Ce n'est pas\nquelque chose dont un serviteur comme toi doit\nse preoccuper."
+    "203411": {
+        "「手伝いが済んだら　すぐ町に戻ってこい。 \n　俺の方も　頃合いを見て　合流しよう。": "Une fois que tu as fini d'aider, reviens tout\nde suite en ville. De mon cote, je verrai\nquand il sera temps de te rejoindre."
     },
-    "218366": {
-        "「……なんだ　そのカオは？　お前は\n　血の契約をしたからには　俺のしもべだ。\n　俺の言うとおりに　していればいい。": "…Qu'est-ce que c'est que cette tete ? Tu as\npasse un pacte de sang, tu es donc mon\nserviteur. Il te suffit de faire ce que je te<br>dis."
+    "203413": {
+        "「キュウゥ……。": "Kyuuu..."
     },
-    "218368": {
-        "「そうだ　お前……\n　まだ　名前を　聞いてなかったな？": "Ah, c'est vrai, toi... Je ne t'ai pas encore\ndemande ton nom, n'est-ce pas ?"
+    "203414": {
+        "「この魔獣は　突然　どこからか　やって来て \n　ベルヴァイン湖に　住みついてしまったんだ。\n　その時から　ひどく　暴れ続けている。": "Ce monstre est soudainement apparu de nulle\npart et s'est installe au lac Belvain. Depuis\nlors, il ne cesse de semer le chaos."
     },
-    "218370": {
-        "「ふうん……。\n　しもべにしては　やや不相応な名だが……\n　まあ　いいだろう。": "Hmm... C'est un nom quelque peu inapproprie\npour un serviteur... Mais bon, ca ira."
+    "203415": {
+        "「時がたって落ち着けば　銀翼竜たちと\n　共存できるかもと　様子を見ていたんだけど\n　やはり　倒す以外に　道はなさそうだね……。": "En attendant que le temps passe et que les\nchoses se calment, j'esperais que nous\npourrions coexister avec les dragons aux ailes<br>d'argent. Mais il semble qu'il n'y ait pas\nd'autre choix que de les vaincre..."
     },
-    "218372": {
-        "「……仕方ないから　教えてやる。\n　向かう先は　ゲルヘナ幻野の北側……大審門だ。\n　そこで　これからのことを　説明してやろう。": "Bon, je vais te l'expliquer. La destination\nest le cote nord de Gerhena Field... le\nDemongate. Je t'expliquerai la suite la-bas."
+    "203416": {
+        "「フラフは　安全な物陰に　隠しておくよ。\n　お願いだ！　この魔獣を　倒してくれ！": "Je vais cacher Fluff dans un endroit sur. S'il\nte plait ! Vaincs cette bete demoniaque !"
     },
-    "218374": {
-        "「ゲルヘナ幻野は　起伏が多く　迷いやすいが……\n　魔界に慣れるためにも　自力で来てみろ。\n　俺は　先に　大審門で待っている。": "Le champ de Gerhena est vallonne et facile de\ns'y perdre, mais... essaie de venir par tes\npropres moyens pour t'habituer au monde des<br>demons. Je t'attendrai a la porte des demons."
+    "203417": {
+        "「グオォオーーーーーーン！！": "Guooooooonーーーーーー！！"
     },
-    "218376": {
-        "「ちゃんと　ここまで　来られたか。\n　あれが魔仙卿が住む　デモンマウンテンの入り口\n　……偉大なる　大審門だ。さあ　こっちへ来い。": "Alors, tu es finalement arrive jusqu'ici.\nLa-bas, c'est l'entree de la Montagne\nDemoniaque ou reside The Oracle... La grande<br>Demongate. Allez, viens par ici."
+    "203418": {
+        "「……やはり　君は　とても強いんだね！\n　あまりに　すごくて　見惚れてしまったよ！": "Comme je le pensais, tu es vraiment tres fort\n! C'etait tellement impressionnant que j'en\nsuis reste captive !"
     },
-    "218378": {
-        "「いいか。魔界には　各国を治める魔王がいるが\n　本来は　その頂点に　大魔王が君臨するのだ。\n　……先代が死んで以来　空位になっているがな。": "Ecoute bien. Dans le monde des demons, il y a\ndes seigneurs demoniaques qui gouvernent\nchaque nation. Mais normalement, au sommet, il<br>y a un grand roi demon qui regne sur tous.\n...Depuis la mort du precedent, le trone est\nvacant."
+    "203419": {
+        "「これで　この湖にやって来る銀翼竜たちにも \n　平和が訪れるだろう……。": "Avec cela, la paix viendra enfin pour les\ndragons ailes d'argent qui visitent ce lac..."
     },
-    "218380": {
-        "「そして　大魔王を選定する　権限を持つ者こそが\n　魔界の最古老にして　大いなる闇の根源との\n　仲介者と言われる　魔仙卿というわけだ。": "Et celui qui detient le pouvoir de\nselectionner le Grand Roi Demon n'est autre\nque le plus ancien des anciens du monde des<br>demons, connu comme l'intermediaire avec la\ngrande source des tenebres, appele The Oracle."
+    "203420": {
+        "「ピキャーー！": "Piyaaah!"
     },
-    "218382": {
-        "「……見ろ。\n　あいつらは　魔仙卿に会うために\n　大審門に　集まってきた　有象無象だな。": "Regarde. Ce sont des gens de tout horizon qui\nse sont rassembles au Demongate pour\nrencontrer The Oracle."
+    "203421": {
+        "「おや……？\n　この鳴き方は　もしかして……！": "Oh... ? Ce cri... ne serait-ce pas... !"
     },
-    "218384": {
-        "「ウハハハ！　まだ　大審門は開かねェのか！！\n　早く　魔仙卿に会わせやがれ　オラァ！！": "Uhahaha ! Demongate n'est toujours pas ouvert\n!! Depechez-vous de me faire rencontrer The\nOracle, allez !!"
+    "203422": {
+        "「あっ　見てくれ！\n　ちょうど　フラフの家族達が\n　今年もまた　戻ってきたみたいだ！": "Ah, regarde ! On dirait que la famille Fluff\nest revenue cette annee encore !"
     },
-    "218386": {
-        "「……ゲッファッファ！！　バカヤロウ！！\n　次の　大魔王になんのはァ　オレ様ァ\n　殺りくのグレボスに　決まってんだろォ！！": "Geffafa !! Imbecile !! Le prochain Grand Roi\nDemon, c'est moi, c'est decide que ce sera\nmoi, Killer Grevos !!"
+    "203423": {
+        "「ピキャーー！\n　ピキャーーーー！": "Pi-kyahhh! Pi-kyahhhhh!"
     },
-    "218388": {
-        "「……どうした？\n　早く　こっちに　来い。": "…Qu'est-ce que tu fais ? Viens vite par ici."
+    "203424": {
+        "「フラフを　家族のもとに返せて　よかった。 \n　これも　君の　おかげだよ。\n　本当にありがとう。": "Je suis content d'avoir pu rendre Fluff a sa\nfamille. C'est grace a toi. Merci beaucoup."
     },
-    "218390": {
-        "「……オレ様に　アイサツしねえとは　何様だァ？\n　名を聞けば　魔王すらも　恐れるという\n　殺りくのグレボス様と　知っての無礼かァ？": "...Osez-vous ne pas saluer ma grandeur ? Qui\ncroyez-vous etre ? Ne savez-vous pas que meme\nle roi des demons tremble en entendant mon<br>nom, celui de Killer Grevos-sama ?"
+    "203425": {
+        "「僕が　この国に残っている理由も　これで\n　なくなった。毎年　帰ってくる銀翼竜の群れを\n　見守る事が……僕の　生きがいだったんだ。": "Et maintenant, la raison pour laquelle je\nrestais dans ce pays a disparu. Veiller sur\nles troupeaux de dragons argentes qui<br>revenaient chaque annee... C'etait le sens de\nma vie."
     },
-    "218392": {
-        "「……おっと　これは　これは。\n　俺は　砂漠の国　ファラザードの使者。\n　この辺りの流儀に　不慣れなもので　失礼した。": "…Oh, mais que vois-je la. Je suis l'emissaire\ndu pays desertique de Pharazard. Je ne suis\npas encore habitue aux coutumes de cette<br>region, veuillez excuser mon impolitesse."
+    "203426": {
+        "「だけど　見守るうちに　僕自身が\n　広い世界を　自由に旅する夢を\n　抱くようになった……。": "Cependant, en observant, j'ai commence a rever\nmoi-meme de voyager librement dans le vaste\nmonde..."
     },
-    "218394": {
-        "「じつは　ファラザード国の魔王から\n　重要な勅命をたまわり　この地に来たのだが……\n　何か　気に入らないことでも？": "En fait, j'ai recu un important decret du roi\ndemon de Farazard et je suis venu en ces\nlieux... Mais y aurait-il quelque chose qui<br>vous deplait ?"
+    "203427": {
+        "「自分には　できないって　あきらめていたけど \n　最近　アストルティアへの道が　開いたって\n　聞いたんだ。": "Je m'etais resigne en pensant que je ne\npouvais pas le faire, mais j'ai entendu dire\nque recemment, le chemin vers Astoltia s'est<br>ouvert."
     },
-    "218396": {
-        "「……グッ…グヌウ。\n　ファラザードの　魔王の使者かよォ。\n　め…めんどくせェーな。": "…Guh…Gnuu. Tu es l'emissaire du Roi demon de\nFarazard, hein. Quelle… quelle galere."
+    "203428": {
+        "「こうして　アストルティアから来た　君と\n　偶然　出会えた　今こそが\n　旅立つ　絶好のチャンスだと　思うんだよ。": "Ainsi, je pense que c'est le moment ideal pour\npartir en voyage, maintenant que j'ai eu la\nchance de te rencontrer, toi qui viens<br>d'Astoltia."
     },
-    "218398": {
-        "「今回だけは　見逃してやるッ！\n　次に会ったら　絶対に　喰ってやるからなァ！": "Cette fois, je te laisse filer ! La prochaine\nfois qu'on se croise, je te devorerai, c'est\nsur !"
+    "203429": {
+        "「僕は　夢を　あきらめたくない……。": "Je ne veux pas abandonner mon reve..."
     },
-    "218400": {
-        "「……ジャマが入ったな。聞いての通り\n　俺は　ファラザードの魔王に仕える者。\n　我が主を　大魔王にするために　動いている。": "…Nous avons ete interrompus. Comme tu l'as\nentendu, je suis au service du roi demon de\nFarazard. Je travaille pour faire de mon<br>seigneur le grand roi demon."
+    "203430": {
+        "「うん　決めた！ \n　僕は今夜　アストルティアへ旅立つ！\n　やっと　自分の迷いを　断ち切れそうだよ！": "Oui, c'est decide ! Je pars ce soir pour\nAstoltia ! Je sens enfin que je peux surmonter\nmes doutes !"
     },
-    "218402": {
-        "「目的を果たすには　なんとしても\n　この閉ざされた門を　開かねばならないが……。\n　お前　そこの文字を読んでみろ。": "Pour atteindre notre objectif, nous devons\nabsolument ouvrir cette porte scellee... Lis\nce qui est ecrit la-bas."
+    "203431": {
+        "「だけど　旅立つ前に　ひとつだけ\n　持っていかなきゃいけないものが　あるんだ。\n　どうしても　あれだけは……": "Mais avant de partir, il y a une chose que je\ndois absolument emporter. Je ne peux vraiment\npas partir sans ca..."
     },
-    "218404": {
-        "門には　見慣れない文字が　刻まれている……。": "Des lettres inconnues sont gravees sur la\nporte..."
+    "203432": {
+        "「ようやく　見つけましたよ。\n　エルガドーラ様が　お待ちです。\n　我々に　ご同行ください。": "Enfin, je vous ai trouve. Elgadora-sama vous\nattend. Veuillez nous accompagner, s'il vous\nplait."
     },
-    "218406": {
-        "<center>相克する　天運を持つ者　集いし時\n大魔王への道は　開かれる": "Lorsque ceux qui possedent un destin celeste\nantagoniste se reunissent, le chemin vers le\nGrand Roi Demon s'ouvre."
+    "203433": {
+        "「……わかったよ。 \n　いつまでも　逃げてはいられないと\n　思っていたしね。": "...... D'accord. Je savais que je ne pouvais\npas fuir indefiniment."
     },
-    "218408": {
-        "「古来より　大魔王に選ばれし者は　必ず\n　大審門を通り　他の大魔王資格者との競争に\n　打ち勝って　その位に就いたという。": "Depuis l'ancien temps, celui qui est choisi\npar le grand roi demon doit obligatoirement\npasser par la Demongate, triompher de la<br>competition avec les autres pretendants au\ntitre de grand roi demon, et ainsi acceder a\ncette position."
+    "203434": {
+        "「……君と　会えてよかった。\n　またいつか　アストルティアの地で\n　再会できる日を　楽しみにしているよ。": "......Je suis heureux de t'avoir rencontre.\nJ'attends avec impatience le jour ou nous\npourrons nous revoir un jour en Astoltia."
     },
-    "218410": {
-        "「ならば　門が開かないのは　大魔王たりうる\n　資格者が　この場に　そろっていないから……\n　ということなのだろう。": "Dans ce cas, la porte ne s'ouvre pas parce que\nceux qui possedent les qualifications pour\ndevenir le Grand Roi Demon ne sont pas tous<br>presents ici..."
+    "203435": {
+        "「それまでは　少しの間　さよならだね。": "Jusque-la, c'est un petit au revoir."
     },
-    "218412": {
-        "「大魔王たりうる　資格者とは　何者か？\n　我が主　ファラザードの魔王は\n　当然　そのひとりだ。": "Qui donc possede les qualifications pour\ndevenir le grand roi demon ? Naturellement, le\nseigneur demon de notre Lord Farazard en fait<br>partie."
+    "203436": {
+        "「待ってたぜ。\n　シリルってやつからの　頼まれごとは\n　無事　終わったようだな。": "Je t'attendais. Il semble que la tache\ndemandee par Cyril soit accomplie avec succes."
     },
-    "218414": {
-        "「では　我が主と　相克する天運を持つ者が\n　この魔界にいるだろうか？": "Alors, y aurait-il quelqu'un dans ce monde\ndemoniaque qui possede le destin de rivaliser\navec mon Seigneur ?"
+    "203437": {
+        "「……それで　シリルは　どこへ行った？\n　一緒じゃないのか？": "...Alors, ou est alle Cyril ? Il n'est pas\navec toi ?"
     },
-    "218416": {
-        "「それは　ファラザード以外の　強国……\n　ゼクレス魔導国の　魔王アスバルと\n　バルディスタ要塞の　魔王ヴァレリアだ。": "C'est un autre puissant royaume en dehors de\nFarazard... Le Roi-Demon Asbal de Zechres et\nla Reine-Demon Valeria de la Forteresse<br>Valdista."
+    "203438": {
+        "「なるほど……。 \n　アストルティアに行く……ね。": "Je vois... Tu vas te rendre a Astoltia..."
     },
-    "218418": {
-        "「だが　彼らは　大魔王の座に興味がないのか\n　一向に　この大審門に　現れる気配がない。": "Cependant, ils ne semblent pas interesses par\nle trone du Grand Roi Demon et ne montrent\naucun signe de vouloir penetrer dans cette<br>Demongate."
+    "203439": {
+        "「魔界を出られると　面倒なことになるな。\n　なんとか　その前に　捕まえたいところだが……": "Si elle parvient a quitter le royaume des\ndemons, cela va devenir complique. J'aimerais\nbien l'attraper avant cela, mais..."
     },
-    "218420": {
-        "「ゼクレスと　バルディスタの魔王に会って\n　ここ　大審門へと　引きずり出す。\n　それが　俺の　果たすべき使命だ。": "Rencontrer les seigneurs demoniaques de Zekres\net de Baldista et les attirer ici, a\nDemongate. C'est la mission que je dois<br>accomplir."
+    "203440": {
+        "「なあ……。\n　シリルは　他に何か言ってなかったか？": "He... Cyril n'a rien dit d'autre ?"
     },
-    "218422": {
-        "「……ところで　お前。\n　どうも　その魔族の姿が　気に食わんようだな。": "…Au fait, toi la. Il semble que tu n'aimes pas\nvraiment cette apparence de demon, n'est-ce\npas ?"
+    "203441": {
+        "「……アストルティアに　旅立つ前に \n　どうしても　持っていきたいものがあるって\n　言っていたのか。": "…Tu disais que tu avais quelque chose que tu\nvoulais absolument emporter avant de partir\npour Astoltia."
     },
-    "218424": {
-        "「残念ながら　一度　血の契約を交わし\n　魔族の姿へと　変わった者は　二度と\n　元の姿には戻れない。それが　魔界の理だ。": "Malheureusement, ceux qui ont scelle un pacte\nde sang et ont pris l'apparence des demons ne\npeuvent jamais retrouver leur forme originale.<br>C'est la loi du monde des demons."
+    "203442": {
+        "「それなら　心当たりがある。 \n　……シリルは　城下町で　骨董屋を\n　経営していたんだよな？": "Dans ce cas, j'ai une idee. ...Cyril gerait\nune boutique d'antiquites dans la ville du\nchateau, n'est-ce pas ?"
     },
-    "218426": {
-        "「……だが　たったひとりだけ\n　魔族となったお前を　元に戻しうる者がいる。\n　この門の先に住む人物……魔仙卿だ。": "Cependant, il existe une seule personne\ncapable de te ramener a ton etat originel,\nmeme apres etre devenu un membre des demons.<br>Cette personne reside au-dela de cette porte…\nThe Oracle."
+    "203443": {
+        "「その店を探れば　何か　\n　手がかりが　つかめるはずだ。 ": "Si nous enquetons sur ce magasin, nous\ndevrions trouver des indices."
     },
-    "218428": {
-        "「ということは……大審門を開けるという\n　俺の目的を果たせば　元の姿に戻るという\n　お前の望みも　かなう目が生まれるわけだ。": "Ce qui signifie que... si je parviens a ouvrir\nle Demongate, ton souhait de retrouver ta\nforme originale pourrait egalement se<br>realiser."
+    "203444": {
+        "「それじゃ　店で　落ち合おう。\n　急いで　来いよ！": "Alors, retrouvons-nous au magasin. Depeche-toi\nde venir !"
     },
-    "218430": {
-        "「……どうだ。お前にとっても　悪くない話だろ。\n　どの道　しもべに　選択肢などないのだから\n　せいぜい　俺のために　働くんだな。": "...Comment ca ? Ce n'est pas une mauvaise\nproposition pour toi non plus. De toute facon,\nun serviteur n'a pas vraiment le choix. Fais<br>de ton mieux pour travailler pour moi."
+    "203445": {
+        "「早いな。": "C'est rapide."
     },
-    "218432": {
-        "「ゲルヘナ幻野の東には　魔王アスバルがいる\n　ゼクレス魔導国……　西に向かえば\n　魔王ヴァレリアの　バルディスタ要塞だ。": "A l'est de Gerhena Field se trouve le roi\ndemon Asbal, Zechres... En allant vers\nl'ouest, c'est la forteresse Valdista de la<br>reine demon Valeria."
+    "203446": {
+        "「……ちっ。鍵が　かかってるな。 \n　悪いが　強引に行かせてもらう！": "...Tch. La porte est verrouillee. Desole, mais\nje vais devoir forcer le passage !"
     },
-    "218434": {
-        "「２国のうち　どちらからでも　かまわない。\n　お前に　好きなほうを選ばせてやる。\n　さあ　魔界巡りの旅に　出かけようじゃないか。": "Peu importe lequel des deux royaumes tu\nchoisis. Je te laisse choisir celui que tu\npreferes. Allez, partons pour un voyage a<br>travers le monde des tenebres."
+    "203447": {
+        "なんと　ユシュカは　扉のカギを壊してしまった！": "Quel desastre, Yushka a brise la cle de la\nporte !"
     },
-    "230154": {
-        "「わあーっ　すごい！": "Waouh, incroyable !"
+    "203448": {
+        "「これが　シリルの骨董屋か……。\n　よくもまあ　閉鎖的なこの国で　ここまで\n　アストルティアの品物を　そろえたもんだ。": "C'est donc la boutique d'antiquites de\nCyril... C'est impressionnant de voir a quel\npoint il a reussi a rassembler des objets<br>d'Astoltia, surtout dans un pays aussi ferme."
     },
-    "230156": {
-        "「ほら　見て！\n　大風車塔が　もう　あんなに遠くに！": "Regarde ca ! La Grande Tour des Moulins est\ndeja si loin !"
+    "203449": {
+        "「でも　どこか　おかしいような……？ \n　俺が昔　見た地図と　少し違っているな。": "Mais il y a quelque chose d'etrange... ? Ce\nn'est pas tout a fait comme la carte que j'ai\nvue autrefois."
     },
-    "230158": {
-        "「……ねえ。\n　思えば　私たち　一緒に\n　たくさんの冒険を　してきたわよね。": "... He. Quand j'y pense, nous avons vecu tant\nd'aventures ensemble, n'est-ce pas ?"
+    "203450": {
+        "「お前の地元だろ？\n　ちょっと　調べてみてくれ。": "C'est ton coin, non ? Va jeter un oeil."
     },
-    "230160": {
-        "「いろいろと　つらいことも　あったけれど\n　あなたが　いてくれたから\n　いつも　乗り越えることが　できたのよ。": "Malgre toutes les epreuves que j'ai\ntraversees, j'ai toujours pu les surmonter\ngrace a ta presence."
+    "203451": {
+        "「アストルティアの地図が　抜け道を\n　開く仕掛けだなんて……あいつらしいな。": "Il est typique de lui de faire en sorte que la\ncarte d'Astoltia soit le mecanisme pour ouvrir\nun passage secret..."
     },
-    "230162": {
-        "「私　気づいたら　あなたのことばかり\n　考えているわ……。": "Je me suis rendu compte que je ne fais que\npenser a toi..."
+    "203452": {
+        "「おそらく　この先は \n　城のどこかに　つながっているはずだ。\n　とりあえず　行ってみるとしよう。": "Il est probable que cela mene a une partie du\nchateau. Allons-y pour voir."
     },
-    "230164": {
-        "「ねえ……。\n　あなたのことは　勇者と盟友の関係以上に\n　……特別な人だと　思っているの。": "He... Je pense que tu es plus qu'un simple\nallie du heros pour moi... Tu es une personne\nspeciale."
+    "203453": {
+        "「こいつは……　かなりの値打ちものばかりだな。\n　いかにも　強欲なこの国らしい……。\n　よく　集めたものだ。": "Celui-ci... est compose de pieces de grande\nvaleur. C'est typique de ce pays avide... Ils\nont bien reussi a les rassembler."
     },
-    "230166": {
-        "「……あなたにとって　私との関係は\n　勇者と盟友……　だけなのかな？\n　それとも……　特別な人　なのかな？\n<select_nc>\n特別な人\n勇者と盟友\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Pour toi, notre relation est-elle celle d'un\nheros et d'un allie... seulement ? Ou suis-je\npour toi... quelqu'un de special ? <select_nc><br>Quelqu'un de special Heros et allie\n<select_end> <case 1> <close> <case 2> <close>\n<case_cancel> <close> <case_end>"
+    "203454": {
+        "「どうやら　あの抜け道は\n　城の宝物庫に　つながっていたようだな。": "Il semble que ce passage secret menait au\nTresor du chateau."
     },
-    "230168": {
-        "「そんな　ひどい……。": "C'est tellement cruel..."
+    "203455": {
+        "「アストルティアに　旅立つ前に　どうしても\n　持っていかなければ　いけないもの……。\n　やはり　そのコンパスだったか。": "Avant de partir pour Astoltia, il y a quelque\nchose que je dois absolument emporter...\nC'etait bien sur cette boussole."
     },
-    "230170": {
-        "「こんなにも　思っているのに\n　私の気持ちは　空回りだったというのね。\n　ゆるせない……。": "Je t'aimais tellement, et pourtant, mes\nsentiments n'ont fait que tourner a vide.\nC'est impardonnable..."
+    "203456": {
+        "「お前はっ……！\n　どうして　ここにっ！？": "Toi... ! Comment es-tu arrive ici ?!"
     },
-    "230172": {
-        "「そう……　そうなのね。\n　な…なんだか　てれちゃうわね。": "Ah... c'est vrai, n'est-ce pas. Je... je suis\nun peu genee, tu sais."
+    "203457": {
+        "「それに　君まで　いるなんて……。\n　どういうことだ！？　ユシュカ！": "Et toi aussi, tu es la... Que se passe-t-il,\nYushka !?"
     },
-    "230174": {
-        "「まさか　あなたも　同じ気持ちで\n　いてくれたなんて……うれしいわ。": "Je suis si heureuse que tu ressentes la meme\nchose que moi..."
+    "203458": {
+        "「ちょっとした縁で　命を助けてやってな。\n　それ以来　こいつのことは　俺のしもべとして\n　コキ使ってるのさ。それはそうと……": "Par un petit coup du destin, je lui ai sauve\nla vie. Depuis, je l'utilise comme mon\nserviteur. Mais d'ailleurs..."
     },
-    "230176": {
-        "「……なーんちゃって。": "...Je plaisante."
+    "203459": {
+        "「シリルなんて　偽名を使っていたとはな。\n　だが　俺には　あの白いドラキーが\n　変身した　お前だって　すぐわかったよ。": "Je n'aurais jamais pense que tu utilisais un\nnom tel que Cyril, F. Cependant, j'ai\nimmediatement compris que ce Dracky blanc,<br>c'etait toi transforme."
     },
-    "230178": {
-        "「あはは！　そんなワケ　ないでしょ！\n　こんな冗談に　本気になっちゃうなんて\n　とんだ　マヌケね！": "Ah ah ah ! Mais non, voyons ! Croire\nserieusement a une blague pareille, c'est\nvraiment idiot !"
+    "203460": {
+        "「……なあ　アスバル。": "… Eh bien, Asbal."
     },
-    "230180": {
-        "「お遊びの時間は　おしまい！\n　はいっ　さようなら～！": "Le temps de jouer est termine ! Allez, au\nrevoir~ !"
+    "203461": {
+        "「お前には　関係ない……。": "Ca ne te regarde pas..."
     },
-    "230182": {
-        "「ふう　あぶなかった……。": "Ouf, c'etait dangereux..."
+    "203462": {
+        "「……お前には　言ってなかったが\n　俺は　昔　この国に　滞在してたことがある。": "Je ne te l'avais pas dit, mais autrefois, j'ai\nsejourne dans ce pays."
     },
-    "230184": {
-        "「間に合って　よかったわ！": "Je suis contente d'etre arrivee a temps !"
+    "203463": {
+        "「アスバルは　この国の王子として \n　俺は　国から国を渡り歩く\n　有力な宝石商として　出会ったんだ。": "En tant que prince de ce royaume, Asbal voyage\nde pays en pays, se faisant connaitre comme un\ninfluent marchand de pierres precieuses."
     },
-    "230186": {
-        "「私の姿に　化ける者よ！\n　正体を　見せなさいっ！！": "Toi qui prends mon apparence ! Montre-toi tel\nque tu es !"
+    "203464": {
+        "「当時から　こいつは　たいそう\n　アストルティアに　ご執心だったよ。": "Depuis ce temps-la, il etait vraiment\npassionne par Astoltia."
     },
-    "230188": {
-        "「……あはは♪\n　ホンモノが　来ちゃったなら　仕方ないな～♪": "… Ahaha ♪ Si le veritable heros est arrive,\nalors je n'ai pas le choix~ ♪"
+    "203465": {
+        "「だから　俺は　師匠からもらった\n　アストルティア産の　コンパスを\n　王子殿下に　献上してさしあげたのさ。": "Donc, j'ai offert au prince heritier la\nboussole d'Astoltia que j'avais recue de mon\nmaitre."
     },
-    "230190": {
-        "「ぬいぐるみ……！？": "Costume de chat...!?"
+    "203466": {
+        "「いつか　アスバル殿下も　アストルティアを \n　旅できますように……とな。": "Un jour, puisse le prince Asbal voyager a\ntravers Astoltia... n'est-ce pas ?"
     },
-    "230192": {
-        "「あはは♪　あはは～♪": "Ahaha♪ Ahaha～♪"
+    "203467": {
+        "「黙れっ！！ \n　今さら　そんな昔の話なんか……！": "Silence !! Je ne veux plus entendre parler de\nces vieilles histoires... !"
     },
-    "230194": {
-        "「やあやあ！　盟友くん　ひさしぶり～♪\n　旅芸人ピュージュの　ドッキリショーは\n　お楽しみ　いただけたかな～？": "Salut salut ! Mon cher allie, ca faisait\nlongtemps~♪ Est-ce que tu as apprecie le\nspectacle surprise de Minstrel Pyuju~?"
+    "203468": {
+        "「アスバル。": "Asbal."
     },
-    "230196": {
-        "「あなたが……　ガートラントで\n　陰謀を仕掛けたという　ピュージュ……！": "C'est toi... qui as orchestre le complot a\nGarトLMPト, Pyuju... !"
+    "203469": {
+        "「ひとりで　この国を逃げ出すくらいなら \n　俺と　一緒に来い。": "Si tu envisages de fuir ce pays tout seul,\nviens avec moi."
     },
-    "230198": {
-        "「あはは♪　勇者姫は　はじめましてだね！\n　知ってもらえてるなんて　光栄だな～♪\n　ここで　駆けつけてくるなんて　さっすが～！": "Ahaha♪ Enchantee, Princesse Guerriere ! C'est\nun honneur que tu me connaisses~♪ Te voir\narriver ici, c'est digne de toi !"
+    "203470": {
+        "「今度こそ　俺がお前を　自由にしてやる！": "Cette fois, je vais vraiment te liberer !"
     },
-    "230200": {
-        "「でもでも　残念ながら……\n　もう　キミたちに　用はないんだよな～♪": "Mais, mais, malheureusement... Je n'ai plus\nbesoin de vous, tu sais~♪"
+    "203471": {
+        "「……うるさいっ！ \n　勝手に去っていった　裏切り者の話なんて\n　今さら　何も信用できない！": "......Tais-toi ! Je ne peux plus faire\nconfiance a un traitre qui est parti de son\npropre gre !"
     },
-    "230202": {
-        "「ボクたちの目的は　そこの彼女が\n　気球に乗る前に　置いてってくれた\n　荷物の中に　あったんだよね～♪": "Notre but se trouvait dans les affaires que\nHer a laissees avant de monter dans le\nBalloon, n'est-ce pas~♪"
+    "203472": {
+        "「お前を　裏切ったつもりはない。 \n　この国を出る時　俺は　お前を……": "Je n'avais pas l'intention de te trahir.\nLorsque j'ai quitte ce pays, je t'ai..."
     },
-    "230204": {
-        "「えっ　ふたり　いる……？\n　どういうこと……！？": "Hein, il y en a deux... ? Que se passe-t-il...\n!?"
+    "203473": {
+        "「お前たち　何者だ！！ \n　ここで　何をしている！？": "Qui etes-vous ?! Que faites-vous ici ?!"
     },
-    "230206": {
-        "「あはは♪　これで　必要な分がそろったんだ！\n　ボクらの大願が　まもなく　かなうよ♪\n　これから　本当に怖いことが　起きるんだ～♪": "Ahaha♪ Maintenant, nous avons tout ce dont\nnous avons besoin ! Notre grand souhait va\nbientot se realiser♪ A partir de maintenant,<br>des choses vraiment effrayantes vont se\nproduire~♪"
+    "203474": {
+        "「侵入者だ！　応援を呼べ！！": "Intrus ! Appelez du renfort !!"
     },
-    "230208": {
-        "「……地獄の扉が　開かれて\n　恐ろしい　災いが　あふれ出すよ♪\n　きっと　たくさんの血が　流れるんだ～♪": "La Porte de l'Enfer s'ouvre et de terribles\ncalamites se deversent♪ Beaucoup de sang va\nsurement couler～♪"
+    "203475": {
+        "「ちっ……。見つかったようだな。 \n　ふたりとも　話は後だ。\n　ここから　脱出するぞ！": "Tch... On dirait qu'on a ete reperes. On\nparlera plus tard, vous deux. Pour l'instant,\nsortons d'ici !"
     },
-    "230210": {
-        "「……なかなか　楽しかったよ♪\n　それじゃ　バイバ～イ！": "…C'etait plutot amusant ♪ Allez, au revoir !"
+    "203476": {
+        "「仕方ない……。": "Pas le choix..."
     },
-    "230212": {
-        "「あっ　待ちなさい……！": "Ah, attends... !"
+    "203477": {
+        "「王族しか使えないよう\n　封印で閉ざされた　秘密の抜け道がある！\n　ふたりとも　僕について来い！": "Il y a un passage secret scelle par une\nbarriere que seuls les membres de la royaute\npeuvent utiliser ! Venez tous les deux avec<br>moi !"
     },
-    "230214": {
-        "「……ところで。\n　あなた　すっかり　だまされていたようだけど\n　偽者の私……何か　変なこと言ってたんじゃ？<yesno><close>": "Au fait. Il semble que vous ayez ete\ncompletement trompe, mais Je, en tant que\nmembre de F. ... N'ai-je pas dit quelque chose<br>d'etrange ?<yesno><close>"
+    "203478": {
+        "「よし　行くぞ！": "Bien, allons-y !"
     },
-    "230216": {
-        "「……本当に？<yesno><close>": "Vraiment ? <yesno><close>"
+    "203479": {
+        "「……ここだよ。 \n　この国に　危険が及んだ時に　王族が\n　脱出するための　秘密の出口なんだ。": "......C'est ici. C'est la sortie secrete pour\nque la famille royale puisse s'echapper en cas\nde danger dans ce pays."
     },
-    "230218": {
-        "「……えっ　そうなの。\n　私を　特別な人と　思っているのか……って\n　聞かれたのね。ふうん……。": "…Eh, vraiment ? Tu te demandes si je te\nconsidere comme quelqu'un de special... C'est\nce qu'on t'a demande, n'est-ce pas ? Hmm..."
+    "203480": {
+        "「……よし　開いたよ。\n　この先の　滝見の広場から　城の外へ出られる。\n　ふたりとも　僕についてきて！": "…Bien, c'est ouvert. A partir de la Fallsview\nPlaza juste devant, nous pourrons sortir du\nchateau. Suivez-moi tous les deux !"
     },
-    "230220": {
-        "「それで……\n　あなたは　なんて答え……": "Alors... Quelle reponse allez-vous donner..."
+    "203481": {
+        "「あの秘密の抜け道が　開かれると \n　わらわの杖の宝玉が　光るよう\n　まじないが　かかっているとも知らず……": "Lorsque ce passage secret est ouvert, le joyau\nde mon baton se met a briller, sans que\nquiconque ne se doute du sortilege qui y est<br>attache..."
     },
-    "230222": {
-        "「ううん。やっぱり　いい！\n　今のは　聞かなかったことにして！": "Non, finalement, ca va ! Fais comme si tu\nn'avais rien entendu !"
+    "203482": {
+        "「この母から　逃げられると思うとは\n　まだまだ　詰めが甘いのう……アスバル。": "Penses-tu pouvoir echapper a cette mere ? Tu\nes encore bien naif... Asbal."
     },
-    "230224": {
-        "「……ごめんなさい。\n　今は　こんな話　してる場合じゃなかったわね。": "......Je suis desolee. Ce n'est pas le moment\nde parler de ca, n'est-ce pas."
+    "203483": {
+        "「おおかた　そのコンパスを持って \n　最近開いたとかいう　アストルティアへの道に\n　逃げ込むつもりだったのだろう。": "Il est probable qu'il prevoyait de prendre ce\ncompas et de s'echapper par le chemin\nrecemment ouvert vers Astoltia."
     },
-    "230226": {
-        "「じつは　私が出かけてる時　ルシェンダさまから\n　あなたが　危ないという　連絡があってね。\n　急いで　駆けつけてきたのよ。": "En fait, pendant que j'etais sortie, j'ai recu\nun message de Lushenda-sama disant que tu\netais en danger. Je me suis donc precipitee<br>pour venir."
+    "203484": {
+        "「ふん……。\n　面倒な奴が　出てきたな。": "Hmm... Un ennemi genant est apparu."
     },
-    "230228": {
-        "「下で　ルシェンダさまが　待っておられるわ。\n　いったん　戻りましょう。": "Lushenda-sama nous attend en bas.\nRetournons-y."
+    "203485": {
+        "「お前は……ユシュカ！！ ": "Toi, tu es... Yushka !!"
     },
-    "238818": {
-        "「魔界には　現在\n　特に大きなチカラを持った　３つの国がある。": "Dans le monde des tenebres, il y a trois\nroyaumes particulierement puissants."
+    "203486": {
+        "「アスバルは　高貴なる　ゼクレス王家の血を\n　受け継ぐ者！": "Asbal est un descendant de la noble lignee\nroyale de Zekles !"
     },
-    "238820": {
-        "「魔界で最も古き　悪意の都　ゼクレス魔導国。": "La ville de Zechres, la plus ancienne et\nmalveillante du monde demoniaque."
+    "203487": {
+        "「やがては　この国を背負い\n　魔界全土を統べる　大魔王となる器……。": "Un jour, tu porteras ce royaume sur tes\nepaules et deviendras le grand Roi Demon qui\nregnera sur tout le monde demoniaque..."
     },
-    "238822": {
-        "「そして……混沌の新興国　ファラザード。": "Et ensuite... le nouvel empire chaotique de\nFarazard."
+    "203488": {
+        "「お前のような　雑種とは　住む世界が違う。": "Je vis dans un monde different du tien, un\nmonde ou les gens comme toi n'ont pas leur\nplace."
     },
-    "238824": {
-        "<pc>は　アビスジュエルを\n使えるようになった！<me 71>": "<pc> peut desormais utiliser le Joyau\nAbyssal !<me 71>"
+    "203489": {
+        "「アストルティアを　共に旅するなどという \n　世迷い言を吹き込んでも　無駄だ！": "Il est inutile de lui faire croire qu'il\nvoyagera avec nous a travers Astoltia !"
     },
-    "238826": {
-        "<color_yellow>メインコマンドの　『どうぐ』の中にある\n『アビスジュエル』を使うと　アストルティアと\n魔界を　行き来することができます。<color_white>": "<color_yellow>Dans le menu principal, en\nutilisant le 'Joyau de l'Abysse' qui se trouve\ndans les 'Objets', vous pouvez voyager entre<br>Astoltia et le Monde des Demons.<color_white>"
+    "203490": {
+        "「な……なぜ　母上が　そのことを \n　知っているのですか……？": "Po... Pourquoi ma mere est-elle au courant de\ncela... ?"
     },
-    "238828": {
-        "<color_yellow>さらに　魔界で訪れた場所が　登録されるほか\n各地にある『アビスゲート』を　しらべることで\nそこを　行き先として　登録できます。<color_white>": "<color_yellow>De plus, les endroits que vous\navez visites dans le monde demoniaque seront\nenregistres. Vous pouvez egalement enregistrer<br>ces lieux comme destinations en explorant les\nAbyss Gate disperses a travers le\nmonde.<color_white>"
+    "203491": {
+        "「お前が　ずっと　このコンパスに\n　執着していたのは　知っているぞ。\n　以前　その男からもらった　宝物なんだろう？": "Je sais que tu t'es toujours accroche a cette\nboussole. C'est un tresor que tu as recu de\ncet homme, n'est-ce pas ?"
     },
-    "238830": {
-        "<color_yellow>魔界では　屋根のある場所でも　使えます。\nまた『元の世界へ戻る』を選ぶと　あなたにとって\n最もゆかりのある場所へと　戻ります。<color_white>": "<color_yellow>Dans le monde demoniaque, vous\npouvez l'utiliser meme dans des endroits\ncouverts. En choisissant Retourner dans le<br>monde d'origine, vous retournerez a l'endroit\nqui vous est le plus familier.<color_white>"
+    "203492": {
+        "「あの日　ユシュカが　突然　国を去ったのは \n　わらわが追放したからよ。お前によくない影響を\n　与えていると　知ったからね。": "Ce jour-la, si Yushka a soudainement quitte le\npays, c'est parce que je l'ai exile. J'ai\nrealise qu'il avait une mauvaise influence sur<br>toi."
     },
-    "238832": {
-        "<color_yellow>なお　アビスジュエルの追加により\n『エテーネルキューブ』は\nルーラストーンのメニュー内に　移動されました。<color_white>": "<color_yellow>En raison de l'ajout de l'Abyss\nJewel, l'Ethenel Cube a ete deplace dans le\nmenu Zoomstone.<color_white>"
+    "203493": {
+        "「まさか……じゃあ　僕の手紙も……？": "Impossible... Alors, ma lettre aussi... ?"
     },
-    "242110": {
-        "「あはは　あはははは～♪": "Ah ah ah ah ah~♪"
+    "203494": {
+        "「お前は　その雑種と　共に行きたいなどと\n　バカなことを　願っていたようだが\n　あの手紙は　わらわが　にぎり潰した。": "Il semble que tu souhaitais faire ce choix\ninsense de partir avec ce batard. Toutefois,\nsache que j'ai ecrase cette lettre."
     },
-    "246898": {
-        "……<cs_pchero>は　水の中に落ちた　赤い宝石を\nおそるおそる　拾いあげた。": "......<cs_pchero> ramassa avec precaution le\nRubis Royal tombe dans l'eau."
+    "203495": {
+        "「あの時の行き違いは　あんたのせいだったか。 \n　……どうせ　そんなことだろうとは\n　思っていたがな。": "Alors, c'etait de ta faute, ce malentendu a ce\nmoment-la. ...Je me doutais bien que ce serait\nquelque chose du genre."
     },
-    "246899": {
-        "<pc>は　ユシュカに\n自分の名前を　伝えた！": "<pc> a revele son nom a Yushka !"
+    "203496": {
+        "「こんな　どこの馬の骨とも　わからぬ男と\n　アストルティアなぞに行って　何になる？": "Que penses-tu que cela va donner d'aller a\nAstoltia avec un homme dont on ne sait rien ?"
     },
-    "246900": {
-        "……しかし　しばらく　見つめていたら\n不思議と　文字の意味が　わかるようになった。\n<pc>は　刻まれた文字を　読んだ。": "Cependant, apres l'avoir observe un moment,\nj'ai etrangement commence a comprendre le sens\ndes mots. <pc> a lu les mots graves."
+    "203497": {
+        "「まず　大魔王となって　魔界の統一を果たし \n　その後で　堂々と　アストルティアに\n　攻め入れば　よかろうものを。": "Tout d'abord, en devenant le Grand Roi Demon\net en unifiant le monde des demons, ensuite,\nil serait preferable d'attaquer Astoltia avec<br>assurance."
     },
-    "246901": {
-        "「……じつは　ふたりほど　心当たりがある。": "En fait... j'ai deux personnes en tete."
+    "203498": {
+        "「だというのに　お前は今も　くだらぬ夢に \n　うつつを抜かし　大魔王となる覚悟も\n　持てないまま……。": "Et pourtant, meme maintenant, tu es toujours\nperdu dans des reves futiles, incapable de\nprendre la resolution de devenir le Grand Roi<br>Demon..."
     },
-    "246902": {
-        "「……そこで　俺の出番というわけだ。": "......C'est la que j'entre en jeu."
+    "203499": {
+        "「本当に　甘ったれた子……。 \n　そろそろ　母の我慢も　限界ぞよ。\n　いいかげん　目をお覚ましッ！": "Vraiment, tu es un enfant trop gate... La\npatience de ta mere a des limites, tu sais. Il\nest temps de te reveiller !"
     },
-    "247720": {
-        "「ボクたちの目的は　そこの彼が\n　気球に乗る前に　置いてってくれた\n　荷物の中に　あったんだよね～♪": "Notre objectif se trouvait dans les bagages\nque ce jeune homme a laisses avant de monter\ndans le Balloon, n'est-ce pas ? ♪"
+    "203500": {
+        "「やめろ……！": "Arrete... !"
     },
-    "247721": {
-        "「そうだ！　ルシェンダさま。\n　彼の荷物は　無事ですか？\n　ピュージュが　狙っていたようでしたが……。": "Ah, c'est vrai ! Lushenda-sama. Ses affaires\nsont-elles en securite ? Il semblait que Pyuju\nles convoitait..."
+    "203501": {
+        "「お前は　この母からは　逃れられぬ！ \n　伝統あるゼクレスの　跡継ぎとなることだけが\n　お前の存在理由と　思い知るがいいわ！": "Tu ne peux echapper a ta mere ! La seule\nraison de ton existence est de devenir\nl'heritier legitime de la noble lignee de<br>Zekres. Il est temps que tu le comprennes !"
     },
-    "247722": {
-        "「ねえ！　いいこと　思いついたよ～♪\n　彼のむくろを　この儀式の　供物にしよう♪": "He, j'ai une super idee ! Faisons de son\ncadavre l'offrande pour ce rituel !"
+    "203502": {
+        "「うわああああああっ！！\n　よくも……よくも！！": "Ouwaaaahhh !! Comment as-tu ose... comment\nas-tu ose !!"
     },
-    "255012": {
-        "「アストルティアを　我らが掌中に！": "Astoltia dans le creux de nos mains !"
+    "203503": {
+        "「アスバル　待て！": "Asbal, attends !"
+    },
+    "203504": {
+        "「ゴ……ロオォズゥウウウウウゥ！！！！！": "Gorozeuuu !!!"
+    },
+    "203505": {
+        "「その気概を　他国にぶつけてくれれば \n　すぐにでも　我がゼクレス魔導国が\n　魔界を　征服できようものを……。": "Si seulement cette determination pouvait etre\ndirigee contre d'autres nations, Zechres\npourrait conquerir le monde demoniaque en un<br>rien de temps..."
+    },
+    "203506": {
+        "「まったく　聞き分けのないこと……。 \n　お前は　わらわの言うことに\n　逆らえないというのが　まだわからぬとは……": "Quelle obstination... Il semble que tu ne\ncomprennes toujours pas que tu ne peux pas\nt'opposer a moi..."
+    },
+    "203507": {
+        "「う……あ……！！！\n　やめろ……！": "Ugh... Ah...!!! Arrete...!"
+    },
+    "203508": {
+        "「ちょうどいい。この化け物を使って\n　邪魔者どもを　始末してもらおう。": "Parfait. Je vais utiliser ce monstre pour me\ndebarrasser de ces geneurs."
+    },
+    "203509": {
+        "「さあ　アスバル！\n　こやつらを　八つ裂きにしろ！": "Allez, Asbal ! Reduis-les en pieces !"
+    },
+    "203510": {
+        "「あああああっ！！": "Ahhhh !!"
+    },
+    "203511": {
+        "「あいつ　何か術を　かけられているのか！？": "Cet homme est-il sous l'emprise d'un sortilege\n?!"
+    },
+    "203512": {
+        "「ひとまず　こいつを　なんとかするぞ！\n　アスバルのことは　その後だ！！": "D'abord, occupons-nous de ca ! Nous nous\noccuperons d'Asbal ensuite !!"
+    },
+    "203513": {
+        "「オォォオオオ！！！！！": "Ooohhhh !!!!!"
+    },
+    "203514": {
+        "「ひとまず　こいつを　なんとかするぞ！\n　アスバルのことは　その後だ！！": "D'abord, occupons-nous de ca ! Nous nous\noccuperons d'Asbal ensuite !!"
+    },
+    "203515": {
+        "「ヨ……グモ……！\n　ヨ……グ……モォォォォォオ！！": "Yo... Gumo...! Yo... Gu... Mooooo !!"
+    },
+    "203516": {
+        "「ユ……ルサァアァァ………………！！": "Je... ne te pardonnerai jamais... !!"
+    },
+    "203517": {
+        "「チッ……しぶといことよ。": "Tch... Quelle tenacite."
+    },
+    "203518": {
+        "「だが　おぼえておくが　よいぞ。 \n　ゼクレス王家の　後継者たるアスバルに\n　おのれの自由などない。": "Mais souviens-toi bien de ceci. En tant\nqu'heritier de la famille royale de Zekres,\nAsbal n'a pas de liberte propre."
+    },
+    "203519": {
+        "「わらわの指図ひとつで　アスバルは\n　何度でも　お前たちに　牙をむくだろう！\n　あきらめて　この国から　出ていくがいい！": "Au moindre de mes ordres, Asbal se retournera\ncontre vous encore et encore avec ses crocs\naceres ! Abandonnez et quittez ce pays !"
+    },
+    "203520": {
+        "「アスバル！　大丈夫か！？": "Asbal ! Ca va ?!"
+    },
+    "203521": {
+        "「やはり　母は　僕を…………。": "Ma mere m'a vraiment..."
+    },
+    "203522": {
+        "「ユシュカ……お前の望みは　わかってるさ。\n　ファラザードからの書状に　書いてあった通り\n　次の大魔王を　決めたいんだろ。": "Yushka... Je comprends ton souhait. Comme cela\netait ecrit dans la lettre de Pharasard, tu\nveux choisir le prochain Grand Roi Demon,<br>n'est-ce pas ?"
+    },
+    "203523": {
+        "「……いいだろう。\n　望み通り　魔仙卿のもとに　行ってやるよ。": "Tres bien. Je vais aller voir The Oracle,\ncomme tu le souhaites."
+    },
+    "203524": {
+        "「だが　それは　お前のためじゃない。 \n　もちろん　母のためでも……。": "Mais ce n'est pas pour toi. Ce n'est pas non\nplus pour ta mere..."
+    },
+    "203525": {
+        "「僕は　大魔王になって……母の支配を破り\n　望みをすべて　かなえてみせる。": "Je deviendrai le Grand Roi Demon... Je\nbriserai le joug de ma mere et realiserai tous\nmes desirs."
+    },
+    "203526": {
+        "「……アストルティアを旅するのは　その後だ。": "... Voyager a travers Astoltia viendra apres\ncela."
+    },
+    "203527": {
+        "「……わかった。\n　待ってるぜ　アスバル。": "...D'accord. Je t'attendrai, Asbal."
+    },
+    "203528": {
+        "「……よし。\n　これで　この国でやるべきことは終わった。\n　お前も　思ったより役に立ってくれたな。": "…Bien. Ce que nous devions accomplir dans ce\npays est termine. Tu as ete plus utile que je\nne le pensais."
+    },
+    "203529": {
+        "「これは　ほうびだ　受け取れ。": "Voici une recompense, prends-la."
+    },
+    "203530": {
+        "「もう　この国に用はないな。\n　次は　いよいよ　俺の仕える国\n　ファラザードの王に　会わせてやる。": "Je n'ai plus rien a faire dans ce pays.\nEnsuite, je te presenterai enfin au roi de\nPharasard, le pays que je sers."
+    },
+    "203531": {
+        "「ファラザードは　この国を出て \n　ゲルヘナ幻野を横断して　南に行った\n　ジャリムバハ砂漠にある　新興国だ。": "Farazard est un jeune pays situe au sud, apres\navoir quitte ce royaume, traverse le Gerhena\nField, et atteint le desert de Jyarimbaha."
+    },
+    "203532": {
+        "「……行くぞ　出発だ。": "...Allons-y, c'est le depart."
+    },
+    "203533": {
+        "「次は　ゲルヘナ幻野の　西にある \n　魔王ヴァレリアの　治める国\n　バルディスタ要塞に　向かうぞ。": "Ensuite, nous nous dirigerons vers Fortress\nValdista, le pays gouverne par la Reine Demon\nValeria, situe a l'ouest de Gerhena Field."
+    },
+    "203534": {
+        "「あの国の魔王も　ひと筋縄ではいかなそうだが \n　まあ　とりあえず行ってみるしかないな。": "Ce seigneur demon de ce pays ne semble pas\netre facile a vaincre, mais bon, il n'y a pas\nd'autre choix que d'y aller pour le moment."
+    },
+    "203535": {
+        "「……行くぞ　出発だ。": "...Allons-y, c'est le depart."
+    },
+    "229054": {
+        "「わらわが　追放してくれたのに　\n　しょうこりもなく　舞い戻るとは……。": "Moi qui t'avais banni, te voila de retour sans\nla moindre honte..."
+    },
+    "239779": {
+        "「なあ　あんた　ちょっといいか？": "He, toi, tu as un moment ?"
+    },
+    "250733": {
+        "「はあああああっ！": "Haahhh !"
     }
 }
