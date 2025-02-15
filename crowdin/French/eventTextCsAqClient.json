@@ -1,107 +1,170 @@
 {
-    "16059": {
-        "「先に　着いていたか。<pc>。": "Tu es deja arrive, <pc>."
+    "16094": {
+        "「……む？\n　そこにいるのは　<pc>ではないか。": "…Hm? Ne serait-ce pas <pc> qui est la ?"
     },
-    "16060": {
-        "「では　今回の魔物狩りは\n　このメンバーで　行うこととしよう。": "Alors, cette fois, nous partirons chasser les\nmonstres avec cette equipe."
+    "16095": {
+        "「……ふむ。ここは　ひとつ\n　<pc>に　頼むとしよう。\n　それでよいな　スピンドル？": "Hmm. Dans ce cas, confions cette tache a\n<pc>. Cela te convient-il, Spindle ?"
     },
-    "16061": {
-        "「グロスナー王　直々の　お召しにより\n　ガートラントの華　このスピンドルも\n　緊急参戦いたしますぞ！": "Sur l'ordre direct de King Grossner, moi,\nSpindle, la fleur de Garro LMP, participe\nd'urgence au combat !"
+    "16096": {
+        "「陛下の思し召しのままに……。\n　それでは　私は　負傷兵たちの様子を\n　見てくるとしましょう。": "Comme le desire Sa Majeste... Dans ce cas, je\nvais aller voir comment se portent les soldats\nblesses."
     },
-    "16062": {
-        "「自分は　いつ　いかなるときも\n　グロスナー王のそばにあって\n　護衛の任を　果たすのみであります。": "Je suis toujours aux cotes du Roi Grossner\npour accomplir mon devoir de garde du corps."
+    "16097": {
+        "「よく来てくれた　<pc>。\n　じつは　ちょっとした問題が起こっていてな。\n　お前さんに　頼みたいことがあるのだ。": "Merci d'etre venu, <pc>. En fait, il y a\nun petit probleme qui s'est produit. J'ai\nquelque chose a te demander."
     },
-    "16063": {
-        "「私　荒っぽいのは　苦手だと言ってるのに\n　無理矢理　参加させられてしまいました……。": "J'ai dit que je n'etais pas douee pour les\nchoses brutales, mais on m'a forcee a\nparticiper..."
+    "16098": {
+        "「マグナスよ。\n　くわしい説明を　してやってくれ。": "Magnus, je te prie de leur donner une\nexplication detaillee."
     },
-    "16064": {
-        "「ボヤくな　ボヤくな。\n　城に　閉じこもってばかりいないで\n　たまには　身体を動かすのも　いいものだぞ。": "Ne te plains pas, ne te plains pas. Ca fait du\nbien de bouger un peu de temps en temps,\nplutot que de rester toujours enferme dans le<br>chateau."
+    "16099": {
+        "「<pc>さんは　ガズバランの牙のことを\n　ご存知でしたな。先日の魔物狩りの際に\n　王を狙った　不届きな秘密結社のことです。": "<pc>-san etait au courant des crocs du\nGazba LMP. C'est cette societe secrete sans\nscrupules qui a vise le roi lors de la chasse<br>aux monstres de l'autre jour."
     },
-    "16065": {
-        "「さて　今回の獲物だが……\n　このザマ峠の　博愛の碑辺りに　出現する\n　<%sEV_QUE_NAME0>にしようと思う。": "さて、今回の獲物だが このZama\nPassの博愛の碑辺りに出現する<%sEV_QUE_NAME0>にしようと思う"
+    "16100": {
+        "「私は　あれから　連中のアジトを調べだし\n　一網打尽に　捕らえるべく　その洞くつに\n　精鋭部隊の一団を　送り込んだのです。": "Depuis lors, j'ai enquete sur ces Horse\nMackerel et j'ai envoye une unite d'elite dans\nleur caverne pour les capturer tous d'un coup."
     },
-    "16066": {
-        "「だが　普通に倒すだけでは　つまらんからな。\n　ひとつ　競争することにしようか。\n　優勝者には　わしから　ほうびを取らせよう。": "Mais simplement le vaincre serait ennuyeux.\nPourquoi ne pas faire une petite competition ?\nJe recompenserai le vainqueur."
+    "16101": {
+        "「しかし　兵士たちが　踏み込んでも\n　洞くつ内に　ヤツらの姿はなく\n　代わりに　多数の魔物に　襲われたのです。": "Cependant, lorsque les soldats ont penetre\ndans la grotte, ils n'ont trouve aucune trace\nde ces individus. A la place, ils ont ete<br>attaques par de nombreuses creatures\nmonstrueuses."
     },
-    "16067": {
-        "「<%sEV_QUE_NAME0>が　よく落とす\n　地竜のツノ。これを　いちばん早く\n　持ってきた者を　優勝としようぞ！": "<%sEV_QUE_NAME0> fait souvent tomber la Corne\nde Dragon de Terre. Celui qui l'apportera le\nplus rapidement sera declare vainqueur !"
+    "16102": {
+        "「こちらの不意打ちのはずが　ガズバランの牙は\n　知っていたかのように　ワナを張っていました。\n　完全に　してやられたのです。": "Nous devions prendre GazbaLMP par surprise,\nmais c'est comme s'il etait au courant et\navait tendu un piege. Nous avons ete<br>completement pris au depourvu."
     },
-    "16068": {
-        "「それなら　審判は　私が　引き受けましょう。\n　地竜のツノを　手に入れた方は　\n　私のところまで　持ってきてください。": "Dans ce cas, je prendrai le role du juge. La\npersonne qui obtiendra le Earth Dragon Horn\ndevra me l'apporter."
+    "16103": {
+        "「思いがけない襲撃に　兵士たちは　総崩れ。\n　ほとんどの兵士は　なんとか　脱出しましたが\n　今も　２名の兵士が　取り残されています。": "Une attaque inattendue a seme la panique parmi\nles soldats. La plupart d'entre eux ont reussi\na s'echapper, mais deux soldats sont toujours<br>pris au piege."
     },
-    "16069": {
-        "「では　今から　狩りの開始じゃ！\n　皆　ケガなどせぬよう　気をつけて\n　ハンティングするのじゃぞ！": "Alors, la chasse commence maintenant ! Faites\nattention a ne pas vous blesser et chassez\nprudemment, tout le monde !"
+    "16104": {
+        "「すぐにも　彼らの救出に向かいたいのですが\n　我が軍が受けたダメージも　深刻でして\n　助けにいこうにも……という状況なのです。": "Je voudrais immediatement partir a leur\nsecours, mais notre armee a egalement subi des\ndegats serieux, et nous sommes dans une<br>situation ou il est difficile d'aller les\naider..."
     },
-    "16070": {
-        "「き　貴様たちっ　何者だっ！？": "Qu- Qui etes-vous donc !?"
+    "16105": {
+        "「そこでだ　<pc>よ。\n　お前さんに　この２名の兵士の救出を\n　頼みたいというわけじゃ。": "C'est pourquoi, <pc>. Je voudrais te\nconfier la mission de sauver ces deux soldats."
     },
-    "16071": {
-        "「今のは　グロスナー王の声っ！？": "C'etait la voix de King Grossner ?!"
+    "16106": {
+        "「ガズバランの牙のアジトは　グレン領西の\n　南西にある　グレゴールの洞くつじゃ。\n　どうか　引き受けてはくれまいか？": "Les crocs du Gazba LMP se trouvent dans le\nmaquereau de la grotte de Gregor, au sud-ouest\nde Glen West. Pourriez-vous accepter cette<br>mission ?"
     },
-    "16072": {
-        "「大丈夫か　リッグ？": "Ca va, Rigg ?"
+    "16107": {
+        "「さすがは　<pc>じゃ。\n　お前さんなら　引き受けてくれると\n　信じていたぞ！": "Comme attendu de <pc>. Je savais que tu\naccepterais !"
     },
-    "16073": {
-        "「ぐうう……。": "Grrr..."
+    "16108": {
+        "「取り残された兵士たちは　今も\n　暗い洞くつで　助けを待っているはず。\n　一刻も早く　救出してやってくれ。": "Les soldats laisses derriere doivent encore\nattendre de l'aide dans la sombre caverne.\nSauve-les au plus vite."
     },
-    "16074": {
-        "「……貴様ら。わしを　ガートラント国王\n　グロスナーと知っての　ろうぜきかっ！？": "Vous, miserables ! Savez-vous que je suis le\nroi de GarトLMPト, Grosnare !?"
+    "16109": {
+        "「さすがは　<pc>。\n　……と言いたいところだが　どうやら\n　お前さん　予定が　いっぱいのようじゃな。": "Comme on pouvait s'y attendre de <pc>.\n... C'est ce que je voudrais dire, mais il\nsemble que tu aies un emploi du temps bien<br>charge."
     },
-    "16075": {
-        "「もちろん　よーく　ご存知さ。\n　オーガという種族全体を　堕落させる\n　罪深き　ガートラント王家のグロスナー王。": "Bien sur, je suis parfaitement au courant. Le\npecheur King Grossner de la famille royale\nGarトLMPト qui a corrompu toute la race Ogre."
+    "16110": {
+        "「２名の兵士の命が　かかっておるのじゃ！\n　できるだけ早く　頼まれごとを片付けて\n　また　ここに来てくれよ！": "La vie de deux soldats est en jeu ! Accomplis\ncette mission aussi vite que possible et\nreviens ici !"
     },
-    "16076": {
-        "「我らは　ガズバランの牙！\n　オーガの未来を憂う　秘密結社よ。": "Nous sommes les crocs du GazubaLMP ! Une\nsociete secrete preoccupee par l'avenir des\nOgre."
+    "16111": {
+        "「<pc>ともあろう者の言葉とは\n　とても　思えんな。": "Il est difficile de croire que ces mots\nviennent de quelqu'un comme <pc>."
     },
-    "16077": {
-        "「ガズバランの……だと？": "Le Gazba LMP... quoi ?"
+    "16112": {
+        "「おくびょう風に吹かれるとは……\n　呪術師マリーンを倒した　あの勇敢な若者は\n　どこへ　行ってしまったのじゃろうか？": "Etre emporte par un vent de timidite... Ou\ndonc est passe ce jeune courageux qui a vaincu\nMonstrous Malynn ?"
     },
-    "16078": {
-        "「その生涯を　ひたすら修行に費やす\n　オーガ本来の生き方を　取り戻すため\n　ジャマ者の陛下には　ご退場願いましょう。": "Consacrons notre vie entiere a l'entrainement,\nafin de retrouver le mode de vie originel des\nOgres. Demandons donc a Sa Majeste, qui nous<br>entrave, de se retirer."
+    "16113": {
+        "「た……助けが　来たのか？": "Un... un secours est arrive ?"
     },
-    "16079": {
-        "「グロスナー王　ご無事ですかーっ！！": "King Grossner, etes-vous en securite ?!!"
+    "16114": {
+        "「あ…あなたは……！？\n　この間の……　マリーン事件を解決した\n　ガートラントの英雄　<pc>さん！": "Ah... Vous etes... !? Le heros de Gart LMPt\nqui a resolu l'affaire Mariin l'autre jour,\n<pc>-san !"
     },
-    "16080": {
-        "<center>待て……。": "Attends..."
+    "16115": {
+        "「さすがは……グロスナー王。\n　最高の助っ人を……送ってくれたワケだ。": "Comme on pouvait s'y attendre... King\nGrossner. Il nous a envoye le meilleur renfort\npossible."
     },
-    "16081": {
-        "<center>あの後ろにいる　旅人。\nヤツには　お前たちでは勝てぬ。\n今は　退け……。": "Le voyageur derriere vous. Vous ne pouvez pas\nle vaincre. Retirez-vous pour l'instant..."
+    "16116": {
+        "「……<pc>さん。\n　よかったら　どくけしそうと　まんげつそうを\n　ゆずっていただけないだろうか？": "......<pc>-san. Pourriez-vous, si cela\nne vous derange pas, me ceder une Herbe\nAntidote et un Bulbe de Clair de Lune ?"
     },
-    "16082": {
-        "「上からの命令だ。退くぞ！": "C'est un ordre d'en haut. On se retire !"
+    "16117": {
+        "「私は　毒に冒されて　これ以上　歩けないし\n　ジブラは　身体がマヒして……動けないのです。": "Je suis empoisonne et je ne peux plus marcher,\net Jibura est paralyse... il ne peut pas\nbouger."
     },
-    "16083": {
-        "グロスナー王を救った　<pc>たちは\nケガを負った　兵士リッグを運んで\nザマ烽火台まで　戻った。": "Les <pc>, ayant sauve le Roi Grossner,\ntransporterent le soldat blesse Rigg jusqu'a\nla tour de guet de Zama."
+    "16118": {
+        "兵士たちに　どくけしそうと　\nまんげつそうを　渡しますか？<yesno><close>": "Souhaitez-vous donner l'Antidotal Herb et le\nBulbe de Moonwort aux soldats ?<yesno><close>"
     },
-    "16084": {
-        "参謀マグナスや　スピンドル兵士長も合流し\n魔物狩りは　終了となった。": "Le stratege Magnus et le capitaine Spindle se\nsont egalement joints a nous, et la chasse aux\nmonstres a pris fin."
+    "16119": {
+        "「助けにきてもらって……悪いが\n　オレたち　このままじゃ動くことも\n　ままならないんだ……。": "Je suis desole de te demander de l'aide...\nMais dans notre etat actuel, nous ne pouvons\nmeme pas bouger..."
     },
-    "16085": {
-        "「ガズバランの牙……\n　そのような　危険な秘密結社が\n　ガートラント王家を狙っていたとは……。": "Les crocs de Gazba LMP... Je ne peux croire\nqu'une societe secrete aussi dangereuse visait\nla famille royale Garto LMP..."
+    "16120": {
+        "「もし　持ってないなら　両方そろえてから\n　もう１回　ここまで　来てくれよ。": "Si tu ne les as pas, reviens ici une fois que\ntu auras les deux."
     },
-    "16086": {
-        "「その場にいれば　このスピンドルが\n　けちらしてやりましたものを……\n　無念であります。": "Si j'avais ete present, ce Spindle aurait\ndisperse ceux qui s'opposaient... Quelle\nfrustration."
+    "16121": {
+        "<pc>は　兵士たちに\nどくけしそうと　まんげつそうを　渡した！": "<pc> a donne une Herbe Antidote et un\nBulbe de Lune aux soldats !"
     },
-    "16087": {
-        "「ともかく　大事なくて　よかった。\n　リッグのケガも　たいしたことがなくて\n　ひと安心じゃ。": "Quoi qu'il en soit, je suis soulage qu'il n'y\nait rien de grave. La blessure de Rigg n'est\npas non plus tres serieuse, c'est un<br>soulagement."
+    "16122": {
+        "「おお……　ありがてえ！": "Oh... Merci beaucoup !"
     },
-    "16088": {
-        "「ところで　魔物狩り競争は　どうなった？\n　わしは　ウヤムヤにするつもりは　ないぞ。": "Au fait, qu'en est-il de la competition de\nchasse aux monstres ? Je n'ai pas l'intention\nde laisser ca dans le flou."
+    "16123": {
+        "「毒さえ……抜けてくれれば……。": "Si seulement... le poison pouvait etre\nneutralise..."
     },
-    "16089": {
-        "「それでしたら　１位は　グロスナー王。\n　２位は　<pc>さんです。\n　他の方は　地竜のツノを持っていませんな。": "Si c'est le cas, le premier est King Grossner.\nLe deuxieme est <pc>-san. Les autres\nn'ont pas de Corne de Dragon Terrestre."
+    "16124": {
+        "デオルドは　どくけしそうを使い\nジブラは　まんげつそうを使って　回復した！": "Deold utilise une Herbe Antidote et Jibura\nutilise un Bulbe de Lune pour se retablir !"
     },
-    "16090": {
-        "「……フム。そうか　わしの優勝か！\n　しかし　わしが　賞品をもらっても　仕方ない。\n　優勝の名誉だけを　いただくとしよう。": "...Hmm. Je vois, c'est ma victoire !\nCependant, il ne serait pas approprie que je\nrecoive le prix. Je vais me contenter de<br>l'honneur de la victoire."
+    "16125": {
+        "「ああ。すっかり　回復したぜ！\n　これなら　あとは　自力で脱出できそうだ。": "Ah, je suis completement retabli ! Avec ca, je\npense pouvoir m'echapper par mes propres\nmoyens."
     },
-    "16091": {
-        "「というわけで　優勝賞品は　２位である\n　<pc>に　贈るとしよう。\n　さあ　ありがたく　受け取るがよいぞ。": "Et donc, le prix du vainqueur sera offert a\n<pc> qui est arrive en deuxieme\nposition. Allez, accepte-le avec gratitude."
+    "16126": {
+        "「ありがとうございます　<pc>さん。\n　私たちは　もう　大丈夫です！": "Merci beaucoup, <pc>-san. Nous allons\nbien maintenant !"
     },
-    "16092": {
-        "「今回の魔物狩りは　これで終了とする。\n　思いがけぬトラブルも　起こったが\n　ひさしぶりで　なかなか　楽しめたぞ。": "Cette chasse aux monstres se termine ici. Bien\nqu'il y ait eu des imprevus, cela faisait\nlongtemps et je me suis bien amuse."
+    "16127": {
+        "「ガートラント城までは　ふたりで戻れますので\n　<pc>さんも　お気をつけて。\n　それでは　お先に失礼しますね！": "Nous pouvons retourner au chateau de Gartlant\na deux. <pc>-san, prenez soin de vous\naussi. Dans ce cas, je vous prie de m'excuser<br>de partir en premier !"
     },
-    "16093": {
-        "「では　わしらは　城に戻るとしよう！\n　<pc>　ジャンガ　ご苦労であった。": "Alors, retournons au chateau ! <pc>,\nJanga, bon travail."
+    "16128": {
+        "<pc>は　どくけしそうしか\n持っていなかった。": "<pc> n'avait qu'une Herbe Antidote."
+    },
+    "16129": {
+        "「そう……か。相棒とは　ここまで\n　はげまし合いながら　やってきたんだ……。\n　一方だけが　助かるつもりはねえ。": "Je vois... Nous sommes arrives jusqu'ici en\nnous encourageant mutuellement, partenaire...\nJe n'ai pas l'intention de me sauver tout<br>seul."
+    },
+    "16130": {
+        "「悪いが　両方そろえてから\n　もう１回　ここまで　来てくれよ。": "Je suis desole, mais reviens ici avec les deux\nobjets en main, s'il te plait."
+    },
+    "16131": {
+        "<pc>は　どくけしそうも\nまんげつそうも　持っていなかった。": "<pc> n'avait ni Herbe Antidote ni Bulbe\nde Lune."
+    },
+    "16132": {
+        "「助けにきてもらって……悪いが\n　オレたち　このままじゃ動くことも\n　ままならないんだよ……。": "Merci d'etre venu nous aider... mais desole,\ndans notre etat actuel, nous ne pouvons pas\nbouger..."
+    },
+    "16133": {
+        "「どくけしそうと　まんげつそうを\n　両方そろえてから\n　もう１回　ここまで　来てくれ。": "Reviens ici une fois que tu auras rassemble a\nla fois l'Antidotal Herb et le Moonwort Bulb."
+    },
+    "16134": {
+        "「よお……あんたか。\n　生きてるうちに　また会えて　うれしいぜ。": "Salut... C'est toi. Je suis content de te\nrevoir tant que je suis en vie."
+    },
+    "16135": {
+        "「……<pc>さん。どくけしそうと\n　まんげつそうは……　手に入りましたか？": "......<pc>-san. Avez-vous trouve\nl'Antidotal Herb et le Moonwort Bulb ?"
+    },
+    "16136": {
+        "「おお　帰ったか　<pc>！\n　今　ちょうど　ジブラと　デオルドから\n　報告を受けていたところだ。": "Oh, te voila de retour, <pc> ! Je\nrecevais justement un rapport de la part de\nJibura et Deold."
+    },
+    "16137": {
+        "「我々が　こうして無事　帰ってこれたのは\n　すべて　<pc>さんのおかげです。": "Nous devons notre retour sain et sauf a\n<pc>-san."
+    },
+    "16138": {
+        "「無事の帰還　なによりであった。\n　下がってよいぞ　ジブラ。デオルド。": "Le retour sain et sauf est ce qui compte le\nplus. Vous pouvez vous retirer, Jibura. Deold."
+    },
+    "16139": {
+        "「ハッ！！": "Ha !!"
+    },
+    "16140": {
+        "「ふたりには　充分な休養を　とらせましょう。": "Faisons en sorte que vous deux preniez\nsuffisamment de repos."
+    },
+    "16141": {
+        "「よくやってくれた　<pc>。\n　お前のおかげで　貴重な兵士たちの命が\n　失われずに　すんだのだ。": "Tu as fait du bon travail, <pc>. Grace a\ntoi, la vie de nos precieux soldats n'a pas\nete perdue."
+    },
+    "16142": {
+        "「ガートラントの王として　礼を言おう。\n　それと　ほうびもな……。\n　さあ　これを　受け取ってくれ！": "En tant que roi de Gar et LMP, je tiens a te\nremercier. Et voici ta recompense... Allez,\nprends-la !"
+    },
+    "16143": {
+        "「兵士たちが　助かったのは　めでたいが……\n　これで　問題が　片付いたわけではない。\n　今後の対策を　考えねばならんの。": "Il est rejouissant que les soldats aient ete\nsauves, mais cela ne signifie pas que le\nprobleme est resolu. Nous devons reflechir aux<br>mesures a prendre a l'avenir."
+    },
+    "16144": {
+        "「ガズバランの牙……ですな。\n　ヤツら　どうやって　こちらの作戦を\n　知り得たのか……？": "Les crocs de Gazba LMP... n'est-ce pas.\nComment ont-ils pu decouvrir notre\nstrategie...?"
+    },
+    "16145": {
+        "「今回のことで　ガズバランの牙という組織が\n　油断ならぬ相手であることが　よくわかった。\n　……だが　ヤツらは　ひとつのミスを犯した。": "Avec cette affaire, il est clair que\nl'organisation connue sous le nom de GazbaLMP\nno Kiba est un adversaire redoutable.<br>...Cependant, ils ont commis une erreur."
+    },
+    "16146": {
+        "「それは　このガートラント国王　グロスナーを\n　本気にさせたことだ！": "Cela a vraiment motive le roi Grosner de Gar\nTolmp !"
+    },
+    "16147": {
+        "「……わしは　決して　ヤツらを許さぬ。\n　これは　わしと　ガズバランの牙との戦争だ！": "......Je ne pardonnerai jamais ces types.\nC'est une guerre entre moi et les crocs de\nGazbaLMP !"
+    },
+    "44975": {
+        "<pc>は　まんげつそうしか\n持っていなかった。": "<pc> n'avait qu'un Bulbe de Lune."
+    },
+    "114655": {
+        "どくけしそうは　周辺にいる　グールが落とし\nまんげつそうは　この洞くつの近くで\n採れるようだ。ふたつを　そろえよう！": "L'Herbe Antidote est lachee par le Ghoul qui\nrode dans les environs. Il semble que l'on\npuisse recolter le Bulbe de Moonwort pres de<br>cette caverne. Rassemblons les deux !"
     }
 }
