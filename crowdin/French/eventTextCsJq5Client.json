@@ -1,80 +1,191 @@
 {
-    "13556": {
-        "「ここが　あやしいってワケかい？": "Alors, c'est ici que ca devient suspect, hein\n?"
+    "19367": {
+        "「レーノス　ユウギリ嬢ちゃん……\n　すぐに　助けてやるからな。\n　あと　ちょっとだけ　待っててくれ！": "Renosu Yugiri-chan... Je vais te sauver tres\nbientot. Attends encore un peu, s'il te plait\n!"
     },
-    "13557": {
-        "「なるほど。アンタ　カンが　さえてるね。\n　確かに　お宝のにおいが　プンプンするよ。": "Je vois. Tu as vraiment un bon instinct. On\nsent clairement l'odeur du tresor ici."
+    "19368": {
+        "「よお　支部長のおっさん！\n　必殺技を覚えて　帰ってきたぜ！": "Yo, le chef de section, monsieur ! Je suis\nrevenu apres avoir appris une technique ultime\n!"
     },
-    "13558": {
-        "「よし！　それじゃ　今度は\n　あたいのカンを　見せつけてやろうかね。": "Bien ! Cette fois, je vais te montrer mon\ninstinct !"
+    "19369": {
+        "「……うむ。見事じゃ　<pc>！\n　今こそ　森の怒りを鎮める方法を\n　お前さんに　伝えようぞ。": "Hum. Bravo, <pc> ! Il est temps de te\ntransmettre la methode pour apaiser la colere\nde la foret."
     },
-    "13559": {
-        "「ここら辺に　ありそうな気が……。": "J'ai l'impression qu'il pourrait y en avoir\npar ici..."
+    "19370": {
+        "「森の怒りとは　モリナラ大森林の樹々に宿る\n　精霊たちの　ヒトへの怒りや　憎悪といった\n　負の感情が　引きおこすもの。": "Les Anger de la foret sont causes par les\nemotions negatives telles que la colere et la\nhaine des esprits residant dans les arbres de<br>la foret de Molinara envers les humains."
     },
-    "13560": {
-        "「よっしゃ！　見つけたよ！\n　お宝　ムーンダイヤモンド！": "Super ! Je l'ai trouve ! Le tresor, Moon\nDiamond !"
+    "19371": {
+        "「そして　今　その負の感情は集合し\n　モリナラ大森林の奥深く　緑の聖域にて\n　憎悪の化身とでもいうべき姿となっておる。": "Et maintenant, ces emotions negatives se sont\nrassemblees et, au coeur de la foret de\nMolinara, dans le Sanctuaire Vert, elles ont<br>pris la forme de ce qui pourrait etre appele\nune incarnation de la haine."
     },
-    "13561": {
-        "「待ちやがれーっ！": "Attends-moi !"
+    "19372": {
+        "「その名も　憎悪の精霊樹。\n　森の怒りを鎮めるには　こいつを\n　倒さなくてはならないのじゃ。": "Son nom est l'Arbre de la Haine. Pour apaiser\nla Colere de la foret, il faut vaincre cet\nennemi."
     },
-    "13562": {
-        "「その　お宝は　オレたちのもんだー！！\n　だまって　よこしやがれー！！\n　キッキキーーー！！！": "Ce tresor est a nous !! Donne-le-nous en\nsilence !! Kikiーーー !!!"
+    "19373": {
+        "「ただし　モリナラ大森林の中で\n　憎悪の精霊樹と　戦ったとしても\n　倒しきるのは　むずかしいじゃろう。": "Cependant, meme si vous combattez le Tree of\nHatred dans la Molinara Forest, il sera\ndifficile de le vaincre completement."
     },
-    "13563": {
-        "「あねごっ！！": "Anego !!"
+    "19374": {
+        "「なにしろ　向こうのテリトリー内じゃ。\n　不利となれば　相手は　お前さんを\n　どうとでもできるじゃろうからな。": "Apres tout, c'est dans leur territoire. S'ils\nont l'avantage, ils pourront te manipuler\ncomme ils le veulent."
     },
-    "13564": {
-        "「なんだい　こいつら！！\n　お宝は　渡さないよっ！！": "Qu'est-ce que c'est que ces types ?! Je ne\nvous laisserai pas prendre mon tresor !!"
+    "19375": {
+        "「それを防ぐには　妖精たちのポルカを使って\n　周りの精霊力を　味方につければよい。\n　さすれば　ヤツの自由には　なるまいよ。": "Pour eviter cela, utilisez la Polka des Fees\npour vous allier avec la puissance spirituelle\nenvironnante. Ainsi, il ne pourra pas agir a<br>sa guise."
     },
-    "13565": {
-        "「ダルルのあねごを　助けるんだ！\n　行くぞ　<cs_pchero>！": "Nous devons sauver l'ainee de Darul !\nAllons-y, <cs_pchero> !"
+    "19376": {
+        "「これが　森の怒りを鎮めるために\n　お前さんが　やるべきことの　すべてじゃ。": "C'est tout ce que tu dois faire pour apaiser\nla colere de la foret."
     },
-    "13566": {
-        "「やあ　<cs_pchero>。\n　心配しなくても　ムーンダイヤモンドは\n　まだ　この部屋にあるよ。": "Salut, <cs_pchero>. Ne t'inquiete pas, le Moon\nDiamond est encore dans cette piece."
+    "19377": {
+        "「すげえ！　……ダジャレなしでも \n　長いセリフ　言うことできたんだな。\n　おっさんのマジな気持ち　ビンビン伝わったぜ！": "Incroyable ! ... Meme sans jeu de mots, tu as\nreussi a dire un long discours. J'ai ressenti\na fond les vraies emotions de l'homme !"
     },
-    "13567": {
-        "「前回　魔物に襲われたとき\n　とっさに　ムーンダイヤモンドを\n　かくしておいたのさ。": "La derniere fois que nous avons ete attaques\npar des monstres, j'ai cache le diamant de la\nlune instinctivement."
+    "19378": {
+        "「あまり言ってくださるな　スピルどの。\n　いくら　わしでも　こんな時くらいは\n　ダジャレを　忘れますわい。": "Ne me flattez pas trop, Seigneur Spiel. Meme\nmoi, j'oublie mes jeux de mots dans des\nmoments comme celui-ci."
     },
-    "13568": {
-        "「ほらね　このとおりさ！": "Regarde, c'est exactement comme je te l'avais\ndit !"
+    "19379": {
+        "「……ゴホン！　さあ　選ばれし　レンジャーよ。\n　お前さんのチカラで　憎悪の精霊樹を倒し\n　モリナラの平和を　取りもどしてくれ！": "...Ahem ! Allez, valeureux Ranger. Avec ta\nforce, abats le Tree of Hatred et restaure la\npaix de Morinara !"
     },
-    "13569": {
-        "「待ちやがれーっ！": "Attends-moi !"
+    "19380": {
+        "「うむ！　では　後のことは　まかせたぞ。\n　精霊樹との戦いでは　妖精たちのポルカを\n　使うことを　忘れんようにな。": "Hum ! Je compte sur vous pour la suite. Lors\ndu combat contre l'Arbre des Esprits,\nn'oubliez pas d'utiliser la Polka des Fees."
     },
-    "13570": {
-        "「そんな所に　かくしてやがったのかー！！\n　だまって　そいつを　よこしやがれー！！\n　キッキキーーー！！！": "Tu l'avais cache ici, hein !! Allez,\ndonne-le-moi sans faire d'histoires !!\nKikikikiii !!!"
+    "19381": {
+        "「では　頼んだぞ……と思ったら\n　なんじゃ　その　頼まれごとの数は！？": "Eh bien, je compte sur vous... Mais qu'est-ce\nque c'est que ce nombre de requetes !?"
     },
-    "13571": {
-        "「あねごっ！！": "Anego !!"
+    "19382": {
+        "「そんなでは　この使命　まかせられんぞ！\n　ええい。さっさと　手を空けてくるのじゃ！": "Dans cet etat, je ne peux pas te confier cette\nmission ! Allez, depeche-toi de te liberer !"
     },
-    "13572": {
-        "「今度こそ　ダルルのあねごを　助けるんだ！\n　行くぞ　<cs_pchero>！": "Cette fois, nous allons sauver la grande soeur\nde Darul ! Allons-y, <cs_pchero> !"
+    "19383": {
+        "「この期におよんで　何をためらう？\n　ユウギリも　レーノスも　お前さんの助けを\n　待っておるはずじゃ！": "Dans un moment pareil, pourquoi hesiter ?\nYugiri et Renosu attendent surement ton aide !"
     },
-    "13573": {
-        "「……キキーッ！！\n　オレたちに　たてつくとは　バカなヤツめっ！\n　それっ　ヘッドに　ご報告だっ！": "Kikiーッ！！ Nous defier, quel imbecile ! Allez,\nrapportons cela au chef !"
+    "19384": {
+        "「わしからも　頼む！\n　どうか　モリナラ大森林の怒りを鎮めて\n　じんめんじゅになった　皆を救ってくれい！": "Je te le demande aussi ! S'il te plait, apaise\nla colere de la foret de Molinara et sauve\ntous ceux qui ont ete transformes en Treeface<br>!"
     },
-    "13574": {
-        "「<cs_pchero>！　アンタ　強いんだねえ！\n　やっぱ　あたいの目に\n　くるいは　なかったようだよ！": "<cs_pchero> ! Tu es vraiment fort, hein ! Il\nsemblerait que mon intuition ne m'ait pas\ntrompee !"
+    "19385": {
+        "「……なぜだ？　ヒトよ。\n　なぜ　我らの怒りにふれて　無事でいられる？": "Pourquoi donc ? Humain. Pourquoi peux-tu\ntoucher notre colere et en sortir indemne ?"
     },
-    "13575": {
-        "「ダルルのあねご。": "La grande soeur de Darul."
+    "19386": {
+        "「こいつが　憎悪の精霊樹か。\n　かーっ！　見るからに　陰気そうなヤツだな。\n　同じ精霊として　恥ずかしいぜ！": "Alors, c'est ca, l'Arbre de la Haine ? Pfff !\nRien qu'a le voir, il a l'air lugubre. Comme\nc'est embarrassant pour un esprit comme moi !"
     },
-    "13576": {
-        "「さっきの魔物ですが……。\n　あいつら　つむじ風の旅団かもしれませんぜ。": "Les monstres de tout a l'heure... ils\npourraient bien etre de la Brigade du\nTourbillon."
+    "19387": {
+        "「……そうか。精霊を身に宿すがゆえに\n　我らの怒りから　逃れえたか。": "…Je vois. C'est parce que tu abrites un esprit\nen toi que tu as pu echapper a notre colere."
     },
-    "13577": {
-        "「つむじ風の旅団……。\n　あの　強盗を　なりわいにした\n　魔物たちの盗賊集団ってやつかい？": "La Brigade du Tourbillon... C'est ce groupe de\nvoleurs compose de monstres qui se livrent a\ndes actes de banditisme ?"
+    "19388": {
+        "「ちいさき精霊よ。\n　ヒトは　欲深く　愚かで　あさましき存在。\n　なにゆえ　そんな者たちの味方をする？": "O petits esprits. Les humains sont avides,\nstupides et pitoyables. Pourquoi donc vous\nrangez-vous de leur cote ?"
     },
-    "13578": {
-        "「単なる　うわさ話だと思ってたけど\n　この目で　見ちまったんじゃあ\n　ほうっては　おけないね。": "Je pensais que ce n'etait qu'une rumeur, mais\nmaintenant que je l'ai vu de mes propres yeux,\nje ne peux pas l'ignorer."
+    "19389": {
+        "「うるっせーな！　たしかに　こいつら\n　欲深で　愚かで　あさましいかもしんねーけど\n　それだけじゃないのを　オレは知ってんだ！": "Tu fais trop de bruit ! Certes, ils peuvent\netre avides, stupides et pitoyables, mais je\nsais qu'ils ne sont pas que ca !"
     },
-    "13579": {
-        "「よし　わかった。\n　ガタラに戻ったら　やつらの情報を\n　集めてみるとしよう。": "D'accord, j'ai compris. Quand je retournerai a\nGatara, je vais essayer de rassembler des\ninformations sur eux."
+    "19390": {
+        "「モリナラ支部の連中が\n　この大森林の自然を守ろうと\n　戦ってることを　オレは　知ってる！": "Je sais que les membres de la branche de\nMorinara se battent pour proteger la nature de\ncette grande foret !"
     },
-    "13580": {
-        "「ああ　<cs_pchero>　すまなかったね。\n　なにはともあれ　アンタのおかげで\n　ムーンダイヤモンドが　手に入ったよ。": "Ah, <cs_pchero>, je suis desole. Quoi qu'il en\nsoit, grace a toi, j'ai pu obtenir le Moon\nDiamond."
+    "19391": {
+        "「伐採同盟の連中だって\n　自分たちの暮らしや　大切な者のため\n　必死だったことを　オレは　知ってる！": "Je sais que meme les membres de l'Alliance des\nBucherons se battaient desesperement pour leur\npropre vie et pour ceux qui leur etaient chers<br>!"
     },
-    "13581": {
-        "「今回の報酬は　ガタラの酒場で\n　山分けするとしよう。\n　あたいらは　先に戻って　待ってるからね。": "Cette fois, nous partagerons la recompense a\nla taverne de Gatara. Nous y retournerons\nd'abord et vous y attendrons."
+    "19392": {
+        "「そして　なにより　オレの相棒……\n　<cs_pchero>が　どんだけ　がんばって\n　今　ここにいるかを　オレは　知ってる！": "Et surtout, mon partenaire... Je sais a quel\npoint <cs_pchero> s'est battu pour etre ici\nmaintenant !"
+    },
+    "19393": {
+        "「そっちこそ　何を知ってんだよ？\n　オメーは　ヒトの素晴らしいトコ\n　これっぽっちも　わかってねーじゃねえか！": "C'est plutot toi, qu'est-ce que tu sais\nvraiment ? Tu ne comprends meme pas une seule\ndes merveilleuses qualites des gens !"
+    },
+    "19394": {
+        "「ヒトに宿りし精霊は　その心も毒されるか。\n　ならば　お前の　その入れ物を壊して\n　正気に戻してやろう。": "Les esprits qui habitent les humains, leur\ncoeur aussi peut-il etre empoisonne ? Dans ce\ncas, je vais briser ton recipient et te<br>ramener a la raison."
+    },
+    "19395": {
+        "「また来たのか　ヒトに宿る精霊よ。\n　今度こそ　お前の　その入れ物を壊して\n　正気に戻してやろう。": "Te revoila, esprit qui habite les humains.\nCette fois, je vais briser ton receptacle et\nte ramener a la raison."
+    },
+    "19396": {
+        "「……おのれ　あさましき侵略者め。\n　ここは　貴様たちの領域にあらず。\n　立ち去るがよい！": "Maudits envahisseurs ignobles. Cet endroit\nn'est pas votre territoire. Partez\nimmediatement !"
+    },
+    "19397": {
+        "「まずいぜ　相棒っ！\n　モリナラ全体が　オレたちを拒んでやがる！": "C'est mauvais, partenaire ! Toute la foret de\nMorinara nous rejette !"
+    },
+    "19400": {
+        "「……おのれ　あさましき侵略者め。\n　ここは　貴様たちの領域にあらず。\n　立ち去るがよい！": "Maudits envahisseurs ignobles. Cet endroit\nn'est pas votre territoire. Partez\nimmediatement !"
+    },
+    "19401": {
+        "「……これも　効かぬのか。": "...... Cela ne fonctionne pas non plus."
+    },
+    "19402": {
+        "「どうやら　妖精たちのポルカを使った成果が\n　出たみたいだぜ　相棒？": "Il semble que l'utilisation de la Polka des\nFees ait porte ses fruits, partenaire."
+    },
+    "19403": {
+        "「……そうであったな。ヒトは　いつの時代も\n　こざかしい知恵と技を　武器として\n　我らの森へと　侵略してくるのだ。": "C'etait bien cela. Les humains, a chaque\nepoque, utilisent leur savoir-faire ruse et\nleurs techniques comme armes pour envahir<br>notre foret."
+    },
+    "19404": {
+        "「だが　我は　決して　ヒトを許さぬ！\n　モリナラの樹々に宿りし　精霊たちよ。\n　己が憎悪の化身たる我に　チカラを貸せっ！": "Cependant, je ne pardonnerai jamais aux\nHumains ! Esprits residant dans les arbres de\nMorinara, pretez votre force a moi,<br>l'incarnation de votre haine !"
+    },
+    "19405": {
+        "「こいつは　キリがねーな。\n　あのネガティブ野郎の　こり固まった憎しみを\n　どうにかしなきゃ　解決しねえぞ　これ。": "Ce type ne s'arrete jamais. On ne resoudra\nrien tant qu'on n'aura pas fait quelque chose\ncontre la haine obstinee de ce negatif-la."
+    },
+    "19406": {
+        "「……なあ　相棒。\n　ひとつ　いい方法が　あるんだ。": "...He, partenaire. J'ai une bonne idee."
+    },
+    "19407": {
+        "「元は　どっちも　同じ精霊だ。\n　オレが　あいつと　一体化してやれば\n　あいつの憎悪を　中和してやれると思うんだ。": "A l'origine, nous etions tous deux le meme\nesprit. Si je fais corps avec lui, je pense\npouvoir neutraliser sa haine."
+    },
+    "19408": {
+        "「いや。オレが　そうしてーんだ！\n　あいつにも　ヒトの素晴らしさってモンを\n　わかってほしいんだよ。": "Non. C'est moi qui le veux ainsi ! Je veux\nqu'il comprenne aussi la beaute de l'humanite."
+    },
+    "19409": {
+        "「だからよ……これで　お別れだ。\n　あばよ！　相棒！": "Alors... c'est ici que nos chemins se\nseparent. Adieu, partenaire !"
+    },
+    "19410": {
+        "「ヌオォォォォ……な　なにをっ！？\n　怒りが……憎悪が……消えてゆく……。": "Nuooooo...... Qu... Qu'est-ce que... !? La\ncolere... la haine... disparaissent..."
+    },
+    "19411": {
+        "<center>ヒトよ……。\nわが一部となった　精霊スピルに免じ\n今は　お前たちを許そう。": "Humain... En l'honneur de l'esprit Spiel qui\nfait maintenant partie de moi, je vais vous\npardonner pour l'instant."
+    },
+    "19412": {
+        "<center>だが　ヒトが存在する限り\n必ず　また同じことが繰り返されるだろう。\nだから……": "Cependant, tant que l'humanite existera, la\nmeme chose se reproduira inevitablement. C'est\npourquoi..."
+    },
+    "19413": {
+        "<center>……だから　そうならないよーに\nがんばってくれよ！　相棒！": "......Donc, fais de ton mieux pour que ca\nn'arrive pas ! Partenaire !"
+    },
+    "19414": {
+        "「森の怒りが鎮まる気配　感じておったよ。\n　どうやら　すべて　終わったようじゃな。\n　よく　やってくれた！": "Je pouvais sentir que la colere de la foret\ns'apaisait. Il semble que tout soit enfin\ntermine. Tu as vraiment bien oeuvre !"
+    },
+    "19415": {
+        "「お前さんこそ　レンジャーの中のレンジャー。\n　その栄誉に　見合うものではないが\n　どうか　これを　贈らせてくれ。": "Toi, tu es vraiment le ranger parmi les\nrangers. Ce n'est peut-etre pas a la hauteur\nde cet honneur, mais laisse-moi t'offrir ceci."
+    },
+    "19416": {
+        "「ただいま　戻りましたーっ！": "Me revoila !"
+    },
+    "19417": {
+        "「ううっ。ホントに　戻ってこれてよかった。\n　あのまま　一生　じんめんじゅだったら\n　お嫁に　行けなくなっちゃうとこでしたよぅ。": "Ouuf. Je suis vraiment contente d'etre\nrevenue. Si j'etais restee Treeface pour\ntoujours, je n'aurais jamais pu me marier."
+    },
+    "19418": {
+        "「本部のレンジャーや　伐採同盟の連中も\n　それぞれの場所に　帰ってったぜ。\n　さすがに　もう　争う気には　ならねーよな。": "Les rangers du QG et les membres de l'Alliance\nde l'Abattage sont tous retournes a leurs\nendroits respectifs. Je suppose qu'ils n'ont<br>plus vraiment envie de se battre maintenant."
+    },
+    "19419": {
+        "「しかし　伐採同盟のヤツらの今後を\n　どうするか　考えてやんなくちゃな。\n　こりゃ　当分　合コンにゃ行けそうにねーや。": "Cependant, il va falloir reflechir a ce qu'on\nva faire des gars de l'Alliance de l'Abattage.\nOn dirait que je ne suis pas pret d'aller a un<br>rendez-vous de groupe."
+    },
+    "19420": {
+        "「……うむ。うむ。\n　任務　ご苦労だったな。\n　ふたりとも　よく戻ってきてくれた。": "Hum. Hum. Vous vous etes bien acquittes de\nvotre mission. Je vous remercie tous les deux\nd'etre revenus."
+    },
+    "19421": {
+        "「これから　大いに　忙しくなるが\n　今日のところは　皆の無事を祝って\n　宴を開くとしよう！": "A partir de maintenant, nous serons tres\noccupes, mais pour aujourd'hui, celebrons la\nsecurite de tous en organisant un festin !"
+    },
+    "19422": {
+        "その夜　もよおされた宴の中で\n<pc>は　もうひとりの仲間が\nどこへ行ったのかを　皆に語った。": "Lors de la fete organisee cette nuit-la,\n<pc> a raconte a tout le monde ou\nl'autre compagnon etait parti."
+    },
+    "19423": {
+        "たがいの無事を祝う祝宴は\nいなくなった仲間を　しのぶ宴に変わり\n静かに夜は　ふけていった。": "Le banquet celebrant leur securite mutuelle\ns'est transforme en une veillee en memoire de\nleur compagnon disparu, et la nuit s'est<br>doucement avancee."
+    },
+    "19424": {
+        "「おはよう　<pc>。\n　レーノスと　ユウギリなら　すでに起きて\n　モリナラの見回りに　出かけていったぞ。": "Bonjour <pc>. Renosu et Yugiri sont deja\nreveilles et sont partis patrouiller dans\nMorinara."
+    },
+    "19425": {
+        "「……ああ。お前さんは　いいんじゃ。\n　じつは　今回の件で　<pc>の\n　ここでの任を　解こうと決めたんじゃ。": "Ah. Toi, tu n'as rien a te reprocher. En fait,\navec cette affaire, j'ai decide de liberer\n<pc> de ses fonctions ici."
+    },
+    "19426": {
+        "「お前さんには　任地などにとらわれず\n　世界中の森を回り　自然を守ってほしい。\n　レーノスも　ユウギリも　賛成してくれたよ。": "Je voudrais que tu ne te laisses pas\nrestreindre par ton poste assigne, mais que tu\nvoyages a travers les forets du monde entier<br>pour proteger la nature. Renosu et Yugiri ont\negalement approuve cette idee."
+    },
+    "19427": {
+        "「これは　上司命令じゃからな。\n　逆らうことは　許さんぞ！": "Il s'agit d'un ordre de la part de votre\nsuperieur. Je ne tolererai aucune\ndesobeissance !"
+    },
+    "19428": {
+        "「今　この時をもって　<pc>の\n　モリナラ支部での任を解く！\n　これまで　本当に　ご苦労じゃった。": "A partir de maintenant, je te releve de tes\nfonctions a la succursale de Morinara de\n<pc> ! Tu as vraiment fait un excellent<br>travail jusqu'a present."
+    },
+    "19429": {
+        "「それでは　選ばれし　レンジャーよ。\n　お前さんの　今後の活躍を期待しておる！\n　どこへ行っても　元気でやるのだぞ。": "Alors, toi, le Ranger choisi. Nous attendons\navec impatience tes futures exploits ! Ou que\ntu ailles, reste en forme."
+    },
+    "25073": {
+        "「……チクショウ！ \n　これが　どうとでもできるってことか。\n　失敗したぜっ！": "…Merde ! C'est donc ca avoir toutes les cartes\nen main. J'ai echoue !"
+    },
+    "25074": {
+        "「……相棒。今度こそ　忘れずに \n　妖精たちのポルカを使って　戦うぞ！": "...Partenaire. Cette fois, n'oublie pas\nd'utiliser la Polka des Fees pendant le combat\n!"
     }
 }
