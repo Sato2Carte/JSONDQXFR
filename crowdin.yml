@@ -1,6 +1,13 @@
+project_id: TON_PROJECT_ID
+
+base_path: .
+base_url: https://api.crowdin.com
+
+preserve_hierarchy: true
+
 files:
-  - source: /**/eventTextCs*.json
-    translation: /crowdin/%language%/%original_file_name%
+  - source: "/**/eventTextCs*.json"
+    translation: "/crowdin/%language%/%original_file_name%"
     type: json
     update_option: update_as_unapproved
     escape_quotes: 3
@@ -8,14 +15,14 @@ files:
     source_language: ja  # Définit le japonais comme langue source
 
     translation_replace:
-      - pattern: <if_woman>(.*?)<else>(.*?)<endif>
-        replacement: {GENDER:$1|$2}  # Reformate les balises conditionnelles
+      - pattern: "<if_woman>(.*?)<else>(.*?)<endif>"
+        replacement: "{GENDER:\1|\2}"  # Reformate les balises conditionnelles
 
-      - pattern: (.{46})(?!\n|<br>).*
-        replacement: \1  # Coupe après 46 caractères sauf si <br> est présent
+      - pattern: "(.{46})(?!\n|<br>).+"
+        replacement: "\1"  # Coupe après 46 caractères sauf si <br> est présent
 
-      - pattern: (?:([^\n]*\n)){4,}
-        replacement:  # Supprime les lignes en trop après 3 retours à la ligne
+      - pattern: "(?:([^\n]*\n)){4,}"
+        replacement: ""  # Supprime les lignes en trop après 3 retours à la ligne
 
-      - pattern: (\n)
-        replacement: <br>  # Remplace \n par <br> après la 3ème ligne
+      - pattern: "\n"
+        replacement: "<br>"  # Remplace \n par <br> après la 3ème ligne
