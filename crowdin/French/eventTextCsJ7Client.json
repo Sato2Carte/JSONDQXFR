@@ -1,743 +1,1019 @@
 {
-    "309128": {
-        "「今日は　風が　気持ちいいわね……。": "Aujourd'hui, le vent est agreable..."
+    "311818": {
+        "「あっ　<pc>！\n　来てくれたのね。": "Ah, <pc> ! Tu es venu !"
     },
-    "309129": {
-        "「ふふ……あなたと　こうして\n　ゆっくり　過ごすことができて\n　とても　うれしいわ。": "Fufu... Je suis tellement heureuse de pouvoir\npasser du temps tranquillement avec toi comme\nca."
+    "311819": {
+        "「私たちは　この先で　大きな町を見つけたの。\n　だけど　取りつく島もなく\n　門番の兵士に　追い返されてしまって……。": "Nous avons trouve une grande ville un peu plus\nloin. Mais il n'y avait aucun moyen d'y\nacceder et les gardes a l'entree nous ont<br>renvoyes..."
     },
-    "309130": {
-        "「時間があるときに　話してあげたかったの。\n　あなたの　生まれたときのこと……。": "Quand j'en aurai le temps, j'aimerais te\nparler de quelque chose. A propos du moment de\nta naissance..."
+    "311820": {
+        "「仕方なく　ここまで\n　戻ってきたところだったのよ。\n　ねっ　ジーガンフさん？": "Je n'avais pas d'autre choix que de revenir\nici. N'est-ce pas, Jiganf-san ?"
     },
-    "309131": {
-        "「あの日は　私たち夫婦にとって\n　人生で　最良の日になった……。": "Ce jour-la est devenu le meilleur de notre vie\nde couple..."
+    "311822": {
+        "「この地方は　創生のチカラが\n　薄いんだなって　思ってたけど……\n　このあたりから　少しずつ　強くなってるね！": "Je pensais que la force de creation etait\nfaible dans cette region... Mais elle commence\na devenir un peu plus forte par ici !"
     },
-    "309132": {
-        "「よく　頑張ってくれたな　マローネ！\n　これが　俺たちの子か……。": "Tu as vraiment bien travaille, Marone ! C'est\ndonc notre enfant..."
+    "311823": {
+        "「そうせいの……チカラ？\n　初めて聞く　言葉だわ。\n　よければ　どんなものか教えてくれる？": "La puissance de la... renaissance ? C'est un\nterme que j'entends pour la premiere fois.\nPourriez-vous m'expliquer de quoi il s'agit ?"
     },
-    "309133": {
-        "「さあ　あなた。\n　この子を　抱いてあげてください。": "Allez, cher, prenez cet enfant dans vos bras,\ns'il vous plait."
+    "311824": {
+        "「あっ　うん。えっとね……\n　創生のチカラは　すべてを創りだし\n　すべてを存在させる　チカラのことだよ。": "Ah, oui. Eh bien... Le pouvoir de la Creation\nest une force qui cree tout et permet a tout\nd'exister."
     },
-    "309134": {
-        "「なっ？\n　あ　ああ……。": "Quoi ? Ah, ah..."
+    "311825": {
+        "「土も水も　ヒトも動物も　この世に存在する\n　すべてのモノは　創生のチカラを　宿してるの。\n　……お師匠様の　受け売りだけどね。": "La terre, l'eau, les humains et les animaux...\nTout ce qui existe dans ce monde porte en lui\nle pouvoir de la creation. ...C'est un<br>enseignement de mon maitre, bien sur."
     },
-    "309135": {
-        "「まだ　首がすわっていないから\n　しっかりと　支えてあげてくださいね。": "Son cou n'est pas encore stable, alors\nsoutenez-le bien, s'il vous plait."
+    "311826": {
+        "「うーん。\n　万物に宿る　生命のエネルギー……\n　といったところかしら？": "Hmm. L'energie vitale qui reside dans toutes\nchoses... Voila de quoi il s'agit, n'est-ce\npas ?"
     },
-    "309136": {
-        "「こ　こうか……？\n　意外と　難しいな……。": "Es... est-ce que ca va bien ? C'est plus\ndifficile que je ne le pensais..."
+    "311827": {
+        "「それで　あなたは\n　創生のチカラを　感じ取ることができるの？": "Et donc, tu peux ressentir le pouvoir de la\ncreation ?"
     },
-    "309137": {
-        "「あの人ったら　ちいさい　あなたを\n　抱っこするのに　ずっと\n　おどおどしっぱなしで……。": "Cette personne-la, elle etait si nerveuse a\nl'idee de te porter dans ses bras quand tu\netais petit(e)..."
+    "311828": {
+        "「うん。なんとなく　だけど。": "Oui. Juste une intuition, mais."
     },
-    "309138": {
-        "「おかしいでしょう？　エテーネ王国でも\n　指折りの剣士であるあの人が　生まれたばかりの\n　ちいさなあなたに　苦戦するなんて。": "C'est etrange, n'est-ce pas ? Meme l'un des\nmeilleurs epeistes du royaume d'Ethene a du\nmal a se battre contre un petit etre comme<br>toi, qui vient a peine de naitre."
+    "311829": {
+        "「すごい……すごいわ　ポルテちゃん！\n　お花を　咲かせるチカラといい\n　あなたって　すごいコなのね！": "Incroyable... Incroyable, Porte-chan ! Le\npouvoir de faire fleurir les fleurs, tu es\nvraiment une personne incroyable !"
     },
-    "309139": {
-        "「でもね。\n　そんなあの人の顔を見て\n　あなたは……笑ってくれたのよ。": "Mais tu sais, en voyant le visage de cette\npersonne, toi... tu as souri."
+    "311830": {
+        "「そ　そうかなあ……？\n　えへへ。": "V-Vraiment... ? Ehehe."
     },
-    "309140": {
-        "「ハハッ　見てくれ　マローネ！\n　俺を見て　笑ったぞ！\n　俺のことが　わかるんだ！": "Haha, regarde, Marone ! Il m'a regarde et il a\nri ! Il me reconnait !"
+    "311832": {
+        "「ええ　もちろん！\n　ポルテちゃんは　仲間ですもの。": "Oui, bien sur ! Porte-chan fait partie de\nnotre groupe."
     },
-    "309141": {
-        "「……ああ　そうだ。<pc>。\n　俺が　お前の父親だ。": "......Ah, c'est vrai. <pc>. Je suis ton\npere."
+    "311834": {
+        "「まあ　そうなの？\n　さすがは　ランガーオ村の武闘チャンピオンね！": "Vraiment ? Comme on pouvait s'y attendre du\nchampion de combat du village de Langao !"
     },
-    "309142": {
-        "「ずっと　お前に会いたかった。\n　生まれてきてくれて……\n　俺たちの子になってくれて　ありがとう。": "J'ai toujours voulu te rencontrer. Merci\nd'etre venu au monde... et de devenir notre\nenfant."
+    "311837": {
+        "「……そうね。そうしたいけれど　まずは\n　町に入れてもらう方法……つまり　門番さんに\n　信用してもらう方法を　見つけなきゃ。": "...C'est vrai. J'aimerais bien faire ca, mais\nd'abord, il faut trouver un moyen d'entrer\ndans la ville... Autrement dit, il faut gagner<br>la confiance du garde."
     },
-    "309143": {
-        "「あなたは　そこにいるだけで　私たちに\n　たくさんの幸せを　与えてくれたの。\n　もちろん　今だってそう……。": "Rien qu'en etant la, tu nous as apporte tant\nde bonheur. Bien sur, c'est toujours le cas\nmaintenant..."
+    "311838": {
+        "「とりあえず　今日のところは\n　ここで　野営にしない？": "Pour l'instant, ne devrions-nous pas camper\nici pour la nuit ?"
     },
-    "309144": {
-        "「私たちは　あなたのお父さんと\n　お母さんになれて　とても幸せ。\n　だから　もう一度　この言葉を言わせて。": "Nous sommes tres heureux d'avoir pu etre ton\npere et ta mere. Alors, laisse-nous te le dire\nencore une fois."
+    "311840": {
+        "「さっ　そうと決まれば　さっそく準備しなきゃ！\n　<pc>にも　手伝ってもらいたいから\n　あとで　私に話しかけてね。": "D'accord, maintenant que c'est decide, je dois\nme preparer rapidement ! Je veux que\n<pc> m'aide aussi, alors viens me parler<br>plus tard."
     },
-    "309145": {
-        "「私たちのもとに　生まれてきてくれて\n　ありがとう　<pc>。\n　あなたのことを　心から愛しているわ。": "Merci d'etre venu au monde parmi nous,\n<pc>. Je t'aime de tout mon coeur."
+    "311841": {
+        "「ね　<pc>。\n　メレアーデさんって　王女さまなのに\n　すっごく　話しやすくて　いいヒトだね！": "Hey, <pc>. Mereade-san, even though\nshe's a princess, is really easy to talk to\nand a great person!"
     },
-    "309146": {
-        "「ふたりとも　ここにいたのか。\n　なんの話を　していたんだ？": "Ah, vous etiez tous les deux ici. De quoi\nparliez-vous ?"
+    "311842": {
+        "「でも……ジーガンフさんは\n　ちょっと　怖い感じのヒトなのかな？\n　メレアーデさんも　困ってそうだった……。": "Mais... Jiganf-san est-il quelqu'un d'un peu\neffrayant ? Mereade-san semblait aussi etre en\ndifficulte..."
     },
-    "309147": {
-        "「私たちだけの秘密です。\n　ねぇ　<pc>？": "C'est notre petit secret. N'est-ce pas,\n<pc> ?"
+    "311843": {
+        "「<pc>！\n　メレアーデさんのこと　支えてあげようね！": "<pc> ! Soutenons Mereade-san, d'accord ?"
     },
-    "309148": {
-        "「また　こうして　親子３人で過ごす日が\n　来るなど　思いもしなかったな。お前たちには\n　もう会えぬものだと　思っていたから……。": "Je n'aurais jamais imagine qu'un jour\nviendrait ou nous pourrions a nouveau passer\ndu temps ensemble, nous trois, en famille. Je<br>pensais que je ne vous reverrais jamais..."
+    "311844": {
+        "川辺の休憩所に戻ってきた　<cs_pchero>は\nメレアーデに　まがまがしいキノコを渡した。": "De retour a l'aire de repos de Riverside,\n<cs_pchero> a remis le champignon sinistre a\nMereade."
     },
-    "309149": {
-        "「キュロノスを倒すため　必要なことだと\n　覚悟してはいたが　お前たちとの別れは\n　俺にとって　耐えがたい苦痛だった……。": "Pour vaincre Kyuronos, je m'etais prepare a\ncela, mais la separation avec vous tous a ete\npour moi une douleur insupportable..."
+    "311845": {
+        "「近くで見ると　いかにも　毒がありそうな\n　見た目を　しているわね！？　ごめんなさい。\n　これは　食べないほうが　よさそう……。": "Vu de pres, ca a vraiment l'air toxique,\nn'est-ce pas !? Desolee. Il vaut mieux ne pas\nmanger ca..."
     },
-    "309150": {
-        "「もう二度と　お前たちを\n　この幸せな時を　失いたくはない……。": "Je ne veux plus jamais vous perdre, ni perdre\nces moments de bonheur..."
+    "311847": {
+        "「まあ　ジーガンフさんは\n　このキノコを　食べたことがあるのね。": "Eh bien, Jiganf-san, tu as deja goute a ce\nBolaid."
     },
-    "309151": {
-        "「どこにもいきません……私も　<pc>も。\n　ずっと　あなたのそばにいます。\n　私たちは　家族なんですから。": "Je ne vais nulle part... <pc> non plus.\nJe resterai toujours a tes cotes. Nous sommes\nune famille, apres tout."
+    "311851": {
+        "<cs_pchero>たちは　ジーガンフが　見事な手際で\n作った　おいしいスープで　空腹を満たした！\nそして…………": "<cs_pchero> et son groupe ont comble leur faim\navec la delicieuse soupe preparee avec brio\npar Jiganf ! Et puis..."
     },
-    "309152": {
-        "「ああ　そうだな……。\n　ありがとう　マローネ。": "Ah, c'est vrai... Merci, Marone."
+    "311852": {
+        "「ありがとう　ジーガンフさん。釣りざおの用意も\n　お魚をさばくのも　スープ作りも……結局\n　全部　あなたの　お世話になっちゃったわ。": "Merci, Jiganf-san. Que ce soit pour preparer\nla canne a peche, decouper le poisson ou faire\nla soupe Sue... En fin de compte, tu t'es<br>occupe de tout pour moi."
     },
-    "309153": {
-        "「そうだわ。\n　あなたの話を　聞かせてちょうだい。\n　あなたの長い長い　旅の話を……。": "Ah, oui. Raconte-moi ton histoire. L'histoire\nde ton long, tres long voyage..."
+    "311853": {
+        "「そうそう！\n　ジーガンフさんって　意外と　やさしいんだね。\n　もっと　怖いヒトかと思ってた！": "Ah oui ! J'ai decouvert que Jiganf-san est\netonnamment gentil. Je pensais qu'il etait\nplus effrayant !"
     },
-    "309154": {
-        "<pc>は　マローネとパドレに\nこれまでの長い長い旅路の話を\n語って　聞かせた……。": "<pc> raconta a Marone et Padre\nl'histoire de son long, tres long voyage\njusqu'a present..."
+    "311855": {
+        "「マイユさんって　もしかして……\n　ジーガンフさんの恋人……とか！？": "Maayu-san, est-ce que par hasard... vous\nseriez la petite amie de Jiganf-san... ou\nquelque chose comme ca !?"
     },
-    "309155": {
-        "ふたりは　ほほえみながら\n<pc>の話に　耳を傾け\n親子の時間は　過ぎていった……。": "Les deux, tout en souriant, ecoutaient\nattentivement l'histoire de <pc>, et le\ntemps passe entre parent et enfant s'ecoula<br>paisiblement..."
+    "311857": {
+        "「よくないっ！　聞かせて！！": "Ce n'est pas bien ! Dis-moi !!"
     },
-    "309156": {
-        "そして　夜が明けた！<me 64>": "Et le jour s'est leve ! <me 64>"
+    "311859": {
+        "それから　ジーガンフは話した。\nランガーオ村に生まれ　幼なじみの　マイユと\nアロルドと共に　育ったこと。": "Ensuite, Jiganf parla. Il raconta qu'il etait\nne au village de Langao et avait grandi aux\ncotes de ses amis d'enfance, Maiyu et Arold."
     },
-    "309157": {
-        "こうして　エテーネ王国の　\nお披露目式が　始まった。": "Ainsi, la ceremonie de presentation du royaume\nd'Ethene a commence."
+    "311860": {
+        "村でいちばん強い男が　マイユと結婚できること。\nしかし　ある年の　武闘大会で\nアロルドに　勝ちを　ゆずられたこと。": "Le fait que l'homme le plus fort du village\npuisse se marier avec Mayu. Cependant, lors\nd'un tournoi d'arts martiaux une annee, Arold<br>lui a cede la victoire."
     },
-    "309158": {
-        "メレアーデは　国の代表として\n各国からの賓客を　立派にもてなし……": "Mereade, en tant que representante de notre\npays, accueille avec distinction les invites\nvenus de diverses nations..."
+    "311861": {
+        "その　くやしさに　つけ込まれて\n伝説の悪鬼　ゾンガロンに操られ\n暴走してしまったこと……。": "Profitant de cette frustration, j'ai ete\nmanipule par le demon legendaire Zongaron, et\nj'ai fini par perdre le controle..."
     },
-    "309159": {
-        "客人たちは　５０００年の時を超えて　現れた\nアストルティアの　新たな仲間……\nエテーネ王国の来訪を　心から喜び　歓迎した。": "Les invites, traversant 5000 ans de temps,\netaient de nouveaux compagnons pour\nAstoltia... Ils se rejouirent sincerement de<br>la visite du royaume d'Ethene et leur\nreserverent un accueil chaleureux."
+    "311865": {
+        "「なんて　ロマンティックな話……あっ！\n　ジーガンフさんにとっては\n　つらい話だったわよね。ごめんなさい……。": "Quelle histoire romantique... Ah ! Pour\nJiganf-san, c'etait une histoire douloureuse.\nJe suis desolee..."
     },
-    "309160": {
-        "式典は　とどこおりなく　進行し\nメレアーデの演説によって\n締めくくられようとしていた……。": "La ceremonie se deroulait sans encombre et\ns'achevait avec le discours de Mereade..."
+    "311867": {
+        "「うん！\n　あたしも　メレちーも\n　ジーくんの話　感動しちゃった！": "Oui ! Moi aussi, ainsi que Mere-chan, nous\navons ete emues par l'histoire de Ji-kun !"
     },
-    "309161": {
-        "「各国より　お越しの皆さま。私たちの暮らす\n　エテーネ王国を　アストルティアの一員として\n　迎えていただき　心より感謝いたします。": "Chers invites venus de tous les pays. Nous\nvous remercions sincerement d'accueillir notre\nroyaume d'Ethene en tant que membre<br>d'Astoltia."
+    "311869": {
+        "「メレちーも　そう思うわ。\n　話してくれて　ありがとう！　ジーくん！": "Mele-chan pense la meme chose. Merci de m'en\navoir parle ! Jii-kun !"
     },
-    "309162": {
-        "「私たちが　共に手を取り合い　歩む未来が\n　輝かしいもので　ありますように！\n　我らが故郷　アストルティアに　栄光あれ！": "Puissions-nous avancer ensemble main dans la\nmain vers un avenir radieux ! Gloire a notre\nterre natale, Astoltia !"
+    "311878": {
+        "「そうなんだあ……。\n　みんな　それぞれ　事情があるんだね。": "Je vois... Chacun a ses propres circonstances,\nn'est-ce pas."
     },
-    "309163": {
-        "「あっ……<pc>！": "Ah... <pc> !"
+    "311879": {
+        "「きゃっ！\n　ど……どうしたの　ふたりとも！？": "Ah ! Qu'est-ce qui se passe, vous deux ?!"
     },
-    "309164": {
-        "「どうだった？　ちゃんとできてたかしら？\n　私　緊張しちゃって……": "Comment c'etait ? Est-ce que j'ai bien reussi\n? J'etais tellement nerveuse..."
+    "311881": {
+        "「先日　我が国を訪れたのは　貴殿だな。\n　フーラズーラには　見えないが……\n　人間には見えぬのも　また事実。": "Recemment, c'etait toi qui as visite notre\npays, n'est-ce pas ? Tu ne ressembles pas a un\nFluzula... Mais il est aussi vrai que les<br>humains ne peuvent pas les voir."
     },
-    "309165": {
-        "「どうしたの？\n　何か　探してるみたいだけど……。": "Qu'est-ce qui se passe ? On dirait que tu\ncherches quelque chose..."
+    "311882": {
+        "「あのっ！　もしや　あなた方の国には\n　人間しかいないのでは！？　彼は……ジーくんは\n　オーガという種族です。魔物ではありません！": "Ah ! Ne me dites pas que dans votre pays, il\nn'y a que des humains ! Lui... Ji-kun\nappartient a la race des Ogres. Ce n'est pas<br>un monstre !"
     },
-    "309166": {
-        "「マローネ……？\n　あなたの　お母さん……？": "Marone... ? Ta maman...?"
+    "311883": {
+        "「悪いが　言葉は　信じられぬ。\n　貴殿らの正体……\n　我が槍にて　確かめさせてもらおう。": "Je suis desole, mais je ne peux pas faire\nconfiance aux paroles. Votre veritable\nidentite... Je vais m'en assurer avec ma<br>lance."
     },
-    "309167": {
-        "「誰　それ……。": "Qui est-ce... ?"
+    "311884": {
+        "「非礼を　お詫びしよう　異国からの客人よ。\n　我が名は　イルシーム。\n　アマラーク王国の　戦士だ。": "Je vous prie de pardonner mon impolitesse, o\ninvite venu de contree lointaine. Mon nom est\nIlseem. Je suis un guerrier du royaume de<br>Marack."
     },
-    "309168": {
-        "「何を言ってるんだ。お前の母親は\n　マローネなんて名前じゃないし　お前を産んで\n　すぐ　死んでしまった……はずだ。": "Qu'est-ce que tu racontes ? Ta mere ne\ns'appelait pas Marone, et elle est morte juste\napres t'avoir mis au monde..."
+    "311885": {
+        "「私たちを　信じてくださるのですか？\n　魔物や　怪しい者ではないと……。": "Vous nous faites confiance ? Que nous ne\nsommes ni des monstres ni des personnes\nlouches..."
     },
-    "309169": {
-        "「ねぇ　顔色が悪いわ。だいじょうぶ……？": "He, tu as mauvaise mine. Ca va… ?"
+    "311886": {
+        "「ああ。すまなかった　お嬢さん。\n　我らのような男にとっては　矛を交えて語るのが\n　いちばん　手っとり早いものでな。": "Ah, je suis desole, mademoiselle. Pour nous,\nhommes d'armes, echanger des coups est le\nmoyen le plus direct de communiquer."
     },
-    "309170": {
-        "「メレアーデ様　パドレ様\n　少々　よろしいでしょうか？": "Mereade-sama, Padre-sama, Puis-je vous\nderanger un instant ?"
+    "311888": {
+        "「あたしは　ポルテ！\n　こっちの　お嬢さんは　メレちーだよ。\n　そして　我らが　<cs_pchero>隊長！": "あatashiは Porte！ こっちの お嬢さんは メレちーだよ そして 我らが\n<cs_pchero>隊長！"
     },
-    "309171": {
-        "「あっ　ええ！　すぐに　行きます。": "Ah, oui ! J'y vais tout de suite."
+    "311889": {
+        "「よろしく頼む。<cs_pchero>。\n　メレチー。": "Je compte sur toi, <cs_pchero>. Melechie."
     },
-    "309172": {
-        "「慌ただしくて　ごめんなさい　<pc>。\n　ちゃんと　お礼も言いたいし\n　あとで　軍団長室まで　来てちょうだい。": "Excuse-moi pour cette precipitation,\n<pc>. Je voudrais te remercier\ncorrectement. Viens me voir dans la salle du<br>commandant plus tard, s'il te plait."
+    "311890": {
+        "「あっ　えっと……\n　よろしくお願いします。": "Ah, euh... Je compte sur vous."
     },
-    "309173": {
-        "「……ほう。\n　そなたは　気づいたようだな。": "Oh. Il semble que tu aies remarque."
+    "311891": {
+        "「それで　お前たちは　どこから来たのだ？\n　オーガ……などという言葉は　初めて聞いた。\n　人間以外の　種族というのもな。": "Alors, d'ou venez-vous ? Je n'ai jamais\nentendu le mot Ogre... et encore moins parler\nd'une autre race que les humains."
     },
-    "309174": {
-        "「今　そなたの目の前で\n　起こったことは　夢まぼろしではない。\n　すべて　現実じゃ。": "Ce qui vient de se passer sous tes yeux n'est\npas un reve ou une illusion. Tout est bien\nreel."
+    "311892": {
+        "「ええと　私たちは……とても　遠い場所から\n　この地の調査に　やってきました。": "Eh bien, nous... venons d'un endroit tres\nlointain pour mener une enquete sur cette\nterre."
     },
-    "309175": {
-        "「そなたの母の存在は　この世からも\n　人々の記憶からも　跡形もなく　消え失せた。": "L'existence de ta mere a totalement disparu de\nce monde, ainsi que de la memoire des gens."
+    "311893": {
+        "「私たちの住む地では　オーガだけでなく\n　さまざまな種族が　共存しているのです。": "Dans notre region, diverses races coexistent,\npas seulement les Ogres."
     },
-    "309176": {
-        "「この場にいた　他の者は\n　誰も　気づいてすらおらん。\n　認識できたのは　そなたと我のみ。": "Les autres presents ici n'ont meme pas\nremarque. Seuls toi et moi avons pu le\npercevoir."
+    "311894": {
+        "「そうなのか……。俺もそうだが\n　ほとんどの者は　国から出たことがない。\n　無知ゆえの無礼を　重ねて　お詫びする。": "Vraiment... Pour ma part aussi, je n'ai jamais\nquitte le pays. Je m'excuse pour notre\nignorance et notre manque de courtoisie."
     },
-    "309177": {
-        "「これは　前ぶれにすぎぬ。\n　いずれは　アストルティアのすべてが……": "Ce n'est qu'un presage. Un jour, tout\nAstoltia..."
+    "311895": {
+        "「そして……異国からの客人よ。\n　もし　よければ　お前たちを招待させてほしい。\n　我が祖国　アマラーク王国へ来てくれ。": "Et... vous, invites venus de terres\nlointaines. Si vous le souhaitez, j'aimerais\nvous inviter. Venez dans mon royaume natal, le<br>royaume d'Amarack."
     },
-    "309178": {
-        "「この『創失』によって　失われるであろう。": "Par cette 'Creation Perdue', tout sera\naneanti."
+    "311896": {
+        "「やったあ！\n　ありがとう　イルシームさん！": "Hourra ! Merci, Ilseem-san !"
     },
-    "309179": {
-        "「まったく　要領を得ぬ……といった顔だな。\n　まぁ　今は　わからずともよい。": "Tu as vraiment l'air d'etre perdu... Mais bon,\nil n'est pas necessaire de comprendre\nmaintenant."
+    "311897": {
+        "「ゆえあって　俺は　ひとあし先に\n　アマラークに　戻らせてもらうが……国の者には\n　お前たちのことを　話しておく。種族の件もな。": "Pour une certaine raison, je vais retourner a\nAmarak avant vous. Je parlerai de vous aux\ngens du pays, y compris de votre race."
     },
-    "309180": {
-        "「母を救いたければ　先の戦いで\n　ジア・クト念晶体が　残していった\n　遺物を　調べることだ。": "Si tu veux sauver ta mere, tu dois examiner\nles reliques que l'entite de pensee Zia Kuto a\nlaissees apres la derniere bataille."
+    "311898": {
+        "「だが……もし　我が国の者が\n　お前たちの姿を見て　驚いても\n　許してはくれまいか？　悪気は　ないのだ。": "Mais... si les gens de notre pays vous voient\net sont surpris, pourriez-vous leur pardonner\n? Ils n'ont pas de mauvaises intentions."
     },
-    "309181": {
-        "「この磁光石が　カギとなるだろう。\n　持っていくがよい。": "Ce Magnetolite sera la cle. Prends-le avec\ntoi."
+    "311900": {
+        "「感謝する。\n　では　アマラーク王国で会おう。": "Je te remercie. Alors, retrouvons-nous au\nroyaume d'Amarack."
     },
-    "309182": {
-        "<pc>は\n磁光石（だいじなもの）を\n手に入れた。<me 60>": "<pc> a obtenu le Magnetolite (objet\ncle). <me 60>"
+    "311901": {
+        "「これで　町に入れてもらえそうだね！\n　ふわ……安心したら\n　なんだか　眠くなってきちゃった。": "Maintenant, on dirait qu'on va pouvoir entrer\ndans la ville ! Phew... Je me sens soulage, et\ntout d'un coup, j'ai un peu sommeil."
     },
-    "309183": {
-        "「……オーガの王が　そなたを導くだろう。\n　未知の大地に　すべての答えがある。\n　行け　アストルティアを救うために。": "...... Le Roi Ogre te guidera. Toutes les\nreponses se trouvent dans cette terre\ninconnue. Vas-y, pour sauver Astoltia."
+    "311902": {
+        "「もう　遅い時間だものね。\n　今夜は眠って　明日に備えましょう。": "Il se fait tard, n'est-ce pas ? Ce soir,\ndormons et preparons-nous pour demain."
     },
-    "309185": {
-        "「……そなたの働き　期待しているぞ。\n　<pc>。": "......Je compte sur toi pour accomplir de\ngrandes choses, <pc>."
+    "311903": {
+        "<cs_pchero>たちは　そのまま\n川辺の休憩所で　身体を休めた……。\nそして　夜が明けた！<me 64>": "<cs_pchero> et son groupe se reposerent a\nl'aire de repos de Riverside... Et l'aube se\nleva ! <me 64>"
     },
-    "309186": {
-        "謎の少女は　姿を消してしまった……。\nひとまず　軍団長室にいる\nメレアーデのもとへ　向かおう。": "La mysterieuse jeune fille a disparu... Pour\nl'instant, dirigeons-nous vers Mereade dans la\nsalle du chef de la brigade."
+    "311904": {
+        "「おはよう　<cs_pchero>！\n　さあ　出発しましょう。アマラーク王国は\n　タービア草原を　越えた先にあるわ。": "Bonjour, <cs_pchero> ! Allez, partons. Le\nroyaume de Amurack se trouve au-dela des\nprairies de Turbia."
     },
-    "309187": {
-        "「お待ちしていましたよ。\n　<pc>さん。": "Je vous attendais. <pc>-san."
+    "311905": {
+        "「アマラーク王国へ　ようこそ！\n　事情は　イルシーム卿より　伺っています。\n　先日は　大変　失礼いたしました。": "Bienvenue au royaume de Marack ! J'ai ete\ninforme de la situation par le seigneur\nIlseem. Je vous prie de bien vouloir excuser<br>notre impolitesse de l'autre jour."
     },
-    "309188": {
-        "「ご足労いただき　申し訳ありません。\n　この調査には　あなたの協力が\n　不可欠と　思いまして。": "Je suis desole de vous avoir fait venir. Je\npense que votre cooperation est indispensable\npour cette enquete."
+    "311906": {
+        "「イルシーム卿でしたら\n　城に　いらっしゃるはずです。\n　場所は…………": "Si c'est Sir Ilseem, il devrait etre au\nchateau. L'endroit est..."
     },
-    "309189": {
-        "「……おや？　どうして\n　私が　オーグリード大陸にいるのか\n　不思議に　思われているようですね。": "...Oh ? Vous semblez vous demander pourquoi je\nme trouve sur le continent d'Ogride."
+    "311908": {
+        "「い　いや…いや……っ！": "Non... non... !"
     },
-    "309190": {
-        "「バドリー岩石地帯に現れた　塔と同じく\n　ジア・クト念晶体が　残したとされる\n　この遺物……。": "Ce vestige, que l'on dit laisse par le Cristal\nde Memoire de Gia, est similaire a la tour\nerigee dans la zone de Budley Rock."
+    "311909": {
+        "「あ……あれは　何！？\n　魔物……？": "Ah... Qu'est-ce que c'est !? Un monstre...?"
     },
-    "309191": {
-        "「もともと　ガートラント王国だけで\n　調査をおこなっていたそうなのですが\n　専門家が足りず　難航していたようで……。": "A l'origine, il semble qu'ils menaient des\nrecherches uniquement dans le royaume de\nGarトLMPト, mais le manque de specialistes<br>rendait les choses difficiles..."
+    "311910": {
+        "「あっ　ジーくん！": "Ah, Jii-kun !"
     },
-    "309192": {
-        "「そこで　アストルティアで\n　最先端の技術力を有する　ドルワーム研究院の\n　長である　この私が　招かれたというワケです。": "C'est ainsi que j'ai ete invite en tant que\ndirecteur de l'Institut de recherche de\nDolworm, qui possede la technologie la plus<br>avancee d'Astoltia."
+    "311911": {
+        "「待って！\n　行ってはダメです！\n　やつは……フーラズーラは……！": "Attends ! Ne pars pas ! Il est... Fluzula\nest... !"
     },
-    "309193": {
-        "「これは　ジア・クト念晶体が使用していた\n　なんらかの装置だと　推測されますが\n　くわしいことは　わかっておりません……。": "Il est suppose que c'est un dispositif utilise\npar le cristal de pensee Zia Kuto, mais nous\nn'en connaissons pas les details..."
+    "311916": {
+        "「待て！\n　食うなら　オレを食え！": "Attends ! Si tu veux manger, mange-moi !"
     },
-    "309194": {
-        "「彼らは　我々をはるかに　超越する\n　技術力を持った　生命体だったようですね。": "Ils semblaient etre des etres vivants\npossedant une technologie bien superieure a la\nnotre."
+    "311918": {
+        "「フーラズーラに　普通の攻撃は　効かない！\n　しかし　ひとりかふたり　人間を食えば\n　満足して　姿を消すんだ！": "Les attaques normales ne fonctionnent pas sur\nFluzula ! Cependant, si elle mange une ou deux\npersonnes, elle se sentira satisfaite et<br>disparaitra !"
     },
-    "309195": {
-        "「いろいろと　試してみてはいるのですが\n　肝心の動力源が　切れているようで\n　装置を起動させることすら　できないのです。": "J'ai essaye plusieurs choses, mais il semble\nque la source d'energie principale soit\nepuisee, et je ne peux meme pas activer le<br>dispositif."
+    "311919": {
+        "「さあ　オレを食え！\n　罪なき民に代わり\n　この命　よろこんで　捧げよう！": "Allez, devorez-moi ! A la place des innocents,\nje suis pret a offrir cette vie avec joie !"
     },
-    "309196": {
-        "「ジア・クト念晶体と戦った　あなたであれば\n　この装置が何か　見当がつくのではないかと思い\n　お呼びした次第でして……。": "Etant donne que vous avez combattu le Cristal\nde Jia Kuto, je pensais que vous pourriez\navoir une idee de ce qu'est cet appareil, et<br>c'est pourquoi je vous ai convoque..."
+    "311921": {
+        "「怖いものか！　怖いものかッ！\n　アマラークに　栄光あれ……ッ！": "Je n'ai pas peur ! Je n'ai pas peur ! Gloire a\nMarack... !"
     },
-    "309197": {
-        "「おっと。ここで　私が\n　長々と説明しても　しかたがありませんね。\n　さあ　近くで　装置を見てみてください。": "Oh. Il ne sert a rien que je m'attarde en\nexplications ici. Allez, allez voir l'appareil\nde plus pres."
+    "311923": {
+        "「すまん　遅くなった！": "Desole, je suis en retard !"
     },
-    "309198": {
-        "「なんだ？　この光は……！": "Qu'est-ce que c'est ? Cette lumiere... !"
+    "311924": {
+        "「ジーくん！　よかった無事で！\n　兵士さんも！": "Ji-kun ! Je suis soulage que tu ailles bien !\nEt le soldat aussi !"
     },
-    "309199": {
-        "磁光石を　装置のくぼみに　はめてみますか？<yesno><close>": "Voulez-vous essayer d'inserer la Magnetolite\ndans le creux de l'appareil ? <yesno><close>"
+    "311926": {
+        "「それは　この槍……黒槍クバーラトのチカラだ。\n　黒槍は　フーラズーラに効く\n　この世で　唯一無二の　武器なのだ。": "C'est grace a cette lance... le pouvoir de la\nLance Noire Kubarato. La Lance Noire est\nefficace contre Fluzula, c'est l'arme unique<br>en son genre dans ce monde."
     },
-    "309200": {
-        "「石に　装置が反応している……？\n　それを　装置のくぼみに\n　はめてみてくれませんか？": "Le dispositif reagit a la pierre... ?\nPourriez-vous essayer de l'inserer dans la\ncavite du dispositif ?"
+    "311927": {
+        "「イルシーム卿は　この国で　並ぶ者なき戦士！\n　ゆえに　王から　国宝である\n　黒槍を与えられているのだ。": "Ilseem-dono est un guerrier sans egal dans ce\npays ! C'est pourquoi le roi lui a confie la\nlance noire, un tresor national."
     },
-    "309201": {
-        "<pc>は　装置のくぼみに\n謎の少女からもらった　磁光石を\nはめてみた！": "<pc> a insere le Magnetolite recu de la\nmysterieuse jeune fille dans la cavite de\nl'appareil !"
+    "311928": {
+        "「ただし　フーラズーラは　倒したところで\n　いくらでも　わいて出て……突如\n　音もなく　町中に現れては　人間を食う。": "Cependant, meme si vous vainquez Fluzula, il\nreapparait constamment... Soudainement et\nsilencieusement, il envahit la ville et devore<br>les humains."
     },
-    "309202": {
-        "「……うわぁぁぁぁぁあッ！？": "...Ouaaah !?"
+    "311929": {
+        "「この国は　はるか　祖先の代から\n　フーラズーラの脅威に　悩まされているのだ。": "Ce pays est tourmente par la menace de Fluzula\ndepuis l'epoque de nos ancetres lointains."
     },
-    "309203": {
-        "「ふむ……今ある情報だけでは\n　ここが　アストルティアのどこか\n　特定するのは　難しそうですね。": "Hum... Avec les informations que nous avons\nactuellement, il semble difficile de\ndeterminer precisement ou nous nous trouvons<br>dans Astoltia."
+    "311930": {
+        "「そんな　恐ろしいものが　存在するなんて……。": "Qu'une chose aussi effrayante puisse\nexister..."
     },
-    "309204": {
-        "「他に　何か\n　手がかりに　なりそうなものが\n　見つかればいいのですが……。": "J'espere que nous pourrons trouver d'autres\nindices utiles..."
+    "311931": {
+        "「この国は　危険だ。\n　故郷へ戻るなら　止めはしない。": "Ce pays est dangereux. Si tu souhaites\nretourner chez toi, je ne t'en empecherai pas."
     },
-    "309205": {
-        "「……ん？": "......Hmm?"
+    "311932": {
+        "「しかし……もし　まだ　お前たちが\n　この国の調査を望むなら　王に紹介してやろう。\n　アマラーク城へ　来るといい。": "Cependant... si vous souhaitez toujours\nenqueter sur ce pays, je vous presenterai au\nroi. Venez au chateau d'Amarak."
     },
-    "309206": {
-        "「うわッ！？\n　な　なんなんだ　コイツは！？": "Ouaah !? Qu'est-ce que c'est que ce type-la !?"
+    "311934": {
+        "「えと……行くよね？　アマラーク城。": "Euh... On y va, n'est-ce pas ? Amarak Castle."
     },
-    "309207": {
-        "「ありがとうございます　<pc>さん。": "Merci beaucoup, <pc>-san."
+    "311936": {
+        "「ええ。\n　行きましょう　<pc>。": "Oui. Allons-y, <pc>."
     },
-    "309208": {
-        "「今の魔物……私の記憶が　正しければ\n　アストルティアで　確認されていないものです。\n　もしかして　新種か……？": "Les creatures que nous avons rencontrees... Si\nma memoire est correcte, elles n'ont jamais\nete observees dans Astoltia. Serait-ce une<br>nouvelle espece...?"
+    "311937": {
+        "「……では　町に出現した　フーラズーラは\n　イルシーム卿が　撃退し\n　犠牲者は　出ていないのだな？": "Donc, Fluzula qui est apparu en ville a ete\nrepousse par Lord Ilseem, et il n'y a eu\naucune victime, n'est-ce pas ?"
     },
-    "309209": {
-        "「……え！？\n　この星の配列は……まさか　あり得ない！": "…Quoi !? Cet alignement des etoiles… c'est\nimpossible !"
+    "311938": {
+        "「はっ！　フーラズーラに食われかけた　私を\n　駆けつけた卿が　救ってくださいました！": "Ha ! Vous m'avez sauve en vous precipitant,\nalors que j'etais sur le point d'etre devore\npar Fluzula !"
     },
-    "309210": {
-        "「いや　でも　しかし……。\n　ひょっとすると　さっきの魔物も？\n　すごいぞ　なんてことだッ！": "Non, mais, cependant... Peut-etre que le\nmonstre de tout a l'heure aussi ? Incroyable,\nquelle affaire !"
+    "311939": {
+        "「あっ……しかしながら　リズク王！\n　イルシーム卿には　感謝しておりますが\n　私は　死など　恐れておりません。": "Ah... Cependant, Roi Rizk ! Je suis\nreconnaissant envers Lord Ilseem, mais je n'ai\npas peur de la mort."
     },
-    "309211": {
-        "「<pc>さん。\n　お　落ちついて　聞いてくださいね。": "<pc>-san, Veuillez ecouter calmement,\ns'il vous plait."
+    "311940": {
+        "「アマラークのために　命捧げるは　誇り。\n　先に旅立った　同胞や祖先も　よろこんで\n　我が魂を　迎え入れるでしょう。": "Offrir ma vie pour Marack est un honneur. Les\ncamarades et ancetres qui sont partis avant\nmoi seront heureux d'accueillir mon ame."
     },
-    "309212": {
-        "「先ほど　我々の前に現れた魔物は\n　アストルティアで　確認されていないものです。\n　私も　はじめは　ただの新種かと思いました。": "Le monstre apparu devant nous tout a l'heure\nn'a jamais ete observe en Astoltia. Au debut,\nje pensais simplement qu'il s'agissait d'une<br>nouvelle espece."
+    "311941": {
+        "「……うむ。そなたらの覚悟こそ\n　アマラークの至宝である。": "Hum. Votre determination est veritablement le\ntresor d'Amarack."
     },
-    "309213": {
-        "「ですが　ここの天体を視認したところ\n　我々の知る　それとは　似ても似つかない\n　観測上　あり得ない配列をしています。": "Cependant, en observant les corps celestes\nici, nous avons remarque qu'ils sont disposes\nd'une maniere qui ne ressemble en rien a ce<br>que nous connaissons, une configuration\nimpossible selon nos observations."
+    "311942": {
+        "「王よ。彼らが　先刻\n　ご報告申し上げた　者たちです。": "O roi. Voici ceux dont nous vous avons parle\nprecedemment."
     },
-    "309214": {
-        "「自分で言っていても　信じがたい話ですが\n　これらの事象から　導き出される答えは\n　ただひとつ……": "Meme si cela semble incroyable a dire, la\nseule conclusion que l'on peut tirer de ces\nphenomenes est..."
+    "311943": {
+        "「ようこそ　はるか　異国からの客人よ。\n　我が名は　リズク。\n　このアマラークの王である。": "Bienvenue, noble voyageur venu de terres\nlointaines. Mon nom est Rizk. Je suis le roi\nde ce royaume d'Amarack."
     },
-    "309215": {
-        "「私たちは　アストルティアではない\n　未知の世界に　来てしまったのですッッ！": "Nous sommes arrives dans un monde inconnu, qui\nn'est pas Astoltia !"
+    "311944": {
+        "「しかし　客人よ。そなたらも　見たであろう？\n　フーラズーラという　正体不明の恐怖を。\n　一刻も早く　この国を去ったほうがいい。": "Cependant, cher invite. Vous l'avez vu aussi,\nn'est-ce pas ? La terreur inconnue appelee\nFluzula. Vous feriez mieux de quitter ce pays<br>au plus vite."
     },
-    "309216": {
-        "「……コホン。ともかく　これは\n　歴史に残る　重大な発見と言えるでしょう。\n　ただちに　調査を開始したいところですが……。": "...Hum hum. Quoi qu'il en soit, on peut dire\nque c'est une decouverte majeure qui restera\ndans l'histoire. Nous aimerions commencer<br>l'enquete immediatement, mais..."
+    "311946": {
+        "「<pc>。\n　この国には　調査のために来たけど……\n　困っている人を　見殺しにはできないわ。": "<pc>. Je suis venu dans ce pays pour\nmener une enquete, mais... Je ne peux pas\nignorer les personnes en difficulte."
     },
-    "309217": {
-        "「先ほど　現れたものの他にも\n　危険な魔物が　生息している可能性は\n　否定できませんからね。": "Il est possible que d'autres creatures\ndangereuses habitent ces lieux, en plus de\ncelles que vous avez deja rencontrees."
+    "311947": {
+        "「陛下。この国の窮状を　見たからこそ\n　帰るわけには　まいりません。": "Majeste. C'est precisement parce que j'ai vu\nla situation desesperee de ce pays que je ne\npeux pas repartir."
     },
-    "309218": {
-        "「いったん　アストルティアに戻って\n　ガートラント城にいらっしゃる　グロスナー王に\n　このことを　ご報告しなければ。": "Une fois retourne a Astoltia, nous devons\ninformer le Roi Grossner de Gartlant Castle de\ncette situation."
+    "311948": {
+        "「ジーガンフの言うように　フーラズーラを\n　倒せるかは　わかりませんが……アマラークを\n　救うため　協力させていただけませんか？": "Comme le dit Jiganf, je ne sais pas si nous\npouvons vaincre Fluzula... Mais pourriez-vous\nnous aider a sauver Amarak ?"
     },
-    "309219": {
-        "「調べたところ　この装置は　遺跡にあったものと\n　対になっていて　問題なく使用できそうです。\n　これを使い　アストルティアに戻りましょう。": "D'apres mes recherches, cet appareil est\njumele a celui qui se trouvait dans les\nruines, et il semble pouvoir etre utilise sans<br>probleme. Utilisons-le pour retourner a\nAstoltia."
+    "311949": {
+        "「……異国からの客人よ。\n　そなたらの申し出に　心から　感謝する。": "Chers invites venus d'un pays lointain, je\nvous suis profondement reconnaissant pour\nvotre proposition."
     },
-    "309220": {
-        "「では　あの装置は　ジア・クト念晶体が\n　使用していた　転送装置で\n　未知なる世界に　つながっていると？": "Alors, cet appareil etait un dispositif de\ntransfert utilise par le cristal de pensee\nGia-Kuto, et il est relie a un monde inconnu ?"
+    "311950": {
+        "「滞在中は　この城の客間を　自由に使うといい。\n　客間は　１階にある。\n　まずは　そこで　休まれるといいだろう。": "Pendant votre sejour, vous etes libre\nd'utiliser la chambre d'hotes de ce chateau.\nLa chambre se trouve au premier etage. Pour<br>commencer, je vous conseille de vous y\nreposer."
     },
-    "309221": {
-        "「だとすると　その世界は　ジア・クト念晶体が\n　支配する　危険な地では　あるまいか。\n　結晶があるのも　確認したのだろう？": "Dans ce cas, ce monde ne serait-il pas une\nterre dangereuse dominee par le Cristal de\nPensee Zia-Kuto ? Tu as bien confirme qu'il y<br>avait un cristal, n'est-ce pas ?"
+    "311951": {
+        "「ありがとうございます　陛下！": "Merci beaucoup, Votre Majeste !"
     },
-    "309222": {
-        "「おそれながら　もし　そうであれば\n　周囲に　ジア・クト念晶体の\n　拠点なりがあるのが　自然ではないかと。": "Je crains que, si c'est le cas, il serait\nnaturel qu'il y ait une base ou quelque chose\nde similaire des cristaux de pensee Gia Cto<br>dans les environs."
+    "311952": {
+        "「さあ　<pc>。\n　お言葉に甘えて　客間に行きましょう。": "Bien, <pc>. Profitons de votre\ngentillesse et allons au salon."
     },
-    "309223": {
-        "「かの地を　ジア・クト念晶体が\n　支配する領土だと断ずるのは　早計に思います。\n　それを確かめるためにも　探索すべきです。": "Je pense qu'il est premature de conclure que\nce territoire est sous la domination du\ncristal pensant de Jia Kuto. Nous devrions<br>explorer pour en etre surs."
+    "311954": {
+        "「おつかれさま　<pc>！\n　私たちも　サンプルを　集め終わっているわ。\n　アマラークで　ドゥラさんを待ちましょう。": "Bon travail, <pc> ! Nous avons egalement\ntermine de collecter les echantillons.\nAttendez Dura-san a Amarak."
     },
-    "309224": {
-        "「生態系や天体だけではない……\n　あの地には　アストルティアに存在しない\n　様々な可能性が　眠っている。": "Ce n'est pas seulement l'ecosysteme et les\ncorps celestes... Tant de possibilites qui ne\nse trouvent pas en Astoltia dorment sur cette<br>terre."
+    "311957": {
+        "「イルシームさんは　ほとんど休まずに\n　フーラズーラの襲撃に　備えてるって聞いたよ。\n　お酒も　いっさい　飲まないって。": "Il parait que Ilseem-san se prepare sans\npresque jamais se reposer pour l'attaque de\nFluzula. On dit meme qu'il ne boit pas une<br>goutte d'alcool."
     },
-    "309225": {
-        "「ただちに　大規模な調査隊を結成し\n　未知の大地の　調査に向かうべきだと\n　私は　考えます！": "Je pense que nous devrions immediatement\nformer une grande equipe d'expedition et\npartir explorer ces terres inconnues !"
+    "311958": {
+        "「お前たちが思うほど\n　禁欲的な生活を　しているわけでもないさ。\n　酒はやらんが　甘味のたぐいは　大好物だしな。": "Je ne mene pas une vie aussi ascetique que\nvous le pensez. Certes, je ne bois pas\nd'alcool, mais j'adore les sucreries."
     },
-    "309226": {
-        "「あの世界の存在は　必ずや\n　アストルティアの発展において\n　有益なものとなるでしょう！　と言うのも……": "L'existence de ce monde sera sans aucun doute\nbenefique au developpement d'Astoltia ! Et\ncela parce que..."
+    "311959": {
+        "「けれど　今だって\n　槍の鍛錬を　されていたのでしょう？\n　この国や……リズク王を　守るために。": "Mais meme maintenant, tu continues a\nt'entrainer a la lance, n'est-ce pas ? Pour\nproteger ce pays et... le roi Rizk."
     },
-    "309227": {
-        "「まあ　待て。ドゥラ院長。": "Attends un peu, Directeur Dura."
+    "311960": {
+        "「…………ああ。\n　大恩ある先王に　報いねばならんからな……。": "... Ah. Je dois rendre la pareille au defunt\nroi pour sa grande bienveillance..."
     },
-    "309228": {
-        "「そなたの考えも　理解できる。\n　しかし　ジア・クトのことを抜きにしても\n　どんな危険があるか　わからぬではないか。": "Je comprends ton point de vue. Cependant, meme\nsans prendre en compte Gia Cto, nous ignorons\nquels dangers pourraient se presenter."
+    "311961": {
+        "「最近　このあたりに出没する\n　少年山賊というのは　お前だね？\n　シュタール山賊団の　一味なのかい？": "Recemment, le brigand Boy qui rode par ici,\nc'est toi, n'est-ce pas ? Fais-tu partie du\ngang de brigands de Staal ?"
     },
-    "309229": {
-        "「ガートラントの王として　我が国の兵の命を\n　いたずらに　危険にさらすわけには　いかぬ。\n　無論　そなたたちの命もだ。": "En tant que roi de GarトLMPト, je ne peux pas\nexposer inutilement nos soldats au danger. Et\nbien sur, il en va de meme pour vos vies."
+    "311962": {
+        "「………………。": ""
     },
-    "309230": {
-        "「ですが……。": "Cependant..."
+    "311963": {
+        "「お前　名は？": "Quel est ton nom ?"
     },
-    "309231": {
-        "「ふむ……。\n　そなたはどう思う　<pc>。\n　未知の大地へ　向かうべきだと思うか？": "Hum... Qu'en penses-tu, <pc> ? Penses-tu\nque nous devrions nous diriger vers cette\nterre inconnue ?"
+    "311964": {
+        "「ガキ。": "Gamin."
     },
-    "309232": {
-        "「母を救いたければ　先の戦いで\n　ジア・クト念晶体が　残していった\n　遺物を　調べることだ。": "Si tu veux sauver ta mere, tu dois examiner\nles reliques que l'entite de pensee Zia Kuto a\nlaissees apres la derniere bataille."
+    "311965": {
+        "「ガキぃ？\n　それは　名前じゃないだろう？": "Gaki ? Ce n'est pas vraiment un nom, n'est-ce\npas ?"
     },
-    "309233": {
-        "「……オーガの王が　そなたを導くだろう。\n　未知の大地に　すべての答えがある。\n　行け　アストルティアを救うために。": "...... Le Roi Ogre te guidera. Toutes les\nreponses se trouvent dans cette terre\ninconnue. Vas-y, pour sauver Astoltia."
+    "311966": {
+        "「でも　ほかの連中は\n　おれのことを　そう呼ぶ。昔から。": "Mais les autres me surnomment ainsi. Depuis\ntoujours."
     },
-    "309234": {
-        "「どうした？\n　何か　言いたいことがあるのか？<yesno><close>": "Comment ca va ? Tu as quelque chose a dire ?\n<yesno><close>"
+    "311967": {
+        "「……そうか。": "...Je vois."
     },
-    "309235": {
-        "「遠慮はするな。\n　そなたの　本心を聞かせてほしい。\n　何か　言いたいことがあるのではないか？<yesno><close>": "N'hesite pas. J'aimerais entendre ce que tu as\nvraiment sur le coeur. N'aurais-tu pas quelque\nchose a dire ? <yesno><close>"
+    "311968": {
+        "「腹が減っているだろう？\n　私と　一緒に　おいで。\n　飯を食わせてやる。": "Tu dois avoir faim, non ? Viens avec moi. Je\nvais te donner a manger."
     },
-    "309236": {
-        "「大切な者を救うため　自分は　未知の大地へ\n　旅立たなければならない……そう　申すか。\n　何やら　深い事情が　ありそうだな。": "Pour sauver quelqu'un de precieux, tu dois\npartir pour une terre inconnue... C'est bien\ncela que tu dis. Il semble y avoir des<br>circonstances profondes derriere tout cela."
+    "311969": {
+        "「……なんで。": "Pourquoi."
     },
-    "309237": {
-        "「わかった！　これまで　アストルティアのため\n　尽くしてくれた　そなたの望みを\n　無下にはできん。協力しようではないか！": "D'accord ! Tu as tant oeuvre pour Astoltia\njusqu'a present. Je ne peux pas ignorer ton\nsouhait. Collaborons ensemble !"
+    "311970": {
+        "「子は　国の宝。\n　お前は　国の長たる私の　宝だから。": "Les enfants sont le tresor de la nation. Et\ntoi, tu es le tresor du leader de notre pays,\nc'est-a-dire moi."
     },
-    "309238": {
-        "「ただちに　ドルワーム王国と協力して\n　アストルティア中から　有志を募り\n　異世界探索の調査隊を　結成するとしよう。": "Collaborons immediatement avec les Royaumes de\nDolworm pour recruter des volontaires a\ntravers tout Astoltia et former une equipe<br>d'exploration pour enqueter sur d'autres\nmondes."
+    "311971": {
+        "「クニ？　オサ？\n　…………あっ。": "Le pays ? Le roi ? ... Ah."
     },
-    "309239": {
-        "「そして　<pc>を　その調査隊の隊長。\n　ドゥラ院長を　特別技術顧問に\n　それぞれ　任命する。引き受けてくれるな？": "Et je nomme <pc> chef de cette equipe\nd'enquete. Quant a Director Dura, il sera\nnotre conseiller technique special. Vous<br>acceptez, n'est-ce pas ?"
+    "311972": {
+        "「さあ　行こう。\n　アマラークに戻ったら\n　お前の名を　考えねばならないな。": "Allons-y. Lorsque nous serons de retour a\nMarack, nous devrons reflechir a un nom pour\ntoi."
     },
-    "309240": {
-        "「ありがとうございます　グロスナー王！\n　急ぎ　ドルワームに戻り　ウラード国王に\n　このことを　報告します！": "Je vous remercie, King Grossner ! Je retourne\nd'urgence a Dolworm pour rapporter cela a King\nWoolard !"
+    "311973": {
+        "「……まあ。\n　まずは　風呂に入ってもらおうかな。": "…Eh bien. Je vais d'abord te faire prendre un\nbain."
     },
-    "309241": {
-        "「さあ　これから　忙しくなりますよっ！\n　よろしくお願いしますね　<pc>隊長！": "Maintenant, les choses vont devenir occupees !\nJe compte sur vous, capitaine <pc> !"
+    "311974": {
+        "「女王は　俺に　名をくれた。教育をくれた。\n　兵士という役目を　生きる場所をくれた。\n　リズクが生まれると　兄になってくれとも……。": "La reine m'a donne un nom. Elle m'a offert une\neducation. Un role de soldat, un endroit ou\nvivre. Et quand Rizk est ne, elle m'a demande<br>de devenir son frere..."
     },
-    "309242": {
-        "こうして　ガートラント王国が中心となり\nアストルティア全体を巻きこむ\n一大プロジェクトが　発足したのだった。": "Ainsi, sous l'impulsion du royaume de\nGartrump, un grand projet impliquant\nl'ensemble d'Astoltia a ete lance."
+    "311975": {
+        "「すてきな方……。でも　私たちは\n　先王陛下を　お見かけしたことがありません。\n　まさか……？": "Un homme si charmant... Mais nous n'avons\njamais vu le precedent roi. Serait-ce\npossible...?"
     },
-    "309243": {
-        "<pc>は　ドゥラ院長と共に\nグロスナー王のもとで　未知の世界の調査の\n準備を進めていった。そして……": "<pc>, avec le Director Dura, a continue\nles preparatifs pour l'exploration du monde\ninconnu sous la direction du King Grossner. Et<br>puis..."
+    "311976": {
+        "「女王は　フーラズーラに食われた。\n　リズクをかばって……幼いリズクの目の前で。": "La reine a ete devoree par Fluzula. Elle\nprotegeait Rizk... juste devant les yeux du\njeune Rizk."
     },
-    "309244": {
-        "「<pc>。\n　そなたや　ドゥラ院長の協力のおかげで\n　調査の準備は　順調に進んでおる。": "<pc>. Grace a toi et a l'aide de\nDirector Dura, les preparatifs pour l'enquete\navancent bien."
+    "311977": {
+        "「当時は　上級士官以上の兵士が　持ち回りで\n　黒槍を持って　巡回をおこなっていた。一兵卒に\n　すぎなかった俺は　城で訓練中だった……。": "A l'epoque, les soldats de rang officier\nsuperieur ou plus prenaient a tour de role la\nlance noire pour effectuer des patrouilles.<br>Moi, qui n'etais qu'un simple soldat, j'etais\nen plein entrainement au chateau..."
     },
-    "309245": {
-        "「ドゥラ院長が　主導して　おこなっていた\n　調査隊のメンバー選出も　完了した。\n　どの者も　なかなかの傑物ぞろいだぞ。": "La selection des membres de l'equipe\nd'enquete, dirigee par le Directeur Dura, est\nmaintenant terminee. Chacun d'eux est un<br>individu exceptionnel."
+    "311978": {
+        "「……だから　イルシームさんは\n　国いちばんの　戦士になったんだね。\n　黒槍で　リズクさんを　守るために……。": "Donc, Ilseem-san est devenu le meilleur\nguerrier du pays. Pour proteger Rizk-san avec\nsa lance noire"
     },
-    "309246": {
-        "「その中のひとりは　そなたが　よく知る人物……\n　グランゼドーラ王国の　勇者姫アンルシアだ。": "Parmi eux se trouve une personne que tu\nconnais bien... Il s'agit de la Heroine\nAnlucia du Royaume de Gran Zedora."
+    "311979": {
+        "「まあ　リズクには　自分や城より\n　町を中心に警備しろと　命じられているがな。": "Eh bien, Rizk a recu l'ordre de se concentrer\nsur la securite de la ville plutot que sur\nlui-meme ou le chateau."
     },
-    "309247": {
-        "「実力　人柄ともに　調査隊の一員として\n　これほどまでに　ふさわしい者は\n　他に　おらんだろう。": "En termes de competences et de personnalite,\nil n'y a personne d'autre qui soit aussi\nqualifie pour etre membre de l'equipe<br>d'exploration."
+    "311982": {
+        "「あっ　そーだ　イルシームさん！\n　これから　あたしたちの仲間の　学者さんが\n　アマラーク城に　来る予定なの。": "Ah, c'est vrai, Ilseem-san ! A partir de\nmaintenant, un de nos camarades, un erudit,\ndoit venir au chateau d'Amarak."
     },
-    "309248": {
-        "「しかし……我が国を訪れるという\n　約束の期日は　とうに過ぎておるのに\n　いくら待てども　姿を見せないのだ。": "Cependant... bien que la date promise pour\nvisiter notre pays soit depuis longtemps\ndepassee, nous attendons toujours sans<br>apercevoir sa presence."
+    "311983": {
+        "「黒槍を見せたいから\n　イルシームさんも　一緒に来てくれる？": "J'aimerais te montrer la lance noire. Est-ce\nque tu pourrais venir avec nous, Ilseem-san ?"
     },
-    "309249": {
-        "「あの勇者姫が　約束を違えるとは　信じがたい。\n　もしかすると　グランゼドーラで\n　何か　問題でも　起こったのかもしれぬ。": "Il est difficile de croire que cette princesse\nheroique ait rompu sa promesse. Il se pourrait\nqu'il y ait eu un probleme a GlMP Zedora."
+    "311984": {
+        "「承知した。\n　では　城へ行こう。": "Compris. Alors, allons au chateau."
     },
-    "309250": {
-        "「すまぬが　グランゼドーラ城まで\n　アンルシア姫を　迎えにいってほしい。\n　よろしく頼んだぞ。": "Je suis desole, mais pourrais-tu aller\nchercher la Princesse Anlucia au Chateau de\nGran Zedora ? Je compte sur toi."
+    "311985": {
+        "「……ああ。": "...Ah."
     },
-    "309251": {
-        "「来ていたのか。": "Tu etais la."
+    "311986": {
+        "「……今の話　信じるのか？": "...Tu crois a cette histoire ?"
     },
-    "309252": {
-        "「なるほど　グロスナー王の使いで　来たのだな。\n　王には　本当に　申し訳ないことをした。\n　緊急事態ゆえ　こちらも気が回らなかった。": "Je vois, tu es venu de la part de King\nGrossner. Je suis vraiment desole envers le\nroi. En raison de la situation d'urgence, nous<br>n'avons pas pu nous en occuper."
+    "311987": {
+        "「ふむ……万物に宿る　エネルギーか。\n　たしかに　ある流派の武術にも\n　似たような教えは　あるがな。": "Hmm... L'energie qui reside dans toutes\nchoses, hein. Il est vrai qu'il existe des\nenseignements similaires dans certains styles<br>d'arts martiaux."
     },
-    "309253": {
-        "「調査隊への参加を　承諾する連絡をしてすぐ\n　突然　倒れてな。\n　それ以来　ずっと眠りつづけているのだ……。": "J'ai accepte de rejoindre l'equipe\nd'exploration et peu apres, je me suis\nsoudainement effondre. Depuis, je suis plonge<br>dans un sommeil profond..."
+    "311988": {
+        "「オレを　チャンピオンと呼ぶのは　やめろ！": "Arrete de m'appeler Champion !"
     },
-    "309254": {
-        "「安心しろ　アンルシアは眠っているだけだ。\n　身体に　異常はない。": "Rassure-toi, Anlucia est simplement endormie.\nSon corps ne presente aucune anomalie."
+    "311989": {
+        "「それで……これから　どうする？\n　門番には　追い返されたが\n　もう一度　あの町に　向かうのか？": "Ca alors... Que fait-on maintenant ? Le garde\nnous a repousses, mais allons-nous retourner\ndans cette ville ?"
     },
-    "309255": {
-        "「いろいろと　手を尽くしたのだが\n　いっこうに　目を覚まさん。\n　まるで　何かを　拒むかのように。": "J'ai essaye de nombreuses methodes, mais il ne\nse reveille toujours pas. C'est comme s'il\nrefusait quelque chose."
+    "311990": {
+        "「そうか。\n　では　オレは　薪でも用意してこよう。": "Je vois. Alors, je vais aller preparer du bois\nde chauffage."
     },
-    "309256": {
-        "「ただの呪いや　病気のたぐいとは思えぬ\n　異常事態だが　こんな時　頼りになるはずの\n　シオン殿も　突然　姿を消してしまったのだ。": "C'est une situation anormale qui ne semble pas\netre simplement une malediction ou une\nmaladie. Mais justement dans un moment comme<br>celui-ci, Shion-dono, sur qui nous devrions\npouvoir compter, a soudainement disparu."
+    "311991": {
+        "「薪の準備が　できたぞ……ん？\n　お前が持っているのは　マガマガタケだな。\n　毒はあるが　処理すれば　うまいキノコだ。": "La preparation du bois est terminee... Hein ?\nCe que tu tiens la, c'est un Magamagatake.\nC'est un champignon veneneux, mais une fois<br>bien prepare, c'est un delicieux Bolaid."
     },
-    "309257": {
-        "「このグランゼドーラに\n　いったい　何が起こっているのか……。": "Dans cette LMP Zedora, qu'est-ce qui se passe\nexactement...?"
+    "311992": {
+        "「修行で　よく山に　こもっていたからな。\n　食事や料理も　修行の一環だ。……この世界にも\n　アストルティアと同じものが　あるとはな。": "Je m'isolais souvent dans la montagne pour\nm'entrainer. La cuisine et les repas faisaient\npartie de mon entrainement... Je suis surpris<br>de voir que ce monde possede les memes choses\nque l'Astoltia."
     },
-    "309258": {
-        "「アンルシアの　眠りを解く方法は\n　私のほうで　探しておく。\n　何かわかったら　お前にも知らせよう。": "Je chercherai un moyen de reveiller Anlucia de\nson sommeil. Si je decouvre quelque chose, je\nte tiendrai informe."
+    "311993": {
+        "「こいつと魚で　スープを作るなら　先に\n　マガマガタケの下処理を　済ませたほうがいい。\n　鍋が沸騰したら　どくけしそうと一緒に…………": "Si tu veux preparer une soupe avec ceci et du\npoisson, il vaut mieux commencer par nettoyer\nle Magamagatake. Une fois que la casserole<br>bout, ajoute l'Antidotal Herb avec..."
     },
-    "309259": {
-        "「すまないが　アンルシアは\n　今回の旅に　同行はできない。\n　グロスナー王に　よろしく伝えておいてくれ。": "Je suis desole, mais Anlucia ne pourra pas\nvous accompagner dans ce voyage. Transmettez\nmes salutations a King Grossner."
+    "311994": {
+        "「……オレが　作るか？": "......Veux-tu que je le fasse ?"
     },
-    "309260": {
-        "「おかえりなさい　隊長。\n　おや？　アンルシア姫を\n　迎えにいったはずでは……？": "Bienvenue, Capitaine. Tiens ? N'etiez-vous pas\nparti chercher la Princesse Anlucia...?"
+    "311995": {
+        "「ああ……怖がらせていたのなら　すまなかった。\n　どうも　オレは　クチ下手でな……。\n　マイユにも　よく　あきれられたものだ。": "Ah... Si je t'ai fait peur, je suis desole. Je\nne suis pas tres doue avec les mots... Meme\nMayu est souvent desabusee par moi."
     },
-    "309261": {
-        "「アンルシア姫は　おいでにならないと……。\n　ずっと　眠ったまま　目を覚まさないとは\n　心配ですね……。": "La Princesse Anlucia ne vient toujours pas...\nC'est inquietant qu'elle reste endormie sans\nse reveiller..."
+    "311996": {
+        "「いや　オレたちは　ただの幼なじみだ。\n　マイユと　一緒になったのは　別の男で…………\n　まあ　オレの話など　どうでもいいか。": "Non, nous ne sommes que de simples amis\nd'enfance. C'est un autre homme qui s'est mis\navec Mayu... Enfin, peu importe mon histoire."
     },
-    "309262": {
-        "「おっと　そうだ。たった今\n　他の調査隊のメンバーが　そろったところです。\n　みなさん　隊長に　ごあいさつを！": "Oh, j'allais oublier. Juste a l'instant, les\nautres membres de l'equipe d'exploration\nviennent d'arriver. Tout le monde, saluez le<br>capitaine !"
+    "311997": {
+        "「そんなオレを　止めてくれたのが\n　村を訪れていた　<cs_pchero>だ。\n　あのときは　世話になったな。": "Celui qui m'a empeche de faire ca, c'etait\n<cs_pchero>, qui visitait le village. Je te\ndois une fiere chandelle pour ce moment-la."
     },
-    "309263": {
-        "「よっ　ひさしぶり。\n　実入りの良さそうな　仕事だったんでな。\n　調査隊とやらに　同行させてもらうぜ。": "Salut ! Ca faisait un bail. C'etait un travail\nqui semblait bien paye. Je vais donc\naccompagner l'equipe d'exploration."
+    "311998": {
+        "「だが　勇者覚醒の証……世界中を照らした\n　白い光で　ゾンガロンは　ふたたび封印され\n　オレは　正気を　取りもどした。": "Cependant, le signe de l'eveil du heros... La\nlumiere blanche qui a illumine le monde entier\na scelle a nouveau Zongaron, et j'ai retrouve<br>ma lucidite."
     },
-    "309264": {
-        "「……ジーガンフだ。\n　マリーンの事件のときは　世話になった。": "...C'est Jiganf. Je me souviens de l'affaire\navec Mariin, tu m'as bien aide a ce moment-la."
+    "311999": {
+        "「そして　オレは　真の勝者であるアロルドと\n　やつの花嫁の　マイユが\n　村から旅立つのを　見送ったんだ。": "Et alors, j'ai vu T. Arold, le vainqueur, et\nsa fiancee Mayu partir du village pour leur\nvoyage."
     },
-    "309265": {
-        "「ジーガンフは　オーガの猛者たちが住む\n　ランガーオ村の　武闘大会チャンピオンだ。\n　実力は　わしが保証しよう。": "Jiganf est le champion du tournoi de combat du\nvillage de Langao, ou resident les redoutables\nguerriers Ogre. Je garantis sa competence."
+    "312000": {
+        "「つらいと言うより　情けない話だな。\n　まあ……お前たちには\n　楽しんでもらえたようで　よかった。": "C'est plus une histoire de honte que de\ndouleur. Enfin... Je suis content que vous\nayez pu en profiter."
     },
-    "309266": {
-        "「へへっ　俺は　かわいい甥っ子……\n　ラグアスに頼まれて　参加したってわけさ。\n　自分の代理で　遠い世界を見てきてくれってな。": "Hehe, je suis le charmant neveu... J'ai ete\ninvite a participer par Largus. Il m'a demande\nde parcourir le monde lointain en son nom."
+    "312001": {
+        "「ジーくん！？": "Ji-kun !?"
     },
-    "309267": {
-        "「おっと　こう見えて　俺はウデも立つし\n　見知らぬ土地に行くのに　サーカスの芸ってのは\n　意外と役に立つぜ？　期待しててくれよな！": "He, ne te laisse pas tromper par les\napparences. Je suis assez doue, et quand il\ns'agit de voyager dans des terres inconnues,<br>les competences de cirque peuvent etre\netonnamment utiles ! Tu peux compter sur moi !"
+    "312002": {
+        "「ジーくん！？": "Ji-kun !?"
     },
-    "309268": {
-        "「おひさしぶりです　<pc>さん。\n　また　共に　冒険できるなんて　夢のようです。\n　竜族代表として　がんばらせていただきますね。": "Ca fait longtemps, <pc>-san. C'est comme\nun reve de pouvoir a nouveau partir a\nl'aventure ensemble. Je ferai de mon mieux en<br>tant que representant des dragons."
+    "312003": {
+        "「………………。\n<select_nc>\nジーくん！\n…………。\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "<select_nc> Ji-kun ! <select_end>"
     },
-    "309269": {
-        "「やあ　大魔お……おっと　ここでは　\n　隊長と呼んだほうが　良さそうかな。\n　……ああ　この姿のことは　気にしないで。": "Salut, Grand Ma... Oh, ici, il vaut mieux\nt'appeler Capitaine. Ah, ne fais pas attention\na mon apparence."
+    "312004": {
+        "「ジーくん……。": "ジーくん"
     },
-    "309270": {
-        "「個人的に　アストルティアの近況を調べていたら\n　君が隊長となって　冒険の旅に出ると聞いてさ。\n　いてもたってもいられなくて　来てしまったよ！": "Quand j'ai personnellement enquete sur la\nsituation actuelle d'Astoltia, j'ai entendu\ndire que tu allais partir en voyage d'aventure<br>en tant que capitaine. Je ne pouvais pas\nrester en place et je suis venu te voir !"
+    "312005": {
+        "「…………。": ""
     },
-    "309271": {
-        "「……お披露目式では　<pc>の言うことを\n　信じてあげられなくて　ごめんなさい。\n　ひどい態度を　取ってしまって……。": "...Je suis desolee de ne pas avoir pu croire\nce que <pc> disait lors de la ceremonie\nde presentation. J'ai eu une attitude vraiment<br>horrible..."
+    "312006": {
+        "「……その後　オレは　ゾンガロンを倒すべく\n　修行の旅に出たんだが……その間に　やつは\n　<cs_pchero>の手で　倒されていたらしい。": "…Ensuite, je suis parti en voyage\nd'entrainement pour vaincre Zongaron, mais…\npendant ce temps, il semble qu'il ait ete<br>vaincu par <cs_pchero>."
     },
-    "309272": {
-        "「パドレ叔父様も　同じ気持ちよ。\n　私の想いを伝えたら　私が不在の間\n　国を支えてくださると　約束してくれた。": "L'oncle Padre partage les memes sentiments.\nQuand je lui ai exprime mes intentions, il m'a\npromis de soutenir le royaume en mon absence."
+    "312007": {
+        "「ああ……文句を　言いたいわけじゃないんだ。\n　間に合わなかったオレが　悪いだけだからな。": "Ah... Je ne veux pas me plaindre. C'est de ma\nfaute si je n'ai pas reussi a temps."
     },
-    "309273": {
-        "「私は　あなたの言うことを　信じるわ。\n　マローネさんを　捜すのに\n　私も　同行させてちょうだい！": "Je te crois. Laisse-moi t'accompagner pour\nchercher Marone-san !"
+    "312008": {
+        "「しかし　己の武を懸ける　目的を失って\n　この先　自分は　何をすべきか……\n　悩んでいたところに　調査隊の話を聞いてな。": "Cependant, ayant perdu l'objectif pour lequel\nje devais mettre en jeu mes competences\nmartiales, je me suis demande ce que je devais<br>faire desormais... C'est alors que j'ai\nentendu parler de l'equipe d'exploration."
     },
-    "309274": {
-        "「以上が　異世界探索の調査隊メンバーです。\n　アンルシア姫がいないのは　残念ですが\n　このメンバーで　向かうとしましょう。": "Voici les membres de l'equipe d'exploration du\nmonde parallele. C'est dommage que la\nPrincesse Anlucia ne soit pas presente, mais<br>nous partirons avec cette equipe."
+    "312009": {
+        "「ゾンガロンを倒すための修行で　鍛えあげた\n　この拳にふさわしい　強敵との出会い。\n　……それが　この旅に　オレが望むことだ。": "Rencontrer un adversaire redoutable, digne de\nce poing que j'ai renforce a travers\nl'entrainement pour vaincre Zongaron... C'est<br>ce que je souhaite lors de ce voyage."
     },
-    "309275": {
-        "「お話中のところ　失礼いたします！\n　調査隊の　入隊希望者という者が\n　来ているのですが……。": "Excusez-moi de vous interrompre pendant votre\nconversation ! Un candidat souhaitant integrer\nl'equipe d'exploration est arrive..."
+    "312010": {
+        "「ハッ……さっそく\n　オレの望みが　かなうかもしれん。": "Hah... Mon souhait pourrait bien se realiser\ntout de suite..."
     },
-    "309276": {
-        "「入隊希望者？\n　募集は　とうに締め切ったはずでしょう。": "Un candidat pour l'enrolement ? Le recrutement\nest cense etre termine depuis longtemps."
+    "312011": {
+        "「まったくだな。\n　オレの名は　ジーガンフだ。\n　また　手合わせしてくれ。": "Tout a fait. Je suis Jiganf. Combats-moi a\nnouveau."
     },
-    "309277": {
-        "「……ええええええ～！？\n　締め切りなんて　聞いてないよう！\n　ねえねえ　なんとかならないの？": "…Eh ?! Je n'ai jamais entendu parler d'une\ndate limite ! He, he, il n'y a vraiment rien\nqu'on puisse faire ?"
+    "312012": {
+        "「気にするな。\n　オレだって　お前たちと同じ立場で\n　オーガ以外の種族を見たら　驚く。": "Ne t'inquiete pas. Moi aussi, si je voyais\nd'autres races que les Ogre dans la meme\nsituation que vous, je serais surpris."
     },
-    "309278": {
-        "「なんとかと言われても　決まりですので……。\n　調査隊のメンバーは　もう定員です。\n　残念ですが　お引き取りください。": "Peu importe ce que vous dites, c'est la\nregle... Les membres de l'equipe d'exploration\nsont deja au complet. Je suis desole, mais je<br>vais devoir vous demander de partir."
+    "312013": {
+        "「はあああああっ！": "Haaaah !"
     },
-    "309279": {
-        "「そんなぁ　どうしよう……。\n　お師匠様に　怒られちゃうよ……。\n　あっ！": "Non, qu'est-ce que je vais faire... Mon maitre\nva se facher contre moi... Ah !"
+    "312014": {
+        "「なんだと！？\n　ならば……これは　どうだああッ！": "Quoi !? Alors... que dis-tu de caaaa !"
     },
-    "309280": {
-        "「ねぇねぇ！\n　もしかして　キミ……<pc>？\n　わぁ　お師匠様の言ってた通りだ！": "Hey, hey! Could it be that you... are\n<pc>? Wow, just like my master said!"
+    "312015": {
+        "「くっ……なんなんだ　こいつは！\n　このオレの拳が　まったく効かないだと！？": "Grrr... Mais qu'est-ce que c'est que ce type\n!? Mon poing ne lui fait absolument rien !?"
     },
-    "309281": {
-        "「はじめまして！　あたし　ポルテ！\n　調査隊に入って　<pc>を　助けるように\n　師匠に　言われたんだ～。": "Enchantee ! Je suis Porte ! Mon maitre m'a dit\nde rejoindre l'equipe d'exploration pour aider\n<pc>."
+    "312016": {
+        "「く……っ！": "Argh... !"
     },
-    "309282": {
-        "「……んん？　どうしたの～？\n　あたしのこと　じーっと見て。\n　あたしの顔に　何かついてる？\n<select_nc>\nお披露目式で会った？\n双子の姉妹？\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Hmm ? Qu'est-ce qu'il y a~ ? Tu me regardes\nfixement. Est-ce que j'ai quelque chose sur le\nvisage ? <select_nc> On s'est rencontres a la<br>ceremonie de presentation ? Une soeur jumelle ?\n<select_end> <case 1> <close> <case 2> <close>\n<case_cancel> <close> <case_end>"
+    "312017": {
+        "「おい　何を言っている！？\n　食えって　まさか……！": "He, qu'est-ce que tu racontes !? Tu ne vas\nquand meme pas dire... !"
     },
-    "309283": {
-        "「お披露目式？　なんのこと～？\n　キミとは　はじめましてだよ。": "La ceremonie de presentation ? De quoi\nparles-tu~ ? C'est la premiere fois qu'on se\nrencontre."
+    "312018": {
+        "「おい　ふざけるな！\n　オレは　頼んでないぞ！": "He, ne plaisante pas ! Je n'ai rien demande,\nmoi !"
     },
-    "309284": {
-        "「双子？　なんのこと～？\n　あたしは　ひとりっ子だよ。": "Des jumeaux ? De quoi tu parles ? Je suis\nenfant unique, tu sais."
+    "312019": {
+        "「イルシーム……！": "Ilseem......！"
     },
-    "309285": {
-        "「……おい　嬢ちゃん。オレたちが向かうのは\n　未知の生物が住む　危険な異世界だ。\n　アンタが来ても　足手まといになるだけだぜ。": "He, ma p'tite dame. On se dirige vers un autre\nmonde dangereux ou vivent des creatures\ninconnues. Si tu viens avec nous, tu ne feras<br>que nous ralentir."
+    "312020": {
+        "「あの化け物は　いったい　なんなんだ？\n　オレの拳は　効かなかったのに\n　なぜ　お前の攻撃は　通用する？": "Ce monstre... qu'est-ce que c'est au juste ?\nMes poings n'ont eu aucun effet, alors\npourquoi tes attaques fonctionnent-elles ?"
     },
-    "309286": {
-        "「むぅ～　バカにしないでよっ！\n　お師匠様ほどじゃないけど　あたし　特別な術が\n　使えるんだよ～。きっと　役に立つよ！": "Mmm~ Ne me sous-estime pas ! Je ne suis\npeut-etre pas aussi douee que mon maitre, mais\nje peux utiliser des techniques speciales. Je<br>suis sure que ca sera utile !"
+    "312021": {
+        "「このオレが　手も足も　出ないだと……？\n　あの修行の日々は　無意味だったというのか！？": "Moi, incapable de faire quoi que ce soit... ?\nCes jours d'entrainement n'etaient-ils donc\nque futilite ?！"
     },
-    "309287": {
-        "「いっくよ～　見ててね～。\n　むむむむぅ～～……。": "Allons-y~ Regarde bien~. Mumumumu~~......"
+    "312022": {
+        "「当然だ！": "Bien sur !"
     },
-    "309288": {
-        "「まあ！　タネが……。": "Oh ! Les graines..."
+    "312023": {
+        "「悪いが　そのつもりはない。\n　やつを　この手で　ぶちのめすまでは　帰れん！": "Desole, mais je n'ai pas cette intention. Je\nne rentrerai pas tant que je ne l'aurai pas\nmis K.O. de mes propres mains !"
     },
-    "309289": {
-        "「すごい！　お花が　咲いたわ！": "Incroyable ! Les fleurs ont eclos !"
+    "312024": {
+        "「失礼する。": "Je vous prie de m'excuser."
     },
-    "309290": {
-        "「植物に　生命力を与え　成長させたのか。\n　ヴェリナード王家の歌に　通じる……\n　いや　それとも異なる　興味深い術だね。": "Tu as donne de la vitalite aux plantes et les\nas fait croitre. Cela rappelle le chant de la\nfamille royale de Verinard... Non, c'est<br>plutot une technique differente et fascinante."
+    "312025": {
+        "「イルシーム卿と……国王陛下！？\n　いったい　どうされたのですか？": "Ilseem-dono et... Sa Majeste le Roi !? Que se\npasse-t-il ?"
     },
-    "309291": {
-        "「ねっ　ねっ！　すごいでしょっ？\n　だから　あたしを　調査隊に……": "He, he ! C'est incroyable, non ? C'est\npourquoi je devrais rejoindre l'equipe\nd'exploration..."
+    "312026": {
+        "「リズクが　あらためて　お前たちに\n　挨拶したいと　言うのでな。": "Rizk souhaite vous saluer a nouveau."
     },
-    "309292": {
-        "「でも　植物を成長させるだけでしょう？\n　たしかに　めずらしい技術ではありますが……。": "Mais cela ne fait que faire pousser des\nplantes, non ? C'est vrai que c'est une\ntechnique rare, cependant..."
+    "312027": {
+        "「ごきげんよう　客人よ。\n　この部屋の居心地は　いかがですか？\n　不便があれば　城の者に　お申しつけください。": "Bonjour, cher invite. Comment trouvez-vous le\nconfort de cette chambre ? Si vous avez le\nmoindre desagrement, n'hesitez pas a le<br>signaler au personnel du chateau."
     },
-    "309293": {
-        "「<pc>　お願い！　あたし　どーしても\n　いっしょに　行かなくちゃいけないのっ！\n　あたしを　調査隊に入れてよ！<yesno><close>": "<pc>, s'il te plait ! Je dois absolument\ny aller avec vous ! Integre-moi dans l'equipe\nd'exploration !<yesno><close>"
+    "312028": {
+        "「なんか　王さま……玉座の間で会ったときと\n　雰囲気ちがうね？　イルシームさんも\n　王さまのこと　呼び捨てにしてるし。": "Je trouve que le roi… n'a pas la meme ambiance\nque lorsqu'on l'a rencontre dans la salle du\ntrone, non ? Et Ilseem-san l'appelle aussi<br>sans utiliser de titre honorifique."
     },
-    "309294": {
-        "「そんなぁ！　あたし　ぜーったい\n　<pc>の役に　立ってみせるから！\n　だから　お願い！　調査隊に入れてよ！<yesno><close>": "Oh non ! Je vais absolument prouver que je\npeux etre utile a <pc> ! Alors, s'il te\nplait ! Laisse-moi rejoindre l'equipe<br>d'exploration !"
+    "312029": {
+        "「俺は先王……リズクの親の代から仕えていてな。\n　こいつのことは　赤ん坊のころから　見てきた。\n　おしめを　替えてやったこともある。": "Je sers la famille royale depuis l'ere de\nl'ancien roi... depuis les parents de Rizk.\nJ'ai vu cet enfant grandir depuis qu'il etait<br>bebe. Je lui ai meme change ses couches."
     },
-    "309295": {
-        "「わぁっ！　やったやった！　ありがと～！\n　あたし　精一杯　がんばるからっ。\n　これからよろしくね　<pc>～！": "Waouh ! Super, super ! Merci beaucoup ! Je\nvais faire de mon mieux, promis. Ravie de\ntravailler avec toi, <pc>~ !"
+    "312030": {
+        "「はは……彼の言うとおり　イルシームは\n　私の　兄のような方なんです。城の者の前では\n　王と臣下として　接していますけどね。": "Ha ha... Comme il le dit, Ilseem est comme un\nfrere pour moi. Devant les gens du chateau,\nnous interagissons en tant que roi et sujet,<br>cependant."
     },
-    "309296": {
-        "「まぁ　隊長が　そう言うなら……。\n　何かの役に　立つかもしれませんし\n　あなたの入隊を　許可しましょう。": "Eh bien, si le capitaine le dit... Cela\npourrait etre utile d'une maniere ou d'une\nautre, alors nous allons autoriser votre<br>enrolement."
+    "312031": {
+        "「……イルシームから\n　あなた方は　信頼できる人物だと聞き\n　ひとりの男として　お礼を　言いにきました。": "Ilseem m'a dit que vous etes une personne de\nconfiance, et je suis venu vous remercier en\ntant qu'homme."
     },
-    "309297": {
-        "「さて　これで　調査隊がそろいました。\n　バカンウグレ遺跡の転送装置を使い\n　異世界へ　旅立つとしましょう。": "Bien, maintenant que l'equipe d'exploration\nest au complet, utilisons le dispositif de\nteleportation des ruines de Bakanugure pour<br>nous aventurer dans un autre monde."
+    "312032": {
+        "「<pc>さん。縁もゆかりもない　この国と\n　民のため　チカラを貸してくださること……\n　本当に　ありがとうございます。": "<pc>-san. Pour preter votre aide a ce\npays et a ses habitants, sans aucun lien\nparticulier... Je vous en suis vraiment<br>reconnaissant."
     },
-    "309298": {
-        "「いよいよ　出発か……。\n　かーっ　なんだか　緊張しちまうなぁ！": "Enfin, c'est le depart... Ouf, je ne peux\nm'empecher de me sentir nerveux !"
+    "312033": {
+        "「ですが　ひとつだけ　約束してください。\n　この国のために　無理はしないと。\n　けっして　命を捧げたりはしないと。": "Mais s'il vous plait, promettez-moi une chose.\nNe vous epuisez pas pour ce pays. Ne sacrifiez\njamais votre vie."
     },
-    "309299": {
-        "「この遺跡は　古代オルセコの\n　時代のものだそうだよ。並べられてる像には\n　宗教的な意味合いが　感じられるね……。": "Ce vestige semble dater de l'epoque de\nl'Ancien Orseco. Les statues alignees ici\nsemblent avoir une signification religieuse..."
+    "312034": {
+        "「お前たちも　見ただろう。\n　この国の兵士は　死を　いとわない……\n　むしろ　美徳とさえ思っている。": "Vous avez vu, n'est-ce pas ? Les soldats de ce\npays ne craignent pas la mort... Au contraire,\nils la considerent presque comme une vertu."
     },
-    "309300": {
-        "「……おい　アンタら。\n　遠足じゃねえんだぞ。\n　あんま　はしゃいでんじゃねえ。": "…He, vous la-bas. Ce n'est pas une excursion,\nvous savez. Ne vous emballez pas trop."
+    "312035": {
+        "「黒槍以外の攻撃を　受け付けない\n　フーラズーラという天敵を　抱えつづけ……\n　長い年月の中で　兵たちの意識は変わりました。": "\nFluzulaという天敵を抱え続け、黒槍以外の攻撃を受け付けない中で、長い年月の中で兵たちの意識は変わりました"
     },
-    "309301": {
-        "「こちらで出発前の　最終確認をしておりますので\n　みなさん　もう少々　お待ちください！": "Nous effectuons ici les dernieres\nverifications avant le depart, alors je vous\nprie de patienter encore un moment, tout le<br>monde !"
+    "312036": {
+        "「黒槍を持たぬ　一般の兵士たちに　できるのは\n　民の身代わりとなって　やつらに食われること。\n　つまり……死こそが　誇りであると。": "Les soldats ordinaires qui ne portent pas la\nlance noire ne peuvent que se sacrifier a la\nplace des citoyens et se faire devorer par ces<br>creatures. En d'autres termes... la mort est\nleur seul honneur."
     },
-    "309302": {
-        "「あなたのお母さん……\n　見つかるといいわね　<pc>！": "J'espere que ta maman sera retrouvee,\n<pc> !"
+    "312037": {
+        "「……王として　彼らの献身は　ありがたい。\n　むしろ　そう思うように\n　過去の王たちが　仕向けたのかもしれません。": "...En tant que roi, leur devouement est\nprecieux. Peut-etre que c'est ainsi que les\nrois du passe ont voulu que je le ressente."
     },
-    "309303": {
-        "「<pc>？　どうかした？": "<pc> ? Quelque chose ne va pas ?"
+    "312038": {
+        "「ですが　私自身は……誰も死なせたくない。\n　みずから　命を投げうつことが　誇りだなど\n　そんな話が　あってなるものか！": "Cependant, moi-meme... je ne veux laisser\npersonne mourir. Sacrifier sa propre vie par\nfierte, une telle idee ne peut etre acceptee !"
     },
-    "309304": {
-        "「消え……ちゃった。今の見たよね？\n　お師匠様の言ってた通りだ。\n　これが　創失……。": "Il a... disparu. Tu as vu ca, n'est-ce pas ?\nC'etait exactement comme le maitre l'avait\ndit. C'est ca, la Creation Perdue..."
+    "312039": {
+        "「王さま……。": "O roi..."
     },
-    "309305": {
-        "「……気づいているのは　あたしたちだけ。\n　みんな　像があったことすら\n　覚えていないみたい。": "Il semble que nous soyons les seuls a l'avoir\nremarque. Il semblerait que personne d'autre\nne se souvienne meme de l'existence de la<br>statue."
+    "312040": {
+        "「………………。": ""
     },
-    "309306": {
-        "「創失は　アストルティアに　降りかかった呪い。\n　創生のチカラを　奪われちゃうんだって。": "Le Crepuscule est une malediction qui s'est\nabattue sur Astoltia. On dit qu'elle prive de\nla Puissance de Creation."
+    "312041": {
+        "「ですから……先ほども言いましたが\n　あなた方は　けっして\n　無理をしないでください。": "Donc... comme je l'ai deja dit, s'il vous\nplait, ne vous surmenez surtout pas."
     },
-    "309307": {
-        "「創失の呪いは　すべての存在を食いつぶす。\n　このままいくと　アストルティア\n　そのものが　消えてしまうだろうって……。": "La malediction de la Creation perdue devorera\ntoutes les existences. Si cela continue ainsi,\nil est probable qu'Astoltia elle-meme finira<br>par disparaitre..."
+    "312042": {
+        "「けれど　不思議ですね　<pc>さん。\n　あなたなら　私たちを救ってくれるのではと……\n　なぜか　そう思ってしまうのです。": "Cependant, c'est etrange, n'est-ce pas,\n<pc>-san ? Je ne peux m'empecher de\npenser que vous allez nous sauver... Pour une<br>raison inexplicable, c'est ce que je ressens."
     },
-    "309308": {
-        "「アンルシア姫が　眠ってしまったのも\n　創失に　関係があるのかも……。": "Il est possible que le sommeil de la Princesse\nAnlucia soit egalement lie a cette perte de\ncreation..."
+    "312043": {
+        "「ええ。私の　自慢のイトコですから。": "Eh bien. C'est mon cousin dont je suis fier,\napres tout."
     },
-    "309309": {
-        "「お師匠様が　言ってた。\n　これから向かう　未知の世界には\n　創失の呪いを解く　手がかりがあるんだって。": "Mon maitre disait que dans le monde inconnu\nvers lequel nous nous dirigeons, il y a des\nindices pour lever la malediction de la perte<br>de creation."
+    "312044": {
+        "「あっ　そうだわ！　私たち　黒槍と同じもの……\n　レプリカを作れないかって\n　話していたところだったんです。": "Ah, c'est vrai ! Nous etions en train de\nparler de creer une replique... quelque chose\nde semblable a la lance noire."
     },
-    "309310": {
-        "「アストルティアを\n　救えるのは　あたしたちだけ。\n　なんとしても　その手がかりを　見つけなきゃ。": "Seules nous pouvons sauver Astoltia. Nous\ndevons absolument trouver cet indice, quoi\nqu'il arrive."
+    "312045": {
+        "「私たちの仲間に　とても優秀な　学者がいます。\n　彼は今　レストリア平野の先にいて……\n　彼に　黒槍を　見せていただけないでしょうか？": "Nous avons dans notre groupe un chercheur tres\ntalentueux. Il se trouve actuellement au-dela\ndes plaines de Restoria... Pourriez-vous lui<br>montrer la lance noire ?"
     },
-    "309311": {
-        "「お待たせしました！\n　準備が完了しましたので　みなさん\n　装置のそばに　集合してください！": "Merci d'avoir attendu ! La preparation est\nterminee, alors tout le monde, rassemblez-vous\npres de l'appareil, s'il vous plait !"
+    "312046": {
+        "「なるほど。黒槍の複製は　アマラークの歴史上\n　何度も試され　成功したことはないが……\n　異国の知識と技術なら　可能かもしれんな。": "Je vois. La reproduction de la Lance Noire a\nete tentee de nombreuses fois dans l'histoire\nd'Amarack, sans succes... Mais avec des<br>connaissances et des technologies etrangeres,\ncela pourrait etre possible."
     },
-    "309312": {
-        "「行こう　<pc>！\n　キミのお母さんを　助けるためにも！": "Allons-y, <pc> ! Pour sauver ta mere !"
+    "312047": {
+        "「黒槍を　お見せすること自体は　構いませんが\n　この国から持ち出すことは　許可できません。\n　フーラズーラの襲撃があると　困りますから。": "Je n'ai aucun probleme a vous montrer la Lance\nNoire, mais je ne peux pas vous permettre de\nla sortir de ce pays. Cela pourrait causer des<br>ennuis en cas d'attaque de Fluzula."
     },
-    "309313": {
-        "「それでは　これより\n　探索拠点の設営を　開始します！": "A partir de maintenant, nous allons commencer\nl'installation de la base d'exploration !"
+    "312048": {
+        "「申し訳ありませんが　その学者の方を\n　この国に　連れてきてくださいませんか？": "Je suis desole, mais pourriez-vous amener cet\nerudit dans ce pays ?"
     },
-    "309314": {
-        "「……せーのっ！": "...Un, deux, trois !"
+    "312049": {
+        "「あっ……たしかに　おっしゃるとおりです。\n　わかりました。\n　仲間を　連れてくることにしますね。": "Ah... En effet, vous avez raison. Je\ncomprends. Je vais emmener mes compagnons avec\nmoi."
     },
-    "309315": {
-        "「みなさん　ご協力　ありがとうございます！\n　調査拠点……では少々　味気ないですね。": "Merci a tous pour votre cooperation ! Un point\nde recherche... c'est un peu terne, n'est-ce\npas ?"
+    "312050": {
+        "「すまんが　頼む。\n　では……俺たちも\n　そろそろ　失礼するとしよう。": "Je suis desole, mais je compte sur toi.\nAlors... nous allons bientot prendre conge."
     },
-    "309316": {
-        "「この拠点を　私たちの冒険の始まる場所……\n　はじまりの地と　名付けたいと思います！": "J'aimerais nommer cette base le lieu ou\ncommence notre aventure... Land of Beginnings\n!"
+    "312051": {
+        "「よしっ！\n　それじゃ　あたしたちは　ドゥラくんを迎えに\n　はじまりの地へ　ゴーゴー！": "Bien ! Alors, allons chercher Dura-kun au Pays\ndes Commencements, c'est parti !"
     },
-    "309317": {
-        "「それでは　これからの調査計画について\n　お話しさせていただきましょう。": "Permettez-moi de vous parler du plan d'enquete\na venir."
+    "312052": {
+        "「あれは…………。": "C'est..."
     },
-    "309318": {
-        "「拠点設営の際　撤去した結晶がふさいでいた先を\n　見回ったところ　このはじまりの地の周囲は\n　広大な平野となっていることが　判明しました。": "Lors de l'installation de notre base, nous\navons degage les cristaux qui bloquaient le\npassage. Apres avoir explore les lieux, nous<br>avons decouvert que les environs de cette\nTerre des Commencements s'etendent en une\nvaste plaine."
+    "312053": {
+        "「大したウデだな。\n　お前ほどの　武の持ち主は　アストルティア……\n　オレたちの住む地にも　そういない。": "Impressionnant. Un maitre des armes tel que\ntoi est rare en Astoltia... Dans notre monde,\nil n'y en a pas beaucoup comme toi."
     },
-    "309319": {
-        "「さらに　この平野から　東西南北へ\n　続く道が　発見されたのです。": "De plus, des routes ont ete decouvertes qui\ns'etendent vers le nord, le sud, l'est et\nl'ouest a partir de cette plaine."
+    "312054": {
+        "「つまり　イルシームの武は\n　守るための武……ということか。": "Autrement dit, la force de Ilseem est une\nforce destinee a proteger... C'est bien ca."
     },
-    "309320": {
-        "「皆さんには　二人一組で　チームを組み\n　平野の先の調査へ　\n　それぞれ　向かっていただきたい。": "Je vous demande de vous mettre par deux pour\nformer une equipe et de vous diriger chacun\nvers l'enquete au-dela de la plaine."
+    "312055": {
+        "「オレの武は……\n　つねに　オレ自身のための武だ。": "Mon art du combat... est toujours pour\nmoi-meme."
     },
-    "309321": {
-        "「僭越ながら　バランスを考え\n　事前に　私のほうで　チーム割りを\n　させていただきました。": "Avec tout le respect du, j'ai pris\nl'initiative de reflechir a la balance et de\nrepartir les equipes a l'avance."
+    "312056": {
+        "「……みなさんに集めてもらった　サンプルを\n　検証した結果　鉱石や植物　水などは\n　アストルティアのものと　そう変わりません。": "Apres avoir analyse les echantillons que vous\navez tous collectes, nous avons constate que\nles minerais, les plantes et l'eau ne<br>different pas beaucoup de ceux d'Astoltia."
     },
-    "309322": {
-        "「まず……メレアーデ王女と　ジーガンフ殿。\n　おふたりには　南の地の　調査をお願いします。": "D'abord... Princesse Mereade et Jiganf-dono.\nJe vous demanderai d'enqueter sur la region du\nsud, s'il vous plait."
+    "312057": {
+        "「たとえば　鉄鉱石などは\n　アストルティアのそれと\n　完全に　成分が　一致しました。": "Par exemple, le minerai de fer correspond\nparfaitement a celui d'Astoltia en termes de\ncomposition."
     },
-    "309323": {
-        "「ふふっ　了解しましたっ。\n　よろしくね　ジーガンフさん！": "Fufu, compris ! Enchantee de faire votre\nconnaissance, Jiganf-san !"
+    "312058": {
+        "「しかし　黒槍は……まったく　未知の物質で\n　構成されており　現時点での複製は\n　むずかしいと言わざるを　得ません。": "Cependant, la lance noire... est constituee\nd'une matiere totalement inconnue, et nous\ndevons admettre qu'a l'heure actuelle, il est<br>difficile d'en faire une replique."
     },
-    "309324": {
-        "「ヒューザ殿と　アスバル殿は\n　北を　お願いします。": "Hyuza-dono et Asbal-dono, je vous confie le\nnord."
+    "312059": {
+        "「さて　どうしたものか……黒槍が　遠方で\n　作成された可能性も　考えられる。\n　別の地方でも　サンプルを採取するか？": "Alors, que devons-nous faire... Il est\npossible que la lance noire ait ete fabriquee\na un endroit eloigne. Devons-nous recueillir<br>un autre echantillon dans une autre region ?"
     },
-    "309325": {
-        "「ナブレット殿と　エステラ殿には\n　東に　向かっていただきましょう。": "Nablette-dono et Estella-dono, je vous\ndemanderai de vous diriger vers l'est."
+    "312060": {
+        "「……むだだよ。": "......C'est inutile."
     },
-    "309326": {
-        "「そして……残る西の地は\n　<pc>隊長と　ポルテ殿\n　ふたりに　行っていただきます。": "Et ensuite... pour ce qui est de la terre de\nl'ouest, nous vous demandons, Capitaine\n<pc> et Porte-dono, d'y aller tous les<br>deux."
+    "312061": {
+        "「ほう。そこまで断言するなら\n　何か対案を　聞かせてもらえ……おや？": "Oh. Si tu es si categorique, alors laisse-moi\nentendre ta contre-proposition... Oh ?"
     },
-    "309327": {
-        "「わーい！\n　キミと　いっしょに行けるなんて　うれしい！\n　よろしくね　隊長！": "Hourra ! Je suis tellement content de pouvoir\npartir avec toi ! Enchante de faire equipe,\ncapitaine !"
+    "312062": {
+        "「見慣れぬ顔だな。\n　この子供は　いったい……？": "Je ne reconnais pas ce visage. Cet enfant...\nqui est-ce donc ?"
     },
-    "309328": {
-        "「各地で　何が待ち受けているか\n　わかりません。充分な備えをしてから\n　調査に　向かってください。": "Nous ne savons pas ce qui vous attend dans\nchaque region. Assurez-vous d'etre bien\nprepare avant de partir en exploration."
+    "312063": {
+        "「こんにちは！\n　私は　メレアーデ。\n　あなたの　お名前は？": "Bonjour ! Je suis Mereade. Quel est votre nom\n?"
     },
-    "309329": {
-        "「それでは最後に……<pc>隊長。\n　調査に向かう隊員たちに　ひと言\n　激励の言葉を　お願いします。": "Pour finir... Capitaine <pc>.\nPourriez-vous dire quelques mots\nd'encouragement aux membres de l'equipe qui<br>partent en mission ?"
+    "312064": {
+        "「…………ラキ。": "...........Lycae."
     },
-    "309330": {
-        "隊員たちに　何と言いますか？\n<select_nc>\nガンガンいこうぜ\nいろいろやろうぜ\nいのちだいじに\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Que dites-vous a vos compagnons d'equipe ?\n<select_nc> Allons-y a fond ! Essayons\ndifferentes choses ! Prenons soin de nos vies<br>! <select_end> <case 1> <close> <case 2>\n<close> <case 3> <close> <case_cancel> <close><case_end>"
+    "312065": {
+        "「ラキ！　すてきな名前ね。\n　ラキは　どうして　お城にいるの？\n　お母さんは　どこ？": "Lycae ! Quel joli nom. Pourquoi es-tu au\nchateau, Lycae ? Ou est ta maman ?"
     },
-    "309331": {
-        "「ああ　新種の魔物が　現れようが\n　全部　オレが　ぶった斬ってやる。\n　大船に乗った気で　いてくれよ。": "Ah, qu'un nouveau type de monstre apparaisse\nou non, je les decouperai tous. Restez\ntranquilles, vous etes entre de bonnes mains."
+    "312066": {
+        "「ラキに　母は　いない。\n　いるのは　とうさまと……ねえさま。": "Lycae n'a pas de mere. Il y a un pere... et\nune grande soeur."
     },
-    "309332": {
-        "「うん。様々な側面から\n　物事を見ることは　大切だ。\n　この調査を　実のあるものにしよう。": "Oui. Il est important de regarder les choses\nsous differents angles. Faisons en sorte que\ncette enquete soit fructueuse."
+    "312067": {
+        "「……そう。お姉さんが　いるのね。\n　じつは　私にも　弟が……いるのよ。": "Je vois. Tu as une grande soeur, n'est-ce pas ?\nEn fait, moi aussi, j'ai un petit frere..."
     },
-    "309333": {
-        "「ええ　安全第一で参りましょう。\n　皆さんの無事が　最優先です。": "Oui, avancons en priorite sur la securite. La\nsecurite de chacun d'entre vous est notre\npriorite absolue."
+    "312068": {
+        "「おまえたちが黒槍と呼ぶ　それは……\n　ラキのとうさまが　創った。": "Ce que vous appelez la Lance Noire... c'est\nmon pere, Lycae, qui l'a creee."
     },
-    "309334": {
-        "「私は　ここに残り　みなさんからの\n　調査報告を　お待ちしております。\n　くれぐれも　お気をつけて！": "Je vais rester ici et attendre vos rapports\nd'enquete. Prenez bien soin de vous !"
+    "312069": {
+        "「でっ　でも　黒槍って　建国前から……\n　少なくとも　３００年前には\n　お城に　あったんでしょ？": "Ma-Mais la Lance Noire existe depuis avant la\nfondation du royaume... Elle etait deja au\nchateau il y a au moins 300 ans, n'est-ce pas<br>?"
     },
-    "309335": {
-        "調査隊の隊員たちは\nそれぞれ　調査に向かった。\nポルテと共に　平野の西へ向かおう。": "Les membres de l'equipe d'exploration se sont\ndiriges chacun vers leur mission. Allons vers\nl'ouest de la plaine avec Porte."
+    "312070": {
+        "「ラキ。黒槍について　くわしく知りたい。\n　お前の父さまと　話をさせてもらえないか？": "Lycae. J'aimerais en savoir plus sur la Lance\nNoire. Pourrais-je parler a ton pere ?"
     },
-    "309336": {
-        "「なんだろ　ここー？": "Qu'est-ce que c'est ici ?"
+    "312071": {
+        "「とうさまには…………会えない。": "Je ne pourrai pas rencontrer Pere..."
     },
-    "309337": {
-        "「うーん……。\n　何か　封印がされているみたい。\n　このままじゃ　先に進めないよ……。": "Hmmm... On dirait qu'il y a un sceau.\nImpossible d'avancer ainsi..."
+    "312072": {
+        "「かわりに　知っていることを　おしえる。\n　黒槍は　フーラズーラに効く。\n　けれど　黒槍が　効いているわけではない。": "En echange, je vais te dire ce que je sais. La\nlance noire est efficace contre Fluzula.\nCependant, ce n'est pas la lance noire qui est<br>reellement efficace."
     },
-    "309338": {
-        "「うわっ　なんか　光りはじめたよ！？": "Ouah, ca commence a briller !"
+    "312073": {
+        "「……ごめんなさい　ラキ。\n　私には　少し　むずかしいわ。": "......Je suis desolee, Lycae. C'est un peu\ndifficile pour moi."
     },
-    "309340": {
-        "「わたくしは　女神ゼネシア……。\n　この世界　果ての大地ゼニアスを\n　守護する者……。": "Je suis la Deesse Zenethia... Celle qui\nprotege la terre de Zenithia, a l'extremite de\nce monde..."
+    "312074": {
+        "「ハディン採石場の　奥。\n　そこで　ぜんぶ　おしえる。\n　入れるようにしておくから……来て。": "Au fond de la carriere de Hadine. Je\nt'expliquerai tout la-bas. Je te laisserai\nentrer... Viens."
     },
-    "309341": {
-        "「あなたがたは……\n　ゼニアスの住人では　ありませんね？": "Vous n'etes pas... des habitants de Zenius,\nn'est-ce pas ?"
+    "312075": {
+        "「ハディン採石場とは？": "Qu'est-ce que la carriere de Hadine ?"
     },
-    "309342": {
-        "「えっと……はじめまして　女神さま！\n　あたしは　ポルテ。こっちは\n　燈火の調査隊の　<pc>隊長！": "Euh... Enchantee de vous rencontrer,\nDeesse-sama ! Je suis Porte. Et voici\n<pc>, le capitaine de l'escouade des<br>Lumieres !"
+    "312076": {
+        "「シュタール鉱野にある　大昔に　閉鎖された\n　採石場だ。フーラズーラが　大量に出現して\n　甚大な被害が　出たらしい。": "C'est une carriere fermee il y a tres\nlongtemps dans le champ de mines de Stahl. Il\nsemble qu'une grande quantite de Fluzula en<br>soit sortie, causant d'enormes degats."
     },
-    "309343": {
-        "「あたしたち　アストルティアという世界から\n　ジア・クト念晶体っていうヤツらが\n　遺した装置を使って　この世界に来ました。": "Nous venons d'un monde appele Astoltia, et\nnous sommes arrives dans ce monde en utilisant\nun dispositif laisse par des etres appeles les<br>Gea-Ctus Cristalloides."
+    "312077": {
+        "「シュタール鉱野……あっ！\n　あたしたち　そこ　知ってるかも。\n　四角い岩で　ふさがれてる場所じゃない？": "Champ de mines de Stahl... Ah ! Je crois qu'on\nconnait cet endroit. N'est-ce pas l'endroit\nbloque par des rochers carres ?"
     },
-    "309344": {
-        "「アストルティアは　今\n　創失の呪いに　むしばまれていて……\n　それを　解く方法を探してるんです。": "Astoltia est actuellement rongee par la\nmalediction de la Creation Perdue... Je\ncherche un moyen de la lever."
+    "312078": {
+        "「そのとおり。\n　誤って　人が立ち入らないように\n　入り口を　封鎖してあるのだ。": "Exactement. L'entree a ete scellee pour eviter\nque des gens ne s'y aventurent par erreur."
     },
-    "309345": {
-        "「それで　あたしたち\n　この扉の先に　進みたくて……。\n　そのぉ……なんとかならないでしょうか？": "Alors, nous aimerions avancer au-dela de cette\nporte... Hum... Y a-t-il un moyen de faire\nquelque chose ?"
+    "312079": {
+        "「ラキよ。入れるようにするなどと言うが\n　そう　簡単には…………": "Lycae. Tu dis que tu vas permettre l'entree,\nmais ce n'est pas si simple..."
     },
-    "309346": {
-        "「扉の先は　いわば禁足地……。\n　この世界の秘密が　眠る場所……。": "Au-dela de cette porte se trouve, pour ainsi\ndire, une terre interdite... Un lieu ou repose\nle secret de ce monde..."
+    "312080": {
+        "「えっ？　ラキ！\n　どこに行ってしまったの！？": "Hein ? Lycae ! Ou es-tu passe(e) !?"
     },
-    "309347": {
-        "「あなたがたが　求めるものは\n　そこで　見つけられることでしょう。": "Ce que vous cherchez, vous le trouverez\nla-bas."
+    "312081": {
+        "「なんとも　得体の知れない子供だ……。\n　やつの言うことを　信じるつもりか？": "Quel enfant vraiment mysterieux... Tu comptes\nvraiment croire ce qu'il dit ?"
     },
-    "309348": {
-        "「この世界の神として　わたくしも\n　あなたがたの　チカラになって\n　さしあげたいのですが……": "En tant que deesse de ce monde, j'aimerais\naussi vous apporter mon soutien..."
+    "312082": {
+        "「正直　信じていいかは　わからない。\n　でも……あの子を　放ってはおけないわ！\n　私は　ハディン採石場に　行ってみたい。": "Je ne sais pas si je peux vraiment le croire.\nMais... je ne peux pas abandonner cet enfant !\nJe veux aller a Hadine Quarry."
     },
-    "309349": {
-        "「いにしえの戦いにより\n　わたくしは　チカラを封じられており\n　動くことが　かないません……。": "En raison de l'ancienne bataille, mon pouvoir\na ete scelle et je ne peux pas bouger..."
+    "312083": {
+        "「俺からも　頼む。様子を　見てきてくれ。\n　黒槍やフーラズーラについて　何か　わかるなら\n　一縷の望みにも　かけたい。": "Je te le demande aussi. Va jeter un oeil. Si tu\npeux decouvrir quelque chose sur les lances\nnoires ou Fluzula, je veux m'accrocher au<br>moindre espoir."
     },
-    "309350": {
-        "「ええ～　そんなぁ……。": "Eh bien... vraiment..."
+    "312084": {
+        "「……わかった。\n　ハディン採石場へ行くぞ　<pc>。": "......D'accord. Allons a Hadine Quarry,\n<pc>."
     },
-    "309351": {
-        "「ですが　方法はあります。\n　この世界で　星のオーラを　探すのです。": "Mais il existe une methode. Il faut chercher\nla Benevolessence dans ce monde."
+    "312085": {
+        "「私は　はじまりの地に　戻ります。\n　<pc>隊長たちも　お気をつけて。": "Je retourne a la Terre des Commencements.\nPrenez soin de vous, capitaine <pc> et\nles autres."
     },
-    "309352": {
-        "「南　北　東の地に　おもむき\n　そこで暮らす人々を　助けることで\n　星のオーラを　手にできるはず。": "En te dirigeant vers le sud, le nord et l'est,\nen aidant les personnes qui y vivent, tu\ndevrais pouvoir obtenir la Benevolessence."
+    "312086": {
+        "「ラキ！\n　よかった……無事だったのね。": "Lycae ! Je suis soulage... Tu es sain et sauf."
     },
-    "309353": {
-        "「この星封の結晶を\n　あなたがたに　授けましょう。": "Je vous offre ce Benevogem."
+    "312087": {
+        "「用心しろ　メレアーデ。\n　入り口の岩を　砕いたのが\n　そいつだってことを　忘れるなよ。": "Mefie-toi, Mereade. N'oublie pas que c'est lui\nqui a brise les rochers a l'entree."
     },
-    "309354": {
-        "<pc>は　星封の結晶を　手に入れた！<me 60>": "<pc> a obtenu Benevogem ! <me 60>"
+    "312088": {
+        "「だって……そうしないと\n　おまえたちが　採石場に入れないから。": "Parce que... sinon, vous ne pourrez pas entrer\ndans la carriere."
     },
-    "309355": {
-        "「星封の結晶に　星のオーラを満たすのです。\n　さすれば　道は　ひらけるでしょう。": "Remplissez Benevogem de Benevolessence. Ainsi,\nle chemin s'ouvrira devant vous."
+    "312089": {
+        "「ええ　助かったわ。\n　ありがとう　ラキ。": "Oui, tu m'as sauve. Merci, Lycae."
     },
-    "309356": {
-        "「また　その結晶があれば\n　この世界の様々な場所を　自由に\n　行き来することが　できます。": "Avec ce cristal, vous pourrez voyager\nlibrement vers divers endroits de ce monde."
+    "312090": {
+        "「……うん。": "...Oui."
     },
-    "309357": {
-        "「あなたがたの旅に　お役立てなさい。": "Faites-en bon usage pour votre voyage."
+    "312091": {
+        "「まったく……。で？\n　わざわざ　こんな場所まで　呼び出して\n　お前は　オレたちに　何を教えてくれると？": "Vraiment... Et donc ? Pourquoi nous avoir\nconvoques dans un endroit pareil ? Qu'as-tu a\nnous montrer ?"
     },
-    "309358": {
-        "「ありがとうございます！　女神ゼネシアさまっ！": "Merci beaucoup ! Deesse Zenethia-sama !"
+    "312092": {
+        "「ラキは　知ってる。フーラズーラは\n　黒槍自体に　弱いわけじゃない。": "Lycae sait que Fluzula n'est pas faible face a\nla lance noire elle-meme."
     },
-    "309359": {
-        "「星々の加護の　あらんことを……。": "Que la benediction des etoiles soit avec\nvous..."
+    "312093": {
+        "「やつらを　傷つけるために\n　ほんとうに必要なのは……創生のチカラ。": "Pour leur faire du mal, ce dont nous avons\nvraiment besoin... c'est le pouvoir de la\nCreation."
     },
-    "309360": {
-        "「すっごく　キレイな人だったねぇ。\n　女神さまと話すのなんて　初めてだから\n　緊張しちゃった！": "C'etait une personne incroyablement belle.\nC'etait la premiere fois que je parlais a une\ndeesse, alors j'etais vraiment nerveux !"
+    "312094": {
+        "「えっと……創生のチカラって\n　たしか　ポルテちゃんが言っていた\n　万物に宿る　生命のエネルギーのことよね？": "Hum... Le Pouvoir de la Creation, c'est bien\nl'energie vitale qui reside dans toutes\nchoses, comme l'avait dit Porte-chan, n'est-ce<br>pas ?"
     },
-    "309361": {
-        "「星のオーラって　いったい　なんなんだろう？\n　ゼネシアさまは　この世界の人を助けることで\n　手に入るって　言ってたけど……。": "Qu'est-ce que c'est exactement, la\nBenevolessence ? Zenesia-sama a dit qu'on\nl'obtenait en aidant les gens de ce monde,<br>mais..."
+    "312095": {
+        "「そのはずだけど……創生のチカラがあれば\n　あの化け物を　やっつけられるって\n　どういうこと！？": "Ca devrait etre le cas... Mais comment la\nForce de Creation peut-elle vaincre ce monstre\n?!"
     },
-    "309362": {
-        "「うーん……よくわかんないから\n　とりあえず　はじまりの地に戻って\n　今の話を　ドゥラくんに　報告してみようか。": "Hmm... Je ne comprends pas tres bien, alors\npour l'instant, retournons a la Terre des\nCommencements et rapportons cette histoire a<br>Dura-kun."
+    "312096": {
+        "「ラキは　事実を　言っているだけ。\n　黒槍が　フーラズーラに効くのは　あの槍が\n　強い創生のチカラを　有しているから。": "Lycae ne fait que dire la verite. Si la lance\nnoire est efficace contre Fluzula, c'est parce\nqu'elle possede une puissante force de<br>creation."
     },
-    "309363": {
-        "<pc>は　星封の結晶を\n使えるようになった！<me 71>": "<pc> a appris a utiliser Benevogem ! <me\n71>"
+    "312097": {
+        "「黒槍じゃなくても\n　創生のチカラが宿る　攻撃なら\n　フーラズーラを　倒せる。": "Meme si ce n'est pas la lance noire, une\nattaque impregnee du pouvoir de la creation\npeut vaincre Fluzula."
     },
-    "309364": {
-        "メインコマンドの　『どうぐ』の中にある\n『星封の結晶』を使うと　アストルティアと\nゼニアスを　行き来することができます。": "Dans le menu principal, en utilisant Benevogem\ndans Objets, vous pouvez voyager entre\nAstoltia et Zenius."
+    "312098": {
+        "「うーん……\n　創生のチカラが宿る　攻撃……？": "Hmm... Une attaque impregnee de la puissance\nde la creation...?"
     },
-    "309365": {
-        "さらに　ゼニアスで訪れた場所が　登録されるほか\n各地にある『星のくさび』を　しらべることで\nそこを　行き先として　登録できます。": "De plus, les lieux visites a Zenias seront\nenregistres. En enquetant sur les Star Stop\npresents dans chaque region, vous pouvez les<br>enregistrer comme destinations."
+    "312099": {
+        "<center>ふむ……万物に宿る　エネルギーか。\nたしかに　ある流派の武術にも\n似たような教えは　あるがな。": "Hmm... L'energie qui reside dans toutes\nchoses, hein. Il est vrai que certaines ecoles\nd'arts martiaux enseignent quelque chose de<br>similaire."
     },
-    "309366": {
-        "ゼニアスでは　屋根のある場所でも　使えます。\nまた『元の世界へ戻る』を選ぶと　あなたにとって\n最もゆかりのある場所へと　戻ります。": "A Zenius, vous pouvez l'utiliser meme dans les\nendroits couverts. En choisissant Retourner\ndans le monde d'origine, vous retournerez a<br>l'endroit qui vous est le plus familier."
+    "312100": {
+        "「創生のチカラ……　生命のエネルギー……\n　武術で言う　『気』のようなもの……。": "Le pouvoir de la creation... L'energie\nvitale... C'est un peu comme le 'ki' dans les\narts martiaux..."
     },
-    "309367": {
-        "なお　星封の結晶の追加により\n『魂の燭台』は　ルーラストーンの\nメニュー内に　移動されました。": "Grace a l'ajout de Benevogem, le Soul\nCandelabra a ete deplace dans le menu\nZoomstone."
+    "312101": {
+        "「もしや……気を集中させた　攻撃ならば\n　フーラズーラを　倒せるのか？": "Peut-etre que... si je concentre mon energie\ndans une attaque, est-il possible de vaincre\nFluzula ?"
     },
-    "315620": {
-        "「謎に包まれし　未知なる大地に\n　火を燈せし　我ら『燈火の調査隊』！\n　いざ　出発ッ！": "Dans la terre inconnue enveloppee de mysteres,\nnous, la 'Brigade d'Investigation des\nLumieres', allumons la flamme ! En avant,<br>depart !"
+    "312102": {
+        "「そう。\n　おまえなら　わかると思っていた。": "Oui. Je savais que tu comprendrais."
     },
-    "318419": {
-        "<pc>は　そっと　部屋を後にした……。\nガートラント城の　グロスナー王に\n報告しにいこう。": "<pc> quitta discretement la piece... Il\nest temps d'aller faire son rapport au roi\nGrossner du chateau de Gartlant."
+    "312103": {
+        "「む……そうか。": "Hmm... Je vois."
     },
-    "318420": {
-        "「ふふっ　君と同じチームなんて　光栄だな。": "Fufu, c'est un honneur de faire partie de la\nmeme equipe que toi."
+    "312104": {
+        "「ラキ！　あぶないっ！": "Lycae ! Attention !"
     },
-    "318421": {
-        "「おうよっ　任せときな！": "Bien sur, laisse-moi faire !"
+    "312105": {
+        "「ふうぅぅぅ…………。": "Pfff..."
     },
-    "321820": {
-        "<center>だれ……？　そこにいるのは……。": "Qui... ? Qui est la...?"
+    "312106": {
+        "「気を……集中させる……！": "Concentre-toi... Focalise ton energie...!"
     },
-    "321821": {
-        "磁光石に　装置が　反応しているようだ。\n装置を　よく見ると　何かを\nはめるような　くぼみがある……。": "Il semble que le dispositif reagisse a la\nMagnetolite. En y regardant de plus pres, il y\na une cavite comme si quelque chose devait y<br>etre insere..."
+    "312107": {
+        "「メレちー！！": "Mere-chan !!"
     },
-    "321974": {
-        "ルーラストーンから　勇者姫の石を使い\nアンルシアを　迎えにいこう。": "Utilise la pierre de Zoomstone de la princesse\nheroique pour aller chercher Anlucia."
+    "312108": {
+        "「おおおおおッ！": "Ohhhhh !"
     },
-    "321975": {
-        "しばらくすると　燈火の調査隊の\nメンバーが到着し　ドゥラ院長主導のもと\n出発の準備が　進められていった……。": "Apres un moment, les membres de l'equipe\nd'exploration de la Lumiere sont arrives, et\nsous la direction de Director DuraLord, les<br>preparatifs pour le depart ont commence a\ns'organiser..."
+    "312109": {
+        "「ジーくん　すごい……\n　フーラズーラを　やっつけちゃった……！": "ジーくん、 incroyable...... Tu as reussi a vaincre\nFluzula... !"
     },
-    "321996": {
-        "「創生のチカラっていうのは　すべてのものに宿る\n　生命力みたいなもの。これが　弱まると\n　この世に　存在できなくなっちゃうんだ。": "Le Pouvoir de la Creation, c'est une sorte de\nforce vitale presente en toutes choses. Quand\nelle s'affaiblit, cela devient impossible<br>d'exister dans ce monde."
+    "312110": {
+        "「創生のチカラを宿す　攻撃……つかんだ！\n　これで　フーラズーラを倒せる！": "J'ai saisi l'attaque impregnee du Pouvoir de\nla Creation... Avec ca, je peux vaincre\nFluzula !"
+    },
+    "312111": {
+        "「また　出たわ！": "Il est reapparu !"
+    },
+    "312112": {
+        "「いいか　<cs_pchero>　こいつは\n　お前が倒せ！　気を集中させるんだ。\n　そうすれば　攻撃が　フーラズーラに通用する！": "Ecoute bien, <cs_pchero>. C'est a toi de le\nvaincre ! Concentre-toi. Ainsi, ton attaque\npourra atteindre Fluzula !"
+    },
+    "312113": {
+        "「本来　これを会得するには　修行が必要だが……\n　お前なら　今この場で　つかめるはずだ！": "Normalement, il faudrait s'entrainer pour\nmaitriser cela... Mais toi, tu devrais etre\ncapable de le saisir ici et maintenant !"
+    },
+    "312114": {
+        "「ふう……やったな　<cs_pchero>。\n　これからは　お前も　フーラズーラを\n　倒せるようになったはずだ。": "Ouf... On l'a fait, <cs_pchero>. Desormais, tu\ndevrais etre capable de vaincre Fluzula."
+    },
+    "312115": {
+        "「よかった……。\n　守ってくれて　ありがとう　ふたりとも！": "Je suis soulage... Merci a vous deux de\nm'avoir protege !"
+    },
+    "312116": {
+        "「……もういい？": "...C'est bon maintenant ?"
+    },
+    "312117": {
+        "「あっ　そうね。ごめんなさい。": "Ah, c'est vrai. Je suis desolee."
+    },
+    "312118": {
+        "「フーラズーラ……\n　今は　そう呼ばれている　あいつらは\n　城に住みついた人間たちを　食べてきた。": "Fluzula... C'est ainsi qu'ils sont appeles\nmaintenant. Ils ont devore les humains qui\nhabitaient dans le chateau."
+    },
+    "312119": {
+        "「住みついて　すぐには　ぜんぶ食べない。\n　少しずつ　食べる。\n　やつらが　命を　つなぐぶんだけ。": "Ils ne mangent pas tout de suite apres s'etre\ninstalles. Ils consomment petit a petit. Juste\nassez pour maintenir leur survie."
+    },
+    "312120": {
+        "「城を中心に　町が栄えるのを待って……人間が\n　いっぱいになったら　一気に　食らいつくす。\n　大昔から　ずっと　それを　くり返している。": "En attendant que la ville prospere autour du\nchateau... Quand les humains sont en nombre,\nnous les devorons d'un coup. Cela se repete<br>depuis la nuit des temps."
+    },
+    "312121": {
+        "「そんな　おそろしいことが……！？\n　でも　たしかに\n　アマラークで聞いた話と　一致するわ。": "Une chose aussi effrayante... !? Mais c'est\nvrai que cela correspond a ce que j'ai entendu\na Amarack."
+    },
+    "312122": {
+        "「リズク王の祖先が　城を見つけ　定住した。\n　少しずつ町は発展し　人が増えた。やがて\n　フーラズーラが　現れるようになった……。": "L'ancetre du roi Rizk a decouvert le chateau\net s'y est installe. Peu a peu, la ville s'est\ndeveloppee et la population a augmente.<br>Finalement, Fluzula a commence a prosperer..."
+    },
+    "312123": {
+        "「今は　ひとりかふたり　人間を食べると\n　満足して消えるって　言ってたよね。": "Il a dit qu'il etait satisfait de disparaitre\napres avoir mange une ou deux personnes,\nn'est-ce pas ?"
+    },
+    "312124": {
+        "「けど……いつかは　アマラークの人たち\n　全員を　食べつくしてしまうってこと！？": "Mais... cela signifie-t-il qu'un jour, ils\nfiniront par devorer tous les habitants de\nAmarack !?"
+    },
+    "312125": {
+        "「アマラークは　もうずいぶん　大きくなった。\n　いつ　滅ぼされても　おかしくない。": "Marack est deja devenu assez grand. Il ne\nserait pas etonnant qu'il soit detruit a tout\nmoment."
+    },
+    "312126": {
+        "「ちょっと　待て。\n　なぜ　お前のような子供が　それを知っている？\n　砕かれた大岩といい　お前は　何者なんだ！": "Attends un peu. Comment se fait-il qu'un\nenfant comme toi sache cela ? Et ce\ngigantesque rocher brise, qui es-tu donc !"
+    },
+    "312127": {
+        "「ラキ……ラキは…………": "Lycae... Lycae est..."
+    },
+    "312128": {
+        "「もぉ　しつこいっ！\n　それに　今度は　たくさん……！": "Tu es tellement insistant ! Et cette fois, il\ny en a plein... !"
+    },
+    "312129": {
+        "「何体だろうと　同じこと！\n　行くぞ　<cs_pchero>！": "Peu importe combien ils sont ! Allons-y,\n<cs_pchero> !"
+    },
+    "312130": {
+        "「消えた……？": "Disparu... ?"
+    },
+    "312131": {
+        "「いけない！\n　きっと　今のやつらは　アマラークへ向かった。\n　あの国を　滅ぼしに！": "Oh non ! Ils se dirigent surement vers\nAmarack. Pour detruire ce pays !"
+    },
+    "312132": {
+        "「侵攻は　いつ　起こっても\n　おかしくない状況だった。けれど……きっと\n　今の戦いが　呼び水になってしまった！": "L'invasion pouvait survenir a tout moment.\nCependant... Ce combat actuel a certainement\ndeclenche les hostilites !"
+    },
+    "312133": {
+        "「お前は　ここに　オレたちを呼び\n　やつらと戦わせた。すべて\n　お前の　仕組んだことじゃないのか？": "Tu nous as appeles ici et tu nous as fait\ncombattre contre eux. N'est-ce pas tout un\nplan de ta part ?"
+    },
+    "312134": {
+        "「……おまえたちを　呼んだのは\n　フーラズーラが出てくるであろう　この場所で\n　やつらとの戦い方を　学んでもらうため。": "...Je vous ai appeles ici pour que vous\nappreniez a combattre ces ennemis a l'endroit\nou Fluzula est cense apparaitre."
+    },
+    "312135": {
+        "「知識だけで　戦いは　できない。\n　実践しないと　身につかない……\n　とうさまが　言ってたから。": "On ne peut pas se battre uniquement avec la\nconnaissance. Sans pratique, on ne peut rien\nmaitriser... C'est ce que disait mon pere."
+    },
+    "312136": {
+        "「……それに関しては　同意しよう。": "...... Je suis d'accord avec ca."
+    },
+    "312137": {
+        "「でも　それで\n　アマラークを滅ぼしては　意味がない。": "Mais si nous detruisons Amurack, cela n'aura\naucun sens."
+    },
+    "312138": {
+        "「ラキは　見てきた。\n　ずっと　ずっと　見てきた。\n　たくさんの国が……人が　食われるのを。": "Lycae a observe. Il a toujours, toujours\nobserve. Tant de pays... tant de gens se faire\ndevorer."
+    },
+    "312139": {
+        "「ラキ……？": "Lycae...?"
+    },
+    "312140": {
+        "「おねがい！　アマラークを助けて！\n　言いつけで　ラキは　手出しできない。\n　けど　おまえたちなら……！": "S'il te plait ! Aide Marack ! Lycae ne peut\nrien faire a cause des ordres. Mais vous, vous\nle pouvez... !"
+    },
+    "312141": {
+        "「<cs_pchero>！　ジーくん！\n　お願いよ　どうか……！": "<cs_pchero> ! Jii-kun ! Je t'en prie, je t'en\nsupplie... !"
+    },
+    "312142": {
+        "「わかっている。ラキの正体は　ともかく\n　アマラークの危機を　放ってはおけん。\n　行くぞ　<cs_pchero>！": "Je comprends. Peu importe la veritable nature\nde Lycae, nous ne pouvons pas ignorer la\nmenace d'Amarack. Allons-y, <cs_pchero> !"
+    },
+    "312143": {
+        "「ラキの　言ったとおりになってる……！": "Ca se passe exactement comme Lycae l'avait\ndit... !"
+    },
+    "312144": {
+        "「イルシーム卿！": "Ilseem-dono !"
+    },
+    "312145": {
+        "「素手で　フーラズーラを！？": "A mains nues, Fluzula!?"
+    },
+    "312146": {
+        "「ラキに　こいつらとの戦い方を　教わった！\n　オレたちも　加勢する！": "Lycae nous a appris a nous battre contre eux !\nNous allons vous preter main-forte nous aussi\n!"
+    },
+    "312147": {
+        "「感謝する！\n　お前たちは　アムル広場へ行ってくれ！": "Merci ! Rendez-vous sur la place d'Amul !"
+    },
+    "312148": {
+        "「フーラズーラの数が　多すぎる。\n　俺だけでは　手が回らん！": "Il y a trop de Fluzula. Je ne peux pas m'en\noccuper tout seul !"
+    },
+    "312149": {
+        "「わかった！": "Je comprends !"
+    },
+    "312150": {
+        "「させるかっ！": "Je ne te laisserai pas faire !"
+    },
+    "312151": {
+        "「メレアーデ！　ポルテ！\n　この子を　頼む！": "Mereade ! Porte ! Je te confie cet enfant !"
+    },
+    "312152": {
+        "「大丈夫？　ケガはない！？": "Ca va ? Tu n'as pas de blessure ?"
+    },
+    "312153": {
+        "「パパが…………。": "Papa est..."
+    },
+    "312154": {
+        "「<cs_pchero>！　ジーくん！\n　お願い……こいつ　やっつけちゃって！": "<cs_pchero> ! Ji-kun ! S'il te plait...\nbats-le !"
+    },
+    "312155": {
+        "「任せろ！": "Laisse-moi faire !"
+    },
+    "312156": {
+        "「………………。": ""
+    },
+    "312157": {
+        "「やったな　<cs_pchero>！": "Bien joue, <cs_pchero> !"
+    },
+    "312158": {
+        "「………………テ。": "Te."
+    },
+    "312159": {
+        "「タスケテ。タスケテ。タスケテ。\n　タスケテ。タスケテ。タスケテ。\n　タスケテ。タスケテ…………": "A l'aide. A l'aide. A l'aide. A l'aide. A\nl'aide. A l'aide. A l'aide. A l'aide..."
+    },
+    "312160": {
+        "「しゃべった……よな？\n　なんだったんだ　いったい……。": "Ca a parle... n'est-ce pas ? Mais qu'est-ce\nque c'etait, au juste... ?"
+    },
+    "312161": {
+        "「<cs_pchero>！　ジーガンフ！": "<cs_pchero> ! Jiganf !"
+    },
+    "312162": {
+        "「町中のフーラズーラが　一斉に　姿を消してな。\n　お前たちが　親玉を倒してくれたんだろう？\n　よくやってくれた！": "Les Fluzula de la ville ont tous disparu d'un\ncoup. Vous avez du vaincre leur chef, n'est-ce\npas ? Bien joue !"
+    },
+    "312163": {
+        "「ああ……だが　町は……。": "Ah... mais la ville est..."
+    },
+    "312164": {
+        "「パパ！　パパがぁ……！": "Papa ! Papa est... !"
+    },
+    "312165": {
+        "「相棒が　食われちまった……。\n　あいつが　かばおうとした　子供と一緒に……。": "Mon partenaire a ete devore... Avec l'enfant\nqu'il essayait de proteger..."
+    },
+    "312166": {
+        "「国のために　命を捧げるのは　怖くない。\n　けど　食われても　民を救えないのなら……\n　ただの　無駄死にじゃないか！": "Donner sa vie pour le pays ne me fait pas\npeur. Mais si je ne peux pas sauver le peuple\nen me faisant devorer... Ce serait une mort<br>inutile !"
+    },
+    "312167": {
+        "「聞け　アマラークの戦士たち！\n　フーラズーラの倒し方が　わかった。\n　黒槍がなくとも　やつらは倒せる！": "Ecoutez, guerriers de Marack ! Nous avons\ndecouvert comment vaincre Fluzula. Meme sans\nla lance noire, nous pouvons les abattre !"
+    },
+    "312168": {
+        "「コツさえつかめば　誰でも　やつらと戦える！\n　戦い方は　オレが教えよう。\n　希望する者は　オレのもとに来い！": "Une fois que vous aurez saisi l'astuce,\nn'importe qui pourra se battre contre eux ! Je\nvous enseignerai comment vous battre. Ceux qui<br>le souhaitent, venez a moi !"
+    },
+    "312169": {
+        "「フーラズーラを　倒す方法だと……？\n　何百年も　探しつづけて\n　見つからなかったものを　なぜ　よそ者が？": "La methode pour vaincre Fluzula... ? Cela fait\ndes centaines d'annees que nous cherchons sans\nsucces, pourquoi un etranger le<br>decouvrirait-il ?"
+    },
+    "312170": {
+        "「しっ　信じられるものか……。\n　黒槍なしで　やつらと　渡り合うなんて！\n　無理に　決まっている……！": "Chut... Comment pourrais-je y croire...\nAffronter ces types sans la lance noire !\nC'est forcement impossible... !"
+    },
+    "312171": {
+        "「なんだよ……。\n　なんで　兵士たちは　何も言わないんだ？\n　戦うのが　仕事だろう！？": "Qu'est-ce que c'est que ca... Pourquoi les\nsoldats ne disent rien ? Leur travail, c'est\nde se battre, non !?"
+    },
+    "312172": {
+        "「知らない……どうでもいい。もう　疲れた……。\n　いっそ　食べられて　楽になりたい……。": "Je ne sais pas... Peu importe. Je suis\nepuisee... Je prefererais etre devoree et en\nfinir ainsi..."
+    },
+    "312173": {
+        "「せっかく　ラキから\n　戦い方を　教えてもらったのに……\n　みんな　すっかり　心が折れちゃってる。": "Malgre le fait que Lycae nous ait appris a\nnous battre... tout le monde a completement\nperdu courage."
+    },
+    "312174": {
+        "「……無理もない。\n　このような規模の襲撃は　初めてだ。\n　兵だけでなく　民にも　被害が出てしまった。": "C'est comprehensible. C'est la premiere fois\nque nous subissons une attaque d'une telle\nenvergure. Non seulement les soldats, mais<br>aussi les civils ont subi des pertes."
+    },
+    "312175": {
+        "「俺が……守り切れなかった。": "Je n'ai pas pu... les proteger."
+    },
+    "312176": {
+        "「……どうした！\n　誰もいないのか！？\n　フーラズーラを倒したくないのか！": "Que se passe-t-il ? Y a-t-il personne ici !?\nVous ne voulez pas vaincre Fluzula ?"
+    },
+    "312177": {
+        "「私は知りたい。教えてくれ。": "Je veux savoir. Dis-le-moi."
+    },
+    "312178": {
+        "「……国王陛下。": "Sa Majeste le Roi."
+    },
+    "312179": {
+        "「ジーガンフ殿。\n　フーラズーラとの戦い方を\n　どうか　私に　教えてほしい。": "Jiganf-dono. Je vous en prie, apprenez-moi\ncomment combattre Fluzula."
+    },
+    "312180": {
+        "「この２００年は　耐え忍ぶしかなかった。\n　しかし　これ以上は　もう……\n　アマラークの民を　死なせはしない！": "Ces 200 dernieres annees, nous n'avons eu\nd'autre choix que de supporter en silence.\nMais desormais, je ne peux plus... Je ne<br>laisserai pas le peuple d'Amarack mourir !"
+    },
+    "312181": {
+        "「陛下に続く者は　いるか！？": "Qui suivra Sa Majeste !?"
+    },
+    "312182": {
+        "「そ……そうだ。\n　陛下にだけ　戦わせてなるものか！\n　俺にも　戦い方を　教えてくれ！": "Je... je suis d'accord. Je ne peux pas laisser\nSa Majeste se battre seule ! Apprends-moi\naussi a me battre !"
+    },
+    "312183": {
+        "「おっ　オレもだ！": "Oh, moi aussi !"
+    },
+    "312184": {
+        "「あのっ！　私にも　教えてくれますか？\n　もう　兵士さんに守られるのは……\n　兵士さんだけが傷つくのは　イヤなんです！": "Euh ! Pourriez-vous m'apprendre a me defendre\n? Je ne veux plus etre protegee par les\nsoldats… Je refuse que seuls les soldats<br>soient blesses !"
+    },
+    "312185": {
+        "「わたしにも……戦えるかなあ？\n　そしたら　今度また　あいつらが\n　おうちに来たら　やっつけてやるの……っ！": "Moi aussi... je pourrais me battre ? Alors, la\nprochaine fois qu'ils viendront a la maison,\nje les ecraserai... !"
+    },
+    "312186": {
+        "「……ああ！\n　男も女も　大人も子供も　関係ない！\n　望む者　全員に教える。ともに　戦おう！": "Ah ! Peu importe que tu sois un homme ou une\nfemme, un adulte ou un enfant ! J'enseignerai\na tous ceux qui le desirent. Combattons<br>ensemble !"
+    },
+    "312187": {
+        "「<cs_pchero>。調査の途中で　すまないが\n　オレは　この国に残る。アマラークの民に\n　戦いの指導を　するためにな。": "<cs_pchero>Je suis desole d'interrompre notre\nenquete, mais je vais rester dans ce pays. Je\nvais entrainer les habitants d'Amarack au<br>combat."
+    },
+    "312188": {
+        "「……今まで　武をみがくこと自体を　目的にして\n　生きてきた。だが　この国に来て　オレは……\n　初めて　武の使い道を　見つけたように思う。": "… Jusqu'a present, j'ai vecu avec pour seul\nbut d'affiner mon art du combat. Mais en\nvenant dans ce pays, je crois que... j'ai<br>enfin trouve une veritable utilite a ma force."
+    },
+    "312189": {
+        "「ジーくん。\n　私も　あなたの選択は　正しいと思うわ。\n　どうか　アマラークを守ってね。": "ジーくん 私もあなたの選択は正しいと思うわ どうかアMarackを守ってね"
+    },
+    "312190": {
+        "「メレアーデ……。\n　お前とチームを組めて　よかった。\n　感謝している。": "Mereade... Je suis vraiment content d'avoir\nfait equipe avec toi. Je te remercie."
+    },
+    "312191": {
+        "「ね　<cs_pchero>。\n　ジーくん　なんか　変わったね。": "Hey, <cs_pchero>. Ji-kun, tu as change,\nn'est-ce pas ?"
+    },
+    "312192": {
+        "「あなた方のおかげで　２００年にわたる\n　絶望的な戦いに　光明が見えてきた。\n　どうか　謝礼を　受け取ってほしい。": "Grace a vous, une lueur d'espoir s'est enfin\nlevee sur cette bataille desesperee qui dure\ndepuis 200 ans. Je vous en prie, acceptez<br>cette recompense."
+    },
+    "312193": {
+        "「あなた方のおかげで　２００年にわたる\n　絶望的な戦いに　光明が見えてきた。\n　心から　礼を言う。": "Grace a vous, une lueur d'espoir est apparue\ndans cette bataille desesperee qui dure depuis\n200 ans. Je vous remercie sincerement."
+    },
+    "312194": {
+        "「星封の結晶が　青く光ってる……。\n　ってことは　星のオーラが　手に入ったんだ。\n　やったね　<cs_pchero>！": "Benevogem brille en bleu... Ce qui signifie\nque nous avons obtenu la Benevolessence. Bien\njoue, <cs_pchero> !"
+    },
+    "312195": {
+        "「ひとまず　この国の調査は　終了かしら。\n　ジーくんは　アマラークに残るけど\n　私は折を見て　はじまりの地に戻るわね！": "Pour l'instant, l'enquete dans ce pays est\nterminee, je pense. Bien que Ji-kun reste a\nAmurack, je vais saisir l'occasion pour<br>retourner au Pays des Commencements !"
+    },
+    "312196": {
+        "「よかった……。\n　ちゃんと　星のオーラを　手に入れたみたい。": "Super... On dirait que nous avons reussi a\nobtenir la Benevolessence."
+    },
+    "312197": {
+        "「言いつけどおり　あの者たちを　導けました。\n　ラキは　あなたの　お役に立てましたか？\n　……ねえさま。": "Comme demande, j'ai guide ces personnes. Lycae\na-t-elle pu vous etre utile ? ... grande soeur."
+    },
+    "312198": {
+        "この地方の　調査を終えた。\n引きつづき　ほかの地方の　調査に向かおう。": "J'ai termine l'enquete dans cette region.\nContinuons avec l'enquete dans une autre\nregion."
+    },
+    "312199": {
+        "調査隊を派遣した\n３つの地方　すべてで　調査を終えた。\nはじまりの地へ　戻ろう。": "Nous avons termine l'enquete dans les trois\nregions ou nous avons envoye les equipes de\nrecherche. Revenons a la Terre des<br>Commencements."
+    },
+    "317255": {
+        "「で……出た！\n　フーラズーラが　出たぞーっ！": "Il... Il est apparu ! Fluzula est la !"
+    },
+    "317437": {
+        "「そ……そうか？": "S... vraiment ?"
+    },
+    "321812": {
+        "「何あれ！？　大きい……！": "Qu'est-ce que c'est que ca !? C'est enorme...\n!"
     }
 }
