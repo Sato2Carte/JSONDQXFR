@@ -1,131 +1,290 @@
 {
-    "197786": {
-        "「……ああ　ワガハイだ。回収任務指令の\n　第２９１号にて　指定された民家に　到着した。\n　これより　任務を開始する。": "…Ah, c'est moi. Je suis arrive a la maison\ndesignee par l'ordre de mission de\nrecuperation numero 291. Je vais maintenant<br>commencer la mission."
+    "198521": {
+        "「……はじめまして　<pc>さん。\n　私の名は　パッキュレ。\n　見てのとおり　神父をしております。": "Enchante, <pc>-san. Mon nom est\nPakkyure. Comme vous pouvez le voir, je suis\npretre."
     },
-    "197787": {
-        "「キミのことは　知っているよ。\n　<pc>君。それがキミの名だ。": "Je te connais. <pc>-kun, c'est ton nom."
+    "198522": {
+        "「人目につかぬよう　密かに記した\n　私のメッセージに　たやすく　気づくとは。\n　その観察眼　おそろしいものがありますな。": "Pour ne pas etre remarque, j'ai discretement\nlaisse mon message. Que vous l'ayez remarque\nsi facilement... Votre sens de l'observation<br>est vraiment impressionnant."
     },
-    "197788": {
-        "「ワガハイを　追ってきたことも　知っている。\n　先を越されるとは　思っていなかったがね。": "Je sais que tu m'as suivi. Je ne pensais pas\nque tu me devancerais."
+    "198523": {
+        "「それゆえか　我が友人であるパクレは\n　あなたのことを　危険人物と判断して\n　排除するつもりだと　申しておりました。": "C'est pourquoi, mon ami Pakure vous a juge\ncomme une personne dangereuse et a declare son\nintention de vous eliminer."
     },
-    "197789": {
-        "「しかし……だ。": "Cependant..."
+    "198524": {
+        "「ですが　私の考えは　異なります。\n　あなたほどのチカラの持ち主ならば\n　ぜひとも　味方に　引き込むべきであると。": "Cependant, je ne suis pas du meme avis. Avec\nune puissance telle que la votre, Lord, il est\nessentiel de vous rallier a notre cause."
     },
-    "197790": {
-        "「悪く　思わないでくれたまえ。\n　キミに　かまっている時間は　ないのだよ。": "Ne m'en veux pas. Je n'ai pas le temps de\nm'occuper de toi."
+    "198525": {
+        "「そこで　あなたのことを試したく\n　依頼を果たしてもらいたい……というわけです。": "C'est pourquoi j'aimerais vous mettre a\nl'epreuve et vous demander de remplir cette\nmission... Voila l'idee."
     },
-    "197791": {
-        "<pc>は　深い眠りに　落ちた……。": "<pc> est tombe dans un profond\nsommeil..."
+    "198526": {
+        "「あれれー？　あんた\n　パクレのオヤジじゃないのー？": "Ah, tiens ? Tu ne serais pas le vieux Pakure,\npar hasard ?"
     },
-    "197792": {
-        "どこからか　足音が　聞こえてくる……。": "Des bruits de pas se font entendre de quelque\npart..."
+    "198527": {
+        "「最近　店に来ないと思ったら\n　神父に　転職しちゃってたみたいな？\n　ぜんぜん　似合ってなくて　マジウケるー。": "Recemment, je pensais que tu ne venais plus au\nmagasin, et il se trouve que tu as change de\nmetier pour devenir pretre ? Ca te va pas du<br>tout, c'est vraiment hilarant."
     },
-    "197793": {
-        "「ほう……。もう　回復したか。\n　さすが　<pc>君というところだな。": "Oh... Tu as deja recupere. Comme on pouvait\ns'y attendre de <pc>-kun."
+    "198528": {
+        "「なんですか　あなたは。\n　私は　パッキュレ神父と　申す者。\n　断じて　パクレ警部などでは……": "Qui etes-vous ? Je suis celui qu'on appelle\nFather Pakkule. Je ne suis absolument pas\nInspector Pakul..."
     },
-    "197794": {
-        "「キミの用件は　わかっている。\n　ある少年に　頼まれて\n　これを　届けにきたのだろう？": "Je comprends pourquoi tu es la. Un certain\ngarcon t'a demande de me remettre ceci,\nn'est-ce pas ?"
+    "198529": {
+        "「あはははーっ。\n　なに　そのしゃべり？\n　パクレのくせに　ナマイキだぞー。": "Ahahah ! Qu'est-ce que c'est que cette facon\nde parler ? Pour un Pakure, tu es bien\ninsolent !"
     },
-    "197795": {
-        "<pc>は　ふところに入れておいた\nボンドルの手紙が　なくなっていることに\n気がついた！": "<pc> se rend compte que la Lettre de\nBondor, qu'il avait gardee dans sa poche, a\ndisparu !"
+    "198530": {
+        "「なになに？　この神父さんって\n　本当は　パクレ警部なの！？": "Quoi, quoi ? Ce pretre serait en realite\nl'Inspecteur Pakul !?"
     },
-    "197796": {
-        "「すまないが　ワガハイは\n　弟子は取らないと　決めているのでね。": "Je suis desole, mais j'ai decide de ne pas\nprendre d'apprenti."
+    "198531": {
+        "「あっ　もしかして　変装しての捜査中？\n　うわあ　すっごいや！！": "Ah, seriez-vous en train de mener une enquete\nsous couverture ? Waouh, c'est incroyable !!"
     },
-    "197797": {
-        "「この手紙の差出人には　キミから\n　丁重に　断っておいてくれたまえ。": "Veuillez informer l'expediteur de cette lettre\nde mon refus avec la plus grande courtoisie."
+    "198532": {
+        "「ええー　変装なのー？\n　こんな　ヘタクソな変装ってアリ？": "Quoi ? Un deguisement ? Un deguisement aussi\nmauvais, c'est possible ?"
     },
-    "197798": {
-        "「では　さらば！": "Eh bien, adieu !"
+    "198533": {
+        "「……ええいっ！\n　私は　パッキュレ神父なのだっ。\n　パクレ警部では　ないったら　なーいっ！！": "......Argh ! Je suis Father Pakkule. Je ne\nsuis pas Inspector Pakul ! Pas du tout !!"
     },
-    "197799": {
-        "オルフェアの町にいるボンドルに\n弟子入りの話が　パクレ警部から\n断られてしまったことを　伝えにいこう。": "Allons informer Bondor a Orphea que la demande\nd'apprentissage a ete refusee par l'Inspecteur\nPakul."
+    "198534": {
+        "「お前たちなど　知らん！\n　とっとと　ここから　立ち去れーっ！！": "Je ne vous connais pas ! Sortez d'ici\nimmediatement !!"
     },
-    "197800": {
-        "「おい　お前。さっきも　ここに　来てたが\n　もしや　オレと同じで　パクレの野郎に\n　借金でも　返してもらおうってのか？": "He, toi. Tu etais la tout a l'heure aussi. Ne\nme dis pas que, comme moi, tu es la pour que\nce salaud de Pakure te rembourse une dette ?"
+    "198535": {
+        "「きゃー　こっわーい。": "Kyaa ! C'est effrayant."
     },
-    "197801": {
-        "<if_woman>「あっ　お姉ちゃん。\n　もしかして　パクレ警部に　会えたのかな？<yesno><close><else>「あっ　お兄ちゃん。\n　もしかして　パクレ警部に　会えたのかな？<yesno><close><endif>": "<if_woman>>Ah, grande soeur. Est-ce que tu as\npu rencontrer Inspector Pakul ?<yesno><close<else>>Ah, grand frere. Est-ce que tu as pu\nrencontrer Inspector Pakul\n?<yesno><close><endif>"
+    "198536": {
+        "「ほらほら　ぼうや！\n　お姉さんと　いっしょに\n　こわいオジサンから　逃げましょー！！": "Allez, allez, petit garcon ! Fuyons ensemble\nle mechant monsieur avec ta grande soeur !"
     },
-    "197802": {
-        "「……なんだ　ちがうのか。\n　別の用事ってんなら　オレには　関係ねえな。": "Ah, ce n'est pas ca. Si c'est pour autre\nchose, ca ne me concerne pas."
+    "198537": {
+        "「……えっ　えっ？\n　ちょっと　待ってよ。\n　ボクは　パクレ警部と　もっと……": "…Hein, hein ? Attends un peu. Je veux en\nsavoir plus sur Inspector Pakul…"
     },
-    "197803": {
-        "<if_woman>「あははっ。お姉ちゃんは\n　ウソが　ヘタクソみたいだね。<else>「あははっ。お兄ちゃんは\n　ウソが　ヘタクソみたいだね。<endif>": "<if_woman>>Ahaha. Grande soeur, on dirait que\ntu es mauvaise pour mentir.<else>>Ahaha. Grand frere, on dirait que tu es\nmauvais pour mentir. <endif>"
+    "198538": {
+        "「ふう……。\n　思わぬ邪魔が　入ってしまいましたが\n　話の続きと　まいりましょうか。": "Ouf... Nous avons ete interrompus de maniere\ninattendue, mais continuons notre\nconversation, voulez-vous ?"
     },
-    "197804": {
-        "「パクレ警部と　会ってきたって\n　思いっきり　カオに　書いてあるよ！": "On dirait que tu as rencontre l'Inspecteur\nPakul, ca se lit sur ton visage !"
+    "198539": {
+        "「ドルワーム王国にて　発生している\n　とある事件の　調査と解決……。\n　それが　あなたへの依頼の内容です。": "Dans le Royaume de Dolworm, une certaine\naffaire est en train de se derouler. Votre\nmission consiste a enqueter et a la<br>resoudre... Voila la nature de la requete qui\nvous est adressee."
     },
-    "197805": {
-        "「どっちにしても　パクレの野郎なら\n　帰ってくる気配は　ねえぜ。\n　お前も　とっとと引き上げるこったな。": "De toute facon, cet idiot de Pakure ne semble\npas revenir. Toi aussi, tu ferais mieux de te\nretirer rapidement."
+    "198540": {
+        "「城下町の民家に　マクリマという女性が\n　住んでいるのですが　その夫　バァツェ氏が\n　突然　人が　変わったようになったとのこと。": "Dans la ville du chateau, une femme nommee\nMakurima vit dans une maison. Son mari, M.\nBahtze, a soudainement change de comportement,<br>comme s'il etait devenu une autre personne."
     },
-    "197806": {
-        "<if_woman>「よかった。お姉ちゃんなら\n　きっと　見つけてくれるって　信じてたんだ！<else>「よかった。お兄ちゃんなら\n　きっと　見つけてくれるって　信じてたんだ！<endif>": "<if_woman>>Super ! Je savais que ma grande\nsoeur finirait par le retrouver !<else>>Super ! Je savais que mon grand frere\nfinirait par le retrouver ! <endif>"
+    "198541": {
+        "「何者かがバァツェ氏と　入れ替わっているのか\n　はたまた　新たな人格が　芽生えたものか……。": "Quelqu'un a-t-il pris la place de M. Bahtze,\nou bien une nouvelle personnalite a-t-elle\nemerge...?"
     },
-    "197807": {
-        "「……それで　ボクの手紙は　渡してくれたよね。\n　警部は　なんて　言ってたの？": "Alors, tu as bien remis ma lettre, n'est-ce\npas ? Qu'est-ce que l'inspecteur a dit ?"
+    "198542": {
+        "「いずれにしても　このまま　放置しておけば\n　彼と　その家族だけの問題では　収まらず\n　世界をも　危険に巻き込む予感がするのです。": "En tout cas, si nous laissons la situation\ntelle quelle, je crains que cela ne devienne\npas seulement un probleme pour lui et sa<br>famille, mais qu'il entraine egalement le\nmonde entier dans le danger."
     },
-    "197808": {
-        "<pc>は　ボンドルに\n弟子入りの話が　パクレ警部から\n断られてしまったことを　告げた。": "<pc> a informe Bondor que l'Inspector\nPakul avait refuse sa demande de devenir\napprenti."
+    "198543": {
+        "「至急　ドルワーム王国へ向かい\n　マクリマさんのもとを　訪れてください。": "Veuillez vous rendre d'urgence aux Royaumes de\nDolworm et rendre visite a Makurima-san."
     },
-    "197809": {
-        "「……うわ～。\n　やっぱり　ダメだったかあ。\n　そんな気は　してたんだけどね。": "...... Oh, non. Ca n'a pas fonctionne, hein.\nJe m'en doutais un peu, tu sais."
+    "198544": {
+        "「この依頼を果たせれば　我が友人パクレも\n　あなたの処遇を　考え直すことでしょう。\n　命が惜しくば　がんばりなさい。": "Si vous reussissez cette mission, mon ami\nPakure reconsiderera probablement votre sort.\nSi vous tenez a votre vie, faites de votre<br>mieux."
     },
-    "197810": {
-        "「おいおい。パクレに弟子入りだと？\n　そんなことを　考えていたのか。\n　おかしなヤツだな　お前……。": "Oh la la. Tu veux devenir l'apprenti de Pakure\n? Tu pensais a quelque chose comme ca. Tu es\nvraiment un type etrange..."
+    "198545": {
+        "「今後　私から　連絡があるときは\n　この木箱に　記すことにします。\n　調査に　行きづまったら　見るとよいでしょう。": "Desormais, lorsque j'aurai des informations a\nte transmettre, je les noterai dans cette\ncaisse. Si ton enquete pietine, il serait<br>judicieux de venir y jeter un oeil."
     },
-    "197811": {
-        "「もしかして　パクレの野郎に\n　どこかで　会ってきたってのかよ？": "Peut-etre que tu as rencontre ce fichu Pakure\nquelque part ?"
+    "198546": {
+        "「では　私は　これにて……。": "Alors, je vais prendre conge..."
     },
-    "197812": {
-        "<if_woman>「ねえ　お姉ちゃん。参考までに\n　パクレ警部が　どこで　何をしてたのか\n　見てきたことを　ぜーんぶ　教えてくれる？<else>「ねえ　お兄ちゃん。参考までに\n　パクレ警部が　どこで　何をしてたのか\n　見てきたことを　ぜーんぶ　教えてくれる？<endif>": "<if_woman>>Dis, grande soeur. Pourrais-tu me\nraconter tout ce que tu as vu et appris sur ce\nque faisait Inspector Pakul et ou il etait ?<else>>Dis, grand frere. Pourrais-tu me raconter\ntout ce que tu as vu et appris sur ce que\nfaisait Inspector Pakul et ou il etait ?<br><endif>"
+    "198547": {
+        "「……武器の数に　異常なし。\n　品質チェックなんか　やってられるか……。": "… Pas de probleme avec le nombre d'armes. Qui\na le temps de faire un controle qualite..."
     },
-    "197813": {
-        "<pc>は　ボンドルに\nパクレ警部が　ジュレットの町の酒場で\nしでかしたことを　話してあげた。": "<pc> a raconte a Bondor ce que\nl'Inspecteur Pakul avait fait a la taverne de\nJulet."
+    "198548": {
+        "「よし……。もう　仕事は終わりだ。": "Bien... Le travail est termine."
     },
-    "197814": {
-        "「はあ？　パクレの野郎が\n　ジュレットの酒場で　あばれてたってか？\n　そいつは　初耳だなあ。": "Hein ? Tu dis que ce vaurien de Pakure faisait\ndes siennes a la taverne de Jurett ? C'est\nbien la premiere fois que j'entends ca."
+    "198549": {
+        "「ああ。はやく　行かなきゃ。": "Ah, je dois y aller vite."
     },
-    "197815": {
-        "<if_woman>「ふ～ん。パクレ警部が\n　酒場の置き物を　壊しちゃって\n　お姉ちゃんが　代わりに　弁償したんだね。<else>「ふ～ん。パクレ警部が\n　酒場の置き物を　壊しちゃって\n　お兄ちゃんが　代わりに　弁償したんだね。<endif>": "<if_woman>>Hmm. L'inspecteur Pakul a casse\nl'ornement de la taverne et ta grande soeur a\ndu le remplacer.<else>>Hmm. L'inspecteur Pakul a casse l'ornement de\nla taverne et ton grand frere a du le\nremplacer. <endif>"
+    "198550": {
+        "「あいつも　オレに　会いたいはずだ……。": "Il doit surement vouloir me voir aussi..."
     },
-    "197816": {
-        "「でも　なんで　そんなことに　なったのかな？\n　追いつめた犯人と　現場で格闘の末\n　巻き込んで　壊しちゃった……とかかも。": "Mais pourquoi est-ce que ca s'est passe comme\nca ? Apres avoir accule le criminel, un combat\ns'est engage sur le parking et... Peut-etre<br>que tout a ete detruit dans la melee..."
+    "198551": {
+        "「……なんだ　あんたは。\n　ここは　立ち入り禁止だぞ。\n　今すぐに　出ていってくれ……。": "…Qui es-tu ? Cet endroit est interdit d'acces.\nPars immediatement..."
     },
-    "197817": {
-        "「それで　その後　警部は　どうしたのかな？": "Alors, que s'est-il passe ensuite avec\nl'inspecteur ?"
+    "198552": {
+        "「はやく　砂漠のオアシスに　行かなきゃ。\n　あいつに　いやしてもらうんだ……。": "Il faut vite se rendre a l'oasis du desert. Je\nvais me faire soigner par lui..."
     },
-    "197818": {
-        "<pc>は　ボンドルに\n王都カミハルムイ南の　民家の前で\nパクレ警部と会えたことを　話してあげた。": "<pc> a raconte a Bondor qu'il avait pu\nrencontrer l'inspecteur Pakul devant une\nmaison au sud de la ville de Kamiharmui."
+    "198553": {
+        "「おやおや……。ここに来て\n　捜査が行きづまった……という感じですかな。": "Oh la la... On dirait que l'enquete a atteint\nune impasse ici, n'est-ce pas ?"
     },
-    "197819": {
-        "「なにぃ？　あいつは今\n　カミハルムイに　いるってのか！？\n　オレも　後で　行ってみるとするか……。": "Quoi ? Il est a Kamiharmui en ce moment !? Je\ndevrais peut-etre y aller plus tard..."
+    "198554": {
+        "「……なるほど。たとえ　あなたでも\n　これを　外から　開けることは\n　むずかしいと　言わざるを得ませんね。": "Je vois. Meme pour vous, je suis oblige de\ndire qu'il sera difficile d'ouvrir cela de\nl'exterieur."
     },
-    "197820": {
-        "<if_woman>「……ふんふん。警部は\n　お姉ちゃんを　眠らせている間に\n　その家に　入っていったんだね。<else>「……ふんふん。警部は\n　お兄ちゃんを　眠らせている間に\n　その家に　入っていったんだね。<endif>": "<if_woman>>... Hum hum. Le commissaire est\nentre dans cette maison pendant que grande\nsoeur dormait.<else>>... Hum hum. Le commissaire est entre dans\ncette maison pendant que grand frere dormait.<endif>"
+    "198555": {
+        "「いたしかた　ありません。\n　ここは　特別に　私の知恵をお貸ししましょう。": "Il n'y a pas d'autre choix. Je vais\nexceptionnellement vous preter ma sagesse."
     },
-    "197821": {
-        "「そして　何かを持って　出てきた……と。": "Et ensuite, il est sorti en tenant quelque\nchose..."
+    "198556": {
+        "「外にいる者に　開けられない扉……\n　それを開けるには　どうすれば　よいのか？": "Une porte que ceux qui sont a l'exterieur ne\npeuvent ouvrir... Que faut-il faire pour\nl'ouvrir ?"
     },
-    "197822": {
-        "「それ　なんだろうね？\n　もしかして　その家は　凶悪な強盗犯のアジトで\n　盗まれたものを　取り返しにいったとか……？": "Qu'est-ce que cela pourrait etre ? Peut-etre\nque cette maison etait la cachette d'un\ndangereux voleur, un repaire nomme Horse<br>Mackerel, et qu'on est alle recuperer ce qui\navait ete vole..."
+    "198557": {
+        "「答えは　ひとつしか　ありません。\n　中にいる者に　開けてもらえば　よいのです。": "La solution est simple. Il suffit de demander\na celui qui est a l'interieur de l'ouvrir."
     },
-    "197823": {
-        "「……あっ。家宅捜査ってヤツじゃないかな。\n　きっと　証拠品を押さえて\n　強盗犯を　バッチリ　捕まえる気なんだよ！": "...Ah. Ce doit etre une perquisition. Ils\nveulent surement saisir des preuves et\nattraper le voleur en un clin d'oeil !"
+    "198558": {
+        "「……ふむ。アレで　いきましょう。\n　あなたは　次の材料を　集めてください。": "...Hmm. Utilisons cela. Veuillez rassembler\nles ingredients suivants."
     },
-    "197824": {
-        "「やっぱり　パクレ警部は　すごいなあ。\n　ますます　あこがれちゃった。": "Comme prevu, l'Inspecteur Pakul est vraiment\nincroyable. Je l'admire de plus en plus."
+    "198559": {
+        "「まずは　ここより北　デマトード高地などにいる\n　<%sEV_QUE_NAME0>が　よく落としていくという\n　ケムケム玉を　手に入れるのです。": "Tout d'abord, rendez-vous au nord, vers les\nHautes Terres de Dematode, ou vous trouverez\nsouvent des <%sEV_QUE_NAME0> qui laissent<br>tomber des Smoky Ball. Obtenez-en un."
     },
-    "197825": {
-        "「しかし　よりによって　カミハルムイかよ。\n　あの辺りには　あんまり　近寄りたく\n　ねえんだよなあ……。": "Mais pourquoi Kamiharmui, de tous les endroits\npossibles ? Je n'ai vraiment pas envie de\nm'approcher de cette region..."
+    "198560": {
+        "「それと　ようせいのひだねをひとつ。\n　これは　鍛冶系の職人ギルドや\n　各町にある素材屋などで　手に入るでしょう。": "Et puis, une Flamme feerique. Tu devrais\npouvoir l'obtenir chez un artisan forgeron\ncomme Ludo ou dans les boutiques de materiaux<br>de chaque ville."
     },
-    "197826": {
-        "<if_woman>「弟子入りを断られたのは　残念だったけど\n　お姉ちゃんが　行ってくれたおかげで\n　パクレ警部のこと　いろいろ　わかったよ。<else>「弟子入りを断られたのは　残念だったけど\n　お兄ちゃんが　行ってくれたおかげで\n　パクレ警部のこと　いろいろ　わかったよ。<endif>": "<if_woman>>C'est dommage que je n'aie pas pu\ndevenir apprenti, mais grace a toi, grande\nsoeur, j'ai appris beaucoup de choses sur<br>l'Inspecteur Pakul.<else>>C'est dommage que je n'aie pas pu devenir\napprenti, mais grace a toi, grand frere, j'ai\nappris beaucoup de choses sur l'Inspecteur<br>Pakul. <endif>"
+    "198561": {
+        "「そのふたつの材料が　あれば\n　煙を大量に発生させる　発煙筒を\n　作ることが　できるのですよ。": "Avec ces deux ingredients, il est possible de\nfabriquer un tube a fumee capable de produire\nune grande quantite de fumee."
     },
-    "197827": {
-        "「本当に　ありがとう。\n　これ　お礼だよ。受け取ってね！": "Merci beaucoup. Voici un petit cadeau pour te\nremercier. Accepte-le, s'il te plait !"
+    "198562": {
+        "「……もう　おわかりですね。\n　大量の煙を　この扉のスキマから　送り込み\n　中にいる者を　いぶりだすのです。": "… Vous comprenez maintenant, n'est-ce pas ?\nNous allons envoyer une grande quantite de\nfumee a travers les interstices de cette porte<br>pour faire sortir ceux qui se trouvent a\nl'interieur."
     },
-    "197828": {
-        "「でも　ボク　あきらめないよ。\n　パクレ警部を追いかけて　ぜったいに\n　弟子入りしてやるんだ！！": "Mais je n'abandonnerai pas. Je vais poursuivre\nInspector Pakul et je deviendrai absolument\nson disciple !!"
+    "198563": {
+        "「発煙筒の作り方も　お教えしておきましょう。\n　材料さえあれば　簡単なものです。": "Je vais egalement vous montrer comment\nfabriquer un Tube fumigene. C'est assez\nsimple, tant que vous avez les materiaux<br>necessaires."
+    },
+    "198564": {
+        "<pc>は　パッキュレ神父に\n発煙筒の作り方を　教えてもらった！": "<pc> a appris de Father Pakkule comment\nfabriquer un tube fumigene !"
+    },
+    "198565": {
+        "デマトード高地などで　<%sEV_QUE_NAME0>を倒し\nケムケム玉を手に入れたら　ようせいのひだねを\n用意して　熱砂洞の扉の前に　戻ってこよう！": "Une fois que tu auras vaincu <%sEV_QUE_NAME0>\ndans les Hautes Terres de Dematode et obtenu\nla Smoky Ball, prepare une Flamme feerique et<br>reviens devant la porte de la Caverne de Sable\n!"
+    },
+    "198566": {
+        "「あとは　あなたの手で　おやりなさい。\n　忘れているかも　しれませんが\n　これは　あなたに課した試練なのですから。": "A present, c'est a vous de mener cette tache a\nbien avec la lance. Vous l'avez peut-etre\noublie, mais c'est une epreuve que je vous ai<br>imposee."
+    },
+    "198567": {
+        "「では　私は　これにて……。": "Alors, je vais prendre conge..."
+    },
+    "198568": {
+        "「ぴっきゅ？\n　ぴきゅるるるぅ～。": "Pikkiu? Pikurururu~."
+    },
+    "198569": {
+        "バァツェが　いっしょにいたのは\nこのケダモンのようだ。": "Il semble que Bahtze etait avec cette\nFeralbeast."
+    },
+    "198570": {
+        "しかし　明らかに　ゴブル砂漠東にいる\n普通のケダモンとは　様子が　異なっている……。": "Cependant, il est clair que ceux presents a\nl'est du desert de Gobul different des\nFeralbeasts ordinaires..."
+    },
+    "198571": {
+        "「ぴっぴっぴっ……。": "Pi pi pi..."
+    },
+    "198572": {
+        "「きゃっきゃっきゃっ…………。": "Kya kya kya..."
+    },
+    "198573": {
+        "「ぴギャーーーーーッ！": "Pi-GYAAAAAH !"
+    },
+    "198574": {
+        "「ギャギャギャギャーンッ！！": "Gyagyagyagyaaaaan!!"
+    },
+    "198575": {
+        "「ギャッギャルルルルッ！！": "Gyagyarulululu !!"
+    },
+    "198576": {
+        "「ギャッ！？": "Gyah!?"
+    },
+    "198577": {
+        "「おやおや。様子を見にきてみれば\n　やっかいなモノが　こちらに来ていましたな。": "Oh la la. En venant voir comment ca se passe,\nje constate qu'un probleme est arrive\njusqu'ici."
+    },
+    "198578": {
+        "「そやつには　そんじょそこらの攻撃では\n　致命傷を与えることは　できないのですよ。": "Il est impossible de lui infliger une blessure\nmortelle avec une attaque ordinaire."
+    },
+    "198579": {
+        "「……ふむ。この姿では\n　すこしばかり　格好が　つきませんかな。": "…Hmm. Dans cette apparence, cela manque un peu\nd'allure, n'est-ce pas ?"
+    },
+    "198580": {
+        "「おどろいたかね？\n　パッキュレ神父は　世を忍ぶ　仮の姿。\n　その正体は　ワガハイの変装だったのだよ。": "Es-tu surpris ? Father Pakkule n'etait qu'une\napparence trompeuse pour le TMP. En realite,\nc'etait moi deguise !"
+    },
+    "198581": {
+        "「キミを　試したくてね。\n　このような趣向を　用意させてもらった。": "Je voulais te mettre a l'epreuve. C'est\npourquoi j'ai prepare ce genre de defi."
+    },
+    "198582": {
+        "「……お前の出番は　もう終わりだ。": "......Ton role est deja termine."
+    },
+    "198583": {
+        "「……ああっ　ケダ子！？": "...... Ah, Kedako !?"
+    },
+    "198584": {
+        "「こんなに　キズだらけになって…………。": "Tu es couvert de blessures..."
+    },
+    "198585": {
+        "「あんたたちが　ケダ子を　いじめたのか……。": "Est-ce que c'est vous qui avez harcele\nKedako...?"
+    },
+    "198586": {
+        "「ケダ子は　かわいそうなヤツなんだぞ。\n　なのに　なんで　こんなことを……。": "Keidako est vraiment a plaindre. Mais pourquoi\nferait-elle une chose pareille...?"
+    },
+    "198587": {
+        "「許さないぞ　あんたたち！！": "Je ne vous pardonnerai pas, vous tous !!"
+    },
+    "198588": {
+        "「ダーリン　これは　どういうこと！？": "Cheri, que se passe-t-il ici !?"
+    },
+    "198589": {
+        "「この　おぞましい魔物は　なんなの？\n　こんな毛玉みたいのが　いいって言うの？\n　私のことは　もう　愛していないの！？": "Quelle est cette creature monstrueuse ? Tu dis\nque tu aimes ce genre de boule de poils ? Tu\nne m'aimes plus, c'est ca !?"
+    },
+    "198590": {
+        "「ダーリンの　バカ～～～っ！！": "Darling, espece d'idiot !!"
+    },
+    "198591": {
+        "「わーっ　待ってくれ！\n　そんなんじゃ　ないんだ！！": "Attends, s'il te plait ! Ce n'est pas ce que\ntu crois !"
+    },
+    "198592": {
+        "「オレが　愛しているのは　お前だけだ！\n　だが　こいつは　かわいそうなヤツなんだよ。": "La seule que j'aime, c'est toi ! Mais lui,\nc'est un pauvre gars."
+    },
+    "198593": {
+        "「こいつとは　砂漠で会った……。\n　他のケダモンに　おそわれていたんだ。": "Je l'ai rencontre dans le desert... Il etait\nattaque par d'autres Feralbeasts."
+    },
+    "198594": {
+        "「見た目が　こんなだからだろう。\n　きっと　仲間はずれに　されちまったんだな。": "Ca doit etre a cause de mon apparence. C'est\nsur, ils m'ont exclu."
+    },
+    "198595": {
+        "「ひどいケガをしていたから　助けて\n　それからずっと　ここで　面倒を見てたんだ。": "Tu etais gravement blesse, alors je t'ai aide.\nDepuis, je veille sur toi ici."
+    },
+    "198596": {
+        "「お前は　毛むくじゃらの魔物が　いると\n　クシャミが　止まらないだろう？\n　だから　こいつのことを　言えなくて……。": "Tu ne peux pas t'empecher d'eternuer quand il\ny a des creatures poilues autour de toi,\nn'est-ce pas ? C'est pourquoi je ne pouvais<br>pas te parler de lui..."
+    },
+    "198597": {
+        "「このところ　お前のことを\n　ないがしろにしてしまったのは　悪かった。\n　オレを　許してくれないか…………？": "Je suis desole de t'avoir neglige\ndernierement. Peux-tu me pardonner...?"
+    },
+    "198598": {
+        "「ダーリンったら　やっさしーい！": "Oh, cheri, tu es si gentil !"
+    },
+    "198599": {
+        "「いいの。もう　ぜーんぶ　ゆるしちゃうっ！！": "Ca va. Je vais tout pardonner !!"
+    },
+    "198600": {
+        "「ありがとう　マクリマ……。": "Merci, Makurima..."
+    },
+    "198601": {
+        "「だが　オレは結局　こいつを守れなかった……。": "Mais, au final, je n'ai pas pu le proteger..."
+    },
+    "198602": {
+        "「ぴっぴきゅ！": "Pippikyu!"
+    },
+    "198603": {
+        "「ケダ子……　死んじまったとばかり…………。": "Kedako... Je pensais qu'elle etait morte..."
+    },
+    "198604": {
+        "「キズが　ぜんぶ　治ってるぞ。\n　どういうことだ……？": "Les blessures sont completement gueries.\nQu'est-ce que cela signifie...?"
+    },
+    "198605": {
+        "「そうか……。あんたたちは\n　こいつを　退治しに来たんじゃなかったのか。": "Je vois... Vous n'etes pas venus pour eliminer\ncette creature, n'est-ce pas ?"
+    },
+    "198606": {
+        "「ぴきゅーーーーーーっ！！": "Pikyuーーーーーー!!"
+    },
+    "198607": {
+        "「おっ　おい……！！": "He, he... !!"
+    },
+    "198608": {
+        "「……ここまでだ。\n　追うのは　やめておきたまえ。\n　もう　アレに関わらぬのが　身のためだ。": "...C'est suffisant. Cesse de poursuivre. Il\nvaut mieux pour toi de ne plus t'impliquer\ndans cela."
+    },
+    "198609": {
+        "「そう……。キミは　夢を見ていたのだよ。\n　真に　守らなければならぬ者のもとへ\n　戻りたまえ。": "Oui... Tu faisais un reve. Retourne aupres de\nceux que tu dois proteger, T."
+    },
+    "198610": {
+        "「……ああ　そのとおりだ。\n　あんたたちにも　迷惑をかけてしまったな。": "...... Ah, c'est vrai. Je vous ai cause des\nennuis aussi."
+    },
+    "198611": {
+        "「帰ろう　マクリマ。": "Rentons, Makurima."
+    },
+    "198612": {
+        "「うん　ダーリン！": "Oui, Darling !"
+    },
+    "198613": {
+        "「事件は　解決といったところか。\n　ご苦労だったな　<cs_pchero>君。": "L'affaire est resolue, on dirait. Bon travail,\n<cs_pchero> kun."
+    },
+    "198614": {
+        "「……ワガハイは　もうひと任務あるので\n　これで　失礼しよう。": "Je dois encore accomplir une autre mission,\nalors je vais prendre conge ici."
+    },
+    "198615": {
+        "「ああ。キミは　この後　オルフェアの裏通りの\n　例の木箱を　確認したまえ。": "Ah. Assure-toi de verifier cette fameuse\ncaisse dans la ruelle d'Orphea apres cela."
+    },
+    "198616": {
+        "「では　さらばだ。": "Alors, adieu."
     }
 }
