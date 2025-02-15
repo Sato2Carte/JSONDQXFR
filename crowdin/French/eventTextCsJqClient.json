@@ -1,116 +1,134 @@
 {
-    "13758": {
-        "「止まれ！！": "Arretez-vous !!"
+    "13810": {
+        "「わあ　<pc>さん！\n　お待ちしていましたよ！": "Ah, <pc>-san ! Je vous attendais !"
     },
-    "13759": {
-        "「……わからないか？　泉の　かげりが。\n　今　ともしびの木に触れれば\n　お前の心は　けがされてしまうぞ。": "…Tu ne le vois pas ? L'obscurite de la source.\nSi tu touches l'Arbre de Lumiere maintenant,\nton coeur sera souille."
+    "13811": {
+        "「どうやら　洗礼の儀を行う時が　来たようだな。": "Il semblerait que le moment soit venu\nd'accomplir le rite du bapteme."
     },
-    "13760": {
-        "「ザホック！\n　すぐに　浄化の儀を始めよう。": "Zahokku ! Commencons immediatement le rituel\nde purification."
+    "13812": {
+        "「<pc>。よくぞ　はげんだ。": "<pc>. Tu as bien persevere."
     },
-    "13761": {
-        "「かしこまりました　ヘルガ僧正。": "Je comprends, Pretresse Helga."
+    "13813": {
+        "「キリカ修道会に入門し　チカラをつけた僧侶は\n　知恵の神　エルドナ神による\n　洗礼の儀を　受けることを許されるのだ。": "Les pretres qui rejoignent l'ordre de Kirika\net acquierent de la puissance sont autorises a\nrecevoir le rite du bapteme de la deesse de la<br>sagesse, Eldona."
     },
-    "13762": {
-        "「神の鏡が　映すは光……。": "Ce que reflete le Miroir Divin, c'est la\nlumiere..."
+    "13814": {
+        "「これより　お前には　洗礼の儀で使う\n　聖具を　用意してもらう。": "A partir de maintenant, tu devras preparer les\nreliques sacrees utilisees pour la ceremonie\nde bapteme."
     },
-    "13763": {
-        "「影よ……　闇夜のもとへ帰れ！": "O ombre... retourne aupres de Night !"
+    "13815": {
+        "「くわしい指示は　コクヨウに伝えてある。\n　出発の準備が　できたら\n　彼に　声をかけるといい。": "Les instructions detaillees ont ete transmises\na Yokuyou. Une fois que tu es pret a partir,\nadresse-toi a lui."
     },
-    "13764": {
-        "「成功でしょうか？": "Est-ce un succes ?"
+    "13816": {
+        "「はげめよ　<pc>。\n　これも　お前に与えられる\n　ひとつの試練なのだ。": "Courage, <pc>. Ceci est egalement une\nepreuve qui t'est donnee."
     },
-    "13765": {
-        "「ああ。浄化は　無事に終わった。\n　枝を１本　拝借して\n　あの香術師に　持ちかえってやるとしよう。": "Ah, la purification s'est bien deroulee. Je\nvais emprunter une branche et la ramener a ce\nparfumeur."
+    "13817": {
+        "「まちがいありません。\n　世界各地に　確かな前兆が　現れていました。": "Il n'y a aucun doute. Des signes precurseurs\ncertains se manifestent a travers le monde."
     },
-    "13766": {
-        "「……さて。": "...Bon."
+    "13818": {
+        "「ふうむ…………。": "Hmm............"
     },
-    "13767": {
-        "「お前は　誰だ？　なぜ　こんな所へ？": "Qui es-tu ? Pourquoi es-tu venu ici ?"
+    "13819": {
+        "「みかがみの泉に　かげりが差したと聞き\n　あなたに　調べさせましたが……。\n　やはり　死神の息吹は　避けられないのですね。": "J'ai entendu dire qu'une ombre est tombee sur\nla Fontaine de Mikagami, alors je vous ai\ndemande d'enqueter... Il semble que le souffle<br>du Dieu de la Mort soit inevitable."
     },
-    "13768": {
-        "「……なるほどな。\n　<pc>　お前は　あの香術師に頼まれ\n　私の身を案じて　ここへ来たというのか。": "Je vois. <pc>, tu dis que tu es venu ici\na la demande de ce parfumeur, inquiet pour\nmoi."
+    "13820": {
+        "「多くの者が……　死ぬのでしょうか。": "Beaucoup de gens... vont-ils mourir ?"
     },
-    "13769": {
-        "「それは　また　ご苦労なことだ。": "Ca, c'est vraiment une tache ardue."
+    "13821": {
+        "「そういう時代も　あるということでしょう……。\n　不安を　あおらぬよう　人々には\n　このことは　伏せておきなさい。いいですね？": "Il y a des epoques comme celle-ci... Pour ne\npas semer l'inquietude, il vaut mieux garder\ncela secret pour le peuple. D'accord ?"
     },
-    "13770": {
-        "「<pc>さん。\n　我らは　みかがみの泉の　かげりに気づいて\n　浄化の儀の　準備をしていたのですよ。": "<pc>-san. Nous avions remarque\nl'obscurite dans la source de Mikagami et nous\nnous preparions pour le rituel de<br>purification."
+    "13822": {
+        "「ええ。洗礼の儀が済んだら\n　私は　調査に出かけます。\n　何か手立てが　見つかるかも……": "Oui. Une fois la ceremonie de bapteme\nterminee, je partirai en mission de\nreconnaissance. Peut-etre que je trouverai<br>quelque chose qui pourra nous aider..."
     },
-    "13771": {
-        "「どうやって　この場所を知り得たか　わからぬが\n　こんな時に　お前のような者と出会えたのは\n　神の　ご意志かもしれない。": "Comment as-tu decouvert cet endroit, je\nl'ignore, mais te rencontrer en ce moment\nprecis pourrait bien etre la volonte divine."
+    "13825": {
+        "「……しかし　それは　まちがいです。 \n　あなたが　気づこうと気づくまいと\n　死神の息吹は　世に現れたのですから。 ": "......Cependant, c'est une erreur. Que vous en\nsoyez conscient ou non, le souffle du dieu de\nla mort a deja penetre le monde."
     },
-    "13772": {
-        "「さて。用も　済んだことだ。\n　アズランの　キリカ聖堂に戻るとしよう。\n　<pc>。お前も　来るといい。": "さて用も済んだことだ アズLMPのキリカ聖堂に戻るとしよう\n<pc>お前も来るといい"
+    "13826": {
+        "「調査も　いいですが\n　たまには　家に帰りなさい。\n　アルノーの顔も　しばらく見ていないのでは？": "L'enquete, c'est bien, mais rentre a la maison\nde temps en temps. Tu n'as pas vu le visage\nd'Alnore depuis un moment, n'est-ce pas ?"
     },
-    "13773": {
-        "「ややっ　<pc>さん！": "Eh bien, <pc>-san !"
+    "13827": {
+        "「大僧正様…………。": "Daisojo-sama..."
     },
-    "13774": {
-        "「ヘルガ僧正から　話は聞きました。\n　結局　いらぬ心配だったようで……\n　いやはや　ご迷惑を　おかけしました。": "J'ai entendu l'histoire de la part de Priest\nHelga. Finalement, il semble que nos\ninquietudes etaient infondees... Je suis<br>desole de vous avoir cause des ennuis."
+    "13828": {
+        "「さあ　中で　祈りましょう。\n　きっと　エルドナ神が　お守りくださいますよ。": "Allez, prions a l'interieur. Eldona veillera\nsurement sur nous."
     },
-    "13775": {
-        "「でも　おかげさまで\n　無事に　ともしびの木が　手に入りました！": "Grace a vous, j'ai pu obtenir l'Arbre de la\nLumiere en toute securite !"
+    "13829": {
+        "「おお　<pc>。\n　待っていましたよ。": "O, <pc>. Je vous attendais."
     },
-    "13776": {
-        "「ほらっ　いい香りでしょう？\n　この　ともしびの木の香りが\n　魔物は　大の苦手なんだそうです。": "Tiens, ca sent bon, n’est-ce pas ? On dit que\nl'odeur de cet arbre lumineux est le pire\ncauchemar pour les monstres."
+    "13830": {
+        "「ごらんなさい。\n　この　木彫りのエルドナ神像を。": "Regardez donc. Cette statue en bois d'Eldona."
     },
-    "13777": {
-        "「これがあれば　森に入っても安心！\n　……ということで　薬草摘みの方に\n　たいへん　よろこんでいただけるんですよ。": "Avec ceci, vous pouvez entrer dans la foret en\ntoute securite ! ...C'est pourquoi ceux qui\ncueillent des herbes medicinales en sont tres<br>heureux."
+    "13831": {
+        "「この木彫りの像は　エルトナ大陸を\n　守護するため　はるか昔に　大僧侶キリカが\n　お作りになった　奇跡の神像なのですよ。": "Cette sculpture en bois est une statue divine\nmiraculeuse que le grand pretre Kirika a creee\nil y a tres longtemps pour proteger le<br>continent d'Eltona."
     },
-    "13778": {
-        "「おっと　いけません。\n　<pc>さんに　ヘルガ僧正から\n　お話が　あるそうですよ。": "Oh, attention. Il semble que Priest Helga\nsouhaite te parler, <pc>-san."
+    "13832": {
+        "「さあ　<pc>よ。\n　かがり火の石を　ここに。": "Allez, <pc>. Apporte la Bonfire Stone\nici."
     },
-    "13779": {
-        "「聞いたぞ　<pc>。\n　我らが　キリカ修道会への入門を\n　望んでいるそうだな。": "J'ai entendu, <pc>. Il parait que tu\nsouhaites rejoindre notre Confrerie de Kirika."
+    "13833": {
+        "<pc>は　イヨリ大僧正に\nかがり火の石を　渡した。": "<pc> a remis la Pierre de Feu de Joie au\nGrand Pretre Iyori."
     },
-    "13780": {
-        "「お前のチカラは　すでに見せてもらった。\n　キリカ修道会の僧侶として　認めよう。": "J'ai deja vu ta force. Je te reconnais comme\nmoine de l'ordre de Kirika."
+    "13834": {
+        "「これで　準備は　ととのいました。\n　洗礼の儀を　始めるといたしましょう。": "Les preparatifs sont maintenant termines.\nCommencons la ceremonie du bapteme."
     },
-    "13781": {
-        "「大僧正様　かまいませんね？": "Grand Pretre-sama, cela ne vous derange pas ?"
+    "13835": {
+        "「……偉大なる　エルドナ神よ。\n　ここに　新たなる御手\n　<pc>が　参りました。": "O grand Eldona. Voici que votre nouvelle main,\n<pc>, est arrivee."
     },
-    "13782": {
-        "「ええ　ええ。もちろんですとも……。\n　新たな兄弟　<pc>を\n　ここに　迎え入れましょう。": "Oui, oui. Bien sur... Accueillons ici les\nnouveaux Brothers <pc>."
+    "13836": {
+        "「この　かがり火の石を\n　お受け取りくださいませ。\n　そして　この者に　祝福を……。": "Veuillez accepter cette Pierre de Feu de Joie.\nEt accordez votre benediction a cette\npersonne..."
     },
-    "13783": {
-        "「<pc>。私たち　キリカ修道会は\n　大いなる　エルドナ神の教えのもと\n　多くの人々を　災いから　救ってきました。": "<pc>. Nous, l'ordre sacre de Kirika,\navons sauve de nombreuses personnes des\ncalamites grace aux enseignements du grand<br>Eldona."
+    "13837": {
+        "<center>……<pc>……": "<pc>"
     },
-    "13784": {
-        "「あなたも　エルドナ神の御手となり\n　偉大な仕事を　になうのです。\n　いっそうの精進を　忘れないように。": "Vous aussi, vous deviendrez les mains d'Eldona\net accomplirez un grand travail. N'oubliez pas\nde vous consacrer davantage a vos efforts."
+    "13838": {
+        "<center>……おお　お前の顔が見える……\nよくぞ　我がもとに　参りました。": "Oh, je peux voir ton visage...... Merci d'etre\nvenu jusqu'a moi."
     },
-    "13785": {
-        "「それから　ヘルガ僧正。\n　<pc>の師は　あなたに　まかせます。": "Ensuite, Pretresse Helga. Je vous confie la\nformation de <pc>."
+    "13839": {
+        "「<pc>　聞こえるか？\n　これが　エルドナ神の声だ……。": "<pc>, tu m'entends ? C'est la voix\nd'Eldona..."
     },
-    "13786": {
-        "「はい　大僧正様。": "Oui, Grand Pretre sama."
+    "13840": {
+        "<center>……大いなる災いが　せまっています。\nお前のチカラが　必要なのです……": "Un grand malheur approche. Nous avons besoin\nde ta force"
     },
-    "13787": {
-        "「……そういうわけだ。\n　これからは　師である私の教えに従え。": "…C'est ainsi. Desormais, suis les\nenseignements de ton maitre, qui est moi."
+    "13841": {
+        "<center><pc>よ……\n人々を　救いなさい……\nそして　災いが…おとずれた時には…… ": "<pc>... Sauvez les gens... Et lorsque le\nmalheur frappera..."
     },
-    "13788": {
-        "「お前の入門を祝って　これを　さずけよう。\n　よろしくな　<pc>。": "Pour feter ton entree parmi nous, je te remets\nceci. Ravi de faire equipe avec toi,\n<pc>."
+    "13842": {
+        "<center>………この……像を………": "…Cette… statue…"
     },
-    "13789": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    "13843": {
+        "「終わったようですね……。": "On dirait que c'est termine..."
     },
-    "13790": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    "13844": {
+        "「おどろきましたか！？　エルドナ神は\n　このようにして　洗礼の儀の時にだけ\n　新たな兄弟に　声を聞かせてくださるんです！": "As-tu ete surpris !? Eldona, de cette maniere,\nne permet a ses nouveaux freres d'entendre sa\nvoix que lors de la ceremonie du bapteme !"
     },
-    "13791": {
-        "「さて。私は　しばし　出かける。\n　行くぞ　ザホック！": "Bien. Je vais m'absenter un moment. Allons-y,\nZahokku !"
+    "13845": {
+        "「でも　大僧正様。大いなる災いとは……？": "Mais, grand pretre-sama. Que signifie ce grand\nfleau... ?"
     },
-    "13792": {
-        "「はい　ヘルガ僧正。\n　よろこんで　おともいたします。": "Oui, Pretresse Helga. Je serais ravi de vous\naccompagner."
+    "13846": {
+        "「災いのことは　時が来たら　お話ししましょう。\n　しかし　神は　<pc>のチカラを\n　求めていたようですが　それは　なぜか……。": "Je vous parlerai des calamites en temps voulu.\nCependant, il semble que les dieux\nrecherchaient le pouvoir de <pc>, mais<br>pourquoi donc..."
     },
-    "13793": {
-        "「<pc>よ。修練を積むのだ。\n　時が過ぎれば　私は　戻ってくる。\n　僧侶となって　ここを訪れるがいい。": "<pc>, accumule de l'experience. Avec le\ntemps, je reviendrai. Deviens moine et reviens\nici."
+    "13847": {
+        "「きっと　神の　サービスというものでしょう。\n　<pc>の　入門を祝い\n　はげんでもらうための　言葉ですよ。": "C'est surement ce qu'on appelle un service\ndivin. C'est une parole pour celebrer l'entree\nde <pc> et l'encourager."
     },
-    "13794": {
-        "「お前には　期待しているぞ。": "Je place de grands espoirs en toi."
+    "13848": {
+        "「ふむう……。なるほど。": "Hmm... Je vois."
     },
-    "27397": {
-        "「そうそう。私からのお礼も　まだでしたね。\n　一緒に　受け取ってください。\n　本当に　ありがとうございました！": "Oui, c'est vrai. Je ne vous ai pas encore\nremercie. Veuillez accepter ceci en guise de\nremerciement. Merci beaucoup !"
+    "13849": {
+        "「<pc>。ご苦労だったな。\n　この日を祝って　私たちからの　贈り物だ。": "<pc>. Tu as bien travaille. Pour\ncelebrer ce jour, voici un cadeau de notre\npart."
+    },
+    "13850": {
+        "「……かがり火の石を　手に入れるのは\n　なかなか　手を焼いただろう。": "...Obtenir la Pierre de Feu de Joie a\ncertainement du te donner du fil a retordre."
+    },
+    "13851": {
+        "「じつは　お前には　教えなかったが\n　かがり火の石は　<%sEV_QUE_NAME1>を\n　倒すことでも　簡単に　手に入るのだ。": "En fait, je ne te l'avais pas dit, mais il est\nfacile d'obtenir une Bonfire Stone en battant\n<%sEV_QUE_NAME1>."
+    },
+    "13852": {
+        "「だが　お前には　あえて　強い方の\n　<%sEV_QUE_NAME0>と　教えたのだ。\n　弟子に　厳しいのが　私のやり方でな。": "Cependant, je t'ai intentionnellement appris\nla version plus forte de <%sEV_QUE_NAME0>.\nEtre severe avec mes disciples, c'est ma<br>maniere de manier la lance."
+    },
+    "13853": {
+        "「これも　お前をきたえるため。\n　強くなれ　<pc>。\n　お前のような者のチカラが　いずれ必要となる。": "C'est aussi pour te renforcer. Deviens plus\nfort, <pc>. Un jour, nous aurons besoin\nde la puissance de quelqu'un comme toi."
+    },
+    "24452": {
+        "「ヘルガ。あなたは　やさしい人です。": "Helga. Tu es une personne gentille."
+    },
+    "24453": {
+        "「死神の息吹の前兆に　最初に気づいたがゆえに\n　この災いの　すべてを　自分が \n　背負わねばならぬもののように感じている。": "Parce que j'ai ete le premier a remarquer les\nsignes avant-coureurs du Souffle du Dieu de la\nMort, je ressens que je dois porter seul tout<br>le poids de ce fleau."
     }
 }
