@@ -1,983 +1,971 @@
 {
-    "1938": {
-        "「ずいぶんと　ウデを上げたじゃねえか！\n　<pc>！！": "Tu t'es sacrement ameliore, <pc> !"
+    "5222": {
+        "「う……んと。あったかさは\n　これっくらいで　いい……よね。": "Hmm... La chaleur a ce niveau... ca devrait\netre bon, n'est-ce pas ?"
     },
-    "1939": {
-        "「だがな！　シェルナーに選ばれるのは\n　このオレ　ヒューザさまだぜっ！！": "Mais au final, c’est moi, le grand Hyuza,\nqui ai ete choisi comme Coquillier !!"
+    "5223": {
+        "「あの……。あなたは誰？\n　私は　ソーミャ。": "Hum... Qui es-tu ? Je suis Saumya."
     },
-    "1940": {
-        "「そろそろ　勝負を決めるとするかっ！": "Il est temps de conclure ce combat !"
+    "5224": {
+        "「何か　ご用なの？　\n　ここには　私しかいないよ。\n　オトナの人も　いないから。": "Tu as besoin de quelque chose ? Il n'y a que\nmoi ici. Il n'y a pas d'adultes non plus."
     },
-    "1941": {
-        "「ねえ　<pc>～～～！\n　アーシクが　どこに行ったか　知らない～？": "He, <pc>～～～ ! Est-ce que tu sais ou est\nalle Aashik～ ?"
+    "5225": {
+        "「……私の家族は　もう\n　あの子しか　いないもの。": "Dans ma famille, il n'y a plus que cet enfant."
     },
-    "1942": {
-        "「やべえっ　モロに入っちまった！！": "Zut, je l'ai pris de plein fouet !!"
+    "5226": {
+        "「私　これから　でかけるの。\n　だから　出てって。": "Je vais sortir maintenant. Alors, pars d'ici."
     },
-    "1943": {
-        "「きゃああああっ　<pc>っ！！！！": "Kyaaaaah, <pc> !"
+    "5227": {
+        "「そうだ。あなたが　一人前の証を\n　持ってるくらい　しっかりした人なら\n　町長さんの所へ行くと　いいよ。": "Oui, c'est ca. Si tu es une personne aussi\nfiable que le prouve ton certificat de\ncompetence, tu devrais te rendre chez le<br>maire."
     },
-    "1944": {
-        "「我らの友人　<pc>は　幼きころに\n　ただひとり　小舟に乗せられ\n　このレーンの村へと　流れ着いた。": "<if_woman>Notre amie <pc> a ete mise seule dans\nune petite embarcation et a derive jusqu'a\nLane dans son enfance.<else>Notre ami <pc> a ete mis seul dans\nune petite embarcation et a derive jusqu'a\nLane dans son enfance.<endif>"
+    "5228": {
+        "「なんだか　強い人を探してたみたい。\n　町長さんの家は　町の北東にある教会の\n　向かって左側の家が　そうなの。": "On dirait qu'il cherchait quelqu'un de fort.\nLa maison du maire se trouve au nord-est de la\nville, a gauche de l'eglise."
     },
-    "1945": {
-        "「この村で送った日々は　<pc>に\n　多くの幸福と　そして安息を与えたと\n　我らは　信じよう……。": "Les jours passes dans ce village ont apporte a\n<pc> beaucoup de bonheur et de paix,\nnous voulons le croire..."
+    "5229": {
+        "「……その　ある人物というのは\n　私の所に来ている　客人だ。": "Cette personne en question est un invite qui\nest venu chez moi."
     },
-    "1946": {
-        "「<pc>は　母なる海へと還り\n　新たなる旅立ちを迎える。\n　皆で笑って　送りだそうではないか。": "<if_woman><pc> retourne vers la mer nourriciere et\ns'apprete a entamer un nouveau voyage.\nEnvoyons-la avec le sourire, tous ensemble.<else><pc> retourne vers la mer nourriciere et\ns'apprete a entamer un nouveau voyage.\nEnvoyons-le avec le sourire, tous ensemble.<endif>"
+    "5230": {
+        "「おお　キンナー殿。この　<pc>君が\n　引き受けると　言ってくれましたぞ。": "Oh, Kinnar-dono. Ce jeune <pc> a accepte\nde prendre en charge la mission."
     },
-    "1947": {
-        "「ううっ　<pc>……。\n　私が急に　声をかけたりしたから\n　こんなことに……。": "Ooh, <pc>... C'est parce que je t'ai\ninterpelle si soudainement que tout cela est\narrive..."
+    "5231": {
+        "「こちらは　ヴェリナード城から参られた\n　キンナー殿だ。遺跡の調査員をしておられる。": "Voici M. Kinna, qui vient du chateau de\nVerinard. Il est enqueteur sur les ruines."
     },
-    "1948": {
-        "「わっわっ　ルベカちゃん！\n　お願いだから　泣かないで。": "Wa wa, Lubeka-chan ! S'il te plait, ne pleure\npas."
+    "5232": {
+        "「どうも。ヴェリナード王立調査団の\n　キンナーと申します。": "Bonjour. Je m'appelle Kinnaa, de l'equipe\nroyale de recherche de Velinard."
     },
-    "1949": {
-        "「これから　シェルナーを決めようかという時に\n　なんということを。ヒューザ……。": "Alors que nous etions sur le point de choisir\nle Coquillier...\nComment as-tu pu faire ca, Hyuza..."
+    "5233": {
+        "「お忙しいところ　すみませんが\n　私は急いで　知恵の眠る遺跡へ\n　行かねばなりません。": "Je suis desole de vous deranger alors que vous\netes occupe, mais je dois me rendre d'urgence\naux Ruines de la Sagesse Endormie."
     },
-    "1950": {
-        "「オレは殺す気なんて　なかったぜ　村長？\n　剣の修行を　してただけだからな。": "Je n'avais pas l'intention de tuer, chef du\nvillage. Je m'entrainais juste a l'epee."
+    "5234": {
+        "「説明しましょう！": "Laissez-moi vous expliquer !"
     },
-    "1951": {
-        "「理由はどうあれ　お前は\n　<pc>の命を　うばったのだ。\n　つぐないは　してもらうぞ。": "Quelle que soit la raison, tu as pris la vie\nde <pc>. Tu devras en payer le prix."
+    "5235": {
+        "「知恵の眠る遺跡には　我々ウェディにとって\n　大切なものが　納められています。": "Les Ruines de la Sagesse Endormie renferment\nquelque chose de precieux pour nous, les\nWeddie."
     },
-    "1952": {
-        "「<pc>！？": "<pc> !?"
+    "5236": {
+        "「ですが　ああ　なんということでしょう。\n　その大切なものに　異常の兆候が見られました。": "Mais, oh, que se passe-t-il donc? Des signes\nanormaux ont ete detectes sur cet objet\nprecieux."
     },
-    "1953": {
-        "「あわわわ……。\n　<pc>が　化けてでたあ！！": "Aaaah... <pc> est apparu sous forme de\nspectre !!"
+    "5237": {
+        "「もし　それが深刻な異常だったなら\n　我々の未来が閉ざされる　おそれがあるのです！": "Si c'etait un probleme serieux, notre avenir\npourrait etre compromis !"
     },
-    "1954": {
-        "「……なんということだ。\n　<pc>が　生き返った！\n　これは　海の神が起こした奇跡なのか！？": "C'est incroyable. <pc> est revenu a la\nvie ! Est-ce un miracle provoque par le dieu\nde la mer !?"
+    "5238": {
+        "「そこで　この私の出番なわけですが！": "C'est donc la que j'entre en jeu !"
     },
-    "1955": {
-        "「死んでなかったっ！\n　<pc>は　死んでなかったよ！！": "Il n'etait pas mort ! <pc> n'etait pas\nmort !!"
+    "5239": {
+        "「その遺跡の周りには　たくさんの魔物がいて\n　近づくことも　ままならないのですよ……。": "Il y a tellement de monstres autour de ces\nruines qu'il est presque impossible de s'en\napprocher..."
     },
-    "1956": {
-        "「おいおいっ　マジかよ！\n　あんとき　たしかに　手ごたえが……。": "He he, tu plaisantes ?! A ce moment-la,\nj'etais sur d'avoir senti quelque chose..."
+    "5240": {
+        "「そこで　君には　キンナー調査員が\n　安全に遺跡へ　行けるようにしてもらいたい。\n　それに　ふさわしいだけの礼は　約束しよう。": "Je veux que tu t'assures que Detective Kinner\npuisse se rendre aux ruines en toute securite.\nJe te promets une recompense digne de ce nom."
     },
-    "1957": {
-        "「まちがいねえ。生きてやがる。\n　まるで　別の魂が　突然\n　身体に　入り込んだみてえだな……。": "Pas de doute. Il est en vie. C'est comme si\nune autre ame avait soudainement penetre son\ncorps..."
+    "5241": {
+        "「では　私は準備がありますので　これで。\n　あなたが　町から出たら　こっそりと\n　その後をついていきますので　ご心配なく。": "Alors, je dois me preparer, donc je vais vous\nlaisser. Une fois que vous serez parti de la\nville, je vous suivrai discretement, ne vous<br>inquietez pas."
     },
-    "1958": {
-        "「なんにしても　オレは\n　人殺しにならずに　済んだってわけだ。": "Quoi qu'il en soit, je n'ai pas eu a devenir\nun meurtrier."
+    "5242": {
+        "「遺跡があるラーディス王島へは　町の南から出て\n　ミューズ海岸に行き　そこのカヌー乗り場から\n　カヌーに乗っていけばいい。頼んだぞ！": "Pour te rendre sur l'ile Ladis ou se trouvent\nles ruines, sors au sud de la ville et\ndirige-toi vers la cote Muse. La-bas, prends<br>un canoe a l'embarcadere. Je compte sur toi !"
     },
-    "1959": {
-        "「ケガさせちまった借りは\n　そのうちに返すぜ　<pc>。": "Je te revaudrai la blessure que je t'ai\ninfligee un de ces jours, <pc>."
+    "5243": {
+        "「ラーディス王島行きの　カヌー乗り場は\n　ここですぜ　お客さん。": "L'embarcadere pour les canoes a destination de\nl'ile Ladis est ici, cher client."
     },
-    "1960": {
-        "「あのくらいで　くたばらないように\n　もっと　きたえとけよ。": "Ne te laisse pas abattre aussi facilement,\nrenforce-toi davantage."
+    "5244": {
+        "「オイラは　渡し守のバルークってモンです。\n　このカヌーに　乗っていきますかい？<yesno><close>": "Moi, je suis Luke, le passeur. Voulez-vous\nmonter dans ce canoe ? <yesno><close>"
     },
-    "1961": {
-        "「うぬぬ　ヒューザめ。\n　<pc>を　殺しかけておいて\n　なんという態度だ！": "Grrr, ce Hyuza. Quelle attitude apres avoir\nfailli tuer <pc> !"
+    "5245": {
+        "「そうですかい……。\n　オイラは　いつでも　ここにいますから\n　乗りたくなったら　また来ておくんなさい。": "Ah, je vois... Je suis toujours ici, alors si\nl'envie vous prend de monter, revenez me voir."
     },
-    "1962": {
-        "「お父さん　ヒューザを責めないであげて。\n　半分は　私のせいでも　あるんだもん。": "Papa, ne blame pas Hyuza. C'est en partie de\nma faute aussi."
+    "5246": {
+        "「それじゃあ　さっそく行きますよ。\n　ほれ　さっさと　乗って乗って！": "Alors, on y va tout de suite. Allez, montez,\nmontez vite !"
     },
-    "1963": {
-        "「ルベカちゃんが　気に病むことはないんだよ。\n　ほら　<pc>は　無事だったんだし。": "Rubeka-chan, tu n'as pas a t'inquieter.\nRegarde, <pc> est sain et sauf."
+    "5247": {
+        "「ややっ　なんですかい　あの娘っ子は！？": "Oh la la, mais qui est cette jeune fille ?!"
     },
-    "1964": {
-        "「まあ　なんにせよ　生きていてよかったな。\n　シェルナーは予定どおり　お前と　ヒューザの\n　どちらかから　選ぶことにするからな？": "Quoi qu’il en soit, l’important, c’est que tu\nsois en vie.<br>Comme prevu, le Coquillier sera choisi entre\ntoi et Hyuza."
+    "5248": {
+        "「まったく　小さな娘っ子が　こんなとこに\n　ひとりで来ちゃあ　危ないってのに……": "Franchement, une petite fille toute seule dans\nun endroit comme celui-ci... C'est dangereux."
     },
-    "1965": {
-        "「<pc>の　葬式は中止だ！\n　みんなも　家に帰った帰った！！": "Les funerailles de <pc> sont annulees !\nTout le monde, rentrez chez vous, rentrez chez\nvous !"
+    "5249": {
+        "「うわわっ！？": "Ouaaah !?"
     },
-    "1966": {
-        "「あれれっ　<pc>！？\n　キミの葬式をするって聞いて　あわてて\n　買い物から　戻ってきたんだけど……。": "Hein, <pc> !? J'ai entendu dire qu'on\norganisait tes funerailles, alors je suis\nrentre precipitamment de mes courses..."
+    "5250": {
+        "「しまった　やっちまいました。\n　オールのヤツが　ポキリとイッちまった！": "Mince, j'ai fait une betise. Le truc de Oar\ns'est casse net !"
     },
-    "1967": {
-        "「ボクの　聞きまちがいだったんだね。\n　ほっとしたよ。キミは　大切な友達だもの。": "Je devais avoir mal entendu. Je suis soulage.\nTu es un ami precieux, apres tout."
+    "5251": {
+        "「すんませんねえ　お客さん。\n　いったん　戻って　直しますんで\n　待っておくんなさい。": "Pardon, cher client. Je vais revenir pour le\nreparer, alors veuillez patienter."
     },
-    "1968": {
-        "「それに　もうすぐ　ボクの結婚式でしょ？\n　そんな時に　葬式なんて\n　ほら……　縁起でもないじゃないか。": "Et puis, mon mariage approche, n'est-ce pas ?\nAlors organiser des funerailles en ce\nmoment... Ce n'est vraiment pas de bon augure,<br>tu ne trouves pas ?"
+    "5252": {
+        "「お客さん　ちいっと時間かかりそうなんで\n　よかったら　さっきの娘っ子の様子でも\n　見てきちゃあくれませんかい。": "Client, cela risque de prendre un peu de\ntemps, alors si vous le souhaitez,\npourriez-vous aller voir comment va la jeune<br>demoiselle d'il y a un moment ?"
     },
-    "1969": {
-        "「もう時間が　ないんだよ。\n　今から　村の北西にある　慰霊の浜に行って\n　探そうと思うんだけど……いいよね？": "Il ne reste plus beaucoup de temps. Je pense\naller maintenant a la plage du Souvenir au\nnord-ouest du village pour chercher... Tu es<br>d'accord, n'est-ce pas ?"
+    "5253": {
+        "「何をしに来たんだか　知んねえが\n　あの娘っ子に　町へ帰るように\n　それとなく　言ってきておくんなさい。": "Je ne sais pas pourquoi vous etes venus, mais\npourriez-vous dire a cette jeune fille de\nretourner en ville, subtilement ?"
     },
-    "1970": {
-        "「慰霊の浜は　入っちゃいけない場所だって\n　言われてるけど　その分\n　キレイな貝がらが　たくさんあると思うんだ。": "Bien qu'on dise qu'il est interdit d'entrer\nsur la plage des esprits, je pense qu'il y a\nbeaucoup de coquillages magnifiques la-bas."
+    "5254": {
+        "「ほら……。ミルクを持ってきたよ。": "Tiens... J'ai apporte Mirik."
     },
-    "1971": {
-        "「ボクも用を済ませて　すぐに行くよ。\n　慰霊の浜にある　慰霊碑でも見ながら\n　待っててくれるかな　<pc>。": "Je termine aussi rapidement mes affaires et je\nte rejoins. Pourrais-tu m'attendre en\nregardant le monument commemoratif a la Plage<br>des Ames, <pc> ?"
+    "5255": {
+        "「あ……。": "Ah..."
     },
-    "1974": {
-        "「おーい　<pc>！": "He, <pc> !"
+    "5256": {
+        "「な……なんにも　ないよ！\n　ここには　なんにも　ないんだからっ！！": "Qu... Qu'il n'y a rien ici ! Il n'y a vraiment\nrien ici !!"
     },
-    "1975": {
-        "「はあはあ……。\n　<pc>　遅れてゴメンね。": "Haa haa... Desole pour le retard, <pc>."
+    "5257": {
+        "「みゃあっ！！": "Miaou !!"
     },
-    "1976": {
-        "「それじゃ　さっそく　貝がらを探そう。\n　ものすっごい　キレイなのを見つけるんだ！": "Alors, commencons a chercher des coquillages.\nOn va en trouver des vraiment magnifiques !"
+    "5258": {
+        "「お願い！\n　この子のことは　誰にも言わないでっ。": "Je t'en prie ! Ne parle de cet enfant a\npersonne, s'il te plait."
     },
-    "1977": {
-        "「あれ……？　なんだろう　この感じ。": "Ah... ? Qu'est-ce que c'est que cette\nsensation."
+    "5259": {
+        "「……町の人たちは　ネコが　きらいなの。\n　もし　知られたら　この子は　きっと\n　ひどいことされちゃう！": "…Les habitants de la ville n'aiment pas les\nchats. Si cela se savait, cette petite\ncreature risquerait d'etre maltraitee !"
     },
-    "1978": {
-        "「これって　お供えものの　貝がらだよね。\n　なんて　キレイなんだろう……。\n　まるで　吸い込まれるみたいだ。　": "C'est une coquille d'offrande, n'est-ce pas ?\nComme c'est magnifique... On dirait qu'elle\nm'aspire."
+    "5260": {
+        "「みゃああ！": "Miaaaou !"
     },
-    "1979": {
-        "「<pc>には　聞こえない？\n　この貝がらが　ボクに　持っていってくれって\n　言ってるみたいなんだよ……。": "<pc>, tu n'entends pas ? On dirait que\nce coquillage me dit de l'emporter avec moi..."
+    "5261": {
+        "「ごめんね。おなか　すいてるんだよね。": "Desole. Tu as faim, n'est-ce pas ?"
     },
-    "1980": {
-        "「……こんなとこに　置かれたままは\n　いやだって　言ってるんだ。\n　だから　ボクが　持っていかなきゃ……。": "Je n'aime pas etre laisse ici comme ca. C'est\npourquoi je dois l'emporter avec moi..."
+    "5262": {
+        "「あわてないで。ゆっくり……だよ。": "Ne te precipite pas. Doucement... d'accord ?"
     },
-    "1981": {
-        "アーシクは　キレイな貝がらを　手に入れた！<me 60>": "Aashik a obtenu la Beautiful Shell ! <me 60>"
+    "5263": {
+        "「みゃうみゃう……。": "Miaou miaou..."
     },
-    "1982": {
-        "「そうだ。これを　キールへの贈り物にしよう。\n　きっと　大事にしてくれるよ。": "Oui, faisons-en un cadeau pour Keel. Je suis\nsur qu'il en prendra grand soin."
-    },
-    "1984": {
-        "「ほら！　この貝がらも\n　そうしてほしいって　言ってるよ！！": "Regarde ! Cette coquille demande qu'on lui\nfasse la meme chose !!"
-    },
-    "1985": {
-        "「だから　<pc>。\n　この慰霊碑から　キレイな貝がらを取ったこと\n　村のみんなには　ナイショにしてね。": "Donc, <pc>. Garde bien secret le fait\nque tu as pris le Beautiful Shell de ce\nmonument commemoratif, d'accord ? Ne le dis a<br>personne dans le village."
-    },
-    "1986": {
-        "「うひゃあああああっ！！": "Ouahhhhhh !!"
-    },
-    "1987": {
-        "「おぬしら……。": "Vous autres..."
-    },
-    "1988": {
-        "「ななな　なんだ。バルチャじいさんか……。\n　ビックリさせないでよ。": "Na-na-nan, c'est toi, vieux Balchard... Tu\nm'as fait une de ces peurs."
-    },
-    "1989": {
-        "「ここで　何をしていたのだ？\n　この慰霊碑に　近づいてはならぬと\n　言ってあったはずだぞ　アーシク。": "Que faisais-tu ici ? Je t'avais dit de ne pas\nt'approcher de ce monument commemoratif,\nAashik."
-    },
-    "1990": {
-        "「なっ　なんにも　してないよ！\n　ボクたち　なんにも　してないったらっ。": "On... on n'a rien fait du tout ! Je te jure,\non n'a absolument rien fait !"
-    },
-    "1991": {
-        "「……本当か？　<pc>？<yesno><close>": "…Vraiment ? <pc> ?<yesno><close>"
-    },
-    "1992": {
-        "「……まあ　よい。": "...... Eh bien, tres bien."
-    },
-    "1993": {
-        "「めでたい結婚式の前に　まさか\n　この慰霊碑に悪さをするほど　アーシクも\n　<pc>も　バカではあるまい。": "Avant le joyeux mariage, il est impensable\nqu'Aashik ou <pc> soient assez stupides\npour faire du mal a ce monument commemoratif."
-    },
-    "1994": {
-        "「……その慰霊碑には　決して\n　関わっては　ならんのだ。特に　アーシク。\n　花婿となる　おぬしは……な。": "Ne vous melez jamais de ce monument\ncommemoratif. Surtout toi, Aashik. En tant que\nfutur marie, tu ne dois vraiment pas..."
-    },
-    "1995": {
-        "「テキスト削除": "Je suis desole, mais il semble que le texte a\nete supprime. Pourrais-tu me fournir plus\nd'informations ou un autre texte a traduire ?"
-    },
-    "1996": {
-        "「どうして？　バルチャじいさん。": "Pourquoi, vieux Balcha ?"
-    },
-    "1997": {
-        "「この慰霊碑はな……。\n　とても悲しい出来事に　まつわるものなのだ。": "Ce monument commemoratif est lie a un\nevenement tres triste..."
-    },
-    "1998": {
-        "「昔　レーンの村の　ウェディの若者が\n　同じ村に暮らす　ウェディの娘と恋に落ち\n　結婚することになった……。": "Autrefois, dans le village de Lene, un jeune\nWeddie est tombe amoureux d'une jeune fille\nWeddie vivant dans le meme village, et ils ont<br>decide de se marier..."
-    },
-    "1999": {
-        "「花婿は　美しい貝がらを見つけ　花嫁に贈る。": "Le marie trouve une magnifique coquille et\nl'offre a la mariee."
-    },
-    "2000": {
-        "「花嫁は　結婚式を前に　身を清めるため\n　この浜から　海へと入っていった。\n　清めの祈りは　すぐに終わるはずだった……。": "La mariee est entree dans la mer depuis cette\nplage pour se purifier avant la ceremonie de\nmariage. La priere de purification aurait du<br>se terminer rapidement..."
-    },
-    "2001": {
-        "「しかし……！": "Cependant...！"
-    },
-    "2002": {
-        "「花嫁は　海の中に消え\n　帰ってはこなかったのだ……。": "La mariee a disparu dans la mer et n'est\njamais revenue..."
-    },
-    "2003": {
-        "「そして　悲しみにくれた若者も\n　また……": "Et le jeune homme plonge dans la tristesse,\nlui aussi..."
-    },
-    "2004": {
-        "「自ら　この海へ　その身を沈めたという……。": "Il a dit qu'il s'etait lui-meme immerge dans\ncette mer..."
-    },
-    "2005": {
-        "「それから　いくつもの災いが村を襲った。\n　人々は　無念のうちに死んだ　若者の魂が\n　悪さをしていると　おそれたのだ。": "Ensuite, de nombreux fleaux se sont abattus\nsur le village. Les habitants craignaient que\nl'ame du jeune homme, mort avec tant de<br>regrets, ne soit responsable de ces malheurs."
-    },
-    "2006": {
-        "「ううっ　かわいそうだよぅ……。": "Oh, c'est vraiment triste..."
-    },
-    "2007": {
-        "「わかったな　アーシク？\n　おぬしは　この慰霊碑に　関わってはならん。": "Compris, Aashik ? Tu ne dois pas t'impliquer\ndans ce memorial."
-    },
-    "2008": {
-        "「でもさ　じいさん。それなら　代わりに\n　ボクたちが　幸せになってあげれば\n　ふたりも　よろこんでくれるんじゃないかな？": "Mais, grand-pere. Si nous devenions heureux a\nleur place, ne seraient-ils pas contents pour\nnous ?"
-    },
-    "2009": {
-        "「……死した者が　どう思うか。\n　それは　誰にも　わからぬことだ。": "...Ce que pensent les morts. Cela, personne ne\nle sait."
-    },
-    "2010": {
+    "5264": {
         "「…………。": "."
     },
-    "2011": {
-        "「来てくれて　ありがとう　<pc>。\n　それじゃ　ボクは　先に村に戻るね。": "Merci d'etre venu, <pc>. Je retourne au\nvillage en premier."
+    "5265": {
+        "「この子は　町の港に流れ着いてて……。\n　誰にも　気づかれずにいたのを\n　私が最初に　見つけたの。": "Cette enfant a echoue sur le port de la\nville... Personne ne l'avait remarquee, et\nc'est moi qui l'ai trouvee en premier."
     },
-    "2012": {
-        "「……いかん　忘れておった。\n　村長が　おぬしと　ヒューザを呼んでいたのだ。": "......Ah, j'avais oublie. Le chef du village\nvous a convoques, toi et Hyuza."
+    "5266": {
+        "「きっと　この子も\n　パパとママに　捨てられたんだ……。\n　私と　おんなじ。": "Cette enfant a surement ete abandonnee par son\npapa et sa maman... Tout comme moi."
     },
-    "2013": {
-        "「いよいよ　シェルナー選びを行うようだ。\n　すぐに　村へ帰るのだぞ　<pc>。": "Il est enfin temps de choisir le Coquillier.\nRetourne vite au village,\n<pc>."
+    "5267": {
+        "「だから　私が育てることに決めたの！！": "C'est pourquoi j'ai decide de l'elever\nmoi-meme !!"
     },
-    "2014": {
-        "「ヒューザは　まだか？\n　まったく　あいつは　いつもフラフラと\n　ほっつき歩いておって　落ち着かんヤツだ！": "Hyuza n'est pas encore la ? Vraiment, ce type\ntraine toujours avec Fluffra et il ne se calme\njamais !"
+    "5268": {
+        "「だから　お願いだよぅ。\n　この子のことは　ナイショにして……。": "Donc, je t'en prie. Garde le secret a propos\nde cet enfant..."
     },
-    "2015": {
-        "「よし。ふたりとも　そろったな。": "D'accord. Vous voila tous les deux reunis."
+    "5269": {
+        "「いつまでも　ここに置いとくわけに\n　いかないのは　わかってるけど……。\n　でも……。": "Je sais qu'on ne peut pas le laisser ici\nindefiniment, mais... Pourtant..."
     },
-    "2016": {
-        "「先ほど　ジュレットの町から　使いが来てな。\n　花嫁のキールが　祈りの宿へ向かったそうだ。": "Il y a un instant, un messager est venu de\nJulet. Il parait que Keel, la mariee, s'est\ndirigee vers l'Auberge de la Priere."
+    "5270": {
+        "「ひっくひっく。お願い……。": "Hic, hic... S'il te plait..."
     },
-    "2017": {
-        "「急いで　シェルナーを決めなければならん。\n　さっそくだが　ふたりには\n　わしの出す試験を　受けてもらうぞ。": "Nous devons choisir le Coquillier sans tarder.\nSans plus attendre, vous allez tous les deux\npasser l’epreuve que je vais vous donner."
+    "5271": {
+        "「旅人さん……。": "Voyageur-san..."
     },
-    "2018": {
-        "「能書きはいらないぜ　村長。\n　……で　何をすればいい？": "Pas besoin de discours, chef du village.\n...Alors, que dois-je faire ?"
+    "5272": {
+        "「お願いだから　この子のことは\n　誰にも言わないで……。": "Je t'en prie, ne parle de cet enfant a\npersonne..."
     },
-    "2019": {
-        "「うむ。このレーンの村を出て\n　コルット地方を　北に向かった所に\n　洞くつが　ひとつあるのは　知っているな？": "Hum. Tu sais qu'il y a une grotte au nord de\nce village de Lane, dans la region de Colt ?"
+    "5273": {
+        "「いつまでも　ここに置いとくわけに\n　いかないのは　わかってるけど……。\n　でも……。": "Je sais qu'on ne peut pas le laisser ici\nindefiniment, mais... Pourtant..."
     },
-    "2020": {
-        "「ああ　あそこか。奥には地底湖が\n　広がってるって　聞いたことがあるぜ。": "Ah, la-bas ? J'ai entendu dire qu'il y a un\nlac souterrain qui s'etend a l'interieur."
+    "5274": {
+        "「ひっくひっく。お願い……。": "Hic, hic... S'il te plait..."
     },
-    "2021": {
-        "「そう　その地底湖だ。洞くつの奥にある\n　地底湖の水を　持ちかえってくることが\n　シェルナー試験の内容だ。": "Oui, ce lac souterrain.\nL’epreuve du Coquillier consiste a rapporter\nson eau depuis les profondeurs de la grotte."
+    "5275": {
+        "「<pc>さぁ～ん！": "<pc> saaaaan !"
     },
-    "2022": {
-        "「このビンに　地底湖の水を汲み\n　先に持ちかえったほうを　シェルナーとする！": "Remplissez cette bouteille avec l’eau du lac\nsouterrain.<br>Celui qui la rapportera en premier sera\ndesigne Coquillier !"
+    "5276": {
+        "「あなたのおかげで　魔物に\n　ジャマされることもなく　ここまで来れました！": "Grace a vous, nous avons pu arriver jusqu'ici\nsans etre genes par les monstres !"
     },
-    "2023": {
-        "「さあ　このビンを受け取るのだ。": "Allez, prends cette bouteille."
+    "5277": {
+        "「さて……。この辺りには　何か\n　異常な様子は　見当たらないでしょうか……。": "さてこの辺りには 何か 異常な様子は 見当たらないでしょうか"
     },
-    "2024": {
-        "「……はあ？　水汲みが試験だって？\n　しかも　早い者勝ちなのかよ……。": "…Hein ? Puiser de l'eau est une epreuve ? Et\nen plus, c'est le premier arrive qui gagne…"
+    "5278": {
+        "「ふむ……。遺跡そのものには\n　異常は　なさそうに見えますねえ。": "Hmm... Il semble que les ruines elles-memes ne\npresentent aucune anomalie."
     },
-    "2025": {
-        "「……地底湖の水はな。\n　ビンに入れたまま　ほうっておくと\n　その美しい色合いが　消えてしまうのだ。": "L'eau du lac souterrain, tu sais. Si tu la\nlaisses dans une bouteille trop longtemps, sa\nbelle couleur finit par disparaitre."
+    "5279": {
+        "「やはり　波紋の音叉に\n　何かがあったと見るのが　正しいようです。": "Il semble qu'il y ait effectivement eu quelque\nchose avec le diapason des ondulations."
     },
-    "2027": {
-        "「だから　水を汲んだら　太陽と月が\n　ひと巡りする前に　わしの所へ持ってこい！\n　わかったな　ふたりとも！！": "Alors, une fois l'eau prelevee, ramenez-la-moi\navant que le soleil et la lune ne fassent un\ntour complet !<br>C'est bien compris, vous deux ?"
+    "5280": {
+        "「説明しましょう！": "Laissez-moi vous expliquer !"
     },
-    "2028": {
-        "「しかたねえな。やってやるよ。\n　<pc>よりも早く\n　このオレが　持ってきてやるぜ。": "Tant pis. Je vais le faire. Avant que\n<pc> ne l'apporte, je vais le ramener\nmoi-meme."
+    "5281": {
+        "「この遺跡の奥には　波紋の音叉と呼ばれる\n　大切なものが　納められているのです！": "Dans les profondeurs de ces ruines est\nconserve un objet precieux appele le Diapason\ndes Ondes !"
     },
-    "2029": {
-        "「ほれ。<pc>も\n　このビンを　受け取るのだ。": "Tiens. <pc>, prends cette bouteille."
+    "5282": {
+        "「ヴェリナードの女王　ディオーレさまが唄う\n　恵みの歌のことは　ご存知ですか？": "La reine DiOray de Velinarde chante la chanson\nde la benediction. En avez-vous entendu parler\n?"
     },
-    "2030": {
-        "<pc>は　セトリー村長から\nガラスの小ビン（だいじなもの）を　受け取った！<me 60>": "<pc> a recu une Petite Bouteille en\nVerre (objet cle) de la part de Chief Setorii\n! <me 60>"
+    "5283": {
+        "「女王さまの恵みの歌によって　水は清められ\n　この海の　すべての生きとし生けるものに\n　守りの加護が　与えられるのです！": "La chanson de grace de la reine purifie l'eau,\naccordant une protection a toutes les\ncreatures vivantes de cette mer !"
     },
-    "2031": {
-        "「よーし。ふたりとも　ビンを持ったな？": "Tres bien. Vous avez tous les deux pris vos\nbouteilles, n'est-ce pas ?"
+    "5284": {
+        "「そして　波紋の音叉は　その恵みの歌を\n　諸島全体へと伝えるという　重大な役目を\n　果たしているのですよ！": "Et ainsi, le diapason des resonances remplit\nun role crucial en diffusant ce chant\nbienveillant a travers toutes les iles !"
     },
-    "2032": {
-        "「コホン。では　ただいまより\n　シェルナー選定試験……": "Hum hum. A partir de maintenant, l’epreuve de\nselection du Coquillier commence…"
+    "5285": {
+        "「恵みの歌の恩恵が　なくなれば\n　ウェナ諸島に　何が起こるか……。": "Si la benediction de la chanson de grace\nvenait a disparaitre, qu'adviendrait-il de\nl'archipel de Wena..."
     },
-    "2033": {
-        "「開始ぃっ！": "Commencez !"
+    "5286": {
+        "「こうしては　いられません。\n　すぐに　奥へと向かいましょう！": "Nous ne pouvons pas rester ici. Allons vite\nvers l'interieur !"
     },
-    "2034": {
-        "「<pc>。手は抜かねえぜ。": "<pc>. Je ne vais pas me retenir."
+    "5287": {
+        "「<pc>さぁ～ん！": "<pc> saaaaan !"
     },
-    "2035": {
-        "「<pc>も　さっさと行くのだ。\n　この試験は　早い者勝ちなのだぞ！": "<pc>, depeche-toi d'y aller. Cet examen\nrecompense les plus rapides !"
+    "5288": {
+        "「やっと　波紋の音叉の所まで\n　来ることが　できましたね。": "Nous sommes enfin arrives jusqu'au diapason\ndes ondulations."
     },
-    "2036": {
-        "「地底湖の水は　汲んできたのだろう？\n　見せてみろ　ほれほれ。": "L'eau du lac souterrain, tu l'as recuperee,\nn'est-ce pas ? Montre-moi, allez, allez."
+    "5289": {
+        "「波紋の音叉の　見た目は\n　特に　異常ないようですが……。": "L'apparence du diapason des ondes ne semble\npas particulierement anormale..."
     },
-    "2037": {
-        "セトリー村長に　湖の水の入った\nガラスの小ビンを　見せますか？<yesno><close>": "Voulez-vous montrer la Bouteille en Verre\ncontenant de l'eau du lac a Chef Setorii ?\n<yesno><close>"
+    "5290": {
+        "「むむっ　これは　いけません！": "Hum, ca ne va pas du tout !"
     },
-    "2038": {
-        "「むむっ。もしや　地底湖まで\n　行けなかったというのか？\n　いやいや　そんなことはあるまい。": "Mumu. N'aurais-tu pas reussi a atteindre le\nlac souterrain ? Non, non, cela ne peut pas\netre possible."
+    "5291": {
+        "「大変だ！　音叉の機能が\n　完全に　止まってしまった！！": "C'est terrible ! La fonction du diapason s'est\narretee completement !!"
     },
-    "2039": {
-        "「わしに見せて　地底湖の水と認められなければ　\n　シェルナーには　なれんのだぞ？\n　もったいぶらんと　見せてみい。": "Si je ne reconnais pas que c'est bien l’eau du\nlac souterrain, tu ne pourras pas devenir\nCoquillier.<br>Allez, arrete de faire durer le suspense et\nmontre-moi ca."
+    "5292": {
+        "「むむむむむ……。\n　故障の原因は　わかりました。": "Hum hum hum hum... J'ai trouve la cause de la\npanne."
     },
-    "2040": {
-        "セトリー村長に　湖の水の入った\nガラスの小ビンを　見せますか？<yesno><close>": "Voulez-vous montrer la Bouteille en Verre\ncontenant de l'eau du lac a Chef Setorii ?\n<yesno><close>"
+    "5293": {
+        "「説明しましょう！": "Laissez-moi vous expliquer !"
     },
-    "2041": {
-        "「…………。": "."
+    "5294": {
+        "「音による振動波を　増幅させる部品の\n　結晶牙が　劣化してしまったようです。": "Il semble que le Crystal Fang, une piece qui\namplifie les ondes vibratoires sonores, se\nsoit deteriore."
     },
-    "2042": {
-        "「ほんの少し　遅かったようだな　ヒューザ。\n　ひと足早く　<pc>が\n　地底湖の水を汲んで　戻ってきておるぞ。": "Il semble que tu sois arrive un peu tard,\nHyuza. <pc> est deja revenu avec l'eau\ndu lac souterrain."
+    "5295": {
+        "「こんなこともあろうかと　いくつかは\n　結晶牙を持ってきていますが\n　１本だけ　足りないようですね。": "J'avais prevu ce genre de situation, donc j'ai\napporte plusieurs Crystal Fang, mais il semble\nqu'il en manque un."
     },
-    "2043": {
-        "「さあ　<pc>。\n　さっさと　ビンを　わしに見せろ。": "Allez, <pc>. Montre-moi vite cette\nbouteille."
+    "5296": {
+        "「でも　ご安心ください。\n　結晶牙は　幸いにも\n　この遺跡の中で　得られるものなのです。": "Mais rassurez-vous. Heureusement, le Crystal\nFang peut etre obtenu a l'interieur de ces\nruines."
     },
-    "2044": {
-        "<pc>は　セトリー村長に\nガラスの小ビンを　返した。": "<pc> a rendu la Petite Bouteille en\nVerre a Chief Setorii."
+    "5297": {
+        "「……というわけで　<pc>さん。\n　すみませんが　ちょっと戻って\n　結晶牙を１本　手に入れてきてくれませんか？": "......C'est ainsi que, <pc>-san. Je suis\ndesole, mais pourrais-tu retourner un moment\net me rapporter une Crystal Fang ?"
     },
-    "2045": {
-        "「どれどれ　ふむ……。\n　まちがいなく　これは地底湖の水だ。": "Voyons voir... Hum... Il n'y a aucun doute,\nc'est bien l'eau du lac souterrain."
+    "5298": {
+        "「結晶牙は　この遺跡に出現する\n　デスマエストロを倒すと　よく落としますから。": "Le Crystal Fang apparait souvent dans ces\nruines. Il est souvent lache lorsque vous\nbattez le Frightening Conductor."
     },
-    "2046": {
-        "「よろしい！　試験は終わりだ。\n　アーシクのシェルナーを務める者は\n　<pc>であると　今ここに　宣言する！": "Tres bien ! L'epreuve est terminee.<br>Je declare ici et maintenant que <pc>\n sera le Coquillier d'Aashik !"
+    "5299": {
+        "「私は　ここで待っていますので\n　よろしく　お願いしますね！": "Je vais attendre ici, alors je compte sur vous\n!"
     },
-    "2047": {
-        "「それでは　シェルナーになった証として\n　お前に　ルーラストーンをさずけよう！\n　使い方は　孤児院のティーティに聞くがいい。": "En guise de preuve de ton statut de Coquillier\nje te remets une Telepierre !<br>Demande a Teatea de l'orphelinat comment\nl'utiliser."
+    "5300": {
+        "「あっ　<pc>さん！\n　どうです？　結晶牙は　手に入りましたか？": "Ah, <pc>-san ! Alors, avez-vous mis la\nmain sur le Crystal Fang ?"
     },
-    "2048": {
-        "<pc>は　セトリー村長から\nルーラストーンを　受け取った！<me 60>": "<pc> a recu une Zoomstone de Chief\nSetorii !<me 60>"
+    "5301": {
+        "「それがあれば　すぐにでも\n　音叉を直すことが　できるのです。\n　結晶牙を　私に　くださいますか？<yesno><close>": "Avec cela, je pourrai reparer le diapason\nimmediatement. Pourriez-vous me donner le\nCrystal Fang ? <yesno><close>"
     },
-    "2049": {
-        "「残念だったな　ヒューザ。\n　お前は　次の機会を待つがいい。": "C'est dommage, Hyuza. Tu devras attendre la\nprochaine occasion."
+    "5302": {
+        "「そうですか。まだ手に入っていないのですね。\n　あまり　時間はないのです。\n　なんとしても　間に合わせなくては……。": "Je vois. Vous ne l'avez pas encore obtenu,\nn'est-ce pas ? Nous n'avons pas beaucoup de\ntemps. Nous devons absolument le faire a<br>temps..."
     },
-    "2050": {
-        "「次……ね。そんなもん　待っちゃいられねえな。": "Ensuite... hein. Je ne peux pas attendre ca."
+    "5303": {
+        "「結晶牙は　この遺跡に出現する\n　デスマエストロを倒すと　よく落とします。\n　１本でいいので　手に入れてきてください！": "Crystal Fang est souvent trouve dans ces\nruines lorsqu'on bat le Frightening Conductor.\nVeuillez en rapporter un, s'il vous plait !"
     },
-    "2051": {
-        "「あっ　ヒューザ？": "Ah, Hyuza ?"
+    "5304": {
+        "「むむ。結晶牙を持っていないじゃありませんか。\n　このままでは　間に合わないかも……。": "Hum. Vous n'avez pas le Crystal Fang. A ce\nrythme, nous risquons de ne pas etre a\ntemps..."
     },
-    "2052": {
-        "「おお　アーシク。\n　ついに　シェルナーが決まったぞ。\n　<pc>が　シェルナーとなったのだ。": "Oh, Aashik. Le Coquillier a enfin ete choisi.\nC'est <pc> qui a ete designe."
+    "5305": {
+        "「結晶牙は　この遺跡に出現する\n　デスマエストロを倒すと　よく落とします。\n　１本でいいので　手に入れてきてください！": "Crystal Fang est souvent trouve dans ces\nruines lorsqu'on bat le Frightening Conductor.\nVeuillez en rapporter un, s'il vous plait !"
     },
-    "2053": {
-        "「ほんとう！？　おめでとう　<pc>。\n　そっかあ　やっぱり　キミがボクの\n　シェルナーに　なってくれたんだね！！": "Vraiment !? Felicitations, <pc> !\nJe le savais, c'est toi qui allais devenir mon\nCoquillier !!"
+    "5307": {
+        "「おお　さすが　<pc>さんだ！": "Oh, comme on peut s'y attendre de\n<pc>-san !"
     },
-    "2054": {
-        "「ヒューザも　がんばってくれたんだよね！\n　ありがとう　ヒューザ！！": "Hyuza, tu as aussi donne le meilleur de\ntoi-meme ! Merci, Hyuza !!"
+    "5309": {
+        "「これで　音叉を修理できます。\n　ありがとうございます　<pc>さん！": "Je vais pouvoir reparer le diapason grace a\nca. Merci beaucoup, <pc>-san !"
     },
-    "2055": {
-        "「オレに勝って　シェルナーになったんだ。\n　ヘマすんじゃねえぞ　<pc>！": "T'as gagne contre moi et t'es devenu\nCoquillier. Fais pas de betises,\n<pc> !"
+    "5310": {
+        "「修理の間　おヒマでしょうから\n　この遺跡のあらましでも　説明しましょう。": "Pendant que les reparations sont en cours et\nque vous avez un peu de temps libre, je vais\nvous expliquer brievement l'histoire de ces<br>ruines."
     },
-    "2056": {
-        "「アーシクよ。花嫁に贈る貝がらは\n　持ってきたのだろうな？": "Aashik. Tu as apporte le coquillage pour la\nmariee, n'est-ce pas ?"
+    "5311": {
+        "「この遺跡は　１７代前のヴェリナード国王\n　ラーディスが造ったと　言われており\n　神殿としての役割を　持っていたようです。　": "Il est dit que ces ruines ont ete construites\npar le roi Radis de Verinard, il y a 17\ngenerations, et qu'elles servaient de temple."
     },
-    "2057": {
-        "「はい　これです　村長さん。": "Oui, c'est ca, Monsieur le maire."
+    "5312": {
+        "「ラーディス王は　王位を妻にゆずり\n　その一生を　この神殿の建造に捧げたと\n　伝えられていましてねえ。": "On dit que le roi Radis a cede son trone a sa\nfemme et a consacre sa vie a la construction\nde ce temple."
     },
-    "2058": {
-        "「ほほう。なかなか　キレイな貝がらではないか。\n　いったい　どこで　見つけたのだ？": "Oh, oh. Voila une tres belle coquille,\nn'est-ce pas ? Ou donc l'as-tu trouvee ?"
+    "5313": {
+        "「波紋の音叉を守るため　あえて　このような所に\n　神殿を造ったということなのですが……。\n<br>\n「それだけのために　こんな大がかりな建物を\n　命がけで造ったとは　私には思えません。": "On dit qu'ils ont construit ce temple dans un\nendroit comme celui-ci pour proteger le\ndiapason des ondulations, mais... Je ne peux<br>pas croire qu'ils aient risque leur vie pour\nconstruire un batiment aussi grandiose juste\npour cela."
     },
-    "2059": {
-        "「えっと　村の外の砂浜で……。": "Euh, sur la plage a l'exterieur du village..."
+    "5315": {
+        "「何か　他の……大きな目的が\n　あったのではないかと　私は推測しています。": "Je suppose qu'il y avait peut-etre un autre...\nun objectif plus grand."
     },
-    "2060": {
-        "「ふむ。お前にしては　上出来だ。\n　きっと　花嫁も　よろこぶだろう。": "Hmmm. Pour toi, c'est un excellent travail. La\nmariee sera surement ravie."
+    "5316": {
+        "「ラーディス王を最後に　ヴェリナードの王は\n　女性が　務めるようになったのですが……\n　それとも　何か関係があるのかもしれません。": "Depuis le regne du roi Radis, ce sont les\nfemmes qui occupent le trone de Verinard...\nPeut-etre y a-t-il un lien quelconque."
     },
-    "2061": {
-        "「では　アーシク。\n　その貝がらを　<pc>に。": "Alors, Aashik. Remets ce coquillage a\n<pc>."
+    "5317": {
+        "「これで……よし。": "Avec ca... c'est bon."
     },
-    "2062": {
-        "「<pc>。この貝がらを　祈りの宿にいる\n　ボクの花嫁キールに　届けてほしいんだ。": "<pc>. J'aimerais que tu apportes ce\ncoquillage a ma fiancee, Keel, qui se trouve a\nl'auberge des prieres."
+    "5318": {
+        "「お待たせしました　<pc>さん。\n　修理は　無事に終わりましたよ。": "Je vous ai fait attendre, <pc>-san. La\nreparation est terminee avec succes."
     },
-    "2063": {
-        "<pc>は　アーシクから\nキレイな貝がら（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Belle Coquille (objet\ncle) de la part de Aashik ! <me 60>"
+    "5319": {
+        "「おお　ギリギリで　間に合いました。\n　女王ディオーレさまが　恵みの歌を\n　唄いはじめたようですよ！": "Oh, juste a temps. Il semble que Queen\nDiore-sama a commence a chanter la chanson de\nbenediction !"
     },
-    "2064": {
-        "「頼んだよ　<pc>。\n　その貝がらには　慰霊碑に　まつられてる人の\n　幸せも　こめられてるんだからね？": "Je compte sur toi, <pc>. Ce coquillage\ncontient aussi le bonheur des personnes\nhonorees par le monument commemoratif."
+    "5320": {
+        "「ほら　見てください！\n　恵みの歌のチカラで　周りの海水に\n　聖なる守りが　与えられていきます。": "Regardez ca ! Grace au pouvoir de la chanson\nde la benediction, l'eau de mer environnante\nse voit impregnee du Sacred Amulet."
     },
-    "2065": {
-        "「<pc>よ。花嫁キールを　祈りの宿から\n　このレーンの村へと　無事に連れてくるのだ。": "<pc>, emmene la mariee Keel de l'auberge\nde la priere au village de Leine en toute\nsecurite."
+    "5321": {
+        "「これで　ウェナ諸島の海は　荒れることもなく\n　海の幸にも　恵まれるのです。": "Grace a cela, les mers de l'archipel de Wena\nne seront plus agitees et nous serons benis\npar les richesses de l'ocean."
     },
-    "2066": {
-        "「祈りの宿に行くには\n　コルット地方を　越える必要がある。": "Pour se rendre a l'Auberge de la Priere, il\nest necessaire de traverser la region de Colt."
+    "5322": {
+        "「ふう……。修理が　うまくいって\n　私も　やっと肩の荷が降りましたよ。": "Ouf... La reparation s'est bien passee, et je\npeux enfin souffler."
     },
-    "2067": {
-        "「まずは　村を出たら　道なりに進め。\n　道が　小川と交わったら\n　今度は　その小川に沿って　北を目指すのだ。": "Tout d'abord, en quittant le village, avance\nle long du chemin. Lorsque le chemin croise un\npetit ruisseau, suis ce ruisseau en direction<br>du nord."
+    "5323": {
+        "「これもすべて　あなたのおかげです。\n　本当に　ありがとうございました！": "Tout cela, c'est grace a vous. Je vous\nremercie sincerement !"
     },
-    "2068": {
-        "「では　アーシクよ。お前は家に戻り\n　花嫁の到着を　待つのだ。": "Alors, Aashik. Retourne chez toi et attends\nl'arrivee de ta future epouse."
+    "5324": {
+        "「私は先に　ジュレットの町へ戻ります。\n　お礼は　そちらでしますから\n　あなたも　すぐに来てくださいね。": "Je retourne d'abord a Julet. Je vous\nremercierai la-bas, alors venez rapidement,\nd'accord ?"
     },
-    "2069": {
-        "「はい　わかりました。\n　それじゃ　失礼します　村長さん。": "D'accord, je comprends. Dans ce cas, je vous\nlaisse, Monsieur le Maire."
+    "5325": {
+        "「おお　おかえり　<pc>君。": "Oh, te voila de retour, <pc>-kun."
     },
-    "2070": {
-        "「<pc>。キールのこと　よろしく！": "<pc>. Prends bien soin de Keel !"
+    "5326": {
+        "「いやあ　<pc>さん。\n　あなたがいてくれて　本当に助かりました！": "Ah, <pc>-san. Votre presence m'a\nvraiment ete d'une grande aide !"
     },
-    "2071": {
-        "「おお　ウワサをすれば　なんとやら。": "Oh, quand on parle du loup…"
+    "5327": {
+        "「私は　別の調査が待っているので\n　急いで　ヴェリナード城へ帰らねばなりません。": "Je dois retourner d'urgence au chateau de\nVerinard car une autre enquete m'attend."
     },
-    "2072": {
-        "「おかえりなさい　キールさん。\n　ちょうどよいところに　戻られましたな。": "Bienvenue chez vous, Keel-san. Vous arrivez\nvraiment au bon moment."
+    "5328": {
+        "「お礼は　町長さんに　あずけておきました。\n　では　これにて失礼します。": "J'ai laisse une recompense chez le maire. Sur\nce, je vous dis au revoir."
     },
-    "2073": {
-        "「こちらは　レーンの村の　<pc>どの。\n　シェルナーとして参られた　お方です。": "Voici <pc> de Lane.\nIl est venu en tant que Coquillier."
+    "5329": {
+        "「では　君に礼を渡そう。\n　私からの分も　上乗せしておいたぞ。": "Alors, je vais te remettre ta recompense. J'y\nai ajoute un petit supplement de ma part."
     },
-    "2074": {
-        "「あなたが　アーシクさまの……。\n　遠い所まで　ありがとうございます。": "Vous etes l'envoye de Aashik-sama... Merci\nd'avoir voyage d'aussi loin."
+    "5330": {
+        "<pc>は\n１０００ゴールドを　受け取った！<se_nots System 7>": "<pc> a recu 1000 pieces d'or ! <se_nots\nSystem 7>"
     },
-    "2075": {
-        "「私は　キールと申します。\n　アーシクさまの花嫁となる者です。": "Je m'appelle Keel. Je suis celle qui deviendra\nl'epouse de Aashik-sama."
+    "5331": {
+        "「む……。不満そうな顔だな。\n　それでは　足りないというのか？": "Hmm... Tu as l'air insatisfait. Est-ce que\ncela ne suffit pas ?"
     },
-    "2076": {
-        "「よろしくお願いします。\n　シェルナーの　<pc>さま。": "Enchante.\nCoquillier <pc>,\nje compte sur vous."
+    "5332": {
+        "「……ふむ　そうか。\n　君は　キーエンブレムが　ほしかったのか。": "...Hmm, je vois. Tu voulais donc l'embleme\ncle."
     },
-    "2077": {
-        "「ジュレットの町を　おとずれていた\n　アーシクさまと出会った　あの日から……。": "Depuis ce jour ou j'ai rencontre Aashik-sama\nen visitant Julet..."
+    "5333": {
+        "「だが　いくら　町長である私の頼みとはいえ\n　人の手助けをした程度で\n　キーエンブレムを与えることは　できん。": "Cependant, meme si c'est une requete de moi,\nle maire, je ne peux pas te donner l'embleme\ncle simplement pour avoir aide quelqu'un."
     },
-    "2078": {
-        "「今日の　この日を　どれだけ待ったことか。\n　すぐにでも　レーンの村へと向かいましょう。　": "Combien de temps ai-je attendu ce jour !\nAllons immediatement au village de Lain."
+    "5334": {
+        "「町ひとつを　丸ごと救うくらいの大仕事を\n　やってくれたのなら　考えてもいいのだがね。": "Si tu faisais quelque chose d'aussi grand que\nde sauver une ville entiere, je pourrais\npeut-etre y reflechir."
     },
-    "2079": {
-        "「キールさん。はやる気持ちは　わかりますが\n　まずは　しきたりに従って\n　花婿からの結納品を　受け取りましょう。　": "Keel-san. Je comprends votre impatience, mais\nsuivons d'abord les traditions et acceptons\nles presents de fiancailles du marie."
+    "5335": {
+        "「さて　では……": "Bon, alors..."
     },
-    "2080": {
-        "「<pc>どの。花婿より　結納品となる\n　貝がらを　預かっておるはず。\n　それをキールさんに　渡していただけますかな？<yesno><close>": "<pc>-dono. Vous devriez avoir en votre\npossession les coquillages qui servent de\ncadeau de fiancailles de la part du marie.<br>Pourriez-vous les remettre a Keel-san ?\n<yesno><close>"
+    "5336": {
+        "「なにごとだ！？": "Qu'est-ce que c'est que ca !?"
     },
-    "2081": {
-        "「はっはっは。ご冗談を。\n　あなたはシェルナーとして　参られたはず。": "Ha ha ha, arretez donc vos plaisanteries.\nVous etes cense etre ici\nen tant que Coquillier."
+    "5337": {
+        "「た……大変だ　町長！！\n　町の中にネコが　いやがったんだ！": "Ta... Taisez-vous, monsieur le Maire !! Il y a\nun chat dans la ville !"
     },
-    "2082": {
-        "「では　シェルナーより　花嫁キールに\n　結納品の貝がらの　贈呈を。": "Que le Coquillier offre le coquillage des fiancailles a la mariee Keel."
+    "5338": {
+        "「ソーミャだ！　あいつがネコを！！": "Somya ! Elle a attrape le chat !!"
     },
-    "2084": {
-        "「なんて　美しいのでしょう！\n　アーシクさまの心の清さが　そのまま\n　この貝がらに　表れていますわ……。": "Quel spectacle magnifique ! La purete du coeur\nde Aashik-sama se reflete directement dans ce\ncoquillage..."
+    "5339": {
+        "「なに！？　ソーミャと　ネコに\n　なんの関係があるというのだ？": "Quoi !? Quel rapport y a-t-il entre Saumya et\nle chat ?"
     },
-    "2086": {
-        "「い　今の声は……。": "Cette voix, c'etait..."
+    "5340": {
+        "「と……とにかく　ソーミャの家へ来てくれ。\n　ほっとくと　ソーミャも危険かもしれねえ！": "En... en tout cas, viens a la maison de Somya.\nSi on la laisse seule, Somya pourrait etre en\ndanger !"
     },
-    "2087": {
-        "<center>……さあ　ぼくと　一緒に行こう……。": "...Allez, viens avec moi..."
+    "5341": {
+        "「わ　わかった！　<pc>君も\n　ソーミャの家まで　来てくれ！！": "D'accord ! <pc>-kun, viens aussi jusqu'a\nla maison de Somya !!"
     },
-    "2088": {
-        "「……まさか　魔物が　この祈りの宿に！？\n　<pc>どの……花嫁を！": "...Impossible, des monstres dans cette auberge\nde priere !? <pc>-dono... La mariee !"
+    "5342": {
+        "「いったい　なにごとだ！？": "Qu'est-ce qui se passe ici !?"
     },
-    "2089": {
-        "<center>…………ぼくの　花嫁…………。": "…Ma mariee."
+    "5343": {
+        "「おい　バーセル！\n　まさか　ソーミャが　ネコの魔物に\n　襲われたんじゃ　ないだろうな？": "He, Barsell ! Ne me dis pas que Somya a ete\nattaquee par un monstre chat ?"
     },
-    "2090": {
-        "「…………。": "."
+    "5344": {
+        "「ちがうんだ　町長……。\n　とにかく　これを見てくれ。": "Ce n'est pas ca, maire... Regarde ca, s'il te\nplait."
     },
-    "2091": {
-        "「私は　あなたの花嫁では　ありません。": "Je ne suis pas votre epouse."
+    "5345": {
+        "「こ…これは。ネコの……。\n　ネコの魔物の　赤ん坊……なのか？": "C... c'est... un chat... Un bebe monstre\nchat... ?"
     },
-    "2092": {
-        "<center>…………さあ　行こう　来光の浜に。\nぼくたちは　結婚するんだ…………。": "…Allons-y, a la Plage de l'Aube. Nous allons\nnous marier..."
+    "5346": {
+        "「ううっ……。ひっくひっく……。": "Snif... *sanglote*..."
     },
-    "2093": {
-        "「く……黒い魔物が\n　キールさんを　さらっていった……？": "Un... un monstre noir a enleve Keel-san...?"
+    "5347": {
+        "「……ソーミャ　これは　なんだ？\n　お前が　連れてきたというのか！？": "…Soumya, qu'est-ce que c'est ? C'est toi qui\nl'as amene ici ?!"
     },
-    "2094": {
-        "「ま　まさか　あの魔物は……。　": "Ce... ce monstre serait-il..."
+    "5348": {
+        "「うちの息子は　ネコの魔物に\n　ケガを　させられたんだぞ。\n　それを町の中に連れ込むなんて　許せねえ！": "Mon fils a ete blesse par un monstre chat. Je\nne peux pas permettre qu'on amene ca en ville\n!"
     },
-    "2095": {
-        "「<pc>どの！　<pc>どのは\n　慰霊の浜の話を　ご存知か！？<yesno><close>": "<<pc> dono !> <pc>-dono,\nconnaissez-vous l'histoire de la Plage des\nAmes ? <yesno><close>"
+    "5349": {
+        "「このところ　町の周りに\n　やたら　ネコの魔物が　うろついているのは\n　これが原因だったんじゃないんですか！？": "Ces derniers temps, les environs de la ville\netaient envahis par des monstres-chats. Ne\nserait-ce pas la cause de tout cela !?"
     },
-    "2096": {
-        "「慰霊の浜の慰霊碑には　海で花嫁を失った\n　花婿の霊が　まつられているのです。": "Sur le monument commemoratif de la plage\nd'Irei, repose l'esprit d'un marie ayant perdu\nsa fiancee en mer."
+    "5350": {
+        "「きっと　そうだよ！\n　このまま　放っておけないよ！！": "Je suis sur que c'est ca ! On ne peut pas\nlaisser ca comme ca !!"
     },
-    "2097": {
-        "「じつは　慰霊の浜の本当の名は\n　来光の浜というのです。": "En realite, le veritable nom de la Plage du\nSouvenir est la Plage du Rayo-Illumine."
+    "5351": {
+        "「どうした　町長！？\n　このチビネコを　なんとかしてくれよ！！": "Qu'est-ce qui se passe, maire !? Fais quelque\nchose a propos de ce petit chat, s'il te plait\n!!"
     },
-    "2098": {
-        "「花婿の霊を鎮める　慰霊碑が建ったことで\n　慰霊の浜と呼ばれるようになり\n　本当の名は　すたれてしまいました。": "Avec l'erection du monument commemoratif pour\napaiser l'esprit du marie, la plage a commence\na etre appelee la Plage du Souvenir, et son<br>veritable nom est tombe dans l'oubli."
+    "5353": {
+        "「そ……そうだな。\n　なんとかせねば　なるまいな。": "Eh bien... Oui, c'est vrai. Il va falloir\nfaire quelque chose."
     },
-    "2099": {
-        "「しかし　今の黒い魔物は\n　来光の浜という名を　知っていました。\n　しかも　花嫁を見つけた……と。": "Cependant, le monstre noir actuel connaissait\nle nom de la Plage de Raikou. De plus, il a\ndit avoir trouve la mariee..."
+    "5354": {
+        "「……ダメ。": "......Non."
     },
-    "2100": {
-        "「つまり　今の魔物は\n　あの浜で　花嫁を失った花婿の霊が\n　悪霊と化した姿ということでしょうか……。": "En d'autres termes, le monstre actuel serait\nl'esprit du marie qui a perdu sa fiancee sur\ncette plage, transforme en esprit malefique..."
+    "5355": {
+        "「……うっ。": "…Ouf."
     },
-    "2101": {
-        "「<pc>どの。花嫁の身の安全を\n　守ることは　シェルナーの大切な役目。": "<pc>, assurer la securite de la mariee\nest l’un des devoirs essentiels du Coquillier"
+    "5356": {
+        "「町長さん　しっかりしてくださいよ！": "Monsieur le maire, ressaisissez-vous !"
     },
-    "2102": {
-        "「……ムダだよ。": "...C'est inutile."
+    "5357": {
+        "「で　でもさ。どうするんだい？\n　この子ネコに　手を出したりしたら\n　ネコの魔物たちが　何するか　わからないよ？": "Mais, mais... Que faire alors ? Si on touche a\nce chaton, qui sait ce que les monstres felins\npourraient faire ?"
     },
-    "2103": {
-        "「君たちじゃ　ぼくに\n　キズひとつ　つけられやしない。": "Vous ne pouvez meme pas me faire une\negratignure."
+    "5358": {
+        "「そ　そんなのは　オレの知ったことじゃない。\n　町長が　煮るなり焼くなり　好きにすれば……": "Ce... ce n'est pas mon probleme. Le maire peut\nen faire ce qu'il veut, que ce soit le\ncuisiner ou le bruler..."
     },
-    "2104": {
-        "「黒きチカラが　ぼくをふたたび\n　花嫁に　会わせてくれた……。": "Le pouvoir sombre m'a permis de rencontrer a\nnouveau la mariee..."
+    "5359": {
+        "「いやあああっ！": "Non !!!"
     },
-    "2105": {
-        "「そうだ……。ぼくは　この花嫁と\n　ふたりで　永遠に　暮らすんだ……。": "Oui... Je vais vivre eternellement avec cette\nmariee..."
+    "5360": {
+        "「むむむ……。": "Hum hum hum..."
     },
-    "2106": {
-        "「だから　ジャマを……するな！": "Donc, ne me derange pas !"
+    "5361": {
+        "「やれやれ……。見ちゃいらんねえな。": "Bon sang... Je ne peux pas rester la a\nregarder ca."
     },
-    "2107": {
-        "「アーシクさま！！": "Aashik-sama !!"
+    "5362": {
+        "「な……なんだね　君は？": "Qu... qui es-tu ?"
     },
-    "2108": {
-        "「ヒューザが　やられちゃう……。\n　ボクのキールも　とられちゃう……。": "Hyuza va etre vaincu... Et mon Keel va etre\npris..."
+    "5363": {
+        "「ただの通りすがりさ。": "Je ne suis qu'un simple passant."
     },
-    "2109": {
-        "「キ……キールは　ボクの花嫁だ……。": "Ki... Keel est ma fiancee..."
+    "5364": {
+        "「あんたらが　できねえってんなら\n　オレが代わりに　こいつを\n　海に　放り込んできてやるよ！": "Si vous ne pouvez pas le faire, alors je vais\nle jeter a la mer a votre place !"
     },
-    "2110": {
-        "「キールは　ボクの花嫁なんだぁぁぁっ！": "Keel est ma fiancee !"
+    "5365": {
+        "「か　返して！！\n　その子は　私の家族なのっ。": "Rends-le moi !! Cet enfant fait partie de ma\nfamille."
     },
-    "2111": {
-        "「君のおかげで　ぼくの無念を　抑えつける\n　貝がらを　どかせたんだ。感謝してるよ。\n　でも　花婿は　ふたりも　いらないんだよ……。": "Grace a toi, j'ai pu me debarrasser de la\ncoquille qui contenait mes regrets. Je te\nremercie. Mais... il n'y a pas besoin de deux<br>maries."
+    "5366": {
+        "「はあ？　家族だ？\n　バカ言ってんじゃねえよ。": "Quoi ? Famille ? Ne dis pas de betises."
     },
-    "2112": {
-        "「くそっ！　キールをさらった魔物を見つけて\n　追いかけてきたが　このオレが\n　まったく　歯が立たねえとはな……。": "Merde ! J'ai trouve le monstre qui a enleve\nKeel et je l'ai poursuivi, mais je n'ai pas pu\ndu tout lui tenir tete..."
+    "5367": {
+        "「おい　待て。本気なのか？": "He, attends. Tu es serieux ?"
     },
-    "2113": {
-        "「キ　キールを　はなせぇぇっ！！": "Relachez Keel !"
+    "5368": {
+        "「当たり前だろ。": "C'est evident."
     },
-    "2114": {
-        "「ダーリアは　誰にも渡さない！": "Je ne laisserai Dahlia a personne !"
+    "5369": {
+        "「ま　まずは　私の家で話をしよう！\n　それからでも　遅くはない！！": "D'abord, parlons chez moi ! Ce ne sera pas\ntrop tard apres cela !"
     },
-    "2115": {
-        "「……君は　シェルナーだったね。": "… Tu etais le Coquillier, n'est-ce pas ?"
-    },
-    "2116": {
-        "「ちょうどいい。君も連れていこう。\n　チカラずくでもね。": "Parfait. Je vais t'emmener avec moi. Meme si\nje dois le faire par la force."
-    },
-    "2117": {
-        "「そして　式を挙げるんだ！\n　ぼくたちの結婚式を！！　": "Et ensuite, nous allons celebrer la ceremonie\n! Notre mariage !!"
-    },
-    "2118": {
-        "「そろそろ　君たち相手に\n　時間をつぶすのに　あきてきたよ……。": "Il commence a me lasser de perdre du temps\navec vous..."
-    },
-    "2119": {
-        "「……やあ　どこへ行っていたのかな？\n　君を　待っていたんだよ。": "...Eh bien, ou etais-tu passe ? Je\nt'attendais, tu sais."
-    },
-    "2120": {
-        "「シェルナーの　君がいないと\n　ぼくたちの結婚式が　できないからね……。\n　さあ　ぼくと　一緒に来てもらおうか！　": "Sans toi, Coquillier, notre mariage ne peut\npas avoir lieu.\nAllez, viens avec moi !"
-    },
-    "2121": {
-        "「ぐ……ぐおおおお！": "Gu... guooooo !"
-    },
-    "2122": {
-        "「イヤだ……イヤだ……。\n　花嫁を失うのは　もうイヤだ！": "Non... Non... Je ne veux pas... Je ne veux\nplus perdre une mariee !"
-    },
-    "2123": {
-        "「みんな　消えてしまえばいい！": "Tout le monde devrait disparaitre !"
-    },
-    "2124": {
-        "「そうすれば　ぼくとダーリアを……。": "De cette facon, Dahlia et moi pourrions..."
-    },
-    "2125": {
-        "「ふたりをジャマする者は　いなくなる！！": "Il n'y aura plus personne pour nous deranger\n!!"
-    },
-    "2126": {
-        "「黒いチカラよっ　ぼくの願いを聞け！\n　嵐を呼べ！　すべてを吹き飛ばせぇぇぇっ！！": "Noire puissance, ecoute mon souhait ! Invoque\nla tempete ! Emporte tout sur ton passage !"
-    },
-    "2127": {
-        "「あはははっ。\n　ひゃはははははははっっっ！！": "Ahahaha ! Hyahahahahahaha !"
-    },
-    "2129": {
-        "「……ごめんなさい。\n　私は　あなたの花嫁では　ありません……。": "......Je suis desolee. Je ne suis pas votre\nepouse......"
-    },
-    "2133": {
-        "「ダ……ダーリア？": "Da... Dahlia ?"
-    },
-    "2134": {
-        "「……行きましょう。\n　私たちは　私たちの行くべき場所へ……。": "......Allons-y. Vers le lieu ou nous devons\netre..."
-    },
-    "2135": {
-        "「ああ　ダーリア……。\n　もう絶対に　離れないよ……。": "Ah, Dahlia... Je ne te quitterai plus\njamais..."
-    },
-    "2136": {
-        "<center>……この広い海の世界\nあなたと私　ふたりが出会った。": "...Dans ce vaste monde oceanique, Toi et moi,\nnous nous sommes rencontres."
-    },
-    "2137": {
-        "<center>あなたがくれた　小さな貝がら\n日の光の中　美しく輝いて……。": "Le Small Seashell que tu m'as offert brille\nmagnifiquement sous la lumiere du soleil..."
-    },
-    "2138": {
-        "<center>これから　ふたり……。\nしあ……わせを……。": "A partir de maintenant, vous deux...\nBonheur..."
-    },
-    "2139": {
-        "「返し歌だ。\n　ウェディの古い……な。": "C'est une chanson de reponse. L'ancien\nWeddie..."
-    },
-    "2140": {
-        "「花嫁が花婿に　贈り物の礼として歌う。\n　この貝がらは　レグという花婿が\n　花嫁ダーリアに　贈ったものなのだ。": "La mariee chante en guise de remerciement pour\nle cadeau offert par le marie. Ce coquillage a\nete offert par le marie nomme Reg a la mariee<br>Dahlia."
-    },
-    "2141": {
-        "「ボクは　レグさんの怨念に操られて\n　その貝がらを　取っちゃったんだね……。": "Je suis desole d'avoir ete manipule par la\nrancune de Reg-san et d'avoir pris ce\ncoquillage..."
-    },
-    "2142": {
-        "「お供えものに　手を出したことなんか\n　これまで　一度もなかったし……。": "Je n'avais jamais touche aux offrandes\nauparavant..."
-    },
-    "2143": {
-        "「でも　そのおかげで\n　あの方たちは　もう一度\n　出会うことができたとも　言えますわ。": "Mais grace a cela, on peut dire que ces\npersonnes ont pu se rencontrer a nouveau."
-    },
-    "2144": {
-        "「だから　もう　気に病まないで。\n　私たちは　私たちの幸せを\n　ふたりで探していきましょう　アーシクさま。": "Alors, ne t'inquiete plus. Cherchons notre\nbonheur ensemble, a nous deux, Aashik-sama."
-    },
-    "2145": {
-        "「ありがとう　キール……。\n　そうだね。ふたりで　幸せになろう！": "Merci, Keel... Oui, faisons en sorte d'etre\nheureux ensemble !"
-    },
-    "2146": {
-        "「おいおい　ふたりとも。\n　そこから先は　結婚式で　やってくれよ……。": "He he, vous deux. Gardez ca pour le mariage,\nd'accord ?..."
-    },
-    "2147": {
-        "「だ　だいじょうぶ　ヒューザ？\n　ごめんね　キールのために……。": "Tu... tu vas bien, Hyuza ? Desole pour Keel..."
-    },
-    "2148": {
-        "「このくらい　大したことねえが\n　また　いいところを　<cs_pchero>に\n　持ってかれちまったな。": "Ce n'est pas grand-chose, mais <cs_pchero> a\nencore reussi a me voler la vedette."
-    },
-    "2149": {
-        "「くさるでない　ヒューザよ。\n　おぬしが　時間をかせいでくれたおかげで\n　<cs_pchero>が　間に合ったのだからな。": "Ne te decourage pas, Hyuza. Grace au temps que\ntu as reussi a gagner, <cs_pchero> est arrive\na temps."
-    },
-    "2150": {
-        "「さあ　村へ戻るとしよう。\n　結婚式の準備を　急がねばならんぞ。": "Allons, retournons au village. Nous devons\nnous depecher de preparer le mariage."
-    },
-    "2151": {
-        "「あっ　<pc>！\n　慰霊の浜では　キールを助けてくれて\n　本当に　ありがとう！！": "Ah, <pc> ! Merci beaucoup d'avoir aide\nKeel a la Plage du Souvenir !"
-    },
-    "2152": {
-        "「バルチャさまに　ごあいさつに来ました。\n　私たちの結婚式が　できるのも\n　すべて　<pc>さまの　おかげですわ。": "Nous sommes venus saluer Barcha-sama. C'est\ngrace a <pc>-sama que nous pouvons\ncelebrer notre mariage."
-    },
-    "2153": {
-        "「それじゃ　ボクたちは　家に戻ります。\n　新しい貝がらも　見つけておかないと。": "Alors, nous rentrons a la maison. Nous devons\naussi trouver de nouveaux coquillages."
-    },
-    "2154": {
-        "「行こう　キール。": "Allons-y, Keel."
-    },
-    "2155": {
-        "「はい　アーシクさま。": "Oui, Aashik-sama."
-    },
-    "2156": {
-        "「さて　<pc>よ。\n　そなたには　伝えねばならぬことが\n　いくつも　あるのだが……。": "Eh bien, <pc>. Il y a plusieurs choses\nque je dois te transmettre..."
-    },
-    "2157": {
-        "「それは　ふたりの結婚式が\n　つつがなく　終わってからだ。\n　シェルナーの役目は　まだ続いている。": "Ce sera une fois que leur mariage se sera\nderoule sans encombre.\nLe role du Coquillier n’est pas termine."
-    },
-    "2158": {
-        "「わしたちも　明日にそなえて\n　準備をするとしよう！": "Nous devons nous preparer pour demain nous\naussi !"
-    },
-    "2159": {
-        "<center><pc>は　バルチャとともに\n結婚式の準備に　はげんだ。": "<pc> s'est consacre avec ardeur aux\npreparatifs du mariage avec Barchan."
-    },
-    "2160": {
-        "<center>そして　夜が明けた！": "Et le jour s'est leve !"
-    },
-    "2161": {
-        "「花婿アーシク……。花嫁キール……。": "Le marie Aashik... La mariee Keel..."
-    },
-    "2162": {
-        "「誓います！": "Je le jure !"
-    },
-    "2163": {
-        "「誓います。": "Je le jure."
-    },
-    "2165": {
-        "「願わくば　ふたりに　大いなる海の恵みを。\n　そして　祝福を与えたまえーい。": "Puisse le grand ocean accorder ses bienfaits a\nvous deux. Et vous offrir sa benediction."
-    },
-    "2166": {
-        "「花嫁キールの返し歌の詠じにより\n　ふたりの婚姻の儀を　結ぶものとする。": "Par la recitation du poeme de retour de la\nmariee Keel, l'union des deux sera scellee\nlors de la ceremonie de mariage."
-    },
-    "2167": {
-        "「はい。ウェディの古き　しきたりにより\n　返し歌を　ここに詠じさせていただきます。": "Oui. Conformement aux anciennes traditions des\nWeddie, je vais maintenant reciter un poeme en\nreponse."
-    },
-    "2168": {
-        "<center>……この広い海の世界\nあなたと私　ふたりが出会った。": "...Dans ce vaste monde oceanique, Toi et moi,\nnous nous sommes rencontres."
-    },
-    "2169": {
-        "<center>あなたがくれた　小さな貝がら\n日の光の中　美しく輝いている。": "Le Small Seashell que tu m'as donne brille\nmagnifiquement sous la lumiere du soleil."
-    },
-    "2170": {
-        "<center>これから　ふたりは　永遠に。\nその手をたずさえ　永遠に。\n幸せとともに　歩んでいこう。": "Desormais, vous deux, pour l'eternite. Main\ndans la main, pour l'eternite. Avancons\nensemble avec bonheur."
-    },
-    "2171": {
-        "<center>アーシクとキール。\nふたりの結婚式は　つつがなく　終わった。": "Aashik et Keel. Leur mariage s'est deroule\nsans encombre."
-    },
-    "2172": {
-        "<center>そして　うたげが開かれた。\nある者は歌い　ある者は踊り\n人々は　ふたりを祝福したのだった。": "Et ainsi, la fete commenca. Certains\nchantaient, d'autres dansaient, et tous les\ngens celebraient le couple."
-    },
-    "2173": {
-        "「やれやれ……。\n　無事に終わって　ホッとしたぞ。": "Ouf… Je suis soulage que tout se soit bien\ntermine."
-    },
-    "2174": {
-        "「<pc>よ。シェルナーとしての\n　お前の　はたらきも　見事だったぞ。": "<pc>, tu as rempli ton role de\nCoquillier avec brio."
-    },
-    "2175": {
-        "「誰もが　この一人前の証を受けるに\n　ふさわしいと　思うことだろう。\n　ほれ。冒険の書を出せ。": "Tout le monde doit penser que tu es digne de\nrecevoir cette preuve de maturite. Allez,\nmontre-moi ton Adventure Log."
-    },
-    "2176": {
-        "「これでよし。お前は　一人前の証を得た。\n　大きな町へ行ったとしても　ひとりで\n　ちゃんと　やっていけるはずだ。": "Voila, c'est bon. Tu as obtenu la preuve que\ntu es devenu un adulte. Meme si tu vas dans\nune grande ville, tu devrais pouvoir te<br>debrouiller seul."
-    },
-    "2177": {
-        "「バルチャ老が　<pc>を呼んでいたぞ。\n　今後についての　助言でもあるのだろう。\n　すぐに　行くがいい。": "Le vieux Barcha t'a appele, <pc>. Il\ndoit avoir des conseils a te donner pour\nl'avenir. Tu ferais mieux d'y aller tout de<br>suite."
-    },
-    "2178": {
-        "「よい結婚式だったな……。\n　アーシクとキールは　新しい道を\n　ふたりで　歩みだしたのだ。": "C'etait une belle ceremonie de mariage...\nAashik et Keel ont commence a marcher ensemble\nsur un nouveau chemin."
-    },
-    "2179": {
-        "「<pc>よ。次は　おぬしの番だな。": "C'est a toi maintenant, <pc>."
-    },
-    "2180": {
-        "「……おぬしは　幼いころに　わしに拾われ\n　このフィーヤ孤児院で　暮らしながら\n　両親を探すことを　ずっと　望んでいた。": "...Tu as ete recueilli par moi lorsque tu\netais enfant, et tu as vecu dans cet\norphelinat de Fiya tout en esperant toujours<br>retrouver tes parents."
-    },
-    "2181": {
-        "「だがな……。": "Cependant..."
-    },
-    "2182": {
-        "「<pc>よ。何も言わずに\n　この鏡を　のぞいてみるのだ。": "<pc>, sans dire un mot, regarde dans ce\nmiroir."
-    },
-    "2183": {
-        "「この鏡は　真実を映す　ラーの鏡。\n　やはり……な。": "この鏡は、T. 実を映す Mirror of Ra やはりな"
-    },
-    "2184": {
-        "「おぬしは　人間の　<pc>であって\n　ウェディの　<pc>ではないのだな。": "Tu es un <pc> humain, et non un\n<pc> Weddie."
-    },
-    "2185": {
-        "「他の地でも　他人の身体を得て\n　生き返った者がおると　聞いたことがある。\n　その理由は　わかってはおらんが……。": "J'ai entendu dire qu'ailleurs, d'autres ont\nrepris vie en prenant possession du corps\nd'une autre personne. Je ne connais pas la<br>raison de ce phenomene, cependant..."
-    },
-    "2186": {
-        "「この世界を照らした　白き光……。\n　あれは　勇者が覚醒を迎えたときに\n　放たれる光だと　言われておる。": "La lumiere blanche qui a illumine ce monde...\nOn dit que c'est la lumiere qui est emise\nlorsque le heros atteint son eveil."
-    },
-    "2187": {
-        "「その白き光が　世界を照らした　この時に\n　おぬしという存在が　生き返り\n　この村に居合わせたのは　何かの運命だろう。": "Ce faisceau de lumiere blanche a illumine le\nmonde a cet instant precis. Le fait que ton\nexistence ait ete ravivee et que tu te trouves<br>dans ce village doit etre une forme de destin."
-    },
-    "2188": {
-        "「ならば　その光が発せられた場所へ\n　向かうことが　おぬしの進むべき道に\n　ちがいないと　わしは思う。": "Dans ce cas, je pense que se diriger vers\nl'endroit d'ou cette lumiere a ete emise est\nsurement le chemin que tu dois suivre."
-    },
-    "2189": {
-        "「旅立て　<pc>よ。\n　おぬしの運命を　見定めるのだ。": "Pars a l'aventure, <pc>. Decouvre quel\nest ton destin."
-    },
-    "2190": {
-        "「これを持っていくがいい。\n　５つの大陸を結ぶ　鉄道に乗ることができる。\n　おぬしの旅に　役立つだろう。": "Prends ceci. Cela te permettra de monter a\nbord du train qui relie les cinq continents.\nCela te sera surement utile pour ton voyage."
-    },
-    "2191": {
-        "<pc>は　バルチャから\n大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Passe Ferroviaire\nIntercontinental (objet cle) de Barcha ! <me\n60>"
-    },
-    "2192": {
-        "「多くの国で活躍し　名を上げるのだ。\n　さすれば　キーエンブレムという\n　カギの形をした勲章を　与えられるだろう。": "Tu te distingueras dans de nombreux pays et tu\nte feras un nom. Ainsi, tu recevras\nprobablement une medaille en forme de cle<br>appelee embleme cle."
-    },
-    "2193": {
-        "「……<pc>よ。\n　わしは　これまで　<pc>という\n　ウェディの若者の　親代わりをしてきた。": "<pc>. Je me suis occupe de <pc>,\nce jeune Weddie, comme un parent jusqu'a\npresent."
-    },
-    "2194": {
-        "「おぬしには　ウェディの　<pc>の\n　本当の両親を　どうか見つけだしてほしい。\n　それこそが　やつの念願だったのだ。": "Je te prie de bien vouloir trouver les\nveritables parents de <pc> le Weddie.\nC'etait son voeu le plus cher."
-    },
-    "2195": {
-        "「もちろん　おぬし自身が　運命を見定めることも\n　ここで　祈っておるぞ。\n　おぬしも今は　わしの子なのだから。": "Bien sur, je prie ici pour que tu discernes\ntoi-meme ton destin. Apres tout, tu es\nmaintenant aussi mon enfant."
-    },
-    "2196": {
-        "「別れの言葉はいらぬ。まずは\n　北西へと向かい　となりのジュレー島にある\n　ジュレットの町まで　行くがよい。": "Pas besoin de mots d'adieu. Tout d'abord,\ndirige-toi vers le nord-ouest et rends-toi sur\nl'ile voisine de Juret, a Julet."
-    },
-    "3379": {
-        "「や……やあ　<pc>。\n　慰霊の浜では　いろいろと　ありがとう。": "Sa... salut, <pc>. Merci beaucoup pour\ntout ce que tu as fait a la Plage des Ames."
-    },
-    "3380": {
-        "「バルチャじいさんの話を聞いて\n　考えたんだけど　やっぱり　あの貝がらは\n　ボクの贈り物に　させてもらうよ。": "J'ai reflechi apres avoir ecoute l'histoire de\ngrand-pere Barchu, et j'ai decide que ce\ncoquillage sera mon cadeau."
-    },
-    "3381": {
-        "「貝がらが　ボクに持ってってくれって\n　言ってたのは　ボクたちの幸せを\n　分けてほしいってことだと思うんだ！": "La coquille m'a dit de l'emporter. Je pense\nque cela signifie qu'elle veut partager notre\nbonheur !"
-    },
-    "3382": {
-        "「そうそう。シェルナーの試験が始まるんだね。\n　ボクは　<pc>と　ヒューザの\n　どっちも　おうえんしているよ！": "Ah oui, l’epreuve du Coquillier va commencer !\nJe vous soutiens tous les deux,\n<pc> et Hyuza !"
-    },
-    "4245": {
-        "「まあ……。これが　アーシクさまが\n　私のために見つけてくださった　貝がら……。": "Eh bien... C'est le coquillage que Aashik-sama\na trouve pour moi..."
-    },
-    "5670": {
-        "「ボクのシェルナーに　なってくれて\n　ありがとう　<pc>！": "Merci d’etre devenu mon Coquillier,\n<pc> !"
-    },
-    "5671": {
-        "「キールが待ってるんだ。\n　祈りの宿に　早く　迎えにいってあげてよ。": "Keel vous attend. Depechez-vous d'aller le\nchercher a l'Auberge de la Priere."
-    },
-    "5672": {
-        "「祈りの宿は　この村の北西にあるけど\n　だいぶ　遠いみたいだから　気をつけてね！\n　頼んだよ　<pc>！！": "L'auberge des Prieres se trouve au nord-ouest\nde ce village, mais il semble qu'elle soit\nassez eloignee, alors fais attention ! Je<br>compte sur toi, <pc> !"
-    },
-    "6792": {
-        "「ふたりの愛は永遠のものと　ここに誓うか？": "Jurez-vous ici que votre amour sera eternel ?"
-    },
-    "7281": {
+    "5370": {
         "「ふん……。": "Hmm..."
     },
-    "7282": {
-        "「さあ　みんな……。\n　ラージャ神父の　お言葉どおり\n　<pc>を　母なる海へ　送りだそう。": "Allons, tous ensemble…\nComme l’a dit le pere Roger, offrons\n<pc> a la mer nourriciere."
+    "5371": {
+        "「ううっ　ううっ……。": "Snif... Snif..."
     },
-    "7284": {
-        "<pc>は　地底湖の水を\nガラスの小ビンに　汲んだ！<me 60>": "<pc> a rempli une Petite Bouteille en\nVerre avec l'eau du lac souterrain ! <me 60>"
+    "5372": {
+        "「ヒューザ君…と言ったな？": "Hyuza-kun... c'est bien ca ?"
     },
-    "7287": {
-        "「確かに　ここの水は\n　他の水とは　ちがうらしいな。": "Il parait que l'eau d'ici est vraiment\ndifferente des autres."
+    "5373": {
+        "「その子ネコを　海に捨てるというのは\n　考えなおしてもらえんか？": "Pourrais-tu reconsiderer l'idee de jeter ce\nchaton a la mer ?"
     },
-    "7288": {
-        "「これで　よし……と。": "Voila, c'est bon..."
+    "5374": {
+        "「あのガキに　返せとでも言うのか？": "Tu veux dire que je devrais le rendre a ce\ngamin ?"
     },
-    "7289": {
-        "「あとは　村に帰るだけか。\n　で　早く着いたほうが\n　シェルナーに　なれるってわけだ……。": "Il ne reste plus qu’a retourner au village.\nDonc, celui qui arrive le premier sera designe\nCoquillier..."
+    "5375": {
+        "「いやっ　そうではない。\n　確かに　ソーミャは家族がおらず\n　あの子の気持ちは　わからないでもないが……。": "Non, ce n'est pas ca. Certes, Saumya n'a pas\nde famille, et je peux comprendre ce qu'elle\nressent, mais..."
     },
-    "7290": {
-        "「お前が　両親を探すために\n　シェルナーに　なろうとしてることは\n　オレも　知ってるさ。だがな……。": "Je sais que tu veux devenir Coquillier pour\nretrouver tes parents.\nMais tu sais..."
+    "5376": {
+        "「ネコの魔物が　辺りをうろついていたのは\n　その子ネコのせいかも　しれんのだ。\n　町に置いておくわけには　いかない。": "Il se pourrait que la creature feline qui\nrodait dans les environs soit a cause de ce\nKitten. Nous ne pouvons pas le laisser en<br>ville."
     },
-    "7291": {
-        "「……勝つのは　オレだぜ？": "......C'est moi qui vais gagner, tu sais ?"
+    "5377": {
+        "「しかし　そいつを　海に捨てたことが\n　やつらに　知られでもしたら\n　どんな報復を受けるか　わからんのだ！": "Cependant, si jamais ils apprennent que je\nl'ai jete a la mer, je ne sais pas quelle\nrepresailles ils pourraient prendre !"
     },
-    "7294": {
-        "「地底湖の水は　汲んできたのだろう？\n　見せてみろ　ほれほれ。": "L'eau du lac souterrain, tu l'as recuperee,\nn'est-ce pas ? Montre-moi, allez, allez."
+    "5378": {
+        "「む……君も来てくれたのか。": "Hum... Toi aussi, tu es venu."
     },
-    "7295": {
-        "セトリー村長に　湖の水の入った\nガラスの小ビンを　見せますか？<yesno><close>": "Voulez-vous montrer la Bouteille en Verre\ncontenant de l'eau du lac a Chef Setorii ?\n<yesno><close>"
+    "5379": {
+        "「ん？　なんだ　<pc>じゃねえか。": "Hmm ? Mais c'est <pc>, n'est-ce pas ?"
     },
-    "7296": {
-        "「むむっ。もしや　地底湖まで\n　行けなかったというのか？\n　いやいや　そんなことはあるまい。": "Mumu. N'aurais-tu pas reussi a atteindre le\nlac souterrain ? Non, non, cela ne peut pas\netre possible."
+    "5380": {
+        "「お前も　この町に来てたのかよ。\n　思ったよりも　早い再会だったな。": "Tu es venu dans cette ville aussi, hein. Je ne\npensais pas que nous nous reverrions si tot."
     },
-    "7297": {
-        "「わしに見せて　地底湖の水と認められなければ　\n　シェルナーには　なれんのだぞ？\n　もったいぶらんと　見せてみい。": "Si je ne confirme pas que c’est bien l’eau du\nlac souterrain, tu ne pourras pas devenir\nCoquillier. Allez, montre-moi ca."
+    "5381": {
+        "「ふたりは　知り合いなのかね？": "Est-ce que vous vous connaissez ?"
     },
-    "7298": {
-        "セトリー村長に　湖の水の入った\nガラスの小ビンを　見せますか？<yesno><close>": "Voulez-vous montrer la Bouteille en Verre\ncontenant de l'eau du lac a Chef Setorii ?\n<yesno><close>"
+    "5382": {
+        "「オレと　<pc>は\n　シェルナーの座を　争った仲だぜ。": "<pc> et moi,\non s'est dispute la place de Coquillier."
     },
-    "7299": {
-        "<pc>は　セトリー村長に\nガラスの小ビンを　返した。": "<pc> a rendu la Petite Bouteille en\nVerre a Chief Setorii."
+    "5383": {
+        "「おお　そうだったのか！\n　ならば　あらためて　あいさつしておこう。\n　私は　キールの父親のボーレンだ。": "Oh, c'etait donc ca ! Permettez-moi de me\npresenter a nouveau. Je suis Boren, le pere de\nKeel."
     },
-    "7300": {
-        "「どれどれ……。\n　だいぶ　時間が　かかったようだが。": "Voyons voir... Cela a pris pas mal de temps,\nsemble-t-il."
+    "5384": {
+        "「そんなの　知ってるって。\n　キールから　聞いたからな。": "Je le savais deja. Keel me l'a dit."
     },
-    "7301": {
-        "「むむむ　これはダメだ！\n　見てみい　水が　にごっておるっ。": "Mmm, ca ne va pas du tout ! Regarde, l'eau est\ntoute trouble."
+    "5385": {
+        "「そ……そうか。": "Ah... Je vois."
     },
-    "7302": {
-        "「もう一度　やり直しだ。いいか？\n　水を汲んだら　太陽と月が　ひと巡りする前に\n　わしの所へ　持ってくるんだぞ？": "Encore une fois, il faut reparer la lance.\nCompris ? Apres avoir puise de l'eau,\napporte-la-moi avant que le soleil et Mn.<br>aient fait un tour complet."
+    "5386": {
+        "「それよりも　<pc>。\n　ちょいとオレに　付き合わねえか？": "Mais plutot, <pc>. Tu ne voudrais pas\nm'accompagner un instant ?"
     },
-    "7303": {
-        "<pc>は\nガラスの小ビン（だいじなもの）を　受け取った！<me 60>": "<pc> a recu une Small Glass Bottle\n(objet cle) ! <me 60>"
+    "5387": {
+        "「なあ　お前……。\n　名前は　なんていうんだ？": "Dis-moi... Quel est ton nom ?"
     },
-    "7304": {
-        "「ほれほれ　<pc>。早く行くのだ。\n　ヒューザが先に　戻ってきてしまうぞ！": "Allez, allez, <pc>. Depeche-toi d'y\naller. Hyuza va revenir avant nous !"
+    "5388": {
+        "「ふん……。<pc>だな？\n　お前も　旅の途中なんだろ。": "Hmm... <pc>, n'est-ce pas ? Toi aussi,\ntu es en voyage, n'est-ce pas ?"
     },
-    "7308": {
-        "<center>…………見つけた。\nぼくの　花……嫁…………。": "Je t'ai trouvee. Ma fleur...\nepouse............"
+    "5389": {
+        "「たいして　急がねえんなら\n　ちょいとオレに　付き合わねえか？": "Si tu n'es pas vraiment presse, ca te dirait\nde trainer un peu avec moi ?"
     },
-    "7309": {
-        "「よかった。ケガはないようだ。\n　ぼくの名前は　レグ。\n　あなたに　あやまらなくては……。": "Je suis content. Tu n'as pas l'air blesse. Mon\nnom est Reg. Je dois te presenter mes\nexcuses..."
+    "5390": {
+        "「こいつを　親元に返してやろうと思ってな。": "Je pensais le ramener a ses parents."
     },
-    "7310": {
-        "「……すまない。\n　自分を　止められなかった。\n　ぼくの心は　黒い闇に包まれていたんだ……。": "Je suis desole. Je n'ai pas pu me controler.\nMon coeur etait enveloppe dans une sombre\nobscurite..."
+    "5391": {
+        "「オレひとりで探すのも　めんどくせえ。\n　お前も　手伝ってくれねえか？": "Je trouve ca penible de chercher tout seul. Tu\nveux bien m'aider ?"
     },
-    "7311": {
-        "「君を　死んでしまったダーリアの\n　代わりにしようとしていたなんて……\n　ぼくは……。": "Je ne peux pas croire que j'essayais de te\nremplacer par Dahlia, qui nous a quittes... Je\nsuis... desole."
+    "5392": {
+        "「海に捨てるのでは　なかったのか？": "N'etait-il pas cense etre jete a la mer ?"
     },
-    "7312": {
-        "<center>レグ……。私は　ここにいます……。": "Reg... Je suis ici..."
+    "5393": {
+        "「それじゃ　この町が　ヤバくなるんだろ？\n　そっちの面倒まで見るのは　ゴメンだぜ。": "Alors, cette ville va devenir dangereuse, non\n? Je ne veux pas avoir a m'occuper de ca\naussi."
     },
-    "7313": {
-        "「……母なる海の神よ。アーシクとキール。\n　このふたりが　夫婦となることを認めたまえ。": "O deesse de la mer mere. Aashik et Keel.\nVeuillez reconnaitre l'union de ces deux comme\nepoux."
+    "5394": {
+        "「す　すまん。恩に着る。": "Je... je suis desole. Je te suis redevable."
     },
-    "7314": {
-        "「<pc>～～～！": "<pc>～～～！"
+    "5395": {
+        "「ならば　猫島という島に　向かうといい。\n　そこでは　この地方のネコの魔物たちが\n　集団で　暮らしているらしいのだ。": "Alors, tu devrais te diriger vers l'ile de Cat\nIsland. La-bas, il parait que les creatures\nmagiques felines de cette region vivent en<br>groupe."
     },
-    "7315": {
-        "「<pc>　行っちゃうの？\n　みんなと　一緒に　この村で暮らそうよ。\n　これまでみたいに……。": "<pc>, tu t'en vas ? Reste ici et vivons\ntous ensemble dans ce village. Comme nous\nl'avons fait jusqu'a maintenant..."
+    "5396": {
+        "「島の奥には　巨猫の巣と呼ばれる\n　特別な場所があるとも　聞いている。\n　そこに行けば　手がかりが得られるかもしれん。": "On m'a dit qu'au fond de l'ile se trouve un\nendroit special appele Cat's Cradle. Si nous\nnous y rendons, nous pourrions obtenir des<br>indices."
     },
-    "7316": {
-        "「ルベカ。<pc>は\n　両親を探しにいくんだ。本当の親がいるなら\n　誰だって　会いたいって思うよ。": "Rubeka. <pc> part a la recherche de ses\nparents. Si de vrais parents existent, tout le\nmonde voudrait les rencontrer, tu sais."
+    "5397": {
+        "「ふん。アテがないよりは　マシだな。\n　そこへ行ってみるとするか。": "Hmph. C'est mieux que de n'avoir aucune piste.\nAllons voir de ce cote."
     },
-    "7317": {
-        "「だから　止めちゃいけない。\n　ボクたちは　笑って\n　<pc>を　見送ってあげなきゃ。": "Alors, nous ne devons pas arreter. Nous devons\nsourire et faire nos adieux a <pc>."
+    "5398": {
+        "「これは正式に　私からの依頼としよう。": "Ceci sera officiellement une requete de ma\npart."
     },
-    "7318": {
-        "「ルベカさん　だいじょうぶですよ。\n　<pc>さまは　きっと\n　この村に　帰ってきます。": "Rubeka-san, ne vous inquietez pas.\n<pc>-sama reviendra certainement dans ce\nvillage."
+    "5399": {
+        "「たしか　<pc>君は\n　キーエンブレムが　欲しいということだったな？": "Il me semble que <pc>-kun voulait une\ncle embleme, n'est-ce pas ?"
     },
-    "7319": {
-        "「うん……。もう　会えないわけじゃないよね。\n　このレーンは　<pc>の育った村だもん。\n　いつでも　帰ってきていいんだから！": "Oui... Ce n'est pas comme si nous ne pouvions\nplus nous revoir. Apres tout, ce village de\nLeine est celui ou <pc> a grandi. Tu<br>peux revenir quand tu veux !"
+    "5400": {
+        "「これは町を救うという　大きな仕事だ。\n　うまく　やってくれたら　君たちに\n　キーエンブレムを与えようではないか！": "C'est une grande mission que de sauver la\nville. Si vous reussissez bien, je vous\noffrirai l'embleme cle !"
     },
-    "7320": {
-        "「ボクたちは　ずっと　待ってるよ。\n　<pc>が　帰ってくる日を。": "Nous vous attendrons toujours. Le jour ou\n<pc> reviendra."
+    "5401": {
+        "「話は決まったな。\n　<pc>　付き合ってもらうぜ。": "L'affaire est conclue. <pc>, tu vas nous\naccompagner."
     },
-    "7321": {
-        "「ねっ　キール？": "He, Keel ?"
+    "5402": {
+        "「ダメ！！\n　その子は　私が育てるの！": "D'accord !! C'est moi qui eleverai cet enfant\n!"
     },
-    "7322": {
-        "「はい　アーシクさま。": "Oui, Aashik-sama."
+    "5403": {
+        "「このガキ。立ち聞きしてやがったな？": "Ce gamin... Il ecoutait aux portes, n'est-ce\npas ?"
     },
-    "7323": {
-        "「旅先でジュレットの町に　立ち寄りましたら\n　ぜひ　私の実家を　おたずねください。\n　<pc>さまのことは　伝えてありますわ。": "Si lors de votre voyage vous passez par Julet,\nn'hesitez pas a rendre visite a ma famille. Je\nleur ai deja parle de <pc>-sama."
+    "5404": {
+        "「私が　その子の　お母さんなの！\n　だから　私に返してっ。": "Je suis la mere de cet enfant ! Alors\nrends-le-moi."
     },
-    "7324": {
-        "「<pc>！　おみやげ　待ってるから！！": "<pc>！ J'attends avec impatience les\nsouvenirs !!"
+    "5405": {
+        "「ガキに　付き合ってるヒマはねえ。\n　行こうぜ　<pc>。": "Je n'ai pas de temps a perdre avec des gamins.\nAllons-y, <pc>."
     },
-    "7325": {
-        "「ルベカ　泣いちゃったかな？\n　やれやれ……。": "Est-ce que Rubeka a pleure ? Ah la la..."
+    "5406": {
+        "「おいおい……。": "Oh la la..."
     },
-    "7326": {
-        "「それじゃ　<pc>　元気でね！\n　いってらっしゃいっ。": "Alors, <pc>, prends soin de toi ! Bon\nvoyage."
+    "5407": {
+        "「どうしても行くんなら\n　私も　連れていって！！": "Si tu insistes pour y aller, emmene-moi avec\ntoi !"
     },
-    "7327": {
-        "「相変わらずだな　あいつらは。": "Ils n'ont pas change, ces types-la."
+    "5408": {
+        "「あー　うぜえ！\n　わかったよ　連れてってやるよ！！": "Ah, tu m'enerves ! D'accord, je vais t'emmener\n!!"
     },
-    "7328": {
-        "「よう　<pc>。\n　オレも　村を出ることにしたぜ。": "Salut, <pc>. Moi aussi, j'ai decide de\nquitter le village."
+    "5409": {
+        "「ほっといて　こっそり　後から\n　ついてこられたりしちゃ　かなわねえ。": "Je ne veux pas que tu me laisses tranquille\npour ensuite me suivre en douce."
     },
-    "7329": {
-        "「一人前の証なんか　もういらねえ。\n　オレは　オレ自身のチカラで\n　デカい町で　のしあがってやる。": "Je n'ai plus besoin de prouver ma valeur. Je\nvais m'elever par mes propres forces dans une\ngrande ville."
+    "5410": {
+        "「<pc>。やっぱ　別行動にさせてくれ。\n　荷物が　増えちまったからな。": "<pc>. Je vais prendre une autre route.\nJ'ai trop de bagages maintenant."
     },
-    "7330": {
-        "「お前とは　いつか　どこかで\n　会うこともあるだろうさ。": "On se rencontrera peut-etre quelque part, un\njour."
+    "5411": {
+        "「オレは　このガキを見張りながら連れていく。\n　お前は　チビネコのほうを頼む。": "Je vais emmener ce gamin tout en le\nsurveillant. Toi, occupe-toi du petit chat."
     },
-    "7331": {
-        "「もしかしたら　会っても気づかねえほど\n　お互い　変わっているかもしれないがな。": "Peut-etre que meme si nous nous rencontrions,\nnous ne nous reconnaitrions pas tant nous\navons change."
+    "5412": {
+        "<pc>は　ヒューザから\n子ネコ（だいじなもの）を　受け取った！　<me 60>": "<pc> a recu le Kitten (objet cle) de\nHyuza ! <me 60>"
     },
-    "7332": {
-        "「じゃあな　<pc>！": "A plus tard, <pc> !"
+    "5413": {
+        "「ほら　行くぞ。\n　絶対に　オレから離れるなよ？": "Allez, on y va. Ne t'eloigne surtout pas de\nmoi, d'accord ?"
     },
-    "7335": {
-        "「それじゃ　あっしは　これで。\n　お前さんも　よい旅を～。": "Alors, je m'en vais. Que ton voyage soit\nagreable~."
+    "5414": {
+        "「それじゃ　巨猫の巣とやらで　また会おう。\n　遅れんなよ　<pc>！": "Alors, retrouvons-nous au Cat's Cradle. Ne\nsois pas en retard, <pc> !"
     },
-    "7342": {
-        "<pc>は　慰霊碑に書かれた文字を読んだ。": "<pc> lut les mots inscrits sur le\nmonument commemoratif."
+    "5415": {
+        "「キャット・リベリオよ。\n　わらわの息子　ジュニアは\n　まだ　見つからぬのかえ……。": "Purrgatroyd. Mon fils, Junior, n'a-t-il pas\nencore ete retrouve...?"
     },
-    "7343": {
-        "母なる海に還りし　悲しき花婿に\n永遠の幸せと　安息を与えたまえ。": "Accorde bonheur eternel et repos au triste\nmarie retourne a la mer mere."
+    "5416": {
+        "「ハッ……。申し訳ありませんニャ。": "Haa... Je suis desole, nya."
     },
-    "7344": {
-        "<pc>は　石碑に書かれた文字を読んだ。": "<pc> lut les caracteres inscrits sur la\nstele."
+    "5417": {
+        "「ですが　ウェディどものしわざに決まってます。\n　アヤツらの町の周りを　探らせてますが\n　なかなか　シッポを　つかめませんで。": "Cependant, il est certain que c'est l'oeuvre\ndes Weddie. Nous avons envoye des eclaireurs\nautour de leur ville, mais nous n'arrivons pas<br>a mettre la main sur eux."
     },
-    "7345": {
-        "母なる海に還りし　ひと組の夫婦に\n永遠の幸せと　安息を与えたまえ。": "Puisse l'eternel bonheur et le repos etre\naccordes a ce couple qui retourne a la mer\nmere."
+    "5418": {
+        "「むむっ！？　何者ニャ　キサマは？": "Mumu !? Qui es-tu, kisa-ma ?"
     },
-    "8905": {
-        "「ちっ……。\n　<pc>に　遅れをとるとはな。": "Tch... Je ne peux pas croire que je sois a la\ntraine par rapport a <pc>."
+    "5419": {
+        "「ここが　この猫島を治める女王\n　キャット・マンマーさまの\n　お部屋と知っての　ロウゼキか！？": "Ici se trouve la chambre de la reine qui\ngouverne cette ile aux chats, la majestueuse\nCat Momma-sama !"
     },
-    "8906": {
-        "「ここが　地底湖か……。": "C'est donc ici le lac souterrain..."
+    "5420": {
+        "「マンマーさまは今　ご子息を失って\n　おおいに　心を痛めておられる！\n　お慈悲のあるうちに　立ち去るがいいニャ！": "Maman-sama est actuellement tres peinee par la\nperte de son fils ! Tu ferais mieux de partir\ntant qu'il lui reste un peu de compassion, nya<br>!"
     },
-    "8907": {
-        "<pc>は　地底湖の水を\nガラスの小ビンに　汲んだ！<me 60>": "<pc> a rempli une Petite Bouteille en\nVerre avec l'eau du lac souterrain ! <me 60>"
+    "5421": {
+        "「<cs_pchero>に　先を越されちまったか。\n　こっちの荷物のほうが　重かったってことだな。": "<cs_pchero>, tu m'as devance. Cela signifie\nque notre chargement etait plus lourd."
     },
-    "9190": {
-        "「キーエンブレムは　おぬしのチカラの証。\n　おぬしを導く　まさに　カギとなるはずだ。": "La cle embleme est la preuve de ta force. Elle\ndeviendra certainement la cle qui te guidera."
+    "5422": {
+        "「むむっ　キサマら　ウェディの連中か？\n　カチコミなら　返り討ちにしてやるニャ！": "Mmmh, vous etes des Weddie, hein ? Si c'est\nune intrusion, je vous renverrai chez vous,\ngrrr !"
     },
-    "9584": {
-        "「ほれほれ。": "Hop hop."
+    "5423": {
+        "「あわてんなよ　ブタネコ。\n　オレたちは　届け物に来ただけさ。": "Ne t'affole pas, cochon-chat. On est juste\nvenus livrer quelque chose."
     },
-    "26950": {
-        "「そして　バルチャ老に拾われ\n　いつか　生みの親に会うことを　夢に見ながら\n　フィーヤ孤児院にて　育った。": "Puis il fut recueilli par le vieux Barcher et\ngrandit a l'orphelinat Fiya, revant toujours\nde rencontrer ses parents biologiques."
+    "5424": {
+        "「ブ……ブタネコだとおっ！！\n　キサマら　オレの剣のサビにしてやるニャー！！": "Qu-quoi ?! Un cochon-chat !! Je vais vous\nreduire en pieces avec mon epee, miaou !!"
     },
-    "26951": {
-        "「でさ。花婿である　このボク　アーシクが\n　花嫁のキールに贈る　貝がらを\n　一緒に探してくれるって約束　覚えてる？　": "Alors, tu te souviens de la promesse que tu\nm'as faite d'aider ce futur marie, moi,\nAashik, a chercher les coquillages que je veux<br>offrir a ma future epouse, Keel ?"
+    "5425": {
+        "「待つがよい　キャット・リベリオ……。": "Patiente un peu, Purrgatroyd..."
     },
-    "26952": {
-        "「ゆえに　この慰霊碑が建てられた。\n　その若者の魂を　鎮めるためにな……。": "Ainsi, ce monument commemoratif a ete erige.\nPour apaiser l'ame de ce jeune homme..."
+    "5426": {
+        "「ハッ。キャット・マンマーさま。\n　しかし　コヤツらは……。": "Haha. Cat Momma-sama. Cependant, ces types\nsont..."
     },
-    "26953": {
-        "「シェルナーとして活躍し　一人前と認められれば\n　おぬしは　この村を離れて\n　両親を探す旅に　出ることができよう。": "Si tu fais tes preuves en tant que Coquillier\net que l'on te reconnait comme accompli.<br>Tu pourras quitter le village pour retrouver\ntes parents."
+    "5427": {
+        "「……待てと言った。": "... J'ai dit d'attendre."
     },
-    "26954": {
-        "「そうすれば　小さな滝へ　たどり着く。\n　その左側にある　レーナム緑野へ\n　つながる道を越えたら　すぐ右側を見ろ。": "Ainsi, vous arriverez a une petite cascade.\nEnsuite, apres avoir traverse le chemin menant\na la gauche vers les champs de Lenam, regardez<br>immediatement sur votre droite."
+    "5428": {
+        "「ハハッ……。": "Haha..."
     },
-    "26955": {
-        "「そこに建っているのが　祈りの宿だ。\n　レーナム緑野の魔物は　村の周りより強いから\n　準備をしっかりと　していくのだぞ。": "L'auberge de la priere se dresse la-bas. Les\nmonstres de Lenam Fields sont plus puissants\nque ceux autour du village, alors prepare-toi<br>bien avant de partir."
+    "5429": {
+        "「ちっ……。": "Tch..."
     },
-    "26956": {
-        "「すぐに　戦いの準備をして　慰霊の浜へ！\n　なにとぞ　キールさんをお救いください！！": "S'il vous plait, preparez-vous rapidement au\ncombat et rendez-vous a la Plage de la\nReconciliation ! Je vous en prie, sauvez M.<br>Keel !!"
+    "5430": {
+        "「そなたたち　何用で　ここに来たのかえ？": "Que venez-vous faire ici ?"
     },
-    "26957": {
-        "「アーシク　すまん……。\n　一緒に　連れてくるべきじゃなかった。\n　お前だけでも　逃げてくれ！": "Aashik, desole... Je n'aurais pas du t'emmener\navec moi. Fuis, meme si c'est seul !"
+    "5431": {
+        "「オレたちは　あんたらのお仲間を\n　返しにきてやったんだ。": "Nous sommes venus vous rendre votre compagnon."
     },
-    "26958": {
-        "「……ようやく　目が覚めた。\n　ぼくは　あなたを　むりやり\n　自分の花嫁に　しようとしていたのか……。": "Tu t'es enfin reveillee. Je t'ai forcee a\ndevenir ma mariee, n'est-ce pas...?"
+    "5432": {
+        "「おい　<cs_pchero>。\n　あのチビネコを　このデカネコに見せてやれよ。": "He, <cs_pchero>. Montre ce petit chaton a ce\ngros chat."
     },
-    "26959": {
-        "「手がかりは　ふたつ……。\n　かすかに記憶にあった　大きな城の姿と\n　両親が　何かの研究者であるらしいこと……。": "Les indices sont au nombre de deux... La\nsilhouette imposante d'un grand chateau,\nvaguement presente dans ma memoire, et le fait<br>que mes parents semblent etre des chercheurs\nen quelque chose..."
+    "5433": {
+        "キャット・マンマーに　子ネコを　見せますか？<yesno><close>": "Voulez-vous montrer le chaton a Cat Momma ?\n<yesno><close>"
     },
-    "26972": {
-        "「なんだ？　何かが来る……。": "Qu'est-ce que c'est ? Quelque chose arrive..."
+    "5434": {
+        "「おいおい　<cs_pchero>！\n　なんのために　ここまで来たと思ってんだよ。": "He, <cs_pchero> ! Tu crois qu'on est venus\njusqu'ici pour quoi ?"
     },
-    "29419": {
-        "<pc>は　キールに\nキレイな貝がらを　渡した！": "<pc> a donne la Belle Coquille a Keel !"
+    "5435": {
+        "「オレは　さっさと帰りてえんだ。\n　このデカネコに　チビネコを見せてやれって！": "Je veux rentrer vite. Il faut montrer le petit\nchat a ce gros chat !"
     },
-    "39120": {
-        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "Zoomstone est une pierre magique qui vous\npermet de vous deplacer instantanement vers\nl'endroit memorise. Elle ne disparait pas, peu<br>importe le nombre de fois ou vous l'utilisez."
+    "5436": {
+        "キャット・マンマーに　子ネコを　見せますか？<yesno><close>": "Voulez-vous montrer le chaton a Cat Momma ?\n<yesno><close>"
     },
-    "39121": {
-        "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Cette Pierre de Zoom n'a pas encore enregistre\nd'emplacement. Les lieux de deplacement\npeuvent etre enregistres a l'Eglise."
+    "5437": {
+        "<cs_pchero>は　キャット・マンマーに\n子ネコを　見せた。": "<cs_pchero> a montre le Kitten a Cat Momma."
     },
-    "50796": {
-        "「だが　その道は　ひとりでは遠く　けわしい。\n　サポート仲間という協力者を　３人ほど\n　おぬしの旅に　同行するようにしておいた。": "Cependant, ce chemin est long et ardu en\nsolitaire. J'ai arrange pour que trois\ncompagnons de soutien t'accompagnent dans ton<br>voyage."
+    "5438": {
+        "「な……なにぃ！？　そ……それは！？": "Qu... Quoi !? Ce... c'est...!?"
     },
-    "50797": {
-        "「ジュレットの町まで着けば　酒場で\n　新しいサポート仲間を　紹介してもらえる。\n　自由に選んで　連れていけるようになるからな。": "Une fois que tu arrives a Julet, tu pourras te\nrendre a la taverne pour te faire presenter de\nnouveaux compagnons de soutien. Tu seras libre<br>de les choisir et de les emmener avec toi."
+    "5439": {
+        "「おお　おお……。\n　その目。その顔。その愛らしさ。\n　見まごうはずもない……。": "Oh, oh... Ces yeux. Ce visage. Cette\nadorabilite. Il n'y a aucun doute..."
+    },
+    "5440": {
+        "「まさに　わらわの息子　ジュニア。\n　よくぞ……よくぞ　生きていてくれた！": "Tu es vraiment mon fils, Junior. Je suis\ntellement... tellement heureux que tu sois en\nvie !"
+    },
+    "5441": {
+        "「さあ　ジュニアを　我が元に！": "Allez, apporte Junior a moi !"
+    },
+    "5442": {
+        "「返してやれよ　<cs_pchero>。": "Rends-le, <cs_pchero>."
+    },
+    "5443": {
+        "「ちょっと　待ったニャア！！": "Attendez une seconde, miaou !!"
+    },
+    "5444": {
+        "「キサマら　なんてことをしてくれるニャ！\n　オレさまの計画を　水のアワにする気か！？": "Espece de vauriens, qu'avez-vous fait ?! Vous\nvoulez reduire mon plan a neant ?!"
+    },
+    "5445": {
+        "「……計画とな？": "...Un plan, dis-tu ?"
+    },
+    "5446": {
+        "「はっ　しまったニャ！": "Ah, mince alors !"
+    },
+    "5447": {
+        "「ええい！　バレちまったら　しかたない。\n　こうなったら　ぜーんぶ　バラしてやるニャ。": "Eh bien ! Puisque c'est decouvert, je n'ai pas\nle choix. Dans ce cas, je vais tout reveler,\nnya !"
+    },
+    "5448": {
+        "「くっくっく……計画ってのはな。\n　まずは　アンタのジュニアを　海に流して\n　亡き者とすることニャ……。": "Ku ku ku... Le plan, vois-tu. D'abord, il\ns'agit de faire en sorte que ton junior\ndisparaisse dans la mer..."
+    },
+    "5449": {
+        "「そして　気落ちしたアンタを　ほうむりゃ\n　次のボスの座は　めでたく　このオレさまに\n　まわってくるのニャッ！！": "Et une fois que tu seras abattu et enterre, le\nposte de prochain boss me reviendra\njoyeusement, a moi, l'incomparable !!"
+    },
+    "5450": {
+        "「リベリオ……。そなた　なんということを！": "RibeLeo... Que viens-tu de faire !"
+    },
+    "5451": {
+        "「その計画も　キサマらのせいで　失敗ニャ。\n　こうなったら　チカラ押しあるのみ！": "Ce plan a echoue a cause de vous. Dans ce cas,\nil ne reste plus qu'a utiliser la force !"
+    },
+    "5452": {
+        "「まずは　キサマらからだ。\n　ジュニアとマンマーの始末は　その後ニャ！": "D'abord, ce sera vous, vermines. Je\nm'occuperai de Junior et de Manma ensuite,\nmiaou !"
+    },
+    "5453": {
+        "「こいつは　やべえぞ　<cs_pchero>。\n　チビネコを　こっちに寄こせ。": "Celui-la est dangereux, <cs_pchero>. Envoie le\npetit chat par ici."
+    },
+    "5454": {
+        "<cs_pchero>は　ヒューザに\n子ネコを　取り上げられた！": "<cs_pchero> s'est fait prendre son Kitten par\nHyuza !"
+    },
+    "5455": {
+        "「オレは　チビネコとソーミャを守る。\n　ブタネコの相手は　お前に　まかせたぜ！": "Je vais proteger Chibineko et Saumya. Je te\nlaisse t'occuper du chat-goret !"
+    },
+    "5456": {
+        "「うおお　ブタネコって言うニャ～～～。\n　血祭りに　あげてやるニャ～～～！！": "Oooh, je suis un chat-cochon, nya~~. Je vais\nt'offrir en sacrifice sanglant, nya~~!!"
+    },
+    "5457": {
+        "「<cs_pchero>　遅いぜ！": "<cs_pchero> T'es en retard !"
+    },
+    "5458": {
+        "「むむっ　キサマ……。\n　やっつけたと思ったら　まだ生きてたか。": "Mumu, espece de... Je pensais t'avoir vaincu,\nmais tu es encore en vie."
+    },
+    "5459": {
+        "「残念だったな　ブタネコ。": "Dommage pour toi, cochon-chat."
+    },
+    "5460": {
+        "「<cs_pchero>　こいつの相手を頼むぜ。\n　子守りしながらじゃ　まともに戦えねえんだ。": "<cs_pchero> Je compte sur toi pour t'occuper\nde celui-la. Je ne peux pas me battre\ncorrectement tout en gardant un oeil sur lui."
+    },
+    "5461": {
+        "「ふん　負け惜しみにしか　聞こえんニャ。\n　どのみち　キサマらも　ジュニアも\n　マンマーも……": "Hmph, ca ne sonne que comme une excuse\npathetique. De toute facon, vous tous, Junior,\net Manma aussi..."
+    },
+    "5462": {
+        "「みーんな　オレさまが　ブッ倒してやる。\n　カクゴするニャ～～～～！！": "Je vais tous vous ecraser. Je vais vous\nKaku-go～～～～!!"
+    },
+    "5463": {
+        "「ぐむむむ……。キサマのようなヤツに\n　このオレさまが　負けるとは……。": "Gumumumu... Que moi, le grand moi-meme, perde\nface a un type comme toi..."
+    },
+    "5464": {
+        "「こうなったら　ジュニアだけでも\n　道連れに　してくれるニャ！": "Dans ce cas, je vais t'emmener avec moi,\nJunior !"
+    },
+    "5465": {
+        "「きゃあああっ！": "Kyaaa !"
+    },
+    "5466": {
+        "「ぐうっ……キサマ……。": "Guh... Toi..."
+    },
+    "5467": {
+        "「あんた……。スジが通ってねえな！": "Toi... Tu n'as aucune logique !"
+    },
+    "5468": {
+        "「ぐはあっ！": "Guhah !"
+    },
+    "5469": {
+        "「……ネコを殺しちゃいけねえってな。\n　死んだ　じいさんと　約束してるんだ。": "...Je ne dois pas tuer un chat, tu sais. J'ai\npromis a mon grand-pere decede."
+    },
+    "5470": {
+        "「今すぐ　ここから消えな……。": "Eloigne-toi d'ici immediatement..."
+    },
+    "5471": {
+        "「ひ……ひぃぃぃ！": "Hi... hiii !"
+    },
+    "5472": {
+        "「ほら。お前の出番だぜ。": "Allez. C'est ton tour."
+    },
+    "5473": {
+        "「でも　ヒューザ兄ちゃん……。\n　この子は　私の……。私の家族……。": "Mais, Hyuza-niichan... Cet enfant est mon...\nma famille..."
+    },
+    "5474": {
+        "「親がいない　さびしさは\n　お前が　いちばん　よく知ってるはずだろ？": "Tu connais mieux que quiconque la solitude\nd'etre sans parents, n'est-ce pas ?"
+    },
+    "5475": {
+        "「そんなこと！": "Une telle chose !"
+    },
+    "5476": {
+        "「幼き　ウェディの者よ。\n　そなたが　わらわのジュニアの命を\n　救ってくれたのかえ？": "O jeune Weddie, est-ce toi qui as sauve la vie\nde mon Junior ?"
+    },
+    "5477": {
+        "「この子は　町の港に流れ着いてました。\n　私　この子は捨てられたんだって思って……。": "Cette enfant a ete retrouvee echouee au port\nde la ville. Je pensais qu'elle avait ete\nabandonnee..."
+    },
+    "5478": {
+        "「私の家族にするつもりだったの……。\n　ごめんなさい……。": "Je comptais te faire rejoindre ma famille...\nJe suis desolee..."
+    },
+    "5479": {
+        "「あやまらなくてよい。すべては\n　わらわの愚かな配下が　しでかしたこと。\n　そなたに　落ち度はない。": "Il n'est pas necessaire de t'excuser. Tout\ncela est du aux actions insensees de mes\nsubordonnes. Tu n'as commis aucune faute."
+    },
+    "5480": {
+        "「そなたはジュニアに　わらわと変わらぬ愛を\n　捧げてくれたのであろう？\n　ならば　わらわは礼を言わねばならぬ。": "Tu as offert a Junior un amour aussi grand que\ncelui que tu as pour moi, n'est-ce pas ? Dans\nce cas, je dois te remercier."
+    },
+    "5481": {
+        "「この子を……返します。": "Je vous rends cet enfant..."
+    },
+    "5482": {
+        "「おお……ありがとう。\n　わらわの息子……もう　離さぬぞえ。": "Oh... Merci. Mon fils... Je ne te laisserai\nplus partir."
+    },
+    "5483": {
+        "「…………。": "."
+    },
+    "5484": {
+        "「そなたらにも　礼を言おう。\n　よくぞ　ジュニアを届けてくれた。": "Je tiens egalement a vous remercier. Vous avez\nbien fait d'amener Junior jusqu'ici."
+    },
+    "5485": {
+        "「そなたらのおかげで　リベリオの暴挙も\n　止めることが　できたのだからな。": "Grace a vous, nous avons pu mettre fin aux\nactions violentes de LibeLeo."
+    },
+    "5486": {
+        "「時に　そなたは　ヒューザと言ったな。": "Parfois, tu as dit que tu t'appelais Hyuza,\nn'est-ce pas ?"
+    },
+    "5487": {
+        "「……なんだよ？": "...Qu'est-ce qu'il y a ?"
+    },
+    "5488": {
+        "「わらわもな。先代と約束したのだ。\n　ウェディの者を殺してはならぬ……とな。": "Moi aussi, j'ai fait cette promesse au\nprecedent chef. Je ne dois pas tuer les\nWeddie... Voila ce qui a ete convenu."
+    },
+    "5489": {
+        "「遠い時代……。我ら巨猫族の勇士と\n　ウェディ族の勇士が　手を取り合い\n　巨大な悪と　戦ったことがあるらしい。": "Il y a fort longtemps... Il parait que nos\nvaleureux guerriers de la tribu des Grands\nChats ont uni leurs forces avec les courageux<br>de la tribu Weddie pour combattre un mal\nimmense."
+    },
+    "5490": {
+        "「ふん。そんな話にゃ　興味ないな。": "Hum. Ce genre d'histoire ne m'interesse pas."
+    },
+    "5491": {
+        "「そうか。だが　わらわも\n　その約束は　守ろうと思っているのだ。": "Je vois. Cependant, je compte bien tenir cette\npromesse moi aussi."
+    },
+    "5492": {
+        "「とはいえ　わらわの意にそわぬ者もいるだろう。\n　そなたらに　敵意を向けるやもしれぬが\n　そのような者は　好きにして　かまわぬぞ。": "Cependant, il est probable qu'il y ait ceux\nqui ne se plient pas a ma volonte. Ils\npourraient vous montrer de l'hostilite, mais<br>vous pouvez les traiter comme bon vous semble."
+    },
+    "5493": {
+        "「用は終わったし　帰るとしようぜ。\n　町長に　報告に行かねえとな。": "Nous avons termine ce que nous avions a faire,\nalors rentrons. Nous devons aller faire notre\nrapport au maire."
+    },
+    "5494": {
+        "「……うん。": "... Oui."
+    },
+    "5495": {
+        "「別れってのは　サッパリやるもんだ。\n　ほら　行くぜ！": "Les adieux, ca doit etre fait avec entrain.\nAllez, on y va !"
+    },
+    "5496": {
+        "「さようなら　私の……。\n　ううん　さようなら　ジュニアちゃん！": "Adieu, mon... Non, adieu, Junior-chan !"
+    },
+    "5497": {
+        "「おお　<pc>君。\n　話はヒューザ君から　先に聞かせてもらったぞ。": "Oh, <pc>-kun. J'ai deja entendu\nl'histoire de Hyuza-kun."
+    },
+    "5498": {
+        "「無事に　子ネコを親ネコに\n　返すことが　できたそうではないか！": "Il parait que tu as reussi a rendre le chaton\na sa mere, n'est-ce pas !"
+    },
+    "5499": {
+        "「町の周りをうろついていた　ネコの魔物も\n　すっかり　姿が見えなくなってな。\n　これで町の者も　ひと安心というところだ。": "Les creatures felines qui rodaient autour de\nla ville ont completement disparu. Les\nhabitants peuvent enfin etre rassures."
+    },
+    "5500": {
+        "「カンちがいすんなよ　町長。": "Ne te meprends pas, maire."
+    },
+    "5501": {
+        "「もう　あのチビネコを探して\n　この町に　来ることはないだろうが\n　あいつらは　しょせん　魔物なんだぜ。": "Je ne reviendrai probablement plus dans cette\nville pour chercher ce petit chaton, mais\napres tout, ce sont des monstres."
+    },
+    "5502": {
+        "「確かにな。だが　町の周りから\n　ネコの魔物が　いなくなっただけでも\n　私には　ありがたいのだよ。": "C'est vrai. Mais rien que le fait que les\nmonstres-chats aient disparu autour de la\nville est deja une benediction pour moi."
+    },
+    "5503": {
+        "「このジュレットに住む者に　安心を与えるのが\n　町長たる　私の役目なのだからな。": "C'est mon role, en tant que maire, de donner\nun sentiment de securite aux habitants de\nJuretto."
+    },
+    "5504": {
+        "「ふーん　そりゃ　ご立派なことで。": "Hmm, c'est vraiment impressionnant."
+    },
+    "5505": {
+        "「君たちの　はたらきは　じつに見事だった。\n　まさに　我が町のキーエンブレムを\n　与えるに　ふさわしい。": "Votre travail a ete vraiment remarquable. Il\nest tout a fait approprie de vous decerner\nl'embleme cle de notre ville."
+    },
+    "5506": {
+        "「さあ　この青のキーエンブレムを\n　受け取るがいい！": "Tiens, prends ce Blue Key Emblem !"
+    },
+    "5507": {
+        "<pc>は\n青のキーエンブレム（だいじなもの）を\n受け取った！<me 72>": "<pc> a recu l'embleme cle bleue (objets\ncles) ! <me 72>"
+    },
+    "5508": {
+        "「もちろん　君にもだ。\n　さあ　受け取ってくれ　ヒューザ君。": "Bien sur, c'est aussi pour toi. Allez,\nprends-le, Hyuza-kun."
+    },
+    "5509": {
+        "「いらねえ。": "Je n'en ai pas besoin."
+    },
+    "5510": {
+        "「なに？　しかし　このキーエンブレムがあれば\n　他の国でも　信頼を得やすい。\n　持っていて　損はないと思うが……。": "Quoi ? Cependant, avec cet embleme-cle, il\nsera plus facile de gagner la confiance dans\nd'autres pays. Je pense qu'il n'y a aucun mal<br>a le garder..."
+    },
+    "5511": {
+        "「オレは　そんなもんには　頼らない。\n　自分のチカラで　人に認めさせてやる。　\n　レーンの村を出たとき　そう決めたんだ。": "Je ne compte pas sur ce genre de choses. Je\nvais me faire reconnaitre par mes propres\nforces. J'ai pris cette decision en quittant<br>le village de Lain."
+    },
+    "5512": {
+        "「そうか……。ならば　無理にとは言わない。\n　君の好きに　すればいい。": "Je vois... Dans ce cas, je ne vais pas te\nforcer. Fais comme tu veux."
+    },
+    "5513": {
+        "「<pc>　付き合ってくれて　ありがとよ。\n　オレは　ちょっと寄るとこがあるから\n　先に行くぜ。": "Merci d'avoir passe du temps avec moi,\n<pc>. Je dois m'arreter quelque part,\nalors je vais y aller en premier."
+    },
+    "5514": {
+        "「……変わった男だな　彼は。": "Il est vraiment un homme etrange, lui."
+    },
+    "5515": {
+        "「君もまた　旅を続けるのだろう？": "Toi aussi, tu vas poursuivre ton voyage,\nn'est-ce pas ?"
+    },
+    "5516": {
+        "「近くに来たなら　この町に立ち寄ってくれ。\n　では　道中　気をつけてな。": "Si tu es dans les parages, n'hesite pas a\nt'arreter dans cette ville. Prends soin de toi\nen chemin."
+    },
+    "5517": {
+        "「…………。": "."
+    },
+    "5518": {
+        "「お前は　自分に親がいねえのが\n　さびしいからって　あのチビネコを\n　ずっと　手元に置こうとしてたよな。": "Tu voulais garder ce petit chat pres de toi\nparce que tu etais triste de ne pas avoir de\nparents, n'est-ce pas ?"
+    },
+    "5519": {
+        "「今でも　そうしたいと思うか？": "Penses-tu encore vouloir faire cela maintenant\n?"
+    },
+    "5520": {
+        "「…………。": "."
+    },
+    "5521": {
+        "「ううん　もう思わない。": "Non, je ne le pense plus."
+    },
+    "5522": {
+        "「頼れる相手がいるヤツは　そいつに頼ればいい。\n　だが　いないヤツは……": "Ceux qui ont quelqu'un sur qui compter\ndevraient s'appuyer sur eux. Mais ceux qui\nn'ont personne..."
+    },
+    "5523": {
+        "「自分が　強くなるしかねえんだ。\n　誰にも頼らずに　生きていけるようにな。": "Je dois simplement devenir plus fort. Je dois\napprendre a vivre sans dependre de personne."
+    },
+    "5524": {
+        "「オレは　今まで　そうしてきた。\n　これからも　そうやって生きていくつもりだ。": "J'ai toujours vecu ainsi jusqu'a present. Je\ncompte continuer a vivre de cette maniere."
+    },
+    "5525": {
+        "「うん……そうだね。": "Oui... c'est vrai."
+    },
+    "5526": {
+        "「別に　お前に　そうしろって\n　言ってるわけじゃねえよ。カンちがいすんな。": "Ce n'est pas comme si je te disais de faire\nca. Ne te meprends pas."
+    },
+    "5527": {
+        "「うん！": "Oui !"
+    },
+    "5528": {
+        "「うおっ　<pc>！\n　いつから　見てた！？": "Ouah, <pc> ! Depuis quand tu regardes ?!"
+    },
+    "5529": {
+        "「ちっ……。変なとこを見られちまったな。\n　さっさと旅の続きに　戻るとしよう。": "Tch... Tu as vu quelque chose d'embarrassant.\nBon, retournons vite a notre voyage."
+    },
+    "5530": {
+        "「この世界は　広いからな。\n　次に会えるのは　いつになるか\n　わかったもんじゃねえ。": "Ce monde est vaste, tu sais. On ne sait pas\nquand on se reverra."
+    },
+    "5531": {
+        "「そっちも元気に　やってくれ。\n　まあ　殺しても死なねえ　お前なら\n　どこに行っても　平気だろうがな。": "Prends bien soin de toi la-bas. Enfin, meme si\non te tuait, tu ne mourrais pas, donc peu\nimporte ou tu vas, ca ira, n'est-ce pas ?"
+    },
+    "5532": {
+        "「それじゃ　あばよ　<pc>！": "Alors, adieu, <pc> !"
+    },
+    "5533": {
+        "「元気でね　ヒューザ兄ちゃん！！": "Prends soin de toi, grand frere Hyuza !!"
+    },
+    "5534": {
+        "「……兄ちゃんは　やめろ。": "Arrete de m'appeler grand frere."
+    },
+    "5535": {
+        "「うん！！": "Oui !!"
+    },
+    "5536": {
+        "「私は　ヒューザ兄ちゃんみたいには\n　なれないかもしれないけど……。": "Je ne deviendrai peut-etre jamais comme mon\ngrand frere Hyuza, mais..."
+    },
+    "5537": {
+        "「ひとりでも　生きていけるように\n　がんばってみるよ。": "Je vais essayer de vivre par moi-meme."
+    },
+    "5538": {
+        "「それで　大きくなって　いつか\n　猫島にいる　あの子に会いにいくんだ。\n　お友達になってもらいに！": "Et puis, quand je serai grand, un jour j'irai\nrendre visite a cet enfant sur Cat Island.\nPour devenir amis !"
+    },
+    "5539": {
+        "「<pc>さんも　いろいろ　ありがとう。\n　私は　もう　だいじょうぶだから！": "<pc>-san, merci pour tout. Je vais bien\nmaintenant !"
+    },
+    "7252": {
+        "「むむう……。": "Hmm..."
+    },
+    "29999": {
+        "<pc>は　キンナー調査員に\n結晶牙を　渡した。": "<pc> a remis le Crystal Fang a Detective\nKinner."
+    },
+    "30000": {
+        "「結晶牙は　確かに　いただきました。": "Crystal Fang a bien ete recupere."
+    },
+    "39018": {
+        "「みゃうう……。": "Miaouu..."
+    },
+    "39019": {
+        "「いっ　今のは　なんでもないよっ。\n　そうだよ！　気のせいだよ！！": "Rien, rien du tout ! C'etait rien du tout.\nOui, c'est ca ! C'etait juste ton imagination\n!!"
+    },
+    "39020": {
+        "「その　さびしさを知ってる　お前が\n　その子を親から　引き離したままにするのか？": "Toi qui connais cette solitude, vas-tu\nvraiment laisser cet enfant separe de ses\nparents ?"
+    },
+    "130614": {
+        "「あらっ。あんた　旅の人だね。\n　ちょっと　あたしの頼みを\n　聞いてくれないかい？": "Ah, tiens. Tu es un voyageur, n'est-ce pas ?\nPourrais-tu ecouter ma demande ?"
+    },
+    "130615": {
+        "「町の北にさ。ソーミャって　女の子が\n　ひとりで　住んでいるんだけど\n　最近　様子が　おかしいのよね。": "Au nord de la ville, il y a une fille nommee\nSaumya qui vit seule. Mais dernierement, son\ncomportement est etrange."
+    },
+    "130616": {
+        "「私が行くと　角が立つから　あんたに\n　家まで　様子を　見にいってほしいのよ。\n　何もなければ　それでいいからさ。": "Si j'y vais, cela risque de creer des\ntensions, alors j'aimerais que tu ailles voir\ncomment ca se passe chez eux. Si tout est en<br>ordre, tant mieux."
     }
 }
