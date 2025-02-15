@@ -1,80 +1,56 @@
 {
-    "15522": {
-        "「これがあれば　清めの儀式ができる。\n　正式な儀式など　もう何年ぶりになるだろうな。": "Avec ceci, nous pourrons accomplir le rituel\nde purification. Cela fait combien d'annees\ndepuis notre dernier rituel officiel."
+    "15771": {
+        "「た　た　た　大変ですっ！\n　チグリ大臣！": "Ta-ta-ta... c'est une catastrophe ! Ministre\nChigri !"
     },
-    "15523": {
-        "「では　わしは　さっそく\n　村の武闘場へ　行くとしよう。\n　<pc>も　後で　見にくるといい。": "Alors, je vais immediatement me rendre a\nl'Arene du Village. <pc>, tu devrais\nvenir jeter un oeil plus tard."
+    "15772": {
+        "「どうしたのじゃ？　そんなにあわてて……。\n　落ち着いて　報告せよ。": "Que se passe-t-il ? Pourquoi toute cette\nprecipitation... ? Calme-toi et fais ton\nrapport."
     },
-    "15524": {
-        "「これを逃すと　次にやるのが　いつになるか\n　わからんからな。ガハハ！": "Si je rate cette occasion, je ne sais pas\nquand j'aurai la prochaine. Gahaha !"
+    "15773": {
+        "「じ　じつは　宝物庫に置かれていた\n　レムルの聖杯が　奪われてしまったのです！": "En fait, le Calice de Lemur qui etait place\ndans le Tresor a ete vole !"
     },
-    "15525": {
-        "「この場所で　我らを見守る　戦いの神よ……。\n　今日の勝者に　さらなる強者との出会いを。\n　敗者には　ふたたび戦いに向かう勇気を。": "O dieu de la guerre qui veille sur nous en ce\nlieu... Accorde au vainqueur d'aujourd'hui la\nrencontre avec des adversaires encore plus<br>puissants. Et au perdant, le courage de\nretourner au combat."
+    "15774": {
+        "「な　なんとっ！\n　もう　魔物が押し入ってきたのか！？\n　ええい　兵士たちは　何をしておったのじゃ？": "Qu... Quoi ! Les monstres ont deja reussi a\npenetrer ici !? Mais que faisaient les soldats\n?"
     },
-    "15526": {
-        "「そして　その両者に\n　死を恐れず　勇ましく　戦い抜いたことへの\n　惜しみなき　賛辞を与えたまえ……。": "Et a ces deux, qui ont combattu courageusement\nsans craindre la mort, accordez des louanges\nsans reserve..."
+    "15775": {
+        "「魔物……？　なんのことですか？\n　レムルの聖杯を　持ち去ったのは\n　エイドスさまなのですが……。": "Les monstres... ? De quoi parlez-vous ? C'est\nEidos-sama qui a emporte le Calice de Lemur..."
     },
-    "15527": {
-        "「これで　清めの儀式は終わりだ。": "Avec ceci, le rituel de purification est\ntermine."
+    "15776": {
+        "「は……？　エイドスさまじゃと？　\n　なんで　ここで　エイドスさまが出てくる？": "Quoi...? L'eminent Eidos-sama ? Pourquoi\nest-ce qu'Eidos-sama apparait ici ?"
     },
-    "15528": {
-        "「すっげー！\n　いつもは　お祈りだけの　短いやつだから\n　こんな本格的なの　はじめて見たー！": "Incroyable ! D'habitude, ce ne sont que de\ncourtes prieres, alors c'est la premiere fois\nque je vois quelque chose d'aussi elabore !"
+    "15777": {
+        "「やれやれ　騒々しいのう……。": "Eh bien, quel vacarme..."
     },
-    "15529": {
-        "「戦いの前に　毎回　これをやるのが本当なのだ。\n　最近は　すっかり略式ばかりになっているがな。": "C'est ainsi qu'il faut proceder avant chaque\ncombat. Recemment, on a pris l'habitude de\ntout simplifier."
+    "15778": {
+        "「こ　これは　エイドスさまっ！\n　エイドスさまが　レムルの聖杯を奪ったという話\n　まさか　事実では　ありませんよなっ！？": "Co... c'est Eidos-sama ! Vous n'allez pas me\ndire que l'histoire selon laquelle Eidos-sama\naurait vole le Calice de Lemur est vraie,<br>n'est-ce pas !?"
     },
-    "15530": {
-        "「ねえねえ　そんおー！\n　お塩を　ブワワワアってするのは　どうして？": "He, he, Son-O ! Pourquoi tu repands autant de\nsel ?"
+    "15779": {
+        "「……フム。見張りの兵士どもを　押し切って\n　宝物庫から　聖杯を持ち出したのは\n　確かに　この　わしじゃ。": "Hum. C'est bien moi qui ai passe outre les\ngardes et emporte le Saint Graal du Treasury."
     },
-    "15531": {
-        "「この場所で　戦いの果てに死んでいった者たちの\n　魂を鎮めるためだ。……そして　我らを\n　見守ってくれるよう　祈りを込めているのだ。": "Nous faisons cela pour apaiser les ames de\nceux qui sont morts a la fin des combats en ce\nlieu. ...Et nous prions pour qu'ils veillent<br>sur nous."
+    "15780": {
+        "「無論　それなりの理由があってのこと。\n　レムルの聖杯を求める魔物……\n　妖剣士オーレンに　返してやるためじゃよ。": "Bien sur, il y a une raison a cela. Les\nmonstres a la recherche du Calice de Lemur...\nC'est pour le rendre au Maitre d'Epee Oren."
     },
-    "15532": {
-        "「……かつて　神が見守る　この武闘場では\n　毎日のように　想像を絶する\n　激しい死闘が　繰り広げられていた。": "...Autrefois, dans cette arene surveillee par\nles dieux, des combats acharnes et\ninimaginables se deroulaient quotidiennement."
+    "15781": {
+        "「……は？": "...Hein ?"
     },
-    "15533": {
-        "「より強い者を生みだし　さらなる高みを目指す。\n　それが　このランガーオ村の教えだったためだ。": "Creer des etres plus forts et viser des\nsommets encore plus eleves. C'etait\nl'enseignement de ce village de Langao."
+    "15782": {
+        "「聖杯さえ　渡しておけば　アレも\n　ベコン渓谷から　さまよい出てきたりせず\n　おとなしくしておるはずじゃからな。": "Tant que je lui remets le Saint Graal, il ne\ndevrait pas errer hors de Becon Valley et\ndevrait rester tranquille."
     },
-    "15534": {
-        "「そのために……　勝者には　すべてが与えられ\n　敗者は　残酷なまでに　すべてを　うばわれた。\n　それが村のためであると　誰もが信じていた。": "Pour cela... tout etait accorde au vainqueur,\ntandis que le perdant se voyait cruellement\ndepouille de tout. Chacun croyait que c'etait<br>pour le bien du village."
+    "15783": {
+        "「オーレン……それが　ウワサの魔物ですか。\n　<pc>どのの手で　倒されたものと\n　聞いておりましたが……。": "Oren... est-ce le fameux monstre dont on parle\ntant ? J'avais entendu dire qu'il avait ete\nvaincu par <pc>-dono..."
     },
-    "15535": {
-        "「だが　今は…………": "Mais maintenant..."
+    "15784": {
+        "「アレは　妄念に縛られた　哀れな亡者よ。\n　何度　倒したところで　そのたびに\n　よみがえってくる存在じゃ……。": "Ce sont des ames miserables enchainees par des\npensees delirantes. Peu importe combien de\nfois tu les vaincs, elles reviennent toujours<br>a la vie..."
     },
-    "15536": {
-        "「ハイハイハイ！！　オイラ知ってる！": "Hai hai hai !! Je sais !"
+    "15785": {
+        "「とにかく　もともと　この国のものでは\n　ないのだから　惜しがる必要もあるまい。\n　聖杯は　オーレンに　あずけておけ！": "De toute facon, ce n'est pas un objet qui\nappartient a ce pays a l'origine, donc il n'y\na pas de raison de le regretter. Confie le<br>Saint Graal a Oren !"
     },
-    "15537": {
-        "「今は　勝ったほうだけじゃなくて\n　負けたほうにも　ケイイを払うんだよねっ！": "De nos jours, on rend hommage non seulement\naux vainqueurs, mais aussi aux perdants !"
+    "15786": {
+        "「何を　ボサッとしておる？\n　ほれっ！　エイドスさまを　お止めするのじゃ！": "Qu'est-ce que tu fais la a revasser ? Allez !\nArretez Eidos-sama !"
     },
-    "15538": {
-        "「……その通りだ。": "......C'est exact."
+    "15787": {
+        "「お待ちください　エイドスさまっ！": "Veuillez patienter, Eidos-sama !"
     },
-    "15539": {
-        "「死への恐怖に打ち勝ち　勇気を持って\n　戦った両者を　等しく敬え。\n　それが　今の　この村の教えだ。": "Honorez egalement ceux qui ont surmonte la\npeur de la mort et ont combattu avec courage.\nC'est l'enseignement actuel de notre village."
-    },
-    "15540": {
-        "「ランガーオ村の　子供たちよ！\n　さっき見た儀式とともに　その教えを\n　決して忘れずに　強く　大きくなるのだ！": "Enfants du village de Langao ! N'oubliez\njamais l'enseignement que vous venez de voir\nlors du rituel, et devenez forts et grands !"
-    },
-    "15541": {
-        "「<pc>　見ていたか。\n　この村の子供たちは\n　なかなか　たくましいだろう。": "<pc>, as-tu vu ca ? Les enfants de ce\nvillage sont vraiment robustes, n'est-ce pas ?"
-    },
-    "15542": {
-        "「敗者にも　勝者と同じように敬意を払う……。\n　子供たちが　そのことを\n　わかってくれていれば　大丈夫だ。": "Accorder le meme respect aux perdants qu'aux\ngagnants... Tant que les enfants comprennent\ncela, tout ira bien."
-    },
-    "15543": {
-        "「きっと　この村を　正しい未来へと\n　導いてくれるだろう……。": "Je suis sur qu'il guidera ce village vers un\navenir radieux..."
-    },
-    "15544": {
-        "「おっと　いかん。\n　<pc>に　塩を採ってきてもらった\n　礼を　まだ　していなかったな。": "Oh, mince. Je n'ai pas encore remercie\n<pc> pour avoir ramene du sel."
-    },
-    "15545": {
-        "「遅くなって　すまなかったな！\n　さあ　受け取ってくれ！": "Desole pour le retard ! Allez, prends ca !"
-    },
-    "15546": {
-        "「おお　<pc>。\n　村王ならば　村の武闘場で\n　清めの儀式を　おこなっているぞ。": "Oh, <pc>. Le roi du village est en train\nd'accomplir le rituel de purification a\nl'Arene du Village."
-    },
-    "15547": {
-        "「村王は　エゼソルトを　採ってきてくれた\n　<pc>にも　見せたいらしいので\n　ぜひ　行ってみるといい。": "Le roi du village a rapporte de l'Eze Salt. Il\nsemble qu'il souhaite aussi le montrer a\n<pc>, alors tu devrais vraiment aller<br>jeter un coup d'oeil."
+    "15788": {
+        "「いったい　どういうことなんじゃ？\n　エイドスさまは　何を考えておられる……？": "Qu'est-ce que cela signifie donc ? Que pense\nEidos-sama...?"
     }
 }
