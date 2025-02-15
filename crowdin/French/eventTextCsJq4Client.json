@@ -1,74 +1,56 @@
 {
-    "12925": {
-        "<pc>の　持っている\n『超天遊戯－弐の書－』が　光り始めた！": "Le Livre des Enseignements du Choisi 2 que\n<pc> possede commence a briller !"
+    "19349": {
+        "「おや？　これは　精霊どの。": "Oh ? Mais c'est l'esprit dono."
     },
-    "12926": {
-        "白紙だったページに　文字が浮かびあがってくる。\n<pc>は　その文字を読んだ。": "Des lettres commencent a apparaitre sur la\npage blanche. <pc> lit ces lettres."
+    "19350": {
+        "「ちょいと　いいかい　兄さん？\n　さっきから聞いてると　森の怒りを鎮めるのって\n　相棒が　ひとりで　やることになってないか？": "Dis-moi, mon frere ? J'ai l'impression que\ndepuis tout a l'heure, calmer la colere de la\nforet, ca devient une affaire que ton<br>partenaire va devoir gerer tout seul, non ?"
     },
-    "12927": {
-        "見つけられてしもうたか。くやしいのう……。\nまあ　よいわ。見つけた　ほうびに\nきっつい修行を　与えてしんぜよう。": "Ah, tu m'as trouve. Quel dommage... Bon, tres\nbien. En recompense, je vais te donner un\nentrainement severe."
+    "19351": {
+        "「ええ　その通りです。\n　この役目は　<pc>　ひとりに\n　やってもらうことになります。": "Eh bien, c'est exact. Cette tache sera confiee\na <pc> seul."
     },
-    "12928": {
-        "ためるを使って　テンションを上げた状態で\n<%sEV_QUE_NAME0>　<%nEV_QUE_T_NUM0>匹に　とどめをさせ！\nヤツらは　この塔の外　風車の丘にいるぞ。": "Utilise Tameru pour augmenter ta tension et\nacheve <%nEV_QUE_T_NUM0> de <%sEV_QUE_NAME0> !\nCes creatures se trouvent a l'exterieur de<br>cette tour, sur le chemin de Windmill Way."
+    "19352": {
+        "「どういうことだよ！？\n　モリナラのことは　協会全体の問題だろ？\n　全部　相棒に　押しつけてんじゃねーよ！": "Comment ca se fait !? Le probleme de Morinara\nconcerne toute l'association, non ? Ne rejette\npas tout sur ton partenaire !"
     },
-    "12929": {
-        "前にも書いたが　とどめをさしたら\nその戦いから　逃げたり　負けたりせんように。\nちゃーんと　勝たなきゃいかんからな？": "Comme je l'ai deja ecrit, une fois que tu as\nporte le coup de grace, assure-toi de ne pas\nfuir ou perdre ce combat. Tu dois vraiment<br>gagner, d'accord ?"
+    "19353": {
+        "「おっしゃることは　わかります。\n　しかし　こればかりは　<pc>に\n　頼るしかないのですよ。": "Je comprends ce que vous dites. Cependant,\ndans ce cas precis, nous n'avons pas d'autre\nchoix que de nous en remettre a <pc>."
     },
-    "12930": {
-        "「こちらにいたのですか　ヤーン様……。\n　探すのに　骨が折れましたよ。": "Vous etiez ici, Yarn-sama... Cela a ete un\nvrai casse-tete de vous trouver."
+    "19354": {
+        "「今のモリナラ大森林は　危険すぎる。\n　精霊を身に宿す者以外が　入れば\n　犠牲者を　増やすことになるだけでしょう。": "La Foret de Molinara est bien trop dangereuse\nen ce moment. Si quelqu'un d'autre que ceux\nqui portent l'esprit en eux y entre, cela ne<br>fera qu'augmenter le nombre de victimes."
     },
-    "12931": {
-        "「ん～？　言わなかったっけ　オレ。\n　この町で　修行をやるって～。": "Hum~ ? Je ne l'avais pas dit ? Moi. Je vais\nm'entrainer dans cette ville~."
+    "19355": {
+        "「う…ぬ……。": "U... nu..."
     },
-    "12932": {
-        "「この方は　どなたですか？\n　はじめて見る方のようですが……。": "Qui est cette personne ? Il semble que je la\nvois pour la premiere fois..."
+    "19356": {
+        "「ええい　仕方ねえっ！\n　レーノスの野郎や　ユウギリ嬢ちゃんは\n　この手で　救ってやりてーしな。": "Eh bien, tant pis ! Je vais sauver ce Renosu\net la demoiselle Yugiri de mes propres mains,\net les proteger avec ma lance."
     },
-    "12933": {
-        "「この町で知り合った　ダチの　<pc>だ。\n　コイツも武闘家なんで　話が合っちゃってさ～。": "Voici <pc>, un pote que j'ai rencontre\ndans cette ville. Il est aussi un artiste\nmartial, alors on s'entend super bien !"
+    "19357": {
+        "「まあ　心配するこたぁねーよ。\n　オレは　いつでも　相棒といっしょだからな。\n　大船に乗ったつもりで　いてくれよ！": "Ne t'inquiete pas. Je suis toujours avec mon\npartenaire. Tu peux te sentir en securite,\ncomme si tu etais sur un grand bateau !"
     },
-    "12934": {
-        "「ご友人……ですか。そんなものを作るとは\n　ずいぶんと　余裕が　おありのようですね。": "Un ami... vraiment ? Vous semblez avoir\nbeaucoup de temps libre pour vous permettre\ncela."
+    "19358": {
+        "「どうやら　精霊の試練を終えたようですね。\n　では　妖精たちのポルカを　身につけるための\n　最後の仕上げを　行いましょう。": "Il semblerait que vous ayez termine l'epreuve\ndes esprits. Maintenant, procedons a la\nderniere etape pour maitriser la Polka des<br>Fees."
     },
-    "12935": {
-        "「いいじゃねえかよ～　そのくらい。\n　今まで　修行ばっかりで　友だちを\n　作ってるヒマなんか　なかったんだからさ～。": "Ce n'est pas grave, n'est-ce pas ? Jusque-la,\nje n'avais pas le temps de me faire des amis a\ncause de l'entrainement constant."
+    "19359": {
+        "「万物に宿りし　精霊よ。\n　森の使いである　妖精たちのチカラを\n　<pc>に　与えたまえ！": "O esprits qui resident en toute chose,\naccordez le pouvoir des fees, messageres de la\nforet, a <pc> !"
     },
-    "12936": {
-        "「そんな話はいいんだよ。\n　それより　例のモノは\n　持ってきてくれたんだろうな～？": "Ce genre de discussion, ca suffit. Alors, tu\nas apporte ce que je t'avais demande, n'est-ce\npas ?"
+    "19360": {
+        "「どうやら　精霊の試練を終えたようですね。\n　ご苦労様でした。\n　どうぞ　これを　受け取ってください。": "Il semble que vous ayez termine l'epreuve de\nl'esprit. Merci pour vos efforts. Veuillez\naccepter ceci."
     },
-    "12937": {
-        "「ええ。言いつけのとおり\n　超天遊戯の参の書を　お持ちしました。": "Oui. Comme demande, j'ai apporte le troisieme\ntome du Choten Yugi."
+    "19361": {
+        "「これで　森の怒りを鎮めるための準備は\n　ととのいました……。あなたは　すぐに\n　モリナラ支部へ　向かってください。": "Avec cela, les preparatifs pour apaiser la\ncolere de la foret sont termines... Veuillez\nvous rendre immediatement a la branche de<br>Morinara."
     },
-    "12938": {
-        "「お～っ　ありがとよ。参の書は受け取ったぜ。\n　ほら　用が済んだら　さっさと帰った帰った～。": "Oh, merci beaucoup. J'ai bien recu le Livre\nTrois. Allez, maintenant que c'est fait,\nrentre vite chez toi."
+    "19362": {
+        "「おいおい。話が　ちがうじゃねえか。\n　試練が終わったら　森の怒りを鎮める方法を\n　教えるって約束だっただろ？": "He, he. Ce n'est pas ce qui etait prevu. Tu\navais promis de nous apprendre comment apaiser\nla colere de la foret apres que l'epreuve soit<br>terminee, n'est-ce pas ?"
     },
-    "12939": {
-        "「では　私は失礼します。": "Alors, je vais prendre conge."
+    "19363": {
+        "「あせらないでください　精霊どの。\n　すでに　その方法は　ポランパン支部長に\n　伝えてあります。": "Ne vous precipitez pas, esprit-dono. La\nmethode a deja ete transmise au chef de la\nbranche de Poranpan."
     },
-    "12940": {
-        "「ああ～。アイツは　ガウラドっていうんだ。\n　昔っから　オレの世話をしてくれててさ。\n　見た目はゴツいけど　いいヤツなんだぜ～。": "Ahh... Lui, c'est Gaulard. Il s'occupe de moi\ndepuis toujours. Il a l'air costaud, mais\nc'est un bon gars."
+    "19364": {
+        "「……ふーん。だったら　いいや。": "...Hmm. Dans ce cas, c'est bon."
     },
-    "12941": {
-        "「おっと　いけね～。忘れるとこだったぜ～。": "Oups, j'allais oublier."
+    "19365": {
+        "「そんじゃ　相棒。ポランパンのいる\n　モリナラ支部へ　急ぐとしようぜ！": "Alors, partenaire. Allons vite a la branche de\nMorinara ou se trouve Poranpan !"
     },
-    "12942": {
-        "「修行を果たした　ごほうびをあげなきゃな。\n　この装備は　アンタに似合うと思うぜ～。": "Je dois te recompenser pour avoir accompli ton\nentrainement. Je pense que cet equipement te\nconviendra parfaitement~."
-    },
-    "12943": {
-        "「修行を果たした　ごほうびをあげなきゃな。\n　えんりょせずに　受け取ってくれ～。": "Je dois te recompenser pour avoir termine ton\nentrainement. N'hesite pas a accepter, s'il te\nplait~."
-    },
-    "12944": {
-        "「……とまあ～　こうして　参の書も\n　手に入ったわけなんだが～。\n　もちろん　修行を続けるよな　<pc>。": "…Et voila, c'est ainsi que nous avons obtenu\nle Livre Trois. Mais bien sur, tu continueras\nton entrainement, n'est-ce pas, <pc>."
-    },
-    "12945": {
-        "「ざっと見たところ　次の修行も\n　アンタなら　なんとか　なるんじゃないかと\n　思うんだけどな～。": "D'apres ce que j'ai vu, je pense que tu\ndevrais pouvoir t'en sortir pour le prochain\nentrainement."
-    },
-    "12946": {
-        "「すぐにやれとは　言わね～さ。\n　こういうのは　タイミングが重要なんだ。\n　武闘家になるのを忘れずに　後で来てくれよ～！": "Je ne te dis pas de le faire immediatement.\nDans ce genre de situation, le timing du Red\nSnapper est crucial. N'oublie pas de devenir<br>un artiste martial et reviens me voir plus\ntard !"
-    },
-    "12947": {
-        "「もう少し……。もう少しだ。\n　アイツなら　この本の修行も\n　きっと　超えるだろう。": "Un peu plus... Juste un peu plus. Si c'est\nlui, je suis sur qu'il surmontera\nl'entrainement de ce livre."
-    },
-    "12948": {
-        "「そうすれば　オレは……。": "Si je fais ca, alors je..."
+    "19366": {
+        "「<pc>。モリナラの未来と　仲間の命\n　あなたに託します。吉報を　待ってますよ。": "<pc>. Je confie l'avenir de Morinara et\nla vie de mes compagnons a vous. J'attendrai\nde bonnes nouvelles."
     }
 }
