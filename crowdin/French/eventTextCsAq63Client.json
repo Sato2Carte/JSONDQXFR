@@ -1,242 +1,293 @@
 {
-    "20359": {
-        "「おお　<pc>か。\n　オーディスならば　このところ\n　ずっと　自分の部屋に　こもっておるぞ。": "Oh, c'est toi, <pc>. En ce moment,\nOdysse est reste enferme dans sa chambre."
+    "58043": {
+        "「クスクス。もう　終わりなの？\n　ねえ　ザンクローネ<heart>": "Hehe. C'est deja fini ? Dis-moi,\nZankrone<heart>"
     },
-    "20360": {
-        "「オーディスは　夜を徹して\n　王家の古代文字を　学んでいるようなのだ。\n　ラーディス王の石版を　読み解くためにな。": "Odys semble etudier les anciens caracteres\nroyaux toute la nuit. C'est pour dechiffrer la\ntablette du roi Radis."
+    "58044": {
+        "「キャハ<heart>　きっと助けにくると思ってたわ！\n　でも　ざんね～ん！\n　その魔法陣にかかったら　自力では動けないの。": "Kyaha <heart> ! Je savais que tu viendrais me\nsauver ! Mais, quel dommage ! Une fois pris\ndans ce cercle magique, tu ne pourras plus<br>bouger par toi-meme."
     },
-    "20361": {
-        "「わらわは　あえて　手を貸していないが\n　根を詰めすぎては　身体に悪い。\n　<pc>殿。様子を見てやってはくれぬか。": "Je n'interviens pas volontairement, mais se\nsurmener n'est pas bon pour la sante.\n<pc>-dono. Pourriez-vous veiller sur lui<br>?"
+    "58045": {
+        "「絶体絶命ね　ザンクローネッ。\n　そんな弱さで　英雄なんて笑っちゃう。": "Tu es vraiment dans une situation desesperee,\nZankrone. C'est risible de te voir pretendre\netre un heros avec une telle faiblesse."
     },
-    "20362": {
-        "「ワシが　様子を見にいったこともあるが\n　ジャマだからと　追い返されてしまってなあ。": "Je suis alle voir ce qui se passait, mais on\nm'a renvoye en disant que je derangeais."
+    "58046": {
+        "「魔女グレイツェル……。\n　俺の命は　お前にくれてやったっていい。": "Witch Gretzel... Je suis pret a te donner ma\nvie."
     },
-    "20363": {
-        "「父親として　苦労している息子のために\n　何もできないのは　忍びないが\n　ここは　<pc>に　まかせるぞ。": "En tant que pere, il est douloureux de ne rien\npouvoir faire pour mon fils en difficulte,\nmais ici, je vais laisser cela a <pc>."
+    "58047": {
+        "「だから　これ以上　メルサンディの村人を\n　苦しめるのは　やめてくれ。": "Donc, s'il te plait, arrete de faire souffrir\ndavantage les villageois de Mel Sandy."
     },
-    "20364": {
-        "「<pc>殿に　見てもらえれば\n　わらわも　安心できる。\n　オーディスのことを　よろしく頼む。": "Si <pc>-dono peut jeter un oeil, cela me\nrassurerait. Je compte sur toi pour t'occuper\nd'Odysseus."
+    "58048": {
+        "「………………ダ～メ<heart>": "Ca ne va pas <heart>"
     },
-    "20365": {
-        "「おお。<pc>君か……。": "Oh. C'est toi, <pc>-kun..."
+    "58049": {
+        "「メルサンディ村　メルサンディ村って…… \n　あなたは　自分の身なんてかえりみず\n　あの　しょぼい村を　救おうとするのね。": "Village de Melsandy. Village de Melsandy,\nhein... Tu es pret a risquer ta vie pour\nsauver ce petit village, n'est-ce pas ?"
     },
-    "20366": {
-        "「……僕は　やったぞ。\n　この石版を　すべて　読み解くことができた。": "...J'ai reussi. J'ai pu dechiffrer toutes les\ninscriptions de cette tablette."
+    "58050": {
+        "「じゃあ　どうして……あの時\n　私のことを　救ってくれなかったの？": "Alors, pourquoi... tu ne m'as pas sauve a ce\nmoment-la ?"
     },
-    "20367": {
-        "「ラーディス王が　歌を消し去らず\n　あえて　封印することを選んだのは　なぜか？\n　疑問に思っていたが　これで　わかった。": "Pourquoi le roi Lardis a-t-il choisi de\nsceller la chanson plutot que de l'effacer ?\nJe me posais la question, mais maintenant,<br>j'ai compris."
+    "58051": {
+        "「お前は…………。": "Tu es..."
     },
-    "20368": {
-        "「封印のことを　わざわざ　書き残したのは\n　後に　それを解こうとする者が現れると\n　予見していたからに　ちがいない。": "Il est certain que si le sceau a ete\nexpressement laisse par ecrit, c'est parce que\nl'on prevoyait que quelqu'un chercherait a le<br>briser plus tard."
+    "58052": {
+        "「あなたの英雄ごっこを　終わりにしてあげる。": "Je vais mettre fin a ton petit jeu de heros."
     },
-    "20369": {
-        "「これは　ラーディス王からの挑戦なんだ。\n　男王を目指す者よ　封印を解けるものなら\n　解いてみろ……。そう言っているんだ。": "C'est un defi de la part du roi Raddis. Pour\nceux qui aspirent a devenir le roi des hommes,\ns'ils peuvent briser le sceau, qu'ils essaient<br>de le faire... C'est ce qu'il dit."
+    "58053": {
+        "「ザンクローネに……死を。": "La mort a Zankrone..."
     },
-    "20370": {
-        "「この石版には　こう書かれている。\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に葬ろう……。": "Cette stele porte l'inscription suivante :<break>\"... J'ai prete serment aux Cinq Voix du\nCoquillier. Que le chant soit enseveli dans le\nchant...\""
+    "58054": {
+        "「さあ　英雄さん<heart>\n　大好きな村人に　その身を斬り刻まれて\n　永遠に　眠っちゃいなさい。": "Allez, heros-san<heart> Laisse-toi decouper\npar le Villager que tu aimes tant et dors pour\nl'eternite."
     },
-    "20371": {
-        "「この文章は　男王の唄う育みの歌を\n　封印した場所を　示していると思うんだ。": "Je pense que ce texte indique l'endroit ou le\nChant de la Nourriture chante par le Roi des\nHommes est scelle."
+    "58055": {
+        "「ラスカ……。": "Raska..."
     },
-    "20372": {
-        "「君も知っているかもしれないが　シェルナーとは\n　レーンという村の　結婚の立会人のことだ。": "Tu le sais peut-etre deja, mais a Lane,\nle Coquillier est le temoin des mariages."
+    "58056": {
+        "「ごめんな……救ってやれなくて。": "Desole... de ne pas avoir pu te sauver."
     },
-    "20373": {
-        "「そのシェルナーが　男王の歌に\n　どんな関係があるのかは　わからない。": "Je ne sais pas quel lien ce Coquillier a avec\nla chanson du roi des hommes."
+    "58057": {
+        "「キャハハハハッ！\n　愛する村人に　殺されるなんて　ヒサ～ン<heart>\n　もう　希望なんて　どこにもないわね。": "Ahahaha ! Se faire tuer par un Villager que\nj'aime, c'est trop triste <heart> Il n'y a\nplus aucun espoir, n'est-ce pas ?"
     },
-    "20374": {
-        "「だから　僕は　レーンの村に確かめにいく。\n　<pc>君に　同行してもらいたいのだが\n　来てくれるか？": "Donc, je vais aller verifier au village de\nLane. J'aimerais que tu m'accompagnes,\n<pc>-kun. Tu viens avec moi ?"
+    "58058": {
+        "「………………ちがう。": "Ce n'est pas ca."
     },
-    "20375": {
-        "「ありがとう　<pc>君！\n　君がいてくれて　本当に助かる。": "Merci, <pc>-kun ! Ta presence m'est\nd'une grande aide."
+    "58059": {
+        "「どんな時も……希望は　消えない。": "Quel que soit le moment... l'espoir ne\ns'eteint jamais."
     },
-    "20376": {
-        "「ここから先は　調査員たちを使わずに\n　僕と　<pc>君の　ふたりで\n　ことを進めたいと思う。よろしく頼む。": "A partir d'ici, je souhaite avancer sans\nutiliser les enqueteurs, juste avec\n<pc>-kun et moi. Je compte sur toi."
+    "58060": {
+        "「そんな……私の魔法に　逆らうなんて！？": "Comment est-ce possible... Tu oses defier ma\nmagie !?"
     },
-    "20377": {
-        "「そういえば　<pc>君は\n　レーンの村の出身じゃなかったか？\n　シェルナーについて　知っていることはないか？": "Au fait, <pc>,\ntu es originaire de Lane, non ?\nTu ne saurais rien sur le Coquillier ?"
+    "58061": {
+        "「……お前の声が　かれない限り \n　救いは　必ず訪れる……そうだったな。": "…Tant que ta voix ne faiblit pas, le salut\nviendra inevitablement… n'est-ce pas ?"
     },
-    "20378": {
-        "「……そうか。君は　アーシクとキールという\n　夫婦のシェルナーをやったのか。\n　だが　それ以上のことは　知らないのだな。": "…Je vois. Tu as ete Coquillier pour le couple\nAashik et Keel.\nMais tu n'en sais pas plus, hein ?"
+    "58062": {
+        "「ありがとな　ラスカ。": "Merci, Raska."
     },
-    "20379": {
-        "「僕は　シェルナーのことを　レーンの村の者に\n　手当たり次第に　聞いてみるつもりだ。\n　君も　そうしてくれると　助かる。": "Je vais demander à tous les habitants de Lane\nce qu’ils savent sur le Coquillier.\nSi tu pouvais faire de meme, ca m’aiderait."
+    "58063": {
+        "「今の俺には　これが精一杯だ……。\n　魔女を倒してくれ……<cs_pchero>。": "Pour l'instant, c'est tout ce que je peux\nfaire... Vaincs la sorciere, <cs_pchero>."
     },
-    "20380": {
-        "「では　すぐに出発するぞ。\n　<pc>君も　レーンの村へ急いでくれ！": "Alors, partons immediatement. <pc>-kun,\ndepeche-toi de rejoindre le village de Lene !"
+    "58064": {
+        "「……いいわ。\n　私の手で　英雄の物語に幕を引きましょう。": "Tres bien. Je vais mettre un terme a\nl'histoire du heros de mes propres mains."
     },
-    "20381": {
-        "「頼みを聞いてくれるのは　ありがたいが……。\n　君は　かなりの数の頼まれごとを　\n　引き受けているようだな。": "Je te suis reconnaissant d'accepter ma\ndemande... Mais il semble que tu aies deja pas\nmal de requetes a ton actif."
+    "58065": {
+        "「奇跡なんてない　血も涙も枯れはてた\n　本当のフィナーレを　見せてあげるッ！": "Il n'y a pas de miracle. Mon sang et mes\nlarmes sont asseches. Je vais te montrer le\nveritable final !"
     },
-    "20382": {
-        "「先約があるならば　今は　あきらめよう。\n　僕は　ここで　調査を続けるから\n　また後で　来てほしい。": "Si tu as deja quelque chose de prevu, je vais\nlaisser tomber pour l'instant. Je vais\ncontinuer mes recherches ici, alors reviens me<br>voir plus tard."
+    "58066": {
+        "「私の手で　英雄の物語に幕を引きましょう。": "Je vais conclure l'histoire du heros de mes\npropres mains."
     },
-    "20383": {
-        "「<pc>君ならば　僕の頼みを\n　聞いてくれると思ったんだが……。": "Je pensais que tu ecouterais ma demande,\n<pc>-kun..."
+    "58067": {
+        "「奇跡なんてない　血も涙も枯れはてた\n　本当のフィナーレを　見せてあげるッ！": "Il n'y a pas de miracle. Mon sang et mes\nlarmes sont asseches. Je vais te montrer le\nveritable final !"
     },
-    "20384": {
-        "「僕は　ここで　調査を続けるから\n　気が変わったならば　また来てほしい。": "Je vais continuer mes recherches ici. Si\njamais tu changes d'avis, reviens me voir."
+    "58068": {
+        "「ザンクローネ様ッ！！": "Zankrone-sama !!"
     },
-    "20385": {
-        "「おお。<pc>君か……。\n　チカラを貸す気に　なってくれたか。": "Oh, c'est toi, <pc>-kun... Tu as\nfinalement decide de nous preter main-forte."
+    "58069": {
+        "「すまねえ　ラスカ。 \n　お前に　助けられるなんてな。": "Desole, Raska. Je ne pensais pas que je serais\naide par toi."
     },
-    "20386": {
-        "「この石版には　こう書かれている。\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に葬ろう……。": "Cette stele porte l'inscription suivante :<break>\"... J'ai prete serment aux dCinq Voix du\nCoquillier. Que le chant soit enseveli dans le\nchant...\""
+    "58070": {
+        "「魔女よ……。なぜ　俺を恨み\n　村に　破壊と混乱をもたらした？": "Pourquoi, sorciere... Pourquoi m'en veux-tu au\npoint de semer la destruction et le chaos dans\nle village ?"
     },
-    "20387": {
-        "「君も知っているかもしれないが　シェルナーとは\n　レーンという村の　結婚の立会人のことだ。": "Tu le sais peut-etre deja, mais a Lane,\nle Coquillier est le temoin des mariages."
+    "58071": {
+        "「どうして　そんなんになっちまったんだ？": "Pourquoi est-ce devenu comme ca ?"
     },
-    "20388": {
-        "「そのシェルナーが　男王の歌に\n　どんな関係があるのかは　わからない。": "Je ne sais pas quel lien ce Coquillier a avec\nla chanson du roi des hommes."
+    "58072": {
+        "「…………クレル。": "............Krell."
     },
-    "20389": {
-        "「だから　僕は　レーンの村に確かめにいく。\n　<pc>君に　同行してもらいたいのだが\n　来てくれるか？": "Donc, je vais aller verifier au village de\nLane. J'aimerais que tu m'accompagnes,\n<pc>-kun. Tu viens avec moi ?"
+    "58073": {
+        "「……気づいてたのね。\n　いいわ。最後に　昔話をしましょうか。": "… Tu t'en etais rendu compte, n'est-ce pas ?\nTres bien. Laisse-moi te raconter une vieille\nhistoire pour finir."
     },
-    "20390": {
-        "「おお　<pc>君。\n　君も　この家に　来ていたか。": "Oh, <pc>-kun. Toi aussi, tu es venu dans\ncette maison."
+    "58074": {
+        "「あれは　遠い昔……\n　メルサンディ村が　今より　ずっと貧しくて\n　魔物の脅威に　さらされていた頃……。": "C'etait il y a bien longtemps... A une epoque\nou le village de Melsandy etait bien plus\npauvre qu'aujourd'hui et constamment menace<br>par les monstres..."
     },
-    "20391": {
-        "「これは　おどろいた。本当に王子様だ。\n　いったい　なんの用で　うちなんかに……。": "Quelle surprise. Un vrai prince, ici.\nQu'est-ce qui peut bien vous amener chez\nnous... ?"
+    "58075": {
+        "「メルサンディ村に　村人たちから\n　魔女の娘と呼ばれて　しいたげられていた\n　女の子がいたわ。": "Il y avait une fille au village de Melsandy\nqui etait appelee la fille de la sorciere et\nqui etait persecutee par les villageois."
     },
-    "20392": {
-        "「この村の夫婦に　シェルナーというものについて\n　聞いてまわっているところだ。\n　あなたは　何か　知っていることはないか？": "Je suis en train de demander aux couples de ce\nvillage ce qu'ils savent sur le Coquillier.\nEst-ce que tu en sais quelque chose ?"
+    "58076": {
+        "「それが　私。\n　亡くなった祖母が　不思議な術を\n　使える人だったおかげでね。": "C'est moi. Grace a ma defunte grand-mere, qui\navait le pouvoir d'utiliser des arts\nmysterieux."
     },
-    "20393": {
-        "「はあ……。シェルナーというのは\n　この村に伝わる　ならわしで\n　結婚する者の立会人をする……": "Haah... Le Coquillier, c'est une tradition de\nce village.\nIl fait office de temoin lors des mariages..."
+    "58077": {
+        "「村に居場所がなかった私は　村が豊かになれば\n　しいたげられることもなくなると思って\n　ほこらの精霊さまに　お祈りしていたの。": "Je n'avais pas ma place dans le village, alors\nje priais l'esprit du sanctuaire, en esperant\nque si le village devenait prospere, je ne<br>serais plus opprimee."
     },
-    "20394": {
-        "「それは　僕も知っている。\n　もっと他に　シェルナーについて\n　あなたが　知っていることはないか？": "Ca, je le sais deja.\nMais y a-t-il autre chose que tu sais sur le\nCoquillier ?"
+    "58078": {
+        "「そんなとき　英雄ザンクローネが現れた。\n　あなたは　村を襲いにくる魔物を　やっつけて\n　皆に　チヤホヤされてたっけ。": "C'est alors que l'heroique Zankrone est\napparu. Tu as combattu les monstres qui\nattaquaient le village et tout le monde<br>t'adulait, n'est-ce pas ?"
     },
-    "20395": {
-        "「他に……ですか。むむむ……。": "D'autres options... ? Hum, voyons voir..."
+    "58079": {
+        "「村人は　誰も気づいていなかったけど\n　私は　すぐわかったわ。": "Les villageois ne s'en etaient pas rendu\ncompte, mais moi, je l'ai tout de suite\ncompris."
     },
-    "20396": {
-        "「おおっ　あった　ありました！": "Oh, je l'ai trouve !"
+    "58080": {
+        "「あなたが　ほこらの精霊さまだって。": "Vous etes donc l'esprit sacre du sanctuaire."
     },
-    "20397": {
-        "「死んだ祖父が　シェルナーをやったようで。\n　今のシェルナーは　本来のシェルナーの姿じゃ\n　ないという話を　聞いたことがあります。": "Mon grand-pere, aujourd'hui decede, a ete\nCoquillier.<br>J’ai entendu dire que le role du Coquillier\nactuel n’est plus ce qu’il etait à l’origine."
+    "58081": {
+        "「だけど……魔物の襲撃は　やまなかった。 \n　そして　村に　嫌なウワサが立ちはじめたの。": "Mais... les attaques des monstres ne\ns'arretaient pas. Et puis, de mauvaises\nrumeurs ont commence a circuler dans le<br>village."
     },
-    "20398": {
-        "「おおっ　それは　興味深い話だ。\n　ぜひ　聞かせてくれ！": "Oh, voila une histoire interessante.\nRaconte-moi tout, je t'en prie !"
+    "58082": {
+        "「魔女が　魔物を呼んでるんじゃないか\n　……ってね。": "La sorciere ne serait-elle pas en train\nd'invoquer des monstres...?"
     },
-    "20399": {
-        "「祖父の話によれば　シェルナーってのは\n　もともとは　このウェナ諸島を守る勇士に\n　与えられる名前だったと　いうことなんです。": "D'apres mon grand-pere, le titre de Coquillier\netait a l'origine donne aux guerriers charges\nde proteger l’archipel de Wena."
+    "58083": {
+        "「ウワサは　ジワジワと　村中に広がっていき\n　やがて　誰もが　信じるようになったわ。": "Les rumeurs se sont peu a peu repandues dans\ntout le village, jusqu'a ce que tout le monde\nfinisse par y croire."
     },
-    "20400": {
-        "「勇士になる者は　シエラ巡礼地って場所で\n　儀式をしなきゃならないんだとか。": "Ceux qui veulent devenir des heros doivent\nparticiper a une ceremonie dans un endroit\nappele Sierra Shrinelands."
+    "58084": {
+        "「私は　あなたと　遠くへ逃げることを \n　望んだけれど　それは　かなわなかった……。": "J'avais espere m'enfuir loin avec toi, mais ce\nsouhait ne s'est jamais realise..."
     },
-    "20401": {
-        "「そんで　勇士には　シェルナーって名前が\n　与えられたっていう　もっともらしい話でした。\n　本当かどうかは　責任は持ちませんが。": "Apparemment, ces guerriers recevaient le titre\nde Coquillier. Ça parait plausible, mais je ne\npeux pas garantir que ce soit vrai."
+    "58085": {
+        "「英雄のあなたが　知らないところで \n　私は　村人たちに　捕らえられて\n　激しく　ののしられたわ。": "Pendant que vous, le heros, ignoriez tout,\nj'ai ete capturee par les villageois et ils\nm'ont violemment insultee."
     },
-    "20402": {
-        "「オレが聞いたのは　こんなもんです。\n　すみませんね　王子様。": "C'est tout ce que j'ai entendu. Desole,\nprince."
+    "58086": {
+        "「やっとの思いで　逃げ出して \n　走って走って……だけど　追いつめられて\n　私は　深い谷底に落ちていったの。": "A bout de souffle, j'ai reussi a m'echapper,\nj'ai couru, couru... mais j'ai fini par etre\nacculee, et je suis tombee au fond d'un<br>profond ravin."
     },
-    "20403": {
-        "「いや　じゅうぶんだ。\n　ありがとう。後で　礼を届けさせる。": "Non, c'est suffisant. Merci. Je ferai parvenir\nmes remerciements plus tard."
+    "58087": {
+        "「身も心も　キズだらけの女の子は\n　暗い死の淵で　英雄を恨んで　村を呪って……\n　本当の魔女に　なっちゃいましたとさ。": "La jeune fille, blessee corps et ame, en\nvoulait au heros au bord de la sombre mort,\nmaudissant le village... Et elle est devenue<br>une veritable sorciere."
     },
-    "20404": {
-        "「いえいえ　お礼なんて　とんでもない！\n　お役に立てたなら　光栄ですんで。": "Non, non, pas de remerciements, voyons ! Je\nsuis honore d'avoir pu vous etre utile."
+    "58088": {
+        "「めでたし　めでたし<heart>": "Et ils vecurent heureux <heart>"
     },
-    "20405": {
-        "「シエラ巡礼地というのは　実在している。\n　たしか　この島の北にある場所が　そうだ。\n　彼の話は　真実かもしれない。": "Les terres sacrees de Sierra Shrinelands\nexistent reellement. Je suis presque sur que\nc'est un endroit au nord de cette ile. Son<br>histoire pourrait etre vraie."
+    "58089": {
+        "「それで　メルサンディ村を\n　襲ったというのか？": "Alors, c'est vrai que tu as attaque le village\nde Melsandy ?"
     },
-    "20406": {
-        "「ならば　ラーディス王の石版に書かれた\n　シェルナーの五声というのも　シエラ巡礼地に\n　関わりがあると　考えられるな。": "Dans ce cas, les Cinq Voix du Coquillier\nmentionnees sur la stele du roi Ladis\npourraient etre liees au sanctuaire de Sierra."
+    "58090": {
+        "「……そうよ。": "...C'est ca."
     },
-    "20407": {
-        "「さっそく　確かめにいってみよう！\n　レーナム緑野の北東が　シエラ巡礼地のはずだ。\n　<pc>君も　来てくれ！！": "Allons verifier ca tout de suite ! Au nord-est\ndes Lenam Fields, il devrait y avoir les\nSierra Shrinelands. Viens avec nous,<br><pc>-kun !"
+    "58091": {
+        "「救えねえな。\n　いくら　昔のメルサンディ村を恨んでいようが\n　今の村のヤツらは　関係ねえだろ。": "Serieusement, c'est impardonnable. Peu importe\na quel point tu en veux a l'ancien village de\nMelsandy, les gens du village actuel n'ont<br>rien a voir avec ca."
     },
-    "20408": {
-        "「ここが　シエラ巡礼地か。\n　はじめて来たが　何か\n　不思議な感じのする所だな……。": "Nous voila aux Terres Sacrees de Sierra. C'est\nla premiere fois que je viens ici, mais cet\nendroit a quelque chose de mysterieux..."
+    "58092": {
+        "「いかなる　理由があろうと\n　お前のしたことは　許されねえ。": "Peu importe la raison, ce que tu as fait est\nimpardonnable."
     },
-    "20409": {
-        "「僕は　ヴェリナードの王子　オーディス。\n　あなたは　ここで　何をしている？": "Je suis Audis, le prince de Velinard. Que\nfais-tu ici ?"
+    "58093": {
+        "「待ってよ　ザンクローネ様！": "Attendez, Zankrone-sama !"
     },
-    "20410": {
-        "「私は　ナフナー。\n　五声の祈りを捧げる　シェルナーの案内人。\n　だが　もはや　その役は終えた……。": "Je suis Nafuna\nguide des Coquillier et gardienne de la priere\ndes Cinq Voix.<br>Mais ce role est desormais revolu..."
+    "58094": {
+        "「本当に　その人を斬ってもいいのか……？": "Es-tu vraiment sur de pouvoir trancher cette\npersonne... ?"
     },
-    "20411": {
-        "「シェルナーのチカラ……。\n　それは　失われた　古のチカラ。\n　そなたは　それを求めるのか？": "Le pouvoir du Coquillier…\nUne force ancienne, aujourd’hui disparue.\nCherches-tu a l’obtenir ?"
+    "58095": {
+        "「……ラスカ。\n　英雄に必要なものは　なんだと思う？": "Raska. A ton avis, qu'est-ce qui est\nnecessaire pour etre un heros ?"
     },
-    "20412": {
-        "「ナフナー殿。僕は　シェルナーではなく\n　王になるために　ここに来た。": "Dame Nafuna, je ne suis pas venu ici pour etre\nCoquillier, mais pour devenir roi."
+    "58096": {
+        "「ふてぶてしさ！": "L'audace !"
     },
-    "20413": {
-        "「シェルナーの五声とは\n　何を指す言葉なのか　教えてくれないか？": "Dame Nafuna, pourriez-vous m’expliquer ce que\ndesignent exactement les Cinq Voix du\nCoquillier ?"
+    "58097": {
+        "「そうだ。よく覚えてんじゃねえか。": "Exact. Tu t'en souviens bien."
     },
-    "20414": {
-        "「五声とは　我らの発する声の持つチカラ。\n　すなわち　『呼』『言』『歌』『哭』『呻』の\n　五つの思いの表れなり。": "Les cinq voix representent la puissance de\nnotre voix. Elles se manifestent a travers\ncinq expressions : 'Appel', 'Parole', 'Chant',<br>'Pleurs' et 'Gemissements'."
+    "58098": {
+        "「メルサンディの　すべての悲劇は\n　俺の罪から　生まれた。": "Tous les tragedies de MelSanDi sont nees de\nmes peches."
     },
-    "20415": {
-        "「『呼』『言』『歌』……。": "'Appel', 'Parole', 'Chant'..."
+    "58099": {
+        "「それでも　俺は　ふてぶてしく\n　すべてを　救ってやる。": "Malgre tout, je vais audacieusement tout\nsauver."
     },
-    "20416": {
-        "「五声の中には　『歌』があるんだな……。\n　石版にあった　歌は　歌に葬るという言葉は\n　これを指しているのだろうか。": "Parmi les cinq voix, il y a le chant, n'est-ce\npas... Les mots sur la stele, enterrer par le\nchant, se referent-ils a cela ?"
+    "58100": {
+        "「お前の恨み……俺が　もらってくぜ。": "Ta rancune... je vais la prendre sur moi."
     },
-    "20417": {
-        "「五声の地は　シエラ巡礼地に　散らばる。\n　巡礼者は　自らの足で　五声を求め\n　儀式の後に　シェルナーとなる。　": "Les Terres des Cinq Voix sont dispersees a\ntravers le sanctuaire de Sierra.<br>Les pelerins doivent les trouver par eux-memes\net, apres le rituel, ils deviennent\nCoquilliers."
+    "58101": {
+        "「な　なんてことを……！": "Qu... Qu'est-ce que c'est que ca... !"
     },
-    "20418": {
-        "「……なるほど。五声の中の『歌』は\n　このシエラ巡礼地に　あるということだな。\n　ならば　それを探してみよう。": "Je vois. Le 'Chant' parmi les cinq voix se\ntrouve donc dans ces Terres Sacrees de Sierra.\nDans ce cas, cherchons-le."
+    "58102": {
+        "「およしなさい　ザンクローネ！！ \n　そんな　ケガレを取り込んだら\n　精霊のあなたは　消滅しちゃうじゃないッ！": "Arrete, Zankrone !! Si tu absorbes une telle\nimpurete, toi, l'esprit, tu risques de\ndisparaitre !"
     },
-    "20419": {
-        "「五声を伝える　五人の神官。\n　彼らのひとりが　『歌』を伝えるだろう。": "Les cinq pretres transmettent les cinq voix.\nL'un d'eux transmettra le 'chant'."
+    "58103": {
+        "「ずっと　悔いてたんだ。\n　お前を　救えなかったこと……。": "J'ai toujours regrette. De ne pas avoir pu te\nsauver..."
     },
-    "20420": {
-        "「ありがとう　ナフナー殿。\n　話を聞かせてくれて　感謝する。": "Merci, Nafuna-dono. Je te suis reconnaissant\nde m'avoir raconte ton histoire."
+    "58104": {
+        "「死なせてなんか　やらねえよ。\n　生きて　あがいて　罪をつぐないな。": "Je ne te laisserai pas mourir. Vis, lutte et\nexpie tes peches."
     },
-    "20421": {
-        "「このシエラ巡礼地のどこかに\n　五声の中の　『歌』にまつわる場所がある。\n　そこを探してみよう　<pc>君。": "Dans ces terres sacrees de Sierra Shrinelands,\nquelque part se trouve un lieu lie au chant\nparmi les cinq voix. Essayons de le trouver,<br><pc>-kun."
+    "58105": {
+        "「とことん　バカな男……。": "Un homme completement idiot..."
     },
-    "20422": {
-        "「<pc>君。どうやら\n　目的の場所を　見つけてくれたようだな。": "<pc>-kun. Il semble que tu aies trouve\nl'endroit que nous cherchions."
+    "58106": {
+        "「ザンクローネ様！　身体がっ！": "Zankrone-sama ! Votre corps !"
     },
-    "20423": {
-        "「ヴェリナードの王子　オーディスだ。\n　あなたが　五声の『歌』を伝える神官か。": "Je suis Audis, le prince de Velinard.\nEtes-vous le pretre charge de transmettre le\nchant des Cinq Voix ?"
+    "58107": {
+        "「ラスカ。お前に　頼みがある。": "Raska. J'ai une faveur a te demander."
     },
-    "20424": {
-        "「……いかにも。私はソヌーグ。\n　五声の教えを　今に伝える者なり。": "......En effet. Je suis Sonugu. Je suis celui\nqui transmet l'enseignement des Cinq Voix\njusqu'a aujourd'hui."
+    "58108": {
+        "「俺は　もう　メルサンディ村を守れない。\n　俺に代わって　村を守ってくれ。": "Je ne peux plus proteger le village de\nMelsandy. Protege-le a ma place."
     },
-    "20425": {
-        "「五声のひとつ　『歌』の声。\n　言葉を音に乗せ　思いをつむぐ声なり。": "L'une des cinq voix : la voix du chant. Une\nvoix qui tisse des pensees en portant des mots\nsur la melodie."
+    "58109": {
+        "「……わかった。オレに　まかせて。": "...D'accord. Laisse-moi faire."
     },
-    "20426": {
-        "「あなたは　この言葉に心当たりはないだろうか？\n　……シェルナーの五声に　私は誓った。\n　歌は　歌の中に　葬ろう……という言葉だ。": "Avez-vous deja entendu ces mots ?<br>\"J’ai prete serment aux Cinq Voix du\nCoquillier.\nQue le chant soit enseveli dans le chant...\""
+    "58110": {
+        "「<cs_pchero>。お前には\n　感謝しても　しきれねえな。": "<cs_pchero>Je ne pourrai jamais te remercier\nassez."
     },
-    "20427": {
-        "「その言葉を　どのようにして　お知りになった？": "Comment avez-vous appris ces mots ?"
+    "58111": {
+        "「恩に着るぜ　相棒。\n　お前に会えて　よかった。": "Je te suis reconnaissant, partenaire. Je suis\ncontent de t'avoir rencontre."
     },
-    "20428": {
-        "「最後の男王　ラーディス王が残した石版を\n　手に入れたんだ。そこに書かれていた言葉だ。": "La pierre laissee par le dernier roi, le roi\nRadis, a ete recuperee. Voici les mots qui y\netaient inscrits."
+    "58112": {
+        "「どんな時も　希望は捨てんな。 \n　メルサンディ村…は　俺と…ともに……": "Dans n'importe quelle situation, ne perds pas\nespoir. Le village de Melsandy... est avec\nmoi... toujours..."
     },
-    "20429": {
-        "「僕は　王になるために\n　封印された男王の育みの歌を　探している。\n　知っていることを　教えてくれないか？": "Je suis a la recherche de la chanson de la\ncroissance du roi scelle pour devenir roi.\nPeux-tu me dire ce que tu sais ?"
+    "58113": {
+        "「ザンクローネ……。": "Zankrone..."
     },
-    "20430": {
-        "「かつて　私の先祖が　時の王より命を受けた。\n　男の王を目指す者　現れし時……。\n　これを　渡すがよい……と。": "Autrefois, mon ancetre a recu une mission du\nroi du temps. Lorsqu'un homme digne de devenir\nroi se presentera... Il devra lui remettre<br>ceci..."
+    "58114": {
+        "「あんたは　これから\n　きっと　死ぬよりも　苦しんで\n　生きてかなきゃならない。": "A partir de maintenant, tu devras surement\nvivre en souffrant plus que la mort elle-meme."
     },
-    "20431": {
-        "「今が　その時なり。\n　これを　そなたに授けよう……。": "Le moment est venu. Je vais te confier ceci..."
+    "58115": {
+        "「村の皆に　責められて\n　殴られたって　仕方ない。": "Je comprends que les villageois me blament et\nme frappent. Je l'ai bien cherche."
     },
-    "20432": {
-        "「やはり　ラーディス王は　男の王を\n　目指す者が現れると　予見していたのか……。": "Le roi Lardis avait-il predit qu'un roi homme\nserait necessaire...?"
+    "58116": {
+        "「それでも　くじけず　生きていこう。\n　オレが　あんたを守るよ。\n　それが　ザンクローネ様の望みだから。": "それでも くじけず 生きていこう Je vais te proteger. Car\nc'est le souhait de Zankrone-sama."
     },
-    "20433": {
-        "「…………おお……歌だ。\n　僕の知らない歌が　書かれているぞ！！": "... Oh... Une chanson. Une chanson que je ne\nconnais pas est ecrite ici !!"
+    "58117": {
+        "「ありがとう……ラスカ。": "Merci... Raska."
     },
-    "20434": {
-        "「歌の名は……導きの歌。\n　聖なる加護を　諸島に導くという内容だ。\n　男王の唄う育みの歌に　まちがいない！": "Le nom de la chanson est... la Chanson de la\nGuidance. Son contenu est cense attirer la\nbenediction sacree sur les iles. C'est sans<br>aucun doute la Chanson de la Nurture chantee\npar le roi !"
+    "58118": {
+        "「おう　まかせとけ！！\n　あんたの声が　かれない限り \n　救いは　必ず訪れるんだ！": "Oh, laisse-moi faire !! Tant que ta voix ne\ns'eteint pas, le salut viendra a coup sur !"
     },
-    "20435": {
-        "「まさか　こんなに　あっさりと\n　見つかるとは　思っていなかった……。": "Je ne pensais pas que ca serait si facile a\ntrouver..."
+    "58119": {
+        "「さあ　メルサンディ村に　帰ろうぜ！": "Allez, retournons au village de Melsandy !"
     },
-    "20436": {
-        "「この歌が　恵みの歌と　同じ効果を出せれば\n　僕は　王になる資格を得たことになる！\n　さっそく　城へ帰って　準備をしなければ。": "Si cette chanson peut produire les memes\neffets que le Chant de la Benediction, alors\nj'aurai prouve que je suis digne de devenir<br>roi ! Je dois rentrer immediatement au chateau\net me preparer."
+    "58120": {
+        "「<pc>さん……！\n　お待ちしていました。": "<pc>-san... ! Je vous attendais."
     },
-    "20437": {
-        "「<pc>君。いろいろと手伝ってもらい\n　君には　感謝の言葉もない。\n　報酬    として　これを受け取ってほしい。": "<pc>-kun. Tu m'as beaucoup aide, et je\nn'ai pas de mots pour te remercier. J'aimerais\nque tu acceptes ceci en guise de recompense."
+    "58121": {
+        "「『小さな英雄ザンクローネの物語』の結末が\n　ついに　書き上がったんです。": "La fin de 'Petits Heros : L'histoire de\nZankrone' est enfin ecrite."
     },
-    "20438": {
-        "「僕は　王となって　この諸島を守っていこう。\n　かつて　シェルナーという勇士が\n　そうしていたように……。": "Je deviendrai roi et protegerai cet archipel,\ncomme l’avaient fait autrefois les vaillants\nCoquilliers."
+    "58122": {
+        "「約束通り　最初の読者さんになってください。": "Comme promis, soyez mon tout premier lecteur,\ns'il vous plait."
+    },
+    "58123": {
+        "<center>……こうして　ザンクローネは\nその身に　すべての恨みを　引き受けて\n消えてゆきました。": "Ainsi, Zankrone a pris sur lui toutes les\nrancoeurs et a disparu."
+    },
+    "58124": {
+        "<center>人間に戻ったクレルは　メルサンディ村で\n村人のためにはたらき　つぐないを続けました。\nやがて　その真心は　村人の心を開いていきます。": "Redevenu humain, Krell a travaille pour les\nvillageois de Melsandy Village afin de se\nracheter. Peu a peu, son coeur a su ouvrir<br>celui des villageois."
+    },
+    "58125": {
+        "<center>メルサンディ村の英雄は　もういません。\nしかし　その心は\n永遠に　村とともにありました。": "Le heros du village de Melsandy n'est plus\nparmi nous. Cependant, son esprit restera a\njamais avec le village."
+    },
+    "58126": {
+        "「読んでくださって　ありがとうございます\n　<pc>さん……。": "Merci de m'avoir lu, <pc>-san..."
+    },
+    "58127": {
+        "「おじいさまの　ノートを見たら\n　胸のつかえが　ウソみたいになくなって\n　スラスラ　手が動いて。": "En regardant le carnet de mon grand-pere, le\npoids sur ma poitrine s'est envole comme par\nmagie, et ma main s'est mise a bouger<br>aisement."
+    },
+    "58128": {
+        "「でも　まだ　自信が持てないんです……。\n　こういう結末で　よかったのかしら？": "Mais je n'arrive toujours pas a avoir\nconfiance en moi... Est-ce que c'etait\nvraiment la bonne conclusion ?"
+    },
+    "58129": {
+        "アイリに　パンパニーニの伝言を\n伝えますか？<yesno><close>": "Souhaitez-vous transmettre le message de Bread\nPanini a Aili ? <yesno><close>"
+    },
+    "58130": {
+        "「あの……<pc>さん\n　無言になられると　不安になってしまいます。": "Euh... <pc>-san, votre silence me rend\nanxieuse."
+    },
+    "58131": {
+        "アイリに　パンパニーニの伝言を\n伝えますか？<yesno><close>": "Souhaitez-vous transmettre le message de Bread\nPanini a Aili ? <yesno><close>"
+    },
+    "58132": {
+        "「えっ……？\n　パンパニーニおじいさまが\n　ありがとうと　言っていたんですか？": "Hein... ? Le vieil homme Panini-Bread a dit\nmerci ?"
+    },
+    "58133": {
+        "「<pc>さんが　おっしゃるなら\n　きっと　そうなんですよね。": "Si <pc>-san le dit, c'est surement vrai."
+    },
+    "58134": {
+        "「これで　よかったんですね\n　おじいさま……。": "Ca a ete la bonne decision, n'est-ce pas,\ngrand-pere..."
+    },
+    "58135": {
+        "「あなたのおかげで　夢が　かないました。\n　<pc>さんが　いてくださらなかったら\n　小さな英雄の物語は　完結しなかったでしょう。": "Grace a vous, mon reve s'est realise. Sans\nvotre presence, <pc>-san, l'histoire de\nce petit heros n'aurait jamais trouve sa<br>conclusion."
+    },
+    "58136": {
+        "「心から　感謝いたします。\n　ありがとう……不思議な旅人さん！": "Je vous remercie du fond du coeur. Merci...\nmysterieux voyageur-san !"
+    },
+    "90132": {
+        "<center>魔女だ……！": "C'est une sorciere... !"
+    },
+    "93317": {
+        "「これが　メルサンディ村で \n　ほんの１００年前に起こった　お話のすべてよ。": "Et voici toute l'histoire de ce qui s'est\npasse il y a tout juste 100 ans dans le\nvillage de Melsandy."
+    },
+    "100771": {
+        "「クレルのこと……頼んだぜ。": "Je compte sur toi pour Krell..."
     }
 }
