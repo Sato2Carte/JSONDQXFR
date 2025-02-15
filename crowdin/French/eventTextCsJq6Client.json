@@ -1,146 +1,113 @@
 {
-    "299391": {
-        "「キリカ聖堂へ　ようこそ。\n　本日は　どのような　ご用件で……あら？": "Bienvenue a la cathedrale de Kirika. Que\npuis-je faire pour vous aujourd'hui... Oh ?"
+    "299438": {
+        "「…………！\n　走りましょう　<cs_pchero>君！": "！ Courons, <cs_pchero> kun !"
     },
-    "299392": {
-        "「あの　もしかして……\n　魔物と　戦ったりしましたか？<yesno><close>": "Euh, par hasard... Avez-vous combattu des\nmonstres ?<yesno><close>"
+    "299439": {
+        "「これは……！": "Qu'est-ce que c'est... !"
     },
-    "299393": {
-        "「あなたは　勇敢な方なのですね。\n　ですが　僧侶としては\n　そのキズついた身体……見過ごせません。": "Vous etes vraiment courageux. Cependant, en\ntant que pretre, je ne peux pas ignorer ce\ncorps blesse..."
+    "299440": {
+        "「地獄の門の封印が　解けている！？\n　まだ　しばらく　保つはずだったのに……！": "Le sceau de la Porte de l'Enfer est brise !?\nIl etait cense tenir encore un moment\npourtant... !"
     },
-    "299394": {
-        "「では……森か　どこかに行きました？\n　服は汚れて　葉っぱがついているし……\n　ほら　切りキズもできています。": "Alors... Seriez-vous alle dans la foret ou\nquelque part ? Vos vetements sont sales et\ncouverts de feuilles... Regardez, vous avez<br>meme des coupures."
+    "299441": {
+        "「セツラン君！": "Setsuran-kun !"
     },
-    "299395": {
-        "「少し　じっとしててくださいね……": "S'il vous plait, restez tranquille un\nmoment..."
+    "299442": {
+        "「団…長……？": "Le... chef...... ?"
     },
-    "299396": {
-        "「……これで大丈夫です！": "...Avec ca, tout est en ordre !"
+    "299443": {
+        "「すみません　セツラン君。\n　まさか　こんなに早く　封印が解けるとは……。": "Excuse-moi, Setsuran-kun. Je ne m'attendais\npas a ce que le sceau soit leve si\nrapidement..."
     },
-    "299397": {
-        "「彼女……サンの回復呪文は　よく効くでしょう？\n　サンは　まだ若いですが　優秀な僧侶なのです。": "Les sorts de recuperation de Her... san sont\ntres efficaces, n'est-ce pas ? San est encore\njeune, mais c'est un excellent pretre."
+    "299444": {
+        "「いえ……。": "Non..."
     },
-    "299398": {
-        "「日々の修練が　お役に立ったのであれば……\n　これ以上の　よろこびはありません。": "Si l'entrainement quotidien vous a ete\nutile... Je n'en suis que plus heureux."
+    "299445": {
+        "「……手助けなんか　必要ありません！\n　オレひとりで　じゅうぶんです！": "......Je n'ai pas besoin d'aide ! Je peux tres\nbien m'en sortir tout seul !"
     },
-    "299399": {
-        "「ですが　あなたは　ケガの治療のために\n　キリカ聖堂を訪れたわけでは　ないのでしょう？": "Mais, vous n'etes pas venu a la cathedrale\nKirika pour soigner une blessure, n'est-ce pas\n?"
+    "299446": {
+        "「はあっ…はあっ……！": "Haa... haa...!"
     },
-    "299400": {
-        "<pc>は　地獄の門を封印するための\n聖具を作ってほしいと　話した。": "<pc> a demande de creer un artefact\nsacre pour sceller la Porte de l'Enfer."
+    "299447": {
+        "「まだだ……まだ　やれる！\n　オレは　戦士とパラディンを極めし者……\n　ガーディアンなんだから！": "Encore... Je peux encore me battre ! Je suis\ncelui qui a maitrise le chemin du guerrier et\ndu paladin... Je suis le Gardien !"
     },
-    "299401": {
-        "「なるほど。\n　守護騎士団の　ガーディアンでしたか。": "Je vois. C'etait donc le Gardien des\nChevaliers Protecteurs."
+    "299448": {
+        "「ダメです　セツラン君！\n　君は　じゅうぶん　戦った。\n　ここは　僕たちに任せてください！": "C'est inutile, Setsuran-kun ! Tu t'es deja\nassez battu. Laisse-nous nous en occuper !"
     },
-    "299402": {
-        "「ガーディアン……？": "Garディアン？"
+    "299449": {
+        "「行けますね　<cs_pchero>君？\n　手分けして　片付けましょう！": "Tu es pret, <cs_pchero> kun ? Divisons-nous le\ntravail pour en finir rapidement !"
     },
-    "299403": {
-        "「そういう職業が　あるのです。\n　彼らは　地獄の門と呼ばれる　大きな脅威から\n　アストルティアを守るため　活動しています。": "Il existe des professions de ce type. Ils\nagissent pour proteger Astoltia d'une grande\nmenace appelee Gate of Hell."
+    "299450": {
+        "「むんっ！": "Mmmph !"
     },
-    "299404": {
-        "「ガーディアンの活動には　我ら\n　キリカ修道会も　協力しているのですよ。": "Les activites des Gardiens beneficient\negalement de la cooperation de notre Ordre de\nKirika, vous savez."
+    "299451": {
+        "「終わっ…た……？": "C'est... fini...?"
     },
-    "299405": {
-        "「まあ……！　不勉強で　申し訳ありません。\n　<pc>さんは　そのような\n　すばらしい職業の方だったのですね！": "Eh bien... ! Je suis desole pour mon manque de\nconnaissances. <pc>-san avait donc une\nprofession aussi remarquable !"
+    "299452": {
+        "「いいえ……地獄の門を　再封印しないかぎり\n　魔物は　永遠に　生まれつづけます。": "Non... Si nous ne refermons pas a nouveau la\nGate of Hell, les monstres continueront a\napparaitre eternellement."
     },
-    "299406": {
-        "「地獄の門の　封印の件でしたら\n　聖堂の中にいる　シャクナゲという名の女性に\n　おたずねください。": "Si c'est au sujet du sceau de la Gate of Hell,\nveuillez vous adresser a une femme du nom de\nShakunage qui se trouve a l'interieur de la<br>cathedrale."
+    "299453": {
+        "「キリカ修道会の僧侶が作る　聖具。\n　これを使えば……！": "Les reliques sacrees fabriquees par les moines\nde l'Ordre de Kirika. Si j'utilise ca... !"
     },
-    "299407": {
-        "「私も　これで失礼します。\n　<pc>さん　ガーディアンのお仕事\n　がんばってくださいね！": "Je vais prendre conge maintenant.\n<pc>-san, bon courage pour votre travail\nde Gardien !"
+    "299454": {
+        "「魔封のじゅずよ！\n　邪悪なる来訪者が残せし　呪いの門を\n　今ひとたび　封じたまえ！": "Perles de scellement ! Scellez a nouveau la\nporte maudite laissee par les visiteurs\nmalefiques !"
     },
-    "299408": {
-        "「みんな！\n　団長が　帰ってきたよ！": "Tout le monde ! Le chef est revenu !"
+    "299455": {
+        "「……これで　もう　大丈夫です。\n　セツラン君　<cs_pchero>君\n　よく　がんばってくれました！": "......Avec ca, tout ira bien maintenant.\nSetsuran-kun, <cs_pchero>-kun, vous avez\nvraiment bien travaille !"
     },
-    "299409": {
-        "「団長！": "Chef !"
+    "299456": {
+        "「いいえ　オレは……ガーディアン失格です。\n　団長たちが　来てくれなかったら\n　取り返しのつかない事態に　なっていた……！": "Non, je suis... un Gardien indigne. Si vous\nn'etiez pas venus, chef, la situation aurait\nete irreparable... !"
     },
-    "299410": {
-        "「わーい　団チョじゃ～ん！\n　おっかえり～<heart>": "Wah, c'est le chef de la troupe ! Bienvenue a\nla maison <heart>"
+    "299457": {
+        "「……たしかに　君は　真っ先に\n　門の封印が解けたと　報せにくるべきでした。\n　なぜ　ひとりで戦うなんて　無茶をしたのです？": "Il est vrai que tu aurais du venir m'informer\nen premier lorsque le sceau de la porte a ete\nbrise. Pourquoi as-tu pris un tel risque en te<br>battant seul ?"
     },
-    "299411": {
-        "「<pc>は　まだ会ったことがなかったな。\n　彼は　ダンディオ団長。守護騎士団の団長で……\n　歴代でも　最強のガーディアンと呼ばれている。": "Je n'avais pas encore rencontre <pc>. Il\nest le Captain Dandio, le chef des Chevaliers\nGardiens... Il est considere comme le plus<br>puissant Gardien de tous les temps."
+    "299458": {
+        "「オレは……選ばれた者しか　なれないっていう\n　ガーディアンを目指して　死ぬほど努力して……\n　ようやく夢がかなって　浮かれてました。": "Je... J'ai travaille d'arrache-pied pour\ndevenir un Gardien, un titre que seuls les\nelus peuvent obtenir... Et finalement, mon<br>reve s'est realise. J'etais sur un petit\nnuage."
     },
-    "299412": {
-        "「ただいま戻りました。\n　長い間　留守にしてしまって　すみません。": "Je suis de retour. Je suis desole d'avoir ete\nabsent si longtemps."
+    "299459": {
+        "「でも　オレの　ちょっと後に入ってきた\n　<cs_pchero>が　すごいヤツで……\n　それで　めちゃくちゃ　焦ってたんです。": "Mais peu apres mon arrivee, <cs_pchero> est\nentre en scene... C'est vraiment quelqu'un\nd'incroyable... Ca m'a vraiment mis la<br>pression."
     },
-    "299413": {
-        "「守護騎士団の支援者である　各国の王への\n　定期報告です。六大陸の国々を　巡るのですから\n　時間が　かかるのは　仕方ありませんっ！": "C'est le rapport regulier aux rois de chaque\npays, qui sont les soutiens de l'Ordre des\nChevaliers Gardiens. Comme nous faisons le<br>tour des pays des six continents, cela prend\ndu temps, c'est inevitable !"
+    "299460": {
+        "「地獄の門が　予定より早く開いて　驚いたけど\n　手柄を立てる　チャンスだとも思って……\n　だから　ひとりで戦おうとしました。": "Le Gate of Hell s'est ouvert plus tot que\nprevu, ce qui m'a surpris, mais j'y ai vu une\nopportunite de me distinguer... C'est pourquoi<br>j'ai decide de me battre seul."
     },
-    "299414": {
-        "「ありがとう……おかげで　各国の王たちに\n　これまでと変わらぬ　守護騎士団への援助を\n　約束していただけましたよ。": "Merci beaucoup... Grace a vous, les rois des\ndifferents pays ont promis de continuer a\nsoutenir l'Ordre des Chevaliers Gardiens comme<br>avant."
+    "299461": {
+        "「それは　正しくない判断だったと\n　君は　もう　気付いていますね？": "Tu te rends compte maintenant que ce n'etait\npas la bonne decision, n'est-ce pas ?"
     },
-    "299415": {
-        "「地獄の門は　アストルティア全土への脅威……。\n　門の監視と封印をになう　守護騎士団の重要性を\n　王たちは　理解していらっしゃいます。": "Gate of Hell est une menace pour toute\nl'Astoltia... Les rois comprennent\nl'importance des chevaliers gardiens, charges<br>de surveiller et de sceller cette porte."
+    "299462": {
+        "「はい！　だって　手柄とか　そんなもの……\n　ガーディアンには　必要ありません！": "Oui ! Parce que les honneurs et ce genre de\nchoses... Les Gardiens n'en ont pas besoin !"
     },
-    "299416": {
-        "「ところで……プリゼーラ君。\n　僕が不在の間　問題は　ありませんでしたか？": "Au fait... Prisera-kun. Y a-t-il eu des\nproblemes pendant mon absence ?"
+    "299463": {
+        "「ガーディアンの本分は　守ること。\n　功を競うことばかり考えていた　オレが\n　全部……間違ってました……！": "Le devoir d'un Gardien est de proteger. Je me\ntrompais completement en ne pensant qu'a\nrivaliser pour des exploits... !"
     },
-    "299417": {
-        "「はい　大丈夫ですっ！\n　ご不在中　何度か　地獄の門は開きましたが\n　魔物の討伐は　つつがなく終えています！": "Oui, tout va bien ! Pendant votre absence, la\nGate of Hell s'est ouverte plusieurs fois,\nmais l'extermination des monstres s'est<br>deroulee sans encombre !"
+    "299464": {
+        "「オレを守りながら戦う　団長と　<cs_pchero>の\n　背中を見て　ようやく　それに気付くような\n　ヤツに……ガーディアンの資格は　ありません。": "Quelqu'un qui ne realise cela qu'en voyant le\ndos du chef d'equipe et de <cs_pchero> se\nbattre tout en me protegeant... n'a pas la<br>qualification pour etre un Gardien."
     },
-    "299418": {
-        "「僕が　定期報告を　済ませることができたのは\n　留守を　あずかってくれた\n　みなさんの　おかげです。ありがとう。": "Si j'ai pu faire mon rapport regulier, c'est\ngrace a vous tous qui avez pris soin des lieux\nen mon absence. Merci."
+    "299465": {
+        "「……若い時の過ちは　誰にでもあるものです。\n　君は　自分の過ちに　自分で気が付いた。\n　ならば　僕から言えることは　ただひとつ……。": "...Les erreurs de jeunesse, tout le monde en\nfait. Tu as realise tes erreurs par toi-meme.\nDans ce cas, il n'y a qu'une chose que je<br>puisse te dire..."
     },
-    "299419": {
-        "「これは　おみやげです。\n　みんなで　分けてください。": "Voici un souvenir. Veuillez le partager avec\ntout le monde."
+    "299466": {
+        "「セツラン君。": "Setsuran-kun."
     },
-    "299420": {
-        "「これは……ドルワーム名物\n　『銘菓　砂漠の月』！\n　プリゼーラ　これ　大好きです……♪": "Ca, c'est... la specialite de Dolworm : le\n'Moon Desert Dessert' ! Prisera adore ca... ♪"
+    "299467": {
+        "「<cs_pchero>君。": "<cs_pchero>kun."
     },
-    "299421": {
-        "「やあ　<pc>君。どうやら\n　ガーディアンに　なってくれたようですね。": "Bonjour, <pc>-kun. On dirait bien que tu\nes devenu un Gardien."
+    "299468": {
+        "「君たちは　僕と守護騎士団にとって\n　等しく必要で　かけがえのない仲間です。\n　これからも　君たちのチカラを貸してください。": "Vous etes tous des compagnons egalement\nnecessaires et irremplacables pour moi et pour\nl'ordre des chevaliers protecteurs. Continuez<br>a nous preter votre force a l'avenir."
     },
-    "299422": {
-        "「ほら……僕ですよ。入団の儀式のときに\n　博愛の碑で　会ったでしょう？": "Regarde... c'est moi. Tu te souviens, on s'est\nrencontres lors de la ceremonie d'initiation,\ndevant le monument de la Bienveillance ?"
+    "299469": {
+        "「はい……！": "Oui... !"
     },
-    "299423": {
-        "「僕は　定期報告の途中で　たまたま\n　立ち寄ったのですが　君に会えたおかげで\n　思いがけず　楽しい時間を過ごせました。": "Je suis passe ici par hasard pendant mon\nrapport regulier, mais grace a toi, j'ai passe\nun moment agreable et inattendu."
+    "299470": {
+        "「ふたりとも　ありがとう。": "Merci a vous deux."
     },
-    "299424": {
-        "「<pc>さんは　地獄の門の魔物とも\n　いい戦いをしていましたよ！\n　期待の新星ですっ！": "<pc>-san a livre un excellent combat\ncontre les monstres de la Porte de l'Enfer !\nC'est une etoile montante prometteuse !"
+    "299471": {
+        "「さあ……本部で　君の手当てをしなければ。\n　歩けますか　セツラン君？": "Allons... Nous devons soigner tes blessures au\nquartier general. Peux-tu marcher,\nSetsuran-kun ?"
     },
-    "299425": {
-        "「ふん！　魔物を倒すだけなら\n　ここにいる誰でも　できますよ。": "Hmph ! N'importe qui ici peut vaincre un\nmonstre."
+    "299472": {
+        "「はい　大丈夫です。\n　オレも　ガーディアンですから！": "Oui, tout va bien. Je suis aussi un Gardien,\napres tout !"
     },
-    "299426": {
-        "「ははは……守護騎士団に　またひとり\n　頼もしい仲間が増えて　うれしいです。\n　……そうだ！": "Haha... Je suis ravi d'accueillir un nouveau\nmembre prometteur dans notre Ordre des\nChevaliers Protecteurs. ...Oh, c'est vrai !"
+    "299473": {
+        "「<cs_pchero>君。渡したいものがあるので\n　君も　本部に来てくださいね。": "<cs_pchero> kun. J'ai quelque chose a te\nremettre, alors viens aussi au quartier\ngeneral, d'accord ?"
     },
-    "299427": {
-        "「<pc>君。\n　今から　君の入団式を　おこないませんか？<yesno><close>": "<pc>-kun. Veux-tu que nous procedions a\nta ceremonie d'admission maintenant\n?<yesno><close>"
-    },
-    "299428": {
-        "「まあまあ　そう言わずに……。\n　これも　守護騎士団の　伝統なんですよ。\n　そんなに時間も　かかりませんし……": "Allez, allez, ne dites pas ca… C'est aussi une\ntradition de l'Ordre des Chevaliers Gardiens.\nCela ne prendra pas beaucoup de temps non<br>plus…"
-    },
-    "299429": {
-        "「いい　お返事ですね。\n　それでは…………": "Bonne reponse. Alors, allons-y..."
-    },
-    "299430": {
-        "「総員　整列！": "Tous en rang !"
-    },
-    "299431": {
-        "「我ら　ガーディアン\n　アストルティアを守護せし　牙持つ盾！\n　守るために戦いし　騎士なり！": "Nous sommes les GarDiens, Shields aux crocs\naiguises protegeant Astoltia ! Des chevaliers\nqui combattent pour defendre !"
-    },
-    "299432": {
-        "「我らが牙　己のため　振るうべからず！\n　悪のみを討ち　罪なき民を守る　正義の盾なり！": "Nos crocs ne doivent jamais etre brandis pour\nnotre propre interet ! Nous sommes les Shields\nde la justice, destines a combattre le mal et<br>a proteger les innocents !"
-    },
-    "299433": {
-        "「<pc>！\n　汝の牙　正義のために研ぎ\n　捧げると　ここに誓え！": "<pc> ! Jure ici d'aiguiser tes crocs\npour la justice et de les offrir !"
-    },
-    "299434": {
-        "「よろしい！　守護騎士団は\n　ガーディアン　<pc>の入団を認める！": "Tres bien ! Nous acceptons l'entree de\n<pc> le Gardien dans l'Ordre des\nChevaliers Protecteurs !"
-    },
-    "299435": {
-        "「……期待していますよ　<pc>君。\n　これから　一緒に　がんばりましょうね。": "...Je compte sur toi, <pc>-kun. A partir\nde maintenant, travaillons dur ensemble."
-    },
-    "299436": {
-        "「それでは　<pc>さん！\n　入団式も終わりましたし\n　今回の報酬を　受け取ってください！": "Alors, <pc>-san ! La ceremonie\nd'admission est terminee, veuillez recevoir\nvotre recompense cette fois-ci !"
-    },
-    "299437": {
-        "「守護騎士団では　任務が色々あります！\n　<pc>さんのこと　頼りにしてますし\n　プリゼーラたちのことも　頼ってくださいね！": "Au sein de l'Ordre des Chevaliers Protecteurs,\nnous avons diverses missions ! Nous comptons\nsur vous, <pc>-san, et n'hesitez pas a<br>vous appuyer egalement sur Prisera et les\nautres !"
-    },
-    "305777": {
-        "<pc>は　キリカ聖堂に向かった。": "<pc> se dirigea vers la cathedrale\nKirika."
+    "305778": {
+        "<cs_pchero>は　希望なき荒地を　後にした。": "<cs_pchero> a quitte le Hopeless Wasteland."
     }
 }
