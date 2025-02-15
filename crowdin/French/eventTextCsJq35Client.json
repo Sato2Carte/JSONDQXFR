@@ -1,71 +1,203 @@
 {
-    "100458": {
-        "「グワッハハハ！　怨霊退治の　マネごとなんて\n　させられて　ワケわかんねぇ……って\n　顔してるぜ。ふっふっふ。そりゃそうよ。": "Grwahaha ! On dirait que tu fais une drole de\ntete a force de jouer les chasseurs de\nspectres. Fufufu. C'est bien normal."
+    "100480": {
+        "「おぅ！　いたいた　ラスタ！\n　そろそろ　帰ってこいよ……": "Oh ! Te voila, Rasta ! Il est temps de\nrentrer..."
     },
-    "100459": {
-        "「なんせ　オレもよく　わかんねぇんだからな！\n　わかんなくとも　けっこう　毛だらけ。\n　しましまキャットは　しまだらけだ。": "Eh bien, je ne comprends pas tout non plus, tu\nsais ! Meme si je ne comprends pas, c'est\nassez poilu. Candy Cat est couvert de rayures."
+    "100481": {
+        "「よよよっ！？": "Yo yo yo !"
     },
-    "100460": {
-        "「だがよ　怨霊と踊り子に　カンケーが\n　ねぇワケでもねぇ。じつは　大昔の\n　踊り子ってのは　今とはすこし　違っててな。": "Cependant, il n'est pas tout a fait sans lien\nentre les esprits malveillants et les\ndanseuses. En fait, il y a longtemps, les<br>danseuses etaient un peu differentes de celles\nd'aujourd'hui."
+    "100482": {
+        "「グルアァッ！！": "Gruaaah !!"
     },
-    "100461": {
-        "「なんでも　歌や踊りに　秘められた\n　呪術的なチカラ……　それを利用して\n　怨霊をはらうのが　役目だったらしいぜ。": "Apparemment, leur role etait d'exorciser les\nesprits malveillants en utilisant le pouvoir\nmystique cache dans le chant et la danse..."
+    "100483": {
+        "「せいッ！": "<se 60>"
     },
-    "100462": {
-        "「その昔　マジ強ぇ踊り子が　怨霊の親玉と\n　大戦争やらかしたって　伝説まで残ってんだ。\n　マジ強踊り子伝説ってワケだな。": "Il y a longtemps, il y a une legende d'une\ndanseuse incroyablement forte qui a mene une\ngrande guerre contre le chef des esprits<br>vengeurs. C'est ce qu'on appelle la legende de\nla danseuse incroyablement forte."
+    "100484": {
+        "「ラッ…ララ…ララ…ラスタ！？": "La... La la... La la... Rasta !?"
     },
-    "100463": {
-        "「ただいま。あら　あなたは……。": "Je suis rentree. Oh, vous etes..."
+    "100485": {
+        "「こないで！！": "Ne t'approche pas !!"
     },
-    "100464": {
-        "「おぅ　ラスタ！　いいとこに　帰ってきたな。\n　ちょうど　<pc>が　例の怨霊どもを\n　ギッタンギッタンに　してきたところよ。": "Oh, Rasta ! Tu es rentre au bon moment.\n<pc> vient tout juste de revenir apres\navoir mis une raclee a ces esprits<br>malveillants."
+    "100486": {
+        "「除霊踊り……絶の舞ッ！": "La danse de purification... La Danse Supreme !"
     },
-    "100465": {
-        "「怨霊……ああ。この前　話したやつね。": "Esprits vengeurs... Ah, oui. Ceux dont je t'ai\nparle l'autre jour."
+    "100487": {
+        "「グゥゥ……ウォォォォ！！": "Groooaaar... Woooaaar!!"
     },
-    "100466": {
-        "「なんでぃ。反応うすいぜ？　ラスタ。\n　……ははん。さては　お前　コイツに\n　追い抜かれるのを　心配してんのか？": "Pourquoi cette reaction si tiede, Rasta ? ...\nHaha. Je vois, tu t'inquietes que celui-la te\ndepasse, n'est-ce pas ?"
+    "100488": {
+        "「はあああッ！！": "Haahhh !!"
     },
-    "100467": {
-        "「グワッハハハ！　まぁ　無理ねぇか。\n　コイツってば　古き伝説の　マジ強踊り子すら\n　追い抜いちまう　勢いだからな！": "Gwahahaha ! Eh bien, c'est impossible. Ce\ngars-la a meme la fougue pour surpasser les\ndanseurs legendaires Old qui sont vraiment<br>puissants !"
+    "100489": {
+        "「オノレ……ニックキ……オドリコメ……。\n　シカシ……コクエンオウハ……": "Axes... Nicci... Dansez... Cependant... le Roi\ndu Feu Noir..."
     },
-    "100468": {
-        "「うんにゃ……。\n　もうとっくに　追いこしてたりしてな。\n　ふっふっふ……。": "Non, non... Je t'ai deja bien depasse depuis\nlongtemps. Heh heh heh..."
+    "100490": {
+        "「舞い散りなさい……。": "Dispersez-vous en danse..."
     },
-    "100469": {
-        "「……笑わせないで。": "Ne me fais pas rire."
+    "100491": {
+        "「おい　ラスタ……。こりゃあ\n　いったいぜんたい　どうなってやがる？\n　お前……　今の踊りは……。": "He, Rasta... Qu'est-ce qui se passe ici ?\nCette danse que tu viens de faire..."
     },
-    "100470": {
-        "「いやあ　これからは　マジ強踊り子で\n　爆売れ伝説の　時代だな！\n　マジ強　爆売れ　ガッポガポ！　ムホッ……": "Ah, desormais, c'est l'ere des danseurs super\npuissants et des ventes spectaculaires qui\ncommence ! Super puissants, ventes<br>spectaculaires, plein de profits ! Muhoh..."
+    "100492": {
+        "「…………。": ""
     },
-    "100471": {
-        "「……笑わせないでっ！！": "… Ne me fais pas rire !!"
+    "100493": {
+        "「ナッチョス感動伝説！！": "La legende emouvante des Nachos !!"
     },
-    "100472": {
-        "「はひッ！？": "<ha 60> !?"
+    "100494": {
+        "「えっ……？": "Quoi... ?"
     },
-    "100473": {
-        "「あんな低級霊　浄化できて当たり前よ。\n　古き伝説の踊り子の強さ……\n　踊りの高みは　そんなものじゃないわ！": "Il est normal de pouvoir purifier un esprit\naussi faible. La force de la legendaire\ndanseuse Old Ki... La veritable grandeur de la<br>danse va bien au-dela de ca !"
+    "100495": {
+        "「グワッハハハ！　いやぁ　おどれぇたぜ！\n　まっさか　この目で　伝説の除霊踊りを\n　見ることが　できるたぁなぁ！": "Gwahahaha ! Eh bien, quelle surprise ! Jamais\nje n'aurais cru pouvoir voir de mes propres\nyeux la legendaire danse d'exorcisme !"
     },
-    "100474": {
-        "「………………。": ""
+    "100496": {
+        "「最近のお前は　なんてぇか\n　ひと皮むけた感じが　してたけどよ。\n　こりゃあ　ひと皮ってレベルじゃねぇぞ！": "Recemment, tu avais l'air d'avoir passe un\ncap, d'avoir muri, mais la... Ce n'est plus\njuste une question de murir un peu !"
     },
-    "100475": {
-        "「ふっふっふ。オレとしたことが……。\n　ありゃ　しばらく　フキゲン伝説だな……。\n　しっかし　あんなに　怒ることかねぇ？": "Fufufu. Moi, un tel manquement... Ca va\ndevenir une legende de la mauvaise humeur\npendant un moment... Mais est-ce vraiment<br>quelque chose qui merite autant de colere ?"
+    "100497": {
+        "「そ……そう？　それは……よかったわ。": "Vraiment... ? Eh bien... c'est une bonne\nnouvelle."
     },
-    "100476": {
-        "「最近　やたら　ピリピリしてんだよなぁ……。\n　まぁ　伝説に名を刻む　踊り子としての\n　自覚が　出てきたんなら……いいことだがよ。": "Recemment, elle est vraiment sur les nerfs...\nEnfin, si elle commence a prendre conscience\nde son role en tant que danseuse legendaire,<br>c'est une bonne chose."
+    "100498": {
+        "「どうりで　合方をほしがるわけだぜ。\n　除霊踊りなら　ふたりって相場が決まってらぁ。\n　古き伝説にもある　あの　踊りだもんな……。": "Pas etonnant qu'il veuille un partenaire. Pour\nla danse d'exorcisme, c'est toujours par deux.\nC'est la danse legendaire mentionnee dans les<br>anciennes traditions, apres tout..."
     },
-    "100477": {
-        "「つぅワケで　<pc>の　成長を\n　お披露目すんのも　また今度だな。": "Ainsi, la prochaine fois, nous aurons\nl'occasion de montrer les progres de\n<pc>."
+    "100499": {
+        "「にしても　いったい　どこで覚えたんだ？\n　それに　さっきの怨霊……なのか？\n　たしか　コクエンオウが　なんたらって……": "En tout cas, ou as-tu appris ca ? Et cette\napparition malefique tout a l'heure...\nQu'est-ce que c'etait ? Je me souviens que<br>c'etait quelque chose a propos de Kokuenou..."
     },
-    "100478": {
-        "「まぁ　安心しろよ。お前ほどの　逸材なら\n　ラスタの　お眼鏡にかなうようになるのも\n　あっという間の　マジカルハットだろ。": "Allez, ne t'inquiete pas. Avec un talent comme\nle tien, tu vas vite attirer l'attention de\nRasta en un rien de temps, c'est du Hat<br>Hamwitch."
+    "100500": {
+        "「さ……さあ。そんなこと言ってたかしら。\n　あの踊りは　昔　おばあさまに　教わったのよ。\n　本当に効くとは思わなかったわ。こんな……": "Sa... ca. Ai-je vraiment dit ca ? Cette danse,\nje l'ai apprise de ma grand-mere autrefois. Je\nne pensais pas que ca fonctionnerait vraiment.<br>C'est..."
     },
-    "100479": {
-        "「次こそは　ビシっと\n　合方として　認めてもらおうぜ！": "Cette fois, faisons en sorte d'etre reconnus\ncomme partenaires competents !"
+    "100501": {
+        "「いたっ……！！": "Aie... !!"
     },
-    "103095": {
-        "「たいしたもんじゃねぇが　景気づけに\n　こんなもんを　用意させてもらったぜ。\n　引き続き　がんばってくれよな。": "Ce n'est pas grand-chose, mais pour marquer le\ncoup, j'ai prepare ca pour toi. Continue de te\ndonner a fond, d'accord ?"
+    "100502": {
+        "「おいっ……どうした？": "He... Qu'est-ce qui se passe ?"
+    },
+    "100503": {
+        "「なんでもないわ……。\n　さっきの戦いで　すこし　ひねっただけよ。": "Ce n'est rien... Je me suis juste un peu tordu\npendant le combat tout a l'heure."
+    },
+    "100504": {
+        "「あちゃあ……。やっちまったな！\n　こりゃ　次の舞台は　ドタキャン伝説だな。": "Ah la la... J'ai vraiment gaffe ! La prochaine\nscene sera surement la legende de DotaKyan."
+    },
+    "100505": {
+        "「バカ言わないで！　これくらいのケガで\n　舞台を降りてたら　プロ失格よ。\n　お客さんだって　楽しみにしてるのに……。": "Ne dis pas de betises ! Si je quittais la\nscene pour une blessure de ce genre, je ne\nserais plus digne d'etre une professionnelle.<br>Les spectateurs attendent ca avec\nimpatience..."
+    },
+    "100506": {
+        "「……ダメだ。これくらいだろうと　なんだろうと\n　ケガはケガだ。プロデューサーとして\n　見過ごすわけにゃあ　いかねぇよ。": "…Non, ca ne va pas. Que ce soit une petite\nblessure ou autre chose, une blessure reste\nune blessure. En tant que producteur, je ne<br>peux pas l'ignorer."
+    },
+    "100507": {
+        "「でも……": "Mais..."
+    },
+    "100508": {
+        "「デーモンも　モーモンもねぇ！\n　まぁ　なんとかしてやりてぇが……ひねった\n　くじいたは　案外治るのに　時間かかんだよな。": "Les demons et les Teeny Sanguini non plus ! Eh\nbien, d'une maniere ou d'une autre, je me suis\ndebrouille avec ma lance... Je l'ai tordue. Ca<br>prend plus de temps que prevu pour guerir une\nentorse."
+    },
+    "100509": {
+        "「伝説的スピードで　治す方法でもあれば\n　いいんだがよ……。": "Si seulement il existait un moyen legendaire\npour le soigner rapidement..."
+    },
+    "100510": {
+        "「まてよ……。そういえば伝説に……。\n　グワッハハハ！　そうか。その手があったか。": "Attends une minute... Maintenant que j'y\npense, dans la legende... Gwahahaha ! Je vois.\nC'etait une option, apres tout."
+    },
+    "100511": {
+        "「おい　<pc>。\n　わりぃが　この後　テントまで来てくれ。\n　俺ぁ　ラスタかついで　先に行ってっからよ。": "He, <pc>. Desole, mais peux-tu venir\njusqu'a la tente apres ca ? Je vais porter\nRasta et y aller en avance."
+    },
+    "100512": {
+        "「ちいーっと　頼まれてほしいことがあるんで\n　手を貸しちゃくれねぇか？\n　伝説的に　いいことを思いついたんだ。<yesno><close>": "J'aurais besoin de te demander un petit\nservice. Tu pourrais me donner un coup de main\n? J'ai pense a quelque chose de legendaire."
+    },
+    "100513": {
+        "「グワッハハハ！　こんな状況下でも\n　空気読まずに　冗談かますたぁな。\n　やっぱ　逸材は　ひと味違ぇなぁ。": "Gwahahaha ! Meme dans une situation comme\ncelle-ci, tu ne te genes pas pour sortir une\nblague. Les talents exceptionnels se<br>demarquent vraiment des autres."
+    },
+    "100514": {
+        "「まぁ……冗談は　さておきだ。\n　チカラを貸してくれよ。なっ！\n　このとーり！<yesno><close>": "Bon… Treve de plaisanteries. Aide-moi,\nd'accord ? Comme ca, je te prie !\n<yesno><close>"
+    },
+    "100515": {
+        "「グワッハハハ！　恩に着るぜ。\n　さっすが　俺の見込んだ　踊り子よ。\n　それじゃあ　テントで待ってるぜ！": "Gwahahaha ! Je te suis reconnaissant. Comme\nprevu, tu es une danseuse a la hauteur de mes\nesperances. Alors, je t'attendrai sous la<br>tente !"
+    },
+    "100516": {
+        "「おぅおぅ　ラスタ。\n　景気わりぃ　顔してやがんな。": "Oh, oh, Rasta. Tu as l'air d'avoir le moral\ndans les chaussettes."
+    },
+    "100517": {
+        "「景気ね……。次のステージで　私が踊らなければ\n　それこそ　悪くなる一方だと　思うけど？\n　パンの耳は　もう　食べあきたわ……。": "L'economie, hein... Je pense que si je ne\ndanse pas lors de la prochaine etape, ca ne\npourra qu'empirer. J'en ai assez de manger des<br>croutes de pain..."
+    },
+    "100518": {
+        "「あのなぁ……ラスタ。無理して踊って\n　もしものことが　あってみろ……。\n　永遠のパン耳伝説の　幕開けだぜ？": "Ecoute, Rasta... Si tu forces trop et qu'il\nt'arrive quelque chose en dansant... Ce sera\nle debut de la legende eternelle des oreilles<br>de pain !"
+    },
+    "100519": {
+        "「わかってるけど……ダメなのよ！\n　これくらい……　これくらいで\n　踊れないようじゃ　私は……！！": "Je comprends, mais... je ne peux pas ! Si je\nne peux pas danser avec si peu... avec ca...\nAlors moi, je... !!"
+    },
+    "100520": {
+        "「まぁ……\n　わかってらぁ。お前のことだ。\n　このまま　あきらめるワケもねぇよな。": "Eh bien... Je comprends. C'est toi, apres\ntout. Tu ne vas pas abandonner comme ca,\nn'est-ce pas ?"
+    },
+    "100521": {
+        "「えっ……！？": "Quoi...!?"
+    },
+    "100522": {
+        "「<pc>。\n　ほれ　渡してやんな。": "<pc>. Tiens, donne-lui ca."
+    },
+    "100523": {
+        "「こ……これは！！": "Qu... Qu'est-ce que c'est !!"
+    },
+    "100524": {
+        "「グワッハハハハ！　急に　葉っぱ渡されても\n　なんのこっちゃ　わかんねぇよな。\n　聞いて驚くなよぅ。これは伝説の……": "Gwahahaha ! Si tu recois soudainement une\nfeuille, tu ne comprends pas de quoi il\ns'agit, n'est-ce pas ? Ecoute bien et sois<br>pret a etre surpris. C'est une legendaire..."
+    },
+    "100525": {
+        "「カイユの葉じゃない！ \n　どうして　これを……？": "Ce n'est pas une Feuille de Recuperation !\nPourquoi est-ce que c'est... ?"
+    },
+    "100526": {
+        "「なんでぃ　なんでぃ。知ってたのかよ。": "Pourquoi ? Pourquoi ? Tu le savais deja ?"
+    },
+    "100527": {
+        "ラスターシャは　カイユの葉を\n足首に　はりつけた。": "Rastasha a applique une Feuille de\nRecuperation sur sa cheville."
+    },
+    "100528": {
+        "「痛みを　優しく包み込むような\n　この　あたたかさ……ホンモノね。": "Cette chaleur qui enveloppe doucement la\ndouleur... C'est la vraie."
+    },
+    "100529": {
+        "「まさか　あなた……。\n　私のために　わざわざ\n　あんな　危険なところに……？": "Incroyable... Vous etes alle dans un endroit\nsi dangereux... juste pour moi ?"
+    },
+    "100530": {
+        "「まったく……。\n　ナッチョスといい　あなたといい……\n　お人好しも　いいとこだわ。": "Vraiment... Nachos et toi... Vous etes\nvraiment trop gentils."
+    },
+    "100531": {
+        "「よかった……これなら舞台に立てる。\n　お客さんを　がっかりさせずに済むわ……！": "Super... Avec ca, je vais pouvoir monter sur\nscene. Je ne decevrai pas le public...!"
+    },
+    "100532": {
+        "「か……勘違いしないでよね。\n　今回の件と　あなたの実力を\n　認めるかどうかは　話が別よ！": "Ne... ne te meprends pas. L'affaire de cette\nfois-ci et la reconnaissance de tes\ncompetences sont deux choses differentes !"
+    },
+    "100533": {
+        "「あなたなんて　まだまだ　半人前なんだから。\n　あまり　調子に乗らないでよ？": "Tu n'es encore qu'a moitie forme. Ne prends\npas trop la grosse tete, d'accord ?"
+    },
+    "100534": {
+        "「お…おい　ラスタ！？\n　その態度は　いくらなんでも……。": "He... he, Rasta !? Cette attitude, c'est un\npeu trop..."
+    },
+    "100535": {
+        "「まぁでも……お礼は言っておくわ。\n　今は　なんだか……無性に踊りたい気分なの。\n　……ありがとね。": "Eh bien, je vais quand meme te remercier. En\nce moment, j'ai une envie irresistible de\ndanser... ...Merci."
+    },
+    "100536": {
+        "「じゃあ　ステージ行ってくるわ。": "Alors, je vais monter sur scene."
+    },
+    "100537": {
+        "「おぅ！　気ぃつけてな！": "Oh ! Faites attention a vous !"
+    },
+    "100538": {
+        "「いやあ　よかった　よかった！\n　ケガも　よくなって　食いぶち確保！\n　パン耳生活からも　脱出だな。": "Ah, je suis tellement soulage, vraiment\nsoulage ! Les blessures sont gueries et on a\nde quoi manger ! On peut enfin dire adieu a<br>notre vie de miettes de pain."
+    },
+    "100539": {
+        "「ラスタと　<pc>も\n　ほんのちっとは　打ち解けたみてぇだしよ。\n　めでたし　めでたしだぜ。": "Rasta et <pc> semblent enfin avoir un\npeu brise la glace. Tout est bien qui finit\nbien."
+    },
+    "100540": {
+        "「しかし……まだ　お前のこと\n　半人前とか　言ってたな。\n　まさか　これでも　足りねぇとは……。": "Cependant... on disait encore que tu etais un\napprenti. Je n'aurais jamais imagine que meme\ncela ne suffirait pas..."
+    },
+    "100541": {
+        "「まぁ　本人が　ああ言ってんなら　仕方ねぇ。\n　今回は　トホホのホイミンだが　お前が\n　一線級の踊り子だってことを……": "Eh bien, si c'est ce qu'il dit, on n'y peut\nrien. Cette fois, c'est un coup dur pour\nHoimin, mais que tu sois une danseuse de<br>premier rang..."
+    },
+    "100542": {
+        "「しんぼう強く　ラスタに示し続けりゃあ\n　さすがに　納得しねぇワケには　いかねぇだろ。\n　次こそ　最高の合方として　認めてもらおうぜ！": "Si tu continues a montrer ta perseverance a\nRasta, il finira par etre convaincu. La\nprochaine fois, faisons en sorte qu'il nous<br>reconnaisse comme les meilleurs partenaires !"
+    },
+    "103106": {
+        "<pc>は　ラスターシャに\nカイユの葉を　手渡した。": "<pc> a remis une Feuille de Recuperation\na Rastasha."
+    },
+    "103107": {
+        "「こいつは　今回の件の礼だ。気に入るかは\n　わからねぇが　とりあえず　受け取ってくれよ。": "Voici un cadeau pour te remercier de cette\naffaire. Je ne sais pas si ca te plaira, mais\naccepte-le pour l'instant."
+    },
+    "106874": {
+        "「ああ　あいつか？　死んじゃいねえみたいだな。\n　心配いらねぇよ。ちょっくら　仲間を呼んで\n　世話しといてもらうぜ。そんなことより……だ。": "Ah, lui ? On dirait qu'il n'est pas mort. Pas\nbesoin de s'inquieter. Je vais appeler\nquelques amis pour qu'ils s'occupent de lui.<br>Mais plus important que ca..."
+    },
+    "118062": {
+        "ナッチョスは　倒れたオーガを運ぶ\n仲間を見届けると　ラスターシャを\nかついで　獅子門のテントへ戻っていった。": "Nachos, apres avoir veille sur ses compagnons\ntransportant l'Ogre vaincu, souleva Rastasha\net retourna vers la tente de Lion Gate."
     }
 }
