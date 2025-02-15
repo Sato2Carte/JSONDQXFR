@@ -1,188 +1,125 @@
 {
-    "18929": {
-        "「これより　第１０回\n　演芸グランプリを　開催する！": "A partir de maintenant, nous allons lancer le\n10eme Grand Prix des Arts du Spectacle !"
+    "63716": {
+        "「この音色……\n　以前　私たちが来た時に\n　聞こえた音と　同じだわ……。": "Cette melodie... C'est la meme que celle que\nnous avions entendue la derniere fois que nous\nsommes venus..."
     },
-    "18930": {
-        "「では　さっそく１次予選を始める。\n　参加するのは　三度の飯より笑いを愛する\n　選りすぐりの４組じゃ！": "Alors, commencons des maintenant la premiere\nselection. Participeront quatre equipes triees\nsur le volet, qui aiment le rire plus que<br>trois repas par jour !"
+    "63717": {
+        "「ここから先は　魔物が集まってて　危険ですわ。\n　さあ　レムオルの粉をかけますわよ。": "Au-dela de cet endroit, les monstres se\nrassemblent et c'est dangereux. Allez, je vais\nutiliser la Poudre de Disparition."
     },
-    "18931": {
-        "「このうち　面白かった３組が\n　２次予選に進出とする！\n　１次予選の　お題は……。": "Parmi ceux-ci, les trois equipes les plus\ninteressantes passeront a la deuxieme phase\ndes qualifications ! Le theme du premier tour<br>est..."
+    "63718": {
+        "「すっかり　見えなくなりましたわね。\n　この効果は　あまり　長くもたないそうですから\n　急いで　行きましょう。": "On ne voit plus rien maintenant. Il parait que\ncet effet ne dure pas tres longtemps, alors\ndepechons-nous d'y aller."
     },
-    "18932": {
-        "「<pc>の　ガッツポーズを見て\n　何か面白いリアクションをする！　じゃ！": "En voyant la pose victorieuse de <pc>,\ntu reagis de maniere amusante ! Allez !"
+    "63719": {
+        "「ご　ごめんなさい！\n　どこにいるか　わからなくて……。\n　手探りしながら　行きますわね。": "Je suis... desolee ! Je ne sais pas ou je\nsuis... Je vais avancer en tatonnant."
     },
-    "18933": {
-        "「ウオオオオーーーッ！！\n　１次予選から　ハードルたけえ！": "Uooooohhh !! Les epreuves preliminaires sont\ndeja super difficiles !"
+    "63720": {
+        "「やあ　こんにちは。\n　キミたちも　僕の演奏を聴きにきたのかい？": "Salut, bonjour. Vous etes venus ecouter mon\nconcert, vous aussi ?"
     },
-    "18934": {
-        "「村長は　本気だな！": "Le chef du village est serieux !"
+    "63721": {
+        "「……あなた　誰？\n　ここで　いったい何をしているの？": "Qui etes-vous ? Que faites-vous ici exactement\n?"
     },
-    "18935": {
-        "「エントリーナンバー１！\n　もう　ヘタレ芸人とは呼ばせない！\n　お笑い元気小僧！　ヘレット～～！": "Numero d'entree 1 ! Ne m'appelez plus le\ncomedien minable ! Le petit clown energique !\nHerette～～ !"
+    "63722": {
+        "「僕は　セリク。\n　グランゼドーラ王国から　やってきた\n　トゥーラ弾きの　セリクさ。": "Je suis Selik. Je viens du Royaume de Gran\nZedora, et je suis Selik, le joueur de Torban."
     },
-    "18936": {
-        "「よし　<pc>よ！\n　ガッツポーズを　するのじゃ！": "Tres bien, <pc> ! Fais un geste\ntriomphant !"
+    "63723": {
+        "「ずっとひとりで　退屈だったから\n　愛用のトゥーラを　奏でていたんだ。\n　そしたら　魔物が集まってしまってね。": "J'etais seul et je m'ennuyais, alors je jouais\nde mon fidele Torban. Et voila que des\nmonstres se sont rassembles autour de moi."
     },
-    "18937": {
-        "ガッツポーズを　しますか？<yesno><close>": "Voulez-vous faire un geste de victoire ?\n<yesno><close>"
+    "63724": {
+        "「はじめは　びっくりしたけど\n　みんな　僕の曲が聴きたいだけみたいだから\n　敵意はないと思うよ。安心して。": "Au debut, j'etais surpris, mais il semble que\ntout le monde veut juste ecouter ma musique.\nJe ne pense pas qu'ils soient hostiles.<br>Rassure-toi."
     },
-    "18938": {
-        "「……ブエーックション！": "… Atchoum !"
+    "63725": {
+        "「……あなたは　どうして\n　こんな　ほら穴に　ひとりでいるの？\n　お父さんや　お母さんは　いないの？": "Pourquoi es-tu ici tout seul dans cette grotte\n? Tu n'as pas de pere ou de mere ?"
     },
-    "18939": {
-        "「本番中に　くしゃみとは　いかんな。\n　コホン……。では　気を取り直して。": "Eternuer pendant la representation, ce n'est\npas ideal. Ahem... Bon, reprenons."
+    "63726": {
+        "「僕は　父さんや母さんと一緒に\n　セレドという町に行くところだったんだ。\n　だけど　その道中で　気を失ってしまって……": "J'etais en route pour la ville de Seredo avec\nmon pere et ma mere. Mais en chemin, j'ai\nperdu connaissance..."
     },
-    "18940": {
-        "「えっ　えっ　どうすればいいの！？": "Eh, eh, que devrais-je faire !?"
+    "63727": {
+        "「目が覚めたら　ふたりとも　いなくなっててさ。\n　さまよい歩いて　たどりついた　このほら穴で\n　誰かが見つけてくれるのを　待っていたんだよ。": "Quand je me suis reveille, vous etiez tous les\ndeux partis. J'ai erre jusqu'a atteindre cette\ncaverne, en esperant que quelqu'un viendrait<br>me trouver."
     },
-    "18941": {
-        "会場は　水を打ったように静まり返った。": "La salle se plongea dans un silence de plomb."
+    "63728": {
+        "「そう……。\n　あなたの　お父さんも　お母さんも\n　いつの間にか　消えてしまったのね。": "Je vois... Ton pere et ta mere ont disparu\nsans que tu t'en rendes compte."
     },
-    "18942": {
-        "「エントリーナンバー２！\n　オレは　テンション芸だけで飯を食っていく！\n　プクレットの爆走芸人！　フップ～～！": "Numero d'entree 2 ! Je vais vivre grace a mon\nart de la tension ! Le comedien dechaine de\nPukulet ! Fuppu~~ !"
+    "63729": {
+        "「私の名前は　リゼロッタ。\n　もし　よろしかったら　私と一緒に\n　セレドの町まで　参りませんこと？": "私の名前はリゼロッテ もしよろしければ、一緒にセレッドの町まで参りませんか？"
     },
-    "18943": {
-        "「よし　<pc>よ！\n　ガッツポーズを　するのじゃ！": "Tres bien, <pc> ! Fais un geste\ntriomphant !"
+    "63730": {
+        "「おや……？\n　キミは　セレドの町の子なのかい？": "Oh… ? Es-tu l'enfant de la Ville de Celed ?"
     },
-    "18944": {
-        "ガッツポーズを　しますか？<yesno><close>": "Voulez-vous faire un geste de victoire ?\n<yesno><close>"
+    "63731": {
+        "「ええ。あなたさえよければ\n　その　すばらしいトゥーラの音色を\n　町のみんなに　聴かせてあげてほしいわ。": "Oui. Si cela vous convient, j'aimerais que\ntout le monde en ville puisse entendre le\nmerveilleux son de votre Torban."
     },
-    "18945": {
-        "「……ヒクッ！　ヒク！　うひゃ！": "...Hic ! Hic ! Ouh la !"
+    "63732": {
+        "「……ふふっ。\n　それじゃ　お言葉に　甘えようかな。": "…Fufufu. Dans ce cas, je vais accepter votre\noffre."
     },
-    "18946": {
-        "「本番中に　しゃっくりとは　いかんな。\n　コホン……。では　気を取り直して。": "Avoir le hoquet en pleine performance, ce\nn'est pas ideal. Hum... Reprenons-nous."
+    "63733": {
+        "「<pc>さん　そういうことですから\n　私　彼を　セレドの町まで連れていきますわ。": "<pc>-san, c'est ainsi que les choses se\npassent. Je vais l'accompagner jusqu'a la\nville de Celed."
     },
-    "18947": {
-        "「ガッツ！　ステップ！　ジャーンプ！": "Guts ! Step ! Jump !"
+    "63734": {
+        "「今回のお礼を　差し上げますから\n　後で　セレドの町の\n　高台の教会まで　いらしてください。": "En remerciement, je vous offre un petit\nquelque chose. Je vous prie de bien vouloir\nvous rendre plus tard a la Haute Eglise de la<br>Ville de Celed."
     },
-    "18948": {
-        "会場は　なごやかな笑いに包まれた。": "La salle etait enveloppee d'un rire\nchaleureux."
+    "63735": {
+        "「さあ　こちらですわ。": "Par ici, s'il vous plait."
     },
-    "18949": {
-        "「エントリーナンバー３！\n　オレたちの　しゃべりは　デンジャーゾーン！": "Numero d'entree 3 ! Notre discours est une\nzone de danger !"
+    "63736": {
+        "「わぁっ　すごい　すごいー！": "Waouh, incroyable, incroyable !"
     },
-    "18950": {
-        "「お笑い界の下克上コンビ！\n　ハパント・ヘント兄弟～～！": "Le duo revolutionnaire du monde de la comedie\n! Hapanto・HentoBrothers～～ !"
+    "63737": {
+        "「すごく　キレイな音色だね。\n　感動したよ……。": "Quelle belle melodie. Je suis vraiment\ntouche..."
     },
-    "18951": {
-        "「よし　<pc>よ！\n　ガッツポーズを　するのじゃ！": "Tres bien, <pc> ! Fais un geste\ntriomphant !"
+    "63738": {
+        "「やだ　アタシ　泣いちゃった……。": "Zut, j'ai pleure..."
     },
-    "18952": {
-        "ガッツポーズを　しますか？<yesno><close>": "Voulez-vous faire un geste de victoire ?\n<yesno><close>"
+    "63739": {
+        "「……ね。ステキでしょう？\n　前に　山の中で見かけた　魔物の群れは\n　この演奏を聴きに　集まってたのよ。": "...Tu vois, n'est-ce pas magnifique ? La\nderniere fois, un groupe de monstres que j'ai\napercu dans la montagne s'etait rassemble pour<br>ecouter cette melodie."
     },
-    "18953": {
-        "「…………あれ。": "…Tiens."
+    "63740": {
+        "「彼は　セリクっていうの。\n　ご両親と一緒に　セレドの町に\n　来るはずだったんですって。": "Il s'appelle Selik. Il devait venir a la Ville\nde Celed avec ses parents."
     },
-    "18954": {
-        "「耳の中に虫が……。いかんいかん。\n　コホン……。では　気を取り直して。": "Un insecte dans mon oreille... Oh non, oh non.\nHum... Bon, reprenons-nous."
+    "63741": {
+        "「けれど　町に来る途中　気を失って\n　目が覚めたら　お父さんも　お母さんも\n　消えていたそうなの……。": "Mais, sur le chemin pour venir en ville, il a\nperdu connaissance. Quand il s'est reveille,\nson pere et sa mere avaient disparu..."
     },
-    "18955": {
-        "「この人のガッツポーズ　古いなー。\n　今　流行りのガッツポーズは　これやろ。": "La pose de victoire de cette personne est\ntellement Old school, tu ne trouves pas ? La\npose de victoire a la mode en ce moment, c'est<br>celle-ci."
+    "63742": {
+        "「リズ　それって……。": "Riz, c'est..."
     },
-    "18956": {
-        "「いや　それも古いわ。\n　今　流行りのガッツポーズは　これやろ。": "Non, ca c'est depasse. Le geste a la mode\nmaintenant, c'est celui-ci."
+    "63743": {
+        "「……みんな。\n　セリクを　私たちの\n　新しい仲間に加えていいかしら？": "......Tout le monde. Est-ce que ca vous va si\nnous ajoutons Selik comme notre nouveau\ncompagnon ?"
     },
-    "18957": {
-        "「いやいやいや。今は　これやろ。": "Non, non, non. C'est ca qu'il faut faire\nmaintenant."
+    "63744": {
+        "「ありがとう　みんな。": "Merci a tous."
     },
-    "18958": {
-        "「そんなのありえんわ。今は　これやろ。": "Ca, c'est impossible. C'est ca qu'il faut\nmaintenant."
+    "63745": {
+        "「これから　よろしくお願いしますわ。\n　私や　みんなを　家族だと思って\n　いつでも　頼りにしてくださいな。": "A partir de maintenant, je compte sur vous.\nConsiderez-moi et tout le monde ici comme\nvotre famille. N'hesitez jamais a faire appel<br>a nous."
     },
-    "18959": {
-        "「あっ……………………。それいい。": "Ah... C'est bien."
+    "63746": {
+        "「……ところで　気になってたんだけど\n　この町にいるのは　子供たちばかりだね。\n　大人は　いないのかい？": "…Au fait, ca m'intriguait, mais il n'y a que\ndes enfants dans cette ville. Il n'y a pas\nd'adultes ?"
     },
-    "18960": {
-        "「いやいや……。\n　お前のガッツポーズのが　全然いいわ。": "Non, non... Ton geste de victoire est bien\nmeilleur."
+    "63747": {
+        "「そっ……　それはね　ええと……。": "Euh... eh bien, c'est... voyons voir..."
     },
-    "18961": {
-        "「いやいや……。お前のガッツポーズこそ\n　本物のガッツポーズや……。": "Non, non... Ta pose de victoire, c'est ca la\nvraie pose de victoire..."
+    "63748": {
+        "「まあ　そんなこと　どうでもいいか。\n　ちょっと　トゥーラの練習をしてくるよ。": "Eh bien, peu importe tout ca. Je vais aller\nm'entrainer un peu au Torban."
     },
-    "18962": {
-        "ハパントとヘントの軽妙なトークで\n会場は　大いに盛り上がった。": "La salle s'est animee avec enthousiasme grace\nau dialogue enjoue entre Hapanto et Hento."
+    "63749": {
+        "「なんだか　彼　不思議な人ね……。": "Il est vraiment etrange, cet homme..."
     },
-    "18963": {
-        "「エントリーナンバー４！\n　いぶし銀の輝き　今ここに！\n　孤高のお笑い職人！　ホッププ～～！": "Numero d'entree 4 ! L'eclat argente\neblouissant, ici et maintenant ! L'artisan du\nrire solitaire ! Hoppepu~~ !"
+    "63750": {
+        "「<pc>さんも　お気づきかもしれませんが\n　セリクも　その……\n　私たちと同じなんだと思いますの。": "<pc>-san, vous l'avez peut-etre\nremarque, mais Selik est aussi... Je pense\nqu'il est comme nous."
     },
-    "18964": {
-        "「よし　<pc>よ！\n　ガッツポーズを　するのじゃ！": "Tres bien, <pc> ! Fais un geste\ntriomphant !"
+    "63751": {
+        "「きっと　セレドの町に来る道中で\n　何か　不幸があって　それで……。": "Peut-etre qu'en chemin vers la ville de Celed,\nil leur est arrive un malheur, et alors..."
     },
-    "18965": {
-        "ガッツポーズを　しますか？<yesno><close>": "Voulez-vous faire un geste de victoire ?\n<yesno><close>"
+    "63752": {
+        "「まだ　本人は　気づいてないみたいですが\n　いつか　折を見て　伝えるつもりですから\n　今は　そっとしておいてあげてください。": "Il semble qu'il ne s'en soit pas encore rendu\ncompte, mais je prevois de le lui dire quand\nle moment sera opportun. Pour l'instant,<br>laissez-le tranquille, s'il vous plait."
     },
-    "18966": {
-        "「…………あっ！": "Ah !"
+    "63753": {
+        "「今回は　私の頼みを聞いてくださって\n　ありがとうございます。\n　これは　私からのお礼ですわ。": "Cette fois-ci, merci d'avoir ecoute ma\ndemande. Voici un petit remerciement de ma\npart."
     },
-    "18967": {
-        "「１ゴールドかと思ったら　ゴミじゃったか。\n　残念……。では　気を取り直して。": "Je pensais que c'etait 1 Gold, mais ce n'etait\nque des dechets. Quel dommage... Bon,\nreprenons-nous."
+    "63754": {
+        "「それでは　失礼いたしますわ。": "Sur ce, je vais prendre conge."
     },
-    "18968": {
-        "「オホン……。ひとつ　謎かけをします。": "Ahem... Je vais vous poser une devinette."
+    "63755": {
+        "「……なぜか　わからないけど\n　ここにいると　落ち着くんだ。": "...Je ne sais pas pourquoi, mais etre ici me\ncalme."
     },
-    "18969": {
-        "「ガッツポーズと　かけまして。": "Je fais un poing victorieux et..."
-    },
-    "18970": {
-        "「序盤で手に入れた　ちいさなメダルと解きます。": "Je vais utiliser la Mini Medaille obtenue au\ndebut."
-    },
-    "18971": {
-        "「ふむ。そのココロは？": "Hmm. Quel est le coeur de cette enigme ?"
-    },
-    "18972": {
-        "「どちらも　カチがあるものです。": "Les deux ont leur valeur."
-    },
-    "18973": {
-        "「なるほど！　勝ちと価値というわけじゃな！\n　これは　うまい！": "Je vois ! C'est ca, la victoire et la valeur,\nn'est-ce pas ! C'est ingenieux !"
-    },
-    "18974": {
-        "会場は　感嘆の声に包まれた。": "La salle fut enveloppee par des exclamations\nadmiratives."
-    },
-    "18976": {
-        "「さて！　これより　１次予選は審査に入る。\n　結果が出るまで　しばし　お待ちくだされ。": "Bon ! Le premier tour des qualifications va\nmaintenant etre evalue. Veuillez patienter un\nmoment pour les resultats."
-    },
-    "18977": {
-        "「<pc>よ。お前の意見も\n　後で　わしに聞かせてくれ。": "<pc>. J'aimerais aussi entendre ton avis\nplus tard."
-    },
-    "18978": {
-        "「みなさん　お待たせいたしました。\n　では　これより　１次予選を通過した組を\n　発表します……。えー　コホン……。": "Mesdames et messieurs, merci de votre\npatience. Nous allons maintenant annoncer les\ngroupes qui ont passe la premiere phase des<br>qualifications... Hum, hum..."
-    },
-    "18979": {
-        "「１……２……１・２・３！": "1... 2... 1, 2, 3 !"
-    },
-    "18980": {
-        "「フウッ！！": "Fouh !!"
-    },
-    "18981": {
-        "「ジャラジャラジャラジャラ……………。": "ジャRajャRajャRajャラ…"
-    },
-    "18982": {
-        "「ジャジャーーーン！！": "Jajaaaaan !!"
-    },
-    "18983": {
-        "「フップ！　ハパント・ヘント兄弟！\n　ホッププ！　以上３組が　２次予選に進出！": "Fuppu ! Hapanto・HentoBrothers ! Hopupu ! Ces\ntrois groupes accedent a la deuxieme phase des\nqualifications !"
-    },
-    "18985": {
-        "「……そして　残念ながら\n　１次予選の脱落者は　ヘレット　お前じゃ。\n　敗れはしたが　ナイスファイトだったぞ。": "Et malheureusement, le participant elimine\nlors de la premiere epreuve est Herette. Bien\nque tu aies perdu, c'etait un bon combat."
-    },
-    "18986": {
-        "「最後に　何か言いたいことはあるか？": "As-tu quelque chose a dire avant de terminer ?"
-    },
-    "18987": {
-        "「ボク……。": "Moi..."
-    },
-    "18988": {
-        "「ガッツ！　ステップ！　ジャーンプ！": "Guts ! Step ! Jump !"
-    },
-    "18989": {
-        "「あー！　お前　オレの最高傑作をパクんなよ！": "Ah ! Ne vole pas mon chef-d'oeuvre !"
-    },
-    "18990": {
-        "「では　これにて１次予選は終了じゃ！\n　みんな！　２次予選で　また会おうね！": "Voila, la premiere phase des eliminatoires est\nterminee ! Tout le monde ! On se revoit pour\nla deuxieme phase des eliminatoires !"
-    },
-    "29415": {
-        "「うん。ヒマつぶしには　ちょうどいいね。": "Oui. C'est parfait pour passer le temps."
-    },
-    "29416": {
-        "「オオオオオーーーーーーー！！": "OOOOOOHHHHHHHHHHHHH !!"
+    "63756": {
+        "「でも　見られてると　集中できないよ。\n　悪いけど　ひとりで練習させてくれないかな。": "Mais si on me regarde, je ne peux pas me\nconcentrer. Desole, mais pourrais-tu me\nlaisser m'entrainer seul ?"
     }
 }
