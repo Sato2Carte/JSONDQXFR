@@ -1,158 +1,131 @@
 {
-    "15548": {
-        "「おお　<pc>か。\n　よく来てくれたな。": "Oh, c'est toi, <pc>. Merci d'etre venu."
+    "15814": {
+        "「大臣サマっ！　見つかりました！\n　オーレンと会話する方法を　発見したのデス！": "Ministre-sama ! Nous avons trouve ! Nous avons\ndecouvert une methode pour communiquer avec\nOren !"
     },
-    "15549": {
-        "「村王に　用だったか？\n　残念だが　村王は　このところ不在がちでな。\n　また　来てもらえるか。": "Tu avais besoin de parler au roi du village ?\nMalheureusement, il est souvent absent ces\nderniers temps. Pourrais-tu revenir une autre<br>fois ?"
+    "15815": {
+        "「おお　でかしたぞ！\n　<pc>どのが　来ているときに\n　見つかるとは　まさに　天の導きよな。": "Oh, bravo ! Trouver cela pendant que\n<pc>-dono est ici, c'est veritablement\nune guidance divine."
     },
-    "15550": {
-        "「いや……。ちょっと待ってくれるか。": "Non... Peux-tu attendre un peu ?"
+    "15816": {
+        "「……して　その方法とは　どんなものじゃ？\n　ちゃっちゃと　説明するがよいぞ。": "...Et quelle est donc cette methode ? Allez,\nexplique-moi rapidement."
     },
-    "15551": {
-        "「じつは　村王が　不在がちなことについて\n　相談があるのだ……。": "En fait, j'ai quelque chose a discuter au\nsujet des frequentes absences du roi de notre\nvillage..."
+    "15817": {
+        "「おほっ！　了解しました。\n　それでは……。": "Oh ! Compris. Alors..."
     },
-    "15552": {
-        "「<pc>が　雪山から\n　村王を　救出してくれた日から\n　どうも村王は　様子が　おかしくてな。": "Depuis le jour ou <pc> a sauve le roi du\nvillage de la montagne enneigee, le roi du\nvillage a un comportement etrange."
+    "15818": {
+        "「さる呪術書によれば　魔物となった亡者は\n　生者への憎悪によって　我を忘れ\n　正気を失った状態なのだそうデス。": "Selon un certain livre de sorcellerie, les\nmorts transformes en creatures demoniaques\noublient leur propre etre et perdent la raison<br>en raison de leur haine envers les vivants."
     },
-    "15553": {
-        "「先日の儀式のように　子供たちに何かを教えたり\n　自分の役目を　人に引き継いだり\n　次々に　身の回りの整理を　始めていてな……。": "Comme lors de la ceremonie de l'autre jour, il\na commence a enseigner quelque chose aux\nenfants, a transmettre ses responsabilites aux<br>autres, et a organiser peu a peu ses affaires\npersonnelles..."
+    "15819": {
+        "「彼らと　会話をしたいなら\n　まず　正気を取り戻させなくては\n　ならないとのこと。": "Si tu veux leur parler, il faudra d'abord leur\nfaire retrouver la raison."
     },
-    "15554": {
-        "「最初は　トシを気にされてのことかと\n　見守っていたが　最近は　それも　少々\n　行き過ぎではないかと　感じるほどなのだ。": "Au debut, je pensais que c'etait une question\nd'age, alors je l'observais. Mais recemment,\nj'ai l'impression que cela va un peu trop<br>loin."
+    "15820": {
+        "「そのためには　<%sEV_QUE_NAME0>が\n　よく落とす　鎮魂のロウソクという\n　呪具が必要なのだそうデス。": "Pour cela, il parait que nous avons besoin\nd'un objet ensorcele appele la Requiem Candle,\nqui est frequemment laisse par<br><%sEV_QUE_NAME0>."
     },
-    "15555": {
-        "「まるで……村王は　この村を\n　出ていこうとでもしているのではないかと\n　思うほどに……。": "C'est presque comme si... le chef du village\nenvisageait de quitter ce village..."
+    "15821": {
+        "「鎮魂のロウソクに灯る\n　明かりを見れば　魔物となった亡者は\n　正気を　取り戻すのだとか……。": "On dit que ceux qui apercoivent la lumiere de\nla Requiem Candle retrouvent leur esprit, meme\ns'ils etaient des monstres devenus des ames<br>errantes..."
     },
-    "15556": {
-        "「思いすごしであれば　よいのだが\n　<pc>には　村王が　村を不在にして\n　何をしているのかを　調べてほしいのだ。": "J'espere que ce n'est qu'une inquietude\nexcessive, mais j'aimerais que tu enquetes sur\nce que le roi du village fait en l'absence du<br>village a <pc>."
+    "15822": {
+        "「……ふむ。<%sEV_QUE_NAME0>といえば\n　ドワチャッカ大陸の　カルサドラ火山にいるが\n　手に入れるには　骨が折れるな……。": "Hmm. Quand on parle de <%sEV_QUE_NAME0>, il se\ntrouve dans le Calsadora Volcano sur le\ncontinent de Dwachakka. Cependant, l'obtenir<br>ne sera pas une mince affaire..."
     },
-    "15557": {
-        "「それさえわかれば　私も　安心できる。\n　もちろん　村王には　内密の上でだが\n　やってもらえるだろうか？": "Si je pouvais comprendre cela, je serais\nrassure. Bien sur, cela doit etre fait en\ntoute discretion vis-a-vis du roi du village.<br>Pourriez-vous le faire ?"
+    "15823": {
+        "「……なるほど　よくわかった。\n　ご苦労だったな　ダンデル。\n　もう　下がってよいぞ。": "Je vois, j'ai bien compris. Tu as bien\ntravaille, Danderu. Tu peux te retirer\nmaintenant."
     },
-    "15558": {
-        "「おおっ　本当か！　恩に着るぞ！": "Oh, vraiment ! Je te suis reconnaissant !"
+    "15824": {
+        "「おっほ！　ありがとうございますデス！\n　では　ワタクシは　これにて……。": "Oh ho ! Merci beaucoup ! Eh bien, je vais donc\nprendre conge…"
     },
-    "15559": {
-        "「そういうことなら　まずは　村人たちから\n　目撃情報を集めるのが　よいだろう。\n　村王は　どこにいても　目立つからな。": "Dans ce cas, il serait sage de commencer par\nrecueillir des temoignages aupres des\nVillagers. Le roi du village ne passe jamais<br>inapercu, ou qu'il soit."
+    "15825": {
+        "「<pc>どの。\n　話は　聞いての通りです。": "<pc>-dono. Tu as entendu l'histoire\ntelle qu'elle est."
     },
-    "15560": {
-        "「それでは　よろしく頼んだぞ！": "Je compte sur vous, alors !"
+    "15826": {
+        "「あらためて　お願いしましょう。\n　どうか　<%sEV_QUE_NAME0>が　よく落とす\n　鎮魂のロウソクを　取ってきてくだされ。": "Je vous le demande a nouveau. Pourriez-vous,\ns'il vous plait, recuperer une Requiem Candle\nque < %sEV_QUE_NAME0 > laisse souvent tomber ?"
     },
-    "15561": {
-        "「おおっ　恩に着るぞ……と言いたいところだが\n　どうやら　今は　頼まれごとが\n　いっぱいのようだな……。": "Oh, je te dois une fiere chandelle... c'est ce\nque j'aimerais dire, mais il semble que tu\naies deja beaucoup de demandes en cours..."
+    "15827": {
+        "「そして　そのまま　ベコン渓谷の奥地\n　妖剣士の塚まで　おもむき\n　ロウソクに　火を灯してください。": "Ensuite, rendez-vous au fin fond de la Becon\nValley, jusqu'a la Swordsman's Burial, et\nallumez une bougie."
     },
-    "15562": {
-        "「無理強いはできんが\n　できるなら　手を空けてきて\n　私の頼みを　聞いてほしいところだ。": "Je ne peux pas te forcer, mais si possible,\nj'aimerais que tu te liberes et ecoutes ma\ndemande."
+    "15828": {
+        "「妖剣士オーレンと話して　奴が　どうして\n　レムルの聖杯を　求めているのかを\n　聞きだしてきてほしいのです！": "Je veux que tu parles avec Swordmaster Oren et\ndecouvres pourquoi il recherche le Lemur's\nChalice !"
     },
-    "15563": {
-        "「そ　そうか……。\n　では　気が変わったら　また来てくれ。\n　取りかえしのつかないことになる前にな……。": "Je... Je vois... Eh bien, si tu changes\nd'avis, reviens me voir. Avant que cela ne\ndevienne irreversible..."
+    "15829": {
+        "「この件は　オーレンとも　エイドスさまとも\n　因縁の深い　<pc>どのでなければ\n　果たせぬと思うのですよ。": "<me 60> Je pense que cette affaire ne peut\netre accomplie que par <pc>-dono, qui a\nune profonde connexion avec Oren et<br>Eidos-sama."
     },
-    "15564": {
-        "「おお　<pc>。\n　また来てくれたか。\n　私の頼みを　聞いてくれるのだな？": "Oh, <pc>. Tu es revenu. Tu es pret a\necouter ma demande, n'est-ce pas ?"
+    "15830": {
+        "<if_woman>「おお　引き受けてくださるか！\n　さすがは　<pc>どの。\n　いざという時　頼りになる　ナイスギャル！<else>「おお　引き受けてくださるか！\n　さすがは　<pc>どの。\n　いざという時　頼りになる　ナイスガイ！<endif>": "<if_woman>>Oh, vous acceptez de le faire !\nComme prevu de la part de <pc>-dono. Une\nfille geniale sur qui on peut compter en cas<br>de besoin !<else>>Oh, vous acceptez de le faire ! Comme prevu\nde la part de <pc>-dono. Un gars genial\nsur qui on peut compter en cas de besoin<br>!<endif>"
     },
-    "15565": {
-        "「<pc>が　雪山から\n　村王を　救出してくれた日から\n　どうも村王は　様子が　おかしくてな。": "Depuis le jour ou <pc> a sauve le roi du\nvillage de la montagne enneigee, le roi du\nvillage a un comportement etrange."
+    "15831": {
+        "「では　くれぐれも　お願いします。\n　<%sEV_QUE_NAME0>は　ドワチャッカ大陸の\n　カルサドラ火山に　棲息しているはずですぞ！": "Alors, je compte vraiment sur vous.\n<%sEV_QUE_NAME0> devrait habiter sur le\ncontinent de Dwachakka, dans le volcan<br>Calsadora !"
     },
-    "15566": {
-        "「次々に　身辺整理を始められ\n　まるで……村王は　この村から出ていこうとでも\n　お考えなのではないかと　思うほどに……。": "Il a commence a mettre de l'ordre dans ses\naffaires, comme si... on aurait dit que le\nchef du village envisageait de quitter ce<br>village..."
+    "15832": {
+        "「お気持ちは　うれしいのですが\n　どうやら　他の方からの頼まれごとで\n　お忙しい　ご様子ですな。": "Je suis touche par vos sentiments, mais il\nsemble que vous soyez occupe avec d'autres\nrequetes."
     },
-    "15567": {
-        "「<pc>には　村王が　何をしているのかを\n　調べてほしいのだ。もちろん　村王には\n　内密の上でな。やってもらえるか？": "Je veux que tu enquetes sur ce que fait le roi\ndu village de <pc>. Bien sur, tout cela\ndoit rester secret pour le roi du village.<br>Peux-tu t'en charger ?"
+    "15833": {
+        "「どうか　先に　そちらを片付けてから\n　また　私に　話しかけてくだされ。": "Je vous en prie, occupez-vous de cela d'abord,\npuis revenez me parler."
     },
-    "15568": {
-        "「おお　<pc>。\n　村王が　何をしているかは\n　まだ調査中のようだな。": "Oh, <pc>. Il semble que l'on enquete\nencore sur ce que fait le roi du village."
+    "15834": {
+        "「……むむう　残念ですなぁ。\n　<pc>どのになら　安心して\n　仕事を　まかせられるのに……。": "Mmm, c'est vraiment dommage. Si c'etait a\n<pc>-dono, je pourrais lui confier le\ntravail en toute tranquillite..."
     },
-    "15569": {
-        "「調査の基本は足だ！　とにかく　村人たちから\n　目撃情報を集めるのが　よいだろう。\n　村王は　どこにいても　目立つからな。": "La base de toute enquete, c'est de bouger ! En\ntout cas, il serait bon de recueillir des\ntemoignages aupres des villageois. Le roi du<br>village se remarque ou qu'il soit."
+    "15835": {
+        "「また　気が変わりましたら\n　いつでも　私に　話しかけてくだされ。": "Si jamais vous changez d'avis, n'hesitez pas a\nvenir me parler a tout moment."
     },
-    "15570": {
-        "「私も　ずいぶん　トシをとりました。\n　……なにしろ　あれから２０年です。": "Moi aussi, j'ai pris pas mal d'age. ...Apres\ntout, cela fait 20 ans depuis ce temps-la."
+    "15836": {
+        "「オォォォォ……　誰だ？\n　われから　聖杯を　奪わんとする者は！？": "Ooooooh... Qui est la ? Celui qui cherche a me\nderober le Saint Graal !?"
     },
-    "15571": {
-        "「あなたの血を引く息子が　極限まで\n　きたえあげて……　わしを　殺しにきます。\n　きっと　想像を絶する強さでしょうな。": "Votre fils, qui herite de votre sang,\ns'entrainera jusqu'a l'extreme... et viendra\npour me tuer. Il sera surement d'une force<br>inimaginable."
+    "15837": {
+        "「……そうか　貴様\n　ガートラントの追っ手だな？": "Je vois, alors tu es un poursuivant de\nGarトLMPト ?"
     },
-    "15572": {
-        "「わしは　逃げも隠れもしません。\n　今　持っている　すべてのチカラで\n　ただ　受けて立つのみです……。": "Je ne fuirai pas, et je ne me cacherai pas.\nAvec toute la force que je possede maintenant,\nje ne fais qu'affronter."
+    "15838": {
+        "「わが名は　剣士オーレン……。\n　レムルの聖杯は　われに残された\n　ただひとつの　希望！": "Mon nom est Oren, le guerrier... La Coupe de\nLemur est mon seul et unique espoir !"
     },
-    "15573": {
-        "「おお　<pc>……か？\n　こんな所で　いったい何を……": "Oh, <pc>... ? Que fais-tu dans un\nendroit pareil... ?"
+    "15839": {
+        "「けっして　誰にも渡さぬっ！！": "Je ne le donnerai a personne, jamais !!"
     },
-    "15574": {
-        "「……なるほど。\n　おおかた　ギュランのやつが探させたのだろう。\n　まったく　あいつは　心配性だな。": "… Je vois. C'est surement ce cher Guran qui\nt'a envoye me chercher. Il est vraiment d'un\nnature inquiete, celui-la."
+    "15840": {
+        "鎮魂のロウソクに　火を灯しますか？<yesno><close>": "Voulez-vous allumer la bougie du Requiem ?\n<yesno><close>"
     },
-    "15575": {
-        "「ギュランは　子供の頃から　身体が弱かった。\n　だが　生来の負けず嫌いでな。\n　身体が弱い分　とにかく熱心に勉強した。": "Guran a toujours eu une sante fragile depuis\nson enfance. Mais, il a un esprit combatif\ninne. En raison de sa faiblesse physique, il<br>s'est alors plonge avec passion dans ses\netudes."
+    "15841": {
+        "「オォォォォ　来るな　来るなっ！\n　来るなぁぁぁっ！！！": "Oooooooh, ne viens pas, ne viens pas ! Ne\nviens pas !!!"
     },
-    "15576": {
-        "「そのかいあって　今では　オーガの中では\n　飛び抜けて　アタマがいい。わしは　あいつの\n　そんなところを気に入って　側近にした。": "Grace a cela, maintenant, parmi les Ogre, il\nest exceptionnellement intelligent. J'ai\napprecie cette qualite chez lui et l'ai choisi<br>comme proche conseiller."
+    "15842": {
+        "<pc>は　鎮魂のロウソクに\n火を灯した。": "<pc> a allume la Requiem Candle."
     },
-    "15577": {
-        "「しかし……　ギュランに\n　心配をかけたのは　無理もなかったか……。": "Cependant... il n'etait pas surprenant que\ncela ait inquiete Guran..."
+    "15843": {
+        "あたたかい光が　辺りを　つつんでいく……。": "Une lumiere chaleureuse enveloppe les\nenvirons..."
     },
-    "15578": {
-        "「<pc>よ。この墓はな　わしが若い頃\n　互いに切磋琢磨した　兄貴分の墓なのだ。": "<pc>. Cette tombe appartient a un frere\nd'armes avec qui je me suis mesure lorsque\nj'etais jeune."
+    "15844": {
+        "「オォォォォ……。\n　こ　ここは？　私は……？": "Ooooooh... Ou suis-je ? Qui suis-je...?"
     },
-    "15579": {
-        "「名を　ガガベスといった。\n　わしなどよりも　はるかに強く　史上最強の\n　チャンピオンと呼ばれた　村の英雄だった。": "Il se nommait Gagabess. Bien plus puissant que\nmoi, il etait le heros du village, reconnu\ncomme le champion le plus fort de l'histoire."
+    "15845": {
+        "「……………………。": "................................"
     },
-    "15580": {
-        "「わしは　何度　挑んでも\n　まったく　ガガベスに　歯が立たなかった。\n　だが　ある日の　試合でのことだ……。": "Je n'avais jamais reussi a vaincre Gagabes,\npeu importe combien de fois je l'ai defie.\nMais lors d'un certain match, quelque chose<br>s'est passe..."
+    "15846": {
+        "「……そうだ。ここは　ベコン渓谷。\n　新しい魔瘴の吹き溜まりを　調査するため\n　私は　部下たちと共に　この渓谷に来たのだ。": "C'est vrai. Ici, c'est la vallee de Becon. Je\nsuis venu dans ce ravin avec mes subordonnes\npour enqueter sur ce nouveau foyer de miasmes."
     },
-    "15581": {
-        "「わしの拳が　吸い込まれるように\n　ガガベスの　みぞおちに入ってしまった……。": "Mon poing s'est glisse comme aspire dans le\ncreux de l'estomac de Gagabes..."
+    "15847": {
+        "「……だが　調査地点に　たどり着く前に\n　突然　吹きだした魔瘴に　部下たちが\n　巻き込まれて……　うううっ。": "...Mais avant que nous puissions atteindre le\nsite d'enquete, mes subordonnes ont ete pris\ndans une soudaine eruption de miasmes<br>malefiques... Uuuuuh."
     },
-    "15582": {
-        "「それは　ただの幸運な一撃に過ぎなかった。\n　だが　ガガベスは　その一撃によって\n　そのまま　武闘場の上で　この世を去ったのだ。": "Ce n'etait rien de plus qu'un coup de chance.\nCependant, ce coup a suffi pour que Gagabes\nquitte ce monde, la-meme sur le ring du<br>tournoi."
+    "15848": {
+        "「捨て置けと　言っておいたのに……\n　ずいぶん　余計なことをしてくれたようだな。": "Je t'avais dit de laisser tomber... Mais il\nsemble que tu aies fait quelque chose de\nsuperflu."
     },
-    "15583": {
-        "「あまりのことに　わしは唖然としていたが\n　新たなチャンピオンの誕生に\n　村の人々は　沸き返った。": "J'etais stupefait par la tournure des\nevenements, mais les villageois se\nrejouissaient de la naissance d'un nouveau<br>champion."
+    "15849": {
+        "「……やれやれ。\n　もしやと思って　来てみたが……\n　こうなってしまっては　是非もない。": "...Eh bien, eh bien. Je m'en doutais et je\nsuis venu voir... Mais maintenant que c'est\nainsi, on n'y peut rien."
     },
-    "15584": {
-        "「当時のランガーオ村は　なによりも\n　勝つことこそが　尊ばれた時代だったのだ。": "A l'epoque, le village de Langao valorisait\navant tout la victoire."
+    "15850": {
+        "「エ……ド…ス？　エイ…ドスなのか？\n　そうだ　私は　お前に……　うううっ。": "E... dos... ? Est-ce que c'est Eidos ? Oui,\nc'est moi qui... ugh..."
     },
-    "15585": {
-        "「そして　敗者には　残酷な仕打ちが与えられた。\n　英雄だったガガベスの地位は\n　死によって　一瞬にして　地に墜ちた。": "Et ainsi, une punition cruelle fut infligee au\nperdant. La position de heros qu'occupait\nGagabes chuta en un instant avec sa mort."
+    "15851": {
+        "「ほれ。オーレンも　混乱しておる。\n　今は　そっとしておいてやってくれ。": "Tiens. Oren est aussi confus. Laisse-le\ntranquille pour le moment."
     },
-    "15586": {
-        "「ガガベスには　奥さんと　息子がいたが\n　それ以来　弱き者の家族として　しいたげられ\n　ひどく貧しい生活を　強いられたと聞く……。": "On dit que Gagabes avait une femme et un fils,\nmais depuis lors, en tant que famille de\nquelqu'un de faible, ils ont ete opprimes et<br>contraints de mener une vie de grande\npauvrete..."
+    "15852": {
+        "「お前さんたちの　知りたいことは\n　いずれ　わしから　話してやるから……\n　とりあえず　ここは　わしに　まかせてくれ。": "Ce que vous voulez savoir, je vous le\nraconterai en temps voulu... Pour l'instant,\nlaissez-moi m'occuper de cela."
     },
-    "15587": {
-        "「苦労がたたってか　奥さんは　数年後になくなり\n　息子が　ひとり残された。": "Apres avoir endure tant de difficultes, sa\nfemme est decedee quelques annees plus tard,\nlaissant leur fils seul."
+    "15853": {
+        "「チグリ大臣にも　そう伝えておけ。\n　さあ　そうと決まったら\n　さっさと　グレン城に戻るのじゃ。": "Informe egalement le ministre Chigri de cela.\nAllez, maintenant que c'est decide, retournons\nvite au chateau de Glen."
     },
-    "15588": {
-        "「その息子の名は　ガガイ……。\n　当時　まだ６才だったガガイは\n　ある日　わしの前に来て　こう言った。": "Le nom de ce fils etait Gagai... A l'epoque,\nGagai n'avait que 6 ans. Un jour, il est venu\nme voir et a dit ceci."
+    "15854": {
+        "「なんじゃ？　また来たのか！": "Qu'est-ce que c'est ? Tu es encore venu !"
     },
-    "15589": {
-        "「いつか　必ず　お前を殺す。\n　そのために　どんなことでもする……とな。": "Un jour, je te tuerai. Pour cela, je ferai\nn'importe quoi... voila."
+    "15855": {
+        "「今のオーレンは　お前さんと\n　話せるような状態ではない。": "Pour l'instant, Oren n'est pas en etat de te\nparler."
     },
-    "15590": {
-        "「……今から　２０年前のことだ。\n　ガガイは　そのまま村を出ていき　ずっと\n　生きているかどうかさえ　わからなかった。": "C'etait il y a 20 ans. Gagai a quitte le\nvillage et je ne savais meme pas s'il etait\nencore en vie."
-    },
-    "15591": {
-        "「そして　お前に助けてもらった　あの日……\n　そのガガイから　手紙が来たのだ。": "Et puis, ce jour-la ou tu m'as aide... J'ai\nrecu une lettre de Gagai."
-    },
-    "15592": {
-        "「手紙には　ただ一言　こう書いてあった。\n　お前を　殺しにいく……とな。": "La lettre ne contenait qu'un seul mot : Je\nviens te tuer..."
-    },
-    "15593": {
-        "「わしは老いたが　逃げも隠れもせん。\n　むしろ　こちらから　ガガイの所に\n　出向いていこうと思っているのだ。": "Je suis vieux, mais je ne fuis ni ne me cache.\nAu contraire, je pense me rendre directement\nchez Gagai."
-    },
-    "15594": {
-        "「勝つことは　難しいだろう……。\n　だが　わしは　持てるチカラの　すべてをかけて\n　やつとの勝負に　臨まねばならん。": "Gagner sera difficile... Mais je dois\naffronter cet adversaire avec toutes les\nforces dont je dispose."
-    },
-    "15595": {
-        "「いらぬ心配は　かけたくない。\n　このことは　ギュランや　村の連中には\n　どうか　だまっていてくれ。": "Je ne veux pas vous causer d'inquietudes\ninutiles. S'il vous plait, gardez cela secret\npour Guran et les autres villageois."
-    },
-    "15596": {
-        "「これが　わしの最後の戦いだ。": "C'est mon dernier combat."
-    },
-    "15597": {
-        "「すっかり　長話になってしまったな。\n　さあ　村へ帰ろう。": "On a vraiment beaucoup discute, n'est-ce pas ?\nAllez, retournons au village."
-    },
-    "15598": {
-        "「ギュランには　わしの方から\n　うまいこと言っておく。とにかく\n　ここでのことは　だまっていてくれ。": "Je parlerai a Guran de ma part en disant que\nc'etait Maiko. En tout cas, garde le silence\nsur ce qui s'est passe ici."
-    },
-    "15599": {
-        "「これは　わしとお前の　約束だ。\n　よいな？　ガハハハ！": "Ca, c'est notre promesse a tous les deux.\nD'accord ? Gahaha !"
+    "15856": {
+        "「いいから　グレン城に　戻っておれ！\n　お前さんたちの　知りたいことなら\n　いずれ　わしが行って　話してやるわい。": "Allez, retournez au chateau de Glen ! Si vous\nvoulez savoir quelque chose, je viendrai vous\nen parler en personne."
     }
 }
