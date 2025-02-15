@@ -3,19 +3,19 @@
         "「キヒヒヒ！\n　また　来おったか　エテーネの民よ！\n　今度こそ　お前たちの　息の根を止めてやろう！": "Ki hi hi hi ! Vous revoila, peuple d'Ethene !\nCette fois, je vais mettre un terme a votre\nexistence ! ffdefeefefefefefefefefefefefefefefe efefefefefe fefefef"
     },
     "14679": {
-        "「時を超えるチカラを秘めた　お前たちに\n　テンスの花を渡すわけには　いかんからのう！": "Je ne peux pas vous donner la Fleur de Tens,\ncar vous avez un pouvoir capable de\ntranscender le temps ! !"
+        "「時を超えるチカラを秘めた　お前たちに\n　テンスの花を渡すわけには　いかんからのう！": "Je ne peux pas vous donner la Fleur de Tens,\ncar vous avez un pouvoir capable de\ntranscender le temps !"
     },
     "14697": {
-        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>>": "<if_woman><pc> !<else><pc> !<endif>>"
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>>": "<if_woman><pc> !<else><pc> !<endif>"
     },
     "14698": {
-        "「ほら　いいでしょ！？": "Tu vois, ca va ?!"
+        "「ほら　いいでしょ！？": "Tu vois, ça va, n'est-ce pas ?!"
     },
     "14699": {
         "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba-sama m'a dit que je pouvais monter !"
     },
     "14700": {
-        "「ねっ　アバさま？": "N'est-ce pas ?"
+        "「ねっ　アバさま？": ""
     },
     "14701": {
         "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special !"
