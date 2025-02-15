@@ -1,0 +1,623 @@
+{
+    "52509": {
+        "「お待たせしました　女王様！\n　魔人召喚の儀式　準備できましたわ！": "Je vous prie de m'excuser pour l'attente,\nVotre Majeste ! La ceremonie d'invocation du\ndemon est prete !"
+    },
+    "52510": {
+        "「おい　みんな！\n　オレたちの願いを　かなえてくれる\n　伝説の魔人が　とうとう現れるぞ！！": "He, tout le monde ! Le legendaire genie qui\nexaucera nos souhaits va enfin apparaitre !!"
+    },
+    "52511": {
+        "「この町を　デッカイお城にして\n　オレたちが　好きなだけ遊んで暮らせる\n　夢の子供王国を　作ってもらうんだ！": "On va transformer cette ville en un immense\nchateau et creer un royaume d'enfants de reve\nou on pourra s'amuser autant qu'on veut !"
+    },
+    "52512": {
+        "「や……やめろ！！": "Ar… arrete ca !!"
+    },
+    "52513": {
+        "「リズ！　考え直せ！\n　子供王国なんて　作って　それから\n　お前は　どうするつもりなんだ？": "Lyz ! Reflechis bien ! Tu veux creer un\nroyaume pour enfants, mais qu'as-tu\nl'intention de faire apres ?"
+    },
+    "52514": {
+        "「これからもずっと　大人の代わりに\n　ひとりで　責任を背負っていくのか？\n　本当に　お前は　それでいいのか！？": "Vas-tu continuer a porter seul le fardeau des\nresponsabilites a la place des adultes ? Es-tu\nvraiment d'accord avec ca ?"
+    },
+    "52515": {
+        "「しつこいぞ　フィーロ！\n　女王様は　オレたち　みんなのことを考えて\n　自由な生活を　与えてくれようとしてるんだ！": "S'il te plait, arrete, Firo ! La Reine pense a\nchacun d'entre nous et essaie de nous offrir\nune vie libre !"
+    },
+    "52516": {
+        "「大人たちなんか　いなくても\n　魔人のチカラさえあれば\n　アタシたちは　好きに生きていけるのよ！": "Meme sans les adultes, tant que nous avons le\npouvoir du demon, nous pouvons vivre comme bon\nnous semble !"
+    },
+    "52517": {
+        "「……フィーロ。\n　私は　みんなが幸せになれる道を　選びたいの。\n　あなたは　クチをはさまないで。": "…Firo. Je veux choisir un chemin ou tout le\nmonde peut etre heureux. Je te demande de ne\npas t'en meler."
+    },
+    "52518": {
+        "「リズ……。": "Liz..."
+    },
+    "52519": {
+        "「……我　汝を呼び　汝に命ず。\n　いにしえより　セレドの地に封じられし魔人よ\n　今　永き眠りより目覚め　ここに来たれ！": "... Moi, je t'appelle et je t'ordonne. O demon\nscelle depuis les temps anciens sur la terre\nde Seredo, Eveille-toi de ton long sommeil et<br>viens ici !"
+    },
+    "52520": {
+        "「す　すげえ……。": "Incroyable..."
+    },
+    "52521": {
+        "「……我は　魔人エンラージャ。\n　我が魂を呼び覚ませし　人の子よ。\n　契約に従い　汝の願いを聞き届けよう……。": "Je suis Enraja le Genie. O enfant des hommes\nqui a eveille mon ame, Conformement a notre\ncontrat, j'exaucerai ton souhait."
+    },
+    "52522": {
+        "「お願い……この町を……": "S'il te plait... protege cette ville..."
+    },
+    "52523": {
+        "「……この　セレドの町を\n　大人たちがいた　元の姿に戻して！": "...Rends a cette Ville de Celed son apparence\nd'origine, celle qu'elle avait quand les\nadultes etaient la !"
+    },
+    "52524": {
+        "「パパとママに　会わせて……！！": "Laisse-moi les rencontrer, papa et maman... !!"
+    },
+    "52525": {
+        "「お願い……。": "S'il te plait..."
+    },
+    "52526": {
+        "「くっ……ぷフッ。\n　ああーーーっはっはっはっハ！": "Ku... pff. Ah---hahahaha!"
+    },
+    "52527": {
+        "「引っかかっターーー！　バカな小娘ですネ～♪\n　ガキんちょの願いなんて　知ったこっちゃ\n　ありませんよーーーダ♪": "Tu es tombee dans le piege ! Quelle petite\nidiote tu fais, hein~ ♪ Je n'ai que faire des\nsouhaits d'une gamine ! ♪"
+    },
+    "52528": {
+        "「な……っ！": "Quoi... !"
+    },
+    "52529": {
+        "「何よ　この無礼者は！\n　いったい　どうなっているの！？\n　ムッチーノ！　説明なさい！": "Qu'est-ce que c'est que cet insolent ! Que se\npasse-t-il ici !? Muccino ! Explique-toi !"
+    },
+    "52530": {
+        "「……ご主人様の御心は　ワタクシめの心。": "...Le coeur de votre Seigneurie est mon propre\ncoeur."
+    },
+    "52531": {
+        "「偉大なる　魔人エンラージャ様は　たかが人間の\n　小娘の命令など　お聞きにならないのですよ。\n　……ご理解いただけましたでしょうか？": "Le grand Enraja le Genie-sama n'ecoutera pas\nles ordres d'une simple jeune fille humaine.\n...Avez-vous bien compris ?"
+    },
+    "52532": {
+        "「ンホホホホ　ご苦労でした　ムッチ～ノ♪\n　どうやら　うまく　ガキんちょを手玉にとって\n　封印を解いてくれたようですね～エ♪": "ンホホホホ Bien joue, Mutchi~no♪ On dirait que tu\nas reussi a manipuler ces gamins et a briser\nle sceau pour nous, n'est-ce pas~E♪"
+    },
+    "52533": {
+        "「ムッチーノ……　あなた……。\n　私たちを　利用していたのね！\n　おとなしく従ったフリをして……。": "Muccino... Toi... Tu nous as utilises,\nn'est-ce pas ! Tu faisais semblant d'obeir\ndocilement..."
+    },
+    "52534": {
+        "「あーーったりまえだろ！\n　そうでなきゃ　誰が　お前みたいな\n　タカビー女の言うことを　聞くかよ！": "Ah, bien sur ! Sinon, qui ecouterait ce que\ndit une fille aussi hautaine que toi ?"
+    },
+    "52535": {
+        "「オレのご主人様は　エンラージャ様ただひとり！\n　お前らは　しょせん　このお方を\n　復活させるための道具だったのさ！！": "Mon seul et unique maitre est Enlaja-sama !\nVous n'avez jamais ete que des outils pour\nressusciter cette noble personne !!"
+    },
+    "52536": {
+        "「……そういえば　私　封印から目覚めたら\n　このセレドの地に　魔人エンラージャ様の国を\n　築こうと　思ってたんですよねエ……。": "D'ailleurs, je me souviens que lorsque je me\nreveillerais de mon sceau, je voulais etablir\nle royaume de Enraja the Genie-sama ici sur la<br>terre de Sered."
+    },
+    "52537": {
+        "「子供たちが　みんな私にかしずく　夢の王国♪\n　ああっ……ス・テ・キ<heart>": "Le royaume de mes reves ou tous les enfants me\nvenerent ♪ Ah... Merveilleux <heart>"
+    },
+    "52538": {
+        "「お前たちには　その王国のために\n　たっぷり　働いてもらうと　しましょうかア！！": "Vous allez travailler dur pour ce royaume !!"
+    },
+    "52539": {
+        "「パパ……ママ……。\n　誰か　助けて……。": "Papa... Maman... Quelqu'un, aidez-moi..."
+    },
+    "52540": {
+        "「リ……リズに　近寄るなっ！": "N'approche pas de Liz !"
+    },
+    "52541": {
+        "「おやおや……　おびえることは　ありませんヨ♪\n　バカで　素直で　扱いやすい子供たちは\n　しもべとして　一生かわいがってあげますかラ♪": "Oh la la... Il n'y a pas besoin d'avoir peur ♪\nLes enfants idiots, naifs et faciles a\nmanipuler, je les cherirai toute leur vie<br>comme mes serviteurs ♪"
+    },
+    "52542": {
+        "「ただし……": "Cependant..."
+    },
+    "52543": {
+        "「そこのアナタは　別ですヨ！\n　したたかで　扱いにくい大人は\n　生かしておくと　ロクなことがないですからネ！": "Toi la-bas, tu es different ! Les adultes\nruses et difficiles a gerer, il vaut mieux ne\npas les laisser en vie, tu sais !"
+    },
+    "52544": {
+        "「さあ　いきますヨ　ムッチーノ♪\n　ジャマな大人の　ブチのめしタ～イム！！": "Allons-y, Muccino♪ C'est l'heure de terrasser\nces adultes genants !!"
+    },
+    "52545": {
+        "「きゃああああああっ！！": "Kyaaaaaaa !!"
+    },
+    "52546": {
+        "「た　助けて！": "A l'aide !"
+    },
+    "52547": {
+        "「ギャオーーーーッ！！": "GYAAAAHOOOOOO !!"
+    },
+    "52548": {
+        "「お待ちなさい。": "Attendez."
+    },
+    "52549": {
+        "「ここは　子供だけの町ですわ。\n　大人の助けは　いりません。": "Ici, c'est une ville reservee aux enfants.\nNous n'avons pas besoin de l'aide des adultes."
+    },
+    "52550": {
+        "「仕える主君を求め　迷える執事よ……。": "O majordome egare, en quete du seigneur a\nservir..."
+    },
+    "52551": {
+        "「絶対なる契約のもと　我が呼び声に応えよ！": "En vertu du pacte absolu, reponds a mon appel\n!"
+    },
+    "52552": {
+        "「いかがあそばされましたか　女王様？": "Comment s'est passe votre journee, Reine-sama\n?"
+    },
+    "52553": {
+        "「ムッチーノ　あのザコを排除なさい。\n　私の大事な国民を　襲おうとしたわ！": "Muccino, ecartez ces faibles creatures. Elles\nont tente d'attaquer mes precieux citoyens !"
+    },
+    "52554": {
+        "「ギャッ　ギギッ……。": "Gya... Gigi..."
+    },
+    "52555": {
+        "「女王様の御心は　ワタクシめの心。\n　怒りの調べを……その身体で聴くがいい！": "Le coeur de Sa Majeste est mon propre coeur.\nEcoute la melodie de la colere... avec ton\ncorps !"
+    },
+    "52556": {
+        "「排除いたしました　女王様。": "Nous avons elimine la menace, Reine-sama."
+    },
+    "52557": {
+        "「遅い！　あんなザコ\n　私が　まばたきしている間に　片付けなさい！": "En retard ! Ces minables, tu devrais les\neliminer le temps que je cligne des yeux !"
+    },
+    "52558": {
+        "「まことに申し訳ございません　女王様。\n　この失態は　ワタクシの不徳のいたすところ。\n　ご期待にそえず　ムッチーノは……": "Je suis vraiment desole, Votre Majeste. C'est\nentierement ma faute, un manque de vertu de ma\npart. Je n'ai pas su repondre a vos attentes,<br>et Muccino..."
+    },
+    "52559": {
+        "「それより　そこのあなた……。\n　見たところ　大人の方のようですわね。\n　私には　わかりますわ。": "Mais vous la-bas... En vous regardant, vous\nsemblez etre un adulte. Je le sais, je peux le\nvoir."
+    },
+    "52560": {
+        "「おい……なんだよ　アイツ。": "He... C'est quoi son probleme, a lui."
+    },
+    "52561": {
+        "「いったい　何しに来たのかしら……。": "Qu'est-ce qu'il est venu faire ici...?"
+    },
+    "52562": {
+        "「どこから　わいてきたのか　存じませんが……\n　ここは　子供だけの町　セレドですわ。": "Je ne sais pas d'ou vous venez, mais... Ici,\nc'est la ville de Seredo, reservee aux\nenfants."
+    },
+    "52563": {
+        "「あなたのような大人が　この町で過ごすには\n　それ相応の　審査が必要ですの。\n　あとで　町の高台の教会まで　いらっしゃいな。": "Pour qu'un adulte comme vous puisse vivre dans\ncette ville, une evaluation appropriee est\nnecessaire. Veuillez vous rendre a la High<br>Church de la ville plus tard."
+    },
+    "52564": {
+        "「あなたも　さっさと来なさい　ムッチーノ。": "Toi aussi, viens vite, Muccino."
+    },
+    "52565": {
+        "「女王様の御心は　ワタクシめの心。\n　すべては　女王様の　おおせのままに……。": "La volonte de la Reine est la mienne. Tout se\nfait selon les ordres de Sa Majeste..."
+    },
+    "52566": {
+        "「私の言いつけ通り　審査を通過してきたようね。\n　いいわ。これからは　あなたのことを\n　名誉子供として　認めてあげる。": "Il semble que tu aies reussi a passer\nl'epreuve, comme je te l'avais demande. Tres\nbien. Dorenavant, je te reconnaitrai comme un<br>enfant honorifique."
+    },
+    "52567": {
+        "「いらっしゃい　旅の方。\n　私は　この町の指導者　リゼロッタ。\n　国民たちからは　女王と呼ばれているわ。": "Bienvenue, voyageur. Je suis Lieselotte, la\ndirigeante de cette ville. Les citoyens\nm'appellent la reine."
+    },
+    "52568": {
+        "「あなたは……　そう　<pc>というの。\n　あはっ。変わったお名前ですこと。\n　カエルみたいな顔のあなたに　ぴったりね。": "Vous etes... Ah, vous vous appelez <pc>.\nAh ah. C'est un nom plutot original. Cela vous\nva si bien avec votre visage de grenouille."
+    },
+    "52569": {
+        "「……それで？\n　あなた　いったい　どこから\n　なんのために　この町へいらしたの？": "Et alors ? D'ou venez-vous et dans quel but\netes-vous venu dans cette ville ?"
+    },
+    "52570": {
+        "<pc>は　これまでの事情を説明した……。": "<pc> a explique la situation jusqu'a\npresent..."
+    },
+    "52571": {
+        "「そう……　蝶を探しに……。": "Oui... Pour chercher le papillon..."
+    },
+    "52572": {
+        "「……ふうん。まあ　いいわ。\n　それじゃ　この町のルールを教えてあげる。\n　一度しか言わないから　心して　覚えなさい。": "...Hmm. Tres bien, je vais te dire les regles\nde cette ville. Je ne le dirai qu'une seule\nfois, alors ecoute attentivement et<br>retiens-les bien."
+    },
+    "52573": {
+        "「まず　ひとつめ。子供の言うことは　絶対。\n　名誉子供は　子供の言葉に従って\n　ジャマしないこと。": "Premierement, la premiere regle. Les paroles\ndes enfants sont absolues. En tant qu'enfant\nd'honneur, tu dois suivre les paroles des<br>enfants et ne pas les deranger."
+    },
+    "52574": {
+        "「そして　ふたつめ。\n　どんな時でも　戸じまりは\n　ちゃんとすること。": "Et ensuite, le deuxieme point. Toujours bien\nfermer la porte, peu importe la situation."
+    },
+    "52575": {
+        "「最後に　みっつめ。\n　名誉子供は　おやつ抜き。": "Enfin, la troisieme regle : les enfants\nhonoraires ne recoivent pas de gouter."
+    },
+    "52576": {
+        "「あと　ムッチーノは　私の執事だから\n　倒したりしちゃ　ダメよ。": "En plus, Muccino est mon majordome, alors il\nne faut pas le vaincre."
+    },
+    "52577": {
+        "「私からは　それくらいね。\n　あなたのカエル顔も　見飽きたから\n　そろそろ　お下がりなさい。": "De mon cote, c'est a peu pres tout. Je me suis\nlassee de voir ta tete de grenouille, alors il\nest temps pour toi de t'en aller."
+    },
+    "52578": {
+        "「ねえ　女王様～。お話が終わったんなら\n　おやつに　しようよ～！": "He, Majeste~. Si l'histoire est terminee,\nallons prendre un gouter~ !"
+    },
+    "52579": {
+        "「あたし　こないだ　出してもらった\n　すごいケーキが　また　たべた～い！": "L'autre jour, j'ai mange ce delicieux Gateau a\nla creme succulent, et j'ai vraiment envie\nd'en remanger !"
+    },
+    "52580": {
+        "「あら。そういえば　おやつの時間だったわね。\n　じゃあ　支度してくるから　みんな　あとで\n　２階のティールームへ　いらっしゃい。": "Oh, tiens. Je viens de realiser que c'etait\nl'heure du gouter. Je vais preparer ca, alors\ntout le monde, rejoignez-moi plus tard dans le<br>salon de the au deuxieme etage."
+    },
+    "52581": {
+        "「ほら　さっさと来なさい　ムッチーノ。": "Allez, viens vite, Muccino."
+    },
+    "52582": {
+        "「女王様の御心は　ワタクシめの心。\n　すべては　女王様の　おおせのままに……。": "La volonte de la Reine est la mienne. Tout se\nfait selon les ordres de Sa Majeste..."
+    },
+    "52583": {
+        "「あ！　そうそう……。": "Ah ! Oui, c'est vrai..."
+    },
+    "52584": {
+        "「名誉子供は　おやつ抜き……\n　覚えてるわよね？\n　来るのは勝手だけど　あなたの分はないわよ。": "Les enfants honorifiques n'ont pas de\ngouter... Tu te souviens, n'est-ce pas ? Tu\npeux venir si tu veux, mais il n'y aura rien<br>pour toi."
+    },
+    "52585": {
+        "「みんな　席についたわね。\n　それじゃ　始めるわよ。": "Tout le monde est bien installe. Alors,\ncommencons."
+    },
+    "52586": {
+        "「ほら　ムッチーノ。\n　いつものアレ……　さっさと　なさい。": "Allez, Muccino. Fais ce que tu fais\nd'habitude... Depeche-toi."
+    },
+    "52587": {
+        "「女王様の望みは　ワタクシめの望み……。\n　甘き調べを　しばし　お楽しみください。": "La volonte de la reine est ma volonte...\nVeuillez profiter un instant de cette douce\nmelodie."
+    },
+    "52588": {
+        "「どう？　あなた　こんなおやつの山\n　見たことないでしょう？　ムッチーノがいれば\n　好きな物が　好きなだけ　食べられるのよ。": "Comment ? Tu n'as jamais vu une montagne de\nfriandises comme celle-ci, n'est-ce pas ? Avec\nMuccino, tu peux manger tout ce que tu aimes,<br>autant que tu veux."
+    },
+    "52589": {
+        "「……ま。しょせん　名誉子供のあなたに\n　あげる分は　ないけれど。": "Eh bien. De toute facon, je n'ai rien a donner\na un enfant honorifique comme toi."
+    },
+    "52590": {
+        "「さっ。みんな　召し上がれ。": "Allez, tout le monde, bon appetit."
+    },
+    "52591": {
+        "<pipipi_high>「いっただっきまーーーす！": "<pipipi_high>いただきまーーーす！"
+    },
+    "52592": {
+        "「ちょっと　ムッチーノ！\n　あたし　プクプクピーチの\n　ケーキがたべたいって　いったでしょ！": "He, Muccino ! Je t'ai dit que je voulais un\nGateau a la creme succulent de Puku-Puku Peach\n!"
+    },
+    "52593": {
+        "「オイラ　こんなんじゃ　足りないよォ！\n　お砂糖が　いっぱい　かかったドーナツ\n　山盛りで出してよ　ムッチーノ～！": "Moi, ca ne me suffit pas du tout ! Je veux des\nmontagnes de donuts avec plein de sucre\ndessus, Muccino~ !"
+    },
+    "52594": {
+        "「はい　かしこまりました！\n　お嬢様　お坊ちゃま　ただいま……。": "Oui, bien compris ! Mademoiselle, Monsieur, je\nsuis de retour..."
+    },
+    "52595": {
+        "「……こ　こんな\n　使い魔のチカラに　頼りきった生活\n　本当に　大丈夫なんでしょうか……。": "… Ce mode de vie, totalement dependant du\npouvoir des Familiars, est-il vraiment sur…?"
+    },
+    "52596": {
+        "「……以前は　この町にも　大人がいて\n　ちゃんとした暮らしを　していたんです。\n　なのに　今は……。": "…Autrefois, il y avait des adultes dans cette\nville, et nous menions une vie decente. Mais\nmaintenant..."
+    },
+    "52597": {
+        "「な　なあ……みんな！": "He... tout le monde !"
+    },
+    "52598": {
+        "「……みんなで　神殿に　行ってみないか？ \n　昔みたいに　お祈りすれば　きっと\n　大人たちが戻ってきてくれると思うんだ。": "Et si on allait tous au temple ? Je suis sur\nque si on prie comme avant, les adultes\nreviendront."
+    },
+    "52599": {
+        "「大人なんて　戻ってこなくていいさ。\n　オレたちには　女王様がいるからな。": "Les adultes n'ont pas besoin de revenir. Nous\navons notre reine, apres tout."
+    },
+    "52600": {
+        "「アタシたちは　アンタみたいに弱虫じゃないの。\n　そんなに　お祈りしたければ　ひとりで行けば？": "Nous ne sommes pas des laches comme toi. Si tu\nveux tant prier, pourquoi n'y vas-tu pas seul\n?"
+    },
+    "52601": {
+        "「……あたし　もう　おなかいっぱい。": "...Je suis deja rassasie."
+    },
+    "52602": {
+        "「ボクも　もう　いいや～。": "Moi aussi, j'en ai assez maintenant."
+    },
+    "52603": {
+        "「そろそろ　おやつの時間も　おひらきね。\n　それじゃ私は　出かける支度をしてくるわ。": "Il est temps de clore le gouter. Je vais me\npreparer pour sortir."
+    },
+    "52604": {
+        "「……ということは　いよいよ\n　例の計画を　再開するんですね　女王様！": "......Ce qui signifie que nous allons enfin\nreprendre le fameux plan, n'est-ce pas,\nReine-sama !"
+    },
+    "52605": {
+        "「ええ。ドラゴンのしっぽも　用意できたことだし\n　そろそろ　最後の仕上げに移るわよ。\n　あなたたちも　早く支度なさい。": "Eh bien. Maintenant que le Dragon Tail est\npret, il est temps de passer aux dernieres\nfinitions. Preparez-vous rapidement, vous<br>aussi."
+    },
+    "52606": {
+        "「私は　部屋に戻るから\n　あなたたちは　１階で待っててちょうだい。\n　ムッチーノ　あなたも　休んでていいわよ。": "Je vais retourner dans ma chambre, alors\nattendez-moi au rez-de-chaussee, s'il vous\nplait. Muccino, tu peux te reposer aussi."
+    },
+    "52607": {
+        "「女王様の御心は　ワタクシめの心。\n　すべては　女王様の　おおせのままに……。": "La volonte de la Reine est la mienne. Tout se\nfait selon les ordres de Sa Majeste..."
+    },
+    "52608": {
+        "「今のセレドの町は　子供しかいないけれど\n　以前は　いつも　えらそうにしてる\n　クチうるさい大人たちが　いっぱいいたわ。": "Actuellement, la ville de Celed n'est peuplee\nque d'enfants, mais auparavant, elle etait\nremplie d'adultes pretentieux et tres<br>bruyants."
+    },
+    "52609": {
+        "「この教会は　もう取り壊す予定だからって\n　立ち入り禁止に　なっていてね。\n　私たちにとっては　格好の遊び場だったのよ。": "Cette eglise est sur le point d'etre demolie,\ndonc l'acces est interdit. Pour nous, c'etait\nl'endroit ideal pour jouer."
+    },
+    "52610": {
+        "「屋根の上で　オニごっこをしたり\n　注意に来た大人を　穴に落としたり……。\n　あの人たちの　あわてる姿は　ゆかいだったわ。": "On jouait au chat perche sur le toit et on\nfaisait tomber les adultes venus nous gronder\ndans des trous... C'etait amusant de les voir<br>paniquer."
+    },
+    "52611": {
+        "「……私が　家の書庫で　古くから禁じられていた\n　召喚術の本と　魔法の指輪を見つけたのは\n　そんな遊びにも　飽きてきた頃だったわね。": "C'est a peu pres au moment ou je commencais a\nme lasser de ces jeux que j'ai trouve dans la\nbibliotheque de la maison un livre sur la<br>magie d'invocation qu'Old m'avait interdit de\nlire, ainsi qu'une bague magique."
+    },
+    "52612": {
+        "「最初は　召喚術なんて信じてなかったの。\n　ただ　禁術に手を染めるっていう　新しい刺激に\n　私を含めて　みんなワクワクしていたわ。": "Au debut, je ne croyais pas vraiment a la\nmagie d'invocation. C'etait juste l'excitation\nde toucher a des arts interdits, une nouvelle<br>stimulation qui nous mettait tous, moi y\ncompris, en ebullition."
+    },
+    "52613": {
+        "「そうして　召喚されたのが……": "Ainsi, celui qui a ete invoque est..."
+    },
+    "52614": {
+        "「……私の執事　ムッチーノよ。": "......Mon majordome, Muccino."
+    },
+    "52615": {
+        "「ムッチーノは　私が召喚者と知ると\n　女王様と呼んで　忠誠を誓ったわ。\n　そして　私に　いいことを教えてくれたの。": "Quand Muccino a decouvert que j'etais\nl'invocatrice, il m'a appelee Reine et m'a\njure fidelite. Ensuite, il m'a enseigne<br>quelque chose de precieux."
+    },
+    "52616": {
+        "「この地には　伝説の魔人が　封印されていて\n　魔人を召喚した者は　どんな願いでも\n　ひとつだけ　かなえてもらえる……とね。": "Dans cette contree, un demon legendaire est\nscelle, et celui qui parvient a l'invoquer se\nverra exaucer un souhait, quel qu'il soit..."
+    },
+    "52617": {
+        "「そこで　私たちは　この教会で\n　こっそり　魔人召喚の儀式を　やってみたの。\n　材料は　あり合わせのもので済ませたわ。": "Alors, nous avons decide d'essayer en secret\nun rituel de convocation de demon dans cette\neglise. Nous avons utilise les materiaux que<br>nous avions sous la main."
+    },
+    "52618": {
+        "「ドラゴンのしっぽは　トカゲのしっぽ\n　黒ヤギの生き血は　トマトソース\n　こはくの宝珠は　ママの首飾りって感じでね。": "Dragon Tail, c'est la queue de lezard. Le sang\nde chevre noire, c'est comme de la sauce\ntomate. Amber Jewel, ca ressemble a un collier<br>de maman, tu vois."
+    },
+    "52619": {
+        "「そして　召喚の儀式を始めた時……\n　魔法陣が激しく光って　地響きが起きたの。\n　すごい揺れで　建物が壊れるかと思ったわ。": "Et puis, lorsque nous avons commence le rituel\nd'invocation... Le cercle magique a brille\nintensement et un grondement s'est fait<br>entendre. La secousse etait si forte que j'ai\ncru que le batiment allait s'effondrer."
+    },
+    "52620": {
+        "「結局　魔人は現れなかったけれど……\n　教会の外に出てみたら　町の大人たちは\n　みんな　いなくなっていたのよ。": "Finalement, le demon n'a pas pu etre P.,\nmais... quand je suis sortie de l'eglise, tous\nles adultes du village avaient disparu."
+    },
+    "52621": {
+        "「不完全な材料を使ったため　召喚は失敗し\n　暴走した魔力が　大人たちを消し去ったの。\n　……ムッチーノが　そう教えてくれたわ。": "En utilisant des materiaux incomplets,\nl'invocation a echoue et la magie dechainee a\nefface les adultes. ...C'est ce que Muccino<br>m'a dit."
+    },
+    "52622": {
+        "「魔人に　願いをかなえてもらうことも\n　できなかった上　まさか　町の大人たちが\n　ひとり残らず　消えてしまうなんて……。": "Non seulement nous n'avons pas pu faire\nexaucer notre souhait par le demon, mais en\nplus, tous les adultes de la ville ont disparu<br>sans laisser de trace..."
+    },
+    "52623": {
+        "「……でも　あんな　うるさいヤツら\n　いなくなって　せいせいしたわ。\n　いつも　お説教ばかりで　うんざりだったもの。": "…Enfin, je suis soulagee qu'ils soient partis.\nIls etaient toujours en train de faire la\nmorale, c'etait vraiment lassant."
+    },
+    "52624": {
+        "「この町に　大人がいない理由も\n　私が　この町の指導者をしている理由も\n　これで　よくわかったでしょ？": "Il est maintenant clair pourquoi il n'y a pas\nd'adultes dans cette ville et pourquoi je suis\nle guide de cette communaute, n'est-ce pas ?"
+    },
+    "52625": {
+        "「さあ　話は終わりよ。\n　私はこれから　大事な用があるから\n　出ていってちょうだい。": "Bon, la discussion est terminee. J'ai des\naffaires importantes a regler, alors s'il te\nplait, sors d'ici."
+    },
+    "52626": {
+        "<if_woman>「ちょっと　おばさん　ジャマだよ！<else>「ちょっと　おじさん　ジャマだよ！<endif>": "<if_woman>>He, madame, vous etes dans le\nchemin !<else>>He, monsieur, vous etes dans le chemin !<endif>"
+    },
+    "52627": {
+        "「それじゃあ　行ってくるわね。": "Alors, je m'en vais."
+    },
+    "52628": {
+        "「私が　帰ってくるまで\n　戸じまりに　気をつけて\n　みんな　いい子で待ってるのよ。": "Faites attention a bien fermer la porte et\nattendez sagement jusqu'a mon retour, d'accord\n?"
+    },
+    "52629": {
+        "「はーい！\n　女王様　いってらっしゃい！": "Oui ! Bonne journee, Votre Majeste !"
+    },
+    "52630": {
+        "「いってらっしゃ～い！": "Bonne journee !"
+    },
+    "52631": {
+        "「だ……　だめだ！": "Ca... ca ne va pas !"
+    },
+    "52632": {
+        "「リズ　あの塔には　決して近寄るなって\n　いつも　大人たちが言っていたじゃないか。\n　危ないよ　行っちゃだめだ！": "Liz, les adultes ont toujours dit de ne jamais\ns'approcher de cette tour. C'est dangereux, tu\nne devrais pas y aller !"
+    },
+    "52633": {
+        "「……フィーロ。いつ　誰が\n　私に意見しろって言ったのかしら？": "...Filo. Qui t'a dit que tu pouvais me donner\nton avis ?"
+    },
+    "52634": {
+        "「そうだ。お前みたいなヤツが\n　女王様に意見するなんて　おこがましいぞ。\n　弱虫は　いい子で　お留守番してな。": "Exactement. C'est audacieux de ta part de\ndonner ton avis a la reine. Les faibles\ndevraient rester sagement a la maison."
+    },
+    "52635": {
+        "「さっ。行くわよ　みんな。": "Allez. En route, tout le monde."
+    },
+    "52636": {
+        "「…………。": ""
+    },
+    "52637": {
+        "「あっ　あなたは……。\n　たしか　<pc>さん……でしたね。": "Ah, vous etes... Si je ne me trompe pas, c'est\nbien <pc>-san, n'est-ce pas ?"
+    },
+    "52638": {
+        "「……ぼ　僕　フィーロっていいます。\n　なんだか　情けないところを\n　見られちゃいましたね……はは。": "Je... Je m'appelle Filo. On dirait que vous\nm'avez vu dans un moment de faiblesse... haha."
+    },
+    "52639": {
+        "「<pc>さん　リズは……リゼロッタは\n　以前に失敗した　魔人召喚の儀式を\n　また　試そうとしています。": "<pc>-san, Liz... Lieselotte essaie a\nnouveau de realiser le rituel d'invocation\ndemoniaque qu'elle avait echoue auparavant."
+    },
+    "52640": {
+        "「彼女は　そのために\n　儀式に必要な　こはくの宝珠があるという \n　リンジャの塔へ　向かったんです。": "Her est partie pour la Tour de Rinja ou se\ntrouve l'Amber Jewel necessaire pour le\nrituel."
+    },
+    "52641": {
+        "「……でも　大人たちは\n　リンジャの塔には　決して近づいてはいけないと\n　いつも　言っていました。": "...... Mais les adultes disaient toujours de\nne jamais s'approcher de la tour de Linja."
+    },
+    "52642": {
+        "「……<pc>さん。\n　旅の方に　こんなことを頼むのは\n　気が引けるのですが　お願いがあります。": "<pc>-san. Je suis un peu gene de\ndemander cela a un voyageur, mais j'ai une\nrequete a vous faire."
+    },
+    "52643": {
+        "「僕は　このまま　リズを放っておけません。\n　どうか　彼女を止めるために\n　リンジャの塔まで　一緒に来てくれませんか？<yesno><close>": "Je ne peux pas laisser Liz comme ca.\nPourriez-vous venir avec moi jusqu'a la tour\nde Rinja pour arreter Her, s'il vous plait ?<br><yesno><close>"
+    },
+    "52644": {
+        "「そ　そんな……お願いです！　どうか\n　リンジャの塔まで　一緒に来てくれませんか？\n　頼れる大人は　あなただけなんです！<yesno><close>": "So... s'il vous plait ! Pouvez-vous venir avec\nmoi a la tour de Rinja ? Vous etes le seul\nadulte sur qui je peux compter !<yesno><close>"
+    },
+    "52645": {
+        "「ありがとうございます。リンジャの塔は \n　セレドット山道に出て　山道を北に進み\n　リンジャハル海岸の遺跡を　抜けた先です。": "Merci beaucoup. La Tour de Linja se trouve\napres le Celedot Mountain Pass. Avancez vers\nle nord sur le chemin de montagne, puis<br>traversez les ruines de la cote de Linjahar."
+    },
+    "52646": {
+        "「僕は　先に向かいますので\n　<pc>さんも　後から来てください。\n　塔の入り口で　待っていますね。": "Je vais me diriger en premier, alors\n<pc>-san, rejoignez-moi ensuite. Je vous\nattendrai a l'entree de la tour."
+    },
+    "52647": {
+        "「あ　ああ……<pc>さん。\n　来てくれたんですね。": "Ah, ah... <pc>-san. Vous etes venu,\nn'est-ce pas."
+    },
+    "52648": {
+        "「リズを止めるために　ここまで来ましたが\n　いざ　こうして　塔を目の前にすると\n　気後れしてしまって……情けないですね。": "Je suis venu jusqu'ici pour arreter Liz, mais\nmaintenant que je me retrouve devant la tour,\nje me sens intimide... C'est lamentable,<br>n'est-ce pas ?"
+    },
+    "52649": {
+        "「……僕のお父さんは　町の神父だったんです。\n　この塔には　絶対に入ってはいけないと\n　お父さんから　きつく言われていました。": "...... Mon pere etait le pretre de la ville.\nIl m'a toujours dit tres strictement de ne\njamais entrer dans cette tour."
+    },
+    "52650": {
+        "「神に仕える僕が　教えに背くなんて……。\n　お父さんが知ったら　どう思うでしょうね。": "Moi, qui sers Dieu, je ne devrais jamais aller\na l'encontre de ses enseignements... Que\npenserait mon pere s'il l'apprenait ?"
+    },
+    "52651": {
+        "「……あの　古い教会で　遊ぶようになるまでは\n　みんな　大人の教えを守る\n　まじめな子供たちだったんです。": "…Avant qu'ils ne commencent a jouer dans cette\nvieille eglise, c'etaient tous des enfants\nserieux qui suivaient les enseignements des<br>adultes."
+    },
+    "52652": {
+        "「毎日　ダーマ神殿に行って　お祈りをして\n　鐘が鳴ると　大人たちが迎えに来てくれて……。\n　みんな　平和に暮らしていたんです。": "Chaque jour, nous allions a l'Abbaye\nd'Alltrades pour prier. Quand la cloche\nsonnait, les adultes venaient nous chercher...<br>Tout le monde vivait en paix."
+    },
+    "52653": {
+        "「今は　<pc>さんだけが　頼りです。\n　大人がいない今　誰かが彼女を止めないと。\n　……さあ　行きましょう。": "En ce moment, nous ne pouvons compter que sur\n<pc>-san. Avec les adultes absents,\nquelqu'un doit l'arreter. ...Allons-y."
+    },
+    "52654": {
+        "「やっと　見つけたわ……。\n　これさえあれば……。": "Enfin, je l'ai trouve... Avec ca, je vais\npouvoir..."
+    },
+    "52655": {
+        "「リズッ！　やっと　追いついたぞ！": "Rizu ! Je t'ai enfin rattrapee !"
+    },
+    "52656": {
+        "「……フィーロ！\n　また　ジャマしようっていうの？\n　大人まで連れてきて　どういうつもり！？": "... Firo ! Tu veux encore nous embeter ?\nQu'est-ce que tu comptes faire en amenant un\nadulte ici !?"
+    },
+    "52657": {
+        "「リ……リズを止めるために　決まってるだろ！\n　もう　魔人の召喚なんて\n　危険なマネは　やめるんだ！": "Ri... Je vais bien sur arreter Liz ! Il est\ntemps d'arreter ces invocations dangereuses de\ndemons !"
+    },
+    "52658": {
+        "「……ねえ　旅の方。\n　あなた　蝶を探しているとか　言っていたわね。": "… He, vous, le voyageur. Vous disiez que vous\ncherchiez un papillon, n'est-ce pas ?"
+    },
+    "52659": {
+        "「蝶って　これのことでしょう？": "Le papillon, c'est bien ca, n'est-ce pas ?"
+    },
+    "52660": {
+        "「悪いけど　この　こはくの宝珠は\n　先に手にした　私のものよ。\n　あはっ。残念だったわね。": "Desolee, mais ce Joyau d'Ambre est a moi, je\nl'ai pris en premier. Ahah. Dommage pour toi."
+    },
+    "52661": {
+        "「これを使って　伝説の魔人を呼び出し\n　願いをかなえてもらうのよ。": "Utilise ca pour invoquer le demon legendaire\net realiser ton souhait."
+    },
+    "52662": {
+        "「あのセレドの町を　キレイなお城にして\n　子供たちが　毎日楽しく暮らせるような\n　夢の子供王国を築くの。ステキでしょう？": "Je vais transformer cette ville de Celed en un\nmagnifique chateau et construire un royaume\ndes enfants de reve ou les enfants pourront<br>vivre joyeusement chaque jour. N'est-ce pas\nmerveilleux ?"
+    },
+    "52663": {
+        "「リズ……お前は……。\n　大人が禁じていた　召喚術に手を染めてまで\n　いったい　何を願うのかと思っていたら……。": "Liz... toi... Je me demandais bien ce que tu\npouvais souhaiter en te plongeant dans l'art\nde l'invocation, que les adultes<br>interdisaient..."
+    },
+    "52664": {
+        "「そんな　くだらない願いを　かなえるのが\n　お前の望みだったのか？\n　大人たちに　戻ってきてほしくないのか！？": "C'etait donc ton souhait d'exaucer un voeu\naussi ridicule ? Tu ne veux pas que les\nadultes reviennent !?"
+    },
+    "52665": {
+        "「大人　大人って　うるさいわね……。": "Les adultes, toujours a faire du bruit..."
+    },
+    "52666": {
+        "「魔人のチカラを使えば　大人がいた時より\n　よっぽどいい生活が　できるのよ！": "En utilisant le pouvoir du demon, on peut\nvivre bien mieux que quand les adultes etaient\nla !"
+    },
+    "52667": {
+        "「大人なんて……私たちには　いらないの！！": "Les adultes... Nous n'avons pas besoin d'eux\n!!"
+    },
+    "52668": {
+        "「さあ　ボサッとしてないで　行くわよ！\n　こはくの宝珠が　手に入ったから\n　町に戻って　魔人召喚の儀式を始めるわ！": "Allons-y, ne restons pas la a ne rien faire !\nMaintenant que nous avons obtenu le Bijou\nd'Ambre, retournons en ville pour commencer le<br>rituel d'invocation du demon !"
+    },
+    "52669": {
+        "「女王様の御心は　ワタクシめの心。\n　……これで　ご主人様の願いが　かないます。": "Le coeur de la Reine est mon coeur. ...Ainsi, le\nsouhait de Lord-sama sera exauce."
+    },
+    "52670": {
+        "「リズ……　無理するなよ。": "Liz... ne te surmene pas."
+    },
+    "52671": {
+        "「……僕は　今まで　彼女の暴走を止めることだけ\n　考えていました。でも　教えに背いてまで\n　この塔に登ってみて　気付いたんです。": "Jusqu'a present, je n'ai pense qu'a arreter la\nfolie de Her. Mais en defiant les\nenseignements et en gravissant cette tour,<br>j'ai realise quelque chose."
+    },
+    "52672": {
+        "「僕は　ひとりで　責任を抱えようとするリズを\n　助けたかったんだ……って。": "Je voulais aider Liz, qui essayait de porter\nseule toute la responsabilite..."
+    },
+    "52673": {
+        "「……すみません　僕も彼女を追います。\n　<pc>さん　ありがとうございました。": "...Excusez-moi, je vais aussi poursuivre Her.\nMerci, <pc>-san."
+    },
+    "52674": {
+        "「ま～た　やってきたんですかァ……？": "Vous etes revenu... encore une fois ?"
+    },
+    "52675": {
+        "「これだから　大人はキライなんですヨ！\n　次は　戻ってこられないようニ\n　魂まで　すりつぶしてあげましょうねエ！！": "Voila pourquoi je deteste les adultes ! La\nprochaine fois, je vais ecraser ton ame pour\nque tu ne puisses jamais revenir !!"
+    },
+    "52676": {
+        "「あびゃッ……やっと　目覚めたのニ\n　こんな所で　人間にやられるなんテ……。\n　これだかラ……大人ハ……。": "Ah... Je me suis enfin reveille. Me faire\navoir par un humain dans un endroit pareil...\nC'est pourquoi... les adultes sont..."
+    },
+    "52677": {
+        "「チッ　チクショー……。\n　これまで　さんざんガマンして　ガキどもに\n　コキ使われてきたっていうのによぉ……。": "Tch... Zut alors... Jusqu'a present, j'ai\nsupporte tout ca, me faisant exploiter par ces\ngamins..."
+    },
+    "52679": {
+        "「<pc>さん！　大丈夫ですか？\n　ムッチーノは……　魔人は……\n　あいつらは　いったい　どこに……。": "<pc>-san ! Ca va ? Muccino... le\ndemon... Ou est-ce qu'ils peuvent bien etre...\n?"
+    },
+    "52680": {
+        "「もしかして……。\n　あなたが　倒してくれたんですか！？<yesno><close>": "Peut-etre... C'est vous qui l'avez vaincu !?\n<yesno><close>"
+    },
+    "52681": {
+        "「いいえ　僕には　わかります。\n　さっきまで　この教会に　ただよっていた\n　まがまがしい空気が　なくなっている……。": "Non, je le sens. L'atmosphere malefique qui\nflottait dans cette eglise jusqu'a tout a\nl'heure a disparu..."
+    },
+    "52682": {
+        "「やっぱり　そうなんですね。\n　さっきまで　この教会に　ただよっていた\n　まがまがしい空気が　なくなっています……。": "Comme je le pensais. L'atmosphere malveillante\nqui flottait dans cette eglise jusqu'a tout a\nl'heure a disparu..."
+    },
+    "52683": {
+        "「もう　ムッチーノは　いないのね……。": "Muccino n'est plus la maintenant..."
+    },
+    "52684": {
+        "「使い魔や　魔人には　裏切られて\n　大人たちも　いない……。\n　私たち　これから　どうしたらいいの……？": "Familiar et les demons nous ont trahis, et les\nadultes ne sont plus la... Que devrions-nous\nfaire maintenant...?"
+    },
+    "52685": {
+        "「女王様……。": "Reine-sama..."
+    },
+    "52686": {
+        "「……なあ　みんな　覚えているか？\n　僕らが　ダーマ神殿で　お祈りしていると\n　大人たちが　迎えに来てくれたこと……。": "… He, tout le monde, vous vous souvenez ?\nQuand nous etions a l'Abbaye des Vocations en\ntrain de prier, les adultes sont venus nous<br>chercher…"
+    },
+    "52687": {
+        "「ダーマ神殿か……。そういえば\n　いつも　お祈りが済んで　鐘が鳴る頃に\n　大人たちが　迎えに来たっけな……。": "L'Abbaye de Alltrades, hein... Je me souviens\nqu'a l'epoque, les adultes venaient toujours\nnous chercher apres que les prieres etaient<br>terminees et que la cloche sonnait..."
+    },
+    "52688": {
+        "「あたし……ママに　あいたい。": "Maman... tu me manques."
+    },
+    "52689": {
+        "「みんなで　ダーマ神殿に行ってみよう。\n　昔のように　あそこで　お祈りしていれば\n　大人たちに会える……そんな気がするんだ。": "Allons tous a l'Abbaye Alltrades. J'ai\nl'impression que si nous prions la-bas comme\nautrefois, nous pourrons rencontrer les<br>adultes..."
+    },
+    "52690": {
+        "「そうね……そうかもしれない。": "Oui... c'est possible."
+    },
+    "52691": {
+        "「……そうだ！\n　<pc>さんも　一緒に来てください。\n　その方が　みんな安心すると思うんです。": "…C'est ca ! <pc>-san, venez avec nous.\nJe pense que ca rassurera tout le monde."
+    },
+    "52692": {
+        "「ダーマ神殿は　町の北側から出て\n　山道を登った先にあります。\n　３階の礼拝堂で　お待ちしていますね。": "Alltrades Abbey se trouve en sortant du cote\nnord de la ville et en montant le chemin de\nmontagne. Je vous attendrai a la chapelle du<br>troisieme etage."
+    },
+    "52693": {
+        "「来てくれたんですね　<pc>さん。\n　ちょうど　お祈りを始めるところでした。": "Vous etes venu, <pc>-san. J'etais\njustement sur le point de commencer ma priere."
+    },
+    "52694": {
+        "「……セレドの町の　大人たちは\n　今も　どこかで　心配して\n　僕たちを探しているに　ちがいありません。": "Les adultes de la ville de Celed doivent\nsurement s'inquieter quelque part et nous\nchercher en ce moment."
+    },
+    "52695": {
+        "「ここで　お祈りをしていれば\n　いつも通り　鐘が鳴って　大人たちが\n　迎えに来てくれると　思うんです。": "Si nous prions ici, je pense que la cloche\nsonnera comme d'habitude et que les adultes\nviendront nous chercher."
+    },
+    "52696": {
+        "「さあ　みんな　お祈りを始めよう。": "Bien, tout le monde, commencons notre priere."
+    },
+    "52697": {
+        "「いにしえより　セレドの民を守りし神よ……。\n　どうか　教えに背いた\n　我ら　人の子の罪を　許したまえ……。": "O dieu qui protege le peuple de Celedo depuis\ndes temps immemoriaux... Je vous en prie,\npardonnez les peches des enfants humains qui<br>ont desobei a vos enseignements..."
+    },
+    "52698": {
+        "「正しき道を見失い　迷える子羊たちに\n　かつての平穏を　もたらしたまえ……。": "Accorde a ces brebis egarees, qui ont perdu le\ndroit chemin, la paix d'autrefois..."
+    },
+    "52699": {
+        "「………………。": ""
+    },
+    "52700": {
+        "「あっ！　ママ……！？": "Ah ! Maman...!?"
+    },
+    "52701": {
+        "「風……か……。": "Le vent... hein..."
+    },
+    "52702": {
+        "「ママ　こないの……？": "Maman ne vient pas...?"
+    },
+    "52703": {
+        "「やっぱり　大人たちは\n　もう　帰ってこないのね……。": "Les adultes ne reviendront vraiment pas,\nn'est-ce pas..."
+    },
+    "52704": {
+        "「みんな　期待させておいて　ごめん……。": "Je suis desole d'avoir suscite des attentes\nchez tout le monde..."
+    },
+    "52705": {
+        "「フィーロ　あなたは　何も悪くないわ。\n　本当に謝らなければいけないのは　私よ。": "Firo, tu n'as rien fait de mal. C'est vraiment\nmoi qui dois m'excuser."
+    },
+    "52706": {
+        "「私のせいで　こんなことになってしまい\n　責任を感じて　ずっと　ひとりで\n　なんとかしようとしてきたけれど……。": "C'est de ma faute si cela s'est passe ainsi,\net je me suis toujours senti responsable,\nessayant de tout arranger seul, mais..."
+    },
+    "52707": {
+        "「……でも　それが間違いだったと　気付いたの。\n　私はもっと　みんなを信じるべきだったわ。": "...Mais j'ai realise que c'etait une erreur.\nJe devais avoir plus confiance en tout le\nmonde."
+    },
+    "52708": {
+        "「この先　大変な思いをするだろうけど……\n　これからは　使い魔に頼らず\n　自分たちのチカラで　生きていきましょう。": "Nous allons probablement faire face a des\nmoments difficiles a l'avenir, mais...\ndesormais, vivons par nos propres moyens sans<br>dependre des Familiars."
+    },
+    "52709": {
+        "「……フィーロ　もちろん　あなたも\n　手助けしてくれるわよね？": "......Firo, bien sur, tu vas nous aider,\nn'est-ce pas ?"
+    },
+    "52710": {
+        "「それから……<pc>さん。": "Et ensuite... <pc>-san."
+    },
+    "52711": {
+        "「あなたには　さんざん失礼な事をしたのに\n　私や　子供たちを助けてくれて\n　本当に　どう感謝したらいいのか……。": "Meme si je vous ai traite si mal, vous nous\navez aides, mes enfants et moi. Je ne sais\nvraiment pas comment vous remercier..."
+    },
+    "52712": {
+        "「……たしか　蝶をお探しでしたわね。\n　せめてものお礼に　どうか\n　この　こはくの宝珠を　受け取ってください。": "...Vous cherchiez un papillon, n'est-ce pas ?\nPour vous remercier, je vous prie d'accepter\nce Joyau d'Ambre."
+    },
+    "52713": {
+        "<pc>は\nこはくの宝珠（だいじなもの）を　受け取った！<me 71>": "<pc> a recu l'objet cle : Amber Jewel !<me 71>"
+    },
+    "52714": {
+        "「<pc>さん。\n　何から何まで　あなたに頼ってしまって\n　本当に　すみませんでした。": "<pc>-san, je suis vraiment desole\nd'avoir tant compte sur vous pour tout."
+    },
+    "52715": {
+        "「これからは　みんなで　支え合って\n　なんとか　暮らしていきます。": "A partir de maintenant, nous allons tous nous\nsoutenir et trouver un moyen de vivre\nensemble."
+    },
+    "52716": {
+        "「いつか　名誉子供も　おやつが食べられる\n　ステキな町に　してみせますわ。\n　……さあ　行きましょう　フィーロ。": "Un jour, je transformerai cette ville en un\nendroit merveilleux ou meme les enfants\nhonorables pourront manger des friandises. ...<br>Allez, partons, Firo."
+    }
+}
