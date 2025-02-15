@@ -1,107 +1,173 @@
 {
-    "20686": {
-        "「<cs_pchero>　任務　ご苦労。\n　近くに　別の任務が　あったので\n　貴公の様子を　見にきたのだ。": "<cs_pchero> Mission accomplie. Comme il y\navait une autre mission a proximite, je suis\nvenu voir comment tu te debrouillais."
+    "20721": {
+        "「こちらは　今回の事件の\n　被害者のひとり　プルッテさんだ。": "Voici l'une des victimes de cette affaire, M.\nPurutte."
     },
-    "20687": {
-        "「なるほど……。ニシキ殿の言うとおり\n　あれは　ウェナ諸島内だけに棲息している\n　タップペンギーという名の魔物だ。": "Je vois... Comme l'a dit Nishiki-dono, c'est\nun monstre appele Pogoin' Penguin qui ne\nreside que dans l'archipel de Wena."
+    "20722": {
+        "「ううっ　あなたが　ヘッポロを……\n　あたしのダーリンを　助けてくれるんですか！？": "Oh, vous allez… aider Hepporo… mon cheri !?"
     },
-    "20688": {
-        "「これは　貴公の任務だからな。\n　私の手を借りずに　討伐してみせてくれ。": "C'est ta mission, apres tout. Montre-moi que\ntu peux les vaincre sans mon aide."
+    "20723": {
+        "「彼女は　ご主人とともに　冒険者をしている。\n　探索のために　プペラトンネルという\n　洞くつに　入ったということなのだが……。": "Her est en train d'aventurer avec le seigneur.\nIls sont entres dans une caverne appelee\nPupella Tunnel pour l'exploration..."
     },
-    "20689": {
-        "「グルル……？　グルルルルゥ！！": "Grururu...? Grurururuu !!"
+    "20724": {
+        "「そこで　タップペンギーの集団に見つかり\n　ご主人のヘッポロさんは　彼女を逃がすため\n　おとりとして　洞くつ内に　残ったそうだ。": "C'est alors qu'ils ont ete decouverts par le\ngroupe de Pogoin' Penguin. Pour permettre a\nHer de s'echapper, Hepporo-san a decide de<br>rester dans la grotte en tant qu'appat."
     },
-    "20690": {
+    "20725": {
+        "「君には　ヘッポロさんの救出を　頼みたいのだ。\n　この依頼　やってもらえるか？": "Je veux te confier la mission de secourir\nHepporo-san. Peux-tu accepter cette demande ?"
+    },
+    "20726": {
+        "「やってもらえるか！　助かるぞ！": "Je compte sur toi ! Ca m'aide beaucoup !"
+    },
+    "20727": {
+        "「ヘッポロさんの命が心配だ。\n　プペラトンネルは　メギストリス領の西にある。\n　急いで　救出に向かってくれ！": "Hepporo-san est en danger. Le Tunnel de\nPupella se trouve a l'ouest du territoire de\nMegistris. Depeche-toi d'aller le secourir !"
+    },
+    "20728": {
+        "「ダーリンを　よろしく　お願いします……。": "Je vous confie mon cheri, s'il vous plait..."
+    },
+    "20729": {
+        "「うう……。どうか　急いで\n　他の依頼を　済ませてきてください。": "Ooh... S'il vous plait, depechez-vous de\nterminer les autres quetes."
+    },
+    "20730": {
+        "「うわ～ん。ダ～～～リ～～～ン！！": "Ouinnnnn. Daaaaaaarling !!"
+    },
+    "20731": {
+        "「任務は　順調のようだな　<cs_pchero>。": "La mission semble se derouler sans encombre,\n<cs_pchero>."
+    },
+    "20732": {
+        "「だが　これは　人命のかかった救出依頼だ。\n　失敗は　絶対に許されない。\n　ゆえに　私が　応援に来たのだ。": "Cependant, il s'agit la d'une mission de\nsauvetage ou des vies humaines sont en jeu.\nL'echec n'est absolument pas permis. C'est<br>pourquoi je suis venu pour vous preter main\nforte."
+    },
+    "20733": {
+        "「……よし。ヘッポロ殿は　まだ生きている。": "…Bien. Hepporo-dono est encore en vie."
+    },
+    "20734": {
+        "「貴公が　タップペンギーを引きつけている間に\n　私が　ヘッポロ殿を救出し\n　安全な所まで　連れていこう。": "Pendant que vous attirez le Pogoin' Penguin,\nje vais secourir Hepporo-dono et l'emmener en\nlieu sur."
+    },
+    "20735": {
+        "「数は多いが　一度　戦った相手だ。\n　貴公なら　負けることはないはず。\n　これ以上の被害が出る前に　全滅させよ。": "Le nombre est eleve, mais tu les as deja\naffrontes une fois. Tu ne devrais pas perdre.\nAneantis-les avant qu'ils ne causent plus de<br>degats."
+    },
+    "20736": {
         "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
     },
-    "20691": {
-        "「<cs_pchero>　任務　ご苦労。\n　だが　あの程度の魔物に　手こずるようでは\n　先が　思いやられるぞ。": "<cs_pchero> Bon travail pour cette mission.\nCependant, si vous avez du mal avec des\nmonstres de ce niveau, l'avenir s'annonce<br>difficile."
+    "20737": {
+        "「グラァァァァァ！！": "Graaahhhhh !!"
     },
-    "20692": {
-        "「これは　貴公の任務だ。\n　私の手を借りようなどと　思うな。": "C'est ta mission. N'espere pas obtenir mon\naide."
+    "20738": {
+        "「<cs_pchero>。逃げずに　よく来た。\n　任務を　途中で投げだすような者は\n　魔法戦士団の一員には　ふさわしくない。": "<cs_pchero>Tu es venu sans fuir. Abandonner\nune mission en cours ne convient pas a un\nmembre de l'Ordre des Guerriers Magiques."
     },
-    "20693": {
-        "「グルゥ……？　グルルルァァ！！": "Gruu... ? Grururuaa !!"
+    "20739": {
+        "「貴公が　タップペンギーを引きつけねば\n　ヘッポロ殿に　近づくことができないのだ。\n　今度は　ぬかりなく　頼むぞ。": "Si tu n'attires pas le Pogoin' Penguin, nous\nne pourrons pas approcher Hepporo-dono. Cette\nfois, assure-toi de ne pas echouer."
     },
-    "20694": {
+    "20740": {
         "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
     },
-    "20695": {
-        "「貴公の手並みは　見せてもらった。\n　戦いのウデも　なかなかだな。": "J'ai vu ton habilete. Tu te debrouilles plutot\nbien en combat."
+    "20741": {
+        "「グララァァッ！！": "Gralaaa !!"
     },
-    "20696": {
-        "「私は　このエルトナ大陸でも\n　多くの魔物討伐任務を　果たしてきたが\n　タップペンギーを　見たことはなかった。": "Je suis sur le continent d'Eltona depuis\nlongtemps et j'ai accompli de nombreuses\nmissions de chasse aux monstres, mais je<br>n'avais jamais vu de Pogoin' Penguin."
+    "20742": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
     },
-    "20697": {
-        "「なぜ　この大陸に現れたのか　気になる。\n　衛士団ならば　この魔物のことを\n　何か　知っているかもしれないな……。": "Pourquoi ce continent est-il perturbe par P. ?\nJe me demande. Si nous interrogeons la garde,\nils pourraient savoir quelque chose sur ce<br>monstre..."
+    "20743": {
+        "「こっちだ　<cs_pchero>！\n　ヘッポロ殿は　だいじょうぶだ。": "Par ici, <cs_pchero> ! Hepporo-dono va bien."
     },
-    "20698": {
-        "「貴公は　カミハルムイ国へ戻り\n　ニシキ殿に　依頼の完了を報告せよ。\n　私は　ヴェリナードへ戻っている。": "Vous devez retourner au royaume de Kamiharmui\net informer Nishiki-dono de l'accomplissement\nde la mission. Moi, je retourne a Velinard."
+    "20744": {
+        "「ご苦労だった。\n　おかげで　人命救助と魔物討伐を\n　両方とも果たすことが　できたな。": "Je te remercie pour tes efforts. Grace a toi,\nnous avons pu a la fois sauver des vies et\nvaincre les monstres."
     },
-    "20699": {
-        "「遅いぞ　衛士団。なぜ　すぐに来ないのだ。": "Vous etes en retard, membres de la garde.\nPourquoi n'etes-vous pas venus immediatement ?"
+    "20745": {
+        "「ヘッポロ殿の帰りを　待っている人がいる。\n　私が　連れていこう。": "Il y a quelqu'un qui attend le retour de\nHepporo-dono. Je vais l'emmener."
     },
-    "20700": {
-        "「ガハハハッ。そんなに　待たせたか？\n　そっちの都合で　呼びつけたんだ。\n　すこしは　ガマンしてくれ。": "Gahahaha ! Vous ai-je tant fait attendre ?\nC'est vous qui m'avez appele ici. Soyez un peu\npatient, je vous prie."
+    "20746": {
+        "「貴公は　ポップミ殿に　完了報告をせよ。\n　では　メギストリス城で　落ち合おう。": "Vous devez faire votre rapport de mission a\nPoppumi-dono. Ensuite, retrouvons-nous au\nchateau de Megistris."
     },
-    "20701": {
-        "「……貴公らに　聞きたいことがある。\n　タップペンギーという　魔物について\n　教えてもらいたい。": "J'ai quelque chose a vous demander. J'aimerais\nque vous me parliez de la creature appelee\nPogoin' Penguin."
+    "20747": {
+        "「遅くなって　申し訳ない。\n　ヘッポロ殿を　お連れした。": "Je suis desole pour le retard. J'ai amene\nHepporo-dono."
     },
-    "20702": {
-        "「教えるのはいいが……。\n　その程度の　魔物のことならば\n　ウェナ諸島を守る衛士にとって　当然の知識だ。": "Il est bien de vous l'enseigner... Cependant,\nlorsqu'il s'agit de creatures de ce niveau, il\nest naturel que les gardiens de l'archipel de<br>Wena possedent cette connaissance."
+    "20748": {
+        "「あああ　ダ～リン～！\n　生きてて　よかった～～～！！": "Ahhh, daaaaalinng~ ! Je suis tellement\nheureuse que tu sois en vie~ !!"
     },
-    "20703": {
-        "「そんなことも知らんとは\n　魔法戦士団は　足もとが\n　おろそかに　なってるんじゃないのか？": "Ne pas savoir une telle chose, le corps des\nguerriers-mages ne negligerait-il pas les\nbases ?"
+    "20749": {
+        "「ばっかだな。おまえを置いて\n　死ねるわけねえだろうがよ。": "Tu es vraiment bete. Tu crois vraiment que je\npourrais mourir en te laissant derriere ?"
     },
-    "20704": {
-        "「我が魔法戦士団は　世界を舞台にしている。　\n　貴公たちとは　守るべきものの大きさも\n　責任の重さも　ちがうと知りたまえ。": "Notre ordre des guerriers-mages opere sur la\nscene mondiale. Sachez que ce que nous avons a\nproteger est bien plus grand, et que la<br>responsabilite que nous portons est bien plus\nlourde que la votre."
+    "20750": {
+        "「うわ～ん　ダ～リン。愛してるよ～～～～！！": "Ouaaah, Daaarlin. Je t'aime tellement !!"
     },
-    "20705": {
-        "「はっ！　聞いて　あきれるぜ！\n　オレたちが　ウェナ諸島を守っているから\n　魔法戦士団は　外に出ていけるんだろうが！": "Ha ! C'est ridicule d'entendre ca ! C'est\nparce que nous protegeons l'archipel de Wena\nque l'ordre des mages guerriers peut sortir,<br>tu sais !"
+    "20751": {
+        "「ばかやろぉ。人前で　恥ずかしいじゃねぇか。\n　……おれも　愛してるぜ！！": "Espece d'idiot. C'est embarrassant devant tout\nle monde. ...Je t'aime aussi !!"
     },
-    "20706": {
-        "「ザイナー殿。衛士団の意見は　求めていない。\n　魔物のことを　教える気はあるのか？": "Zyner-dono. Je ne vous demande pas l'avis de\nla garde. Etes-vous pret a nous parler des\nmonstres ?"
+    "20752": {
+        "「助けてくれて　ありがとよぉ。\n　その日暮らしなもんで　礼とか　できねえけど\n　カンベンしてくれよな。": "Merci de m'avoir aide. Je vis au jour le jour,\ndonc je ne peux pas te recompenser, mais\nj'espere que tu comprendras."
     },
-    "20707": {
-        "「お前の担当地域の　魔物だったな。\n　教えてやれ　ノーラン。": "C'etait un monstre de ta region, n'est-ce pas\n? Explique-lui, Noran."
+    "20753": {
+        "「いや。礼には及ばない。\n　魔法戦士として　当然の任務を果たしたまでだ。": "Non, il n'y a pas de quoi me remercier. J'ai\nsimplement accompli mon devoir en tant que\nguerrier-mage."
     },
-    "20708": {
-        "「タップペンギーは　このウェナ諸島で\n　独特の生態を持って　棲息している魔物です。": "Pogoin' Penguin est un monstre qui habite dans\nles iles Wena, avec un mode de vie unique."
+    "20754": {
+        "「それじゃ　あたしたちは　これで……。\n　また　ふたりで　冒険の旅に出ます。": "Alors, nous allons nous en aller maintenant...\nNous partons a nouveau tous les deux pour une\naventure."
     },
-    "20709": {
-        "「その魔物が　ウェナ諸島の外に\n　棲みつくようなことは　あるのか？": "Ce monstre pourrait-il s'installer ailleurs\nqu'aux iles Wena ?"
+    "20755": {
+        "「これで　依頼は解決ですな。\n　ヴェリナード魔法戦士団の活躍に　感謝いたす。\n　報酬は　ヴェリナード城へ　送ればよいですな？": "Avec cela, la mission est accomplie. Je\nremercie le bataillon des guerriers mages de\nVelinard pour leur bravoure. La recompense<br>doit etre envoyee au Chateau de Velinard,\nn'est-ce pas ?"
     },
-    "20710": {
-        "「それは　ありえません。\n　気候の変化に弱いですし　エサもないでしょう。": "Ce n'est pas possible. Ils sont sensibles aux\nchangements climatiques et il n'y a\nprobablement pas de nourriture."
+    "20756": {
+        "「手数をかけるが　それで　お願いする。\n　では　我々も　失礼させていただく。": "Je vous demande de bien vouloir vous en\noccuper. Nous allons egalement prendre conge."
     },
-    "20711": {
-        "「なるほど　普通でないことは　わかった。\n　それだけ聞ければ　後は　こちらで対応する。\n　貴公らは　任務に戻るがいい。": "Je vois, il est clair que ce n'est pas normal.\nC'est tout ce que j'avais besoin d'entendre,\nje vais gerer la suite ici. Vous pouvez<br>retourner a votre mission."
+    "20757": {
+        "「……愛する者がいるのは　よいことだな。": "......C'est une bonne chose d'avoir quelqu'un\na aimer."
     },
-    "20712": {
-        "「呼びつけておいて　それだけか……。\n　帰るぞ　ノーラン！": "Tu m'as fait venir juste pour ca... Je rentre,\nNoran !"
+    "20758": {
+        "「……すまない。なんでもないのだ。": "... Je suis desole. Ce n'est rien."
     },
-    "20713": {
-        "「……ノーラン。": "Noran."
+    "20759": {
+        "「さあ　帰るぞ　<pc>。\n　貴公に　報酬を渡さなくてはな。": "Allez, rentrons, <pc>. Je dois te\nremettre ta recompense."
     },
-    "20714": {
-        "「いつまで　衛士などに　甘んじている。\n　我ら　魔法戦士団の一員となる決心は\n　まだ　つかんのか？": "Jusqu'a quand te contenteras-tu d'etre un\nsimple gardien ? As-tu enfin decide de\nrejoindre les rangs de notre Brigade des<br>Guerriers Magiques ?"
+    "20760": {
+        "「貴公も　今　戻ったところか。": "Vous venez egalement de rentrer, n'est-ce pas\n?"
     },
-    "20715": {
-        "「私は…………\n　魔法戦士には　なりません。": "Je ne deviendrai pas... un mage guerrier."
+    "20761": {
+        "「ノーラン。": "Noran."
     },
-    "20716": {
-        "「待たせて　すまなかった　<pc>。\n　貴公の任務は　完了している。": "Je suis desole de t'avoir fait attendre,\n<pc>. Ta mission est accomplie."
+    "20762": {
+        "「いつまで　衛士の立場に\n　甘んじているつもりだ。": "Combien de temps comptes-tu te contenter de ta\nposition de simple garde ?"
     },
-    "20717": {
-        "「では　報酬を受け取ってくれ。\n　貴公には　これが似合う魔法戦士に\n　なってほしいものだ。": "Alors, accepte cette recompense. J'aimerais\nque tu deviennes un Mage Guerrier a qui cela\nconviendra parfaitement."
+    "20763": {
+        "「…………。": ""
     },
-    "20718": {
-        "「では　報酬を受け取ってくれ。": "Alors, accepte cette recompense."
+    "20764": {
+        "「……中へ入るがいい。": "......Viens a l'interieur."
     },
-    "20719": {
-        "「タップペンギーの件については\n　こちらで　調べておこう。\n　結果によっては　貴公の協力も必要となる。": "En ce qui concerne l'affaire de Pogoin'\nPenguin, nous allons enqueter de notre cote.\nEn fonction des resultats, nous aurons<br>peut-etre besoin de votre cooperation."
+    "20765": {
+        "「フッ……ユナティ！\n　その　タップペンギーの件だが\n　早急に　原因を突きとめてもらいたい。": "Hum... Unaty ! Concernant cette affaire du\nPogoin' Penguin, je veux que tu identifies la\ncause au plus vite."
     },
-    "20720": {
-        "「調査には　時間を要するかもしれない。\n　それまで　貴公は　独自に修行を積み\n　魔法戦士となって　また　ここに来るように。": "L'enquete pourrait prendre du temps. D'ici la,\ncontinue ton entrainement de ton cote et\ndeviens un mage guerrier avant de revenir ici."
+    "20766": {
+        "「魔法戦士団の者たちが　同時に\n　世界各地へ送られていく　この状況は危険だ。": "Les membres de l'escouade des magiciens\nguerriers sont envoyes simultanement aux\nquatre coins du monde. Cette situation est<br>dangereuse."
+    },
+    "20767": {
+        "「あのときと　似ているとは思わんか……。": "Ne trouves-tu pas que cela ressemble a ce\nmoment-la...?"
+    },
+    "20768": {
+        "「あのとき……。": "A ce moment-la..."
+    },
+    "20769": {
+        "「我輩は　メルー公より　直々に\n　事態の収拾を　命じられたのだ。\n　これが　どういうことか　わかるな？": "J'ai recu l'ordre directement de Lord Meru de\nresoudre cette affaire. Tu comprends ce que\ncela signifie, n'est-ce pas ?"
+    },
+    "20770": {
+        "「了解しました。すぐに　対策を講じます。\n　私は　衛士団に　協力を求めに行きましょう。": "Entendu. Je vais immediatement prendre des\nmesures. Je vais demander l'aide de la garde."
+    },
+    "20771": {
+        "「よろしい。そちらは　貴公に　まかせる。\n　魔法戦士団への指示は　我輩が引き受けよう。": "Bien. Je te confie cette tache. Je m'occuperai\nde donner les instructions a la brigade des\nguerriers magiques."
+    },
+    "20772": {
+        "「しばらくの間　私は　忙しくなる。\n　貴公は　魔法戦士の修行を続けてくれ。": "Pour un moment, je vais etre occupee. Continue\nton entrainement en tant que mage guerrier."
+    },
+    "20773": {
+        "「対策を練るには　時間が必要だからな。\n　時を置いてから　魔法戦士となって\n　私のもとへ　来てほしい。": "Pour elaborer une strategie, il nous faut du\ntemps. Apres un certain temps, deviens un Mage\nGuerrier et reviens me voir."
+    },
+    "20774": {
+        "「では　任務　ご苦労だった！": "Bien, mission accomplie ! Bon travail !"
+    },
+    "27335": {
+        "「むっ　君は　たくさんの依頼を\n　抱えているようではないか。\n　忙しいのは　よく　わかるが……。": "Hum, tu sembles avoir beaucoup de demandes a\ngerer. Je comprends bien que tu es occupe,\nmais..."
+    },
+    "27336": {
+        "「こちらの依頼は　人命が　かかっている。\n　他の依頼に　追われているようでは\n　まかせることは　できない。": "Cette mission concerne des vies humaines. Si\ntu es accapare par d'autres taches, je ne peux\npas te la confier."
+    },
+    "27337": {
+        "「くっ……。\n　このままでは　ヘッポロさんの命が……。": "Argh... A ce rythme, la vie de Hepporo-san est\nen danger..."
     }
 }
