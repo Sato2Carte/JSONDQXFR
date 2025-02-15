@@ -1,0 +1,644 @@
+{
+    "269927": {
+        "「おや……。": "Oh..."
+    },
+    "269928": {
+        "「よっと！": "<Troden> Hop !"
+    },
+    "269929": {
+        "「もしかして　あなたが……フォーリオンに\n　連れてこられた者の中で　唯一\n　今のアストルティアに　生きるという……？": "Se pourrait-il que vous soyez... la seule\npersonne parmi celles amenees a ForLeon a\nvivre actuellement a Astoltia...?"
+    },
+    "269930": {
+        "「やはり　そうでしたか。": "Comme je le pensais."
+    },
+    "269931": {
+        "「天使たちから　聞いたんです。\n　では　あなたが……<pc>さんですね。": "J'ai entendu parler de vous par les anges.\nDonc, vous etes... <pc>-san, n'est-ce\npas ?"
+    },
+    "269932": {
+        "「私は……名乗るほどの者では　ありません。 \n　どうとでも　好きなように　呼んでください。": "Je ne suis pas quelqu'un d'assez important\npour me presenter. Appelez-moi comme vous le\nsouhaitez."
+    },
+    "269933": {
+        "「試練を受けろと　ここに\n　案内されたは　いいのですが……": "On m'a bien guide jusqu'ici pour passer\nl'epreuve, mais..."
+    },
+    "269934": {
+        "「見たこともない植物が　生い茂っている\n　得体のしれない森ですからね……周囲の様子を\n　木の上から　うかがっていたんです。": "Des plantes inconnues poussent abondamment.\nC'est une foret mysterieuse... J'observais les\nenvirons depuis le sommet des arbres."
+    },
+    "269935": {
+        "「そうしたら　ちょうど　天使から聞いていた\n　人相通りのかたが　通りかかったので\n　思わず　声をかけてしまいました。": "Et c'est alors que, comme par hasard, la\npersonne dont l'ange m'avait parle,\ncorrespondant parfaitement a la description,<br>est passee devant moi. Je n'ai pas pu\nm'empecher de l'interpeller."
+    },
+    "269936": {
+        "「ふむ……。": "Hmm..."
+    },
+    "269937": {
+        "「では　現代に生きる　あなたに問いたい。\n　今はすでに　滅んでいるでしょうが……\n　ヤマカミヌという名の国を　ご存知ですか？<yesno><close>": "Alors, je voudrais poser une question a vous,\nqui vivez a l'ere P. Le pays nomme Yamakaminu,\nqui a surement deja disparu... Le<br>connaissez-vous ?<yesno><close>"
+    },
+    "269938": {
+        "「えっ　知っているのですか。\n　聞いておいて　なんですが……\n　まさか　ご存じだとは思わず　驚きました。": "Eh, vous le savez ? Bien que je vous aie pose\nla question, je suis surpris de decouvrir que\nvous le connaissiez deja."
+    },
+    "269939": {
+        "「聞いたことがない……ですか……。\n　ならば　いいのです。忘れてください。": "Vous n'en avez jamais entendu parler... ?\nAlors, tant mieux. Oubliez ca, s'il vous\nplait."
+    },
+    "269940": {
+        "「それでは　これにて。\n　奥に　花園のような　気になる場所があったので\n　試練を探して　行ってみようと思います。": "Alors, je vais m'arreter ici. Il y avait un\nendroit intriguant ressemblant a un jardin de\nfleurs plus loin, je pense aller explorer en<br>quete d'epreuves."
+    },
+    "269941": {
+        "「まあまあ！　英雄さんが\n　ふたりも同時に　いらっしゃるなんて\n　今度の試練は　大忙しですわ～！": "Eh bien, eh bien ! Avoir deux heros en meme\ntemps, quelle surprise ! Cette epreuve va etre\ntres animee !"
+    },
+    "269942": {
+        "「生誕の花園に　ようこそ～！ \n　私は　フェディーラと申します。\n　深翠の試練を担う　審判の天使ですよ～！": "Bienvenue au Garden of Growth ! Je m'appelle\nFedira. Je suis l'ange du jugement charge de\nl'epreuve de la Profonde Emeraude !"
+    },
+    "269943": {
+        "「お待ちしていましたわ。ハクオウさん！\n　<pc>さん！": "Je vous attendais. Hakuo-san ! <pc>-san\n!"
+    },
+    "269944": {
+        "「やれやれ……先ほどは　失礼いたしました。 \n　聞いての通り　私の名は　ハクオウといいます。": "Eh bien, eh bien... Je vous prie de m'excuser\npour tout a l'heure. Comme vous l'avez\nentendu, je m'appelle Hakuo."
+    },
+    "269945": {
+        "「ほほほ！　それじゃ　さっそく深翠の試練の\n　説明を　始めますわよ～！": "Ho ho ho ! Eh bien, commencons immediatement\nl'explication de l'epreuve de la Profondeur\nEmeraude !"
+    },
+    "269946": {
+        "「そ～れっ！": "Allez hop !"
+    },
+    "269947": {
+        "「ほぉ～らっ！　見てください！\n　とっても　かわいいでしょ～！": "Regardez ca ! N'est-ce pas adorable ?"
+    },
+    "269948": {
+        "「こちらは　英雄の魂のチカラを受けて育つ\n　特別な　タマゴちゃんです！": "Voici un oeuf special qui grandit grace a la\npuissance de l'ame du heros !"
+    },
+    "269949": {
+        "「このタマゴちゃんを　ここ　深翠の試練場で \n　大切に育み　立派な姿に　成長させてください！\n　それが　私からの試練ですわ！": "Veuillez prendre soin de cet oeuf ici, dans le\nDeep Green Trial, et elevez-le avec attention\njusqu'a ce qu'il devienne splendide ! C'est<br>l'epreuve que je vous propose !"
+    },
+    "269950": {
+        "「育てて　成長させる……？\n　強敵を倒すでも　謎を解くでもなく……？": "Elever pour faire grandir... ? Ce n'est pas\nvaincre de puissants ennemis, ni resoudre des\nenigmes... ?"
+    },
+    "269951": {
+        "「そうで～す！　しかも　今回はおふたりの\n　英雄さんが　同時に来られたので\n　特例として　協力ルールに　いたしましょう。": "C'est exact~ ! De plus, cette fois-ci, puisque\nvous etes deux heros a etre venus en meme\ntemps, nous allons faire une exception et<br>etablir une regle de cooperation."
+    },
+    "269952": {
+        "「おふたりで　チカラを合わせて　タマゴちゃんを\n　育ててください！　どちらか片方が　失敗したら\n　おふたりとも　失格なので　協力が大事ですよ。": "Ensemble, unissez vos forces pour elever\nl'oeuf-chan ! Si l'un de vous echoue, vous\nserez tous les deux disqualifies, alors la<br>cooperation est essentielle."
+    },
+    "269953": {
+        "「それじゃ　目覚めの儀式として\n　まずは　このタマゴちゃんに\n　ステキな名前を　つけてあげましょうか！": "Alors, pour commencer ce rituel de reveil,\ndonnons un joli nom a ce petit oeuf !"
+    },
+    "269954": {
+        "「はいッ！　ハクオウ父さん！\n　タマゴちゃんの　お名前は？": "Oui ! Hakuo-papa ! Quel est le nom de\nl'oeuf-chan ?"
+    },
+    "269955": {
+        "「いや……。\n　私には　そういうのは　向いてません。\n　あなたが　何か名前を……": "Non... Ce genre de chose ne me convient pas.\nPourquoi ne pas choisir un nom ?"
+    },
+    "269956": {
+        "タマゴに　名前を　つけてあげますか？<yesno><close>": "Souhaitez-vous donner un nom a l'oeuf ?\n<yesno><close>"
+    },
+    "269958": {
+        "「ダメですよ～！\n　私は　ハクオウ父さんを　指名中です！\n　ハクオウ父さん　タマゴちゃんのお名前は？": "D'accord, d'accord, c'est pas possible~! Je\nsuis en train de designer Papa Hakuo ! Papa\nHakuo, quel est le nom du petit oeuf ?"
+    },
+    "269959": {
+        "「名前　ですか……。 \n　ええと　そうですね……": "Votre nom... Hum, voyons voir..."
+    },
+    "269960": {
+        "「じゃあ　コ　コウリン……とか……。": "Alors, que dirais-tu de Ko... Kourin... ou\nquelque chose comme ca..."
+    },
+    "269961": {
+        "「まあ～！　コウリンちゃん！\n　と～っても　ステキなお名前ですね！": "Oh la la ! Kourin-chan ! Quel nom absolument\nmagnifique !"
+    },
+    "269962": {
+        "「それじゃ　お名前を呼びながら\n　おふたりで　カラをノックして\n　タマゴちゃんを　目覚めさせてあげましょう！": "Alors, en appelant son nom, tous les deux,\nfrappez la coquille pour reveiller le petit\noeuf !"
+    },
+    "269963": {
+        "「そ～れっ！": "Allez hop !"
+    },
+    "269964": {
+        "「なぜ　私は……コウリンなどと……": "Pourquoi suis-je... appelee Kourin..."
+    },
+    "269965": {
+        "「あららら～？\n　そぉ～んなに　失格になりたいのかしら～？": "Oh la la ! Vous avez vraiment envie d'etre\ndisqualifie, n'est-ce pas ?"
+    },
+    "269966": {
+        "「ぐっ……仕方ありませんね……。": "Guh... Je suppose que je n'ai pas le choix..."
+    },
+    "269967": {
+        "「コ　コウリン……。コウリン……。": "Kourin... Kourin..."
+    },
+    "269968": {
+        "「タマーーーーッ！ \n　ボク　コウリン！！": "Tamaaaaa ! Je suis Kourin !!"
+    },
+    "269969": {
+        "「オトウたま！　オカアたま！\n　これから　よろしくタマ～ッ！": "Otou-tama ! Okaa-tama ! Je compte sur vous a\npartir de maintenant, Tama~ !"
+    },
+    "269970": {
+        "「ふたりの　オトウたま！\n　これから　よろしくタマ～ッ！": "A nos deux papas ! Je compte sur vous a partir\nde maintenant, tama~ !"
+    },
+    "269971": {
+        "「うふふ！　コウリンちゃん　ヨロシクね～！\n　これで　目覚めの儀式は　終了ですわ！": "Oufufu ! Kourin-chan, enchantee de te\nrencontrer~ ! Avec ca, la ceremonie du reveil\nest terminee !"
+    },
+    "269972": {
+        "「では　お次に～！　\n　コウリンちゃんを育てるために \n　大切なお水と　食べ物を　集めてきてください！": "Alors, passons a la suite ! Veuillez\nrassembler de l'eau et de la nourriture\nessentielles pour elever Kourin-chan !"
+    },
+    "269973": {
+        "「まずは　お水から！\n　豊穣の密林には　たくさん草木が生えてます。\n　その葉の朝露を　一滴一滴　集めてください！": "Commencons par l'eau ! Dans la Foret de la\nFertilite, de nombreuses plantes poussent.\nVeuillez recueillir la rosee du matin de leurs<br>feuilles, goutte a goutte !"
+    },
+    "269974": {
+        "「この密林には　霊力があふれていますからね。\n　それが凝縮された朝露は　コウリンちゃんの\n　成長に　とっても　いいんですよ。": "Dans cette jungle dense, le pouvoir spirituel\ndeborde. La rosee du matin, impregnee de cette\nenergie, est vraiment benefique pour la<br>croissance de Kourin-chan."
+    },
+    "269975": {
+        "「やるべきことは　わかりました。": "Je comprends ce que je dois faire."
+    },
+    "269976": {
+        "「私は　その朝露を　集めてきますので\n　食べ物の方は　あなたに　お任せします。\n　それでは……。": "Je vais m'occuper de recolter la rosee du\nmatin, je vous laisse donc la charge de la\nnourriture. Sur ce..."
+    },
+    "269977": {
+        "「あらあら。\n　行ってしまいましたわね。": "Oh la la. Il est parti, n'est-ce pas ?"
+    },
+    "269978": {
+        "「では　<pc>さんには\n　コウリンちゃんにあげる　食べ物について\n　くわしく　説明しちゃいますわよ～！": "Eh bien, <pc>-san, je vais vous\nexpliquer en detail la nourriture que vous\nallez donner a Kourin-chan !"
+    },
+    "269979": {
+        "「クンクン……。\n　この　タマらん香りはっ……！": "Snif, snif... Cette odeur incroyable... !"
+    },
+    "269980": {
+        "「やっぱり　ダイヤココナッツタマーー！！\n　オカアたま　取ってきてくれて\n　ありがとうタマ～！": "C'est bien le Diamond Coconut ! Merci\nbeaucoup, chere maman, de l'avoir ramene !"
+    },
+    "269981": {
+        "「やっぱり　ダイヤココナッツタマーー！！\n　オトウたま　取ってきてくれて\n　ありがとうタマ～！": "Je savais que c'etait un Diamond Coconut !\nMerci beaucoup, Otou-sama, de l'avoir rapporte\n!"
+    },
+    "269982": {
+        "「さっそく　いただくタマ～！": "Je vais me regaler tout de suite, Tama~ !"
+    },
+    "269983": {
+        "「アガッ！！": "Agah!!"
+    },
+    "269984": {
+        "「アガガッ……おかしいタマ！\n　全ッ然　歯が立たないタマッ！": "Argh... C'est etrange, Tama ! Mes attaques ne\nfonctionnent pas du tout, Tama !"
+    },
+    "269985": {
+        "「ほほほ！　そりゃあ　そうですわ～。\n　ダイヤココナッツのカラは　ドラゴンの牙も\n　通さないほどに　硬いものですのよ！": "Ho ho ho ! C'est bien vrai~. La coquille du\nDiamond Coconut est si dure qu'elle ne peut\nmeme pas etre percee par les crocs du Green<br>Dragon !"
+    },
+    "269986": {
+        "「中身を食べるには　そんな硬いカラを \n　どうにかして　砕かなくてはなりません。\n　……ねえ　ハクオウ父さん？": "Pour manger ce qu'il y a a l'interieur, il\nfaut trouver un moyen de briser cette coquille\nsi dure. ... N'est-ce pas, pere Hakuo ?"
+    },
+    "269987": {
+        "「今度は　花の蜜をたくさん　集めてきましたよ。\n　一輪の花から取れる蜜が　あまりに少なくて\n　すっかり　時間が　かかってしまいました。": "Cette fois, j'ai recolte beaucoup de nectar de\nfleurs. Il y avait si peu de nectar a extraire\nd'une seule fleur que cela m'a pris beaucoup<br>de temps."
+    },
+    "269988": {
+        "「おや　何か　お困りのようですね。\n　どうされましたか？": "Oh, il semble que vous ayez un probleme. Que\nse passe-t-il ?"
+    },
+    "269989": {
+        "「カラが硬くて　中身が食べられないと……。 \n　そういうことなら　私でも　役に立てそうです。": "La carapace est trop dure pour pouvoir manger\nl'interieur... Dans ce cas, je pense que je\npeux etre utile."
+    },
+    "269990": {
+        "「食べ物の方は　<pc>さんに\n　任せきりでしたからね。\n　ここは　私に　やらせてください。　": "Pour la nourriture, nous avons entierement\nconfie cela a <pc>-san. Laissez-moi\nm'occuper de cette partie ici, s'il vous<br>plait."
+    },
+    "269991": {
+        "「ちょっと　お借りしますよ。": "Je vous emprunte ca un instant."
+    },
+    "269992": {
+        "「どれほど硬くとも　物質の継ぎ目を突けば\n　切れぬものなど　ありません……。": "Aussi dur que cela puisse etre, si vous visez\nla jointure d'une matiere, rien ne peut\nresister a la coupe..."
+    },
+    "269993": {
+        "「はっ！": "Ah !"
+    },
+    "269994": {
+        "「食べやすくなるように　切ってみましたが……\n　どうでしょうか？": "J'ai coupe cela pour le rendre plus facile a\nmanger... Qu'en pensez-vous ?"
+    },
+    "269995": {
+        "「す……すっごいタマーーッ！！ \n　あんなに硬かったカラが\n　真っ二つに　なっちゃったタマ！": "Incroyable oeuf !! La coquille si dure s'est\nfendue en deux !"
+    },
+    "269996": {
+        "「ふ　ふあああ……この香り！\n　辛抱タマらん！　いただきタマ～！": "Fu... Fuahhh... Cette odeur ! Je ne peux pas y\nresister ! Je vais deguster !"
+    },
+    "269997": {
+        "「うふふ。 \n　ハクオウ父さんが　集めてきてくれた　花の蜜も\n　ちゃ～んと　飲むのですよ～！": "Ufufu. Assurez-vous de bien boire le nectar\ndes fleurs que Papa Hakuo a recueilli pour\nnous !"
+    },
+    "269998": {
+        "「は～いタマ！　んぐぐぐ……": "Salut Tama ! Mmm, grrr..."
+    },
+    "269999": {
+        "「わあ～！　見て見て！\n　ボク　飛べるようになったタマ！": "Waouh ! Regarde, regarde ! Je peux voler\nmaintenant, tama !"
+    },
+    "270000": {
+        "「おほほ　順調のようですわね～。\n　ここまで来れば　コウリンちゃんが\n　大人になるまで　あと一歩ですよ。": "Oh ho ho, tout semble bien se derouler,\nn'est-ce pas ? Nous sommes si proches du\nmoment ou Kourin-chan deviendra adulte."
+    },
+    "270001": {
+        "「豊穣の密林の奥にある　命脈の神殿へと進み\n　コウリンちゃんが　大人になるための\n　儀式を　受けてくるのです。": "Vous devez vous rendre au fond de la Foret de\nla Fertilite, jusqu'au Threads of Life, pour\nque Kourin-chan puisse accomplir le rituel qui<br>la fera devenir adulte."
+    },
+    "270002": {
+        "「命脈の神殿は　危険な場所ですが…… \n　コウリンちゃんの　がんばりどころです。\n　子を信じて　冒険させるのも　親の役目ですよ。": "Threads of Life est un endroit dangereux,\nmais... c'est l'occasion pour Kourin-chan de\nmontrer sa determination. Faire confiance a<br>son enfant et le laisser partir a l'aventure,\nc'est aussi le role d'un parent."
+    },
+    "270003": {
+        "「やったぁ～！\n　ボク　ついに大きくなれるタマ～！": "Youpi~ ! Enfin, je vais pouvoir grandir, tama~\n!"
+    },
+    "270004": {
+        "「確かに　密林の南東に　建物がありました。　 \n　私では　扉を開けることができませんでしたが\n　コウリンと一緒なら　進めるということですか。": "Il y avait effectivement un batiment au\nsud-est de la jungle. Je n'ai pas pu ouvrir la\nporte moi-meme, mais avec Kourin, cela<br>signifie que nous pouvons avancer, n'est-ce\npas ?"
+    },
+    "270005": {
+        "「では　<pc>さん。 \n　命脈の神殿の前で　落ち合いましょう。": "Alors, <pc>-san. Retrouvons-nous devant\nles Threads of Life."
+    },
+    "270006": {
+        "「お待ちしていましたよ。\n　おそらく　これが　命脈の神殿への扉でしょう。": "Je vous attendais. Ceci est probablement la\nporte vers les Threads of Life."
+    },
+    "270007": {
+        "「すごく　大きな扉タマね……。": "C'est une porte vraiment enorme..."
+    },
+    "270008": {
+        "「タマママっ！？\n　何もしてないのに　勝手に開いタマ！": "Tamama !? Pourquoi ca s'est ouvert tout seul\nalors que je n'ai rien fait ?"
+    },
+    "270009": {
+        "「おそらく　コウリンにしか \n　開けないように　何かしらのまじないが\n　かかっていたんでしょうね。": "Il devait probablement y avoir un enchantement\nque seul Kourin pouvait briser."
+    },
+    "270010": {
+        "「扉が開いたってことは　強いオトナになる \n　資格アリってことタマ！？\n　うれしいタマ～！　はやく　進むタマ！": "Le fait que la porte se soit ouverte signifie\nque j'ai le potentiel pour devenir un adulte\nfort, n'est-ce pas, Tama !? Je suis tellement<br>heureux, Tama~ ! Avancons vite, Tama !"
+    },
+    "270011": {
+        "「フェディーラたまから　聞いたタマ！ \n　オトウたまは　世界中に　その名をとどろかせた\n　最強の剣士だったんタマ？": "Fedira-tama m'a raconte, tama ! Otou-tama\netait connu dans le monde entier comme le plus\npuissant des epeistes, tama !"
+    },
+    "270012": {
+        "「戦場で　剣を振るうオトウたまを見た敵は\n　一目散に　逃げていくほど　すごかったって！\n　ココナッツを切った時　本当だって思っタマ！": "Les ennemis qui voyaient Otoutama brandir son\nepee sur le champ de bataille prenaient la\nfuite a toute allure, tellement il etait<br>impressionnant ! Quand il a tranche la noix de\nCocona, j'ai vraiment pense que c'etait vrai !"
+    },
+    "270013": {
+        "「ボクも　オトウたまのような　強いオトナに \n　なるタマ！　それで　オトウたまと一緒に\n　戦うんだタマ！　見ていてタマ～ッ！": "Je vais devenir un adulte fort comme mon papa,\ntama ! Ensuite, je me battrai aux cotes de\npapa, tama ! Regarde-moi bien, tama~ !"
+    },
+    "270014": {
+        "<center>どんな戦場でも　お前と一緒なら　怖くない。\n頼りにしているぞ　ハクオウ。": "Peu importe le champ de bataille, tant que tu\nes avec moi, je n'ai pas peur. Je compte sur\ntoi, Hakuo."
+    },
+    "270015": {
+        "「私ひとりが　どれほど強くとも…… \n　戦場では……意味なんて　ありませんでしたよ。": "Aussi forte que je puisse etre seule... sur le\nchamp de bataille, cela n'avait aucun sens."
+    },
+    "270016": {
+        "「この先は　何が起こるか　わかりません。 \n　お互い　油断は禁物ですね。": "Nous ne savons pas ce qui nous attend au-dela\nde ce point. Restons sur nos gardes."
+    },
+    "270017": {
+        "「……コウリンは　まだ幼く　か弱い。 \n　急いで　追いかけましょう。": "......Kourin est encore jeune et fragile.\nDepechons-nous de la suivre."
+    },
+    "270018": {
+        "<center>この先は　天稟の祭壇……。\nお前が　神の使者となるに足る存在か\n我らに　示してもらおう……。": "Au-dela se trouve l'Autel de l'Aptitude...\nMontre-nous si tu es digne de devenir\nl'emissaire des dieux..."
+    },
+    "270019": {
+        "「タダでは通してくれませんか……。 \n　では　私が　お相手しましょう。": "Vous ne me laisserez pas passer gratuitement,\nn'est-ce pas... Tres bien, je vais vous\naffronter."
+    },
+    "270020": {
+        "「かかってこいタマ～ッ！ \n　お前らを倒して　強いオトナになってやるタマ！": "Allez, venez m'affronter, Tama~ ! Je vais vous\nbattre et devenir un adulte fort, Tama !"
+    },
+    "270021": {
+        "「タ　タマママ～～～～ッ！": "Ta-Tamama~~~~!"
+    },
+    "270022": {
+        "「おっと　危ない！": "Oh, attention !"
+    },
+    "270023": {
+        "「やはり　あなたには　まだ　早すぎます！\n　私の後ろに　隠れていてください！": "Il semble que ce soit encore trop tot pour\nvous ! Cachez-vous derriere moi, s'il vous\nplait !"
+    },
+    "270024": {
+        "「そんなぁーー！　オトウたまぁ！！": "Non, papa !!"
+    },
+    "270025": {
+        "「いきますよ！　<cs_pchero>さん！": "Allons-y ! <cs_pchero> san !"
+    },
+    "270026": {
+        "<center>我らを圧倒する　そのチカラや　見事！\nあとは　祭壇が　答えを出すだろう。\n……通るがいい。": "Nous sommes impressionnes par ta puissance\nremarquable ! Le reste dependra de l'autel\npour fournir une reponse. ... Tu peux passer."
+    },
+    "270027": {
+        "「……もう　大丈夫そうです。 \n　コウリン　出てきても　いいですよ。": "......Tout semble aller bien maintenant.\nKourin, tu peux sortir."
+    },
+    "270028": {
+        "「タママ……。": "Tamama..."
+    },
+    "270029": {
+        "「ボクだって　役に　たちたいタマよ……。": "Moi aussi, je veux etre utile..."
+    },
+    "270030": {
+        "「あなたは　まだ弱く　幼い。 \n　何かあってからでは　取り返しがつきません。\n　戦うのは　強くなってからでも　遅くない。": "Tu es encore faible et immature. Si quelque\nchose devait arriver, il serait trop tard pour\nfaire marche arriere. Il n'est pas trop tard<br>pour se battre une fois que tu seras devenu\nplus fort."
+    },
+    "270031": {
+        "「祭壇はもう　目の前です。 \n　さあ　儀式をおこないましょう。　": "L'autel est juste devant nous. Allons proceder\navec le rituel."
+    },
+    "270032": {
+        "「うん……。": "Hmm..."
+    },
+    "270033": {
+        "「この祭壇に　願えばいいタマか？ \n　えっと……ボク……強いオトナになりたいタマ！": "Il suffit de faire un voeu a cet autel,\nn'est-ce pas ? Euh... Moi... Je veux devenir\nun adulte fort, Tama !"
+    },
+    "270034": {
+        "「タ　タマママ……！　カラダが　熱く……": "Ta... Ta maman... ! Mon corps est brulant..."
+    },
+    "270035": {
+        "「……ない？　あれ？ \n　もう　終わっちゃったタマ？\n　ボク　何か　変わったタマ？": "......Non ? Hein ? Deja termine ? Ai-je change\nd'une maniere ou d'une autre ?"
+    },
+    "270036": {
+        "「今の光は　いったい……なんだったのだ？": "Cette lumiere... qu'etait-ce donc ?"
+    },
+    "270037": {
+        "……どこからともなく\n審判の天使　フェディーラの声が　聞こえてきた！": "...De nulle part, la voix de l'ange du\njugement, Fedira, se fait entendre !"
+    },
+    "270038": {
+        "<center>残念ですが……コウリンちゃんは\n真の姿を授かることが　できませんでした。\nひとまず　私のもとに　戻るのです。": "C'est regrettable, mais... Kourin-chan n'a pas\npu recevoir la forme de T. Pour l'instant,\nretourne aupres de moi."
+    },
+    "270039": {
+        "「そ　そんな……嫌タマ！！": "Ce... ce n'est pas possible... Non, Tama !!"
+    },
+    "270040": {
+        "「ボク　絶対に強くなって　オトウたまと一緒に\n　戦うって決めたんタマーーッ！": "Je vais devenir fort, c'est decide ! Je\ncombattrai aux cotes de Papa, c'est certain !"
+    },
+    "270041": {
+        "「お願いタマーーーー！\n　ボク　なんでもするタマーーー！！": "S'il te plait, Tamaaaaaa ! Je ferai n'importe\nquoi, Tamaaaaaa !!"
+    },
+    "270042": {
+        "「いえ……今は　何を言っても……。 \n　おとなしく　戻りましょう……。": "Non... Peu importe ce que je dis maintenant...\nRetournons calmement..."
+    },
+    "270044": {
+        "「あなたは　何も悪くありません。\n　私の魂が　英雄に相応しくないから……\n　きっと　その影響で　あなたまで……。": "Vous n'avez rien fait de mal. C'est juste que\nmon ame n'est pas digne d'un heros... Cela a\nsurement eu un impact sur vous aussi..."
+    },
+    "270045": {
+        "「よくぞ　戻りましたね！\n　ひとまず　３人とも無事で　何よりです。": "Vous voila de retour ! Heureusement, vous etes\ntous les trois sains et saufs, c'est\nl'essentiel."
+    },
+    "270046": {
+        "「ですが……\n　残念ながら　コウリンちゃんが\n　大人になる儀式は　失敗してしまいました。": "Cependant... Malheureusement, la ceremonie\npour que Kourin-chan devienne adulte a echoue."
+    },
+    "270047": {
+        "「ハクオウさん。\n　あなたは　コウリンちゃんを守ろうとするあまり\n　成長する機会を　奪ってしまったのです。": "Hakuo-san. A force de vouloir proteger\nKourin-chan, vous lui avez prive des\nopportunites de grandir."
+    },
+    "270048": {
+        "「<pc>さん。\n　共に試練に挑んだ　あなたも　失敗です。": "<pc> san. Toi aussi, qui as releve le\ndefi avec moi, tu as echoue."
+    },
+    "270049": {
+        "「あなたには　ハクオウさんの欠けた部分を\n　埋めてくれることを　期待したのですが……。": "Je m'attendais a ce que vous combliez les\nlacunes de Hakuo-san..."
+    },
+    "270050": {
+        "「本来ならば　これで　失格ですが\n　私は　ハクオウさんが背負う　深い傷について\n　理解しているつもりです。": "Normalement, cela signifierait la\ndisqualification, mais je pense comprendre les\nblessures profondes que Hakuo-san porte."
+    },
+    "270051": {
+        "「もちろん　コウリンちゃんの　切なる願いにも。\n　よって　もう一度だけ　あなたたちに\n　チャンスを与えましょう。": "Bien sur, en reponse au souhait sincere de\nKourin-chan. Ainsi, je vais vous accorder une\nchance de plus."
+    },
+    "270052": {
+        "「さあ　各々　この天命の水晶ビンを\n　受け取りなさい。": "Allez, chacun d'entre vous, prenez cette\nCrystal Phial of Fate."
+    },
+    "270053": {
+        "<pc>たちは　それぞれに\n天命の水晶ビン（だいじなもの）を\n受け取った！<me 60>": "<pc> et ses compagnons ont chacun recu\nune Crystal Phial of Fate (objet cle) ! <me\n60>"
+    },
+    "270054": {
+        "「このビンを持って　密林のモンスターを倒せば\n　少しずつ　生育の星砂が貯まります。\n　それが　コウリンちゃん成長のカギになります。": "Si tu prends cette bouteille et que tu vaincs\nles monstres de la jungle, tu accumuleras peu\na peu du sable etoile de croissance. C'est la<br>cle pour faire grandir Kourin-chan."
+    },
+    "270055": {
+        "「ですが　星砂は　た～くさん　必要なので\n　<pc>さんと　ハクオウさんも　それぞれ\n　ビンいっぱいに　星砂を集めてきてくださいね。": "Cependant, comme nous avons besoin d'une\ngrande quantite de sable etoile, j'aimerais\nque vous, <pc>-san et Hakuo-san, en<br>remplissiez chacun une bouteille entiere."
+    },
+    "270056": {
+        "「生育の星砂を　集めてくればいいタマね！？\n　よおおおし！　オトウたま　オカアたま\n　見ていてタマ～！": "Il suffit de rassembler le sable etoile de\ncroissance, n'est-ce pas !? Tres bien ! Papa,\nMaman, regardez-moi faire~ !"
+    },
+    "270057": {
+        "「生育の星砂を　集めてくればいいタマね！？\n　よおおおし！　オトウたまたち\n　見ていてタマ～！": "Tu dois rassembler le sable etoile de\ncroissance, n'est-ce pas ?! Tres bien !\nRegardez-moi, chers papas !"
+    },
+    "270058": {
+        "「ボクだって　役に立てるんタマーーッ！": "Moi aussi, je peux etre utile, Tamaaa !"
+    },
+    "270059": {
+        "「待ってください！\n　ひとりで行くのは　あまりに危険……": "Attendez, s'il vous plait ! Y aller seul est\nbien trop dangereux..."
+    },
+    "270060": {
+        "「ほらほら　ダメですよ～！\n　また　ハクオウさんの良くないクセが\n　出ています！": "Allez, allez, ce n'est pas bien ! Encore une\nmauvaise habitude de Hakuo-san qui refait\nsurface !"
+    },
+    "270061": {
+        "「ほほほ！　そうですよ。\n　子の冒険を見守るのも　親の役目ですからね。": "Ho ho ho ! C'est exact. Veiller sur l'aventure\nde son enfant fait aussi partie du role des\nparents."
+    },
+    "270062": {
+        "「さあ　あなたたちも　試練に集中！\n　しっかり　星砂を集めてくるんですよ。\n　いってらっしゃ～い！": "Allez, concentrez-vous sur l'epreuve ! Ramenez\nbien du sable d'etoiles. Bonne chance et a\nbientot !"
+    },
+    "270063": {
+        "「まあ～！　おかえりなさい！ \n　ビンに　生育の星砂は　集まりましたか？": "Ah ! Bienvenue ! Avez-vous rassemble la\npoussiere d'etoile de croissance dans la\nbouteille ?"
+    },
+    "270064": {
+        "<cs_pchero>は　満タンの天命の水晶ビンを\nフェディーラに渡し　突然現れるようになった　\nスライムアンノウンのことを　報告した。": "<cs_pchero> a remis la Crystal Phial of Fate\nremplie a Fedira et a soudainement commence a\nparler du Slime Unknown."
+    },
+    "270065": {
+        "「試練場で　今まで　見かけなかったモンスターが\n　出現するようになった？　私は　存じませんが\n　星砂の色が　少し赤いのは　そのせいかしら？": "Dans la salle des epreuves, des monstres que\nje n'avais jamais vus auparavant ont commence\na apparaitre ? Je ne le savais pas, mais<br>est-ce que la couleur legerement rouge du\nsable etoile en est la cause ?"
+    },
+    "270066": {
+        "「それに　満タンのように見えますが \n　どういうわけか　まだ　星砂のチカラが\n　足りないようですわ。": "Bien qu'il semble plein, pour une raison\nquelconque, il semble que le pouvoir du sable\netoile ne soit toujours pas suffisant."
+    },
+    "270067": {
+        "「コウリンは　まだ戻っていないようですね。\n　星砂を集めながら　姿を探したのですが\n　見つからず……。": "Il semble que Kourin ne soit pas encore\nrevenu. J'ai cherche sa trace tout en\nramassant des poussieres d'etoiles, mais je ne<br>l'ai pas trouve..."
+    },
+    "270068": {
+        "「うふふ！　ほ～ら！　\n　それは　心配しなくても　大丈夫そうですわよ。": "Ohoho ! Tu vois ! Ne t'inquiete pas pour ca,\ntout semble aller pour le mieux."
+    },
+    "270069": {
+        "「ま　間に合っタマ……。\n　ボクだって　生育の星砂　集めたタマよ……。": "Je... Je suis arrive a temps... Moi aussi,\nj'ai collecte des Poussieres d'Etoile de\nCroissance..."
+    },
+    "270070": {
+        "「コウリン！　無事でよかった。\n　心配していたんですよ。": "Kourin ! Je suis soulage que tu ailles bien.\nJe m'inquietais pour toi."
+    },
+    "270071": {
+        "「タマママ～ッ！\n　ビンに満タン　集めたタマ！": "Tamamama~ ! J'ai rempli la bouteille avec\nplein de perles !"
+    },
+    "270072": {
+        "「見て見て！　オトウたま！\n　ボクだって　がんばったタマよ！": "Regarde, regarde ! Otou-sama ! J'ai fait de\nmon mieux aussi, tu sais !"
+    },
+    "270073": {
+        "「ひとりで　これだけ集めるなんて\n　苦労したでしょうに　無茶をして……": "Reussir a rassembler tout cela tout seul a du\netre difficile. Vous avez pris des risques..."
+    },
+    "270074": {
+        "「そういうところは\n　よく　似るのですね……。": "Dans ces aspects-la, ils se ressemblent\nbeaucoup..."
+    },
+    "270075": {
+        "「まあ～！　よくがんばりました！ \n　皆さんが　集めてくれた分を　合わせたら\n　文句なしに　パワー満タンですよ！": "Eh bien ! Vous avez vraiment bien travaille !\nEn combinant ce que vous avez tous rassemble,\nnous avons une pleine puissance sans aucun<br>doute !"
+    },
+    "270076": {
+        "「生育の星砂には　皆さんの \n　魂のチカラが　凝縮されています。\n　これを合わせて　ひと手間加えれば……": "Dans le sable etoile de la croissance se\ntrouvent condensees les forces de l'ame de\nchacun d'entre vous. En les combinant et en y<br>ajoutant une petite touche personnelle..."
+    },
+    "270077": {
+        "「さあ　ググっとイッキに　いっちゃいましょう！\n　これで　コウリンちゃんも\n　大人になれること　間違いなし！": "Allons-y, d'un seul coup ! Avec ca,\nKourin-chan deviendra surement adulte !"
+    },
+    "270078": {
+        "「やったーー！\n　オトウたま　オカアたま！\n　チカラを貸してくれて　ありがとうタマ～！": "J'ai reussiーー！ Pere, Mere ! Merci de m'avoir\nprete votre force～！"
+    },
+    "270079": {
+        "「やったーー！\n　オトウたまたち！\n　チカラを貸してくれて　ありがとうタマ～！": "Yattaーー! Ototama-tachi! Merci beaucoup pour\nvotre aide, Tama~!"
+    },
+    "270080": {
+        "「んっぐぐぐぐ……": "Ngggggh..."
+    },
+    "270081": {
+        "「タ　タマママ……。\n　今度こそ　カラダが熱いタマ……": "T-Ta... Tamama... Cette fois, mon corps est\nvraiment brulant..."
+    },
+    "270083": {
+        "「なんだ……？　\n　この背筋が寒くなるような　異常な気配は……。": "Qu'est-ce que... ? Cette sensation etrange qui\nme donne des frissons dans le dos..."
+    },
+    "270085": {
+        "「そんな……！　コウリンちゃんに\n　いったい　何が……！？": "Impossible... ! Kourin-chan, qu'est-ce qui a\nbien pu se passer... !?"
+    },
+    "270087": {
+        "「来ます！　<cs_pchero>さん\n　ひとまず　コウリンを　鎮めますよ！": "Ils arrivent ! <cs_pchero> san, pour\nl'instant, nous allons apaiser Kourin !"
+    },
+    "270089": {
+        "「コウリン！　目を覚ますんです！\n　私と共に　戦うのではなかったんですか！": "Kourin ! Reveille-toi ! N'avais-tu pas dit que\ntu te battrais a mes cotes ?"
+    },
+    "270090": {
+        "<center>お前は　並外れて　強いからな。\n皆を守らねばと　気負うのもわかるが\nもっと　俺たちを信頼しろよ。": "Tu es incroyablement fort. Je comprends que tu\nressentes le besoin de proteger tout le monde,\nmais fais-nous un peu plus confiance."
+    },
+    "270091": {
+        "「ふふっ……。\n　あの時の　お前も\n　同じ気持ちだったのだろうな。": "Fufu... A ce moment-la, tu devais ressentir la\nmeme chose, n'est-ce pas ?"
+    },
+    "270093": {
+        "「コウリン……。\n　あなたを　暴走させているのが\n　信じてもらえなかった無念さゆえなら……": "Kourin... Si c'est parce que personne ne t'a\ncru que tu t'es laisse emporter par cette\nfrustration..."
+    },
+    "270095": {
+        "「私を倒せば　その怒りは晴れ \n　もとのあなたに　戻れるのでしょうか……。": "Si tu me vaincs, cette colere se\ndissipera-t-elle et retrouveras-tu ton vrai\ntoi... ?"
+    },
+    "270096": {
+        "このままでは　ハクオウが危ない！\n助けにいきますか？<yesno><close>": "Hakuo est en danger ! Allez-vous l'aider ?\n<yesno><close>"
+    },
+    "270097": {
+        "「いけません！ \n　ハクオウさんを　助けてください！<yesno><close>": "Il ne faut pas ! Aidez Hakuo-san, s'il vous\nplait !<yesno><close>"
+    },
+    "270098": {
+        "「<cs_pchero>さん……。": "<cs_pchero> san..."
+    },
+    "270099": {
+        "<center>俺は　お前と共に　戦いたい。\n一緒なら　何倍も強くなれると　信じてるからな。": "Je veux me battre a tes cotes. Je crois que,\nensemble, nous pouvons devenir bien plus\nforts."
+    },
+    "270100": {
+        "<center>ボクだって　役に　たちたいタマよ……。 ": "Moi aussi, je veux etre utile, vraiment..."
+    },
+    "270101": {
+        "「かつて　あれほど後悔したというのに\n　私は……何も　学んでいなかったようです。": "Bien que j'aie tant regrette autrefois, il\nsemble que je n'ai rien appris."
+    },
+    "270102": {
+        "「一緒に　コウリンを　助けましょう！": "Aidons Kourin ensemble !"
+    },
+    "270103": {
+        "「あ……。": "Ah..."
+    },
+    "270105": {
+        "「そうだ……ボク……。\n　ダイヤココナッツを……オトウたまに……\n　切って……もらった……": "Oui... Moi... Le Diamond Coconut... Papa me\nl'a... coupe..."
+    },
+    "270106": {
+        "「コウリン！　正気に戻ってください！\n　私だって　あなたと　共に戦いたい……\n　もう一度　私にやり直させてほしいんです！": "Kourin ! Reprenez vos esprits, je vous en prie\n! Je veux me battre a vos cotes... Laissez-moi\nreparer votre lance une fois de plus !"
+    },
+    "270107": {
+        "「ううっ……！\n　オトウたまの剣技が……かっこよくて……\n　ボクも……一緒に……戦いたいって……": "Uuh... ! Les techniques de sabre de Papa\nsont... tellement impressionnantes... Moi\naussi... je veux... me battre a ses cotes..."
+    },
+    "270108": {
+        "「コウリンの心をむしばむ　悪しきチカラ。\n　今なら　この剣で……。": "Le pouvoir malefique qui ronge le coeur de\nKourin. Avec cette epee, je pourrais..."
+    },
+    "270110": {
+        "「あ……あれ？\n　ボク……どうしちゃってたの……？": "Ah... Hein ? Qu'est-ce qui m'est arrive...?"
+    },
+    "270111": {
+        "「タマっ！？　ボク　変わってる？\n　もしかして　大人になれたの！？": "Tama !? Ai-je change ? Suis-je peut-etre\ndevenu adulte !?"
+    },
+    "270112": {
+        "「コウリン……よかった。\n　今のあなたは　とても立派な姿ですよ。": "Kourin... je suis content. Tu es vraiment\nimpressionnant maintenant."
+    },
+    "270113": {
+        "「本当……？　やったぁ！\n　これで　父さんと一緒に戦えるかな？": "Vraiment... ? Super ! Maintenant, je vais\npouvoir combattre aux cotes de mon pere ?"
+    },
+    "270114": {
+        "「ええ……きっと。": "Oui... certainement."
+    },
+    "270115": {
+        "「もう少しで……私はまた……\n　諦めてしまうところでした。": "J'etais sur le point de... renoncer a\nnouveau..."
+    },
+    "270116": {
+        "「こうして　コウリンを助けられたのは\n　あなたのおかげです。\n　本当に……ありがとうございました。": "C'est grace a vous que j'ai pu sauver Kourin.\nJe vous remercie sincerement..."
+    },
+    "270117": {
+        "「私はかつて　仲間の犠牲を恐れるあまり \n　己のチカラを見誤り……\n　大いなる敵に　たったひとりで挑んで……": "Je craignais tellement le sacrifice de mes\ncompagnons que j'ai mal evalue ma propre\nforce... Et j'ai defie un grand ennemi tout<br>seul..."
+    },
+    "270118": {
+        "「そして　敗れ……命を落としました。　 \n　そのせいで　私の祖国……ヤマカミヌ王国は\n　滅びてしまった。": "Et puis, il a ete vaincu... Il a perdu la vie.\nA cause de cela, mon pays natal... le royaume\nde Yamakaminu a ete detruit."
+    },
+    "270119": {
+        "「私は　６０００年前　世告げの姫により\n　災厄の王を倒すために　見出され\n　時の王者を　継いだ者です。": "Je suis celle qui, il y a 6000 ans, a ete\nchoisie par la princesse prophetique pour\nvaincre le King of Calamity et a herite du<br>titre de souverain du temps."
+    },
+    "270120": {
+        "「そして　あなたにつけた \n　その　コウリンという名は\n　私の親友だった者の　名前なのですよ。": "Et le nom Kourin que je vous ai donne est\ncelui d'une personne qui etait mon amie\nproche."
+    },
+    "270121": {
+        "「ほほほ！\n　一時は　どうなることかと思いましたが\n　どうにか　試練は　合格ですわね！": "Ho ho ho ! Un moment, j'ai bien cru que ca\nallait mal tourner, mais finalement, vous avez\nreussi l'epreuve !"
+    },
+    "270122": {
+        "「３人とも　本当に　お疲れ様でしたわ～。\n　さあ　合格のご褒美を　お渡ししなくては！": "Vous trois, vous avez vraiment bien travaille.\nMaintenant, je dois vous remettre votre\nrecompense pour avoir reussi !"
+    },
+    "270123": {
+        "<cs_pchero>が持つ\n魂の燭台に　炎が灯った！": "Le Soul Candelabra detenu par <cs_pchero>\ns'est enflamme !"
+    },
+    "270124": {
+        "「あれ　おかしいな……。\n　安心したら……なんだか　すごく眠く……": "Ah, c'est etrange... Maintenant que je suis\nrassure... Je me sens incroyablement\nsomnolent..."
+    },
+    "270125": {
+        "「コウリン！？　なぜ……無事に\n　大人になれたのでは　ないのですか？": "Kourin！？ Pourquoi... N'as-tu pas pu devenir un\nadulte sain et sauf ?"
+    },
+    "270126": {
+        "「おそらく　我を失い　暴れたことで \n　チカラを使い果たして　しまったのです。\n　コウリンちゃんには　しばしの休息が必要……。": "Il semble qu'en perdant le controle et en se\ndechainant, elle ait epuise toute son energie.\nKourin-chan a besoin d'un peu de repos..."
+    },
+    "270127": {
+        "「ですが　コウリンちゃんならば \n　必ずや　元に戻ってくれるでしょう。\n　それまで　待ってあげましょうね。": "Mais si c'est Kourin-chan, elle reviendra\nsurement a elle-meme. En attendant, soyons\npatients."
+    },
+    "270128": {
+        "「コウリン……。\n　共に戦える日を　楽しみにしていますよ。": "Kourin... J'attends avec impatience le jour ou\nnous pourrons combattre ensemble."
+    },
+    "270129": {
+        "「あなたにも　ずいぶん面倒を \n　おかけしてしまいました。": "Je vous ai vraiment cause beaucoup de soucis."
+    },
+    "270130": {
+        "「一度は　試練を失敗してしまった私に\n　慈悲を与えていただき……感謝いたします。": "Une fois, j'ai echoue a l'epreuve, mais vous\nm'avez accorde votre clemence... Je vous en\nremercie."
+    },
+    "270131": {
+        "「あらあら～！　\n　ずいぶん　素直になっちゃいましたわね！": "Oh la la~ ! Vous etes devenu tellement franc !"
+    },
+    "270132": {
+        "「ですが……最後に　ひとつだけ忠告します。 \n　コウリンちゃんの暴走は\n　私の意図した試練では　ありません。": "Cependant... je vais vous donner un dernier\nconseil. Le dechainement de Kourin-chan n'est\npas une epreuve que j'avais prevue."
+    },
+    "270133": {
+        "「生育の星砂を集める際に　得体の知れない\n　魔物が　紛れ込んでいたようですが\n　それこそが　暴走の要因だったのでは……？": "Lors de la collecte des Sables Etoiles de\nCroissance, il semble qu'une creature inconnue\nse soit infiltree. Peut-etre est-ce la cause<br>de cette frenesie..."
+    },
+    "270134": {
+        "「今回の試練の裏に　よくない思惑を感じます。\n　くれぐれも　この先　気を付けるのですよ。\n　私からも　天使長に　報告しておきますわ。": "Je ressens de mauvaises intentions derriere\ncette epreuve. Prenez bien garde a ce qui vous\nattend. Je vais aussi en faire part a<br>l'Archange."
+    },
+    "270135": {
+        "「それでは　先に進むのです。 \n　私もここから　見守っていますからね。": "Alors, avancez. Je vous observerai d'ici."
+    },
+    "270136": {
+        "「試練では　あなたに \n　ずいぶんと　お世話になりました。\n　改めて　礼を言わせてください。": "Dans l'epreuve, vous m'avez ete d'une grande\naide. Permettez-moi de vous remercier a\nnouveau."
+    },
+    "270137": {
+        "「この先でも　我らの道が\n　再び交わることを　願っています。": "J'espere que nos chemins se croiseront a\nnouveau plus loin."
+    },
+    "273978": {
+        "深翠の試練に　合格した。\n四天の星巡りを　すべて終えるために\n残りの試練に　挑もう。": "Tu as reussi l'epreuve de la Profonde\nEmeraude. Pour terminer le voyage des etoiles\ndes Quatre Cieux, releve les defis restants."
+    },
+    "273979": {
+        "すべての試練に合格し　四天の星巡りを達成した！\n神都フォーリオンの聖天区画へ進み\n天使長に　会いにいこう！": "Tu as reussi toutes les epreuves et accompli\nle pelerinage des etoiles des Quatre Cieux !\nAvance vers le quartier sacre de Fourion et va<br>rencontrer l'archange !"
+    },
+    "278602": {
+        "「ボクだけ逃げるなんて　いやタマ～！\n　ボクだって　戦って　強いオトナになるタマ！\n　オカアたまは　一緒に戦ってくれるタマ？ <yesno><close>": "Je ne veux pas etre le seul a fuir, Tama ! Moi\naussi, je vais me battre et devenir un adulte\nfort, Tama ! Maman, veux-tu te battre a mes<br>cotes, Tama ? <yesno><close>"
+    },
+    "278603": {
+        "「ボクだけ逃げるなんて　いやタマ～！\n　ボクだって　戦って　強いオトナになるタマ！\n　オトウたまは　一緒に戦ってくれるタマ？ <yesno><close>": "Je refuse de m'enfuir tout seul, Tama~ ! Je\nveux aussi me battre et devenir un adulte\nfort, Tama ! Est-ce que Otou-tama va se battre<br>a mes cotes, Tama ? <yesno><close>"
+    },
+    "278604": {
+        "「何かあってからでは　遅いのです。\n　危険から　コウリンを守ることが　\n　親代わりである　私たちの役目のはず。": "Une fois que quelque chose arrive, il est trop\ntard. Notre role, en tant que parents de\nsubstitution, est de proteger Kourin des<br>dangers."
+    },
+    "278605": {
+        "「ええ。コウリンは　まだ幼すぎます。\n　危険から　コウリンを守ることが　\n　親代わりである　私たちの役目のはずです。": "Oui. Kourin est encore trop jeune. C'est notre\ndevoir, en tant que ses parents de\nsubstitution, de proteger Kourin du danger."
+    },
+    "278606": {
+        "「ここは　私たちに任せて\n　あなたは　隠れていてください！": "Laissez-nous nous en occuper ici. Cachez-vous,\ns'il vous plait !"
+    },
+    "278607": {
+        "「今度こそ　コウリンちゃんには　自分のチカラで\n　成長してもらいます。生育の星砂を\n　ビンが満タンになるまで　集めてくるのですよ。": "Cette fois, Kourin-chan devra grandir par ses\npropres moyens. Rassemble de la Poussiere\nd'Etoiles de Croissance jusqu'a remplir la<br>bouteille."
+    },
+    "278608": {
+        "「はぁあああああっ！": "Haaaah !"
+    },
+    "278609": {
+        "「虚空心斬！": "Coeur du Vide Tranchant！"
+    },
+    "278610": {
+        "「コウリンちゃん。\n　あんなにも　荒ぶったチカラを\n　よく　おさえ込みましたね。": "Kourin-chan. Tu as reussi a contenir cette\nforce dechainee avec brio."
+    },
+    "278611": {
+        "「ハクオウ父さんと　共に戦いたいという\n　強い信念があったからこそ　あなたは\n　暴走を鎮め　神獣へと　成長できたのですよ。": "C'est precisement parce que tu avais une forte\nconviction de vouloir te battre aux cotes de\nton pere, Hakuo, que tu as pu apaiser la<br>fureur et evoluer en une creature divine."
+    },
+    "283976": {
+        "「そうですよ～！\n　私は　ハクオウ父さんを　指名中です！\n　ハクオウ父さん　タマゴちゃんのお名前は？": "C'est ca~ ! Je choisis de nommer Hakuo-papa !\nHakuo-papa, quel est le nom de l'oeuf-chan ?"
+    }
+}
