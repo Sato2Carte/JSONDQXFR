@@ -1,272 +1,416 @@
 {
-    "21544": {
-        "「リウ老師……。\n　そなたは　いったい　どこにいるのじゃ……。": "Maitre Liu... Ou etes-vous donc...?"
+    "186548": {
+        "「くっ……！": "Grr... !"
     },
-    "21545": {
-        "「う～む……。そうやって　ぼんやりしながら\n　一日中　何もしねえ　アンタは\n　史上最強の　役立たずでごぜえますなッ！": "Hmm... Vous passez vos journees a ne rien\nfaire, a trainer sans but avec cette lance.\nVous etes vraiment le plus grand bon a rien de<br>l'histoire !"
+    "186549": {
+        "「<cs_pchero>殿……？\n　なぜ　ここに……？": "<cs_pchero> dono... ? Pourquoi etes-vous\nici...?"
     },
-    "21546": {
-        "「よしッ！　決定ッ！\n　アンタ　ポツコン３号ッ！": "Bien ! Decision prise ! Tu es Junkey numero 3\n!"
+    "186550": {
+        "「そうですか……。\n　ルビーに　聞いたのですね。": "Je vois... Vous l'avez entendu de Ruby,\nn'est-ce pas ?"
     },
-    "21547": {
-        "「ポツコン３号？　よく　わからぬが……\n　おぬし　今　余を　役立たずと申したな！？\n　無礼者！　世が世なら　討ち首ものぞよ！": "Junkey N°3 ? Je ne comprends pas bien...\nEst-ce que tu viens de me traiter d'inutile ?!\nImpertinent ! Dans d'autres circonstances,<br>cela te vaudrait une decapitation !"
+    "186551": {
+        "「わざわざ　来ていただいたのに\n　申し訳ありませんが\n　ひとりに　してもらえませんか。": "Je suis desole que vous ayez pris la peine de\nvenir, mais pourriez-vous me laisser seul,\ns'il vous plait ?"
     },
-    "21548": {
-        "「このような時代に　来ることがなければ\n　余は　今ごろ　たいそうな技術を\n　リウ老師に　教え込まれていたはずじゃ！": "Dans un autre temps, je serais en train\nd'apprendre de grandes techniques aupres de\nMaster Liu !"
+    "186552": {
+        "「私は　強くなるため　なんとしてでも\n　竜化の術を　体得しなければならないのです。": "Je dois absolument maitriser l'art de la\ntransformation en dragon pour devenir plus\nfort."
     },
-    "21549": {
-        "「そうじゃ！　リウ老師は　言っておった！\n　余が　成人した　あかつきには\n　とっておきの技術を　教えてくれるとな！": "Exactement ! Master Liu l'a dit ! Quand je\nserai adulte, il m'enseignera une technique\nspeciale !"
+    "186553": {
+        "「次こそは……！": "La prochaine fois...!"
     },
-    "21550": {
-        "「あのときの約束さえ　果たされていたら……": "Si seulement la promesse de ce jour-la avait\nete tenue..."
+    "186554": {
+        "「<cs_pchero>殿……\n　また　助けられてしまいましたね……。\n　やはり　あなたは　頼りになる。": "<cs_pchero> dono... Vous m'avez encore\nsauve... Vous etes vraiment quelqu'un de\nfiable."
     },
-    "21551": {
-        "「<pc>！": "<pc> !"
+    "186555": {
+        "「それに比べ　私の　なんと\n　役立たずなことか……。": "En comparaison, comme je suis inutile..."
     },
-    "21552": {
-        "「よかった！　<pc>　ここに　いたのね。\n　あなたが　ガラクタ城にいるって\n　町の人に聞いて　急いで　駆けつけたのよ！": "Super ! <pc>, tu etais ici. J'ai entendu\ndire que tu etais au chateau de Garakuta,\nalors je me suis depechee de venir te voir !"
+    "186556": {
+        "「竜の民を導くべき　協団長として\n　お恥ずかしいかぎりです。": "En tant que chef de la communaute des\nHommes-Dragons, c'est une honte pour moi,\nClef."
     },
-    "21553": {
-        "「カルサドラ火山で　大変なことが起きてるの！": "Il se passe quelque chose de terrible au\nvolcan Calsadora !"
+    "186557": {
+        "「……かつて　ナダイアさまが\n　こう　おっしゃっていました。": "...Autrefois, Nadiah-sama a dit ceci."
     },
-    "21554": {
-        "「火山を調査している　学者さんの話によると\n　魔物の大群が　火山に押し寄せて\n　儀式めいたことをしてるらしいのよ！": "D'apres ce qu'un chercheur qui etudie le\nvolcan m'a raconte, une horde de monstres se\ndirige vers le volcan et semble effectuer un<br>genre de rituel !"
+    "186558": {
+        "「竜化の術を　修得するには　何事にも\n　ゆるがぬ　強い信念が　必要だと……。": "Pour maitriser l'art de la transformation\ndraconique, il faut une conviction forte et\ninebranlable..."
     },
-    "21555": {
-        "「そ…その話　まことかえッ！？": "Ce... cette histoire, est-ce vrai !?"
+    "186559": {
+        "「そうでなければ　荒ぶる竜の本能に\n　たやすく飲み込まれ　暴走してしまうと……。": "Sinon, il risque d'etre facilement submerge\npar les instincts sauvages du dragon et de\nperdre le controle..."
     },
-    "21556": {
-        "「え……。な…なに　この子……？\n　お父さん　また　子供を拾ってきたの？": "Eh... Quoi... Qui est cet enfant... ? Papa, tu\nas encore ramene un enfant a la maison ?"
+    "186560": {
+        "「これまで　私なりに　理想の未来に向けて\n　尽くしてきたつもりでした。": "Jusqu'a present, j'ai fait de mon mieux pour\ncontribuer a un avenir ideal."
     },
-    "21557": {
-        "「今の話は　本当よ。\n　私も　遠巻きにだけど　鳥っぽい魔物が\n　火口付近に集まっているのを　この目で見たわ。": "Ce que je viens de dire est vrai. Moi aussi,\nbien que de loin, j'ai vu de mes propres yeux\ndes creatures ressemblant a des oiseaux se<br>rassembler pres du cratere."
+    "186561": {
+        "「しかし……私の信念など　所詮\n　竜の本能の前には　木の葉のごとき\n　頼りなきものだったのですね。": "Cependant... Mon ideologie n'etait finalement\nqu'une feuille emportee par le vent face a\nl'instinct du dragon, sans aucun soutien."
     },
-    "21558": {
-        "「<pc>よ　聞いたかえ！？\n　グルヤンラシュじゃ！\n　ついに　きゃつが　動きだしたのじゃ！": "<pc>, as-tu entendu !? Guruyan Rush ! Il\na enfin commence a bouger !"
+    "186562": {
+        "「やはり　私が　竜の民を導くなど\n　出過ぎたことだったのです……。": "C'etait vraiment presomptueux de ma part de\npenser que je pouvais guider le peuple des\ndragons..."
     },
-    "21559": {
-        "「グ…グルヤン……？　何　それ？": "Gu...Guruyan...? Qu'est-ce que c'est ?"
+    "186563": {
+        "「失礼します！": "Excusez-moi !"
     },
-    "21560": {
-        "「くわしく　説明している時間はない！\n　カルサドラ火山こそ　きゃつの新たな根城じゃ！\n　そこで謀り事を　めぐらせてるのは　明白ぞ！": "Je n'ai pas le temps de tout expliquer en\ndetail ! Le volcan Calsadora est son nouveau\nrepaire ! C'est evident qu'il y trame quelque<br>chose !"
+    "186564": {
+        "「協団長……！\n　どうされましたか！？": "Chef de l'association... ! Que se passe-t-il\n?!"
     },
-    "21561": {
-        "「あなたの言っていることは\n　よく　わからないけど……。\n　不吉な予感がするのは　確かよ。": "Je ne comprends pas bien ce que tu dis,\nmais... J'ai vraiment un mauvais\npressentiment."
+    "186565": {
+        "「……なんでもない。\n　それより　何か　あったのか？": "…Ce n'est rien. Y a-t-il quelque chose qui se\npasse ?"
     },
-    "21562": {
-        "「だから　すぐにでも　火口付近に行って\n　あやしい儀式を　止めたいんだけど……。\n　空でも飛べないかぎり　あそこには行けないの。": "Donc, j'aimerais aller pres du cratere pour\narreter ce rituel suspect des que possible,\nmais... Sans pouvoir voler dans les airs, je<br>ne peux pas m'y rendre."
+    "186566": {
+        "「はい……　今しがた\n　炎樹の丘に　暴魔が\n　現れたとのことです……！": "Oui... On vient juste de recevoir la nouvelle\nqu'un demon a ete apercu a Firetree Hill... !"
     },
-    "21563": {
-        "「ねえ！　<pc>　お願い！\n　カルサドラ火山の　火口付近に行く方法を\n　私と　一緒に　探してくれない？<yesno><close>": "Hey ! <pc>, s'il te plait ! Peux-tu\nm'aider a chercher un moyen d'atteindre les\nenvirons du cratere du volcan Calsadora avec<br>moi ? <yesno><close>"
+    "186567": {
+        "「くそッ……　邪悪なる意志の行方も　いまだ\n　わからぬというのに　またしても　魔物が\n　魔瘴に　憑りつかれたか……！": "Bon sang... Nous ne savons toujours pas ou se\ntrouve Evil Will, et voila que les monstres\nsont a nouveau possedes par la miasme<br>malefique... !"
     },
-    "21564": {
-        "「そう言わずに　お願いよ！\n　私　ひとりでは　間に合わないかもしれないわ！\n　すでに　結構な数の魔物が　集まっているの！": "Ne dis pas ca, je t'en prie ! Je ne pourrai\npeut-etre pas y arriver toute seule ! Il y a\ndeja un bon nombre de monstres rassembles !"
+    "186568": {
+        "「すぐに　出立する。\n　おまえたちも　準備しろ。": "Nous partons immediatement. Preparez-vous\naussi."
     },
-    "21565": {
-        "「ありがとう　<pc>！\n　外から　火口付近に行くのは　ムリみたいだから\n　火山の中から行けないか　確かめてみましょう！": "Merci, <pc> ! Il semble que ce soit\nimpossible de se rendre pres du cratere depuis\nl'exterieur, alors verifions si nous pouvons y<br>acceder par l'interieur du volcan !"
+    "186569": {
+        "「しかし　その　お身体では……\n　大丈夫なのですか？": "Cependant, dans votre etat... Etes-vous sur\nque tout va bien ?"
     },
-    "21566": {
-        "「溶岩の流れる洞くつを　進むことになるけど\n　ほかに方法が　思いつかないわ！\n　それじゃ　私は　先に行っているわね！": "Nous allons devoir traverser une caverne ou\ncoule de la lave, mais je ne vois pas d'autre\nmoyen ! Je vais partir en avant !"
+    "186570": {
+        "「こんなときに　神殿に\n　閉じこもっていろとでも　いうのか！？": "Vous voulez que je reste enferme dans le\ntemple dans un moment pareil ?!"
     },
-    "21567": {
-        "「待たれよ！": "Attendez !"
+    "186571": {
+        "「協団長！\n　大変です……！": "Chef de la guilde ! C'est terrible... !"
     },
-    "21568": {
-        "「溶岩の流れる洞くつを行くなど　みすみす\n　死ににいくようなものじゃ。そなたのような\n　かよわき乙女が　なぜ危険を冒すのじゃ！？": "Traverser une caverne ou coule de la lave,\nc'est comme aller sciemment a la mort.\nPourquoi une jeune fille aussi frele que toi<br>prendrait-elle un tel risque ?!"
+    "186572": {
+        "「サナヒ……？\n　暴魔の件なら　たった今　聞いたぞ。": "Sanahi... ? Je viens juste d'entendre parler\nde l'affaire des demons."
     },
-    "21569": {
-        "「私たちの世界が　危険にさらされてるのよ？\n　私たちの手で　なんとかするのが当然じゃない。": "Notre monde est en danger, tu sais ? C'est a\nnous de faire quelque chose, c'est evident."
+    "186573": {
+        "「ちがうんです……。\n　ルビーが　ちょっと　目を離した隙に\n　いなくなってしまって……。": "Ce n'est pas ca... Ruby a disparu lorsque j'ai\ndetourne les yeux un instant..."
     },
-    "21570": {
-        "「………………………………。": ""
+    "186574": {
+        "「手分けして　エジャルナ中をさがしたのですが\n　どうやら　町の外にまで\n　出ていってしまったみたいなんです。": "Nous nous sommes repartis les taches pour\nfouiller tout Ejarlna, mais il semble qu'elle\nsoit sortie de la ville."
     },
-    "21571": {
-        "「……そうか。\n　じゃがな　どれだけ　そなたが　がんばっても\n　カルサドラ火山の火口には　たどりつけぬ！": "Je vois. Mais sache que, peu importe a quel\npoint tu te donnes du mal, tu n'atteindras\njamais le cratere du Calsadora Volcano !"
+    "186575": {
+        "「なにいッ……！？": "Quoi...!?"
     },
-    "21572": {
-        "「カルサドラ火山の火口……。\n　そこは　かつて　ガテリア皇国の民が\n　儀式に使っていた　神聖な場所じゃった。": "Le cratere du Volcan Calsadora... C'etait\nautrefois un lieu sacre utilise par le peuple\nde l'Empire de Gatelia pour leurs rituels."
+    "186576": {
+        "「私の目が　行き届かなかったばかりに……\n　も…申し訳ありません……！": "Je suis desole... c'est de ma faute si je n'ai\npas ete assez vigilant... !"
     },
-    "21573": {
-        "「そのため　他国の者が　火口に立ち入らぬよう\n　徒歩で行ける道は　すべて封じたのじゃ。": "C'est pourquoi nous avons bloque tous les\nchemins accessibles a pied, pour empecher les\netrangers d'entrer dans le cratere."
+    "186577": {
+        "「今は　そのようなことを　とやかく\n　言っている場合ではない。": "Ce n'est pas le moment de discuter de telles\nchoses."
     },
-    "21574": {
-        "「なんですって！？\n　そんなことをしたら　その儀式にだって\n　みんな　行けないじゃない！": "Quoi !? Si tu fais ca, personne ne pourra\nparticiper a la ceremonie !"
+    "186578": {
+        "「ただでさえ　体調を崩してるというのに\n　放っておいては　危険だ。\n　すぐに　さがしにいくぞ！": "Deja que sa sante est fragile, le laisser seul\nest dangereux. Allons le chercher\nimmediatement !"
     },
-    "21575": {
-        "「ふっふっふ。心配には及ばぬ。\n　なぜならば……": "Huhuhu. Pas besoin de t'inquieter. Car en\neffet..."
+    "186579": {
+        "「しかし　協団長！\n　暴魔の件は……。": "Cependant, chef de l'association ! Que\nfaisons-nous au sujet des demons violents...?"
     },
-    "21576": {
-        "「ガテリアの民は　道を封じる前に\n　火口への転送装置を　作っておいたからな！": "Les habitants de Gateria ont construit un\ndispositif de teleportation vers le cratere\navant de bloquer la route !"
+    "186580": {
+        "「……<cs_pchero>殿。\n　暴魔の件は　あなたに\n　お任せしてもよろしいでしょうか？": "<cs_pchero> dono. Pourriez-vous vous charger\nde l'affaire du demon furieux ?"
     },
-    "21577": {
-        "「火口への転送装置？\n　そんなモノが……。": "Un dispositif de transfert vers le cratere ?\nUn tel objet existe..."
+    "186581": {
+        "「このような　状況下……　私の立場で\n　私情を　優先すべきでないことは\n　重々　承知しています……。": "Dans une telle situation... Je suis bien\nconsciente que je ne devrais pas laisser mes\nsentiments personnels prendre le dessus dans<br>ma position..."
     },
-    "21578": {
-        "「転送装置は　技術的には高度なものだが\n　作り自体は単純なものである！　あれならば\n　この時代でも　動かすことができよう！": "Le dispositif de teleportation est\ntechniquement avance, mais sa conception est\nsimple ! Meme a notre epoque, nous devrions<br>pouvoir le faire fonctionner !"
+    "186582": {
+        "「ですが　身寄りのない\n　あの子を　守ってやれるのは\n　私だけなのです。": "Cependant, je suis la seule a pouvoir proteger\ncet enfant sans famille."
     },
-    "21579": {
-        "「よしッ！　それでは　<pc>よ！\n　転送装置を動かす　起動器具……\n　三闘士のオノを　持ってまいれッ！！": "D'accord ! <pc>, ecoute bien ! Apporte\nl'appareil de demarrage pour activer le\ndispositif de transfert... L'Axe of the Triad<br>!!"
+    "186583": {
+        "「これは　協団長として\n　あるまじき選択かもしれません。": "Il se peut que ce soit un choix indigne d'un\nchef de la coalition."
     },
-    "21580": {
-        "「………………………………。": ""
+    "186584": {
+        "「ですが　何を言われても　結構。\n　私は　ルビーを　さがしにいく。": "Mais peu importe ce qui est dit. Je pars a la\nrecherche de Ruby."
     },
-    "21581": {
-        "「……コホン。<pc>よ。もったいぶらずに\n　持ってくるのじゃ。三闘士のオノくらいなら\n　さすがに　この時代にも　あるじゃろう？<yesno><close>": "Hum. <pc>. Ne fais pas de manieres,\napporte-le. Une hache comme l'Axe of the Triad\ndevrait bien exister a notre epoque, non<br>?<yesno><close>"
+    "186585": {
+        "「協団長！": "Chef de l'alliance !"
     },
-    "21582": {
-        "「なに言ってんですッ！　元ポツコン２号ッ！\n　そんな名前のもん　うちには　ねえですよッ！\n　見たことも　聞いたこともねえですッ！": "Qu'est-ce que vous racontez ? Ancien Junkey\nnumero 2 ! On n’a rien de ce nom-la ici ! Je\nn’en ai jamais vu ni entendu parler !"
+    "186586": {
+        "「……<cs_pchero>殿　すみませんが\n　先に　炎樹の丘へ　向かってください。": "<cs_pchero> dono, je suis desole, mais\nveuillez vous diriger d'abord vers Firetree\nHill."
     },
-    "21583": {
-        "「な　なんじゃとッ！？\n　三闘士のオノすら　この時代には\n　ないと申すかッ！！": "Qu... Quoi !? Tu veux dire que meme l'Axe of\nthe Triad n'existe pas a cette epoque !?"
+    "186587": {
+        "「我々も　ルビーを　見つけ次第\n　向かいますので　よろしくお願いします。": "Nous nous dirigerons egalement vers vous des\nque nous aurons trouve Ruby. Merci de votre\ncomprehension."
     },
-    "21584": {
-        "「なんということじゃ……。\n　たったひとつの道が　断たれてしもうた……。\n　もう　おしまいじゃ……。": "Quel desastre... Le seul chemin a ete coupe...\nTout est fini..."
+    "186588": {
+        "「ピイィィィーーーーッッッ！！！": "Piiiiiiiiiiiiiiiiiiiiiiiiiiiii !!!"
     },
-    "21585": {
-        "「……ちょっと。": "Un instant."
+    "186589": {
+        "「<pc>殿……！": "<pc>-dono... !"
     },
-    "21586": {
-        "「なに　あきらめてるのよ！？\n　ないなら　作ればいいじゃない！": "Pourquoi abandonner si facilement !? S'il n'y\nen a pas, alors il suffit de le creer !"
+    "186590": {
+        "「あの魔物は……！\n　また　魔瘴を食らったのか！？": "Ce monstre... ! A-t-il encore absorbe le\nmiasme magique ?"
     },
-    "21587": {
-        "「さ　三闘士のオノを作るじゃと？\n　単純な作りのものゆえ　作れるかもしれぬが\n　自分で作るなど　聞いたことがないぞ。": "Alors, tu veux fabriquer une Axe of the Triad\n? Etant donne sa conception simple, c'est\npeut-etre realisable, mais je n'ai jamais<br>entendu parler de quelqu'un qui la fabrique\nsoi-meme."
+    "186591": {
+        "「いや！　今は　それよりも……": "Non ! Pour l'instant, ce qui compte le plus,\nc'est..."
     },
-    "21588": {
-        "「できるかもしれないことは\n　あきらめずに　やってみるのよ。\n　道を　切りひらくには　それしかないの。": "Ce que tu pourrais etre capable de faire, ne\nl'abandonne pas et essaie. Il n'y a pas\nd'autre moyen de tracer ta voie."
+    "186592": {
+        "「ルビーが　こちらに　来たという\n　報告を　受けたのですが\n　<pc>殿は　見かけませんでしたか！？": "J'ai recu un rapport indiquant que Ruby est\nvenue par ici. N'auriez-vous pas vu\n<pc>-dono ?!"
     },
-    "21589": {
-        "「………………………………。": ""
+    "186593": {
+        "「しかし……先ほど　ルビーの声が\n　聞こえたような……。": "Cependant... il me semble avoir entendu la\nvoix de Ruby tout a l'heure..."
     },
-    "21590": {
-        "「さあ　そのオノのこと　くわしく教えて。\n　今　頼れるのは　それを知ってる\n　あなたしかいないんだから。": "Alors, parle-moi en detail de ces Axes. En ce\nmoment, tu es la seule personne sur qui je\npeux compter pour en savoir plus."
+    "186594": {
+        "「………ルビー？": ".........Ruby ?"
     },
-    "21591": {
-        "「う　うむ。それでは……\n　そちたちにも　三闘士のオノを作るため\n　手伝ってもらうとするぞよ。": "O-Oui. Eh bien alors... Je vais vous demander\nde m'aider a fabriquer l'Axe of the Triad."
+    "186595": {
+        "「ルビーなんだろう……？": "Qu'est-ce que c'est, Ruby...?"
     },
-    "21592": {
-        "「<pc>。そちは　魔導の歯車と\n　古代の戦刃というモノを　手に入れてまいれ。\n　いずれも　オノを作るのに欠かせぬ材料じゃ。": "<pc>. Toi, procure-toi le Magic Gear et\nl'Ancient Blade. Ce sont des materiaux\nindispensables pour creer les Axes."
+    "186596": {
+        "「どうして……。": "Pourquoi..."
     },
-    "21593": {
-        "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。\n　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば\n　落とすことがあるでな。": "Ecoute bien. Le Magic Gear se trouve a\n<%sEV_QUE_NAME0>. Quant a l'Ancient Blade, tu\npourras l'obtenir en battant <%sEV_QUE_NAME1>."
+    "186597": {
+        "「大丈夫か……！？\n　まったく……こんな身体で　勝手に\n　外に出たら　ダメだろうッ！": "Tu vas bien... !? Franchement... Dans cet\netat, tu ne devrais pas sortir tout seul !"
     },
-    "21594": {
-        "「ひとまず　その　ふたつさえあれば\n　三闘士のオノの原型が　できるはずじゃ。\n　どうじゃ？　やってくれるか？": "Pour l'instant, tant que j'ai ces deux\nelements, je devrais pouvoir creer le\nprototype de l'Axe of the Triad. Alors, qu'en<br>dis-tu ? Peux-tu t'en charger ?"
+    "186598": {
+        "「ご…ごめんな……。父ちゃん…………。\n　本当のこと　話したら　父ちゃんと\n　離ればなれになっちゃう　気がしてさ……。": "Je... je suis desole... Papa... J'avais peur\nque si je disais la verite, je sois separe de\ntoi..."
     },
-    "21595": {
-        "「うむ！　ふたつの材料を手に入れたら\n　ガラクタ城に　戻ってくるのじゃぞ。": "Hum ! Une fois que tu auras obtenu les deux\nmateriaux, reviens au Chateau de la Ferraille."
+    "186599": {
+        "「それは　どういう意味だ……？\n　話してみなさい。": "Que signifie cela... ? Parle-moi."
     },
-    "21596": {
-        "「そなたは　<pc>が帰ってくるまで\n　ここで　余の手伝いをしてたもれ。\n　オノを作るには　何かと準備が必要なのでな。": "Tu devras rester ici et m'assister jusqu'au\nretour de <pc>. Il y a beaucoup de\npreparatifs necessaires pour fabriquer des<br>Axes."
+    "186600": {
+        "「……あたしは　ナドラガ神の眷属\n　神獣プリフィーって　ヤツなんだ。": "Je suis Prifie, une vassale de Nadraga."
     },
-    "21597": {
-        "「余に　三闘士のオノが作れるかは　わからぬ。\n　……だが　そなたの言うように\n　自分のチカラを信じて　やってみるぞよ。": "Je ne sais pas si je peux fabriquer l'Axe of\nthe Triad. ...Mais comme tu le dis, je vais\nessayer de croire en mes capacites et je vais<br>essayer."
+    "186601": {
+        "「し…神獣だと……？": "Un... un animal divin...?"
     },
-    "21598": {
-        "「うん。お願いね。\n　私たちも　信じてるよ。": "Oui. S'il te plait. Nous croyons en toi aussi."
+    "186602": {
+        "「そう……。\n　父なるナドラガ神は　あたしに\n　言ったんだ。": "Oui... Le Pere Nadraga me l'a dit."
     },
-    "21599": {
-        "「不思議な子ね。\n　火山のことや　昔のことを知ってたりして。\n　でも　そのおかげで　助かったわ。": "C'est une enfant mysterieuse. Elle connait des\nchoses sur le volcan et le passe. Mais grace a\ncela, nous avons ete sauves."
+    "186603": {
+        "「おまえは　あらざるべき未来のために\n　生まれし者……。": "Tu es celui qui est ne pour un avenir qui ne\ndevrait pas exister..."
     },
-    "21600": {
-        "「それじゃ　<pc>。\n　三闘士のオノを　みんなで作りましょう！": "D'accord, <pc>. Creons ensemble l'Axe of\nthe Triad !"
+    "186604": {
+        "「あるべき未来が　訪れるならば\n　おまえが　眠りから\n　目覚めることは　永遠にないだろう。": "Si l'avenir qui doit etre se realise, tu ne te\nreveilleras probablement jamais de ton sommeil\neternel."
     },
-    "21601": {
-        "「<%sEV_QUE_NAME0>と　<%sEV_QUE_NAME1>は\n　どちらも　モリナラ大森林に　出現するわよ。": "<%sEV_QUE_NAME0> et <%sEV_QUE_NAME1>\napparaissent tous les deux dans la foret de\nMolinara."
+    "186605": {
+        "「しかし　あらざるべき未来……すなわち\n　ナドラガンドから　我という神が滅びし時\n　おまえは　目覚める。": "Cependant, un avenir qui ne devrait pas\netre... c'est-a-dire, lorsque moi, le dieu,\nserai aneanti par NaDragan, tu te reveilleras."
     },
-    "21602": {
-        "「……ムムッ！\n　そちは　下々の者の依頼を　たくさん抱えており\n　余の頼みは　受けられぬようじゃな。": "Hum ! Il semble que tu as deja beaucoup de\nrequetes de la part des gens ordinaires et que\ntu ne peux pas accepter la mienne."
+    "186606": {
+        "「その時　ナドラガンドの大地は\n　我が身よりあふれし　魔瘴に覆い尽くされ\n　滅びの時を　迎えんとしているだろう。": "A ce moment-la, la terre de NaDragan sera\nentierement recouverte par le miasme malefique\nemanant de mon etre, et l'heure de la<br>destruction approchera surement."
     },
-    "21603": {
-        "「……残念じゃが　仕方がない。\n　ほかの依頼を片付けたら　余を手伝ってたもれ。\n　頼りにしてるぞよ！": "...C'est dommage, mais il n'y a pas le choix.\nUne fois que tu auras termine les autres\nquetes, viens m'aider. Je compte sur toi !"
+    "186607": {
+        "「ナドラガンドを覆う　魔瘴を浄化し\n　滅びの運命から　救うこと。それが\n　おまえの能力であり　使命である……ってさ。": "Purifier le miasme qui recouvre Dragan et\nsauver de son destin de ruine. C'est ton\npouvoir et ta mission... Voila ce qui est dit."
     },
-    "21604": {
-        "「……なんと！　余が　やる気を出したというに\n　そちは　手を貸してくれぬと申すか！\n　見損なったぞよ　<pc>！": "Comment ! Alors que je suis enfin motive, tu\ndis que tu ne veux pas m'aider ! Je suis decu,\n<pc> !"
+    "186608": {
+        "「バカな……？\n　あの　ナドラガ神が　自身亡き後の\n　ナドラガンドの未来を　案じていたと……？": "Incroyable... ? Nadraga se souciait donc de\nl'avenir de notre monde, NaDragan, meme apres\nsa propre disparition...?"
     },
-    "21605": {
-        "「とはいえ　頼れるのは　そちしか　おらぬ。\n　そう言わずに　手を貸してくれぬか。\n　余は　ここにおるでな。また来てたもれ。": "Cela dit, il n'y a que toi sur qui je peux\ncompter. Ne pourrais-tu pas m'aider, sans me\ndire non ? Je resterai ici. Reviens me voir."
+    "186609": {
+        "「でも……　あまりにも　永い眠りから\n　目覚めたばかりの　あたしは　自分の使命を\n　思いだすことが　できなくてさ。": "Mais... venant a peine de me reveiller d'un\nsommeil si long, je n'arrive pas a me souvenir\nde ma mission."
     },
-    "21606": {
-        "「おお　<pc>よ！\n　転送装置を動かす　三闘士のオノを作るため\n　余の手伝いをしてくれる気になったかえ？": "Oh, <pc> ! Es-tu pret a m'aider a creer\nl'Axe of the Triad pour faire fonctionner\nl'appareil de transfert ?"
+    "186610": {
+        "「そんなとき　あんたに\n　出会ったんだ。": "C'est a ce moment-la que je t'ai rencontre."
     },
-    "21607": {
-        "「グルヤンラシュが　謀り事をめぐらす\n　カルサドラ火山の　火口付近に行くには\n　古代の転送装置を使う以外　道がないのじゃ。": "Pour atteindre les abords du cratere de\nCalsadora Volcano, ou Guruyanrash prepare ses\ncomplots, il n'y a pas d'autre moyen que<br>d'utiliser l'ancien dispositif de\nteleportation."
+    "186611": {
+        "「あんたを　なぜ　父ちゃんだと思ったのか……\n　あのときは　まだ　あたし自身にも\n　わからなかったよ。": "Je ne savais pas pourquoi je t'ai pris pour\nmon pere... A ce moment-la, je ne le\ncomprenais pas moi-meme."
     },
-    "21608": {
-        "「三闘士のオノを作るために　必要な材料は\n　魔導の歯車と　古代の戦刃の　ふたつ。\n　そちには　これを集めてきてもらいたい。": "Pour fabriquer l'Axe of the Triad, les\nmateriaux necessaires sont le Magic Gear et\nl'Ancient Blade. Je te demande de les<br>rassembler."
+    "186612": {
+        "「でも　今なら　わかる。\n　だって　あんたの　ナドラガンドを思う\n　その　強い心……。": "Mais maintenant, je comprends. Car ton coeur\nfort pense a Dragan..."
     },
-    "21609": {
-        "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。\n　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば\n　落とすことがあるでな。": "Ecoute bien. Le Magic Gear se trouve a\n<%sEV_QUE_NAME0>. Quant a l'Ancient Blade, tu\npourras l'obtenir en battant <%sEV_QUE_NAME1>."
+    "186613": {
+        "「邪神に堕ちる前の　ナドラガ様に\n　そっくりだもん。": "Il ressemble tellement a Naduraga-sama avant\nqu'il ne tombe dans le mal."
     },
-    "21610": {
-        "「ひとまず　その　ふたつさえあれば\n　三闘士のオノの原型が　できるはずじゃ。\n　どうじゃ？　やってくれるか？": "Pour l'instant, tant que j'ai ces deux\nelements, je devrais pouvoir creer le\nprototype de l'Axe of the Triad. Alors, qu'en<br>dis-tu ? Peux-tu t'en charger ?"
+    "186614": {
+        "「ずっと　黙ってて　ごめん……。\n　こんな話　驚いたよな……。": "Je suis desole d'etre reste silencieux si\nlongtemps... Cette histoire a du te\nsurprendre..."
     },
-    "21611": {
-        "「グルヤンラシュが　謀り事をめぐらす\n　カルサドラ火山の　火口付近に行くには\n　古代の転送装置を使う以外　道がないのじゃ。": "Pour atteindre les abords du cratere de\nCalsadora Volcano, ou Guruyanrash prepare ses\ncomplots, il n'y a pas d'autre moyen que<br>d'utiliser l'ancien dispositif de\nteleportation."
+    "186615": {
+        "「……フッ。": "...Hmph."
     },
-    "21612": {
-        "「その転送装置を動かす　三闘士のオノを作るため\n　そちには　魔導の歯車と　古代の戦刃という\n　ふたつの材料を　集めてきてもらおう。": "Pour faire fonctionner cet appareil de\ntransfert et creer l'Axe of the Triad, je vais\nte demander de rassembler deux materiaux : le<br>Magic Gear et l'Ancient Blade."
+    "186616": {
+        "「……でも　どうして　さっき\n　あたしだって　わかったんだ？": "Mais comment as-tu su que c'etait moi tout a\nl'heure ?"
     },
-    "21613": {
-        "「よいか？　魔導の歯車は　<%sEV_QUE_NAME0>。\n　古代の戦刃は　<%sEV_QUE_NAME1>を倒せば\n　落とすことがあるでな。": "Ecoute bien. Le Magic Gear se trouve a\n<%sEV_QUE_NAME0>. Quant a l'Ancient Blade, tu\npourras l'obtenir en battant <%sEV_QUE_NAME1>."
+    "186617": {
+        "「どうしてって……　去っていく時の後姿が\n　こっそり　盗み食いしたときの\n　お前に　そっくりだったからな。": "Pourquoi, tu demandes... Parce que ta\nsilhouette de dos en partant ressemblait\nexactement a celle que tu as quand tu fais des<br>petits larcins pour manger en cachette."
     },
-    "21614": {
-        "「ふたつの材料を手に入れたら\n　ガラクタ城に　戻ってきてたもれ。\n　余は　それまで　ほかの準備をしていよう。": "Une fois que tu auras obtenu les deux\nmateriaux, reviens au Chateau des Debris.\nD'ici la, je me chargerai des autres<br>preparatifs."
+    "186618": {
+        "「ちぇっ。やっぱり\n　父ちゃんの目は　ごまかせねぇや。": "Tch. Je savais bien que je ne pourrais pas\ntromper les yeux de papa."
     },
-    "21615": {
-        "「<%sEV_QUE_NAME0>と　<%sEV_QUE_NAME1>は\n　どちらも　モリナラ大森林に　出現するわよ。": "<%sEV_QUE_NAME0> et <%sEV_QUE_NAME1>\napparaissent tous les deux dans la foret de\nMolinara."
+    "186619": {
+        "「……なっ！\n　あれも　魔瘴なのか！？": "Quoi... ! Ce serait aussi une malediction\ndemoniaque !?"
     },
-    "21616": {
-        "「おお　<pc>よ！\n　よくぞ　戻った！\n　頼んだ品は　手に入れてきたかえ？": "Oh, <pc> ! Te voila de retour ! As-tu\nreussi a obtenir les objets que je t'avais\ndemandes ?"
+    "186620": {
+        "「もう　時間がない……\n　行かなきゃ！": "Je n'ai plus le temps... Je dois y aller !"
     },
-    "21617": {
-        "ビャン・ダオに\n魔導の歯車と　古代の戦刃を　渡しますか？<yesno><close>": "Souhaitez-vous donner le Magic Gear et\nl'Ancient Blade a Byan Dao ? <yesno><close>"
+    "186621": {
+        "「ルビー……！？\n　おい　どこへ……！": "Ruby...!? He, ou vas-tu... !?"
     },
-    "21618": {
-        "「これこれ　<pc>。\n　余は　そちの　おちょくりに興じるほど\n　ヒマを　持てあましておらぬぞえ？": "He he, <pc>. Je n'ai pas assez de temps\nlibre pour me laisser distraire par tes\nplaisanteries, tu sais ?"
+    "186622": {
+        "「これは　ただごととは　思えませぬ。\n　私は先に　大神殿に戻って　情報を集めますので\n　<pc>殿も　お越しください！": "Cela ne me semble pas anodin. Je vais\nretourner au Grand Temple pour rassembler des\ninformations. <pc>-dono, veuillez<br>egalement vous y rendre !"
     },
-    "21619": {
-        "<pc>は　ビャン・ダオに\n魔導の歯車と　古代の戦刃を　渡した！": "<pc> a donne le Magic Gear et l'Ancient\nBlade a Byan Dao !"
+    "186624": {
+        "「ピイィーーッ！！": "Piieee!!"
     },
-    "21620": {
-        "「うむ！　これじゃ　これじゃ！\n　大儀であったな　<pc>よ！\n　さあ　ほうびを受け取るがよい！": "Hum ! Voila, voila ! Bien joue, <pc> !\nAllez, recois ta recompense !"
+    "186625": {
+        "「ピイィッ……！？": "Piii...!?"
     },
-    "21621": {
-        "「……では　転送装置の起動器具\n　三闘士のオノを　作ってみるとしよう。": "Alors, essayons de fabriquer le dispositif\nd'activation du teleporteur, l'Axe of the\nTriad."
+    "186626": {
+        "「かかったな　ナドラガの眷属よ。": "Tu es tombe dans le piege, descendant de\nNadraga."
     },
-    "21622": {
-        "「ダストン殿。\n　ここにある物を　使ってもよいかの？": "Duston-dono. Puis-je utiliser les objets qui\nse trouvent ici ?"
+    "186627": {
+        "「今まで　よくも　我の邪魔をしてくれたな。 \n　……だが　この地に　はびこる魔瘴は\n　すでに　我の意のままよ。": "Jusqu'a present, tu as bien ose me gener.\n...Mais le miasme malefique qui envahit cette\nterre est deja sous mon controle."
     },
-    "21623": {
-        "「なっ！　ここにあるのは　どれも役に立たねえ\n　ガラクタばかりでごぜえますッ！\n　使おうったって　そうはいかねえですよッ！": "Quoi ! Tout ce qu'il y a ici, ce ne sont que\ndes trucs inutiles et des bric-a-brac ! Meme\nsi vous vouliez les utiliser, vous ne pourriez<br>pas !"
+    "186628": {
+        "「ナドラガの残した　魔瘴……あとは\n　お前が　体内に取り込んだ分のみ。\n　さあ　我の一部と　なるがいい。": "Le miasme laisse par Nadraga... Il ne reste\nplus que celui que tu as absorbe en toi.\nAllez, deviens une partie de moi."
     },
-    "21624": {
-        "「ふふふ……　何を申すか。ここにある物からは\n　失われた文明の息吹を　感じるぞよ。\n　三闘士のオノの部品に　うってつけじゃ。": "Fufufu... Que dis-tu ? Je ressens ici le\nsouffle d'une civilisation perdue. C'est\nparfait pour les pieces de l'Axe of the Triad."
+    "186629": {
+        "「ルビー……！！": "Ruby... !!"
     },
-    "21625": {
-        "「はじめて出会ったときは\n　うす汚れた　ただの貧民かと思ったが……。\n　ダストン殿は　まっこと　お目が高い。": "Quand je l'ai rencontre pour la premiere fois,\nje pensais que ce n'etait qu'un simple pauvre\nhere un peu sale... Mais en verite,<br>Duston-dono a vraiment l'oeil avise."
+    "186630": {
+        "「ピイィィィッッ……！！": "Piiyyy... !!"
     },
-    "21626": {
-        "「や…やめてくだせえ！\n　ほめられるようなことをした覚えはねえですッ！\n　使えるもんなら　使ってみやがれですよッ！": "A... arretez, je vous en prie ! Je ne me\nsouviens pas avoir fait quoi que ce soit qui\nmerite des eloges ! Si vous pensez pouvoir<br>m'utiliser, allez-y, essayez donc !"
+    "186631": {
+        "「ピイッ！": "Pi !"
     },
-    "21627": {
-        "「よし！　それでは　リウ老師直伝の技術で\n　この物たちに　命を吹き込み\n　三闘士のオノへと　生まれ変わらせてみせよう！": "Bien ! Alors, avec la technique transmise\ndirectement par Master Liu, insufflons la vie\na ces objets et transformons-les en Axe of the<br>Triad !"
+    "186632": {
+        "「こんなところに　たった　ひとりで\n　乗り込むとは　相変わらず\n　無茶ばかりして……。": "Venir ici tout seul, c'est vraiment typique de\ntoi de te lancer dans des aventures\ninsensees..."
     },
-    "21628": {
-        "「……というわけで　<pc>よ。\n　オノの完成まで　少し時間が　かかるじゃろう。\n　しばらくしたら　また　戻ってきてたもれ。": "......C'est ainsi, <pc>. Il faudra un\npeu de temps pour finaliser les Axes. Reviens\napres un certain temps, s'il te plait."
+    "186633": {
+        "「ルビー……お前が私を　心配してくれるように\n　私もお前を　心配していることを　忘れるな。": "Ruby... N'oublie pas que tout comme tu te fais\ndu souci pour moi, je m'inquiete aussi pour\ntoi."
     },
-    "21629": {
-        "「がんばってね　ビャンくん。\n　あなたなら　きっと　できるよ！": "Courage, Bian-kun. Je suis sur que tu peux le\nfaire !"
+    "186634": {
+        "「邪悪なる意志め……やはり　現れたな。\n　いったい　何が　目的だ！？": "Evil Will... Comme je le pensais, tu es\napparu. Quel est donc ton objectif ?!"
     },
-    "21630": {
-        "「それはそうと……。": "Cela dit..."
+    "186635": {
+        "「邪悪なる意志……？\n　……フッ　我は　あのような\n　下等な存在ではない。": "Evil Will... ? ...Fuh, je ne suis pas une\nexistence aussi inferieure."
     },
-    "21631": {
-        "「さっきから　気になっていたんだけど\n　あなた　いったい　何者？\n　どうして　そんなに昔のことに　くわしいの？": "Depuis tout a l'heure, je me demande... Qui\nes-tu exactement ? Pourquoi es-tu si bien\ninforme sur les evenements d'autrefois ?"
+    "186636": {
+        "「我は　魔瘴魂ナドラグル…… \n　竜神ナドラガに宿りし　魔瘴の化身にして\n　大いなる闇の根源の　分け身たる者。": "Je suis Nadragul... L'incarnation du miasme\nresidant dans le dragon divin Nadraga, et une\nemanation de la source des grandes tenebres."
     },
-    "21632": {
-        "「余か？　余は…………": "Moi ? Je suis..."
+    "186637": {
+        "「魔瘴の化身だと……？\n　魔瘴そのものに　意思があると言うのか！？": "Une incarnation de la malveillance... ? Tu\nveux dire que cette malveillance a une volonte\npropre !?"
     },
-    "21633": {
-        "「信じていた父に　見捨てられ……\n　復讐にしか　生き場所を求められぬ\n　あわれな男じゃよ……。": "Abandonne par le pere en qui je croyais... Un\nhomme pitoyable qui ne cherche refuge que dans\nla vengeance..."
+    "186638": {
+        "「まったく……　ナドラガは \n　どこまでも　忌々しき神よな。\n　お前のような存在を　残していたとは。": "Vraiment... Nadraga est un dieu maudit\njusqu'au bout. Il a laisse derriere lui une\nexistence comme la tienne."
+    },
+    "186639": {
+        "「魔瘴より生ぜし　我の欲するは\n　創生のチカラにより　創られしものの\n　一切の消滅！": "Nes de la sombre miasme, mes desirs sont la\ncomplete annihilation de tout ce qui a ete\ncree par la puissance de la creation !"
+    },
+    "186640": {
+        "「さあ　今こそ　終焉の時…… \n　大いなる闇に　帰すがよい！": "Allez, le moment de la fin est enfin venu...\nRetourne a la grande obscurite !"
+    },
+    "186641": {
+        "「<cs_pchero>殿……私は　これまで\n　いったい　何を　迷っていたのでしょう……。": "<cs_pchero>dono... Jusqu'a present, de quoi\nai-je bien pu etre indecis..."
+    },
+    "186642": {
+        "「今ならば　はっきりと　わかります。\n　自分が　何を　すべきか……。": "Maintenant, je comprends clairement ce que je\ndois faire..."
+    },
+    "186643": {
+        "「私は全力で　この子を守る！": "Je protegerai cet enfant de toutes mes forces\n!"
+    },
+    "186644": {
+        "「<cs_pchero>殿……まだ\n　あきらめるわけには　いきませぬ。": "<cs_pchero>殿... Nous ne pouvons pas encore\nabandonner."
+    },
+    "186645": {
+        "「いきますよ……！": "Je m'en vais... !"
+    },
+    "186646": {
+        "「ば…バカなッ……！\n　滅ぶべき者は　お前たちのはずッ……！": "Im... Impossible...! Ceux qui devraient etre\naneantis, c'est vous...!"
+    },
+    "186647": {
+        "「我は　魔瘴の化身…… \n　世界を　滅ぼすもの……。": "Je suis l'incarnation de la malveillance...\nCelui qui aneantira le monde..."
+    },
+    "186648": {
+        "「……………………。": "."
+    },
+    "186649": {
+        "「終わった……。": "C'est termine..."
+    },
+    "186650": {
+        "「竜化の術を制御しうる　強い信念……\n　私にも　あったのだな……。": "Une forte conviction capable de controler la\ntechnique de transformation en dragon... Je\nsuppose que j'en avais aussi en moi..."
+    },
+    "186651": {
+        "「大切な人を　守りたいという思い……\n　こんな　単純なことだったのか……。": "Le desir de proteger ceux qui nous sont\nchers... Etait-ce vraiment une chose aussi\nsimple que cela..."
+    },
+    "186652": {
+        "「ルビー……！": "Ruby... !"
+    },
+    "186653": {
+        "「まさか　お前……\n　魔瘴を吸収したせいで　体調が悪いのか？": "Ne me dis pas... Est-ce que tu te sens mal a\ncause de l'absorption de la miasme ?"
+    },
+    "186654": {
+        "「へへ　大丈夫だよ。\n　このくらい……。": "Hehe, ca va aller. Ce n'est rien..."
+    },
+    "186655": {
+        "「……さあ　エジャルナに帰って　休もう。\n　皆が　お前の帰りを　待ってるぞ。": "Allez, retournons a Ejarna pour nous reposer.\nTout le monde t'attend la-bas."
+    },
+    "186656": {
+        "「…………。": ""
+    },
+    "186657": {
+        "「ルビー……？": "Ruby...？"
+    },
+    "186658": {
+        "「……あたしは　ここに残るよ。": "...... Je vais rester ici."
+    },
+    "186659": {
+        "「どういうことだ？": "Que se passe-t-il ?"
+    },
+    "186660": {
+        "「これから　あたしの体内に封じた魔瘴を\n　時間をかけて　浄化しないといけなくてさ。": "A partir de maintenant, je dois purifier\nlentement la malediction que j'ai scellee en\nmoi."
+    },
+    "186661": {
+        "「そのために　今から\n　この竜の柩で　眠りにつかなきゃならないんだ。": "Pour cela, je dois maintenant m'endormir dans\nce cercueil de dragon."
+    },
+    "186662": {
+        "「そんな……こんなところに　お前を\n　たった　ひとり　残して\n　帰れというのか！？": "Quoi... Tu veux que je te laisse ici, tout\nseul, et que je rentre !?"
+    },
+    "186663": {
+        "「全部の魔瘴を　浄化しきるまで\n　何十年……何百年かかるか　わからない……。": "Il est impossible de dire combien de\ndecennies, voire de siecles, il faudra pour\npurifier completement toutes les miasmes..."
+    },
+    "186664": {
+        "「でも　こうするしかないんだ。\n　神獣の使命ってやつだからさ。": "Mais je n'ai pas le choix. C'est la mission de\nla bete divine, tu sais."
+    },
+    "186665": {
+        "「へっ。うるさいのが　いなくなって\n　よかったじゃねぇか。じゃあな！": "He. C'est bien que le geneur soit parti.\nAllez, salut !"
+    },
+    "186666": {
+        "「私は　お前を\n　神獣などと思ったことは　一度もない。": "Je n'ai jamais pense a toi comme une creature\ndivine."
+    },
+    "186667": {
+        "「大切な娘だ！！": "C'est ma fille precieuse !!"
+    },
+    "186668": {
+        "「父ちゃん……！　あたしだって　本当は\n　もっと　父ちゃんといたいよ！\n　もう　ひとりぼっちはイヤだよ！": "Papa... ! Moi aussi, je veux vraiment etre\navec toi plus longtemps ! Je ne veux plus etre\ntoute seule !"
+    },
+    "186669": {
+        "「でも……でも……あたしが\n　みんなを　守らなきゃならないんだ！\n　うわああぁぁん！！": "Mais... mais... je dois proteger tout le monde\n! Uwaaah !!"
+    },
+    "186670": {
+        "「もういいんだ　ルビー。\n　お前は　充分　がんばったじゃないか。": "Ca va, Ruby. Tu as deja suffisamment fait\nd'efforts."
+    },
+    "186671": {
+        "「お前が　犠牲になる必要なんかない。\n　私が　別の方法を　見つけてやる。": "Tu n'as pas besoin de te sacrifier. Je\ntrouverai une autre solution."
+    },
+    "186672": {
+        "「ありがとう……父ちゃん。": "Merci... Papa."
+    },
+    "186673": {
+        "「でも　これは　あたしにしか\n　できないことだもん……。\n　あたしが　この世界を　守ってみせるよ。": "Mais c'est quelque chose que seule moi peut\nfaire... Je vais proteger ce monde."
+    },
+    "186674": {
+        "「そうか……。\n　それが　お前の意志なのだな。": "Je vois... C'est donc ta volonte."
+    },
+    "186675": {
+        "「……どんなに　遅くなってもいい。\n　必ず　帰ってきなさい。\n　ずっと　待ってるから。": "Peu importe combien de temps cela prendra.\nReviens a tout prix. Je t'attendrai toujours."
+    },
+    "186676": {
+        "「お前が　戻るときまでに\n　きっと　平和な世界にしてみせる。": "Quand tu reviendras, je te promets que le\nmonde sera en paix."
+    },
+    "186677": {
+        "「そしたら　お前の好きなところへ\n　どこへでも　一緒に　行こう。\n　……約束しただろう？": "Ensuite, allons ensemble ou tu veux. N'importe\nquel endroit. ...Tu te souviens de notre\npromesse, n'est-ce pas ?"
+    },
+    "186678": {
+        "「父ちゃん……。": "Pere..."
+    },
+    "186679": {
+        "「おやすみなさい。": "Bonne nuit."
+    },
+    "186680": {
+        "「おやすみ　ルビー……。": "Bonne nuit, Ruby..."
+    },
+    "186681": {
+        "「……<cs_pchero>殿\n　大神殿に　戻りましょう。": "<cs_pchero> dono, retournons au Grand Temple."
+    },
+    "193064": {
+        "「お前には　散々　振り回されてきたからな。\n　驚かされるのには　もう　慣れっこだ。": "J'ai ete sacrement entraine par tes frasques.\nJe suis desormais habitue a etre surpris."
+    },
+    "193909": {
+        "「お前は　私の……": "Tu es mon..."
+    },
+    "194875": {
+        "<cs_pchero>と　トビアスは\nナドラガ教団大神殿へ　戻った。": "<cs_pchero> et Tobias sont retournes au Grand\nTemple de l'Ordre de Nadraga."
+    },
+    "195393": {
+        "「いや～　面白いモノが　見られたな～♪": "Eh bien, j'ai vu quelque chose de vraiment\ninteressant !"
+    },
+    "195394": {
+        "「こんな異界の辺境まで　わざわざ\n　足を運んだ甲斐が　あったってモンだよね♪": "Ca valait vraiment le coup de faire tout ce\nchemin jusqu'a cette frontiere d'un autre\nmonde, n'est-ce pas ? ♪"
     }
 }
