@@ -1,86 +1,152 @@
 {
-    "144007": {
-        "「ミナナ……！！": "Minana... !!"
+    "167128": {
+        "「恵みの木の中に　こんな世界があるなんて\n　いったい　どうなってるの！？": "Comment est-il possible qu'il y ait un tel\nmonde a l'interieur de l'Arbre de Grace ?!"
     },
-    "144008": {
-        "「ずっと　こんなところに\n　閉じこめられてたんだね……。\n　今まで　気付かなくて　ごめんなさい……。": "Tu as ete enferme ici tout ce temps... Je suis\ndesole de ne pas m'en etre rendu compte\navant..."
+    "167129": {
+        "「ねぇ　<pc>さん。\n　これって　絶対　ヘンだよ！": "He, <pc>-san. C'est vraiment bizarre,\nnon ?"
     },
-    "144009": {
-        "「私たち　思いだしました。 \n　虚無の邪神の先兵と\n　戦っていたときのことを……。": "Nous nous sommes souvenus. De la fois ou nous\navons combattu les avant-gardes du dieu\nmalefique du neant..."
+    "167130": {
+        "「でも……　もしかして　ここを調べれば\n　あたしにだけ聞こえる　ふしぎな声の手がかりも\n　何か　つかめるんじゃないかな？": "Mais... peut-etre qu'en explorant ici, je\npourrais decouvrir des indices sur cette\nmysterieuse voix que seule moi peux entendre."
     },
-    "144010": {
-        "「とても　厳しい戦いでした……。\n　どれだけ　時間がたったのか\n　わからなくなるほどだったわ……。": "C'etait un combat vraiment difficile... Je ne\nsais meme plus combien de temps s'est\necoule..."
+    "167131": {
+        "「……うーん。\n　これは　どういうことなんだろう？": "Hmm. Que se passe-t-il ici ?"
     },
-    "144011": {
-        "「そんな中　あなたは　私たちの盾となり \n　封魔フォーゲルが放った　魔法から\n　守ってくれた……。": "Dans tout cela, tu es devenu notre bouclier et\nnous as proteges de la magie lancee par Demon\nSeal Vogel..."
+    "167132": {
+        "「あれ　<pc>！？\n　どうして　キミが　こんな所に？": "Ah, <pc> !? Que fais-tu ici ?"
     },
-    "144012": {
-        "「……そう　あれは　虚無の魔法……\n　そのせいで　私たちは　あなたのことを\n　忘れていたのね。": "Oui, c'etait la magie du neant... C'est a\ncause de cela que nous t'avions oublie."
+    "167133": {
+        "「ねぇねぇ！　それ！": "He, he ! Ca !"
     },
-    "144013": {
-        "「私たちを　守ってくれたのに\n　助けてあげられなくて……\n　本当に　ごめんなさい。": "Nous n'avons pas pu te sauver, meme si tu nous\nas proteges... Je suis vraiment desole."
+    "167134": {
+        "「手に持ってる　その本　なーに？": "Qu'est-ce que c'est, ce livre que tu tiens ?"
     },
-    "144014": {
-        "「皆の盾となるのが　私の役目ですから。\n　あなたたちと同じように　自分の役目を\n　果たしただけですよ。": "Mon role est de devenir le bouclier de tous.\nJe n'ai fait que remplir ma mission, tout\ncomme vous avec la votre."
+    "167135": {
+        "「……どうしてか　わからないけれど\n　あたし　その本が　すごく気になる……。": "…Je ne sais pas pourquoi, mais ce livre\nm'intrigue enormement…"
     },
-    "144015": {
-        "「……ほら　もう　そんな顔はやめて。 \n　こうしてまた　皆で　再会できたのに\n　泣き顔してちゃ　もったいないですよ！": "…Allez, arrete de faire cette tete. On a\nreussi a tous se retrouver, ce serait dommage\nde pleurer maintenant !"
+    "167136": {
+        "「きゃっ！？": "Kya !?"
     },
-    "144016": {
-        "「ミナナ……。": "Minana..."
+    "167137": {
+        "「あのー　ここです。ここですよー！": "Euh... par ici. Par ici !"
     },
-    "144017": {
-        "「……それにしても　メナーたちにさえ\n　届かなかった　私の声が聞こえたなんて\n　さすが　３つの心を集めた　闘戦士ですね。": "Cela dit, je suis vraiment impressionne que\nvous ayez pu entendre ma voix, meme si elle\nn'a pas atteint les autres comme Menaa. Vous<br>etes vraiment un guerrier exceptionnel, ayant\nrassemble les trois coeurs."
+    "167138": {
+        "「あっ。リルチェラ！\n　キミの　その肩のところ……": "Ah. Lilcherat ! Regarde ton epaule..."
     },
-    "144018": {
-        "「さあ　<pc>のさらなる　成長のために\n　光の導きのもと　チカラの解放を\n　おこないましょう。": "Allons-y, pour la croissance continue de\n<pc>, effectuons la liberation de la\npuissance sous la guidance de la lumiere."
+    "167139": {
+        "「やっと　皆さんに　声が届くようになりました。\n　いやはや　ここまで　長い道のりでしたよ。": "J'ai enfin reussi a faire entendre ma voix a\ntout le monde. Oh la la, ca a ete un long\nchemin pour en arriver la."
     },
-    "144019": {
-        "「我が名は　光導使ミナナ……\n　我らが主　聖光教主と　交わせし誓いのもと\n　闘戦士　<pc>を　導かん。": "Mon nom est Light Guide Minana... Sous le\nserment que nous avons prete a notre Seigneur,\nle Light Lord, je guiderai le guerrier<br><pc>."
+    "167140": {
+        "「えっ　えっ！？\n　なになに？　どういうこと？": "Eh, eh !? Quoi, quoi ? Qu'est-ce que ca veut\ndire ?"
     },
-    "144020": {
-        "「深遠なる意思に導かれ　紡がれし光芒。 \n　幾千もの光芒集いて　束になれば\n　やがて　聖光となるは必定なり。": "Guides par une volonte profonde, les rayons de\nlumiere sont tisses. Lorsque des milliers de\nces rayons se rassemblent en faisceau, ils<br>deviennent inevitablement une lumiere sacree."
+    "167141": {
+        "「申し遅れましたが　私　\n　花の民プクリポを創りたまいし神\n　ピナヘトの神獣　シナリディと申します。": "Je ne me suis pas encore presente, mais je\nsuis Shinaridi, la bete divine de Pinaheto, le\ndieu qui a cree le peuple des fleurs,<br>Pukulipo."
     },
-    "144021": {
-        "「聖光よ　その大いなる輝きをもって\n　この混迷の世界に　あまねく降り注ぐ\n　希望となりたまえ！": "O lumiere sacree, par ta grande lueur,\ndeverse-toi abondamment sur ce monde\nchaotique, et deviens l'espoir pour tous !"
+    "167142": {
+        "「氷の領界を　守護し\n　緑の者と　ゆかりが深い\n　神獣とでも　言えばいいでしょうか。": "On pourrait dire que c'est une creature divine\nqui protege le Royaume de Glace et qui est\netroitement liee aux etres verts."
     },
-    "144022": {
-        "「……それでは\n　希望の紋章を　高く　かかげてください。": "...Alors, veuillez brandir haut le Crest of\nHope."
+    "167143": {
+        "「……リルチェラ。あなたが　恵みの木を治すため\n　緑の者として　覚醒した時のことを\n　覚えていますか？": "Lilcherat. Vous souvenez-vous du moment ou\nvous vous etes eveille en tant que porteur de\nla verdure pour guerir l'Arbre de Grace ?"
     },
-    "144023": {
-        "<pc>は　希望の紋章を空高く　かかげた。": "<pc> brandit haut dans le ciel le Blason\nde l'Espoir."
+    "167144": {
+        "「あの時　あなたに　呼びかけたのは\n　私の声だったのです。あれ以来　ずっと\n　あなたのそばで　見守っていたのですよ。": "A ce moment-la, la voix qui vous a interpelle,\nc'etait la mienne. Depuis lors, je veille sur\nvous a vos cotes."
     },
-    "144024": {
-        "「今　聖光を紡ぎし \n　闘戦士　<pc>の　希望のチカラを捧げ\n　次なる道を　切り開かん！": "Maintenant, en tissant la lumiere sacree, nous\noffrons la force de l'espoir du guerrier\n<pc> pour ouvrir le chemin vers l'avenir<br>!"
+    "167145": {
+        "「そ…そうだったの！？\n　あたし　全然　気づかなかったよ。": "Quoi... vraiment !? Je ne m'en etais pas du\ntout rendu compte."
     },
-    "144025": {
-        "「さあ　これでチカラの解放は　おわりました。 \n　すぐに　新しい自分を　実感できるはずです。": "Voila, la liberation de votre pouvoir est\nterminee. Vous devriez ressentir votre nouveau\nmoi immediatement."
+    "167146": {
+        "「……無理もないことです。恵みの木が\n　凍りついた際に　私のチカラも弱まってしまい\n　これまで　回復に　専念しておりましたから。": "...C'est comprehensible. Lorsque l'Arbre de\nGrace a gele, mes pouvoirs ont egalement\nfaibli, et j'ai du me consacrer a la<br>recuperation jusqu'a present."
     },
-    "144026": {
-        "「これで　今度こそ　聖光教主さまに\n　会う準備が　ととのったってわけね！": "Maintenant, cette fois-ci, nous sommes enfin\nprets a rencontrer le Seigneur de la Lumiere,\nn'est-ce pas !"
+    "167147": {
+        "「そして　今　あなたたちが　停滞していた\n　この世界の流れを活性化させたことで　ようやく\n　本来のチカラを　取り戻すことができたのです。": "Et maintenant, grace a vous qui avez reactive\nle cours de ce monde qui etait en stagnation,\nj'ai enfin pu retrouver ma veritable<br>puissance."
     },
-    "144027": {
-        "「ついに　会えるんだー！\n　あーん！　どうしよう！": "Enfin, je vais pouvoir te rencontrer ! Aaah !\nQue faire ?"
+    "167148": {
+        "「えーと。つまり　氷の領界の神獣であるキミが\n　リルチェラに　呼びかけて\n　彼女を　この場所　この書へと　導いた。": "Euh... Donc, toi, la creature divine du\nRoyaume de Glace, tu as appele Lilcherat pour\nguider Her vers cet endroit, vers ce livre."
     },
-    "144028": {
-        "「いつぶりでしょうか……\n　楽しみですね。": "Cela fait combien de temps... J'ai hate."
+    "167149": {
+        "「それは　ボクたちが追ってきた\n　万象流転の書　そのものが\n　アストルティアの神々の意志であるから。": "Cela, c'est parce que le Book of All Things\nque nous avons poursuivi est en fait la\nvolonte meme des dieux d'Astoltia."
     },
-    "144030": {
-        "「みんな　落ち着いて。\n　今すぐに　会えるわけじゃないんですよ。": "Tout le monde, calmez-vous. On ne peut pas le\nrencontrer tout de suite."
+    "167150": {
+        "「はい。お気づきの通り　この　万象流転の書には\n　それぞれの領界を　見守ってきた\n　種族神たちのチカラが　宿っています。": "Oui. Comme vous l'avez remarque, ce Livre de\nToutes Choses est impregne du pouvoir des\ndieux des races qui ont veille sur chaque<br>domaine."
     },
-    "144031": {
-        "「さあ　もう　持ち場に戻って\n　ひとりでも多くの　闘戦士を導きましょう。": "Allez, retournons a nos postes et guidons\nautant de guerriers que possible."
+    "167151": {
+        "「本来ならば　神々の導きにしたがって\n　ナドラガンドに　救いをもたらすのは\n　本を預かった神獣である　私自身の役目。": "Normalement, c'est a moi, la bete divine qui a\nrecu ce livre, d'apporter le salut a Nadragan\nselon la guidance des dieux."
     },
-    "144032": {
-        "「はーい！": "Salut !"
+    "167152": {
+        "「しかし　邪悪なる意志と名乗る者に\n　チカラを奪われた　私は\n　他の誰かに　託すしかなかったのです……。": "Cependant, j'ai ete depouille de mon pouvoir\npar celui qui se fait appeler Evil Will. Je\nn'avais d'autre choix que de le confier a une<br>autre personne..."
     },
-    "144033": {
-        "「<pc>　ありがとう。\n　また　会いましょうね。": "<pc>, merci. Nous nous reverrons."
+    "167153": {
+        "「巻き込むような形とはいえ　リルチェラや\n　<pc>さん　サジェさんの協力のおかげで\n　使命を　果たすことができました。": "Bien que cela ait ete sous forme\nd'implication, j'ai pu accomplir ma mission\ngrace a la cooperation de Lilcherat,<br><pc>-san et Sajay-san."
     },
-    "144034": {
-        "「さあ　これでチカラの解放は　おわりました。 \n　……あら？　あなたは　すでにレベル制限を\n　解放なさっていたのですね。": "Voila, la liberation de votre pouvoir est\nterminee. … Oh ? Vous aviez deja leve la\nrestriction de niveau, n'est-ce pas ?"
+    "167154": {
+        "「そのことには　深く感謝しております。\n　ですから　どうか　私からの　お礼を\n　受け取って　いただけませんか？": "Je vous suis profondement reconnaissant pour\ncela. Alors, s'il vous plait, pourriez-vous\naccepter mon remerciement ?"
     },
-    "144035": {
-        "「レベル制限を解放できるのは　一度だけ。 \n　代わりに　これを差し上げましょう。": "Le deblocage de la limite de niveau ne peut\netre effectue qu'une seule fois. En echange,\nje vous offre ceci."
+    "167155": {
+        "「この　シナリディ秘蔵のとっておき……\n　きっと　気に入っていただけると　思います！": "Ce tresor cache de Shinari... Je suis sur que\nvous allez l'adorer !"
+    },
+    "167156": {
+        "「じゃあ　それは　<pc>さんに　あげて。\n　１番　がんばってくれたのは\n　<pc>さんだもん！": "Alors, donne-le a <pc>-san. Celui qui a\nle plus travaille, c'est <pc>-san !"
+    },
+    "167157": {
+        "「ねっ　サジェくん。": "Dis, Sajay-kun."
+    },
+    "167158": {
+        "「ああ。ボクも　そう言おうと　思っていた。\n　ボクは　ただ　自分の知的好奇心の\n　おもむくままに　やっていただけだし。": "Ah. J'allais justement dire la meme chose. Je\nne faisais que suivre le cours de ma curiosite\nintellectuelle."
+    },
+    "167159": {
+        "「それに　当初の　ボクの目的だった\n　闇の領界の環境を　よくするということは\n　果たされたとも　言えるしね。": "De plus, on peut dire que mon objectif initial\nd'ameliorer l'environnement du Dark Realm a\nete accompli."
+    },
+    "167160": {
+        "「うん。あたしも　竜族の世界が\n　よくなっていくのを見てると　うれしかった。\n　それが　何よりの　ごほうびっていうか……": "Oui. J'etais contente de voir le monde des\ndragons s'ameliorer. C'est comme si c'etait la\nmeilleure recompense..."
+    },
+    "167161": {
+        "「竜族のみんなが　幸せになるために\n　少しでも　あたしたちが　役に立てたなら\n　それだけで　充分なの。": "Pour que tous les membres de la tribu des\ndragons soient heureux, si nous pouvons etre\nutiles ne serait-ce qu'un peu, cela suffit<br>amplement pour nous."
+    },
+    "167162": {
+        "「……そういうこと。": "...C'est comme ca."
+    },
+    "167163": {
+        "「わかりました。では　私からのお礼は\n　あとで　私に話しかけて　お受け取りください。\n　石碑の上で　お待ちしておりますので。": "D'accord. Pour vous remercier, veuillez venir\nme parler plus tard pour recevoir votre\nrecompense. Je vous attendrai au sommet du<br>monument."
+    },
+    "167164": {
+        "「あー。でもね……。\n　いっこだけ　ある……かも。\n　あたしの　ほしいもの。": "Ah... Mais tu sais... Il y a peut-etre une\nseule chose... Que je veux vraiment."
+    },
+    "167165": {
+        "「このまま　サジェくんと会えなくなっちゃうのは\n　その……　さみしいかなって……。\n　だから　これからも　サジェくんと……": "Je ressens que ne plus pouvoir voir Sajay-kun\ncomme ca... c'est... un peu triste. Alors, a\npartir de maintenant, avec Sajay-kun..."
+    },
+    "167166": {
+        "「会えるよ　いつだって。\n　<pc>が　５つの領界を\n　つないでくれたんだから。": "Nous pouvons nous voir a tout moment.\n<pc> a relie les cinq royaumes pour\nnous."
+    },
+    "167167": {
+        "「本当！？\n　それならまた　あたしと一緒に　遊んでくれる？": "Vraiment !? Alors, tu veux bien jouer avec moi\nde nouveau ?"
+    },
+    "167168": {
+        "「……まぁ。遊ぶかどうかは　ともかくとして\n　会いたいなら　会えばいいと　ボクは思う。\n　何を　ためらうことが　あるの？": "Eh bien. Que tu veuilles jouer ou non, si tu\nveux le voir, tu devrais simplement le faire,\nje pense. Qu'est-ce qui te retient ?"
+    },
+    "167169": {
+        "「よかったぁ。あたし　この本の調査が\n　全部　終わっちゃったら　サジェくんと\n　バイバイしなきゃいけないって　思ってたんだ。": "Je suis soulagee. Je pensais que, une fois\nl'enquete sur ce livre terminee, je devrais\ndire au revoir a Sajay-kun."
+    },
+    "167170": {
+        "「それじゃあさ！　これからも　ふたりで\n　竜族の世界を　もっと　よくする方法を\n　考えたり　探したりしてみない？": "Alors, que dirais-tu de continuer a reflechir\net a chercher ensemble des moyens d'ameliorer\nle monde des Dragoviens ?"
+    },
+    "167171": {
+        "「そんなふうに　サジェくんと\n　ずっと　ずーっと　一緒に過ごしていけたら\n　ステキだなって思うの！　ねっ　約束！？": "Je pense que ce serait merveilleux de pouvoir\npasser tout ce temps ensemble avec toi,\nSajay-kun ! Promis ?"
+    },
+    "167172": {
+        "「ずっとって　それ……\n　本気で　ずっと？": "Pour toujours, tu veux dire... vraiment pour\ntoujours ?"
+    },
+    "167173": {
+        "「キミが　そう言うなら…… \n　ボクも……まぁ　いいけど……。": "Si tu le dis... Eh bien... je suppose que ca\nme va aussi..."
+    },
+    "167174": {
+        "「ふふっ。こんな　子供たちが　これからの\n　竜族の未来を　になっていくのなら……\n　何も　心配することは　なさそうですね。": "Fufufu. Si de tels enfants portent l'avenir de\nla tribu des dragons... Il ne semble pas y\navoir de quoi s'inquieter."
+    },
+    "167175": {
+        "「<pc>さん。ありがとうございます。\n　あなたのおかげで　この世界は\n　新しい未来へと　動きはじめました。": "<pc>-san. Merci beaucoup. Grace a vous,\nce monde a commence a se diriger vers un\nnouvel avenir."
+    },
+    "167259": {
+        "「そういうことで　あってる？": "Est-ce que c'est bien ca ?"
+    },
+    "167260": {
+        "「どうか　あの子たちが作っていく　竜族の世界が\n　明るく　あたたかなもので　ありますよう……。\n　私も非力ながら　見守っていきますよ。": "Puissent les enfants creer un monde draconique\nlumineux et chaleureux... Je les observerai et\nles soutiendrai, meme si mon aide est modeste."
     }
 }
