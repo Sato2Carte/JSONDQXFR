@@ -1,200 +1,230 @@
 {
-    "17406": {
-        "「ややっ！　巨人族の戦士　<pc>様！\n　これは　よい時に　参られましたな。": "Oh ! Guerrier des geants, <pc>-sama !\nVous arrivez a un moment opportun."
+    "18350": {
+        "「ナ～イス　<cs_pchero>。": "Na~is, <cs_pchero>."
     },
-    "17407": {
-        "「ちょうど　賢人トール様の\n　占術の結果が　出ようとしているのです。\n　ささっ　こちらへ……。": "Justement, le resultat de la divination de\nSage Thor-sama est sur le point de sortir. Par\nici, s'il vous plait..."
+    "18352": {
+        "「魔瘴だらけね……。": "Le miasme est partout..."
     },
-    "17408": {
-        "「大地の精霊たちが　呼びかけに　応えてくれた。\n　この　かがやきが　残りの三賢人の居場所を\n　教えてくれるじゃろう。": "Les esprits de la terre ont repondu a notre\nappel. Cette lueur nous indique l'emplacement\ndes trois sages restants."
+    "18354": {
+        "「今のところ　被害は　たいしたことないけど\n　もし　この魔瘴が\n　外にまで　もれたりしたら……。": "Pour l'instant, les degats ne sont pas tres\nimportants, mais si cette miasme malefique\nvenait a se repandre a l'exterieur..."
     },
-    "17409": {
-        "「ふむ……。この世界の　どこかに\n　巨人族が治める　桃色の城があるらしい。\n　とても雄大で　美しい城じゃ……。": "Hmm... Il parait qu'il existe quelque part\ndans ce monde un chateau rose gouverne par des\ngeants. C'est un chateau majestueux et<br>magnifique..."
+    "18355": {
+        "「誰！？　誰かいるの！？": "Qui est la ?! Y a-t-il quelqu'un ?!"
     },
-    "17410": {
-        "「その城下にある　身寄りなき子が集う家に\n　英知の星が　ふたつ見える……。\n　ふたりの賢人は　そこで　眠っておるじゃろう。": "Dans la maison situee en contrebas du chateau,\nou se rassemblent les enfants sans famille,\ndeux etoiles de sagesse brillent... Les deux<br>erudits y dorment probablement."
+    "18357": {
+        "「ま…魔瘴の中から！？": "D-Dans les miasmes magiques !?"
     },
-    "17411": {
-        "「なんと！　ふたりの賢人は\n　同じ場所にいるというのですか！\n　これは　探す手間が　はぶけますな！": "Que vois-je ! Les deux sages se trouvent au\nmeme endroit ! Cela nous epargne bien des\nrecherches !"
+    "18358": {
+        "「あ…あんた　もしかして\n　魔瘴の中にいたの！？": "Ah... tu etais peut-etre dans cette miasme\nmagique ?"
     },
-    "17412": {
-        "「しかし　身寄りなき子が集う家とは……？": "Cependant, une maison ou se reunissent des\nenfants sans famille..."
+    "18359": {
+        "「顔色が　悪いみたいだけど\n　本当に大丈夫なの？": "On dirait que tu as mauvaise mine. Es-tu sur\nque ca va ?"
     },
-    "17413": {
-        "「<pc>なら　思い当たる場所が\n　あるのではないか？　ボクも　同行するから\n　一緒に　賢人の捜索に　あたってほしい。": "Si c'est <pc>, ne connais-tu pas un\nendroit qui pourrait correspondre ? Je vais\nt'accompagner, alors cherchons ensemble le<br>sage."
+    "18360": {
+        "「大丈夫そうね……。常識的に考えれば\n　魔瘴の中になんていたら　すぐに死に至るのに\n　なんなの　この子は……。": "Ca a l'air d'aller... Logiquement, si on\ndevait rester dans une telle miasme, on\nmourrait rapidement. Mais qui est donc cet<br>enfant...?"
     },
-    "17414": {
-        "「ありがとう！　キミには　いつも感謝している。\n　それでは　すぐに　出発するとしよう！": "Merci ! Je te suis toujours reconnaissant.\nAlors, partons sans tarder !"
+    "18361": {
+        "「ねぇねぇ。\n　名前だけでも　教えてくんない？": "He, dis-moi. Tu ne veux pas au moins me dire\nton nom ?"
     },
-    "17415": {
-        "「シグルド様。\n　また　あなたが　行かれるのですか？": "Seigneur Ludo. Vous partez a nouveau ?"
+    "18362": {
+        "「ボクは　エルフじゃない……。\n　家に帰らせて……。": "Je ne suis pas un Elfe... Laisse-moi rentrer\nchez moi..."
     },
-    "17416": {
-        "「あなたは　指導者という立場を　お忘れでは？\n　天命の戦乙女を思うあまり\n　どうやら　冷静さを失っておられるようだ。": "Vous n'auriez pas oublie votre position de\nleader, n'est-ce pas ? Il semble que votre\npreoccupation pour Fate's War Maiden vous ait<br>fait perdre votre calme."
+    "18363": {
+        "「それ　聞きあきた。\n　じゃあさ　家はどこなの？": "J'ai entendu ca assez souvent. Alors, ou est\nta maison ?"
     },
-    "17417": {
-        "「冷静さを　失っているのではない。\n　ボクはただ　あの方を救うことこそが\n　我が使命と　心得ているだけだ。": "Je n'ai pas perdu mon calme. Je suis\nsimplement convaincu que sauver cette personne\nest ma mission."
+    "29387": {
+        "魔瘴が　辺りに立ち込めている。\nこれ以上　先に進むのは危険なようだ。": "Une brume malefique enveloppe les environs. Il\nsemble dangereux d'avancer davantage."
     },
-    "17419": {
-        "「むっ！？　待て　<pc>！\n　どうやら　キミは　他にも\n　多数の使命を　抱えているようだな。": "Hm！？ Attends, <pc> ! Il semble que tu as\nde nombreuses autres missions a accomplir."
+    "58743": {
+        "「よく来たな　<pc>。\n　ちょうどいい。近くへ　来るがよい。": "Tu es bien venu, <pc>. Approche-toi,\nc'est parfait."
     },
-    "17420": {
-        "「……ならば　仕方があるまい。\n　キミは　その使命を　まっとうしてくれ。\n　それが済んだら　出発するとしよう。": "Dans ce cas, il n'y a pas d'autre choix.\nAccomplis ta mission. Une fois cela fait, nous\npartirons."
+    "58744": {
+        "「じつはな　最近　この王都カミハルムイで\n　身体の不調を訴える者が　多発しているのだ。": "En fait, recemment, de nombreuses personnes a\nKamiharmui City se plaignent de problemes de\nsante."
     },
-    "17421": {
-        "「そうか……。以前　キミに話したとおり\n　ボクたちは　巨人族の視線を　あびると\n　身体が　動かなくなるのだ。": "Je vois... Comme je te l'ai dit auparavant,\nquand nous sommes sous le regard des geants,\nnos corps ne peuvent plus bouger."
+    "58745": {
+        "「今　ひとりの博士に\n　原因を　探ってもらってるとこでな。\n　そなたにも　博士の話を聞いてもらいたい。": "En ce moment, un docteur est en train de\nrechercher la cause. J'aimerais que tu ecoutes\naussi ce que le docteur a a dire."
     },
-    "17422": {
-        "「キミのチカラが　借りられないとなると\n　何か　他の手立てを　考えるしかないな。": "Si je ne peux pas compter sur ta force, je\nvais devoir envisager une autre solution."
+    "58746": {
+        "「しかし　遅いな。\n　もう　そろそろ来ると思うのだが……。": "Cependant, il est tard. Je pensais qu'il\narriverait bientot..."
     },
-    "17423": {
-        "「<pc>か！\n　よくぞ　ふたたび　訪ねてくれた！": "<pc> ! Je suis ravi que tu sois revenu\nme rendre visite !"
+    "58747": {
+        "「やれやれ　やっと来たか。\n　若き天才博士の　お出ましだな。": "Enfin, te voila. Le jeune prodige est enfin\narrive."
     },
-    "17424": {
-        "「<pc>。大地の精霊たちの声が\n　我らに　残りの三賢人の居場所を伝えてくれた。": "<pc>. Les esprits de la terre nous ont\nrevele l'emplacement des trois sages restants."
+    "58748": {
+        "「うう……。しくじった～。\n　うっかり　寝坊しちゃったわ。": "Ooooh... J'ai rate le coche. Je me suis\nendormie par inadvertance."
     },
-    "17425": {
-        "「この世界の　どこかに\n　巨人族が治める　桃色の城があるらしい。\n　とても雄大で　美しい城じゃ……。": "Dans ce monde, il parait qu'il existe quelque\npart un chateau rose gouverne par une tribu de\ngeants. C'est un chateau majestueux et<br>magnifique..."
+    "58749": {
+        "「紹介しよう　<pc>。\n　魔瘴研究者の　ハネツキ博士だ。": "Je vous presente <pc>. Voici Dr.\nHanetsuki, un chercheur en miasmes."
     },
-    "17426": {
-        "「その城下にある　身寄りなき子が集う家に\n　英知の星が　ふたつ見えた……。\n　ふたりの賢人は　そこで　眠っておるじゃろう。": "Dans la maison situee dans cette ville, ou se\nrassemblent les enfants sans famille, deux\netoiles de sagesse brillent... Deux erudits y<br>dorment probablement."
+    "58750": {
+        "「おおっと　あなたが　<pc>か。\n　ウワサは聞いてるわよ。\n　王都を守った　英雄でしょ？": "Oh, mais ne serait-ce pas <pc> ? J'ai\nentendu des rumeurs a votre sujet. Vous etes\nle heros qui a protege la capitale, n'est-ce<br>pas ?"
     },
-    "17427": {
-        "「<pc>。賢人が眠る場所に\n　心当たりは　ないか？　ボクも　同行する。\n　一緒に　賢人の捜索に　あたってほしい。": "<pc>. Aurais-tu une idee de l'endroit ou\nle sage repose ? Je vais t'accompagner.\nJ'aimerais que tu participes a la recherche du<br>sage avec moi."
+    "58751": {
+        "「あたし　ハネツキ。\n　以後　よろしく～。": "Je suis Hanetsuki. Ravie de faire ta\nconnaissance~."
     },
-    "17428": {
-        "「わお！　それがウワサの　ベリーダンスね。\n　あんたって　あたしの神様！？\n　それなら　あたしにも　おどれそう！": "Wow ! C'est donc ca, la fameuse danse du\nventre ! Tu es comme un dieu pour moi !? Dans\nce cas, je pourrais peut-etre danser aussi !"
+    "58752": {
+        "「で　ハネツキ博士よ。\n　なにか　わかったのか？": "Alors, Dr. Hanetsuki. Avez-vous decouvert\nquelque chose ?"
     },
-    "17429": {
-        "「これで　ダンスパーティも　バッチリね！\n　あとは　ププリさえ…………。": "Maintenant, la fete de danse est parfaitement\nprete ! Il ne manque plus que Pupuri..."
+    "58753": {
+        "「はい。大気中の魔瘴濃度が　増加しています。\n　王都近くに　魔瘴が発生したためでしょう。": "Oui. La concentration de miasmes dans\nl'atmosphere est en augmentation. Cela doit\netre du a l'apparition de miasmes pres de la<br>capitale royale."
     },
-    "17430": {
-        "「……ううん　なんでもない。\n　あいつのことなんて　どーでもいいんだった。": "...Non, c'est rien. Je m'en fiche de ce type."
+    "58754": {
+        "「魔瘴は　濃度が　うすくても\n　身体に影響を及ぼしますので　体調を崩す者が\n　続出しているのは　これが原因かと思われます。": "Meme si la concentration de miasmes est\nfaible, elle affecte le corps, ce qui pourrait\nexpliquer pourquoi de nombreuses personnes<br>tombent malades."
     },
-    "17431": {
-        "「わあっ　それが　さそうおどり？\n　あ　ありがと……　それなら\n　あたしにも　おどれそう……かな。": "Waouh, c'est ca la danse envoutante ? Ah,\nmerci... Alors peut-etre que moi aussi je\npourrai danser..."
+    "58755": {
+        "「なるほどな。\n　して　魔瘴の発生場所は　どこだ？": "Je vois. Alors, ou se trouve l'origine de\ncette miasme magique ?"
     },
-    "17432": {
-        "「あ……！　ち　ちがうよ……？\n　ダンスパーティに　行きたいんじゃないの。\n　あ…あたしの　お友達は　お人形だけ。": "Ah... ! Ce... ce n'est pas ca... ? Je ne veux\npas aller a la soiree dansante. Ah... mes\nseuls amis sont des poupees."
+    "58756": {
+        "「はい。そのことですが……": "Oui. A propos de cela..."
     },
-    "17433": {
-        "「ただ……　おどったら　どんな気持ちになるか\n　ちょっとだけ……　知りたかったんだ……。": "Je voulais juste... savoir un peu ce que ca\nferait de danser..."
+    "58757": {
+        "「発生場所を　はっきりさせるには\n　現地まで　目視確認に行く必要があります。\n　護衛を　お貸しいただけないでしょうか。": "Pour confirmer l'emplacement de l'incident,\nnous devons nous rendre sur place a P. 地 pour\nune inspection visuelle. Pourriez-vous nous<br>preter une escorte ?"
     },
-    "17434": {
-        "「あっ！　ヤッバい！！\n　もう　ダンスパーティの時間じゃん！\n　それじゃあね　旅人さん！！": "Ah ! Mince !! C'est deja l'heure de la fete\ndansante ! A plus, voyageur-san !!"
+    "58758": {
+        "「ふむ。護衛か……それならば　ここに\n　うってつけの人物が　おるではないか。": "Hmm. Une escorte, hein... Dans ce cas, il y a\nici une personne tout a fait qualifiee pour\ncela, n'est-ce pas ?"
     },
-    "17435": {
-        "「そ……　そっか……\n　もう　そんな時間…………。": "Ah... Je vois... C'est deja l'heure..."
+    "58759": {
+        "「王都を救ってくれた　<pc>よ。\n　ハネツキ博士の護衛を　やってもらえぬか？<yesno><close>": "<pc>, toi qui as sauve la capitale.\nPourrais-tu assurer la protection de Dr.\nHanetsuki ? <yesno><close>"
     },
-    "17436": {
-        "「ちょっとくらい…………\n　ちょっとくらいなら　のぞいたって……\n　い…いいよね？": "Un petit coup d'oeil... Un tout petit coup\nd'oeil... C'est... c'est bon, non ?"
+    "58760": {
+        "「そなたなら　安心して　まかせられるのだ。\n　そう言わずに　頼む。": "Je peux te confier cette tache en toute\ntranquillite. Je t'en prie, accepte."
     },
-    "17437": {
-        "<center>その日　メギストリスの都の　教会前広場では\nとびきりの　ダンスパーティが　開かれた。": "Ce jour-la, sur la place devant l'eglise de\nMegistris City, une fete dansante\nextraordinaire a eu lieu."
+    "58761": {
+        "「うむ。感謝するぞ　<pc>。": "Hum. Je te remercie, <pc>."
     },
-    "17438": {
-        "<center>大人も子供も　楽しい音楽に合わせて\n時を忘れて　おどり続け\nやがて　夜は　ふけていった……。": "Les adultes comme les enfants continuerent a\ndanser, emportes par la musique joyeuse,\noubliant le temps qui passe. Bientot, la nuit<br>s'avanca lentement..."
+    "58762": {
+        "「では　<pc>に\n　護衛を　まかせよう。\n　それでいいな？　ハネツキ博士よ。": "Alors, confions la protection a <pc>.\nCela te convient, Dr. Hanetsuki ?"
     },
-    "17439": {
-        "「た…ただいま　旅人さん……。\n　えへ。あたしも……　おどってきちゃった。\n　あんなに　楽しかったの　はじめて……。": "Je... je suis de retour, voyageur-san... Eh\neh. Moi aussi... j'ai danse. C'etait la\npremiere fois que je m'amusais autant..."
+    "58763": {
+        "「やっりー！\n　英雄が　護衛についてくれるなんて\n　ラッキーだわ！": "Genial ! Un heros va nous accompagner en tant\nque garde du corps, c'est Drang !"
     },
-    "17440": {
-        "「だったら　ウジウジするの　やめようよ。\n　あのね。あたし　ほんとは　ずっと\n　ププリと　なかよくなりたかったんだ。": "D'accord, alors arretons de nous morfondre. Tu\nsais, en fait, j'ai toujours voulu devenir\namie avec Pupuri."
+    "58764": {
+        "「っと　すいません。問題ありません。": "Oh, pardon. Il n'y a pas de probleme."
     },
-    "17441": {
-        "「今日　いっしょに　おどれて　うれしかったよ！\n　あたしたち　これからは　友達だよね？": "Aujourd'hui, j'ai vraiment apprecie danser\navec toi ! Nous sommes amis a partir de\nmaintenant, n'est-ce pas ?"
+    "58765": {
+        "「よし。では　<pc>よ。\n　あとは　ハネツキ博士から聞いてくれ。": "D'accord. Alors, <pc>. Ecoute le reste\nde l'histoire de Dr. Hanetsuki."
     },
-    "17442": {
-        "「う……　うん！！": "Mm... Oui !!"
+    "58766": {
+        "「ええと　さっそくで悪いんだけど……": "Euh, desole de te demander ca tout de suite,\nmais..."
     },
-    "17443": {
-        "<if_woman>「おねえちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<else>「おにいちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<endif>": "<if_woman>>Grande soeur... Je... je te donne\ncette poupee. J'ai trouve une vraie amie...\nalors je pense que je n'en ai plus besoin...<else>>Grand frere... Je... je te donne cette\npoupee. J'ai trouve un vrai ami... alors je\npense que je n'en ai plus besoin... <endif>"
+    "58767": {
+        "「魔瘴の発生場所を　突き止めて\n　どれくらいの被害が　出ているのか\n　ちょっくら　調べたいの。": "Je veux juste enqueter un peu pour decouvrir\nl'origine de la miasme malefique et determiner\nl'ampleur des degats qu'il cause."
     },
-    "17444": {
-        "<if_woman>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　ねーちゃんに　あげるよ。<else>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　にーちゃんに　あげるよ。<endif>": "<if_woman>>Alors, comme je me suis bien\nentendue avec Pupuri, je n'ai plus besoin de\ncette poupee ! Je vais la donner a la grande<br>soeur voyageuse.<else>>Alors, comme je me suis bien entendu avec\nPupuri, je n'ai plus besoin de cette poupee !\nJe vais la donner au grand frere voyageur.<br><endif>"
+    "58768": {
+        "「街道沿いは　兵士が　チェックしてるし\n　発生してるとしたら　たぶん\n　洞くつとか　人目につかないとこよ。": "Le long de la route, les soldats surveillent,\ndonc s'il y a quelque chose, ce serait\nprobablement dans des endroits comme des<br>grottes ou des lieux a l'abri des regards."
     },
-    "17445": {
-        "<pc>は\n愛の賢人フレイヤ（だいじなもの）と\n光の賢人バルドル（だいじなもの）を手に入れた！<me 60>": "<pc> a obtenu l'objet cle : Sage de\nl'Amour Freya et l'objet cle : Sage de la\nLumiere Baldr ! <me 60>"
+    "58769": {
+        "「北だけ　ほかに比べて　魔瘴濃度が高めだから\n　位置的に　カミハルムイ領北の北の辺りかもね。": "Le nord a une concentration en miasmes plus\nelevee que les autres endroits, donc ca\npourrait etre quelque part au nord de<br>Kamiharmui North."
     },
-    "17446": {
-        "かばんの中から　シグルドの声が聞こえる。": "Depuis le sac, la voix de ShiguLudo se fait\nentendre."
+    "58770": {
+        "「そこまで行く間　あなたに\n　護衛を　お願いしたいんだけど\n　どう？　やってくれるわよね？": "Je voudrais vous demander de m'escorter\njusqu'a ce point. Qu'en pensez-vous ? Vous\naccepterez, n'est-ce pas ?"
     },
-    "17447": {
-        "「巨人族の戦士　<pc>よ！\n　ついに　愛の賢人フレイヤと\n　光の賢人バルドルを　見つけだしたな！": "Guerrier de la tribu des geants, <pc> !\nTu as enfin trouve la Sage de l'amour, Freya,\net le Sage de la lumiere, Baldr !"
+    "58771": {
+        "「サンキュー。それじゃ　目的地に\n　着くまでの間　あたしは　こっそりと\n　あなたの後を　ついてくわね。": "San-kyuu. Pendant que nous nous rendons a\nnotre destination, je vais te suivre\ndiscretement."
     },
-    "17448": {
-        "「彼らにも　目醒めの術を　かけなくては。\n　急ぎ　ヴァルハラの館へ　戻ろう！": "Nous devons egalement utiliser le rituel\nd'eveil sur eux. Depechons-nous de retourner a\nTo Valhalla Hall !"
+    "58772": {
+        "「あなたが　出発するまでの間\n　あたしは　ひとまず　部屋に戻ってるわ。": "Jusqu'a ton depart, je retourne dans ma\nchambre pour l'instant."
     },
-    "17449": {
-        "「リジン！　皆を集めよ！！": "Rijin ! Rassemble tout le monde !"
+    "58773": {
+        "「あたしの部屋は　この城の東の方。\n　厨房の近くだから　よろしく～。": "Ma chambre se trouve a l'est de ce chateau.\nPres de la cuisine, donc a bientot~."
     },
-    "17450": {
-        "「おおっ　おかえりなさいませ！\n　シグルド様！　<pc>様！\n　もしや……ついに　我らのもとに　三賢人が！？": "Oh ! Soyez les bienvenus ! Seigneur ShiguLudo\n! Seigneur <pc> ! Serait-ce... enfin,\nles trois sages sont parmi nous !?"
+    "58774": {
+        "「サンキュー。それじゃ　目的地に\n　着くまでの間　あたしは　こっそりと\n　あなたの後を　ついてくわね。": "San-kyuu. Pendant que nous nous rendons a\nnotre destination, je vais te suivre\ndiscretement."
     },
-    "17451": {
-        "「……承知！　すぐに　皆を集めましょう！！": "......Compris ! Rassemblons tout le monde\nimmediatement !!"
+    "58775": {
+        "「……って　あなた　ほかの人たちの\n　頼まれごとを　たくさん抱えてるみたいね。\n　先に　そっちを片付けてきて　大丈夫よ。": "… On dirait que tu as deja beaucoup de\nrequetes de la part d'autres personnes. C'est\nbon, occupe-toi d'abord de celles-la."
     },
-    "17452": {
-        "「三賢人よ！　その瞳に　光を！": "O Trois Sages ! Que la lumiere illumine vos\nyeux !"
+    "58776": {
+        "「おお？　そっかー。\n　んー　どうしよっかなあ。": "Oh ? Vraiment ? Hmm, que devrais-je faire..."
     },
-    "17453": {
-        "「愛の賢人フレイヤ　光の賢人バルドルよ！\n　我が名は　シグルド。こうして\n　お前たちに会えたこと　うれしく思う。": "Sage Freya de l'amour, Sage Baldr de la\nlumiere ! Je suis Sig Ludo. Je suis heureux de\npouvoir enfin vous rencontrer."
+    "58777": {
+        "「ホント言うと　あたし　忙しいから\n　手伝ってくれると　うれしいんだけどね。\n　気が向いたら　戻ってきて。": "Pour etre honnete, je suis occupee, donc ca me\nferait plaisir si tu pouvais m'aider. Reviens\nsi tu en as envie."
     },
-    "17454": {
-        "「……聞いてくれ　我が同胞たちよ。\n　今　調停者オーディンによって\n　世界の均衡が　失われつつあるのじゃ。": "...Ecoutez-moi, mes compagnons. En ce moment,\npar l'entremise du mediateur Odin, l'equilibre\ndu monde est en train de se perdre."
+    "58778": {
+        "「よかった　また来てくれたわね。": "Je suis content que tu sois revenu."
     },
-    "17455": {
-        "「そなたらも　戦士シグルドにチカラを預け\n　ともに　戦ってはくれぬか？": "Ne pourriez-vous pas aussi preter votre force\na Warrior Sigurd et combattre a ses cotes ?"
+    "58779": {
+        "「魔瘴の発生場所を　突き止めて\n　どれくらいの被害が　出ているのか\n　ちょっくら　調べたいの。": "Je veux juste enqueter un peu pour decouvrir\nl'origine de la miasme malefique et determiner\nl'ampleur des degats qu'il cause."
     },
-    "17456": {
-        "「愚問ですわ　賢人トール。\n　答えは　ひとつに決まっています。\n　我らの命　戦士シグルドに　預けましょう。": "C'est une question inutile, Sage Thor. La\nreponse est evidente. Confions nos vies a\nWarrior Sigurd."
+    "58780": {
+        "「街道沿いは　兵士が　チェックしてるし\n　発生してるとしたら　たぶん\n　洞くつとか　人目につかないとこよ。": "Le long de la route, les soldats surveillent,\ndonc s'il y a quelque chose, ce serait\nprobablement dans des endroits comme des<br>grottes ou des lieux a l'abri des regards."
     },
-    "17457": {
-        "「異論はない。すべては　世界の均衡のために！": "Pas d'objection. Tout est pour l'equilibre du\nmonde !"
+    "58781": {
+        "「北だけ　ほかに比べて　魔瘴濃度が高めだから\n　位置的に　カミハルムイ領北の北の辺りかもね。": "Le nord a une concentration en miasmes plus\nelevee que les autres endroits, donc ca\npourrait etre quelque part au nord de<br>Kamiharmui North."
     },
-    "17458": {
-        "「礼を言う！　そなたら　三賢人には\n　いずこかへ連れ去られた　天命の戦乙女の\n　居場所を　突き止めてもらいたい！": "Je vous remercie ! Je compte sur vous, les\ntrois sages, pour decouvrir l'endroit ou a ete\nemmenee la Fate's War Maiden !"
+    "58782": {
+        "「そこまで行く間　あなたに\n　護衛を　お願いしたいんだけど\n　どう？　やってくれるわよね？": "Je voudrais vous demander de m'escorter\njusqu'a ce point. Qu'en pensez-vous ? Vous\naccepterez, n'est-ce pas ?"
     },
-    "17459": {
-        "「もはや　一刻の猶予も　許されんのだ！\n　急いでくれ！": "Il n'y a plus une minute a perdre !\nDepeche-toi !"
+    "58783": {
+        "「ギギギギギギーーー！": "GIGIGIGIGIーーー！"
     },
-    "17460": {
-        "「承知した。我ら　三賢人が　そろった今なら\n　天命の戦乙女も　見つけだせましょう。\n　我らの占術で　必ずや　探しだしてみせますぞ。": "Compris. Maintenant que nous, les trois sages,\nsommes reunis, nous devrions pouvoir trouver\nla Guerriere du Destin. Grace a notre art de<br>la divination, nous la retrouverons sans\nfaute."
+    "58784": {
+        "「魔物を倒してくれて　助かったわ。\n　中に入れなくて　困ってたのよ。": "Tu m'as sauve en terrassant les monstres.\nJ'etais vraiment embetee de ne pas pouvoir\nentrer."
     },
-    "17461": {
-        "「<pc>。キミには　本当に感謝している。\n　三賢人が　一堂に会することが　できたのは\n　皆　キミの　はたらきのおかげだ。": "<pc>. Je te suis vraiment reconnaissant.\nSi les trois sages ont pu se reunir, c'est\ngrace a ton travail."
+    "58785": {
+        "「ここが　発生場所か。\n　まいったわ。想像以上の量ね。": "Voici donc le lieu d'apparition. Quel bazar...\nC'est bien plus que ce que j'avais imagine."
     },
-    "17462": {
-        "「この品は　戦士たちに用意させた。\n　どれほど役に立つかは　わからないが\n　今後の戦いに　使ってほしい。": "Cet objet a ete prepare pour les guerriers. Je\nne sais pas a quel point il sera utile, mais\nj'aimerais que vous l'utilisiez dans vos<br>combats a venir."
+    "58786": {
+        "「ヒッ……！\n　こ…殺さないで！": "Hii... ! P-...Pitie, ne me tue pas !"
     },
-    "17463": {
-        "「今は　三賢人にまかせ\n　しばらく　休息を取っていてくれ！\n　何か　進展があれば　しらせよう！": "Pour l'instant, laisse les trois sages s'en\noccuper. Repose-toi un moment ! Je te tiendrai\ninforme s'il y a du nouveau !"
+    "58787": {
+        "「ヒッ……！　や…やめて！\n　こわいことしないで……！": "Hi... ! N... ne me fais pas de mal ! Ne fais\npas de choses effrayantes... !"
     },
-    "17464": {
-        "「<pc>か！": "<pc>, hein !"
+    "58788": {
+        "「大丈夫よ。なにもしないから。\n　あたし　ハネツキっていうの。\n　ねぇ　あんたの名前は？": "Ne t'inquiete pas. Je ne vais rien te faire.\nJe m'appelle Hanetsuki. Dis-moi, quel est ton\nnom ?"
     },
-    "17465": {
-        "「<pc>。キミには　本当に感謝している。\n　三賢人が　一堂に会することが　できたのは\n　皆　キミの　はたらきのおかげだ。": "<pc>. Je te suis vraiment reconnaissant.\nSi les trois sages ont pu se reunir, c'est\ngrace a ton travail."
+    "58789": {
+        "「ボクは　エルフじゃない……。": "Je ne suis pas un Elfe..."
     },
-    "17466": {
-        "「今　三賢人たちが　占術をもって\n　天命の戦乙女の　居場所を探している。": "En ce moment, les trois sages utilisent leurs\npouvoirs divinatoires pour localiser la Vierge\nGuerriere du Destin."
+    "58790": {
+        "「ははーん　な～んだ。": "Ah ha, je vois maintenant."
     },
-    "17467": {
-        "「今は　彼らにまかせ\n　しばらく　休息を取っていてくれ！\n　何か　進展があれば　しらせよう。": "Pour le moment, laisse-leur la tache et prends\nun peu de repos ! Je te tiendrai informe s'il\ny a du nouveau."
+    "58791": {
+        "「あんた　ハラ減ってんの？\n　お姉ちゃんが　おいしいモノ作るからさ。\n　一緒に　王都まで行こうよ。ねっ？": "Tu as faim ? Ma grande soeur va preparer\nquelque chose de delicieux. Allons ensemble\njusqu'a la capitale royale. D'accord ?"
     },
-    "17810": {
-        "「巨人族の戦士　<pc>よ！\n　キミの　かばんに　入らせてもらうぞ！": "Guerrier du peuple des geants, <pc> ! Je\nvais me mettre dans ton sac !"
+    "58792": {
+        "「こ…こわいことしないで。": "Ne... ne me fais pas de mal."
     },
-    "17811": {
-        "<pc>は\n戦士シグルド（だいじなもの）を　手に入れた！<me 60>": "<pc> a obtenu le Warrior Sigurd (objet\ncle) ! <me 60>"
+    "58793": {
+        "「あはは。なんも　しないって。\n　さあ　行くわよ。": "Ah ah ah. Je ne vais rien faire. Allez, on y\nva."
     },
-    "37586": {
-        "なんと！　<%sEV_QUE_NAME0>は\nおどりの極意を　落としていった！\n<pc>は　おどりの極意を読んだ。": "Quel incroyable ! <%sEV_QUE_NAME0> a laisse\ntomber le secret de la danse ! <pc> a lu\nle secret de la danse."
+    "58794": {
+        "「そうだ　<cs_pchero>。\n　後で　あたしの部屋に来てね。\n　お礼するからさ。よろしく～。": "Tiens, <cs_pchero>. Viens dans ma chambre plus\ntard. Je te remercierai. A bientot~."
     },
-    "37587": {
-        "おどりとは　すなわち愛。\n見る者に　情熱を伝え\n心をつなぎあう　愛の告白である。　　　　大先生": "La danse, c'est l'amour. Elle transmet la\npassion a ceux qui la regardent et relie les\ncoeurs dans une declaration d'amour. - Grand<br>Sensei"
+    "58795": {
+        "「ダメ。言わない。\n　知らない人に　家を教えちゃダメって\n　パパに　言われたから。": "Desolee. Je ne peux pas te le dire. Papa m'a\ndit de ne pas donner notre adresse a des\ninconnus."
     },
-    "37588": {
-        "<pc>は\nしぐさ『ベリーダンス』を　覚えた！<me 71>": "<pc> a appris le geste Danse du ventre !<me 71>"
+    "58796": {
+        "「はぁ。こりゃ　ダメだ……。": "Haah. Ca ne va pas du tout..."
+    },
+    "58797": {
+        "「あっ。<pc>じゃん。": "Ah. C'est <pc>."
+    },
+    "58798": {
+        "「護衛してくれて　ありがとね。\n　これは　あたしからの　お礼よ。": "Merci de m'avoir escortee. Voici un petit\ncadeau de ma part."
+    },
+    "58799": {
+        "「おかげで　魔瘴の発生場所が　わかったけど\n　それよりも　おどろいたのは\n　あの子が　魔瘴の中から出てきたことね。": "Grace a cela, nous avons decouvert l'endroit\nou se forme la miasme malefique, mais ce qui\nm'a le plus surpris, c'est que cet enfant est<br>sorti de l'interieur de la miasme."
+    },
+    "58800": {
+        "「どうして　魔瘴が　平気なのかしら。\n　どこから来たのかも　気になるし\n　いろいろ　興味深い子ね……。": "Comment se fait-il qu'il soit insensible a la\nmalveillance ? D'ou vient-il, cela m'intrigue\naussi. C'est vraiment un enfant fascinant..."
+    },
+    "58801": {
+        "「あの子のこととか　魔瘴のこととか\n　じっくり　腰をすえて　調べてみたいの。": "Je veux prendre le temps de bien enqueter sur\ncette fille et sur la miasme malefique."
+    },
+    "58802": {
+        "「それが終わったら　あたしの研究を\n　また　手伝ってもらうかもしれないから\n　そん時は　よろしくね～。": "Quand ce sera termine, il se peut que tu\nm'aides encore avec mes recherches. Je compte\nsur toi a ce moment-la~."
+    },
+    "58919": {
+        "「だ～か～ら～。\n　それは　もう聞いたって。": "Je te dis que je l'ai deja entendu."
+    },
+    "58920": {
+        "「ボ…ボク　わからない……。": "Je... je ne comprends pas..."
+    },
+    "58921": {
+        "「はぁ。こりゃ　ダメだ……。\n　この子　何者なのかしら。": "Haa. Ca ne va pas... Qui est donc cet enfant ?"
+    },
+    "58922": {
+        "「あっ。<pc>じゃん。\n　ごめんね。今　取り込み中だからさ\n　しばらくしてから　来てね。": "Ah. C'est <pc>. Desole. Je suis un peu\noccupe en ce moment. Reviens dans un petit\nmoment, d'accord ?"
     }
 }
