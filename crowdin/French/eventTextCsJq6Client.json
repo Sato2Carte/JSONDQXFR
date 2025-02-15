@@ -1,155 +1,146 @@
 {
-    "277298": {
-        "「アンタ　<pc>だったっけ？\n　新入りのくせに　ずいぶんと\n　ナマイキじゃないか。": "T'es <pc>, c'est ca ? Pour un nouveau,\ntu te montres assez audacieux."
+    "299391": {
+        "「キリカ聖堂へ　ようこそ。\n　本日は　どのような　ご用件で……あら？": "Bienvenue a la cathedrale de Kirika. Que\npuis-je faire pour vous aujourd'hui... Oh ?"
     },
-    "277299": {
-        "「アタイより先に　地図を持ってるヤツに\n　見当をつけるなんてさ。\n　でも　キライじゃないよ　そういうの。": "Avant que le Red Snapper ne s'en empare, il\nfaut reperer celui qui possede la carte. Mais\nje n'ai rien contre ce genre de choses."
+    "299392": {
+        "「あの　もしかして……\n　魔物と　戦ったりしましたか？<yesno><close>": "Euh, par hasard... Avez-vous combattu des\nmonstres ?<yesno><close>"
     },
-    "277300": {
-        "「……で　この兄さんが　タクホの言ってた\n　海賊の子孫だってことで　合ってるのかい？": "Alors, est-ce que ce grand frere serait bien\nle descendant des pirates dont Takuho parlait\n?"
+    "299393": {
+        "「あなたは　勇敢な方なのですね。\n　ですが　僧侶としては\n　そのキズついた身体……見過ごせません。": "Vous etes vraiment courageux. Cependant, en\ntant que pretre, je ne peux pas ignorer ce\ncorps blesse..."
     },
-    "277301": {
-        "「……あ　ああ。その話を　今から\n　こいつと　しようとしていたところだ。": "…Ah, ah. J'allais justement en discuter avec\nlui maintenant."
+    "299394": {
+        "「では……森か　どこかに行きました？\n　服は汚れて　葉っぱがついているし……\n　ほら　切りキズもできています。": "Alors... Seriez-vous alle dans la foret ou\nquelque part ? Vos vetements sont sales et\ncouverts de feuilles... Regardez, vous avez<br>meme des coupures."
     },
-    "277302": {
-        "「いいところに　間に合ったようだね。\n　それじゃ　アタイにも　聞かせておくれ。": "Il semble que tu sois arrive juste a temps.\nAlors, fais-moi ecouter ca aussi, Red Snapper."
+    "299395": {
+        "「少し　じっとしててくださいね……": "S'il vous plait, restez tranquille un\nmoment..."
     },
-    "277303": {
-        "「なんだい　騒々しいね……。": "Qu'est-ce que c'est tout ce vacarme...?"
+    "299396": {
+        "「……これで大丈夫です！": "...Avec ca, tout est en ordre !"
     },
-    "277304": {
-        "「秘宝の地図の持ち主が　ここにいるってぇのは\n　まちがいねぇんだろうなぁ？": "Le detenteur de la carte au tresor est bien\nici, n'est-ce pas ?"
+    "299397": {
+        "「彼女……サンの回復呪文は　よく効くでしょう？\n　サンは　まだ若いですが　優秀な僧侶なのです。": "Les sorts de recuperation de Her... san sont\ntres efficaces, n'est-ce pas ? San est encore\njeune, mais c'est un excellent pretre."
     },
-    "277305": {
-        "「なんだぁ？\n　ご同業が　来てるみてぇだなぁ？\n　へっへっへへへ。": "Qu'est-ce que c'est ? On dirait bien qu'un\ncollegue est venu nous rendre visite ? Heh heh\nheh heh."
+    "299398": {
+        "「日々の修練が　お役に立ったのであれば……\n　これ以上の　よろこびはありません。": "Si l'entrainement quotidien vous a ete\nutile... Je n'en suis que plus heureux."
     },
-    "277306": {
-        "「アンタは　ハルバルド海賊団の……。\n　ここで会ったが　百年目ってヤツだね。": "Vous etes des Halbard Pirates... C'est le\nmoment tant attendu de notre rencontre."
+    "299399": {
+        "「ですが　あなたは　ケガの治療のために\n　キリカ聖堂を訪れたわけでは　ないのでしょう？": "Mais, vous n'etes pas venu a la cathedrale\nKirika pour soigner une blessure, n'est-ce pas\n?"
     },
-    "277307": {
-        "「……だけど　取り込み中なんだ。\n　アンタは　お外で　待っててくれるかい？": "...Cependant, je suis un peu occupe en ce\nmoment. Pourrais-tu attendre dehors ?"
+    "299400": {
+        "<pc>は　地獄の門を封印するための\n聖具を作ってほしいと　話した。": "<pc> a demande de creer un artefact\nsacre pour sceller la Porte de l'Enfer."
     },
-    "277308": {
-        "「誰かと思ったら　マドロックのとこの\n　ウザったい　小娘じゃねぇか。\n　沈めずに　見逃してやったのに　邪魔する気か？": "Je me demandais qui c'etait, et voila que\nc'est cette petite peste de chez Madrock. Je\nt'ai laisse tranquille sans t'engloutir, et<br>maintenant tu viens me deranger ?"
+    "299401": {
+        "「なるほど。\n　守護騎士団の　ガーディアンでしたか。": "Je vois. C'etait donc le Gardien des\nChevaliers Protecteurs."
     },
-    "277309": {
-        "「秘宝の地図は　アタイら\n　マドロック海賊団が　ゆずり受ける。\n　アンタは　引っ込んでな　ハルバルド船長！": "Le tresor de la carte est maintenant entre les\nmains des Red Snapper et de l'equipage de\npirates Madrock. Toi, Captain Halbard, reste a<br>l'ecart !"
+    "299402": {
+        "「ガーディアン……？": "Garディアン？"
     },
-    "277310": {
-        "「こいつぁ　大きく　出たもんだ。\n　引っ込まなきゃ　どうするってんだぁ？": "Ce gars-la a vraiment ose. Que va-t-il faire\ns'il ne se retire pas ?"
+    "299403": {
+        "「そういう職業が　あるのです。\n　彼らは　地獄の門と呼ばれる　大きな脅威から\n　アストルティアを守るため　活動しています。": "Il existe des professions de ce type. Ils\nagissent pour proteger Astoltia d'une grande\nmenace appelee Gate of Hell."
     },
-    "277311": {
-        "「……こうするのさ！": "…Voila comment on fait !"
+    "299404": {
+        "「ガーディアンの活動には　我ら\n　キリカ修道会も　協力しているのですよ。": "Les activites des Gardiens beneficient\negalement de la cooperation de notre Ordre de\nKirika, vous savez."
     },
-    "277312": {
-        "「悪くねぇが　間合いが遠いなぁ。\n　もっと　グッと迫ってくんねぇと\n　その気に　なんないぜ。": "Pas mal, mais la distance est trop grande. Il\nfaut te rapprocher bien plus pour que je sois\nvraiment motive."
+    "299405": {
+        "「まあ……！　不勉強で　申し訳ありません。\n　<pc>さんは　そのような\n　すばらしい職業の方だったのですね！": "Eh bien... ! Je suis desole pour mon manque de\nconnaissances. <pc>-san avait donc une\nprofession aussi remarquable !"
     },
-    "277313": {
-        "「今のは　あいさつ代わりだよ。\n　ここじゃ　店に　迷惑かけちまうからね。\n　<pc>も　手を出すんじゃないよ。": "Ce n'etait qu'un salut. Ici, ca causerait des\nennuis au magasin. <pc>, ne t'en mele\npas."
+    "299406": {
+        "「地獄の門の　封印の件でしたら\n　聖堂の中にいる　シャクナゲという名の女性に\n　おたずねください。": "Si c'est au sujet du sceau de la Gate of Hell,\nveuillez vous adresser a une femme du nom de\nShakunage qui se trouve a l'interieur de la<br>cathedrale."
     },
-    "277314": {
-        "「へぇ……。面白そうだなぁ。\n　そんじゃ　ちょっくら　付き合うとするか。": "He... Ca a l'air interessant. Bon, je vais\nt'accompagner un moment."
+    "299407": {
+        "「私も　これで失礼します。\n　<pc>さん　ガーディアンのお仕事\n　がんばってくださいね！": "Je vais prendre conge maintenant.\n<pc>-san, bon courage pour votre travail\nde Gardien !"
     },
-    "277315": {
-        "「うおぉぉぉい　危ねぇだろうが！\n　なんでぇ　おめぇは！？": "Ouah ! Fais attention, c'est dangereux !\nQu'est-ce qui te prend, toi ?!"
+    "299408": {
+        "「みんな！\n　団長が　帰ってきたよ！": "Tout le monde ! Le chef est revenu !"
     },
-    "277316": {
-        "「私は　魔法戦士のゲーダム。\n　ヴェリナード王国　女王ディオーレ様の\n　御下命により　貴様を　逮捕する。": "Je suis Gedam, le guerrier mage. Sous les\nordres de Queen Diore-sama du royaume de\nVelinard, je suis ici pour t'arreter."
+    "299409": {
+        "「団長！": "Chef !"
     },
-    "277317": {
-        "「はっ　魔法戦士だぁ？\n　今　いいところなんだ。引っ込んでやがれっ！！": "Quoi ? Un guerrier-mage ? Je suis en plein\ndans quelque chose d'important. Degage d'ici !"
+    "299410": {
+        "「わーい　団チョじゃ～ん！\n　おっかえり～<heart>": "Wah, c'est le chef de la troupe ! Bienvenue a\nla maison <heart>"
     },
-    "277318": {
-        "「くそっ　なんだ　こいつ！？": "Merde, c'est quoi ce type !?"
+    "299411": {
+        "「<pc>は　まだ会ったことがなかったな。\n　彼は　ダンディオ団長。守護騎士団の団長で……\n　歴代でも　最強のガーディアンと呼ばれている。": "Je n'avais pas encore rencontre <pc>. Il\nest le Captain Dandio, le chef des Chevaliers\nGardiens... Il est considere comme le plus<br>puissant Gardien de tous les temps."
     },
-    "277319": {
-        "「ああっ　めんどくせぇっ！\n　相手をしてるのが　バカらしいぜっ！！": "Ah, c'est tellement penible ! C'est ridicule\nde continuer a s'occuper de ca !"
+    "299412": {
+        "「ただいま戻りました。\n　長い間　留守にしてしまって　すみません。": "Je suis de retour. Je suis desole d'avoir ete\nabsent si longtemps."
     },
-    "277320": {
-        "「地図は　おめぇらに　くれてやる。\n　だが　その地図だけじゃ　意味はねぇぜ。": "La carte, je vous la donne. Mais cette carte\nseule ne vous servira a rien."
+    "299413": {
+        "「守護騎士団の支援者である　各国の王への\n　定期報告です。六大陸の国々を　巡るのですから\n　時間が　かかるのは　仕方ありませんっ！": "C'est le rapport regulier aux rois de chaque\npays, qui sont les soutiens de l'Ordre des\nChevaliers Gardiens. Comme nous faisons le<br>tour des pays des six continents, cela prend\ndu temps, c'est inevitable !"
     },
-    "277321": {
-        "「なんせ　海神の秘宝の地図の　その半分は\n　このワシが　持ってるんだからよぉ！": "Apres tout, j'ai la moitie de la carte du\nTresor du Dieu de la Mer !"
+    "299414": {
+        "「ありがとう……おかげで　各国の王たちに\n　これまでと変わらぬ　守護騎士団への援助を\n　約束していただけましたよ。": "Merci beaucoup... Grace a vous, les rois des\ndifferents pays ont promis de continuer a\nsoutenir l'Ordre des Chevaliers Gardiens comme<br>avant."
     },
-    "277322": {
-        "「なんだって？\n　ソイツは　どういうことだい！？": "Quoi ? Qu'est-ce que ca signifie ?"
+    "299415": {
+        "「地獄の門は　アストルティア全土への脅威……。\n　門の監視と封印をになう　守護騎士団の重要性を\n　王たちは　理解していらっしゃいます。": "Gate of Hell est une menace pour toute\nl'Astoltia... Les rois comprennent\nl'importance des chevaliers gardiens, charges<br>de surveiller et de sceller cette porte."
     },
-    "277323": {
-        "「うわははははっ　あばよぉっ！！": "Ouhahaha, adieu !!"
+    "299416": {
+        "「ところで……プリゼーラ君。\n　僕が不在の間　問題は　ありませんでしたか？": "Au fait... Prisera-kun. Y a-t-il eu des\nproblemes pendant mon absence ?"
     },
-    "277324": {
-        "「<pc>　あとは　まかせるよ。\n　アタイは　ハルバルドを追ってみる！": "<pc>, je te laisse la suite. Quant a\nmoi, Red Snapper, je vais suivre HalbaLudo !"
+    "299417": {
+        "「はい　大丈夫ですっ！\n　ご不在中　何度か　地獄の門は開きましたが\n　魔物の討伐は　つつがなく終えています！": "Oui, tout va bien ! Pendant votre absence, la\nGate of Hell s'est ouverte plusieurs fois,\nmais l'extermination des monstres s'est<br>deroulee sans encombre !"
     },
-    "277325": {
-        "「悪党らしい　逃げ足の速さだな。\n　だが　見過ごすわけには　いかん……。": "C'est une rapidite de fuite digne d'un\nvaurien. Mais je ne peux pas les laisser\nfiler..."
+    "299418": {
+        "「僕が　定期報告を　済ませることができたのは\n　留守を　あずかってくれた\n　みなさんの　おかげです。ありがとう。": "Si j'ai pu faire mon rapport regulier, c'est\ngrace a vous tous qui avez pris soin des lieux\nen mon absence. Merci."
     },
-    "277326": {
-        "「海神の秘宝の地図と　言っていたな。\n　お前らは　それを　探しているのか？": "Vous parliez de la carte de la Richesse du\nDieu de la Mer, n'est-ce pas ? Est-ce que vous\nla cherchez ?"
+    "299419": {
+        "「これは　おみやげです。\n　みんなで　分けてください。": "Voici un souvenir. Veuillez le partager avec\ntout le monde."
     },
-    "277327": {
-        "「……まあいい。海賊団をつぶせば\n　すべて　終わる話だ。": "...... Eh bien, soit. Si nous eliminons\nl'equipage de pirates, tout sera regle."
+    "299420": {
+        "「これは……ドルワーム名物\n　『銘菓　砂漠の月』！\n　プリゼーラ　これ　大好きです……♪": "Ca, c'est... la specialite de Dolworm : le\n'Moon Desert Dessert' ! Prisera adore ca... ♪"
     },
-    "277328": {
-        "「おい　あんた！\n　オレの話の続き　聞かなくていいのか？\n　その気があるなら　酒場で　話そうぜ。": "He toi ! Tu ne veux pas entendre la suite de\nmon histoire ? Si ca t'interesse, allons en\ndiscuter a la taverne."
+    "299421": {
+        "「やあ　<pc>君。どうやら\n　ガーディアンに　なってくれたようですね。": "Bonjour, <pc>-kun. On dirait bien que tu\nes devenu un Gardien."
     },
-    "277329": {
-        "「アタイに　用って　なんだい？\n　また　漁から　帰ってこない船を\n　探しにいけとか　言うんじゃないだろうね！？": "Que veux-tu avec le Red Snapper ? Tu ne vas\ntout de meme pas encore me demander d'aller\nchercher un bateau qui n'est pas revenu de la<br>peche, n'est-ce pas ?"
+    "299422": {
+        "「ほら……僕ですよ。入団の儀式のときに\n　博愛の碑で　会ったでしょう？": "Regarde... c'est moi. Tu te souviens, on s'est\nrencontres lors de la ceremonie d'initiation,\ndevant le monument de la Bienveillance ?"
     },
-    "277330": {
-        "「いつから　アタイたちは　レンドアの\n　船舶管理局の　マネごとをするように\n　なったんだい！！": "Depuis quand les Red Snapper se sont-ils mis a\nimiter la gestion des navires de Lendor ?!"
+    "299423": {
+        "「僕は　定期報告の途中で　たまたま\n　立ち寄ったのですが　君に会えたおかげで\n　思いがけず　楽しい時間を過ごせました。": "Je suis passe ici par hasard pendant mon\nrapport regulier, mais grace a toi, j'ai passe\nun moment agreable et inattendu."
     },
-    "277331": {
-        "「……落ち着け　フレンジー。\n　この机に　罪はないぞ。": "Calme-toi, Frenzy. Ce bureau n'a rien fait de\nmal."
+    "299424": {
+        "「<pc>さんは　地獄の門の魔物とも\n　いい戦いをしていましたよ！\n　期待の新星ですっ！": "<pc>-san a livre un excellent combat\ncontre les monstres de la Porte de l'Enfer !\nC'est une etoile montante prometteuse !"
     },
-    "277332": {
-        "「お前は　すぐに　感情的になって\n　突っ走るクセがある。\n　それを　忠告しておこうと思ってな。": "Tu as tendance a te laisser emporter par tes\nemotions et a foncer tete baissee. Je voulais\nte prevenir a ce sujet."
+    "299425": {
+        "「ふん！　魔物を倒すだけなら\n　ここにいる誰でも　できますよ。": "Hmph ! N'importe qui ici peut vaincre un\nmonstre."
     },
-    "277333": {
-        "「なんだい。説教するために　呼んだのかい？\n　それなら　船舶管理局もどきのほうが\n　まだマシだよ。": "Qu'est-ce que c'est ? Tu m'as appele pour me\nfaire la lecon ? Dans ce cas, meme le bureau\nde gestion maritime improvise serait<br>preferable."
+    "299426": {
+        "「ははは……守護騎士団に　またひとり\n　頼もしい仲間が増えて　うれしいです。\n　……そうだ！": "Haha... Je suis ravi d'accueillir un nouveau\nmembre prometteur dans notre Ordre des\nChevaliers Protecteurs. ...Oh, c'est vrai !"
     },
-    "277334": {
-        "「……だけどさ　マドロック。\n　アタイたちは　海賊だろ？\n　もっと　らしいことを　しようじゃないか。": "Mais tu sais, Madrock. Les Red Snapper sont\ndes pirates, non ? Alors, faisons quelque\nchose de vraiment digne de ce nom."
+    "299427": {
+        "「<pc>君。\n　今から　君の入団式を　おこないませんか？<yesno><close>": "<pc>-kun. Veux-tu que nous procedions a\nta ceremonie d'admission maintenant\n?<yesno><close>"
     },
-    "277335": {
-        "「そうは言ってもな……\n　船は　修理中で　まだ動かせない。\n　できることは　限られている。": "Cela dit... Le navire est en cours de\nreparation et ne peut pas encore etre utilise.\nNos actions sont donc limitees."
+    "299428": {
+        "「まあまあ　そう言わずに……。\n　これも　守護騎士団の　伝統なんですよ。\n　そんなに時間も　かかりませんし……": "Allez, allez, ne dites pas ca… C'est aussi une\ntradition de l'Ordre des Chevaliers Gardiens.\nCela ne prendra pas beaucoup de temps non<br>plus…"
     },
-    "277336": {
-        "「お前たちが　くすぶっているのは　わかるが\n　今は　待つことだ。": "Je comprends que vous etes impatients, mais\npour l'instant, il faut attendre."
+    "299429": {
+        "「いい　お返事ですね。\n　それでは…………": "Bonne reponse. Alors, allons-y..."
     },
-    "277337": {
-        "「待つったって　何を……": "Attendre, mais quoi..."
+    "299430": {
+        "「総員　整列！": "Tous en rang !"
     },
-    "277338": {
-        "「船長　収穫アリでしたぜ！\n　例のお宝の　新しい情報が　手に入りやしたっ。": "Capitaine, bonne nouvelle ! Nous avons obtenu\nde nouvelles informations sur le fameux\ntresor."
+    "299431": {
+        "「我ら　ガーディアン\n　アストルティアを守護せし　牙持つ盾！\n　守るために戦いし　騎士なり！": "Nous sommes les GarDiens, Shields aux crocs\naiguises protegeant Astoltia ! Des chevaliers\nqui combattent pour defendre !"
     },
-    "277339": {
-        "「例のお宝って　海神の秘宝のことかい？\n　でかしたよ　タクホっ！": "Le fameux tresor, c'est le Sea God Wealth, tu\ncrois ? Bien joue, Takuho !"
+    "299432": {
+        "「我らが牙　己のため　振るうべからず！\n　悪のみを討ち　罪なき民を守る　正義の盾なり！": "Nos crocs ne doivent jamais etre brandis pour\nnotre propre interet ! Nous sommes les Shields\nde la justice, destines a combattre le mal et<br>a proteger les innocents !"
     },
-    "277340": {
-        "「ヘイ。じつは　その海神の秘宝らしき\n　お宝のありかの描かれた　地図を持つ者を\n　見つけることが　できやしてね。": "He. En fait, j'ai reussi a trouver quelqu'un\nqui possede une carte indiquant l'emplacement\ndu tresor appele Sea God Wealth."
+    "299433": {
+        "「<pc>！\n　汝の牙　正義のために研ぎ\n　捧げると　ここに誓え！": "<pc> ! Jure ici d'aiguiser tes crocs\npour la justice et de les offrir !"
     },
-    "277341": {
-        "「なんでも　そいつは　海神の秘宝を隠した\n　海賊の子孫だっていう　フレコミでして。": "On dit que ce type est un descendant des\npirates qui ont cache le Sea God Wealth."
+    "299434": {
+        "「よろしい！　守護騎士団は\n　ガーディアン　<pc>の入団を認める！": "Tres bien ! Nous acceptons l'entree de\n<pc> le Gardien dans l'Ordre des\nChevaliers Protecteurs !"
     },
-    "277342": {
-        "「すこしばかり　うさんくさい話だな。\n　ここは　慎重に……": "C'est une histoire un peu louche. Soyons\nprudents..."
+    "299435": {
+        "「……期待していますよ　<pc>君。\n　これから　一緒に　がんばりましょうね。": "...Je compte sur toi, <pc>-kun. A partir\nde maintenant, travaillons dur ensemble."
     },
-    "277343": {
-        "「そんなもん　そいつに会って\n　直接　たしかめりゃあ　いいじゃないか。\n　おくびょう者は　何も得られないよ！": "Dans ce cas, tu devrais aller le voir\ndirectement et verifier par toi-meme. Les\nlaches ne gagnent jamais rien !"
+    "299436": {
+        "「それでは　<pc>さん！\n　入団式も終わりましたし\n　今回の報酬を　受け取ってください！": "Alors, <pc>-san ! La ceremonie\nd'admission est terminee, veuillez recevoir\nvotre recompense cette fois-ci !"
     },
-    "277344": {
-        "「この件は　アタイに　まかせてもらうよ。\n　よ～し　らしくなってきたね！！": "Je vais laisser cette affaire a Red Snapper.\nBien, ca commence a ressembler a quelque chose\n!!"
+    "299437": {
+        "「守護騎士団では　任務が色々あります！\n　<pc>さんのこと　頼りにしてますし\n　プリゼーラたちのことも　頼ってくださいね！": "Au sein de l'Ordre des Chevaliers Protecteurs,\nnous avons diverses missions ! Nous comptons\nsur vous, <pc>-san, et n'hesitez pas a<br>vous appuyer egalement sur Prisera et les\nautres !"
     },
-    "277345": {
-        "「おい　タクホ。くわしい話を聞かせとくれ。\n　ほらっ　こっち　こっち！": "He, Takuho. Raconte-moi les details. Allez,\npar ici, par ici !"
-    },
-    "277346": {
-        "「ああなると　フレンジーは　止まらん。\n　そして　高確率で　何か　やらかすだろうな。": "Quand il en arrive la, Frenzy est inarretable.\nEt il y a de fortes chances qu'il fasse\nquelque chose de regrettable."
-    },
-    "277347": {
-        "「……<pc>。\n　フレンジーのあとを　追ってくれるか。\n　カタギの者に　迷惑をかけないようにしたい。": "......<pc>. Peux-tu suivre Frenzy ? Je\nveux eviter de causer des ennuis aux gens de\nKatagi."
-    },
-    "277348": {
-        "「甲板にいるタクホに　話を聞けば\n　フレンジーの向かった先が　わかるだろう。\n　すまんが　頼んだぞ。": "Parle a Takuho sur le pont, il saura te dire\nou Frenzy s'est dirige. Je compte sur toi."
+    "305777": {
+        "<pc>は　キリカ聖堂に向かった。": "<pc> se dirigea vers la cathedrale\nKirika."
     }
 }
