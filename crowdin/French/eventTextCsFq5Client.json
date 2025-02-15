@@ -1,41 +1,119 @@
 {
-    "67403": {
-        "「この遺跡こそ　試練の地……王者の座。 ": "Ces ruines sont le lieu d'epreuve... le Siege\ndu Souverain."
+    "67477": {
+        "「時の王者　<pc>さま。\n　この光を　ご覧ください。": "O <pc>-sama, souverain du temps.\nVeuillez observer cette lumiere."
     },
-    "67404": {
-        "「決して止むことのない　竜巻に守られて\n　幾星霜の時代を　経てきました。": "Protegee par une tornade qui ne cesse jamais,\nelle a traverse les ages et les epoques."
+    "67478": {
+        "「この光球こそが……　グレイナル叙事詩。": "Cette lumiere, cette Ball... c'est l'epopee\nGreinale."
     },
-    "67405": {
-        "「この遺跡に　入ることができるのは \n　すべての王者の武具を　身につけた者だけです。": "Seule une personne portant l'equipement de\ntous les rois peut entrer dans ces ruines."
+    "67479": {
+        "「叙事詩といっても　じつは書ではなく \n　かつての聖竜の　精神の残滓とでも呼ぶべき光が\n　過去の出来事を　私たちに伝えてくれるのです。": "Bien qu'on parle d'epopee, il ne s'agit pas\nd'un ecrit, mais plutot d'une lueur, qu'on\npourrait appeler les vestiges de l'esprit du<br>dragon sacre d'autrefois, qui nous transmet\nles evenements passes."
     },
-    "67406": {
-        "「王者の武具は　五大陸にある　各種族の王家\n　グレン　メギストリス　ヴェリナード \n　カミハルムイ　ドルワームに伝わっています。": "Les armes des rois sont transmises a travers\nles familles royales des cinq continents :\nGlen, Megistris, Verinard, Kamiharmui et<br>Dolworm."
+    "67480": {
+        "「それでは　叙事詩に問いかけてみましょう。 \n　我らの　歩むべき道を。": "Alors, interrogeons l'epopee. Le chemin que\nnous devons emprunter."
     },
-    "67407": {
-        "「世告げの姫たちが　各国の王家へ伝えています。\n　それらの国をお訪ねになれば　王者の武具の\n　在りかを知る者が　いることでしょう。": "Les princesses messageres informent les\nfamilles royales de chaque pays. Si vous\nvisitez ces royaumes, vous trouverez surement<br>quelqu'un qui connait l'emplacement des\nequipements royaux."
+    "67481": {
+        "「……………………。": "."
     },
-    "67408": {
-        "「すべての王者の武具が　そろいましたら\n　最後の儀式を　いたします。": "Lorsque toutes les armes du roi seront\nreunies, nous procederons au dernier rituel."
+    "67482": {
+        "「ロディアさま……？": "Rhodia-sama... ?"
     },
-    "67409": {
-        "「私は　落陽の草原にて　<pc>さまの\n　お戻りを　お待ちしています。王者の武具に\n　身を包み　私の所へ　お越しください。": "Je vous attends a Sunset Meadow,\n<pc>-sama. Veuillez venir me voir revetu\nde l'equipement du roi."
+    "67483": {
+        "「これは……凍えきった光……。 \n　幾星霜の年月を経たことで\n　今は　眠りについているようです。": "Ce... c'est une lumiere glacee... Apres tant\nd'annees, elle semble maintenant endormie."
     },
-    "67410": {
-        "<center>……よくぞ　ここまで　たどり着いた。": "......Tu as bien fait d'arriver jusqu'ici."
+    "67484": {
+        "「<pc>さま……。\n　我ら　世告げの姫に受け継がれてきた\n　伝承の中に　このようなものがございます。": "<pc>-sama... Dans les legendes\ntransmises aux princesses des oracles, il y a\nquelque chose comme ceci."
     },
-    "67411": {
-        "<center>私は　かつて　天上より舞い降りて\n聖竜グレイナルと共に　災厄に挑み……\n王者として　言い伝えられた者。": "Je suis celui qui, jadis, est descendu des\ncieux pour affronter les calamites aux cotes\ndu saint dragon GreiNaru... Celui dont on<br>parle comme un roi legendaire."
+    "67485": {
+        "「グレイナル叙事詩を　眠りから覚ますのならば\n　竜の火酒を　求めよ……。\n　火酒は　炎の山の火トカゲが生むだろう。": "Si tu souhaites reveiller l'epopee de Greiナル\nde son sommeil, cherche l'Eau-de-feu du\nDragon... Le feu liquide sera engendre par les<br>lezards de feu de la montagne enflammee."
     },
-    "67412": {
-        "<center>今の世に現れた　災厄と戦うために\n王者の資格を求める者よ……。": "Dans ce monde actuel, pour lutter contre les\ncalamites qui se sont abattues, toi qui\ncherches a obtenir le titre de roi..."
+    "67486": {
+        "「炎の山の火トカゲとは\n　ドワチャッカ大陸の　カルサドラ火山に生息する\n　赤き魔物　<%sEV_QUE_NAME0>のことです。": "Le lezard de feu de la montagne enflammee est\nune creature rouge vivant dans le Calsadora\nVolcano sur le continent de Dwachakka, appelee<br><%sEV_QUE_NAME0>."
     },
-    "67413": {
-        "<center>さあ　これを受け取るといい。\nそれは　どんな恐怖にも立ち向かう\n決して折れることのない勇気だ。": "Tiens, prends ceci. C'est un courage\ninebranlable qui te permettra d'affronter\ntoutes les peurs."
+    "67487": {
+        "「どうか　その魔物を倒し\n　竜の火酒を　手に入れてきてくださいまし。": "Je vous en prie, vainquez ce monstre et\nrapportez le Dragon's Firewater."
     },
-    "67414": {
-        "<center>そなたに　チカラを与えるのは\n私ばかりではない。": "Ce n'est pas seulement moi qui te donne de la\nforce."
+    "67488": {
+        "「……さすがは　<pc>さま。\n　グレイナル叙事詩を　目覚めさせるための\n　竜の火酒を　手に入れてきてくださいましたか。": "Comme on pouvait s'y attendre de la part de\n<pc>-sama. Vous avez reussi a obtenir le\nFirewater du Dragon pour reveiller l'epopee de<br>Greinal."
     },
-    "67415": {
-        "<center>かつて　世界のために命を懸けた\n勇ましき神話の戦士たちが　そなたの\n勇気ある戦いを　支えるだろう……。": "Les courageux guerriers mythiques qui ont\nautrefois risque leur vie pour le monde\nsoutiendront ton combat courageux..."
+    "67489": {
+        "ロディアに　竜の火酒を　渡しますか？<yesno><close>": "Voulez-vous donner le Dragon's Firewater a\nRhodia ? <yesno><close>"
+    },
+    "67490": {
+        "「竜の火酒がなければ　グレイナル叙事詩を\n　目覚めさせることはできません……。\n　<pc>さま　お願いいたします。": "Sans le Dragon's Firewater, il est impossible\nde reveiller l'epopee de Grinal... <pc>\nsama, je vous en prie."
+    },
+    "67491": {
+        "ロディアに　竜の火酒を　渡しますか？<yesno><close>": "Voulez-vous donner le Dragon's Firewater a\nRhodia ? <yesno><close>"
+    },
+    "67492": {
+        "<pc>は　ロディアに\n竜の火酒を　渡した。": "<pc> a remis le Dragon's Firewater a\nRhodia."
+    },
+    "67493": {
+        "「これが竜の火酒……\n　強い魔力を感じます。": "Voici le Dragon's Firewater... Je ressens une\npuissante magie."
+    },
+    "67494": {
+        "「聖竜よ。竜の火酒を　捧げます。\n　どうか　目をお覚ましください……。": "O Saint Dragon. J'offre le Dragon's Firewater.\nJe vous en prie, reveillez-vous..."
+    },
+    "67495": {
+        "ロディアは　竜の火酒を泉に注いだ。": "Rhodia a verse le Dragon's Firewater dans la\nfontaine."
+    },
+    "67496": {
+        "<center>……長い…あまりにも長い眠りじゃった。": "......Un long... un sommeil bien trop long."
+    },
+    "67497": {
+        "「……聖竜グレイナルよ。 \n　お目覚めを　待ち望んでおりました。": "O saint dragon Greinal. Nous attendions avec\nimpatience votre eveil."
+    },
+    "67498": {
+        "<center>ふう…………。\nふたたび　災厄の時が訪れたか。": "Pfiou... Le temps des calamites serait-il\nrevenu ?"
+    },
+    "67499": {
+        "<center>そして　そこの者よ。\n貴様が　時の王者……であるか？": "Et toi, la-bas. Es-tu le champion du temps...\n?"
+    },
+    "67500": {
+        "<center>貴様が　災厄の王への道を開くために\nわしを訪ねてきたこと\nこのグレイナル　すべて　お見通しである。": "Je savais deja que tu viendrais me voir pour\nouvrir la voie vers le King of Calamity. Rien\nn'echappe au grand Reinald."
+    },
+    "67501": {
+        "<center>……思いだすのう。\n初代王者と翔けた　あの空を。": "......Je me souviens. De ce ciel ou j'ai vole\navec le premier roi."
+    },
+    "67502": {
+        "<center>できることなら　わしの翼で　貴様を\n災厄の王が眠る地まで　導いてやりたいが\nこのような身体では　もはや飛べぬ。": "Si je le pouvais, j'aimerais te guider jusqu'a\nla terre ou repose le Roi des Calamites avec\nmes ailes. Mais dans cet etat, je ne peux plus<br>voler."
+    },
+    "67503": {
+        "<center>災厄は　長き眠りの時代を経て\n想像を絶するほどに\n強大な存在へと　変わり果てている。": "Apres une longue ere de sommeil, le fleau\ns'est transforme en une entite d'une puissance\ninimaginable."
+    },
+    "67504": {
+        "<center>ふたりめの王者の言うとおり\nもはや　王者ただひとりのチカラで\n打ち滅ぼすことなど不可能。": "Comme le dit le second champion, il est\ndesormais impossible de detruire tout cela\navec la seule force d'un unique roi."
+    },
+    "67505": {
+        "<center>ゆえに　わしが\n貴様に　新たなチカラを授けてやろう。": "C'est pourquoi je vais te conferer un nouveau\npouvoir."
+    },
+    "67506": {
+        "「これは……カギ……。": "C'est... la Cle..."
+    },
+    "67507": {
+        "<center>そのカギは　王者の資格を持つ者同士を\n巡り合わせるためのもの。": "Cette cle est destinee a reunir ceux qui\npossedent la qualification de roi."
+    },
+    "67508": {
+        "<center>名などない物だが……そうじゃな。\n王者のカギとでも　名付けるとしよう。": "Ce n'est pas vraiment un objet avec un nom...\nMais bon. Appelons-le la Cle du Roi, d'accord\n?"
+    },
+    "67509": {
+        "<center>そのカギに導かれ　集まった者同士が\n同盟を組んだならば　８人のチカラを結集して\n災厄の王に　挑むことができるじゃろう。": "Guides par cette cle, ceux qui se sont\nrassembles peuvent former une alliance, et en\nunissant la force des huit, ils pourront<br>defier le Roi des Calamites."
+    },
+    "67510": {
+        "<center>たとえ　ひとりでは敵わぬとも\n８人の王者のチカラが集えば\nかの災厄を　退けられるかもしれぬ。": "たとえ一人では敵わなくとも、 8人の王者の力が集まれば、\nその災厄を退けることができるかもしれない"
+    },
+    "67511": {
+        "<center>さあ　行け　時の王者よ。\n貴様自身の手で　地獄の門を開き\n地獄の中を翔けてゆけ！": "Allez, avance, o roi du temps. Ouvre la Gate\nof Hell de tes propres mains et traverse les\nenfers !"
+    },
+    "67512": {
+        "<center>わしは　今一度　長き…長き眠りにつき\n次代…の　到来…を待と…う……。": "Je vais a nouveau m'endormir pour un long,\ntres long sommeil... en attendant l'arrivee\nd'une nouvelle ere..."
+    },
+    "67513": {
+        "「時の王者　<pc>さま……。\n　私は　このカギを手に　落陽の草原へ戻り\n　<pc>さまを　お待ちいたします。": "O roi du temps, <pc>-sama... Je\nretournerai a Sunset Meadow avec cette cle en\nmain et j'attendrai votre arrivee,<br><pc>-sama."
+    },
+    "67514": {
+        "「ついに　災厄の王との決戦となります。 \n　充分に備えて　いらしてください。\n　どうか　こちらを戦いにお役立てくださいませ。": "Enfin, le moment est venu d'affronter le King\nof Calamity. Veuillez vous preparer\nadequatement et venez nous rejoindre. S'il<br>vous plait, utilisez ceci pour vous aider dans\nla bataille."
+    },
+    "67515": {
+        "「落陽の草原の　光の河……。\n　そこより　地獄の門を開きましょう。": "La riviere de lumiere de Sunset Meadow...\nC'est la que nous ouvrirons la Gate of Hell."
     }
 }
