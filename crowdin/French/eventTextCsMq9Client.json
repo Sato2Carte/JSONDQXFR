@@ -1,107 +1,293 @@
 {
-    "64158": {
-        "「……上の階にあった　ごっつい扉の向こうにゃ\n　すっげえ宝が　眠ってるはずなんだが\n　どうやって　入ったもんかなあ。": "...... Derriere la grande porte massive a\nl'etage superieur, un tresor incroyable doit\netre cache, mais comment y entrer ?"
+    "57035": {
+        "「ルシェンダさま。お呼びにより　参りました。\n　お話があるとのことですが……。": "Lushenda-sama. Je suis venue a votre appel.\nVous vouliez me parler..."
     },
-    "64159": {
-        "「うひょひょっ。オタカラ！　オタカラ！！\n　ほしっ。ほしいっ！": "Oh la la ! Un tresor ! Un tresor !! Je le\nveux. Je le veux !"
+    "57036": {
+        "「うむ。話というのは　他でもない。\n　古き神の遺跡での　戦いについてだ。": "Hum. Ce dont je veux parler, c'est la bataille\ndans les Historic Ruins."
     },
-    "64160": {
-        "「もう一度　あの扉を壊せないか\n　試してみましょうよ　モルバ団長。": "Essayons encore une fois de briser cette\nporte, Capitaine Morva."
+    "57037": {
+        "「魔元帥ゼルドラド……。あやつに対抗するには\n　アンルシアが　勇者として\n　より強く　成長しなければならないだろう。": "Marshal Zeldrad... Pour lui faire face,\nAnlucia devra devenir encore plus forte en\ntant que heroine."
     },
-    "64161": {
-        "「そうだよな　ワンゲに　ジトラよ。\n　やらないよりは　やっちまえ。\n　それが　砂漠の土竜の　モットーだったよな！": "C'est vrai, Wange et Jitora. Mieux vaut agir\nque de ne rien faire. C'etait notre devise,\nnous les taupes du desert !"
+    "57038": {
+        "「そのためには　代々の勇者たちが\n　悪しき魔の者を討つべく　生みだした技……。\n　破邪の秘技を　会得する必要があるのだ。": "Pour cela, il est necessaire de maitriser la\ntechnique secrete de destruction du mal, une\ncompetence creee par les heros de generations<br>en generations pour vaincre les etres\nmalefiques..."
     },
-    "64162": {
-        "「ぬひょあっ！　なんだ　貴様は！？": "Quoi !? Qui es-tu, toi !?"
+    "57039": {
+        "「破邪の秘技……。": "La technique secrete de purification du mal..."
     },
-    "64163": {
-        "「……ああん？　グランゼドーラの王家の墓を\n　荒らしませんでしたか……だと　このやろう！": "...... Ah ? Tu oses insinuer que je n'ai pas\nprofane la Royal Tomb de GlLMP Zedora...\nespece de salaud !"
+    "57040": {
+        "「もしや　私が　古き神の遺跡で\n　獣魔将ガルレイを　滅ぼしたときに使った技が\n　破邪の秘技なのでしょうか？": "Serait-ce que la technique que j'ai utilisee\npour detruire Gullray dans les Ruines\nHistoriques est le Secret de Purification ?"
     },
-    "64164": {
-        "「ああ　荒らしましたとも！\n　なんでも　王子が死んだって聞いたんでな。\n　最新のお宝を　ゲットできるチャンスだろが！": "Ah, bien sur que j'ai seme le chaos ! J'ai\nentendu dire que le prince etait mort. C'est\nune occasion en or pour recuperer les derniers<br>tresors, n'est-ce pas ?"
+    "57041": {
+        "「そうだ。あれこそは『勇者の光』。\n　覚醒した勇者が　最初から　会得している技だ。": "C'est ca. C'est bien 'La Lumiere du Heros'.\nC'est une technique que le heros eveille\nmaitrise des le debut."
     },
-    "64165": {
-        "「おあつらえ向きに　カギも開いてたしな。\n　棺の中にあった物は　売りさばいた後だ。\n　返せって言っても　返せねえから　あきらめな。": "Key etait ouvert au bon moment. Ce qui etait\ndans le cercueil a deja ete vendu. Meme si tu\nme demandes de le rendre, je ne peux pas,<br>alors abandonne."
+    "57042": {
+        "「そして　それ以外に　３つの技の会得方法が\n　叡智の冠の賢者たちに　伝わっている。\n　重要な使命の　ひとつとしてな。": "Et en plus de cela, il existe trois techniques\ndont la methode d'apprentissage a ete\ntransmise aux sages de la Couronne de la<br>Sagesse. C'est l'une des missions importantes,\nvois-tu."
     },
-    "64166": {
-        "「あのね。団長は今　このピラミッドの\n　開かずの扉の向こうにある宝物に　ご執心なの。\n　だから　邪魔しないでほしいわ。": "Tu sais, le chef de la troupe est en ce moment\ntotalement obsede par le tresor qui se trouve\nde l'autre cote de la porte fermee de cette<br>pyramide. Alors, j'aimerais que tu ne le\nderanges pas."
+    "57043": {
+        "「今こそ　叡智の冠の賢者たちが持つ\n　破邪の秘技の試練を　解放する時なのだ。": "Il est maintenant temps de liberer l'epreuve\nde la technique secrete de destruction du mal,\ndetenue par les sages de la Couronne de la<br>Sagesse."
     },
-    "64167": {
-        "「おうよ！　貴様も見たろう　あの石室の扉を。\n　あれほど　ガッチリと　閉じられた扉だ。\n　ものすっげえ宝が　オレを待ってるのさ！": "Oui ! Tu as aussi vu cette porte dans la\nchambre de pierre, n'est-ce pas ? Cette porte\netait fermee de maniere si hermetique. Un<br>tresor incroyable m'attend la-bas !"
+    "57044": {
+        "「アンルシアと　<pc>には\n　ともに　試練に　挑んでもらうことになる。\n　それまで　英気を養っていてくれ。": "Anlucia et <pc> devront tous deux\nrelever l'epreuve. D'ici la, reprenez des\nforces."
     },
-    "64168": {
-        "「そうゆーことなんでな。\n　今は　捕まるわけにゃ　いかねえ。\n　何者かは知らねえが　ここで死んどけ！": "Donc, c'est comme ca. Je ne peux pas me faire\nattraper maintenant. Je ne sais pas qui tu es,\nmais creve ici !"
+    "57045": {
+        "「はい　ルシェンダさま。\n　<pc>とともに　破邪の秘技の\n　会得を目指します。": "Oui, Lushenda-sama. Je vise a maitriser la\ntechnique secrete de purification avec\n<pc>."
     },
-    "64169": {
-        "「グゥルルルル……。": "Grroouuuh..."
+    "57046": {
+        "「話は以上だ。アンルシアは\n　こちらの準備が　ととのうまで\n　もうしばらく　部屋で　待っていてくれ。": "Voila, c'est tout pour l'instant. Anlucia,\nattends encore un peu dans ta chambre jusqu'a\nce que nous soyons prets."
     },
-    "64170": {
-        "「やれっ　グレイブディガー！\n　目の前の敵を　食らいつくせ～～～っ！！": "Vas-y, Grave Digger ! Devore l'ennemi devant\ntoi !!"
+    "57047": {
+        "「<pc>。そなたには\n　もうひとつ　頼みたいことがあるのだ。": "<pc>. J'ai encore une autre demande a te\nfaire."
     },
-    "64171": {
-        "「ギャオオオオオンッ！！": "Gyaooooon!!"
+    "57048": {
+        "「じつは　この城の地下には　賢者たちを\n　召集するための　秘密会議室があるのだが\n　装置が壊れて　使えなくなってしまったのだ。": "En realite, sous ce chateau se trouve une\nsalle de reunion secrete destinee a rassembler\nles sages, mais le dispositif est casse et<br>elle est devenue inutilisable."
     },
-    "64172": {
-        "「また　お前か……。\n　オレたち　砂漠の土竜の邪魔をするヤツは\n　誰であろうと　ゆるさねえ！": "Encore toi... Quiconque ose se mettre en\ntravers de notre chemin, nous, les taupes du\ndesert, ne sera pas pardonne !"
+    "57049": {
+        "「秘密会議室には　ミルトという私の従者がいる。\n　彼の話を聞き　装置の修理に\n　そなたの　チカラを貸してはくれんか。": "Dans la salle de reunion secrete, il y a mon\nserviteur nomme Milt. Pourrais-tu ecouter ce\nqu'il a a dire et preter ton aide pour reparer<br>l'appareil ?"
     },
-    "64173": {
-        "「やっちまえ　グレイブディガー！！": "Fais-le, Grave Digger !!"
+    "57050": {
+        "「通行許可は出したので　１階のエレベーターから\n　急ぎ　秘密会議室へ　向かってほしい。\n　よろしく頼むぞ　<pc>。": "J'ai delivre l'autorisation de passage, alors\nje te demande de te rendre rapidement a la\nsalle de reunion secrete depuis l'ascenseur du<br>premier etage. Je compte sur toi, <pc>."
     },
-    "64174": {
-        "「ギャオオオオオンッ！！": "Gyaooooon!!"
+    "57055": {
+        "「チャオー！ \n　バジェオじいさんの家へ　ようこそー！": "Ciao ! Bienvenue chez Bajeo-jii-san !"
     },
-    "64175": {
-        "「……あわわわわ。\n　グレイブディガーが　やられちまった……。": "Oh la la. Grave Digger a ete vaincu."
+    "57056": {
+        "「おやあ？　お前さんは　たしか\n　<pc>っちゅーんじゃったかの。\n　またなんか　エイブラムに頼まれたんか？": "Oh la la ? Toi, tu es bien celui qu'on appelle\n<pc>, n'est-ce pas ? Est-ce qu'Abram t'a\nencore demande quelque chose ?"
     },
-    "64176": {
-        "「すいませんでしたっ！\n　トーマ王子の墓に　手を出したのは\n　ほんの　デキごころ　なんですぅ。": "Je suis desole ! C'etait juste un moment\nd'egarement de ma part d'avoir touche a la\ntombe du Prince Toma."
+    "57057": {
+        "「……ああん？　グランゼドーラ城の\n　秘密会議室の装置を　直してほしいじゃと？": "Ah, vraiment ? Vous voulez que je repare le\ndispositif de la salle de reunion secrete du\nChateau de Gran Zedora ?"
     },
-    "64177": {
-        "「……え？　トーマ王子の遺体を\n　どこへ　やったのか……ですって？": "Quoi ? Vous me demandez ou se trouve le corps\ndu Prince Toma... ?"
+    "57058": {
+        "「お前さん　賢者ルシェンダと　知り合いなのか？\n　エイブラムの時といい　ずいぶんと\n　カオが　広いんじゃのう。": "Tu connais Sage Lushenda, toi ? Deja avec\nAbram, tu semblais avoir beaucoup de\nrelations."
     },
-    "64178": {
-        "「めめめ　めっそうもない！\n　ご遺体に　手を出すなんて\n　そんな　おっかないこと　できませんよ！！": "Non, non, non, c'est impensable ! Je ne\npourrais jamais faire quelque chose d'aussi\nterrible que toucher un corps !"
+    "57059": {
+        "「まあ　こっちも　あの会議室には\n　メンテナンスが必要な頃と　思っておったし\n　グッドな　タイミングじゃよ。": "Eh bien, je pensais qu'il etait temps\nd'effectuer un peu de maintenance dans cette\nsalle de reunion, donc c'est un bon timing,<br>comme un Red Snapper."
     },
-    "64179": {
-        "「王子の棺は　最初から　フタが開いてましたし\n　中には　遺体も　ありませんでした。": "Le cercueil du prince etait deja ouvert des le\ndepart, et il n'y avait pas de corps a\nl'interieur."
+    "57060": {
+        "「装置のどこが壊れたか　ワシには　わかっとる。\n　ただ　直すには　魔光レンズっちゅーのが必要で\n　これの在庫が　切れてやがるのよ。": "Je sais exactement quelle partie de l'appareil\nest cassee. Mais pour le reparer, il me faut\nun Magic Lens, et malheureusement, je suis a<br>court de stock."
     },
-    "64180": {
-        "「変だとは思いましたけど　お宝は残ってたので\n　それだけ　もらってきたんですよぉ。\n　本当なんです。信じてくださいぃ。": "Je trouvais ca etrange, mais comme le tresor\netait encore la, je l'ai pris quand meme.\nC'est la verite. Croyez-moi, s'il vous plait."
+    "57061": {
+        "「そこで　お前さん。\n　悪いんだが　魔光レンズを手に入れ\n　直接　秘密会議室まで　届けてくれんかね？": "La-bas, toi. Desole de te demander ca, mais\npourrais-tu obtenir une Magic Lens et la\nlivrer directement a la salle de reunion<br>secrete ?"
     },
-    "64181": {
-        "「そうよ。砂漠の土竜のモットーは\n　墓荒らしても　人権荒らすな。\n　遺体に　手を出すなんて　しないんだから！": "Exactement. La devise des Taupes du Desert est\n: piller les tombes, mais ne jamais bafouer la\ndignite humaine. Nous ne toucherions jamais<br>aux depouilles !"
+    "57062": {
+        "「魔光レンズは　このラギ雪原の北西辺りにいる\n　<%sEV_QUE_NAME0>を倒せば　落とすでな。\n　さくっと　手に入るじゃろ。": "Le Magic Lens peut etre obtenu en battant le\n<%sEV_QUE_NAME0> qui se trouve vers le\nnord-ouest de la plaine enneigee de L'Ragi. Ca<br>devrait etre facile a obtenir."
     },
-    "64182": {
-        "「盗掘団は解散して　悔い改めますんで\n　どうか　どうか　見逃してくだせぇまし！": "Le groupe de pilleurs est dissous et nous nous\nrepentons sincerement, alors je vous en prie,\npardonnez-nous !"
+    "57063": {
+        "「ワシも　支度が終わったら\n　すぐに　グランゼドーラ城に向かうからの。\n　お前さんも　急ぐんじゃぞ！": "Je vais egalement me preparer et me rendre\nimmediatement au chateau de Gran Zedora. Toi\naussi, depeche-toi !"
     },
-    "64183": {
-        "「うおーん。うおおーん！！": "Ouah... Ouah !!"
+    "57064": {
+        "「チャオー！ \n　バジェオじいさんの家へ　ようこそー！": "Ciao ! Bienvenue chez Bajeo-jii-san !"
     },
-    "64184": {
-        "「……そこまでだ！": "...C'est assez !"
+    "57065": {
+        "「……って　なんじゃ　<pc>か。\n　ワシはまだ　おでかけの支度中じゃよ。": "…Qu'est-ce que c'est, <pc> ? Je suis\nencore en train de me preparer pour sortir."
     },
-    "64185": {
-        "「ピラミッドを荒らす盗掘団　砂漠の土竜！\n　アラハギーロ王国　犯罪取り締まり担当官\n　ダラシュが　貴様たちを　逮捕しに来たぞ！": "Une bande de pilleurs saccage la pyramide, les\ntaupes du desert ! Darash, l'officier en\ncharge de la repression des crimes pour le<br>Royaume d'Al-Ahagiro, est venu vous arreter !"
+    "57066": {
+        "「グランゼドーラ城の　秘密会議室の修理に必要な\n　魔光レンズを　手に入れてくれたなら\n　直接　秘密会議室まで　届けてくれんか。": "Si tu parviens a te procurer une Lentille\nMagique necessaire pour la reparation de la\nsalle de reunion secrete du Chateau de Gran<br>Zedora, pourrais-tu la livrer directement a la\nsalle de reunion secrete ?"
     },
-    "64186": {
-        "「キミのことが　心配で来たんだけど\n　ちょうど　いいところに　出くわしちゃったよ。": "Je suis venu parce que je m'inquietais pour\ntoi, mais je suis tombe sur toi au bon moment."
+    "57067": {
+        "「まだ　手に入ってないんなら\n　このラギ雪原の北西辺りにもいる\n　<%sEV_QUE_NAME0>が　持っとるからな。": "Si vous ne l'avez pas encore obtenu, sachez\nque le <%sEV_QUE_NAME0> se trouve egalement au\nnord-ouest de la plaine enneigee de Lagi."
     },
-    "64187": {
-        "「悪いけど　コイツらは　ボクらが捕まえて\n　アラハギーロに　連行していくよ。\n　いやあ。本当に　ご苦労だったねえ。": "Desole, mais nous allons capturer ceux-la et\nles emmener a AraHagi-ro. Eh bien, vous vous\netes vraiment donne du mal, n'est-ce pas ?"
+    "57068": {
+        "「ワシも　支度が終わったら\n　すぐに　グランゼドーラ城に向かうからの。\n　お前さんも　急ぐんじゃぞ！": "Je vais egalement me preparer et me rendre\nimmediatement au chateau de Gran Zedora. Toi\naussi, depeche-toi !"
     },
-    "64188": {
-        "「ひぃいい～。本当に　オレたちは\n　王子のご遺体のことは　知らねぇんですぅ。\n　どうか　どうか……。": "Hiiii... Vraiment, nous ne savons rien a\npropos du corps du prince. Je vous en prie, je\nvous en prie..."
+    "57069": {
+        "「おっ。チャオチャオー！\n　バジェオじいさんは　待っておったぞー。": "Oh, salut, salut ! Le vieux Bajeo t'attendait."
     },
-    "64189": {
-        "「言いたいことがあるなら　城で聞こう。\n　ほらほら。キリキリと歩けよ。": "Si tu as quelque chose a dire, nous ecouterons\nau chateau. Allez, allez. Marche plus vite."
+    "57070": {
+        "「そんで　魔光レンズは\n　ちゃあんと　手に入ったんじゃろうな。\n　ワシに　渡してくれるか？": "Et alors, tu as bien reussi a obtenir la Magic\nLens, n'est-ce pas ? Peux-tu me la donner ?"
     },
-    "64190": {
-        "「信じてくだせえ～。本当なんですよぉ。\n　オレが　王家の墓に入ろうとしたとき\n　中から　誰か　出てきたんですぅ。": "Croyez-moi, je vous en prie~. C'est la verite.\nQuand j'ai essaye d'entrer dans le Royal Tomb,\nquelqu'un est sorti de l'interieur."
+    "57071": {
+        "バジェオに\n魔光レンズを　渡しますか？<yesno><close>": "Souhaitez-vous donner le Magic Lens a Bajeo ?\n<yesno><close>"
     },
-    "64191": {
-        "「カオとか　よく見えなかったけど\n　きっと　そいつが　王子の遺体を盗んだに\n　まちがいありません～！": "Je n'ai pas bien vu son visage, mais je suis\nsur que c'est lui qui a vole le corps du\nprince !"
+    "57072": {
+        "「お前さんが　魔光レンズを\n　持っていることは　先刻　お見通しよ。\n　ケチケチせんと　ワシに渡すんじゃ！": "Je sais deja que tu possedes une Magic Lens.\nArrete d'etre avare et donne-la-moi !"
     },
-    "64192": {
-        "「ひぃあああ～！！": "Hiiiiiii !!"
+    "57073": {
+        "<pc>は　バジェオに\n魔光レンズを　うばわれた！": "<pc> s'est fait voler sa Magic Lens par\nBajeo !"
+    },
+    "57074": {
+        "<pc>は　バジェオに\n魔光レンズを　渡した！": "<pc> a donne une Magic Lens a Bajeo !"
+    },
+    "57075": {
+        "「ふむ。これは　なかなかに\n　質の高い　魔光レンズじゃのう。\n　お前さん　よい仕事をするではないか！": "Hmmm. Voila un Magic Lens de haute qualite. Tu\nfais vraiment du bon travail !"
+    },
+    "57076": {
+        "「よし。さっそく　修理を始めちゃうとするぞ。\n　な～に。ワシの手にかかれば\n　こんなもん　お茶の子サイサイじゃ！": "Bien. Commencons immediatement les\nreparations. Ne t'inquiete pas. Entre mes\nmains, ce genre de chose, c'est un jeu<br>d'enfant !"
+    },
+    "57077": {
+        "バジェオは　秘密会議室の椅子と椅子の間を\n飛びまわるようにして　装置の修理を始めた。": "Bajeo commenca a reparer l'appareil en\nvirevoltant entre les chaises de la salle de\nreunion secrete."
+    },
+    "57078": {
+        "「ふいい～。終わった　終わった。\n　これで　バッチリコンと直ったはずじゃ。": "Ouf, c'est termine, termine. Avec ca, tout\ndevrait etre parfaitement repare."
+    },
+    "57079": {
+        "「<pc>。そろそろ\n　装置の修理が　終わったのではないか？": "<pc>. La reparation de l'appareil\nn'est-elle pas bientot terminee ?"
+    },
+    "57080": {
+        "「……しまった。\n　まだ　ここにいたとは　うかつ……。": "…Zut. Je ne m'attendais pas a ce que tu sois\nencore ici. Quelle imprudence de ma part..."
+    },
+    "57081": {
+        "「ルシェンダひぃばーさん！\n　ひっさしぶりじゃー！！": "Lushenda-baa-san ! Ca faisait longtemps !!"
+    },
+    "57082": {
+        "「……だから　お前を\n　ここに呼ぶのは　イヤだったのだ。": "…C'est pourquoi je ne voulais pas te faire\nvenir ici."
+    },
+    "57083": {
+        "「私を　ひぃばーさんと呼ぶなと\n　何度　言ったら　わかるのだっ！！": "Combien de fois devrai-je te dire de ne pas\nm'appeler grand-mere ?!"
+    },
+    "57084": {
+        "「だって　ルシェンダひぃばーさんは\n　正真正銘　ワシの　ひぃばーさんだし？": "Parce que grand-mere Lushenda est vraiment,\nvraiment ma grand-mere, non ?"
+    },
+    "57085": {
+        "「ええい　だまれ！！\n　とにかく　皆の前では　絶対に\n　ひぃばーさんなどと　呼んではならん！": "Silence !! De toute facon, devant tout le\nmonde, tu ne dois absolument pas m'appeler\ngrand-mere !"
+    },
+    "57086": {
+        "「はーい。わっかりましたのじゃー。\n　ルシェンダおねーさまが　怖いので\n　ワシは　となりの部屋に　引っ込みまーす。": "Oui, oui, j'ai compris. Puisque Lushenda\nonee-sama fait peur, je vais me retirer dans\nla piece d'a cote."
+    },
+    "57087": {
+        "「……すまんな　<pc>。\n　身内の恥を　さらしてしまった。\n　今　聞いたことは　忘れてほしい。": "Je suis desole, <pc>. J'ai expose la\nhonte de ma famille. J'aimerais que tu oublies\nce que tu viens d'entendre."
+    },
+    "57088": {
+        "「それよりも　装置の修理は終わったのだろう？\n　さっそく　叡智の冠の賢者たちを召集しよう。": "Mais avant tout, la reparation du dispositif\nest-elle terminee ? Rassemblons immediatement\nles sages de la Couronne de la Sagesse."
+    },
+    "57089": {
+        "「すまぬが　そなたは　アンルシアに\n　ここに来るように　伝えてきてくれ。\n　西の塔の３階の　自室にいるはずだ。": "Je suis desole, mais pourrais-tu aller dire a\nAnlucia de venir ici ? Elle devrait etre dans\nsa chambre au troisieme etage de la tour<br>Ouest."
+    },
+    "57090": {
+        "「では　頼んだぞ　<pc>。": "Je compte sur toi, <pc>."
+    },
+    "57091": {
+        "「……ふたたび　トーマ兄さまに\n　立ち向かうことになった時\n　私に　兄さまを倒すことができるの？": "Si je dois de nouveau affronter Toma-niisama,\nserais-je capable de le vaincre ?"
+    },
+    "57094": {
+        "「……それは　できません。": "......Je ne peux pas faire ca."
+    },
+    "57095": {
+        "「たとえ　どんな苦難が　待ち受けていようと\n　私は　もう　戦いから逃げたりはしない。\n　一緒に戦ってくれる人たちも　いるわ。": "Peu importe les epreuves qui nous attendent,\nje ne fuirai plus jamais le combat. Il y a des\ngens qui combattront a mes cotes."
+    },
+    "57097": {
+        "「アンルシア　お呼びにより　参りました。\n　<pc>。ルシェンダさまの所へ。": "Anlucia : Vous m'avez appelee, me voici.\n<pc>. Je vais chez Lushenda-sama."
+    },
+    "57098": {
+        "「よし。こちらの役者は　そろったな。\n　すぐに　叡智の冠の賢者たちを召集しよう。": "Tres bien. Nos acteurs sont en place.\nConvoquons immediatement les sages de la\nCouronne de Sagesse."
+    },
+    "57099": {
+        "「この装置は　遠方にいる者の姿を映しだし\n　会話もできるという　優れたものだ。\n　バジェオ！　始めてくれ。": "Cet appareil est remarquable, il peut projeter\nl'image de personnes eloignees et permettre de\nconverser avec elles. Bajeo ! Commence."
+    },
+    "57100": {
+        "「我々が　一堂に会するのは\n　まことに　久しぶりじゃな……と\n　ブロッゲンさまは　言っておらレール！": "Il est vraiment rare que nous soyons tous\nreunis... C'est ce que dit Broggen-sama !"
+    },
+    "57101": {
+        "「なんじゃ　ブロッゲン。\n　杖を使って　腹話術とは　いつの間に\n　そんな　ゆかいな芸を　身に付けたんじゃ？": "Qu'est-ce que c'est, Broggen ? Depuis quand\nas-tu appris cet amusant tour de ventriloquie\navec ton baton ?"
+    },
+    "57102": {
+        "「芸ではないのでアール　ホーローさま。\n　ワガハイは　ブロッゲンさまの意思を代弁する\n　世界に　ただひとつの　しゃべる杖でアール！": "Ce n'est pas un simple art, Aru Hollow-sama.\nJe suis le baton parlant unique au monde qui\nexprime la volonte de Broggen-sama, Aru !"
+    },
+    "57103": {
+        "「…………わしは　騒がしいのは好かん。\n　本題に　入ってもらえんか。": "Je n'aime pas le bruit. Pourriez-vous en venir\nau fait ?"
+    },
+    "57104": {
+        "「相変わらず　クールすぎるのう　エイドス。\n　そんなんじゃ　女の子に　モテんぞー。": "Tu es toujours aussi cool, Eidos. Avec cette\nattitude, tu ne vas pas attirer les filles !"
+    },
+    "57105": {
+        "「わしらを呼んだ以上　レンダーシアに\n　重大な事態が　起こっているはずじゃ。\n　少し　黙っておれ　ホーロー。": "Puisque vous nous avez appeles, cela signifie\nqu'un evenement grave se deroule a Lendashia.\nTais-toi un moment, Hollow."
+    },
+    "57106": {
+        "「叡智の冠の賢者諸君！\n　賢者エイドスの言うとおり\n　今　我々は　大きな危機を迎えている。": "O sages portant la couronne de la sagesse !\nComme l'a dit Sage Eidos, nous faisons face\nactuellement a une grande crise."
+    },
+    "57107": {
+        "「……大魔王マデサゴーラは　我々の世界を\n　自ら創りだした　偽の世界によって\n　侵食しようと　企んでいることが　判明した。": "Il a ete revele que Madesagora complote pour\nenvahir notre monde en utilisant le monde\nqu'il a lui-meme cree, le monde de F."
+    },
+    "57108": {
+        "「その企みを打ち破るため　勇者姫アンルシアに\n　破邪の秘技を　会得させるべく\n　諸君らの協力を　仰ぎたいのである。": "Pour dejouer ce complot, je souhaite demander\nvotre cooperation pour permettre a Hero\nAnlucia de maitriser la technique secrete de<br>l'exorcisme."
+    },
+    "57109": {
+        "「諸君らに託された　破邪の秘技の試練。\n　それを解放し　勇者姫アンルシアと\n　その盟友　<pc>に　与えてほしいのだ！": "A vous tous est confiee l'epreuve de la\ntechnique secrete de la purification.\nLiberez-la et accordez-la a Hero Anlucia et a<br>son allie <pc> !"
+    },
+    "57110": {
+        "「……ほう。ついに　勇者が盟友を得たか。\n　我々　叡智の冠の使命を\n　果たす時が来たというわけじゃな。": "Oh. Le heros a enfin trouve un allie. Le\nmoment est venu pour nous, la Couronne de la\nSagesse, d'accomplir notre mission."
+    },
+    "57111": {
+        "「うむ。かねてより　我々は\n　破邪の秘技の試練の準備を　進めておった。\n　すべては　この時のためじゃ。": "Hum. Depuis un certain temps deja, nous\npreparions l'epreuve de la technique secrete\nde destruction du mal. Tout cela etait en vue<br>de ce moment."
+    },
+    "57112": {
+        "「ブロッゲンさまは　破邪の秘技の\n　試練の準備は　最終段階にある……と\n　言っておらレール！": "Broggen-sama dit que les preparatifs pour\nl'epreuve de la technique secrete de\ndestruction du mal sont dans leur phase<br>finale..."
+    },
+    "57113": {
+        "「……勇者姫アンルシアよ。\n　破邪の秘技の試練は　厳しいものとなる。\n　覚悟は　できているのじゃろうな？": "......Heroine Anlucia. L'epreuve de la\ntechnique secrete de destruction du mal sera\nsevere. Es-tu prete a l'affronter ?"
+    },
+    "57114": {
+        "「はい　賢者の方々。\n　勇者として　チカラの限りを尽くし\n　試練を果たすことを　約束いたします！": "Oui, sages erudits. Je promets de donner toute\nma force en tant que heros et de surmonter les\nepreuves !"
+    },
+    "57115": {
+        "「<pc>ならば　必ずや\n　アンルシアちゃんを　助けてやれる。\n　試練なぞ　ノープロブレムよ。": "Si c'est <pc>, il pourra surement sauver\nAnlucia-chan. Les epreuves ne sont pas un\nprobleme."
+    },
+    "57116": {
+        "「……話は決まった。叡智の冠の賢者諸君は\n　破邪の秘技の試練解放を　急いでほしい。\n　では　解散とする！！": "La decision est prise. Sages de la Couronne de\nla Sagesse, je vous demande de vous hater dans\nla liberation de l'epreuve de la technique<br>secrete pour vaincre le mal. Maintenant, la\nreunion est levee !!"
+    },
+    "80272": {
+        "「勇者としての使命に　怖気づいたのか？": "Aurais-tu pris peur face a ta mission en tant\nque heros ?"
+    },
+    "80273": {
+        "「今からでも　遅くはないぞ。\n　私に　お前の勇者のチカラを　よこせばいい。": "Il n'est pas trop tard. Donne-moi ton pouvoir\nde heros."
+    },
+    "80274": {
+        "「……ならば　覚えておけ。\n　お前が　勇者として　どこまで戦えるのか\n　ずっと　私が見ているということを。": "Dans ce cas, souviens-toi de ceci. Je\nt'observerai constamment pour voir jusqu'ou tu\npeux te battre en tant que heros."
+    },
+    "80275": {
+        "「お前の心が折れた　その時。\n　私が　勇者のチカラを　もらい受ける。": "Le moment ou ton coeur se brisera. C'est a cet\ninstant que je recevrai le pouvoir du heros."
+    },
+    "80276": {
+        "「その時を　楽しみにしているぞ。\n　アンルシア……勇者よ…………。": "J'attends avec impatience ce moment.\nAnlucia... heroine..."
+    },
+    "80277": {
+        "「……私は　勇者としての使命を果たすわ。\n　命に代えて　私を守ってくれた\n　トーマ兄さまに　報いるためにも……。": "…Je vais accomplir ma mission en tant que\nheroine. Pour honorer Toma, mon frere aine,\nqui a donne sa vie pour me proteger…"
+    },
+    "80278": {
+        "「……あっ　<pc>。\n　この間は　情けないところを\n　見せてしまって　ごめんなさい。": "…Ah, <pc>. Je suis desole de t'avoir\nmontre un moment si pitoyable l'autre jour."
+    },
+    "80279": {
+        "「でも　もう　大丈夫よ。\n　これから　破邪の秘技を　身につけるのに\n　落ち込んでは　いられないわ。": "Mais maintenant, tout va bien. Je ne peux pas\nme laisser abattre alors que je vais apprendre\nla technique secrete de la purification."
+    },
+    "80280": {
+        "「えっ？　装置の修理が終わったから\n　秘密会議室へ　来てほしい……ですって？\n　ついに　賢者さまたちを　召集するのね！": "Hein ? La reparation de l'appareil est\nterminee, alors vous voulez que je vienne dans\nla salle de reunion secrete... c'est ca ?<br>Enfin, nous allons convoquer les sages !"
+    },
+    "80281": {
+        "「すぐに　秘密会議室へ向かうわ。\n　あなたは　先に行っていて　<pc>。": "Je vais me rendre immediatement a la salle de\nreunion secrete. Va devant moi, <pc>."
+    },
+    "85113": {
+        "どこからともなく　声が聞こえる。": "Une voix se fait entendre de nulle part."
+    },
+    "85114": {
+        "<pipipi_high>「識別番号００１２……確認。\n　０００１から許可発行……確認。\n　秘密会議室へ　移動します。": "<pipipi_high>Numero d'identification 0012...\nConfirme. Autorisation emise par 0001...\nConfirmee. Transfert vers la salle de reunion<br>secrete."
+    },
+    "85115": {
+        "エレベーターが　突然　急降下を始めた！": "L'ascenseur a soudainement commence a\ndescendre en chute libre !"
+    },
+    "85116": {
+        "どこからともなく　声が聞こえる。": "Une voix se fait entendre de nulle part."
+    },
+    "85117": {
+        "<pipipi_high>「識別番号００１２……確認。\n　０００１から許可発行……確認。\n　秘密会議室へ　移動します。": "<pipipi_high>Numero d'identification 0012...\nConfirme. Autorisation emise par 0001...\nConfirmee. Transfert vers la salle de reunion<br>secrete."
+    },
+    "85118": {
+        "エレベーターが　突然　急降下を始めた！": "L'ascenseur a soudainement commence a\ndescendre en chute libre !"
+    },
+    "86485": {
+        "「<pc>さま。今回　私からの依頼を\n　見事　果たしていただきましたので\n　報酬として　こちらをお納めください。": "<pc>-sama. Vous avez brillamment\naccompli la mission que je vous avais confiee.\nVeuillez accepter ceci en guise de recompense."
+    },
+    "86486": {
+        "「破邪の秘技の試練については\n　私から　お伝えすることになっています。\n　いつでも　お声を　おかけください。": "Je suis charge de vous informer sur l'epreuve\ndes Techniques de Purification du Mal.\nN'hesitez pas a me solliciter a tout moment."
+    },
+    "86487": {
+        "「破邪の秘技の　試練の話とは別に\n　私からも　ふたりに　与えたいものがある。\n　すまぬが　アンルシアの部屋へ場を移したい。": "En dehors de l'epreuve du secret de la\ntechnique de destruction du mal, j'ai aussi\nquelque chose que je veux vous donner a tous<br>les deux. Pardonnez-moi, mais j'aimerais que\nnous nous rendions dans la chambre d'Anlucia."
+    },
+    "86488": {
+        "「くわしいことは　向こうで　話すとしよう。": "Je te raconterai les details une fois la-bas."
+    },
+    "86489": {
+        "「はい　わかりました。ルシェンダさま。": "Oui, j'ai compris, Lushenda-sama."
+    },
+    "86490": {
+        "「<pc>も　いいかしら？\n　私の部屋へ　行きましょう。": "<pc>, tu es d'accord ? Allons dans ma\nchambre."
     }
 }
