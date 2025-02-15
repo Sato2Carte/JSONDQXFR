@@ -1,323 +1,104 @@
 {
-    "16148": {
-        "「マグナスよ　緊急の用件だ。\n　今から　リッグを伴って\n　スピンドル兵士長を　呼んできてくれ！": "Magnus, j'ai une affaire urgente. Accompagne\nRigg et va chercher le Capitaine Spindle !"
+    "21076": {
+        "<if_woman>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お姉ちゃん　ありがとね！<else>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お兄ちゃん　ありがとね！<endif>": "<if_woman>> Arrives, arrives ! Nous voila a\nMoRubble Camp ! C'etait assez loin, je suis\nsurprise ! Merci, grande soeur !<else>> Arrives, arrives ! Nous voila a MoRubble\nCamp ! C'etait assez loin, je suis surpris !\nMerci, grand frere ! <endif>"
     },
-    "16149": {
-        "「は　はあ。私が……ですか？": "Ah... C'est moi... ?"
+    "21077": {
+        "「さーて　賢者ブロッゲンさまは\n　どこにいるのかな……。": "Sage Broggen-sama, ou peut-il bien etre..."
     },
-    "16150": {
-        "「参謀である　お前が　呼びにいけば\n　スピンドルも　あわてて　駆けつけるじゃろう。\n　ほれ　さっさと行ってこい！": "En tant que stratege, si tu vas l'appeler,\nSpindle se depechera de venir. Allez, vas-y\nvite !"
+    "21078": {
+        "「あっ！　いたぞ！\n　賢者ブロッゲンさまだー！": "Ah ! Le voila ! C'est Sage Broggen-sama !"
     },
-    "16151": {
-        "「……仰せのままに。": "......Comme vous le souhaitez."
+    "21079": {
+        "「ブロッゲンさまだー！": "C'est Broggen-sama !"
     },
-    "16152": {
-        "「これで　人払いできたな。\n　さて……　相談というのは　他でもない。\n　例の　ガズバランの牙のことじゃ。": "Nous avons enfin reussi a eloigner les\ncurieux. Alors... ce dont je veux te parler\nn'est pas anodin. Il s'agit des crocs du<br>fameux GazbaLMP."
+    "21080": {
+        "「な　な　なんでアーールか！？\n　この　子供たちはっ！": "Pourquoi ? Pourquoi y a-t-il autant d'enfants\nici ?!"
     },
-    "16153": {
-        "「あれからも　ヤツらの行方を追っているのだが\n　まるで　こちらの行動を予知しているかのように\n　作戦の裏をかかれ　被害ばかり増えておる。": "Depuis lors, je continue de traquer ces\nindividus, mais c'est comme s'ils anticipaient\nnos mouvements. Ils dejouent nos plans et les<br>degats ne cessent d'augmenter."
+    "21082": {
+        "「キミたち　アグラニの子だね！？\n　こんな所まで来て　危ないでしょ！\n　いったい　親は……。": "Vous etes des enfants d'Agrani, n'est-ce pas\n!? C'est dangereux de venir jusqu'ici ! Ou\nsont vos parents... ?"
     },
-    "16154": {
-        "「正直　考えたくはないのだが……\n　わしは　ガズバランの牙に情報を流す\n　スパイの存在を　疑っておる。": "Je dois avouer que je prefere ne pas y penser,\nmais... Je soupconne l'existence d'un espion\nqui transmet des informations a GazbaLMP."
+    "21083": {
+        "「うわー　しゃべってる　しゃべってる！\n　見ろ　ココン！　先っちょが　パカパカしてる！\n　あそこから　声がするぞ！": "Waouh, ca parle, ca parle ! Regarde, Kokon !\nLe bout s'ouvre et se referme ! La voix vient\nde la-bas !"
     },
-    "16155": {
-        "「思えば　最初に　連中が現れたとき\n　ヤツらは　どうして　お忍びで行われた\n　狩りの現場に　現れることができたのか？": "En y repensant, la premiere fois qu'ils ont\nete P., comment ont-ils pu etre P. sur le\nterrain de P. lors de la chasse secrete ?"
+    "21084": {
+        "「わーい！　もっと　おはなししてー！\n　なか　どうなってるか　みせてー！": "Waouh ! Parle-moi encore plus ! Montre-moi ce\nqu'il y a a l'interieur !"
     },
-    "16156": {
-        "「あれが行われるのを　知り得たのは\n　狩りに参加したメンバーと\n　ザマ烽火台にいる　ジャンガのみ。": "Ceux qui savaient que cela allait se produire\netaient uniquement les membres ayant participe\na la chasse et Janga, qui se trouve a la tour<br>de guet de Zama."
+    "21085": {
+        "「中？　中って　なんのこと！？\n　どうしよう！　ブロッゲンさまは\n　今日も　ぐっすり　お休みだし……。": "Au milieu ? Qu'est-ce que tu veux dire par 'au\nmilieu' !? Que faire ? Le seigneur Bloggen\ndort profondement aujourd'hui encore..."
     },
-    "16157": {
-        "「その上で　前回の　ヤツらを捕らえる作戦を\n　事前に　知っていた者となると\n　さらに人数は　限られる……。": "Sur ce, si l'on considere ceux qui etaient au\ncourant du plan pour capturer ces types la\nderniere fois, le nombre de personnes se<br>reduit encore..."
+    "21086": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
     },
-    "16158": {
-        "「そう。お前さんと　ジャンガ以外の参加者。\n　参謀マグナス　スピンドル兵士長\n　近衛兵リッグ……この３人が　容疑者じゃ。": "Oui. Toi et Janga a part, les participants\nsont : Le stratege Magnus, Captain Spindle et\nle garde royal Rigg... Ces trois-la sont les<br>suspects."
+    "21087": {
+        "「ねえねえ　なんで　ブロッゲンさまは\n　いつも　眠ってるの？\n　どうして　代わりに　杖さんがしゃべるの？": "Dis, dis, pourquoi Broggen-sama est-il\ntoujours en train de dormir ? Pourquoi c'est\nle baton qui parle a sa place ?"
     },
-    "16159": {
-        "「<pc>よ。お前さんには　３人の中の\n　誰がスパイなのか　探りだすために\n　ワナを仕掛けるのを　手伝ってほしいのじゃ。": "<pc>. J'ai besoin de ton aide pour\ntendre un piege afin de decouvrir lequel des\ntrois est l'espion."
+    "21088": {
+        "「つえさんは　どこで　うまれたの？\n　おなまえって　あるの？\n　ヘンな　しゃべりかたなのは　なんで？": "Tsue-san, ou es-tu ne ? As-tu un nom ? Et\npourquoi parles-tu d'une maniere si etrange ?"
     },
-    "16160": {
-        "「これから　わしは　狩りの参加メンバーを\n　ギルザッド地方の南にある　狩人のほら穴の最奥\n　狩人の休憩所まで　誘いだすつもりじゃ。": "A partir de maintenant, je prevois d'inviter\nles membres participants a la chasse a se\nrendre a la zone de repos du chasseur, situee<br>au fond du Hunter's Den, au sud de la region\nde Gilzad."
+    "21089": {
+        "「あー！　同時に　たくさん\n　質問しないでほしいでアーーール！": "Ah ! Ne me posez pas tant de questions en meme\ntemps, je vous en prie !"
     },
-    "16161": {
-        "「理由は……急に　狩りがしたくなったとかで\n　いいじゃろう。わしが　城から出るとなれば\n　当然　スパイも　何か行動を起こすはずだ。": "La raison... Disons simplement que j'ai\nsoudainement eu envie de partir a la chasse.\nCela devrait suffire. Si je quitte le chateau,<br>les espions se mettront forcement a agir."
+    "21090": {
+        "こうして　賢者ブロッゲンの杖と\nナツィと　ココンの会話は\nふたりが飽きるまで　続いた。": "Ainsi, la conversation entre Nutsy, Kokon et\nle baton de Sage Broggen se poursuivit jusqu'a\nce que les deux se lassent."
     },
-    "16162": {
-        "「お前さんは　先に　狩人の休憩所に\n　隠れていて　スパイが判明したら\n　速やかに　そやつを取り押さえるのじゃ。": "Toi, va te cacher d'abord dans la zone de\nrepos des chasseurs. Quand le traitre sera\nidentifie, tu t'empares de lui sans tarder."
+    "21091": {
+        "「……あー！　面白かった。\n　杖さんと　いっぱい　お話ししちゃった。": "…Ah ! C'etait amusant. J'ai beaucoup discute\navec M. Baton."
     },
-    "16163": {
-        "「……危険な賭けであることは　承知の上。\n　だが　このまま　何もしないで　兵士たちの\n　被害を増やすことは　たえられん。": "... Je suis conscient que c'est un pari\ndangereux. Cependant, je ne peux pas rester\nles bras croises et voir les pertes parmi les<br>soldats augmenter."
+    "21092": {
+        "「ねえねえ　賢者ブロッゲンさま。\n　賢者さまは　この杖のスペアとか\n　持ってるんでしょ？": "He, Sage Broggen-sama. Dis, tu aurais un\ndouble de ce baton, n'est-ce pas ?"
     },
-    "16164": {
-        "「頼む　<pc>！\n　わしの　この作戦を手伝ってくれんか？": "Je t'en prie, <pc> ! Pourrais-tu m'aider\navec ce plan ?"
+    "21093": {
+        "「だからさ\n　この杖　ボクに　ちょうだ……": "Donc, ce baton, donne-le-moi..."
     },
-    "16165": {
-        "「さすが　<pc>は　話がわかるな。\n　もし　マグナスなんぞに打ち明けたら\n　絶対に　止められたじゃろうよ。": "Comme prevu, <pc> comprend bien la\nsituation. Si jamais nous avions confie cela a\nMagnus, il nous aurait assurement arretes."
+    "21094": {
+        "「杖に　さわるでないッ！！": "Ne touche pas au baton !"
     },
-    "16166": {
-        "「……っと　そろそろ　マグナスたちが\n　スピンドルを連れて　戻ってくるはず。\n　お前さんは　先に行っておるがよいぞ！": "...Hum, Magnus et les autres devraient bientot\nrevenir avec Spindle. Tu ferais mieux d'y\naller en avance !"
+    "21095": {
+        "「これは　お前たちのような\n　無垢な子供が　触れてよいものではない！": "Ce n'est pas quelque chose que des enfants\ninnocents comme vous devraient toucher !"
     },
-    "16167": {
-        "「その返事は　うれしく思うが……\n　どうやら　お前さん　\n　予定が　いっぱいのようじゃな。": "Je suis ravi de cette reponse... mais il\nsemble que tu aies un emploi du temps bien\ncharge."
+    "21096": {
+        "「この杖は　わしの犯した\n　罪で　できておるのだ……。": "Ce baton est forge par le peche que j'ai\ncommis..."
     },
-    "16168": {
-        "「よし。作戦開始は　しばらく待とう。\n　お前さんは　早く　頼まれごとを\n　片付けてくるのじゃ。": "D'accord. Attendons un peu avant de commencer\nl'operation. Toi, depeche-toi de t'occuper de\nla tache qui t'a ete confiee."
+    "21098": {
+        "「……シスター　世話になったな。\n　それでは　わしは　行くよ。": "Soeur, je vous suis reconnaissant pour tout.\nAlors, je pars maintenant."
     },
-    "16169": {
-        "「グロスナー王。\n　スピンドル兵士長は　自室にいませんでした。\n　どうやら　巡察に出かけているようです。": "King Grossner. Le capitaine Spindle n'etait\npas dans ses quartiers. Il semble qu'il soit\nparti en patrouille."
+    "21100": {
+        "「ふむ……。風のウワサに\n　気がかりなことを　耳にしたのでな……。\n　シスターも　不用意に　出歩かんことだ。": "Hmmm... J'ai entendu des rumeurs inquietantes\ndans le vent... Soeur, il serait imprudent de\nse promener sans precaution."
     },
-    "16170": {
-        "「どうしましょう？　\n　城下町のどこかには　いるでしょうから\n　人を使って　探させましょうか？": "Que devrions-nous faire ? Elle doit etre\nquelque part dans la ville basse,\ndevrions-nous envoyer quelqu'un la chercher ?"
+    "21101": {
+        "「では　さらばだ。": "Eh bien, adieu."
     },
-    "16171": {
-        "「……ああ　もういいぞ。\n　とりあえず　その件は　先送りだ。\n　ご苦労だったな　マグナスよ。": "Ah, c'est bon maintenant. Pour l'instant, nous\nallons mettre cette affaire en suspens. Tu\nt'es bien debrouille, Magnus."
+    "21102": {
+        "「ふむ。なかなか　ウデの立つ旅人のようだ。\n　……そうか。<pc>というのか。\n　子供たちを連れてきたのは　お前だな？": "Hum. Tu sembles etre un voyageur assez\ncompetent. ...Je vois. Tu t'appelles donc\n<pc>. C'est toi qui as amene les<br>enfants, n'est-ce pas ?"
     },
-    "16172": {
-        "「は…はあ。そうでしたか。": "Ah... Je vois. C'etait donc ca."
+    "21103": {
+        "「おお　<pc>ではないか。\n　しばらくぶりだな。\n　お前が　子供たちを連れてきたのか？": "Oh, mais c'est <pc> ! Cela fait un\nmoment. C'est toi qui a amene les enfants ?"
     },
-    "16173": {
-        "「今は　タイミングではないということか。\n　しかし　わしは　あきらめるつもりはないぞ。": "Il semblerait que ce ne soit pas encore le\nmoment pour le Red Snapperming. Cependant, je\nn'ai pas l'intention d'abandonner."
+    "21104": {
+        "「……子供の　まっすぐな心は　ときに残酷だ。\n　それに直面するたびに　わしは\n　心を　えぐりとられるような気分になる……。": "Le coeur pur des enfants peut parfois etre\ncruel. Chaque fois que je suis confronte a\ncela, j'ai l'impression que mon coeur est<br>arrache..."
     },
-    "16174": {
-        "「もし　気が変わったら　すぐ　わしに\n　声をかけてくれ。": "Si jamais tu changes d'avis, viens me parler\nimmediatement."
+    "21105": {
+        "「機会があったら　いずれ　また会おう。\n　ではな……。": "Si l'occasion se presente, nous nous reverrons\nun jour. Alors, au revoir..."
     },
-    "16175": {
-        "「グロスナー王。\n　スピンドル兵士長は　自室にいませんでした。\n　どうやら　巡察に出かけているようです。": "King Grossner. Le capitaine Spindle n'etait\npas dans ses quartiers. Il semble qu'il soit\nparti en patrouille."
+    "21106": {
+        "「……ボク　ちょっと\n　調子に乗りすぎちゃったかな……。\n　ブロッゲンさまを　怒らせちゃった。": "Je me suis peut-etre un peu trop laisse\nemporter... J'ai mis Broggen-sama en colere."
     },
-    "16176": {
-        "「どうしましょう？　\n　城下町のどこかには　いるでしょうから\n　人を使って　探させましょうか？": "Que devrions-nous faire ? Elle doit etre\nquelque part dans la ville basse,\ndevrions-nous envoyer quelqu'un la chercher ?"
+    "21107": {
+        "「あの杖が　ブロッゲンさまにとって\n　そんなに大事なものだったなんて\n　思わなかったよ……。": "Je ne pensais pas que ce baton etait si\nimportant pour Broggen-sama..."
     },
-    "16177": {
-        "「……ああ　もういいぞ。\n　とりあえず　その件は　先送りだ。\n　ご苦労だったな　マグナスよ。": "Ah, c'est bon maintenant. Pour l'instant, nous\nallons mettre cette affaire en suspens. Tu\nt'es bien debrouille, Magnus."
+    "21108": {
+        "<if_woman>「<pc>の　お姉ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<else>「<pc>の　お兄ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<endif>": "<if_woman>> Grande soeur de <pc>. Merci\nde m'avoir amene jusqu'ici ! Pour te\nremercier, viens jusqu'a Agrani.<else>> Grand frere de <pc>. Merci de m'avoir\namene jusqu'ici ! Pour te remercier, viens\njusqu'a Agrani. <endif>"
     },
-    "16178": {
-        "「は…はあ。そうでしたか。": "Ah... Je vois. C'etait donc ca."
+    "31636": {
+        "「誰かー　ヘルプミー！　でアールー……！": "Quelqu'un, aidez-moi ! S'il vous plait... !"
     },
-    "16179": {
-        "「マグナスよ　緊急の用件だ。\n　もう一度　リッグを伴って\n　スピンドル兵士長を　呼んできてくれ！": "Magnus, c'est urgent. Accompagne encore une\nfois Rigg et va chercher Captain Spindle !"
+    "32292": {
+        "「ホホホ。かわいらしい。\n　きっと　ブロッゲンさまの杖さまが\n　めずらしいのですわ。": "Hohoho. Quelle mignonne. C'est surement parce\nque la canne de Broggen-sama est inhabituelle."
     },
-    "16180": {
-        "「は　はあ。また……ですか？": "Ah... Encore... ?"
+    "32293": {
+        "「ま…まあ　そう怒りませんでも……。\n　子供たちも　ビックリしておりますわ。": "Ma... mais, ne vous fachez pas. Les enfants\nsont egalement tres surpris."
     },
-    "16181": {
-        "「何か　文句でもあるのか？": "Tu as quelque chose a redire ?"
-    },
-    "16182": {
-        "「……仰せのままに。": "......Comme vous le souhaitez."
-    },
-    "16183": {
-        "「……これでよし。": "…Voila, c'est bon."
-    },
-    "16184": {
-        "「さて　わしの前に顔を出したということは\n　例の作戦に　協力しようという気に\n　なったということだな？": "Alors, si tu t'es presente devant moi, cela\nsignifie que tu es pret a cooperer avec moi\npour le fameux plan, n'est-ce pas ?"
-    },
-    "16185": {
-        "「参謀マグナス　スピンドル兵士長　近衛兵リッグ\n　この３人の中から　スパイを見つけだすために\n　ワナを仕掛けようという作戦のことじゃ。": "Il s'agit d'un plan visant a tendre un piege\npour demasquer l'espion parmi ces trois\npersonnes : le stratege Magnus, le capitaine<br>Spindle et le garde royal Rigg."
-    },
-    "16186": {
-        "「これから　わしは　狩りがしたくなったと言って\n　３人を　ギルザッド地方の南にある\n　狩人のほら穴の最奥　狩人の休憩所に誘いだす。": "A partir de maintenant, j'ai dit que j'avais\nenvie de chasser et j'ai emmene les trois\npersonnes dans la partie la plus profonde de<br>la Hunter's Den, situee au sud de la region de\nGilzad, jusqu'a la zone de repos du chasseur."
-    },
-    "16187": {
-        "「これに反応して　行動を起こすであろうスパイを\n　先に行って　隠れていた　お前さんが\n　速やかに　取り押さえるという手はずじゃ。": "En reaction a cela, le plan est que toi, qui\nt'es cache plus tot, interviendras pour\nrapidement apprehender l'espion qui passera a<br>l'action."
-    },
-    "16188": {
-        "「……危険な賭けであることは　承知の上。\n　だが　このまま　何もしないで　兵士たちの\n　被害を増やすことには　たえられん。": "...Je suis conscient que c'est un pari\ndangereux. Cependant, je ne peux pas supporter\nde rester les bras croises et de voir les<br>pertes de nos soldats s'accumuler."
-    },
-    "16189": {
-        "「頼む　<pc>！\n　わしの　この作戦を手伝ってくれんか？": "Je t'en prie, <pc> ! Pourrais-tu m'aider\navec ce plan ?"
-    },
-    "16190": {
-        "「本気ですか　グロスナー王！？\n　このようなときに　魔物狩りに行かれるなど\n　正気の沙汰とは　思えませぬ！": "Etes-vous serieux, King Grossner !? Aller\nchasser des monstres en ce moment ne semble\npas etre une decision sensee !"
-    },
-    "16191": {
-        "「このようなとき　だからこそじゃ！\n　ガズバランの牙が　現れて以来\n　わしのストレスは　たまる一方……。": "C'est justement en ce moment que c'est\nimportant ! Depuis que les crocs de Gazuba LMP\nont ete P.es, mon stress ne fait<br>qu'augmenter..."
-    },
-    "16192": {
-        "「この辺りで　気晴らしをせんことには\n　心労で倒れてしまうわ！　そうなれば\n　それこそ　ヤツらの思うツボではないか！": "Je dois vraiment me detendre dans les parages,\nsinon je vais m'effondrer de stress ! Et si\ncela arrivait, ce serait exactement ce que ces<br>types veulent, n'est-ce pas ?"
-    },
-    "16193": {
-        "「御身の命が　狙われるかも知れぬときでも\n　魔物狩りを　行われようとは……\n　さすが　陛下は　肝が　すわってらっしゃる。": "Meme lorsque votre vie pourrait etre en\ndanger, vous vous engagez a chasser les\nmonstres... Sa Majeste a vraiment du courage."
-    },
-    "16194": {
-        "「兵士長！　あなたは　賛成するのですか？\n　このバカげた提案に……。": "Capitaine des soldats ! Etes-vous d'accord\navec cela ? Cette proposition insensee..."
-    },
-    "16195": {
-        "「リッグ！　近衛である　あなたからも\n　何か言ってやってください！": "Rigg ! En tant que membre de la garde, dis-lui\nquelque chose !"
-    },
-    "16196": {
-        "「私は……どこへ行くことになっても\n　ただ　ひたすら　王の身を守ることに\n　身命を尽くすのみです。": "Peu importe ou je dois aller, je consacrerai\ncorps et ame a la protection du roi."
-    },
-    "16197": {
-        "「ほれ　見たことか。\n　反対しているのは　お前ひとりではないか！": "Regarde, qu'est-ce que je te disais. Tu es le\nseul a etre contre !"
-    },
-    "16198": {
-        "「しかし　それでは……。": "Mais dans ce cas..."
-    },
-    "16199": {
-        "<cs_pchero>は　ものかげに　身をひそめた。": "<cs_pchero> se cache dans l'ombre."
-    },
-    "16200": {
-        "そして　そのまま　時が流れた……。": "Et ainsi, le temps passa..."
-    },
-    "16201": {
-        "「よし　着いたぞ！　今回の狩りでは\n　この洞穴を　集合場所にするとしよう！": "D'accord, nous sommes arrives ! Pour cette\nchasse, nous utiliserons cette caverne comme\npoint de rassemblement !"
-    },
-    "16202": {
-        "「さあ　それでは　魔物狩りを……": "Bien, passons maintenant a la chasse aux\nmonstres..."
-    },
-    "16203": {
-        "「ぐあっ！！": "Gwah !!"
-    },
-    "16204": {
-        "「まさか……　お前が　裏切り者だったとはな。": "Je n'aurais jamais cru... que tu serais le\ntraitre."
-    },
-    "16205": {
-        "「…………。": "..."
-    },
-    "16206": {
-        "「我ら　ガズバランの牙の目的は\n　堕落しきった　ガートラント王家を打倒し　\n　オーガの正しき生き様を　取り戻すこと……。": "Nous, les crocs de GazbaLMP, avons pour\nobjectif de renverser la famille royale\ncorrompue de GartoLMP et de restaurer la<br>veritable voie de vie des Ogres..."
-    },
-    "16207": {
-        "「このような　絶好の機会を\n　見逃すわけには　いきませんなぁ。": "Je ne peux pas laisser passer une telle\noccasion en or."
-    },
-    "16208": {
-        "「……フン。\n　そのような妄言には　つき合っておれん。\n　<cs_pchero>！　こやつを捕らえよ！": "...Hmph. Je n'ai pas de temps a perdre avec de\ntelles absurdites. <cs_pchero> ! Capture cet\nindividu !"
-    },
-    "16209": {
-        "「……なるほど。\n　どうも　おかしいと思っていたが\n　まんまと　ワナに　かけられたわけか。": "...Je vois. Je trouvais ca etrange, mais\nfinalement, je suis tombe dans le piege."
-    },
-    "16210": {
-        "「だが　そんなもの　我がチカラで\n　打ち破ってくれるわ！！": "Mais je vais briser cela avec ma puissance !!"
-    },
-    "16211": {
-        "「なっ！？　スピンドルが　魔物に……？\n　と　とにかく　まかせたぞ　<cs_pchero>！": "Quoi !? Spindle est devenu un monstre... ?\nQuoi qu'il en soit, je compte sur toi,\n<cs_pchero> !"
-    },
-    "16212": {
-        "「ガートラントの華　スピンドルの超絶剣技\n　今こそ　魅せてくれようぞ！！": "La splendeur de Gar et LMP ! Spindle,\nmontre-nous maintenant ta technique d'epee\nextraordinaire !"
-    },
-    "16213": {
-        "「遅いぞ　<cs_pchero>っ！\n　あまり　年寄りに　無理させるでない！": "Tu es lent, <cs_pchero> ! Ne force pas trop un\nvieil homme !"
-    },
-    "16214": {
-        "「どうやら　また　我が　華麗なる剣技で\n　切り刻まれたいようだな。": "On dirait que tu souhaites encore etre taille\nen pieces par ma technique d'epee elegante."
-    },
-    "16215": {
-        "「……いいだろう。\n　ガートラントの華　スピンドルの超絶剣技\n　何度でも　魅せてくれようぞ！！": "Tres bien. Le flamboyant GarトLMPト, la\ntechnique de l'epee extraordinaire de Spindle,\nje vais te la montrer autant de fois que<br>necessaire !!"
-    },
-    "16216": {
-        "「なんだ　これは……？\n　この　ぬいぐるみが　今の魔物の……\n　スピンドルの正体だったのか？": "Qu'est-ce que c'est que ca... ? Ce Costume de\nchat etait en fait le veritable visage du\nmonstre actuel... Etait-ce donc Spindle ?"
-    },
-    "16217": {
-        "「ワケが　わからぬことばかりだが……\n　とにかく　城に戻るとしよう。\n　お前さんに　礼も　せねばならぬしな。": "Je ne comprends rien a tout cela, mais...\nRetournons au chateau pour l'instant. Je dois\naussi te remercier."
-    },
-    "16218": {
-        "グロスナー王は　気絶していた\nマグナスと　リッグを　起こすと\nひと足先に　ガートラント城に戻っていった。": "King Grossner etait evanoui. Apres avoir\nreveille Magnus et Rigg, il est retourne au\nchateau de Gartlant un peu plus tot."
-    },
-    "16219": {
-        "「よく戻ってくれた　<pc>。\n　じつは　奇妙な事態に　なっておってな。\n　正直　わしも　混乱しておるのじゃが……。": "Te revoila, <pc>. En fait, nous sommes\nface a une situation etrange. Pour etre\nhonnete, moi aussi je suis un peu confus..."
-    },
-    "16220": {
-        "「とにかく　まずは　今回のはたらきに\n　報いねばな。": "En tout cas, nous devons tout d'abord\nrecompenser le travail accompli cette fois."
-    },
-    "16221": {
-        "「お前さんのおかげで　スパイが判明した。\n　礼を言うぞ　<pc>。\n　心ばかりの品だが　これを受け取ってくれ！": "Grace a toi, nous avons decouvert le traitre.\nJe te remercie, <pc>. Ce n'est pas\ngrand-chose, mais accepte ceci en signe de<br>gratitude !"
-    },
-    "16222": {
-        "「さて　それでは　何が起こっているのか　\n　説明したいのじゃが……\n　ううむ。なんと言ったものかのう？": "Bon, alors, j'aimerais expliquer ce qui se\npasse... Hmm. Comment devrais-je le dire ?"
-    },
-    "16223": {
-        "「じつはな。お前さんが　倒したはずの\n　スピンドルが　どういうわけか\n　ついさきほど　城内で　発見されたそうじゃ。": "En fait, il semblerait que le Spindle, que tu\netais cense avoir vaincu, ait ete retrouve\ndans le chateau il y a peu de temps."
-    },
-    "16224": {
-        "「あやつの部屋に　掃除に入った侍女が\n　気を失って　倒れているスピンドルを\n　見つけたということじゃ。": "La servante qui est entree pour nettoyer sa\nchambre a trouve Spindle evanoui par terre."
-    },
-    "16225": {
-        "「しかも　部屋に置いてあった人形が\n　急に　スピンドルの姿に変わったという\n　なんとも　信じがたい話でな……。": "De plus, la poupee qui etait posee dans la\npiece s'est soudainement transformee en\nSpindle. C'est une histoire vraiment difficile<br>a croire..."
-    },
-    "16226": {
-        "「スピンドルが　意識を取り戻したら\n　こちらに　連行する手はずです。\n　どうぞ　<pc>さんも　ご同席ください。": "Lorsque Spindle reprendra conscience, nous\navons prevu de l'emmener ici. <pc>-san,\nveuillez egalement vous joindre a nous."
-    },
-    "16227": {
-        "しばらくして　スピンドル兵士長が\n玉座の間に　連行されてきた。": "Un peu plus tard, le Capitaine Spindle fut\nconduit dans la salle du trone."
-    },
-    "16228": {
-        "「……では　そのチョコ神ぬいぐるみという人形が\n　突然　お前の姿に変身して　逆に　お前は\n　人形に　姿を変えられたと言うのじゃな？": "Donc, cette poupee appelee Costume de chat de\nla deesse du chocolat s'est soudainement\ntransformee en toi, et a l'inverse, toi, tu as<br>ete transforme en poupee, c'est bien cela ?"
-    },
-    "16229": {
-        "「まことに　面目次第もございませんが\n　その通りでございます。": "Je suis vraiment desole, mais c'est bien comme\nvous le dites."
-    },
-    "16230": {
-        "「すべては　あの妖しき人形の仕業。\n　この私が　スパイとなって　陛下を……\n　ガートラントを裏切るなど　ありえぬことです！": "Tout cela est l'oeuvre de cette etrange poupee.\nMoi, devenir un espion et trahir Sa Majeste...\nTrahir Gar et LMP est inconcevable !"
-    },
-    "16231": {
-        "「にわかには　信じがたい話じゃが　わしも\n　<pc>も　魔物化したスピンドルが\n　人形に　戻ったのを見ておるでな。": "Il est difficile de croire cette histoire,\nmais j'ai vu Spindle, qui s'etait transforme\nen monstre, redevenir une poupee, tout comme<br><pc>."
-    },
-    "16232": {
-        "「そもそも　どんな　バカげた話でも\n　お前が　わしを裏切ったという話よりは\n　信用できるというものじゃ。": "En fin de compte, meme la plus insensee des\nhistoires est plus credible que celle ou tu\nm'aurais trahi."
-    },
-    "16233": {
-        "「グロスナー王……。": "King Grossner..."
-    },
-    "16234": {
-        "「よく　無事に戻ってくれた　スピンドル。\n　これからも　変わらずに\n　わしの片腕として　はたらいてくれ！": "Je suis heureux que tu sois revenu sain et\nsauf, Spindle. Continue d'oeuvrer a mes cotes,\ncomme mon bras droit !"
-    },
-    "16235": {
-        "「なんと　ありがたき　お言葉……\n　このスピンドル　感激にたえませぬ。": "Quelle parole bienveillante... Je suis\nprofondement emu par votre gentillesse."
-    },
-    "16236": {
-        "「……しかしながら　グロスナー王。\n　それでは　私が　自分自身を許せませぬ。\n　どうか　謹慎処分を下されますよう。": "…Cependant, roi Grossner. Je ne peux me\npardonner moi-meme. Je vous prie de bien\nvouloir me sanctionner."
-    },
-    "16237": {
-        "「……ふむ。お前が　望むなら　仕方ない。\n　だが　罰としてではなく　あくまで\n　療養期間として　しばしのヒマを与えよう！": "Hmmm. Si tel est ton desir, je n'ai pas le\nchoix. Cependant, ce ne sera pas une punition,\nmais une periode de repos. Je vais donc<br>t'accorder un peu de temps libre !"
-    },
-    "16238": {
-        "「慈悲深き　お心づかい　感謝いたします。\n　では　私は　これにて……。": "Votre compassion et votre bienveillance me\ntouchent profondement. Je vais donc prendre\nconge..."
-    },
-    "16239": {
-        "「聞いての通りだ。\n　我らの敵は　妖しげな術を使って\n　スパイを送り込む　卑劣な連中のようだ。": "Comme vous l'avez entendu, notre ennemi semble\netre un groupe meprisable qui utilise des\ntechniques mysterieuses pour infiltrer des<br>espions parmi nous."
-    },
-    "16240": {
-        "「これ以上　ヤツらの勝手にはさせぬ！\n　ガズバランの牙よ　\n　今度こそ　目にもの見せてくれようぞ！": "Je ne laisserai plus ces types faire ce qu'ils\nveulent ! Que les crocs de GazbaLMP leur\nmontrent enfin de quoi ils sont capables !"
-    },
-    "28573": {
-        "「さすが　<pc>は　話がわかるな。\n　もし　マグナスなんぞに打ち明けたら\n　絶対に　止められたじゃろうよ。": "Comme prevu, <pc> comprend bien la\nsituation. Si jamais nous avions confie cela a\nMagnus, il nous aurait assurement arretes."
-    },
-    "28574": {
-        "「……っと　そろそろ　マグナスたちが\n　スピンドルを連れて　戻ってくるはず。\n　お前さんは　先に行っておるがよいぞ！": "...Hum, Magnus et les autres devraient bientot\nrevenir avec Spindle. Tu ferais mieux d'y\naller en avance !"
-    },
-    "28575": {
-        "「その返事は　うれしく思うが……\n　どうやら　お前さん　\n　予定が　いっぱいのようじゃな。": "Je suis ravi de cette reponse... mais il\nsemble que tu aies un emploi du temps bien\ncharge."
-    },
-    "28576": {
-        "「よし。作戦開始は　しばらく待とう。\n　お前さんは　早く　頼まれごとを\n　片付けてくるのじゃ。": "D'accord. Attendons un peu avant de commencer\nl'operation. Toi, depeche-toi de t'occuper de\nla tache qui t'a ete confiee."
-    },
-    "28577": {
-        "「グロスナー王。\n　スピンドル兵士長は　自室にいませんでした。\n　どうやら　巡察に出かけているようです。": "King Grossner. Le capitaine Spindle n'etait\npas dans ses quartiers. Il semble qu'il soit\nparti en patrouille."
-    },
-    "28578": {
-        "「どうしましょう？　\n　城下町のどこかには　いるでしょうから\n　人を使って　探させましょうか？": "Que devrions-nous faire ? Elle doit etre\nquelque part dans la ville basse,\ndevrions-nous envoyer quelqu'un la chercher ?"
-    },
-    "28579": {
-        "「……ああ　もういいぞ。\n　とりあえず　その件は　先送りだ。\n　ご苦労だったな　マグナスよ。": "Ah, c'est bon maintenant. Pour l'instant, nous\nallons mettre cette affaire en suspens. Tu\nt'es bien debrouille, Magnus."
-    },
-    "28580": {
-        "「は…はあ。そうでしたか。": "Ah... Je vois. C'etait donc ca."
-    },
-    "28581": {
-        "「今は　タイミングではないということか。\n　しかし　わしは　あきらめるつもりはないぞ。": "Il semblerait que ce ne soit pas encore le\nmoment pour le Red Snapperming. Cependant, je\nn'ai pas l'intention d'abandonner."
-    },
-    "28582": {
-        "「もし　気が変わったら　すぐ　わしに\n　声をかけてくれ。": "Si jamais tu changes d'avis, viens me parler\nimmediatement."
-    },
-    "28583": {
-        "「グロスナー王。\n　スピンドル兵士長は　自室にいませんでした。\n　どうやら　巡察に出かけているようです。": "King Grossner. Le capitaine Spindle n'etait\npas dans ses quartiers. Il semble qu'il soit\nparti en patrouille."
-    },
-    "28584": {
-        "「どうしましょう？　\n　城下町のどこかには　いるでしょうから\n　人を使って　探させましょうか？": "Que devrions-nous faire ? Elle doit etre\nquelque part dans la ville basse,\ndevrions-nous envoyer quelqu'un la chercher ?"
-    },
-    "28585": {
-        "「……ああ　もういいぞ。\n　とりあえず　その件は　先送りだ。\n　ご苦労だったな　マグナスよ。": "Ah, c'est bon maintenant. Pour l'instant, nous\nallons mettre cette affaire en suspens. Tu\nt'es bien debrouille, Magnus."
-    },
-    "28586": {
-        "「は…はあ。そうでしたか。": "Ah... Je vois. C'etait donc ca."
+    "32294": {
+        "「はい　お気をつけて。……ところで\n　世界の様子を見てまわると言って　旅立たれた\n　あなたさまが　なぜ　また戻られたのです？": "Oui, prenez soin de vous. ...Au fait, vous\naviez dit que vous partiez pour explorer le\nmonde. Pourquoi etes-vous revenu ?"
     }
 }
