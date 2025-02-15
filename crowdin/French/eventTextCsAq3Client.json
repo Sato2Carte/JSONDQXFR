@@ -1,242 +1,158 @@
 {
-    "18366": {
-        "「あっ。<pc>じゃん。\n　来てくれたんだ。ありがとね。": "Ah. C'est <pc>. Tu es venu. Merci."
+    "15548": {
+        "「おお　<pc>か。\n　よく来てくれたな。": "Oh, c'est toi, <pc>. Merci d'etre venu."
     },
-    "18367": {
-        "「帰りたい……。帰りたい……。": "Je veux rentrer chez moi... Je veux rentrer\nchez moi..."
+    "15549": {
+        "「村王に　用だったか？\n　残念だが　村王は　このところ不在がちでな。\n　また　来てもらえるか。": "Tu avais besoin de parler au roi du village ?\nMalheureusement, il est souvent absent ces\nderniers temps. Pourrais-tu revenir une autre<br>fois ?"
     },
-    "18368": {
-        "「この子さ　なーんも話さないの。\n　ラチ　あかないから\n　聞きだすのは　もう　あきらめたわ。": "Cette enfant, elle ne dit absolument rien. Ca\nne mene a rien, alors j'ai abandonne l'idee de\nla faire parler."
+    "15550": {
+        "「いや……。ちょっと待ってくれるか。": "Non... Peux-tu attendre un peu ?"
     },
-    "18369": {
-        "「まあ　ご飯は　しっかり食べてるから\n　身体のほうは　大丈夫みたいだけどね。": "Eh bien, je mange correctement, donc il semble\nque mon corps aille bien."
+    "15551": {
+        "「じつは　村王が　不在がちなことについて\n　相談があるのだ……。": "En fait, j'ai quelque chose a discuter au\nsujet des frequentes absences du roi de notre\nvillage..."
     },
-    "18370": {
-        "「それよりも……": "Plutot que ca..."
+    "15552": {
+        "「<pc>が　雪山から\n　村王を　救出してくれた日から\n　どうも村王は　様子が　おかしくてな。": "Depuis le jour ou <pc> a sauve le roi du\nvillage de la montagne enneigee, le roi du\nvillage a un comportement etrange."
     },
-    "18371": {
-        "「あたしね　最近ずっと\n　暗黒大樹と魔瘴の関連性っていう\n　論文を　書いてるのよ。": "Ces derniers temps, j'ai travaille sur une\nthese concernant le lien entre l'Arbre Sombre\net la miasme malefique."
+    "15553": {
+        "「先日の儀式のように　子供たちに何かを教えたり\n　自分の役目を　人に引き継いだり\n　次々に　身の回りの整理を　始めていてな……。": "Comme lors de la ceremonie de l'autre jour, il\na commence a enseigner quelque chose aux\nenfants, a transmettre ses responsabilites aux<br>autres, et a organiser peu a peu ses affaires\npersonnelles..."
     },
-    "18372": {
-        "「暗黒大樹が　魔瘴に及ぼす影響を\n　研究してるんだけどさ。\n　ちょっと　手伝っ………": "J'etudie l'impact du Grand Arbre Sombre sur la\nmiasme. Pourrais-tu m'aider un peu..."
+    "15554": {
+        "「最初は　トシを気にされてのことかと\n　見守っていたが　最近は　それも　少々\n　行き過ぎではないかと　感じるほどなのだ。": "Au debut, je pensais que c'etait une question\nd'age, alors je l'observais. Mais recemment,\nj'ai l'impression que cela va un peu trop<br>loin."
     },
-    "18373": {
-        "「あ…暗黒大樹！": "Ah... L'Arbre Sombre !"
+    "15555": {
+        "「まるで……村王は　この村を\n　出ていこうとでもしているのではないかと\n　思うほどに……。": "C'est presque comme si... le chef du village\nenvisageait de quitter ce village..."
     },
-    "18374": {
-        "「な…なにっ！？\n　いきなり　大声なんか出して\n　びっくりしたんだけど！": "Qu... Quoi !? Tu m'as surpris en criant si\nfort d'un coup !"
+    "15556": {
+        "「思いすごしであれば　よいのだが\n　<pc>には　村王が　村を不在にして\n　何をしているのかを　調べてほしいのだ。": "J'espere que ce n'est qu'une inquietude\nexcessive, mais j'aimerais que tu enquetes sur\nce que le roi du village fait en l'absence du<br>village a <pc>."
     },
-    "18375": {
-        "「暗黒大樹に行くの……？": "Tu vas aller a l'Arbre Sombre...?"
+    "15557": {
+        "「それさえわかれば　私も　安心できる。\n　もちろん　村王には　内密の上でだが\n　やってもらえるだろうか？": "Si je pouvais comprendre cela, je serais\nrassure. Bien sur, cela doit etre fait en\ntoute discretion vis-a-vis du roi du village.<br>Pourriez-vous le faire ?"
     },
-    "18376": {
-        "「うん。あたしじゃないけどね。\n　<pc>に　大樹付近の魔瘴を\n　調査してもらおうかな～って。": "Oui. Ce n'est pas moi, mais je pensais\ndemander a <pc> d'examiner le miasme\npres du Grand Arbre."
+    "15558": {
+        "「おおっ　本当か！　恩に着るぞ！": "Oh, vraiment ! Je te suis reconnaissant !"
     },
-    "18377": {
-        "「ボクも　ついてく。": "Je vais venir avec vous."
+    "15559": {
+        "「そういうことなら　まずは　村人たちから\n　目撃情報を集めるのが　よいだろう。\n　村王は　どこにいても　目立つからな。": "Dans ce cas, il serait sage de commencer par\nrecueillir des temoignages aupres des\nVillagers. Le roi du village ne passe jamais<br>inapercu, ou qu'il soit."
     },
-    "18378": {
-        "「はぁ？　なんで　あんたが行くのよ。": "Hein ? Pourquoi c'est toi qui y vas ?"
+    "15560": {
+        "「それでは　よろしく頼んだぞ！": "Je compte sur vous, alors !"
     },
-    "18379": {
-        "「……ボクも……行く……。行きたい……。": "......Moi aussi...... j'y vais...... Je veux y\naller......"
+    "15561": {
+        "「おおっ　恩に着るぞ……と言いたいところだが\n　どうやら　今は　頼まれごとが\n　いっぱいのようだな……。": "Oh, je te dois une fiere chandelle... c'est ce\nque j'aimerais dire, mais il semble que tu\naies deja beaucoup de demandes en cours..."
     },
-    "18380": {
-        "「……そんなに　行きたいの？": "......Tu veux vraiment y aller ?"
+    "15562": {
+        "「無理強いはできんが\n　できるなら　手を空けてきて\n　私の頼みを　聞いてほしいところだ。": "Je ne peux pas te forcer, mais si possible,\nj'aimerais que tu te liberes et ecoutes ma\ndemande."
     },
-    "18381": {
-        "「うん……。": "Hum..."
+    "15563": {
+        "「そ　そうか……。\n　では　気が変わったら　また来てくれ。\n　取りかえしのつかないことになる前にな……。": "Je... Je vois... Eh bien, si tu changes\nd'avis, reviens me voir. Avant que cela ne\ndevienne irreversible..."
     },
-    "18382": {
-        "「やれやれ。不思議な子ね。\n　なんか　意志が固いみたいだし\n　しょうがないっかな。": "Eh bien, eh bien. Quelle enfant etrange. On\ndirait qu'elle a une volonte de fer. Je\nsuppose qu'on n'y peut rien."
+    "15564": {
+        "「おお　<pc>。\n　また来てくれたか。\n　私の頼みを　聞いてくれるのだな？": "Oh, <pc>. Tu es revenu. Tu es pret a\necouter ma demande, n'est-ce pas ?"
     },
-    "18383": {
-        "「<pc>。頼みが　あるんだけど。\n　暗黒大樹に行って　その付近の魔瘴が\n　どうなってるか　調べてくれない？": "<pc>. J'ai une faveur a te demander.\nPourrais-tu te rendre a l'Arbre Sombre et\nverifier ce qu'il en est des miasmes dans les<br>environs ?"
+    "15565": {
+        "「<pc>が　雪山から\n　村王を　救出してくれた日から\n　どうも村王は　様子が　おかしくてな。": "Depuis le jour ou <pc> a sauve le roi du\nvillage de la montagne enneigee, le roi du\nvillage a un comportement etrange."
     },
-    "18384": {
-        "「この子も　一緒にってことになりそうだけど\n　どう？　お願いできるかな？": "Ce petit va probablement nous accompagner.\nQu'en penses-tu ? Pourrais-tu t'en charger ?"
+    "15566": {
+        "「次々に　身辺整理を始められ\n　まるで……村王は　この村から出ていこうとでも\n　お考えなのではないかと　思うほどに……。": "Il a commence a mettre de l'ordre dans ses\naffaires, comme si... on aurait dit que le\nchef du village envisageait de quitter ce<br>village..."
     },
-    "18385": {
-        "「サンキュー。\n　そんじゃ　ひとつ　よろしく～。": "Merci beaucoup. Allez, compte sur moi !"
+    "15567": {
+        "「<pc>には　村王が　何をしているのかを\n　調べてほしいのだ。もちろん　村王には\n　内密の上でな。やってもらえるか？": "Je veux que tu enquetes sur ce que fait le roi\ndu village de <pc>. Bien sur, tout cela\ndoit rester secret pour le roi du village.<br>Peux-tu t'en charger ?"
     },
-    "18386": {
-        "「って　あ…あれ？": "Quoi... Qu'est-ce que...?"
+    "15568": {
+        "「おお　<pc>。\n　村王が　何をしているかは\n　まだ調査中のようだな。": "Oh, <pc>. Il semble que l'on enquete\nencore sur ce que fait le roi du village."
     },
-    "18387": {
-        "「ボク　先に行ってる。": "Je vais y aller en premier."
+    "15569": {
+        "「調査の基本は足だ！　とにかく　村人たちから\n　目撃情報を集めるのが　よいだろう。\n　村王は　どこにいても　目立つからな。": "La base de toute enquete, c'est de bouger ! En\ntout cas, il serait bon de recueillir des\ntemoignages aupres des villageois. Le roi du<br>village se remarque ou qu'il soit."
     },
-    "18388": {
-        "「なんか　あせってるわね。\n　どうしちゃったのかしら。": "Je me demande pourquoi il semble si presse.\nQu'est-ce qui a bien pu se passer ?"
+    "15570": {
+        "「私も　ずいぶん　トシをとりました。\n　……なにしろ　あれから２０年です。": "Moi aussi, j'ai pris pas mal d'age. ...Apres\ntout, cela fait 20 ans depuis ce temps-la."
     },
-    "18389": {
-        "「暗黒大樹まで　けっこう遠いけど\n　よろしくね　<pc>。": "L'Arbre Sombre est assez loin, mais je compte\nsur toi, <pc>."
+    "15571": {
+        "「あなたの血を引く息子が　極限まで\n　きたえあげて……　わしを　殺しにきます。\n　きっと　想像を絶する強さでしょうな。": "Votre fils, qui herite de votre sang,\ns'entrainera jusqu'a l'extreme... et viendra\npour me tuer. Il sera surement d'une force<br>inimaginable."
     },
-    "18390": {
-        "「サンキュー。\n　そんじゃ　ひとつ　よろしく～。": "Merci beaucoup. Allez, compte sur moi !"
+    "15572": {
+        "「わしは　逃げも隠れもしません。\n　今　持っている　すべてのチカラで\n　ただ　受けて立つのみです……。": "Je ne fuirai pas, et je ne me cacherai pas.\nAvec toute la force que je possede maintenant,\nje ne fais qu'affronter."
     },
-    "18391": {
-        "「……って　あなた　ほかの人たちの\n　頼まれごとを　たくさん抱えてるみたいね。\n　てか　意外に　テキトーな性格だったんだ……。": "... On dirait que tu as beaucoup de demandes a\ngerer de la part des autres. En fait, je ne\npensais pas que tu avais un caractere aussi<br>insouciant..."
+    "15573": {
+        "「おお　<pc>……か？\n　こんな所で　いったい何を……": "Oh, <pc>... ? Que fais-tu dans un\nendroit pareil... ?"
     },
-    "18392": {
-        "「あたしのは　後でいいから\n　先に　そっちを片付けてきて　大丈夫よ。": "Je m'occuperai de mon cote plus tard, alors\ncommence par regler ca la-bas, d'accord."
+    "15574": {
+        "「……なるほど。\n　おおかた　ギュランのやつが探させたのだろう。\n　まったく　あいつは　心配性だな。": "… Je vois. C'est surement ce cher Guran qui\nt'a envoye me chercher. Il est vraiment d'un\nnature inquiete, celui-la."
     },
-    "18393": {
-        "「おおっと　そうきたかー。\n　あ　いいよ。別に　気にしてないし。": "Oh, alors c'est comme ca, hein. Ah, c'est bon.\nJe ne m'en fais pas du tout."
+    "15575": {
+        "「ギュランは　子供の頃から　身体が弱かった。\n　だが　生来の負けず嫌いでな。\n　身体が弱い分　とにかく熱心に勉強した。": "Guran a toujours eu une sante fragile depuis\nson enfance. Mais, il a un esprit combatif\ninne. En raison de sa faiblesse physique, il<br>s'est alors plonge avec passion dans ses\netudes."
     },
-    "18394": {
-        "「ホント言うと　あなた　頼りになるから\n　手伝ってくれると　うれしいんだけどね。\n　んー　どうしよっかなあ。": "En verite, tu es vraiment quelqu'un de fiable,\nalors ca me ferait plaisir si tu pouvais\nm'aider. Hmm, que devrais-je faire..."
+    "15576": {
+        "「そのかいあって　今では　オーガの中では\n　飛び抜けて　アタマがいい。わしは　あいつの\n　そんなところを気に入って　側近にした。": "Grace a cela, maintenant, parmi les Ogre, il\nest exceptionnellement intelligent. J'ai\napprecie cette qualite chez lui et l'ai choisi<br>comme proche conseiller."
     },
-    "18395": {
-        "「あっ。<pc>じゃん。\n　来てくれたんだ。ありがとね。": "Ah. C'est <pc>. Tu es venu. Merci."
+    "15577": {
+        "「しかし……　ギュランに\n　心配をかけたのは　無理もなかったか……。": "Cependant... il n'etait pas surprenant que\ncela ait inquiete Guran..."
     },
-    "18396": {
-        "「さっそく　頼みが　あるんだけど。\n　暗黒大樹に行って　その付近の魔瘴が\n　どうなってるか　調べてくれない？": "J'ai une faveur a te demander. Peux-tu te\nrendre a l'Arbre des Tenebres et examiner ce\nqui se passe avec la malveillance environnante<br>?"
+    "15578": {
+        "「<pc>よ。この墓はな　わしが若い頃\n　互いに切磋琢磨した　兄貴分の墓なのだ。": "<pc>. Cette tombe appartient a un frere\nd'armes avec qui je me suis mesure lorsque\nj'etais jeune."
     },
-    "18397": {
-        "「この子も　一緒になんだけど\n　どう？　お願いできるかな？": "Cette enfant va venir avec nous. Qu'en\npenses-tu ? Pourrais-tu t'en occuper ?"
+    "15579": {
+        "「名を　ガガベスといった。\n　わしなどよりも　はるかに強く　史上最強の\n　チャンピオンと呼ばれた　村の英雄だった。": "Il se nommait Gagabess. Bien plus puissant que\nmoi, il etait le heros du village, reconnu\ncomme le champion le plus fort de l'histoire."
     },
-    "18398": {
-        "「あ…あれは。": "Ah... ca, c'est..."
+    "15580": {
+        "「わしは　何度　挑んでも\n　まったく　ガガベスに　歯が立たなかった。\n　だが　ある日の　試合でのことだ……。": "Je n'avais jamais reussi a vaincre Gagabes,\npeu importe combien de fois je l'ai defie.\nMais lors d'un certain match, quelque chose<br>s'est passe..."
     },
-    "18399": {
-        "「魔瘴が　増えてる……。": "Les miasmes se multiplient..."
+    "15581": {
+        "「わしの拳が　吸い込まれるように\n　ガガベスの　みぞおちに入ってしまった……。": "Mon poing s'est glisse comme aspire dans le\ncreux de l'estomac de Gagabes..."
     },
-    "18400": {
-        "「パパ……。ボク　帰ってきたよ。": "Papa... Je suis rentre."
+    "15582": {
+        "「それは　ただの幸運な一撃に過ぎなかった。\n　だが　ガガベスは　その一撃によって\n　そのまま　武闘場の上で　この世を去ったのだ。": "Ce n'etait rien de plus qu'un coup de chance.\nCependant, ce coup a suffi pour que Gagabes\nquitte ce monde, la-meme sur le ring du<br>tournoi."
     },
-    "18401": {
-        "「い…今の　見たでしょ？\n　ボク　魔瘴の中でも　平気だよ。\n　だから　ここで　ずっと暮らせる……。": "Tu... tu as vu ca, n'est-ce pas ? Moi, je suis\na l'aise meme au milieu des miasmes. C'est\npourquoi je peux vivre ici pour toujours..."
+    "15583": {
+        "「あまりのことに　わしは唖然としていたが\n　新たなチャンピオンの誕生に\n　村の人々は　沸き返った。": "J'etais stupefait par la tournure des\nevenements, mais les villageois se\nrejouissaient de la naissance d'un nouveau<br>champion."
     },
-    "18402": {
-        "「ムリだ。\n　お前　耐えられるの　うすい魔瘴だけ。": "C'est impossible. Tu ne peux supporter que la\nfine miasma."
+    "15584": {
+        "「当時のランガーオ村は　なによりも\n　勝つことこそが　尊ばれた時代だったのだ。": "A l'epoque, le village de Langao valorisait\navant tout la victoire."
     },
-    "18403": {
-        "「もうすぐ　大樹\n　濃い魔瘴で　包まれる。\n　その時　お前　死ぬだけ。": "Bientot, le Grand Arbre sera enveloppe d'une\nepaisse aura malefique. A ce moment-la, tu ne\nferas que mourir."
+    "15585": {
+        "「そして　敗者には　残酷な仕打ちが与えられた。\n　英雄だったガガベスの地位は\n　死によって　一瞬にして　地に墜ちた。": "Et ainsi, une punition cruelle fut infligee au\nperdant. La position de heros qu'occupait\nGagabes chuta en un instant avec sa mort."
     },
-    "18404": {
-        "「去れ。": "Va-t'en."
+    "15586": {
+        "「ガガベスには　奥さんと　息子がいたが\n　それ以来　弱き者の家族として　しいたげられ\n　ひどく貧しい生活を　強いられたと聞く……。": "On dit que Gagabes avait une femme et un fils,\nmais depuis lors, en tant que famille de\nquelqu'un de faible, ils ont ete opprimes et<br>contraints de mener une vie de grande\npauvrete..."
     },
-    "18405": {
-        "「で…でも　ここは　ボクの家なんだ。": "Ma... mais c'est chez moi ici."
+    "15587": {
+        "「苦労がたたってか　奥さんは　数年後になくなり\n　息子が　ひとり残された。": "Apres avoir endure tant de difficultes, sa\nfemme est decedee quelques annees plus tard,\nlaissant leur fils seul."
     },
-    "18406": {
-        "「ここを　追いだされたら\n　ボ…ボク　どこへ行けば……。": "Si je suis chasse d'ici... Ou pourrais-je\naller...?"
+    "15588": {
+        "「その息子の名は　ガガイ……。\n　当時　まだ６才だったガガイは\n　ある日　わしの前に来て　こう言った。": "Le nom de ce fils etait Gagai... A l'epoque,\nGagai n'avait que 6 ans. Un jour, il est venu\nme voir et a dit ceci."
     },
-    "18407": {
-        "「忘れるな。お前　エルフ。": "N'oublie pas. Toi, Elfe."
+    "15589": {
+        "「いつか　必ず　お前を殺す。\n　そのために　どんなことでもする……とな。": "Un jour, je te tuerai. Pour cela, je ferai\nn'importe quoi... voila."
     },
-    "18408": {
-        "「エルフの住む場所　ここじゃない。": "Ce n'est pas ici que vivent les Elfes."
+    "15590": {
+        "「……今から　２０年前のことだ。\n　ガガイは　そのまま村を出ていき　ずっと\n　生きているかどうかさえ　わからなかった。": "C'etait il y a 20 ans. Gagai a quitte le\nvillage et je ne savais meme pas s'il etait\nencore en vie."
     },
-    "18409": {
-        "「き…聞こえてた？\n　大樹の長……。今のが　ボクのパパだよ。": "Tu as... entendu ? Tree Chief... C'etait mon\npapa."
+    "15591": {
+        "「そして　お前に助けてもらった　あの日……\n　そのガガイから　手紙が来たのだ。": "Et puis, ce jour-la ou tu m'as aide... J'ai\nrecu une lettre de Gagai."
     },
-    "18410": {
-        "「ボク　パパに拾われて\n　小さいころから\n　ずっと　ここで育ったの。": "Mon papa m'a trouve, et depuis que je suis\npetit, j'ai grandi ici."
+    "15592": {
+        "「手紙には　ただ一言　こう書いてあった。\n　お前を　殺しにいく……とな。": "La lettre ne contenait qu'un seul mot : Je\nviens te tuer..."
     },
-    "18411": {
-        "「でも　大きくなって　パパに言われたの。\n　エルフが　ここにいるべきでないって。\n　ボク　大樹から追いだされたんだ……。": "Mais en grandissant, papa m'a dit quelque\nchose. Que les elfes ne devraient pas etre\nici. J'ai ete chasse du grand arbre..."
+    "15593": {
+        "「わしは老いたが　逃げも隠れもせん。\n　むしろ　こちらから　ガガイの所に\n　出向いていこうと思っているのだ。": "Je suis vieux, mais je ne fuis ni ne me cache.\nAu contraire, je pense me rendre directement\nchez Gagai."
     },
-    "18412": {
-        "「帰る家が　なくなっちゃった……。": "Je n'ai plus de maison ou retourner..."
+    "15594": {
+        "「勝つことは　難しいだろう……。\n　だが　わしは　持てるチカラの　すべてをかけて\n　やつとの勝負に　臨まねばならん。": "Gagner sera difficile... Mais je dois\naffronter cet adversaire avec toutes les\nforces dont je dispose."
     },
-    "18413": {
-        "「あの博士さんのところに　帰るの？\n　ボクも　行く……。": "Tu retournes chez ce docteur ? Je viens\naussi..."
+    "15595": {
+        "「いらぬ心配は　かけたくない。\n　このことは　ギュランや　村の連中には\n　どうか　だまっていてくれ。": "Je ne veux pas vous causer d'inquietudes\ninutiles. S'il vous plait, gardez cela secret\npour Guran et les autres villageois."
     },
-    "18416": {
-        "「……………。": "..........."
+    "15596": {
+        "「これが　わしの最後の戦いだ。": "C'est mon dernier combat."
     },
-    "28644": {
-        "「あっ。<pc>じゃん。\n　おつかれさん。": "Ah. C'est toi, <pc>. Bien joue."
+    "15597": {
+        "「すっかり　長話になってしまったな。\n　さあ　村へ帰ろう。": "On a vraiment beaucoup discute, n'est-ce pas ?\nAllez, retournons au village."
     },
-    "28645": {
-        "「へへ。\n　あんたも　ちゃんと　戻ってきたわね。\n　おかえりなさい。": "Hehe. Tu es bien revenu, toi aussi. Bienvenue\nchez toi."
+    "15598": {
+        "「ギュランには　わしの方から\n　うまいこと言っておく。とにかく\n　ここでのことは　だまっていてくれ。": "Je parlerai a Guran de ma part en disant que\nc'etait Maiko. En tout cas, garde le silence\nsur ce qui s'est passe ici."
     },
-    "28646": {
-        "「で　暗黒大樹付近の魔瘴は　どうなってた？\n　あたしの予測が　正しければ\n　たぶん　増えてるはずなんだけど。": "Et alors, comment ca se presente du cote des\nmiasmes pres du Grand Arbre Sombre ? Si mes\npredictions sont correctes, ils devraient<br>probablement augmenter."
-    },
-    "28647": {
-        "「……うーん　やっぱりね。\n　魔瘴が　増えてたか。": "Hmm, comme je le pensais. La miasma a\naugmente."
-    },
-    "28648": {
-        "「暗黒大樹が　活性化して\n　エルトナの大地に　影響を与えている……。": "L'Arbre Sombre s'est active et influence la\nterre d'Eltona..."
-    },
-    "28649": {
-        "「暗黒大樹の活性化による　魔瘴の飛び火現象。\n　やばいわね。イムイ地下空洞に発生した魔瘴も\n　その影響か。王の耳に　いれとかないと……。": "L'activation du Grand Arbre des Tenebres a\nprovoque une propagation de la miasme. C'est\ninquietant. La miasme apparue dans la grotte<br>souterraine d'Imui pourrait bien etre liee a\ncela. Il faut en informer le roi..."
-    },
-    "28650": {
-        "「っと　ごめんね。あたし　夢中になると\n　ひとり言　しゃべっちゃうの。": "Oh, desolee. Quand je suis absorbee, je me\nmets a parler toute seule."
-    },
-    "28651": {
-        "「サンキュー。助かったわ。\n　これは　あたしからの　お礼ね。": "Merci beaucoup. Tu m'as sauve(e). Voici un\npetit cadeau de ma part."
-    },
-    "28652": {
-        "「そういえば　この子\n　暗黒大樹に行きたがってたけど\n　結局　なにか　わかったの？": "Au fait, cet enfant voulait se rendre a\nl'Arbre Sombre, mais a-t-il finalement\ndecouvert quelque chose ?"
-    },
-    "28653": {
-        "「……マジで？\n　この子　暗黒大樹で\n　大樹の番人に　育てられていたの？": "... Serieusement ? Cette fille a ete elevee\npar le Gardien de l'Arbre Sombre ?"
-    },
-    "28654": {
-        "「これは　びっくりだわ。\n　ずっと研究してるから　暗黒大樹のことは\n　ほとんど　わかってたつもりだったけど……。": "C'est vraiment surprenant. Je pensais\ncomprendre presque tout sur l'Arbre Sombre\npuisque je l'etudiais depuis longtemps,<br>mais..."
-    },
-    "28655": {
-        "「まさか　大樹の番人が　エルフの子供を\n　育てる思いやりを　持っていたなんて\n　はじめて　知ったわよ。": "Je ne savais pas que le gardien du grand arbre\navait l'intention de prendre soin d'un enfant\nelfe avec tant de devouement."
-    },
-    "28656": {
-        "「ボク……。ボク……。": "Moi... Moi..."
-    },
-    "28657": {
-        "「うん？": "Hum ?"
-    },
-    "28658": {
-        "「か…帰る家が　なくなっちゃった……。\n　パパにも　追いだされて……。": "Ma... ma maison a disparu... Je n'ai plus de\nchez moi... Papa m'a aussi chasse..."
-    },
-    "28659": {
-        "「ううう……。ボ…ボク……。\n　これから　どうすれば……。": "Ooooh... Je... je... Que vais-je faire a\npartir de maintenant... ?"
-    },
-    "28660": {
-        "「あはは。なーんだ。\n　ここにいれば　いいんじゃない？": "Ahaha. Eh bien, pourquoi ne pas simplement\nrester ici ?"
-    },
-    "28661": {
-        "「えっ……？": "Quoi...?"
-    },
-    "28662": {
-        "「だって　あんた　エルフでしょ？\n　エルフが　エルフの世界で生きるのは\n　自然なことだしね～。": "Mais apres tout, tu es un Elfe, non ? Il est\nnaturel pour un Elfe de vivre dans le monde\ndes Elfes, tu sais."
-    },
-    "28663": {
-        "「まあ　なにもしないで　居座られても困るから\n　すこしは　手伝ってもらうけど。\n　研究の手伝いとか　いろいろね～。": "Eh bien, ca ne m'arrange pas vraiment que tu\nrestes la sans rien faire, alors je vais te\ndemander de m'aider un peu. Tu pourrais<br>m'assister dans mes recherches, entre autres\nchoses."
-    },
-    "28664": {
-        "「……………。": "..........."
-    },
-    "28665": {
-        "「さーてと　調査の続きっと。\n　それじゃ　またね。<pc>。": "Bon, je reprends l'enquete. Alors, a plus\ntard, <pc>."
-    },
-    "28666": {
-        "「……ッパ。": "...Ppa."
-    },
-    "28667": {
-        "「うん？": "Hum ?"
-    },
-    "28668": {
-        "「ハッパ……。\n　ボクの名前……。": "Happa... Mon nom..."
-    },
-    "28669": {
-        "「へぇ。ハッパっていうんだ。\n　かっこいい名前じゃん。": "Oh. Tu t'appelles Happa. C'est un nom style."
-    },
-    "28670": {
-        "「えへへ　よろしくね。ハッパ。": "Eh eh, enchantee de faire ta connaissance,\nHappa."
-    },
-    "28671": {
-        "「よ…よろしく。": "Je... Je compte sur vous."
-    },
-    "28672": {
-        "「あたしさ　今から調査に行くけど\n　よかったら　一緒に来る？": "Je vais partir enqueter maintenant, tu veux\nvenir avec moi ?"
-    },
-    "28673": {
-        "「う…うん！": "Oui... oui !"
-    },
-    "28674": {
-        "「よし！　じゃあ　しゅっぱーつ！": "Bien ! Alors, en route !"
+    "15599": {
+        "「これは　わしとお前の　約束だ。\n　よいな？　ガハハハ！": "Ca, c'est notre promesse a tous les deux.\nD'accord ? Gahaha !"
     }
 }
