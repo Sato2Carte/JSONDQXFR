@@ -1,191 +1,272 @@
 {
-    "19367": {
-        "「レーノス　ユウギリ嬢ちゃん……\n　すぐに　助けてやるからな。\n　あと　ちょっとだけ　待っててくれ！": "Renosu Yugiri-chan... Je vais te sauver tres\nbientot. Attends encore un peu, s'il te plait\n!"
+    "22270": {
+        "<if_woman>「ありがとう……　<pc>ちゃん……！\n　この試練を　乗りこえたら……\n　私も　大賢者に……なれる…よね……？<else>「ありがとう……　<pc>くん……！\n　この試練を　乗りこえたら……\n　私も　大賢者に……なれる…よね……？<endif>": "<if_woman>>Merci... <pc>-chan... ! Une\nfois cette epreuve surmontee... Je deviendrai\nmoi aussi une grande sage... n'est-ce pas...?<else>>Merci... <pc>-kun... ! Une fois cette\nepreuve surmontee... Je deviendrai moi aussi\nun grand sage... n'est-ce pas...?<endif>"
     },
-    "19368": {
-        "「よお　支部長のおっさん！\n　必殺技を覚えて　帰ってきたぜ！": "Yo, le chef de section, monsieur ! Je suis\nrevenu apres avoir appris une technique ultime\n!"
+    "22271": {
+        "「アーニア！": "Anya !"
     },
-    "19369": {
-        "「……うむ。見事じゃ　<pc>！\n　今こそ　森の怒りを鎮める方法を\n　お前さんに　伝えようぞ。": "Hum. Bravo, <pc> ! Il est temps de te\ntransmettre la methode pour apaiser la colere\nde la foret."
+    "22272": {
+        "<if_woman>「シェリル……。私なら…大丈夫……。\n　それよりも…今　<pc>ちゃんが\n　一緒に　戦ってくれるって……。<else>「シェリル……。私なら…大丈夫……。\n　それよりも…今　<pc>くんが\n　一緒に　戦ってくれるって……。<endif>": "<if_woman>>Cheryl... Je vais bien... Mais en\nplus... <pc>-chan va se battre a nos\ncotes...<else>>Cheryl... Je vais bien... Mais en plus...\n<pc>-kun va se battre a nos cotes...<endif>"
     },
-    "19370": {
-        "「森の怒りとは　モリナラ大森林の樹々に宿る\n　精霊たちの　ヒトへの怒りや　憎悪といった\n　負の感情が　引きおこすもの。": "Les Anger de la foret sont causes par les\nemotions negatives telles que la colere et la\nhaine des esprits residant dans les arbres de<br>la foret de Molinara envers les humains."
+    "22273": {
+        "「行こう　カルサドラ火山へ……。\n　呪いなんか　さっさと　おさらばして\n　もとの私たちに　戻るのよ……。": "Allons-y, au volcan de Calsadora...\nDepechons-nous de nous debarrasser de cette\nmalediction et redevenons nous-memes..."
     },
-    "19371": {
-        "「そして　今　その負の感情は集合し\n　モリナラ大森林の奥深く　緑の聖域にて\n　憎悪の化身とでもいうべき姿となっておる。": "Et maintenant, ces emotions negatives se sont\nrassemblees et, au coeur de la foret de\nMolinara, dans le Sanctuaire Vert, elles ont<br>pris la forme de ce qui pourrait etre appele\nune incarnation de la haine."
+    "22274": {
+        "「ああ。そうだな……。": "Ah, c'est vrai..."
     },
-    "19372": {
-        "「その名も　憎悪の精霊樹。\n　森の怒りを鎮めるには　こいつを\n　倒さなくてはならないのじゃ。": "Son nom est l'Arbre de la Haine. Pour apaiser\nla Colere de la foret, il faut vaincre cet\nennemi."
+    "22275": {
+        "「<pc>　それでは　よろしく頼む。\n　われらの決戦の地　カルサドラ火山の入口は\n　ゴブル砂漠東の　南東にある。": "<pc>, je compte sur toi. Le lieu de\nnotre bataille decisive, l'entree du Volcan\nCalsadora, se trouve au sud-est du desert de<br>Goble."
     },
-    "19373": {
-        "「ただし　モリナラ大森林の中で\n　憎悪の精霊樹と　戦ったとしても\n　倒しきるのは　むずかしいじゃろう。": "Cependant, meme si vous combattez le Tree of\nHatred dans la Molinara Forest, il sera\ndifficile de le vaincre completement."
+    "22276": {
+        "「火山に入ったら　第１層を道なりに進み\n　南側の空洞に行ってくれ。私は　術の準備のため\n　ひと足先に　そちらに　向かっている。": "Une fois que tu es entre dans le volcan,\navance selon le chemin du premier niveau et\ndirige-toi vers la cavite au sud. Je me rends<br>la-bas en avance pour preparer le sort."
     },
-    "19374": {
-        "「なにしろ　向こうのテリトリー内じゃ。\n　不利となれば　相手は　お前さんを\n　どうとでもできるじゃろうからな。": "Apres tout, c'est dans leur territoire. S'ils\nont l'avantage, ils pourront te manipuler\ncomme ils le veulent."
+    "22277": {
+        "「……心の闇に目をつけた　呪いの主は\n　狡猾で残忍な　強敵に　ちがいない。\n　くれぐれも　用心して　来てくれ。": "...Le Seigneur de la Malediction qui a jete\nson devolu sur le Coeur des Tenebres est sans\naucun doute un adversaire ruse et impitoyable.<br>Fais bien attention en venant."
     },
-    "19375": {
-        "「それを防ぐには　妖精たちのポルカを使って\n　周りの精霊力を　味方につければよい。\n　さすれば　ヤツの自由には　なるまいよ。": "Pour eviter cela, utilisez la Polka des Fees\npour vous allier avec la puissance spirituelle\nenvironnante. Ainsi, il ne pourra pas agir a<br>sa guise."
+    "22278": {
+        "「アーニアは　私が　カルサドラ火山まで\n　連れていくから　心配いらん。\n　キミは　敵を倒すことだけに集中しろ。": "Anya, je vais l'emmener jusqu'au volcan\nCalsadora. Ne t'inquiete pas. Toi,\nconcentre-toi uniquement sur la defaite des<br>ennemis."
     },
-    "19376": {
-        "「これが　森の怒りを鎮めるために\n　お前さんが　やるべきことの　すべてじゃ。": "C'est tout ce que tu dois faire pour apaiser\nla colere de la foret."
+    "22279": {
+        "「アーニアと　シェリル……。\n　ふたりの　最後の戦いだ……！\n　頼むぞ　<pc>！": "Anya et Cheryl... C'est leur dernier combat...\n! Je compte sur vous, <pc> !"
     },
-    "19377": {
-        "「すげえ！　……ダジャレなしでも \n　長いセリフ　言うことできたんだな。\n　おっさんのマジな気持ち　ビンビン伝わったぜ！": "Incroyable ! ... Meme sans jeu de mots, tu as\nreussi a dire un long discours. J'ai ressenti\na fond les vraies emotions de l'homme !"
+    "22280": {
+        "「来たか。<cs_pchero>。\n　あれを　見てくれ……。": "Te voila. <cs_pchero>. Regarde ca..."
     },
-    "19378": {
-        "「あまり言ってくださるな　スピルどの。\n　いくら　わしでも　こんな時くらいは\n　ダジャレを　忘れますわい。": "Ne me flattez pas trop, Seigneur Spiel. Meme\nmoi, j'oublie mes jeux de mots dans des\nmoments comme celui-ci."
+    "22281": {
+        "「ぅぅ…うぐぐ……。我は　闇……。": "Uuuh... Ugggh... Je suis... les tenebres..."
     },
-    "19379": {
-        "「……ゴホン！　さあ　選ばれし　レンジャーよ。\n　お前さんのチカラで　憎悪の精霊樹を倒し\n　モリナラの平和を　取りもどしてくれ！": "...Ahem ! Allez, valeureux Ranger. Avec ta\nforce, abats le Tree of Hatred et restaure la\npaix de Morinara !"
+    "22282": {
+        "「グルワァァーーーー……！！": "<Grwaaaaahhhh！！>"
     },
-    "19380": {
-        "「うむ！　では　後のことは　まかせたぞ。\n　精霊樹との戦いでは　妖精たちのポルカを\n　使うことを　忘れんようにな。": "Hum ! Je compte sur vous pour la suite. Lors\ndu combat contre l'Arbre des Esprits,\nn'oubliez pas d'utiliser la Polka des Fees."
+    "22283": {
+        "「ここへ着くなり　アーニアが豹変してな。\n　いよいよ　本当に　限界が来たらしい……。": "En arrivant ici, Anya a subitement change. Il\nsemble vraiment qu'elle ait atteint ses\nlimites..."
     },
-    "19381": {
-        "「では　頼んだぞ……と思ったら\n　なんじゃ　その　頼まれごとの数は！？": "Eh bien, je compte sur vous... Mais qu'est-ce\nque c'est que ce nombre de requetes !?"
+    "22284": {
+        "「シェリルッ！！　<cs_pchero>が　来たぞ！\n　時間がない！　早く　術を　ほどこしてくれ！": "Cherylッ！！ <cs_pchero> est arrive ! Il n'y a\npas de temps ! Vite, utilise le sort !"
     },
-    "19382": {
-        "「そんなでは　この使命　まかせられんぞ！\n　ええい。さっさと　手を空けてくるのじゃ！": "Dans cet etat, je ne peux pas te confier cette\nmission ! Allez, depeche-toi de te liberer !"
+    "22285": {
+        "「アーニア　見ていてくれ……。\n　私の手で　この呪われた運命に\n　終止符を打つ……！": "Anya, regarde-moi... De mes propres mains, je\nvais mettre un terme a ce destin maudit... !"
     },
-    "19383": {
-        "「この期におよんで　何をためらう？\n　ユウギリも　レーノスも　お前さんの助けを\n　待っておるはずじゃ！": "Dans un moment pareil, pourquoi hesiter ?\nYugiri et Renosu attendent surement ton aide !"
+    "22286": {
+        "「いくぞ…………。": "Allons-y..."
     },
-    "19384": {
-        "「わしからも　頼む！\n　どうか　モリナラ大森林の怒りを鎮めて\n　じんめんじゅになった　皆を救ってくれい！": "Je te le demande aussi ! S'il te plait, apaise\nla colere de la foret de Molinara et sauve\ntous ceux qui ont ete transformes en Treeface<br>!"
+    "22287": {
+        "「ハアァァッッ！！！": "Haaaahhh!!!"
     },
-    "19385": {
-        "「……なぜだ？　ヒトよ。\n　なぜ　我らの怒りにふれて　無事でいられる？": "Pourquoi donc ? Humain. Pourquoi peux-tu\ntoucher notre colere et en sortir indemne ?"
+    "22288": {
+        "「グルルアァァァァーーーッッッ！！！": "Gruruaaaaahhhh !!!"
     },
-    "19386": {
-        "「こいつが　憎悪の精霊樹か。\n　かーっ！　見るからに　陰気そうなヤツだな。\n　同じ精霊として　恥ずかしいぜ！": "Alors, c'est ca, l'Arbre de la Haine ? Pfff !\nRien qu'a le voir, il a l'air lugubre. Comme\nc'est embarrassant pour un esprit comme moi !"
+    "22289": {
+        "「なっ……！　そんな……　術が効かない！？\n　なぜだ！　私では　ダメなのか！？": "Quoi... !? Mon sortilege ne fonctionne pas !?\nPourquoi ? Est-ce que cela ne fonctionne pas\navec moi !?"
     },
-    "19387": {
-        "「……そうか。精霊を身に宿すがゆえに\n　我らの怒りから　逃れえたか。": "…Je vois. C'est parce que tu abrites un esprit\nen toi que tu as pu echapper a notre colere."
+    "22290": {
+        "<center>ムハハハハハッ……。無駄だ　小娘。\n貴様程度の魔力では　アーニアの心に根付いた\n余を　引きずりだすことなどできぬて。": "Mwahahaha... Inutile, petite. Avec ta magie de\nce niveau, tu ne pourras pas extirper ma\npresence profondement enracinee dans le coeur<br>d'Anya."
     },
-    "19388": {
-        "「ちいさき精霊よ。\n　ヒトは　欲深く　愚かで　あさましき存在。\n　なにゆえ　そんな者たちの味方をする？": "O petits esprits. Les humains sont avides,\nstupides et pitoyables. Pourquoi donc vous\nrangez-vous de leur cote ?"
+    "22291": {
+        "「まさか　呪いの主が……！？": "Le Seigneur des Maledictions... vraiment ?!"
     },
-    "19389": {
-        "「うるっせーな！　たしかに　こいつら\n　欲深で　愚かで　あさましいかもしんねーけど\n　それだけじゃないのを　オレは知ってんだ！": "Tu fais trop de bruit ! Certes, ils peuvent\netre avides, stupides et pitoyables, mais je\nsais qu'ils ne sont pas que ca !"
+    "22292": {
+        "<center>いかにも……。完全なる支配まで　あとわずか。\nさあ　余に聞かせよ。闇賢者に堕ちた友に\nなぶり殺しにされる　苦痛の叫びをなぁ！": "En effet... Il ne reste plus grand-chose avant\nl'emprise totale. Allez, fais-moi entendre !\nLes cris de douleur d'une mort lente infligee<br>par ton ami tombe en tant que sage des\ntenebres !"
     },
-    "19390": {
-        "「モリナラ支部の連中が\n　この大森林の自然を守ろうと\n　戦ってることを　オレは　知ってる！": "Je sais que les membres de la branche de\nMorinara se battent pour proteger la nature de\ncette grande foret !"
+    "22293": {
+        "「ゥ…ウウ……。\n　……シェ…リ…ル……。\n　もういちど……　術を…使って……。": "Ugh... Uuh... ...Sheryl... Utilise encore une\nfois... la magie..."
     },
-    "19391": {
-        "「伐採同盟の連中だって\n　自分たちの暮らしや　大切な者のため\n　必死だったことを　オレは　知ってる！": "Je sais que meme les membres de l'Alliance des\nBucherons se battaient desesperement pour leur\npropre vie et pour ceux qui leur etaient chers<br>!"
+    "22294": {
+        "「アーニア！？　アーニアなのか！": "Anya !? C'est toi, Anya !"
     },
-    "19392": {
-        "「そして　なにより　オレの相棒……\n　<cs_pchero>が　どんだけ　がんばって\n　今　ここにいるかを　オレは　知ってる！": "Et surtout, mon partenaire... Je sais a quel\npoint <cs_pchero> s'est battu pour etre ici\nmaintenant !"
+    "22295": {
+        "<center>むぅ……？　アーニアめ　こしゃくな……。\nまだ　余に　逆らうか……。": "Hmm...? Cette Anya est vraiment audacieuse...\nElle continue de me defier..."
     },
-    "19393": {
-        "「そっちこそ　何を知ってんだよ？\n　オメーは　ヒトの素晴らしいトコ\n　これっぽっちも　わかってねーじゃねえか！": "C'est plutot toi, qu'est-ce que tu sais\nvraiment ? Tu ne comprends meme pas une seule\ndes merveilleuses qualites des gens !"
+    "22296": {
+        "「かろうじて　ヤツを…おさえているわ……。\n　これが　ラストチャンスよ……。\n　早く　もういちど…術を……。": "Je parviens a peine a le... contenir... C'est\nnotre derniere chance... Vite, utilise a\nnouveau... ta magie..."
     },
-    "19394": {
-        "「ヒトに宿りし精霊は　その心も毒されるか。\n　ならば　お前の　その入れ物を壊して\n　正気に戻してやろう。": "Les esprits qui habitent les humains, leur\ncoeur aussi peut-il etre empoisonne ? Dans ce\ncas, je vais briser ton recipient et te<br>ramener a la raison."
+    "22297": {
+        "「ダメだ……。私の術なんて　無駄だ！\n　きっと　また　失敗するに決まっている！\n　私は……　無力なんだ！": "C'est inutile... Mes sorts sont inutiles ! Je\nsuis sur que je vais encore echouer ! Je\nsuis... impuissant !"
     },
-    "19395": {
-        "「また来たのか　ヒトに宿る精霊よ。\n　今度こそ　お前の　その入れ物を壊して\n　正気に戻してやろう。": "Te revoila, esprit qui habite les humains.\nCette fois, je vais briser ton receptacle et\nte ramener a la raison."
+    "22298": {
+        "「ううん　シェリル……。\n　あなたは　無力なんかじゃない……。\n　それに……": "Non, Cheryl... Tu n'es pas impuissante... Et\npuis..."
     },
-    "19396": {
-        "「……おのれ　あさましき侵略者め。\n　ここは　貴様たちの領域にあらず。\n　立ち去るがよい！": "Maudits envahisseurs ignobles. Cet endroit\nn'est pas votre territoire. Partez\nimmediatement !"
+    "22299": {
+        "「私のことも　もうちょっと\n　頼りにしてほしいな……。": "J'aimerais que tu comptes un peu plus sur\nmoi..."
     },
-    "19397": {
-        "「まずいぜ　相棒っ！\n　モリナラ全体が　オレたちを拒んでやがる！": "C'est mauvais, partenaire ! Toute la foret de\nMorinara nous rejette !"
+    "22300": {
+        "「そうか……。ふたりなら……。": "Je vois... Si c'est vous deux..."
     },
-    "19400": {
-        "「……おのれ　あさましき侵略者め。\n　ここは　貴様たちの領域にあらず。\n　立ち去るがよい！": "Maudits envahisseurs ignobles. Cet endroit\nn'est pas votre territoire. Partez\nimmediatement !"
+    "22301": {
+        "<center>グオオオオオォォォォォォ……ッッ！！": "Gwooooooaaahhh... !!"
     },
-    "19401": {
-        "「……これも　効かぬのか。": "...... Cela ne fonctionne pas non plus."
+    "22302": {
+        "「アーニアッ！　シェリルッ！！": "Anya ! Cheryl !!"
     },
-    "19402": {
-        "「どうやら　妖精たちのポルカを使った成果が\n　出たみたいだぜ　相棒？": "Il semble que l'utilisation de la Polka des\nFees ait porte ses fruits, partenaire."
+    "22303": {
+        "「プハァァァァ……ッッ！！！": "Phaaaaa...!!!"
     },
-    "19403": {
-        "「……そうであったな。ヒトは　いつの時代も\n　こざかしい知恵と技を　武器として\n　我らの森へと　侵略してくるのだ。": "C'etait bien cela. Les humains, a chaque\nepoque, utilisent leur savoir-faire ruse et\nleurs techniques comme armes pour envahir<br>notre foret."
+    "22304": {
+        "「チィィッ　ぬかったわ！\n　アーニアに　まだ　こんなチカラが\n　残っていようとは……！": "Chii, je me suis fait avoir ! Je ne pensais\npas qu'Anya avait encore autant de puissance\nen reserve... !"
     },
-    "19404": {
-        "「だが　我は　決して　ヒトを許さぬ！\n　モリナラの樹々に宿りし　精霊たちよ。\n　己が憎悪の化身たる我に　チカラを貸せっ！": "Cependant, je ne pardonnerai jamais aux\nHumains ! Esprits residant dans les arbres de\nMorinara, pretez votre force a moi,<br>l'incarnation de votre haine !"
+    "22305": {
+        "「貴様が　呪いの主か……！": "Tu es donc le Seigneur de la Malediction... !"
     },
-    "19405": {
-        "「こいつは　キリがねーな。\n　あのネガティブ野郎の　こり固まった憎しみを\n　どうにかしなきゃ　解決しねえぞ　これ。": "Ce type ne s'arrete jamais. On ne resoudra\nrien tant qu'on n'aura pas fait quelque chose\ncontre la haine obstinee de ce negatif-la."
+    "22306": {
+        "「ムハハハハハ……。いかにも……。\n　余は　魔賢者アクバー……。\n　この世に姿を現したのは　数百年ぶりぞ。": "Muhahahahaha... En effet... Je suis Sorcerer\nBlackmar... Cela fait plusieurs siecles que je\nne suis pas apparu dans ce monde."
     },
-    "19406": {
-        "「……なあ　相棒。\n　ひとつ　いい方法が　あるんだ。": "...He, partenaire. J'ai une bonne idee."
+    "22307": {
+        "「なぜ　アーニアに　とりついた！？\n　貴様の目的は　なんだ！": "Pourquoi as-tu possede Anya !? Quel est ton\nbut !?"
     },
-    "19407": {
-        "「元は　どっちも　同じ精霊だ。\n　オレが　あいつと　一体化してやれば\n　あいつの憎悪を　中和してやれると思うんだ。": "A l'origine, nous etions tous deux le meme\nesprit. Si je fais corps avec lui, je pense\npouvoir neutraliser sa haine."
+    "22308": {
+        "「ムァハハハ……。余に　とりつかれ\n　狂気の世界に堕ちた　闇賢者たちは\n　余の　忠実な　しもべと化す。": "Muahahaha... Ceux qui ont ete possedes par moi\net sont tombes dans le monde de la folie, les\nsages des tenebres, deviennent mes fideles<br>serviteurs."
     },
-    "19408": {
-        "「いや。オレが　そうしてーんだ！\n　あいつにも　ヒトの素晴らしさってモンを\n　わかってほしいんだよ。": "Non. C'est moi qui le veux ainsi ! Je veux\nqu'il comprenne aussi la beaute de l'humanite."
+    "22309": {
+        "「そうして　世界中の賢者を　闇賢者に変え\n　余の支配する世界を　創造するのだ！\n　それこそが　余の野望なり！": "Ainsi, je transformerai tous les sages du\nmonde en sages des tenebres et creerai un\nmonde sous mon controle ! Telle est mon<br>ambition !"
     },
-    "19409": {
-        "「だからよ……これで　お別れだ。\n　あばよ！　相棒！": "Alors... c'est ici que nos chemins se\nseparent. Adieu, partenaire !"
+    "22310": {
+        "「アーニアは　最高の駒になるはずだった……。\n　今まで　闇賢者に堕ちた者を　はるかにしのぐ\n　秘めたチカラを　持っていたからなぁ。": "Anya aurait du devenir le pion ultime... Elle\npossedait un pouvoir cache bien superieur a\nceux qui ont sombre dans les tenebres des<br>sages jusqu'a present."
     },
-    "19410": {
-        "「ヌオォォォォ……な　なにをっ！？\n　怒りが……憎悪が……消えてゆく……。": "Nuooooo...... Qu... Qu'est-ce que... !? La\ncolere... la haine... disparaissent..."
+    "22311": {
+        "「アーニアを　闇賢者にすれば\n　野望の成就に　さらに近づいたというに……！\n　シェリル……　貴様のせいで……！": "Si Anya devenait une sage des tenebres, nous\nserions encore plus proches de realiser nos\nambitions... ! Cheryl... c'est de ta faute...<br>!"
     },
-    "19411": {
-        "<center>ヒトよ……。\nわが一部となった　精霊スピルに免じ\n今は　お前たちを許そう。": "Humain... En l'honneur de l'esprit Spiel qui\nfait maintenant partie de moi, je vais vous\npardonner pour l'instant."
+    "22312": {
+        "「ムァーハッハッハ！　だがな……\n　じつは　アーニアよりも　優れた駒を\n　すでに見つけておる……。": "Mwahaha ! Cependant... En realite, j'ai deja\ntrouve un pion bien plus precieux qu'Anya..."
     },
-    "19412": {
-        "<center>だが　ヒトが存在する限り\n必ず　また同じことが繰り返されるだろう。\nだから……": "Cependant, tant que l'humanite existera, la\nmeme chose se reproduira inevitablement. C'est\npourquoi..."
+    "22313": {
+        "「貴様のことだよ。<cs_pchero>……。": "Je parle de toi, <cs_pchero>..."
     },
-    "19413": {
-        "<center>……だから　そうならないよーに\nがんばってくれよ！　相棒！": "......Donc, fais de ton mieux pour que ca\nn'arrive pas ! Partenaire !"
+    "22314": {
+        "「シェリルと　アーニアに宿っていたときから\n　その秘めたるチカラに　目をつけておったのだ。\n　貴様は　最凶の闇賢者となるはずぞ。": "Depuis que tu residais en Cheryl et Anya,\nj'avais deja remarque cette puissance cachee\nen toi. Tu es destine a devenir le plus<br>redoutable des sages des tenebres."
     },
-    "19414": {
-        "「森の怒りが鎮まる気配　感じておったよ。\n　どうやら　すべて　終わったようじゃな。\n　よく　やってくれた！": "Je pouvais sentir que la colere de la foret\ns'apaisait. Il semble que tout soit enfin\ntermine. Tu as vraiment bien oeuvre !"
+    "22315": {
+        "「さあ！　余に　その心をよこせ！\n　闇賢者へと　身を堕とし　余の腹心として\n　仕えることを　誇りに思うがよい！": "Allez ! Donne-moi ton coeur ! Considere comme\nun honneur de te laisser sombrer dans les\ntenebres en tant que sage noir et de servir<br>fidelement a mes cotes !"
     },
-    "19415": {
-        "「お前さんこそ　レンジャーの中のレンジャー。\n　その栄誉に　見合うものではないが\n　どうか　これを　贈らせてくれ。": "Toi, tu es vraiment le ranger parmi les\nrangers. Ce n'est peut-etre pas a la hauteur\nde cet honneur, mais laisse-moi t'offrir ceci."
+    "22316": {
+        "「ムハハハハ……。なかなかやるな　シェリル。\n　だが　そろそろ　貴様の相手も飽いてきたぞ。\n　このまま　楽にしてやろう……。": "Muhahahaha... Tu te debrouilles bien, Cheryl.\nMais je commence a me lasser de toi. Il est\ntemps d'en finir tranquillement..."
     },
-    "19416": {
-        "「ただいま　戻りましたーっ！": "Me revoila !"
+    "22317": {
+        "「ム……。": "Mu..."
     },
-    "19417": {
-        "「ううっ。ホントに　戻ってこれてよかった。\n　あのまま　一生　じんめんじゅだったら\n　お嫁に　行けなくなっちゃうとこでしたよぅ。": "Ouuf. Je suis vraiment contente d'etre\nrevenue. Si j'etais restee Treeface pour\ntoujours, je n'aurais jamais pu me marier."
+    "22318": {
+        "「<cs_pchero>……。": "<cs_pchero>......"
     },
-    "19418": {
-        "「本部のレンジャーや　伐採同盟の連中も\n　それぞれの場所に　帰ってったぜ。\n　さすがに　もう　争う気には　ならねーよな。": "Les rangers du QG et les membres de l'Alliance\nde l'Abattage sont tous retournes a leurs\nendroits respectifs. Je suppose qu'ils n'ont<br>plus vraiment envie de se battre maintenant."
+    "22319": {
+        "「ムハーッハッハ！　取り逃がしたかと思ったら\n　貴様のほうから　のこのこ　やってくるとは！\n　よいぞ　よいぞ！　そうこなくてはな！": "Mouhahaha ! Je pensais que tu m'avais echappe,\nmais te voila qui viens a moi de ton propre\nchef ! Bien, bien ! C'est exactement ce que<br>j'attendais !"
     },
-    "19419": {
-        "「しかし　伐採同盟のヤツらの今後を\n　どうするか　考えてやんなくちゃな。\n　こりゃ　当分　合コンにゃ行けそうにねーや。": "Cependant, il va falloir reflechir a ce qu'on\nva faire des gars de l'Alliance de l'Abattage.\nOn dirait que je ne suis pas pret d'aller a un<br>rendez-vous de groupe."
+    "22320": {
+        "「さあ！　余に　その心をよこせ！\n　闇賢者へと　身を堕とし　余の腹心として\n　仕えることを　誇りに思うがよい！": "Allez ! Donne-moi ton coeur ! Considere comme\nun honneur de te laisser sombrer dans les\ntenebres en tant que sage noir et de servir<br>fidelement a mes cotes !"
     },
-    "19420": {
-        "「……うむ。うむ。\n　任務　ご苦労だったな。\n　ふたりとも　よく戻ってきてくれた。": "Hum. Hum. Vous vous etes bien acquittes de\nvotre mission. Je vous remercie tous les deux\nd'etre revenus."
+    "22321": {
+        "「なん…だと……？　余…が　敗北……？\n　世界…創…造の……野望…が……。\n　ゥグ……　ア　ア　ア……！": "Quoi... ? Moi... etre vaincu... ? Mon...\nambition... de creer... un monde... est...\nUgh... Ah... Ah... !"
     },
-    "19421": {
-        "「これから　大いに　忙しくなるが\n　今日のところは　皆の無事を祝って\n　宴を開くとしよう！": "A partir de maintenant, nous serons tres\noccupes, mais pour aujourd'hui, celebrons la\nsecurite de tous en organisant un festin !"
+    "22322": {
+        "「クバァァァァァーーーーッッ！！！": "Kubaaaaaaahhhh !!!"
     },
-    "19422": {
-        "その夜　もよおされた宴の中で\n<pc>は　もうひとりの仲間が\nどこへ行ったのかを　皆に語った。": "Lors de la fete organisee cette nuit-la,\n<pc> a raconte a tout le monde ou\nl'autre compagnon etait parti."
+    "22323": {
+        "「終わった……。\n　私たちの戦いが　ついに……。": "C'est termine... Notre combat est enfin\nfini..."
     },
-    "19423": {
-        "たがいの無事を祝う祝宴は\nいなくなった仲間を　しのぶ宴に変わり\n静かに夜は　ふけていった。": "Le banquet celebrant leur securite mutuelle\ns'est transforme en une veillee en memoire de\nleur compagnon disparu, et la nuit s'est<br>doucement avancee."
+    "22324": {
+        "「<cs_pchero>……。": "<cs_pchero>......"
     },
-    "19424": {
-        "「おはよう　<pc>。\n　レーノスと　ユウギリなら　すでに起きて\n　モリナラの見回りに　出かけていったぞ。": "Bonjour <pc>. Renosu et Yugiri sont deja\nreveilles et sont partis patrouiller dans\nMorinara."
+    "22325": {
+        "「…………………………。": "................................"
     },
-    "19425": {
-        "「……ああ。お前さんは　いいんじゃ。\n　じつは　今回の件で　<pc>の\n　ここでの任を　解こうと決めたんじゃ。": "Ah. Toi, tu n'as rien a te reprocher. En fait,\navec cette affaire, j'ai decide de liberer\n<pc> de ses fonctions ici."
+    "22326": {
+        "「す…すまない……。\n　感謝の気持ちで　いっぱいなのだが……。": "Je... je suis desole... Je suis rempli de\ngratitude..."
     },
-    "19426": {
-        "「お前さんには　任地などにとらわれず\n　世界中の森を回り　自然を守ってほしい。\n　レーノスも　ユウギリも　賛成してくれたよ。": "Je voudrais que tu ne te laisses pas\nrestreindre par ton poste assigne, mais que tu\nvoyages a travers les forets du monde entier<br>pour proteger la nature. Renosu et Yugiri ont\negalement approuve cette idee."
+    "22327": {
+        "「私は　アーニアと　ちがって\n　こんなとき　なんて言葉をかけていいか\n　わからないんだ。": "Je ne suis pas comme Anya, je ne sais pas\nquelles paroles prononcer dans des moments\ncomme celui-ci."
     },
-    "19427": {
-        "「これは　上司命令じゃからな。\n　逆らうことは　許さんぞ！": "Il s'agit d'un ordre de la part de votre\nsuperieur. Je ne tolererai aucune\ndesobeissance !"
+    "22328": {
+        "「とりあえず……　ありがとう。\n　……で　いいだろうか？": "Pour l'instant... merci. ...est-ce que ca ira\n?"
     },
-    "19428": {
-        "「今　この時をもって　<pc>の\n　モリナラ支部での任を解く！\n　これまで　本当に　ご苦労じゃった。": "A partir de maintenant, je te releve de tes\nfonctions a la succursale de Morinara de\n<pc> ! Tu as vraiment fait un excellent<br>travail jusqu'a present."
+    "22329": {
+        "「アーニアなら　ティーザさんに連れられ\n　ひと足先に　研究院に戻ったよ。\n　チカラを使い果たし　危険な状態だったからな。": "Anya a ete ramenee a l'institut de recherche\npar Tiza-san avant nous. Elle avait epuise\ntoutes ses forces et etait dans un etat<br>critique."
     },
-    "19429": {
-        "「それでは　選ばれし　レンジャーよ。\n　お前さんの　今後の活躍を期待しておる！\n　どこへ行っても　元気でやるのだぞ。": "Alors, toi, le Ranger choisi. Nous attendons\navec impatience tes futures exploits ! Ou que\ntu ailles, reste en forme."
+    "22330": {
+        "「……思えば\n　アーニアの呪いを　引き受けたときから\n　私は　愚かな行為を繰り返していた……。": "Quand j'y pense, depuis le moment ou j'ai\naccepte la malediction d'Anya, je n'ai cesse\nde commettre des actes insenses..."
     },
-    "25073": {
-        "「……チクショウ！ \n　これが　どうとでもできるってことか。\n　失敗したぜっ！": "…Merde ! C'est donc ca avoir toutes les cartes\nen main. J'ai echoue !"
+    "22331": {
+        "「おのれを過信し　誰の言葉にも　耳を貸さず\n　あまつさえ……　ただひとりの親友すらも\n　信じられなかったのだから……。": "Tu etais tellement sur de toi, que tu\nn'ecoutais personne, pas meme ton seul et\nveritable ami..."
     },
-    "25074": {
-        "「……相棒。今度こそ　忘れずに \n　妖精たちのポルカを使って　戦うぞ！": "...Partenaire. Cette fois, n'oublie pas\nd'utiliser la Polka des Fees pendant le combat\n!"
+    "22332": {
+        "「まだ幼き　私とアーニアが\n　王立研究院の門を　たたいたとき\n　ティーザさんは　こう言った……。": "Lorsque Anya et moi, encore enfants, avons\nfrappe a la porte de l'Institut Royal de\nRecherche, Tiza-san a dit ceci..."
+    },
+    "22333": {
+        "「あまたの愚かしさの先に\n　まことの賢なる道が　ひらかれていると……。": "Au-dela de nombreuses folies, le veritable\nchemin de la sagesse s'ouvre..."
+    },
+    "22334": {
+        "「アーニアは　知っていたのかもしれないな。\n　その　愚かしさを越えるには\n　信じ合える友が　必要だということを……。": "Anya savait peut-etre que pour depasser cette\nstupidite, il fallait des amis en qui avoir\nconfiance..."
+    },
+    "22335": {
+        "「……アーニアのことが　心配だ。\n　すまないが　先に　研究院に戻っている。\n　<cs_pchero>も　あとで来てくれ。": "Je suis inquiet pour Anya. Je suis desole,\nmais je retourne d'abord a l'institut de\nrecherche. <cs_pchero>, rejoins-moi la-bas<br>plus tard."
+    },
+    "22336": {
+        "「<cs_pchero>……。私は　幸せだ。\n　こんな私を　待っていてくれる人が\n　いるのだから……。": "<cs_pchero>... Je suis heureux. Parce qu'il y\na quelqu'un qui m'attend, meme moi, tel que je\nsuis..."
+    },
+    "22337": {
+        "<if_woman>「あっ！　<pc>ちゃん！<else>「あっ！　<pc>くん！<endif>": "<if_woman>>Ah ! <pc>-chan !<else>>Ah ! <pc>-kun ! <endif>"
+    },
+    "22338": {
+        "「シェリルから　聞いたよ！\n　呪いの主を　やっつけてくれたんだってね！\n　私　それ聞いたら　元気になっちゃった！": "J'ai entendu ca de Cheryl ! Tu as vaincu le\nSeigneur des Maledictions, n'est-ce pas ? Rien\nque d'entendre ca, ca m'a redonne de l'energie<br>!"
+    },
+    "22339": {
+        "<if_woman>「やっぱり　<pc>ちゃんは　スゴイよ！\n　ホントに　ホントに　ホンット～に！\n　あなたに出会えて　よかったわっ！<else>「やっぱり　<pc>くんは　スゴイよ！\n　ホントに　ホントに　ホンット～に！\n　あなたに出会えて　よかったわっ！<endif>": "<if_woman>><pc>-chan, tu es vraiment\nincroyable ! Vraiment, vraiment, vraiment ! Je\nsuis si heureuse de t'avoir rencontre !<else>><pc>-kun, tu es vraiment incroyable !\nVraiment, vraiment, vraiment ! Je suis si\nheureux de t'avoir rencontre !<endif>"
+    },
+    "22340": {
+        "「<pc>。来ていたか……。": "<pc>. Tu es la..."
+    },
+    "22341": {
+        "「今しがた　緊急で　研究院会議が開かれてな。\n　魔賢者アクバーの存在と　それを討ち滅ぼした\n　キミの功績について　話し合ってきた。": "Un peu plus tot, une reunion d'urgence de\nl'institut de recherche a ete convoquee. Nous\navons discute de l'existence de Sorcerer<br>Blackmar et de ton exploit en le terrassant."
+    },
+    "22342": {
+        "「賢者の未来を　おびやかす　魔賢者アクバーを\n　見事　打ち滅ぼした　キミの功績を讃え……": "Le merite de ta victoire eclatante sur le\nSorcerer Blackmar, qui menacait l'avenir des\nsages, est celebre..."
+    },
+    "22343": {
+        "「名誉ある賢者にのみ贈られる　賢者の証を\n　キミに授与することが　満場一致で決まったぞ！": "Il a ete decide a l'unanimite de te decerner\nla Legion of Merit, un honneur reserve\nuniquement aux sages distingues !"
+    },
+    "22344": {
+        "「本来なら　国を挙げ　式典を開くところだが\n　忙しいキミの身を案じ　私が授与を命じられた。\n　さあ　受け取るがよい！": "Normalement, nous aurions organise une\nceremonie nationale pour cela, mais en pensant\na ton emploi du temps charge, j'ai ete charge<br>de te remettre cette recompense. Allez,\nprends-la !"
+    },
+    "22345": {
+        "「王立研究院から　特別に贈られた\n　この報酬を　受け取ってくれ。": "Veuillez accepter cette recompense\nspecialement offerte par l'Institut Royal de\nRecherche."
+    },
+    "22346": {
+        "「<pc>よ。キミの活躍には\n　本当に　目を　見張るものがあった。": "<pc>. Tes exploits ont vraiment ete\nremarquables."
+    },
+    "22347": {
+        "「だが　賢なる道の扉は　開かれたばかりだ。\n　これに　おごることなく　宇宙の理を追究し\n　賢者として　鍛錬を積んでくれ。": "Cependant, la Porte du Chemin de la Sagesse\nvient a peine de s'ouvrir. Ne te laisse pas\nemporter par l'arrogance, continue a explorer<br>les lois de l'univers et a te renforcer en\ntant que sage."
+    },
+    "22348": {
+        "「ねえ　シェリル……？\n　あなた　研究院に戻ってくるんでしょ？\n　また　一緒に勉強できるね！": "He, Cheryl... ? Tu vas revenir a l'institut,\nn'est-ce pas ? On pourra etudier ensemble a\nnouveau !"
+    },
+    "22349": {
+        "「いや……。\n　私は　ここに戻るつもりはない。": "Non... Je n'ai pas l'intention de revenir ici."
+    },
+    "22350": {
+        "「そんな……！　どうしてっ！？\n　一緒に　大賢者になるんじゃなかったの？\n　まだ　何か　思いつめているのっ！？": "Quoi… ! Pourquoi !? N'avions-nous pas convenu\nde devenir de grands sages ensemble ? Es-tu\nencore en train de te tourmenter pour quelque<br>chose !?"
+    },
+    "22351": {
+        "「ふっ。カン違いするな。\n　大賢者になる夢を　あきらめたつもりはない。\n　私は　ただ……": "Hmph. Ne te meprends pas. Je n'ai pas renonce\na mon reve de devenir un grand sage. Je suis\njuste..."
+    },
+    "22352": {
+        "「研究院の中と外で　別々のものを学びとり\n　それを　互いに教え合っていくのが\n　大賢者への近道だと　思ったのさ。": "A l'interieur et a l'exterieur de l'institut,\napprendre des choses differentes et les\nenseigner mutuellement, c'est, je pense, le<br>chemin le plus court pour devenir un grand\nsage."
+    },
+    "22353": {
+        "「ふたりなら　できる……　だろ？": "Si on est deux, on peut le faire... non ?"
+    },
+    "22354": {
+        "「シェリル……。": "Cheryl..."
+    },
+    "22355": {
+        "「そうだね。今の私たちなら　離れてたって\n　同じ夢を　見られるはずだもん！": "Oui, c'est vrai. Meme si nous sommes separes,\nnous devrions pouvoir partager le meme reve\nmaintenant !"
+    },
+    "22356": {
+        "「それでは　私は　行くよ。\n　またな　アーニア……。": "Alors, je m'en vais. A bientot, Anya..."
+    },
+    "22357": {
+        "「<pc>も……\n　また　どこかで出会えると　いいな。": "<pc> aussi... J'espere qu'on pourra se\nrevoir quelque part."
+    },
+    "22358": {
+        "「シェリルーーッ！": "Cherylーーッ！"
+    },
+    "22359": {
+        "「ありがとう！": "Merci !"
     }
 }
