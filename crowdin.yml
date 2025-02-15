@@ -1,10 +1,10 @@
 files:
-  - source: /**/eventTextCs*.json
-    translation: /crowdin/%language%/%original_file_name%
-    type: json
-    update_option: update_as_unapproved
+  - source: "/**/eventTextCs*.json"
+    translation: "/crowdin/%language%/%original_file_name%"
+    type: "json"
+    update_option: "update_as_unapproved"
     escape_quotes: 3
-    multilingual: 
+    multilingual: false
 
     # Ajout des restrictions de longueur et de lignes
     translation_replace:
