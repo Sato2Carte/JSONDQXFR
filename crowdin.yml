@@ -4,5 +4,4 @@ files:
     type: json
     update_option: update_as_unapproved
     escape_quotes: 3
-    multilingual: false
-    source_language: ja  # Définit le japonais comme langue source
+    multilingual: 
