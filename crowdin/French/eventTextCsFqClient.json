@@ -1,107 +1,317 @@
 {
-    "83829": {
-        "「メギストリスの城から盗んだ　古文書によれば\n　この部屋のどこかに……": "Selon l'ancien document vole au chateau de\nMegistris, quelque part dans cette piece..."
+    "86159": {
+        "「カンダタさーん。\n　<pc>が　手伝うみたいだぞー。": "Robbin' 'Ood-san. <pc> semble vouloir\naider."
     },
-    "83830": {
-        "「おかしら！　誰か来ましたぜ！": "Chef ! Quelqu'un est arrive !"
+    "86160": {
+        "「おう！": "Oh !"
     },
-    "83831": {
-        "「うん……？　なんだ　おまえは！？\n　俺様の邪魔を　するつもりなら\n　ただじゃおかねえぞ！": "Hmm...? Qui es-tu ?! Si tu comptes te mettre\nen travers de mon chemin, tu ne t'en sortiras\npas indemne !"
+    "86161": {
+        "「ご苦労だったな　ボラオ。\n　ほれ　約束のアクロバットケーキだ。": "Bon travail, Borao. Voici le gateau\nacrobatique promis."
     },
-    "83832": {
-        "「まいった！\n　だが　とどめは　ささないでくれ！": "Je suis vaincu ! Mais ne m'acheve pas, je t'en\nprie !"
+    "86162": {
+        "「やったー！　ケーキ　ひとりじめだー！": "Hourra ! Ce succulent gateau a la creme est\ntout pour moi !"
     },
-    "83833": {
-        "「あんたが強いのは　よーくわかった！\n　子分のことなら　煮ても焼いてもかまわねえ！\n　だが　俺様だけは　許してくれ！": "J'ai bien compris que tu es fort ! Fais ce que\ntu veux de mes sbires ! Mais, je t'en supplie,\nepargne-moi !"
+    "86163": {
+        "「さて　俺様の最強の子分　<pc>！\n　今回の仕事だが……": "Bon, voici donc mon plus puissant sbire,\n<pc> ! Pour cette mission..."
     },
-    "83834": {
-        "「ひでえや　おかしら！": "Quel desastre, chef !"
+    "86164": {
+        "「ん？　子分になった覚えはない……だと？\n　うるせえ！　俺様のカンダタ団は\n　今　人手不足なんだ！": "Hein ? Tu dis que tu ne te souviens pas etre\ndevenu un de mes sbires... ? Tais-toi ! Mon\ngroupe, le Robbin' 'Ood, manque actuellement<br>de main-d'oeuvre !"
     },
-    "83835": {
-        "「うるせえ！": "Tais-toi !"
+    "86165": {
+        "「そもそも　テメーが　キラキラ大風車塔で\n　俺様の子分を　やっつけたから\n　アイツに　逃げられちまったのよ。": "En fait, c'est parce que toi, tu as battu mes\nsbires a la grande tour eolienne de Lycae, que\nce gars-la s'est echappe."
     },
-    "83836": {
-        "「俺様は　月の秘宝を手に入れるって夢を\n　どうしても　かなえなくちゃならねえ！\n　この古文書を盗んだのも　そのためだ！": "Je dois absolument realiser mon reve de mettre\nla main sur le Treasure of the Moon ! C'est\npour cela que j'ai vole ce vieux document !"
+    "86166": {
+        "「だから　テメーは　責任をとって\n　今日から　俺様の子分になれ！\n　文句ねえよな？　な！　な！<yesno><close>": "\nだからテメーは責任をとって今日から俺様の子分になれ！文句ねえよな？な！な！<yesno><close>"
     },
-    "83837": {
-        "「古文書は　用が済んだら返すから\n　どうか　俺様を\n　許してくれよ！　な！　な！<yesno><close>": "Je te rendrai le vieux document une fois que\nj'en aurai fini. Alors, s'il te plait,\npardonne-moi ! D'accord ? D'accord ?<br><yesno><close>"
+    "86167": {
+        "「うるせえ！　つべこべ言わずに\n　俺様の子分になれ！\n　文句ねえよな？　な！　な！<yesno><close>": "Silence ! Arrete de discuter et deviens mon\nsubordonne ! Tu n'as pas d'objection, n'est-ce\npas ? Hein ! Hein !"
     },
-    "83838": {
-        "「そんなこと　いわずにさ。\n　俺様を　許してくれよ！　な！　な！<yesno><close>": "Ne dis pas ca. Allez, pardonne-moi ! Hein !\nHein ! <yesno><close>"
+    "86168": {
+        "「へへっ。命びろいしたな　<pc>！\n　どうしても断るってんなら\n　この場で　ブチのめしてたトコだぜ！": "Hehe. Tu as eu de la chance, <pc> ! Si\ntu avais vraiment refuse, je t'aurais ecrase\nici meme !"
     },
-    "83839": {
-        "「ありがてえ！\n　あんたのことは　忘れねえよ！": "Merci beaucoup ! Je ne t'oublierai jamais !"
+    "86169": {
+        "<pc>は　カンダタ団に　入団した！<me_71>": "<pc> a rejoint la bande des Robbin' 'Ood\n! <me_71>"
     },
-    "83840": {
-        "「……よーし。\n　それじゃ　この古文書どおり\n　キラキラ大風車塔を　動かすぜ！": "Tres bien. Alors, conformement a ce vieux\ndocument, nous allons faire fonctionner la\ngrande tour eolienne de Lycae !"
+    "86170": {
+        "「よし！　これからも　よろしくなっ！\n　最強の子分　<pc>！": "Bien ! Comptons sur toi a partir de maintenant\naussi ! <pc>, notre subalterne le plus\npuissant !"
     },
-    "83841": {
-        "「えーっと　操作方法は　５５ページ……。\n　ん？　なんだこりゃ。": "Euh, voyons voir... Les instructions de\ncontrole sont a la page 55... Hein ? Qu'est-ce\nque c'est que ca ?"
+    "86171": {
+        "「さて……今回　テメーを呼び出した\n　その理由を　教えてやろう。": "Eh bien... Je vais t'expliquer pourquoi je\nt'ai convoque cette fois-ci."
     },
-    "83842": {
-        "「どうしたんですかい？　おかしら。": "Que se passe-t-il, chef ?"
+    "86172": {
+        "「俺様は　月に行く！": "Moi, je vais a Mn. !"
     },
-    "83843": {
-        "「なんでえ！　カンジンの５５ページが\n　破れちまって　ないじゃねえかっ！": "Pourquoi ! La page 55, qui est cruciale, est\ndechiree et manque !"
+    "86173": {
+        "「あの　空に浮かんでるお月様にゃあ\n　とんでもねえ秘宝が眠ってるって　伝説がある。": "Il y a une legende qui dit qu'un tresor\nincroyable repose dans ce chateau flottant\ndans le ciel."
     },
-    "83844": {
-        "「おいっ！\n　今すぐ　５５ページを見つけてくるか\n　俺様に　ブン殴られるか　どっちか選べ！": "He ! Trouve-moi tout de suite la page 55 ou\nprepare-toi a te faire cogner par moi, choisis\n!"
+    "86174": {
+        "「というわけで　テメーには\n　月へ行くために　協力してもらうぜっ！": "C'est pourquoi je vais te demander de cooperer\npour te rendre a Mn. !"
     },
-    "83845": {
-        "「ひっ！！": "Hiii !!"
+    "86175": {
+        "「この間は　キラキラ大風車塔のプロペラで\n　塔ごと　空を飛べねえかと試してみたが\n　ありゃあ　どうも　ダメみてえだ。": "L'autre jour, j'ai essaye de faire voler la\ngrande tour eolienne Lycae avec ses helices\npour voir si toute la tour pouvait s'envoler<br>dans le ciel, mais ca n'a pas vraiment marche."
     },
-    "83847": {
-        "「おかしらには　もう　ついていけねえよ！\n　あっしは　カンダタ団を　抜けますぜ！": "Je ne peux plus suivre le chef ! Je quitte la\nbande des Robbin' 'Ood !"
+    "86176": {
+        "「だが！　俺様は　新しい方法を見つけたのよ！\n　その方法は…………": "Mais ! J'ai trouve une nouvelle methode pour y\nparvenir ! Cette methode est..."
     },
-    "83848": {
-        "「あっ　てめえ！　どこへ逃げる気だ！？\n　待ちやがれい！！": "He, toi ! Ou penses-tu aller en fuyant !?\nAttends un peu !!"
+    "86177": {
+        "「<pc>。\n　オルフェアの町の　ビッグホルンへ来い！\n　……すべては　それからだぜ！": "<pc>. Viens au grand HoRune d'Orphea !\n...Tout commencera a partir de la !"
     },
-    "83849": {
-        "「待ってたんだなー。\n　オイラたちの偽物は　見つかったのかー？": "Je vous attendais. Avez-vous trouve notre F.\nobjet ?"
+    "86178": {
+        "「これから　<pc>のことは\n　カンダタ子分って　呼んでやるぞー。\n　カンダタさんのために　いっぱい働けー。": "A partir de maintenant, je vais t'appeler le\nsubordonne de Robbin' 'Ood, <pc>.\nTravaille dur pour Robbin' 'Ood-san !"
     },
-    "83850": {
-        "<pc>は　ボラオに\nメギストリス城に現れたという偽物は\nカンダタだったことを　話した！": "<pc> a raconte a Borao que la personne\nenvoyee au chateau de Megistris etait Robbin'\n'Ood !"
+    "90700": {
+        "「おう！　来たか　<pc>！": "Hey ! Te voila, <pc> !"
     },
-    "83851": {
-        "「カンダタ？　あの　伝説の大盗賊の？": "Robbin' 'Ood ? Le legendaire grand voleur ?"
+    "90701": {
+        "「キラキラ大風車塔や　この　ビッグホルンなどを\n　設計した　偉大な建築家プロッペの　血を引く\n　由緒正しき　無職です。": "Je suis un noble sans emploi, descendant du\ngrand architecte Proppe, qui a concu des\nmerveilles comme la grande tour eolienne de<br>Lycae et ce fameux Big Horn."
     },
-    "83852": {
-        "「マジやべえ！！": "C'est vraiment dingue !!"
+    "90702": {
+        "「コイツも　俺様の新しい子分よ！\n　おい　<pc>！\n　先輩として　かわいがってやれよ！": "Celui-la aussi est mon nouveau subordonne !\nHe, <pc> ! Prends bien soin de lui en\ntant que senpai !"
     },
-    "83853": {
-        "「やべぇ！　オレ　気分がダウナーすぎる……。\n　カンダタさんといえば　盗賊中のマジ大盗賊。\n　血も涙もねえ　服も着ねえ　恐ろしいお人。": "Oh la la ! Je me sens vraiment deprime...\nRobbin' 'Ood-san est le plus grand des voleurs\nparmi les voleurs. Un homme sans coeur ni<br>pitie, et meme sans vetements, terrifiant."
+    "90703": {
+        "「は？　私は　子分になった覚えは……": "Hein ? Je ne me souviens pas etre devenu ton\nsubordonne..."
     },
-    "83854": {
-        "「オレたち　カンダタさんの名前をパクって\n　ダンダダ団って　名乗ってる。\n　このことがバレたら　地獄への片道切符……！": "Nous avons emprunte le nom de Robbin' 'Ood-san\net nous nous faisons appeler le groupe\nDandada. Si cela venait a se savoir, ce serait<br>un aller simple pour l'enfer... !"
+    "90704": {
+        "「うるせえ！　俺様が子分だと決めたんだ！\n　テメーらは　死ぬまで　俺様の子分よ。\n　いいか　ふたりとも　なかよくやれよ！": "La ferme ! C'est moi qui ai decide que vous\nseriez mes subordonnes ! Vous resterez mes\nsubordonnes jusqu'a votre mort. Alors ecoutez<br>bien, vous deux, entendez-vous bien !"
     },
-    "83855": {
-        "「隠れてえ。マジ　隠れてえ……。\n　ていうか　すべてを　忘れてえ。": "Je veux me cacher. Vraiment me cacher... En\nfait, j'aimerais tout oublier."
+    "90705": {
+        "「ううむ……少々　複雑ですが\n　仕事もなく　ブラブラしているよりは\n　たとえ　盗賊の子分でも　職があるほうがいい。": "Hum... C'est un peu complique, mais il vaut\nmieux avoir un emploi, meme en tant que\nsubordonne d'un voleur, que de trainer sans<br>rien faire."
     },
-    "83856": {
-        "「バロのアニキ！　ボクたちダンダダ団が\n　大盗賊カンダタさんと　名前が似ているのは\n　偶然ってことに　しましょうよ！": "Grand frere Baro ! Disons que c'est une\ncoincidence si notre groupe, le gang Dandada,\na un nom qui ressemble a celui du grand voleur<br>Robbin' 'Ood-san !"
+    "90706": {
+        "「<pc>さん　私のことは\n　カンダタ子分Ｂと　お呼びください。\n　もちろん　あなたが　子分Ａですよ！": "<pc>-san, veuillez m'appeler Robbin'\n'Ood Subalterne B. Bien sur, vous etes le\nSubalterne A !"
     },
-    "83857": {
-        "「ボクたち　ダンダダ団の名称は\n　実在の盗賊とは　いっさい関係ありませんって\n　言い張れば　きっと　大丈夫です！": "Si nous affirmons fermement que le nom de\nnotre groupe, le Dandada-dan, n'a absolument\naucun lien avec de vrais voleurs, ca devrait<br>aller !"
+    "90707": {
+        "「さて……カンダタ親分さん。\n　私に　頼みとは　いったいなんでしょう？": "Alors... Chef Robbin' 'Ood-san. De quoi\ns'agit-il, cette demande que vous avez pour\nmoi ?"
     },
-    "83858": {
-        "「マジ　それで　いくしかねえ……。": "Vraiment, on n'a pas d'autre choix que d'y\naller comme ca..."
+    "90708": {
+        "「おう。そうそう　ソレが本題よ。\n　テメーを子分にしたのは\n　ビッグホルンの出力を　上げさせるためだ！": "Oh. Oui, c'est ca, c'est le sujet principal.\nLa raison pour laquelle je t'ai pris comme\nsubordonne, c'est pour augmenter la puissance<br>du Big HoRune !"
     },
-    "83859": {
-        "「おいっ　テメー。\n　今後　オレらの前で　カンダタさんの名前を\n　クチに出したら　マジ殴る。テッテー的に。": "He, toi la. Si jamais tu prononces le nom de\nRobbin' 'Ood-san devant nous a l'avenir, je te\njure que je te frappe. Serieusement."
+    "90709": {
+        "「ホルンの出力を？\n　……はぁ　まあ　無職であるとはいえ\n　ウデきき建築士の私には　たやすいことですが。": "Faire fonctionner la Rune ? ... Eh bien, meme\nsi je suis sans emploi, en tant qu'architecte\ntalentueux, cela ne devrait pas poser de<br>probleme."
     },
-    "83860": {
-        "「えーっと　でも　偽物が逃げたんなら\n　また　ケーキを買いに　行けるんだなー。\n　オイラは　それで　満足なんだなー。": "Euh... Mais si F. s'est echappe, ca veut dire\nqu'on peut retourner acheter ce delicieux\nGateau a la creme. Moi, ca me suffit pour etre<br>content."
+    "90710": {
+        "「それなら　話が早ぇや！\n　ぱぱぱっと　やってくんな！": "Dans ce cas, pas de temps a perdre ! Allez, en\navant ! Accomplis ta tache rapidement !"
     },
-    "83861": {
-        "「ありがとうー　助かったぞー。\n　これは　お礼なんだなー。受け取ってくれー。": "Merci beaucoup, tu m'as sauve. Voici un petit\nquelque chose pour te remercier. Accepte-le,\nje te prie."
+    "90711": {
+        "「できました！\n　無職ながら　ウデきき建築士の私が\n　ホルンの出力を操作して　倍にしましたよ！": "J'ai reussi ! Bien que sans emploi, en tant\nqu'architecte talentueux, j'ai manipule la\nsortie de HoRune pour la doubler !"
     },
-    "83862": {
-        "「それにしても　大盗賊カンダタが\n　探してる　月の秘宝って　なんだー？\n　きっと　すごく　おいしいんだろうなー。": "En tout cas, quel est donc ce Treasure of the\nMoon que le grand voleur Robbin' 'Ood\nrecherche ? Ca doit etre vraiment delicieux,<br>je parie."
+    "90712": {
+        "「よーし　でかしたっ！\n　それじゃ　さっそく乗り込むとするか！": "Bien joue ! Allons-y, embarquons tout de suite\n!"
     },
-    "84805": {
-        "「さ……さっきから聞いてりゃ\n　あんまりにも　あんまりじゃないですか！": "Ca... ca fait un moment que j'ecoute, et c'est\nvraiment exagere, non ?"
+    "90713": {
+        "「いくぜ！！！": "Allons-y !!!"
     },
-    "91119": {
-        "「ああー　ハラペコになってきたー。\n　今日からは　毎日　オルフェアの町に\n　ケーキを買いに行くぞー。": "Ah, j'ai tellement faim ! A partir\nd'aujourd'hui, je vais aller acheter un Gateau\na la creme succulent a Orphea tous les jours."
+    "90714": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "90715": {
+        "「わあっ！　カンダタ親分さん！\n　し　しっかりしてください！！": "Waah ! Chef Robbin' 'Ood-san ! S'il vous\nplait, reprenez-vous !!"
+    },
+    "90716": {
+        "「おいっ　ペリポン！！\n　ちっとも　出力が上がってねえじゃねえか！\n　どこが　ウデきき建築士なんでい！": "He, Peripon !! La puissance de sortie\nn'augmente pas du tout ! Ou est passe le\ntalent de cet architecte de genie ?!"
+    },
+    "90717": {
+        "「わあっ　乱暴はよしてください！\n　助けてください　カンダタ子分Ａさん！": "Waah, arretez de faire les brutes, s'il vous\nplait ! Aidez-moi, Robbin' 'Ood Koben A-san !"
+    },
+    "90718": {
+        "「うるせえ！　月の秘宝を手に入れるために\n　俺様は　月に飛んで行きてえんだ！\n　いいから　さっさと　なんとかしろっ！！": "Silence ! Je veux me rendre immediatement a\nMn. pour obtenir le Treasure of the Moon !\nAlors depeche-toi de faire quelque chose !!"
+    },
+    "90719": {
+        "「月に　飛んでいく……？": "Mn. va s'envoler... ?"
+    },
+    "90720": {
+        "「ええ～っ！？\n　あの　空に浮かぶ　お月様にですか！？": "Hein !? Vous parlez de ce M. qui flotte dans\nle ciel !?"
+    },
+    "90721": {
+        "「……それならそうと　最初に言ってください。\n　今の　ビッグホルンでは無理です。\n　根本的な改造が　必要ですね。": "Dans ce cas, dites-le des le debut. Avec la\nconfiguration actuelle de Big HoRune, c'est\nimpossible. Il va falloir une refonte<br>complete."
+    },
+    "90722": {
+        "「なんだと！？\n　おう　くわしく話してみな！": "Quoi !? Raconte-moi ca en detail !"
+    },
+    "90723": {
+        "「う～む……その　ガンガン電池ってので\n　この　ビッグホルンの出力を\n　爆発的に　アップできるのか？": "Hmm... Avec cette Booming Battery, peut-on\nvraiment augmenter de facon explosive la\npuissance de ce grand Big Rune ?"
+    },
+    "90724": {
+        "「はい。無職の私の　偉大なる先祖が作った\n　キラキラ大風車塔・１０の秘密の　ひとつ。\n　それが　ガンガン電池です。": "Oui. Un des dix secrets de la grande tour du\nmoulin a vent de Lycae, creee par mon illustre\nancetre sans emploi. C'est la Booming Battery."
+    },
+    "90725": {
+        "「あとの　９つも　なかなか素晴らしい\n　驚きに満ちているんですよ！\n　たとえば……": "Les 9 autres sont egalement incroyables et\npleins de surprises ! Par exemple..."
+    },
+    "90726": {
+        "「そっちの話は　どうでもいい。\n　で　ガンガン電池は　どこにあるんだ！？": "Peu importe cette histoire-la. Alors, ou se\ntrouve la Booming Battery !?"
+    },
+    "90727": {
+        "「親分さんが持ってきた古文書によれば……\n　キラキラ大風車塔の　儀式の間。\n　壁のランプの中に　隠されているようです。": "Selon les anciens documents apportes par\nOyabun-san... Dans la grande tour du moulin\nLycae, dans la salle du rituel. Il semblerait<br>qu'il soit cache dans le mur de la lampe LMP."
+    },
+    "90728": {
+        "「よし！　<pc>！\n　テメーの出番だぜ！　ガンガン電池を\n　キラキラ大風車塔から　取ってきやがれ！": "Bien ! <pc> ! C'est ton tour ! Va\nchercher la Booming Battery dans la grande\ntour eolienne de Lycae !"
+    },
+    "90729": {
+        "「わあっ　待ってください！\n　なにしろ　ガンガン電池は貴重なものですから\n　厳重に　カギをかけて　しまってあるそうです！": "Waouh, attendez s'il vous plait ! Apres tout,\nla Booming Battery est un objet precieux, il\nparait qu'elle est soigneusement verrouillee<br>avec une cle !"
+    },
+    "90730": {
+        "「……あっ！　ふ　風車のカギって……。": "…Ah ! Le Windmill Key…"
+    },
+    "90731": {
+        "「なんだあ？　カギに心当たりがあるのか！\n　なら　さっさと渡すのが　身のためだぜ！": "Quoi ? Tu sais quelque chose a propos de la\nKey ! Dans ce cas, tu ferais mieux de la\nremettre rapidement, pour ton propre bien !"
+    },
+    "90732": {
+        "「……風車のカギは　無職の私の偉大な祖先\n　建築士プロッペから　受け継がれ\n　代々　家宝として　大切に保管していました。": "...La Cle de l'Eolienne a ete transmise par\nmon glorieux ancetre, l'architecte Proppe, qui\netait sans emploi, et a ete soigneusement<br>conservee comme un tresor de famille a travers\nles generations."
+    },
+    "90733": {
+        "「しかし……つい先日　その風車のカギを\n　ある盗賊に　盗まれてしまったんです。": "Mais... tout recemment, ce Windmill Key a ete\nvole par un voleur."
+    },
+    "90734": {
+        "「なにぃ！？　俺様の風車のカギを盗んだ\n　けしからん盗賊が　いるだと！？\n　その盗賊ってのは何者だ！！": "Quoi !? Un voleur impertinent a derobe ma Cle\ndu Moulin !? Qui est ce voleur !!"
+    },
+    "90735": {
+        "「……忘れもしない　アイツです！\n　悪名高き　盗賊ラゴスこそが\n　風車のカギを　盗んだ犯人なのです！！": "Je ne l'oublierai jamais, c'est LUI ! C'est le\ntristement celebre Thief Lagos qui a vole la\nWindmill Key !!"
+    },
+    "90736": {
+        "「ふん……ラゴスか。\n　なつかしい名前を　聞いたもんだぜ。\n　だが　アイツの居所なら　心当たりがある。": "Hmm... Lagos, hein. C'est un nom qui reveille\ndes souvenirs. Mais je pense savoir ou il se\ntrouve."
+    },
+    "90737": {
+        "「ドワチャッカ大陸　ボロヌス溶岩流の東\n　……最果ての地下遺跡の奥に\n　おそらく　ラゴスは　隠れているはずだ。": "Le continent Dwachakka, a l'est du Boronus\nLava Flow... ...Dans les profondeurs des\nDeepest Depths, Lagos doit probablement s'y<br>cacher."
+    },
+    "90738": {
+        "「<pc>。\n　テメーに　これをくれてやるぜ！": "<pc>. Je vais te donner ca !"
+    },
+    "90739": {
+        "<pc>は\n漆黒のノート（だいじなもの）を　受け取った！<me_60>": "<pc> a recu le Jet-Black Notebook (objet\ncle) ! <me_60>"
+    },
+    "90740": {
+        "「最果ての地下遺跡の奥に　着いたら\n　そのノートに書かれた文章を　読み上げろ！": "Lorsque tu atteindras les profondeurs les plus\nreculees de Deepest Depths, lis a voix haute\nle texte inscrit dans ce carnet !"
+    },
+    "90741": {
+        "「<pc>！\n　テメーは　俺様の最強の子分だ。\n　必ず　ラゴスから　風車のカギを取り返せ！": "<pc> ! Tu es mon meilleur subordonne.\nRecupere absolument la Cle de l'Eolienne de\nLagos !"
+    },
+    "90742": {
+        "「風車のカギを　手に入れたら\n　キラキラ大風車塔に　集合だぞ！！": "Une fois que tu auras obtenu la cle Windmill,\nrejoins-nous a la grande tour eolienne de\nLycae !"
+    },
+    "90744": {
+        "「そっ　それは　昔　僕が作った詩！？\n　どうして　知ってるんだ……！": "C'est... c'est un poeme que j'ai ecrit\nautrefois !? Comment est-ce que tu le\nconnais... !"
+    },
+    "90745": {
+        "「僕の秘密を　知られたからには\n　生かして帰すわけに　いかない。\n　……覚悟しろ！": "Maintenant que tu connais mon secret, je ne\npeux pas te laisser partir vivant.\n...Prepare-toi !"
+    },
+    "90746": {
+        "「君……なかなか　やるな。\n　ここまで　僕を追い詰めるとは。": "Toi... tu te debrouilles bien. Me pousser\njusque-la, c'est impressionnant."
+    },
+    "90747": {
+        "「でも　いったい　どこで\n　僕が若い頃に作った\n　詩のノートを　手に入れたんだい？": "Mais ou as-tu bien pu mettre la main sur le\ncarnet de poemes que j'ai ecrit quand j'etais\njeune ?"
+    },
+    "90748": {
+        "<cs_pchero>は　盗賊ラゴスに\nカンダタから　漆黒のノートをもらった\nいきさつを　説明した！": "<cs_pchero> a explique a Thief Lagos comment\nil a recu le Carnet Noir de Robbin' 'Ood !"
+    },
+    "90749": {
+        "「くっ……。僕の過去を\n　カンダタに　知られてしまっていたなんて……。\n　恥ずかしくて　おちおち盗みもできないよ！": "Argh... Je n'arrive pas a croire que Robbin'\n'Ood connaisse mon passe... C'est tellement\nembarrassant que je ne peux meme plus voler en<br>paix !"
+    },
+    "90750": {
+        "「しかし……そうか。僕が盗んだ　風車のカギを\n　取り戻すために　来たんだね。\n　だけど　ただで返すわけには　いかないな。": "Cependant... je vois. Tu es venu recuperer la\nWindmill Key que j'ai volee. Mais je ne peux\npas te la rendre aussi facilement."
+    },
+    "90751": {
+        "「その　漆黒のノートと交換なら\n　風車のカギを　返してもいい。\n　どうだい？": "Si tu echanges ce Jet-Black Notebook, je veux\nbien te rendre la Cle du Moulin. Qu'en dis-tu\n?"
+    },
+    "90752": {
+        "盗賊ラゴスに　漆黒のノートを　渡しますか？<yesno><close>": "Voulez-vous donner le Cahier Noir de Jais a\nVoleur Lagos ? <yesno><close>"
+    },
+    "90753": {
+        "「い　いくら暴力をふるわれたって\n　僕は　屈しないからな！\n　風車のカギは　漆黒のノートと　交換だ！！": "Peu importe la violence que tu utilises contre\nmoi, je ne cederai pas ! La Cle du Moulin a\nVent sera echangee contre le Cahier Noir !"
+    },
+    "90754": {
+        "<cs_pchero>は　漆黒のノートを渡し\n風車のカギ（だいじなもの）を　手に入れた！<me_60>": "<cs_pchero> a remis le Carnet Noir de Jais et\na obtenu la Cle du Moulin a Vent (objets cles)\n! <me_60>"
+    },
+    "90755": {
+        "「ああ……懐かしいなあ。\n　この手触り　この紙の匂い。\n　カンダタのヤツ　どこで　これを……。": "Ah... Que de souvenirs. La texture de ce\npapier, cette odeur. Ou est-ce que ce Robbin'\n'Ood a bien pu trouver ca..."
+    },
+    "90756": {
+        "「ん？　君　まだいたのかい？\n　風車のカギを　渡したんだから\n　さっさと　キラキラ大風車塔に行きなよ。": "Hmm ? Tu es encore la ? Je t'ai deja donne la\ncle du Moulin a Vent, alors depeche-toi\nd'aller a la Grande Tour des Moulins Lycae."
+    },
+    "90757": {
+        "「そのカギを　キラキラ大風車塔　儀式の間の\n　壁にある　ランプのひとつに使えば\n　ガンガン電池が　手に入るはずさ。": "Si tu utilises cette cle sur l'un des LMP de\nla salle du rituel dans la grande tour\neolienne de Lycae, tu devrais obtenir la<br>Booming Battery."
+    },
+    "90758": {
+        "「それじゃ　僕はこれで！\n　僕が　ここの暗闇に　隠れてることは\n　くれぐれも　他の連中には　内緒にしてよね！": "Alors, je m'en vais maintenant ! Assure-toi\nsurtout que personne d'autre ne decouvre que\nje me cache ici dans cette obscurite !"
+    },
+    "90759": {
+        "「おう！　そいつが　ガンガン電池か。\n　でかしたぜっ　<pc>！": "Oh ! C'est donc ca, la Booming Battery. Bien\njoue, <pc> !"
+    },
+    "90760": {
+        "「ペリポン！　この　ガンガン電池で\n　さっそく　ビッグホルンを改造しろ！\n　５分以内だ！！": "Peripon ! Avec cette Booming Battery, modifie\nimmediatement le Big HoRune ! Tu as 5 minutes\n!!"
+    },
+    "90761": {
+        "「わあっ　待ってください！\n　いくら無職で　時間があり余っているとはいえ\n　５分以内はムリですよ。せめて１５分は……": "Waouh, attendez ! Meme si je suis sans emploi\net que j'ai beaucoup de temps libre, je ne\npeux pas le faire en moins de 5 minutes.<br>Donnez-moi au moins 15 minutes..."
+    },
+    "90762": {
+        "「む……？　これは……。": "Hmm...? Qu'est-ce que c'est...?"
+    },
+    "90763": {
+        "「なんでえ　もったいつけんじゃねえ！\n　１０分以内なら　待ってやるぜ！！": "Pourquoi tu fais tant d'histoires ! Je vais\nattendre, mais seulement 10 minutes !!"
+    },
+    "90764": {
+        "「いや……残念ながら\n　１０分どころか　当分の間\n　ビッグホルンの改造は　ムリそうです。": "Non... Malheureusement, non seulement cela ne\nprendra pas dix minutes, mais il semble que la\nmodification du Big HoRune soit impossible<br>pour le moment."
+    },
+    "90765": {
+        "「なんだとっ！？": "Quoi !?"
+    },
+    "90766": {
+        "「この　ガンガン電池は　キラキラ大風車塔の\n　回転を利用し　電力を貯めるのですが\n　見たところ　まだ充電が完全ではありません。": "Ce Booming Battery utilise la rotation de la\ngrande eolienne de Lycae pour accumuler de\nl'energie, mais a premiere vue, la charge<br>n'est pas encore complete."
+    },
+    "90767": {
+        "「無職の私には　わかります……。\n　まだ　ガンガン電池は　本気を出していない。": "En tant que chomeur, je le comprends... Le\nBooming Battery n'a pas encore montre son\nveritable potentiel."
+    },
+    "90768": {
+        "「ちっ。こんなトコで　足止めかよ！\n　充電が終わるのは　いつなんだ？": "Tch. Bloque ici, hein ! Quand est-ce que cette\nrecharge sera terminee ?"
+    },
+    "90769": {
+        "「はっきりとは　わかりません。\n　何しろ　古い機械ですので\n　すぐには　無理としか……。": "Je ne sais pas exactement. Apres tout, c'est\nune vieille machine, donc je ne peux que dire\nque c'est difficile immediatement..."
+    },
+    "90770": {
+        "「ですが　幸運にも　私は無職です！\n　毎日……　いや　１日に５回だって\n　様子を　見にきますよ。": "Mais par chance, je suis sans emploi ! Tous\nles jours... non, meme cinq fois par jour, je\nviendrai voir comment ca se passe."
+    },
+    "90771": {
+        "「充電が終わったらすぐ\n　カンダタ親分さんに　ご連絡しましょう。\n　どうか　それまで　お待ちください。": "Une fois la recharge terminee, contactons\nimmediatement le chef Robbin' 'Ood san. Je\nvous prie de patienter jusque-la."
+    },
+    "90772": {
+        "「しょうがねえ　待っててやらあ。\n　ちくしょう！\n　ようやく　月に行けると思ったのによ……。": "Bon, je n'ai pas le choix, je vais attendre.\nBon sang ! Je pensais enfin pouvoir aller a\nMn. ..."
+    },
+    "90773": {
+        "「それはそうと　<pc>！\n　よくぞ　盗賊ラゴスから　\n　風車のカギを　ブンどってきてくれたな！": "Au fait, <pc> ! Bravo d'avoir reussi a\nrecuperer la Windmill Key des mains du voleur\nLagos !"
+    },
+    "90774": {
+        "「さすがは　俺様の　最強の子分だぜ。\n　これは　今回の礼だ。受け取りな！": "Comme prevu, tu es vraiment mon meilleur\nacolyte. Voici ta recompense pour cette\nfois-ci. Prends-la !"
+    },
+    "90775": {
+        "「ガンガン電池の　充電が終わったら\n　テメーにも　連絡してやる。": "Quand la recharge de la Booming Battery sera\nterminee, je te contacterai aussi."
+    },
+    "91088": {
+        "「あ　どうも。はじめまして。\n　あなたが　カンダタ子分さんですか。\n　私　ペリポンと申します。": "Ah, bonjour. Enchante de faire votre\nconnaissance. Etes-vous le subordonne de\nRobbin' 'Ood-san ? Je m'appelle Peripon."
+    },
+    "91875": {
+        "辺りには　誰もいないようだ……。": "Il semble qu'il n'y ait personne aux\nalentours..."
+    },
+    "91876": {
+        "<cs_pchero>は　カンダタにもらった\n漆黒のノートの文章を　読み上げた！": "<cs_pchero> a lu a haute voix le texte du\nJet-Black Notebook recu de Robbin' 'Ood !"
+    },
+    "91877": {
+        "宿命……神と悪魔に引き裂かれし自我。\n盗みという快楽……背徳の美酒に魅せられし魂は\n夜毎　肉体という戒めを操り　罪へと駆り立てる。": "Destin... Un moi dechire entre Dieu et le\ndiable. Le plaisir du vol... Une ame seduite\npar le doux poison de la transgression<br>manipule chaque nuit les chaines de son corps,\npoussee inexorablement vers le peche."
+    },
+    "91878": {
+        "甘き罪……呼び醒まされる血が\n漆黒の闇に罪人を微笑ませ……宿業が刻まれる！！\n今宵も！　今宵も！！　今宵も……": "Les doux peches... le sang reveille fait\nsourire les damnes dans les tenebres\nd'ebene... le karma est grave !! Ce soir<br>encore ! Ce soir encore !! Ce soir encore..."
+    },
+    "91879": {
+        "「う　うわあああああっ！？": "Ou-ouaaaaah !?"
+    },
+    "93019": {
+        "「おっと。こいつは　後のお楽しみだ。": "Oh, ca, c'est pour plus tard."
+    },
+    "97080": {
+        "「それこそが　月の秘宝！！\n　そいつを手に入れることが　俺様の夢だからだ！": "C'est ca, le Tresor de la Lune !! C'est mon\nreve de mettre la main dessus !"
+    },
+    "97081": {
+        "「アイツは　どうせ　暗闇に潜んでやがる。\n　だが　ノートの文章を　読み上げれば\n　必ず　ラゴスは　現れるはずだ。": "Ils se cachent surement dans l'obscurite. Mais\nsi nous lisons a haute voix le texte du\ncarnet, Lagos apparaitra forcement."
+    },
+    "97082": {
+        "「そしたら　月の秘宝を　手に入れるため\n　すぐに　月へと出発だ！\n　呼ばれたら　スッ飛んでこいよ！　じゃあな！": "Ensuite, pour obtenir le Treasure of the Moon,\nnous partirons immediatement pour Mn. !\nLorsque tu seras appele, viens en courant ! A<br>bientot !"
     }
 }
