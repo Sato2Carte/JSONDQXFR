@@ -1,341 +1,173 @@
 {
-    "20018": {
-        "「ミャハハッ。<pc>さま。\n　リベリオの旦那のことを　心配して\n　来てくれたんでヤンスね。": "Myahaha. <pc>-sama. Vous etes venu vous\ninquieter pour monsieur Riberio, n'est-ce pas\n?"
+    "21898": {
+        "「あら　まあ　旅人さんでございますわね？\n　モ　モガレ修道院に　ようこそ\n　いらっしゃりました……。オホホ……。": "Ah, mais vous etes un voyageur, n'est-ce pas ?\nBienvenue au Monastere de Mogare. Je suis\nravie de vous accueillir... Oh ho ho..."
     },
-    "20019": {
-        "「……むおっ！！\n　いい考えが　ひらめいたニャ！！": "......Mouh ! Une idee geniale vient de me\ntraverser l'esprit, nya !!"
+    "21899": {
+        "「あー！　見ろよ　アペペ！\n　シスター・ニニカが　ネコかぶってるぞ！\n　ダッセー！": "Ah ! Regarde ca, Apepe ! Soeur Ninika fait\nsemblant d'etre gentille ! La honte !"
     },
-    "20020": {
-        "「<pc>じゃ　ダメだったのニャー。\n　マンマーさまの心を　動かすのに\n　もっといい素材があることに　気づいたのニャ！": "<pc> ne convenait pas, miaou. Pour\ntoucher le coeur de Manma-sama, j'ai realise\nqu'il y a de meilleurs ingredients, miaou !"
+    "21900": {
+        "「なんだい　チョッパ！\n　シスターしゃべりの　練習してんだ！\n　邪魔するんじゃないよ！　あっちに　お行き！": "Quoi, Choppa ! Je m'entraine a parler comme\nune soeur ! Ne viens pas me deranger ! Va-t'en\npar la-bas !"
     },
-    "20021": {
-        "「そうニャ……。あの娘を使うのニャ。": "Hum... On va se servir de cette fille."
+    "21901": {
+        "「シスター・ニニカが　怒ったぞー！\n　ウヒョー！　チョー　コエー！": "La soeur Ninika est en colere ! Ouh la la !\nElle fait vraiment peur !"
     },
-    "20022": {
-        "「ミャハッ！　そいつは　いい考えでヤンス。\n　さっすが　リベリオの旦那でヤンス～！！": "Miaha ! C'est une excellente idee, yansu.\nComme attendu de la part de monsieur LiberLeo,\nyansu~ !!"
+    "21902": {
+        "「……やれやれ。\n　チョッパのせいで　お里が　知れちまった。\n　アンタの前で　ネコかぶっても　もうムダだね。": "…Eh bien, eh bien. A cause de Choppa, mon vrai\nvisage a ete revele. Ca ne sert plus a rien de\nfaire semblant devant toi."
     },
-    "20023": {
-        "「……で　その娘って　誰でヤンスか？": "…Et qui est cette fille ?"
+    "21903": {
+        "「にぎやかだろう？　この修道院。": "Animee, n'est-ce pas ? Cette abbaye."
     },
-    "20024": {
-        "「ジュレットの町にいる　ウェディの娘ニャ。\n　名は　たしか……ソーミャなのニャ！！": "A Julet, il y a une jeune fille Weddie. Son\nnom est, si je me souviens bien... Soumya !!"
+    "21904": {
+        "「この修道院はね　マザー・ヘレナが\n　身寄りのない子供の　面倒を見ている\n　孤児院でもあるんだ。": "Ce monastere sert aussi d'orphelinat, ou\nMother Helena prend soin des enfants sans\nfamille."
     },
-    "20025": {
-        "「オレが海に流した　ジュニアを助けた娘ニャ。\n　あの娘に　とりなしてもらえば\n　マンマーさまも　ゆるしてくれるはずニャ！": "Elle, c'est la jeune fille qui a sauve Junior\nque j'ai laisse deriver en mer. Si elle peut\ninterceder en ma faveur, Maman-sama devrait me<br>pardonner !"
+    "21905": {
+        "「みんな　いろいろ　あったけど\n　ああやって　元気に　振る舞っていられるのは\n　マザー・ヘレナの　おかげだよ。": "Tout le monde a traverse tant d'epreuves, mais\ns'ils peuvent agir avec autant de vitalite,\nc'est grace a Mother Helena."
     },
-    "20026": {
-        "「ミャギャ！　待つでヤンス！\n　リベリオの旦那が　ウェディの町に行ったら\n　大騒ぎどころじゃ　済まないでヤンスよ！！": "Myaah ! Attendez, m'sieur ! Si le maitre\nRibero se rend dans la ville de Weddie, ca ne\nva pas simplement etre une agitation, ce sera<br>bien pire !"
+    "21906": {
+        "「マザー・ヘレナは　立派な方さ。\n　あたいも　孤児でね。昔は　相当　荒れてたけど\n　あの人のおかげで　ずいぶんマシになったんだ。": "Mother Helena est une personne remarquable.\nMoi aussi, j'etais orpheline. Autrefois,\nj'etais assez rebelle, mais grace a elle, je<br>me suis beaucoup amelioree."
     },
-    "20027": {
-        "「む……それも　そうだニャ。\n　じゃあ　どうすれば　いいかニャ……。": "Hmm... C'est vrai, miaou. Alors, que\ndevrions-nous faire, miaou..."
+    "21907": {
+        "「……で？　旅人さん。\n　アンタ　こんな　いなかの修道院に\n　何しにきたっていうんだい？": "...Alors ? Voyageur. Qu'est-ce qui t'amene\ndans ce monastere perdu en pleine campagne ?"
     },
-    "20028": {
-        "「<pc>　チカラを貸してほしいニャ。\n　礼も用意するから　頼むニャ。": "<pc>, j'ai besoin de ton aide, miaou. Je\nte recompenserai, alors je t'en prie, miaou."
+    "21908": {
+        "「……へえ。ドルワーム王立研究院の院長\n　ドゥラの使いで　マザー・ヘレナにねえ。\n　なんだって　そんなエライ人が……": "Eh bien. L'envoye de Dura, directeur de\nl'Institut Royal de Recherche de Dolworm, chez\nMere Helena, hein. Pourquoi une personne aussi<br>importante..."
     },
-    "20029": {
-        "「ジュレットの町へ行って　ソーミャを\n　ここに　連れてきてほしいのニャ。\n　<pc>　やってくれるよニャ？": "Je voudrais que tu ailles a Julet pour ramener\nSomya ici, miaou. <pc>, tu pourras le\nfaire, n'est-ce pas, miaou ?"
+    "21909": {
+        "「……って　ちょっと　待った！\n　アンタ　今　ドゥラって言ったかい！？\n　ドゥラの使いって……　それ　マジ！？": "... Attends un peu ! Tu viens de dire Dura,\nn'est-ce pas !? L'emissaire de Dura... c'est\nserieux !?"
     },
-    "20030": {
-        "「キサマ　ホントに　いいヤツなのニャー！！\n　恩に着まくるのニャー。": "Tu es vraiment quelqu'un de bien, miaou !! Je\nte suis tellement reconnaissant, miaou."
+    "21910": {
+        "「どうした　ニニカ？\n　ドゥラの名前が　聞こえたが……。\n　やつが　どうかしたのか？": "Que se passe-t-il, Ninika ? J'ai entendu le\nnom de Dura... Quelque chose est arrive a ce\ntype ?"
     },
-    "20031": {
-        "「ソーミャのことは　まかせたのニャ。\n　オレたちは　客のために\n　食い物の用意を　してくるのニャ。": "Je te confie Somya. Nous allons preparer de\nquoi manger pour les invites."
+    "21911": {
+        "<if_woman>「……ああ。\n　この　ねえちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<else>「……ああ。\n　この　にいちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<endif>": "<if_woman>> … Ah. Cette grande soeur semble\netre venue rencontrer Mother Helena.<else>> … Ah. Ce grand frere semble etre venu\nrencontrer Mother Helena. <endif>"
     },
-    "20032": {
-        "「ミャハッ。がってんでヤンス！": "Miaha ! Compris, chef !"
+    "21912": {
+        "「あの　裏切り者のドゥラの使いでね……。": "Ce messager de Dura, le traitre..."
     },
-    "20033": {
-        "「あニャ？　<pc>は　しこたま\n　頼まれごとを　抱えているようだニャ。": "Ah, tiens ? <pc> semble avoir enormement\nde requetes a gerer, miaou."
+    "21913": {
+        "「……マザー・ヘレナなら　そこの部屋にいる。\n　入るときは　ノックを忘れるんじゃないよ。": "......Mere Helena est dans cette piece.\nN'oublie pas de frapper avant d'entrer."
     },
-    "20034": {
-        "「それが　終わったらでいいニャ。\n　オレたちは　食い物でも　探してくるニャ。": "Ca ira une fois que ce sera termine, nya. On\nva chercher de quoi manger, nya."
+    "21914": {
+        "<if_woman>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　女の顔なんて\n　見たくもないからね。<else>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　男の顔なんて\n　見たくもないからね。<endif>": "<if_woman>>Une fois que tu as termine ce que\ntu avais a faire, rentre vite chez toi. Je\nn'ai pas envie de voir le visage d'une femme<br>exploitee par un type pareil.<else>>Une fois que tu as termine ce que tu avais a\nfaire, rentre vite chez toi. Je n'ai pas envie\nde voir le visage d'un homme exploite par un<br>type pareil. <endif>"
     },
-    "20035": {
-        "「そんニャー……。オレが　ソーミャを\n　連れだすわけには　いかないのニャー。": "Non, je ne peux pas emmener Somya avec moi."
+    "21915": {
+        "「ようこそ　いらっしゃいました。\n　私が　マザー・ヘレナでございます。": "Bienvenue, je suis Mother Helena."
     },
-    "20036": {
-        "「<pc>の　気が変わるまで\n　オレたちは　食い物でも　探しにいくニャ……。": "Jusqu'a ce que <pc> change d'avis,\nallons chercher de la nourriture..."
+    "21916": {
+        "「あなたは　どうやら　ドゥラの使いで\n　この修道院まで　来られたようですが……。\n　ウフフ。図星ですわね？": "Il semblerait que vous soyez venu jusqu'a ce\nmonastere en tant qu'emissaire de Dura...\nUfufu. Ai-je vise juste ?"
     },
-    "20037": {
-        "「ミャッ？　<pc>さま。\n　アッシからも　お願いしヤンス。\n　旦那の頼みを　聞いてほしいでヤンス。": "Miaou ? <pc>-sama. Je vous en prie, je\nvous implore aussi. Veuillez ecouter la\ndemande du maitre, je vous en supplie."
+    "21917": {
+        "「私　目が見えない分　耳がよく聞こえましてね。\n　先ほどの　あなたと　ニニカの会話を\n　ここで　聞かせていただきましたの。": "Je ne peux pas voir, mais mon ouie est\nexcellente, vous savez. J'ai pu ecouter votre\nconversation avec Ninika juste ici."
     },
-    "20038": {
-        "「マンマーさまに　とりなしてもらうために\n　オレは　どうあっても　ソーミャという娘の\n　チカラを借りなければ　ならないのニャ。": "Pour que Maman-sama plaide en ma faveur, je\ndois absolument emprunter la force de cette\nfille nommee Somya."
+    "21918": {
+        "「それにしても　ドゥラったら\n　私の所へ　使いをよこすなんて……。": "Tout de meme, Dura m'envoyer quelqu'un..."
     },
-    "20039": {
-        "「ジュレットの町へ行って　ソーミャを\n　ここに　連れてきてほしいニャ。\n　<pc>　やってくれるよニャ？": "Je voudrais que tu ailles a Julet et que tu\nramenes Somya ici. <pc>, tu peux le\nfaire, n'est-ce pas ?"
+    "21919": {
+        "「ドルワームで　よほど　エラくなったか。\n　あるいは……　育ての親である　私に\n　よほど　会いたくなかったのでしょうね。": "Tu es devenu tres important a Dolworm,\nn'est-ce pas ? Ou bien... tu ne voulais\nvraiment pas revoir ta mere adoptive, n'est-ce<br>pas ?"
     },
-    "20040": {
-        "「ミャハッ。<pc>さま。\n　リベリオの旦那は　狩りに\n　がんばりすぎて　お疲れなのでヤンス。": "Mya-ha ! <pc>-sama. Le maitre Ribero est\nepuise a force de trop s'investir dans la\nchasse."
+    "21920": {
+        "「ドゥラは　ドルワームに行くまで\n　この修道院に　身を置いておりました。\n　孤児だった　あの子を　私が引き取って……。": "Dura a sejourne dans ce monastere jusqu'a ce\nqu'il se rende a Dolworm. J'ai pris en charge\ncet enfant orphelin..."
     },
-    "20041": {
-        "「リベリオの旦那が　マンマーさまの\n　おゆるしを得るために　ソーミャお嬢さんを\n　ここに　連れてきてほしいのでヤンスよ。<open_irai>": "Le mari de Ribere Leo souhaite obtenir la\nbenediction de Mamma-sama, alors il aimerait\nque vous ameniez ici la jeune dame Sormya.<br><open_irai>"
+    "21921": {
+        "「ですが　ある日……。ドゥラは\n　自分こそが　ドルワームの捨てられた王子だと\n　証明すると言って　ここを出ていったのです。": "Cependant, un jour... Dura a declare qu'il\nprouverait qu'il est le prince abandonne de\nDolworm et il est parti d'ici."
     },
-    "20042": {
-        "<close_irai>「よろしく　お願いするでヤンス！！": "<close_irai>Je compte sur vous !!"
+    "21922": {
+        "「……私は　風のウワサで　耳にしました。\n　本当の双子の王子……　いえ　双子の王女が\n　ドルワームに　姿を現したことを。": "......J'ai entendu une rumeur dans le vent.\nLes veritables princesses jumelles... non, les\nprincesses jumelles sont apparues a Dolworm."
     },
-    "20043": {
-        "「客のために　うまい獲物を狩らニャー。\n　ミャルジ　行くのニャ……。": "Pour nos clients, je dois chasser de belles\nproies, miaou. Myarji, allons-y, miaou..."
+    "21923": {
+        "「あの子ったら　自分の過ちを　気にして\n　ここに来られなかったのかしら？\n　フフフ。あの子も　まだまだ子供ですわね。": "Cette enfant s'inquiete tellement de sa propre\nerreur qu'elle n'a pas pu venir ici, n'est-ce\npas ? Fufu, elle est encore bien jeune."
     },
-    "20044": {
-        "「ミャッハー。<pc>さま。\n　ソーミャお嬢さんを　連れてきたんでヤンスね？": "Miaou-ha. <pc>-sama. Vous avez amene la\njeune demoiselle Somya, n'est-ce pas ?"
+    "21924": {
+        "「……ところで　そのドゥラが　使いまで\n　よこして　私に　頼みたかったこととは\n　いったい　なんなのですか？": "D'ailleurs, qu'est-ce que ce Dura voulait tant\nme demander en envoyant un messager ?"
     },
-    "20045": {
-        "「おおっ　来てくれたのかニャ！": "Oh, tu es venu(e) !"
+    "21925": {
+        "「……なるほど。天魔クァバルナという\n　魔物を封じ込めるため　そのゼキルの聖杭に\n　聖女の祈りを　捧げるのですね。": "...... Je vois. Pour sceller le monstre appele\nKukulkannibal, il faut offrir une priere de la\nsainte sur ce pieu sacre de Zekir."
     },
-    "20046": {
-        "「きゃっ！": "Ah !"
+    "21926": {
+        "「ドゥラのたっての　お願いです。\n　よろこんで　お引き受けしますが\n　ひとつ　問題がございます。": "C'est une demande speciale de Dura. Je\nl'accepte avec plaisir, mais il y a un\nprobleme."
     },
-    "20047": {
-        "「ミャああ～　ダメでヤンスよ　旦那。\n　女の子を　怖がらせちゃあ～。": "Miaou~ Ce n'est pas bien, monsieur. Vous ne\ndevriez pas effrayer les jeunes filles."
+    "21927": {
+        "「それほどまで　強大な敵を封じるのであれば\n　神に近い場所……　聖地にまで　足を運び\n　祈りを　捧げなくてはなりません。": "Si un ennemi aussi puissant doit etre scelle,\nalors il est necessaire de se rendre dans un\nlieu proche des dieux... un sanctuaire, et d'y<br>offrir nos prieres."
     },
-    "20048": {
-        "「ミャッミャ。失礼しヤンした　お嬢さん。\n　アッシは　悪いネコじゃないでヤンスから\n　どうか　ご安心を……。": "ミャッミャ Pardonnez-moi, mademoiselle. Je ne suis\npas un mauvais chat, alors soyez rassuree..."
+    "21928": {
+        "「そうですね。ウェナ諸島の聖地　清廉の大滝。\n　その加護を受けた水の流れる　川の近くなら\n　私の祈りも　神に届くはずです。": "En effet. Le sanctuaire de l'ile de Wena, la\ngrande cascade sacree de Seiren. Si je prie\npres de la riviere ou coule cette eau benie,<br>ma priere devrait atteindre les dieux."
     },
-    "20049": {
-        "「汚い所ですが　どうぞでヤンス。\n　ささっ　ずずずいっと　中へ。": "C'est un endroit un peu sale, mais entrez, je\nvous en prie. Allez, allez, entrez donc a\nl'interieur."
+    "21929": {
+        "「ヴェリナード領北の　はるか東にある\n　ブーナー熱帯雨林の南東の桟橋から　舟で渡ると\n　清らかな泉があるので　そこへ参りましょう。": "A l'est lointain de Verinard North, en\ntraversant en bateau depuis le quai sud-est de\nla foret tropicale de Booner, il y a une<br>source pure. Allons-y."
     },
-    "20050": {
-        "「女の子は　このように扱わないと\n　ダメなんでヤンスよ　リベリオの旦那～。": "Les filles ne doivent pas etre traitees de\ncette facon, Monsieur RibeLeo."
+    "21930": {
+        "「私は　この通り　目が見えませんので\n　耳を頼りに　あなたのあとに　ついていきます。\n　そこまで　先導を　お願いいたしますわね。": "Je suis aveugle, donc je me fierai a mes\noreilles pour vous suivre. Je compte sur vous\npour me guider jusque-la."
     },
-    "20051": {
-        "「おおー　さすがは　ミャルジ。\n　スーパー・ジェントルキャットだニャ！": "Oh ! Comme prevu de Myarji. Un super gentleman\nchat, nya !"
+    "21931": {
+        "「天魔クァバルナを　封じるチカラを\n　ゼキルの聖杭に　宿すためには\n　聖地にて　祈りを捧げる必要があります。": "Pour impregner le Zekir's Holy Stake du\npouvoir de sceller Kukulkannibal, il est\nnecessaire d'offrir des prieres dans le lieu<br>sacre."
     },
-    "20052": {
-        "「オレを　覚えているかニャ？\n　マンマーさまの家来だった　リベリオだニャ。": "Tu te souviens de moi, n'est-ce pas ? Je suis\nRiberu, autrefois serviteur de Mama-sama."
+    "21932": {
+        "「ウェナ諸島にある聖地　清廉の大滝……。\n　その加護を受けた水の流れる　川の近くなら\n　私の祈りも　神に届くはずです。": "Les iles Wena abritent le sanctuaire de la\nGrande Cascade Pure... Si je prie pres de la\nriviere benie par ses eaux, ma priere devrait<br>atteindre les dieux."
     },
-    "20053": {
-        "「……忘れるわけない！\n　ジュニアちゃんに　ひどいことしたもん！！": "Je n'oublierai jamais ! J'ai fait quelque\nchose de terrible a Junior-chan !!"
+    "21933": {
+        "「ヴェリナード領北の　はるか東にある\n　ブーナー熱帯雨林の南東の桟橋から　舟で渡ると\n　清らかな泉があるので　そこへ参りましょう。": "A l'est lointain de Verinard North, en\ntraversant en bateau depuis le quai sud-est de\nla foret tropicale de Booner, il y a une<br>source pure. Allons-y."
     },
-    "20054": {
-        "「そっ　それについては　反省してるのニャ！\n　オレが　まちがっていたのニャ……。": "Ce... ce sujet-la, je le regrette vraiment,\nnyan ! J'ai fait une erreur, nyan..."
+    "21934": {
+        "「私は　この通り　目が見えませんので\n　耳を頼りに　あなたのあとに　ついていきます。\n　そこまで　先導を　お願いいたしますわね。": "Je suis aveugle, donc je me fierai a mes\noreilles pour vous suivre. Je compte sur vous\npour me guider jusque-la."
     },
-    "20055": {
-        "「今は　改心したのニャ。\n　マンマーさまの所へ　帰りたいのニャ。\n　チカラを　貸してほしいのニャ！": "Maintenant, j'ai change, nya. Je veux\nretourner aupres de Mama-sama, nya. J'ai\nbesoin de ton aide, nya !"
+    "21935": {
+        "「ずいぶん　遠くまで来てしまったものですね。\n　しかし　ここならば　清廉の大滝の加護を\n　問題なく　受けることができるでしょう。": "Nous sommes venus de tres loin, n'est-ce pas ?\nCependant, ici, nous devrions pouvoir\nbeneficier de la benediction de la Grande<br>Cascade Pure sans probleme."
     },
-    "20056": {
-        "「……本当に　もう悪いことしない？": "......Tu promets de ne plus jamais faire de\nmauvaises actions ?"
+    "21936": {
+        "「それでは　<pc>さん。\n　ゼキルの聖杭を　渡していただけますか？<yesno><close>": "Alors, <pc>-san. Pourriez-vous me\nremettre le Zekir's Holy Stake, s'il vous\nplait ? <yesno><close>"
     },
-    "20057": {
-        "「もちろんニャとも！\n　だから　マンマーさまに　オレのことを\n　ゆるしてやれと　言ってほしいのニャ。": "Bien sur, miaou ! C'est pourquoi j'aimerais\nque tu demandes a Mama-sama de me pardonner,\nmiaou."
+    "21937": {
+        "「あらあら　まるで　駄々っ子ね。\n　とっても　かわいらしいけど\n　聖杭を　渡してもらえないと困りますわ。": "Oh la la, tu es comme un enfant capricieux.\nC'est vraiment mignon, mais ca me poserait\nprobleme si tu ne me donnes pas le pieu sacre."
     },
-    "20058": {
-        "「…………やだ。": "......Non."
+    "21938": {
+        "<pc>は　マザー・ヘレナに\nゼキルの聖杭を　渡した！": "<pc> a remis le Pieu Sacre de Zekir a\nMere Helena !"
     },
-    "20059": {
-        "「ニャッ！？　そこをなんとか！\n　なんでもしますニャ。お願いしますニャ！": "Quoi !? Je vous en prie, trouvez une solution\n! Je ferai n'importe quoi. Je vous en supplie\n!"
+    "21939": {
+        "「……確かに　受け取りましたわ。\n　では　さっそく　ゼキルの聖杭に\n　祈りを　捧げるとしましょう。": "...Je l'ai bien recu. Alors, prions\nimmediatement devant le Saint Pieu de Zekir."
     },
-    "20060": {
-        "「………………。": "......................"
+    "21940": {
+        "「……父なる　神よ。\n　どうか　我が祈り　聞き届けたまえ……。\n　そのチカラ　授けたまえ……。": "O Pere celeste. Je vous en prie, entendez ma\npriere... Accordez-moi votre puissance..."
     },
-    "20061": {
-        "「……アッシ　町で盗みをしてたときに\n　小耳に　はさんだことが　ありヤンしてね……。": "Quand je faisais des petits larcins en ville,\nj'ai entendu quelque chose d'interessant..."
+    "21941": {
+        "「……祈りは　届いたようですね。\n　ゼキルの聖杭に　チカラが　たくわえられるまで\n　もう少し　時間が　かかるでしょう。": "…Il semble que nos prieres ont ete entendues.\nIl faudra encore un peu de temps avant que le\npouvoir ne soit pleinement absorbe par le<br>Zekir's Holy Stake."
     },
-    "20062": {
-        "「お嬢さんは　ご両親が行方知れずで\n　たった　ひとりで　暮らしてなさるとか。": "On dit que la jeune demoiselle vit seule, ses\nparents ayant disparu..."
+    "21942": {
+        "「ただ待っていても　退屈ですから\n　ドゥラの　昔話でもしましょうか……。": "Attendre sans rien faire est ennuyeux,\nn'est-ce pas ? Et si je vous racontais une\nancienne legende de Dura..."
     },
-    "20063": {
-        "「おお　なんと　かわいそうニャ……。\n　じゃあ　こうしようニャ！": "Oh, quel dommage... Alors, faisons ainsi !"
+    "21943": {
+        "「……ドゥラは　確かに　賢い子でしたが\n　それ以上に　心の優しい子でした。": "......Dura etait certes un enfant intelligent,\nmais elle etait surtout dotee d'une grande\ngentillesse."
     },
-    "20064": {
-        "「オレが　両親の行方を探してやるニャ。\n　見つけたら　そっちのチカラを貸してもらう。\n　ギブ・アンド・テイクというヤツなのニャ！": "Je vais chercher ou sont passes tes parents,\nmiaou. Quand je les trouverai, tu me preteras\nton aide. C'est ce qu'on appelle un echange de<br>bons procedes, miaou !"
+    "21944": {
+        "「おなかを空かせて　泣いている子がいたら\n　ただでさえ少ない　自分のパンを\n　その子に　分けあたえたりして……。": "Si tu vois un enfant pleurer de faim, tu\npartages ton pain, meme si tu en as deja peu\npour toi-meme..."
     },
-    "20065": {
-        "「……そんなの必要ない。\n　だから　余計なことをしないで！": "......Je n'en ai pas besoin. Alors, ne fais\npas de choses inutiles !"
+    "21945": {
+        "「私は　そんな優しいドゥラが　大好きでした。": "J'aimais tellement ce Dura si gentil."
     },
-    "20066": {
-        "「ニャッ？　それは　変だニャ。\n　家族みんなで　いっしょに暮らしたほうが\n　いいに決まってるニャ！": "Nyah ? C'est etrange, nyah. C'est certain\nqu'il vaut mieux vivre ensemble en famille,\nnyah !"
+    "21946": {
+        "「修道院のみんなは　野心家に変わってしまった\n　あの子を　責めているけれど……": "Tout le monde au monastere est devenu\nambitieux et blame cet enfant..."
     },
-    "20067": {
-        "「だまって　待っていればいいのニャ。\n　オレの手にかかれば　両親のひとりや　ふたり\n　すぐに　見つかるのニャー！！": "Tu n'as qu'a attendre en silence. Si c'est\nentre mes mains, retrouver un ou deux parents,\nce sera fait en un rien de temps, nya !"
+    "21947": {
+        "「あの子の心根は　今も　変わっていない……。\n　私は　そう思うのです。": "Le coeur de cet enfant n'a pas change... C'est\nce que je pense."
     },
-    "20068": {
-        "「…………じゃあ　勝手に探せば　いいよ。": "......Eh bien, cherche-le tout seul alors."
+    "21948": {
+        "「……そういえば\n　あの子とも　こうやって並んで\n　川のせせらぎを　聞いていたことがありました。": "... Maintenant que j'y pense, il y a eu un\nmoment ou j'etais assis a cote de cet enfant,\necoutant le murmure de la riviere."
     },
-    "20069": {
-        "「そうニャとも。勝手に探してみせるのニャ。\n　これで決まり！　決まりなのニャ！！": "Exactement, nya. Je vais chercher par\nmoi-meme, nya. C'est decide ! C'est decide,\nnya !!"
+    "21949": {
+        "「懐かしいわ。\n　もう　何年前のことに　なるのかしら……。": "C'est nostalgique. Combien d'annees cela\nfait-il deja... ?"
     },
-    "20070": {
-        "「ミャルジ！　さっそく　探しにいくのニャ！！\n　おまえは　その辺の洞くつとか　見てこいニャ。": "Myarji ! Allons immediatement a sa recherche,\nnya !! Toi, va jeter un oeil du cote de ces\ngrottes, nya."
+    "21950": {
+        "「……ごめんなさいね。\n　ちょっと　話し込んでしまったわ。\n　私　ゼキルの聖杭の様子を　見てきます。": "Je suis desolee. Je me suis laissee emporter\npar la conversation. Je vais aller verifier\nl'etat du Zekir's Holy Stake."
     },
-    "20071": {
-        "「ミャーサー！": "Miyaa-sa !"
+    "21951": {
+        "「……問題ありませんわ。\n　無事　聖杭に　チカラが　たくわえられました。\n　あとは　仕上げに　私の術をかけるだけです。": "...Il n'y a aucun probleme. La puissance a ete\ncorrectement absorbee par le Saint Pieu. Il ne\nreste plus qu'a appliquer ma magie pour<br>finaliser le tout."
     },
-    "20072": {
-        "「<pc>！　心の友よ！！\n　キサマにも　手伝ってもらうのニャ。\n　町や城の担当は　キサマなのニャ。": "<pc> ! Mon ami de coeur ! Je vais avoir\nbesoin de ton aide, nyan. Tu seras en charge\nde la ville et du chateau, nyan."
+    "21952": {
+        "「というわけですので　仕上げが　終わるまで\n　ゼキルの聖杭は　私が　おあずかりしますわね。\n　ドゥラにも　そう　お伝えください。": "Donc, jusqu'a ce que le travail soit termine,\nje vais garder le Zekir's Holy Stake. Veuillez\nen informer egalement Dura."
     },
-    "20073": {
-        "「では　ソーミャの両親探し　スタートなのニャ。\n　オレは　ハラ減ったので\n　食い物を　探しにいってくるニャー。": "Alors, commencons la recherche des parents de\nSomya. Moi, j'ai faim, donc je vais chercher\nquelque chose a manger, nya."
+    "21953": {
+        "「それでは　私は　修道院に戻ります。\n　帰りは　私ひとりでも　大丈夫ですので\n　気にせず　ドルワームへ　お戻りくださいね。": "Dans ce cas, je vais retourner au monastere.\nNe vous inquietez pas pour moi, je peux\nrentrer seule. Veuillez retourner a Dolworm<br>sans souci."
     },
-    "20074": {
-        "「あのネコたちに　見つかるわけないよね……。\n　私だって　自分の親のこと　知らないんだよ。": "Il est impossible que ces chats me trouvent,\ntu sais... Moi-meme, je ne connais pas mes\npropres parents."
-    },
-    "20075": {
-        "「私が　知ってるのは　ヴェリナードの城下町に\n　引っ越していった　ソネーゼおばさんが\n　赤ん坊の私を　拾ってくれたってことだけ……。": "Je sais seulement que tante Soneize, qui a\ndemenage dans la ville de Verinard, m'a\nrecueilli quand j'etais bebe..."
-    },
-    "20076": {
-        "「私……。ジュレットの町へ　帰るね。": "Je... Je rentre a Julet."
-    },
-    "20077": {
-        "「ミャハー。<pc>さま。\n　ソーミャお嬢さんの両親のことは\n　何か　わかったでヤンスかね？": "Mya-ha. <pc>-sama. Avez-vous decouvert\nquelque chose concernant les parents de\nMademoiselle Soma ?"
-    },
-    "20078": {
-        "「……ミャ？　ヴェリナードの城下町に\n　ソーミャお嬢さんを拾った　ソネーゼっていう\n　おばさんが　いるんでヤンスか！": "... Mya ? Dans la ville de Velinard, il y a\nune dame nommee Soneize qui a recueilli la\njeune demoiselle Sormya !"
-    },
-    "20079": {
-        "「むうう。食いすぎで　動けない……ニャ。": "Mouuuh. Je suis tellement repu que je ne peux\nplus bouger... Nya."
-    },
-    "20080": {
-        "「リベリオの旦那は　あの調子でヤンスし……。\n　ソネーゼおばさんに　お嬢さんの両親のことを\n　聞いてみてほしいでヤンス！<open_irai>": "Le mari de Riber Leo est toujours comme ca,\nhein... Pourriez-vous demander a tante Soneize\nau sujet des parents de la jeune fille ?<br><open_irai>"
-    },
-    "20081": {
-        "<close_irai>「アッシたちも　できるだけのことは\n　してみるでヤンスから。": "<close_irai>Nous ferons tout notre possible,\nc'est promis."
-    },
-    "20082": {
-        "「リベリオの旦那！\n　ソーミャの両親を　探しにいくでヤンスよ！\n　ほら　しっかりするでヤンスー！！": "リベLeoの旦那！ ソーミャの両親を探しに行くでヤンスよ！\nほら、しっかりするでヤンSue！！"
-    },
-    "20083": {
-        "「む……。わかったニャ。行くのニャ。": "Hmm... D'accord. Allons-y, miaou."
-    },
-    "20084": {
-        "「ミャハー。<pc>さま。\n　何か　持ってきたでヤンスね？\n　手がかりが　見つかったでヤンスか！": "Myaha. <pc>-sama. Vous avez apporte\nquelque chose, n'est-ce pas ? Avez-vous trouve\nun indice ?"
-    },
-    "20085": {
-        "「おおっ　でかしたニャ。心の友よ！！\n　それで　何を見つけてきたのニャ？\n　よこすニャ。オレに　よこすニャ！": "Oh ! Bien joue, mon ami de coeur !! Alors,\nqu'as-tu trouve ? Donne-le-moi. Allez,\ndonne-le-moi !"
-    },
-    "20086": {
-        "<pc>は　キャット・リベリオに\nソーミャ宛ての手紙を　うばわれた！": "<pc> s'est fait voler la Letter to Somya\npar Purrgatroyd !"
-    },
-    "20087": {
-        "「……ソーミャの両親が　残した手紙とニャ？\n　コイツは　すばらしい手がかりニャー！": "...Une lettre laissee par les parents de\nSomya, dis-tu ? C'est un indice formidable,\nmiaou !"
-    },
-    "20088": {
-        "「すぐに　ソーミャを連れてくるのニャ。\n　この手紙を見せれば　イチコロなのニャ。": "Amene immediatement Somya ici, miaou. En lui\nmontrant cette lettre, ce sera dans la poche,\nmiaou."
-    },
-    "20089": {
-        "「<pc>さまは　お疲れでヤンしょ？\n　アッシが　ひとっ走り　行ってくるでヤンス。\n　もう　ドジは踏まねえでヤンスから。": "<pc>-sama, vous devez etre fatigue,\nn'est-ce pas ? Laissez-moi y aller a votre\nplace. Cette fois, je ne ferai plus de<br>betises."
-    },
-    "20090": {
-        "「何が書いてあるのか　気になるニャー。\n　中を見たら　ダメかニャあ。": "Je me demande ce qui est ecrit a l'interieur,\nmiaou. Puis-je jeter un oeil, peut-etre, miaou\n?"
-    },
-    "20091": {
-        "「そうニャ！　手紙の中身が　ちがってたら\n　ソーミャが　ガッカリするから　確認するニャ。\n　うむ。これは　必要なことなのニャ。": "Exactement ! Si le contenu de la lettre est\ndifferent, Saumya serait decue, alors il faut\nverifier. Oui, c'est necessaire."
-    },
-    "20092": {
-        "「ニャにニャに……。\n　愛する娘　ソーミャへ……。": "Miaou miaou... A ma chere fille, Saumya..."
-    },
-    "20093": {
-        "「……私と　君の母である　アリーネは\n　恩ある人物のために　レンダーシアへと\n　旅立たねば　ならなくなった。": "Renee, ta mere, et moi-meme devons partir pour\nLendashia afin de rendre service a une\npersonne qui nous a beaucoup aides."
-    },
-    "20094": {
-        "「おそらく　危険な旅になる。\n　君を　連れていくことはできないが\n　用が済んだら　すぐに君のもとへ帰るつもりだ。": "Ce sera probablement un voyage dangereux. Je\nne peux pas t'emmener avec moi, mais des que\nj'aurai termine, je reviendrai immediatement<br>aupres de toi."
-    },
-    "20095": {
-        "「だが　もし……。君が　君自身のチカラで\n　この手紙を読めるほど　成長したとき\n　私たちが　帰っていなかったとしたら……。": "Mais si jamais... Si tu as grandi au point de\npouvoir lire cette lettre par toi-meme, et que\nnous ne sommes pas encore rentres..."
-    },
-    "20096": {
-        "「……そのとき　私たちは\n　この世にいないと　思ってほしい……。": "A ce moment-la, j'aimerais que tu penses que\nnous ne sommes plus de ce monde..."
-    },
-    "20097": {
-        "「これは　遺書じゃないのかニャ？\n　ふたりは　もう死んでるってことニャ？\n　こんなの　ソーミャに教えられないのニャ……。": "Ce ne serait pas une lettre d'adieu ? Cela\nvoudrait dire qu'ils sont deja morts ? Je ne\npeux pas en parler a Soumya..."
-    },
-    "20098": {
-        "「うおーん　うおーん！！": "Ouah — ouah !!"
-    },
-    "20099": {
-        "「……オレの親も　早くに死んだのニャよ。\n　オレが　突然変異の巨猫族として\n　生まれたために　苦労をかけたせいで……。": "Mes parents sont morts tres tot, tu sais. A\ncause de moi, qui suis ne en tant que membre\nde la tribu des grands felins a cause d'une<br>mutation, je leur ai cause bien des soucis..."
-    },
-    "20100": {
-        "「そうニャ……。オレは　忘れてたのニャ。\n　親子の愛って　ヤツをニャ……。": "C'est vrai, miaou... J'avais oublie, miaou.\nL'amour entre un parent et un enfant, miaou..."
-    },
-    "20101": {
-        "「マンマーさまの息子を　殺そうとしてたなんて\n　オレは　なんと　極悪なネコだったのニャー！！": "Je ne peux pas croire que j'ai essaye de tuer\nle fils de Maman-sama. J'etais vraiment un\nchat diabolique, miaou !!"
-    },
-    "20102": {
-        "「ミャヘッ？　リベリオの旦那。\n　何を叫んでるんでヤンス？": "Miaou ? Monsieur LibeLeo. Pourquoi criez-vous\ncomme ca ?"
-    },
-    "20103": {
-        "「ニャッ！？　ニャんでもないのニャ。": "Nyah!? Ce n'est rien du tout, nya."
-    },
-    "20104": {
-        "「お嬢さん　どうぞでヤンス。": "Mademoiselle, je vous en prie."
-    },
-    "20105": {
-        "「ささっ　リベリオの旦那。\n　お嬢さんに　あの手紙……": "Allez, Seigneur Leo. Donnez cette lettre a la\ndemoiselle..."
-    },
-    "20106": {
-        "「……ソーミャちゃーん。悪いんだけどニャー。\n　両親の手がかりが　見つかったっていうのは\n　カンちがいだったのニャよー。": "...Somya-chan. Desole, mais miaou. Il semble\nque c'etait une fausse alerte concernant les\nindices sur tes parents. Miaou."
-    },
-    "20107": {
-        "「…………何か　隠してる。": "...Quelque chose est cache."
-    },
-    "20108": {
-        "「ニャッ！　ニャにも　隠してないのニャ。": "Nyah! Je ne cache rien du tout, nyah."
-    },
-    "20109": {
-        "「…………ウソ。": ".........C'est un mensonge."
-    },
-    "20110": {
-        "「ウソじゃないのニャ！": "Ce n'est pas un mensonge, nya !"
-    },
-    "20111": {
-        "「これ……。私に宛てた手紙……？": "Ca... C'est une lettre adressee a moi... ?"
-    },
-    "20112": {
-        "「しまったニャ。読んじゃダメなのニャー！": "Oh non, zut ! Il ne fallait pas lire ca, miaou\n!"
-    },
-    "20113": {
-        "「………………。": "......................"
-    },
-    "20114": {
-        "「お父さんと　お母さんは……。": "Papa et maman..."
-    },
-    "20115": {
-        "「ちっ　ちがうのニャ！　それは　アレなのニャ。\n　あまりにも　手がかりが見つからなくて\n　苦しまぎれに　オレが書いた手紙なのニャ！": "Non, ce n'est pas ca, nya ! C'est juste...\nComment dire, nya. Parce que je ne trouvais\naucun indice, j'ai ecrit cette lettre en<br>desespoir de cause, nya !"
-    },
-    "20116": {
-        "「……もう　いいよ。そんなウソ　つかなくても。": "…C'est bon. Tu n'as pas besoin de mentir."
-    },
-    "20117": {
-        "「ニャ……。すまんのニャ。": "Nyah... Desole, vraiment."
-    },
-    "20118": {
-        "「帰ってこれないのには　理由があるのニャ。\n　きっと　まだ　どこかで生きてるのニャー！\n　気を落としちゃ　ダメなのニャ！！": "Il y a une raison pour laquelle il ne peut pas\nrevenir, miaou. Je suis sur qu'il est encore\nvivant quelque part, miaou ! Ne te laisse pas<br>abattre, miaou !!"
-    },
-    "20119": {
-        "「……ありがとう。私　平気だから。\n　ひとりでも　ちゃんと生きてくって\n　決めたから……だいじょうぶだよ。": "...Merci. Je vais bien. J'ai decide de vivre\nseule et de m'en sortir par moi-meme... Je\nvais bien."
-    },
-    "20120": {
-        "「……ごめんなさい。私　今日は帰る。\n　この手紙　もらっていいよね。": "…Desolee. Je rentre chez moi aujourd'hui. Je\npeux garder cette lettre, n'est-ce pas ?"
-    },
-    "20121": {
-        "「もっ　もちろんニャとも。": "Bi... bien sur, Nyato."
-    },
-    "20122": {
-        "「……それじゃ　さようなら。": "......Eh bien, au revoir."
-    },
-    "20123": {
-        "「あの娘　強いんだニャあ……。\n　ひとりで生きていくって　大変ニャのに。": "Cette fille est forte, miaou... Meme si vivre\nseule est difficile, miaou."
-    },
-    "20124": {
-        "「……思えば　オレは　いつも誰かに頼って\n　生きてきた気がするのニャ。": "En y repensant, j'ai l'impression d'avoir\ntoujours compte sur quelqu'un pour vivre."
-    },
-    "20125": {
-        "「そうニャよ。オレ自身が　やる気を見せて\n　がんばらないと　マンマーさまには\n　きっと　認めてもらえないのニャ。": "Exactement, c'est ca. Si je ne montre pas ma\ndetermination et ne fais pas de mon mieux,\nMaman-sama ne me reconnaitra surement pas."
-    },
-    "20126": {
-        "「だが　オレは　何をすればいいニャ……。\n　考える時間が必要そうだニャ。": "Mais que dois-je faire, moi... ? Il semble que\nj'ai besoin de temps pour reflechir."
-    },
-    "20127": {
-        "「<pc>。手伝いは　もういいニャ。\n　礼を　受け取ってほしいのニャ。　　　": "<pc>. Votre aide n'est plus necessaire,\nmiaou. J'aimerais que vous acceptiez cette\nrecompense, miaou."
-    },
-    "20128": {
-        "「オレの考えが　まとまった頃に\n　ここに来て　話を聞いてほしいニャ。\n　よろしく　頼むニャ　<pc>。": "Quand j'aurai rassemble mes idees, je veux que\ntu viennes ici pour m'ecouter, nya. Je compte\nsur toi, <pc>, nya."
-    },
-    "20129": {
-        "「ミャルジよ。オマエの意見も聞きたいニャ。\n　外を歩きながら　話をしようニャ。": "Myarji, j'aimerais connaitre ton avis.\nParlons-en en marchant dehors."
-    },
-    "20130": {
-        "「わかったでヤンス。リベリオの旦那。": "D'accord, Leo le patron."
+    "21954": {
+        "「また　会いましょう　<pc>さん。\n　それでは……。": "A bientot, <pc>-san. Alors..."
     }
 }
