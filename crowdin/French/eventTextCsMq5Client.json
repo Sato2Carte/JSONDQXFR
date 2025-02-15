@@ -1,323 +1,347 @@
 {
-    "57848": {
-        "「……魔女が　井戸から現れる？\n　…………メルサンディ村が　滅ぶ？": "...La sorciere va surgir du puits ? ...Le\nvillage de Melsandy va-t-il etre detruit ?"
+    "57534": {
+        "「……<pc>さん　今の話　私も聞いたわ。": "…<pc>-san, j'ai entendu la conversation\na l'instant."
     },
-    "57849": {
-        "「………………。": ""
+    "57535": {
+        "「……おじさん　くわしく聞かせて。\n　きらきらした本を持った　サダクは\n　いったい　どこに行ったの？": "...Dis-moi, oncle, raconte-moi en detail. Ou\nest donc alle Sadak avec le Glittering Book ?"
     },
-    "57850": {
-        "「もしや　アイリちゃんは\n　『小さな英雄ザンクローネの物語』４話を\n　読んだのかね？": "Aili-chan, aurais-tu lu le chapitre 4 de La\nPetite Heroine, l'Histoire de Zankrone ?"
+    "57536": {
+        "「あ　あぁ……？\n　アイツなら　少しの間　酒場にいただけだぜ。\n　どこに行ったかなんて　知らねえよ。": "Ah, ah... ? Il etait juste a la taverne pour\nun moment. Je ne sais pas ou il est alle apres\nca."
     },
-    "57851": {
-        "「あの　未完成の　悲しゅい物語を……。": "Cette triste histoire inachevee..."
+    "57537": {
+        "「そ　そういや　リンジャの塔の場所を聞かれて\n　教えてやったら　すぐ出ていったから\n　たぶん　そこに向かったんだと思うけど……。": "Ah, maintenant que j'y pense, quelqu'un m'a\ndemande l'emplacement de la tour de Rinja. Je\nlui ai indique le chemin et il est parti tout<br>de suite. Je suppose qu'il s'est dirige par\nla..."
     },
-    "57852": {
-        "「知ってる人は　少ないけども\n　パンパニーニは　死んじゃう直前まで\n　英雄ザンクローネの物語を　書いてたんだよ。": "Il y a peu de gens qui le savent, mais Bread\nPanini a ecrit l'histoire du heros Zankrone\njusqu'a presque sa mort."
+    "57538": {
+        "「そう……ありがと。\n　これで　あの　インチキ霊媒師を\n　呪ってやれるわ……。": "Merci beaucoup... Grace a ca, je vais pouvoir\nmaudire ce faux medium..."
     },
-    "57853": {
-        "「だけど　時間が足りなくてねえ。\n　パンパニーニは　望んだ結末に\n　たどりつけないまま　眠りについたんだあ。": "Mais le temps a manque, tu sais. Bread Panini\ns'est endormi sans jamais atteindre la fin\nqu'il esperait."
+    "57539": {
+        "「……ところで　その葉っぱ　なんなの？": "...... Au fait, cette feuille, qu'est-ce que\nc'est ?"
     },
-    "57854": {
-        "「ザンクローネが　負けたまま終わる\n　あの結末に　アイリちゃん\n　ショックを受けただろうねえ……。": "Zankrone a perdu a la fin, cette conclusion a\ndu vraiment choquer Aili-chan..."
+    "57540": {
+        "「おう　こいつぁ　きつけそうっていってな！\n　ベロベロに酔っぱらった時でも\n　こいつがあれば　一発で目が覚めるんだぜ！": "He, ca c'est du Softwort ! Meme quand t'es\ncompletement saoul avec du Frolicker, un coup\nde ca et tu redeviens clair comme de l'eau de<br>roche !"
     },
-    "57855": {
-        "「そうだ　旅人しゃん。\n　わし　こんなものを拾ったんだよう。": "Tiens, voyageur-san. J'ai trouve ceci."
+    "57541": {
+        "「……ふぅん。\n　後から　薬で治そうとするくらいなら\n　そもそも飲まなきゃいいのに　バカみたい。": "…Hm. Si tu dois prendre des medicaments pour\nte soigner apres, tu ferais mieux de ne pas\nboire du tout. C'est idiot."
     },
-    "57856": {
-        "「なんとなくだけど\n　童話に出てくる　ザンクローネの魂の結晶\n　紅蓮の大宝石に似ている……気がしゅてね。": "Je ne sais pas pourquoi, mais j'ai\nl'impression que le cristal d'ame de Zankrone,\nqui apparait dans les contes de fees,<br>ressemble a ce Bright Red Gem..."
+    "57542": {
+        "「私　姉さんの日記を盗んだ　サダクを追って\n　リンジャの塔まで　行ってみるわ。\n　<pc>さんも　一緒に来てちょうだい。": "J'ai vole le journal de ma soeur. Je vais\nsuivre Sadak jusqu'a la tour de Linja.\n<pc>-san, viens avec moi, s'il te plait."
     },
-    "57857": {
-        "「どんな時も　希望を捨ててはいかん。\n　この石を渡して　アイリちゃんに\n　そう伝えて　元気づけてくれないかい？": "Ne jamais abandonner l'espoir, peu importe la\nsituation. Pourrais-tu donner cette pierre a\nAili-chan et lui transmettre ce message pour<br>la reconforter ?"
+    "57543": {
+        "「リンジャの塔は　セレドット山道を北に進んで\n　リンジャハル海岸の　遺跡を抜ければ\n　見えてくるわ。それじゃ　よろしくね……。": "La Tour Linja se trouve en avancant vers le\nnord a travers le Celedot Mountain Pass.\nEnsuite, traversez les ruines de la cote de<br>Linjahar et vous la verrez. Je compte sur\nvous..."
     },
-    "57858": {
-        "「フォフォ　ありがとよう。\n　お前しゃんは　どこか\n　童話の中の　不思議な旅人しゃんに似てるねえ。": "Fofo, merci beaucoup. Tu ressembles a un\nmysterieux voyageur tout droit sorti d'un\nconte de fees, tu sais."
+    "57544": {
+        "「……<pc>さん　こっちよ。": "......<pc>-san, par ici."
     },
-    "57859": {
-        "「しょれじゃあ　この大宝石を\n　アイリちゃんに　渡しゅてきておくれ。": "Alors, peux-tu remettre ce grand joyau a\nAili-chan, s'il te plait ?"
+    "57545": {
+        "「これは　黒仮面どの。\n　私のような者のため　ご足労いただけるとは\n　このサダク　恐縮の至りであります。": "<me 60>これは 黒TMP面どの 私のような者のため ご足労いただけるとは\nこのSadak 恐縮の至りであります"
     },
-    "57860": {
-        "<pc>は\n紅蓮の大宝石（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Bright Red Gem (objet\ncle) ! <me 60>"
+    "57546": {
+        "「……あれを。": "…Regarde ca."
     },
-    "57861": {
-        "「フォフォフォ。旅人しゃんや。 \n　頼まれごとを　受けすぎみたいだよう。": "Fofufu. Voyageur-san. Il semble que tu\nacceptes un peu trop de demandes, n'est-ce pas\n?"
+    "57547": {
+        "「はっ。": "Ha."
     },
-    "57862": {
-        "「面倒見のいい　旅人しゃんだねえ。\n　すこし　依頼を片付けてから\n　ラペットじいしゃんの頼みも　聞いておくれ。": "Tu es un voyageur bien attentionne, n'est-ce\npas ? Apres avoir regle quelques requetes,\necoute aussi la demande du vieux Lapett, je te<br>prie."
+    "57548": {
+        "「おぉ……これが　あの祈願の魔像。\n　なんと　素晴らしい……。": "Oh... c'est donc ca, la celebre Statue de\nPriere. Quelle merveille..."
     },
-    "57863": {
-        "「しょうか……。\n　もし　気が変わったら　頼まれてくれると\n　じいしゃん　うれしゅいよう。": "Je vois... Si jamais tu changes d'avis et\nacceptes de m'aider, le vieil homme serait\nravi."
+    "57549": {
+        "「……計画は　順調なのか？": "...Le plan se deroule-t-il sans accroc ?"
     },
-    "57864": {
-        "「やめ……て…………。": "Arrete... s'il te plait..."
+    "57550": {
+        "「町の連中は　完全に手中に収めました。\n　あとは　最後の仕上げにかかるだけです。": "Les habitants de la ville sont completement\nsous notre controle. Il ne reste plus qu'a\napporter la touche finale."
     },
-    "57865": {
-        "<if_woman>「……あらん<heart>　ザンクローネの\n　お友達の　お嬢さんね。<else>「……あらん<heart>　ザンクローネの\n　お友達の　坊やね。<endif>": "<if_woman>>Oh<heart> la jeune demoiselle amie\nde Zankrone, n'est-ce pas ?<else>>Oh<heart> le jeune garcon ami de Zankrone,\nn'est-ce pas ? <endif>"
+    "57551": {
+        "「この像に　町の大人どもが　祈りを捧げれば\n　その祈りのチカラで　セレドの町一帯は\n　偽りの世界に　完全に侵食されることでしょう。": "Si les adultes de cette ville offrent leurs\nprieres a cette statue, alors, avec la\npuissance de leurs prieres, l'ensemble de la<br>region de Town of Celed sera completement\nenvahie par le monde de F."
     },
-    "57866": {
-        "「私　いたずらウサギちゃんから　聞いてたの。\n　ザンクローネが　気にかけてる\n　カワイイ村娘がいるってね。": "J'ai entendu dire par la petite lapine\nespiegle qu'il y a une adorable villageoise\nqui attire l'attention de Zankrone."
+    "57552": {
+        "「自分たちが　どうなる運命かも知らずに\n　奴らは　すっかり私を　信じ切っていますよ。\n　クックックッ……。": "Ils ignorent totalement quel destin les\nattend, et pourtant, ils me font entierement\nconfiance. Kukukuku..."
     },
-    "57867": {
-        "「いやん　ヤケちゃう<heart>": "Oh non, je vais bronzer<heart>"
+    "57553": {
+        "「……それは？": "...Qu'est-ce que c'est ?"
     },
-    "57868": {
-        "「というわけで　この子は\n　メルサンディ村　滅亡前夜祭の\n　いけにえに　捧げることにしたわ。": "Donc, nous avons decide d'offrir cet enfant en\nsacrifice pour la veille de la destruction du\nvillage de Melsandy."
+    "57554": {
+        "「これは　私のジャマをしようとする\n　人間の小娘が　持っていた物で　なんでも\n　偽りの世界のことが　書かれているとか……。": "Ceci est quelque chose que la petite humaine,\nqui a essaye de me gener, possedait.\nApparemment, il y est ecrit des choses sur le<br>monde..."
     },
-    "57869": {
-        "「ねえ　ザンクローネに伝えてッ<heart>": "Dis a Zankrone<heart>"
+    "57555": {
+        "「万が一を考えて　奪っておきましたが\n　誰も　あの小娘のことなど　信じていますまい。\n　取るに足らない　つまらない物ですよ。": "J'ai pris la precaution de le prendre au cas\nou, mais personne ne croit en cette petite\nfille. C'est une chose insignifiante et sans<br>interet."
     },
-    "57870": {
-        "「もしも　この子を助けたければ\n　南のローヌ樹林帯から続く　魔女の森の\n　夜宴館まで　いらっしゃいって。": "Si tu veux sauver cet enfant, viens jusqu'a la\nsalle de banquet de Witchwood, qui s'etend a\npartir de la ceinture forestiere de Rhone au<br>sud."
+    "57556": {
+        "「……ジャマな物なら　さっさと始末しておけ。": "Si quelque chose vous gene,\ndebarrassez-vous-en rapidement."
     },
-    "57871": {
-        "「キャハハハハッ！！": "Ahahahahaha !!"
+    "57557": {
+        "「は……はいっ。": "Oui... !"
     },
-    "57872": {
-        "<center>……<pc>。\n俺の声が　聞こえるか？": "... <pc>. Est-ce que tu entends ma voix\n?"
+    "57558": {
+        "「…………っ！！": "... !!"
     },
-    "57873": {
-        "<center>魔女から受けたキズが　深くてな。\n例によって　魂を結晶化させて　回復してんだ。": "La blessure infligee par la sorciere est\nprofonde. Comme d'habitude, j'ai cristallise\nmon ame pour recuperer."
+    "57559": {
+        "「……どんなに　ささいなことでも\n　不安の芽は　早めに　つみとることだ。\n　人間を甘く見て　足を　すくわれんようにな。": "...Peu importe a quel point cela peut sembler\ninsignifiant, il est important d'arracher les\ngermes de l'inquietude des le debut. Ne<br>sous-estimez pas les humains, ou vous pourriez\nvous faire surprendre."
     },
-    "57874": {
-        "<center>魔女のヤロォ　アイリをさらうとは\n卑劣なマネしやがって！\n村人たちが騒ぎだす前に　なんとかしねえと。": "La sorciere a ose enlever Aili ! Quelle vile\ncreature ! Je dois faire quelque chose avant\nque les villageois ne commencent a paniquer."
+    "57560": {
+        "「……ふん！　人間ごときを　恐れるなんて\n　まったく　器の小さい　おくびょう者ですねぇ。": "...Hmph ! Avoir peur de simples humains, c'est\nvraiment etre un lache au coeur etroit."
     },
-    "57875": {
-        "<center><pc>　チカラを貸してくれ。\n俺を　魔女の森へ……。": "<pc>, prete-moi ta force. Emmene-moi a\nWitchwood..."
+    "57561": {
+        "「これさえあれば　計画は成ったも同然。\n　そして　偽りの世界の侵食を果たせば\n　私の出世も　思うがままとなる……。": "Avec ceci, le plan est pratiquement accompli.\nEt si je parviens a envahir le monde F., ma\npromotion sera assuree..."
     },
-    "57876": {
-        "「待ってたのよ　ザンクローネ<heart>\n　さあ　メルサンディ村　滅亡前夜祭を\n　始めましょ。": "Je t'attendais, Zankrone<heart>. Allez,\ncommencons la veille de la destruction du\nvillage de Melsandy."
+    "57562": {
+        "「ククッ……。\n　では　最後の仕上げといきますか！": "Kuku... Alors, passons aux finitions finales !"
     },
-    "57877": {
-        "「テメーの　汚ねえ手口には　ヘドが出るぜ。 \n　今すぐ　その嬢ちゃんを下ろせ。": "Tes sales methodes me donnent la nausee.\nDescends cette jeune fille tout de suite."
+    "57563": {
+        "「私と　姉さんの……\n　たったひとつの絆だったのに……。": "Le seul lien que j'avais avec ma soeur...\nC'etait tout ce qui nous unissait..."
     },
-    "57878": {
-        "「ウフフ……いい顔。 \n　あなたの　その苦しそうな顔を見てると\n　私　満たされるの。": "Fufu... Quelle expression. Quand je vois ton\nvisage tourmente, je me sens comblee."
+    "57564": {
+        "「サダクが　魔物と通じていたなんて……。\n　このままだと　町が危ないわ。\n　みんなに　このことを知らせなきゃ。": "Que Sadak ait collabore avec les monstres...\nC'est impensable. Si cela continue, la ville\nest en danger. Je dois avertir tout le monde<br>de cela."
     },
-    "57879": {
-        "「それじゃあ　お待ちかねの\n　今夜のディナーを　紹介しましょうね<heart>": "Eh bien, permettez-moi de vous presenter le\ndiner tant attendu de ce soir <heart>"
+    "57565": {
+        "「……私　急いで戻るから\n　<pc>さんも\n　セレドの町まで　来てちょうだい。": "......Je vais retourner rapidement, alors\n<pc>-san, viens aussi jusqu'a la Ville\nde Celed."
     },
-    "57880": {
-        "「ひとつめは　じっくり煮込む\n　みじめな村娘シチュー<heart>": "Le premier est de mijoter lentement une pauvre\nvillageoise Shichiュー<heart>"
+    "57567": {
+        "「……皆さん。あれから　ぼくは旅に出て\n　この町が救われる方法を　探してきました。\n　さあ　この　祈願の魔像をごらんください。": "......Mesdames et messieurs. Depuis lors, je\nsuis parti en voyage pour chercher un moyen de\nsauver cette ville. Maintenant, regardez cette<br>Statue de Priere."
     },
-    "57881": {
-        "「ふたつめは　ぷるんと新鮮\n　英雄の心臓ボイル。": "Le deuxieme est fraichement tendre : le coeur\nbouilli du heros."
+    "57568": {
+        "「霊を呼びだし　話を聞いてもらうには\n　祈りのチカラが必要……。この祈願の魔像に\n　祈りを捧げ　チカラをたくわえるのです。": "Pour invoquer un esprit et ecouter ce qu'il a\na dire, il faut la puissance de la priere...\nOffrez vos prieres a cette Statue de la Priere<br>pour accumuler cette puissance."
     },
-    "57882": {
-        "「……そう　あなたの心臓よ。\n　ザンクローネ<heart>": "......C'est bien ca, ton coeur. Zankrone<heart>"
+    "57569": {
+        "「像が　祈りのチカラで　満たされれば\n　悪霊と化した　子供たちの　恨みを消し去り\n　この場に　呼びだしてくれるはず……。": "Si la statue est emplie de la puissance de la\npriere, elle devrait effacer la rancoeur des\nenfants transformes en mauvais esprits et les<br>invoquer ici..."
     },
-    "57883": {
-        "「どちらを助けるか　選ばせてあげちゃう。\n　キャハッ　おもしろい趣向でしょ。": "Je vais te laisser choisir qui tu veux sauver.\nKya ha ! C'est une idee amusante, n'est-ce pas\n?"
+    "57571": {
+        "「リゼロッタ……。": "Lieselotte..."
     },
-    "57884": {
-        "「選ばれなかったほうは　お鍋にドボン。\n　壊れてしまって　永遠に失われるの。": "L'autre qui n'est pas choisi est plonge dans\nle chaudron. Il se brise et est perdu a\njamais."
+    "57575": {
+        "「……クハハハハッ！！\n　人の心をあやつるなど　たやすいものよ！": "…Kuhahahaha !! Manipuler le coeur des gens est\nune chose facile !"
     },
-    "57885": {
-        "「…………………。": ".................."
+    "57576": {
+        "「セレドの町は　偽りの世界に侵食される！\n　そうなれば　この世界の者は\n　すべて　ぬりつぶされ　消えゆくのみ！": "Town of Celed est envahi par F. le Monde ! Si\ncela se produit, tous les habitants de ce\nmonde seront effaces et disparaitront !"
     },
-    "57886": {
-        "「あなたが　もし　娘を助けたら\n　元の姿に戻ることも　村を救うことも\n　できなくなっちゃうわ。フフッ。": "Si jamais tu sauves ma fille, tu ne pourras ni\nretrouver ta forme d'origine, ni sauver le\nvillage. Fufu."
+    "57578": {
+        "「……ちょっと　何やってるの！？\n　しっかりしてよ！！": "He, qu'est-ce que tu fais !? Reprends-toi !!"
     },
-    "57887": {
-        "「…………やってみな。": "Essaye donc."
+    "57584": {
+        "「人間の小娘め……。\n　どこまでも　私のジャマをするというか……！": "Petite humaine insolente... Tu comptes\nvraiment continuer a te mettre en travers de\nmon chemin ?"
     },
-    "57888": {
-        "「それじゃあ　お言葉に甘えて<heart>": "Alors, je vais accepter votre offre <heart>"
+    "57590": {
+        "「クックックッ……　逃げてもムダよ……。\n　祈願の魔像のチカラを使えば　いつでも\n　偽りの世界を　呼びよせることができる。": "Ku ku ku... C'est inutile de fuir... En\nutilisant le pouvoir de la statue de priere,\nje peux a tout moment invoquer le monde de F."
     },
-    "57889": {
-        "「どうして……。": "Pourquoi..."
+    "57592": {
+        "「また来たか　<cs_pchero>よ！\n　二度と　戻れぬように\n　カタチも残さず　切り刻んでくれるわ！": "Te revoila, <cs_pchero> ! Je vais te decouper\nen morceaux, de sorte que tu ne puisses jamais\nrevenir, meme pas sous une autre forme !"
     },
-    "57890": {
-        "「あなたが　身体を取り戻せば\n　村を　救えるのに……。": "Si seulement tu pouvais retrouver ton corps,\ntu pourrais sauver le village..."
+    "57593": {
+        "「よ　よもや　私が……\n　敗れるとは……。": "Je... Je n'aurais jamais imagine que je...\nserais vaincu..."
     },
-    "57891": {
-        "「お前を犠牲にして　手に入れる\n　身体なんざ　いらねえよ。": "Je n'ai pas besoin d'un corps obtenu en te\nsacrifiant."
+    "57594": {
+        "「だが　ただでは死なぬ！！\n　小娘ッ！　せめて　貴様だけでもっ……！": "Mais je ne mourrai pas si facilement !! Petite\npeste ! Au moins, je t'emporterai avec moi...\n!"
     },
-    "57892": {
-        "「そんな小さな身体じゃ　私と同じ……。 \n　何も　なすことなんて……できません。": "Avec un si petit corps, comme le mien... Rien\nne pourra jamais... etre accompli."
+    "57595": {
+        "「パパ……。": "Papa..."
     },
-    "57893": {
-        "「……なに　弱気になってんだか。\n　いいぜ……嬢ちゃん。\n　黙って　俺の背中を見てな。": "...Pourquoi tu te laisses abattre ? C'est\nbon... Jeune fille. Reste silencieuse et\nregarde-moi dans le dos."
+    "57596": {
+        "「に　人間を……甘く見ていたか……。\n　ぬかっ……たわ……。": "J'ai sous-estime... les humains... Je me\nsuis... trompe..."
     },
-    "57894": {
-        "「男の器は　身の丈じゃ　測れねえ。 \n　背負った希望のデカさで　決まんだよ！": "L'envergure d'un homme ne se mesure pas a sa\ntaille. Elle se decide par l'ampleur des\nespoirs qu'il porte !"
+    "57597": {
+        "「うっ！": "Ouf !"
     },
-    "57895": {
-        "「そう……。\n　やっぱり　あなたは　自分の身体よりも\n　その娘を選ぶのね。": "Je vois... Tu choisis donc cette fille plutot\nque ton propre corps."
+    "57598": {
+        "「パパッ！　どうしたの！？\n　もしかして　今ので……！": "Papa ! Qu'est-ce qui se passe !? Est-ce que\nc'etait a cause de ca... !?"
     },
-    "57896": {
-        "「……つまらない男。 \n　その　バカ面も　いいかげん見飽きたわ。\n　そろそろ　終わりにしましょうか。": "…Tu es un homme ennuyeux. Ton visage stupide,\nje m'en suis assez lassee. Il est temps d'en\nfinir, n'est-ce pas ?"
+    "57599": {
+        "「いや……　突き飛ばした時に\n　お前のヒジが　みぞおちに入ってな……。": "Non... quand je t'ai pousse, ton coude a\natterri dans mon plexus solaire..."
     },
-    "57897": {
-        "「さあ　ゆであがった心臓ちゃん。\n　狂おしい鼓動を　聴かせてちょうだい。": "Allez, petit coeur bouillant. Fais-moi entendre\ntes battements enfievres."
+    "57600": {
+        "「……もう　おどかさないで。": "… Ne me fais plus peur comme ca."
     },
-    "57898": {
-        "「ドックン……ドドドドドォォォォォォ！！": "Dokkun... Dododododooooo !!"
+    "57601": {
+        "「サダクが死んで　祈願の魔像も壊れたおかげで\n　光の河も　元の姿に戻ったみたい……。": "Grace a la mort de Sadak et a la destruction\nde la Statue de la Priere, il semble que la\nRiviere de Lumiere ait retrouve son apparence<br>d'origine..."
     },
-    "57899": {
-        "「……ザンクローネ<heart> \n　魂すらも　バラバラに刻んで\n　すべての希望を　絶ってあげるッ！": "Zankrone<heart> Je graverai ton ame dans\nBarabaラ et aneantirai tout espoir !"
+    "57602": {
+        "「サダクは　大人たちの心を利用して\n　姉さんたちがいる　死の世界で\n　こちらの世界を　ぬりつぶそうとしたのね……。": "Sadak a essaye d'utiliser le coeur des adultes\npour recouvrir notre monde avec celui des\ntenebres ou se trouvent nos soeurs..."
     },
-    "57900": {
-        "「<cs_pchero>！　そいつは　もう\n　どうしようもなく　壊れちまって\n　俺の心臓には　戻りゃしねえ！": "<cs_pchero> ! Ce truc est deja\nirremediablement casse et ne reviendra jamais\ndans mon coeur !"
+    "57603": {
+        "「……<cs_pchero>さん　あなたのおかげで\n　この町は　救われました。\n　本当に　ありがとうございます。": "<cs_pchero> san, grace a vous, cette ville a\nete sauvee. Je vous remercie sincerement."
     },
-    "57901": {
-        "「ドックン……ドドドドドォォォォォォ！！": "Dokkun... Dododododooooo !!"
+    "57604": {
+        "「私が　あの男の正体を見抜けなかったせいで\n　取り返しのつかない事態を\n　引き起こしてしまうところでした……。": "Je n'ai pas su voir a travers cet homme, et\ncela aurait pu causer une situation\nirreparable..."
     },
-    "57902": {
-        "「<cs_pchero>！　魔女は俺にまかせろ！ \n　お前は　その心臓の化け物を\n　容赦なく　ぶっ壊せ！！": "<cs_pchero> ! Laisse la sorciere a moi ! Toi,\ndetruis impitoyablement ce monstre de coeur !"
+    "57605": {
+        "「………？": "......... ?"
     },
-    "57903": {
-        "「恩に着るぜ　<cs_pchero>。": "Je te dois une fiere chandelle, <cs_pchero>."
+    "57606": {
+        "「あれは　もしかして……。": "Est-ce que ce serait...?"
     },
-    "57904": {
-        "「キャハハッ　心臓　消しとんじゃった！\n　これで　二度と　元の姿に戻れないのね。\n　メルサンディ村も　おしまいよ。": "Ahaha, j'ai fait disparaitre ton coeur ! Avec\nca, tu ne pourras jamais retrouver ta forme\noriginale. Le village de Melsandy est fini."
+    "57607": {
+        "「……まだ　侵食は続いているんだわ！\n　パパ！　急いで　町のみんなを\n　ダーマ神殿へ　避難させましょう！": "L'invasion continue encore ! Papa !\nDepechons-nous de conduire tout le monde de la\nville a l'Abbaye des Vocations pour les mettre<br>en securite !"
     },
-    "57905": {
-        "「やっぱり　あなたは\n　いつだって　誰ひとり　なにひとつ\n　救えないんだわッ！": "Apres tout, tu n'as jamais pu sauver qui que\nce soit ou quoi que ce soit !"
+    "57608": {
+        "「すべて　終わったのではなかったのかっ！？\n　だ　だが　お前がそう言うのなら……\n　私は　町の皆さんに　声をかけてくる！": "Tout n'etait-il pas termine !? M-Mais si tu le\ndis... Je vais aller parler a tout le monde en\nville !"
     },
-    "57906": {
-        "「まだ……心臓が　なくなっただけじゃねえか。": "Ce n'est qu'un coeur qui a disparu..."
+    "57609": {
+        "「<cs_pchero>さん　悪いけど\n　一緒に　来てくれない？\n　あなたにも　見届けてほしいの……。": "<cs_pchero> san, desole, mais pourriez-vous\nvenir avec moi ? J'aimerais que vous soyez\ntemoin..."
     },
-    "57907": {
-        "「往生際の悪い男って　キライ。 \n　すべてをあきらめて　楽になりなさいな。": "Je n'aime pas les hommes qui ne savent pas\naccepter leur sort. Abandonne tout et trouve\nla paix."
+    "57610": {
+        "「……それじゃ　ダーマ神殿の\n　礼拝堂で　待ってるわね。": "...Je t'attendrai donc a la chapelle de\nl'Abbaye des Vocations."
     },
-    "57908": {
-        "「俺は　あきらめねえ……！": "Je n'abandonnerai pas... !"
+    "57611": {
+        "「ふむ。ここまで来れば　もう大丈夫だな。": "Hum. Si nous sommes arrives jusqu'ici, tout\nira bien."
     },
-    "57909": {
-        "「……私　わかりました。\n　おじいさまが　書きたかったのは\n　悲劇なんかじゃない。": "Je comprends maintenant. Ce que grand-pere\nvoulait ecrire, ce n'etait pas une tragedie."
+    "57612": {
+        "「……ごめんなさい　パパ。\n　侵食が続いてるというのは　ウソよ。": "...Je suis desolee, papa. Le fait que\nl'erosion continue, c'etait un mensonge."
     },
-    "57910": {
-        "「たとえ　身体が小さくても　呪われていても\n　病気で　長く生きられなくても……\n　どんな時も　希望を失ってはいけないと……。": "Meme si ton corps est petit, meme si tu es\nmaudit, meme si tu es malade et que tu ne peux\nvivre longtemps... Tu ne dois jamais perdre<br>espoir, quoi qu'il arrive..."
+    "57613": {
+        "「ダーマ神殿まで　みんなを連れてきたのは\n　別の目的があったの。\n　きっと　これが最後のチャンスよ……。": "Je vous ai tous amenes a l'Abbaye Alltrades\npour une autre raison. C'est surement notre\nderniere chance..."
     },
-    "57911": {
-        "「私に　希望を持ちなさいって\n　伝えようとしてくれてたんだと　思います。": "Je pense qu'on essayait de me dire de garder\nespoir."
+    "57614": {
+        "「……みんな　思いだして。\n　昔は毎日　私たち子供を迎えに\n　この礼拝堂まで　来てくれてたでしょ？": "…Rappelez-vous, tout le monde. Autrefois,\nchaque jour, elle venait nous chercher, nous\nles enfants, jusqu'a cette chapelle, n'est-ce<br>pas ?"
     },
-    "57912": {
-        "「その通りだぜ　アイリ。": "Exactement, Aili."
+    "57615": {
+        "「姉さんたちは　いつか　大人たちが\n　迎えにきてくれると信じて\n　毎日　ダーマ神殿で　祈りつづけているの……。": "Mes soeurs croient qu'un jour, les adultes\nviendront nous chercher, alors elles\ncontinuent de prier chaque jour a l'abbaye<br>Alltrades..."
     },
-    "57913": {
-        "「これは　お前のために描かれた\n　希望の物語！！": "C'est une histoire d'espoir ecrite pour toi !!"
+    "57616": {
+        "「……そう　今でも。": "... Oui, meme maintenant."
     },
-    "57914": {
-        "「お前が　願ってくれるのなら\n　奇跡だろうと　起こしてみせる！": "Si tu le souhaites, je ferai en sorte que meme\nun miracle se produise !"
+    "57617": {
+        "「ルコリア……それに　パパとママ？": "Lucolia... et papa et maman ?"
     },
-    "57915": {
-        "「ザンクローネさん！": "Zankrone-san !"
+    "57618": {
+        "「これは　いったい……？": "Qu'est-ce que c'est que ca... ?"
     },
-    "57916": {
-        "「メルサンディ村に……\n　私に　希望をください！！": "Au village de Melsandy... Donnez-moi de\nl'espoir !!"
+    "57619": {
+        "「サダクは　本当のことも言ってたのよ。\n　祈りのチカラを利用して　私たちがいる世界に\n　死の世界を　重ねようとしていたの。": "Sadak disait aussi la verite. En utilisant le\npouvoir de la priere, il essayait de\nsuperposer le monde des morts a celui ou nous<br>vivons."
     },
-    "57917": {
-        "「うおおおおおおおおお！！": "Uoooooooohhh!!"
+    "57620": {
+        "「祈願の魔像の影響が残ってる　今なら\n　ふたつの世界が重なって　死んだ姉さんたちに\n　会えるんじゃないかと　思ったのよ……。": "L'influence de la statue de priere est encore\npresente. Je me suis dit que, maintenant, avec\nles deux mondes qui se chevauchent, je<br>pourrais peut-etre rencontrer mes soeurs\ndecedees..."
     },
-    "57918": {
-        "「……お前の声が　かれない限り \n　救いは　必ず訪れる。": "...... Tant que ta voix ne s'eteint pas, le\nsalut viendra inevitablement."
+    "57621": {
+        "「パパッ！　ママーッ！": "Papa ! Maman !"
     },
-    "57919": {
-        "「俺は　必ず駆けつける。": "Je viendrai sans faute."
+    "57622": {
+        "「…………。": ""
     },
-    "57920": {
-        "「ウソッ……！？": "Quoi... !?"
+    "57623": {
+        "「リゼロッタ　お前は……\n　あれからずっと　ここで　私たちの迎えを\n　待ち続けていたというのか……。": "Lieselotte, toi... Depuis tout ce temps, tu es\nrestee ici a attendre notre retour..."
     },
-    "57921": {
-        "「ウソか　マコトか　おとぎ話か…… \n　身をもって　教えてやんよ！": "Mensonge, verite ou conte de fees... Je vais\nte le montrer par moi-meme !"
+    "57624": {
+        "「……お前を失って以来　私は　ずっと　ひとりで\n　思い悩んでいたよ。私の　厳しいしつけが\n　お前を　追い詰めていたのではないかと……。": "Depuis que je t'ai perdu, je n'ai cesse de me\ntourmenter seul. Je me demande si ma\ndiscipline severe ne t'a pas accule..."
     },
-    "57922": {
-        "「チッ…………。": "Tch..."
+    "57625": {
+        "「守ってやれなかっただけでなく\n　心細い思いまで　させていたとは……\n　情けない親で　すまなかった……。": "Je ne t'ai pas seulement laisse sans\nprotection, mais je t'ai aussi laisse te\nsentir si seul... Je suis vraiment desole<br>d'avoir ete un parent si pitoyable..."
     },
-    "57923": {
-        "「名残り惜しいけど……\n　今日は　このくらいで　許してあげる。\n　ごきげんよう　ザンクローネ<heart>": "Je suis triste de partir, mais… Je vais te\nlaisser tranquille pour aujourd'hui. Au\nrevoir, Zankrone<heart>"
+    "57626": {
+        "「これは　いつの日か\n　お前の墓に供えようと　用意していた物だ。\n　受け取ってくれるか……？": "Ceci est quelque chose que j'avais prepare\npour le jour ou je viendrais offrir quelque\nchose sur ta tombe. Veux-tu bien l'accepter… ?"
     },
-    "57924": {
-        "「逃がさねえぜ！": "Je ne te laisserai pas t'echapper !"
+    "57627": {
+        "「ずっと　ルコリアと一緒だったお前が\n　あの世で　さびしくないようにと思ってな……。": "J'ai pense que si tu restais avec Lucolia pour\ntoujours, tu ne te sentirais pas seul dans\nl'autre monde..."
     },
-    "57925": {
-        "「なあ　アイリ……。\n　病気なんかに　負けんじゃねえぞ。": "He, Aili... Ne te laisse pas abattre par la\nmaladie."
+    "57628": {
+        "「……やっぱり　私たちは\n　すでに　死んでいたのね。": "Apres tout, nous etions deja morts, n'est-ce\npas."
     },
-    "57926": {
-        "「どんな時も　希望は捨てんな。 \n　メルサンディ村は　俺とともにある！": "Ne perdez jamais espoir, peu importe les\ncirconstances. Le village de Melsandy est avec\nmoi !"
+    "57629": {
+        "「私……あれから　パパと同じように\n　みんなを　まとめるようになって\n　パパが　どれだけ大変だったか　気づいたの。": "Moi... Depuis ce moment-la, j'ai commence a\nrassembler tout le monde, comme Papa le\nfaisait. Et j'ai realise a quel point c'etait<br>difficile pour lui."
     },
-    "57927": {
-        "「ありがとう　小さな英雄さん……。": "Merci, petit heros-san..."
+    "57630": {
+        "「許してほしいのは　私の方よ。\n　いつもワガママばかり言って　迷惑かけたまま\n　先立つことになって　ごめんなさい。": "C'est moi qui devrais demander pardon. Je suis\ndesolee de t'avoir toujours cause des soucis\navec mes caprices, et de te quitter ainsi."
     },
-    "57928": {
-        "「ザンクローネさんの物語は\n　これからも　続いてゆくのですね。": "L'histoire de Zankrone-san va donc continuer a\nse derouler."
+    "57631": {
+        "「私たち　大人に追い詰められたなんて\n　思ってないわ。だから　自分を責めないで。\n　ママや　ルコリアを　大事にして……。": "Nous n'avons pas ete accules par les adultes.\nAlors, ne te blame pas. Prends soin de maman\net de Lucolia..."
     },
-    "57929": {
-        "「<cs_pchero>さん。私　決めました。": "<cs_pchero> san. J'ai pris ma decision."
+    "57632": {
+        "「ルコリア……ひさしぶりね。\n　離ればなれになってから　ずっと\n　あなたのことを　心配していたわ……。": "Lucolia... Ca fait longtemps. Depuis que nous\navons ete separes, je m'inquietais constamment\npour toi..."
     },
-    "57930": {
-        "「私が　続きを書きます。 \n　おじいさまが　描き切れなかった\n　希望の物語の続きを……。": "Je vais ecrire la suite. La suite de\nl'histoire d'espoir que grand-pere n'a pas pu\nterminer..."
+    "57633": {
+        "「姉さん……。\n　私　生まれた時から　ずっとそばにいて\n　何もかも　姉さんに頼りきりだったけど……": "Grande soeur... Depuis ma naissance, tu as\ntoujours ete a mes cotes. Je me suis toujours\nreposee sur toi pour tout, mais..."
     },
-    "57931": {
-        "「では　メルサンディ村へ　帰りましょうか。": "Alors, retournons au village de Melsandy."
+    "57634": {
+        "「もう　ひとりでも　やっていけるわ。\n　これからは　姉さんがいなくても　大丈夫よ。\n　今まで　ありがとう……。": "Je peux maintenant me debrouiller seule. A\npartir de maintenant, je serai bien meme sans\ntoi, grande soeur. Merci pour tout jusqu'a<br>present..."
     },
-    "57932": {
-        "「アイリちゃん！": "Aili-chan !"
+    "57635": {
+        "「あり…とう　ルコ…ア……。\n　それを聞いて　安心…て\n　この世を　去…ことができるわ……。": "Merci... Rukoa... En entendant cela, je peux\npartir de ce monde en paix..."
     },
-    "57933": {
-        "「ラペットおじいさん！": "Lapett ojiisan !"
+    "57636": {
+        "「次　生…れてくる時も　また……\n　あなたと……": "La prochaine fois que je renaitrai...\nencore... avec vous..."
     },
-    "57934": {
-        "「だ　大丈夫かい　アイリちゃん！？": "Da... D'accord, Aili-chan !?"
+    "57637": {
+        "「姉さん……。": "Grande soeur..."
     },
-    "57935": {
-        "「大丈夫です。\n　私　もう　大丈夫ですよ。": "Ca va. Je vais bien maintenant."
+    "57638": {
+        "「……ルコリア。お前のおかげで\n　また　リゼロッタに会うことができた。": "Lucolia. Grace a toi, j'ai pu revoir\nLieselotte."
     },
-    "57936": {
-        "「しょうかい……。\n　寝込んでた　アイリちゃんが　消えたって\n　みんな　大あわてだったんだよう。": "Introduction... Tout le monde etait en panique\nparce que la petite Aili, qui etait alitee, a\ndisparu."
+    "57639": {
+        "「今まで　ちゃんと　お前と向き合おうとせず\n　やりきれない思いを　ぶつけてばかりで\n　本当に　すまなかったな。": "Je suis vraiment desole de ne pas avoir pris\nle temps de te comprendre jusqu'a maintenant,\npreferant te lancer mes ressentiments que je<br>ne pouvais Spear."
     },
-    "57937": {
-        "「でも　旅人しゃんが\n　見つけてくれたんだねえ。": "Mais le voyageur-san l'a trouve pour nous,\nn'est-ce pas ?"
+    "57640": {
+        "「……やつあたりしてたのは　お互い様だし\n　そんなの　今さら　言いっこなしよ。": "On a tous les deux reagi sous le coup de la\ncolere. Inutile de revenir la-dessus\nmaintenant."
     },
-    "57938": {
-        "「皆さんには　ご心配をおかけしました。 \n　私　<pc>さんに　助けていただいて\n　すこし　強くなれた気がします。": "Je vous ai tous cause des inquietudes. Grace a\nl'aide de <pc>-san, je me sens un peu\nplus forte."
+    "57641": {
+        "「私　今まで　パパに逆らってばかりだったけど\n　魔物から守ってくれて　うれしかったわ。\n　ありがと……パパ。": "Jusqu'a present, je n'ai fait que m'opposer a\ntoi, papa, mais je suis heureuse que tu m'aies\nprotegee des monstres. Merci... papa."
     },
-    "57939": {
-        "「……ラペットおじいさん。\n　私　パンパニーニおじいさまの\n　童話の続きを書きます。": "Grand-pere Lapett. Je vais ecrire la suite du\nconte de fees de grand-pere Bread Panini."
+    "57642": {
+        "「……<pc>さん。私たちが　こうして\n　姉さんたちと会うことができたのも\n　あなたが持ってきてくれた　日記帳のおかげ。": "<pc>-san. Si nous avons pu rencontrer\nnos grandes soeurs ainsi, c'est grace au\njournal que tu as apporte."
     },
-    "57940": {
-        "「しょうか……しょうか……。\n　パンパニーニも　よろこぶだろうねえ。": "Je me demande... Je me demande... Panini le\npain serait surement ravi aussi."
+    "57643": {
+        "「セレドの町だけじゃなく　私たちの心も\n　救ってくれた　あなたに\n　どうすれば　お礼が　できるかしら……。": "Non seulement tu as sauve la ville de Celed,\nmais tu as aussi sauve nos coeurs. Comment\npourrions-nous te remercier...?"
     },
-    "57941": {
-        "「アイリお嬢さまあ～～～！！": "Aili ojou-samaaa !!"
+    "57644": {
+        "「そういうことでしたら　町全体を代表して\n　私から　お礼をさせていただきましょう。\n　さあ　これを　お受け取りください。": "Dans ce cas, permettez-moi de vous remercier\nau nom de toute la ville. Veuillez accepter\nceci."
     },
-    "57942": {
-        "「よく　ご無事で……。 \n　お部屋をのぞいたら　カラッポなんだもの。\n　心配で　やせちまうとこだったね！": "Je suis tellement soulage que vous soyez sain\net sauf... Quand j'ai regarde dans votre\nchambre, elle etait vide. J'etais sur le point<br>de m'inquieter au point de maigrir !"
+    "57645": {
+        "「また　セレドの町まで　お越しの際は\n　我が家に　寄っていってください。\n　ルコリアも　よろこぶでしょう。": "Lorsque vous reviendrez a la ville de Celed,\nn'hesitez pas a passer chez nous. Lucolia sera\nsurement ravie."
     },
-    "57943": {
-        "「ごめんなさい　ルーデさん。 \n　私　おなかがすいちゃって……。\n　パンを　たくさん　焼いていただけますか？": "Je suis desolee, Rudy-san. J'ai vraiment\nfaim... Pourriez-vous me faire cuire beaucoup\nde pain ?"
+    "57646": {
+        "「……<pc>さん　本当に　ありがとう！": "... <pc>-san, merci beaucoup !"
     },
-    "57944": {
-        "「ああ……もちろんさね！　もちろんさね！": "Ah... bien sur ! Bien sur !"
+    "57647": {
+        "ブラト町長は　ルコリアと\n町の大人たちを連れて　町に戻っていった。": "Le maire Burat est retourne en ville avec\nLucolia et les adultes de la ville."
     },
-    "57945": {
-        "「ありがとうございます。\n　私にも　お手伝いさせてくださいね。": "Merci beaucoup. Laissez-moi vous aider aussi."
+    "81793": {
+        "集会所の中は　安らぐ香りで\n満たされている……。": "L'interieur de la salle de l'Assemblee est\nempli d'un parfum apaisant..."
     },
-    "57946": {
-        "「<pc>さん。\n　この　ご恩は　きっと忘れません。": "<pc>-san. Je n'oublierai jamais cette\nfaveur."
+    "81794": {
+        "「さあ　この像にかしずき　祈りましょう！\n　そして　呼びだした子供たちの霊に\n　許しを乞えば　あなたがたは　救われるのです！": "Allez, agenouillez-vous devant cette statue et\nprions ! Et en demandant pardon aux esprits\ndes enfants que nous avons invoques, vous<br>serez sauves !"
     },
-    "57947": {
-        "「私　必ずや　おじいさまの童話を…… \n　小さな英雄さんの物語の続きを　書きあげます。\n　どうか　楽しみにしていてくださいね。": "Je vais absolument terminer l'histoire de\nconte de fees de grand-pere... Je vais ecrire\nla suite de l'histoire du petit heros. S'il<br>vous plait, attendez cela avec impatience."
+    "81795": {
+        "「どうか　私を許してくれ……。": "Je t'en prie, pardonne-moi..."
     },
-    "57948": {
-        "「あなたの旅に　しあわせが多く訪れますよう。\n　……不思議な旅人さん。": "Que votre voyage soit rempli de bonheur. ...\nMysterieux voyageur-san."
+    "81796": {
+        "「ダメな親で　ごめんなさい……。": "Je suis desole d'etre un mauvais parent..."
     },
-    "57949": {
-        "「のう　旅人しゃん。\n　ラペットじいしゃんの宝石作戦は\n　大成功だったみたいだねえ。": "Eh bien, voyageur-san. Il semble que le plan\nde Lapett-jii-san pour les pierres precieuses\na ete un grand succes."
+    "81797": {
+        "「オレたちのことは　忘れて\n　安らかに眠ってくれ……。": "Nous oublier et reposer en paix..."
     },
-    "57950": {
-        "「アイリちゃん　すっかり元気になって……。\n　ホントに　よくやってくれたねえ。 \n　しゃあ　お駄賃だよう。": "Aili-chan est completement retablie... Tu as\nvraiment fait un excellent travail. Tiens,\nvoici une petite recompense."
+    "81798": {
+        "「その身が消え去るとも　知らぬまま\n　自らの祈りによって　滅するがよい！": "Que ton corps disparaisse sans meme le savoir,\nperis par ta propre priere !"
     },
-    "57951": {
-        "「パンパニーニが遺した　小さな希望が\n　大きな希望となって　動きだしゅたよ……。": "Le petit espoir laisse par Bread Panini s'est\ntransforme en un grand espoir et a commence a\nse manifester..."
+    "81799": {
+        "「……みんな　目を覚まして！": "…Reveillez-vous tous !"
     },
-    "57952": {
-        "「物語は　まだまだ　続くんだねえ。": "L'histoire continue encore et encore."
+    "81800": {
+        "「……ン。なに……？\n　目が　ピリピリする……。": "…Hmm. Quoi…? Mes yeux picotent…"
     },
-    "87305": {
-        "「お前の手で　ひと思いに\n　その化け物を　葬ってやってくれ！！": "Avec tes propres mains, mets un terme a\nl'existence de ce monstre une fois pour toutes\n!"
+    "81801": {
+        "「……ひいぃぃっ！？　なんだよ　これ！？": "…Hiii !? Mais qu'est-ce que c'est que ca !?"
     },
-    "87893": {
-        "<pc>は　紅蓮の大宝石を\nだいじに　しまった。": "<pc> a soigneusement range le Bright Red\nGem."
+    "81802": {
+        "「ひ……ヤダ……身体が……。": "Hi... Non... Mon corps..."
+    },
+    "81803": {
+        "「おい！　光の河……\n　光が　消えていくぞ……！": "Hey ! La riviere de lumiere... La lumiere est\nen train de disparaitre... !"
+    },
+    "81804": {
+        "「よかろう！　祈願の魔像のチカラを借り\n　貴様は　私が直接　地獄へ送ってくれるわ！！": "Tres bien ! En utilisant le pouvoir de la\nStatue de Priere, je vais personnellement\nt'envoyer en enfer !!"
+    },
+    "81805": {
+        "「か……身体が　元に戻ったわ……。": "Mon... corps est revenu a la normale..."
+    },
+    "81806": {
+        "「なんだ？　あれは……。": "Qu'est-ce que c'est ? Ca la-bas..."
+    },
+    "81807": {
+        "「ふ　ふぎゃあぁぁぁっ！": "Fu... Fuygaaaahh!"
+    },
+    "81808": {
+        "「バケモノだ！\n　みんな　早く逃げろっ！！": "Un monstre ! Tout le monde, fuyez vite !"
+    },
+    "81809": {
+        "「まずは　貴様を始末してから\n　ゆっくり　すべてを　ぬりかえてくれるわ！": "D'abord, je vais te regler ton compte, puis je\nvais tranquillement tout effacer et\nrecommencer !"
+    },
+    "81810": {
+        "「<cs_pchero>さん　お願い　助けて！": "<cs_pchero> san, s'il te plait, aide-moi !"
     }
 }
