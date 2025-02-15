@@ -1,101 +1,107 @@
 {
-    "277265": {
-        "「くそっ。なんで　てめぇに　勝てねえんだ。\n　ワシのほうが　絶対に　強えはずだ！": "Merde. Pourquoi je ne peux pas te battre ? Je\nsuis cense etre plus fort que toi !"
+    "299474": {
+        "「だっ　団長！　オレ……先日\n　迷惑をかけてしまった　お詫びをしたいんです。\n　これを　受け取ってもらえませんか……？": "Da... Danchou ! L'autre jour, je... Je tiens a\nm'excuser pour le derangement que j'ai cause.\nPourriez-vous accepter ceci en signe de mon<br>regret... ?"
     },
-    "277266": {
-        "「……貴様の攻撃は　単調に過ぎる。\n　自慢の武器が　泣いているぞ。": "......Ton attaque est bien trop monotone. Ton\narme de predilection en pleurerait."
+    "299475": {
+        "「これは……王都の桜もち！\n　よく　僕の大好物が　わかりましたね？": "C'est... Royal Cherry Mochi ! Comment\navez-vous su que c'etait mon plat prefere ?"
     },
-    "277267": {
-        "「ちっ。しかたねぇな。ワシが隠し持ってる\n　地図の片割れを　てめぇに　くれてやる。\n　だから　ここは　見逃せ。": "Tch. Bon, pas le choix. Je vais te donner un\nmorceau de la carte que je garde cache. Alors,\nlaisse-moi tranquille ici."
+    "299476": {
+        "「先日も言いましたが\n　ミスや間違いは　誰にでもあるものですから\n　いつまでも　悔やむ必要は　ありません。": "Comme je l'ai dit l'autre jour, les erreurs et\nles fautes peuvent arriver a tout le monde. Il\nn'est donc pas necessaire de s'en vouloir<br>eternellement."
     },
-    "277268": {
-        "「地図のことは　どうでもいい。\n　レンドア襲撃はしないと　約束しろ！": "La carte n'a aucune importance. Promets-moi de\nne pas attaquer Lendor !"
+    "299477": {
+        "「けれど　セツラン君の気持ちと\n　僕の大好物は　しかと　受け取りました。": "Cependant, j'ai bien recu les sentiments de\nSetsuran-kun et mon plat prefere."
     },
-    "277269": {
-        "「海賊が　約束なんかして　どうすんだ。\n　それによ。襲撃の話は　ぶっちゃけ\n　てめぇをおびき出すための　エサだったのさ。": "Les pirates, faire des promesses, ca ne rime a\nrien. Et puis, pour etre franc, l'histoire de\nl'attaque n'etait qu'un appat pour te faire<br>sortir."
+    "299478": {
+        "「……そうだ！　せっかくですし　守護騎士団の\n　みんなで食べませんか？　家に帰って\n　僕ひとりで食べるのも　味気なくって。": "…C'est ca ! Puisque nous sommes ici, que\ndiriez-vous de manger ensemble avec tous les\nmembres de l'Ordre des Chevaliers Protecteurs<br>? Rentrer chez moi et manger seul serait un\npeu triste."
     },
-    "277270": {
-        "「それにしても　うまいこと\n　引っかかってくれたもんだよなぁ？": "En tout cas, tu t'es bien fait avoir par\nMaiko, n'est-ce pas ?"
+    "299479": {
+        "「あっ……だったら　オレ　お茶いれますね！": "Ah... Dans ce cas, je vais preparer le the !"
     },
-    "277271": {
-        "「ぐっ…………。": "Guh..."
+    "299480": {
+        "「ふい～　ゴチになりました！\n　にしても　団チョって　桜もちが好きなんだ～？\n　カワイイとこ　あんね<heart>": "Ouf~ Merci pour le repas ! Au fait, le chef de\nbande aime vraiment les mochi a la cerise,\nhein ? Il a un cote mignon <heart>"
     },
-    "277272": {
-        "「悪いね　マドロック。\n　コッチの旦那と組んだほうが　海賊らしく\n　好きなことが　できそうなんだよ。": "Desole, Madrock. Il semble que s'associer avec\nce type ici soit plus dans l'esprit pirate et\nme permette de faire ce que j'aime."
+    "299481": {
+        "「はは……昔は　違ったんですけどね。\n　桜もちは　僕の奥さんの　大好物で……\n　その影響なんです。": "Haha... Autrefois, c'etait different, vous\nsavez. Les sakura mochi sont le peche mignon\nde ma femme... C'est a cause de son influence."
     },
-    "277273": {
-        "「人生とは　自由と探求……ってね。": "La vie, c'est la liberte et la quete..."
+    "299482": {
+        "「団長の　奥様ですか～！\n　なる…ほ……ど…………？": "Vous etes l'epouse du chef de la troupe,\nn'est-ce pas ? Je vois... Hmm..."
     },
-    "277274": {
-        "「大事なものの隠し場所は\n　もうちょっと　考えたほうがいいよ。": "Tu devrais reflechir un peu plus a l'endroit\nou tu caches tes objets precieux."
+    "299483": {
+        "「えええええっ！？\n　だ　だ　だ　団長の奥様！？\n　団長に……奥様がっ！？": "Eeeeeh !? L'epouse... du chef de la troupe !?\nLe chef de la troupe a... une epouse !?"
     },
-    "277275": {
-        "「<cs_pchero>。アンタは　しばらく\n　そこで　おとなしくしてるんだ。\n　そうすりゃ　すべて丸く　収まるんだよ。": "<cs_pchero>Toi, reste tranquillement la\npendant un moment. Si tu fais ca, tout se\npassera bien."
+    "299484": {
+        "「し……知りませんでした。\n　だって　団長は　天涯孤独の身だって……。": "Je... je ne le savais pas. Apres tout, on\ndisait que le chef de la troupe etait sans\nfamille..."
     },
-    "277276": {
-        "「フレ…ン……ジ…………。": "Fre...n...zy..."
+    "299485": {
+        "「それは　事実ですよ。僕に　家族はいません。\n　妻がいたのは……昔の話です。": "C'est la verite. Je n'ai pas de famille.\nJ'avais une epouse... mais c'est une histoire\nancienne."
     },
-    "277277": {
-        "「ほらよ。お望みの　お宝の地図の片割れだ。\n　手土産としちゃ　じゅうぶんだろ？": "Tiens. Voici la moitie de la carte au tresor\nque tu voulais. Cela devrait suffire comme\ncadeau, non ?"
+    "299486": {
+        "「当時の僕は　多少　名の知れた戦士でしてね。\n　仕事には　困らないものの\n　殺伐とした日々を　過ごしていました。": "A l'epoque, j'etais un guerrier assez connu,\nvous savez. Je n'avais pas de mal a trouver du\ntravail, mais je vivais des jours plutot<br>rudes."
     },
-    "277278": {
-        "「アタイを　アンタの団に　加えとくれ。\n　それで　お宝探しと　いこうじゃないか！": "Ajoute un Red Snapper a ton equipe. Allons a\nla chasse au tresor !"
+    "299487": {
+        "「ある日のこと　偶然\n　魔物に襲われている女性を見つけ　助け出し……\n　やがて　僕たちは　恋に落ちたのです。": "Un jour, par hasard, j'ai trouve une femme\nattaquee par des monstres et je l'ai\nsecourue... Et peu a peu, nous sommes tombes<br>amoureux."
     },
-    "277279": {
-        "「ああ　いいともよ。\n　うちは　女っ気が　なかったからなぁ。\n　大歓迎だぜ　へっへへへ。": "Ah, bien sur. On manquait de presence feminine\nici. On t'accueille a bras ouverts, he he he."
+    "299488": {
+        "「彼女は　太陽のような女性で　身寄りのない僕に\n　『一緒に　家族を作ろう』と言ってくれました。\n　彼女と結婚して……娘も産まれました。": "Her etait une femme rayonnante comme le\nsoleil, et elle m'a dit, a moi qui n'avais\npersonne, 'Creons une famille ensemble.' Je me<br>suis marie avec Her... et notre fille est nee."
     },
-    "277280": {
-        "「おい　野郎ども！\n　いつまで　ぐずぐずと　寝てやがる。\n　とっとと　引き上げるぞっ！": "He, les gars ! Vous allez rester la a trainer\nencore longtemps ? Allez, on se bouge et on\nrentre !"
+    "299489": {
+        "「娘は　小さくて　やわらかくて……この世界に\n　こんなに愛しいものが存在すると　知らなくて。": "Ma fille est si petite et douce... Je ne\nsavais pas qu'il pouvait exister quelque chose\nd'aussi precieux dans ce monde."
     },
-    "277281": {
-        "「無様なところを　見せてしまったな。\n　まったく　フレンジーのやつは\n　手加減ってものを　知らないようだ……。": "Je t'ai montre un spectacle bien pitoyable.\nApparemment, ce Frenzy ne semble pas connaitre\nla signification du mot retenue..."
+    "299490": {
+        "「……この子のためなら\n　なんだって　できると思った。": "...Pour cet enfant, je pensais que je pourrais\ntout faire."
     },
-    "277282": {
-        "「もう　大丈夫だ。ひとりで　歩ける。\n　船まで戻ったら　オレの所まで来てくれ。\n　これからの事について　話がしたい……。": "Ca va aller maintenant. Je peux marcher tout\nseul. Quand tu seras de retour au bateau,\nviens me voir. Je veux te parler de ce qui va<br>se passer..."
+    "299491": {
+        "「娘が生まれてからの　数年は\n　あっと言う間に　過ぎてゆき……ある日\n　僕は　家族を　ピクニックに誘いました。": "Les quelques annees apres la naissance de ma\nfille ont file a toute allure... Un jour, j'ai\ninvite ma famille a un pique-nique."
     },
-    "277283": {
-        "「おぅ。よく来たな。\n　待ってたんだぜ　マドロックさんよぉ。": "Oh. Te voila enfin. Je t'attendais,\nMadrock-san."
+    "299492": {
+        "「そこは　景色こそ良いものの\n　魔物が生息する場所で　妻は嫌がりました。\n　しかし　その時の僕は……": "L'endroit avait beau offrir un beau paysage,\nc'etait un lieu habite par des monstres, ce\nqui deplaisait a ma femme. Cependant, a ce<br>moment-la, moi..."
     },
-    "277284": {
-        "「待ってただって？\n　ちっ。こいつは　ワナってわけかい。": "Tu dis que tu m'attendais ? Tch. Alors c'est\nun piege, hein."
+    "299493": {
+        "<center><pipipi_low>ははは……俺は　一流の戦士だぜ？\n魔物くらい　どうって事ねえよ。": "<pipipi_low> Haha... Je suis un guerrier de\npremier ordre, tu sais ? Les monstres ne me\nfont pas peur."
     },
-    "277285": {
-        "「おめぇらに　くれてやった\n　海神の秘宝の地図の片割れだけどよ。\n　やっぱり　惜しくなっちまってなぁ。": "Je vous ai donne un morceau de la carte du\nTresor du Dieu des Mers, mais... Finalement,\nje m'en suis un peu mordu les doigts."
+    "299494": {
+        "「己のチカラに　絶大な自信があった僕は\n　妻と娘を連れて　出かけたのです。\n　ところが…………": "J'avais une confiance immense en mes propres\nforces, alors j'ai emmene ma femme et ma fille\navec moi. Cependant..."
     },
-    "277286": {
-        "「こうして　話し合いの場を　設けたってわけよ。\n　ジャマも来ねえし　いいとこだろ？": "Voila pourquoi nous avons organise cette\nreunion. Personne ne viendra nous deranger\nici, c'est parfait, non ?"
+    "299495": {
+        "「繁殖期か　何かだったのか……\n　普段は　数えるほどしかいないはずの魔物が\n　大量に現れ　襲いかかってきたのです。": "Etait-ce la periode de reproduction ou autre\nchose... D'ordinaire, il ne devrait y avoir\nque quelques monstres, mais ils sont apparus<br>en masse et ont attaque."
     },
-    "277287": {
-        "「オレたちは　地図の話をしにきたんじゃない。\n　レンドア島襲撃の件……。\n　貴様は　本気で　やろうとしているのか？": "Nous ne sommes pas venus pour parler de\ncartes. C'est au sujet de l'attaque sur Lendor\nIsland... Es-tu vraiment serieux a ce propos ?"
+    "299496": {
+        "「僕は　妻と娘を守りながら　戦いましたが\n　魔物は次々と現れ　キリがなく……\n　ついに　チカラ尽きかけた　その時でした。": "J'ai combattu tout en protegeant ma femme et\nma fille, mais les monstres continuaient\nd'apparaitre sans fin... C'est a ce moment-la,<br>alors que mes forces commencaient a me\nquitter."
     },
-    "277288": {
-        "「さぁて　どうだかな？\n　やりたくなったら　やっちまうのが　海賊だ。\n　今からでも　やるかもしれねえぜ？": "Alors, qu'en penses-tu ? Si l'envie de\ncombattre me prend, je fonce comme un pirate.\nJe pourrais bien me lancer des maintenant, tu<br>sais ?"
+    "299497": {
+        "<center><pipipi_mid>この子を　よろしくね……あなた。": "<pipipi_mid>Prends soin de cet enfant... toi."
     },
-    "277289": {
-        "「だが　てめぇが　秘宝の地図の片割れを\n　ワシに　寄こすってんなら　やめてもいいぞ。": "Mais si tu acceptes de me donner la moitie de\nla carte au tresor, je pourrais bien m'arreter\nla."
+    "299498": {
+        "「妻は……妻は　おとりとなったのです。\n　『逃げて』と叫ぶと　魔物を引きつけながら\n　遠ざかっていって……。": "Ma femme... ma femme a servi de leurre. En\ncriant Fuis, elle a attire les monstres tout\nen s'eloignant..."
     },
-    "277290": {
-        "「断る。\n　あれは　手にした者に　海を支配するチカラを\n　あたえると　言われている秘宝だ。": "Je refuse. On dit que ce tresor sacre confere\na celui qui le possede le pouvoir de dominer\nles mers."
+    "299499": {
+        "「僕は　娘を抱きかかえて　走りました。\n　彼女の安全を確保して　すぐに戻りましたが\n　妻は……もう…………。": "Je portais ma fille dans mes bras et j'ai\ncouru. J'ai assure la securite de Her et je\nsuis revenu immediatement, mais ma femme etait<br>deja..."
     },
-    "277291": {
-        "「貴様に渡すなど　できない相談だ！": "Il est hors de question que je te le remette !"
+    "299500": {
+        "「妻の両親は激怒し　僕と縁を切ると言いました。\n　お前には　任せられないと\n　僕たちの娘も　連れていかれました。": "Les parents de ma femme etaient furieux et ont\ndit qu'ils allaient couper les ponts avec moi.\nIls ont affirme qu'ils ne pouvaient pas me<br>faire confiance et ont emmene notre fille avec\neux."
     },
-    "277292": {
-        "「そうかよ。そんなら　チカラずくでいくぜ。\n　レンドアなんかよりも　自分の生命のほうを\n　守るのが　先だろ？": "Ah, je vois. Dans ce cas, je vais utiliser la\nforce. Proteger ma propre vie passe avant\nRenda."
+    "299501": {
+        "「僕は……何も言えませんでした。\n　むしろ　そうすべきだと思った。\n　人の親である資格など　自分にはないと……。": "Je n'ai rien pu dire... Je pensais meme que\nc'etait la meilleure chose a faire. Je me suis\ndit que je n'avais pas le droit d'etre un<br>parent..."
     },
-    "277293": {
-        "<if_woman>「その新入りくせえ　姉ちゃんも\n　タマよけに連れてきたんだろ　なぁ！？<else>「その新入りくせえ　兄ちゃんも\n　タマよけに連れてきたんだろ　なぁ！？<endif>": "<if_woman>>Tu as aussi amene cette nouvelle\nfille pour servir de bouclier humain, hein !?<else>>Tu as aussi amene ce nouveau gars pour servir\nde bouclier humain, hein !? <endif>"
+    "299502": {
+        "「じゃあ……娘さんとは　それきり……？": "Alors... Vous n'avez plus eu de nouvelles de\nvotre fille ensuite... ?"
     },
-    "277294": {
-        "「マドロック！　コイツら　話になんないよ。\n　ちょっと　痛い目を見てもらうしかないね！": "Madrock ! Ces types ne comprennent rien. Il va\nfalloir leur donner une petite lecon !"
+    "299503": {
+        "「ええ。義父は　僕が　妻と一緒に\n　死んだことにすると言っていましたから　娘は\n　僕が生きていることも　知らないはずです。": "Oui. Mon beau-pere a dit qu'il ferait comme si\nj'etais mort avec ma femme, donc ma fille ne\ndevrait pas savoir que je suis en vie."
     },
-    "277295": {
-        "「……ああ　仕方ない。": "…Ah, tant pis."
+    "299504": {
+        "「あれから　２０年……きっと　あの子も\n　素敵な女性に　なっていることでしょう。": "Cela fait 20 ans depuis... Cette enfant doit\netre devenue une femme merveilleuse\nmaintenant."
     },
-    "277296": {
-        "「なんだ　やる気になったか？\n　そんじゃ　お相手してやろうじゃねえか！": "Alors, tu es enfin motive ? Dans ce cas, je\nvais etre ton adversaire !"
+    "299505": {
+        "「妻の死後　僕は　人を守るための職業である\n　パラディンに転職し……やがて\n　ガーディアンにスカウトされ　今に至ります。": "Apres la mort de ma femme, j'ai change de\ncarriere pour devenir un paladin, un metier\nvoue a proteger les autres... Ensuite, j'ai<br>ete recrute par le Guardian, et me voici\naujourd'hui."
     },
-    "277297": {
-        "「大物ふたりは　ワシが　片づける。\n　お前たちは　新入りちゃんと　遊んでやんな！": "Les deux gros poissons, je m'en occupe. Vous\nautres, amusez-vous avec le petit nouveau !"
+    "299506": {
+        "「……僕の　若き日の過ちといったところです。\n　君たちは　どうか　僕のようにならず\n　守りたい人を　守り抜いてくださいね。": "...C'est une erreur de ma jeunesse,\npourrait-on dire. Je vous en prie, ne devenez\npas comme moi et protegez ceux que vous voulez<br>preserver jusqu'au bout."
+    },
+    "299507": {
+        "「おっと！　もう　こんな時間ですか。\n　おじさんの長話なんか　退屈だったでしょう？\n　さあ　仕事に戻りましょうか。": "Oh ! Il est deja si tard ? Mon bavardage\nd'oncle a du te sembler ennuyeux, non ? Allez,\nretournons au travail."
+    },
+    "299508": {
+        "「じゃあ……オレも　門の見張りに戻ります。\n　<pc>も　あとで\n　希望なき荒地に　来てくれないか……？": "Alors... Je retourne a la surveillance de la\nporte. <pc>, pourrais-tu venir au\nHopeless Wasteland plus tard... ?"
     }
 }
