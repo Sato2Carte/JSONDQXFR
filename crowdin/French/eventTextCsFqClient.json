@@ -1,8 +1,155 @@
 {
-    "97472": {
-        "「……みつけたぞ。": "...Je t'ai trouve."
+    "98411": {
+        "「刻印を刻まれし者よ……。": "O toi, marque par le sceau..."
     },
-    "97473": {
-        "「すべての刻印が刻まれし時　お前は…………。": "Lorsque tous les sceaux seront graves, tu..."
+    "98412": {
+        "「我が主に　捧げられし者よ。\n　貴様の命……もらい受けに来た！": "Toi qui a ete offert a mon Seigneur. Je suis\nvenu prendre ta vie !"
+    },
+    "98413": {
+        "ブラッドメイジたちとの戦いに\n勝利した　<cs_pchero>は\n元の宝箱の前に　戻ってきた。": "Apres avoir vaincu les Blood Mage, <cs_pchero>\nest retourne devant le coffre au tresor\nd'origine."
+    },
+    "98414": {
+        "しかし　突然　めまいに　おそわれ\n意識が　遠くなっていく……。": "Cependant, soudainement, un vertige m'envahit\net ma conscience commence a s'eloigner..."
+    },
+    "98415": {
+        "「我の定めし　供物よ…… \n　我がもとへ　来るがよい……。": "O offrande que j'ai choisie... Viens a moi..."
+    },
+    "98416": {
+        "「残る刻印は　あと　３つ……。": "Il ne reste plus que trois marques..."
+    },
+    "98417": {
+        "<cs_pchero>は　気を取り直して\nアクターのカギを使って　宝箱を開けた。": "<cs_pchero> se ressaisit et utilisa la Cle de\nl'Acteur pour ouvrir le Coffre au Tresor."
+    },
+    "98418": {
+        "宝箱の中には\n極意書の最終巻が　入っていた。": "Dans le coffre au tresor, il y avait le\ndernier volume de Creed."
+    },
+    "98419": {
+        "<cs_pchero>は\n極意書の最終巻（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu le dernier volume de\nCreed (objets cles) !<me 60>"
+    },
+    "98420": {
+        "「やあっ！　元気ぃ？": "Salut ! Comment ca va ?"
+    },
+    "98421": {
+        "「今　キミの存在が　こっちに近づいてるおかげで\n　こうして　出てくることができたよ。\n　つまり　命の危険が迫ってるわけなんだけど……": "Grace a ta presence qui se rapproche ici, j'ai\npu me manifester de cette facon. En d'autres\ntermes, cela signifie que ta vie est en<br>danger..."
+    },
+    "98422": {
+        "「あんまり自覚なし？　ノンキなもんだよなー。\n　まっ　その方がキミらしくて　面白いけど。\n　こうやって　また　話すチャンスもできたしね。": "Pas vraiment conscient ? Tu es vraiment\ninsouciant, hein. Mais bon, c'est ce qui fait\nton charme et te rend interessant. En tout<br>cas, ca nous a donne une nouvelle chance de\ndiscuter comme ca."
+    },
+    "98423": {
+        "「キミは覚えてる？　ボクの果たせなかった夢を。\n　それは　アストルティア最大の役者の祭典\n　ワールド演芸グランプリで　優勝すること！": "Te souviens-tu ? De mon reve inacheve. C'etait\nde remporter le plus grand festival des\nacteurs d'Astoltia, le Grand Prix de Ludo<br>Spectacle !"
+    },
+    "98424": {
+        "「そのためにも　ボクは\n　伝説の『アクター極意書全５巻』を手に入れて\n　実力を　つけなくちゃいけなかったんだ。": "Pour cela, je devais obtenir les cinq volumes\nlegendaires du Manuel de l'Acteur afin de\nparfaire mes competences."
+    },
+    "98425": {
+        "「そしたら　あのピリッポが先に\n　極意書を全巻集めて　読んじゃった！\n　前とは　見違えるほどの実力を　つけてさ。": "Et puis ce Pirippo a reussi a rassembler tous\nles volumes du manuel secret et les a lus ! Il\na acquis une force incroyable, il est<br>meconnaissable par rapport a avant."
+    },
+    "98426": {
+        "「それを見ていて\n　ボクは……　ボクは……！": "En voyant cela, moi... moi... !"
+    },
+    "98427": {
+        "「……とっても　うれしかったんだ。": "... J'etais vraiment content."
+    },
+    "98428": {
+        "「ボクはかつて　ピリッポとコンビを組んでいた。\n　でも　アイツは　チャンピオンのボクと\n　自分を比べてばかりでさ……": "J'ai autrefois fait equipe avec Pirippo. Mais\nce gars-la ne faisait que se comparer a moi,\nle champion..."
+    },
+    "98429": {
+        "「自分のいいところを　伸ばそうとしなかった。\n　だから　コンビを解消したんだよ。\n　ありのままの　ピリッポに気づいてほしくて。": "Je n'ai pas essaye de developper mes points\nforts. C'est pour ca que nous avons rompu\nnotre duo. Je voulais que tu realises qui est<br>vraiment Pirippo."
+    },
+    "98430": {
+        "「ありがとよ。これからも　オレは\n　ありのままに　かむぜ！\n　ドリームズ　かむ　トゥルー　だぜーっ！！": "Merci beaucoup. A partir de maintenant, je\nvais croquer la vie a pleines dents tel que je\nsuis ! Dreams come true !!"
+    },
+    "98431": {
+        "「あっはっは！　ケッサク！\n　こんな天然モノ　どこ探してもいないって。\n　それだよ　ピリッポ　お前の極意は！": "Ah ah ah ! Quelle bonne blague ! Un specimen\nnaturel comme ca, tu n'en trouveras nulle part\nailleurs. C'est ca, Pirippo, c'est ton essence<br>meme !"
+    },
+    "98432": {
+        "「……ボクも　そんな極意に\n　たどり着いてみたかった。\n　でも　もう満足だ。": "...Moi aussi, j'aurais aime atteindre un tel\nsecret. Mais maintenant, je suis satisfait."
+    },
+    "98433": {
+        "「ボクの夢は　ボクも知らないうちに\n　ピリッポが継いでくれてたんだって\n　よーく　わかったからね！": "Mon reve, sans meme que je m'en rende compte,\nPirippo l'a repris, et maintenant je comprends\nbien pourquoi !"
+    },
+    "98434": {
+        "「ワールド演芸グランプリ優勝の夢は\n　どうやら　アイツが　果たしてくれそうだ。\n　……いつの日か　きっと……ね。": "Le reve de remporter le grand prix du Ludo\nFestival semble devoir etre realise par lui.\nUn jour, surement... n'est-ce pas."
+    },
+    "98435": {
+        "「……ムフッ。\n　やっぱり　夢を語っちゃうとか\n　そういうのって　ちょっと　テレるな。": "… Mouf. Parler de ses reves, ce genre de\nchoses, c'est un peu genant."
+    },
+    "98436": {
+        "「さーてと！　そろそろ　ボクは行くよ。\n　今度こそ　心残りはない！\n　迷うことなく……あっちへ行けるさ。": "Bon ! Il est temps pour moi de partir. Cette\nfois, je n'ai aucun regret ! Je vais pouvoir\naller de l'autre cote sans hesitation..."
+    },
+    "98437": {
+        "「サラバだ　<pc>！\n　キミの幸せを　ずっと祈ってる。\n　笑いと涙にあふれた　ステキな人生を！": "Adieu, <pc> ! Je prierai toujours pour\nton bonheur. Une merveilleuse vie remplie de\nrires et de larmes !"
+    },
+    "98438": {
+        "「やあっ！　元気ぃ？": "Salut ! Comment ca va ?"
+    },
+    "98439": {
+        "「今　キミの存在が　こっちに近づいてるおかげで\n　こうして　出てくることができたの。\n　つまり　命の危険が迫ってるわけなんだけど……": "En ce moment, grace a ta presence qui se\nrapproche, j'ai pu sortir comme ca. Autrement\ndit, cela signifie qu'un danger mortel est<br>imminent..."
+    },
+    "98440": {
+        "「あんまり自覚なし？　ノンキなもんよねー。\n　まっ　その方がキミらしくて　面白いけど。\n　こうやって　また　話すチャンスもできたしね。": "Pas vraiment conscient ? Quelle insouciance.\nMais bon, c'est plus amusant et ca te\nressemble. Et puis, ca nous a donne une autre<br>chance de discuter comme ca."
+    },
+    "98441": {
+        "「覚えてる？　アタシの果たせなかった夢。\n　それは　アストルティア最大の役者の祭典\n　ワールド演芸グランプリで　優勝すること！": "Tu te souviens ? Mon reve que je n'ai pas pu\nrealiser. C'etait de gagner le plus grand\nfestival d'acteurs d'Astoltia, le Grand Prix<br>de l'Art Dramatique de WarLudo !"
+    },
+    "98442": {
+        "「そのためにも　アタシは\n　伝説の『アクター極意書全５巻』を手に入れて\n　実力を　つけなくちゃいけなかったの。": "Pour cela, je devais me procurer les cinq\nvolumes legendaires du Guide de l'Acteur pour\nameliorer mes competences."
+    },
+    "98443": {
+        "「そしたら　あのピリッポが先に\n　極意書を全巻集めて　読んじゃった！\n　前とは　見違えるほどの実力を　つけてね。": "Et ensuite, ce Pirippo a reussi a rassembler\ntous les volumes des ecrits secrets et les a\nlus ! Il est devenu incroyablement plus<br>puissant qu'avant."
+    },
+    "98444": {
+        "「それを見ていて\n　アタシは……　アタシはね……！": "En voyant cela, moi... moi... !"
+    },
+    "98445": {
+        "「……とっても　うれしかったんだ。": "... J'etais vraiment content."
+    },
+    "98446": {
+        "「アタシは昔　ピリッポとコンビを組んでたの。\n　でも　アイツは　チャンピオンのアタシと\n　自分を比べてばかりでさ……": "J'ai fait equipe avec Pirippo dans le passe.\nMais il n'arretait pas de se comparer a moi,\nla championne..."
+    },
+    "98447": {
+        "「自分のいいところを　伸ばそうとしなかった。\n　だから　コンビを解消したのよ。\n　ありのままの　ピリッポに気づいてほしくて。": "Je n'ai pas essaye de developper mes qualites.\nC'est pour cela que nous avons dissous notre\nduo. Je voulais que tu remarques le vrai<br>Pirippo."
+    },
+    "98448": {
+        "「ありがとよ。これからも　オレは\n　ありのままに　かむぜ！\n　ドリームズ　かむ　トゥルー　だぜーっ！！": "Merci beaucoup. A partir de maintenant, je\nvais croquer la vie a pleines dents tel que je\nsuis ! Dreams come true !!"
+    },
+    "98449": {
+        "「あっはっは！　やだ　ケッサク！\n　こんな天然モノ　どこ探してもいないって。\n　それよ　ピリッポ　アンタの極意は！": "Ah ah ah ! Arrete, c’est trop drole ! Un\noriginal pareil, tu n’en trouveras nulle part\nailleurs. Voila, Pirippo, c’est ca ton talent<br>inne !"
+    },
+    "98450": {
+        "「……アタシも　そんな極意に\n　たどり着いてみたかったな。\n　でもね　もう満足したの。": "...... Moi aussi, j'aurais aime atteindre un\ntel secret. Mais tu sais, je suis deja\nsatisfaite."
+    },
+    "98451": {
+        "「アタシの夢は　アタシも知らないうちに\n　ピリッポが継いでくれてたんだって\n　よーく　わかったからね！": "Mon reve, je l'ai compris, c'etait Pirippo qui\nl'avait realise sans meme que je le sache !"
+    },
+    "98452": {
+        "「ワールド演芸グランプリ優勝の夢は\n　どうやら　アイツが　果たしてくれそうね。\n　……いつの日か　きっと……よ。": "Il semble que notre reve de remporter le Grand\nPrix de Ludo Spectacle sera realise par lui.\n... Un jour, surement..."
+    },
+    "98453": {
+        "「……なーんて<heart>\n　キャー　言っちゃった！　言っちゃった！\n　夢とか語っちゃって　ハズカシー！": "…Oh la la <heart> Kyaa, je l'ai dit ! Je l'ai\ndit ! J'ai parle de mes reves, c'est tellement\nembarrassant !"
+    },
+    "98454": {
+        "「さーてと！　そろそろ　アタシは行こっかな。\n　今度こそ　心残りはないもんね！\n　迷うことなく……あっちへ行ける。": "Bon ! Il est temps pour moi de partir. Cette\nfois, je n'ai aucun regret ! Sans\nhesitation... je peux aller de l'autre cote."
+    },
+    "98455": {
+        "「じゃあねー　もうひとりの　<pc>。\n　キミの幸せを　ずーっと祈ってるよ。\n　笑いと涙にあふれた　ステキな人生を！": "Alors, au revoir, <pc> l'autre. Je\nprierai pour ton bonheur eternel. Une vie\nmerveilleuse remplie de rires et de larmes !"
+    },
+    "101656": {
+        "「キミには　ずいぶん　世話になっちゃったね。\n　これからは　ボクのことは　気にせず\n　キミ自身の道を　歩んでくれ。": "Tu m'as vraiment beaucoup aide. Desormais, ne\nt'inquiete plus pour moi et suis ton propre\nchemin."
+    },
+    "101657": {
+        "「これは　ボクからの　ほんの気持ちだ。\n　いつか　きっと　何かの役に立つはずだから\n　エンリョなく　もらっといてよ。": "Ceci est un petit geste de ma part. Cela te\nsera surement utile un jour, alors n'hesite\npas a l'accepter."
+    },
+    "101658": {
+        "<pc>は\n夢現のタネ（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Graine de Reve (objet\ncle) ! <me 60>"
+    },
+    "101659": {
+        "「キミには　ずいぶん　お世話になっちゃった。\n　これからは　アタシのことは　気にせず\n　キミ自身の道を　歩んでいってね。": "Tu m'as vraiment beaucoup aidee. Desormais, ne\nte preoccupe plus de moi et suis ton propre\nchemin."
+    },
+    "101660": {
+        "「これは　アタシからの　ほんの気持ち。\n　いつか　きっと　何かの役に立つはずだから\n　エンリョなく　もらっといてよ。": "C'est un petit cadeau de ma part. Un jour, je\nsuis sure que cela te sera utile, alors\naccepte-le sans hesiter."
+    },
+    "101661": {
+        "<pc>は\n夢現のタネ（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Graine de Reve (objet\ncle) ! <me 60>"
     }
 }
