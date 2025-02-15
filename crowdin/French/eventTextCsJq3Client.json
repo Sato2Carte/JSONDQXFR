@@ -1,113 +1,236 @@
 {
-    "13347": {
-        "「聞こ……えま…すか？<yesno><close>": "Vous m'entendez… ?"
+    "19271": {
+        "「お前さんのおかげで　準備も　ととのった。\n　いよいよ　伐採同盟と対決！": "Grace a toi, les preparatifs sont termines.\nNous allons enfin affronter l'alliance de\nl'abattage !"
     },
-    "13348": {
-        "「あ…あ　その声……は　<pc>さ…ん。\n　お元気で……たか？": "Ah... Ah, cette voix... est-ce vous,\n<pc>-san ? Vous allez bien ?"
+    "19272": {
+        "「……と言いたいところだが\n　じつは　困ったことが　起こってのう。": "…C'est ce que j'aimerais dire, mais en fait,\nun probleme est survenu."
     },
-    "13349": {
-        "「こ…うして　会話は…できますが\n　あいかわ……ず　雑…音が　ひど……ですね。": "Je... peux discuter ainsi... mais le...\nbrouhaha est... toujours... terrible."
+    "19273": {
+        "「見張りに出ていった　ユウギリが\n　いつまでたっても　戻らんので\n　レーノスに　様子を見にいかせたんじゃ。": "Yugiri, qui etait parti faire le guet, ne\nrevient pas. J'ai donc envoye Renosu pour voir\nce qui se passe."
     },
-    "13350": {
-        "「じつは…私　あれ…から　しらべ……んです。\n　この…シーバの鏡のメンテ…ナンスの方法…を。": "En fait... depuis cet evenement, j'ai fait des\nrecherches... sur la methode d'entretien de\nce... miroir de Shiva."
+    "19274": {
+        "「そしたら　ケガを負った様子のユウギリが\n　伐採同盟のアジトに　連れ込まれるところを\n　目撃したというのじゃ。": "Ensuite, j'ai apercu Yugiri, qui semblait\nblesse, etre emmene par Horse Mackerel de\nl'Alliance de l'Abattage."
     },
-    "13351": {
-        "「その…方法という……は　魔物に…\n　マホトラを使って……あるアイテムに…\n　<%nEV_QUE_T_NUM0>ＭＰ分の魔力をためる…というものです。": "Eh bien... cette methode implique...\nd'utiliser Mahotra sur un monstre... pour\naccumuler la puissance magique equivalente a<br><%nEV_QUE_T_NUM0> MP dans un certain objet..."
+    "19275": {
+        "「もうすぐ　本部の援軍も　来るというのに\n　ユウギリを　人質に取られていては\n　手が出せない……　どうしたもんかのう？": "Les renforts du quartier general arriveront\nbientot, mais avec Yugiri pris en otage, nous\nsommes impuissants... Que devrions-nous faire<br>?"
     },
-    "13352": {
-        "「ただ……勝たな…と　その戦い…で　ためた分は\n　無効…す。今後の…スムーズ…な会話のた…めに\n　どうか　頼まれて……くれませんか？": "Cependant... si vous ne gagnez pas, les points\naccumules lors de ce combat seront annules.\nPour faciliter les conversations futures dans<br>le <Sumーズ>... Pourriez-vous, je vous en prie,\naccepter ?"
+    "19276": {
+        "「支部長！\n　同盟の連中　動きだしましたぜ！": "Chef de section ! Les membres de l'alliance\nont commence a bouger !"
     },
-    "13353": {
-        "「ありが……うございます。\n　それ…では　まず　これを……\n　受け取っ……ください。": "Merci beaucoup... Alors, pour commencer,\nveuillez... accepter ceci..."
+    "19277": {
+        "「今度は　えらく　気合いの入った様子の出発だ。\n　連中　本格的に伐採を　始めるつもりだぜ！": "Cette fois, ils semblent vraiment motives a\npartir. Ils ont l'intention de commencer\nserieusement l'abattage !"
     },
-    "13354": {
-        "「今から…送るのは　シーバの鏡…を\n　メンテナンス…するのに　欠かせ…いものです。\n　その名も……メイジダスター！": "A present... ce que je vais envoyer est le\nMiroir de Sheeva... c'est un outil\nindispensable pour sa maintenance. Son nom<br>est... Mage Duster !"
+    "19278": {
+        "「うむむむむ……。": "Hum hum hum hum..."
     },
-    "13355": {
-        "<pc>は　\nメイジダスター（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Mage Duster (objet cle) !<me 60>"
+    "19279": {
+        "「よし　こうしよう！\n　わしは　ここに残り　本部からの援軍が\n　来るのを　待っておる。": "Bien, faisons ainsi ! Je resterai ici et\nj'attendrai les renforts venant du quartier\ngeneral."
     },
-    "13356": {
-        "「メイジダスターは　魔力を吸…収して\n　こすった…モノに　その魔力をあた…える\n　特別な…魔法の布……。": "Le Mage Duster est un tissu magique special\nqui absorbe la magie et transfere cette magie\na l'objet frotte."
+    "19280": {
+        "「そして　彼らが到着したら\n　伐採同盟の連中が　向かった先に\n　行ってもらうことにしよう！": "Et quand ils arriveront, nous les enverrons la\nou les membres de l'Alliance des Bucherons se\nsont diriges !"
     },
-    "13357": {
-        "「マホトラで…<%nEV_QUE_T_NUM0>ＭＰの魔力を…ためたら\n　シーバの…鏡を　こすって…ください。\n　そう…すれば　鏡は直るはず……です。": "Avec Mahotra, accumulez <%nEV_QUE_T_NUM0>\npoints de magie... puis frottez le miroir de\nSheeva... S'il vous plait. Ainsi... le miroir<br>devrait se reparer..."
+    "19281": {
+        "「レーノスと　<pc>。\n　お前さんたちは　ヤツらのアジトに潜入し\n　囚われのユウギリを　救いだすのじゃ！": "Renosu et <pc>. Vous allez vous\ninfiltrer dans leur Horse Mackerel et sauver\nYugiri, qui est prisonniere !"
     },
-    "13358": {
-        "「くれぐれも　よろし……くお願いします。\n　では　今日のとこ…ろは　\n　こ……れで　失礼させていた……きますね。": "Je vous prie de bien vouloir prendre soin de\ncela... Eh bien, pour aujourd'hui... Je vais\ndonc prendre conge."
+    "19282": {
+        "「今なら　アジトに使われている\n　森外れのほら穴の守りも　うすいはず。\n　どうじゃ　この任務　引き受けてくれるか？": "En ce moment, la garde de la grotte a\nl'exterieur de la foret, utilisee par Horse\nMackerel, devrait etre faible. Alors, que<br>dirais-tu d'accepter cette mission ?"
     },
-    "13359": {
-        "「ありが……うございます。\n　で…も　あなたは　たく…さんの\n　頼まれご…とを　抱えているよ……ですね。": "Merci beaucoup... Mais... vous avez deja\nbeaucoup de requetes a gerer, n'est-ce pas...\n?"
+    "19283": {
+        "「では　頼んだぞ　レーノス。<pc>。\n　今回ばかりは　わしも　ダジャレ無しの\n　マジモードじゃ！": "Alors, je compte sur vous, Renosu et\n<pc>. Cette fois-ci, je suis en mode\nserieux, sans aucun jeu de mots !"
     },
-    "13360": {
-        "「しかた……ありませんね。\n　この件は　また今度……ということで。": "Il n'y a pas d'autre choix... N'est-ce pas ?\nOn reprendra cette affaire une autre fois...\nalors."
+    "19284": {
+        "「よし！　伐採同盟のアジトは\n　モリナラ大森林の奥にある　森外れのほら穴だ。\n　オレは　先に行く！　お前もついてこい！": "Bien ! Le repaire de l'Alliance de l'Abattage,\nHorse Mackerel, se trouve dans une caverne a\nl'ecart de la foret, au fond de la Molinara<br>Forest. Je pars en premier ! Suis-moi !"
     },
-    "13361": {
-        "「そ…うですか。残念……です。\n　もし　気が変わ……たら　また\n　この鏡に　話しかけてみ……ください。": "Je vois... C'est dommage... Si jamais vous\nchangez d'avis, n'hesitez pas a reparler a ce\nmiroir."
+    "19285": {
+        "「では　頼んだぞ……と思ったら\n　なんじゃ　その　頼まれごとの数は！？": "Eh bien, je compte sur vous... Mais qu'est-ce\nque c'est que ce nombre de requetes !?"
     },
-    "13363": {
-        "「もしか……して　シーバの…鏡の\n　メンテナンスをして…ほしいという頼みを\n　引き受けてく…れる　気になりました…か？": "Peut-etre... avez-vous decide d'accepter la\ndemande... de vous occuper de la\nmaintenance... du miroir de Sheba ?"
+    "19286": {
+        "「それでは　仕事のひとつも　頼めんぞ！\n　ええい。さっさと　手を空けてくるのじゃ！": "Dans ce cas, je ne peux pas te confier de\ntache ! Allez, depeche-toi de te liberer les\nmains !"
     },
-    "13365": {
-        "「そ…れでは　そのダスター……で\n　シーバの鏡を　こす……てみてください。<yesno><close>": "Eh bien... dans ce cas, essayez de frotter le\nmiroir de Sheba avec ce plumeau... s'il vous\nplait."
+    "19287": {
+        "「チッ！　これだから　シロートはよ。\n　もういい。オレは　ひとりでも行く！\n　お前は　お前で　好きにしろっ！": "Tch ! C'est pour ca que les amateurs\nm'agacent. Ca suffit. J'y vais seul ! Fais ce\nque tu veux de ton cote !"
     },
-    "13366": {
-        "「……す…みませ……雑音…が多く…て\n　聞き…とれな……。おねが……します。\n　ダスターで　鏡を　こす……てみてください。<yesno><close>": "Pardon… il y a… beaucoup de bruit… je n'arrive\npas… a entendre. S'il vous plait… utilisez le\nplumeau pour… frotter le miroir… essayez."
+    "19288": {
+        "「いい作戦だと　思うんじゃがのう。\n　いったい　何が気に入らないと言うんじゃ？": "Je pense que c'est un bon plan. Qu'est-ce qui\nte deplait exactement ?"
     },
-    "13367": {
-        "<pc>は　メイジダスターで\nはげしく　鏡をこすってみた！": "<pc> frotte vigoureusement le miroir\navec le Mage Duster !"
+    "19289": {
+        "「チッ！　こんなときに　ビビリかよ。\n　もういい。オレは　ひとりでも行く！\n　お前は　お前で　好きにしろっ！": "Tsk ! Tu es vraiment un lache a un moment\npareil. C'est bon. Moi, j'y vais seul ! Toi,\nfais ce que tu veux !"
     },
-    "13368": {
-        "メイジダスターは　魔力を使い果たし\nボロボロに　くずれさった。": "Le Mage Duster a epuise toute sa magie et\ns'est effondre en lambeaux."
+    "19290": {
+        "「あんた方　こんなところまで\n　なんの用で　来なすったのかね？": "Qu'est-ce qui vous amene par ici ?"
     },
-    "13369": {
-        "「…………。": ""
+    "19291": {
+        "「なんの用か……だと！？\n　お前たちに　囚われた仲間を\n　助けにきたに　決まってんだろーが！": "Tu demandes ce que je veux... !? Evidemment,\nje suis venu sauver mes camarades emprisonnes\npar vous !"
     },
-    "13370": {
-        "「どうです　ちゃんと聞こえますか？<yesno><close>": "Comment ca va ? Vous m'entendez bien ?\n<yesno><close>"
+    "19292": {
+        "「お仲間が　囚われて……？": "Ton compagnon est prisonnier...?"
     },
-    "13371": {
-        "「ああ　うまくいったようですね！\n　すっかり　声が　クリアに聞こえるように\n　なりましたよ。": "Ah, ca a bien fonctionne, on dirait ! On\nentend maintenant clairement votre voix."
+    "19293": {
+        "「トボけてんじゃねえ！\n　ここが　伐採同盟のアジトで\n　オメーらが　その一員なのは　わかってんだ！": "Ne fais pas l'innocent ! Je sais que c'est le\nrepaire de l'Alliance des Bucherons et que\nvous en faites partie !"
     },
-    "13372": {
-        "「本当に　ありがとうございます。\n　お礼と言っては　なんですが\n　これを　受け取ってください。": "Je vous remercie vraiment du fond du coeur. Ce\nn'est pas grand-chose, mais acceptez ceci en\nguise de remerciement."
+    "19294": {
+        "「なんだよ　オメーら！！": "Qu'est-ce que vous voulez, vous autres !!"
     },
-    "13373": {
-        "「この　シーバの鏡を手に入れてから\n　毎晩のように　語りかけてきたのですが\n　応えてくれたのは　あなただけでした。": "Depuis que j'ai mis la main sur ce Miroir de\nSheba, je lui parle presque chaque nuit, mais\nla seule personne qui m'a repondu, c'est vous."
+    "19295": {
+        "「じいちゃんを　いじめるなっ！": "Ne fais pas de mal a mon grand-pere !"
     },
-    "13374": {
-        "「<pc>さんは　いい人ですね。\n　私は　だんだん　あなたのことが\n　気になってきましたよ。": "<pc>-san est une bonne personne,\nn'est-ce pas ? Je commence a m'interesser de\nplus en plus a toi."
+    "19296": {
+        "「……いかにも　わしらは　伐採同盟を\n　名乗っております。しかし　その実体は\n　ジジイや子供を抱えた　難民の集団ですじゃ。": "…En effet, nous nous appelons l'Alliance de\nl'Abattage. Cependant, en realite, nous ne\nsommes qu'un groupe de refugies comprenant des<br>vieillards et des enfants."
     },
-    "13375": {
-        "「考えてみれば　こうして　会話しているのに\n　私たちは　おたがいの顔すら\n　知らないんですよね……。": "En y reflechissant, bien que nous soyons en\ntrain de discuter ainsi, nous ne connaissons\nmeme pas nos visages respectifs..."
+    "19297": {
+        "「わしらは　もともと　このエルトナ大陸に\n　移民してきた　木こりの集団でしてな。\n　ある森の開拓を生業に　暮らしておりました。": "A l'origine, nous etions un groupe de\nbucherons qui avons emigre sur ce continent\nd'Eltona. Nous vivions en nous consacrant a<br>l'exploitation d'une certaine foret."
     },
-    "13376": {
-        "「偶然が与えてくれた　出会いとはいえ……\n　フフフ……じつに　奇妙な関係ですね。": "Meme si c'est une rencontre offerte par le\nhasard... Fufu... c'est vraiment une relation\netrange, n'est-ce pas ?"
+    "19298": {
+        "「ところが　その森が　魔瘴に侵されましてな。\n　生活の糧を失った　わしらは　モリナラ大森林に\n　手を着けるしかなかったのですじゃ。": "Cependant, cette foret a ete envahie par le\nmiasme malefique. Prives de notre source de\nsubsistance, nous n'avons eu d'autre choix que<br>de nous tourner vers la Foret de Molinara."
     },
-    "13377": {
-        "「……おっと。もう　こんな時間だ。\n　すっかり　会話に夢中になってしまいました。\n　よろしければ　また　お話ししましょう。": "... Oh, tiens. Il est deja si tard. Je me suis\ncompletement laisse emporter par notre\nconversation. Si vous le souhaitez, parlons a<br>nouveau."
+    "19299": {
+        "「……あんたらの事情は　わかったけどな。\n　うちの仲間を　さらっておいて\n　一方的な被害者ヅラは　いただけないぜ。": "Je comprends bien votre situation, mais vous\nsavez, vous ne pouvez pas vous poser en\nvictimes alors que vous avez enleve un des<br>notres."
     },
-    "13378": {
-        "「今回は　私ばかり\n　話してしまいましたから……": "Cette fois, c'est moi qui ai fait tout le\ndiscours..."
+    "19300": {
+        "「待ってくださいっ！": "Attendez, s'il vous plait !"
     },
-    "13379": {
-        "「次は　もっと　あなたの話を\n　聞きたいですね。\n　それでは　今日のところは　これで！": "La prochaine fois, j'aimerais en savoir plus\nsur vous. Pour aujourd'hui, c'est tout !"
+    "19301": {
+        "「その人たちは　私を　さらったりなんて\n　してませんよぅ。\n　ただ　助けてくれただけなんです！": "Ces personnes ne m'ont pas kidnappee. Elles\nm'ont simplement aidee !"
     },
-    "41535": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "19302": {
+        "「無事だったのか　ユウギリ。\n　……いったい　どういうことだよ？": "Tu vas bien, Yugiri ? ...Qu'est-ce qui s'est\npasse ?"
     },
-    "41536": {
-        "「……えま……か？": "......Ema......?"
+    "19303": {
+        "「私　このアジトを見張る任務の途中で\n　魔物に襲われて　ケガしちゃったんです。\n　それで　ここの人たちに　介抱されて……。": "Je suis en mission pour surveiller ce Horse\nMackerel, mais j'ai ete attaquee par des\nmonstres et je me suis blessee. Les gens d'ici<br>m'ont soignee..."
     },
-    "41537": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "19304": {
+        "「どうやら　そのときの様子を見られて\n　誤解なさったようですな。\n　……まあ　無理もないことですが。": "Il semble que vous ayez assiste a la scene a\nce moment-la et que vous ayez mal compris la\nsituation... Enfin, c'est comprehensible."
     },
-    "41538": {
-        "「お……や。<pc>さん？\n　ま…た　来て……くれたんですね。": "Oh... tiens. <pc>-san ? Tu es... revenu\nnous voir."
+    "19305": {
+        "「伐採同盟の人たち　悪い人じゃないんです。\n　おたがい　相手の事情を　知らなかっただけで\n　話し合えば　きっと　なんとかなりますよ！": "Les membres de l'Alliance des Bucherons ne\nsont pas de mauvaises personnes. Ils ne\nconnaissaient simplement pas la situation de<br>l'autre. En discutant, je suis sur qu'on peut\ntrouver une solution !"
     },
-    "41539": {
-        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    "19306": {
+        "「悪いが　そりゃもう　遅いってもんだぜ。\n　今ごろ　本部からの援軍と　同盟の連中で\n　一大決戦が　始まってんじゃねえか？": "Desole, mais il est probablement deja trop\ntard. A l'heure qu'il est, avec les renforts\ndu quartier general et les allies, une grande<br>bataille a surement deja commence."
     },
-    "41540": {
-        "「あ……あ。<pc>さん。\n　どう…やら　メイジダスターに……\n　魔力を　ためて……きてくれたようですね。": "Ah... Ah. <pc>-san. Il semblerait que\nvous ayez... accumule de la magie dans le Mage\nDuster... et que vous soyez venu."
+    "19307": {
+        "「そ　そんなぁ……。\n　いや！　こうしちゃいられません！\n　そんなの　絶対止めなくちゃ　ダメですよ！": "Qu-quoi...? Non ! Je ne peux pas rester la\nsans rien faire ! Il faut absolument arreter\nca !"
+    },
+    "19308": {
+        "「オレたちでか？\n　んなの無理に決まってんだろ！\n　もし　止められるヤツが　いるとしたら……": "Nous, tu dis ? C'est impossible, c'est sur !\nSi quelqu'un peut l'arreter, ce serait..."
+    },
+    "19309": {
+        "「そこの　選ばれし　レンジャーだけだろうぜ。": "Seul le Ranger elu peut y acceder."
+    },
+    "19310": {
+        "「……そうね。\n　<pc>なら　もしかして……。": "…Oui, peut-etre que <pc>..."
+    },
+    "19311": {
+        "「とにかく　同盟の人たちを追いましょ！\n　たぶん　前に　彼らが伐採を行っていた\n　モリナラ広場に　行ってるはずです！": "En tout cas, suivons les membres de l'alliance\n! Ils doivent probablement etre alles a\nMolinara Square, ou ils effectuaient des<br>coupes d'arbres."
+    },
+    "19312": {
+        "「これでも　期待してるんだからよ……\n　裏切らないでくれよな。": "Je compte vraiment sur toi, alors ne me decois\npas."
+    },
+    "19313": {
+        "「……やれやれ　頼られる立場ってのは\n　つらいもんだな　相棒。": "…Eh bien, etre dans une position ou l'on doit\netre fiable, c'est vraiment difficile,\npartenaire."
+    },
+    "19314": {
+        "「それにしても　今日の森は\n　どーも　ザワザワしてんだよな……。\n　なんだか　落ち着かなくって　いけねーや。": "En tout cas, la foret est vraiment etrange\naujourd'hui... Elle est agitee, et je n'arrive\npas a me sentir a l'aise."
+    },
+    "19315": {
+        "「みんな　やめてーっ！！\n　話し合えば　きっと　わかりあえるよっ！": "Tout le monde, arretez ca ! En discutant, je\nsuis sure qu'on pourra se comprendre !"
+    },
+    "19316": {
+        "「……いや　様子が　おかしいぜ。": "...Non, quelque chose ne va pas."
+    },
+    "19317": {
+        "「ピッピピピピピピピピピピピピピピピピピピ。\n　ギュオン！　ギュオォォォォォォン！！": "Pippyピピピピピピピピピピピピピピピピピ GyuuuOn ! GyoooOoooooon\n!!"
+    },
+    "19318": {
+        "「な　なんだ　コイツ！？\n　突然　おかしな動きを……。": "Qu'est-ce que... Qu'est-ce qui lui prend a\ncelui-la !? Il se met soudainement a bouger\nbizarrement..."
+    },
+    "19319": {
+        "「くそっ！　言うこと　聞きゃあしねえ。\n　ブッ壊れちまった……。": "Merde ! Il n'ecoute rien de ce qu'on dit. Il\nest completement foutu..."
+    },
+    "19320": {
+        "「ギュオォォォン！！": "Gyoooon !!"
+    },
+    "19321": {
+        "「ピッピピピピピピピピピピピピピピピピピピ。\n　ギュオン！　ギュオォォォォォォン！！": "Pippyピピピピピピピピピピピピピピピピピ GyuuuOn ! GyoooOoooooon\n!!"
+    },
+    "19322": {
+        "「ギュオォォォン！！": "Gyoooon !!"
+    },
+    "19323": {
+        "「ピピ……ガ……ガガガガ……。": "Pipi... Ga... Gagagaga..."
+    },
+    "19324": {
+        "伐採マシン改は　森に　つっこみ\n大爆発した！": "La Choppin Machine v2 s'est enfoncee dans la\nforet et a explose violemment !"
+    },
+    "19325": {
+        "「あわわわわ……。\n　モリナラ大森林が　燃えちゃうっ！": "Awa... awa... awa... La foret de Molinara va\nbruler !"
+    },
+    "19326": {
+        "「オメーらっ　争うのは　後だ！\n　今は　協力して　森を炎から　守るぞ！": "Vous vous battrez plus tard ! Pour l'instant,\nprotegeons ensemble la foret des flammes !"
+    },
+    "19327": {
+        "「ヤベえぜ　こりゃ。\n　何かが…………くるっっ！！": "Ca craint, vraiment. Quelque chose... arrive\n!!"
+    },
+    "19328": {
+        "<center>……ヒトよ。\nここは　お前たちの領域に非ず。": "...... Humain. Cet endroit n'est pas votre\ndomaine."
+    },
+    "19329": {
+        "そのとき　モリナラ大森林の中を\n一陣の風が　吹きぬけた。": "A ce moment-la, une rafale de vent traversa la\nforet de Molinara."
+    },
+    "19330": {
+        "その突風は　燃えさかる炎を　消しとめ\n辺り一帯に　深い静寂を　もたらした。": "La bourrasque a eteint les flammes ardentes,\napportant un profond silence tout autour."
+    },
+    "19331": {
+        "「……怒りだ。": "......C'est la colere."
+    },
+    "19332": {
+        "「このモリナラ大森林に宿る　精霊たちの\n　はげしい　怒りと　憎しみが\n　今の風を吹かせたんだ……。": "Les esprits qui habitent cette Foret de\nMolinara ont laisse leur intense colere et\nhaine engendrer le vent actuel..."
+    },
+    "19333": {
+        "「戦っちゃいけねえぞ　相棒！\n　こいつらは　レーノスや　ユウギリ嬢ちゃんの\n　変わり果てた姿なんだから……。": "Ne te bats pas, partenaire ! Ces creatures\nsont les formes alterees de Renosu et de la\njeune demoiselle Yugiri..."
+    },
+    "19334": {
+        "「森の怒りにふれた者は　すべて\n　森の魔物に　姿を変えられちまうんだ！": "Tous ceux qui touchent a la colere de la foret\nse transforment en creatures de la foret !"
+    },
+    "19335": {
+        "「……そうだ　支部長に報告しようぜ！\n　あの　おっさんなら　なんとかする方法を\n　知ってるかもしれねえしな。": "...Oui, allons faire un rapport au chef de\nsection ! Cet homme pourrait connaitre un\nmoyen de s'en sortir."
+    },
+    "19336": {
+        "「わしらのことは　気になさらず\n　早く　行って　争いを止めてくだされ！": "Ne vous inquietez pas pour nous. Allez vite et\narretez ce conflit !"
+    },
+    "19337": {
+        "「た　大変だ　支部長のおっさん！\n　森の精霊たちが　怒りだして\n　みんな　じんめんじゅに　なっちまったぁ！": "C'est une catastrophe, chef de la branche !\nLes esprits de la foret sont en colere et tout\nle monde s'est transforme en Treeface !"
+    },
+    "19338": {
+        "「……やはり　先ほど感じた\n　異様な　森のざわめきは\n　そういうことであったか。": "…Ainsi, le murmure etrange de la foret que\nj'ai ressenti tout a l'heure etait du a cela."
+    },
+    "19339": {
+        "「モリナラの自然を守って　３０年。\n　この日の来ないことを　祈っておったが\n　そうか　レーノスと　ユウギリまで……。": "Proteger la nature de Morinara depuis 30 ans.\nJ'esperais que ce jour n'arriverait jamais,\nmais... Alors, meme Renosu et Yugiri..."
+    },
+    "19340": {
+        "「知ってたのかよ　おっさん！？\n　もしかして　どうしたら　あいつらを\n　元に戻せるかも　見当ついてんのか？": "Tu le savais, vieil homme !? Peut-etre as-tu\nune idee de comment les ramener a leur etat\nnormal ?"
+    },
+    "19341": {
+        "「方法が　ないわけではない……はずじゃ。\n　だが　それは　危険をともなう。\n　簡単に　教えていいものではないのじゃ。": "Il n'est pas impossible de trouver une\nsolution... Je le pense bien. Cependant, cela\ncomporte des risques. Ce n'est pas quelque<br>chose qu'on peut enseigner a la legere."
+    },
+    "19342": {
+        "「おっさんの部下だって　巻き込まれてんのに\n　そんなこと言ってる場合かよ！\n　……じゃあ　どうすりゃいいんだ！？": "Les subordonnes du vieil homme sont aussi\nimpliques, et tu parles de ca ? ... Alors, que\ndevrions-nous faire !?"
+    },
+    "19343": {
+        "「そうじゃな。<pc>が　 \n　充分にチカラをつけ　時が満ちたら\n　カミハルムイの本部へ　行くのじゃ。": "Eh bien, quand <pc> aura suffisamment\nrenforce ses pouvoirs et que le moment sera\nvenu, il ira au quartier general de<br>Kamiharmui."
+    },
+    "19344": {
+        "「そのとき　お前さんに　資格ありと\n　本部が認めれば　精霊たちの怒りを\n　鎮める方法を　教えてもらえるじゃろう。": "A ce moment-la, si le quartier general\nreconnait que tu en es digne, tu pourras\napprendre la methode pour apaiser la colere<br>des esprits."
+    },
+    "19345": {
+        "「とにかく　今は　どうにもならん。\n　とりあえず　これを受け取りなさい。": "De toute facon, on ne peut rien y faire pour\nle moment. Prends ceci pour l'instant."
+    },
+    "19346": {
+        "「<pc>が　森の怒りから逃れられたのは\n　その身体に　スピルどのを宿す\n　選ばれし　レンジャーだったからじゃろう。": "<pc> a pu echapper a la foret d'Anger\nparce qu'il est un ranger elu qui abrite en\nlui le noble Spiel-dono."
+    },
+    "19347": {
+        "「その　お前さんならば　きっと\n　今の状況も　どうにか　できる……。\n　わしは　そう信じておるぞ。": "Toi, je suis sur que tu pourras trouver une\nsolution a la situation actuelle... Je crois\nen toi."
+    },
+    "19348": {
+        "「ここにいても　あいつらを\n　助けることはできそうにねえ……。\n　くやしいけど　今は　戻ろうぜ　相棒。": "Meme si je reste ici, je ne peux pas vraiment\nles aider... C'est frustrant, mais retournons\nmaintenant, partenaire."
     }
 }
