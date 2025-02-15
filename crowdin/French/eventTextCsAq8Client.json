@@ -1,194 +1,293 @@
 {
-    "64605": {
-        "「……材料さえ　取ってきてくれれば\n　薬を作れて　この人が治るかもしれないのよ！": "…Si seulement tu pouvais apporter les\ningredients, je pourrais preparer le remede et\npeut-etre guerir cette personne !"
+    "64669": {
+        "「キャーー！！　怨霊よーーーーッ！！": "Kyaaa !! Un esprit vengeur !!"
     },
-    "64606": {
-        "「そんなこと言って　オレたちを\n　危険な目に遭わせようとしてんじゃないのか？": "Tu ne dis pas ca juste pour nous mettre en\ndanger, n'est-ce pas ?"
+    "64670": {
+        "「……ベルムドォ　ベルムドォォォオ！！": "...Bermudoooo Bermudooooo !!"
     },
-    "64607": {
-        "「その薬で治る保証が　どこにあるのよ！？\n　アンタの言うことなんか\n　信じられるわけが　ないでしょ！": "Ou est la garantie que ce medicament va guerir\n!? Je ne peux pas croire ce que tu dis !"
+    "64671": {
+        "「今度こそ　逃がすかっ！": "Cette fois, tu ne t'echapperas pas !"
     },
-    "64608": {
-        "「ガクガクガク……。\n　寒い　寒い　寒い……。": "Glaglagla... Il fait froid, il fait froid, il\nfait froid..."
+    "64672": {
+        "「バケモノめ……　覚悟しろっ！！": "Sale monstre... Prepare-toi !"
     },
-    "64609": {
-        "「この人　助けたくないの？\n　仲間が　死んじゃってもいいの！？": "Tu ne veux pas aider cette personne ? Tu es\nd'accord pour que nos compagnons meurent !?"
+    "64673": {
+        "「うわあああああああ！": "Aaaaaaaah !"
     },
-    "64610": {
-        "「でも　アンタのことは　信じられない！\n　ベルムド王に　さんざん　たてついて……\n　アンタのせいで　王様が死んだのよ！": "Mais je ne peux pas te faire confiance ! Tu\nt'es oppose a King Bermud encore et encore...\nC'est a cause de toi que le roi est mort !"
+    "64674": {
+        "「くそっ！": "Merde !"
     },
-    "64611": {
-        "「えっ　<pc>さん！？": "Eh, <pc>-san !?"
+    "64675": {
+        "「うっ　うわ……": "Ooh... Wow..."
     },
-    "64612": {
-        "「ちょうど　よかった！　今　困ってたの。\n　最近　城下町で　寒い寒いって　身体の震えが\n　止まらない病気が　はやっててね……。": "C'est tombe a pic ! J'avais justement des\nennuis. Recemment, une maladie qui provoque\ndes frissons incontrolables a frappe la ville<br>du chateau..."
+    "64676": {
+        "「グオォォォォォー！！　ベルムドォォオ！！": "GuooOOOOOO !! BermudOOOO !!"
     },
-    "64613": {
-        "「それで　病気について　調べてみたら\n　このまま　放っておくと　凍死してしまう\n　死の病だってことが　わかったの。": "Alors, en enquetant sur la maladie, j'ai\ndecouvert que si on la laisse sans traitement,\nc'est une maladie mortelle qui conduit a<br>mourir de froid."
+    "64677": {
+        "「あ　<pc>さんっ。\n　今の……　見てたでしょう？": "Ah, <pc>-san. Tu as vu ca, n'est-ce pas\n?"
     },
-    "64614": {
-        "「治すには　特別な薬が必要なんだけど\n　ローヌにんじんと　サリュウコツって\n　材料がないと　その薬は　作れないんだ。": "Pour le guerir, un medicament special est\nnecessaire, mais il ne peut pas etre fabrique\nsans les ingredients Rhone Carrot et Sand<br>Bone."
+    "64678": {
+        "「バッファロンの怨霊は　ああやって\n　毎日のように現れて　人を襲ってるの。\n　病気にかかる人は　後を絶たないわ……。": "Les esprits vengeurs des Buffalogres errent\nainsi chaque jour, attaquant les gens. Le\nnombre de ceux qui tombent malades ne cesse<br>d'augmenter..."
     },
-    "64615": {
-        "「私は　ここで　薬を作る準備を\n　しなきゃならないから　<pc>さんに\n　材料集めを　手伝ってほしいの。": "Je dois preparer les medicaments ici, alors\nj'aimerais que tu aides <pc>-san a\nrassembler les ingredients."
+    "64679": {
+        "「きっと　あの怨霊を　鎮めない限り\n　アラハギーロは　救えないと思う……。\n　だから　私　あの怨霊の正体を突き止めたいの。": "Je suis certaine que tant que nous n'aurons\npas apaise cet esprit vengeur, AraHagi-ro ne\npourra pas etre sauve... C'est pourquoi je<br>veux decouvrir la veritable identite de cet\nesprit."
     },
-    "64616": {
-        "「この人たちに　集めてきてもらうように\n　お願いしてたんだけど　断られちゃって……。\n　どう？　お願いできないかな？": "Je leur avais demande de les rassembler, mais\nils ont refuse... Qu'en penses-tu ?\nPourrais-tu m'aider, s'il te plait ?"
+    "64680": {
+        "「ねえ　<pc>さん！\n　私たちが　格闘場の地下のオリから\n　逃がした魔物たちのことを　覚えてる？": "Hey, <pc>-san ! Tu te souviens des\nmonstres que nous avons liberes de la cage\nsous l'arene de combat ?"
     },
-    "64617": {
-        "「ホント？　ありがとう！　ローヌにんじんは\n　こっちの世界の　ローヌ樹林帯の\n　南の果てに　生えてるはずだよ。": "Vraiment ? Merci ! La Rhone Carrot devrait\npousser a l'extremite sud de la Rhone Forest\nBelt dans ce monde."
+    "64681": {
+        "「あの魔物たちは　もともと人間なんだから\n　バッファロンの怨霊について\n　何か　知ってるんじゃないかって思うんだ。": "Ces monstres etaient a l'origine des humains,\nalors je pense qu'ils pourraient savoir\nquelque chose sur l'esprit vengeur de<br>Buffalogre."
     },
-    "64618": {
-        "「サリュウコツは　こっちの世界の\n　アラハギーロ地方の　東の砂漠にいる\n　<%sEV_QUE_NAME0>を　倒すと　落とすみたい。": "Il semblerait que le Sand Bone se trouve dans\nle desert a l'est de la region d'Al-Ahagiro de\nce monde. Il est possible d'en obtenir en<br>battant < %sEV_QUE_NAME0 >."
+    "64682": {
+        "「だから　<pc>さん！\n　あの魔物たちを探すの　手伝ってくれない？": "Alors, <pc>-san ! Pourriez-vous m'aider\na chercher ces monstres ?"
     },
-    "64619": {
-        "「私　ここで　調合の準備をして　待ってるね。": "Moi, je vais preparer les ingredients ici et\nattendre."
+    "64683": {
+        "「ホント！？　ありがとう！\n　<pc>さんが一緒なら　心強いわ。": "Vraiment !? Merci ! C'est rassurant d'avoir\n<pc>-san avec nous."
     },
-    "64620": {
-        "「おいおい　なに　勝手に話進めてんだよ！\n　早く　こっから出てってくれ！": "He, he, pourquoi tu prends des decisions tout\nseul ? Sors d'ici rapidement !"
+    "64684": {
+        "「町の外へ　よく出かける人なら\n　魔物たちについて　何か　知ってるかも！\n　城下町で　聞き込みをお願いね！": "Si tu connais quelqu'un qui sort souvent de la\nville, il pourrait en savoir plus sur les\nmonstres ! Je te demande d'enqueter dans la<br>ville du chateau !"
     },
-    "64621": {
-        "「私……　この人を治すまで\n　絶対　ここを出ていかないわ。\n　そう決めたの！": "Je... Je ne quitterai absolument pas cet\nendroit tant que je n'aurai pas soigne cette\npersonne. C'est decide !"
-    },
-    "64622": {
-        "「じゃあ　ローヌにんじんと\n　サリュウコツを　集めたら\n　ここへ戻ってきてね　<pc>さん。": "Alors, une fois que tu auras rassemble la\nCarotte de Rhone et l'Os de Sable, reviens\nici, <pc>-san."
-    },
-    "64623": {
+    "64685": {
         "「ホント！？　あっ　でも……\n　<pc>さん　他の人からの頼まれごとも\n　いっぱい　引き受けてるんじゃない？": "Vraiment !? Ah, mais... <pc>-san, tu as\ndeja accepte beaucoup d'autres demandes des\ngens, non ?"
     },
-    "64624": {
-        "「じゃあ　今は頼めないね。\n　仕方ないから　ダメもとで　もう１回\n　あの人たちに　頼んでみるわ！": "Alors, je ne peux pas compter sur toi pour\nl'instant. Tant pis, je vais essayer de\nredemander a ces personnes, meme si ca ne<br>marche pas !"
+    "64686": {
+        "「私　この先の武器庫で　調べものしてるから\n　用事が終わったら　来てくれる？": "Je vais faire des recherches dans l'armurerie\nla-bas, donc pourrais-tu venir me voir une\nfois que tu auras termine ce que tu as a faire<br>?"
     },
-    "64625": {
-        "「そっか……。仕方ないね。\n　<pc>さんになら　お願いできると\n　思ってたんだけどな。": "Je vois... Tant pis. Je pensais que je\npourrais demander a <pc>-san, mais bon."
+    "64687": {
+        "「そっか……。<pc>さんしか\n　お願いできる人　いないんだけどな……。": "Je vois... Il n'y a que <pc>-san a qui\nje puisse demander..."
     },
-    "64626": {
-        "「それじゃあ　私　ダメもとで　もう１回\n　あの人たちに　頼んでみるわ！": "Alors, je vais tenter ma chance une fois de\nplus en leur demandant a nouveau !"
+    "64688": {
+        "「私　この先の武器庫で　調べものしてるから\n　もし　気が変わったら　来てね。": "Je fais des recherches dans l'armurerie un peu\nplus loin. Si jamais tu changes d'avis, viens\nme voir."
     },
-    "64627": {
-        "「……あなたたちが　この材料さえ\n　集めてきてくれれば　薬が作れて\n　この人が　治るかもしれないのよ！？": "Si seulement vous pouviez rassembler ces\ningredients, je pourrais preparer le remede et\npeut-etre guerir cette personne !？"
+    "64689": {
+        "「<pc>さんっ。来てくれたんだね。": "<pc>-san ! Tu es venu, merci."
     },
-    "64628": {
-        "「お前の言うことなんか　信用できっか！": "Comment pourrais-je croire ce que tu dis !"
+    "64690": {
+        "「バッファロンの怨霊は　あなたも見た通り\n　毎日のように現れて　人を襲ってるの。\n　病気にかかる人は　後を絶たないわ……。": "L'esprit du Buffalogre, comme vous l'avez vu,\nattaque les gens presque tous les jours. Le\nnombre de personnes tombant malades ne cesse<br>d'augmenter..."
     },
-    "64629": {
-        "「早く　ここから出てってちょうだいよ！": "S'il te plait, pars d'ici rapidement !"
+    "64691": {
+        "「きっと　あの怨霊を　鎮めない限り\n　アラハギーロは　救えないと思う……。\n　だから　私　あの怨霊の正体を突き止めたいの。": "Je suis certaine que tant que nous n'aurons\npas apaise cet esprit vengeur, AraHagi-ro ne\npourra pas etre sauve... C'est pourquoi je<br>veux decouvrir la veritable identite de cet\nesprit."
     },
-    "64630": {
-        "「あ　<pc>さん！　来てくれたのね。": "Ah, <pc>-san ! Tu es venu."
+    "64692": {
+        "「私たちが　格闘場の地下のオリから　逃がした\n　元人間の魔物なら　あの怨霊について\n　何か　知ってると思うんだ。": "Nous pensons que le monstre, autrefois humain,\nque nous avons libere de la cage souterraine\nde l'arene pourrait en savoir quelque chose<br>sur cet esprit vengeur."
     },
-    "64631": {
-        "「最近　城下町で　寒い寒いって\n　震えている人がいるから　いろいろ調べて\n　治す薬を　見つけたんだ。": "Recemment, dans la ville du chateau, il y a\ndes gens qui tremblent en se plaignant du\nfroid. J'ai donc fait quelques recherches et<br>j'ai trouve un remede pour les soigner."
+    "64693": {
+        "「だから　<pc>さん！\n　あの魔物たちを探すの　手伝ってくれない？": "Alors, <pc>-san ! Pourriez-vous m'aider\na chercher ces monstres ?"
     },
-    "64632": {
-        "「でも　その薬を作るのには\n　ローヌにんじんと　サリュウコツって\n　材料が　足りないの……。": "Mais pour fabriquer ce remede, il me manque\ndes ingredients : une Carotte de Rhone et un\nOs de Sable..."
+    "64694": {
+        "「そっか……。<pc>さんしか\n　お願いできる人　いないんだけどな……。": "Je vois... Il n'y a que <pc>-san a qui\nje puisse demander..."
     },
-    "64633": {
-        "「私は　ここで　薬を作る準備を\n　しなきゃならないから　<pc>さんに\n　材料集めを　手伝ってほしいの。": "Je dois preparer les medicaments ici, alors\nj'aimerais que tu aides <pc>-san a\nrassembler les ingredients."
+    "64695": {
+        "「私　ここで　調べものしてるから\n　もし　気が変わったら　来てね。": "Je fais des recherches ici, alors si tu\nchanges d'avis, viens me voir."
     },
-    "64634": {
-        "「この人たちに　集めてきてもらうように\n　お願いしてたんだけど　断られちゃって……。\n　どう？　お願いできないかな？": "Je leur avais demande de les rassembler, mais\nils ont refuse... Qu'en penses-tu ?\nPourrais-tu m'aider, s'il te plait ?"
+    "64696": {
+        "「……ねえ　おじさん。今の　ホント！？\n　格闘場から逃げた　魔物たちは\n　今　日除けのほら穴に　いるのね？": "He, monsieur. C'est vrai ce que tu dis !? Les\nmonstres qui se sont echappes de l'arene de\ncombat sont maintenant dans la caverne<br>ombragee ?"
     },
-    "64635": {
-        "「あっ　<pc>さん。\n　お願いしてた　薬の材料集めは\n　どんな感じかな？": "Ah, <pc>-san. Comment ca se passe pour\nla collecte des ingredients du remede que je\nt'avais demande ?"
+    "64697": {
+        "「んぁ？　ああ……。\n　って言っても　それっぽい魔物の集団ってだけで\n　確かなことじゃねぇぞ。": "Hmm ? Ah, oui... Mais tu sais, ce n'est qu'un\ngroupe de monstres qui semble correspondre.\nRien de certain, tu vois."
     },
-    "64636": {
-        "「ローヌにんじんは　こっちの世界の\n　ローヌ樹林帯の　南の果てに\n　生えてるはずだから　しらべてみて。": "La Carotte de Rhone devrait pousser a\nl'extremite sud de la Ceinture de la Foret de\nRhone dans ce monde, donc allez y jeter un<br>oeil."
+    "64698": {
+        "「うん　わかった。おじさん　ありがとう！": "D'accord, j'ai compris. Merci, Monsieur !"
     },
-    "64637": {
-        "「サリュウコツは　こっちの世界の\n　アラハギーロ地方の　東の砂漠にいる\n　<%sEV_QUE_NAME0>を　倒すと　落とすみたい。": "Il semblerait que le Sand Bone se trouve dans\nle desert a l'est de la region d'Al-Ahagiro de\nce monde. Il est possible d'en obtenir en<br>battant < %sEV_QUE_NAME0 >."
+    "64699": {
+        "「<pc>さん。これは　有力な情報を\n　得たみたいだね！　とりあえず\n　日除けのほら穴まで　行ってみましょう。": "<pc>-san. On dirait que nous avons\nobtenu des informations importantes ! Pour\nl'instant, allons jusqu'a la grotte d'ombrage."
     },
-    "64638": {
-        "「おい　セラフィ！\n　人の家で　勝手なマネしてんじゃねぇよ！": "He, Seraphie ! Ne fais pas ce que tu veux chez\nles gens !"
+    "64700": {
+        "「日除けのほら穴は　アラハギーロ王国の\n　南にあるの。\n　私は　先に向かってるね！": "La grotte ombragee se trouve au sud du Royaume\nd'Al-Ahagiro. Je vais m'y rendre en premier !"
     },
-    "64639": {
-        "「私は　ここで　薬の調合の準備をして\n　待ってるから　よろしくね！": "Je vais rester ici pour preparer les potions,\nalors compte sur moi !"
+    "64701": {
+        "「<pc>さん　来てくれたのね。\n　格闘場から　逃がした子たち　いるかなぁ？": "<pc>-san, tu es venu. Y a-t-il des\nenfants que nous avons liberes de l'arene de\ncombat ?"
     },
-    "64640": {
-        "「シメールが大変なときに　なに　悠長に\n　本なんか　読んでんだ！？\n　いいかげん　出ていかないと　つまみだすぞ！！": "Quand Shimere est en difficulte, pourquoi tu\nprends le temps de lire un livre !? Si tu ne\nsors pas rapidement, je vais te jeter dehors<br>!!"
+    "64702": {
+        "「あっ。あれ……！": "Ah. Ca... !"
     },
-    "64641": {
-        "「そろそろ　<pc>さんが\n　帰ってくるはずだから\n　薬を調合する手順を　確認してるんだってば！": "<pc>-san devrait bientot revenir, alors\nje verifie les etapes de preparation des\npotions !"
+    "64703": {
+        "「みんな　ひさしぶりだね！\n　前　ベルムドさんに　襲われたときは\n　助けてくれて　どうも　ありがとう！": "Tout le monde, ca fait longtemps ! Merci\nbeaucoup de m'avoir aide la derniere fois\nquand Bermud-san nous a attaques !"
     },
-    "64642": {
-        "「あ　<pc>さん！\n　おかえりなさい！": "Ah, <pc>-san ! Bienvenue chez vous !"
+    "64704": {
+        "「あのねっ。今日は　あなたたちに\n　聞きたいことがあって　来たの！": "Ecoutez-moi. Je suis venue aujourd'hui parce\nque j'ai quelque chose a vous demander !"
     },
-    "64643": {
-        "「お願いした　ローヌにんじんと\n　サリュウコツを　集めてきてくれたのね。\n　こっちの準備は　バッチリだよ。": "Tu as ramene les Rhone Carrot et Sand Bone que\nje t'avais demandes. De mon cote, tout est\npret !"
+    "64705": {
+        "「今　アラハギーロの城下町に\n　バッファロンの怨霊が　現れて\n　町の人たちを　苦しめてるの……。": "Actuellement, dans la ville fortifiee\nd'AraHagi-Lo, l'esprit vengeur de Buffalogre\ntourmente les habitants..."
     },
-    "64644": {
-        "「じゃあ　さっそくだけど　薬を作って\n　あの人に　飲ませてあげたいから\n　材料を　もらってもいいかな？<yesno><close>": "Alors, sans plus attendre, j'aimerais preparer\nle remede et le faire boire a cette personne.\nPuis-je avoir les ingredients ? <yesno><close>"
+    "64706": {
+        "「たぶん　格闘場のショーで　ベルムドさんに\n　最初に殺されてしまった　バッファロンの霊よ。\n　あなたたち　あの魔物が誰だか　知って……": "Peut-etre suis-je l'esprit du Buffalogre qui a\nete tue en premier par Bermud-san lors du\nspectacle de l'arene. Vous savez qui est ce<br>monstre..."
     },
-    "64645": {
-        "「そんな……　材料がないと　薬が作れないよ。\n　どうしよう……。": "Sans ca... Je ne peux pas preparer le remede\nsans les ingredients. Que vais-je faire..."
+    "64707": {
+        "「ピギャー！　ピギャー！": "Pigyaaa ! Pigyaaa !"
     },
-    "64646": {
-        "「ねえ　<pc>さん　意地悪しないで……。\n　薬の材料　もらってもいいかな？<yesno><close>": "He, <pc>-san, ne sois pas mechant...\nEst-ce que je pourrais avoir les ingredients\npour la potion ? <yesno><close>"
+    "64708": {
+        "「ど　どうしたの！？": "Qu... Qu'est-ce qui se passe !?"
     },
-    "64647": {
-        "<pc>は　セラフィに\nローヌにんじんと　サリュウコツを\n渡した。": "<pc> a remis Rhone Carrot et Sand Bone a\nSeraffy."
+    "64709": {
+        "「ベルムドに　最初に殺されたバッファロンなら\n　ゴリウス兵士長に　間違いありません。": "Le Buffalogre qui a ete tue en premier par\nBermud etait sans aucun doute le capitaine\nGorius."
     },
-    "64648": {
-        "「ありがとう！　これがあれば\n　薬を作って　病気の人たちを助けられるよ！": "Merci ! Grace a ca, je vais pouvoir fabriquer\ndes medicaments et aider les personnes malades\n!"
+    "64710": {
+        "「あ　あなたは……？\n　人間の言葉が　話せるのね？": "Ah, vous... ? Vous pouvez parler le langage\ndes humains ?"
     },
-    "64649": {
-        "セラフィは　薬を調合して\nシメールに飲ませた。": "SeRafui a prepare une potion et l'a donnee a\nShimere."
+    "64711": {
+        "「はい……。申し遅れました。\n　私は　アラハギーロ兵士団の　兵士長だった\n　ゴリウスの息子で　タジウスと申します。": "Oui... Je suis desole pour le retard dans ma\npresentation. Je m'appelle Tajius, fils de\nGorius, ancien commandant de la troupe de<br>soldats d'AraHagi-ro."
     },
-    "64650": {
-        "「震えは　おさまったみたい！": "Il semble que les tremblements se soient\ncalmes !"
+    "64712": {
+        "「格闘場から　逃してくださったことには\n　みな　感謝しています。\n　あなたがいなければ　今頃　私たちの命は……": "Nous vous sommes tous reconnaissants de nous\navoir liberes de l'arene. Sans vous, nos vies\nseraient surement..."
     },
-    "64651": {
-        "「……ん？　あんなに寒かったのに\n　もう　寒くない……　オレ　治ったのか？": "…Hm? Il faisait si froid, mais maintenant je\nn'ai plus froid... Suis-je gueri ?"
+    "64713": {
+        "「ううん。私　あなたたちが　キズつけられるのを\n　見ていられなかっただけだから。": "Non. C'est juste que je ne pouvais pas rester\nla a vous regarder vous faire blesser."
     },
-    "64652": {
-        "「薬が　効いたみたいね。もう　大丈夫！": "Le medicament semble avoir fait effet. Tout va\nbien maintenant !"
+    "64714": {
+        "「それより　そのゴリウスさんって　たしか\n　ベルムドさんに　きつく　命令してた人だよね。\n　あの人のこと　教えてくれる？": "Ca me rappelle, ce Gorius-san, c'est bien la\npersonne qui donnait des ordres stricts a\nBermud-san, n'est-ce pas ? Peux-tu me parler<br>de lui ?"
     },
-    "64653": {
-        "「まったく　心配かけやがって！！": "Tu m'as vraiment inquiete !!"
+    "64715": {
+        "「父は　非常に　プライドの高い人でしたから\n　ベルムドに　見せ物にされ　殺された恨みは\n　きっと　並々ならぬものだったのでしょう。": "Mon pere etait une personne tres fiere. Le\nfait d'avoir ete exhibe et tue par Bermud a du\nengendrer une rancune profonde en lui."
     },
-    "64654": {
-        "「<pc>さん　私ね……\n　こうやって　この国の人たちを守りたかったの。\n　だから　いっぱい勉強したんだ。": "<pc>-san, tu sais... Je voulais proteger\nles gens de ce pays de cette facon. C'est\npourquoi j'ai beaucoup etudie."
+    "64716": {
+        "「元はと言えば　父が　まもの使いたちの魔物を\n　戦地へ向かわせ　人間たちの盾にしたことから\n　生まれた恨みだというのに……。": "Tout a commence avec la rancune nee du fait\nque mon pere avait utilise les creatures des\ndompteurs de monstres pour les envoyer sur le<br>champ de bataille, les transformant en\nboucliers humains..."
     },
-    "64655": {
-        "「だって　この国の真実を知っているのは\n　私だけだから……。": "Parce que je suis la seule a connaitre la\nverite sur T. dans ce pays..."
+    "64717": {
+        "「セラフィさん！\n　申し訳ありませんが　私をアラハギーロまで\n　連れていっていただけますか。": "Serafie-san ! Je suis desole, mais\npourriez-vous m'emmener jusqu'a Arahagiro ?"
     },
-    "64656": {
-        "「<pc>さん　協力してくれてありがとう。\n　いつも　助けてもらってるね。\n　コレ……　今回の　お礼だよ！": "<pc>-san, merci pour ton aide. Tu es\ntoujours la pour me soutenir. Voici... un\npetit remerciement pour cette fois !"
+    "64718": {
+        "「私が　父を説得してみます！\n　父には　自らの過ちを認め　恨みを捨てて\n　天に還ってもらいたいのです……。": "Je vais essayer de convaincre mon pere ! Je\nveux qu'il reconnaisse ses erreurs, abandonne\nsa rancoeur et retourne au ciel..."
     },
-    "64657": {
-        "「……ねえ　シメールさん。\n　なぜ　この病気にかかったか　心当たりある？\n　いつから　寒くなっちゃった？": "Dis-moi, Shimere-san. As-tu une idee de\npourquoi tu as attrape cette maladie ? Depuis\nquand as-tu commence a ressentir ce froid ?"
+    "64719": {
+        "「そっか……。\n　タジウスさん　ありがとう！": "D'accord... Merci, Tajius-san !"
     },
-    "64658": {
-        "「そうだっ　アイツだ！\n　あのバッファロンを　見たときからだ！！": "C'est ca, c'est lui ! Depuis que j'ai vu ce\nBuffalogre !!"
+    "64720": {
+        "「<pc>さん。思いがけず\n　心強い味方が現れて　よかったね。": "<pc>-san, je suis content que tu aies\ntrouve un allie aussi fiable de maniere\ninattendue."
     },
-    "64659": {
-        "「あのバッファロンって？": "Ce Buffalogre, c'est quoi ?"
+    "64721": {
+        "「もしかしたら　タジウスさんがいれば\n　問題が　解決するかも。城下町へ戻って\n　ゴリウスさんに　会いにいきましょう！": "Peut-etre que si Tajius-san est la, le\nprobleme pourrait etre resolu. Revenons a la\ncite du chateau et allons rencontrer<br>Gorius-san !"
     },
-    "64660": {
-        "「格闘場のショーで　最初に　ベルムド王が\n　ズッタズタにした　あのバッファロンだよ！！": "Lors du spectacle de l'arene, c'est ce\nBuffalogre que King Bermud a mis en pieces en\npremier !!"
+    "64722": {
+        "「キャーー！！　怨霊よーーーーッ！！": "Kyaaa !! Un esprit vengeur !!"
     },
-    "64661": {
-        "「夜中に　ベルムドォォォ……って\n　低くうなる声がして　外に出てみたら\n　ヤツがいてよ。急に襲ってきやがったんだ。": "Au milieu de la nuit, j'ai entendu une voix\ngrave murmurer 'Bermudooo…'. Je suis sorti\npour voir ce que c'etait, et il etait la. Il<br>m'a attaque sans prevenir."
+    "64723": {
+        "「<pc>さん！": "<pc>-san !"
     },
-    "64662": {
-        "「ところが　そのまま　オレの身体を通りぬけて\n　消えてっちゃってさ。\n　ありゃあ　生きてる魔物じゃねぇ……。": "Mais alors, il est passe a travers mon corps\net a disparu. Ce n'etait pas un monstre\nvivant..."
+    "64724": {
+        "「出たわね……。": "Tu es apparu..."
     },
-    "64663": {
-        "「怨霊だ……　怨霊になって\n　この町に　戻ってきたんだっ！！": "Un esprit vengeur... Il est revenu dans cette\nville sous forme d'esprit vengeur !!"
+    "64725": {
+        "「ベルムド……　ベルムドォォォーーー！！": "Bermud... Bermudooooo !!"
     },
-    "64664": {
-        "「そうだよ。アイツに襲われたときから　急に\n　猛烈な寒気が襲ってきて　身体が思うように\n　動かなくなっちまったんだよ……。": "C'est vrai. Depuis qu'il nous a attaques, un\nfroid intense m'a submerge soudainement et je\nne peux plus bouger comme je le voudrais..."
+    "64726": {
+        "「父さんッ！！　もう　やめてください！！": "Pere !! Arretez, je vous en prie !!"
     },
-    "64665": {
-        "「……やっぱり　この病気は\n　怨霊が振りまいた　呪いなのね。": "Comme je le pensais, cette maladie est en fait\nune malediction semee par un esprit vengeur."
+    "64727": {
+        "「……僕が　わからないのですか？\n　あなたの息子の　タジウスです！！": "…Vous ne me reconnaissez pas ? Je suis votre\nfils, Tajius !!"
     },
-    "64666": {
-        "「ねぇ　<pc>さん。最初のショーで\n　殺されたバッファロンって　元は人間だよね。\n　……いったい　誰だったんだろう？": "Dis, <pc>-san. Le Buffalogre qui a ete\ntue lors du premier spectacle, c'etait un\nhumain a l'origine, non ? ...Je me demande<br>bien qui il etait."
+    "64728": {
+        "「いくら探したって　ベルムドは\n　もう　いないんです！\n　どうか　怒りを鎮めてください！": "Peu importe combien vous cherchez, Bermud\nn'est plus la ! Je vous en prie, apaisez votre\ncolere !"
     },
-    "64667": {
-        "「うーん……。気になるけど　\n　今は　病気にかかってる人たちに\n　この薬を飲ませてあげるほうが　先だよね。": "Hmm... Je suis curieux, mais pour le moment,\nil est plus important de donner ce medicament\naux personnes malades."
+    "64729": {
+        "「……僕は　人を恨んで　我を忘れ　暴れくるう\n　そんな父さんの姿は　見たくありませんっ！！": "Je ne veux pas voir Papa perdre la tete et\ndevenir furieux par haine envers les autres !"
     },
-    "64668": {
-        "「じゃ　<pc>さん！　私は　もう行くね。\n　本当に　助かったよ！": "Alors, <pc>-san ! Je m'en vais\nmaintenant. Tu m'as vraiment beaucoup aide !"
+    "64730": {
+        "「ヒョーッヒョッヒョ！\n　そんな安っぽい　親子のメロドラマで\n　私の実験の　ジャマをしないでください。": "Hyo-hyo-hyo ! Ne perturbez pas mon experience\navec ce melo familial de pacotille."
+    },
+    "64731": {
+        "「……おや。そこにいるのは　あの勇者姫の\n　横にいた……　たしか　<pc>。\n　また　お会いできて　うれしいですよ。": "…Oh. Celui qui se tient la est celui qui etait\naux cotes de la princesse heroique… Si je me\nsouviens bien, <pc>. Je suis ravi de<br>vous revoir."
+    },
+    "64732": {
+        "「せっかく　こうして再会できたのですから \n　あれから　私の身に起こったことを\n　すこし　話してさしあげましょうか。": "Puisque nous avons enfin l'occasion de nous\nretrouver, permettez-moi de vous raconter ce\nqui m'est arrive depuis."
+    },
+    "64733": {
+        "「あなたがたに　我が研究の集大成である\n　魔勇者を粉砕され　私のプライドは\n　ズタズタになりました。": "Vous avez aneanti mon oeuvre ultime, le heros\ndemoniaque, et mon orgueil en a ete\ncompletement devaste."
+    },
+    "64734": {
+        "「ですが　おかげで　目が覚めましたよ……。\n　あの程度の成果に　満足していたなんて\n　今思うと　お恥ずかしい限りです。": "Cependant, grace a cela, je me suis\nreveille... Je suis embarrasse de realiser\nmaintenant que je me satisfaisais d'un tel<br>resultat."
+    },
+    "64735": {
+        "「かくして　私は　より強い素材を求め\n　偽のレンダーシア中を　探索したのです。\n　そして　ついに　巡りあいました……。": "Ainsi, je suis parti a la recherche de\nmateriaux plus resistants et j'ai explore tout\nLendersia de F. Et enfin, je les ai trouves..."
+    },
+    "64736": {
+        "「……このゴリウス君に！": "...A moi, Goriyus-kun !"
+    },
+    "64737": {
+        "「彼がまとう　怨念のチカラは　計り知れません。\n　このチカラと　私の技術が合わされば\n　我が研究における　最高傑作となりましょう！": "La puissance malefique qu'il degage est\nincommensurable. Si cette puissance est\ncombinee avec ma technologie, cela deviendra<br>le chef-d'oeuvre ultime de ma recherche !"
+    },
+    "64738": {
+        "「そして　この国を滅ぼすことで　それを証明し\n　大魔王マデサゴーラ様に\n　我が研究成果の粋を　献上するのです！": "Et en detruisant ce pays, je prouverai ma\nvaleur et offrirai le fruit de mes recherches\na Madesagora-sama !"
+    },
+    "64739": {
+        "「<pc>。あなたを倒せば　ゴリウス君の \n　優秀さは　確かなものとなるはず……。\n　さあ　実験に　ご協力いただきましょう！": "<pc>. En vous battant, la valeur de\nGorius-kun sera prouvee... Allez, cooperez a\nnotre petite experience !"
+    },
+    "64740": {
+        "「グオォォォォォオ！！": "Gwoooooooo !!"
+    },
+    "64741": {
+        "「ヒョヒョッ？　まだ　人の情が残っているとは\n　計算外です。そんな　生ぬるい感情は　すべて\n　怨念に転化できるように　調整せねば……。": "Hyohyo ? Il semblerait qu'il reste encore un\npeu d'humanite en vous. Cela depasse mes\ncalculs. Je dois ajuster cela pour que ces<br>emotions tiedes se transforment entierement en\nrancoeur..."
+    },
+    "64742": {
+        "「それでは　<pc>！\n　再調整ののち　また　お会いしましょう。\n　次こそ　必ずや　ブチ殺してさしあげます！": "Alors, <pc> ! Apres quelques\najustements, nous nous reverrons. La prochaine\nfois, je vous ecraserai sans faute !"
+    },
+    "64743": {
+        "「ヒョーッヒョッヒョッヒョ……！": "Hyooo-hyo-hyo-hyo... !"
+    },
+    "64744": {
+        "「オマエたち　何者だ！？\n　あの怨霊と　話していたようだが\n　何か　関係があるのか？": "Qu'etes-vous donc ? J'ai l'impression que vous\nparliez avec cet esprit vengeur. Auriez-vous\nun lien quelconque avec lui ?"
+    },
+    "64745": {
+        "「もしや　ヤツを　町に引き込んでいるのは\n　オマエたちじゃないのか！？\n　怪しいヤツらめ……　ちょっと来い！": "Ne me dites pas que c'est vous qui avez attire\ncette creature en ville !? Vous etes\nsuspects... Approchez un peu !"
+    },
+    "64746": {
+        "「キャーー！！　怨霊よーーーーッ！！": "Kyaaa !! Un esprit vengeur !!"
+    },
+    "64747": {
+        "「なにっ……。今度は　あっちか！": "Quoi... Maintenant, c'est par la-bas !"
+    },
+    "64748": {
+        "「安心しろ。今の声は　オレの仲間さ。": "Ne t'inquiete pas. Cette voix etait celle de\nmon camarade."
+    },
+    "64749": {
+        "「シメールさん！": "Shimere-san !"
+    },
+    "64750": {
+        "「勘違いすんなよ。こないだ助けてもらった\n　借りを　返しておきたかっただけだ。\n　ボヤっとしてねぇで　今のうちに町を出やがれ！": "Ne te meprends pas. Je voulais juste rendre la\nfaveur pour l'aide que tu m'as apportee\nl'autre jour. Ne reste pas plante la, quitte<br>la ville tant que tu le peux !"
+    },
+    "64751": {
+        "「<pc>さん。\n　ひとまず　アラハギーロを出ましょう。\n　私たち　先に行ってるわ。": "<pc>-san. Quittons d'abord AraHagi-ro.\nNous partirons en premier."
+    },
+    "64752": {
+        "「<pc>さん！": "<pc>-san !"
+    },
+    "64753": {
+        "「さっきは　おどろいたね。\n　いきなりの　黒幕登場だなんて……。": "Tout a l'heure, c'etait surprenant. Une\napparition soudaine du grand mechant..."
+    },
+    "64754": {
+        "「申し訳ありませんでした。\n　私が　父を説得できればよかったのですが……。": "Je suis desole. J'aurais voulu pouvoir\nconvaincre mon pere..."
+    },
+    "64755": {
+        "「しょうがないよ！　あのヒョッヒョマンに\n　実験とか言って　操られてたみたいだもの。": "Je n'y peux rien ! Ce vieux fou m'a manipule\nen pretendant que c'etait pour une experience."
+    },
+    "64756": {
+        "「次は　ゴリウスさんをパワーアップさせて\n　<pc>さんを　倒す……って\n　言ってたわね。": "Ensuite, nous allons renforcer Gorius-san pour\nvaincre <pc>-san... c'est ce qu'ils\ndisaient."
+    },
+    "64757": {
+        "「このままだと　<pc>さんも\n　この国の人たちも　危険だわ……。": "Si cela continue, <pc>-san et les\nhabitants de ce pays sont en danger..."
+    },
+    "64758": {
+        "「でも　剣も　呪文も効かない\n　ゴリウスさんの怨霊を相手に\n　どうやって　戦えばいいんだろ……。": "Mais si l'epee et les sorts ne fonctionnent\npas contre l'esprit vengeur de Gorius-san,\ncomment allons-nous nous battre...?"
+    },
+    "64759": {
+        "「セラフィさん！　私も協力しますから\n　一緒に　方法を探しましょう！": "Rafi-san ! Je vais aussi vous aider, cherchons\nensemble une solution !"
+    },
+    "64760": {
+        "「……そうだね！\n　ありがとう　タジウスさん！": "…Oui, c'est vrai ! Merci, Tajius-san !"
+    },
+    "64761": {
+        "「あっ。まだ　お礼を渡してなかったね。\n　一緒に　タジウスさんたちの居場所を\n　探してくれて　ありがとう！": "Ah. Je ne t'avais pas encore remercie. Merci\nd'avoir aide a chercher l'endroit ou se\ntrouvent Tajius-san et les autres !"
+    },
+    "64762": {
+        "「じゃあ　またね　<pc>さん！\n　私　タジウスさんと一緒に　ゴリウスさんを\n　どうにかする方法を　探しておくよ！": "Alors, a plus tard, <pc>-san ! Je vais\nchercher un moyen de m'occuper de Gorius-san\navec Tajius-san !"
+    },
+    "86286": {
+        "「ホント！？　あっ　でも……\n　<pc>さん　他の人からの頼まれごとも\n　いっぱい　引き受けてるんじゃない？": "Vraiment !? Ah, mais... <pc>-san, tu as\ndeja accepte beaucoup d'autres demandes des\ngens, non ?"
+    },
+    "86287": {
+        "「私　ここで　調べものしてるから\n　用事が終わったら　来てくれる？": "Je fais des recherches ici, alors pourrais-tu\nvenir me voir une fois que tu auras termine\ntes affaires ?"
+    },
+    "99471": {
+        "「グォ…ォ……！！ \n　……タ……ジ……ウス……？": "Guh... ooh... !! ...Ta...ji...us...?"
     }
 }
