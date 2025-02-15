@@ -1,17 +1,113 @@
 {
-    "19520": {
-        "「ヌオオオオオオオオーーーーーッ！！\n　我ラは　退かヌ！　逃げヌ！": "Nuooooooーーーッ！！ Nous ne reculerons pas ! Nous\nne fuirons pas !"
+    "19525": {
+        "「おや……。あの者は……。\n　我が城の　精鋭部隊の者か……。": "Oh... Cette personne la-bas... Fait-elle\npartie de l'unite d'elite de mon chateau...?"
     },
-    "19521": {
-        "「何者モ　我ラを止めラレヌゥゥゥ！！\n　我ラの進軍ヲ　阻む者ハ……": "Rien ni personne ne peut nous arreter !! Ceux\nqui osent entraver notre avancee..."
+    "19526": {
+        "「ラグアス王子！　一大事であります！": "Prince Raguas ! C'est une affaire urgente !"
     },
-    "19522": {
-        "「八つ裂キ　八つ裂キ　八つ裂キーーーッ！！": "Ecarteler, ecarteler, ecartelerrrrr !!"
+    "19527": {
+        "「エピステーサ丘陵を巡察している兵士から\n　先ほど　報告が　ありました！": "Nous venons de recevoir un rapport d'un soldat\nen patrouille dans les collines d'Epistesa !"
     },
-    "19523": {
-        "「ヌオオオオオォォォ……………。\n　お…おのレエエエ……。": "Nuoooooo... Oh... toi..."
+    "19528": {
+        "「ここより西　エピステーサ丘陵の東にある\n　ピテッザのほら穴に\n　亡霊兵士が　現れたそうです！": "Il parait qu'un soldat fantome a ete apercu a\nla Grotte de Pitheza, situee a l'est des\nCollines d'Epistesa, a l'ouest d'ici !"
     },
-    "19524": {
-        "「憎キ　フォステイル……。\n　こノ恨み　我ラは忘れヌゾ……。": "Maudit Fostail... Nous n'oublierons jamais\ncette rancune..."
+    "19529": {
+        "「亡霊兵士だって！？\n　また　現れたのか！": "Des soldats fantomes !? Encore attaques par P.\n?"
+    },
+    "19530": {
+        "「多くの亡霊兵士が城を襲う　あの夢……。\n　ぼくの見た夢が　もしも現実になるのなら\n　亡霊兵士は　今後も現れるということか……。": "Beaucoup de soldats fantomes attaquent le\nchateau... ce reve... Si le reve que j'ai vu\ndevient realite, cela signifie que les soldats<br>fantomes continueront d'apparaitre..."
+    },
+    "19531": {
+        "「民に　不安を与えるわけにはいかない！\n　情報がもれないよう　お前たち精鋭部隊で\n　亡霊兵士の　討伐に向かってくれ！": "Nous ne pouvons pas permettre que le peuple\nsoit inquiet ! Avec votre unite d'elite,\npartez affronter et eliminer les soldats<br>fantomes avant que l'information ne se repande\n!"
+    },
+    "19532": {
+        "「はっ！　おまかせください！": "Ha ! Laissez-moi faire !"
+    },
+    "19533": {
+        "「精鋭部隊は　いずれも\n　メギストリス流剣術をマスターしている\n　実力者たちばかりですが……": "Les membres de l'unite d'elite ont tous\nmaitrise l'art du combat a l'epee de l'ecole\nde Megistris. Ce sont des combattants<br>accomplis..."
+    },
+    "19534": {
+        "「ぜひ　<pc>さんのチカラも\n　貸していただきたい。": "Nous aimerions vraiment que <pc>-san\nnous prete egalement sa force."
+    },
+    "19535": {
+        "「ここより西　エピステーサ丘陵の東にある\n　ピテッザのほら穴へ行き　精鋭部隊と協力して\n　亡霊兵士を　倒してくれませんか？": "Ici a l'ouest, en direction de la colline\nEpistesa, se trouve la grotte de Pitheza.\nPourriez-vous vous rendre la-bas et collaborer<br>avec l'unite d'elite pour vaincre les soldats\nfantomes ?"
+    },
+    "19536": {
+        "「ありがとうございます！\n　<pc>さんがいれば　不安はありません。\n　それでは　よろしくお願いしますね。": "Merci beaucoup ! Avec vous, <pc>-san, je\nn'ai aucune inquietude. En comptant sur vous,\nje vous confie la suite."
+    },
+    "19537": {
+        "「ありがとうございます！\n　……ですが　どうやら　頼まれごとを\n　たくさん　抱えていらっしゃるようですね。": "Merci beaucoup ! ...Cependant, il semble que\nvous ayez beaucoup de requetes a gerer,\nn'est-ce pas ?"
+    },
+    "19538": {
+        "「民の安全にも　関わりますので\n　<pc>さんのチカラが　必要なんですが\n　うーん……。困りましたね……。": "La securite du peuple est en jeu, nous avons\ndonc besoin de la force de <pc>-san.\nHmmm... C'est problematique..."
+    },
+    "19539": {
+        "「ほかの用事が　終わったら\n　また　ここに戻ってきてください。\n　お待ちしてますよ　<pc>さん。": "Une fois que vous aurez termine vos autres\naffaires, revenez ici. Nous vous attendrons,\n<pc>-san."
+    },
+    "19540": {
+        "「うーん……。そうですか。\n　<pc>さんは　頼りになるので\n　協力を　お願いしたいのですが……。": "Hmm... Je vois. <pc>-san est quelqu'un\nde fiable, alors j'aimerais demander votre\naide..."
+    },
+    "19541": {
+        "「ムリに頼んでは失礼ですね。\n　気が変わったら　また　来てください。\n　ぼくは　ここで　お待ちしてます。": "Ce serait impoli de vous forcer a accepter. Si\nvous changez d'avis, revenez me voir. Je vous\nattendrai ici."
+    },
+    "19542": {
+        "「私たち…精鋭部隊が…敗れるとは……？\n　な…なんという　強さだ……。": "Nous... l'unite d'elite... avons ete\nvaincus... ? Qu-quelle force incroyable..."
+    },
+    "19543": {
+        "「あの剣さばき　私たち…と似て…いる。\n　メギストリス流剣術に…………。": "Ce maniement de l'epee... Il ressemble au\nnotre... A l'art de l'epee de l'ecole\nMegistris..."
+    },
+    "19544": {
+        "「我らハ　不屈ノ闘志を持つ豪傑……。\n　我らヲ止めラレる者なド　おらヌ……。": "Nous sommes les vaillants guerriers dotes\nd'une determination inebranlable... Personne\nne peut nous arreter..."
+    },
+    "19545": {
+        "「我ラは　戦イ抜く……。\n　愛すル家族ヲ　救いダすノダ……。": "Nous allons nous battre jusqu'au bout... Nous\ndevons sauver notre chere famille..."
+    },
+    "19546": {
+        "「我ラは　戦イ抜く……。\n　愛すル家族ヲ　救いダすノダ……。": "Nous allons nous battre jusqu'au bout... Nous\ndevons sauver notre chere famille..."
+    },
+    "19547": {
+        "「おのレエエエ……。\n　憎キ　フォステイルめ……。": "Oh, toi... maudite Fostail..."
+    },
+    "19548": {
+        "「パルカラス王ガ　フタタび\n　号令ヲ　かけタ時……。\n　我らハ進軍シ　愛すル家族ヲ　救いダす……。": "Lorsque le roi Palkaras donnera de nouveau\nl'ordre... Nous avancerons alors pour sauver\nnos familles bien-aimees..."
+    },
+    "19549": {
+        "<cs_pchero>は\nボロボロの本（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu un livre en lambeaux\n(objets cles) ! <me 60>"
+    },
+    "19550": {
+        "「これは　ずいぶんと古い本ですね。\n　表紙に書かれている　題名を見るかぎり\n　現代の文字では　ないようですが……。": "C'est un livre vraiment ancien, n'est-ce pas ?\nEn regardant le titre ecrit sur la couverture,\nce ne semble pas etre des caracteres de l'ere<br>actuelle..."
+    },
+    "19551": {
+        "「うーむ……。これは……。\n　昔　プクランド大陸で使われていた\n　古代文字ですね。": "Hmm... Cela... Ce sont d'anciens caracteres\nutilises autrefois sur le continent de\nPukuLMP."
+    },
+    "19552": {
+        "「以前　勉強していたので\n　これくらいなら　ぼくでも　読めますよ。\n　どれどれ……。": "J'avais etudie ca avant, donc je peux lire a\npeu pres ca. Voyons voir..."
+    },
+    "19553": {
+        "「フォ……。ス……。テイル…伝……。\n　フォステイル伝……？": "Fo...s...tail...伝... Fostail Biography...?"
+    },
+    "19554": {
+        "「こ…これは　もしや！": "C... ceci est peut-etre !"
+    },
+    "19555": {
+        "「<pc>さん！\n　この本は　もしかしたら　フォステイルの生涯が\n　記された本かもしれませんよ！": "<pc>-san ! Ce livre pourrait bien etre\ncelui qui relate la vie de Fostail !"
+    },
+    "19556": {
+        "「５００年前　フォステイルが\n　王国に仕官してから　王になるまでの歴史も\n　この本になら　書かれているかもしれない……。": "Il est possible que l'histoire de Fostail,\ndepuis qu'il a rejoint le service du royaume\njusqu'a devenir roi, soit consignee dans ce<br>livre..."
+    },
+    "19557": {
+        "「うーむ……。": "Hmm..."
+    },
+    "19558": {
+        "「本格的に　解読するとなると\n　学者に頼まないと　ダメですね……。": "Si nous voulons dechiffrer cela serieusement,\nnous devrons demander l'aide d'un erudit..."
+    },
+    "19559": {
+        "「よし……。学者たちを呼んで\n　さっそく　解読させましょう。": "D'accord... Faisons venir les erudits et\ndemandons-leur de decrypter cela\nimmediatement."
+    },
+    "19560": {
+        "「亡霊を討伐し　貴重な本まで手に入れるとは\n　さすがは　<pc>さんですね。\n　どうぞ　これを受け取ってください。": "Vaincre un fantome et obtenir un livre\nprecieux, c'est vraiment digne de vous,\n<pc>-san. Veuillez accepter ceci."
+    },
+    "19561": {
+        "「これから　学者たちと協力して\n　解読を行いますので　また　しばらくしたら\n　来てください。よろしくお願いします。": "A partir de maintenant, nous allons collaborer\navec les chercheurs pour dechiffrer cela.\nRevenez dans quelque temps, s'il vous plait.<br>Merci de votre comprehension."
     }
 }
