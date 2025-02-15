@@ -1,350 +1,161 @@
 {
-    "17579": {
-        "「……<pc>か。\n　いまだ　天命の戦乙女は　お目醒めにならない。": "<pc>, hein. La Fate's War Maiden ne\ns'est toujours pas eveillee."
+    "19917": {
+        "「コペロー！　私たちは　外に行くわよ。\n　早く　いらっしゃい！！": "Copello ! Nous allons dehors. Depeche-toi !!"
     },
-    "17580": {
-        "「滅びの魔竜を　地底世界ニブルヘイムの外へ\n　おびきだした三賢人も　消息を絶ったままだ。\n　このままでは……。": "Les trois sages qui ont attire le Dragon\nDevastateur a l'exterieur du monde souterrain\nde Niflheim ont egalement disparu sans laisser<br>de trace. Si cela continue ainsi..."
+    "19918": {
+        "「わかってるってー　かーちゃん。": "Je sais, maman."
     },
-    "17581": {
-        "「シグルド様！！": "シグLudo-sama !!"
+    "19919": {
+        "「それじゃ　私とコペローは　家を空けるわ。\n　後は　あなたに　まかせたわよ。": "Bien, Copello et moi allons quitter la maison.\nJe te laisse prendre le relais."
     },
-    "17582": {
-        "「賢人トール！\n　それに　フレイヤに　バルドルも！！": "Sage Thor ! Et aussi Freiya et Baludor !!"
+    "19920": {
+        "<center>そして　しばらく　時が流れた……。": "Et ainsi, quelque temps passa..."
     },
-    "17583": {
-        "「よくぞ……　無事に　戻ってきてくれた！！": "Te voila enfin... Je suis tellement soulage de\nte voir revenir sain et sauf !"
+    "19921": {
+        "「クンクン……。\n　いいニオイが　するでヤンス……。": "Sniff sniff... Je sens une bonne odeur..."
     },
-    "17584": {
-        "「帰りが遅くなったことは　お許しください。\n　しかし　我らの術は功を奏し　今も\n　滅びの魔竜を　結界の地に　とどめております。": "Veuillez pardonner notre retour tardif.\nCependant, notre magie a porte ses fruits, et\nnous avons reussi a contenir le Dragon du<br>Desastre sur le terrain de la barriere."
+    "19922": {
+        "「ミャッハーーー。\n　これは　うまそうでヤンスーーー！": "Myaaaah... Ca a l'air delicieux, Sue !"
     },
-    "17585": {
-        "「そうか……　よくやってくれた！\n　お前たちのおかげで　我ら　ヴァルハラの戦士も\n　天命の戦乙女の奪還に　成功したのだ！": "Je vois... Vous avez bien travaille ! Grace a\nvous, nous, les guerriers de Valhalla, avons\nreussi a reprendre la Fate's War Maiden !"
+    "19923": {
+        "「しめしめ。誰も　いねえでヤンスね……。": "Hehe. Il n'y a personne ici..."
     },
-    "17586": {
-        "「だが…………。": "Cependant..."
+    "19924": {
+        "「こいつは　いただいていくでヤンス。": "Je vais me charger de celui-ci, yan-su."
     },
-    "17587": {
-        "「ふうむ……　天命の戦乙女が\n　ニブルヘイムの瘴気に　侵されてしまうとは。\n　これは　時間が　かかるのう……。": "Hmm... Que la Maiden de la Guerre du Destin\nsoit corrompue par la miasme de Niflheim...\nCela va prendre du temps..."
+    "19925": {
+        "ネコの魔物を　捕まえますか？<yesno><close>": "Souhaitez-vous capturer le monstre chat\n?<yesno><close>"
     },
-    "17588": {
-        "「教えてくれ！！　なんでもいい……\n　天命の戦乙女を　目醒めさせる手立ては\n　何か　ないのか！？": "Dis-moi !! Peu importe... N'y a-t-il aucun\nmoyen de reveiller la Maiden de la Guerre du\nDestin ?"
+    "19926": {
+        "犯罪を見逃すなんて　とんでもない！": "Il est hors de question de laisser passer un\ncrime !"
     },
-    "17589": {
-        "「……結局　こうするほかに\n　道は　なかったということか。": "Finalement, il n'y avait pas d'autre choix que\nde faire ainsi."
+    "19927": {
+        "ネコの魔物を　捕まえますか？<yesno><close>": "Souhaitez-vous capturer le monstre chat\n?<yesno><close>"
     },
-    "17590": {
-        "「戦士シグルド殿。\n　天命の戦乙女を　救いたくば　この大陸の最東端\n　久遠の森の奥にある　ひずみへ向かいなされ。": "Warrior Sigurd-dono. Si tu souhaites sauver la\nVierge Guerriere du Destin, dirige-toi vers la\ndechirure situee au coeur de la Foret de<br>l'Eternite, a l'extremite est de ce continent."
+    "19928": {
+        "「ミャギャッ！　見つかったでヤンスーーー！！": "Myaaa ! On nous a trouves, Sue !"
     },
-    "17591": {
-        "「ひずみの底に封じてある　滅びの魔竜を討てば\n　ニブルヘイムの瘴気は　チカラを失い\n　天命の戦乙女は　目醒めるはずじゃ。": "Si tu vaincs le dragon destructeur scelle au\nfond de la faille, la miasme de Niflheim\nperdra son pouvoir, et la Vierge Guerriere du<br>Destin devrait s'eveiller."
+    "19929": {
+        "「何か　騒がしいみたいだけど\n　もしかして　犯人が……": "On dirait qu'il y a de l'agitation. Se\npourrait-il que le coupable soit..."
     },
-    "17592": {
-        "「滅びの魔竜を　討つ……だと！？\n　まさか……そんなことが……。": "Vaincre le Dragon de la Destruction... !?\nImpossible... Comment est-ce possible... ?"
+    "19930": {
+        "「あー　ネコだー。ネコネコー。": "Ah, un chat ! Un chat, un chat !"
     },
-    "17593": {
-        "「……いや。いずれにせよ　退く道はない！\n　この戦いに　勝たなくては\n　我らを待つのは　世界の終焉なのだ！": "Non. De toute facon, il n'y a pas de chemin\npour battre en retraite ! Nous devons\nremporter cette bataille, car ce qui nous<br>attend, c'est la fin du monde !"
+    "19932": {
+        "「……ダメに　決まってるでしょう？\n　お仕置きしてあげるわ！！": "Evidemment que ca ne va pas marcher, non ? Je\nvais te donner une bonne lecon !!"
     },
-    "17594": {
-        "「我ら三賢人も　異論はない。\n　もとより　戦士シグルドに捧げると\n　決めた命じゃ。": "Nous, les trois sages, n'avons aucune\nobjection. Des le depart, nos vies etaient\ndestinees a etre offertes a Warrior Sigurd."
+    "19933": {
+        "「ミャギャーーー！！": "Myaaaaah !!"
     },
-    "17595": {
-        "「へへっ　シグルド様と　一緒なら\n　アッシは　どこへでも行く覚悟でさ。": "Hehe, si c'est avec vous, Seigneur Ludo, je\nsuis pret a aller n'importe ou."
+    "19934": {
+        "「捕まるわけには　いかねえんでヤンス……。": "Je ne peux pas me faire attraper..."
     },
-    "17596": {
-        "「恩に着るぞ　お前たち……。": "Je vous suis reconnaissant, vous tous..."
+    "19935": {
+        "「アッシにゃあ　ラーディス王島の小屋で\n　ハラを空かせて　待っている旦那が\n　いるんでえヤンスーーー！！": "J'ai un monsieur qui a faim et qui m'attend\ndans la cabane de l'ile Ladis, alors\ndepeche-toi, Sue !"
     },
-    "17597": {
-        "「巨人族の戦士　<pc>！\n　キミも　ともに　戦ってくれるか？": "Guerrier du peuple des geants, <pc> ! Te\njoindras-tu a nous pour combattre ?"
+    "19936": {
+        "「あなたが　さっさと　捕まえてくれないから\n　逃げられちゃったじゃない！": "Tu n'as pas reussi a l'attraper rapidement, et\nmaintenant il s'est echappe !"
     },
-    "17598": {
-        "「そう言ってくれると信じていた！\n　<pc>……　ありがとう！": "Je savais que tu dirais ca ! <pc>...\nMerci !"
+    "19937": {
+        "「……こうなったら　私の代わりに\n　あなたに　ラーディス王島の小屋まで\n　行ってもらうしかないわね。": "Dans ce cas... il n'y a pas d'autre choix que\nde te demander d'aller a ma place jusqu'a la\ncabane sur l'ile Ladis."
     },
-    "17599": {
-        "「皆！　この戦いに勝利し\n　世界の均衡が　取り戻された時には\n　これまでになき　盛大な宴を開こうぞ！！": "Mes amis ! Quand nous aurons remporte cette\nbataille et que l'equilibre du monde sera\nretabli, nous organiserons une fete grandiose<br>comme jamais auparavant !!"
+    "19938": {
+        "「町の南側から　ミューズ海岸に出て　さらに南に\n　ラーディス王島行きの　カヌー乗り場があるわ。\n　あのネコの魔物に　お仕置きしてきて！": "Sors du cote sud de la ville pour rejoindre la\ncote de Muse. Ensuite, continue vers le sud,\nla ou se trouve l'embarcadere pour l'ile de<br>Ladis. Va donner une lecon a cette creature\nfeline !"
     },
-    "17600": {
-        "「よし来た！！　さすが　シグルド様ですぜ！": "Bien joue !! Comme prevu de la part de\nShiguLudo-sama !"
+    "27190": {
+        "「ひいぃっ！　ネコの魔物！？": "Hiiiii ! Un monstre-chat !?"
     },
-    "17601": {
-        "「さあ　巨人族の戦士　<pc>よ！\n　かばんの中に　入らせてもらうぞ！\n　皆も　ボクに続け！": "Allez, guerrier de la tribu des geants,\n<pc> ! Permets-moi d'entrer dans le sac\n! Tout le monde, suivez-moi !"
+    "27191": {
+        "「後生でヤンス。見逃してくれでヤンスーーー！": "Je vous en supplie, ayez pitie ! Epargnez-moi,\nje vous en prie !"
     },
-    "17602": {
-        "<pc>は\nヴァルハラの戦士たち（だいじなもの）を\n手に入れた！<me 60>": "<pc> a obtenu les objets cles des\nguerriers de Valhalla ! <me 60>"
+    "28065": {
+        "「旦那……。食べ物を　持ってきたでヤンス。": "Monsieur... J'ai apporte de la nourriture."
     },
-    "17603": {
-        "かばんの中から　シグルドの声が聞こえる。": "De ton sac, tu entends la voix de ShiguLudo."
+    "28066": {
+        "「これを食べて　すこしでも\n　元気を　取り戻してほしいでヤンスよ。": "Mangez ceci, je veux que vous retrouviez un\npeu de votre energie."
     },
-    "17604": {
-        "「滅びの魔竜を封じた　大地のひずみは\n　久遠の森の　南東の奥にあるそうだ。\n　それでは　頼んだぞ！　<pc>よ！": "La dechirure de la terre qui scelle le Dragon\nde la Destruction se trouve, semble-t-il, au\nsud-est de la Foret de l'Eternite. Je compte<br>sur toi, <pc> !"
+    "28067": {
+        "「ミャギャッ！　ここまで　追ってくるとは\n　思わなかったでヤンス！！": "Myaah ! Je ne pensais pas que vous me\npoursuivriez jusqu'ici, de yansu !!"
     },
-    "17605": {
-        "「待てっ　<pc>！\n　どうやら　キミは　他にも\n　多くの使命を　持っているようだな。": "Attends, <pc> ! Il semble que tu as\nencore beaucoup de missions a accomplir."
+    "28068": {
+        "「アッシを　捕まえようってんなら\n　やめといたほうが　いいでヤンスよ！": "Si vous comptez m'attraper, vous feriez mieux\nd'abandonner, de grace !"
     },
-    "17606": {
-        "「ならば　キミのチカラを\n　借りるわけには　いくまい。\n　まずは　その使命を　まっとうしてくれ。": "Dans ce cas, je ne peux pas emprunter ta\nforce. Remplis d'abord ta mission."
+    "28069": {
+        "「こちらは　猫魔族界　最強の剣豪と名高い\n　キャット・リベリオさまでヤンス！": "<Voici le celebre Purrgatroyd sama, connu\ncomme le plus grand epeiste du royaume des\nNekoma !>"
     },
-    "17607": {
-        "「そ　そうか……。ならば　仕方あるまい。\n　キミは　本当に　よくやってくれた。\n　とても　責めることなどできない。": "Je... je vois... Dans ce cas, il n'y a rien a\nfaire. Tu as vraiment fait de ton mieux. Je ne\npeux absolument pas te blamer."
+    "28070": {
+        "「そして　何を隠そう　アッシは\n　そのイチの子分　ミャルジさまなのでヤンス！": "Et pour ne rien vous cacher, je suis le fidele\nsubordonne de Myarji-sama !"
     },
-    "17608": {
-        "「だが……　気が変わることがあったら\n　また　この館に　戻ってきてくれ。": "Mais... Si jamais tu changes d'avis, reviens\ndans ce manoir."
+    "28071": {
+        "「早く出ていかねえと\n　痛い目を　見ちまうでヤンスよ！？": "Depechez-vous de partir, sinon vous allez le\nregretter !"
     },
-    "17609": {
-        "「<pc>　戻ってきてくれたのか！": "<pc>, tu es revenu !"
+    "28072": {
+        "「待てニャ……。": "Attends, miaou..."
     },
-    "17610": {
-        "「ニブルヘイムの瘴気に　侵された\n　天命の戦乙女を　目醒めさせるには\n　滅びの魔竜を討つほかに　手立てはない！": "La seule facon de reveiller la Vierge de\nGuerre de Fate, corrompue par la miasme de\nNibelheim, est de vaincre le dragon malefique<br>de la destruction !"
+    "28073": {
+        "「ミャミャ……？\n　どうしたでヤンスか　リベリオの旦那。": "Mya mya... ? Qu'est-ce qui se passe, Monsieur\nRibero ?"
     },
-    "17611": {
-        "「強大な敵だが　退くことはできん！\n　この戦いに　勝たなくては\n　我らを待つのは　世界の終焉なのだ！": "C'est un ennemi puissant, mais nous ne pouvons\npas reculer ! Nous devons remporter cette\nbataille, car ce qui nous attend, c'est la fin<br>du monde !"
+    "28074": {
+        "「……コヤツは　オレを倒したヤツだニャ。\n　名は　たしか……　<pc>……。": "Ce type, c'est celui qui m'a vaincu, miaou.\nSon nom, c'etait surement... <pc>..."
     },
-    "17612": {
-        "「今こそ　滅びの魔竜を封じた\n　久遠の森の　ひずみの底へ　出陣しよう！": "Il est temps de partir a l'assaut des\nprofondeurs de la faille de la Foret de\nl'Eternite pour sceller le dragon demoniaque<br>de la destruction !"
+    "28075": {
+        "「ミャギィッ！　リベリオの旦那を倒した！？\n　それじゃ　マンマーさまの息子を\n　助けたっていう……。": "Miaou ! Vous avez vaincu le maitre Ribeleo !?\nCela signifie que vous avez sauve le fils de\nMaman-sama..."
     },
-    "17613": {
-        "「巨人族の戦士　<pc>！\n　キミも　ともに　戦ってくれるか？": "Guerrier du peuple des geants, <pc> ! Te\njoindras-tu a nous pour combattre ?"
+    "28076": {
+        "「それミャあ　ここで　リベンジと\n　いくでヤンスか　リベリオの旦那！": "Alors, allons-nous prendre notre revanche ici,\nmonsieur Ribenji, monsieur Ribleo ?"
     },
-    "17614": {
-        "「うっ　うっ……　なんでだよ！\n　ハニー！　マイ・スウィートハニー！\n　どこに　行っちまったんだ？": "Snif, snif... Pourquoi ?! Honey ! Ma douce\nHoney ! Ou es-tu partie ?"
+    "28077": {
+        "「……リベンジとか　めんどくさいニャ。\n　もう　どうでも　いいのニャ……。": "......La vengeance, c'est tellement ennuyeux,\nnya. Je m'en fiche maintenant, nya......"
     },
-    "17615": {
-        "「ここに忘れたかと　思ったけど……。": "Je pensais l'avoir oublie ici, mais..."
+    "28078": {
+        "「リベリオの旦那……。": "Le mari de RibeLeo..."
     },
-    "17616": {
-        "「キサマが　滅びの魔竜か！\n　よくも……　天命の戦乙女を！": "Alors, c'est toi le dragon demon de la\ndestruction ! Comment as-tu ose... toucher a\nla Fate's War Maiden !"
+    "28079": {
+        "「申し訳ありませんでヤンした！\n　アッシが　盗みをはたらいたことは\n　このとおり　あやまるでヤンス！！": "Je vous presente mes excuses sinceres ! Je\nreconnais avoir commis un vol et je m'en\nexcuse profondement !"
     },
-    "17617": {
-        "「ああん！？": "Ah bon !?"
+    "28080": {
+        "「……じつは　リベリオの旦那は\n　やる気ってものを　なくしちまって\n　ごらんの有り様なんでヤンス。": "...En fait, le mari de Ribelleo a perdu toute\nmotivation, et voila le resultat."
     },
-    "17618": {
-        "「キュ……　キュートだ<heart>": "Kyu... Trop mignon <heart>"
+    "28081": {
+        "「アッシが　面倒を見ねえと　いかんのでヤンス。\n　お仕置きなら　なんでも受けるんで\n　それで　ゆるしてほしいのでヤンス！": "Je dois m'occuper de ca, sans aucun doute. Peu\nimporte la punition, je suis pret a\nl'accepter. Alors, je vous en prie,<br>pardonnez-moi !"
     },
-    "17619": {
-        "「だが　お前らなんかに　まどわされるものか！\n　オレさまには……　心に決めた\n　マイ・スウィートハニーが　いるんだよ！！": "Mais je ne me laisserai pas berner par des\ngens comme vous ! J'ai deja dans mon coeur...\nMa douce cherie !"
+    "28082": {
+        "ミャルジに　お仕置きをしますか？<yesno><close>": "Voulez-vous punir Myarji ? <yesno><close>"
     },
-    "17620": {
-        "「……なのに　ちょっとばかり浮気して\n　３人の　カワイコちゃんを　追いまわしてたら\n　いつのまにか　ハニーが　消えちまって。": "...Et pourtant, alors que je flirtais un peu\ntrop avec trois jolies filles, mon amour a\nfini par disparaitre sans que je m'en rende<br>compte."
+    "28083": {
+        "「ミャ！　それじゃあ　ダメでヤンス。\n　きっちり　お仕置きを受けねえと\n　罪をつぐなったことに　ならねえでヤンス！": "Mya ! Ca ne va pas comme ca. Si tu ne recois\npas une punition appropriee, tu ne pourras pas\nexpier tes peches, yansu !"
     },
-    "17621": {
-        "「……って　３人のカワイコちゃんじゃないか！？\n　なんだ？　いったい　どういうことだ？": "...Mais ce ne seraient pas trois jolies\ndemoiselles !? Qu'est-ce que ca signifie\nexactement ?"
+    "28084": {
+        "ミャルジに　お仕置きをしますか？<yesno><close>": "Voulez-vous punir Myarji ? <yesno><close>"
     },
-    "17622": {
-        "「もしや……ハニーとは　天命の戦乙女のことか？\n　滅びの魔竜よ！　天命の戦乙女ならば\n　我らの手に　奪還させてもらった。": "Se pourrait-il que... par Honey, tu parles de\nla Vierge Guerriere du Destin ? O dragon\nmalefique de la destruction ! Si c'est de<br>Fate's War Maiden dont tu parles, sache que\nnous l'avons recuperee."
+    "28085": {
+        "「ありがとミャー。\n　もう盗みはしねえと　誓うでヤンスよ！\n　さあ　お仕置きを　どうぞ！！　　": "Merci miaou. Je jure de ne plus voler, c'est\ncertain ! Allez, infligez-moi ma punition !!"
     },
-    "17623": {
-        "「あの方を救うため……　お前を討つ！！": "Pour sauver cette personne... je vais te\nvaincre !"
+    "28086": {
+        "「ミャギャーーーーーー！": "Myaaaaahーーーーーー !"
     },
-    "17624": {
-        "「な　なんだって……！\n　お前たちが　マイ・スウィートハニーを！？": "Q-Quoi... !? Vous avez pris ma douce cherie !?"
+    "28087": {
+        "「効いたでヤンス……。": "Ca a marche..."
     },
-    "17625": {
-        "「……そうかい　話が読めてきたぜ。\n　３人のカワイコちゃんも　グルだったんだな！？\n　許せねえ……　許しちゃおけねえ！！": "Je vois, je commence a comprendre l'histoire.\nLes trois petites mignonnes faisaient aussi\npartie du complot, hein !? Inacceptable... Je<br>ne peux pas laisser passer ca !!"
+    "28088": {
+        "「これで　ゆるしてもらえたでヤンスよね。\n　ありがとうでヤンス　<pc>さま。": "Maintenant, je suis pardonne, n'est-ce pas ?\nMerci beaucoup, <pc>-sama."
     },
-    "17626": {
-        "「いざ　勝負！！\n　皆　ボクに続けーーーーー！！": "En avant, combat !! Tout le monde,\nsuivez-moiiiiiiiii !!"
+    "28089": {
+        "「……ハラが減ったニャー。ミャルジよ。\n　食い物を　用意してくれニャ。": "…J'ai faim, nya. Myarji. Prepare-moi quelque\nchose a manger, nya."
     },
-    "17627": {
-        "「うぉおぉおぉおおぉおおおおーーーーーー！！": "Whoaーーーーーー！！"
+    "28090": {
+        "「すみミャせん　リベリオの旦那。\n　たった今　盗みはしないと誓ったんで\n　食い物は　獲物を狩るしかねえでヤンスよ。": "Je suis desole, monsieur Ribeleo. Je viens de\njurer de ne plus voler, alors je n'ai d'autre\nchoix que de chasser ma nourriture."
     },
-    "17628": {
-        "「フウッ！　フウッ！　ふざけやがって……\n　お前らチビどもが　オレを相手に\n　本気で　勝てるとでも思ってんのか！？": "Huff ! Huff ! Vous vous moquez de moi... Vous,\nles p'tits morveux, vous pensez vraiment\npouvoir me battre serieusement !?"
+    "28091": {
+        "「リベリオの旦那も　行きましょうでヤンス。\n　すこしは　身体を動かさないと\n　ブタネコに　なっちまうでヤンスよ……。": "Monsieur RibeLeo, allons-y. Vous devez bouger\nun peu, sinon vous allez devenir un\nchat-pig..."
     },
-    "17629": {
-        "「つ……　強い………。\n　なんという　チカラ……………。": "Si... puissant... Quelle force incroyable..."
+    "28092": {
+        "「むう……。そうか……？": "Mmm... Vraiment...?"
     },
-    "17630": {
-        "「こいつは　おどろいた！\n　お前は……　いつか　オレの\n　スウィートホームを　奪ったヤツじゃねーか！": "Ca alors, quelle surprise ! Tu es... celui qui\na vole mon Sweet Home il y a un moment !"
+    "28093": {
+        "「それミャー　<pc>さま。\n　町の人に　もう盗みはしねえと\n　伝えておいてほしいでヤンス。": "Ce n'est pas moi, <pc>-sama.\nPourriez-vous transmettre aux habitants de la\nville que je ne volerai plus, s'il vous plait<br>?"
     },
-    "17631": {
-        "「だが　もう　そんなことは　いい！\n　オレはな……　ハニーと暮らして　はじめて\n　生きる　よろこびを　知ったんだよ！！": "Cependant, peu importe tout ca maintenant !\nMoi, tu sais... C'est en vivant avec Honey que\nj'ai decouvert pour la premiere fois la joie<br>de vivre !!"
-    },
-    "17632": {
-        "「人の恋路を　ジャマするやつは……": "Les personnes qui se mettent en travers du\nchemin de l'amour des autres..."
-    },
-    "17633": {
-        "「ギッタギタの　メッチャクチャにしてやる！！": "Je vais te rendre la vie impossible avec ma\nguitare !!"
-    },
-    "17634": {
-        "「フーッ！　フーッ！\n　わざわざ　戻ってくるとは　見上げたもんだ。\n　仲間たちを　助けにきたつもりか！？": "Hou ! Hou ! Je dois dire que c'est admirable\nde revenir ici expres. Tu pensais venir aider\ntes compagnons, n'est-ce pas ?"
-    },
-    "17635": {
-        "「オレは　ハニーと暮らして　はじめて\n　生きる　よろこびを　知ったんだよ！！": "J'ai decouvert la joie de vivre pour la\npremiere fois en vivant avec Honey !!"
-    },
-    "17636": {
-        "「人の恋路を　ジャマするやつは……": "Les personnes qui se mettent en travers du\nchemin de l'amour des autres..."
-    },
-    "17637": {
-        "「ギッタギタの　メッチャクチャにしてやる！！": "Je vais te rendre la vie impossible avec ma\nguitare !!"
-    },
-    "17638": {
-        "「くそっ……　なんだよ……\n　いったい　どういうつもりなんだよ……\n　オレは　ただ……ハニーのために……。": "Merde... Qu'est-ce que... Qu'est-ce que tu as\nen tete... Je voulais juste... pour Honey..."
-    },
-    "17639": {
-        "「<cs_pchero>……\n　滅びの魔竜に　とどめをさせ！": "<cs_pchero>... Acheve le dragon demon de la\nruine !"
-    },
-    "17640": {
-        "「放っておけば　いずれ　この者は\n　天命の戦乙女を　奪い返しにくるだろう！": "Si nous le laissons faire, cette personne\nfinira par revenir pour reprendre le Fate's\nWar Maiden !"
-    },
-    "17641": {
-        "「おやめください！！": "Arretez, je vous prie !!"
-    },
-    "17642": {
-        "「マイ・スウィートハニーーーー！！": "Ma douce cherieeeee !!"
-    },
-    "17643": {
-        "「天命の戦乙女！！　目を醒まされたのですね！\n　しかし　なぜ　あなたが\n　滅びの魔竜の　かばいだてなど……！？": "Fate's War Maiden !! Vous vous etes reveillee\n! Mais pourquoi vous... protegez-vous le\nDragon Demon de la Destruction... !?"
-    },
-    "17644": {
-        "「ヴァルハラの戦士たちよ。\n　この方は　私たちの敵では　ありません……！": "Guerriers du Valhalla, cette personne n'est\npas notre ennemie... !"
-    },
-    "17645": {
-        "「この方は　調停者オーディンによって\n　役目を奪われ　捨てられた私を\n　優しく　庇護してくれたのです……。": "Cette personne m'a gentiment pris sous sa\nprotection apres que j'ai ete depouillee de\nmon role et abandonnee par Odin, l'arbitre..."
-    },
-    "17646": {
-        "「地底世界の主よ……\n　あなたへの　ご恩　忘れはしません。": "O seigneur du monde souterrain... Je\nn'oublierai jamais votre bienveillance."
-    },
-    "17647": {
-        "「しかし……　どうか　お許しください。\n　私の戦士たちが　迎えに来た今……　私は\n　ヴァルハラの館へ　帰らなくてはなりません。": "Cependant... je vous en prie, pardonnez-moi.\nMaintenant que mes guerriers sont venus pour\nm'accueillir... je dois retourner a To<br>Valhalla Hall."
-    },
-    "17648": {
-        "「私には　世界の均衡を保つという\n　使命があるのです。": "J'ai pour mission de maintenir l'equilibre du\nmonde."
-    },
-    "17649": {
-        "「な　なんてこったよ……。": "Qu... Qu'est-ce que c'est que ca..."
-    },
-    "17650": {
-        "「……行けよ。": "... Vas-y."
-    },
-    "17651": {
-        "「あんたのこと　止められねえ。\n　そんな　大きな役目があるなんて知らずに\n　ずいぶん　引き留めちまったな。": "Je ne peux pas te retenir. Je ne savais pas\nque tu avais un role aussi important, et je\nt'ai retenu bien trop longtemps."
-    },
-    "17652": {
-        "「オレは……　思い出だけで　充分さ。\n　あばよっ！！": "Je me contente des souvenirs... Adieu !!"
-    },
-    "17653": {
-        "「暗い顔を　なさらないでください。": "Ne faites pas cette tete sombre, s'il vous\nplait."
-    },
-    "17654": {
-        "「お目醒めになってよかった。\n　どれほど　あなたのことを\n　心配していたか……。": "Je suis tellement soulagee de te voir\nreveille. Je me faisais un tel souci pour\ntoi..."
-    },
-    "17655": {
-        "「シグルド…………　私だって…………。": "シグLudo............ moi aussi............"
-    },
-    "17656": {
-        "「主として　あなたに命じます……。\n　もう二度と……　私のそばを離れないで。": "En tant que Lord, je vous ordonne... Ne me\nquittez plus jamais... Restez a mes cotes."
-    },
-    "17657": {
-        "「て　天命の戦乙女よ……。\n　ありがたき幸せに　ございます。": "O, Vierge de la Guerre du Destin... Je suis\nhonore et reconnaissant."
-    },
-    "17658": {
-        "「さあて　時間が　ありやせん。\n　世界の均衡を　取り戻すため\n　ヴァルハラの館へ　帰りやしょう。": "Eh bien, nous n'avons pas de temps a perdre.\nPour retablir l'equilibre du monde, retournons\na To Valhalla Hall."
-    },
-    "17659": {
-        "「う…うむ！　巨人族の戦士　<cs_pchero>よ！\n　天命の戦乙女を連れ　ヴァルハラの館へ帰ろう！\n　キミの　かばんに　入らせてもらうぞ！": "O… oui ! Guerrier du peuple des geants,\n<cs_pchero> ! Emmenons la Vierge de Guerre du\nDestin au Hall de Valhalla ! Laisse-moi entrer<br>dans ton sac !"
-    },
-    "17660": {
-        "<cs_pchero>は　天命の戦乙女（だいじなもの）と\nヴァルハラの戦士たち（だいじなもの）を\n手に入れた！<me 60>": "<cs_pchero> a obtenu la Vierge de la Guerre du\nDestin (objets cles) et les Guerriers de\nValhalla (objets cles) ! <me 60>"
-    },
-    "17661": {
-        "「そうでしたか……。<pc>\n　あなたは　この私を　目醒めさせるために\n　さまざまな　努力をしてくださったのですね。": "Ah, je vois... <pc>, vous avez fait tant\nd'efforts pour me reveiller."
-    },
-    "17662": {
-        "「あなたへの恩は　言葉で\n　語りつくせるものでは　ありません……。\n　せめてもの　お礼です。お受け取りください。": "Je ne peux exprimer toute ma gratitude envers\nvous avec des mots... C'est un modeste\nremerciement. Veuillez l'accepter."
-    },
-    "17663": {
-        "「三賢人には　世界の均衡を　堅牢なものとする\n　すばらしいチカラがある！\n　そして　ここに　天命の戦乙女も戻った！": "Les Trois Sages possedent un pouvoir\nextraordinaire pour rendre l'equilibre du\nmonde solide comme le roc ! Et maintenant, la<br>Vierge Guerriere du Destin est egalement\nrevenue ici !"
-    },
-    "17664": {
-        "「ええ　シグルド。\n　これならば　調停者オーディンとて　容易に\n　世界を　闇に包むことは　できないでしょう。": "Oui, Shig Ludo. Avec cela, meme le mediateur\nOdin ne pourra pas facilement envelopper le\nmonde dans les tenebres."
-    },
-    "17665": {
-        "「さあ　ヴァルハラの戦士たちよ！\n　あるべきものは　あるべき所へ！\n　今こそ　世界の均衡を　取り戻すのです！": "Allez, guerriers de Valhalla ! Les choses\ndoivent etre a leur place ! Il est temps de\nretablir l'equilibre du monde !"
-    },
-    "17666": {
-        "「シグルド様！！　戦士リジンと　ハーゲン\n　ただいま　帰還しました！": "Seigneur Ludo !! Le guerrier Rijin et Hagen\nviennent de revenir !"
-    },
-    "17667": {
-        "「ニブルヘイムから　戻ってくるのに\n　ずいぶん　手間取ってしまいましたよ。": "Il a fallu un certain temps pour revenir de\nNibelheim."
-    },
-    "17668": {
-        "「遅いではないか　リジン！　ハーゲン！\n　これより　世界の均衡を　取り戻すところだ。\n　さあ　配置につけ！": "Vous etes en retard, Rijin ! Hagen ! Nous\nallons maintenant retablir l'equilibre du\nmonde. Allez, prenez vos positions !"
-    },
-    "17669": {
-        "「トウッ！！": "Toh !!"
-    },
-    "17670": {
-        "「そりゃっ！": "Sorya !"
-    },
-    "17671": {
-        "「ハッ！！": "Ha !!"
-    },
-    "17672": {
-        "「フフ……　できたぞ　この配置……\n　全員そろって　完璧に　キュートなバランス！\n　どの角度から見ても　すばらしい！": "Fufu... J'ai reussi, cette disposition... Tout\nle monde est parfaitement adorable dans ce bus\nLMP ! Quel que soit l'angle, c'est merveilleux<br>!"
-    },
-    "17673": {
-        "「これぞ　我らの世界の均衡！\n　ひとりでも　欠かすことのできぬ\n　絶妙な　バランス！": "C'est l'equilibre parfait de notre monde ! Un\nequilibre subtil dont personne ne peut etre\nexclu !"
-    },
-    "17674": {
-        "「やはり　中央に　天命の戦乙女が\n　いらっしゃらないと　決まりませんからな。\n　いやあ　よかった　よかった！": "Apres tout, sans la presence de la Fate's War\nMaiden au centre, rien ne se decide. Ah, je\nsuis vraiment soulage, vraiment !"
-    },
-    "17675": {
-        "「その上　三賢人が加わって\n　我らの世界の均衡も\n　一段と　グレードが　上がりやした！": "De plus, avec l'ajout des trois sages,\nl'equilibre de notre monde s'est eleve d'un\ncran !"
-    },
-    "17676": {
-        "「これならば　調停者オーディンとて\n　容易には　我らの世界を　滅ぼしなど……": "Dans ce cas, meme Odin le Mediateur ne pourra\npas facilement detruire notre monde..."
-    },
-    "17677": {
-        "「き　来た………………！": "Il... Il est arrive... !"
-    },
-    "17678": {
-        "「この足音は……　まちがいありません。": "Ces bruits de pas... Il n'y a aucun doute."
-    },
-    "17679": {
-        "「調停者……　オーディン……。": "Le Mediateur... Odin..."
-    },
-    "17680": {
-        "「あれっ？　<pc>さま　来てたのね。\n　私に　何か　ご用？": "Tiens ? <pc>-sama, vous etes la. Vous\navez besoin de quelque chose de ma part ?"
-    },
-    "17681": {
-        "「……あっ！　あれっ！？": "...Ah ! Hein !?"
-    },
-    "17682": {
-        "「ケキちゃんが……　帰ってきてる。\n　な　なんで？　なんで？\n　スイの塔で　怪獣さんに　あげたのに……。": "Cakey est... revenu. Po... pourquoi ? Pourquoi\n? Je l'avais donne au monstre dans la tour\nSui..."
-    },
-    "17683": {
-        "「それに　これって　ナブナブ人形セットの\n　ブルーカラーバージョン！　私の人形たちが\n　コンプリートセットになってる！？": "Et en plus, c'est le set de poupees Navnav en\nversion Blue Color BarJon ! Mes poupees sont\nenfin en set complet !"
-    },
-    "17684": {
-        "「あのね　あのね！　ナブナブ大サーカス団は\n　１０年前に　オープンする時に\n　２種類の　限定お人形セットを売り出したの！": "Tu sais quoi, tu sais quoi ! Lorsque le Grand\nCirque Nabunabu a ouvert il y a 10 ans, ils\nont mis en vente deux ensembles de poupees en<br>edition limitee !"
-    },
-    "17685": {
-        "「コンプリートセットは　他じゃ手に入らない\n　オレンジのお人形が　３つ入ったセットでね。\n　すぐに売り切れた　激レア品なのよ！": "Le set complet est introuvable ailleurs. C'est\nun ensemble avec trois poupees orange. Il\ns'est vendu en un rien de temps, c'est un<br>article ultra rare !"
-    },
-    "17686": {
-        "「それで　私は　オレンジのお人形が入ってない\n　ノーマルセットのほうで　ガマンしたんだけど\n　これ　お父さまが　手に入れてくれたのかな？": "Et donc, j'ai du me contenter du set normal\nqui n'avait pas la poupee orange. Mais...\nest-ce que c'est papa qui l'a obtenu pour moi<br>?"
-    },
-    "17687": {
-        "「フ……フン！！": "Hmm... Hum !!"
-    },
-    "17688": {
-        "「お父さまったら！　お人形で\n　機嫌を取ろうなんて　また　子供あつかいして！\n　絶対　許してあげないんだから！": "Oh, Pere ! Essayer de me calmer avec une\npoupee... Encore en train de me traiter comme\nune enfant ! Je ne te pardonnerai jamais pour<br>ca !"
-    },
-    "17689": {
-        "「やっぱり　お人形なんて　いらない！\n　全部　片付けちゃおう！": "Finalement, je n'ai pas besoin de poupees ! Je\nvais tout ranger !"
-    },
-    "17690": {
-        "「バ　バカな………　やめろ…………。\n　助けて……　くれ……！": "In-inconcevable... Arrete... Aide-moi... Je\nt'en prie... !"
-    },
-    "17691": {
-        "「最終……　戦争だ……！！": "La bataille finale... La guerre... !!"
-    },
-    "17692": {
-        "「<pc>っ……　<pc>～～！！": "<pc>... <pc>～～！！"
-    },
-    "17693": {
-        "「わ　我らの世界が……": "No... notre monde est..."
-    },
-    "17694": {
-        "「闇に……　包まれた…………。": "Enveloppe... par les tenebres..."
+    "114406": {
+        "「そう言えば　町の外にいる商人さんの馬車が\n　ラーディス王島にも　行くようになったそうよ。\n　それを使えば　楽なんじゃないかしら？": "A propos, il parait que la caravane du\nmarchand a l'exterieur de la ville se rend\ndesormais aussi a l'ile de Ladis. Ce serait<br>pratique de l'utiliser, tu ne crois pas ?"
     }
 }
