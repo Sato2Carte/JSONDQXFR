@@ -6,17 +6,3 @@ files:
     escape_quotes: 3
     multilingual: false
     source_language: ja  # Définit le japonais comme langue source
-
-    translation_replace:
-      - pattern: "<if_woman>(.*?)<else>(.*?)<endif>"
-        replacement: "{GENDER:\$1|\$2}"  # Échappement du $ pour éviter les erreurs
-
-      - pattern: "(.{46})(?!\\n|<br>).+"
-        replacement: "\1"  # Coupe après 46 caractères sauf si <br> est présent
-
-      - pattern: "(?:([^\n]*\n)){4,}"
-        replacement: ""  # Supprime les lignes en trop après 3 retours à la ligne
-
-      - pattern: "\\n"
-        replacement: "<br>"  # Remplace \n par <br> après la 3ème ligne
-
