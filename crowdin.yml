@@ -4,18 +4,11 @@ files:
     type: json
     update_option: update_as_unapproved
     escape_quotes: 3
-    multilingual: false
-
-    # Ajout des restrictions de longueur et de lignes
+    multilingual: 
     translation_replace:
-      # Limite à 46 caractères par ligne (ne coupe pas les mots en plein milieu)
-      - pattern: (.{46})(?!\n|<br>).*
-        replacement: \1  # Coupe après 46 caractères, sauf si <br> ou \n sont présents
-
-      # Limite à 3 sauts de ligne (\n) maximum
-      - pattern: (?:([^\n]*\n)){4,}  # Si plus de 3 sauts de ligne sont trouvés
-        replacement:   # Supprime l'excès de lignes
-
-      # Remplace les \n par <br> si plus de 3 sont détectés (remet la limite à zéro)
+      - pattern: '(.{46})(?!\n|<br>).*'
+        replacement: \1
+      - pattern: '(?:([^\n]*\n)){4,}'
+        replacement: 
       - pattern: (\n)
         replacement: <br>
