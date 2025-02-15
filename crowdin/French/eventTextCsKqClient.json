@@ -1,29 +1,20 @@
 {
-    "51833": {
-        "「どうやら　女神の紅蓮石は\n　無事　光の河に捧げられたようだな。": "Il semblerait que le Joyau de la Deesse Rouge\nait ete offert avec succes a la Riviere de\nLumiere."
+    "85098": {
+        "「我が名は　光導使ミーミ……\n　我らが主　聖光教主と　交わせし誓いのもと\n　闘戦士　<pc>を　導かん。": "Je suis Light Guide Meemi... Sous le serment\nechange avec notre Seigneur, le Light Lord, je\nguiderai le guerrier <pc>."
     },
-    "51834": {
-        "「では　女神に祈るがいい。": "Prie donc la deesse."
+    "85099": {
+        "「深遠なる意思に導かれ　紡がれし光芒。 \n　幾千もの光芒集いて　束になれば\n　やがて　聖光となるは必定なり。": "Guides par une volonte profonde, les rayons de\nlumiere sont tisses. Lorsque des milliers de\nces rayons se rassemblent en faisceau, ils<br>deviennent inevitablement une lumiere sacree."
     },
-    "51835": {
-        "<pc>は　祈りを捧げた。": "<pc> a offert une priere."
+    "85100": {
+        "「聖光よ　その大いなる輝きをもって\n　この混迷の世界に　あまねく降り注ぐ\n　希望となりたまえ！": "O lumiere sacree, par ta grande lueur,\ndeverse-toi abondamment sur ce monde\nchaotique, et deviens l'espoir pour tous !"
     },
-    "51836": {
-        "どこからともなく　声が　聞こえてくる。": "Une voix se fait entendre de nulle part."
+    "85101": {
+        "「さあ。\n　勇気の紋章を　高く　かかげてください。": "Allez-y. Levez bien haut le Crest of Courage."
     },
-    "51837": {
-        "<center>……聞け。\nアストルティアの子よ。": "......Ecoute. Enfant d'Astoltia."
+    "85102": {
+        "<pc>は　勇気の紋章を空高く　かかげた。": "<pc> brandit haut dans le ciel le Crest\nof Courage."
     },
-    "51838": {
-        "<center>六聖陣は　アストルティアに\nあまたいる　英雄　聖者の中から\n特に優れた六名が選ばれ　誕生した。": "Les Six Sages ont ete choisis parmi les\nnombreux heros et saints d'Astoltia,\nselectionnes pour leur excellence<br>particuliere, et ainsi sont-ils nes."
-    },
-    "51839": {
-        "<center>六聖陣とは　招かれざる魔族どもから\nアストルティアを守る　聖なる盾……。": "Les Six Saints sont des Shields sacres qui\nprotegent Astoltia des demons indesirables..."
-    },
-    "51840": {
-        "<center>魔族どもの暗躍を阻止せんと　彼らは\n従者である聖使者らを率いて　異界の地へ向かい\n多くの命と引き換えに　戦いを制した。": "Afin de contrecarrer les machinations des\ndemons, ils ont conduit leurs fideles\nserviteurs, les saints messagers, vers le<br>monde des tenebres et ont remporte la bataille\nau prix de nombreuses vies."
-    },
-    "51841": {
-        "<center>魔瘴の荒ぶりし時が　巡りくるたび\n新たな六聖陣が生まれ　いつ果てるともない\n聖戦が　繰り広げられてきた……。": "A chaque fois que les tempetes demoniaques se\ndechainent, un nouvel ensemble des Six Saints\nnait, et une guerre sacree, sans fin en vue,<br>s'engage..."
+    "85103": {
+        "「今　聖光を紡ぎし \n　闘戦士　<pc>の　勇気のチカラを捧げ\n　次なる道を　切り開かん！": "Maintenant, en tissant la lumiere sacree, je\nconsacre le pouvoir courageux du guerrier\n<pc> pour ouvrir la voie suivante !"
     }
 }
