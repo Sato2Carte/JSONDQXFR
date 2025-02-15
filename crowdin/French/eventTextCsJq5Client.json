@@ -1,86 +1,80 @@
 {
-    "14031": {
-        "「<cs_pchero>！　待っていたぞ！！": "<cs_pchero> ! Je t'attendais !!"
+    "13556": {
+        "「ここが　あやしいってワケかい？": "Alors, c'est ici que ca devient suspect, hein\n?"
     },
-    "14032": {
-        "「私は　けがれの渦の　動きを封じる！\n　お前は　ヤツの息の根を　止めるのだ！": "Je vais immobiliser Epidemex ! Toi, tu dois\nl'achever !"
+    "13557": {
+        "「なるほど。アンタ　カンが　さえてるね。\n　確かに　お宝のにおいが　プンプンするよ。": "Je vois. Tu as vraiment un bon instinct. On\nsent clairement l'odeur du tresor ici."
     },
-    "14033": {
-        "「我は死……。\n　生きとし生けるもの　すべての死。": "Je suis la mort... La mort de tous les etres\nvivants."
+    "13558": {
+        "「よし！　それじゃ　今度は\n　あたいのカンを　見せつけてやろうかね。": "Bien ! Cette fois, je vais te montrer mon\ninstinct !"
     },
-    "14034": {
-        "「お前たちの身体を使って\n　我は　世に　まいもどるとしよう……。\n　さあ　死ぬがよい……。": "En utilisant vos corps, je vais revenir dans\nce monde... Allez, mourrez..."
+    "13559": {
+        "「ここら辺に　ありそうな気が……。": "J'ai l'impression qu'il pourrait y en avoir\npar ici..."
     },
-    "14035": {
-        "「<cs_pchero>！　よく来てくれた！！": "<cs_pchero> ! Merci d'etre venu !!"
+    "13560": {
+        "「よっしゃ！　見つけたよ！\n　お宝　ムーンダイヤモンド！": "Super ! Je l'ai trouve ! Le tresor, Moon\nDiamond !"
     },
-    "14036": {
-        "「私は　けがれの渦の　動きを封じる！\n　お前は　今度こそ\n　ヤツの息の根を　止めるのだ！": "Je vais sceller les mouvements d'Epidemex !\nCette fois, c'est a toi de l'achever pour de\nbon !"
+    "13561": {
+        "「待ちやがれーっ！": "Attends-moi !"
     },
-    "14037": {
-        "「運よく　我が手を逃れながら \n　ふたたび　戻るとは　愚かなり。": "Quelle folie de revenir apres avoir echappe a\nmes griffes par chance."
+    "13562": {
+        "「その　お宝は　オレたちのもんだー！！\n　だまって　よこしやがれー！！\n　キッキキーーー！！！": "Ce tresor est a nous !! Donne-le-nous en\nsilence !! Kikiーーー !!!"
     },
-    "14038": {
-        "「お前たちの身体を使って\n　我は　世に　まいもどるとしよう……。\n　さあ　死ぬがよい……。": "En utilisant vos corps, je vais revenir dans\nce monde... Allez, mourrez..."
+    "13563": {
+        "「あねごっ！！": "Anego !!"
     },
-    "14039": {
-        "「オオォォオオォオォオオオオオオオ！！": "Oooohhhhhhhhhhhh !!"
+    "13564": {
+        "「なんだい　こいつら！！\n　お宝は　渡さないよっ！！": "Qu'est-ce que c'est que ces types ?! Je ne\nvous laisserai pas prendre mon tresor !!"
     },
-    "14040": {
-        "「これで……　死神の息吹を　滅ぼせたのだな。\n　よく　やってくれた……。": "Alors... nous avons reussi a detruire le\nSouffle du Dieu de la Mort. Tu as bien fait..."
+    "13565": {
+        "「ダルルのあねごを　助けるんだ！\n　行くぞ　<cs_pchero>！": "Nous devons sauver l'ainee de Darul !\nAllons-y, <cs_pchero> !"
     },
-    "14041": {
-        "「出会った時から　わかっていた。\n　お前は　人とはちがう\n　特別なチカラを持つ者なのだと……。": "Depuis notre rencontre, j'ai compris. Tu es\ndifferent des autres, tu possedes un pouvoir\nspecial..."
+    "13566": {
+        "「やあ　<cs_pchero>。\n　心配しなくても　ムーンダイヤモンドは\n　まだ　この部屋にあるよ。": "Salut, <cs_pchero>. Ne t'inquiete pas, le Moon\nDiamond est encore dans cette piece."
     },
-    "14042": {
-        "「……<cs_pchero>。\n　なぜ　大僧侶キリカは　閃香樹で\n　エルドナ神像を　作ったのだろう？": "<cs_pchero> Pourquoi la grande pretresse\nKirika a-t-elle sculpte une statue d'Eldona\navec du bois de l'arbre sacre Senkou ?"
+    "13567": {
+        "「前回　魔物に襲われたとき\n　とっさに　ムーンダイヤモンドを\n　かくしておいたのさ。": "La derniere fois que nous avons ete attaques\npar des monstres, j'ai cache le diamant de la\nlune instinctivement."
     },
-    "14043": {
-        "「私は　思うのだ……。大僧侶キリカは \n　お前のような者が　現れると信じ\n　未来を　あの像に　託したのではないかと。 ": "Je pense... La grande pretresse Kirika a\npeut-etre cru que quelqu'un comme toi\napparaitrait, et a confie l'avenir a cette<br>statue."
+    "13568": {
+        "「ほらね　このとおりさ！": "Regarde, c'est exactement comme je te l'avais\ndit !"
     },
-    "14044": {
-        "「そうして　教えたかったのかもしれない。\n　本当の神の心を。僧侶のあるべき姿を……。": "Peut-etre voulait-il nous enseigner cela. Le\nveritable coeur d'un dieu. Ce que devrait etre\nun pretre..."
+    "13569": {
+        "「待ちやがれーっ！": "Attends-moi !"
     },
-    "14045": {
-        "「さあ……　帰ろう。\n　キリカ修道会の皆が　待っている。": "Allez... Rentrons. Tout le monde a la\nCongregation de Kirika nous attend."
+    "13570": {
+        "「そんな所に　かくしてやがったのかー！！\n　だまって　そいつを　よこしやがれー！！\n　キッキキーーー！！！": "Tu l'avais cache ici, hein !! Allez,\ndonne-le-moi sans faire d'histoires !!\nKikikikiii !!!"
     },
-    "14046": {
-        "「<pc>！": "<pc> !"
+    "13571": {
+        "「あねごっ！！": "Anego !!"
     },
-    "14047": {
-        "「おお……よく　無事に帰ってくれました。 \n　これで　二度と　死神の息吹が\n　この世に現れることは　ないでしょう。 ": "Oh... Tu es rentre sain et sauf. Desormais, le\nsouffle du Dieu de la Mort ne se repandra plus\njamais dans ce monde."
+    "13572": {
+        "「今度こそ　ダルルのあねごを　助けるんだ！\n　行くぞ　<cs_pchero>！": "Cette fois, nous allons sauver la grande soeur\nde Darul ! Allons-y, <cs_pchero> !"
     },
-    "14048": {
-        "「<pc>……　いいえ。\n　大僧侶　<pc>よ。": "<pc>... Non. Grand pretre <pc>."
+    "13573": {
+        "「……キキーッ！！\n　オレたちに　たてつくとは　バカなヤツめっ！\n　それっ　ヘッドに　ご報告だっ！": "Kikiーッ！！ Nous defier, quel imbecile ! Allez,\nrapportons cela au chef !"
     },
-    "14049": {
-        "「これは　大僧侶キリカが残した　僧侶の証です。\n　あなたが持つに　ふさわしいものでしょう。\n　お受け取りください。": "Voici la Medaille de Sauvetage laissee par la\ngrande pretresse Kirika. Elle vous revient de\ndroit. Veuillez l'accepter."
+    "13574": {
+        "「<cs_pchero>！　アンタ　強いんだねえ！\n　やっぱ　あたいの目に\n　くるいは　なかったようだよ！": "<cs_pchero> ! Tu es vraiment fort, hein ! Il\nsemblerait que mon intuition ne m'ait pas\ntrompee !"
     },
-    "14050": {
-        "「これは　大僧侶キリカが残した品です。\n　あなたが持つに　ふさわしいものでしょう。\n　お受け取りください。": "Voici un objet laisse par la Grande Pretresse\nKirika. Il est digne de vous appartenir.\nVeuillez l'accepter."
+    "13575": {
+        "「ダルルのあねご。": "La grande soeur de Darul."
     },
-    "14051": {
-        "「あなたは　本当の僧侶の道を教えてくれました。\n　私たちは　この教えを\n　永久に　語りついでいきましょう。": "Vous nous avez montre la veritable voie des\npretres. Nous transmettrons cet enseignement\npour l'eternite."
+    "13576": {
+        "「さっきの魔物ですが……。\n　あいつら　つむじ風の旅団かもしれませんぜ。": "Les monstres de tout a l'heure... ils\npourraient bien etre de la Brigade du\nTourbillon."
     },
-    "14052": {
-        "「<pc>。": "<pc>."
+    "13577": {
+        "「つむじ風の旅団……。\n　あの　強盗を　なりわいにした\n　魔物たちの盗賊集団ってやつかい？": "La Brigade du Tourbillon... C'est ce groupe de\nvoleurs compose de monstres qui se livrent a\ndes actes de banditisme ?"
     },
-    "14053": {
-        "「お前は　もう私の弟子ではない。\n　そのチカラも　心も……\n　私は　お前に　とうてい　かなわんからな。": "Tu n'es plus mon disciple. Ni ta force, ni ton\ncoeur... Je ne peux tout simplement pas\nrivaliser avec toi."
+    "13578": {
+        "「単なる　うわさ話だと思ってたけど\n　この目で　見ちまったんじゃあ\n　ほうっては　おけないね。": "Je pensais que ce n'etait qu'une rumeur, mais\nmaintenant que je l'ai vu de mes propres yeux,\nje ne peux pas l'ignorer."
     },
-    "14054": {
-        "「これからは　修道会を出て\n　自分のチカラで　高みを目指せ。\n　お前は　さらに　よい僧侶になれるはずだ。": "Desormais, quittez le monastere et visez les\nsommets par vos propres moyens. Vous avez le\npotentiel pour devenir un meilleur pretre."
+    "13579": {
+        "「よし　わかった。\n　ガタラに戻ったら　やつらの情報を\n　集めてみるとしよう。": "D'accord, j'ai compris. Quand je retournerai a\nGatara, je vais essayer de rassembler des\ninformations sur eux."
     },
-    "14055": {
-        "「私は　これからは　もっと\n　アルノーのそばに　いてやるつもりだ。": "Je compte rester davantage aux cotes de Al\nNoor a partir de maintenant."
+    "13580": {
+        "「ああ　<cs_pchero>　すまなかったね。\n　なにはともあれ　アンタのおかげで\n　ムーンダイヤモンドが　手に入ったよ。": "Ah, <cs_pchero>, je suis desole. Quoi qu'il en\nsoit, grace a toi, j'ai pu obtenir le Moon\nDiamond."
     },
-    "14056": {
-        "「ありがとう　<pc>。\n　お前のことは　決して　忘れない。\n　いつか　また会おう！": "Merci, <pc>. Je ne t'oublierai jamais.\nUn jour, nous nous reverrons !"
-    },
-    "32319": {
-        "「ボクね　お母さんと　ひさしぶりに\n　お父さんの　お墓参りに行ったの。\n　うんと遠くまで歩いたから　クタクタだよ。": "Il y a peu, je suis alle avec ma mere rendre\nvisite a la tombe de mon pere. Nous avons\nmarche tres loin et je suis epuise."
-    },
-    "32320": {
-        "<if_woman>「これからは　お母さんと\n　世界中の　いろんな所をまわるんだ。\n　<pc>ねえちゃんみたいに　旅するの！<else>「これからは　お母さんと\n　世界中の　いろんな所をまわるんだ。\n　<pc>にいちゃんみたいに　旅するの！<endif>": "<if_woman>>Desormais, je vais voyager avec\nmaman dans divers endroits autour du monde.\nComme <pc> nee-chan en voyage !<else>>Desormais, je vais voyager avec maman dans\ndivers endroits autour du monde. Comme\n<pc> nii-chan en voyage ! <endif>"
+    "13581": {
+        "「今回の報酬は　ガタラの酒場で\n　山分けするとしよう。\n　あたいらは　先に戻って　待ってるからね。": "Cette fois, nous partagerons la recompense a\nla taverne de Gatara. Nous y retournerons\nd'abord et vous y attendrons."
     }
 }
