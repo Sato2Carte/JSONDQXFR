@@ -1,77 +1,107 @@
 {
-    "15789": {
-        "「そこにおるのは　<pc>か？": "Est-ce que c'est toi, <pc> ?"
+    "16059": {
+        "「先に　着いていたか。<pc>。": "Tu es deja arrive, <pc>."
     },
-    "15790": {
-        "「……フム。ここに来たということは\n　さては　お前さん　妖剣士オーレンのことを\n　調べておるのじゃな？<yesno><close>": "Hum. Si tu es venu jusqu'ici, c'est que tu\nenquetes sur Swordmaster Oren, n'est-ce pas ?\n<yesno><close>"
+    "16060": {
+        "「では　今回の魔物狩りは\n　このメンバーで　行うこととしよう。": "Alors, cette fois, nous partirons chasser les\nmonstres avec cette equipe."
     },
-    "15791": {
-        "「……いや　みなまで言うな。\n　どうせ　チグリ大臣あたりの差し金であろう。": "Non, inutile d'en dire plus. C'est surement un\ncoup de Minister Chigri."
+    "16061": {
+        "「グロスナー王　直々の　お召しにより\n　ガートラントの華　このスピンドルも\n　緊急参戦いたしますぞ！": "Sur l'ordre direct de King Grossner, moi,\nSpindle, la fleur de Garro LMP, participe\nd'urgence au combat !"
     },
-    "15792": {
-        "「お前さんに　忠告しておこう！\n　悪いことは言わんから　オーレンのことは\n　捨て置くがよい。": "Je te donne un conseil ! Je ne vais pas te\nmentir, laisse tomber l'affaire Oren."
+    "16062": {
+        "「自分は　いつ　いかなるときも\n　グロスナー王のそばにあって\n　護衛の任を　果たすのみであります。": "Je suis toujours aux cotes du Roi Grossner\npour accomplir mon devoir de garde du corps."
     },
-    "15793": {
-        "「そんなもの　調べるだけ　時間のムダ。\n　決して　真実には　たどり着けぬ。\n　チグリ大臣にも　そう伝えておけ！": "S'en occuper serait une perte de temps. Jamais\ntu ne pourras atteindre T. 実. Informe-en\negalement le Ministre Chigri !"
+    "16063": {
+        "「私　荒っぽいのは　苦手だと言ってるのに\n　無理矢理　参加させられてしまいました……。": "J'ai dit que je n'etais pas douee pour les\nchoses brutales, mais on m'a forcee a\nparticiper..."
     },
-    "15794": {
-        "ダンデルは　歴史書を解読するため\n部屋から　飛びだしていった！": "Danderu s'est precipite hors de la piece pour\ndechiffrer le livre d'histoire !"
+    "16064": {
+        "「ボヤくな　ボヤくな。\n　城に　閉じこもってばかりいないで\n　たまには　身体を動かすのも　いいものだぞ。": "Ne te plains pas, ne te plains pas. Ca fait du\nbien de bouger un peu de temps en temps,\nplutot que de rester toujours enferme dans le<br>chateau."
     },
-    "15795": {
-        "「どうやら　ダンデルからの依頼を\n　果たしてくれたようですな。": "Il semble que vous ayez accompli la mission de\nDanderu."
+    "16065": {
+        "「さて　今回の獲物だが……\n　このザマ峠の　博愛の碑辺りに　出現する\n　<%sEV_QUE_NAME0>にしようと思う。": "さて、今回の獲物だが このZama\nPassの博愛の碑辺りに出現する<%sEV_QUE_NAME0>にしようと思う"
     },
-    "15796": {
-        "「それでは　報酬は　私のほうから\n　お渡ししておきましょう。\n　どうぞ　これを　受け取ってくだされ。": "Alors, permettez-moi de vous remettre la\nrecompense de ma part. Veuillez accepter ceci,\nje vous prie."
+    "16066": {
+        "「だが　普通に倒すだけでは　つまらんからな。\n　ひとつ　競争することにしようか。\n　優勝者には　わしから　ほうびを取らせよう。": "Mais simplement le vaincre serait ennuyeux.\nPourquoi ne pas faire une petite competition ?\nJe recompenserai le vainqueur."
     },
-    "15797": {
-        "<pc>は　チグリ大臣に\nエイドスからの忠告を伝えた。": "<pc> a transmis l'avertissement d'Eidos\nau ministre Chigri."
+    "16067": {
+        "「<%sEV_QUE_NAME0>が　よく落とす\n　地竜のツノ。これを　いちばん早く\n　持ってきた者を　優勝としようぞ！": "<%sEV_QUE_NAME0> fait souvent tomber la Corne\nde Dragon de Terre. Celui qui l'apportera le\nplus rapidement sera declare vainqueur !"
     },
-    "15798": {
-        "「……なんと！　洞くつの前に\n　エイドスさまが　現れて　そんなことを……。": "…Quoi ! Devant la grotte, Eidos-sama a ete P.\net cela…."
+    "16068": {
+        "「それなら　審判は　私が　引き受けましょう。\n　地竜のツノを　手に入れた方は　\n　私のところまで　持ってきてください。": "Dans ce cas, je prendrai le role du juge. La\npersonne qui obtiendra le Earth Dragon Horn\ndevra me l'apporter."
     },
-    "15799": {
-        "「う～む。じつに　不可解ですな。\n　いったい　エイドスさまは　オーレンの\n　何を知っているのじゃろうか……。": "Hmmm. C'est vraiment mysterieux. Que pourrait\nbien savoir Eidos-sama a propos de Oren..."
+    "16069": {
+        "「では　今から　狩りの開始じゃ！\n　皆　ケガなどせぬよう　気をつけて\n　ハンティングするのじゃぞ！": "Alors, la chasse commence maintenant ! Faites\nattention a ne pas vous blesser et chassez\nprudemment, tout le monde !"
     },
-    "15800": {
-        "「見つかったのデス！！": "Je l'ai trouve !!"
+    "16070": {
+        "「き　貴様たちっ　何者だっ！？": "Qu- Qui etes-vous donc !?"
     },
-    "15801": {
-        "「やはり　４７巻でしたっ！\n　オーレンの名前を発見したのデス！": "C'etait bien le volume 47 ! J'ai trouve le nom\nde Oren !"
+    "16071": {
+        "「今のは　グロスナー王の声っ！？": "C'etait la voix de King Grossner ?!"
     },
-    "15802": {
-        "「おお　でかしたぞ！\n　……して　妖剣士オーレンとは\n　いったい　何者だったのじゃ？": "Oh, bien joue ! ... Mais qui etait donc ce\nSwordmaster Oren ?"
+    "16072": {
+        "「大丈夫か　リッグ？": "Ca va, Rigg ?"
     },
-    "15803": {
-        "「おっほ！　\n　これは　大臣サマ。来ておられたのデスか！？": "Oh ! Voila Monsieur le Ministre. Vous etes\nvenu, n'est-ce pas ?"
+    "16073": {
+        "「ぐうう……。": "Grrr..."
     },
-    "15804": {
-        "「……オッホン！\n　それでは　妖剣士オーレンの半生を\n　語らせていただきましょう。": "Hum, hum ! Permettez-moi de vous raconter une\npartie de la vie de Swordmaster Oren."
+    "16074": {
+        "「……貴様ら。わしを　ガートラント国王\n　グロスナーと知っての　ろうぜきかっ！？": "Vous, miserables ! Savez-vous que je suis le\nroi de GarトLMPト, Grosnare !?"
     },
-    "15805": {
-        "「生前の彼は　グレン城に仕える騎士であり\n　剣聖オーレンと呼ばれる　英雄だったそうデス。\n　……そう。ある事件が　起こるまでは。": "De son vivant, il etait un chevalier au\nservice de Glen Castle et un heros connu sous\nle nom de l'epeiste sacre Oren. ...Oui,<br>jusqu'a ce qu'un certain incident se produise."
+    "16075": {
+        "「もちろん　よーく　ご存知さ。\n　オーガという種族全体を　堕落させる\n　罪深き　ガートラント王家のグロスナー王。": "Bien sur, je suis parfaitement au courant. Le\npecheur King Grossner de la famille royale\nGarトLMPト qui a corrompu toute la race Ogre."
     },
-    "15806": {
-        "「ある時　オーレンは　ベコン渓谷を\n　調査するという任務を負って\n　部下を引きつれ　グレン城を出発しました。": "A un moment donne, Oren a recu pour mission\nd'enqueter sur la vallee de Becon. Il est\nparti du chateau de Glen accompagne de ses<br>subordonnes."
+    "16076": {
+        "「我らは　ガズバランの牙！\n　オーガの未来を憂う　秘密結社よ。": "Nous sommes les crocs du GazubaLMP ! Une\nsociete secrete preoccupee par l'avenir des\nOgre."
     },
-    "15807": {
-        "「ところが　彼は　その途中で姿をくらまし\n　次に　ガートラントの　さる大商人宅に\n　姿を現しました。": "Cependant, en chemin, il disparut et reapparut\nensuite chez un grand marchand de GarトLMPト."
+    "16077": {
+        "「ガズバランの……だと？": "Le Gazba LMP... quoi ?"
     },
-    "15808": {
-        "「そして　信じられないことに　オーレンは\n　大商人をおそって　その持ち物であった\n　レムルの聖杯と　商人の娘を強奪したのデス。": "Et incroyable mais vrai, Oren a attaque le\ngrand marchand et a vole le Calice de Lemur\nainsi que la fille du marchand."
+    "16078": {
+        "「その生涯を　ひたすら修行に費やす\n　オーガ本来の生き方を　取り戻すため\n　ジャマ者の陛下には　ご退場願いましょう。": "Consacrons notre vie entiere a l'entrainement,\nafin de retrouver le mode de vie originel des\nOgres. Demandons donc a Sa Majeste, qui nous<br>entrave, de se retirer."
     },
-    "15809": {
-        "「この事件は　グレン　ガートラント両国の\n　関係を悪化させ　やがて　戦争へと発展する\n　引き金となりました。": "Cet incident a deteriore les relations entre\nles deux nations, Glen et GartoLMP, et a\nfinalement declenche une guerre."
+    "16079": {
+        "「グロスナー王　ご無事ですかーっ！！": "King Grossner, etes-vous en securite ?!!"
     },
-    "15810": {
-        "「以来　オーレンは　国を裏切った逆賊。\n　戦争を引き起こした大罪人として\n　表の歴史では　語られなくなったのデス。": "Depuis lors, Oren est considere comme un\ntraitre a la nation, un rebelle. En tant que\ngrand criminel responsable d'avoir declenche<br>la guerre, il n'est plus mentionne dans\nl'histoire officielle."
+    "16080": {
+        "<center>待て……。": "Attends..."
     },
-    "15811": {
-        "「……いやはや　妖剣士オーレンとは\n　とんでもない悪党だったのデスな。\n　魔物になるのも　うなずける話デス。": "Eh bien, Swordmaster Oren etait un veritable\nscelerat, n'est-ce pas ? Il est comprehensible\nqu'il soit devenu un monstre."
+    "16081": {
+        "<center>あの後ろにいる　旅人。\nヤツには　お前たちでは勝てぬ。\n今は　退け……。": "Le voyageur derriere vous. Vous ne pouvez pas\nle vaincre. Retirez-vous pour l'instant..."
     },
-    "15812": {
-        "「むむう……。\n　今の話を聞いて　ますます\n　わからなくなってきましたわい。": "Hmm... Apres avoir entendu ca, je suis encore\nplus confus."
+    "16082": {
+        "「上からの命令だ。退くぞ！": "C'est un ordre d'en haut. On se retire !"
     },
-    "15813": {
-        "「エイドスさまは　どうして\n　そんな悪党を　のさばらせておくのか……？": "Pourquoi Eidos-sama laisse-t-il de tels\nscelerats agir impunement...?"
+    "16083": {
+        "グロスナー王を救った　<pc>たちは\nケガを負った　兵士リッグを運んで\nザマ烽火台まで　戻った。": "Les <pc>, ayant sauve le Roi Grossner,\ntransporterent le soldat blesse Rigg jusqu'a\nla tour de guet de Zama."
+    },
+    "16084": {
+        "参謀マグナスや　スピンドル兵士長も合流し\n魔物狩りは　終了となった。": "Le stratege Magnus et le capitaine Spindle se\nsont egalement joints a nous, et la chasse aux\nmonstres a pris fin."
+    },
+    "16085": {
+        "「ガズバランの牙……\n　そのような　危険な秘密結社が\n　ガートラント王家を狙っていたとは……。": "Les crocs de Gazba LMP... Je ne peux croire\nqu'une societe secrete aussi dangereuse visait\nla famille royale Garto LMP..."
+    },
+    "16086": {
+        "「その場にいれば　このスピンドルが\n　けちらしてやりましたものを……\n　無念であります。": "Si j'avais ete present, ce Spindle aurait\ndisperse ceux qui s'opposaient... Quelle\nfrustration."
+    },
+    "16087": {
+        "「ともかく　大事なくて　よかった。\n　リッグのケガも　たいしたことがなくて\n　ひと安心じゃ。": "Quoi qu'il en soit, je suis soulage qu'il n'y\nait rien de grave. La blessure de Rigg n'est\npas non plus tres serieuse, c'est un<br>soulagement."
+    },
+    "16088": {
+        "「ところで　魔物狩り競争は　どうなった？\n　わしは　ウヤムヤにするつもりは　ないぞ。": "Au fait, qu'en est-il de la competition de\nchasse aux monstres ? Je n'ai pas l'intention\nde laisser ca dans le flou."
+    },
+    "16089": {
+        "「それでしたら　１位は　グロスナー王。\n　２位は　<pc>さんです。\n　他の方は　地竜のツノを持っていませんな。": "Si c'est le cas, le premier est King Grossner.\nLe deuxieme est <pc>-san. Les autres\nn'ont pas de Corne de Dragon Terrestre."
+    },
+    "16090": {
+        "「……フム。そうか　わしの優勝か！\n　しかし　わしが　賞品をもらっても　仕方ない。\n　優勝の名誉だけを　いただくとしよう。": "...Hmm. Je vois, c'est ma victoire !\nCependant, il ne serait pas approprie que je\nrecoive le prix. Je vais me contenter de<br>l'honneur de la victoire."
+    },
+    "16091": {
+        "「というわけで　優勝賞品は　２位である\n　<pc>に　贈るとしよう。\n　さあ　ありがたく　受け取るがよいぞ。": "Et donc, le prix du vainqueur sera offert a\n<pc> qui est arrive en deuxieme\nposition. Allez, accepte-le avec gratitude."
+    },
+    "16092": {
+        "「今回の魔物狩りは　これで終了とする。\n　思いがけぬトラブルも　起こったが\n　ひさしぶりで　なかなか　楽しめたぞ。": "Cette chasse aux monstres se termine ici. Bien\nqu'il y ait eu des imprevus, cela faisait\nlongtemps et je me suis bien amuse."
+    },
+    "16093": {
+        "「では　わしらは　城に戻るとしよう！\n　<pc>　ジャンガ　ご苦労であった。": "Alors, retournons au chateau ! <pc>,\nJanga, bon travail."
     }
 }
