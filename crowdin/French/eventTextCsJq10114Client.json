@@ -1,0 +1,95 @@
+{
+    "22239": {
+        "「シェリルッ！　バカなマネは　やめて！！": "Cheryl ! Arrete de faire des betises !!"
+    },
+    "22240": {
+        "「来るな！　私に近づくなぁっ！": "Ne t'approche pas de moi ! Ne viens pas ici !"
+    },
+    "22241": {
+        "「シェリル……。\n　本当のこと　教えてくれて　ありがとう。\n　助けにきたわ。さあ　こっちに来て……。": "Cheryl... Merci de m'avoir dit la verite. Je\nsuis venue te sauver. Allez, viens par ici..."
+    },
+    "22242": {
+        "「うぐぐ……！　やめてくれ　頼む……。": "Ugh... ! Arrete, je t'en prie..."
+    },
+    "22243": {
+        "「優しい言葉を　かけないでくれ……。\n　心を開いてしまうと　その隙間から\n　呪いが　しみだしてくるんだ……。": "Ne me parle pas avec douceur... Si j'ouvre mon\ncoeur, la malediction s'infiltrera par cette\nouverture..."
+    },
+    "22244": {
+        "「……お前から　受け取った呪いは\n　私の中で　どんどん　大きくなって……\n　もう……　私には　おさえきれない……。": "La malediction que j'ai recue de toi ne cesse\nde grandir en moi... Je ne peux plus... la\ncontenir..."
+    },
+    "22245": {
+        "「だから……　このまま　身を投げて\n　呪いもろとも……。": "Alors... je vais me jeter ainsi, emportant\navec moi la malediction..."
+    },
+    "22246": {
+        "「そんなこと　させない！": "Je ne te laisserai pas faire ca !"
+    },
+    "22247": {
+        "<if_woman>「<pc>ちゃん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<else>「<pc>くん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<endif>": "<if_woman>><pc>-chan ! Commencons le\nrituel pour liberer Cheryl de la malediction !\nAllez, repands le Lightdust et le Moonsand !<else>><pc>-kun ! Commencons le rituel pour\nliberer Cheryl de la malediction ! Allez,\nrepands le Lightdust et le Moonsand !<endif>"
+    },
+    "22248": {
+        "光の粉と　月の砂を　使いますか？<yesno><close>": "Utiliser Lightdust et Moonsand ?\n<yesno><close>"
+    },
+    "22249": {
+        "「使いどころは　今しかないわ！\n　さあ　光の粉と　月の砂を　ふりまいて！": "Nous n'avons pas d'autre moment pour\nl'utiliser ! Allez, repandons la Lightdust et\nle Moonsand !"
+    },
+    "22250": {
+        "<pc>は　光の粉と　月の砂を\nアーニアのまわりに　ふりまいた！": "<pc> a repandu Lightdust et Moonsand\nautour d'Anya !"
+    },
+    "22251": {
+        "<if_woman>「準備オッケー……。\n　ありがとう　<pc>ちゃん。<else>「準備オッケー……。\n　ありがとう　<pc>くん。<endif>": "<if_woman>>Tout est pret... Merci,\n<pc>-chan.<else>>Tout est pret... Merci, <pc>-kun.<endif>"
+    },
+    "22252": {
+        "「アーニア……。お前　まさか……？": "Anya... Tu ne serais pas en train de...?"
+    },
+    "22253": {
+        "「あなたは愚かよ　シェリル……。\n　全部　ひとりで　背負って生きていくなんて\n　できるわけないじゃない……。": "Tu es insensee, Cheryl... Il est impossible de\ntout porter seule dans cette vie..."
+    },
+    "22254": {
+        "「……でも　いちばん　愚かなのは　私。\n　友達が　こんなふうに苦しみながら\n　生きていたことに　気づかないなんて……。": "...Mais celle qui est la plus stupide, c'est\nmoi. Je n'ai meme pas remarque que mon amie\nvivait en souffrant ainsi..."
+    },
+    "22255": {
+        "「ごめんね　シェリル。\n　返してもらうわ　私のチカラ。": "Desolee, Cheryl. Je vais reprendre mon\npouvoir."
+    },
+    "22256": {
+        "「呪いと　一緒にね……。": "Avec la malediction..."
+    },
+    "22257": {
+        "「アーニア　なぜ！？\n　こんなことをしたら　お前が……！\n　お前は　呪いに立ち向かえると言うのか！？": "Anya, pourquoi !? Si tu fais ca, toi... !\nPeux-tu vraiment affronter la malediction !?"
+    },
+    "22258": {
+        "「……ううん　わかんない。\n　でも……": "Non, je ne sais pas. Mais..."
+    },
+    "22259": {
+        "「ふたりなら　きっと　大丈夫…だよ……。": "Si nous sommes ensemble, tout ira bien... j'en\nsuis sur..."
+    },
+    "22260": {
+        "「アーニア……？　アーニアッ！！": "Anya... ? Anya !!"
+    },
+    "22261": {
+        "「……息がある。\n　よかった。気を失っているだけか……。": "…Il respire. Ouf, il a juste perdu\nconnaissance..."
+    },
+    "22262": {
+        "「……<pc>だな。ウワサは　聞いている。\n　アーニアを導いた　才能ある賢者だと……。": "......Tu es <pc>, n'est-ce pas ? J'ai\nentendu les rumeurs. On dit que tu es un sage\ntalentueux qui a guide Anya......"
+    },
+    "22263": {
+        "「結局　アーニアに　かけられた呪いは\n　彼女のもとへ　戻ってしまった……。\n　私が　ふがいないばっかりに……。": "Finalement, la malediction qui avait ete jetee\nsur Anya est retournee a Her... Tout cela a\ncause de mon incompetence..."
+    },
+    "22264": {
+        "「この呪いはな……。\n　賢者の持つ　心の闇に棲みつき\n　その闇を増幅させ　心を　むしばんでいく……。": "Cette malediction, tu vois... Elle s'installe\ndans le Heart of Darkness du sage, amplifiant\ncette obscurite et rongeant lentement son<br>coeur..."
+    },
+    "22265": {
+        "「そして　それに　耐えられなくなったとき\n　呪われた者は　悪しき賢者……\n　闇賢者に　その身を堕としてしまうのだ。": "Et lorsque cela devient insupportable, celui\nqui est maudit se transforme en un sage\nmalefique... Il tombe dans les tenebres pour<br>devenir un sage des ombres."
+    },
+    "22266": {
+        "「このまま　放っておけば　アーニアも\n　呪いに心を侵され　闇賢者に堕ちてしまう。\n　なんとしても　それは阻止せねば……！": "Si nous laissons les choses ainsi, Anya sera\negalement envahie par la malediction et\nsombrera dans les tenebres des sages. Nous<br>devons absolument empecher cela... !"
+    },
+    "22267": {
+        "「アーニアは　私が　研究院に連れていく。\n　<pc>も　あとから来てくれ。": "Anya, je l'emmene a l'institut de recherche.\n<pc>, rejoins-nous plus tard."
+    },
+    "22268": {
+        "「アーニアを届けたのち　私は　各地をまわって\n　呪いを完全に解く方法を　探すつもりだ。": "Apres avoir livre Anya, je compte parcourir\ndiverses regions pour trouver un moyen de\nlever completement la malediction."
+    },
+    "22269": {
+        "「今度こそ　われらの　呪われた運命に\n　終止符を打たなければ……。\n　それでは　失礼する……。": "Cette fois, nous devons mettre un terme a\nnotre destin maudit... Sur ce, je vous\nlaisse..."
+    }
+}

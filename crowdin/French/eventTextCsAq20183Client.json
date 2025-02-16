@@ -1,0 +1,353 @@
+{
+    "64763": {
+        "「……そんなんで　ホントに　大丈夫かよ！？": "...Es-tu vraiment sur que ca ira comme ca !?"
+    },
+    "64764": {
+        "「とにかく　人手が必要なの！\n　お願いっ！　私たちにチカラを貸して！": "En tout cas, nous avons besoin de renforts !\nJe t'en prie ! Aide-nous !"
+    },
+    "64765": {
+        "「でもねぇ……。": "Mais tu sais..."
+    },
+    "64766": {
+        "「……しょうがねえ。\n　オマエを信じて　協力してやるよ。\n　手はず通りに　動けばいいんだな。": "...Bon, d'accord. Je vais te faire confiance\net cooperer avec toi. Il suffit juste de\nsuivre le plan, n'est-ce pas?"
+    },
+    "64767": {
+        "「シメールさん　ありがとう！": "Merci, Shimere-san !"
+    },
+    "64768": {
+        "「<pc>さん！　来てくれたのね。": "<pc>-san ! Tu es venu."
+    },
+    "64769": {
+        "「このままだと　きっとまた　ヒョッヒョマンが\n　ゴリウスさんを操って　<pc>さんを\n　狙ってくるから　迎え撃つ作戦を練ってたの。": "Si cela continue ainsi, je suis sur que\nHyohyoman manipulera encore une fois\nGorius-san pour cibler <pc>-san, alors<br>je preparais un plan pour les contrer."
+    },
+    "64770": {
+        "「今の父には　剣も　呪文も効きませんから\n　霊体を相手に　戦う方法について\n　いろいろと　調べてみたのです。": "Actuellement, aucune epee ni aucun sort ne\npeut atteindre mon pere. J'ai donc explore\ndifferentes manieres de combattre un esprit."
+    },
+    "64771": {
+        "「そうしたら　セラフィさんが\n　霊を実体化させて　とどめておく\n　魔法陣の存在を　突き止めてくれたんですよ！": "C'est alors que Serafi-san a decouvert\nl'existence d'un cercle magique capable de\nmaterialiser et de retenir les esprits !"
+    },
+    "64772": {
+        "「でもね　その魔法陣を描く材料が\n　今のところ　全然　足りてないんだ。": "Mais tu sais, pour l'instant, il nous manque\ncompletement les materiaux pour dessiner ce\ncercle magique."
+    },
+    "64773": {
+        "「材料さえ　集めることができれば\n　魔法陣を描いて　ゴリウスさんの怨霊を\n　迎え撃つことができるのに……。": "Si seulement nous pouvions rassembler les\nmateriaux necessaires, nous pourrions dessiner\nun cercle magique et affronter l'esprit<br>vengeur de Gorius-san..."
+    },
+    "64774": {
+        "「それで　悪いんだけど　その材料を集めるのを\n　<pc>さんにも　手伝ってもらいたいの。\n　どうかな？　お願いできる？": "Ca me gene de demander, mais j'aimerais que tu\nm'aides a collecter ces materiaux,\n<pc>-san. Qu'en dis-tu ? Peux-tu m'aider<br>?"
+    },
+    "64775": {
+        "「ありがとう！　<pc>さんに\n　集めてきてほしいのは　具象の霊灰って材料よ。\n　全部で　５個　集めてほしいんだ。": "Merci ! J'aimerais que tu rassembles un\ningredient appele Embodiment Ash,\n<pc>-san. J'aimerais que tu en trouves<br>cinq en tout."
+    },
+    "64776": {
+        "「こっちの世界の　アラハギーロ地方にいる\n　<%sEV_QUE_NAME0>を　倒すと\n　手に入るらしいわ。": "Il parait que si tu vaincs <%sEV_QUE_NAME0>\ndans la region d'Al-Ahagiro de ce monde, tu\npourras l'obtenir."
+    },
+    "64777": {
+        "「<pc>さん　ご迷惑をおかけしますが\n　どうか　よろしくお願いします……。": "<pc>-san, je suis desole de vous causer\ndes desagrements, mais je compte sur vous..."
+    },
+    "64778": {
+        "「じゃあ　私たちは　ここで\n　他の準備をして　待ってるわ。\n　手に入ったら　戻ってきてね！": "Alors, nous allons attendre ici en faisant\nd'autres preparatifs. Une fois que tu l'as\nobtenu, reviens nous voir !"
+    },
+    "64779": {
+        "「ホント！？　あっ　でも……\n　<pc>さん　他の人からの頼まれごとも\n　いっぱい　引き受けてるんじゃない？": "Vraiment !? Ah, mais... <pc>-san, tu as\ndeja accepte beaucoup d'autres demandes des\ngens, non ?"
+    },
+    "64780": {
+        "「私たち　ここで　待ってるから\n　用事が終わったら　来てくれる？": "Nous allons attendre ici, alors viens nous\nvoir une fois que tu auras termine ce que tu\ndois faire."
+    },
+    "64781": {
+        "「そっか……。これをまかせられるの\n　<pc>さんしか　いないんだけどな……。": "Je vois... Je ne peux confier cela qu'a vous,\n<pc>-san..."
+    },
+    "64782": {
+        "「私たち　ここで待ってるから\n　また　気が変わったら　来てね。": "Nous t'attendrons ici, alors si jamais tu\nchanges d'avis, reviens nous voir."
+    },
+    "64783": {
+        "「<pc>さん！　来てくれたのね。": "<pc>-san ! Tu es venu."
+    },
+    "64784": {
+        "「私たち　ゴリウスさんの怨霊を\n　迎え撃つ　効果的な方法を見つけたの！": "Nous avons trouve une methode efficace pour\naffronter l'esprit vengeur de Gorius-san !"
+    },
+    "64785": {
+        "「それはね　ゴリウスさんを　特別な魔法陣で\n　実体化させて　剣や　呪文が効くようにしてから\n　戦うって方法なんだ。": "Ca consiste a materialiser Gorius-san avec un\ncercle magique special pour que les epees et\nles sorts puissent l'affecter, puis a le<br>combattre."
+    },
+    "64786": {
+        "「でも　その魔法陣を描く材料が　全然\n　足りてないの。材料さえ集められれば\n　魔法陣を描くことが　できるのに……。": "Mais il nous manque totalement les materiaux\npour dessiner le cercle magique. Si seulement\non pouvait rassembler ces materiaux, on<br>pourrait le dessiner..."
+    },
+    "64787": {
+        "「それで　悪いんだけど　その材料を集めるのを\n　<pc>さんにも　手伝ってもらいたいの。\n　どうかな？　お願いできる？": "Ca me gene de demander, mais j'aimerais que tu\nm'aides a collecter ces materiaux,\n<pc>-san. Qu'en dis-tu ? Peux-tu m'aider<br>?"
+    },
+    "64788": {
+        "「魔法陣を　描くための材料で\n　<pc>さんに　集めてきてもらいたいのは\n　具象の霊灰を　５個だよ。": "Pour dessiner le cercle magique, j'aimerais\nque <pc>-san rassemble 5 Embodiment Ash."
+    },
+    "64789": {
+        "「こっちの世界の　アラハギーロ地方にいる\n　<%sEV_QUE_NAME0>を　倒すと\n　具象の霊灰が　手に入るみたい。": "Dans ce monde, il semble que si tu bats\n<%sEV_QUE_NAME0> dans la region d'Al-Ahagiro,\ntu obtiendras de la Cendre Incarnee."
+    },
+    "64790": {
+        "「材料が集まれば　魔法陣で\n　ゴリウスさんの怨霊を　実体化させて\n　戦うことができると思うの。": "Une fois que nous aurons rassemble les\nmateriaux, je pense que nous pourrons utiliser\nle cercle magique pour materialiser l'esprit<br>vengeur de Gorius-san et l'affronter."
+    },
+    "64791": {
+        "「私たちは　ここで準備してるから\n　具象の霊灰を　手に入れたら　戻ってきて！\n　お願いね　<pc>さん！": "Nous nous preparons ici, alors reviens des que\ntu as mis la main sur l'Embodiment Ash ! S'il\nte plait, <pc>-san !"
+    },
+    "64792": {
+        "「あ　<pc>さん！　おかえりなさい。\n　お願いした　具象の霊灰を\n　持ってきてくれたのね。": "Ah, <pc>-san ! Bienvenue chez vous. Vous\navez apporte la Cendre d'Incarnation que je\nvous avais demandee."
+    },
+    "64793": {
+        "「他の材料は　全部　集まったの！\n　あと必要なのは　その具象の霊灰だけよ。\n　じゃあ　私に　渡してくれる？<yesno><close>": "Les autres ingredients sont tous rassembles !\nIl ne manque plus que cette Cendre\nd'Incarnation. Alors, tu me la donnes ?<br><yesno><close>"
+    },
+    "64794": {
+        "「そんな！　それがないと　魔法陣が描けないわ。\n　<pc>さん　意地悪しないで……\n　私に　具象の霊灰を渡してくれる？<yesno><close>": "Oh non ! Sans ca, je ne peux pas dessiner le\ncercle magique. <pc>-san, ne sois pas\nmechant... Peux-tu me donner l'Embodiment Ash<br>?"
+    },
+    "64795": {
+        "<pc>は　セラフィに\n具象の霊灰を　渡した。": "<pc> a remis l'Embodiment Ash a Serafi."
+    },
+    "64796": {
+        "「ありがとう！　これがあれば\n　ゴリウスさんの怨霊を実体化させる　魔法陣を\n　描くことができるわ……。": "Merci beaucoup ! Avec ca, je vais pouvoir\ndessiner le cercle magique qui materialisera\nl'esprit vengeur de Gorius-san..."
+    },
+    "64797": {
+        "「セラフィ！　手はず通り\n　格闘場の　闘いの広間を　使えるように\n　ハナシ　つけといてやったぜ。": "Serafie ! Comme prevu, j'ai arrange pour que\ntu puisses utiliser la salle de combat de\nl'arene."
+    },
+    "64798": {
+        "「シメールさん　ありがとう！": "Merci, Shimere-san !"
+    },
+    "64799": {
+        "「じゃあ　作戦を説明するわね。": "Alors, je vais expliquer la strategie."
+    },
+    "64800": {
+        "「あのヒョッヒョマンは　ゴリウスさんの怨霊を\n　操って　また　<pc>さんを\n　狙いに来る……っていうのは　知ってるよね。": "Je sais que cet homme etrange va manipuler\nl'esprit vengeur de Gorius-san pour revenir\nviser <pc>-san..."
+    },
+    "64801": {
+        "「だから　格闘場の　闘いの広間へ\n　<pc>さんが　来てくれれば\n　アイツを　おびき寄せることができるわ！": "Donc, si <pc>-san vient dans la salle de\ncombat de l'arene, nous pourrons l'attirer ici\n!"
+    },
+    "64802": {
+        "「その闘いの広間に　魔法陣を描いておいて\n　ゴリウスさんの怨霊が来たら\n　実体化させてやれば　迎え撃てるはずよ。": "Dans la salle de combat, dessine un cercle\nmagique. Lorsque l'esprit vengeur de Gorius\napparaitra, tu devrais pouvoir le materialiser<br>et l'affronter."
+    },
+    "64803": {
+        "「じゃあ　作戦開始ね！\n　<pc>さん　準備ができたら\n　格闘場の闘いの広間へ　来てね。": "Alors, debutons l'operation ! <pc>-san,\nune fois pret, viens dans la salle de combat\nde l'arene."
+    },
+    "64804": {
+        "「<cs_pchero>さん。\n　魔法陣の準備は　バッチリできてるよ。": "<cs_pchero> san. Le cercle magique est pret,\ntout est parfait."
+    },
+    "64805": {
+        "「父は　現れるでしょうか……。": "Est-ce que pere sera en P. ..."
+    },
+    "64806": {
+        "「きっと　来るわ。": "Elle viendra surement."
+    },
+    "64807": {
+        "「お待たせしていたようですね。\n　ヒョーッヒョッヒョ。": "Je vous ai fait attendre, n'est-ce pas ?\nHyoo-ho-ho."
+    },
+    "64808": {
+        "「……出たわね　ヒョッヒョマン。": "...... Te voila, Hyohhyoman."
+    },
+    "64809": {
+        "「ヒョヒョッ？　ほう……。\n　霊を実体化させる　魔法陣とは\n　足りないアタマで　必死に考えたようですね。": "Hyohyo ? Oh... Un cercle magique pour\nmaterialiser les esprits, on dirait que vous\navez reflechi de toutes vos forces avec votre<br>cerveau limite."
+    },
+    "64810": {
+        "「しかし　こんな小細工など\n　今のゴリウス君なら　ものともせず\n　あなたたちを　たたきのめしてくるでしょう。": "Cependant, avec l'etat actuel de Gorius-kun,\nde telles ruses ne l'affecteront pas, et il\nest probable qu'il vous ecrasera."
+    },
+    "64811": {
+        "「いきますよ　ゴリウス君！": "Allons-y, Gorius-kun !"
+    },
+    "64812": {
+        "「グオォォォ……。グオオォォォォ！！": "Groaaaaar... Groooar !!"
+    },
+    "64813": {
+        "「セラフィ！　応援に来てやったぞ。": "Serafi ! Je suis venue te soutenir."
+    },
+    "64814": {
+        "「いけ　セラフィ！\n　<cs_pchero>！！\n　怨霊どもを　ぶっとばせ！": "Vas-y, Serafuィ ! <cs_pchero> !! Fous une\nraclee a ces esprits vengeurs !"
+    },
+    "64815": {
+        "「え……　どうして　みんな……。\n　ここは危険よ！　早く離れてっ！！": "Eh... Pourquoi est-ce que tout le monde... Cet\nendroit est dangereux ! Partez vite !"
+    },
+    "64816": {
+        "「オレたちだって　手伝ったんだから\n　最後まで　見届けさせろよ。": "Nous aussi, nous avons aide, alors laisse-nous\nassister jusqu'a la fin."
+    },
+    "64817": {
+        "「…………。": ""
+    },
+    "64818": {
+        "「ヒョーッヒョッヒョ！\n　もうすぐ　自分たちも滅ぼされるというのに\n　いい気なものですねぇ。": "Hyoo hyoh hyo ! Bien que vous soyez sur le\npoint d'etre detruits, vous semblez bien\ninsouciants."
+    },
+    "64819": {
+        "「そんなことは　させないわ！": "Je ne te laisserai pas faire ca !"
+    },
+    "64820": {
+        "「ヒョヒョ！　このゴリウス君のパワーを見ても\n　そんなこと　言ってられますかねぇ。\n　まずは　<cs_pchero>ッ！　あなたからです！！": "Hyohyo ! Meme en voyant la puissance de ce\nGorius-kun, pouvez-vous encore dire ca ? Tout\nd'abord, <cs_pchero> ! C'est a vous !!"
+    },
+    "64821": {
+        "「グオォォォォォォォ！！": "Gwoooooooo !!"
+    },
+    "64822": {
+        "「<cs_pchero>さん！　来てくれたのね。": "<cs_pchero> san ! Tu es venu."
+    },
+    "64823": {
+        "「ヒョーッヒョッヒョ。\n　またもや　やられに来るとは　愚かですねぇ。": "Hyo-ho-ho. C'est bien imprudent de revenir se\nfaire battre."
+    },
+    "64824": {
+        "「何度でも　たたきのめし　ゴリウス君の性能を\n　思い知らせてさしあげましょう！": "Je vais te battre encore et encore pour te\nmontrer la puissance de Gorius-kun !"
+    },
+    "64825": {
+        "「ゴリウス君　いきますよ！": "Gorius-kun, allons-y !"
+    },
+    "64826": {
+        "「グオォォォォォォォ！！": "Gwoooooooo !!"
+    },
+    "64827": {
+        "「お　おのれ　またしても　私の最高傑作を……。\n　くっ　こうなったら……。": "Oh, espece de... encore une fois, tu detruis\nmon chef-d'oeuvre... Tsk, dans ce cas..."
+    },
+    "64828": {
+        "「ヒョヒョッ……。\n　怨念のチカラを　限界以上に引きだし\n　呪いを暴走させてやりましたよ。": "Hihoho... J'ai puise dans la force de la\nrancune au-dela de ses limites et j'ai laisse\nla malediction dechainee se dechainer."
+    },
+    "64829": {
+        "「この呪いに触れた者は　瞬時に\n　心臓が凍りつき　死に絶えるでしょう……。": "Quiconque touche a cette malediction verra son\ncoeur se glacer instantanement et perira..."
+    },
+    "64830": {
+        "「ヒョーッヒョッヒョ！　\n　やがて　このチカラは\n　レンダーシア全土をも包みこむ……。": "Hyoo-hyo-hyo ! Bientot, ce pouvoir enveloppera\ntoute la terre de Rendashia..."
+    },
+    "64831": {
+        "「このまま　なすすべなく\n　すべて凍りつき　破滅していくがいい……。\n　ヒョーッヒョヒョヒョヒョ……": "Ainsi, sans rien pouvoir faire, tout sera gele\net conduira a notre destruction... Hyoooh\nhyohyohyohyo..."
+    },
+    "64832": {
+        "「グルアァァァァァァァァ！！": "Groooaaaarrrr !!"
+    },
+    "64833": {
+        "「このままじゃ　まずいわ……。\n　<cs_pchero>さん　どうしようっ！？": "Si on continue comme ca, ca va mal finir...\n<cs_pchero> san, que devrions-nous faire ?"
+    },
+    "64834": {
+        "「セラフィさん　大丈夫です。\n　今度こそ　父を止めてみせます。": "Seraphie-san, ca va. Cette fois, je vais\narreter mon pere."
+    },
+    "64835": {
+        "「タジウスさん！？": "Tajius-san !?"
+    },
+    "64836": {
+        "<pipipi_high>「……キーキー！": "<pipipi_high>...Kii Kii !"
+    },
+    "64837": {
+        "「みんな……　来てくれたのか！": "Tout le monde... vous etes venus !"
+    },
+    "64838": {
+        "「父さん……　もう　やめましょう。": "Pere... Arretons, je vous en prie."
+    },
+    "64839": {
+        "「ベルムドォ……\n　……ベルムドォォォオオ！！": "Bermudoooo... ...BermudoooooOOO !!"
+    },
+    "64840": {
+        "「……父さん。\n　ベルムドを　復讐に駆り立てたのは\n　あなた自身では　ありませんか！": "...... Pere. N'est-ce pas vous-meme qui avez\npousse Bermud a la vengeance ?"
+    },
+    "64841": {
+        "「ですが　兵士長。あなたが　魔物の命を\n　盾にしても　国と民を　守ろうとしていたこと\n　私たちは　皆　知っています。": "Mais, capitaine des gardes, nous savons tous\nque vous avez tente de proteger le pays et ses\nhabitants, meme en utilisant la vie des<br>monstres comme un bouclier."
+    },
+    "64842": {
+        "「そうです！　悪評に　まみれようとも\n　国を守ることを優先した　あなたを\n　オレは　尊敬しています！": "C'est exact ! Meme si vous etes couvert de\nmauvaises rumeurs, je vous respecte pour avoir\ndonne la priorite a la protection du pays !"
+    },
+    "64843": {
+        "「厳しいけれど　あなたは誰よりも強かった……。\n　自らの怨念になど　負けないでください。\n　あなたなら　おのれに打ち勝てるはずです！": "Bien que la route soit rude, tu etais plus\nfort que quiconque... Ne te laisse pas\nsubmerger par ta propre rancoeur. Tu es capable<br>de triompher de toi-meme !"
+    },
+    "64844": {
+        "「ううっ……　へいしちょおぉ……。\n　もう一度　アンタの強さ……\n　アンタの雄姿を　オラに見せてくれよぉぉ！": "Ouh... Capitaine... Montre-moi encore une fois\nta force... Montre-moi ta prestance\nheroique... Je t'en prie !"
+    },
+    "64845": {
+        "「父さん！　犯した過ちを償いましょう。\n　そして　憎しみの連鎖を　断つのです。": "Pere ! Reparons nos erreurs. Et mettons fin a\ncette chaine de haine."
+    },
+    "64846": {
+        "「……ウ　ウウゥゥゥ……。\n　ウゥゥゥ　ウ　ウアアアアーーー！！": "… Uuuuuh... Uuuuh Uwaaaaah !!!"
+    },
+    "64847": {
+        "「父さん……！": "Pere... !"
+    },
+    "64848": {
+        "「……皆　すまなかった。": "......Je suis desole, tout le monde."
+    },
+    "64849": {
+        "「アラハギーロを守るためには　人に恨まれても\n　しかたないと思っていた……。そんな心が\n　いつしか　私を　鬼にしていたのだな……。": "Pour proteger AraHagi-ro, je pensais qu'il n'y\navait pas d'autre choix que d'etre hai par les\ngens... Ce genre de pensee m'a transforme en<br>demon sans que je m'en rende compte..."
+    },
+    "64850": {
+        "「犠牲になった命のために……\n　私たちも　父さんと共に　いきます。": "Pour les vies sacrifiees... Nous vivrons\naussi, aux cotes de notre pere."
+    },
+    "64851": {
+        "「もう本当に　終わるのだな……。\n　なんと　長い戦いであったことか……": "C'est vraiment la fin, n'est-ce pas... Quelle\nlongue bataille ca a ete..."
+    },
+    "64852": {
+        "「セラフィさん　<cs_pchero>さん……。\n　ありがとうございました……": "Serefie-san, <cs_pchero>... Merci beaucoup..."
+    },
+    "64853": {
+        "「……タジウスさんっ！": "......Tajius-san !"
+    },
+    "64854": {
+        "「……<cs_pchero>さん。\n　私　わからないよ……。": "<cs_pchero> san. Je ne comprends pas..."
+    },
+    "64855": {
+        "「アラハギーロを守りたいって気持ちは\n　誰もが　おんなじだったのに　どうして\n　こんな　悲しい結末になっちゃったんだろう。": "Bien que tout le monde ait voulu proteger\nAraHagi-ro, pourquoi cela a-t-il abouti a une\nfin si tragique ?"
+    },
+    "64856": {
+        "「……アイツらは　長く　悲しい戦いの日々から\n　ようやく　解き放たれることが　できたのさ。\n　オマエたちの　おかげでな。": "Ils ont enfin pu etre liberes des longs jours\nde combats tristes, grace a vous."
+    },
+    "64857": {
+        "「……えっ？\n　もしかして　また　何かあったのかな。\n　<cs_pchero>さん。城下町に行ってみよう！": "…Hein ? Il s'est peut-etre passe quelque chose\nencore. <cs_pchero>san. Allons voir en ville !"
+    },
+    "64858": {
+        "「……えっ　なに？　どうしたの？": "Eh, quoi ? Qu'est-ce qui se passe ?"
+    },
+    "64859": {
+        "「セラフィ！　やってくれたじゃねーか！": "Serafi ! Tu l'as vraiment fait cette fois-ci !"
+    },
+    "64860": {
+        "「あんがとね！　アラハギーロを守ってくれて。": "Merci beaucoup ! Merci d'avoir protege\nAraHagi-lo."
+    },
+    "64861": {
+        "「おー　<cs_pchero>！\n　オメーも　なかなか　がんばってたな。": "Oh, <cs_pchero> ! Tu as bien fait des efforts,\ntoi aussi."
+    },
+    "64862": {
+        "「ありがとう　セラフィ！": "Merci, Serafie !"
+    },
+    "64863": {
+        "「おつかれさま！": "Bon travail !"
+    },
+    "64864": {
+        "「そんな……　あれは　<cs_pchero>さんや\n　タジウスさんの　おかげだよ！\n　私は　ちょっと手伝っただけで……": "Ce n'est pas vrai... C'est grace a vous,\n<cs_pchero> san et Tajius san ! Moi, je n'ai\nfait qu'aider un peu..."
+    },
+    "64865": {
+        "「……なぁ　セラフィ。\n　じつは　みんなで　考えてたんだけどさ……": "He, Serafi. En fait, tout le monde\nreflechissait a quelque chose ensemble..."
+    },
+    "64866": {
+        "「オマエ　オレたちのリーダーになって\n　この国を　引っぱっていってくれないか？": "Ne voudrais-tu pas devenir notre leader et\nguider ce pays pour nous ?"
+    },
+    "64867": {
+        "「えっ……": "Quoi..."
+    },
+    "64868": {
+        "「この国のために　必死になってるオマエを見て\n　思ったんだ。この国をまとめられるのは\n　オマエしか　いないんじゃないかって……。": "Pour ce pays, te voir te donner a fond m'a\nfait penser que tu es peut-etre le seul\ncapable de le diriger..."
+    },
+    "64869": {
+        "「待って待って！　ム…ムリだよ！\n　私に　リーダーなんか……": "Attends, attends ! C'est impossible... Je ne\npeux pas etre leader..."
+    },
+    "64870": {
+        "「この国を守るのが　オマエの夢なんだろ？\n　だったら　きっちり　リーダーになって\n　その夢　真正面から貫いてみやがれ！": "Ton reve est de proteger ce pays, n'est-ce pas\n? Alors deviens un vrai leader et realise ce\nreve en le poursuivant de front !"
+    },
+    "64871": {
+        "「……うん　わかった。": "...Oui, j'ai compris."
+    },
+    "64872": {
+        "「リーダーとか　ガラじゃないけど……\n　これからも　このアラハギーロと\n　みんなを守るために　私　がんばるね！": "Je ne suis pas vraiment faite pour etre\nleader, mais... Je vais continuer a me donner\na fond pour proteger cet endroit, AruHagi, et<br>tout le monde !"
+    },
+    "64873": {
+        "「<cs_pchero>さん。そういうわけで\n　私　ここのリーダーになっちゃうみたい。": "<cs_pchero> san. Donc, il semble que je vais\ndevenir le leader ici."
+    },
+    "64874": {
+        "「……あっ　そうだ！\n　とりあえず　リーダーの初仕事として\n　<cs_pchero>さんに　お礼を　渡さなきゃね！": "Ah, c'est vrai ! En tant que premiere tache de\nleader, je dois remettre un cadeau de\nremerciement a <cs_pchero> san !"
+    },
+    "64875": {
+        "「これまで　ずーっと　<cs_pchero>さんには\n　頼りっぱなしだったけど　これからは\n　町のみんなと協力して　ここを守っていくわ。": "Jusqu'a present, je me suis toujours reposee\nsur toi, <cs_pchero> san, mais desormais, je\nvais collaborer avec tous les habitants du<br>village pour proteger cet endroit."
+    },
+    "64876": {
+        "「今まで　本当にありがとね！\n　私たちの作る　新しい国に　期待してて！": "Merci beaucoup pour tout jusqu'a maintenant !\nAttends-toi a voir le nouveau pays que nous\nallons creer !"
+    },
+    "78972": {
+        "「えええ！？": "Quoi !?"
+    },
+    "93436": {
+        "「なぁ……セラフィ。\n　ちょっと　城下町まで来てくれよ。 \n　話しておきたいことが　あるんだ。": "He... Seraphie. Viens un instant jusqu'a la\nville. J'ai quelque chose dont je veux te\nparler."
+    },
+    "102944": {
+        "「そう　悲しむなよ。セラフィ。": "Ne sois pas triste, Serafie."
+    }
+}

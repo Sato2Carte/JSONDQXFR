@@ -1,0 +1,629 @@
+{
+    "50224": {
+        "「あっ　<pc>さん？": "Ah, <pc>-san ?"
+    },
+    "50225": {
+        "「また　お会いしましたね。": "Nous nous rencontrons a nouveau."
+    },
+    "50226": {
+        "「私は　これから　お城に行ってみます。\n　失った記憶の手がかりが\n　あそこに　ある気がするんです……。": "Je vais maintenant me rendre au chateau. J'ai\nl'impression que des indices sur ma memoire\nperdue s'y trouvent..."
+    },
+    "50227": {
+        "「それじゃ　失礼します。": "Dans ce cas, je vous laisse."
+    },
+    "50228": {
+        "「<pc>さん　何を見ているんですか？": "<pc>-san, que regardez-vous ?"
+    },
+    "50229": {
+        "「わあ　すごく大きな像ですね……。": "Wow, c'est une statue vraiment immense..."
+    },
+    "50230": {
+        "「こんなに立派な物が　作られるなんて……。\n　いったい　誰の像なんでしょうか？": "C'est incroyable qu'une chose aussi magnifique\npuisse etre creee... Mais, a qui peut bien\nappartenir cette statue ?"
+    },
+    "50231": {
+        "「この像は　王国に伝わる\n　勇者の姿を　かたどったものさ。": "Cette statue represente le heros tel qu'il est\ntransmis dans le royaume."
+    },
+    "50232": {
+        "「祈りを捧げにきた。\n　すまないが　場所を空けてくれるか。": "Je suis venu prier. Pourrais-tu, s'il te\nplait, me laisser un peu de place ?"
+    },
+    "50233": {
+        "「これが　勇者……さま……。": "C'est donc le Heros... sama..."
+    },
+    "50234": {
+        "「そうだ。私のご先祖さまというわけだ。": "Exactement. C'est mon ancetre, en quelque\nsorte."
+    },
+    "50235": {
+        "「えっ　ご先祖さまって……？": "Hein, vos ancetres... ?"
+    },
+    "50236": {
+        "「これは……。どういうことだ？": "Qu'est-ce que c'est...? Que se passe-t-il ?"
+    },
+    "50237": {
+        "「私と　同じ顔……？\n　いったい　どうして……。　": "Un visage identique au mien... ? Mais\npourquoi... ?"
+    },
+    "50238": {
+        "「お前は　何者だ？\n　なぜ　私と　同じ顔をしている！？": "Qui es-tu ? Pourquoi as-tu le meme visage que\nmoi !?"
+    },
+    "50239": {
+        "「わっ……わかりません。\n　私　何も　思いだせないんです。\n　自分が誰なのかすら　わからなくて……。": "Je... je ne sais pas. Je ne me souviens de\nrien. Je ne sais meme pas qui je suis..."
+    },
+    "50240": {
+        "「記憶を失っているだと？\n　なぜ　そのようなことになった？": "Tu as perdu la memoire ? Pourquoi cela est-il\narrive ?"
+    },
+    "50241": {
+        "「それすらも　わからないんです。\n　このグランゼドーラ王国に来れば\n　何か　思いだせるんじゃないかと思って……。": "Je ne sais meme pas cela. Je pensais que si je\nvenais dans ce Royaume de Gran Zedora, je\npourrais me souvenir de quelque chose..."
+    },
+    "50242": {
+        "「なるほどな……。": "Je vois..."
+    },
+    "50243": {
+        "「私は　アンルシア。\n　このグランゼドーラ王国の　姫であり\n　勇者としての　使命を授かった者だ。": "Je suis Anlucia. Je suis la princesse de ce\nRoyaume de Gran Zedora et j'ai recu la mission\nde devenir une heroine."
+    },
+    "50244": {
+        "「お前の名は　なんと言う？": "Quel est ton nom ?"
+    },
+    "50245": {
+        "「……本当の名前は　覚えていません。\n　ミシュア……と　呼んでください。": "......Je ne me souviens pas de mon vrai nom.\nAppelez-moi... Mishua, s'il vous plait."
+    },
+    "50246": {
+        "「ならば　ミシュア。\n　くわしい話は　場所を変えて　聞くとしよう。\n　２階の玉座の間まで　来てくれるか？": "Alors, Mishua. Changeons d'endroit pour\ndiscuter plus en detail. Peux-tu venir jusqu'a\nla Throne Room au deuxieme etage ?"
+    },
+    "50247": {
+        "「は……はい。わかりました。": "D'accord. J'ai compris."
+    },
+    "50248": {
+        "「……ふむ。見たところ　お前は\n　ミシュアの友人のようだな。\n　お前にも　玉座の間へ来てもらいたい。": "Hmmm. A en juger par ton apparence, tu sembles\netre un ami de Mishua. J'aimerais que tu\nviennes aussi a la Salle du Trone."
+    },
+    "50249": {
+        "「なぜ　グランゼドーラの姫さまが\n　私と同じ顔を　しているんでしょうか……。": "Pourquoi la princesse de Glmp Zedora a-t-elle\nle meme visage que moi..."
+    },
+    "50250": {
+        "「姫さまに　話を聞いてもらおうと思います。\n　<pc>さんも　呼ばれましたよね。\n　玉座の間に　行きましょう。": "Je pense que nous devrions parler a la\nprincesse. <pc>-san a egalement ete\nconvoque, n'est-ce pas ? Allons dans la salle<br>du trone."
+    },
+    "50251": {
+        "「あっ……。": "Ah..."
+    },
+    "50252": {
+        "「そう……。私のそばには　いつも誰かがいて\n　私のことを守ってくれていた。": "Oui... Il y avait toujours quelqu'un a mes\ncotes pour veiller sur moi et me proteger."
+    },
+    "50253": {
+        "「でも　思いだせない……。\n　あの人は　いったい　誰なの……？": "Mais je n'arrive pas a me souvenir... Qui est\ncette personne... ?"
+    },
+    "50254": {
+        "「<pc>さん。\n　助けにきてくれたんですね。": "<pc>-san. Tu es venu me sauver, n'est-ce\npas ?"
+    },
+    "50255": {
+        "「……私なんかのために\n　何度も　ありがとうございます。": "Merci beaucoup pour tout ce que vous avez fait\npour moi, a plusieurs reprises."
+    },
+    "50256": {
+        "「アンルシア姫さまは　私のことを\n　自分の　失われた半身だと……\n　ひとりの人間ではないと　言っていました。": "Princess Anlucia-sama disait que je suis sa\nmoitie perdue... Que je ne suis pas une\npersonne a part entiere."
+    },
+    "50257": {
+        "「……でも。アタマの中に　ときどき\n　記憶の欠片みたいなものが　現れるんです。": "…Mais parfois, dans ma tete, des fragments de\nsouvenirs semblent emerger."
+    },
+    "50258": {
+        "「それが　もし　私自身の記憶なら\n　私は　アンルシア姫さまの半身なんかじゃない。": "Si cela correspondait a mes propres souvenirs,\nalors je ne serais pas la moitie de Princess\nAnlucia-sama."
+    },
+    "50259": {
+        "「私は　私の記憶を取り戻したい。\n　あの人のことを　思いだしたい……。": "Je veux retrouver ma memoire. Je veux me\nsouvenir de cette personne..."
+    },
+    "50260": {
+        "「どうすれば　記憶を取り戻せるの？\n　教えて　<pc>さん！？": "Comment puis-je retrouver ma memoire ? S'il te\nplait, dis-le moi, <pc>-san !"
+    },
+    "50261": {
+        "「お困りのようですね。": "Il semble que vous ayez des ennuis."
+    },
+    "50262": {
+        "「失礼ながら　話は聞かせてもらいました。": "Excusez-moi, mais j'ai entendu votre\nconversation."
+    },
+    "50263": {
+        "「あなたは……？": "Vous etes... ?"
+    },
+    "50264": {
+        "「三門の関所でも　お会いしましたが\n　このように　話をするのは　はじめてですね。\n　<pc>さんの友人　クロウズと申します。": "Nous nous sommes deja rencontres au\nposte-frontiere de Mikado, mais c'est la\npremiere fois que nous discutons ainsi. Je<br>suis Claws, ami de <pc>."
+    },
+    "50265": {
+        "「私には　すこしばかり\n　特別なチカラが　あるんです。\n　そう。人の記憶を操るという……ね。": "J'ai un pouvoir un peu special, vous savez.\nOui, celui de manipuler les souvenirs des\ngens..."
+    },
+    "50266": {
+        "「ミシュアさんの記憶。\n　よろしければ　私が　診てさしあげましょう。": "La memoire de Mishua-san. Si vous le\nsouhaitez, je peux l'examiner pour vous."
+    },
+    "50267": {
+        "「それで　記憶が取り戻せるなら……\n　ぜひ　お願いします！": "Si cela peut me permettre de retrouver la\nmemoire... Je vous en prie, faites-le !"
+    },
+    "50268": {
+        "「おまかせを。では　失礼……。": "Je m'en charge. Je vous prie de m'excuser..."
+    },
+    "50269": {
+        "「これは……。": "C'est..."
+    },
+    "50270": {
+        "「記憶に触れることが　できません。\n　どうやら　記憶そのものが\n　何かのチカラで　封じられているようですね。": "Je ne peux pas acceder a ces souvenirs. Il\nsemble que ces souvenirs soient scelles par\nune certaine force."
+    },
+    "50271": {
+        "「そんな……。どうして！？": "Impossible... Pourquoi !?"
+    },
+    "50272": {
+        "「どうして　記憶が封じられているのか……\n　それは　私にも　わかりませんが\n　まだ　方法が　ないわけではありません。": "Pourquoi la memoire est-elle scellee... Ca, je\nne le sais pas non plus. Cependant, il existe\nencore une methode."
+    },
+    "50273": {
+        "「ですが……。その前に　あなたに\n　ひとつだけ　聞いておきましょう。": "Mais avant cela... Je vais vous poser une\nseule question."
+    },
+    "50274": {
+        "「封じられた記憶を取り戻したとき\n　あなたは　自分に課せられた　過酷な運命を\n　知ってしまうことに　なるかもしれません。": "Lorsque vous retrouverez les souvenirs\nscelles, il se pourrait que vous decouvriez le\ndestin cruel qui vous a ete impose."
+    },
+    "50275": {
+        "「あなたが　それに耐えられる保証はない。\n　それでも　かまいませんか？　": "Il n'y a aucune garantie que vous puissiez\nsupporter cela. Cela vous convient-il malgre\ntout ?"
+    },
+    "50276": {
+        "「かまいません！\n　どんなに　ひどい記憶だったとしても\n　それは　私の大切な記憶なんです。": "Je m'en fiche ! Peu importe a quel point ces\nsouvenirs peuvent etre horribles, ce sont mes\nprecieux souvenirs."
+    },
+    "50277": {
+        "「私のそばにいてくれた　誰か……。\n　その人のためにも　私は絶対に\n　思いださなきゃ　いけないんです！！": "Quelqu'un qui est reste a mes cotes... Pour\ncette personne, je dois absolument me souvenir\n!!"
+    },
+    "50278": {
+        "「それを聞いて　安心しました。": "Ca me rassure d'entendre ca."
+    },
+    "50279": {
+        "「封じられた記憶を　よみがえらせるには\n　誰かが　あなたの記憶の中に入り\n　その封印を　打ち破ればいいのです。": "Pour faire revivre les souvenirs scelles,\nquelqu'un doit entrer dans votre memoire et\nbriser ce sceau."
+    },
+    "50280": {
+        "「さあ　<pc>さん　出番ですよ。": "Allez, <pc>-san, c'est votre tour."
+    },
+    "50281": {
+        "「以前　三門の関所を通るとき……\n　あなたに　集めていただいた　３匹の蝶。\n　覚えていますよね？": "Quand nous avons traverse la barriere des\nTrois Portes auparavant... Les trois papillons\nque vous aviez collectes pour moi. Vous vous<br>en souvenez, n'est-ce pas ?"
+    },
+    "50282": {
+        "「今こそ　その蝶が　羽ばたく時です。": "Il est temps pour ce papillon de deployer ses\nailes."
+    },
+    "50283": {
+        "「美しいでしょう？\n　記憶の世界へ　いざなう　神秘の扉です。　": "C'est magnifique, n'est-ce pas ? C'est la\nporte mystique qui vous invite dans le monde\nde la memoire."
+    },
+    "50284": {
+        "「この扉に足を踏み入れれば　そこはもう\n　ミシュアさんの　記憶の中の世界。\n　さあ　光の柱に進むのです　<pc>さん。": "Si vous franchissez cette porte, vous entrerez\ndans le monde des souvenirs de Mishua-san.\nAllez-y, avancez vers le pilier de lumiere,<br><pc>-san."
+    },
+    "50299": {
+        "「あっ　<pc>さん！": "Oh, <pc>-san !"
+    },
+    "50300": {
+        "「アンルシアさま。先ほど　話した\n　私を化け物から　救ってくれた人というのが\n　この　<pc>さん　なんです。": "Anlucia-sama. La personne dont je vous ai\nparle plus tot, celle qui m'a sauve des\nmonstres, c'est <pc>-san."
+    },
+    "50301": {
+        "「……ほう。\n　お前が　メルサンディ村に　現れた魔物を\n　退治してくれた　英雄だったのか。": "…Oh. Donc, c'etait toi le heros qui a vaincu\nle monstre qui terrorisait le village de\nMelsandy."
+    },
+    "50302": {
+        "「レンダーシアの秩序を乱す\n　魔物を討伐してくれたこと　感謝する。\n　亡き父に代わり　礼を言おう。": "Je te remercie d'avoir vaincu le monstre qui\ntroublait l'ordre de Lendersia. Je te remercie\nau nom de mon defunt pere."
+    },
+    "50303": {
+        "「……ところで　<pc>よ。\n　ずいぶん　遠くから　旅して来たそうだが\n　お前は　どこから来たのだ？": "Au fait, <pc>. Il parait que tu as\nvoyage depuis tres loin. D'ou viens-tu ?"
+    },
+    "50304": {
+        "「<%sEV_SHUSHIN_T>か……。\n　レンダーシアの者でもない　お前が\n　なぜ　危険を冒して　ここまで来た？": "<%sEV_SHUSHIN_T> hein... Tu n'es meme pas\noriginaire de Rendaashia, alors pourquoi as-tu\npris le risque de venir jusqu'ici ?"
+    },
+    "50305": {
+        "「……なに　勇者覚醒の光を見ただと？\n　その勇者の手助けをするため\n　我が国に　やってきたと言うのか。": "Quoi ? Tu dis avoir vu la lumiere de l'eveil\ndu heros ? Et que tu es venu dans notre pays\npour aider ce heros ?"
+    },
+    "50306": {
+        "「ふふふ……。": "Fufufu..."
+    },
+    "50307": {
+        "「ははははっ！\n　これは　面白いことを言う。\n　お前は　きっと　夢でも見たのだろう！": "Ha ha ha ha ! Tu dis vraiment des choses\namusantes. Tu as surement du rever !"
+    },
+    "50308": {
+        "「確かに　私は　勇者としての使命を\n　授かってはいるが　まだ　覚醒の時を\n　迎えてはいないのだ。": "Certes, j'ai recu la mission de heros, mais je\nn'ai pas encore atteint le moment de l'eveil."
+    },
+    "50309": {
+        "「おそらく　今の私には　勇者として覚醒するのに\n　何か　足りないものがあるのだろう……。": "Il est probable qu'il me manque quelque chose\npour m'eveiller en tant que heros en ce\nmoment..."
+    },
+    "50310": {
+        "「だが　お前の見た夢は　すぐに正夢と変わるぞ。\n　必ずや　私は　覚醒の時を迎えてみせる！": "Cependant, le reve que tu as vu deviendra\nbientot realite. Je te le promets, le moment\nde mon eveil viendra !"
+    },
+    "50311": {
+        "「<pc>。遠路はるばる　ご苦労だった。\n　お前も　この城で　ゆっくりと\n　長旅の疲れを　癒していくがいい。": "<pc>. Merci d'avoir fait tout ce long\nvoyage. Repose-toi tranquillement dans ce\nchateau et prends le temps de recuperer de<br>cette longue aventure."
+    },
+    "50312": {
+        "「リゲス大臣。ダイム老を　ここへ。": "Ministre Rigez. Amenez le vieil homme Dyme\nici."
+    },
+    "50313": {
+        "「ミシュア。記憶喪失では　何かと不便だろう。\n　お前には世話係として　従者を付ける。\n　古くから　この城に勤める　熟練の者だ。": "Mishua. Perdre la memoire doit etre assez\ngenant, n'est-ce pas ? Je vais te designer un\nserviteur pour t'assister. C'est une personne<br>experimentee qui travaille dans ce chateau\ndepuis longtemps."
+    },
+    "50314": {
+        "「お呼びでございましょうか　アンルシア姫さま。": "Vous m'avez appelee, Princesse Anlucia-sama ?"
+    },
+    "50315": {
+        "「来てくれたか　ダイム老。\n　このミシュアの世話を　お前にまかせる。\n　記憶を失っているそうだ。": "Tu es venu, Old Man Dyme. Je te confie la\ngarde de Mishua. Il semble qu'elle ait perdu\nla memoire."
+    },
+    "50316": {
+        "「おお　話には聞いておりましたが\n　まことに　姫さま　そっくりでございますな。\n　しかし　記憶喪失とは　おいたわしい……。": "Oh, j'avais entendu parler de vous. Vous\nressemblez vraiment a la princesse. Cependant,\nperdre la memoire, c'est bien triste..."
+    },
+    "50317": {
+        "「おまかせください　アンルシア姫さま。\n　このダイムが　責任を持って\n　ミシュアさまの　お世話をいたします。": "Laissez-moi faire, Princesse Anlucia-sama. Je,\nDaim, m'occuperai de Mishuara-sama avec la\nplus grande responsabilite."
+    },
+    "50318": {
+        "「あの……すみません。\n　本当に　いいんですか。私なんかのために。": "Euh... Excusez-moi. Est-ce vraiment bien ?\nPour quelqu'un comme moi."
+    },
+    "50319": {
+        "「気にすることはない。この城にいることで\n　お前の記憶が　取り戻せるというのなら\n　好きなだけいて　かまわんぞ。": "Il n'y a pas de quoi s'inquieter. Si rester\ndans ce chateau peut t'aider a retrouver ta\nmemoire, tu peux y rester aussi longtemps que<br>tu le souhaites."
+    },
+    "50320": {
+        "「今日のところは　貸し与えた部屋で\n　身体を休めるが　いいだろう。": "Aujourd'hui, repose-toi dans la chambre que\nnous t'avons pretee."
+    },
+    "50321": {
+        "「では　ミシュアさま。こちらへ。": "Alors, Mishua-sama. Par ici."
+    },
+    "50322": {
+        "「……お言葉に　甘えさせてもらいます。\n　ありがとうございます　アンルシア姫さま。": "Je vais accepter votre aimable offre. Merci\nbeaucoup, Princess Anlucia-sama."
+    },
+    "50323": {
+        "「<pc>。\n　お前には　東の塔の最上階の部屋を与えよう。": "<pc>. Je te donne la chambre a l'etage\nsuperieur de la tour Est."
+    },
+    "50324": {
+        "「東の塔は　南の階段を上った３階の奥だ。\n　部屋の前の番兵には　話を通しておくから\n　休みたくなったら　寝室のベッドを使え。": "East Tower se trouve tout au fond du troisieme\netage, en montant les escaliers au sud. J'ai\ndeja informe le garde devant la chambre, alors<br>si tu veux te reposer, utilise le lit de la\nchambre."
+    },
+    "50325": {
+        "「私は　まだ　公務があるのでな。\n　話があるなら　また明日　聞くとしよう。\n　お前も　今日は　ゆるりと休むがいい。": "Je dois encore m'occuper de mes devoirs\nofficiels. Si tu as quelque chose a me dire,\nnous en parlerons demain. Toi aussi,<br>repose-toi bien aujourd'hui."
+    },
+    "50326": {
+        "「この部屋は　王族の方々が\n　おくつろぎになるための部屋で　ございます。": "Cette piece est destinee a permettre a la\nfamille royale de se detendre."
+    },
+    "50327": {
+        "「この本棚……。": "Cette etagere..."
+    },
+    "50328": {
+        "「あっ……。": "Ah..."
+    },
+    "50329": {
+        "「ミシュアさま。いかがなされました？": "Mishua-sama. Que se passe-t-il ?"
+    },
+    "50330": {
+        "「ごめんなさい。何かが……。\n　よく　わからないけど　アタマの中で\n　一瞬　何かが　見えたような気がしたんです。": "Je suis desolee. Quelque chose... Je ne\ncomprends pas tres bien, mais j'ai\nl'impression d'avoir vu quelque chose un<br>instant dans ma tete."
+    },
+    "50331": {
+        "「もしや　記憶を取り戻されたのでは？": "Peut-etre avez-vous retrouve la memoire ?"
+    },
+    "50332": {
+        "「ダメなんです。何かを見たはずなのに\n　もう　思いだせないの……。\n　私……　何を見たの……？": "Je ne peux pas... J'ai du voir quelque chose,\nmais je n'arrive plus a m'en souvenir...\nQu'est-ce que j'ai vu...?"
+    },
+    "50333": {
+        "「落ち着いてくださいませ　ミシュアさま。\n　ご無理をなさっては　いけません。": "Restez calme, Mishua-sama. Ne vous surmenez\npas."
+    },
+    "50334": {
+        "「あっ。<pc>さん……。": "Ah. <pc>-san..."
+    },
+    "50335": {
+        "「私……　このグランゼドーラ王国へ来れば\n　何か　思いだせると　思ってました。": "Je pensais que si je venais dans ce royaume de\nGran Zedora, je pourrais me souvenir de\nquelque chose..."
+    },
+    "50336": {
+        "「でも　ダメみたい……。\n　思いだせそうな気がしたけど\n　何かに　邪魔されているような……。": "Mais ca ne fonctionne pas... J'ai eu\nl'impression que j'allais me souvenir, mais\nc'est comme si quelque chose m'en empechait..."
+    },
+    "50337": {
+        "「人の記憶とは　不思議なもの。\n　アタマで覚えていなくても　身体が覚えている。\n　……そんなことも　あると申します。": "Les souvenirs des gens sont vraiment\nmysterieux. Meme si notre esprit ne s'en\nsouvient pas, notre corps, lui, s'en souvient.<br>...C'est ce qu'on dit parfois."
+    },
+    "50338": {
+        "「この城で暮らす間に　何かのきっかけで\n　記憶が戻るということも　ありえましょう。\n　肝心なのは　あせらないことです。": "Pendant votre sejour dans ce chateau, il est\npossible que vos souvenirs reviennent a la\nsuite d'un evenement quelconque. L'important<br>est de ne pas se precipiter."
+    },
+    "50339": {
+        "「また明日　私と　この城をめぐってみましょう。\n　私は長く　この王国に仕えておりますゆえ\n　城の中なら　どこでも案内できますぞ。": "Revenez demain et explorons ce chateau\nensemble. Je sers ce royaume depuis longtemps,\ndonc je peux vous guider partout a l'interieur<br>du chateau."
+    },
+    "50340": {
+        "「今日のところは　部屋で　ゆっくりと\n　お休みになられるのが　よろしいかと。\n　さあ　ミシュアさま……。": "Aujourd'hui, il serait preferable de vous\nreposer tranquillement dans votre chambre.\nAllez, Mishua-sama..."
+    },
+    "50341": {
+        "「<pc>さんも　東の塔のお部屋へ\n　向かうところだったのですよね。\n　引き止めてしまって　ごめんなさい……。": "<pc>-san, vous vous dirigiez aussi vers\nla chambre de la East Tower, n'est-ce pas ? Je\nsuis desole de vous avoir retenu..."
+    },
+    "50342": {
+        "「あっ　起こしてしまいましたか。\n　あのですね。姫さまから　伝言を\n　申しつかってきました。": "Oh, je vous ai reveille, n'est-ce pas ? Eh\nbien, j'ai un message de la part de la\nprincesse."
+    },
+    "50343": {
+        "「それでですね。<pc>さまには\n　玉座の間まで　お越しいただきたいと\n　そういうことなんです。": "Alors, voila. Nous aimerions que\n<pc>-sama se rende jusqu'a la Salle du\nTrone. C'est ce que nous souhaitons."
+    },
+    "50344": {
+        "「確かに　お伝えしましたから。\n　では　失礼いたします。": "Je vous ai bien transmis le message. Je vous\nprie de m'excuser."
+    },
+    "50345": {
+        "「おお　<pc>。よく来てくれたな。": "Oh, <pc>. Je suis content que tu sois\nvenu."
+    },
+    "50346": {
+        "「<pc>さん。\n　私も　アンルシア姫さまに　呼ばれたんです。": "<pc>-san. Moi aussi, j'ai ete convoque\npar la princesse Anlucia-sama."
+    },
+    "50347": {
+        "「ふたりを呼んだのは　他でもない。": "Si je vous ai appeles tous les deux, ce n'est\npas pour rien."
+    },
+    "50348": {
+        "「近隣の洞くつに　赤き巨竜が現れ\n　暴れているという情報が　届いたのだ。\n　私は　これから　その討伐に向かおうと思う。": "Nous avons recu des informations indiquant\nqu'un Red Dragon seme le chaos dans la caverne\nvoisine. Je compte partir immediatement pour<br>l'affronter."
+    },
+    "50349": {
+        "「……そこでだ。\n　どうだ　ミシュア。この赤き巨竜の討伐に\n　お前も　同行する気はないか？": "...Alors voila. Qu'en dis-tu, Mishua ? Ne\nvoudrais-tu pas te joindre a nous pour vaincre\nce Red Dragon ?"
+    },
+    "50350": {
+        "「えっ。私が……ですか？\n　私が行っても　お役に立てるとは……。": "Quoi ? Moi... vraiment ? Meme si j'y vais, je\nne suis pas sure de pouvoir etre utile..."
+    },
+    "50351": {
+        "「ふふっ　もちろん　お前に\n　戦えなどと言うつもりは　ないさ。": "Fufufu, bien sur, je n'ai pas l'intention de\nte demander de te battre."
+    },
+    "50352": {
+        "「私と　行動を共にしていれば\n　お前の記憶に　よい影響が\n　あるのではないかと　思ってな。": "Je pense que si tu restes a mes cotes, cela\npourrait avoir une bonne influence sur ta\nmemoire."
+    },
+    "50353": {
+        "「……そうかも　しれません。\n　わかりました。私　行きます！": "C'est peut-etre vrai. D'accord. J'y vais !"
+    },
+    "50354": {
+        "「恐れながら　アンルシア姫さま。\n　ミシュアさまを　そのような場所に\n　連れていくのは　危険かと存じあげます。": "Toutes mes excuses, Princesse Anlucia-sama. Je\npense qu'il est dangereux d'emmener\nMishua-sama dans un tel endroit."
+    },
+    "50355": {
+        "「このようなとき　行方知れずとなった\n　孫のテグラムが　おりましたなら\n　警護役に　うってつけだったのですが……。": "Dans une telle situation, si seulement mon\npetit-fils Tegram n'avait pas disparu, il\naurait ete le garde du corps ideal..."
+    },
+    "50356": {
+        "「……そうだったな。": "...C'est vrai."
+    },
+    "50357": {
+        "「だが　ミシュアの警護なら　案ずることはない。\n　<pc>を呼んだのは　そのためだ。": "Cependant, tu n'as pas a t'inquieter pour la\nprotection de Mishua. C'est pour cette raison\nque j'ai fait appel a <pc>."
+    },
+    "50358": {
+        "「<pc>。ミシュアの警護のため\n　共に　洞くつまで　行ってくれないか？\n　お前ならば　ミシュアも　安心できるだろう。<yesno><close>": "<pc>. Accepterais-tu d'accompagner\nMichua jusqu'a la grotte pour assurer sa\nsecurite ? Avec toi, Michua se sentira<br>certainement en securite. <yesno><close>"
+    },
+    "50359": {
+        "「つれないことを言うな。\n　ミシュアの記憶のためなんだ。\n　共に　洞くつへ　行ってくれるな？<yesno><close>": "Ne dis pas des choses aussi froides. C'est\npour la memoire de Mishua. Viens avec moi dans\nla grotte, d'accord ? <yesno><close>"
+    },
+    "50360": {
+        "「<pc>さん　お願いします。\n　アンルシア姫さまのおっしゃるように　私を\n　洞くつまで　連れていってくれませんか？<yesno><close>": "<pc>-san, s'il vous plait. Comme l'a dit\nla princesse Anlucia-sama, pourriez-vous\nm'emmener jusqu'a la grotte ? <yesno><close>"
+    },
+    "50361": {
+        "「おお　引き受けてくれるのだな。": "Oh, tu acceptes de le faire."
+    },
+    "50362": {
+        "「ありがとうございます　<pc>さん。\n　私のために　すみません。": "Merci beaucoup, <pc>-san. Je suis desole\nde vous avoir derange pour moi."
+    },
+    "50363": {
+        "「では　出発だ。赤き巨竜が現れたのは\n　グランゼドーラ領より南の　ロヴォス高地にある\n　ゼドラ洞という　洞くつの奥だ。": "Alors, partons. Le Red Dragon a ete apercu\ndans les profondeurs de la grotte Zedra,\nsituee dans les Highlands de Rovos, au sud du<br>territoire de Gran Zedora."
+    },
+    "50364": {
+        "「私は　ひと足先に　ゼドラ洞へ向かう。\n　<pc>。ミシュアのこと\n　よろしく　頼んだぞ！": "Je vais me rendre a la grotte de Zedra avant\nvous. <pc>. Je compte sur toi pour\nveiller sur Mishua !"
+    },
+    "50365": {
+        "「私も準備をして　すぐに行きますので\n　城下町の入り口で　待ち合わせましょう。\n　よろしくお願いします　<pc>さん。": "Je vais me preparer rapidement et je vous\nrejoindrai, retrouvons-nous a l'entree de la\nville du chateau. Je compte sur vous,<br><pc>-san."
+    },
+    "50366": {
+        "「お待たせしました　<pc>さん。\n　準備できましたので　行きましょう。": "Merci d'avoir attendu, <pc>-san. Je suis\npret maintenant, allons-y."
+    },
+    "50367": {
+        "「赤き巨竜が出たのは　たしか……\n　グランゼドーラ領より南の　ロヴォス高地にある\n　ゼドラ洞という　洞くつでしたね。": "Le Red Dragon est apparu, si je me souviens\nbien... dans la grotte Zedora, situee au sud\ndu territoire de Gran Zedora, dans les Hautes<br>Terres de Rovos."
+    },
+    "50368": {
+        "「<pc>さんの後ろを　しっかり\n　ついていくので　私のことは気にせず\n　ゼドラ洞へ　向かってください。": "Je vais suivre <pc>-san de pres, alors\nne vous inquietez pas pour moi et\ndirigeons-nous vers la grotte de Zedra."
+    },
+    "50369": {
+        "「来たか　<pc>。": "Te voila, <pc>."
+    },
+    "50370": {
+        "「ありがとうございます　<pc>さん。\n　おかげで　無事に　ここまで来れました。": "Merci beaucoup, <pc>-san. Grace a vous,\nj'ai pu arriver ici sans encombre."
+    },
+    "50371": {
+        "「ミシュアも来たか。これで　そろったな。": "Mishua est venue aussi. Nous sommes tous\nreunis maintenant."
+    },
+    "50372": {
+        "「赤き巨竜の巣は　この奥だ。\n　途中の道にも　魔物がいるだろう。\n　油断は　するなよ　<pc>。": "Le repaire du Dragon Rouge se trouve plus\nloin. Il y aura surement des monstres en\nchemin. Ne baisse pas ta garde, <pc>."
+    },
+    "50373": {
+        "「よし。行くぞ！": "Tres bien. Allons-y !"
+    },
+    "50374": {
+        "「<pc>さん。私たちも　行きましょう。": "<pc>-san. Allons-y aussi."
+    },
+    "50395": {
+        "「来たか　ふたりとも。\n　残念だが　赤き巨竜の姿は見えないようだ。": "Vous etes venus, tous les deux.\nMalheureusement, il semble que le Red Dragon\nsoit introuvable."
+    },
+    "50396": {
+        "「おそらく　アンルシア姫さまに\n　恐れをなして　逃げだしたのでしょう！": "Peut-etre qu'il a pris peur de la Princesse\nAnlucia sama et s'est enfui !"
+    },
+    "50397": {
+        "「ふっ。なら　よいがな……。\n　ところで　ミシュア。\n　道中で　何か思いだすようなことはあったか？": "Heh. Tant mieux alors... Au fait, Mishua. Y\na-t-il quelque chose qui te soit revenu en\nmemoire pendant le voyage ?"
+    },
+    "50398": {
+        "「いいえ。何も……。": "Non. Rien du tout..."
+    },
+    "50399": {
+        "「そうか。それは　残念だ。\n　だが　あせる必要はないぞ。": "Je vois. C'est dommage. Mais il n'est pas\nnecessaire de se presser."
+    },
+    "50400": {
+        "「むっ……！？": "Hmm...!?"
+    },
+    "50401": {
+        "「きゃっ！？": "Kya !?"
+    },
+    "50402": {
+        "「グラァァァァァッ！": "Graaaaaaaah !"
+    },
+    "50403": {
+        "「こっ……来ないで！\n　<pc>さん　助けてっ！！": "N'... n'approche pas ! <pc>-san, a\nl'aide !!"
+    },
+    "50404": {
+        "「ギャラァァァァァッ！！": "Gyaaaaaaah!!"
+    },
+    "50405": {
+        "「きゃあああああっ！！": "Aaaahhhhh !!"
+    },
+    "50406": {
+        "「ギャウッ！？　ギュアアァ！！": "Gyaouh！？ Gyuahaa！！"
+    },
+    "50407": {
+        "「そのチカラ……。\n　それは　紛れもなく　勇者のチカラだ。": "Cette puissance... C'est sans aucun doute\ncelle du heros."
+    },
+    "50408": {
+        "「やはり　お前が　そうだったのだな……。": "Comme je le pensais, c'etait bien toi..."
+    },
+    "50409": {
+        "「私が失った半身。ついに　手に入れたぞ！": "Mon autre moitie perdue. Enfin, je l'ai\nretrouvee !"
+    },
+    "50410": {
+        "「失った……半身？\n　アンルシア姫さま　何を言ってるの……？": "Perdu... ma moitie ? Princesse Anlucia-sama,\nque dites-vous...?"
+    },
+    "50411": {
+        "「私が　いくら努力しても\n　勇者に覚醒できないのは　なぜなのか？": "Pourquoi est-ce que, peu importe combien je\nm'efforce, je ne parviens pas a m'eveiller en\ntant que heros ?"
+    },
+    "50412": {
+        "「私には　何かが足りない。何かが欠けている。\n　それが原因だと　ずっと感じていた。": "Il me manque quelque chose. Il y a quelque\nchose qui fait defaut. J'ai toujours senti que\nc'etait la cause."
+    },
+    "50413": {
+        "「城で　お前と出会ったとき\n　それが　なんだったのか　悟ることができたよ。": "Quand je t'ai rencontre au chateau, j'ai\ncompris ce que c'etait."
+    },
+    "50414": {
+        "「お前こそ　私の失われた半身……。\n　いつの間にか　勇者のチカラを奪って\n　私から　抜けだしていったんだ……。": "Toi, tu es ma moitie perdue... A un moment\ndonne, tu as vole le pouvoir du heros et tu\nt'es echappe de moi..."
+    },
+    "50415": {
+        "「記憶がないのも　当然だ。\n　私から　抜けだしたお前は　ひとりの人間として\n　この世界に　存在するものではない。": "Il est normal que tu n'aies pas de souvenirs.\nToi qui t'es echappe de moi, tu n'existes pas\nen tant qu'etre humain dans ce monde."
+    },
+    "50416": {
+        "「グランゼドーラ城を目指し\n　私の前に現れたのは　無意識に\n　もとの場所へ　戻ろうとした結果なのさ。": "En visant le Chateau de Gran Zedora, je me\nsuis retrouve devant toi, P. C'etait le\nresultat inconscient de ma tentative de retour<br>a l'endroit d'origine."
+    },
+    "50417": {
+        "「そ　そんな……。私……私……？": "Ce... ce n'est pas possible... Moi... moi... ?"
+    },
+    "50418": {
+        "「お前と　ひとつになることで\n　私は　勇者として　覚醒を迎えられる！！": "En m'unissant a toi, je pourrai m'eveiller en\ntant que heros !!"
+    },
+    "50419": {
+        "「<pc>　よろこべ。\n　お前の見た夢が　正夢になる時が来たぞ。": "<pc>, rejouis-toi. Le moment est venu ou\nle reve que tu as fait devient realite."
+    },
+    "50420": {
+        "「儀式の準備を　始めなくてはならんな。\n　急いで　城へ戻るぞ！": "Je dois commencer les preparatifs pour le\nrituel. Depechons-nous de retourner au chateau\n!"
+    },
+    "50421": {
+        "「アンルシア姫さまの命により\n　この先は　立ち入り禁止となった。": "Par ordre de la Princesse Anlucia-sama,\nl'acces au-dela de ce point est interdit."
+    },
+    "50422": {
+        "「客人であろうと　通すわけには　いかぬ。\n　すみやかに　ここから　立ち去られよ。": "Meme si vous etes un invite, je ne peux pas\nvous laisser passer. Veuillez quitter cet\nendroit immediatement."
+    },
+    "50423": {
+        "「おお　<pc>さま。\n　こちらに　おられましたか。": "Oh, <pc>-sama. Vous etiez ici."
+    },
+    "50424": {
+        "「ミシュアさまのことで\n　<pc>さまに　お話があるのです。\n　こちらへ……。": "A propos de Mishuya-sama, j'ai quelque chose a\ndire a <pc>-sama. Par ici, s'il vous\nplait..."
+    },
+    "50425": {
+        "「じつは……。私も　ミシュアさまのいる\n　塔のお部屋へは　近づくなと\n　アンルシア姫さまに　命じられてしまいました。": "En fait... Princesse Anlucia sama m'a ordonne\nde ne pas m'approcher de la chambre de la tour\nou se trouve Mishua sama."
+    },
+    "50426": {
+        "「アンルシア姫さまは　勇者覚醒の儀式に\n　ミシュアが必要だとしか　教えてくれません。\n　いったい　ゼドラ洞で　何があったのですか？": "La princesse Anlucia-sama nous dit seulement\nque la ceremonie d'eveil du heros necessite la\npresence de Mishua. Que s'est-il donc passe<br>dans la grotte de Zedra ?"
+    },
+    "50427": {
+        "「……なんと。ミシュアさまが\n　アンルシア姫さまの　失われた半身ですと？\n　まさか　そんなことが……。": "Comment ? Dame Mishua serait la moitie perdue\nde la princesse Anlucia ? Impossible, cela ne\npeut etre vrai..."
+    },
+    "50428": {
+        "「アンルシア姫さまは　ミシュアさまを\n　どうする　おつもりなのか……。": "Que compte faire la Princesse Anlucia avec\nMishuya-sama..."
+    },
+    "50429": {
+        "「<pc>さま。\n　ミシュアさまは今　たいへん\n　危険な状態にあるのかも　しれません。": "<pc>-sama. Mishuara-sama pourrait etre\ndans une situation tres dangereuse en ce\nmoment."
+    },
+    "50430": {
+        "「……城下で　たびたび　行方不明の者が\n　出ているという話は　ご存知でしょうか？": "...Avez-vous entendu parler des personnes qui\ndisparaissent souvent dans la ville sous le\nchateau ?"
+    },
+    "50431": {
+        "「じつは　私の孫のテグラムも\n　その中の　ひとりなのです……。": "En fait, mon petit-fils Tegram fait aussi\npartie de ceux-la..."
+    },
+    "50432": {
+        "「行方不明となった者は　いずれも\n　アンルシア姫さまに　お目通りした直後に\n　姿を消したと　聞いております。": "Il semble que tous ceux qui ont disparu l'ont\nfait juste apres avoir rencontre la Princesse\nAnlucia."
+    },
+    "50433": {
+        "「しかし　これまで誰も　それを\n　疑問に思う者は　いなかったのです。\n　私自身も　そのひとりでした……。": "Cependant, jusqu'a present, personne n'avait\njamais remis cela en question. Moi-meme,\nj'etais l'un d'eux..."
+    },
+    "50434": {
+        "「愛する孫が　いなくなっても\n　それが　当たり前のことに思えて\n　疑問すら　抱けなかったのです。": "Meme lorsque mon petit-fils bien-aime a\ndisparu, cela m'a semble normal, et je n'ai\nmeme pas pu eprouver de doute."
+    },
+    "50435": {
+        "「なぜ　今まで　孫が行方不明になったことを\n　気に留めなかったのかは　わかりません……。\n　まるで　心にモヤが　かかっていたような……。": "Je ne sais pas pourquoi je ne me suis pas\nsoucie que mon petit-fils soit porte disparu\njusqu'a maintenant... C'est comme si un<br>brouillard obscurcissait mon esprit..."
+    },
+    "50436": {
+        "「……このままでは　ミシュアさまの身にも\n　何事か　起こるかもしれません。": "... A ce rythme, il pourrait arriver quelque\nchose a Mishuya-sama."
+    },
+    "50437": {
+        "「これを　<pc>さまに　託します。": "Je confie ceci a <pc>-sama."
+    },
+    "50438": {
+        "<pc>は　ダイム老から\n古びた銀のカギ（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Vieille Cle d'Argent de\nla part du Vieil Homme Dyme ! <me 60>"
+    },
+    "50439": {
+        "「ミシュアさまの囚われている塔には\n　城に　危険が及んだ際　王家の方々が\n　避難するための　秘密の通路があります。": "Il existe un passage secret dans la tour ou\ndame Mishua est prisonniere. Ce passage est\nutilise par la famille royale pour se refugier<br>en cas de danger menacant le chateau."
+    },
+    "50440": {
+        "「秘密の通路は　外に出るための洞くつ……。\n　海風の洞くつに　つながっております。\n　逆にたどれば　塔へ入ることができましょう。": "Le passage secret est un tunnel pour sortir a\nl'exterieur... Il est relie a la caverne des\nVents Marins. En le remontant, vous pourrez<br>entrer dans la tour."
+    },
+    "50441": {
+        "「先ほど　お渡ししたカギは\n　海風の洞くつと　秘密の通路をつなぐ扉を\n　開けるためのものなのです。": "La cle que je vous ai donnee plus tot sert a\nouvrir la porte qui relie la grotte du vent\nmarin au passage secret."
+    },
+    "50442": {
+        "「海風の洞くつは　人目に付かぬ所にあります。\n　城の西　レビュール街道北へと向かい\n　海に面したガケを　お探しください。": "La grotte du vent marin se trouve dans un\nendroit discret. Dirigez-vous vers l'ouest du\nchateau, vers la Reviewle Highway North, et<br>cherchez une falaise face a la mer."
+    },
+    "50443": {
+        "「私は　ミシュアさまが　心配でなりません。\n　<pc>さま　ミシュアさまのこと\n　どうか　よろしくお願いいたします……。": "Je suis tres inquiet pour Mishua-sama.\n<pc>-sama, je vous en prie, veillez bien\nsur Mishua-sama..."
+    },
+    "50444": {
+        "「おや？　誰かと思って\n　後をつけたら　あなたでしたか。": "Oh ? Je me demandais qui c'etait, et en te\nsuivant, j'ai decouvert que c'etait toi."
+    },
+    "50445": {
+        "「おひさしぶりです　<pc>さん。\n　おウワサは　いろいろと聞いていますよ。": "Ca fait longtemps, <pc>-san. J'ai\nentendu beaucoup de rumeurs a votre sujet."
+    },
+    "50446": {
+        "「ほう……。こんな場所に\n　洞くつの入り口が　あったとは。\n　これは　たいへん　興味ぶかいですね。": "Oh... Qu'il y ait une entree de grotte dans un\nendroit comme celui-ci... C'est vraiment tres\ninteressant."
+    },
+    "50447": {
+        "「ふむ。<pc>さんは\n　この奥を目指そうと　しているわけですか。": "Hmm. <pc>-san, vous visez a aller plus\nloin, n'est-ce pas ?"
+    },
+    "50448": {
+        "「それでは　私も　ちょっと\n　中を　のぞいてみるとしましょう。\n　お先に失礼。": "Dans ce cas, je vais aussi jeter un petit coup\nd'oeil a l'interieur. Veuillez m'excuser de\npasser en premier."
+    },
+    "50450": {
+        "「アラハギーロでは　ご苦労でしたね。\n　ベルムドは　すでに暴走を始めていました。\n　あなたに出向いてもらって　正解でしたよ。": "Vous avez fait du bon travail a AraHagi-ro.\nBermud avait deja commence a se dechainer.\nC'etait la bonne decision de vous y envoyer."
+    },
+    "50453": {
+        "「ヒョヒョヒョッ。それは　結構。\n　貴重な実験素材は　できるだけ\n　キズつけたくないですからねぇ。": "Hyohyohyo. Tres bien. Je prefere ne pas abimer\ndes sujets d'experimentation aussi precieux,\nvous savez."
+    },
+    "50454": {
+        "「今回の実験は　気合いを入れますよ。\n　なんといっても　実験素材が\n　並のチカラの持ち主では　ありません。": "Cette fois-ci, je vais m'appliquer\nserieusement a l'experience. Apres tout, le\nmateriau experimental n'est pas un Lord<br>ordinaire en termes de puissance."
+    },
+    "52751": {
+        "部屋の中から　話し声が　聞こえてくる……。": "Tu entends des voix provenant de l'interieur\nde la piece..."
+    },
+    "52752": {
+        "「それで　バスラー君。\n　新たな実験素材は　どんな様子ですか？": "Alors, Basler-kun. Comment se porte le nouveau\nmateriau d'experimentation ?"
+    },
+    "52753": {
+        "「はっ。キルギルさま。\n　あの娘は　塔の部屋で　おとなしくしています。\n　暴れるような様子も　ございません。": "Ha. Monsieur Kirgil. Cette fille se tient\ntranquille dans la chambre de la tour. Elle ne\nmontre aucun signe d'agitation."
+    },
+    "52754": {
+        "「さあ　準備を急ぎましょう。\n　大量の魔力を　集めなくてはいけません。\n　護衛は　まかせましたよ。": "Allons-y, depechons-nous de nous preparer.\nNous devons rassembler une enorme quantite de\nmagie. Je compte sur vous pour la protection."
+    },
+    "52755": {
+        "「はっ。かしこまりました。": "Haha. A vos ordres."
+    },
+    "52756": {
+        "「では　狩りに出かけるとしましょうか。\n　ヒョッヒョッヒョッ。": "Alors, allons chasser, voulez-vous ? Hyoh hyoh\nhyoh."
+    },
+    "53832": {
+        "「あっ　<pc>さん。\n　心配して　見にきてくれたんですね。": "Ah, <pc>-san. Tu es venu t'assurer que\ntout allait bien, n'est-ce pas ?"
+    },
+    "53833": {
+        "「私なら　大丈夫です。\n　こんなに立派な　お部屋に泊まれるなんて\n　思ってもみなかったし……。": "Je vais bien. Je n'aurais jamais imagine\npouvoir sejourner dans une chambre aussi\nmagnifique..."
+    },
+    "53834": {
+        "「この部屋は　アンルシア姫さまの部屋です。\n　ですが　姫さまは　やれ　魔物退治だ\n　やれ　他国の視察だと　外へ出てばかり。": "Cette piece est la chambre de Princess\nAnlucia-sama. Cependant, la princesse est\nconstamment en train de partir pour chasser<br>des monstres ou pour inspecter d'autres pays."
+    },
+    "53835": {
+        "「城にいるときも　公務のためと\n　玉座の間に閉じこもり　執務室で眠る始末……。\n　この部屋に戻る　お暇もないのです。": "Quand il est au chateau, il reste cloitre dans\nla Throne Room pour des raisons officielles,\net finit par dormir dans son bureau... Il n'a<br>meme pas le temps de revenir dans cette\nchambre."
+    },
+    "53836": {
+        "「アンルシア姫さま　大変そう……。\n　でも　そのおかげで　私みたいな者が\n　このお部屋を　使わせてもらえるんですね。": "Princesse Anlucia-sama a l'air d'avoir bien du\nsouci... Mais grace a cela, quelqu'un comme\nmoi peut utiliser cette chambre."
+    },
+    "53837": {
+        "「私は疲れたので　もう　休むことにします。\n　<pc>さんも　ご自分のお部屋で\n　お休みになってください。": "Je suis fatigue, je vais donc me reposer\nmaintenant. <pc>-san, reposez-vous\negalement dans votre chambre."
+    },
+    "53838": {
+        "「<pc>さまは　向かいの\n　東の塔の部屋を　お使いください。\n　この部屋と　同じ造りになっておりますよ。": "<pc>-sama, veuillez utiliser la chambre\nde la East Tower en face. Elle est construite\nde la meme maniere que celle-ci."
+    },
+    "65947": {
+        "「ふふふ……。はーははははっ！！": "Fufufu... Ha-ha-ha-ha-ha !!"
+    },
+    "75941": {
+        "「あなたを　グランゼドーラ城まで　連行します。\n　どうか　抵抗など　なさらぬよう……。": "Je vais vous escorter jusqu'au chateau de Gran\nZedora. Je vous prie de ne pas opposer de\nresistance..."
+    }
+}

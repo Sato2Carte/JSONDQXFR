@@ -1,0 +1,776 @@
+{
+    "306319": {
+        "「やった！　火が入りましたね！": "Super ! Le feu a pris !"
+    },
+    "306320": {
+        "「……文献には　神化するには　この炎で\n　魂を焼かねばならないと　書いてありました。": "......Les ecrits mentionnent qu'il faut bruler\nl'ame avec ces flammes pour atteindre la\ndivinite."
+    },
+    "306321": {
+        "「肉体ではなく　魂を焼くという炎……。\n　この炎に飛び込めば……。": "Une flamme qui brule non pas le corps, mais\nl'ame... Si je plonge dans cette flamme..."
+    },
+    "306322": {
+        "「あとは　ここで　あなたか　フォステイルが \n　神になれば　秘伝の間の　開かずの扉を\n　ひらくことが　できるのですね……。": "Il ne reste plus qu'a ce que toi ou Fostail\ndevienne dieu, et la porte fermee de la Secret\nRoom pourra etre ouverte..."
+    },
+    "306323": {
+        "「あとは　ここで　フォステイルが \n　神になれば　秘伝の間の　開かずの扉を\n　ひらくことが　できるのですね……。": "Il ne reste plus qu'a faire de Fostail un dieu\nici pour pouvoir ouvrir la porte interdite de\nla Secret Room, n'est-ce pas... ?"
+    },
+    "306324": {
+        "「おお！　神化の光炉じゃないか！\n　こんな物まで　用意されていたとは……\n　ご先祖サマサマだなァ！": "Oh ! Mais c'est le Furnace of Deification ! Je\nne m'attendais pas a ce qu'une telle chose\nsoit deja prete... Nos ancetres etaient<br>vraiment incroyables !"
+    },
+    "306325": {
+        "「反対側の扉にも　入ってみたんだが\n　そっちには　大地の箱舟に　よく似た\n　乗り物があったんだ。いやぁ　ぶったまげたね！": "J'ai egalement essaye d'entrer par la porte\nopposee, et de l'autre cote, il y avait un\nvehicule qui ressemblait beaucoup a l'Arche de<br>la Terre. J'etais vraiment stupefait !"
+    },
+    "306326": {
+        "「フフン。どうやら　最高のタイミングで\n　登場した……って感じかな？": "Fufu. On dirait que je suis arrive avec le\nmeilleur timing, tel un Red Snapper...\nn'est-ce pas ?"
+    },
+    "306327": {
+        "「ルーベの監視の　増員も手配できたんで\n　様子を　見にきたんだよ！\n　そしたら　途中で　フォスと出くわしてね。": "J'ai pu organiser un renforcement de la\nsurveillance de Lube, alors je suis venu voir\ncomment ca se passait ! Et en chemin, je suis<br>tombe sur Foss."
+    },
+    "306328": {
+        "「私の助けが　必要になるのではないか……。\n　そんな予感が　したのさ。\n　実際のところは　どうなんだい？": "Je me demande si tu n'auras pas besoin de mon\naide... C'est ce que je pressens. Alors, qu'en\nest-il reellement ?"
+    },
+    "306329": {
+        "<pc>は　自分か　フォステイルの\nどちらかが　神化しなければ\n何も進展しないと　告げた。": "<pc> a dit que rien n'avancerait a moins\nque lui ou Fostail ne se divinise."
+    },
+    "306330": {
+        "「そういうことなら\n　私が　神化を引き受けよう。\n　君は　そのままの　プクリポでいてくれ。": "Dans ce cas, je vais accepter de devenir un\nKami. Toi, reste simplement le Pukulipo que tu\nes."
+    },
+    "306331": {
+        "<pc>は　フォステイルに\n神化してもらわなければ\n何も進展しないと　告げた。": "<pc> a dit a Fostail que rien ne\nprogresserait sans une transformation divine."
+    },
+    "306332": {
+        "「そういうことなら\n　神化を　引き受けよう。": "Dans ce cas, j'accepterai de devenir un Kami."
+    },
+    "306333": {
+        "「今度こそ　安全に\n　神化できると考えて　よいのだろうね？\n　悪神になるのは　ごめん　こうむりたい。": "Cette fois, puis-je vraiment penser que je\npourrai me transformer en dieu en toute\nsecurite ? Je n'ai vraiment pas envie de<br>devenir un mauvais dieu."
+    },
+    "306334": {
+        "「痛いところを　つかないでおくれよ。\n　今度という　今度は　万全の態勢を\n　ととのえるよ。ルティアナ様に　誓おう。": "Ne touche pas la ou ca fait mal, je te prie.\nLa prochaine fois, je serai parfaitement\nprepare. Je le jure devant Lutiana-sama."
+    },
+    "306335": {
+        "「とりあえず　この炉を調べるところから\n　始めないとな……。また　招集をかけるから\n　回生堂で休むなり　自由にしててくれ。": "Pour l'instant, nous devons commencer par\nexaminer ce fourneau... Je vous convoquerai a\nnouveau, alors reposez-vous a la salle de<br>repos ou occupez-vous comme bon vous semble."
+    },
+    "306336": {
+        "<pc>たちは　回生堂に向かった……。": "<pc> et ses compagnons se dirigerent\nvers Kaiseidou..."
+    },
+    "306337": {
+        "「おっ　来た来た！　フォステイルの神化が\n　もうじき　終わるってよ。": "Ah, te voila ! La transformation divine de\nFostail est sur le point de s'achever."
+    },
+    "306338": {
+        "「プクリポから　神が誕生すれば\n　めでたく　六種族の神が　そろいますね。": "Si un dieu nait de Pukulipo, alors les dieux\ndes six races seront enfin reunis."
+    },
+    "306339": {
+        "「神が　そろうと……どうなるんだっけ？": "Quand les dieux se reunissent... qu'est-ce qui\nse passe deja ?"
+    },
+    "306340": {
+        "「……兄ちゃん　忘れちゃったの？\n　六種族の神が　ここに　つどうと\n　あの扉が　ひらかれるんだ。": "… Frerot, tu as oublie ? Quand les dieux des\nsix races se rassemblent ici, cette porte\ns'ouvrira."
+    },
+    "306341": {
+        "「アストルティアの楯の　真のチカラを\n　解放する手段が　扉の向こうにあるんだ。": "Le moyen de liberer le pouvoir du Bouclier\nd'Astoltia se trouve de l'autre cote de la\nporte."
+    },
+    "306342": {
+        "「石碑に　書いてあったろ。\n　ちゃんと　読まなかったのかい？": "C'etait ecrit sur la stele. Tu n'as pas bien\nlu ?"
+    },
+    "306343": {
+        "「復習の意味で　聞いたんだ。\n　<pc>が　忘れてるかも　しんないだろ。": "Je te le demande juste pour reviser.\n<pc> pourrait l'avoir oublie, tu sais."
+    },
+    "306344": {
+        "「……はいはい。": "...Oui, oui."
+    },
+    "306345": {
+        "「集まってるようだな　諸君。": "Il semble que vous soyez tous reunis, mes\nchers amis."
+    },
+    "306346": {
+        "「よろこばしきかな！　また　新たに\n　一柱の神が　顕現するに至った。": "Quelle joie ! Un nouveau dieu s'est manifeste."
+    },
+    "306347": {
+        "「紹介しよう！　フォステイル神だ！": "Je vais te presenter ! C'est le dieu Fostail !"
+    },
+    "306348": {
+        "「大げさなのは　やめてほしいのだが……。": "J'aimerais que tu arretes d'exagerer..."
+    },
+    "306351": {
+        "「あやしげな奴め！　名を名乗れ！": "Espece de type louche ! Decline ton identite !"
+    },
+    "306352": {
+        "「さあ　<pc>さま。\n　あなたは　わたくしたちの中心に。": "Allez, <pc>-sama. Vous etes au coeur de\nnotre attention."
+    },
+    "306355": {
+        "「声の主に　呼ばれているのは\n　<pc>さまだけの　ようですが\n　おひとりで行かせて　よいものでしょうか……。": "Il semble que seul <pc>-sama soit\nconvoque par le Lord des Voix, mais... Est-ce\nvraiment une bonne idee de le laisser y aller<br>seul...?"
+    },
+    "306356": {
+        "「ひとりきりで　奥まで来いとは\n　言ってなかったろ。私も　同行するとしよう。": "Je n'avais pas dit de venir seul jusqu'ici. Je\nvais t'accompagner."
+    },
+    "306357": {
+        "「私も　ご一緒します！": "Moi aussi, je vous accompagne !"
+    },
+    "306358": {
+        "「全員で付いていったら　ジア・クトが\n　襲ってきたときに　対処のしようがないね。": "Si tout le monde suit, il n'y aura aucun moyen\nde reagir si Jia Kuto attaque."
+    },
+    "306359": {
+        "「ならば　私たちは　残って\n　天星郷の守りを　固めるとしましょう。": "Dans ce cas, nous resterons pour renforcer la\ndefense de Ten Seikyo."
+    },
+    "306360": {
+        "「誰も　いませんね。\n　声の主すら　いないとは……。": "Il n'y a personne ici. Meme la voix du\nSeigneur est absente..."
+    },
+    "306361": {
+        "「神具の所有者よ。\n　よくぞ　神授の間に　たどり着いた。": "Possesseur des artefacts divins. Bravo d'etre\nparvenu jusqu'au Hall of Divine Gifts."
+    },
+    "306362": {
+        "「我は　女神ルティアナ。\n　のちの世では　アストルティアを\n　創りし者として　伝わっているであろうか。": "Je suis la deesse Lutiana. Dans les temps a\nvenir, il se pourrait que je sois connue comme\ncelle qui a cree Astoltia."
+    },
+    "306363": {
+        "「こ　この方が　生のルティアナ様！\n　お会いしとうございました！": "Ce... cette personne est la deesse Lutiana en\nchair et en os ! J'ai tellement reve de vous\nrencontrer !"
+    },
+    "306364": {
+        "「天使長　ルティアナ様は\n　ジャゴヌバとの戦いで……。": "L'Archange Lutiana-sama... dans la bataille\ncontre Jagonuba..."
+    },
+    "306365": {
+        "「あっ　ああ。私としたことが……。": "Ah, ah. Ce que je viens de faire..."
+    },
+    "306366": {
+        "「このルティアナ様は　神話の時代にでも\n　記録された　お姿なのかな……。": "Serait-ce l'apparence de la deesse Lutiana,\ntelle qu'elle a ete consignee durant l'age\nmythique..."
+    },
+    "306367": {
+        "「神剣と楯を　所有する者よ。\n　汝が　何ゆえ　チカラを求めるのか\n　じかに　問いただすことは　かなわぬ。": "O toi qui possedes l'epee divine et le\nbouclier. Je ne peux pas directement te\ndemander pourquoi tu cherches le pouvoir."
+    },
+    "306368": {
+        "「汝が　世界を守らんとする者か\n　私欲のため　強大なチカラを得ようと\n　しているだけの者なのか……。": "Es-tu celui qui cherche a proteger le monde,\nou es-tu simplement quelqu'un qui desire\nobtenir un pouvoir immense pour ses propres<br>interets... ?"
+    },
+    "306369": {
+        "「ひとたび　神具のチカラを　解放すれば\n　汝は　我に匹敵しうる存在……\n　創生巨神への　変化が可能となる。": "Une fois que le pouvoir de l'artefact divin\nest libere, tu deviendras un etre capable de\nrivaliser avec moi... Tu pourras te<br>transformer en un Titan de la creation."
+    },
+    "306370": {
+        "「みだりに与えるのは　はばかられる\n　絶大なる　チカラであるゆえ　これまでの試練で\n　汝の心と知恵を　代行者に確かめさせた。": "Il est deconseille de donner ce pouvoir a la\nlegere. C'est une force immense, c'est\npourquoi les epreuves precedentes ont permis a<br>l'emissaire de verifier ton coeur et ta\nsagesse."
+    },
+    "306371": {
+        "「最後に　この荒ぶるチカラを　\n　あつかえるだけの　力量があるかを試す。\n　我がしもべたる　判定者に　汝のチカラを示せ。": "Enfin, je vais tester si tu possedes la force\nnecessaire pour maitriser ce pouvoir dechaine.\nMontre ta puissance a mes serviteurs, les<br>juges."
+    },
+    "306372": {
+        "「戦えるのは　神具の所有者のみ。\n　天使や　神々の助力は　そのいっさいを禁ず。": "Seuls les detenteurs des artefacts sacres\npeuvent combattre. Toute aide des anges ou des\ndieux est strictement interdite."
+    },
+    "306373": {
+        "「ここまで　付いてきて\n　見ているだけだなんて……無念です。": "Je vous ai suivi jusqu'ici, et ne faire que\nregarder... c'est frustrant."
+    },
+    "306374": {
+        "「信じるよ！　お前なら　かならずや\n　ルティアナ様のお眼鏡に　かなうだろうさ！": "Je te fais confiance ! Tu parviendras surement\na gagner la faveur de Dame Luhtiana !"
+    },
+    "306375": {
+        "「我　汝の力量を認める。\n　神具の　秘めたるチカラを　解放しよう。": "Je reconnais ta puissance. Je vais liberer le\npouvoir cache de l'artefact divin."
+    },
+    "306376": {
+        "「神剣レクタリスと　アストルティアの楯。\n　その絶大なるチカラの源泉は　協力者たる\n　神々の命脈を　糧とすることにある。": "La Divine Epee Lectalis et le Bouclier\nd'Astoltia. La source de leur immense pouvoir\nreside dans le fait qu'ils se nourrissent de<br>la vitalite des dieux qui les soutiennent."
+    },
+    "306377": {
+        "「神剣は　星さえも　両断し\n　楯は　神々と融合し　創生巨神に\n　変化するチカラを　秘めている。": "L'epee divine est capable de fendre meme les\netoiles, et le bouclier se fusionne avec les\ndieux, renfermant le pouvoir de se transformer<br>en un gigantesque dieu createur."
+    },
+    "306378": {
+        "「神具の所有者よ。\n　アストルティアの楯を手に\n　我が前に　立つがよい。": "Proprietaire des reliques divines. Brandis le\nShield of Astoltia et presente-toi devant moi."
+    },
+    "306379": {
+        "アストルティアの楯に　秘められた\n真のチカラが　解放された！": "Le pouvoir cache dans le Bouclier d'Astoltia a\nete libere !"
+    },
+    "306380": {
+        "「これより　汝は　念じるだけで\n　神々と融合し　霊子のよろいをまといて\n　創生巨神に変化できる。": "A partir de maintenant, tu pourras, par la\nseule force de ta pensee, te fusionner avec\nles dieux, revetir l'armure spirituelle et te<br>transformer en le Grand Createur Divin."
+    },
+    "306381": {
+        "「ひとたび　創生巨神となれば　海を裂き\n　山を砕き　大地を割ることすら　たやすい。": "Une fois devenu le Dieu Titan de la Creation,\nfendre les mers, briser les montagnes et\nscinder la terre devient un jeu d'enfant."
+    },
+    "306382": {
+        "「ただし　そのチカラは　無限にあらず。\n　創生巨神の顕現には　融合した　神々の命脈が\n　費やされていくからだ。": "Cependant, ce pouvoir n'est pas infini. Dans\nla manifestation du Colossal Dieu de la\nCreation, la vitalite des dieux fusionnes est<br>consommee."
+    },
+    "306383": {
+        "「神々の命が　尽き果てる前に　変化は解け\n　回復するまでの間　再び\n　創生巨神になることは　かなわぬ。": "Avant que la vie des dieux ne touche a sa fin,\nla transformation se dissipera. Jusqu'a ce que\nla recuperation soit complete, il est<br>impossible de redevenir le geant createur."
+    },
+    "306384": {
+        "「このチカラは　いまわしき侵略者……\n　ジア・クト念晶体に　対抗するための\n　手段として　用意した。": "Cette puissance a ete preparee comme un moyen\nde contrer les infames envahisseurs... les\ncristaux mentaux de Jia-Kuto."
+    },
+    "306385": {
+        "「神化の光炉や　天の箱舟も　みな……\n　ジア・クトの脅威に　そなえるための物。": "Le Furnace of Deification et le Starflight\nExpress... Tout cela a ete cree pour faire\nface a la menace de Jia-Kuto."
+    },
+    "306386": {
+        "「もし今　汝が　ジア・クトの脅威に\n　直面しているならば　神々や　天使と\n　チカラを合わせ　苦難を乗り越えてほしい。": "Si tu fais face a la menace de Jia-Kuto,\nj'espere que tu pourras unir tes forces avec\nles dieux et les anges pour surmonter cette<br>epreuve."
+    },
+    "306387": {
+        "「すべては　最悪の事態を想定しての\n　そなえだったのですね。": "Tout cela etait une preparation en prevision\ndu pire, n'est-ce pas."
+    },
+    "306388": {
+        "「ルティアナ様も　本心では\n　この神殿が　閉ざされたままであって\n　ほしかったのかも……。": "Peut-etre que, au fond d'elle-meme,\nLutiana-sama souhaitait que ce temple reste\nferme..."
+    },
+    "306389": {
+        "「やっぱ　無事だったか。\n　さすがだぜ　<cs_pchero>！": "Tu es sain et sauf, apres tout. Comme prevu,\n<cs_pchero> !"
+    },
+    "306390": {
+        "「帰りが遅いから　様子を見にきたんだけど\n　余計な　お世話だったかな。": "Je suis venu verifier car tu rentrais tard,\nmais peut-etre que je me suis mele de ce qui\nne me regardait pas."
+    },
+    "306391": {
+        "「首尾は　どうだ？": "Comment ca se passe ?"
+    },
+    "306392": {
+        "「期待以上の　成果さ。\n　ルティアナ様が　我らを想って\n　これだけの準備を……ひっぐ　うぐ。": "Des resultats au-dela de nos attentes.\nLutiana-sama pense a nous et a fait tant de\npreparatifs... Snif, ouin."
+    },
+    "306393": {
+        "<cs_pchero>は　ふたりに\n女神ルティアナが　遺してくれた\n記録の内容を　そのまま　伝えた。": "<cs_pchero> a transmis aux deux le contenu des\narchives laissees par la Deesse Lutiana."
+    },
+    "306394": {
+        "「そりゃ　すげえな……。\n　うまく使えば　ジア・クトどもを\n　一掃できるんじゃねえのか！": "Ca, c'est incroyable... Si on l'utilise bien,\non pourrait peut-etre eliminer tous les\nGia-Kuto d'un seul coup !"
+    },
+    "306395": {
+        "「うまく使えば……か。\n　ならば　できるだけ　敵の情報をつかんで\n　一撃必殺を　ねらいたいところだな。": "Si je l'utilise correctement... hmm. Dans ce\ncas, je devrais essayer de recueillir autant\nd'informations que possible sur l'ennemi et<br>viser un coup fatal."
+    },
+    "306396": {
+        "「もう一度　ジア・ルーベと\n　向き合わなければ　ならないようだね。\n　そろそろ　落ち着いていると　よいが……。": "Il semble que nous devions a nouveau affronter\nDia Rubay. J'espere qu'il sera enfin calme..."
+    },
+    "306397": {
+        "「よし！　回生堂の２階にある\n　ジア・ルーベの部屋に　行ってみるか。": "Bien ! Allons voir la chambre de Dia Rubay au\ndeuxieme etage de Kaiseido."
+    },
+    "306398": {
+        "「よお！　アタマは　冷えたかい？": "Yo ! Ta tete s'est-elle refroidie ?"
+    },
+    "306399": {
+        "「王の愛などと　おだてられ……\n　有頂天になっていた。ルーベたちは　幼さに\n　つけこまれた。あいつに……ゲノスに。": "Flatte par l'amour du roi... J'etais si\neuphorique. Rube et les autres ont ete dupes\npar leur naivete. Par lui... Genos."
+    },
+    "306400": {
+        "「ただの　余興だったの　ルーベたちは。": "C'etait juste un divertissement, ces Rube et\nles autres."
+    },
+    "306401": {
+        "「今なら　おたがい　腹を割って\n　話が　できるんじゃあないのかい？": "Maintenant, ne penses-tu pas qu'on peut\ndiscuter franchement ?"
+    },
+    "306402": {
+        "「我々は　お前たちのことを\n　あまりにも　知らなすぎる。\n　侵略の目的とか　生きる喜びとか……さ。": "Nous ne savons vraiment pas grand-chose sur\nvous. Que ce soit sur vos intentions\nd'invasion ou sur ce qui vous apporte de la<br>joie dans la vie..."
+    },
+    "306403": {
+        "「ジア・クト念晶体は　次元のカベを越えて\n　旅する種族。創生のチカラを　収穫するために。": "Les Cristaux de Pensee de Gia-Kuto sont une\nrace qui voyage a travers les barrieres\ndimensionnelles pour recolter la puissance de<br>la creation."
+    },
+    "306404": {
+        "「ルーベたち　念晶体は　完全硬化し\n　消滅すると言われている……定期的に\n　創生のチカラを　取り込まなければ。": "On dit que les cristaux de pensee comme ceux\nde Rube se solidifient completement et\ndisparaissent... Il est donc essentiel de<br>regulierement integrer le Pouvoir de la\nCreation."
+    },
+    "306405": {
+        "「ただそこに　あるだけで　創生のチカラは\n　万物に宿り　生み出されていくもの。\n　それが　できないとは　いったい……。": "Le simple fait d'exister permet a la force de\nla creation de resider en toute chose et de\ndonner naissance a de nouvelles formes.<br>Pourquoi cela ne pourrait-il pas etre\npossible...?"
+    },
+    "306406": {
+        "「ジア・クトの　宿命かもしれない。\n　ルーベたちは　ほかから　奪うしかないの\n　創生のチカラを　生産できない以上。": "C'est peut-etre le destin de Jia-Kuto. Rube et\nles autres n'ont pas d'autre choix que de\nprendre aux autres, puisqu'ils sont incapables<br>de produire la Puissance de la Creation."
+    },
+    "306407": {
+        "「生きるための　侵略と　収穫か。\n　はた迷惑な存在だねぇ……。": "Une invasion et une recolte pour survivre,\nhein. Quel etre derangeant..."
+    },
+    "306408": {
+        "「ゲノスは　待っている　刻が満ちるのを。\n　大収穫によって　この世界の　創生のチカラは\n　根こそぎ　ジア・クトに刈り取られる。": "Genos attend que le moment soit venu. Par la\ngrande recolte, le pouvoir de creation de ce\nmonde sera entierement fauche par Jia-Kuto."
+    },
+    "306409": {
+        "「ついに　全軍で　しかけてくるのですか！": "Ils vont finalement lancer une attaque avec\ntoutes leurs forces !"
+    },
+    "306410": {
+        "「あっは！　そんな　非効率なことはしない。\n　念晶巨人を投下して　いっきにやるの。": "Ah ah ! Je ne ferai rien d'aussi inefficace.\nJe vais larguer le Telecrystal Titan et tout\nfaire d'un coup."
+    },
+    "306411": {
+        "「念晶…巨人だと？": "Nenchou... Un geant ?"
+    },
+    "306412": {
+        "「このフォーリオンなどより　ずっと巨大な\n　ジア・クトの超兵器。手も足も出せない。": "Cette arme surpuissante de Gia Cto est bien\nplus grande que ce pauvre Leon. On ne peut\nrien faire contre elle."
+    },
+    "306413": {
+        "「何が　おかしいの。\n　錯乱してるの？　恐怖のあまり。": "Qu'est-ce qui est si drole ? Es-tu en train de\nperdre la tete a cause de la peur ?"
+    },
+    "306414": {
+        "「いやね　つい先ほど　我々は\n　巨大化の手段を　手に入れたんだよ。\n　かぶっちまったなぁと　思ってさ。": "Tu sais, nous venons tout juste d'acquerir un\nmoyen de devenir gigantesque. J'ai pense que\nc'etait un peu redondant."
+    },
+    "306415": {
+        "「しかし　巨人同士で　ぶつかりあうんじゃ\n　地上に　どれだけの被害が出るか\n　わかったもんじゃないね……。": "Cependant, si les geants se battent entre eux,\non ne peut pas imaginer combien de degats cela\ncauserait a la surface..."
+    },
+    "306416": {
+        "「やはり　ジア・クトの本拠地\n　魔眼の月を直接　ぶったたいたほうが\n　この戦いを　早期に終わらせられそうだ。": "Il semble qu'attaquer directement le repaire\nde Zia Kut, l'OEil du Mal, pourrait bien mettre\nfin a cette bataille plus rapidement."
+    },
+    "306417": {
+        "「やってみればいい　やれるものなら。\n　ゲノスが　散るさま……\n　かなうなら　この目で見たいところ。": "Essaie donc, si tu en es capable. Voir Genos\nse desintegrer... Si possible, j'aimerais voir\ncela de mes propres yeux."
+    },
+    "306418": {
+        "「魔眼の月を　攻めるつもりなら\n　これを　あげる。未知の情報を知れるはず。\n　我らの　不落要塞について。": "Si tu comptes attaquer l'OEil du Mal, je te\ndonne ceci. Cela devrait te permettre de\ndecouvrir des informations inconnues sur notre<br>forteresse imprenable."
+    },
+    "306419": {
+        "「ただの　腕輪のようだが……。": "Cela ressemble a un simple bracelet, mais..."
+    },
+    "306420": {
+        "「それは　念晶環。思念を介して\n　格納された情報を　読み取る装置。\n　あんたたちでも　扱えると思う。": "C'est un Telecrystal Ring. Un dispositif qui\npermet de lire les informations stockees a\ntravers les pensees. Je pense que meme vous,<br>vous devriez etre capables de le manipuler."
+    },
+    "306421": {
+        "「おお！　そいつは　大層なモンだねえ。\n　ありがたく　活用させてもらうよ！": "Oh ! C'est quelque chose de vraiment\nformidable. Je vais en faire bon usage, merci\nbeaucoup !"
+    },
+    "306422": {
+        "「さっそく　聖天舎に戻って　こいつから\n　情報を引き出し　魔眼の月　せん滅作戦の\n　詳細を　つめるとしようじゃないか。": "Allons immediatement retourner au Monastere\npour obtenir des informations de celui-ci et\npeaufiner les details de l'operation<br>d'extermination du Eye of Evil."
+    },
+    "306423": {
+        "「久しいな　ゆりかごの末裔たちよ。\n　再び　まみえる機会を得られて\n　余も　うれしく思うぞ。": "Il y a longtemps, descendants du berceau. Je\nsuis heureux d'avoir a nouveau l'occasion de\nvous rencontrer."
+    },
+    "306424": {
+        "「ジア・レド・ゲノス！": "Dia Ledo Genos !"
+    },
+    "306425": {
+        "「貴様たちの歴史が　今\n　終わりの時を　迎えようとしている。": "Votre histoire est sur le point de toucher a\nsa fin."
+    },
+    "306426": {
+        "「アストルティア文明　とでも言うべき\n　石くれのような　無価値な歴史がな。": "On pourrait dire que c'est une civilisation\nd'Astoltia, une histoire sans valeur comme de\nsimples cailloux."
+    },
+    "306427": {
+        "「その　はなむけとして\n　余は　大収穫の決行を指示した。": "En guise de cadeau d'adieu, j'ai donne l'ordre\nde lancer la grande recolte."
+    },
+    "306428": {
+        "「念晶巨人が　創生のチカラを吸いあげる\n　荘厳な光景……しかと　目に焼きつけるがよい。\n　これを　アストルティア崩壊の序曲とする。": "Le Telecrystal Titan absorbe la puissance de\nla creation, un spectacle majestueux... Fixe\nbien cette scene dans ta memoire. Que cela<br>soit le prelude a l'effondrement d'Astoltia."
+    },
+    "306429": {
+        "「ちっ！　悠長に　作戦なんか\n　立ててる場合じゃ　ないようだね。": "Tch ! Ce n'est pas vraiment le moment de\nperdre du temps a elaborer un plan."
+    },
+    "306430": {
+        "「全員　そろっているな？\n　今から　フォーリオン外郭\n　神都の入り口　手前にある広場に　集合だ。": "Tout le monde est la, n'est-ce pas ? Nous\nallons maintenant nous rassembler sur la place\njuste avant l'entree de Outer Fourion, la cite<br>divine."
+    },
+    "306431": {
+        "「広場の床に　天使をモチーフにした\n　モザイク画がある。その辺りで\n　<pc>に　神具を使ってもらうぞ。": "Sur le sol de la place, il y a une mosaique\nrepresentant un ange. C'est la que nous\ndemanderons a <pc> d'utiliser l'artefact<br>sacre."
+    },
+    "306432": {
+        "戦う準備を　ととのえて\nフォーリオン外郭　神都の門の\n入り口のあたりにある　モザイク画を調べよう。": "Prepare-toi a combattre et examine la mosaique\nsituee pres de l'entree des portes de la cite\ndivine d'Outer Fourion."
+    },
+    "306433": {
+        "「これから　神具　アストルティアの楯を使い\n　<cs_pchero>に　創生巨神に変化してもらう。": "A partir de maintenant, nous allons utiliser\nle bouclier sacre, le Shield of Astoltia, pour\ntransformer <cs_pchero> en un gigantesque dieu<br>de la creation."
+    },
+    "306434": {
+        "「チカラの解放には　使用者のみならず\n　この場につどった　すべての英雄……\n　すなわち　神々の協力が　不可欠だ。": "Pour liberer le pouvoir, il est indispensable\nd'avoir la cooperation non seulement de\nl'utilisateur, mais aussi de tous les heros<br>rassembles ici... autrement dit, des dieux\neux-memes."
+    },
+    "306435": {
+        "「ルティアナ様によると \n　創生巨神の動力源は　神々の命脈……\n　つまり　命そのものだ。": "Selon Rutilia-sama, la source d'energie du\nGeant Createur est le lien vital des dieux...\nEn d'autres termes, c'est la vie elle-meme."
+    },
+    "306436": {
+        "「もう　覚悟はできている。\n　神授の間で　聞いたことは\n　皆に　話しておいた。": "Mon choix est deja fait. J'ai partage avec\ntout le monde ce que j'ai entendu au Hall of\nDivine Gifts."
+    },
+    "306437": {
+        "「……そうだったか。\n　ぶっつけ本番になるが　頼む。": "Ah... c'est vrai. Je compte sur toi, meme si\nc'est du direct."
+    },
+    "306438": {
+        "「<cs_pchero>。いつでも　いいぜ。\n　神具のチカラを　使ってくれ。": "<cs_pchero>. C'est bon quand tu veux. Utilise\nle pouvoir de l'artefact divin."
+    },
+    "306439": {
+        "<cs_pchero>は　創生巨神に\n変化するよう　強く念じた。": "<cs_pchero> se concentra intensement pour se\ntransformer en Creation du Dieu Geant."
+    },
+    "306440": {
+        "「うっひょおおお！　すっげー！\n　身体が　光り出したぞ！\n　このあと　どうなっちまうんだ？": "Ouahhhh ! Incroyable ! Mon corps commence a\nbriller ! Qu'est-ce qui va se passer ensuite ?"
+    },
+    "306441": {
+        "「兄者　うるさい！\n　<cs_pchero>が　集中してんだから\n　ジャマすんじゃな…わあっ！": "Frere, tais-toi ! <cs_pchero> est en train de\nse concentrer, alors ne viens pas nous\nderanger... Waaah !"
+    },
+    "306442": {
+        "「ダメだ！　神都から　はなれてくれ！\n　荷重に耐えられない！": "Non ! Eloignez-vous de la cite divine ! Elle\nne pourra pas supporter le poids !"
+    },
+    "306443": {
+        "<cs_pchero>と融合した　英雄たちの声が\n頭の中から　聞こえてきた。": "Les voix des heros fusionnes avec <cs_pchero>\nresonnent dans ma tete."
+    },
+    "306444": {
+        "「<cs_pchero>の　見ている物が\n　俺にも見えるぞ！　みんなは　どうだ？": "Je peux voir ce que <cs_pchero> voit ! Et vous\ntous, pouvez-vous le voir aussi ?"
+    },
+    "306445": {
+        "「ボクにも　しっかり　見えてます。\n　でも　身体を動かす自由は　ないみたい。": "Je peux le voir clairement aussi. Mais il\nsemble que je n'ai pas la liberte de bouger\nmon corps."
+    },
+    "306446": {
+        "「おーい　聞こえるかぁ！\n　神剣レクタリスを　出してみろぉ！": "He, tu m'entends ? Essaye de sortir la Divine\nSword Lectalis !"
+    },
+    "306447": {
+        "「よっしゃあ！　そいつで　魔眼の月を\n　直接　ぶった切っておくれー！": "Yes ! Utilise ca pour trancher directement\nl'OEil du Mal !"
+    },
+    "306448": {
+        "「今の　お前なら　造作もないはずだ。\n　魔眼の月は　レンダーシアの上空に見える。\n　頼んだぞー！　<cs_pchero>！": "Pour toi maintenant, ce ne devrait pas etre un\nprobleme. L'OEil du Mal est visible dans le\nciel de Rendaashia. Je compte sur toi,<br><cs_pchero> !"
+    },
+    "306449": {
+        "「私にできることは\n　もう　ないのでしょうか……。": "Il n'y a plus rien que je puisse faire,\nn'est-ce pas..."
+    },
+    "306450": {
+        "「今は　彼らを信じ　結果を待とう。\n　お前が選んだ英雄を　お前が信じないで\n　どうする。きっと　うまくいくさ……。": "Maintenant, faisons confiance a nos heros et\nattendons le resultat. Si tu ne crois pas en\nceux que tu as choisis, que feras-tu ? Tout<br>ira bien..."
+    },
+    "306451": {
+        "「くっそ……魔眼の月は　まだ遠いな。": "Mince... L'OEil du Mal est encore loin."
+    },
+    "306452": {
+        "「待って！　月から　何かが！": "Attends ! Quelque chose vient de Mn. !"
+    },
+    "306453": {
+        "「あの光……まさか　創生のチカラ？": "Cette lumiere... Serait-ce le pouvoir de la\nCreation ?"
+    },
+    "306454": {
+        "「ちゅー　ちゅー　吸い取ってやがる……。\n　あのデカブツが　ゲノスの言っていた\n　念晶巨人って奴なのかい……。": "Chu-chu... Il est en train d'aspirer... Ce\ngros Kabu serait-il ce que Genos appelait le\nTelecrystal Titan... ?"
+    },
+    "306455": {
+        "「看過できん！": "Je ne peux pas l'ignorer !"
+    },
+    "306456": {
+        "「ここは　当初の目的どおり\n　魔眼の月の破壊に　向かうべきでは……。": "Ici, nous devrions nous diriger vers la\ndestruction de l'Eye of Evil, comme prevu\ninitialement..."
+    },
+    "306457": {
+        "「いや　ほっとけねえな……。肩慣らしにも\n　ちょうどいいし　あのデクの坊を倒してから\n　魔眼の月を　ぶった切るとしようぜ！": "Non, je ne peux pas l'ignorer... Ca fera un\nbon echauffement. Battons d'abord cet idiot,\npuis tranchons l'OEil du Mal !"
+    },
+    "306458": {
+        "「<cs_pchero>さん！\n　今こそ　神剣で　トドメを！": "<cs_pchero>さん！ 今, 神剣でとどめを刺してください！"
+    },
+    "306459": {
+        "「しぶてぇなあ！　どてっ腹に\n　一発　お見舞いしてやれッ！": "Quel coriace ! Vise-lui bien le ventre et\nfais-lui gouter de ta puissance !"
+    },
+    "306460": {
+        "「くっそ……あと　ちょっとだってのに\n　なんで　元に戻っちまうんだ……。": "Merde... J'etais si pres du but, alors\npourquoi faut-il que tout revienne a la\nnormale..."
+    },
+    "306461": {
+        "「巨神化は　我ら　神の命脈を使って\n　おこなわれるそうだからな……。\n　これが　限界だったのだろう。": "Il parait que la transformation en geant\nutilise la force vitale des dieux... C'etait\nprobablement la limite."
+    },
+    "306462": {
+        "「どうりで　クタクタなわけだ……。": "Pas etonnant que je sois epuise..."
+    },
+    "306463": {
+        "「この調子じゃ　当分\n　巨神には　なれそうにないぜ。\n　魔眼の月は　どうすんだ？": "A ce rythme, il semble que je ne deviendrai\npas un geant de sitot. Qu'allons-nous faire de\nl'Eye of Evil ?"
+    },
+    "306464": {
+        "「あの……魔眼の月を　たたくのは\n　もちろん　重要だけど……念晶巨人の部品が\n　残ったままなのが　気がかりなんだ。": "Hum… Taper sur l'Eye of Evil, c'est bien sur\nimportant, mais… ce qui m'inquiete, c'est\nqu'il reste encore des pieces du Telecrystal<br>Titan."
+    },
+    "306465": {
+        "「わたくしも　ドルタムさまと　同意見です。\n　あれは　不吉な物に感じます……。\n　月のことは　あとで考えませんか？": "Je suis egalement d'accord avec Doltam-sama.\nCela me semble etre quelque chose de\nsinistre... Ne devrions-nous pas reflechir a<br>propos de Mn. plus tard ?"
+    },
+    "306466": {
+        "「巨人の部品が　落下したのは\n　大エテーネ島の　方角だったね。\n　とりあえず　近くまで行ってみよう。": "Les pieces du geant sont tombees en direction\nde Greater Ethene. Allons-y pour voir de plus\npres."
+    },
+    "306467": {
+        "「あんな巨大な物を　今の我々に\n　壊せるのでしょうか……。": "Je me demande si nous pouvons vraiment\ndetruire quelque chose d'aussi gigantesque\navec nos moyens actuels..."
+    },
+    "306468": {
+        "「へへっ！　オレに　まかせとけ！\n　……うぉおおおおおおッ！": "Hehe ! Laisse-moi faire ! ...Wooohhhh !"
+    },
+    "306469": {
+        "「うへー。\n　さすがに　ムリかぁ……。": "Ouf. C'est vraiment impossible, hein..."
+    },
+    "306470": {
+        "「おお？　なんか　生えてきやがった！": "Oh ? Quelque chose a pousse !"
+    },
+    "306471": {
+        "「あああー！？　兄者のバカー！\n　余計なこと　するからーッ！！": "Aaaah !? Grand frere, espece d'idiot ! C'est\nparce que tu te meles de ce qui ne te regarde\npas !!"
+    },
+    "306472": {
+        "「オ　オレのせいじゃねえよぉぉ！？": "Ce... ce n'est pas de ma faute !"
+    },
+    "306473": {
+        "「あの光は　創生のチカラ……\n　魔眼の月へ　送っているのか！？": "Ce rayon de lumiere, c'est le pouvoir de la\nCreation... Est-il en train de l'envoyer a\nl'Eye of Evil !?"
+    },
+    "306474": {
+        "「早く　あれを壊さねば\n　ジア・クトを　利することになる。\n　何か　手はないものか……。": "Si nous ne detruisons pas cela rapidement,\ncela profitera a Jia Kuto. N'y a-t-il pas un\nmoyen de faire quelque chose... ?"
+    },
+    "306475": {
+        "「先ほど　カブさまがやったように\n　自分たちの　ありったけの　チカラを\n　神剣に込めるのは　どうでしょう？": "Que diriez-vous de faire comme Kabu-sama vient\nde le faire et d'insuffler toute notre\npuissance dans l'epee sacree ?"
+    },
+    "306476": {
+        "「アストルティアの楯と同様　神剣レクタリスに \n　命脈をそそげば　あれを　砕けるくらいの\n　チカラが　得られるかもしれません。": "Tout comme le Bouclier d'Astoltia, si vous\ninsufflez votre energie vitale a l'Epee Divine\nLectalis, il se pourrait que vous obteniez la<br>force necessaire pour briser cela."
+    },
+    "306477": {
+        "「審判の天使　ヘルヴェルも\n　同じようなことをして　ジア・クトの船を\n　退けたって　聞いたな……。": "J'ai entendu dire que l'ange du jugement,\nHelvel, a fait quelque chose de similaire pour\nrepousser le navire de Jia Kut..."
+    },
+    "306478": {
+        "「ためしてみる価値は　ありそうだ。\n　<cs_pchero>！　神剣を出してくれ。": "Ca vaut la peine d'essayer. <cs_pchero> ! Sors\nl'epee divine."
+    },
+    "306479": {
+        "「いけない！": "Oh non !"
+    },
+    "306480": {
+        "「みなさんは　ボクが守ります！\n　その間に　神剣を！": "Je vais vous proteger, tout le monde !\nProfitez-en pour recuperer l'epee divine !"
+    },
+    "306481": {
+        "「無茶だ　<cs_pchero>！\n　ひとりで　相手にできる数じゃねえ！": "C'est de la folie, <cs_pchero> ! Tu ne peux\npas les affronter tout seul !"
+    },
+    "306482": {
+        "「行くな！　キミまで抜けたら　神剣のチカラを\n　維持できない！　奴らを　食い止めているうちに\n　私たちで　やりとげるんだ。": "Ne pars pas ! Si tu nous quittes aussi, nous\nne pourrons pas maintenir le pouvoir de l'epee\ndivine ! Pendant qu'ils sont retenus, nous<br>devons accomplir notre mission avec Spear."
+    },
+    "306483": {
+        "「待たせたわね！　<cs_pchero>！": "Je t'ai fait attendre ! <cs_pchero> !"
+    },
+    "306484": {
+        "「あなたの声が　聞こえた気がしたの。\n　心のままに動いて　正解だったわ。": "J'ai cru entendre ta voix. J'ai bien fait de\nsuivre mon coeur."
+    },
+    "306485": {
+        "「状況は　よく　わからないけれど\n　あの敵を　食い止めれば　いいのよね？": "La situation n'est pas tres claire, mais il\nsuffit d'arreter cet ennemi, n'est-ce pas ?"
+    },
+    "306486": {
+        "「勇者と盟友が　そろったからには\n　一歩も　先へ通さない！！": "Puisque le heros et ses allies sont reunis, je\nne vous laisserai pas passer d'un pas de plus\n!!"
+    },
+    "306487": {
+        "「ユーライザ！！": "Yuliza！！"
+    },
+    "306488": {
+        "「おい　何があったんだ？": "He, qu'est-ce qui s'est passe ?"
+    },
+    "306489": {
+        "「私も　治療をしてほしいと　頼まれて\n　来たばかりなので　何が何やら……。": "Je viens tout juste d'arriver, car on m'a\ndemande de me faire soigner, et je ne\ncomprends pas encore tout..."
+    },
+    "306490": {
+        "「炉のような物の　そばで　倒れていたので\n　これと　関係があるのかも　しれません。": "Je l'ai trouve effondre pres de ce qui\nressemblait a un four, cela pourrait donc\navoir un lien."
+    },
+    "306491": {
+        "「光炉のそばで……。": "Pres du fourneau lumineux..."
+    },
+    "306492": {
+        "「まさか　神化の炎に　飛び込んだのか！": "Serait-il possible qu'il ait saute dans les\nflammes divines ?"
+    },
+    "306493": {
+        "「この　初期型の光炉が　作られた当時は\n　魂の燭台が　使われていなかった。神化するには\n　直接　神化の炎で　魂を焼くしかないんだ。": "A l'epoque ou ce modele initial de four\nlumineux a ete fabrique, le Soul Candelabra\nn'etait pas utilise. Pour obtenir la divinite,<br>il n'y avait pas d'autre choix que de bruler\ndirectement l'ame avec la flamme divine."
+    },
+    "306494": {
+        "「星巡りを乗り越えた　英雄ならばともかく\n　ただの天使の身で　そんなことをすれば\n　どうなるか　知れないというのに……。": "A moins d'etre un heros ayant surmonte le\nvoyage des etoiles, en tant que simple ange,\non ne peut savoir ce qui pourrait arriver en<br>tentant cela..."
+    },
+    "306495": {
+        "「ヤケドなどの　外傷はありません。\n　なんだって　こんな無茶を……。": "Il n'y a pas de blessures externes comme des\nbrulures. Pourquoi a-t-il pris un tel risque\ninsense... ?"
+    },
+    "306496": {
+        "「私にできることは\n　もう　ないのでしょうか……。": "Il n'y a plus rien que je puisse faire,\nn'est-ce pas..."
+    },
+    "306497": {
+        "「献身か　執着か……。": "Devouement ou obsession..."
+    },
+    "306498": {
+        "「なんですって？": "Quoi ?"
+    },
+    "306499": {
+        "「いや　ユーライザを運んでやろう。\n　ここでは　ろくな治療も　できんだろうしな。": "Non, je vais transporter Yuliza. Ici, il n'y a\npas vraiment de soins adequats."
+    },
+    "306500": {
+        "「アシュレイを失い　創生巨神という\n　切り札を失ったが　ほかに手はないか……\n　ジア・クトが　動きだす前に　考えねばならん。": "Nous avons perdu Ashley et notre atout, le\ngeant primordial de la creation. N'y a-t-il\npas d'autres options... Il faut reflechir<br>avant que Gia Cto ne se mette en mouvement."
+    },
+    "306501": {
+        "「お前も　それまで　英気を養っててくれ。\n　こちらから　追って連絡する。": "En attendant, prends le temps de reprendre des\nforces. Je te contacterai prochainement."
+    },
+    "306502": {
+        "「捕虜の様子は？": "Comment se porte le prisonnier ?"
+    },
+    "306503": {
+        "「どうも　こうも……\n　すっかり　ムシを決め込んでます。": "Peu importe ce que je fais... Ils m'ignorent\ncompletement."
+    },
+    "306504": {
+        "「ジア・ルーベといったか？\n　私は　ミトラー。この天星郷の長だ。": "Dia Rubay, c'est ca ? Je suis Mitra, le chef\nde ce Domaine des Astres."
+    },
+    "306505": {
+        "「道連れ……砕けろ……？　ありえない。\n　どの念晶体よりも　ゲノス様の寵愛を\n　受けていた。……特別な　ふたかけらなのに。": "Compagnon de route... Brise...? Impossible.\nJ'etais plus choye que n'importe quel autre\ncristal par Genos-sama. Pourtant, c'etait des<br>fragments speciaux."
+    },
+    "306506": {
+        "「特別ぅ？　聞いて　あきれるねえ。": "Special ? Je suis abasourdi d'entendre ca."
+    },
+    "306507": {
+        "「お前は　敵地で　とらわれの身。\n　頼みの綱の　ゲノス様は　救援ひとつ\n　寄越しやしない……。お前　見捨てられたのさ。": "Tu es prisonnier en territoire ennemi.\nGenos-sama, en qui tu avais place tous tes\nespoirs, ne t'envoie aucune aide... Tu as ete<br>abandonne."
+    },
+    "306508": {
+        "「そんなはずない！！\n　ルーベと　サフィルは　特別なの！\n　王の愛と　王の叡智なんだから！": "Ca ne se peut pas !! Lube et Saphir sont\nspeciaux ! Ils representent l'amour et la\nsagesse du roi !"
+    },
+    "306509": {
+        "「でもさぁ　相方は　気づいていたようだぞ。\n　思い返してみな。お前たちの　あの冠……\n　敵を道連れにする　道具だったろ。": "Mais tu sais, ton partenaire semblait l'avoir\nremarque. Rappelle-toi. Votre couronne...\nC'etait un outil pour emmener l'ennemi avec<br>vous, n'est-ce pas."
+    },
+    "306510": {
+        "「いつまで　目を　そらし続けるんだい？\n　そんなだから　相方から\n　バカ呼ばわりされるんだよ！！": "Jusqu'a quand vas-tu continuer a detourner le\nregard ? C'est pour ca que ton partenaire te\ntraite d'idiot !!"
+    },
+    "306511": {
+        "「黙れ！！　引き裂いてやる！　そのクチを！": "Tais-toi !! Je vais te dechirer cette bouche !"
+    },
+    "306512": {
+        "「サフィルの心核！？　なんで　あんたが！": "Le Coeur de Saphir !? Pourquoi toi ?"
+    },
+    "306513": {
+        "「返せ！　下等種族が　触れるな。\n　サフィルの心が　けがれる！": "Rends-le ! Ne touchez pas, espece inferieure.\nVous souillez le coeur de Saphir !"
+    },
+    "306514": {
+        "「はい　そうですかって　返せるワケないだろ。\n　武器のたぐいかも　しれないってのに。": "Bien sur que non, je ne peux pas simplement\naccepter ca. Ca pourrait etre une sorte\nd'arme, apres tout."
+    },
+    "306515": {
+        "「返して。もう　戦う意思はない。\n　それは……サフィルの心だから\n　武器じゃない。": "Rends-le-moi. Je n'ai plus l'intention de me\nbattre. C'est... le coeur de Saphir, ce n'est\npas une arme."
+    },
+    "306516": {
+        "サフィルの心核を　ジア・ルーベに渡しますか？<yesno><close>": "Voulez-vous donner le Coeur de Saphir a Dia\nRubay ?<yesno><close>"
+    },
+    "306517": {
+        "「返して。もう　戦う意思はない。\n　それは……サフィルの心だから\n　武器じゃない。": "Rends-le-moi. Je n'ai plus l'intention de me\nbattre. C'est... le coeur de Saphir, ce n'est\npas une arme."
+    },
+    "306518": {
+        "サフィルの心核を　ジア・ルーベに渡しますか？<yesno><close>": "Voulez-vous donner le Coeur de Saphir a Dia\nRubay ?<yesno><close>"
+    },
+    "306519": {
+        "<pc>は　サフィルの心核を\nジア・ルーベに渡した。": "<pc> a remis le Saphir's Core a Dia\nRubay."
+    },
+    "306520": {
+        "「念晶体の構造を　作り変える施術は\n　激痛を　ともなったはずだ。": "La procedure pour restructurer le cristal\nspirituel a du etre extremement douloureuse."
+    },
+    "306521": {
+        "「研磨に耐え抜いた　お前たちは\n　原石として　より　輝きを増した。": "Vous qui avez resiste a l'epreuve du\npolissage, vous avez gagne en eclat en tant\nque pierres precieuses."
+    },
+    "306522": {
+        "「クルヴィダの王冠を　授与する。\n　たとえ　敵陣にあろうと　王冠を通じ\n　余とお前たちは　かたい　つながりを持つのだ。": "Je te remets la Couronne de Kuruvida. Meme si\ntu te trouves en territoire ennemi, toi et moi\nresterons lies fermement par cette couronne."
+    },
+    "306523": {
+        "「王冠の輝きが　頂点に達したとき\n　余の愛し子たる　お前たちに　助勢を与える。\n　それは　敵を　せん滅するチカラとなろう。": "Lorsque l'eclat de la couronne atteindra son\napogee, je vous accorderai, a vous mes enfants\nbien-aimes, mon soutien. Cela deviendra une<br>force pour annihiler vos ennemis."
+    },
+    "306524": {
+        "「王より　たまわった冠は\n　能力を増強させる　道具であり\n　敗北したワタシたちを　破壊する道具。 ": "La couronne que nous a confiee le roi est un\nartefact qui augmente nos capacites, mais\nc'est aussi un instrument de notre destruction<br>si nous echouons."
+    },
+    "306525": {
+        "「我が王は　せめて　敵を道連れに\n　ここで砕けよと　言っているんだ。 ": "Mon roi dit que, au moins, emportons nos\nennemis avec nous et brisons-nous ici."
+    },
+    "306526": {
+        "「余の叡智。特別なかけらたる　お前を\n　ルミナのように　ムダに死なせはせぬ。": "Mon savoir. Je ne te laisserai pas mourir\ninutilement comme Lumina, toi qui es un\nfragment special."
+    },
+    "306527": {
+        "「せめて　敵を巻き添えに……。\n　これが　ムダのない死か！": "Au moins, entrainons les ennemis avec nous...\nEst-ce la une mort sans gaspillage ?"
+    },
+    "306528": {
+        "「愛だの　叡智だの……ただの　まやかし！\n　ワタシたちは　あまりに幼かった。\n　そこに　つけ込まれた！　見抜けなかった！": "L'amour, la sagesse... tout cela n'est qu'une\nillusion ! Nous etions bien trop naifs. Ils en\nont profite ! Nous n'avons rien vu venir !"
+    },
+    "306529": {
+        "「馬鹿ルーベ……　せめて　お前だけでも。": "Baka Rube... au moins toi, echappe-toi."
+    },
+    "306530": {
+        "「ぐがぁああああッ！！": "Guaaahhhh !!"
+    },
+    "306531": {
+        "「こりゃあ　手が付けられないね。\n　いったん　退散するとしよう。": "On ne peut rien faire ici. Retirons-nous pour\nl'instant."
+    },
+    "306532": {
+        "「よかった！　行き違いにならなくて！\n　聖天舎に　うかがったのですが\n　出かけていると　言われて……。": "Je suis soulage ! Heureusement que nous ne\nnous sommes pas manques ! Je suis alle au\nMonastere, mais on m'a dit que vous etiez<br>sorti..."
+    },
+    "306533": {
+        "「何か　あったのか？": "Il s'est passe quelque chose ?"
+    },
+    "306534": {
+        "「とこしえの神殿の　楯の間を\n　片付けていたら　地下におりる　しかけが\n　見つかったとの報告が　あったのです。": "En nettoyant la salle du bouclier du Temple de\nl'Eternite, un mecanisme menant au sous-sol a\nete decouvert, selon le rapport."
+    },
+    "306535": {
+        "「あそこは　長らく\n　結界で　閉ざされていたからな……。\n　未知の場所があっても　おかしくない。": "La-bas, c'etait scelle par une barriere depuis\nlongtemps... Il n'est pas surprenant qu'il y\nait des endroits inconnus."
+    },
+    "306536": {
+        "「すぐにでも　見にいきたいところだが\n　ルーベの監視に　不安が残るな……。\n　私は　監視を増員する　手配を急ぐ。": "Je voudrais aller voir immediatement, mais je\nreste inquiet au sujet de la surveillance de\nRube... Je vais m'occuper d'augmenter le<br>nombre de gardes."
+    },
+    "306537": {
+        "「地下のほうは　先に　ふたりで調べてくれ。\n　楯の間は　盟友の虚無を　抜けた先だったか。\n　苦い記憶が　よみがえってくるな……。": "Allez explorer le sous-sol en premier, vous\ndeux. La Salle du Bouclier se trouvait apres\navoir traverse l'Ally's Void, n'est-ce pas ?<br>De mauvais souvenirs refont surface..."
+    },
+    "306538": {
+        "「そろそろ　いいんじゃないのか。\n　早くしないと　あいつらも　持たねえぞ！": "Il est peut-etre temps de partir. Si on ne se\ndepeche pas, ils ne tiendront pas longtemps !"
+    },
+    "306539": {
+        "「やむを得まい！　行くぞ！": "On n'a pas le choix ! Allons-y !"
+    },
+    "306540": {
+        "「いそげっ！　もう一度　振り下ろすぞ！": "Depeche-toi ! Je vais l'abattre encore une\nfois !"
+    },
+    "306541": {
+        "「勇者の盾っ！？　あ　あなたは……。": "Bouclier de heros (serie principale) !? Ah,\nvous etes..."
+    },
+    "306542": {
+        "「でかしたぞ　ふたりとも！\n　あとは　俺にまかせて　休んでな！": "Bien joue, vous deux ! Laissez-moi m'occuper\nde la suite, reposez-vous maintenant !"
+    },
+    "306543": {
+        "「そんな！　私たちも　まだやれます！": "Impossible ! Nous pouvons encore nous battre !"
+    },
+    "306544": {
+        "「もう　限界なんだろ？\n　先輩の言うことは　聞いとけって。": "Tu es a bout, n'est-ce pas ? Ecoute ce que te\ndit ton senpai."
+    },
+    "306545": {
+        "「……当代の勇者。会えて　うれしかったぜ。\n　お前は　盟友の手を　はなすんじゃねえぞ！": "…Heros de cette generation. J'ai ete ravi de\nte rencontrer. Ne lache jamais la main de ton\nallie !"
+    },
+    "306546": {
+        "「念晶巨人を失ったのは　痛手よなぁ……。": "Perdre le Telecrystal Titan est vraiment un\ncoup dur..."
+    },
+    "306547": {
+        "「まあ　創生のチカラは　十分　獲れた。\n　これで　滅浄の大光を撃てよう。": "Eh bien, nous avons suffisamment acquis le\npouvoir de la creation. Avec cela, nous\npourrons lancer la grande lumiere<br>purificatrice."
+    },
+    "306548": {
+        "「滅浄の刻をもって　この文明は滅ぶ。\n　残された日々……大切に過ごせよ　クククッ！": "Le temps de la purification entrainera la\nchute de cette civilisation. Profitez bien des\njours qui vous restent... Kukuクッ！"
+    },
+    "306549": {
+        "「アシュレイ……。\n　そなた　大丈夫なのか？": "Ashley... Es-tu sure que tu vas bien ?"
+    },
+    "306550": {
+        "「<cs_pchero>　この方たちは？": "<cs_pchero> Qui sont ces personnes ?"
+    },
+    "306551": {
+        "<cs_pchero>は　彼らが　天星郷で復活した\nアストルティアの　英雄たちであることを\nアンルシアに　打ち明けた。": "<cs_pchero> revela a Anlucia qu'ils etaient\nles heros d'Astoltia ressuscites dans le\nroyaume celeste."
+    },
+    "306552": {
+        "「当代の勇者　アンルシアです。\n　歴史に名を刻んだ　英雄の皆さま方に\n　お会いでき　光栄の至りです。": "Je suis Anlucia, la heroine de notre epoque.\nC'est un immense honneur de rencontrer des\nheros qui ont marque l'histoire."
+    },
+    "306553": {
+        "「先ほどは　助けていただき\n　ありがとうございました。勇者アシュレイ。": "Merci beaucoup de m'avoir aide tout a l'heure,\nHero Ashley."
+    },
+    "306554": {
+        "「勇者が　助けにきてくれたんだ。\n　小柄な……かわいらしい子だったよ。": "Le heros est venu a notre secours. C'etait un\nenfant de petite taille... vraiment mignon."
+    },
+    "306555": {
+        "「お前を　救ってやれなかった。": "Je n'ai pas pu te sauver."
+    },
+    "306556": {
+        "「天星郷に　戻りましょう！\n　いそがないと　手遅れになります。": "Retournons a Tenbosekyou ! Si nous ne nous\ndepechons pas, il sera trop tard."
+    },
+    "306557": {
+        "「ああ　そうだな。いそごう。": "Ah, c'est vrai. Depechons-nous."
+    },
+    "306558": {
+        "「羽根飾り……まだ　持っててくれたんだな。\n　今度は　もっと　いいのを　作ってやるよ……。": "Tu as toujours garde l'ornement a plumes...\nMerci. Cette fois, je vais t'en fabriquer un\nencore meilleur..."
+    },
+    "306559": {
+        "「<cs_pchero>。私も　ジア・クトと戦うわ！\n　いっしょに行かせて。\n　勇者として　何かせずには　いられない。": "<cs_pchero> Moi aussi, je vais combattre Jia\nKuto ! Laisse-moi venir avec toi. En tant que\nheros, je ne peux rester sans rien faire."
+    },
+    "306560": {
+        "「気持ちは　うれしいが……英雄ならぬ身で\n　天星郷には　立ち入れぬ。今すぐ\n　戦列に加わるのは　むずかしいだろう。": "Je suis touche par vos sentiments, mais...\nn'etant pas un heros, je ne peux entrer dans\nle Domaine des Etoiles Celestes. Il sera<br>difficile de rejoindre les rangs\nimmediatement."
+    },
+    "306561": {
+        "「また　地上をねらった　ジア・クトの侵攻が\n　あるかもしれません。勇者さまは　今を生きる\n　アストルティアの民を　お守りください。": "Il se peut qu'une nouvelle invasion de Gia-Kut\nvisant la surface se produise. Heros-sama, je\nvous prie de proteger les habitants d'Astoltia<br>qui vivent en ce moment."
+    },
+    "306562": {
+        "「……わかりました。当代の勇者として\n　地上を守る　つとめを果たすことで\n　皆さま方の戦いを　お支えします。": "......J'ai compris. En tant que heros de cette\ngeneration, je m'engage a proteger le monde et\na soutenir votre combat, chers amis."
+    },
+    "306563": {
+        "「でも　助けが必要な時は　いつでも呼んで。\n　いいわね？　<cs_pchero>。": "Mais si tu as besoin d'aide, appelle-moi a\ntout moment. D'accord ? <cs_pchero>."
+    },
+    "306564": {
+        "「それでは　失礼します。英雄の皆さま方。\n　いつの日か　再会できることを　願って……。": "Sur ce, je vous laisse. Mesdames et messieurs\nles heros. J'espere que nous nous reverrons un\njour..."
+    },
+    "306565": {
+        "「たとえ　神になろうとも\n　命脈を使い果たせば　跡形もなく消える……。\n　これが　私たちの　さだめか……。": "Meme si l'on devenait un dieu, une fois notre\ndestinee epuisee, nous disparaissons sans\nlaisser de trace... Est-ce la notre<br>destinee...?"
+    },
+    "306566": {
+        "「アシュレイ……おもしろい奴だったよね。": "Ashley... c'etait quelqu'un d'interessant, tu\nne trouves pas ?"
+    },
+    "306567": {
+        "「フフ　同感です。でも　こんなにも早く\n　別れが　おとずれるなんて……。": "Fufu, je suis d'accord. Mais je ne pensais pas\nque la separation viendrait si vite..."
+    },
+    "306568": {
+        "「たとえ　ひとたび　生を終えた身であっても\n　こればかりは……つらいものだな。": "Meme si l'on a deja vecu une fois, cela\nreste... une epreuve difficile."
+    },
+    "306569": {
+        "「今夜は　弔い酒だ！　派手に送ってやろうぜ！\n　しみったれたのを　一番　きらう奴だったろ。": "Ce soir, c'est la veillee funebre !\nOffrons-lui un depart en grande pompe ! Il\ndetestait par-dessus tout la tristesse,<br>n'est-ce pas ?"
+    },
+    "306570": {
+        "<cs_pchero>たちは　天星郷に戻った……。": "<cs_pchero> et ses compagnons sont retournes\nau village celeste..."
+    },
+    "312343": {
+        "ジア・クルヴィダを　倒したときに手に入れた\nサフィルの心核が　突然　ふるえだした。": "Le Saphir's Core que vous avez obtenu en\nbattant Dia Kuruvida s'est soudain mis a\ntrembler."
+    },
+    "312344": {
+        "ジア・ルーベの言葉に　同意するように\nサフィルの心核が　大きく　鼓動を打った。\n特に　危険な物ではなさそうだ。": "Comme pour approuver les paroles de Dia Rubay,\nle Coeur de Saphir a resonne puissamment. Cela\nne semble pas etre particulierement dangereux."
+    },
+    "312345": {
+        "ジア・ルーベの言葉に　同意するように\nサフィルの心核が　大きく　鼓動を打った。\n特に　危険な物ではなさそうだ。": "Comme pour approuver les paroles de Dia Rubay,\nle Coeur de Saphir a resonne puissamment. Cela\nne semble pas etre particulierement dangereux."
+    },
+    "312346": {
+        "「知りたいの。サフィルの心が。": "Je veux savoir. Comprendre le coeur de Saphir."
+    },
+    "312347": {
+        "<pc>たちは　回生堂に入り\n２階にある　ジア・ルーベが\n軟禁されている部屋へ　向かった。": "<pc> et ses compagnons entrerent dans le\nKaiseido et se dirigerent vers la chambre du\ndeuxieme etage ou Dia Rubay etait detenue."
+    },
+    "312348": {
+        "「急がねえと……修行に　遅れちまう。\n　師匠は　気が　短けえ　から……。　": "Je dois me depecher... Sinon je vais etre en\nretard pour l'entrainement. Mon maitre est\nassez impatient..."
+    },
+    "314670": {
+        "<center>アストルティアの子よ。\nそして　各種族から生まれた神々よ。": "Enfants d'Astoltia. Et vous, dieux nes de\nchaque race."
+    },
+    "314671": {
+        "<center>アストルティアの楯の　チカラの解放を\n望むなら　神具の所有者は　中央の紋章の上に\n神々は　その周りに立つがよい。": "Si tu souhaites liberer le pouvoir du Bouclier\nd'Astoltia, le proprietaire de l'artefact\ndivin doit se tenir sur l'embleme central,<br>entoure par les dieux."
+    },
+    "314672": {
+        "<center>神具の所有者が\n神々の信頼を得た　人物であると認める。": "Je reconnais que le porteur de l'artefact\ndivin est une personne qui a gagne la\nconfiance des dieux."
+    },
+    "314673": {
+        "<center>秘密殿に至る扉を　解放しよう。\n汝　神具解放の試練を　乗り越え\n最奥にある　神授の間へ来るがよい。": "Liberez la Porte menant au Sanctuaire Secret.\nVous devez surmonter l'epreuve de la\nLiberation des Reliques Sacrees et venir<br>jusqu'au Hall des Dons Divins au fond."
+    }
+}

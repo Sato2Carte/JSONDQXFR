@@ -1,0 +1,101 @@
+{
+    "75831": {
+        "「おきゃくさんでは　ないのよ。\n　テティはね　ほんきできたの！": "Ce n'est pas un client. Tetti est venu pour de\nvrai !"
+    },
+    "75832": {
+        "<if_woman>「おねえちゃん　みててね。\n　テティ　あそこから\n　ロープなしで　とびおりるよ！<else>「おにいちゃん　みててね。\n　テティ　あそこから\n　ロープなしで　とびおりるよ！<endif>": "<if_woman>>Grande soeur, regarde-moi. Tetti va\nsauter de la sans corde !<else>>Grand frere, regarde-moi. Tetti va sauter de\nla sans corde !<endif>"
+    },
+    "75833": {
+        "「ふぇ……こんなに　たかいの……？": "Fuh... C'est si cher que ca... ?"
+    },
+    "75834": {
+        "「テティは　どうしても　やらなきゃいけないの！": "Tetti, je dois absolument le faire !"
+    },
+    "75835": {
+        "「とびおりるよ～～～！": "Je vais sauter !"
+    },
+    "75836": {
+        "「あぶなーーーーーい！！": "Attention !!"
+    },
+    "75837": {
+        "「みたみた？　やっぱり　テティは \n　たすかっちゃうんだよ～！": "As-tu vu ? Comme prevu, Tetti a ete sauve !"
+    },
+    "75838": {
+        "「ロープを付けずに　飛び降りるとは……。\n　おじょうちゃん　あんな危険なこと\n　二度としちゃダメだよ！": "Sautez sans corde... Jeune demoiselle, ne\nrefaites plus jamais quelque chose d'aussi\ndangereux !"
+    },
+    "75839": {
+        "「もう！　テティは　だいじょうぶなんだもん！": "Bon ! Tetti va bien, apres tout !"
+    },
+    "75840": {
+        "「つぎはね……プ　プクリッポ地方？　ってとこの\n　むらさき色の　きりが　モクモクしてる\n　け…けがにの谷底に　連れてってほしいの！": "Ensuite... Peux-tu m'emmener dans la region\ndes Pukuripo ? La ou il y a une brume violette\nqui s'eleve... Je veux aller au fond de la<br>vallee de Kegani !"
+    },
+    "75841": {
+        "「テティは　どうしても　やらなきゃいけないの！": "Tetti, je dois absolument le faire !"
+    },
+    "75842": {
+        "「そこにはね　コワ～イ魔物がいるのよ！\n　よろしく　おねがいします！": "La-bas, il y a de terrifiants monstres ! Je\ncompte sur toi !"
+    },
+    "75843": {
+        "「ヴェルギャーーーーーー！！": "Vel GYAAAAAAA!!"
+    },
+    "75844": {
+        "「あいつが　コワ～イ魔物なのね……。": "Il est donc ce terrifiant monstre..."
+    },
+    "75845": {
+        "<if_woman>「おねえちゃん　みててね。\n　テティ　あいつを　ひとりでやっつけるよ！<else>「おにいちゃん　みててね。\n　テティ　あいつを　ひとりでやっつけるよ！<endif>": "<if_woman>>Grande soeur, regarde-moi. Tetti va\nle battre tout seul !<else>>Grand frere, regarde-moi. Tetti va le battre\ntout seul !<endif>"
+    },
+    "75846": {
+        "<if_woman>「おねえちゃん　おそいよ～。みててね。\n　テティ　今度こそ　あいつを　やっつけるよ！<else>「おにいちゃん　おそいよ～。みててね。\n　テティ　今度こそ　あいつを　やっつけるよ！<endif>": "<if_woman>>Grande soeur, tu es lente~. Regarde\nbien. Cette fois, Tetti, je vais le vaincre !<else>>Grand frere, tu es lent~. Regarde bien. Cette\nfois, Tetti, je vais le vaincre !<endif>"
+    },
+    "75847": {
+        "「だいじょうぶ！　テティは　ぜったい\n　だいじょうぶだから　みてて！": "Je t'assure ! Tetti va s'en sortir, alors\nregarde bien !"
+    },
+    "75848": {
+        "「テティは　どうしても　やらなきゃいけないの！": "Tetti, je dois absolument le faire !"
+    },
+    "75849": {
+        "「かかっておいでー！！": "Viens te battre !!"
+    },
+    "75850": {
+        "「きゃっ！": "Kya !"
+    },
+    "75851": {
+        "「ヴェルギャアアアァァァァア！！": "Vel, aaaaaaaaaah !!"
+    },
+    "75852": {
+        "<if_woman>「おねえちゃんが　たおしてくれたのね……？\n　そっか～　そういうことか～！\n　だから　テティは　しなないんだ！<else>「おにいちゃんが　たおしてくれたのね……？\n　そっか～　そういうことか～！\n　だから　テティは　しなないんだ！<endif>": "<if_woman>>C'est grande soeur qui l'a vaincu,\nhein...? Je vois~ c'est comme ca~ ! C'est pour\nca que Tetti ne meurt pas !<else>>C'est grand frere qui l'a vaincu, hein...? Je\nvois~ c'est comme ca~ ! C'est pour ca que\nTetti ne meurt pas !<endif>"
+    },
+    "75853": {
+        "「あのね　あのね……\n　テティが転んだのは　ぐうぜんじゃないんだよ。": "Tu sais, tu sais... Ce n'est pas par hasard\nque Tetti est tombe."
+    },
+    "75854": {
+        "「テティはね　ぜったいに　しなないの。\n　どんなことがあっても\n　ぜったいに　まもられるのよ！": "Tetti, tu ne mourras jamais. Quoi qu'il\narrive, tu seras toujours protege !"
+    },
+    "75855": {
+        "「だって………………": "Parce que..."
+    },
+    "75856": {
+        "「だって！　シスター・サテラが\n　そういったんだもん！": "Parce que ! C'est Sister Satella qui l'a dit !"
+    },
+    "75857": {
+        "「町のみんなは……　シスター・サテラのこと \n　ウソの予言をした　わるい人だっていうの。\n　そんなことないって　何回もいったのに……。": "Les habitants de la ville disent que Sister\nSatella est une mauvaise personne qui a fait\nde fausses predictions. Je leur ai dit<br>plusieurs fois que ce n'etait pas vrai..."
+    },
+    "75858": {
+        "「だから　テティは\n　シスター・サテラの予言が　ホントウだって\n　みんなに　しんじてもらいたくって……": "Alors, Tetti veut que tout le monde croie\nvraiment en la prophetie de Sister Satella..."
+    },
+    "75859": {
+        "「どうしても　やらなきゃいけない……\n　って思ったの！": "Je devais absolument le faire... c'est ce que\nje ressentais !"
+    },
+    "75860": {
+        "<if_woman>「……おねえちゃんのおかげで\n　シスター・サテラが　のこしてくれた予言が\n　ホントウだったって　みんなに伝えられるよ！<else>「……おにいちゃんのおかげで\n　シスター・サテラが　のこしてくれた予言が\n　ホントウだったって　みんなに伝えられるよ！<endif>": "<if_woman>>…Grace a toi, grande soeur, je peux\nannoncer a tout le monde que la prophetie\nlaissee par Sister Satella etait vraie !<else>>…Grace a toi, grand frere, je peux annoncer a\ntout le monde que la prophetie laissee par\nSister Satella etait vraie ! <endif>"
+    },
+    "75861": {
+        "「テティを　ここまで　連れてきてくれて\n　ありがとう……。\n　お礼に　テティのたからもの　あげるね！": "Merci d'avoir amene Tetti jusqu'ici... En\nremerciement, je vais te donner le tresor de\nTetti !"
+    },
+    "75862": {
+        "「テティは　レンドア島の教会で\n　シスター・サテラが　帰るのを　まってるね！": "Tetti attend le retour de Sister Satella a\nl'eglise de l'ile de Lendor !"
+    },
+    "76096": {
+        "バジエドは　テティの足に\nバンジーの命綱を　引っかけた！": "Bajiedo a accroche la corde de securite de\nBungee aux pieds de Tetti !"
+    }
+}

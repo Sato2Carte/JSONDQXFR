@@ -1,0 +1,1565 @@
+{
+    "196450": {
+        "「<pc>……？\n　まことに　<pc>なのかっ。": "<pc>...? C'est vraiment <pc>."
+    },
+    "196451": {
+        "「おおっ　やはり　そちであったか！ \n　防砂ダムの上から　姿が見えたので\n　あわてて　降りてきたぞよ。": "Oh ! C'etait donc bien toi ! Je t'ai apercu\ndepuis le haut du barrage de sable et je suis\ndescendu precipitamment."
+    },
+    "196452": {
+        "「……ムムッ！　その　キョトンとしたカオ。\n　よもや　余を忘れたというのか！？<yesno><close>": "Hum ! Ce visage perplexe. Aurais-tu oublie ma\npersonne !?"
+    },
+    "196453": {
+        "「共に　ドワチャッカ大陸を　駆けずりまわった\n　あの日々を　忘れるとは……。\n　ま…まあ　よい。余は　寛大じゃからな。": "Oublier ces jours ou nous avons parcouru\nensemble le continent Dwachakka... Eh bien...\nsoit. Je suis magnanime, apres tout."
+    },
+    "196454": {
+        "「よ…よかったぞよ。そちや　ガラクタ城の皆と \n　過ごした日々は　忘れがたいでな。\n　じゃが　念のために　名乗っておこう……。": "Je... je suis soulage. Les jours passes avec\ntoi et tous les habitants du chateau de\nGalacta ont ete inoubliables. Cependant, par<br>precaution, je vais me presenter..."
+    },
+    "196455": {
+        "「余は　かのガテリア皇国の　正統なる継承者\n　第一の皇子　ビャン・ダオ！": "Je suis le legitime heritier de l'Empire de\nGateria, le premier prince Byan Dao !"
+    },
+    "196456": {
+        "「……今は　ただの　ビャン・ダオじゃ。\n　ガテリアの遺跡で　そちと別れてからは\n　アストルティア中を　旅しておった。": "Maintenant, je ne suis qu'un simple Byan Dao.\nDepuis que nous nous sommes separes dans les\nruines de Gateria, j'ai voyage a travers tout<br>Astoltia."
+    },
+    "196457": {
+        "「今は　縁あって　ドルワーム王立研究院にて\n　失われし古代技術の研究を　手伝っておる。": "Pour l'instant, grace a un heureux hasard, je\ntravaille au sein de l'Institut Royal de\nRecherche de Dolworm, ou j'aide a l'etude des<br>techniques anciennes perdues."
+    },
+    "196458": {
+        "「この防砂ダムは　かつて　ウルベア地下帝国が\n　莫大な予算をつぎ込み　建設したものでな。": "Ce barrage anti-sable a ete construit par\nl'Empire d'Urbea, qui y a investi un budget\ncolossal."
+    },
+    "196459": {
+        "「ダムの向こうに広がる　広大な流砂の海には\n　かの帝国の　重要な遺跡があるという。\n　余は　その調査に参ったのじゃが……": "On dit qu'au-dela du barrage, dans l'immense\nmer de sable mouvant, se trouvent\nd'importantes ruines de l'empire. Je suis venu<br>pour enqueter sur ces ruines, mais..."
+    },
+    "196460": {
+        "「よりによって　その遺跡の　すぐ上に\n　あの　奇妙な繭が　現れたのじゃ！": "Et en plus, ce cocon etrange est apparu juste\nau-dessus de ces ruines !"
+    },
+    "196461": {
+        "「先に　繭が現れた　グランゼドーラや\n　グレンのことは　伝え聞いておるぞよ。\n　放っておけば　災いをもたらすに違いない。": "J'ai entendu parler de l'histoire de Gulen et\nde l'incident de la G.LMP Zedora cause par le\ncocon. Si nous les laissons faire, ils<br>apporteront certainement des calamites."
+    },
+    "196462": {
+        "「余は　リウ老師が　希望を託した\n　この世界で　生きていくと決めた……。": "Je suis celui a qui Master Liu a confie son\nespoir. J'ai decide de vivre dans ce monde..."
+    },
+    "196463": {
+        "「老師の思いを　踏みにじらせはせぬ。 \n　余も　アストルティアの未来を守るため\n　ひと肌　脱ぐ覚悟ぞ！": "Je ne laisserai pas les pensees du maitre etre\npietinees. Moi aussi, je suis pret a donner de\nma personne pour proteger l'avenir d'Astoltia<br>!"
+    },
+    "196464": {
+        "「余は　流砂の遺跡へ　調査に向かう。\n　そちにも　ぜひ　同行願いたい。": "Je me rends aux Ruines de Quicksand pour une\nenquete. J'aimerais beaucoup que vous\nm'accompagniez."
+    },
+    "196465": {
+        "「あそこに見えるのが　防砂ダムの上に\n　移動できる　昇降機ぞよ。\n　まずは　上まで　昇ってきてたもれ。": "Ce que tu vois la-bas, c'est l'ascenseur qui\nte permet de te deplacer au-dessus du barrage\nde sable. Commence par monter jusqu'en haut."
+    },
+    "196466": {
+        "「<cs_pchero>！　こっちじゃ　こっち。": "<cs_pchero> ! Par ici, par ici."
+    },
+    "196467": {
+        "「フフ……立派な船であろう！\n　これぞ　流砂の上を自在に進む　現代に復活せし\n　砂上専用高速船……通称　砂上船ぞよ。": "Fufu... Quelle magnifique embarcation ! Voici\nle navire rapide specialise pour les sables,\ncapable de naviguer librement sur les dunes.<br>Il a ete restaure pour l'ere P. On l'appelle\nsimplement le Sandship."
+    },
+    "196468": {
+        "「積もる話もあるが　今はさっそく \n　遺跡へ　向かうとしよう。余の　華麗なる\n　操船技術を　とくと　味わうがよい。": "Il y a tant de choses a raconter, mais pour\nl'instant, dirigeons-nous sans tarder vers les\nruines. Profitez pleinement de ma technique de<br>navigation elegante."
+    },
+    "196469": {
+        "<cs_pchero>が　砂上船に乗り込むと\nものすごいスピードで　急発進した！": "Lorsque <cs_pchero> monta a bord du Sandship,\nil demarra brusquement a une vitesse\nincroyable !"
+    },
+    "196470": {
+        "「どうじゃ　砂上船の乗りごこちは？\n　なかなかの　速度であろう。": "Alors, comment trouves-tu le confort a bord du\nSandship ? Il va a une vitesse\nimpressionnante, n'est-ce pas ?"
+    },
+    "196471": {
+        "「じゃが……かつて　ガテリア皇国があった\n　３０００年前の　ドワチャッカ大陸では\n　さらに　高度な文明が　栄えておった。": "Cependant... il y a 3000 ans, sur le continent\nDwachakka ou se trouvait autrefois l'empire de\nGateria, une civilisation encore plus avancee<br>prosperait."
+    },
+    "196472": {
+        "「上空には　反重力飛行装置が飛び交い \n　都には　自動遊覧回廊が張りめぐらされ\n　両足で歩かずともよい　生活を送っていた。": "Dans le ciel, des dispositifs de vol\nantigravite voltigent, et dans la ville, des\ncouloirs de promenade automatique sont<br>deployes. On y vivait une vie sans avoir\nbesoin de marcher sur ses deux jambes."
+    },
+    "196473": {
+        "「できることなら　そちにも　あの見事な光景を\n　見せてやりたいものじゃ……。": "Si je le pouvais, j'aimerais te montrer ce\nmagnifique spectacle..."
+    },
+    "196474": {
+        "「しかし　まあ……\n　同じような景色ばかりが　続いておるのう。": "Cependant, eh bien... Le meme paysage ne cesse\nde se repeter."
+    },
+    "196475": {
+        "「砂嵐の日には　巨人が現れるという\n　ウワサも　あるのじゃが……。": "On dit que lors des tempetes de sable, des\ngeants apparaissent..."
+    },
+    "196476": {
+        "「おおっ。巨人ではないが\n　我らが目指す遺跡が　見えてきたぞよ！\n　さっそく　中に入り　探索しようではないか。": "Oh ! Ce n'est pas un geant, mais je vois les\nruines que nous visons ! Entrons et\nexplorons-les immediatement."
+    },
+    "196477": {
+        "「ううむ……風化が　はげしい。\n　見るも　無残な姿じゃ。": "Hmmm... L'erosion est severe. C'est un\nspectacle desolant a voir."
+    },
+    "196478": {
+        "「栄華を誇った　ウルベアの文明も \n　３０００年の月日の前には\n　何もかも　はかなき夢……か。": "La civilisation d'Urbea, qui etait si fiere de\nsa splendeur, n'etait-elle qu'un reve ephemere\nface aux jours de Mn. il y a 3000 ans..."
+    },
+    "196479": {
+        "「ななっ　何事じゃっ！？": "Q-Qu'est-ce qu'il se passe !?"
+    },
+    "196480": {
+        "「３０００年の時を経て　なお　動くとは！\n　<cs_pchero>よ　なんとかしてたもれ～！！": "Malgre 3000 ans ecoules, il continue de\nfonctionner ! <cs_pchero>, fais quelque chose,\nje t'en prie !"
+    },
+    "196481": {
+        "「こっ…今度は　何事じゃ！？\n　気をつけよ　<cs_pchero>！": "Qu'est-ce que... qu'est-ce qui se passe cette\nfois-ci !? Fais attention, <cs_pchero> !"
+    },
+    "196482": {
+        "突然　<cs_pchero>の足元に\nヒビが入り　崩れてしまった！": "Soudain, le sol sous les pieds de <cs_pchero>\nse fissure et s'effondre !"
+    },
+    "196483": {
+        "「<cs_pchero>　<cs_pchero>。\n　あれを　見るキュ。": "<cs_pchero> <cs_pchero>. Regarde ca, kyu."
+    },
+    "196484": {
+        "「時の異分子か……。": "Un element perturbateur du temps, hein..."
+    },
+    "196485": {
+        "「かつて栄えた文明の　衰亡の渦中に失われし \n　地脈の結晶……それさえ手に入れれば\n　巨人は　よみがえろう。": "Dans le tourbillon du declin d'une\ncivilisation jadis prospere, le Geode Crystal\nperdu... Si seulement nous pouvions mettre la<br>main dessus, le geant pourrait etre\nressuscite."
+    },
+    "196486": {
+        "「滅びの未来が　訪れるのは　どう考えても \n　アイツが　関係してるせいだキュル。": "Il est clair que si un avenir de destruction\nnous attend, c'est a cause de cet individu."
+    },
+    "196487": {
+        "「アイツは　この巨人が　完全な状態だった時代に \n　巨人を動かす手段を　見つけにいったようキュ。\n　ヤツより先に　それを手に入れるべきだキュ。": "Il semble qu'il soit parti chercher un moyen\nd'activer ce geant a l'epoque ou il etait en\nparfait etat. Nous devrions mettre la main<br>dessus avant lui."
+    },
+    "196488": {
+        "「ボクたちも　この巨人を媒介にすれば \n　その時代……３０５１年前に　行けるはずキュ。\n　さっそく　キューブを起動するっキュ！": "Nous devrions egalement pouvoir utiliser ce\ngeant comme intermediaire pour nous rendre a\ncette epoque... il y a 3051 ans. Allons-y,<br>activons le cube immediatement !"
+    },
+    "196489": {
+        "「あらーと　あらーと。\n　速ヤカナ移動停止ヲ　命ジマス。": "Alerte, alerte. Ordre d'arret immediat."
+    },
+    "196490": {
+        "「ガテリア兵　捕虜りすと\n　でーた照合　開始…………………………": "Liste des prisonniers de Gateria Verification\ndes donnees en cours..."
+    },
+    "196491": {
+        "「不一致。\n　緊急対応まにゅあるニ　従ッテ\n　当該ヲ　拘束シマス。": "Incoherence detectee. Conformement au manuel\nd'urgence, nous allons proceder a la detention\nde l'individu concerne."
+    },
+    "196492": {
+        "「……もう　よろしいでしょう。\n　離してやりなさい　０８号。": "C'est bon maintenant. Relache-ta prise, Spear,\nNumero 08."
+    },
+    "196493": {
+        "「私は　技術者の　リウと申す者。\n　あなたを拘束した　魔神機……\n　０８号らの　生みの親です。": "Je suis Liu, l'ingenieur. Je suis le createur\nde la machine demoniaque qui vous a capture...\nNo. 08 et les autres."
+    },
+    "196494": {
+        "「世間からは　リウ老師と　呼ばれております。\n　良くも悪くも　知られた名ですから\n　聞いたことが　あるかもしれませんな。": "Dans le monde, on m'appelle Master Liu. C'est\nun nom connu, pour le meilleur et pour le\npire, alors peut-etre en avez-vous deja<br>entendu parler."
+    },
+    "196495": {
+        "「我らは　ウルベア地下帝国に\n　捕まった　囚人……。": "Nous sommes les prisonniers captures par The\nUrbea Empire..."
+    },
+    "196496": {
+        "「先の大戦で敗れた　ガテリア兵士の捕虜 \n　帝国の横暴に異をとなえた　反逆分子などが\n　ここで　強制労働をさせられております。": "Les prisonniers de guerre de Gateria, vaincus\nlors de la precedente grande guerre, ainsi que\nles dissidents qui ont conteste la tyrannie de<br>l'Empire, sont contraints ici a des travaux\nforces."
+    },
+    "196497": {
+        "「もっとも　やられっぱなし……\n　というわけでは　ありませんがな。": "Pourtant, nous ne sommes pas restes sans rien\nfaire..."
+    },
+    "196498": {
+        "「さて。０８号が　あなたをスキャンした結果 \n　ガテリア兵の捕虜でも　ウルベアの監督官でも\n　どちらでもないと　出たのです。": "さてNo. 08があなたをスキャンした結果、 ガテリア兵の捕虜でもウルベアの監督官でも\nどちらでもないと出たのです"
+    },
+    "196499": {
+        "「あなたは　何者ですかな？": "Qui etes-vous ?"
+    },
+    "196500": {
+        "「……なるほど。<pc>君。 \n　くわしくは話せないが　あなたは　巨人を探して\n　この地を　訪れたと……。": "Je vois. <pc>-kun. Je ne peux pas entrer\ndans les details, mais tu es venu ici a la\nrecherche du geant..."
+    },
+    "196501": {
+        "「なんのために　そんなものを探しているのか\n　詮索は　しませんが……ふむ。": "Je ne vais pas m'immiscer dans les raisons\npour lesquelles vous cherchez une telle\nchose... Hum."
+    },
+    "196502": {
+        "「あなたが探している　巨人かは　わかりませんが\n　ウルベア地下帝国は　ウルベア大魔神と呼ばれる\n　巨大兵器の開発に　成功したようでしてな。": "<me 60> Vous cherchez peut-etre un geant, mais\nje ne sais pas si c'est celui-ci. Il\nsemblerait que l'Empire d'Urbea ait reussi a<br>developper une arme gigantesque appelee Urbea\nColossus."
+    },
+    "196503": {
+        "「それは　ウルベア地下帝国の\n　最重要機密が集う　ウルベア帝国技術庁で\n　厳重に　管理されているそうなのです。": "Il parait que cela est strictement garde au\nsein du departement technologique de l'Empire\nd'Urbea, ou se rassemblent les secrets les<br>plus importants de l'Empire d'Urbea."
+    },
+    "196504": {
+        "「帝国技術庁は　このダラズ大鉱脈からも見える \n　防砂ダムの向こう側　流砂の海にあります。\n　ただ　潜入するのは　容易ではありません。": "L'Agence Imperiale de Technologie se trouve\nau-dela du barrage anti-sable que l'on peut\nvoir depuis ce Daraz Prospect, dans la mer de<br>sable mouvant. Cependant, s'y infiltrer n'est\npas une tache facile."
+    },
+    "196505": {
+        "「しかし……　あの方に\n　取り入ることができれば　あるいは……？": "Cependant... si je parvenais a gagner la\nfaveur de cette personne, peut-etre que...?"
+    },
+    "196506": {
+        "「わかりました。\n　私が　<pc>君の　巨人探しに\n　協力してあげましょう。": "D'accord. Je vais vous aider dans votre\nrecherche de geant, <pc>-kun."
+    },
+    "196507": {
+        "「０８号。偵察用ミニマムモード　起動なさい。": "No. 08. Activez le mode de reconnaissance\nminimum."
+    },
+    "196508": {
+        "「了解イタシマシタ。": "Compris."
+    },
+    "196509": {
+        "「不慣れな土地を旅する　あなたに \n　この　０８号を　案内役としてつけましょう。\n　彼と　ウルベアに潜入するのです。": "Pour votre voyage dans cette region inconnue,\nje vais vous assigner le No. 08 comme guide.\nAvec lui, vous allez infiltrer Urbea."
+    },
+    "196510": {
+        "「そして　帝国技術庁で　情報を集めてください。\n　私は　この場所で　彼から転送されてくる\n　映像や情報を　分析しましょう。": "Et ensuite, rassemblez des informations au\nBureau des Techniques de l'Empire. Quant a\nmoi, je vais analyser les images et les<br>informations qui seront transmises depuis cet\nendroit."
+    },
+    "196511": {
+        "「<pc>サマ。\n　ツカズ離レズ　オトモイタシマス。": "<pc>-sama. Je resterai a vos cotes sans\njamais vous quitter."
+    },
+    "196512": {
+        "０８号が　仲間に加わった！<me 71>": "Le No. 08 a rejoint l'equipe ! <me 71>"
+    },
+    "196513": {
+        "「まずは　カルデア溶岩帯を南に向かい\n　ガタラ大山林から　ウルベア地下帝国へ。\n　そこで　ウルタ皇女に会うのです……。": "Tout d'abord, dirigez-vous vers le sud de la\nCeinture de Lave de Chaldea, a partir de la\nForet de la Montagne de Gatara, jusqu'a<br>l'Empire d'Urbea. La-bas, vous rencontrerez la\nPrincesse Ulta..."
+    },
+    "196514": {
+        "「帝国の主たる　ウルタ皇女の信頼を　得られれば\n　ウルベア大魔神への道が　開かれましょう。\n　よろしく　頼みましたぞ。": "Si vous parvenez a gagner la confiance de\nPrincess Ulta, qui est Lord de l'Empire, le\nchemin vers Urbea Colossus vous sera ouvert.<br>Je compte sur vous."
+    },
+    "196515": {
+        "「リウ老師ヨリ　<pc>サマニ\n　歴史観光案内　特別ぷろぐらむヲ　提供スルヨウ\n　要請アリ。ろーでぃんぐ中………………": "<Master LiuYori> Demande de fournir un\nprogramme special de visite guidee historique\na <pc>-sama. Chargement en cours..."
+    },
+    "196516": {
+        "<attr><pipipi_high><end_attr>「ガタラの丘へ　ようこそ！ \n　眼下に見下ろすゴブル砂漠は　５年前に起きた\n　ガテリア＝ウルベア大戦の　主な戦場です。": "<attr><pipipi_high><end_attr>Bienvenue sur la\ncolline de Gatara ! Le desert de Goble, que\nvous pouvez admirer en contrebas, fut le<br>theatre de la grande bataille entre Gateria et\nUlbea il y a cinq ans."
+    },
+    "196517": {
+        "<attr><pipipi_high><end_attr>「ガテリア皇国と　ウルベア地下帝国は \n　互いに　ドワチャッカ大陸の覇者たらんと\n　小規模な戦争を　くり返していました。": "<attr><pipipi_high><end_attr>Le royaume de\nGateria et The Urbea Empire se livraient a de\npetites guerres repetees, chacun cherchant a<br>dominer le continent de Dwachakka."
+    },
+    "196518": {
+        "<attr><pipipi_high><end_attr>「卓越した文明と技術力は　軍事利用のため \n　発展したといっても　過言ではありません。\n　しかし　民の不満は　つのるばかりでした。": "<attr><pipipi_high><end_attr>On peut dire que\nla civilisation et la technologie avancees se\nsont developpees principalement pour un usage<br>militaire. Cependant, le mecontentement du\npeuple ne faisait que croitre."
+    },
+    "196519": {
+        "<attr><pipipi_high><end_attr>「一時は　停戦条約を　結ぼうとしたものの\n　交渉はこじれ　最終的な全面戦争に突入。\n　ガテリア皇国は　滅亡を迎えたのです……。": "<pipipi_high> A un moment, nous avons tente de\nconclure un traite de cessez-le-feu, mais les\nnegociations se sont enlisees et ont<br>finalement mene a une guerre totale. Le\nroyaume de Gateria a alors rencontre sa fin..."
+    },
+    "196520": {
+        "「アチラガ　ウルベア地下帝国ノ　入リ口デス。": "La-bas, c'est l'entree de l'empire The Urbea."
+    },
+    "196521": {
+        "「デハ　参リマショウ！": "Alors, commencons !"
+    },
+    "196522": {
+        "「きゃーっ！　いやーっ！　何すんのよぉー！": "Kyaaah ! Non ! Mais qu'est-ce que tu fais ?!"
+    },
+    "196523": {
+        "「マリッチ！　また　アンタなのっ。\n　まぶしいから　やめてって言ったのに。": "Marich ! Encore toi. Je t'ai dit d'arreter\nparce que c'est eblouissant."
+    },
+    "196524": {
+        "「ぐわーっ！　目がぁ～～ッ！！": "Gwaaah ! Mes yeux !!"
+    },
+    "196525": {
+        "「また　マリッチが　めいわくビームで \n　おどかして　あそんでる～。": "Encore une fois, Marich s'amuse a faire peur\navec son rayon embetant~."
+    },
+    "196526": {
+        "「やーい。やくたたずの　ポンコツマリッチ。\n　お前なんか　すぐ　スクラップだぞ！": "Eh, Marich le bon a rien. Tu vas finir a la\ncasse en un rien de temps !"
+    },
+    "196527": {
+        "「あれって　皇女様の魔神機でしょ？ \n　毎日　なんのために　やってるわけ？": "C'est le demon mecanique de la princesse\nimperiale, non ? Pourquoi l'utilise-t-elle\ntous les jours ?"
+    },
+    "196528": {
+        "「えてーね人ってのを　探してるんだとさ。\n　でも　えてーね人って　なんだ？": "Ils cherchent des personnes appelees Etene.\nMais, c'est quoi un Etene ?"
+    },
+    "196529": {
+        "<pc>は\nチケットに記された　文字を読んだ。": "<pc> lut les mots inscrits sur le\nbillet."
+    },
+    "196530": {
+        "<center>入城許可証\n本証書を持参する者の\nウルベア帝国城への　入城を認める": "Permis d'entree au chateau Ce document accorde\na son porteur l'autorisation d'entrer dans le\nchateau de l'Empire Urbea."
+    },
+    "196531": {
+        "<center>エテーネ人ノ　生体情報ト　完全ニ合致\n皇女ウルタ　エテーネ人ヲ　求ムル\n速ヤカニ　皇女ウルタニ　謁見セヨ": "Les informations biologiques correspondent\nparfaitement a celles des Ethene. La princesse\nUrta recherche un Ethene. Presentez-vous<br>rapidement a la princesse Urta."
+    },
+    "196532": {
+        "「……入城許可証　入手成功！\n　城ニ　行ッテミマショウ！": "…Autorisation d'entree au chateau obtenue avec\nsucces ! Allons au chateau !"
+    },
+    "196533": {
+        "「うう～ん……騒々しい…………。": "Uuh... C'est bruyant..."
+    },
+    "196534": {
+        "「わらわは徹夜じゃから　起こすなと……\n　あれほど……あれほど…………": "Je t'avais bien dit de ne pas me reveiller...\nJe suis restee eveillee toute la nuit..."
+    },
+    "196535": {
+        "「ええーい　やかましい！\n　起きればよいのじゃろう　起きれば！": "Eh bien, assez de bruit ! Si tu veux que je me\nleve, je vais me lever !"
+    },
+    "196536": {
+        "「わらわが　ウルベア地下帝国　第十一代皇帝\n　ジャ・クバの娘　皇女ウルタである。": "Je suis Urta, princesse et fille de Ja Kuba,\nle onzieme empereur de l'Empire Urbea."
+    },
+    "196537": {
+        "「そちが　エテーネ人というのは　まことかえ？\n　……ただの　さえない冒険者に見えるがの。": "Es-tu vraiment un Ethene, toi ? ... Tu as\nl'air d'un simple aventurier quelconque."
+    },
+    "196538": {
+        "「そちが　エテーネ人というのは　まことかえ？\n　……どう見ても　人間には見えんがの。": "Est-il vrai que tu es une personne d'Ethene ?\n... A te voir, on ne dirait pas un humain."
+    },
+    "196539": {
+        "「エテーネ人を探せとは　命じたが\n　マリッチのサーチ精度も　信用ならぬでな。": "J'ai ordonne de chercher l'homme Ethene, mais\nje ne peux pas faire confiance a la precision\nde recherche de Marich."
+    },
+    "196540": {
+        "「そもそも　エテーネ人ともあろう者が\n　この帝国に　何用で参ったのじゃ？": "Qu'est-ce qu'une personne d'Ethene vient faire\ndans cet empire ?"
+    },
+    "196541": {
+        "「巨人を探している……か。\n　たしかに　ウルベア大魔神は　我が帝国の要。": "Vous cherchez un geant... hein. Il est vrai\nque l'Urbea Colossus est le pilier de notre\nempire."
+    },
+    "196542": {
+        "「じゃが　国賓でもない　さえない冒険者に\n　案内してやるほどの　義理はないぞえ。": "Cependant, je n'ai aucune obligation de servir\nde guide pour un aventurier sans envergure qui\nn'est meme pas un invite d'honneur."
+    },
+    "196543": {
+        "「……そちが　真にエテーネ人であることを\n　証明できれば　話は　別じゃがの。": "...Si tu peux prouver que tu es un Ethene de\nT., la situation sera differente."
+    },
+    "196544": {
+        "「わらわは　古代エテーネ王家に伝わる\n　時の球根なるものを　所望する。\n　持参すれば　エテーネ人と認めてやろう。": "Je souhaite obtenir ce que l'on appelle la\nRacine du Ballon du Temps, transmise dans la\nvieille famille royale d'Ethene. Apportez-la,<br>et je vous reconnaitrai comme un veritable\nEthenien."
+    },
+    "196545": {
+        "「こやつ　なかなか　使えそうではないか。": "Cet individu pourrait etre assez utile."
+    },
+    "196546": {
+        "「ここ数日　調整していた機材の\n　出力系統が　安定せんのでな。\n　少々　手を貸してもらおう。": "Ces derniers jours, le systeme de sortie de\nl'equipement que j'ajustais n'est pas stable.\nJ'aurais besoin d'un coup de main."
+    },
+    "196547": {
+        "「<pc>サマ。\n　ココデ　オ帰リヲ　オ待チシテオリマス……。": "<pc>-sama. Nous vous attendons ici pour\nvotre retour..."
+    },
+    "196548": {
+        "「<pc>。エテーネ王家について\n　何か　知りたいことがあるなら\n　メレアーデにでも　聞いてみればいいキュ。": "<pc>. Si tu veux en savoir plus sur la\nfamille royale d'Ethene, tu devrais demander a\nMereade, kyu."
+    },
+    "196549": {
+        "「今ごろ　エテーネの村で\n　生体継続時間を　無為に浪費しているはずキュ。\n　さっそく　行ってみるといいキュ。": "A l'heure actuelle, il doit surement etre en\ntrain de gaspiller son temps de vie\ninutilement au village d'Ethene. Tu devrais<br>aller y jeter un oeil immediatement."
+    },
+    "196550": {
+        "「暗証番号……なんだったかしら？\n　昔　お父様に連れられて\n　一度　入ったきりだから。": "Le code secret... qu'etait-ce deja ? Il y a\nlongtemps, lorsque mon pere m'avait emmenee,\nje n'y suis entree qu'une seule fois depuis."
+    },
+    "196551": {
+        "「お父様が　自分で決めた番号だわ。\n　番号そのものは　思いだせないけど……": "Mon pere avait choisi lui-meme le numero. Je\nne me souviens pas du numero en lui-meme,\nmais..."
+    },
+    "196552": {
+        "「たしか　『英雄レトリウスと永遠の友』っていう\n　本に書かれた数字を　順番に並べたものよ！\n　お父様の　愛読書だったの。": "Il s'agit bien des chiffres alignes dans\nl'ordre, tires du livre intitule 'Le Heros\nLetrius et l'Ami Eternel' ! C'etait le livre<br>prefere de mon pere."
+    },
+    "196553": {
+        "「ドミネウス邸の　お父様の部屋に \n　あったはずなんだけど　まだ　残ってるかしら。\n　墜落しちゃったし……。": "Il devrait se trouver dans la chambre de Pere\nau manoir Domineus, mais je me demande s'il y\nest toujours. Avec le crash..."
+    },
+    "196554": {
+        "「……考えてても　しかたないわよね。\n　とにかく　探してみましょ　<pc>！": "Reflechir ne sert a rien. De toute facon,\ncherchons-le, <pc> !"
+    },
+    "196555": {
+        "「これが　時の球根よ。": "<Ceci est la Ball de Temps.>"
+    },
+    "196556": {
+        "「親球は　大きすぎるから……\n　持っていくなら　こっちがいいと思うわ。": "Le Ball parent est trop grand... Si tu dois\nl'emporter, je pense que celui-ci serait\nmieux."
+    },
+    "196557": {
+        "<pc>は\nちいさな時の球根（だいじなもの）を\n手に入れた！<me 60>": "<pc> a obtenu la Tiny Time Bulb (objet\ncle) ! <me 60>"
+    },
+    "196558": {
+        "「この球根には　王族の持つ　時渡りのチカラに\n　深く関わるという　伝承があって\n　代々　大切にされてきたの。": "Cette racine de Ball est profondement liee au\npouvoir de traverser le temps que possedent\nles familles royales, selon une legende<br>transmise de generation en generation. Elle a\ntoujours ete precieusement gardee."
+    },
+    "196559": {
+        "「でも　誰が植えたとか　どんな花が咲くとか \n　くわしいことは　全然わからないのよね。": "Mais je ne sais pas du tout qui les a plantees\nni quelles fleurs vont eclore."
+    },
+    "196560": {
+        "「こんなものを　ほしがる人がいるなんて\n　何のために　使うのかしら……。": "Qui pourrait bien vouloir un tel objet ? Je me\ndemande a quoi cela peut bien servir..."
+    },
+    "196561": {
+        "「とにかく　手に入ってよかった。\n　少しは　あなたの役に　立てたわよね……？": "En tout cas, je suis contente que nous l'ayons\nobtenu. J'espere que cela vous a ete un peu\nutile..."
+    },
+    "196562": {
+        "「せっかく　エテーネに戻ってきたけど \n　まるで　別の時代に　来ちゃったみたい。": "Je suis enfin revenue a Ethene, mais c'est\ncomme si j'etais arrivee dans une autre\nepoque."
+    },
+    "196563": {
+        "「本当に……もう　王宮はないのね。\n　お父様も　クオードも……。": "Vraiment... Il n'y a plus de palais royal.\nPapa et Quard aussi..."
+    },
+    "196564": {
+        "「帰りましょう。あなたの時代に……。": "Rentons chez vous. Dans votre epoque..."
+    },
+    "196565": {
+        "<pc>たちは　エテーネルキューブで\n現代のグランゼドーラ城下町に　戻って\n歩き出した。": "Les <pc> sont retournes a la ville basse\ndu chateau de Gran Zedora de l'epoque P. avec\nle Cube d'Ethenel et ont commence a marcher."
+    },
+    "196566": {
+        "なんと　メレアーデは　突然\n気を失って　倒れてしまった！": "Oh non, Mereade a soudainement perdu\nconnaissance et s'est effondree !"
+    },
+    "196567": {
+        "<pc>は　倒れたメレアーデを\nグランゼドーラ城へと　運び込んだ……。": "<pc> a transporte Mereade tombee au\nChateau de Gran Zedora..."
+    },
+    "196568": {
+        "「そちは　なんと　使える魔神機じゃ。\n　素材は粗末ながら　演算処理装置は\n　帝国技術庁製よりも　ずっと　優秀じゃの。": "Tu es vraiment une machine magique\nimpressionnante. Bien que tes materiaux soient\nmodestes, ton dispositif de traitement est<br>bien plus performant que ceux de l'Institut\nTechnologique Imperial."
+    },
+    "196569": {
+        "「ほめてつかわすぞ。\n　いいこ　いいこじゃ。": "Je te felicite. Tu es un bon enfant, un bon\nenfant."
+    },
+    "196570": {
+        "「そちを開発した　技術者の名を教えよ。\n　すぐにでも　我が城で　召し抱えようぞ。": "Dis-moi le nom de l'ingenieur qui a developpe\ncela. Je vais immediatement l'inviter a\ntravailler pour mon chateau."
+    },
+    "196571": {
+        "「……なんじゃ　戻ってきてしもうたか。 \n　このまま　０８号を　ウチの子に\n　してしまおうかと　思ったのにのう。": "...Eh bien, te voila de retour. Je pensais\nfaire de ce No. 08 un des miens."
+    },
+    "196572": {
+        "「それで　時の球根は　手に入ったのかえ？\n　さえない冒険者よ。": "Alors, avez-vous obtenu la Racine du Ballon du\nTemps ? Heros sans eclat."
+    },
+    "196573": {
+        "<pc>は　ウルタ皇女に\nちいさな時の球根を　渡した。": "<pc> a remis la Tiny Time Bulb a\nPrincess Ulta."
+    },
+    "196574": {
+        "「どうやら　本物のようじゃ。\n　よくぞ　まあ　手に入れたものよ。": "On dirait bien que c'est authentique. Tu as\nvraiment reussi a te le procurer."
+    },
+    "196575": {
+        "「そちが従える　０８号の性能も　見事じゃ。\n　ただの　さえないだけの冒険者では\n　なさそうじゃな。": "Les competences de ton No. 08 sont\nimpressionnantes. On dirait bien que tu n'es\npas simplement un aventurier ordinaire et<br>insignifiant."
+    },
+    "196576": {
+        "「非礼をわびよう　エテーネ人　<pc>よ。 \n　よくぞ　わらわの　役に立ってくれた。": "Je te presente mes excuses pour mon\nimpolitesse, habitant d'Ethene, <pc>. Tu\nas bien servi mes interets."
+    },
+    "196577": {
+        "「時渡りのチカラを　制御する秘宝。\n　これさえあれば……。": "Le tresor secret qui controle le pouvoir de\ntraverser le temps. Avec ca, je pourrais..."
+    },
+    "196578": {
+        "「そちには　話してやろう。\n　わらわの夢を。わらわの願いを。": "Je vais te raconter. Mon reve. Mon souhait."
+    },
+    "196579": {
+        "「我が父　第十一代皇帝　ジャ・クバは\n　誰よりも平和を愛し　国民の幸せを願っていた。": "Mon pere, le onzieme empereur Ja Kuba, aimait\nla paix plus que quiconque et souhaitait le\nbonheur de son peuple."
+    },
+    "196580": {
+        "「長年続いていた　西のガテリア皇国との \n　戦争に終止符を打ち　和平条約を結ぶ手はずを\n　入念に　ととのえておった。": "Nous avons minutieusement prepare les\narrangements pour mettre fin a la longue\nguerre avec l'Empire de Gateria a l'Ouest et<br>conclure un traite de paix."
+    },
+    "196581": {
+        "「そんな父上の思いを　踏みにじったのが\n　あの　ガテリアの野蛮人じゃ……。": "Ceux qui ont pietine les sentiments de mon\npere, ce sont ces barbares de Galleria..."
+    },
+    "196582": {
+        "「和平条約を結ぶ前日　きゃつは……\n　名を呼ぶのもおぞましい　あの悪鬼は\n　父上の居室に忍び込み　命を奪った。": "La veille de la signature du traite de paix,\ncette creature... Cet infame demon, dont le\nnom meme me repugne, s'est glisse dans les<br>quartiers de mon pere et lui a ote la vie."
+    },
+    "196583": {
+        "「ガテリアに　和平を結ぶ気など　なかった。\n　父上を油断させ　はじめから　ウルベアを\n　裏切るつもりでおったのじゃ。": "Gateria n'avait aucune intention de conclure\nla paix. Ils ont trompe mon pere pour le\nmettre en confiance, avec l'intention de<br>trahir Urbea depuis le debut."
+    },
+    "196584": {
+        "「……それさえ　わかっていれば \n　歴史は　変えられたものを。": "…Si seulement nous avions su cela, l'histoire\naurait pu etre changee."
+    },
+    "196585": {
+        "「わらわの願いは　時を超え　過去に戻り \n　父上の暗殺を阻止して　歴史を改変すること。": "Mon souhait est de traverser le temps, de\nretourner dans le passe, d'empecher\nl'assassinat de mon pere et de reecrire<br>l'histoire."
+    },
+    "196586": {
+        "「これは　決して　夢物語ではない。 \n　帝国技術庁で開発している　アレさえ完成すれば\n　わらわの願いは　かなうのじゃ。": "Ce n'est pas du tout un simple reve. Si\nseulement nous pouvions terminer ce que nous\ndeveloppons au Bureau Imperial de Technologie,<br>alors mon souhait se realisera."
+    },
+    "196587": {
+        "「時渡りは　そちたち　エテーネ人だけのものでは\n　なくなる……ということじゃな。": "Voyager a travers le temps ne sera plus\nreserve uniquement aux habitants d'Ethene...\nn'est-ce pas ?"
+    },
+    "196588": {
+        "「時の球根は　時を渡る新技術の完成に \n　不可欠なパーツの　ひとつらしくてな。\n　これから　技術庁へ　届けてやらねばならん。": "Le Ballon du Temps semble etre l'une des\npieces indispensables pour achever la nouvelle\ntechnologie de voyage dans le temps. Je dois<br>maintenant le livrer au Bureau des\nTechnologies."
+    },
+    "196589": {
+        "「そちが探しているという　巨人……\n　ウルベア大魔神も　そこにある。\n　わらわが　特別に　連れていってやろうぞ。": "Le geant que tu cherches... Urbea Colossus s'y\ntrouve aussi. Je vais t'y emmener\nspecialement."
+    },
+    "196590": {
+        "「城内の飛行装置発着場まで　来るがよい。 \n　モタモタしていると　置いてゆくぞよ。": "Viens jusqu'a l'aire d'atterrissage des engins\nvolants a l'interieur du chateau. Si tu\ntraines, je partirai sans toi."
+    },
+    "196591": {
+        "<pc>は　玉座の間を　あとにした。": "<pc> quitta la salle du trone."
+    },
+    "196592": {
+        "「ふふ……これか？　これはのう \n　ウルベア帝国式　反重力飛行装置の最新モデル\n　しかも　数量限定カラーじゃぞ。": "Fufufu... Ceci ? C'est le dernier modele de\nl'appareil de vol anti-gravite de l'Empire\nd'Urbea. Et en plus, dans une couleur en<br>edition limitee."
+    },
+    "196593": {
+        "「新素材のフレームを　採用することで \n　機体の軽量化と　燃費の向上　および\n　浮力と速力の　大幅な改善を実現！": "En adoptant un nouveau cadre en materiaux\ninnovants, nous avons reussi a alleger la\nstructure et a ameliorer la consommation de<br>carburant, ce qui a permis une amelioration\nconsiderable de la flottabilite et de la\nvitesse !"
+    },
+    "196594": {
+        "「振動を　従来の３割以上も　カットしながら \n　機関部から伝わる　この熱量とパワー！\n　こだわり抜いた　マッシヴなシルエット……。": "Tout en Cartant plus de 30 % des vibrations\nhabituelles, cette quantite de chaleur et de\npuissance transmise par le moteur ! Une<br>silhouette massive, minutieusement elaboree..."
+    },
+    "196595": {
+        "「ウルベアの　技術の粋を凝縮した　逸品じゃ。\n　うむ！　たまらんのう！": "C'est un chef-d'oeuvre qui condense le summum\nde la technologie d'Urbea. Hum ! C'est\nirresistible !"
+    },
+    "196596": {
+        "「……アア見エテ　皇女ハ　一流ノ技術者デス。 \n　代々　ウルベア地下帝国ノ　王族ハ\n　技術者トシテノ　素養ニ　恵マレテイマス。": "...Ah, je vois que la princesse imperiale est\nune ingenieure de premier ordre. Depuis des\ngenerations, la famille royale de l'Empire<br>d'Urbea est dotee d'un talent naturel pour\nl'ingenierie."
+    },
+    "196597": {
+        "「然り。我が父上　ジャ・クバは\n　あの天才技師　リウ老師に\n　手ほどきを　受けていたのじゃぞ。": "En effet. Mon pere, Ja Kuba, a ete forme par\nle genie ingenieur Master Liu."
+    },
+    "196598": {
+        "「戦乱を前にして　決別してしまったがの。 \n　今となっては　きゃつが　生きているのか\n　死んでおるのかも……。": "Nous nous sommes separes avant la guerre. Je\nne sais meme pas s'il est encore en vie ou\ns'il est mort maintenant..."
+    },
+    "196599": {
+        "「それはそうと　何を　ボサッとしておる？\n　わらわの後ろへ　乗せてやるゆえ\n　ありがたく　ライドオンするのじゃ。": "Qu'est-ce que tu fais a revasser ainsi ? Monte\ndonc a l'arriere de mon vehicule, je te fais\nl'honneur de te laisser faire un RaiドOn."
+    },
+    "196600": {
+        "「いざ　帝国技術庁へ……全速発進！": "En avant vers le Bureau des Technologies\nImperiales... Pleine vitesse !"
+    },
+    "196601": {
+        "「……ふん　出よったな。\n　振り落とされるなよ　<pc>！": "…Hum, il est finalement sorti. Ne te laisse\npas distancer, <pc> !"
+    },
+    "196602": {
+        "「どーーうじゃ！\n　思い知ったか　化け物どもめ！": "Alors, comment ca fait ? Vous avez compris,\nsales monstres !"
+    },
+    "196603": {
+        "「わらわを　あなどるでないぞよ。\n　ただの　引きこもり皇女では　ないわっ。\n　はっはっはー！": "Ne me sous-estimez pas ! Je ne suis pas une\nsimple princesse recluse. Ha ha ha !"
+    },
+    "196604": {
+        "「おお　出迎えにきてくれたのか。\n　グルヤンラシュ！": "Oh, tu es venu m'accueillir. Guruyanrush !"
+    },
+    "196605": {
+        "「エテーネ人が　現れたと聞いていたが……\n　お前は　本当に　ボウフラのようなヤツだな。": "J'avais entendu dire que l'Ethene etait\nmort... Mais tu es vraiment tenace comme un\nmoustique."
+    },
+    "196606": {
+        "「時渡りができるということは　お前もまた \n　エテーネの血を　引く者だったのか。\n　あの土壇場で発動させるとは　悪運が強い。": "Le fait que tu puisses voyager dans le temps\nsignifie que tu es aussi un descendant\nd'Ethene. Activer ce pouvoir dans une telle<br>situation desesperee montre que tu as une\nsacree chance."
+    },
+    "196607": {
+        "「おお……グルヤンラシュの　知人であったか。\n　時の球根を　手に入れられたのも　道理じゃな。": "Oh... Tu es une connaissance de Grulyan Lash.\nIl est donc logique que tu aies pu obtenir le\nBall de Temps."
+    },
+    "196608": {
+        "「なんて　カオをしてる。": "Quel visage fais-tu."
+    },
+    "196609": {
+        "「俺だ。正真正銘の　クオードだ。\n　お互い　生きて　また会えるとはな。": "C'est moi, T. Tadashi. Je suis Quard de\nShomei. C'est incroyable que nous soyons\nvivants et que nous nous rencontrions a<br>nouveau."
+    },
+    "196610": {
+        "「……時見の神殿が　崩壊した　あの日。\n　俺は　姉さんを助けだした後　無我夢中で\n　時渡りのチカラを　発動したらしい。": "…Le jour ou le Temple Timeseer s'est effondre.\nApres avoir sauve ma soeur, il semble que j'ai\nactive le pouvoir du voyage temporel dans un<br>etat d'inconscience."
+    },
+    "196611": {
+        "「たどり着いたのが　この　ウルベア帝国だった。\n　お前は　つい最近　ここに来たようだが\n　俺は　もう　１０年以上　この時代にいる……。": "J'ai fini par arriver dans cet Empire d'Urbea.\nTu sembles etre arrive ici recemment, mais\nmoi, cela fait deja plus de 10 ans que je suis<br>dans cette epoque..."
+    },
+    "196612": {
+        "「どうだ　見違えたか？\n　ずいぶん　背が伸びただろう。": "Alors, tu ne me reconnais plus ? J'ai pas mal\ngrandi, n'est-ce pas ?"
+    },
+    "196613": {
+        "「……あの後　エテーネが　どうなったのか \n　この時代の文献を　つぶさに調査した。\n　そして　わかったことがある。": "Apres cela, j'ai minutieusement enquete sur ce\nqui est arrive a Ethene a travers les\ndocuments de cette epoque. Et j'ai decouvert<br>quelque chose."
+    },
+    "196614": {
+        "「王宮が消失してから　まもなく……\n　エテーネ王国は　滅びを迎えたという。": "Peu de temps apres la disparition du palais\nroyal... On dit que le royaume d'Ethene a\nrencontre sa fin."
+    },
+    "196615": {
+        "「俺は　戻らねばならない！！\n　エテーネの滅びを　回避するため\n　あの時代に　必ず　帰らなければ！": "Je dois retourner !! Pour eviter la\ndestruction d'Ethene, je dois absolument\nrevenir a cette epoque !"
+    },
+    "196616": {
+        "「グルヤンラシュは　わらわの同志。\n　その上　エテーネ人の仲間が　増えるとは\n　こんなに　心強いことはないぞえ。": "Grulyanlash est mon camarade. De plus, voir le\nnombre d'allies de l'ethereal augmenter rend\nla situation tellement plus rassurante."
+    },
+    "196617": {
+        "「俺は　この帝国技術庁で　ウルベアの叡智と\n　エテーネの錬金術を　組み合わせた新技術で\n　ふたたび　時渡りを成功させるつもりだ。": "Je compte bien, ici au Bureau des Technologies\nImperiales, reussir a nouveau le voyage dans\nle temps grace a une nouvelle technologie<br>combinant la sagesse d'Urbea et l'alchimie\nd'Ethene."
+    },
+    "196618": {
+        "「ああ……グルヤンラシュというのは \n　『あの日へ帰る』という意味の　古代語でな。\n　今は　その名で　ウルベア帝国に仕えている。": "Ah... 'Guruyanrash' signifie 'Retourner a ce\njour' en ancien langage. Actuellement, il sert\nsous ce nom pour l'Empire Urbea."
+    },
+    "196619": {
+        "「ウルタ皇女は　俺の　よき理解者だ。 \n　彼女となら　夢を実現できる　きっと……。": "La princesse Ulta est une bonne confidente\npour moi. Avec elle, je suis sur que nous\npourrons realiser nos reves..."
+    },
+    "196620": {
+        "「グルヤンラシュよ。\n　さっそく　例の件を確認したい。ゆくぞ！": "Guruyanrushu. Je veux immediatement verifier\nl'affaire en question. Allons-y !"
+    },
+    "196621": {
+        "「仰せのままに。": "A vos ordres."
+    },
+    "196622": {
+        "「また　後で会おう。\n　しばらく　庁舎内を散策するといい。": "A plus tard. En attendant, tu devrais explorer\nun peu le batiment."
+    },
+    "196623": {
+        "「……まさか　ここに来て \n　アイツと再会するとは　思わなかったキュね。": "…Je ne pensais pas qu'en venant ici, je\nretrouverais ce gars-la, kyu."
+    },
+    "196624": {
+        "「ああいう　その時代での　影響力が強いヤツに \n　未来から来たことや　メレアーデのことを言うと\n　ロクなことにならない可能性が　高いキュ。": "Un gars aussi influent a son epoque, si on lui\nparle de venir du futur ou de Mereade, il y a\nde fortes chances que ca tourne mal, Kyu."
+    },
+    "196625": {
+        "「クオードには　何も言うなキュ。\n　<pc>が　同じ時代に飛ばされたと\n　勘違いしてるみたいで　助かったっキュね。": "Ne dis rien a Quard, kyu. On dirait qu'il a\nmal compris et pense que <pc> a ete\nenvoye a la meme epoque, ce qui nous arrange,<br>kyu."
+    },
+    "196626": {
+        "「さてと。ボクは　しばらく眠るキュ。 \n　メレアーデまで　時空転移させたことで\n　だいぶ　エネルギーを消耗したキュ。": "さてとボクは しばらく眠るキュ Mereadeまで 時空転移させたことで だいぶ\nエネルギーを消耗したキュ"
+    },
+    "196627": {
+        "「キューブの動作には　支障ないキュ。\n　それでは　おやすみだキュ……。": "Le fonctionnement du cube ne pose aucun\nprobleme, Kyu. Alors, bonne nuit, Kyu..."
+    },
+    "196628": {
+        "「<pc>サマ。\n　周辺ヲ　調査シテキマシタ。\n　重要機密ニ　関ワル　主任研究員ヲ　３名確認。": "<pc>-sama. J'ai enquete sur les\nenvirons. J'ai identifie trois chercheurs\nimpliques dans des informations hautement<br>confidentielles liees au projet Lord."
+    },
+    "196629": {
+        "「３名ノ主任研究員ニ　聞キ込ミ調査ヲ　実施シ\n　ダラズ大鉱脈デ待ツ　リウ老師ノタメ\n　帝国技術庁デ　情報収集シマショウ！": "Nous allons mener une enquete en interrogeant\nles trois chercheurs a la charge du Lord. Pour\nMaster Liu, qui attend a Daraz Prospect,<br>rassemblons des informations au Bureau\nImperial de Technologie !"
+    },
+    "196630": {
+        "「むう……飛行中に　やられたか？\n　まったく　どんくさいのう。": "Mmm... Tu t'es fait avoir en plein vol ?\nVraiment, quelle maladresse."
+    },
+    "196631": {
+        "「マリッチ　起きよ。 \n　そんな　軟弱な子に\n　組み上げた覚えは　ないぞえ。": "Marich, reveille-toi. Je ne t'ai pas eleve\npour etre un enfant si faible."
+    },
+    "196632": {
+        "「これで　満足であろう？": "Es-tu satisfait maintenant ?"
+    },
+    "196633": {
+        "「かーっ。この　ポンコツ～！！": "Argh ! Ce tas de ferraille !!"
+    },
+    "196634": {
+        "「な…なんじゃ。来ておったのか。": "Qu... Quoi ? Tu es deja la."
+    },
+    "196635": {
+        "「上空デノ戦闘ニテ　魔物ノ攻撃ヲ受ケ\n　発煙スルノヲ　確認シマシタ。": "Lors du combat aerien, nous avons confirme\navoir subi une attaque de la creature,\nprovoquant de la fumee."
+    },
+    "196636": {
+        "「皇女ヲ　守ルタメ　張リ切リスギタノデスネ。": "Vous avez trop tire sur la corde pour proteger\nla princesse imperiale, n'est-ce pas ?"
+    },
+    "196637": {
+        "「マリッチは　わらわの世話係じゃ。 \n　そこで　張り切るのが　仕事のようなものじゃ。": "Marich est mon assistant personnel. Son\ntravail consiste a s'occuper de moi avec\nenthousiasme."
+    },
+    "196638": {
+        "「マリッチノ　めんてなんす許可ヲ　求メマス。\n　ワタシニ　オマカセクダサレバ……。": "Je sollicite l'autorisation de maintenance\npour Marich. Si vous me confiez cette tache..."
+    },
+    "196639": {
+        "「ふっ　見くびるな。": "Hmph, ne me sous-estime pas."
+    },
+    "196640": {
+        "「わらわは　まだ　本気を出しておらぬ。\n　華麗に直してみせるゆえ　見ておれっ。": "Je n'ai pas encore montre toute ma puissance.\nJe vais te montrer comment je peux reparer\ncela avec elegance. Regarde bien !"
+    },
+    "196641": {
+        "「コレハ…………？": "Qu'est-ce que c'est... ?"
+    },
+    "196642": {
+        "「うむ。外装こそ新しいが　素体は古い。 \n　父上に仕えた　初期型魔神機のものでの。": "Hum. Bien que l'exterieur soit neuf, le corps\nest ancien. Il provient d'un modele de\npremiere generation de machine magique qui<br>servait mon pere."
+    },
+    "196643": {
+        "「壊れたまま　放置されていたので\n　こうして　再利用することにしたのじゃ。": "Il etait laisse en ruine, alors j'ai decide de\nle reutiliser ainsi."
+    },
+    "196644": {
+        "「取り立てて　とりえのない子じゃが\n　形見と思って　そばに　仕えさせておる。": "Elle n'a pas de talents particuliers, mais je\nla garde pres de moi en souvenir."
+    },
+    "196645": {
+        "「ふん　形見などと……。\n　歴史を改変すれば　父上は\n　わらわのもとへ　帰ってくるのじゃ。": "Hmph, des souvenirs, tu dis... Si je modifie\nl'histoire, pere reviendra vers moi."
+    },
+    "196646": {
+        "「……早う　会いたいのう。": "...J'ai tellement hate de te revoir."
+    },
+    "196647": {
+        "「よし。一気に　やってしまうか！": "Bien, faisons-le d'un seul coup !"
+    },
+    "196648": {
+        "ウルタ皇女は　すばやい手つきで\nマリッチを　修理していった！": "Avec des gestes rapides, la princesse Ulta a\nrepare Marich !"
+    },
+    "196649": {
+        "「なんじゃ　油くさいヤツめ。\n　あまり　寄るでないっ。": "Qu'est-ce que c'est que cette odeur d'huile ?\nNe t'approche pas trop !"
+    },
+    "196650": {
+        "「<pc>　０８号……礼を言う。\n　そちたちの優しさが　うれしかったぞよ。": "<pc> No. 08... Je vous remercie. La\ngentillesse dont vous avez fait preuve m'a\ntouche."
+    },
+    "196651": {
+        "「おお　そうじゃ。見せたいものがあるゆえ\n　この庁舎の最上階……４階にある\n　開発中枢区まで　来てたもれ。": "Oh, c'est vrai. J'ai quelque chose a te\nmontrer. Rends-toi au centre de developpement,\nsitue au dernier etage de ce batiment<br>administratif... au 4eme etage."
+    },
+    "196652": {
+        "「おかえりなさい　<pc>君　０８号。\n　遠路はるばる　呼び戻して　すみませんな。": "Bienvenue chez vous, <pc>-kun No. 08. Je\nsuis desole de vous avoir rappele de si loin."
+    },
+    "196653": {
+        "「０８号を通して　状況は把握しております。\n　あなたの活躍のおかげで　じつに\n　すばらしい成果が　上がりましたよ。": "No. 08 m'a permis de bien comprendre la\nsituation. Grace a vos exploits, nous avons\nobtenu de merveilleux resultats."
+    },
+    "196654": {
+        "「ええ……私が　期待していた以上にね……。": "Oui... bien plus que ce que j'esperais..."
+    },
+    "196655": {
+        "「あなたの　その　ウデを見込んで\n　今回　ウルベアに潜入してもらった\n　本当の理由を　話しておきたいと思いました。": "Je souhaitais vous parler de la veritable\nraison pour laquelle nous avons fait appel a\nvos competences pour vous infiltrer a Ulbea<br>cette fois-ci."
+    },
+    "196656": {
+        "「私は　かつて……\n　ウルベア地下帝国に仕える　筆頭技術者でした。": "J'etais autrefois... un ingenieur en chef au\nservice de l'Empire d'Urbea."
+    },
+    "196657": {
+        "「人々の暮らしを　豊かにしたいという \n　前皇帝ジャ・クバ陛下の　勅命を受け\n　魔神機をはじめ　多くの発明をしたものです。": "Sous le commandement imperial de l'ancien\nempereur Ja Kuba, desireux d'enrichir la vie\ndes gens, de nombreuses inventions ont ete<br>realisees, a commencer par la machine\ndemoniaque."
+    },
+    "196658": {
+        "「しかし　グルヤンラシュが　急速に台頭し \n　陛下のお心をとらえると　軍事技術にかたよった\n　開発方針を　推し進めるようになりました。": "Cependant, lorsque Grulian Lash a rapidement\ngagne en influence et capte l'attention de Sa\nMajeste, il a commence a promouvoir une<br>orientation de developpement axee sur la\ntechnologie militaire."
+    },
+    "196659": {
+        "「私は　その方針に納得できず　技術協力を断り\n　ガテリアへと　亡命したのです……。": "Je n'etais pas d'accord avec cette politique,\nj'ai donc refuse de cooperer technologiquement\net je me suis exile a Gateria..."
+    },
+    "196660": {
+        "「ガテリアでは　第一皇子ビャン・ダオさまの\n　家庭教師として　教え導いておりました。": "A Gateria, j'etais le precepteur du premier\nprince Byan Dao-sama, ou je l'ai enseigne et\nguide."
+    },
+    "196661": {
+        "「あの方は　じつに　いい教え子でしたよ。 \n　聡明なだけでなく　心根がまっすぐで\n　情熱にあふれていた……。": "Cette personne etait vraiment un excellent\neleve. Non seulement intelligent, mais aussi\navec un coeur droit et debordant de passion..."
+    },
+    "196662": {
+        "「私が　亡命してから間もなく \n　ウルベアから　ガテリアへ\n　和平交渉の機会が　もたらされました。": "Peu de temps apres ma defection, une\nopportunite de negociation de paix a ete\nofferte entre Ulbea et Gateria."
+    },
+    "196663": {
+        "「ガテリアは　使者として\n　ビャン皇子を　ウルベアへ遣わしました。\n　そして……": "Gateria a envoye le prince Byan en tant\nqu'emissaire a Ulbea. Et ensuite..."
+    },
+    "196664": {
+        "「調停式の前日　ビャン皇子は\n　ジャ・クバ陛下を　暗殺した…………。": "La veille de la ceremonie de mediation, le\nprince Byan a assassine Sa Majeste Ja Kuba..."
+    },
+    "196665": {
+        "「……そんなわけは　ないッ！": "C'est impossible !"
+    },
+    "196666": {
+        "「平和の尊さを学び　よく理解してくださった\n　あの方が　ジャ・クバ陛下を\n　殺す理由など　あるはずもない……！": "La personne qui a appris et compris\nl'importance de la paix ne pourrait jamais\navoir de raison de tuer Sa Majeste Ja Kuba...<br>!"
+    },
+    "196667": {
+        "「私は　魔神兵を連れて　ウルベア城に潜入し\n　収監された皇子を　救出しました。": "J'ai infiltre le chateau d'Urbea avec les\nsoldats demoniaques et j'ai sauve le prince\nemprisonne."
+    },
+    "196668": {
+        "「魔神兵の体内凍眠室に　入っていただき\n　凍眠機能を　作動させたのです。\n　目覚めの時まで　誰にも侵されぬよう……。": "Je vous ai fait entrer dans la chambre de\nsommeil cryogenique a l'interieur du Soldat\nDemon, et j'ai active la fonction de sommeil<br>glace. Pour que personne ne vous derange\njusqu'au moment de votre reveil..."
+    },
+    "196669": {
+        "「皇子とは　未来で会う約束を　しております。\n　ですが……まだ　行けないのですよ。": "J'ai promis de rencontrer le prince dans le\nfutur. Cependant... je ne peux pas y aller\npour l'instant."
+    },
+    "196670": {
+        "「ビャン皇子にかけられた\n　無実の罪を　晴らすまではね。": "Je dois laver le Prince Byan des accusations\ninjustes portees contre lui."
+    },
+    "196671": {
+        "「あなたと０８号を　ウルベアへ送ったのは \n　皇子が無実であるという　確たる証拠を\n　つかむためだったのです。": "Je vous ai envoyes, vous et le No. 08, a Urbea\npour obtenir des preuves irrefutables de\nl'innocence du prince."
+    },
+    "196672": {
+        "「おかげで　予想外の手がかりを　得られました。\n　ひょっとすると　あの方の汚名を\n　そそぐことが　できるかもしれません……。": "Grace a cela, nous avons pu obtenir un indice\ninattendu. Peut-etre qu'il sera possible de\nlaver l'honneur de cette personne..."
+    },
+    "196673": {
+        "「私は　現地に潜り込んでいる\n　協力者を頼りに　帝国技術庁へ向かいます。": "Je vais me rendre au Departement des\nTechnologies Imperiales, en comptant sur\nl'aide de mon collaborateur infiltre a P. 地."
+    },
+    "196674": {
+        "「あなたにも　ぜひ　来ていただきたい。\n　ビャン皇子のために　どうか　頼みます……。": "J'aimerais vraiment que vous veniez. Je vous\nen prie, c'est pour le prince Byan..."
+    },
+    "196675": {
+        "「では　帝国技術庁の開発中枢区へ。\n　０８号は　引き続き　<pc>君の\n　サポートを　頼みましたぞ。": "Alors, direction le centre de developpement de\nl'Agence Imperiale de Technologie. No. 08, je\ncompte sur toi pour continuer a soutenir<br><pc>-kun."
+    },
+    "196676": {
+        "「了解イタシマシタ。\n　参リマショウ　<pc>サマ！": "Bien compris. Allons-y, <pc>-sama !"
+    },
+    "196677": {
+        "「ああ　お前か。ちょうどよかった。 \n　ついに　エテーネルキューブが……": "Ah, c'est toi. Tu tombes a pic. Enfin, le Cube\nd'Ethenel a..."
+    },
+    "196678": {
+        "「おひさしぶりですな　グルヤンラシュ殿。": "Ca faisait longtemps, Guruyan Rashu-dono."
+    },
+    "196679": {
+        "「……そして　ウルタ皇女。\n　お美しく　成長されましたな。": "…Et ainsi, Princesse Ulta. Vous etes devenue\nsi belle en grandissant."
+    },
+    "196680": {
+        "「リウ……老師！？": "Ryu... sensei !?"
+    },
+    "196681": {
+        "「大罪人の脱獄に　手を貸した後 \n　レジスタンスどもに　かくまわれたそうだな。\n　今さら　何をしにきた？": "Apres avoir aide a l'evasion du grand\ncriminel, il parait que tu as ete cache par\nles Wardrobe de Regis. Que viens-tu faire ici<br>maintenant ?"
+    },
+    "196682": {
+        "「……私は　皇帝ジャ・クバ暗殺の \n　真相を　解き明かしにきました。": "...... Je suis venu elucider le complot\nd'assassinat de l'empereur Ja Kuba."
+    },
+    "196683": {
+        "「暗殺の真相じゃと……？\n　何を申すか　リウ老師。": "L'assassinat de T. Aie... ? Que dites-vous,\nMaitre Liu ?"
+    },
+    "196684": {
+        "「ビャン・ダオじゃ。\n　あの悪鬼が　我が父上を殺したのじゃ！": "C'est Byan Dao. Cet infame demon a tue mon\npere !"
+    },
+    "196685": {
+        "「では　確かめてみましょう。\n　誰の目にも明らかな　証拠が残っているはず。": "Alors, verifions cela. Il doit bien rester des\npreuves evidentes aux yeux de tous."
+    },
+    "196686": {
+        "「そうですな　０１号？": "C'est bien ca, numero 01 ?"
+    },
+    "196687": {
+        "「この子は　わらわの世話係　マリッチ。\n　０１号とは　なんのことじゃ。": "Cette enfant est Marich, mon assistante\npersonnelle. De quoi parlez-vous avec ce\nNumero 01 ?"
+    },
+    "196688": {
+        "「ウルベアの魔神機は　私が　生みだしたもの。\n　はじめての試作機には　０１号と名付け\n　ジャ・クバ陛下に　献上したのです。": "Les machines magiques d'Urubea sont mon oeuvre.\nJ'ai nomme le premier prototype Numero 01 et\nl'ai offert a Sa Majeste Ja Kuba."
+    },
+    "196689": {
+        "「た…たしかに　この子の素体は\n　父上の側仕えをしていた　魔神機じゃが……。": "Il est... il est vrai que le corps de cet\nenfant est celui d'un demon mecanique qui\nservait a cote de mon pere..."
+    },
+    "196690": {
+        "「０８号を通して　マリッチの素体を \n　見させていただきましたよ。\n　あれは　まぎれもない　私の刻印でした。": "En observant le No. 08, j'ai pu voir le\nprototype de Marich. C'etait sans aucun doute\nmon empreinte."
+    },
+    "196691": {
+        "「<pc>君の　協力のおかげで\n　ようやく　気づくことができたのです。": "Grace a la cooperation de <pc>-kun, j'ai\nenfin pu m'en rendre compte."
+    },
+    "196692": {
+        "「さあ　０１号よ。\n　調印式の前日　ジャ・クバさまの居室にて\n　記録した映像を　再生なさい。": "Allez, numero 01. Diffuse les images\nenregistrees dans les quartiers de Ja\nKuba-sama la veille de la ceremonie de<br>signature."
+    },
+    "196693": {
+        "「０１号に　戦闘能力はありませんでしたが\n　皇帝の体調管理を　おこなうための\n　記録装置をつけていました。": "Le numero 01 n'avait pas de capacites de\ncombat, mais il etait equipe d'un dispositif\nd'enregistrement pour surveiller l'etat de<br>sante de l'empereur."
+    },
+    "196694": {
+        "「これは　０１号がとらえ　保存し続けていた \n　ジャ・クバ陛下の……最期の映像……。": "Ceci est la derniere video de Sa Majeste Ja\nKuba... capturee et conservee par l'unite\n01..."
+    },
+    "196695": {
+        "「明日の調印式で　ようやく\n　ドワチャッカ大陸に　安寧の時代が訪れる。": "Demain, lors de la ceremonie de signature, une\nere de paix viendra enfin sur le continent de\nDwachakka."
+    },
+    "196696": {
+        "「兵士たちが　尊い命を散らすことも \n　莫大な軍事予算が　民草の生活を\n　むしばむことも　もうない……。": "Les soldats ne perdront plus jamais leur\nprecieuse vie, et le budget militaire colossal\nne viendra plus jamais affecter la vie des<br>citoyens..."
+    },
+    "196697": {
+        "「お前たち　忠実なる魔神機たちが \n　戦場で　キズつくことも　なくなるのだよ。\n　よく　がんばってくれたのう……。": "Vous, mes fideles machines demoniaques,\nn'aurez plus a souffrir de blessures sur le\nchamp de bataille. Vous avez bien fait vos<br>preuves..."
+    },
+    "196698": {
+        "「ガテリアにも　平和を愛する者がいてくれた。 \n　ウルタも　いつか　あの青年のような……": "Il y a aussi des personnes qui aiment la paix\na Gateria. Un jour, Urta sera peut-etre comme\nce jeune homme..."
+    },
+    "196699": {
+        "「……お　お前は！　いったい　なぜ！？": "...Toi ! Pourquoi donc !？"
+    },
+    "196700": {
+        "「う…ううっ……。": "Ou... ouh..."
+    },
+    "196701": {
+        "「父上！？": "Pere !?"
+    },
+    "196702": {
+        "「誰ぞ……聞こえるか……。\n　そこに……おらぬか？": "Quelqu'un... m'entend-il... ? Y a-t-il...\nquelqu'un la-bas ?"
+    },
+    "196703": {
+        "「こ…ここに　います！\n　わらわは　ここです　父上ぇっ！！": "Je... je suis ici ! Je suis ici, pere !!"
+    },
+    "196704": {
+        "「０１号……。もし　聞こえていたら\n　愛するウルタに　伝えておくれ。": "Numero 01... Si tu m'entends, dis a ma chere\nUrta..."
+    },
+    "196705": {
+        "「余の死を　乗り越えよ。 \n　お前に　ウルベアのこれからを……": "Surmonte ma mort. A toi de prendre en charge\nl'avenir d'Urbea..."
+    },
+    "196706": {
+        "「未来を……託す…………。": "L'avenir... est entre tes mains..."
+    },
+    "196707": {
+        "「デタラメを映す　下劣なガラクタめ。\n　こんなもの　何の証拠にもならん！": "Ce dechet immonde qui ne reflete que des\nmensonges. Cela ne prouve absolument rien !"
+    },
+    "196708": {
+        "「国家転覆を目論む　反逆者どもを拘束せよ。": "Capturez les rebelles qui complotent pour\nrenverser l'Etat."
+    },
+    "196709": {
+        "「脱出不可能。\n　完全ニ　閉ジ込メラレマシタ。": "Evasion impossible. Vous etes completement\nenferme."
+    },
+    "196710": {
+        "「<pc>君には　すまないことをしました。\n　すっかり　私たちの事情に\n　巻き込んでしまいましたな。": "<pc>-kun, je suis desole. Nous t'avons\nimplique malgre toi dans nos affaires."
+    },
+    "196711": {
+        "「グルヤンラシュは　ジャ・クバ陛下の \n　ご存命中から　軍事にかたよった\n　技術開発ばかり　推し進めていました。": "Guruyan Lash, des le regne de Sa Majeste Ja\nKuba, n’a cesse de favoriser le developpement\ntechnologique a des fins militaires."
+    },
+    "196712": {
+        "「そうして　宰相として　実権を握った後は\n　平和を愛する　ジャ・クバ陛下が\n　ジャマになったのでしょう……。": "Ainsi, apres avoir pris le pouvoir en tant que\nchancelier, il est probable que Sa Majeste Ja\nKuba, qui aime la paix, soit devenue un<br>obstacle..."
+    },
+    "196713": {
+        "「皇帝殺しの罪を　ガテリアになすりつけた上\n　ウルタ皇女を孤立させ　意のままに\n　あやつることに　成功したわけです。": "Apres avoir impute le meurtre de l'empereur a\nGateria, vous avez reussi a isoler la\nprincesse Ulta et a la manipuler a votre<br>guise."
+    },
+    "196714": {
+        "「このような所業　とても　人とは思えぬ。\n　悪鬼とは　他ならぬ　奴のことですな……！": "Une telle conduite ne peut etre attribuee a un\netre humain. Cet individu est, sans aucun\ndoute, un veritable demon... !"
+    },
+    "196715": {
+        "「……生体反応　１体　接近中。": "......Reaction biologique detectee. Un\nindividu s'approche."
+    },
+    "196716": {
+        "<if_woman>「姉ちゃん　やっと会えた……！\n　おいらだよ　<kyodai>だ！\n　助けにきたよ！<else>「兄ちゃん　やっと会えた……！\n　おいらだよ　<kyodai>だ！\n　助けにきたよ！<endif>": "<if_woman>>Grande soeur, enfin je t'ai\nretrouvee... ! C'est moi, <kyodai> ! Je suis\nvenu te sauver !<else>>Grand frere, enfin je t'ai retrouve... !\nC'est moi, <kyodai> ! Je suis venu te sauver\n!<endif>"
+    },
+    "196717": {
+        "「その制服…… \n　帝国技術庁の　筆頭研究員ですな？": "Cet uniforme... Vous etes chercheur en chef au\nDepartement Technique Imperial, n'est-ce pas ?"
+    },
+    "196718": {
+        "「おいら　この国に流れ着いてから\n　錬金術師として　グルヤンラシュと一緒に\n　時渡りの研究を　続けてきたんだ。": "Depuis que je suis arrive dans ce pays, j'ai\ncontinue a etudier le voyage temporel en tant\nqu'alchimiste aux cotes de Guruyanrash."
+    },
+    "196719": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は\n　おいらも　すごく共感できたから……\n　同じ目的のために　キューブを開発してた。": "La situation de Grulyanlash, tourmente par les\nvoyages temporels, m'a vraiment touche...\nC'est pourquoi j'ai developpe le Cube dans le<br>meme but."
+    },
+    "196720": {
+        "「だけど　あいつの悪事に気づいちゃって……。\n　何度も　止めようとしてきたんだけど\n　結局　おいら　何もできなかった……。": "Mais j'ai decouvert ses mefaits... J'ai essaye\nde l'arreter plusieurs fois, mais finalement\nje n'ai rien pu faire..."
+    },
+    "196721": {
+        "<if_woman>「でも　これ以上　見過ごせないよ。 \n　今回のことは　監視装置を通して　見てたんだ。\n　それで　姉ちゃんに　伝えたいことが……<else>「でも　これ以上　見過ごせないよ。 \n　今回のことは　監視装置を通して　見てたんだ。\n　それで　兄ちゃんに　伝えたいことが……<endif>": "<if_woman>>Mais je ne peux plus ignorer cela.\nJ'ai vu tout ce qui s'est passe a travers le\ndispositif de surveillance. Et j'ai quelque<br>chose a dire a grande soeur...<else>>Mais je ne peux plus ignorer cela. J'ai vu\ntout ce qui s'est passe a travers le\ndispositif de surveillance. Et j'ai quelque<br>chose a dire a grand frere...<endif>"
+    },
+    "196722": {
+        "<attr><pipipi_high><end_attr>「第二庁舎　警戒れべる上昇。\n　ＳＳらんく研究員以外ノ　立チ入リヲ　禁ズ。\n　職員各位　留意セヨ。クリ返ス…………": "<attr><pipipi_high><end_attr>Deuxieme batiment\n- Augmentation du niveau de securite. Acces\ninterdit a toute personne n'ayant pas le rang<br>de chercheur SS. Avis a tout le personnel,\nveuillez prendre note. Je repete..."
+    },
+    "196723": {
+        "「ウルタ皇女が　第二庁舎の下層にある\n　特別監視室に　監禁されてるんだ！": "Princesse Ulta est emprisonnee dans la salle\nde surveillance speciale situee dans les\nsous-sols du deuxieme batiment !"
+    },
+    "196724": {
+        "「グルヤンラシュめ……。 \n　<pc>君　こうしては　おれませんぞ。": "Cet infame Guruyan Rush... <pc>-kun,\nnous ne pouvons pas rester ici ainsi."
+    },
+    "196725": {
+        "「第二庁舎につながる　渡り廊下は　４階にある。\n　ロックは　おいらが　解除しておくよ。": "Le couloir reliant au deuxieme batiment est au\nquatrieme etage. Je vais m'occuper de\ndeverrouiller la porte."
+    },
+    "196726": {
+        "<if_woman>「一緒に　皇女様を助けよう。 \n　そして　グルヤンラシュを止めるんだ……\n　姉ちゃん！<else>「一緒に　皇女様を助けよう。 \n　そして　グルヤンラシュを止めるんだ……\n　兄ちゃん！<endif>": "<if_woman>>Aidons ensemble la princesse\nimperiale. Et arretons Grulianlash... Grande\nsoeur !<else>>Aidons ensemble la princesse imperiale. Et\narretons Grulianlash... Grand frere !<endif>"
+    },
+    "196727": {
+        "「<pc>　やっと会えたな……！\n　オレだ　<kyodai>だ！\n　助けにきたぜ！": "<pc>, enfin je te retrouve... ! C'est\nmoi, <kyodai> ! Je suis venu te sauver !"
+    },
+    "196728": {
+        "「<pc>　やっと会えた……！\n　あたしよ　<kyodai>よ！\n　助けにきたわ！": "<pc>, enfin nous nous rencontrons... !\nC'est moi, <kyodai> ! Je suis venue te\nsauver !"
+    },
+    "196729": {
+        "<if_woman>「お姉ちゃん　やっと会えた……！\n　私よ　<kyodai>よ！\n　助けにきたの！<else>「お兄ちゃん　やっと会えた……！\n　私よ　<kyodai>よ！\n　助けにきたの！<endif>": "<if_woman>>Grande soeur, je t'ai enfin\nretrouvee... ! C'est moi, <kyodai> ! Je suis\nvenue te sauver !<else>>Grand frere, je t'ai enfin retrouve... !\nC'est moi, <kyodai> ! Je suis venue te\nsauver ! <endif>"
+    },
+    "196730": {
+        "「オレ　この国に流れ着いてから\n　錬金術師として　グルヤンラシュと一緒に\n　時渡りの研究を　続けてきたんだ。": "Depuis que j'ai echoue dans ce pays, j'ai\ncontinue mes recherches sur le voyage temporel\nen tant qu'alchimiste aux cotes de Grulyan<br>Lash."
+    },
+    "196731": {
+        "「あたし　この国に流れ着いてから\n　錬金術師として　グルヤンラシュと一緒に\n　時渡りの研究を　続けてきたの。": "Depuis que j'ai echoue dans ce pays, j'ai\ncontinue mes recherches sur le voyage temporel\nen tant qu'alchimiste aux cotes de Guryanrash."
+    },
+    "196732": {
+        "「私　この国に流れ着いてから\n　錬金術師として　グルヤンラシュと一緒に\n　時渡りの研究を　続けてきたの。": "Depuis que j'ai echoue dans ce pays, j'ai\ncontinue mes recherches sur le voyage temporel\nen tant qu'alchimiste aux cotes de Guryanrash."
+    },
+    "196733": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は\n　オレも　すごく共感できたから……\n　同じ目的のために　キューブを開発してきた。": "J'ai vraiment ressenti de l'empathie pour le\nsort de Guryanlash, tourmente par le voyage\ndans le temps... C'est pourquoi j'ai developpe<br>le Cube dans le but de servir le meme\nobjectif."
+    },
+    "196734": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は\n　あたしも　すごく共感できたから……\n　同じ目的のために　キューブを開発してきた。": "Je comprenais bien la souffrance de Guryanrush\na cause des voyages temporels... C'est\npourquoi j'ai developpe le Cube pour atteindre<br>le meme objectif."
+    },
+    "196735": {
+        "「時渡りで苦しむ　グルヤンラシュの境遇は\n　私も　すごく共感できたから……\n　同じ目的のために　キューブを開発してきた。": "Je pouvais vraiment comprendre la situation de\nGuluyan Lash, souffrant a travers le passage\ndu temps... C'est pourquoi j'ai developpe le<br>Cube pour le meme objectif."
+    },
+    "196736": {
+        "「でも　あいつの悪事に気づいてな……。\n　何度も　止めようとしてきたんだが\n　結局　オレは　何もできなかった……。": "Mais je m'etais rendu compte de ses mefaits...\nJ'ai essaye de l'arreter a plusieurs reprises,\nmais au final, je n'ai rien pu faire..."
+    },
+    "196737": {
+        "「でも　あいつの悪事に気づいちゃって……。\n　何度も　止めようとしてきたんだけど\n　結局　あたし　何もできなかったわ……。": "Mais je me suis rendu compte de ses mauvaises\nactions... J'ai essaye de l'arreter a\nplusieurs reprises, mais au final, je n'ai<br>rien pu faire..."
+    },
+    "196738": {
+        "「だけどね　あいつの悪事に気づいちゃって……。\n　何度も　止めようとしてきたんだけど\n　結局　私　何もできなかった……。": "Mais tu sais, j'ai decouvert ses mefaits...\nJ'ai essaye de l'arreter plusieurs fois, mais\nfinalement, je n'ai rien pu faire..."
+    },
+    "196739": {
+        "「だが　これ以上　見過ごせないぜ。\n　今回のことは　監視装置を通して　見てたんだ。\n　それで　お前に　伝えたいことが……": "Mais je ne peux plus fermer les yeux\nla-dessus. J'ai observe tout ce qui s'est\npasse a travers les cameras de surveillance.<br>Et il y a quelque chose que je dois te dire..."
+    },
+    "196740": {
+        "「だけど　これ以上　見過ごせないわ。\n　今回のことは　監視装置を通して　見ていたの。\n　それで　あんたに　伝えたいことが……": "Mais je ne peux plus fermer les yeux sur ca.\nJ'ai observe cette affaire a travers le\ndispositif de surveillance. Et maintenant, il<br>y a quelque chose que je veux te dire..."
+    },
+    "196741": {
+        "<if_woman>「でもっ　これ以上　見過ごせないよ。\n　今回のことは　監視装置を通して　見てたの。\n　それで　お姉ちゃんに　伝えたいことが……<else>「でもっ　これ以上　見過ごせないよ。\n　今回のことは　監視装置を通して　見てたの。\n　それで　お兄ちゃんに　伝えたいことが……<endif>": "<if_woman>>Mais... je ne peux plus fermer les\nyeux la-dessus. J'ai vu ce qui s'est passe\ncette fois-ci a travers le dispositif de<br>surveillance. Et j'ai quelque chose a dire a\ngrande soeur...<else>>Mais... je ne peux plus fermer les yeux\nla-dessus. J'ai vu ce qui s'est passe cette\nfois-ci a travers le dispositif de<br>surveillance. Et j'ai quelque chose a dire a\ngrand frere... <endif>"
+    },
+    "196742": {
+        "「ウルタ皇女が　第二庁舎の下層にある\n　特別監視室に　監禁されてんだ！": "Princess Ulta est emprisonnee dans la salle de\nsurveillance speciale situee dans les\nsous-sols du deuxieme batiment !"
+    },
+    "196743": {
+        "「ウルタ皇女が　第二庁舎の下層にある\n　特別監視室に　監禁されてるのよ！": "La princesse Ulta est emprisonnee dans la\nsalle de surveillance speciale situee dans les\nniveaux inferieurs du deuxieme batiment !"
+    },
+    "196744": {
+        "「ウルタ皇女が　第二庁舎の下層にある\n　特別監視室に　監禁されてるの！": "La princesse Ulta est enfermee dans la salle\nde surveillance speciale situee au sous-sol du\ndeuxieme batiment !"
+    },
+    "196745": {
+        "「第二庁舎につながる　渡り廊下は　４階にある。\n　ロックは　オレが　解除しといてやる。": "Le passage couvert menant au deuxieme batiment\nse trouve au quatrieme etage. Je vais\ndeverrouiller la porte pour toi."
+    },
+    "196746": {
+        "「第二庁舎につながる　渡り廊下は　４階よ。\n　ロックは　あたしが　解除しておくわ。": "Le passage couvert menant au deuxieme batiment\nest au quatrieme etage. J'ai deja desactive le\nverrou."
+    },
+    "196747": {
+        "「第二庁舎につながる　渡り廊下は　４階よ。\n　ロックは　私が　解除しておくね。": "Le couloir qui mene au deuxieme batiment est\nau quatrieme etage. Je vais deverrouiller la\nporte pour toi."
+    },
+    "196748": {
+        "「一緒に　皇女を助けるぞ。\n　そして　グルヤンラシュを止めるんだ……\n　<pc>！": "Ensemble, sauvons la princesse imperiale. Et\narretons Grulyan Lash... <pc> !"
+    },
+    "196749": {
+        "「一緒に　皇女を助けましょう。\n　そして　グルヤンラシュを止めるのよ……\n　<pc>！": "Ensemble, sauvons la princesse imperiale. Et\narretons Grulyanlash... <pc> !"
+    },
+    "196750": {
+        "<if_woman>「一緒に　皇女様を助けよう。\n　そして　グルヤンラシュを止めようよ……\n　お姉ちゃん！<else>「一緒に　皇女様を助けよう。\n　そして　グルヤンラシュを止めようよ……\n　お兄ちゃん！<endif>": "<if_woman>>Aidons ensemble la princesse\nimperiale. Arretons Grulyanlash... Grande soeur\n!<else>>Aidons ensemble la princesse imperiale.\nArretons Grulyanlash... Grand frere ! <endif>"
+    },
+    "196752": {
+        "「皇女　ご無事ですかッ！": "Princesse, etes-vous saine et sauve !"
+    },
+    "196753": {
+        "「いかん……来るなーっ！！": "Non... Ne viens pas !"
+    },
+    "196754": {
+        "<if_woman>「リウ老師は　おいらが守る……！\n　あいつは　姉ちゃんに　まかせるよ！<else>「リウ老師は　おいらが守る……！\n　あいつは　兄ちゃんに　まかせるよ！<endif>": "<if_woman>>Je protegerai Master Liu... ! Je te\nlaisse t'occuper de lui, grande soeur !<else>>Je protegerai Master Liu... ! Je te laisse\nt'occuper de lui, grand frere ! <endif>"
+    },
+    "196755": {
+        "「リウ老師は　オレが守る……！\n　あいつは　お前に　まかせるぜ！": "Master Liu, je le protegerai... ! Je te laisse\nt'occuper de celui-la !"
+    },
+    "196756": {
+        "「リウ老師は　あたしが守る……！\n　あいつは　あんたに　まかせるわよ！": "Je protegerai Maitre Liu... ! Je te laisse\nt'occuper de cet ennemi !"
+    },
+    "196757": {
+        "<if_woman>「リウ老師は　私が守るよ……！\n　あいつは　お姉ちゃんに　まかせるね！<else>「リウ老師は　私が守るよ……！\n　あいつは　お兄ちゃんに　まかせるね！<endif>": "<if_woman>>Je protegerai Maitre Liu... ! Je te\nlaisse t'occuper de lui, grande soeur !<else>>Je protegerai Maitre Liu... ! Je te laisse\nt'occuper de lui, grand frere ! <endif>"
+    },
+    "196795": {
+        "「マリッチ……マリッチ……。": "Marich... Marich..."
+    },
+    "196796": {
+        "「お前を　疑うわけではない。 \n　だが……どうしても　信じられぬ。": "Je ne te soupconne pas. Mais... je ne peux\ntout simplement pas y croire."
+    },
+    "196797": {
+        "「あの　グルヤンラシュが\n　裏切り者だなどと　信じたく……ない。": "Je ne veux pas croire que ce Grulian Lash soit\nun traitre..."
+    },
+    "196798": {
+        "「わらわたちは　同じ夢を見ていたはずじゃ。\n　必ずや　時を渡り　歴史を変えるのだと！": "Nous devions partager le meme reve. Traverser\nle temps et changer l'histoire !"
+    },
+    "196799": {
+        "「残念だけど……\n　あなたの願いは　永遠にかなわないよ。": "Malheureusement... ton souhait ne se realisera\njamais."
+    },
+    "196800": {
+        "「どんなに　強く願っても……\n　エテーネルキューブは　エテーネ人が持つ\n　時渡りのチカラにしか　反応しないんだ。": "Aussi fort que tu le desires... Le Cube\nEthenel ne reagit qu'au pouvoir du voyage\ntemporel que possedent les habitants d'Ethene."
+    },
+    "196801": {
+        "「あなたに　ずっと　打ち明けたかった。 \n　だけど　長い間　自分の研究室を出ることすら\n　許してもらえなくて。ごめん……。": "Je voulais te le confier depuis longtemps.\nMais pendant une longue periode, je n'ai meme\npas eu la permission de quitter mon<br>laboratoire. Desole…"
+    },
+    "196802": {
+        "「この先に　あの　ウルベア大魔神が\n　格納されておるのですな。": "Juste devant nous, le fameux Urbea Colossus\nest entrepose."
+    },
+    "196803": {
+        "「グルヤンラシュは　ウルベアの技術で作った\n　大魔神を　おいらが作った　地脈の結晶で動かし\n　最強の軍事兵器にしてしまったんだ。": "Guruyan Rush a transforme le grand demon\nmecanique en une arme militaire ultime en\nutilisant le Geode Crystal que j'ai cree, et<br>la technologie de Urbea."
+    },
+    "196804": {
+        "「この研究所の周辺が　流砂の海なのは\n　ウルベア大魔神が　地脈エネルギーを\n　吸収したからだって　いわれてる……。": "On dit que si la region autour de ce\nlaboratoire est devenue une mer de sables\nmouvants, c'est parce que l'Urbea Colossus a<br>absorbe l'energie tellurique..."
+    },
+    "196805": {
+        "「グルヤンラシュは　この先にいる\n　大魔神を使って　何か　たくらんでるはずだ。": "Grulyanlash est la-bas, il doit surement\npreparer quelque chose avec le Grand Demon."
+    },
+    "196806": {
+        "「私は　ウルタ皇女と　脱出の準備をします。\n　グルヤンラシュの野望を\n　どうか　止めてくだされ……！": "Je vais preparer l'evasion avec Princess Ulta.\nJe vous en prie, arretez les ambitions de\nGrulyan Lash... !"
+    },
+    "196807": {
+        "「……ジャ・クバさまは\n　ウルベアの未来を　貴女に託された。": "Ja Kuba-sama a confie l'avenir d'Urbea a vous."
+    },
+    "196808": {
+        "「ウルタ皇女。\n　これから　どうなさいますか……？": "Princesse Ulta, qu'allez-vous faire a\npresent...?"
+    },
+    "196809": {
+        "「残念だが……\n　あんたの願いは　永遠にかなわない。": "C'est regrettable, mais... ton souhait ne se\nrealisera jamais."
+    },
+    "196810": {
+        "「残念だけど……\n　あんたの願いは　永遠にかなわないわ。": "C'est regrettable, mais... ton souhait ne se\nrealisera jamais."
+    },
+    "196811": {
+        "「残念だけど……\n　あなたの願いは　永遠にかなわないの。": "Je suis desole, mais... ton souhait ne se\nrealisera jamais."
+    },
+    "196812": {
+        "「どんなに　強く願っても……\n　エテーネルキューブは　エテーネ人が持つ\n　時渡りのチカラにしか　反応しないのさ。": "Peu importe combien tu le souhaites\nardemment... Le Cube d'Ethenel ne reagit qu'au\npouvoir de traversee du temps que possedent<br>les habitants d'Ethene."
+    },
+    "196813": {
+        "「どんなに　強く願っても……\n　エテーネルキューブは　エテーネ人が持つ\n　時渡りのチカラにしか　反応しないのよ。": "Peu importe la force de notre souhait... Le\nCube Ethenel ne reagit qu'au pouvoir de\ntraversee du temps des habitants d'Ethene."
+    },
+    "196814": {
+        "「どんなに　強く願っても……\n　エテーネルキューブは　エテーネ人が持つ\n　時渡りのチカラにしか　反応しないの。": "Peu importe a quel point tu le desires... Le\nCube d'Ethenel ne reagit qu'a la puissance du\nvoyage temporel possedee par le peuple<br>d'Ethene."
+    },
+    "196815": {
+        "「あんたに　ずっと　打ち明けたかった。\n　だが　長い間　自分の研究室を出ることすら\n　許してもらえなくてな。すまん……。": "J'ai toujours voulu te le confier. Mais\npendant longtemps, on ne m'a meme pas permis\nde quitter mon laboratoire. Desole..."
+    },
+    "196816": {
+        "「あんたに　ずっと　打ち明けたかったわ。\n　だけど　長い間　自分の研究室を出ることすら\n　許してもらえなくて。ごめん……。": "Je voulais te le confier depuis longtemps.\nMais pendant une longue periode, je n'ai meme\npas ete autorisee a sortir de mon laboratoire.<br>Je suis desolee..."
+    },
+    "196817": {
+        "「あなたに　ずっと　打ち明けたかった。\n　だけど　長い間　自分の研究室を出ることすら\n　許してもらえなかったの。ごめんね……。": "J'ai toujours voulu te le confier. Mais\npendant longtemps, je n'ai meme pas ete\nautorisee a quitter mon laboratoire.<br>Desolee..."
+    },
+    "196818": {
+        "「グルヤンラシュは　ウルベアの技術で作った\n　大魔神を　オレが作った　地脈の結晶で動かし\n　最強の軍事兵器にしちまったんだ。": "Grace a la technologie d'Ulbea, Guruyan Rash a\ntransforme le Grand Demon en une arme\nmilitaire ultime en l'animant avec le Geode<br>Crystal que j'ai cree."
+    },
+    "196819": {
+        "「グルヤンラシュは　ウルベアの技術で作った\n　大魔神を　あたしが作った　地脈の結晶で動かし\n　最強の軍事兵器にしてしまったの。": "J'ai transforme le Grand Majin, cree avec la\ntechnologie d'Urbea par Guluyanlash, en une\narme militaire ultime en le faisant<br>fonctionner avec le Geode Crystal que j'ai\nfabrique."
+    },
+    "196820": {
+        "「グルヤンラシュは　ウルベアの技術で作った\n　大魔神を　私が作った　地脈の結晶で動かし\n　最強の軍事兵器にしてしまった。": "Grace a la technologie d'Urbea, j'ai anime le\nGrand Demon-Machine avec le Geode Crystal que\nj'ai cree, transformant ainsi cette creation<br>en l'arme militaire ultime."
+    },
+    "196821": {
+        "「この研究所の周辺が　流砂の海なのは\n　ウルベア大魔神が　地脈エネルギーを\n　吸収したからだって　いわれてるんだ……。": "On dit que si les environs de ce laboratoire\nsont devenus une mer de sables mouvants, c'est\nparce que l'Urbea Colossus a absorbe l'energie<br>tellurique..."
+    },
+    "196822": {
+        "「この研究所の周辺が　流砂の海なのは\n　ウルベア大魔神が　地脈エネルギーを\n　吸収したからだって　いわれてるのよ……。": "On dit que si les environs de ce laboratoire\nsont devenus une mer de sables mouvants, c'est\nparce que l'Urbea Colossus a absorbe l'energie<br>tellurique..."
+    },
+    "196823": {
+        "「この研究所の周辺が　流砂の海なのは\n　ウルベア大魔神が　地脈エネルギーを\n　吸収したからだって　いわれてるの……。": "On dit que si les environs de ce laboratoire\nsont une mer de sables mouvants, c'est parce\nque le Urbea Colossus a absorbe l'energie<br>tellurique..."
+    },
+    "196824": {
+        "「グルヤンラシュは　この先にいる\n　大魔神を使って　何か　たくらんでるはずだ。": "Grulyanlash est la-bas, il doit surement\npreparer quelque chose avec le Grand Demon."
+    },
+    "196825": {
+        "「グルヤンラシュは　この先にいる\n　大魔神を使って　何か　たくらんでるはずよ。": "Guluyanrash se trouve plus loin. Il doit\nsurement comploter quelque chose en utilisant\nle Grand Demon."
+    },
+    "196826": {
+        "「グルヤンラシュは　この先にいる\n　大魔神を使って　何か　たくらんでるはずよ。": "Guluyanrash se trouve plus loin. Il doit\nsurement comploter quelque chose en utilisant\nle Grand Demon."
+    },
+    "196831": {
+        "「貴様には　エテーネルキューブを\n　開発することだけ　命じたはずだが？": "Je t'avais seulement ordonne de developper\nl'Ethenel Cube, n'est-ce pas ?"
+    },
+    "196832": {
+        "「おいら　あんたを信じて\n　絶対にキューブを作ろうって　決めたんだ。\n　時間の漂流者同士　諦めず　がんばろうって。": "Je te fais confiance et j'ai decide de creer\nabsolument le cube. En tant que naufrages du\ntemps, ne baissons pas les bras et continuons<br>a nous battre."
+    },
+    "196833": {
+        "「なのに　どうして　こうなっちゃったんだよ！\n　あんたは　自分の都合のために\n　たくさんのものを　犠牲にしすぎた……。": "Et pourtant, comment en sommes-nous arrives la\n? Tu as sacrifie trop de choses pour tes\npropres interets..."
+    },
+    "196834": {
+        "「皇帝を殺した上　皇女様をだまして\n　ガテリア皇国まで　滅ぼした。\n　絶対に　許されることじゃない！": "Apres avoir tue l'empereur et trompe la\nprincesse, ils ont meme detruit l'Empire de\nGateria. C'est impardonnable !"
+    },
+    "196835": {
+        "「許してほしいなどと　誰が言った？": "Qui a dit que je voulais etre pardonne ?"
+    },
+    "196836": {
+        "「お前たちに　理解できるはずがない……。": "Vous ne pouvez pas comprendre..."
+    },
+    "196837": {
+        "「自力で　時を渡ることすら　ままならないのに\n　いつになれば　あの時代に戻れる？\n　どうすれば　エテーネを救える……？": "Je ne peux meme pas traverser le temps par mes\npropres moyens. Quand pourrai-je retourner a\ncette epoque ? Comment puis-je sauver<br>Ethene...?"
+    },
+    "196838": {
+        "「寄る辺なき時代で　焦りはつのり \n　月日だけが刻々と過ぎ……年を重ねて……": "Dans cette epoque sans reperes, l'anxiete ne\ncesse de croitre, seuls les jours passent\ninexorablement... les annees s'accumulent..."
+    },
+    "196839": {
+        "「頭が……どうにか　なりそうだった…………。": "Ma tete... J'avais l'impression que quelque\nchose n'allait vraiment pas..."
+    },
+    "196840": {
+        "「<pc>ッ！\n　お前に　この絶望がわかるか！？": "<pc>ッ！ Tu comprends ce desespoir !?"
+    },
+    "196841": {
+        "「俺は　突き止めた。\n　エテーネ王国が　滅んだのは\n　大規模な地盤沈下に　よるものだと……。": "J'ai decouvert la verite. Le royaume d'Ethene\na ete detruit par un affaissement massif du\nsol..."
+    },
+    "196842": {
+        "「ウルベア大魔神は　地脈エネルギーを \n　その心臓部たる　地脈の結晶に\n　たくわえることができる。": "Urbea Colossus peut accumuler l'energie\ntellurique dans son coeur, le Geode Crystal."
+    },
+    "196843": {
+        "「ドワチャッカ大陸全土の　地脈エネルギーを\n　過去へ持ちかえり　大エテーネ島に注ぎ込めば\n　滅びの未来は　回避されるはずだ。": "Si nous ramenons l'energie tellurique de tout\nle continent Dwachakka vers le passe et que\nnous l'infusons dans Greater Ethene, il<br>devrait etre possible d'eviter un avenir de\ndestruction."
+    },
+    "196844": {
+        "「いくつの国が滅びようと　誰を殺そうと\n　俺は　必ず　やりとげてみせよう。": "Peu importe combien de royaumes doivent perir\nou qui je dois tuer, je realiserai mon\nobjectif avec la Lance, quoi qu'il arrive."
+    },
+    "196845": {
+        "「エテーネを　滅びの未来から　救うんだッ！！": "Sauvez Ethene d'un avenir de destruction !"
+    },
+    "196846": {
+        "「なんだ……どうなってる！？": "Qu'est-ce que... que se passe-t-il !?"
+    },
+    "196847": {
+        "<if_woman>「姉ちゃん　あぶない！<else>「兄ちゃん　あぶない！<endif>": "<if_woman>>Grande soeur, attention !<else>>Grand frere, attention ! <endif>"
+    },
+    "196848": {
+        "「動け……動いてくれっ！": "Bouge... Bouge, je t'en prie !"
+    },
+    "196849": {
+        "「地脈の結晶に　触れるな！！": "Ne touchez pas au Geode Crystal !!"
+    },
+    "196850": {
+        "「ば…馬鹿なッ。そんなはずは……。": "Im…Impossible. Ca ne devrait pas etre\npossible..."
+    },
+    "196851": {
+        "「なぜだ！？　今のは…………\n　パドレ叔父さん！？": "Pourquoi !? C'etait... Oncle Padre !?"
+    },
+    "196852": {
+        "「<pc>ーーッ！！": "<pc>ーーッ！！"
+    },
+    "196853": {
+        "「オレ　あんたを信じて\n　絶対にキューブを作ろうって　決めたんだ。\n　時間の漂流者同士　諦めず　がんばろうってな。": "Je te fais confiance et j'ai decide de creer\nabsolument ce cube. En tant que voyageurs du\ntemps, ne baissons pas les bras et perseverons<br>ensemble."
+    },
+    "196854": {
+        "「あたし　あんたを信じて\n　絶対にキューブを作ろうって　決めたのよ。\n　時間の漂流者同士　諦めず　がんばろうって。": "Je te fais confiance. J'ai decide qu'ensemble,\nnous creerons le cube, c'est certain. Nous\nsommes tous deux des voyageurs du temps, alors<br>ne baissons pas les bras et continuons a nous\nbattre."
+    },
+    "196855": {
+        "「私　あなたを信じて\n　絶対にキューブを作ろうって　決めたの。\n　時間の漂流者同士　諦めず　がんばろうって。": "Je te fais confiance et j'ai decide de creer\nce cube, quoi qu'il arrive. En tant que\nnaufrages du temps, nous devons perseverer<br>ensemble, sans jamais abandonner."
+    },
+    "196856": {
+        "「なのに　どうして　こうなっちまうんだ！\n　あんたは　自分の都合のために\n　たくさんのものを　犠牲にしすぎた……。": "Pourquoi cela devait-il arriver ainsi ? Tu as\nsacrifie trop de choses pour servir tes\npropres interets..."
+    },
+    "196857": {
+        "「なのに　どうして　こうなっちゃうのよ！\n　あんたは　自分の都合のために\n　たくさんのものを　犠牲にしすぎたわ……。": "Alors pourquoi cela se passe-t-il ainsi ? Tu\nas sacrifie trop de choses pour ton propre\ninteret..."
+    },
+    "196858": {
+        "「なのに　どうして　こうなっちゃうの！\n　あなたは　自分の都合のために\n　たくさんのものを　犠牲にしすぎたよ……。": "Pourquoi est-ce que ca arrive comme ca ! Tu as\nsacrifie trop de choses pour tes propres\ninterets..."
+    },
+    "196859": {
+        "「皇帝を殺した上　皇女をだまして\n　ガテリア皇国まで　滅ぼした。\n　絶対に　許されることじゃないぜ！": "Apres avoir tue l'empereur et trompe la\nprincesse imperiale, il a meme detruit\nl'Empire de Gateria. C'est impardonnable !"
+    },
+    "196860": {
+        "「皇帝を殺した上　皇女をだまして\n　ガテリア皇国まで　滅ぼした。\n　絶対に　許されることじゃないわ！": "Apres avoir tue l'empereur et trompe la\nprincesse, tu as detruit l'Empire de Gatelia.\nC'est impardonnable !"
+    },
+    "196861": {
+        "「皇帝を殺した上　皇女様をだまして\n　ガテリア皇国まで　滅ぼした。\n　絶対に　許されることじゃないわ！": "Apres avoir tue l'empereur et trompe la\nprincesse, ils ont detruit l'Empire de\nGateria. C'est impardonnable !"
+    },
+    "196862": {
+        "「<pc>　あぶない！": "<pc>, attention !"
+    },
+    "196863": {
+        "「<pc>　あぶない！": "<pc>, attention !"
+    },
+    "196864": {
+        "<if_woman>「お姉ちゃん　あぶない！<else>「お兄ちゃん　あぶない！<endif>": "<if_woman>>Grande soeur, attention !<else>>Grand frere, attention ! <endif>"
+    },
+    "196865": {
+        "「動け……動いてくれっ！": "Bouge... Bouge, je t'en prie !"
+    },
+    "196866": {
+        "「動いて……動いてよっ！": "Allez, bouge... Bouge, je t'en prie !"
+    },
+    "196867": {
+        "「動いて……動いてっ！": "Bouge... Bouge !"
+    },
+    "196868": {
+        "「第十一代ウルベア皇帝　ジャ・クバの娘\n　皇女ウルタが問う。": "La princesse Ulta, fille du onzieme empereur\nd'Urbea, Ja Kuba, pose une question."
+    },
+    "196869": {
+        "「皇帝を暗殺したのは　宰相グルヤンラシュ……\n　そちに　間違いないか？": "Le chancelier Gouryanrash a assassine\nl'empereur... Es-tu sur de cela ?"
+    },
+    "196870": {
+        "「……そうだ。": "...C'est vrai."
+    },
+    "196871": {
+        "「皇帝暗殺の罪を　ビャン・ダオになすりつけ\n　帝国の実権を握り　意に沿わぬ技術者や廷臣を\n　戦地へ送り込んで　密かに　謀殺したか？": "Vous avez accuse Byan Dao du crime\nd'assassinat de l'empereur, pris le controle\nde l'empire et secretement elimine les<br>ingenieurs et courtisans qui ne vous\nconvenaient pas en les envoyant sur le champ\nde bataille ?"
+    },
+    "196872": {
+        "「そうだ。": "C'est ca."
+    },
+    "196873": {
+        "「過ぎた時を戻すと　わらわを　そそのかして\n　時間跳躍制御装置の開発を　おこない\n　実際は　自分だけが　時を渡ろうとした……": "Tu m'as incitee a inverser le cours du temps\npour developper un dispositif de controle du\nsaut temporel, mais en realite, tu voulais<br>traverser le temps seul..."
+    },
+    "196874": {
+        "「これも　間違いないのじゃな？": "Ce n'est pas une erreur, n'est-ce pas ?"
+    },
+    "196875": {
+        "「ああ。": "Ah."
+    },
+    "196876": {
+        "「申し開きの　ひと言もないのかっ！！": "Je n'ai pas un mot pour me justifier !"
+    },
+    "196877": {
+        "「エテーネ王国を　滅びの歴史から　救う。\n　たとえ　どれだけの罪を　重ねようとも\n　俺は　やらねばならなかった。": "Sauver le royaume d'Ethene de l'histoire de la\nruine. Meme si je devais accumuler combien de\npeches, je devais le faire."
+    },
+    "196878": {
+        "「……それだけだ。": "......C'est tout."
+    },
+    "196879": {
+        "「在りし日のぬくもりを　取り戻すため\n　時を渡り　歴史を変えるという……夢。": "Pour retrouver la chaleur d'autrefois,\ntraverser le temps et changer l'histoire... un\nreve."
+    },
+    "196880": {
+        "「同じ夢を見て　そちと過ごした日々は\n　本当に　かけがえのないものだった。": "Les jours passes avec toi, ou nous partagions\nle meme reve, etaient vraiment irremplacables."
+    },
+    "196881": {
+        "「だが　わらわは　皇女として……\n　次の皇帝として……": "Cependant, en tant que princesse imperiale...\net en tant que future imperatrice..."
+    },
+    "196882": {
+        "「奸臣グルヤンラシュを　断罪する。": "Je vais condamner le traitre Gluyanlash."
+    },
+    "196883": {
+        "「……俺の夢は　破れた。\n　もはや　なんの未練もない。": "Mon reve est brise. Je n'ai plus aucun regret\ndesormais."
+    },
+    "196884": {
+        "「……撃て。": "...Tire."
+    },
+    "196885": {
+        "「グルヤンラシュ……\n　わらわは　本当に　信じていたのに……。": "Guluyanlash... Je te faisais vraiment\nconfiance..."
+    },
+    "196886": {
+        "「撃てッ！！": "Tirez !!"
+    },
+    "196887": {
+        "<center>　\nメレアーデ姉さん……。": "Mereade nee-san..."
+    },
+    "196888": {
+        "「城へ……帰還する。": "Je retourne au chateau..."
+    },
+    "196889": {
+        "<pc>たちは　反重力飛行装置に乗って\nウルベア帝国城に　戻った。": "<pc> et ses compagnons monterent a bord\ndu dispositif de vol antigravite pour\nretourner au chateau de l'Empire Urbea."
+    },
+    "196890": {
+        "「皆の者　おもてを上げよ。": "Tous, levez la tete."
+    },
+    "196891": {
+        "「事の真相は　すでに　伝えた通りじゃ……。\n　これまで　わらわが　ふがいないばかりに\n　多くの者に　迷惑をかけてしまった。": "Comme je te l'ai deja explique, c'est la\nsituation des choses... Jusqu'a present, a\ncause de mon manque de competence, j'ai cause<br>beaucoup de desagrements a de nombreuses\npersonnes."
+    },
+    "196892": {
+        "「それでも　わらわの呼びかけに応じ\n　集ってくれた者たちに　礼を言う。\n　皆のチカラを　どうか　貸してほしい。": "Je tiens a remercier ceux qui ont repondu a\nmon appel et se sont rassembles ici. Je vous\ndemande de bien vouloir preter votre force."
+    },
+    "196893": {
+        "「父上は　もう　この玉座には帰らぬ……\n　わらわが　この国を導かねば。\n　マリッチよ。しっかりと　見ていておくれ。": "Pere ne reviendra plus jamais sur ce trone...\nC'est a moi de guider ce pays. Marich. Veille\nsur moi attentivement."
+    },
+    "196894": {
+        "「大戦を引き起こし　ウルベアに混乱をもたらした\n　奸臣グルヤンラシュは　死んだ！": "Le traitre Guruyanrash, qui a declenche la\ngrande guerre et seme le chaos a Ulbear, est\nmort !"
+    },
+    "196895": {
+        "「これより　ウルベア地下帝国\n　次期皇帝である　わらわの決意を示す。\n　よく聞いてほしい。": "<me 60> A partir de maintenant, l'Empire\nd'Urbea va temoigner de la determination de\nson futur empereur, moi-meme. J'aimerais que<br>vous ecoutiez attentivement."
+    },
+    "196896": {
+        "「まず　はじめに……\n　ガテリア皇国　第一皇子ビャン・ダオの名誉は\n　回復される。": "Tout d'abord, permettez-moi de vous annoncer\nque l'honneur du premier prince de l'Empire de\nGateria, Byan Dao, sera restaure."
+    },
+    "196897": {
+        "「ダラズ採掘場で　不当な労働に従事する\n　ガテリアの捕虜たちも　解放させよう。\n　難民の救済にも　全力を尽くす。": "Liberons egalement les prisonniers de Gateria\nsoumis a un travail injuste dans la carriere\nde Daraz. Nous mettrons tous nos efforts pour<br>venir en aide aux refugies."
+    },
+    "196898": {
+        "「また　帝国のエネルギー資源を　根本から見直し\n　砂漠化を食い止め　後の子孫たちに誇れるような\n　真に　豊かな国づくりを始める。": "Nous allons reevaluer les ressources\nenergetiques de l'Empire a la base, stopper la\ndesertification et commencer a batir un pays<br>prospere pour que nos descendants puissent\netre fiers de T."
+    },
+    "196899": {
+        "「ゆがんだ時代を正し　思いなかばに \n　散っていった者たちが　託した未来を\n　しっかりと　両の手で受け止め……。": "Corrigez l'epoque deformee et accueillez\nfermement l'avenir confie par ceux qui sont\ntombes avant d'avoir pu realiser leurs<br>reves..."
+    },
+    "196900": {
+        "「このような悲劇を　二度と生むことのない\n　新たな時代　新たなウルベアを……\n　わらわと　共に　築いてほしい！": "Je souhaite que vous construisiez avec moi une\nnouvelle ere, un nouvel Urbea, afin de ne plus\njamais engendrer une telle tragedie !"
+    },
+    "196901": {
+        "「ウルベア地下帝国　ばんざ～い！": "Vive l'Empire Urbea !"
+    },
+    "196902": {
+        "「<pc>よ……。\n　こたびは　ウルベア地下帝国のため\n　よく　はたらいてくれた。": "<pc>... Cette fois-ci, tu as bien\ntravaille pour l'Empire d'Urbea."
+    },
+    "196903": {
+        "「ささやかではあるが　謝礼を用意した。\n　わらわの気持ちと思って　受け取ってくれ。": "Ce n'est pas grand-chose, mais j'ai prepare\nune recompense. Accepte-le comme un geste de\nma part."
+    },
+    "196904": {
+        "「そちには　このまま　ここに留まって\n　わらわを　助けてもらいたいが……\n　何やら　使命があるそうじゃな。": "Je souhaiterais que tu restes ici et que tu\nm'aides... Mais il semble que tu as une\nmission a accomplir."
+    },
+    "196905": {
+        "「リウ老師には　なんぞ\n　気になることが　あるとか？": "Master Liu, y aurait-il quelque chose qui vous\ntracasse ?"
+    },
+    "196906": {
+        "「私の懸念は　謎の剣士に持ち去られた\n　地脈の結晶のことでございます……。": "Mon inquietude concerne le Geode Crystal qui a\nete emporte par le mysterieux epeiste..."
+    },
+    "196907": {
+        "「格納庫が崩落したため　今のところ\n　ウルベア大魔神には　誰も　触れられません。": "Le hangar s'est effondre, donc pour le moment,\npersonne ne peut toucher a l'Urbea Colossus."
+    },
+    "196908": {
+        "「しかし　地脈の結晶が　どこかに存在する限り\n　この先の未来において　ウルベア大魔神が\n　復活する可能性は　ゼロではないのです。": "Cependant, tant que le Geode Crystal existe\nquelque part, il n'est pas impossible que\nl'Urbea Colossus ressuscite a l'avenir."
+    },
+    "196909": {
+        "「戦時中　グルヤンラシュが使役した\n　ウルベア大魔神は　ガテリア皇国を\n　一夜にして　滅ぼしてしまった……。": "Pendant la guerre, le Colosse Urbea, manipule\npar Guryan Lash, a aneanti l'Empire de Gateria\nen une seule nuit..."
+    },
+    "196910": {
+        "「あれこそは　高度な文明の \n　慢心が生んだ　大いなる罪の象徴。": "Ceci est le symbole du grand peche ne de\nl'arrogance d'une civilisation avancee."
+    },
+    "196911": {
+        "「私は　この時代の技術者として\n　生涯をかけ　ウルベア大魔神が復活した時の\n　対抗策を　講じていく所存にございます。": "En tant qu'ingenieur de cette epoque, je suis\ndetermine a consacrer ma vie a elaborer des\nstrategies pour contrer le moment ou l'Urbea<br>Colossus renaitra."
+    },
+    "196912": {
+        "「うむ……頼んだぞ　リウ老師よ。\n　わらわも　全力で支援すると　約束しよう。": "Hum... Je compte sur toi, Master Liu. Je\npromets de te soutenir de toutes mes forces."
+    },
+    "196913": {
+        "「<pc>君に　渡したいものがあります。\n　これは　対抗策が完成したことを\n　あなたに　知らせる探知機……。": "<pc>-kun, j'ai quelque chose a te\nremettre. Ceci est un detecteur pour\nt'informer que la strategie de contre-attaque<br>est terminee..."
+    },
+    "196914": {
+        "「……私は　確信しております。 \n　あなたならば　きっと　役立ててくれると。\n　さあ　こちらを　受け取ってください。": "...... Je suis convaincu. Si c'est vous, je\nsuis sur que vous saurez en faire bon usage.\nAllez-y, prenez ceci."
+    },
+    "196915": {
+        "<pc>は　リウ老師から\nリウ老師の探知機（だいじなもの）を\n受け取った！<me 60>": "<pc> a recu le Master Liu's Locator\n(objet cle) de Master Liu ! <me 60>"
+    },
+    "196916": {
+        "「以上デ　<pc>サマヘノ\n　さぽーと任務ハ　スベテ　終了。\n　ゴ利用　アリガトウゴザイマシタ。": "Ceci conclut toutes les missions de soutien\npour <pc>-sama. Merci d'avoir utilise\nnos services."
+    },
+    "196917": {
+        "「……名残惜シイデス　<pc>サマ。\n　アナタトノ　旅ノ思イ出ハ\n　イツマデモ　私ノ　宝物デス。": "Tu vas me manquer, <pc>-sama. Les\nsouvenirs de notre voyage ensemble seront pour\ntoujours mes tresors."
+    },
+    "196918": {
+        "「<pc>……\n　ウルベアを救った　エテーネ人の英雄よ。\n　わらわは　そちのことを　決して忘れぬぞ！": "<pc>... Heros des Ethene qui a sauve\nUlbear. Je ne t'oublierai jamais !"
+    },
+    "196919": {
+        "「快眠　快眠っキュ。": "Bon sommeil, bon sommeil, kyu."
+    },
+    "196920": {
+        "「だいぶ　チカラが回復したキュル。\n　<pc>　状況報告を　要請するキュ。": "J'ai bien recupere mes forces, Kyuru.\n<pc>, je te demande de me faire un\nrapport sur la situation, Kyu."
+    },
+    "196921": {
+        "「そんな状況なのに　まだ　この時代に\n　とどまってるつもりキュ？\n　何をすべきかは　もう　わかってるはずキュ。": "Dans une telle situation, tu comptes encore\nrester dans cette epoque, kyu ? Tu devrais\ndeja savoir ce que tu dois faire, kyu."
+    },
+    "196922": {
+        "「こうしてるうちに　黒衣の剣士が　現代で \n　大魔神を起動させてるに　決まってるキュ。\n　さっさと　元の時代に戻るっキュ！　ほれほれ！": "Pendant qu'on traine ici, Dark Swordsman doit\nsurement etre en train d'activer le Grand\nDemon dans l'ere P. Depechons-nous de<br>retourner a notre epoque ! Allez, allez !"
+    },
+    "196923": {
+        "「ややっ　来るぞ……。\n　総員　戦闘配置に　つけーーいッ！": "Attention, ils arrivent... Tous a vos postes\nde combat !"
+    },
+    "196924": {
+        "「きょ…巨人だ！\n　とんでもなくデカい　化け物だー！！": "Un... un geant ! Un monstre incroyablement\nimmense !!"
+    },
+    "196925": {
+        "「撃ち方はじめーッ！　撃てーーェッ！！": "Feu a volonte ! Tirez !!"
+    },
+    "196926": {
+        "「大砲の弾が　はじかれます！\n　奴は　鉄壁のバリアを　展開していますッ！": "Le boulet de canon est repousse ! Il deploie\nune barriere de fer impenetrable !"
+    },
+    "196927": {
+        "「あれは　たしかに　ウルベア大魔神！\n　ひとにらみで　大地を焦土と化し\n　我が祖国を滅ぼした　史上最悪の兵器……。": "C'est bien le Urbea Colossus ! D'un seul\nregard, il transforme la terre en cendres et a\ndetruit ma patrie. C'est l'arme la plus<br>terrible de l'histoire..."
+    },
+    "196928": {
+        "「あんなものに　立ち向かうすべなど　ない。\n　今度こそ　余も　リウ老師のもとへ……。": "Il n'y a aucun moyen de faire face a une telle\nchose. Cette fois-ci, je dois vraiment me\nrendre aupres de Master Liu..."
+    },
+    "196929": {
+        "「なんと　<cs_pchero>か！　そなたなら\n　必ず　生きていると　信じていたぞえ。": "Eh bien, <cs_pchero> ! J'etais convaincu que\ntu etais encore en vie."
+    },
+    "196930": {
+        "「だが　再会のよろこびも　あの大魔神の前では \n　すべて　むなしい……か。": "Mais meme la joie des retrouvailles semble\nvaine... face a ce grand demon."
+    },
+    "196931": {
+        "「リウ老師が遺した　大魔神への対抗策じゃと！？": "C'est une strategie laissee par Maitre Liu\npour contrer le Grand Demon !?"
+    },
+    "196932": {
+        "「おおぉお……リウ老師……ッ。\n　こうしてまた　そなたに　教え導かれるとは。": "Ohhh... Maitre Liu... Etre guide par vous a\nnouveau ainsi..."
+    },
+    "196933": {
+        "「そうであったな……。\n　余は　この時代を守ると　決めたのじゃ。\n　生きておる限りは　全力で　抗ってみせようぞ！": "En effet... J'ai decide de proteger cette\nepoque. Tant que je vivrai, je me battrai de\ntoutes mes forces !"
+    },
+    "196934": {
+        "「砲撃準備。至急　太陽の弾を装填せよ！\n　目標　眼前に迫る　ウルベア大魔神ッ！": "Preparez l'artillerie. Chargez immediatement\nle Sunshot ! Cible : le Urbea Colossus qui\napproche droit devant !"
+    },
+    "196935": {
+        "「撃ち方……はーーじめェーーーィ！！": "Feu... a voooos marquuuuues !"
+    },
+    "196936": {
+        "「バリアの消失を　確認！\n　効いてます！　効いてますよッ！！": "La disparition de la barriere confirmee ! Ca\nfonctionne ! Ca fonctionne !!"
+    },
+    "196937": {
+        "「しかし　こちらへ　向かってきます。\n　ビャン殿　どうしますかッ！？": "Mais ils se dirigent vers nous. Biyan-dono,\nque devons-nous faire !?"
+    },
+    "196938": {
+        "「強敵相手に　きびしい戦いになるが……\n　我らも　全力で　援護射撃をするゆえ\n　<cs_pchero>　頼んだぞよ！": "Face a un ennemi redoutable, la bataille\ns'annonce difficile... Mais nous vous\nsoutiendrons de toutes nos forces avec nos<br>tirs de soutien. <cs_pchero>, nous comptons\nsur vous !"
+    },
+    "196939": {
+        "「奴のバリアは　打ち破った！\n　我らも　援護射撃をするゆえ\n　<cs_pchero>よ。今度こそ　頼んだぞよ！！": "Nous avons brise sa barriere ! Nous allons\naussi te couvrir avec nos tirs de soutien.\n<cs_pchero>, cette fois, c'est a toi de jouer<br>!!"
+    },
+    "196940": {
+        "「やったぞ！　我らは　ついに\n　ウルベア大魔神を　打ち滅ぼしたのじゃ！": "Nous l'avons fait ! Nous avons enfin vaincu\nl'Urbea Colossus !"
+    },
+    "196941": {
+        "「３０００年の時を超えて　リウ老師が\n　余を　守ってくれたのじゃな……。": "Au-dela de 3000 ans, Maitre Liu m’a protege..."
+    },
+    "196942": {
+        "「ガテリアの弔い合戦を　果たせたこと\n　そちには　感謝してもしきれぬぞよ。": "Je ne saurais assez te remercier d'avoir\naccompli la bataille funeraire de Gateria."
+    },
+    "196943": {
+        "「<cs_pchero>……\n　そちは　まさに　ドワチャッカ大陸の英雄じゃ！": "<cs_pchero>...... Tu es vraiment le heros du\ncontinent Dwachakka !"
+    },
+    "196944": {
+        "「おおっ　こうしては　おれんぞよ。\n　急ぎ　ドルワーム王国へと戻り　報告せねば。\n　ウルベア大魔神　討滅せり……とな！": "Oh, je ne peux pas rester ici plus longtemps.\nJe dois retourner d'urgence au Royaume de\nDolworm pour faire mon rapport. L'Urbea<br>Colossus a ete vaincu... !"
+    },
+    "196945": {
+        "「これより　流砂の海に沈んだ\n　ウルベア大魔神の　引き上げを開始する。\n　本国に持ちかえり　精密な調査をおこなうのだ。": "Nous allons maintenant commencer a recuperer\nl'Urbea Colossus, qui a sombre dans la mer de\nsable. Nous le ramenerons dans notre pays pour<br>une enquete minutieuse."
+    },
+    "196946": {
+        "「はっ！": "Ah !"
+    },
+    "196947": {
+        "「邪魔してもらっては　困るな　雑兵ども。": "Je ne peux pas me permettre d'etre derange par\ndes soldats de bas etage."
+    },
+    "196948": {
+        "「ウワアアアーーーッ！！": "Ouuaaaaah !!"
+    },
+    "196949": {
+        "「時の異分子よ。\n　今度こそ　貴様との因縁……": "Intrus du temps. Cette fois, notre\nconnexion..."
+    },
+    "196950": {
+        "「ここで　断ち斬る。": "Je vais en finir ici."
+    },
+    "196951": {
+        "「<cs_pchero>　<cs_pchero>。今の状態で\n　アイツと戦うのは　得策とは言えないキュ。\n　この戦線を　離脱することを　推奨するキュ。": "<cs_pchero> <cs_pchero>. Dans l'etat actuel,\naffronter cet ennemi n'est pas une strategie\njudicieuse kyu. Je recommande de se retirer de<br>cette ligne de front kyu."
+    },
+    "196952": {
+        "「わかった　わかったキュ……。 \n　キミが　融通のきかない　非効率な思考回路を\n　有した個体だということは　理解してるキュ。": "Je comprends, je comprends, kyu... Je\nreconnais que tu es un individu avec un esprit\nrigide et un circuit de pensee inefficace,<br>kyu."
+    },
+    "196953": {
+        "「ただし　今ここで　<cs_pchero>に死なれると\n　ボクとしても　それなりに　困るキュル。": "Cependant, si tu venais a mourir ici,\n<cs_pchero>, cela me poserait pas mal de\nproblemes, kyu."
+    },
+    "196954": {
+        "「せめて　態勢をととのえて　出直すキュ！": "Au moins, preparons-nous correctement avant de\nrepartir, kyu !"
+    },
+    "196955": {
+        "「くッ……がはっ…………。": "Ugh... Gah..."
+    },
+    "196956": {
+        "<center>じつに　興味深い……。": "Vraiment interessant..."
+    },
+    "196957": {
+        "<center>我が名は　キュロノス……。": "Mon nom est Kyuronos..."
+    },
+    "196958": {
+        "<center>再三にわたり　我が眷属を倒す　戦闘能力。\n強大な　時渡りの能力を有する\n希少性の高さ……じつに　興味深い。": "A maintes reprises, tu as vaincu mes\nsubordonnes avec une telle puissance de\ncombat. Possedes-tu la capacite extraordinaire<br>de voyager a travers le temps ? Ta rarete...\nC'est vraiment fascinant."
+    },
+    "196959": {
+        "<center>そこなる　欠損品と同等以上の\n性能を　有していそうではあるが……": "Il semble posseder des performances egales ou\nsuperieures a celles du produit defectueux\nla-bas, mais..."
+    },
+    "196960": {
+        "<center>究極へと至るまで　あと少し……。\n今しばらくは　我が傀儡として\n使役するとしよう。": "Il ne reste plus qu'un peu avant d'atteindre\nl'ultime stade... Pour l'instant, je vais\ncontinuer a te manipuler comme ma marionnette."
+    },
+    "197200": {
+        "<cs_pchero>は　これまでのことを\n報告するため　賢者ルシェンダの待つ\nグランゼドーラ城へ　向かった。": "<cs_pchero> se dirigea vers le Chateau de Gran\nZedora pour faire son rapport a Sage Lushenda,\nqui l'attendait."
+    },
+    "197285": {
+        "<pc>たちは　エレベーターに乗せられ\n第３０２開発室に　連行されてしまった……。": "<pc> et ses compagnons ont ete emmenes\ndans l'ascenseur et conduits a la salle de\ndeveloppement 302..."
+    },
+    "198721": {
+        "<pc>は\n入城許可証（だいじなもの）を手に入れた！<me 60>": "<pc> a obtenu le permis d'entree (objets\ncles) ! <me 60>"
+    },
+    "199756": {
+        "「いよいよ　ここまで来ました。 \n　完成すれば　ついに　我々の願いがかなう……。": "Nous y sommes enfin arrives. Une fois termine,\nnotre souhait se realisera enfin..."
+    },
+    "199757": {
+        "「……グルヤンラシュ　礼を言うぞ。\n　そちがいなければ　わらわは\n　とうの昔に　壊れていた。": "Guluyanlash, je te remercie. Sans toi, je\nserais brisee depuis longtemps."
+    },
+    "199758": {
+        "「父上が暗殺され　絶望したわらわに \n　過去はやり直せる　歴史は変えられる……と\n　生きる希望を　与えてくれたのじゃ。": "Mon pere a ete assassine. Dans mon desespoir,\non m'a donne l'espoir de vivre en me disant\nque le passe peut etre corrige avec une Lance<br>et que l'histoire peut etre changee..."
+    },
+    "199759": {
+        "「私も同じです　皇女。\n　あなたが　私の言葉を　信じてくれたから\n　ここまで　やってこれたのですよ。": "Moi aussi, princesse imperiale. C'est parce\nque vous avez cru en mes paroles que nous\navons pu en arriver la."
+    },
+    "199760": {
+        "「うむ　よくぞ参った　<pc>よ。\n　見せたいものとは　これじゃ。": "Hum, tu es bien venu, <pc>. Ce que je\nveux te montrer, c'est ceci."
+    },
+    "199761": {
+        "「これこそが　歴史改変の夢をかなえる \n　時間跳躍制御装置……エテーネルキューブ。": "C'est l'appareil de controle de saut temporel\nqui realise le reve de reecrire l'histoire...\nl'Ethenel Cube."
+    },
+    "199762": {
+        "「エテーネルキューブを作るためには\n　非常に入手困難な　３つの素材が必要だ。": "Pour fabriquer l'Ethenel Cube, il te faudra\ntrois materiaux extremement difficiles a\nobtenir."
+    },
+    "199763": {
+        "「ひとつ目の素材は　アルケミダスト。\n　高位錬金術の　副産物として生成され\n　キューブのエネルギーに　変換できるものだ。": "Le premier materiau est l'Alchimie Poussiere.\nIl s'agit d'un sous-produit genere par\nl'alchimie de haut niveau, qui peut etre<br>converti en energie pour le cube."
+    },
+    "199764": {
+        "「この時代で　優秀な錬金術師と出会い \n　配下につけることができたのは　幸運だった。\n　エネルギー問題は　早々に　解決できた。": "Rencontrer un alchimiste talentueux a cette\nepoque et le prendre sous mon aile a ete une\nchance. Le probleme energetique a pu etre<br>resolu rapidement."
+    },
+    "199765": {
+        "「ふたつ目の素材は　時の球根。\n　時渡りのチカラを　キューブに定着させ\n　安定した　時渡りを実現するものだ。": "Le deuxieme materiau est la Racine de la\nSphere du Temps. Elle permet de stabiliser le\npouvoir du voyage temporel dans le cube et de<br>realiser un voyage temporel stable."
+    },
+    "199766": {
+        "「こちらも　錬金術で作りだした代用品で\n　間に合わせる　予定だったのだが……": "Nous avions prevu de nous debrouiller avec un\nsubstitut cree grace a l'alchimie, mais..."
+    },
+    "199767": {
+        "「お前のおかげで　手間が省けた。\n　どうやって　手に入れたのかは知らんが……\n　相変わらず　お前は　モノ探しの天才だな。": "Grace a toi, j'ai evite bien des tracas. Je ne\nsais pas comment tu l'as obtenu... Mais, comme\ntoujours, tu es un veritable genie pour<br>trouver des objets."
+    },
+    "199768": {
+        "「……そして　最後が　ボロヌジウム。 \n　時渡りのチカラと　莫大なエネルギーを\n　内に封じる　キューブ外殻の素材じゃ。": "Et enfin, le Boronuzium. C'est le materiau de\nl'enveloppe du cube qui scelle en lui le\npouvoir du voyage temporel et une energie<br>immense."
+    },
+    "199769": {
+        "「ガテリア皇国領地　ボロヌス溶岩流地帯の\n　地底から採掘される　希少な鉱物資源でな。\n　魔力を宿し　とこしえの輝きを放つ。": "C'est une ressource minerale rare extraite des\nprofondeurs souterraines de la region de\nBoronus Lava Flow, dans le territoire de<br>l'Empire Gateria. Elle est impregnee de magie\net emet une lueur eternelle."
+    },
+    "199770": {
+        "「ガテリアが　国の宝とした　ボロヌジウムを\n　我らウルベアに　ゆずるはずもない……。\n　交渉で済むなら　どんなによかったか。": "Gateria ne cedera jamais le precieux\nBoronuzium a notre nation d'Ulbea... Si\nseulement cela pouvait se resoudre par des<br>negociations."
+    },
+    "199771": {
+        "「しかし　結果的に……ボロヌジウムを\n　手に入れるためには　かの国へ侵攻し\n　滅ぼすしか　道は残されていなかった。": "Cependant, en fin de compte... pour obtenir le\nBoronuzium, il ne restait plus d'autre choix\nque d'envahir ce pays et de le detruire."
+    },
+    "199772": {
+        "「…………だが　本当に　そうだったのか？": "...Cependant, etait-ce vraiment le cas ?"
+    },
+    "199773": {
+        "「果たして　あれが　正しい選択だったのか\n　今でも　わらわは…………。": "En fin de compte, etait-ce vraiment le bon\nchoix ? Meme maintenant, je suis toujours..."
+    },
+    "199774": {
+        "「皇女……いいですか。\n　そもそもが　ガテリアから　仕掛けてきた戦争。\n　滅亡したのも　当然の末路です。": "Princesse... Permettez-moi. A l'origine, c'est\nGateria qui a declenche cette guerre. Leur\ndestruction etait un resultat inevitable."
+    },
+    "199775": {
+        "「前皇帝ジャ・クバ様。\n　あなたのお父上を　殺したのは…………": "Ancien Empereur Ja Kuba-sama. C'est moi qui ai\ntue votre pere..."
+    },
+    "199776": {
+        "「ガテリア皇国　第一の皇子\n　悪鬼ビャン・ダオ……なのですから。": "Le premier prince du royaume de Gateria, le\ndemon Byan Dao... c'est bien lui."
+    },
+    "199777": {
+        "「かつて　ビャン・ダオは\n　ウルベアとガテリアの　和平を結ぶため\n　使者として　我が帝国へやってきた。": "Autrefois, Byan Dao est venu dans notre empire\nen tant qu'emissaire pour etablir la paix\nentre Urbea et Gateria."
+    },
+    "199778": {
+        "「生真面目な性質と　情熱的な姿勢を \n　皇帝は　気に入っておられたのに……\n　それも　すべて　演技だったとは。": "L'empereur appreciait sa nature serieuse et\nson attitude passionnee... Mais tout cela\nn'etait qu'une mise en scene."
+    },
+    "199779": {
+        "「調印式の前日　ビャン・ダオは\n　油断した皇帝の　私室に忍び込み\n　その　尊いお命を　奪った……。": "La veille de la ceremonie de signature, Byan\nDao s'est faufile dans les appartements prives\nde l'empereur imprudent et lui a ote sa<br>precieuse vie..."
+    },
+    "199780": {
+        "「クッ…………。": "Guh..."
+    },
+    "199781": {
+        "「ですが　ご安心ください。 \n　歴史は　やり直すことが　できるのですから。": "Cependant, soyez rassure. L'histoire peut etre\nreparee avec Spear."
+    },
+    "199782": {
+        "「……そうでしょう　ウルタ皇女？": "...... N'est-ce pas, Princesse Ulta ?"
+    },
+    "199783": {
+        "「エテーネルキューブの　完成を急げ。": "Accelerez la finalisation de l'Ethenel Cube."
+    },
+    "199784": {
+        "「そちは　自分の故国に戻るため。 \n　わらわは　父上の悲劇を　止めるため。": "Toi, c'est pour retourner dans ton pays natal.\nMoi, c'est pour arreter la tragedie de mon\npere."
+    },
+    "199785": {
+        "「わらわは……もう迷わぬ。": "Je ne suis plus perdue..."
+    },
+    "199786": {
+        "「さて……。\n　お前が　とんだ　お人好しということは\n　重々　知っている。": "さて お前がとんだお人好しということは重々知っている"
+    },
+    "199787": {
+        "「だが　それだけのために　時の球根を\n　手に入れてくるとは　思えない。\n　何か　目的が　あるのだろう？": "Cependant, je doute qu'il ait recupere le\nFruit du Temps juste pour ca. Il doit avoir un\nautre objectif, n'est-ce pas ?"
+    },
+    "199788": {
+        "「共に　エテーネ王国へ戻ることか？\n　なんでも　話してくれ。 \n　俺にできることなら　協力しようじゃないか。": "Est-ce que tu souhaites retourner ensemble au\nroyaume d'Ethene ? Dis-moi tout. Si c'est\nquelque chose que je peux faire, je t'aiderai<br>volontiers."
+    },
+    "199789": {
+        "<pc>は　クオードに\nウルベア大魔神が狙われていることを　話した。": "<pc> a informe Quard que l'Urbea\nColossus est pris pour cible."
+    },
+    "199790": {
+        "「大魔神が　敵に狙われている？\n　それを　守りにきた……？": "Le Grand Demon est-il la cible de l'ennemi ?\nVous etes venu le proteger...?"
+    },
+    "199791": {
+        "「たとえ　敵に狙われていたとしても\n　この帝国技術庁ほど　守りに適した場所はない。\n　余計な心配は　してくれるな。": "Meme si nous etions pris pour cible par\nl'ennemi, il n'existe pas de lieu plus propice\na la defense que le Bureau Imperial de<br>Technologie. Ne te fais pas de souci inutile."
+    },
+    "199792": {
+        "「だが……知らせてくれて　感謝する。\n　大船に乗ったつもりで　後は　まかせておけ。\n　お前は　ここで　自由に過ごすがいい。": "Mais... je te remercie de m'avoir informe.\nConsidere que tu es en securite, et laisse-moi\nm'occuper du reste. Toi, profite librement de<br>ton temps ici."
+    },
+    "199793": {
+        "「リウ老師ヨリ　音声通話ノ要請アリ。\n　会話ヲ許可。接続イタシマス………………": "Master LiuYori, une demande d'appel vocal a\nete recue. Autorisation de la conversation.\nConnexion en cours..."
+    },
+    "199794": {
+        "「……聞こえますかな　<pc>君。\n　長旅　ご苦労さまでした。": "…Tu m'entends, <pc>-kun ? Merci pour ton\nlong voyage."
+    },
+    "199795": {
+        "「おかげで　重要な情報が　入手できました。\n　一度　ダラズ大鉱脈の管理事務所まで\n　戻ってきてもらえますかな？": "Grace a vous, nous avons pu obtenir des\ninformations cruciales. Pourriez-vous revenir\nau bureau de gestion de Daraz Prospect ?"
+    },
+    "199796": {
+        "「とても　大事な話があるのです。\n　よろしく　頼みましたぞ……。": "J'ai quelque chose de tres important a vous\ndire. Je compte sur vous..."
+    },
+    "201213": {
+        "「……ごめんなさい　<pc>。\n　私……なんだか　めまいが………………。": "…Desolee, <pc>. Je... Je ne sais pas,\nj'ai un peu le vertige..."
+    },
+    "203554": {
+        "「おお……どうやら　無事のようじゃな！\n　今　助けを呼んでくるぞよ！": "Oh... On dirait que tout va bien, n'est-ce pas\n! Je vais chercher de l'aide tout de suite !"
+    },
+    "203555": {
+        "<pc>は　ウルベア魔神兵に\nどこかの部屋へと　連れていかれた……。": "<pc> a ete emmene par Urbea Aztech dans\nune piece quelque part..."
+    },
+    "203556": {
+        "<pc>は　玉座の間を　あとにした。": "<pc> quitta la salle du trone."
+    },
+    "203557": {
+        "城に戻った　ウルタ皇女は　家臣たちに\nこれまでの真相を　すべて話した。": "De retour au chateau, la Princesse Ulta\nraconta a ses vassaux tout ce qui s'etait\npasse jusqu'a present concernant T."
+    },
+    "203558": {
+        "特に　皇帝を暗殺した　グルヤンラシュを\n皇女の手で　断罪した件は\n大きな衝撃を与え　城内に動揺が広がった……。": "En particulier, le fait que Guluyanrash, qui a\nassassine l'empereur, ait ete juge par la\nprincesse a provoque une grande onde de choc<br>et seme la confusion au sein du chateau..."
+    },
+    "203559": {
+        "「地脈エネルギーへの対抗策……\n　おそらく　太陽エネルギーに　その可能性が\n　あるのではないかと　考えております。": "Une strategie pour contrer l'energie\ntellurique... Je pense qu'il est possible que\nl'energie solaire soit la solution."
+    },
+    "203822": {
+        "<pc>は　皇女の魔神機を探して\n広場の周辺を　歩いてまわった。": "<pc> a cherche la machine demoniaque de\nla princesse imperiale en se promenant autour\nde la place."
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "261712": {
+        "「キーーッ！　ママナンテ　ダイキライ！\n　ニクイ　ニクイッ！　ユルサナインダカラッ！": "Grrr ! Je deteste maman ! Je la deteste, je la\ndeteste ! Je ne lui pardonnerai jamais !"
+    },
+    "261713": {
+        "「ソノラ！　ソノラ！\n　私のせいで　こんな……！": "Sonora ! Sonora ! C'est de ma faute si c'est\narrive... !"
+    },
+    "261714": {
+        "「ママ　キライ！　キライ！\n　アタシノ　リボン　カエシテヨッ！": "Maman, je te deteste ! Je te deteste !\nRends-moi mon ruban !"
+    },
+    "261715": {
+        "<cs_pchero>は　ボロボロのリボンを\nソノラに　差し出した！": "<cs_pchero> tend le Ruban Effiloche a Sonora !"
+    },
+    "261716": {
+        "「………キ？": ".........Ki ?"
+    },
+    "261717": {
+        "「あ……あたしの　リボン……？": "Ah... Mon ruban...?"
+    },
+    "261718": {
+        "「あたし……リボンのことで\n　ママに　ひどいこと　たくさん言っちゃった。\n　ごめんなさい　ママ……。": "Moi... J'ai dit beaucoup de choses mechantes a\nmaman a propos du ruban. Je suis desolee,\nmaman..."
+    },
+    "261719": {
+        "「ア　アタタカイ　キモチ……？\n　ママ……ママ……。": "Ah, c'est si chaud et agreable...? Maman...\nMaman..."
+    },
+    "261720": {
+        "「ごめんなさい　ソノラ……！\n　あのリボンが　あなたにとって\n　大切なものだったなんて　知らなかったの。": "Je suis desolee, Sonora... ! Je ne savais pas\nque ce ruban etait si important pour toi."
+    },
+    "261721": {
+        "「こんなにもつらい　悲しい思いをさせて\n　ごめんなさい。バカなママを\n　どうか許して……。": "Je suis desolee de vous avoir cause tant de\ndouleur et de tristesse. Pardonnez-moi, s'il\nvous plait, pour etre une maman stupide..."
+    },
+    "261722": {
+        "「……このリボンはね。グランゼドーラに\n　来る前に　お友達にもらったの。\n　離れていても　ずっと忘れないよって。": "Ce ruban, tu sais. Je l'ai recu d'une amie\navant de venir a GlMP Zedora. Elle m'a dit\nqu'elle ne m'oublierait jamais, meme si nous<br>etions separes."
+    },
+    "261723": {
+        "「だから　なくなったときは\n　すごく悲しかったし　心が真っ黒になって\n　苦しかった。でも……": "Donc, quand il a disparu, j'etais vraiment\ntriste, mon coeur s'est assombri et j'ai\nsouffert. Mais..."
+    },
+    "261724": {
+        "<if_woman>「リボン　戻ってきて　よかった！\n　あたしは　もう大丈夫だよ。\n　おねえちゃん　ありがとう！<else>「リボン　戻ってきて　よかった！\n　あたしは　もう大丈夫だよ。\n　おにいちゃん　ありがとう！<endif>": "<if_woman>>Ribon, je suis tellement contente\nque tu sois revenu ! Je vais bien maintenant.\nMerci grande soeur !<else>>Ribon, je suis tellement contente que tu sois\nrevenu ! Je vais bien maintenant. Merci grand\nfrere !<endif>"
+    },
+    "261725": {
+        "「ぬるい手に　こだわりやがって。\n　あのガキが　正気を取り戻さなかったら\n　どうするつもりだったんだ。": "Tu t'accroches a des methodes inefficaces.\nQu'aurais-tu fait si ce gamin n'etait pas\nrevenu a la raison ?"
+    },
+    "261726": {
+        "「あ～ぁ。本当に　もったいない。\n　せっかく　あの子供に　絶望を植えつけて\n　ここまで育てたのに　台無しですよ……。": "Ah... C'est vraiment dommage. J'avais pris la\npeine de semer le desespoir chez cet enfant et\nde le cultiver jusqu'ici, et voila que tout<br>est gache..."
+    },
+    "261727": {
+        "「フフッ……はじめまして！\n　ワタクシ　邪毒のウィーヌムと申します。\n　新米魔剣士の　<cs_pchero>さん？": "Fufu... Enchantee de faire votre connaissance\n! Je suis Poisonous Wienum. Seriez-vous le\nnouveau bretteur, <cs_pchero> san ?"
+    },
+    "261728": {
+        "「先日の贈り物　気に入っていただけました？\n　なつかしき　故郷の皆さまとの再会は\n　じつに　感動的なものだったでしょう！": "Avez-vous apprecie le cadeau de l'autre jour ?\nRetrouver les gens de votre chere patrie a du\netre vraiment emouvant !"
+    },
+    "261729": {
+        "「お久しぶりですね　ディゼルさん。\n　しばらく見ないうちに　ずいぶん\n　魔の波動が　成長なさったようで……。": "Ca fait longtemps, Diezel-san. Pendant votre\nabsence, il semble que vous ayez\nconsiderablement developpe vos pouvoirs<br>magiques..."
+    },
+    "261730": {
+        "「……ようやく　貴様にたどり着けた。\n　子供のころから　何度　夢見てきたか。\n　ハラワタが煮えくり返るほど　うれしいよ。": "Enfin, je suis parvenu jusqu'a toi. Depuis mon\nenfance, combien de fois ai-je reve de ce\nmoment. Je suis tellement heureux que mes<br>entrailles bouillonnent de joie."
+    },
+    "261731": {
+        "「貴様を殺す！　八つ裂きにしてやる！！": "Je vais te tuer ! Je vais te dechiqueter !!"
+    },
+    "261732": {
+        "「ウフッ！　ワタクシもうれしいですよ。\n　アナタがそんなにも　魔の波動を\n　おいしそうに　育ててくれて……。": "Ouf ! Je suis aussi ravie. C'est tellement\nagreable de voir que tu as fait grandir l'aura\nmalefique avec tant de plaisir..."
+    },
+    "261733": {
+        "「あの　忌々しい魔剣士に　つけられたキズも癒え\n　ようやく　活動できるようになりました。": "Les blessures infligees par ce maudit epeiste\ndemoniaque ont enfin gueri, et je peux\nfinalement me remettre en action."
+    },
+    "261734": {
+        "「やっと　アナタの魔の波動を食べられる……と\n　楽しみにしていたのですが　熟しきるまで\n　あと一歩……ってところですかね。": "J'attendais avec impatience de pouvoir enfin\nsavourer votre aura malefique... Mais il\nsemble qu'il manque encore un petit pas pour<br>qu'elle soit pleinement mure."
+    },
+    "261735": {
+        "「フフフフ……<cs_pchero>さん！\n　先に　アナタをいただくのも　ありですね。\n　アナタの波動も　なかなかにウマそうだ！": "FufuFufu... <cs_pchero> san ! Je pourrais bien\ncommencer par te devorer. Ton energie semble\ndelicieuse !"
+    },
+    "261736": {
+        "「そのときのために\n　しかるべき　舞台を用意しておくとします。\n　……また　お会いしましょうね<heart>": "Pour cette occasion, je vais preparer la scene\nqui convient. ... A bientot<heart>"
+    },
+    "261737": {
+        "「………クソッ！！": "...Merde !!"
+    },
+    "261738": {
+        "「俺は　お前のような甘いヤツは　認めない。\n　……だが　どうやら　ヤツは\n　お前に　興味を持ったらしい。": "Je ne reconnais pas les types doux comme toi.\n...Cependant, il semble que cette personne ait\npris un certain interet pour toi."
+    },
+    "261739": {
+        "「お前は　ヤツをおびき寄せるための　エサだ。\n　せいぜい　役に立ってもらうぞ……。": "Tu n'es qu'un appat pour attirer cet individu.\nFais en sorte de te rendre utile..."
+    }
+}
