@@ -5,7 +5,3 @@ files:
     update_option: update_as_unapproved
     escape_quotes: 3
     multilingual: 
-    source_language: ja
-    json:
-      content_key: "*"
-      structure: "{id}"
