@@ -1,0 +1,95 @@
+{
+    "56676": {
+        "「チャオー！\n　バジェオじいさんの家へ　ようこそー！": "Ciao ! Bienvenue chez grand-pere Bajeo !"
+    },
+    "56677": {
+        "「……って　お前さん　見ない顔じゃな。\n　もしや　わしの技師としてのウデを見込んで\n　仕事の依頼にでも来たんか？": "...Tiens, je ne reconnais pas ton visage.\nSerais-tu ici pour solliciter mes talents\nd'ingenieur et me proposer du travail ?"
+    },
+    "56678": {
+        "「じゃが　残念ー！　ワシは技師を辞めて\n　隠居生活を　満喫チューなのじゃ！\n　仕事の話なら　ノーセンキューじゃぞ。": "Mais helas ! J'ai pris ma retraite en tant que\ntechnicien et je profite d'une vie paisible !\nSi c'est pour parler de travail, c'est non,<br>merci."
+    },
+    "56679": {
+        "「……な　なにっ？　お前さん\n　エイブラム船長の使いで来たじゃとっ！？": "Quoi ? Tu dis que tu es venu de la part de\nCaptain Abram !?"
+    },
+    "56680": {
+        "「ふ…ふんっ！　エイブラムなんて　知らんもん！\n　知らんって言ったら　知らんもん！！": "Hmph ! Je ne connais pas cet Abram ! Je te dis\nque je ne le connais pas !!"
+    },
+    "56681": {
+        "バジェオに\n技師の工具かばんを　渡しますか？<yesno><close>": "Voulez-vous donner la Sacoche d'Ingenieur a\nBajeo ? <yesno><close>"
+    },
+    "56682": {
+        "「もう　エイブラムなんて　知らんもん！\n　知らんって言ったら　知らんもん！！": "Je ne veux plus entendre parler d'Abram ! Je\nt'ai dit que je ne le connaissais pas, alors\nje ne le connais pas !"
+    },
+    "56683": {
+        "<pc>は\n技師の工具かばんを　取りだした！": "<pc> a sorti le sac a outils de\nl'ingenieur !"
+    },
+    "56684": {
+        "「これは……　ワシの仕事道具……！\n　しかも　なんじゃ？　壊れたスパナの代わりに\n　ハイテクスパナが　入っておる……？": "Ca, c'est... mes outils de travail... ! Et\nqu'est-ce que c'est ? A la place de ma cle a\nmolette cassee, il y a une High-Tech Wrench...<br>?"
+    },
+    "56685": {
+        "「くっ！　エイブラムめ！　なんで\n　ワシの愛用のスパナを　取り替えたんじゃ！？\n　こ…こんな　ハイテクなぞにしおって！": "Argh ! Cet Abram ! Pourquoi a-t-il remplace ma\ncle a molette preferee ?! Avec... avec un\nengin aussi high-tech !"
+    },
+    "56686": {
+        "「ワシが　あのスパナに\n　どれほどの愛着を持っていたか！　壊れたら直し\n　古さならではの良さを愛して　使っていたのに！": "J'etais tellement attache a cette cle ! Je la\nreparais chaque fois qu'elle se cassait et\nl'aimais pour ses qualites uniques d'Old."
+    },
+    "56687": {
+        "「まったく　勝手なことをしやが……": "C'est vraiment egoiste de sa part..."
+    },
+    "56688": {
+        "「って………………。": "...quoi..."
+    },
+    "56689": {
+        "「………………。": ""
+    },
+    "56690": {
+        "「勝手なことをするな……か。\n　そう言えば　アイツも　ケンカした時\n　同じこと言ってたなあ……。": "Ne fais pas ce que tu veux... hein. En y\nrepensant, il disait la meme chose quand on\ns'est dispute..."
+    },
+    "56691": {
+        "「……そうか。\n　アイツは　こんな気持ちじゃったのか。": "Je vois. C'est donc ce qu'il ressentait."
+    },
+    "56692": {
+        "「ぶひゃひゃひゃひゃひゃ！！": "Buhyah yah yah yah yah yah !!"
+    },
+    "56693": {
+        "「エイブラムめ　こしゃくなマネを！\n　オーケー　オーケー！　ワシも　悪かったわ！\n　そもそも先にやっちゃったのは　ワシじゃしな！": "Cet Abram, quel impertinent ! D'accord,\nd'accord ! J'admets que j'ai aussi mes torts !\nApres tout, c'est moi qui ai commence en<br>premier !"
+    },
+    "56694": {
+        "「そう……。ワシは　あのエイブラムが\n　何より愛する　グランドタイタス号の心臓部\n　……動力装置に　やらかしちゃったんじゃよ。": "Oui... J'ai vraiment cause des degats au coeur\nde Grand Titus, le moteur que cet Abram\ncherissait par-dessus tout."
+    },
+    "56695": {
+        "「修理の時……　ワシは　ヤツのためを思い\n　あの船が　迷いの霧の嵐にも耐えられるよう\n　最新の動力装置を開発して　載せてやった。": "Lors des reparations... pour son bien, j'ai\ndeveloppe et installe un systeme de propulsion\ndernier cri sur ce bateau, afin qu'il puisse<br>resister aux tempetes du brouillard de\nl'egarement."
+    },
+    "56696": {
+        "「なのに　アイツときたら　船の最大の\n　ミリョクである　武骨で味わいのある動力装置を\n　勝手に　ハイテクにしたって　怒ったんじゃ！": "Et pourtant, cet idiot a decide tout seul de\ntransformer l'authentique et robuste moteur,\nqui est le charme principal du navire, en une<br>machine high-tech. Ca m'a vraiment mis en\ncolere !"
+    },
+    "56697": {
+        "「あんときは　なんて了見のせまいヤツじゃ！　と\n　怒りにまかせ　工具かばんをほっぽり出して\n　つい　船を下りてしまったが……": "A ce moment-la, je me suis dit : Quel type\netroit d'esprit !. Sous l'emprise de la\ncolere, j'ai jete ma boite a outils et j'ai<br>fini par descendre du bateau..."
+    },
+    "56698": {
+        "「同じことをされて　ワシもわかった。\n　よかれと思ってやったことが\n　相手を怒らせることも　あるんじゃな。": "En subissant la meme chose, j'ai compris. Meme\nsi l'on pense bien faire, cela peut parfois\nprovoquer la colere chez l'autre."
+    },
+    "56699": {
+        "「まあ　これで　おあいこじゃ！\n　かばんを届けてくれたのは　技師を続けろという\n　エイブラムなりの　メッセージじゃろうよ。": "Eh bien, nous sommes quittes maintenant ! Le\nfait que tu m'aies rapporte mon sac doit etre\nle message d'Abram pour me dire de continuer<br>en tant qu'ingenieur."
+    },
+    "56700": {
+        "「さて……まずは　この　技師の工具かばんで\n　たまった仕事を片付けることから　始めるかの。\n　む？　そういえば……": "さてまずはこのEngineer's Toolbagで\nたまった仕事を片付けることから始めるかの む？ そういえば"
+    },
+    "56701": {
+        "「グランゼドーラ城の例の装置も　そろそろ……。\n　おっと！　すまん　こっちの話じゃ。\n　んでは　エイブラムに　よろしくのう！": "L'appareil du chateau de Gran Zedora aussi,\nbientot... Oh ! Desole, c'etait une\nconversation de mon cote. Allez, transmettez<br>mes salutations a Abram !"
+    },
+    "56702": {
+        "「チャオー！\n　天才技師バジェオの家に　ようこそー！": "Ciao ! Bienvenue dans la maison de Bajeo, le\ngenie des ingenieurs !"
+    },
+    "56703": {
+        "「……っと　お前さんか。\n　いつぞやは　世話になったのう。": "…Ah, c'est toi. A un moment, tu m'avais bien\naide."
+    },
+    "56704": {
+        "「エイブラムのヤツは　相変わらず素直じゃなくて\n　わざわざ　スパナを交換して　届けるなんて\n　回りくどいことをしてくれやがったが……": "Abram, fidele a lui-meme, n'est toujours pas\ntres franc. Il s'est donne la peine d'echanger\nla cle a molette et de la livrer lui-meme,<br>quelle maniere detournee de faire les\nchoses..."
+    },
+    "56705": {
+        "「工具が戻ってきて　正直　助かった。\n　グランゼドーラ城の　あの装置も　そろそろ\n　メンテナンスが必要な頃じゃったしな！": "Les outils sont revenus, et honnetement, ca\nm'aide beaucoup. L'appareil du chateau de Gran\nZedora a egalement besoin d'un peu de<br>maintenance, c'est le bon moment !"
+    },
+    "56706": {
+        "「さすがは　エイブラム！\n　バッチリ　グッドな　タイミングじゃったぞい！\n　……んでは　エイブラムに　よろしくのう！": "Comme prevu d'Abram ! C'etait une performance\nparfaitement bonne de Red Snapper ! ...Eh\nbien, transmettez mes salutations a Abram !"
+    }
+}
