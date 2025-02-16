@@ -210,7 +210,7 @@
         "「バカな！　あのネックレスは\n　ガートラント城からの　友好の証として\n　贈られた品に　入っていたのだぞ？": "Impossible ! Ce collier faisait partie des\npresents offerts en tant que symbole d'amitie\nde la part du Chateau de Gartlant !"
     },
     "1129": {
-        "「友好の証と見せかけて　呪いの品を送るなど\n　そのような姑息なまねを\n　ガートラントが　するはずがない！": "Pretendre offrir un symbole d’amitie tout en envoyant un objet maudit ? Gartlant n’userait jamais de telles bassesses !"
+        "「友好の証と見せかけて　呪いの品を送るなど\n　そのような姑息なまねを\n　ガートラントが　するはずがない！": "Pretendre offrir un symbole d’amitie tout en \nenvoyant un objet maudit ? Gartlant n’userait\njamais de telles bassesses !"
     },
     "1132": {
         "「神父や僧侶にも　なすすべなく\n　ただ　弱っていく王を　見守ることしか\n　できなかった　ある日……": "Un jour, alors que meme les pretres et les\nmoines ne pouvaient rien faire d'autre que de\nveiller sur le roi qui ne cessait de<br>s'affaiblir..."
@@ -249,7 +249,7 @@
         "「チグリ大臣よ。\n　すぐに　おふれを出せ！": "Ministre Chigri. Publiez immediatement le\ndecret !"
     },
     "1158": {
-        "「ガートラントと　いくさは　やらん！\n　皆　日々の暮らしに戻れ！　……とな。": "Je ne menerai pas de guerre contre Gar et LMP\n! Retournez tous a votre vie quotidienne !\n...Voila."
+        "「ガートラントと　いくさは　やらん！\n　皆　日々の暮らしに戻れ！　……とな。": "Il n’y aura pas de guerre contre Gartlant !\nRetournez a votre quotidien !\n… Ainsi en a-t-il ete decide."
     },
     "1160": {
         "「いくさが起きていれば\n　多くの血が　このオーグリード大陸に\n　流れるところであった……。": "Si une guerre avait eclate, beaucoup de sang\naurait coule sur ce continent d'Ogride..."
@@ -411,7 +411,7 @@
         "「しかし　キーエンブレムとは　英雄の証。\n　頭痛を治した程度で　与えてよいものか？": "Cependant, les emblemes cles sont la preuve\nd'un heros. Devrais-je vraiment les accorder\nsimplement pour avoir gueri un mal de tete ?"
     },
     "8068": {
-        "「やはり　この国を救うような\n　大きなことを　やりとげた者でなくては……。": "Il faut que ce soit quelqu'un qui a accompli\nquelque chose d'aussi grand que sauver ce\nroyaume avec une lance..."
+        "「やはり　この国を救うような\n　大きなことを　やりとげた者でなくては……。": "Comme je le pensais, il faut quelqu’un qui ait\naccompli un exploit a la hauteur du salut de \nce pays…"
     },
     "8069": {
         "<pc>は\n黒のキーエンブレム（だいじなもの）を\n手に入れた！<me_72>": "<pc> a obtenu l'embleme de la cle noire\n(objets cles) ! <me_72>"
