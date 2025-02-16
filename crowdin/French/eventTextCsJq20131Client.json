@@ -1,0 +1,83 @@
+{
+    "58253": {
+        "「ムニュムニュ……。だ～れ？\n　ママなら　クスリをかいにいって\n　いまは　いないけど……": "Munyumunyu... Qui est-ce ? Si c'est maman,\nelle est partie acheter des medicaments et\nelle n'est pas la en ce moment..."
+    },
+    "58254": {
+        "「あーっ！！　モーモンたんだーっ！": "Ah ! C'est Teeny Sanguini-chan !"
+    },
+    "58255": {
+        "「わーい　わーい！　こんなに　ちかくで\n　モーモンたん　みるの　はじめてー！\n　すごい　すごーい！": "Waouh, waouh ! C'est la premiere fois que je\nvois un Teeny Sanguini d'aussi pres ! C'est\nincroyable, incroyable !"
+    },
+    "58256": {
+        "<if_woman>「ねえねえ　おねえちゃん。\n　このモーモンたん　おねえちゃんの？\n　どうして　つれあるいて　へいきなの？<else>「ねえねえ　おにいちゃん。\n　このモーモンたん　おにいちゃんの？\n　どうして　つれあるいて　へいきなの？<endif>": "<if_woman>>Dis, grande soeur. Ce Teeny\nSanguini, c'est le tien ? Pourquoi tu peux le\npromener comme ca sans probleme ?<else>>Dis, grand frere. Ce Teeny Sanguini, c'est le\ntien ? Pourquoi tu peux le promener comme ca\nsans probleme ? <endif>"
+    },
+    "58257": {
+        "<if_woman>「……へえ～。おねえちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<else>「……へえ～。おにいちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<endif>": "<if_woman>>He~. Grande soeur, tu fais le metier\nde dresseuse de monstres. C'est style !<else>>He~. Grand frere, tu fais le metier de\ndresseur de monstres. C'est style !<endif>"
+    },
+    "58258": {
+        "「カーヤ。ただいまー。\n　いい子に　して……": "KayaJe suis rentre ! As-tu ete sage..."
+    },
+    "58259": {
+        "「ぎゃーーーーーーーーッ！！\n　魔物よーーーーーッ！！": "Gyaaaaaaaah !! Un monstre !!"
+    },
+    "58260": {
+        "「カーヤ！　危険だわ！\n　下がってなさい！": "Kaya ! C'est dangereux ! Recule !"
+    },
+    "58261": {
+        "「ママ　ちがうの。このコはね……": "Maman, ce n'est pas ca. Cet enfant, tu vois..."
+    },
+    "58262": {
+        "「この魔物を　部屋に入れたのは　あなたね！？\n　いったい　どういうつもり？\n　魔物を連れて　さっさと出ていってちょうだい！": "C'est vous qui avez fait entrer ce monstre\ndans la piece !? Qu'est-ce qui vous a pris ?\nEmmenez ce monstre et sortez d'ici<br>immediatement !"
+    },
+    "58263": {
+        "「早く！": "Depeche-toi !"
+    },
+    "58264": {
+        "<if_woman>「ごめんね……。おねえちゃん……。<else>「ごめんね……。おにいちゃん……。<endif>": "<if_woman>>Je suis desole(e)... Grande soeur...<else>>Je suis desole(e)... Grand frere... <endif>"
+    },
+    "58265": {
+        "「いいぞ　ファーベル！\n　剣を振る姿が　なかなか　サマになってきた。": "Bien joue, Fabel ! Ta facon de manier l'epee\ncommence a avoir fiere allure."
+    },
+    "58266": {
+        "「よし　この辺で　ひと息入れよう。": "Bien, faisons une petite pause ici."
+    },
+    "58267": {
+        "「アンタ……。\n　前に　ウチの中で　会ったよな。\n　たしか　<pc>って言ったっけ？": "Toi... On s'est deja rencontre dans la maison,\nnon ? Tu t'appelles <pc>, c'est ca ?"
+    },
+    "58268": {
+        "「ハハァン。母さんが頼みごとをした\n　まもの使いって　アンタだな？": "Ah-ha. La dompteuse de monstres dont maman a\nparle, c'est toi, n'est-ce pas ?"
+    },
+    "58269": {
+        "「それで　どうだった？\n　モーモンで　女の子を元気づけるっていう\n　母さんの作戦は　うまくいったかい？<yesno><close>": "Alors, comment ca s'est passe ? Le plan de\nmaman pour remonter le moral de la fille avec\nle Teeny Sanguini a-t-il fonctionne<br>?<yesno><close>"
+    },
+    "58270": {
+        "「はははっ！　マジメに答えなくても\n　その暗い顔を見れば　わかるよ。\n　どうせ　追い返されて　帰ってきたんだろう？": "Ha ha ha ! Pas besoin de repondre\nserieusement, je peux le deviner en voyant ton\nair sombre. Tu as ete repousse et tu es<br>revenu, n'est-ce pas ?"
+    },
+    "58271": {
+        "「魔物は　しょせん　魔物。\n　怖がられて　きらわれて……\n　それが　当然の存在だよ。": "Les monstres restent des monstres. Ils sont\ncraints et detestes... C'est leur nature\nevidente."
+    },
+    "58272": {
+        "「すまない。どうやら　ファーベルが\n　失礼なことを言ったみたいだ。": "Je suis desole. Il semble que Fabel ait dit\nquelque chose d'impoli."
+    },
+    "58273": {
+        "「……っと　自己紹介が　遅れたな。\n　オレは　デイラー。旅のバトルマスターだ。": "... Oh, j'ai oublie de me presenter. Je suis\nDailer, le maitre Bato en voyage."
+    },
+    "58274": {
+        "「少し前に　ファーベルと知り合って\n　ヤツに　剣を教えたりしている。\n　まあ　いわゆる　師弟関係ってやつだ。": "Il y a quelque temps, j'ai fait la\nconnaissance de Fabel, et je lui apprends a\nmanier l'epee. On pourrait dire que nous avons<br>une relation maitre-eleve."
+    },
+    "58275": {
+        "「ファーベルは……\n　どうやら　魔物がらみで\n　つらい過去が　あるみたいなんだ。": "Fabel semble avoir un passe douloureux lie aux\nmonstres..."
+    },
+    "58276": {
+        "「だから　まもの使いを見ると\n　つい　あんな態度を取ってしまうらしい。\n　大目に見てやってくれ。": "Donc, quand il voit un dompteur de monstres,\nil ne peut s'empecher d'agir ainsi. Je te\ndemande d'etre indulgent avec lui."
+    },
+    "58277": {
+        "「デイラーさん。いつまで　おしゃべりしてるの？\n　今日は　お城の方まで　修行にいくんでしょ？\n　早く　行こうよ。": "Dailer-san. Combien de temps vas-tu continuer\na bavarder ? Aujourd'hui, nous devons nous\nrendre jusqu'au chateau pour l'entrainement,<br>non ? Allez, depeche-toi."
+    },
+    "58278": {
+        "「ああ　そうだったな！\n　わかった！　すぐ行くよ！": "Ah, c'est vrai ! D'accord ! J'y vais tout de\nsuite !"
+    },
+    "58279": {
+        "「それじゃ　オレたちは　これで。": "Alors, nous allons y aller."
+    }
+}
