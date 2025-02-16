@@ -1,0 +1,731 @@
+{
+    "93050": {
+        "「おお　我がドルワームの恩人　<pc>よ！\n　待っておったぞ。ささ　こちらに。": "Oh, <pc>, bienfaiteur de notre Dolworm !\nJe vous attendais. Par ici, je vous prie."
+    },
+    "93051": {
+        "「ヴェリナード王国での　そなたの活躍は\n　こちらにも　届いておる。\n　見事な　はたらきだったそうじゃな。": "Les exploits que tu as accomplis au royaume de\nVerinard sont parvenus jusqu'ici. On dit que\nc'etait un travail remarquable."
+    },
+    "93052": {
+        "「ヴェリナードに現れた　王族を狙う不審な男が \n　ドルワームに　潜伏していることも聞いた。\n　王子であるラミザは　騎士団が守っているが……": "J'ai entendu dire qu'un homme suspect, qui\ncible la royaute de Velinard, se cache a\nDolworm. Le prince Ramiza est protege par<br>l'ordre des chevaliers, mais..."
+    },
+    "93053": {
+        "「そなたには　もうひとりの王家の血を引く者……\n　チリの護衛を　お願いしたいのじゃ。\n　どうじゃ？　引き受けてくれるか？<yesno><close>": "Je souhaiterais te demander de proteger une\nautre personne de sang royal... Chiri. Qu'en\ndis-tu ? Peux-tu accepter cette mission<br>?<yesno><close>"
+    },
+    "93054": {
+        "「そんなこと　言うなんてつれないのね。\n　私からもお願い！　ねっ　<pc>！？": "C'est froid de dire une chose pareille. Je te\nle demande aussi ! Allez, <pc> !"
+    },
+    "93055": {
+        "「……どうじゃ？\n　チリの護衛　引き受けてくれんか？<yesno><close>": "Alors ? Pourrais-tu accepter d'etre le garde\ndu corps de Chiri ?<yesno><close>"
+    },
+    "93056": {
+        "「うむ。礼を言うぞ　<pc>。\n　くれぐれも　よろしく頼む。": "Hum. Je te remercie, <pc>. Je compte sur\ntoi."
+    },
+    "93057": {
+        "「ありがとう　<pc>。\n　迷惑かけちゃうけど……\n　しばらくの間　どうか　よろしくね。": "Merci, <pc>. Je sais que cela peut\ncauser des soucis, mais... Je compte sur toi\npour un moment."
+    },
+    "93058": {
+        "「ときに　ドゥラよ。\n　護衛を厳重にする以外の対策は\n　何か　みつかったのか？": "Dura, a propos. As-tu trouve d'autres mesures\na prendre, en dehors de renforcer l'escorte ?"
+    },
+    "93059": {
+        "「その件なのですが……。": "A propos de cette affaire..."
+    },
+    "93060": {
+        "「なんじゃ？\n　お前にしては　珍しく弱気な顔ではないか。\n　申してみよ。": "Qu'est-ce donc ? Pour toi, c'est rare de\nmontrer un visage aussi inquiet. Dis-moi ce\nqui te tracasse."
+    },
+    "93061": {
+        "「……我が研究院で　探知機を作成しました。\n　探知機と対になった発信機を　身につけることで\n　その人物の動向を　追うことができるものです。": "......Nous avons concu un detecteur dans notre\ninstitut de recherche. En portant un emetteur\njumele avec ce detecteur, il est possible de<br>suivre les mouvements de cette personne."
+    },
+    "93062": {
+        "「これで　万が一　ラミザ王子らの身に\n　何かあっても　行方を追跡することができます。": "Ainsi, meme si jamais il arrivait quelque\nchose au prince Ramiza et a ses compagnons,\nnous pourrons suivre leur piste."
+    },
+    "93063": {
+        "「すごいや！　さすが　ドゥラくんだ！\n　うんうん。護衛と探知機……\n　これで　バッチリだね！": "Incroyable ! Comme attendu de la part de\nDura-kun ! Oui, oui. Avec la protection et le\ndetecteur... Tout est parfait maintenant !"
+    },
+    "93064": {
+        "「……探知機は　完成したのです。 \n　しかし　肝心の発信機の出力が弱く\n　近距離までしか　追跡することができません。": "Le detecteur est termine. Cependant, la\npuissance de l'emetteur principal est faible,\net il ne peut suivre qu'a courte distance."
+    },
+    "93065": {
+        "「遠方まで　追跡可能にするためには\n　ガテリア式真空管という　古代ガテリアに伝わる\n　特殊な部品が　必要なのですが……": "Pour permettre le suivi sur de longues\ndistances, nous avons besoin d'une piece\nspeciale appelee Gateria Vacuum Tube,<br>transmise par l'ancien Gateria."
+    },
+    "93066": {
+        "「現代では　入手が極めて困難なのです。\n　このままでは　せっかくの探知機も\n　充分な効果を　見込めないでしょう……。": "Dans l'ere P., il est extremement difficile de\nse procurer cet objet. Si cela continue ainsi,\nmeme le detecteur que nous avons tant<br>travaille a obtenir ne pourra pas avoir\nl'effet escompte..."
+    },
+    "93067": {
+        "「そ　そんな……！\n　名案だと思ったのに……。": "Ce... Ce n'est pas possible... Je pensais que\nc'etait une idee geniale..."
+    },
+    "93068": {
+        "「ガテリア式真空管……\n　……知ってる。それなら　前に\n　お父さんのガラクタの中で　見たことがあるわ。": "Gateria Vacuum Tube... ... Je connais. Je l'ai\ndeja vu parmi les vieilleries de mon pere."
+    },
+    "93069": {
+        "「それは本当ですか　チリ王女！？": "C'est vrai, Princesse Chiri !?"
+    },
+    "93070": {
+        "「ドゥラ院長。\n　王女はやめてと　何度も言ったでしょう？": "Director Dura. Je vous ai dit plusieurs fois\nd'arreter avec la princesse, n'est-ce pas ?"
+    },
+    "93071": {
+        "「何度言われても　チリ様は王女。\n　それは　変わりありません。": "Peu importe combien de fois on me le dit,\nChiri-sama est une princesse. Cela ne changera\njamais."
+    },
+    "93072": {
+        "「……そんなことより\n　ガテリア式真空管の持ち主というのは\n　チリ王女を　育ててくれた方のことですか？": "Plus important encore, le Lord detenteur du\nGateria Vacuum Tube, est-ce la personne qui a\neleve la princesse Chiri ?"
+    },
+    "93073": {
+        "「ええ。父は　岳都ガタラに住んでいます。\n　ガラクタが大好きで　いつも\n　珍しいものばかり　集めて過ごしているのよ。": "Oui. Mon pere habite a Mount Gatara. Il adore\nles babioles et passe toujours son temps a\ncollectionner des objets rares."
+    },
+    "93074": {
+        "「では　さっそく\n　その方の所まで向かう準備を……。": "Eh bien, preparons-nous immediatement a nous\nrendre aupres de cette personne..."
+    },
+    "93075": {
+        "「待って！": "Attends !"
+    },
+    "93076": {
+        "「あの　お父さんのことだもの。\n　自分の宝物を　そう簡単に渡すわけない。\n　だから……　私も行くわ！": "Ah, c'est de mon pere dont on parle. Il ne va\npas donner ses tresors si facilement. C'est\npourquoi... je vais y aller aussi !"
+    },
+    "93077": {
+        "「いいですよね　国王様？\n　父は　なんというか……　たいへんな変わり者で\n　きっと　説得は　私にしかできません！": "C'est d'accord, n'est-ce pas, Roi-sama ? Mon\npere est, comment dire... un sacre original,\net je suis surement la seule a pouvoir le<br>convaincre !"
+    },
+    "93078": {
+        "「ご自分の立場を　わかっているのですか！？\n　道中　何者かに狙われでもしたら……": "Comprenez-vous votre position !? Si jamais\nquelqu'un vous attaquait en chemin..."
+    },
+    "93079": {
+        "「そのための　<pc>の護衛なんでしょう？ \n　ドルワームの英雄　<pc>に\n　ガタラまで同行してもらえば　大丈夫よ！": "Pour cela, nous avons la protection de\n<pc>, n'est-ce pas ? Avec l'heroique\n<pc> de Dolworm a nos cotes jusqu'a<br>Gatara, tout ira bien !"
+    },
+    "93080": {
+        "「……やむを得んだろう。\n　ただし！　現状で目立つのは　避けたい。\n　この任務は　少人数での隠密行動とする。": "On n'aura pas le choix. Cependant ! Il faut\neviter de se faire remarquer dans l'etat P.\nCette mission sera une operation secrete menee<br>par un petit groupe."
+    },
+    "93081": {
+        "「チリの養父のもとへ向かうのは\n　チリとドゥラ　そして<pc>のみじゃ。\n　それで　よいな？": "Chiri, Dura et <pc> se dirigeront vers\nle pere adoptif de Chiri. Cela te convient-il\n?"
+    },
+    "93082": {
+        "「ありがとうございます　国王様。\n　必ず　ガテリア式真空管を持ちかえってきます。": "Merci beaucoup, Votre Majeste. Je vous promets\nde ramener le Tube a Vide Gateria."
+    },
+    "93083": {
+        "「うう……　こんな時にボクだけ\n　何もできないなんて　申し訳ないけど……。\n　皆　くれぐれも　道中気をつけてね。": "Uu... Je suis desole de ne rien pouvoir faire\ndans un moment pareil... Tout le monde, soyez\nvraiment prudents sur le chemin."
+    },
+    "93084": {
+        "「それじゃ　よろしくね　<pc>！\n　<pc>が　先導してくれたら\n　私たちも　後を追いかけていくわ。": "Alors, comptons sur toi, <pc> ! Si tu\nnous guides, nous te suivrons."
+    },
+    "93085": {
+        "「３人で　お父さんのいる　岳都ガタラへ\n　向かいましょう！": "Allons ensemble a Mount Gatara, la ou se\ntrouve notre pere !"
+    },
+    "93086": {
+        "「あっ！　元ポツコン２号さんじゃないですか！\n　それに　チリさんまで！！\n　おひさしぶりです　チリさん……<heart>": "Ah ! Ne serait-ce pas l'ancien Junkey numero 2\n? Et Chiri-san aussi !! Ca fait longtemps,\nChiri-san... <heart>"
+    },
+    "93087": {
+        "「ひさしぶりだね　ポツコン。\n　お父さんはいる？": "Ca fait longtemps, Junkey. Ton pere est la ?"
+    },
+    "93088": {
+        "「はいっ！　あちらに。": "D'accord ! Par la-bas."
+    },
+    "93089": {
+        "「ダストンさま　ダストンさま～！\n　チリさんが　いらしてますよ。": "Duston-sama, Duston-sama~ ! Chiri-san est ici."
+    },
+    "93090": {
+        "「……チリ！？": "...Chiri !?"
+    },
+    "93091": {
+        "「むきゃーー！！　もきぃーーー！！\n　アンタってヤツは　まったく\n　あぎゃぎゃっな娘ですねッ！": "Mukyaaa !! Mokiii !! Tu es vraiment une fille\ncompletement agacante !"
+    },
+    "93092": {
+        "「ああ　ごめん　ごめん。\n　しばらく　顔も出さずにいて。": "Ah, desole, desole. Je n'ai pas montre mon\nvisage depuis un moment."
+    },
+    "93094": {
+        "「むきゃっ？": "Mukya?"
+    },
+    "93095": {
+        "「え？　今　なんて言いました……？\n　チリ……　王女……？": "Hein ? Qu'avez-vous dit... ? Chiri...\nPrincesse...?"
+    },
+    "93096": {
+        "「えええええええっ！？ \n　まさか　チリさんの本当の親って……\n　ドルワームの王様だったんですかぁ！？": "Eeeeeeh !? Ne me dites pas que les veritables\nparents de Chiri-san... etaient le roi de\nDolworm !?"
+    },
+    "93097": {
+        "「へー　アンタ　王女だったんですか。\n　王女なのに　捨てられちまうなんて\n　よっぽどの役立たずだったんですねえ。": "He, vous etiez une princesse, hein ? Etre\nabandonnee meme en tant que princesse, vous\ndeviez vraiment etre inutile."
+    },
+    "93098": {
+        "「チリさんと一緒にいる　身なりのキレイな\n　いかにも優秀そうな男……。\n　ま…まさか　チリさんは　恋人を紹介に……！？": "Chiri-san est accompagne d'un homme elegant et\ndistingue, qui a l'air tres competent... Ne me\ndites pas que Chiri-san est en train de nous<br>presenter son petit ami...！？"
+    },
+    "93099": {
+        "「はじめまして。ドルワーム王立研究院で \n　院長をつとめている　ドゥラと申します。\n　今日は　ダストン氏に用があって参りました。": "Enchante de faire votre connaissance. Je\nm'appelle Dura et je suis le directeur de\nl'Institut Royal de Recherche de Dolworm. Je<br>suis venu aujourd'hui pour voir M. Duston."
+    },
+    "93100": {
+        "「あぎゃばっ！　い…院長……？\n　わしは　そんな優秀そうなヤツは苦手ですよッ！": "Aghya ! D… Directeur… ? Je ne suis pas a\nl'aise avec des types qui semblent aussi\nbrillants !"
+    },
+    "93101": {
+        "「ごめんなさい。父に　悪気はないんです。\n　どうか　気を悪くしないでください。": "Je suis desole. Mon pere n'avait pas de\nmauvaises intentions. S'il vous plait, ne le\nprenez pas mal."
+    },
+    "93102": {
+        "「あのね　お父さん。今　アストルティア中の \n　王族が狙われるという事件が　発生してるの。\n　相手の正体や目的は　わからないんだけど……": "Dis, papa. En ce moment, il y a un incident ou\ntous les membres de la royaute d'Astoltia sont\npris pour cible. On ne connait pas l'identite<br>ou les intentions de l'assaillant, mais..."
+    },
+    "93103": {
+        "「ドゥラ院長は　私やラミザ王子がさらわれても\n　すぐに　居場所がわかっちゃう\n　すごい発信機を　作ってくれてるんだ。": "Le Directeur Dura a cree un incroyable\nemetteur qui permet de localiser immediatement\nl'endroit ou je suis, meme si le Prince Lamiza<br>ou moi-meme sommes enleves."
+    },
+    "93104": {
+        "「ただ……そのためには　ガテリア式真空管という\n　古代の部品が必要なんです。あなたが　それを\n　お持ちだと聞いて　協力いただけないかと。": "Cependant... pour cela, nous avons besoin\nd'une piece appelee Gateria Vacuum Tube de\nl'epoque Old. J'ai entendu dire que vous<br>l'avez en votre possession, et je me demandais\nsi vous pourriez nous aider."
+    },
+    "93105": {
+        "「ガテリア式真空管……？\n　そんなもの　知らねえですよッ？": "Tube a vide Gateria...? Je ne connais pas ca !"
+    },
+    "93106": {
+        "「ああ　ほら！　ダストンさま……！\n　前に　ここを訪れた考古学者が\n　すごく貴重だって　言ってた……": "Ah, regarde ! Duston-sama… ! Un erudit venu\nici auparavant a dit que c'etait\nincroyablement precieux…"
+    },
+    "93107": {
+        "「ああ！　そんなもの　もう　とっくに\n　カルデア洞穴の　ふかーい所に\n　捨てちまいましたよッ！": "Ah ! J'ai deja jete ca dans les profondeurs de\nla grotte de Chaldea !"
+    },
+    "93108": {
+        "「な…なんだって……！？\n　あんな貴重なものを……。": "Quoi... Qu'est-ce que tu dis... !? Un objet\naussi precieux..."
+    },
+    "93109": {
+        "「大丈夫！　あきらめるには　まだ早いわ！\n　私に　考えがあるの。": "Ne t'inquiete pas ! Il est encore trop tot\npour abandonner ! J'ai une idee."
+    },
+    "93110": {
+        "「ねえ　お父さん。\n　それを　捨てた場所まで行って\n　もう一度　ここに持ってきてくれないかな？": "He, papa. Peux-tu retourner a l'endroit ou tu\nl'as jete et le ramener ici une fois de plus ?"
+    },
+    "93111": {
+        "「な…なんで　わしが！ \n　そんなことするわけねえですよッ！\n　あんな貴重な物　もう見たくねえんですから！": "Pourquoi... pourquoi moi ! Je ne ferais jamais\nune chose pareille ! Je ne veux plus jamais\nrevoir un objet aussi precieux !"
+    },
+    "93112": {
+        "「じつは　私ね。お父さんが喜びそうなガラクタを\n　たくさん集めて　ドルワームに保管してるの。\n　やってくれるなら　それを好きなだけあげるわ！": "En fait, tu sais, j'ai rassemble plein de\nbabioles qui pourraient faire plaisir a mon\npere, et je les ai gardees a Dolwurm. Si tu<br>acceptes de m'aider, je te les donnerai autant\nque tu veux !"
+    },
+    "93113": {
+        "「ぐぬぬぬぬぬ……。": "Gu... nu... nu..."
+    },
+    "93114": {
+        "「決まり……　ねっ！": "C'est decide... hein !"
+    },
+    "93115": {
+        "「しょ　しょうがねえですねッ！\n　言っておきますが　ガラクタのためであって\n　アンタのためじゃねえんですからねッ！": "Bo... Bon, je n'ai pas vraiment le choix ! Je\nte previens, c'est pour les bric-a-brac, pas\npour toi, d'accord !"
+    },
+    "93116": {
+        "「うんうん　わかってる。\n　ありがとう　お父さん！": "Oui, oui, je comprends. Merci, Papa !"
+    },
+    "93117": {
+        "「そうと決まれば　ひとっ走り行ってくるですよ！\n　ここで　待ってやがるがいいですッ！": "Dans ce cas, je vais y aller d'un trait !\nAttendez-moi ici !"
+    },
+    "93118": {
+        "「とは言え……。あの　お父さんが寄り道せず \n　ちゃんと目的を果たせるか　心配だね。\n　私が　追いかけていきたいところだけど……": "Cela dit... Je suis un peu inquiete de savoir\nsi ce pere va vraiment atteindre son but sans\nse laisser distraire. J'aimerais bien le<br>suivre pour m'en assurer, mais..."
+    },
+    "93119": {
+        "「ねえ　<pc>。\n　私の代わりに　お父さんの後をついていって\n　様子を　見てきてくれないかな？": "He, <pc>. Peux-tu suivre mon pere a ma\nplace et voir ce qu'il fait ?"
+    },
+    "93120": {
+        "「チリ王女は　私が責任をもって守ります。\n　我々は　ここで待っていますので\n　そちらは　お願いしますね　<pc>さん。": "Chiri, la princesse, je la protegerai\npersonnellement. Nous attendons ici, alors\nnous comptons sur vous, <pc>-san."
+    },
+    "93121": {
+        "「お父さんが向かった　カルデア洞穴へは \n　ガタラを出て　北東に進むと　たどり着けるよ。\n　頼んだからね　<pc>！": "Mon pere est parti pour la grotte de Chaldea.\nPour y arriver, il suffit de sortir de Gatara\net de se diriger vers le nord-est. Je compte<br>sur toi, <pc> !"
+    },
+    "93122": {
+        "「ああっ　元ポツコン２号さん。\n　ダストンさまなら　カルデア洞穴へ\n　向かわれましたよ。": "Ah, M. Junkey n°2. M. Duston s'est dirige vers\nla grotte de Chaldea."
+    },
+    "93123": {
+        "「高性能発信機を　完成させるためには\n　ダストン氏に　ガテリア式真空管を\n　持ちかえっていただかねば　なりません。": "Pour achever le transmetteur haute\nperformance, il est indispensable que M.\nDuston rapporte le Gateria Vacuum Tube."
+    },
+    "93124": {
+        "「とは言え……あの　お父さんが寄り道せず \n　ちゃんと　目的を果たせるか心配ね。\n　私が　追いかけていきたいところだけど……。": "Cela dit... Je suis inquiete de savoir si ce\npere va reussir a atteindre son objectif sans\nse laisser distraire. J'aimerais bien le<br>suivre, mais..."
+    },
+    "93125": {
+        "「ねえ　<pc>。\n　私の代わりに　お父さんの後をついていって\n　様子を　見てきてくれないかな？": "He, <pc>. Peux-tu suivre mon pere a ma\nplace et voir ce qu'il fait ?"
+    },
+    "93126": {
+        "「お父さんが向かった　カルデア洞穴へは \n　ガタラを出て　北東に進むと　たどり着けるよ。\n　きっと　いちばん奥辺りにいるんじゃないかな？": "Pour atteindre la Chaldea Cave ou mon pere\ns'est dirige, quitte Gatalara et avance vers\nle nord-est. Je suis sur qu'il doit etre<br>quelque part tout au fond, non ?"
+    },
+    "93127": {
+        "「チリ王女は　私が責任をもって守ります。\n　我々は　ここで待っていますので\n　そちらは　お願いしますね　<pc>さん。": "Chiri, la princesse, je la protegerai\npersonnellement. Nous attendons ici, alors\nnous comptons sur vous, <pc>-san."
+    },
+    "93128": {
+        "「どうやら　お父さんも　あなたのことは\n　気に入ってるみたいだしね。\n　頼んだよ　<pc>！": "On dirait bien que mon pere t'apprecie aussi.\nJe compte sur toi, <pc> !"
+    },
+    "93129": {
+        "「たしか　この辺りから\n　ブン投げたんでしたっけ？": "Si je me souviens bien, c'est par ici que je\nl'ai lance, n'est-ce pas ?"
+    },
+    "93130": {
+        "「おお　みつけたですよッ！\n　あんなところに　引っかかってるなんて\n　なかなかの　わからずやでごぜえますなッ。": "Oh, je vous ai trouve ! Vous etiez coince\nla-bas, quelle tete de mule vous faites !"
+    },
+    "93131": {
+        "「おや　アンタも来たんですか？\n　こんな場所にまで　わざわざ来るなんて\n　よっぽどの　ヒマ人でいやがったんですねえ。": "Oh, vous etes venu aussi ? Venir expres dans\nun endroit pareil, vous devez vraiment etre\nquelqu'un de tres oisif."
+    },
+    "93132": {
+        "「まあ　そんなことはいいです。\n　せっかく　アンタも来たなら……": "Eh bien, peu importe. Puisque tu es venu\njusqu'ici..."
+    },
+    "93133": {
+        "「わしが　今から　あぎゃぎゃってするので\n　アンタは　そこに　ただボーッと\n　つっ立ってるが　いいですッ！": "Je vais maintenant faire quelque chose\nd'incroyable, alors toi, reste simplement\nplante la sans bouger !"
+    },
+    "93134": {
+        "「よっこらせっと。": "Hop la."
+    },
+    "93135": {
+        "「こ…こんな役に立つもの \n　わしは　持ちたくねえんですッ！\n　これは　アンタに　預けますよッ！": "Je... je ne veux pas posseder un objet aussi\nutile ! Je vais te le confier !"
+    },
+    "93136": {
+        "<pc>は\nガテリア式真空管（だいじなもの）を\n手に入れた！<me 60>": "<pc> a obtenu le Gateria Vacuum Tube\n(objet cle) ! <me 60>"
+    },
+    "93137": {
+        "「ぐぎゃぎゃぎゃッ！\n　これで　ドルワームのガラクタは\n　ぜーんぶ　わしのものですッ！": "Guhyahyahya ! Avec ca, toutes les babioles de\nDolworm sont a moi !"
+    },
+    "93138": {
+        "「そうと決まれば　こんな場所とは \n　一刻も早く　オサラバですよッ！": "Puisque c'est decide, depechons-nous de\nquitter cet endroit !"
+    },
+    "93139": {
+        "「おかえりなさい！\n　ダストンさま　元ポツコン２号さん。": "Bienvenue chez vous ! Dunston-sama,\nanciennement Junkey numero 2."
+    },
+    "93140": {
+        "「ガテリア式真空管　持ちかえってくれたんだね。\n　ありがとう！！": "Tu as rapporte le Gateria Vacuum Tube,\nn'est-ce pas ? Merci beaucoup !!"
+    },
+    "93141": {
+        "「ガラクタをくれるって約束…… \n　忘れてねえでしょうね？": "Tu n'as pas oublie ta promesse de me donner\ndes bricoles, n'est-ce pas ?"
+    },
+    "93142": {
+        "「うんうん　だいじょーぶだよっ！\n　抱えきれないほどの　ガラクタをあげるから\n　楽しみにしてて！": "Oui, oui, tout va bien ! Je vais te donner\ntellement de bric-a-brac que tu ne pourras pas\ntout porter. Alors, attends ca avec impatience<br>!"
+    },
+    "93143": {
+        "「せっかく　材料もそろったのですし\n　ここで　発信機を完成させましょう。\n　ガテリア式真空管を　こちらに。": "Maintenant que nous avons rassemble tous les\nmateriaux, terminons l'emetteur ici. Veuillez\nme donner le Gateria Vacuum Tube."
+    },
+    "93144": {
+        "<pc>は　ドゥラ院長に\nガテリア式真空管を　渡した！": "<pc> a remis le Tube a Vide Gateria au\nDirecteur Dura !"
+    },
+    "93145": {
+        "「すぐに　作業を開始できるよう\n　準備をしておいたんです。\n　完成まで　少々　お待ちください。": "J'ai pris soin de preparer tout pour pouvoir\ncommencer le travail immediatement. Veuillez\npatienter un peu jusqu'a ce que ce soit<br>termine."
+    },
+    "93146": {
+        "ドゥラ院長は　ガテリア式真空管を使って\nあっという間に　高性能発信機を　完成させた！": "Le directeur Dura a utilise le tube a vide\nGateria pour completer en un rien de temps un\nemetteur haute performance !"
+    },
+    "93147": {
+        "「これが　発信機……？\n　……きれい。": "C'est donc ca, l'emetteur... ? ... C'est\nmagnifique."
+    },
+    "93148": {
+        "「感度は　良好。動作も問題ありません。 \n　成功です！　\n　これを　国王とラミザ王子にも届けねば！": "La sensibilite est excellente. Le\nfonctionnement est egalement sans probleme.\nC'est un succes ! Il faut en informer le roi<br>et le prince Lamiza !"
+    },
+    "93149": {
+        "「我々は　ドルワームに戻ります。\n　お世話になりました。\n　こちらには　後日　必ず謝礼を届けさせます。": "Nous retournons a Dolworm. Merci pour votre\naide. Nous nous assurerons de vous envoyer une\nrecompense prochainement."
+    },
+    "93150": {
+        "「……届ける？　何言ってやがるんですか？ \n　わしも　ドルワームへ行きますよッ！": "…Livrer ? Mais qu'est-ce que vous racontez ?\nMoi aussi, je vais a Dolworm !"
+    },
+    "93151": {
+        "「えっ……？ \n　お父さん　本気で言ってるの……？": "Quoi... ? Papa, tu es serieux... ?"
+    },
+    "93152": {
+        "「本気に決まってますよッ！　チリやアンタらの\n　見つくろいなんて　信用できねえってんです！\n　ガラクタは　自分の目で選びますからねッ。": "Je suis absolument serieux ! Je ne peux pas\nfaire confiance a ce que Chiri et vous\nchoisissez ! Je vais choisir ces babioles<br>moi-meme, avec mes propres yeux !"
+    },
+    "93153": {
+        "「ポツコン！　わしが留守の間に　ガラクタが\n　盗まれたりしないよう　しっかりと\n　戸じまりしておくようにッ！　いいですね？": "Junkey ! Pendant mon absence, assure-toi que\nrien de mes babioles ne soit vole. Ferme bien\nla maison ! C'est compris ?"
+    },
+    "93154": {
+        "「は…はい～。\n　わかりました　ダストンさま！\n　気をつけて　いってらっしゃいませ。": "O... Oui~. Je comprends, Duston-sama ! Prenez\nsoin de vous et bon voyage."
+    },
+    "93155": {
+        "「……どうするんです　チリ王女？ \n　本当に　ダストン氏も\n　連れていくおつもりですか？": "Que decidez-vous, Princesse Chiri ?\nComptez-vous vraiment emmener Monsieur Duston\navec nous ?"
+    },
+    "93156": {
+        "「うーん。こうなった　お父さんを\n　説得するのは　骨が折れそうだし……。\n　まあ　しょうがないかな。": "Hmm. Convaincre papa dans cette situation\nsemble etre une tache difficile... Eh bien, je\nsuppose qu'il n'y a pas le choix."
+    },
+    "93157": {
+        "「わかりました。では　ドルワームへは\n　列車で　戻ることにしましょう。\n　じつは　特別便を手配しておきました。": "Je comprends. Alors, retournons a Dolworm par\nle train. En fait, j'ai deja organise un\nservice special."
+    },
+    "93158": {
+        "「<pc>さん。準備ができたら\n　ガタラの駅へ　向かってくれませんか？\n　そこに　特別便案内係のビノービがいます。": "<pc>-san. Une fois pret, pourrais-tu te\ndiriger vers la gare de Gatara ? La-bas, tu\ntrouveras Binobi, le responsable des services<br>speciaux."
+    },
+    "93159": {
+        "「我々も　すぐに後を追いますので\n　ビノービのもとで　合流しましょう。": "Nous vous suivrons rapidement, alors\nretrouvons-nous aupres de Binobi."
+    },
+    "93182": {
+        "「ドゥラ院長が作ってくれた　高性能発信機を\n　国王様とラミザ王子にも　届けるために\n　ドルワームに　戻りたいんだけど……": "J'aimerais retourner a Dolworm pour livrer le\ntransmetteur haute performance que le\nDirecteur Dura a fabrique au roi et au prince<br>Lamiza..."
+    },
+    "93183": {
+        "「ガラクタを　もらい受けるために \n　わしは　ドルワームへ出発するんですッ。\n　絶対　一緒に行ってやがりますからねッ！": "Je vais partir pour Dolworm pour recuperer les\nbabioles. Je vais absolument y aller avec vous\n!"
+    },
+    "93184": {
+        "「……というわけなので　お父さんも一緒に\n　ドルワームに　連れていくことにするね。": "...C'est pourquoi, j'ai decide d'emmener papa\navec moi a Dolworm."
+    },
+    "93185": {
+        "「わかりました。では　ドルワームへは\n　列車で　戻ることにしましょう。\n　じつは　特別便を手配しておきました。": "Je comprends. Alors, retournons a Dolworm par\nle train. En fait, j'ai deja organise un\nservice special."
+    },
+    "93186": {
+        "「<pc>さん。準備ができたら\n　ガタラの駅へ　向かってくれませんか？\n　そこに　特別便案内係のビノービがいます。": "<pc>-san. Une fois pret, pourrais-tu te\ndiriger vers la gare de Gatara ? La-bas, tu\ntrouveras Binobi, le responsable des services<br>speciaux."
+    },
+    "93187": {
+        "「我々も　すぐに後を追いますので\n　ビノービのもとで　合流しましょう。": "Nous vous suivrons rapidement, alors\nretrouvons-nous aupres de Binobi."
+    },
+    "93188": {
+        "「あっ　<pc>！\n　よかった。戻ってきてくれたんだね。": "Ah, <pc> ! Je suis content. Tu es\nrevenu."
+    },
+    "93189": {
+        "「ドゥラ院長が作ってくれた　高性能発信機を\n　国王様とラミザ王子にも　届けるために\n　ドルワームに　戻りたいんだけど……": "J'aimerais retourner a Dolworm pour livrer le\ntransmetteur haute performance que le\nDirecteur Dura a fabrique au roi et au prince<br>Lamiza..."
+    },
+    "93190": {
+        "「あーんなヤツに　やられちまうなんて\n　<pc>　アンタは\n　リッパな　ポンコツですよ！": "Ah, se faire avoir par un type comme ca...\n<pc>, tu es vraiment un sacre bon a rien\n!"
+    },
+    "93191": {
+        "「とは言え　わしは　ガラクタをもらいに行くのを\n　あきらめたわけじゃねえですよ。\n　絶対　一緒に行ってやがりますからねッ！": "Cela dit, je n'ai pas abandonne l'idee d'aller\nchercher ces babioles. Je viendrai avec vous,\nc'est sur !"
+    },
+    "93192": {
+        "「……と言ってるので　お父さんも一緒に\n　ドルワームに　連れていくことにするね。": "…Alors, comme je l'ai dit, je vais emmener\npapa avec moi a Dolworm."
+    },
+    "93193": {
+        "「わかりました。では　ドルワームへは\n　列車で　戻ることにしましょう。\n　同じように　特別便を手配しておきました。": "Je comprends. Dans ce cas, retournons a\nDolworm en train. J'ai pris des dispositions\npour un service special similaire."
+    },
+    "93194": {
+        "「また　列車を使って大丈夫かな。\n　もし　また襲われたりしたらって考えると\n　別ルートでの移動を　考えるべきなんじゃ……？": "Est-ce vraiment sur d'utiliser le train a\nnouveau ? Quand je pense qu'on pourrait se\nfaire attaquer encore, ne devrions-nous pas<br>envisager un autre itineraire pour nous\ndeplacer...？"
+    },
+    "93195": {
+        "「いや　大丈夫でしょう。敵も\n　我々が同じルートを使うとは　思いますまい。\n　このまま　列車を使うべきです。": "Non, ca devrait aller. L'ennemi ne s'attendra\npas a ce que nous utilisions le meme\nitineraire. Nous devrions continuer a utiliser<br>le train."
+    },
+    "93196": {
+        "「わかったわ！\n　それじゃ　ドルワームへは\n　ドゥラ院長が　手配してくれた列車で行こう。": "Compris ! Alors, allons a Dolworm avec le\ntrain que le Directeur Dura a organise pour\nnous."
+    },
+    "93197": {
+        "「<pc>さん。準備ができたら\n　ガタラの駅へ　向かってくれませんか？\n　そこに　特別便案内係のビノービがいます。": "<pc>-san. Une fois pret, pourrais-tu te\ndiriger vers la gare de Gatara ? La-bas, tu\ntrouveras Binobi, le responsable des services<br>speciaux."
+    },
+    "93198": {
+        "「我々も　すぐに後を追いますので\n　ビノービのもとで　合流しましょう。": "Nous vous suivrons rapidement, alors\nretrouvons-nous aupres de Binobi."
+    },
+    "93199": {
+        "「こちらが　特別便の列車です。\n　どうぞ　中へ　お入りください！": "Voici le train special. Veuillez entrer, je\nvous en prie !"
+    },
+    "93200": {
+        "「<cs_pchero>さん　すみません。\n　少々　お待たせしてしまいましたね。": "<cs_pchero> san, je suis desole. Je vous ai\nfait attendre un petit moment."
+    },
+    "93201": {
+        "「さあ　私たちも　乗り込みましょう。": "Allons-y, montons a bord."
+    },
+    "93202": {
+        "「ムキーッ　モキーッ！\n　まだ　ドルワームには着かねえんですかッ？": "Mukii! Mokii! On n'est toujours pas arrives a\nDolworm ?!"
+    },
+    "93203": {
+        "「……お父さんってば\n　そんな　あせらなくたって\n　ガラクタは　逃げたりしないよ。": "...Papa, pas besoin de te presser comme ca.\nLes babioles ne vont pas s'enfuir."
+    },
+    "93204": {
+        "「これから　ドルワームのガラクタを\n　もらい受けることを考えると　ワクワクして\n　だまってなんか　いられねえですよッ！": "Je suis tellement excite a l'idee de recevoir\nles babioles de Doruwaamu que je ne peux pas\nrester silencieux !"
+    },
+    "93205": {
+        "「ふふっ。 \n　お父さんってば……。": "Fufu. Papa..."
+    },
+    "93206": {
+        "「何者だっ！？": "Qui va la ?!"
+    },
+    "93207": {
+        "「貴様っ！　\n　さては　アストルティア中の王族を狙うという\n　不届き者だなっ！？": "Toi ! Ne serais-tu pas cet insolent qui vise a\ns'en prendre a tous les membres de la royaute\nd'Astoltia !?"
+    },
+    "93208": {
+        "「……どうやら　この中にいるのは\n　間違いないようだな。": "......Il semble bien que ce soit ici que ca se\npasse."
+    },
+    "93209": {
+        "「……くっ。私は　王女を守りますので\n　<cs_pchero>さんは　ヤツの相手を\n　お願いします！！": "... Tch. Je vais proteger la princesse, alors\n<cs_pchero> san, je vous en prie, occupez-vous\nde cet individu !!"
+    },
+    "93210": {
+        "「ん……？\n　お前は　たしか……\n　ヴェリナードでも……？": "Hmm... ? Toi, tu es bien... a Velinard\naussi... ?"
+    },
+    "93211": {
+        "「まあ　いい……。\n　任務遂行のジャマをする者は　排除するのみ。": "Tres bien... Ceux qui entravent\nl'accomplissement de ma mission seront\nsimplement elimines."
+    },
+    "93212": {
+        "「ムキーッ　モキーッ！\n　まだ　ドルワームに着いてねえなんて\n　信じられねえですッ！": "Mukii, mokii ! Je ne peux pas croire que nous\nne soyons pas encore arrives a Dolworm !"
+    },
+    "93213": {
+        "「うん……。今度こそ　無事に\n　ドルワームまで　戻れるといいんだけど……。": "Oui... J'espere que cette fois, nous pourrons\nretourner a Dolworm sans encombre..."
+    },
+    "93214": {
+        "「なんだってっ！？": "Quoi !?"
+    },
+    "93215": {
+        "「またも　この列車を狙ってくるなんてっ！\n　次も　同じルートで来ると予測したのか！？": "Encore une attaque contre ce train ! Ont-ils\nprevu que nous emprunterions a nouveau le meme\nitineraire ?"
+    },
+    "93216": {
+        "「……やはり　この中にいるのは\n　間違いないようだな。": "…Il semble que nous ne nous trompons pas, il\nest bien ici."
+    },
+    "93217": {
+        "「……くっ。私は　王女を守りますので\n　<cs_pchero>さんは　ヤツの相手を\n　お願いします！！": "... Tch. Je vais proteger la princesse, alors\n<cs_pchero> san, je vous en prie, occupez-vous\nde cet individu !!"
+    },
+    "93218": {
+        "「任務遂行のジャマをする者は \n　何者であれ　排除するのみ。": "Quiconque entrave l'execution de la mission\nsera elimine, quel qu'il soit."
+    },
+    "93219": {
+        "「チッ。 \n　だが……　狙いさえ果たせれば……。": "Tch. Cependant... tant que j'atteins mon\nobjectif..."
+    },
+    "93220": {
+        "「この男ではなかったか……。\n　ならば……！": "Ce n'etait pas cet homme-la... Alors... !"
+    },
+    "93221": {
+        "「……お前か。\n　一緒に来てもらおう。": "...C'est toi. Viens avec moi."
+    },
+    "93222": {
+        "「な…なにするですかッ！？": "Qu... que faites-vous !?"
+    },
+    "93223": {
+        "「ジャマだ！": "C'est genant !"
+    },
+    "93224": {
+        "「ううっ……。": "<heroine> : Ughh..."
+    },
+    "93225": {
+        "「ま…待てっ……！": "Attends... !"
+    },
+    "93226": {
+        "「……くっ。間もなく　ドルワームです。\n　駅で列車を降りたら　すぐ\n　発信機の場所を　確認しましょう。": "... Pff. Nous arrivons bientot a Dolworm. Une\nfois descendus du train a la gare, verifions\nimmediatement l'emplacement du transmetteur."
+    },
+    "93227": {
+        "「あいつ……！\n　ムキーッ　ムカーッ　ですよッ！！": "Cet idiot... ! Je suis furieux, vraiment\nfurieux !!"
+    },
+    "93228": {
+        "「ここは　ダラズ採掘場のダラリア砂岩遺跡です。\n　この場所は　最近になって調査が進み\n　中に　入れるようになったそうですが……": "Ici, ce sont les Ruines de Daleria Sandstone\ndans la Carriere de Daraz. Il parait que des\nrecherches ont recemment permis d'entrer a<br>l'interieur, mais..."
+    },
+    "93229": {
+        "「なるほど。確かに　ここなら　ひと気もない。\n　身を隠すには　うってつけというわけか。": "Je vois. C'est vrai qu'ici, il n'y a personne.\nC'est l'endroit ideal pour se cacher."
+    },
+    "93230": {
+        "「……を　モキィーして　ムキャーするなんてッ！ \n　許せねえですッ！\n　わしは　ダラリア砂岩遺跡に行ってくるですッ！": "...faire 'Mokii' et ensuite 'Mukyaa', c'est\nimpardonnable ! Je ne peux pas le tolerer ! Je\nvais me rendre aux ruines de Daleria Sandstone<br>!"
+    },
+    "93231": {
+        "「我々も　チリ王女を救うため\n　ダラリア砂岩遺跡に向かいましょう。": "Allons aussi aux Ruines de Daleria Sandstone\npour sauver la princesse Chiri."
+    },
+    "93232": {
+        "「私は　兵を率いて　追いかけます。\n　<cs_pchero>さんは　ダストン氏の後を追って\n　先に　向かっていてくれませんか？": "Je vais mener mes troupes a la poursuite.\n<cs_pchero> san, pourriez-vous suivre M.\nDuston et avancer en avant ?"
+    },
+    "93233": {
+        "「ダラリア砂岩遺跡は　カルデア山道から\n　ダラズ採掘場に入ると　その西部にあります。\n　頼みましたよ　<cs_pchero>さん！": "Les Ruines de Daleria Sandstone se trouvent a\nl'ouest en entrant dans la carriere de Daraz\ndepuis la route de montagne de Chaldea. Je<br>compte sur vous, <cs_pchero> san !"
+    },
+    "93234": {
+        "「<pc>さん。お待ちしておりましたよ。\n　さあ　どうぞ　こちらへ。\n　ウラード国王からの　お言葉があるそうです。": "<pc>-san. Nous vous attendions. Allez-y,\npar ici. Il semble que le roi Woolard ait un\nmessage pour vous."
+    },
+    "93235": {
+        "「我がドルワームの恩人　<pc>よ。\n　チリを救ってくれたこと　心から礼を言う。\n　そなたには　何度　感謝しても足りぬようじゃ。": "O <pc>, bienfaiteur de notre Dolworm. Je\nte remercie du fond du coeur pour avoir sauve\nChiri. Je ne saurai jamais assez te remercier."
+    },
+    "93236": {
+        "「本当に　ありがとう　<pc>！\n　また　助けられちゃったね。": "Merci beaucoup, <pc> ! Tu m'as encore\nsauve."
+    },
+    "93237": {
+        "「賊が　狙っていた人物は　チリではなく\n　チリの養父ダストン氏であったことも　聞いた。\n　話を聞いた時は　おどろいたが……": "J'ai egalement appris que la cible des bandits\nn'etait pas Chiri, mais son pere adoptif, M.\nDuston. J'etais surpris en entendant cela,<br>mais..."
+    },
+    "93238": {
+        "「ダストン氏には　厳重な警護をつけておる。\n　ご本人には　不満もあるようだが…… \n　後ほど　面会していってくれ。": "Nous avons mis en place une protection stricte\npour M. Duston. Il semble qu'il soit un peu\nmecontent de cela... Rendez-lui visite plus<br>tard, s'il vous plait."
+    },
+    "93239": {
+        "「お父さんは　自分が　重要人物扱いされることに\n　ショックを受けてるみたいだけど……\n　無事だから　心配しないでね。": "Papa semble etre choque d'etre traite comme\nune personne importante... Mais ne t'inquiete\npas, il est sain et sauf."
+    },
+    "93240": {
+        "「それから……\n　ドゥラが考案した　高性能発信機で\n　その後の敵の足取りも　つかめたようじゃ。": "Ensuite... Grace a l'emetteur haute\nperformance concu par Dura, il semble que nous\nayons pu suivre les mouvements ulterieurs de<br>l'ennemi."
+    },
+    "93241": {
+        "「ウラード国王。\n　それは　私から　お話ししましょう。": "King Woolard. Permettez-moi de vous en parler."
+    },
+    "93242": {
+        "「チリ王女が　誘拐犯に投げつけた発信機は\n　現在　エルトナ大陸の\n　世界樹の丘にあることを　確認しました。": "La balise de localisation que la princesse\nChiri a lancee sur le ravisseur a ete\nconfirmee comme etant a Yggdrahill, sur le<br>continent d'Eltona."
+    },
+    "93243": {
+        "「発信機の動向を見る限り　すぐに\n　ドルワームに戻ってくることは　なさそうです。\n　ひとまず　大丈夫でしょう。とは言え……": "D'apres les mouvements de l'emetteur, il\nsemble qu'il ne reviendra pas a Dolworm de\nsitot. Pour l'instant, ca devrait aller. Cela<br>dit..."
+    },
+    "93244": {
+        "「ヤツが危険なことに　変わりありません。\n　誘拐犯の狙いは　王族では　ないようですが\n　諸王国に　この件を知らせておきます。": "Il n'en reste pas moins dangereux. Il semble\nque le ravisseur ne vise pas la royaute, mais\nje vais informer tous les royaumes de cette<br>affaire."
+    },
+    "93245": {
+        "「<pc>は　このまま　誘拐犯の後を\n　追うんだよね？　誘拐犯をつかまえて\n　この事件を　解決するの　応援してるからね！": "<pc>, tu vas continuer a suivre les\nravisseurs, n'est-ce pas ? Attrape-les et\nresous cette affaire. Je te soutiens !"
+    },
+    "93246": {
+        "「チリや　ドルワームを救ってくださった\n　<pc>さんなら　きっと\n　成しとげてくださると信じています！": "Chiri et <pc>-san, qui avez sauve\nDolworm, je suis sur que vous reussirez !"
+    },
+    "93247": {
+        "「何か　助けが必要な時は　いつでも\n　このドルワームを　頼るがよい。\n　そなたのためなら　協力は惜しまん。": "Si tu as besoin d'aide, n'hesite jamais a te\ntourner vers Dolworm. Nous ne menagerons aucun\neffort pour te venir en aide."
+    },
+    "93248": {
+        "「それから……　ささやかじゃが\n　これは　わが娘を　危機から\n　救ってくれたほうびじゃ。受け取るがよい！": "Et ensuite... Ce n'est pas grand-chose, mais\nvoici une recompense pour avoir sauve ma fille\ndu danger. Accepte-la !"
+    },
+    "93252": {
+        "「一刻も早く　賊がつかまり\n　アストルティアの未来に　明るい太陽の光が\n　降りそそがんことを！": "Qu'ils capturent les bandits au plus vite, et\nque la lumiere eclatante du soleil brille sur\nl'avenir d'Astoltia !"
+    },
+    "93253": {
+        "「……反応しない？ \n　どういうことだ……？": "......Il ne reagit pas ? Que se\npasse-t-il......？"
+    },
+    "93254": {
+        "「列車の中で　この女に反応していたのは \n　間違いないはず……。\n　なぜ　急に反応しなくなった……？": "Dans le train, il ne fait aucun doute que\ncette femme a suscite une reaction... Pourquoi\na-t-elle soudainement cesse de reagir...?"
+    },
+    "93255": {
+        "「誰だっ！？": "Qui va la !?"
+    },
+    "93256": {
+        "「ぜーっ　ぜーっ……！ \n　モキィーして　ムキャーするなんてッ\n　許せねえですッ！！": "Ha... ha... ! Je ne peux pas pardonner de\nfaire mokii et mukyaa !!"
+    },
+    "93257": {
+        "「そいつは　とーっても\n　役に立たねえ娘なんですッ！\n　だから　返してもらいに来たですよッ！！": "Elle est vraiment une fille qui ne sert a rien\n! C'est pour ca que je suis venu la recuperer\n!"
+    },
+    "93258": {
+        "「何を　わけのわからぬことを……。": "Que racontes-tu d'incomprehensible..."
+    },
+    "93259": {
+        "「ん……？ \n　なぜ　急に反応しだした……？": "Hum...? Pourquoi reagit-il soudainement...?"
+    },
+    "93260": {
+        "「まだ　これからだというのに　不調か……。 \n　……このクズが！！": "Ce n'est que le debut et tu es deja a la\ntraine... ...Espece de minable !!"
+    },
+    "93261": {
+        "「……クズ！？": "...Ordure !?"
+    },
+    "93262": {
+        "「そのヘビは　ポンコツなんですね。\n　ポンコツヘビを　わしにも見せてくだせえ。\n　チリと一緒に　連れかえってやりますよッ！": "Ce serpent est vraiment un bon a rien,\nn'est-ce pas ? Montrez-moi donc ce serpent bon\na rien. Je vais le ramener avec Chiri et<br>l'empaler avec ma lance !"
+    },
+    "93263": {
+        "「や…やめろ……！": "Ar... Arrete...!"
+    },
+    "93264": {
+        "「そうか……　そうだったのか。\n　……お前こそが　器だったのだな！！": "Je vois... C'etait donc ca. ...C'est toi qui\netais le receptacle !!"
+    },
+    "93265": {
+        "「器は　いただいていく！": "Laissez-moi prendre le recipient !"
+    },
+    "93268": {
+        "「……一緒に来い。": "...... Viens avec moi."
+    },
+    "93269": {
+        "「ムキィーッ！　モキャーッ！！": "Mu-Kiii ! Mo-Kyaa !!"
+    },
+    "93270": {
+        "「……何度　むらがってこようと\n　コバエには　何もできはしない。\n　器は　いただいていく！": "Peu importe combien de fois vous vous\nregroupez, vous, petits insectes, ne pouvez\nrien faire. Je prends ce recipient !"
+    },
+    "93271": {
+        "「……ほう。\n　黄牛鬼までも　討ちやぶったか……。": "…Oh. Tu as meme reussi a terrasser le demon du\nBuffle Jaune…"
+    },
+    "93272": {
+        "「<cs_pchero>さん！　お待たせしました！！": "<cs_pchero> san ! Merci d'avoir patiente !!"
+    },
+    "93273": {
+        "「……チッ　面倒だな。": "... Tch, c'est vraiment ennuyeux."
+    },
+    "93274": {
+        "「チリ王女！！\n　おケガは　ありませんかっ！？": "Princesse Chiri !! Vous n'etes pas blessee !?"
+    },
+    "93275": {
+        "「うん　大丈夫だよ。\n　少しの間　気を失ってただけ。": "Oui, ca va. Je suis juste reste inconscient un\nmoment."
+    },
+    "93276": {
+        "「本当は　途中から目が覚めていたんだけど……\n　何か　誘拐犯の情報をつかめないかと思って\n　気絶したフリを　続けていたの。": "En realite, je me suis reveillee en cours de\nroute... Mais j'ai continue a faire semblant\nd'etre inconsciente, pensant que je pourrais<br>obtenir des informations sur les ravisseurs."
+    },
+    "93277": {
+        "「でも　ダメ。\n　さすがに　シッポをつかませるような情報は\n　得られなかったわ……。": "Mais non. Apres tout, je n'ai pas pu obtenir\nd'informations qui nous donneraient un\navantage..."
+    },
+    "93278": {
+        "「それで　とっさに　発信機を投げつけることを \n　思いついたんだけど\n　なんとか　うまくいって　よかったわ！": "Alors, j'ai pense a jeter l'emetteur sur le\ncoup, et heureusement, ca a bien fonctionne !"
+    },
+    "93279": {
+        "「なるほど。急に　チリ王女が\n　起き上がった時は　おどろきましたが……\n　これで　ヤツの足取りを追うことができます！": "D'accord. Quand la princesse Chiri s'est\nsoudainement levee, cela m'a surpris, mais...\nMaintenant, nous pouvons suivre ses traces !"
+    },
+    "93280": {
+        "「フン！\n　わしは　アンタのこと\n　そんな優秀に育てた覚えは　ねえですよッ！": "Humph ! Je ne me souviens pas vous avoir eleve\npour etre aussi brillant !"
+    },
+    "93281": {
+        "「それに比べて　アンタってヤツは…… \n　元ポツコン２号が　ぜーんぶ片付けちまった後に\n　のこのこ　兵を率いてやってくるなんて……": "Et toi, franchement... Tu arrives avec tes\nsoldats apres que l'ancienne Junkey numero 2\nait tout regle..."
+    },
+    "93282": {
+        "「どんな優秀なヤツかと　思ってましたが \n　アンタも　院長とは名ばかりの\n　リッパなポンコツだったんですねえ！": "Je me demandais a quel point tu etais\ntalentueux, mais il semble que toi aussi, tu\nn'es qu'un directeur de facade, un vrai bon a<br>rien !"
+    },
+    "93283": {
+        "「なん……！？ \n　わ…私が　ポン…コツ……？": "Quoi...!? Je... je suis une...\nincompetente...?"
+    },
+    "93284": {
+        "「ま　まあ。それは　ともかく…… \n　誘拐犯の　足取りのほかに\n　もうひとつ　わかったことがあるわ！": "Eh bien, bon. Quoi qu'il en soit... En plus\ndes traces laissees par le kidnappeur, j'ai\ndecouvert autre chose !"
+    },
+    "93285": {
+        "「それは……　敵の狙いは \n　私ではなく　お父さんだったということ。\n　誘拐犯は　王族を狙っているわけではない……？": "Cela signifie que... la cible de l'ennemi\nn'etait pas moi, mais mon pere. Les ravisseurs\nne visent pas la famille royale... ?"
+    },
+    "93286": {
+        "「もう！　ドゥラ院長ったら！\n　いつまで　ショックを受けてるの！？\n　このことを　国王様に急いで知らせましょう。": "Oh la la ! Directeur Dura ! Combien de temps\nallez-vous rester sous le choc !?\nDepechons-nous d'informer Sa Majeste le roi de<br>cette situation."
+    },
+    "93287": {
+        "「……ハッ！？　そうですね。": "...Ah !? Oui, c'est vrai."
+    },
+    "93288": {
+        "「今　この場で　もっとも重要と思われる人物……": "En ce moment, la personne qui semble la plus\nimportante ici..."
+    },
+    "93289": {
+        "「……へ？　へ？": "...Hein ? Hein ?"
+    },
+    "93290": {
+        "「ダストン氏を　厳重に保護せよ！": "Protegez M. Duston avec la plus grande\nvigilance !"
+    },
+    "93291": {
+        "「や…やめてくだせぇ～ッ……！": "A... arretez, je vous en prie... !"
+    },
+    "93292": {
+        "「我々は　いったん　ドルワームに戻ります。 \n　<cs_pchero>さんも　来てください。\n　国王と共に　今後の検討をしたいと思います。": "Nous allons retourner a Dolworm pour le\nmoment. <cs_pchero> san, veuillez nous\naccompagner. Nous aimerions discuter de<br>l'avenir avec le roi."
+    },
+    "93293": {
+        "「それじゃ　<cs_pchero>！ \n　ドルワーム水晶宮の玉座の間に　すぐ来てね。": "Alors, <cs_pchero> ! Rends-toi immediatement\ndans la salle du trone du Palais de Cristal de\nDolworm."
+    },
+    "93294": {
+        "「ムキャーッ！　モキィーッ！！\n　今すぐ！　わしを！　ここから出すですッ！！": "Muahh ! Mokii ! Liberez-moi immediatement !\nSortez-moi d'ici !"
+    },
+    "93295": {
+        "「ぜーっ　ぜーっ……。": "Ze... Ze..."
+    },
+    "93296": {
+        "「いいかげん　あきらめて\n　おとなしくしてください。": "Il est temps d'abandonner et de vous rendre\ntranquillement."
+    },
+    "93297": {
+        "「敵の目的は　わかりませんが\n　今のあなたは　重要人物として狙われる身。\n　少しは　自覚を持っていただかないと困ります。": "L'objectif de l'ennemi est inconnu, mais\nactuellement, vous etes une personne de grande\nimportance et donc une cible potentielle. Il<br>est essentiel que vous en preniez conscience."
+    },
+    "93298": {
+        "「ひ…ひいいいい……。\n　じゅ　重要とか　言わねえでくだせえッ……！！\n　わしは　そんな役立ちそうなものゴメンですッ！": "H... hiii... Ne dites pas que c'est\nimportant... !! Je ne veux pas de quelque\nchose d'aussi utile !"
+    },
+    "93299": {
+        "「はあ…………。 \n　何度聞いても　あなたの価値観には　\n　おどろきを　禁じえませんよ……。": "Haa... Peu importe combien de fois je\nl'entends, je ne peux m'empecher d'etre\nsurpris par ta vision des choses..."
+    },
+    "93300": {
+        "「ムキャーッ！　モキィーッ！！": "Muuaaah ! Mokiii !"
+    },
+    "93301": {
+        "「<pc>　来てくれて　ありがとう。\n　さわがしくて　ごめんね？\n　お父さんは　ご覧の通りで……。": "<pc>, merci d'etre venu. Desole pour\ntout ce bruit. Mon pere est dans cet etat,\ncomme tu peux le voir..."
+    },
+    "93302": {
+        "「でも　お父さんが　落ち着くまでは \n　しばらく　私も　ここにいるつもりだし\n　心配しないで　あなたの目的を追って。": "Mais jusqu'a ce que Papa se calme, je compte\nrester ici un moment. Ne t'inquiete pas et\npoursuis ton objectif."
+    },
+    "93303": {
+        "「私が　誘拐犯に投げた発信機は\n　エルトナ大陸の世界樹の丘に　あるそうね。\n　この事件が早く解決することを　願ってるわ！": "Il semble que l'emetteur que j'ai lance sur le\nravisseur se trouve sur le continent d'Eltona,\na Yggdrahill. J'espere que cette affaire sera<br>resolue rapidement !"
+    },
+    "93304": {
+        "「ムキャーッ！　モキィーッ！！\n　もう！　わしは！　こんな生活イヤなんですッ！": "Mukyyaa! Mokii! C'en est trop ! Moi, je n'en\npeux plus de cette vie !"
+    },
+    "93305": {
+        "「ぜーっ　ぜーっ……。": "Ze... Ze..."
+    },
+    "93306": {
+        "「あなたも　こりないですね……。\n　いいかげんに　してください……。": "Vous ne vous laissez jamais abattre, n'est-ce\npas... Veuillez arreter maintenant, je vous\nprie..."
+    },
+    "93307": {
+        "「多少の不自由があるとは言え \n　これだけ　丁重に　もてなされ……\n　いったい　なんの不満があると言うのですか？": "Malgre quelques inconvenients, vous etes\ntraite avec tant de courtoisie... Qu'est-ce\nqui vous mecontente donc ?"
+    },
+    "93308": {
+        "「ひ…ひいいいい……。\n　て　丁重とか　言わねえでくだせえッ……！！\n　わしは　そんな扱いされるのはゴメンですッ！": "Hi... hiiiiii... Ne parlez pas de respect ou\nquoi que ce soit, je vous en prie... !! Je ne\nveux pas etre traite de cette maniere !"
+    },
+    "93309": {
+        "「とにかく……　もう二度と　ドルボードを使って \n　逃げ出そうとなんて　しないでください。\n　いいですねっ！？": "Quoi qu'il en soit... Ne tentez plus jamais de\nvous echapper en utilisant le Dolboard.\nD'accord ?!"
+    },
+    "93310": {
+        "「ムキャーッ！　モキィーッ！！": "Muuaaah ! Mokiii !"
+    },
+    "93311": {
+        "「ああっ　<pc>。来てくれたんだ。\n　さわがしくて　ごめんね？\n　お父さんは　相変わらずで……。": "Ah, <pc>. Tu es venu. Desole pour tout\nce vacarme. Mon pere est toujours aussi...\nfidele a lui-meme."
+    },
+    "93312": {
+        "「早く　事件が解決して\n　お父さんが　自由になれるといいんだけど……。": "J'espere que l'affaire sera resolue rapidement\net que papa pourra retrouver sa liberte..."
+    },
+    "93313": {
+        "「<pc>は　今も事件を追ってるんだよね？\n　<pc>が　事件を解決して\n　この世界に平穏が戻ることを　願ってるわ！": "<pc> est toujours sur l'affaire,\nn'est-ce pas ? Je souhaite qu'il resolve\nl'affaire et que la paix revienne dans ce<br>monde !"
+    },
+    "103851": {
+        "「私としたことが　取り乱すとは　とんだ失礼を。\n　では　気を取り直して……　コホン。": "Moi, me laisser aller ainsi, quelle\nimpolitesse. Bon, reprenons... Hum hum."
+    },
+    "116709": {
+        "「し…信じられないな。\n　この人が　チリ王女の育ての親だと言うのか！？": "Je... Je n'arrive pas a y croire. Cette\npersonne serait donc le parent adoptif de la\nprincesse Chiri !?"
+    },
+    "116710": {
+        "「ぐ…ぷぷぷぷぷ……。": "Guh... pouf pouf pouf pouf..."
+    },
+    "116711": {
+        "「……なんだと！？": "...Quoi !?"
+    },
+    "117870": {
+        "「これで　貴様には　何もできまい。": "Avec ca, tu ne pourras plus rien faire."
+    },
+    "117871": {
+        "「また　貴様か。\n　わずらわしい　コバエのような奴め！！": "Encore toi. Tu es aussi agacant qu'une mouche\n!"
+    },
+    "119099": {
+        "<pc>は　チリたちと共に\nダストンが　警護されているという\nドルワーム王立研究院の院長室に　向かった。": "<pc> se dirigea avec Chiri et les autres\nvers le bureau du directeur de l'Institut\nroyal de recherche de Dolworm, ou Duston etait<br>cense etre garde."
+    }
+}
