@@ -1,0 +1,164 @@
+{
+    "127423": {
+        "「あの子……　もしかして　ラピスさん……？": "Cette fille... Serait-ce Lapis-san...?"
+    },
+    "127424": {
+        "「まさか　ずっと　封印の中で\n　魔物と戦っていたのか！？": "Tu veux dire que tu as combattu des monstres\ntout ce temps, enferme dans le sceau !?"
+    },
+    "127425": {
+        "「早く　助けよう　<pc>っ。": "Depechons-nous de sauver <pc>."
+    },
+    "127426": {
+        "「その必要は　なさそうだぜ。": "Je ne pense pas que ce soit necessaire."
+    },
+    "127427": {
+        "「あなたたち……　誰……？": "Vous... qui etes-vous... ?"
+    },
+    "127428": {
+        "「えっ……！？": "Quoi...!?"
+    },
+    "127429": {
+        "「…………ダメ。": "...........Non."
+    },
+    "127430": {
+        "「ぱたぱた。ボク　悪いドラキーじゃないよう。": "Patapata. Je ne suis pas un mechant Dracky, tu\nsais."
+    },
+    "127431": {
+        "「なーんていう　ジョーダンは　さておき……\n　わしは　メルジオル。\n　こやつ……　ラピスの　使い魔のドラキーじゃ。": "Treve de plaisanteries... Je suis Merjol. Et\nvoici... le Dracky, le Familier de Lapis."
+    },
+    "127432": {
+        "「そ…そうとは知らず\n　私ったら……　ごめんなさい！": "Je... Je ne le savais pas. Je suis desolee !"
+    },
+    "127433": {
+        "「ほっほっ。こーんな　善良なドラキーに\n　弓を向けるとは　とんだ　はやとちり娘じゃの。\n　まぁ　よい。許すぞい。": "Ho ho ho. Diriger un arc vers un Dracky aussi\nbienveillant, quelle precipitation de votre\npart, jeune demoiselle. Enfin, ce n'est pas<br>grave. Je vous pardonne."
+    },
+    "127434": {
+        "「ところで　そなたらは　何者じゃ？\n　ここに　わしら以外の者が　やってくるとは\n　まさか　そなたらも　封印に…………？": "D'ailleurs, qui etes-vous donc ? Que d'autres\npersonnes que nous arrivent ici, serait-ce\npossible que vous soyez aussi lies au sceau...<br>?"
+    },
+    "127435": {
+        "「僕たちはフウキ……封印危機対策委員会と言って\n　この　<pc>をリーダーに\n　学園内の封印を　解いてまわっているんです。": "Nous sommes les Fukui... le Comite de\nContre-Mesures des Crises de Sceaux, et avec\n<pc> en tant que leader, nous parcourons<br>l'academie pour lever les sceaux."
+    },
+    "127436": {
+        "「ほう。封印を解くために　やってきたという\n　そなたらの話……　ウソではなさそうじゃな。\n　ちっとは骨のありそうなヤツが　出てきおった。": "Oh. Vous etes venus pour briser le sceau,\nd'apres ce que vous dites... Ce n'est pas un\nmensonge, semble-t-il. Enfin, quelqu'un qui<br>semble avoir du courage est apparu."
+    },
+    "127437": {
+        "「あやつが　本命に　違いない。\n　あれを倒せば　ようやっと\n　ここから　出られるはずじゃ！": "Cet individu est surement notre cible\nprincipale. Si nous le vainquons, nous\ndevrions enfin pouvoir sortir d'ici !"
+    },
+    "127438": {
+        "「ゆけ　ラピス！\n　さっさと　倒して　終わりにするぞ！！": "Vas-y, Lapis ! Finissons-en rapidement en les\nbattant !!"
+    },
+    "127439": {
+        "「………………。": ""
+    },
+    "127440": {
+        "「ラピスさん　大丈夫！？": "Lapis-san, ca va !?"
+    },
+    "127441": {
+        "「…………ぐう。おなか　すいた。": "...Grrr. J'ai faim."
+    },
+    "127442": {
+        "<if_woman>「<pc>ちゃん。\n　ここは　あたしたちだけで\n　なんとかするしか　なさそうね。<else>「<pc>くん。\n　ここは　あたしたちだけで\n　なんとかするしか　なさそうね。<endif>": "<if_woman>><pc>-chan. On dirait qu'il va\nfalloir qu'on se debrouille seuls ici.<else>><pc>-kun. On dirait qu'il va falloir\nqu'on se debrouille seuls ici. <endif>"
+    },
+    "127443": {
+        "「これでも　ゆっくり　来たつもりなんだけど\n　やっぱ　オレの方が　早く着いたみたいだね。": "Je pensais etre venu tranquillement, mais il\nsemble que je sois arrive plus vite que prevu."
+    },
+    "127444": {
+        "「ほんっと　先輩たちはノロマだな～　あはっ。": "Franchement, vous etes vraiment des Noro-ma,\nsenpai~ Ahah."
+    },
+    "127445": {
+        "「くやしいですが……　ここは\n　リソルに先手を　ゆずるしかないようですね。": "C'est frustrant, mais... ici, nous n'avons\nd'autre choix que de laisser l'initiative a\nResol."
+    },
+    "127446": {
+        "「それじゃ　遠慮なく　オレから\n　先に　始めさせてもらうよ。\n　先輩たちは　そこで　永遠に待っててよね。": "Alors, je vais commencer sans hesitation.\nSenpai, vous pouvez attendre ici pour\nl'eternite."
+    },
+    "127447": {
+        "「うっ……。": "Ugh..."
+    },
+    "127448": {
+        "「は…はき気が……。": "Je... je me sens nauseeux..."
+    },
+    "127449": {
+        "「おい　お前　大丈夫か！？\n　いったい　急に　どうしたんだ……？": "He, ca va ?! Que t'arrive-t-il soudainement...\n?"
+    },
+    "127450": {
+        "「ガガガリ～ん。": "Gagagari~n."
+    },
+    "127451": {
+        "「…………オレ　ニンニクの匂いだけは\n　どーしても　苦手なんだよ……。": "… Je ne peux vraiment pas supporter l'odeur de\nl'ail…"
+    },
+    "127452": {
+        "「ははははっ。そーか　そーか。\n　まあ　なんだ。誰にでも　苦手なものの\n　ひとつやふたつ　あるわな。": "Hahaha ! Je vois, je vois. Eh bien, tu sais,\ntout le monde a une ou deux choses qu'il\nn'aime pas."
+    },
+    "127453": {
+        "「ハッ……　引っ込んでなよ　おバカ先輩。\n　オレは　じゅーぶん　やれるって……": "Ha... Recule, espece d'imbecile de senpai. Je\nsuis tout a fait capable de le faire..."
+    },
+    "127454": {
+        "「無理はしないほうがいい。\n　ここは　僕たちに　まかせてくれ。": "Il vaut mieux ne pas en faire trop.\nLaisse-nous nous en occuper."
+    },
+    "127455": {
+        "<if_woman>「先輩の　ウデの見せどころね。\n　いきましょう　<pc>ちゃん。<else>「先輩の　ウデの見せどころね。\n　いきましょう　<pc>くん。<endif>": "<if_woman>>C'est l'occasion de montrer vos\ntalents, senpai. Allons-y, <pc>-chan.<else>>C'est l'occasion de montrer vos talents,\nsenpai. Allons-y, <pc>-kun. <endif>"
+    },
+    "127456": {
+        "「何度言えば　わかるんだ……。": "Combien de fois devrai-je le repeter pour que\ntu comprennes..."
+    },
+    "127457": {
+        "「ああ。<pc>。\n　もしかして　僕を　呼びにきてくれたのかな？": "Ah. <pc>. Serais-tu venu me chercher ?"
+    },
+    "127458": {
+        "「急に　いなくなったりして悪かったね。\n　僕の用は　済んだから\n　すぐに　対策室に戻るよ。": "Desole d'etre parti si soudainement. J'ai\ntermine ce que j'avais a faire, je retourne\nimmediatement a la salle de strategie."
+    },
+    "127459": {
+        "「ああ……すまない。\n　今　見たことは　誰にも言わないでくれよ。": "Ah... desole. Ne dis a personne ce que tu\nviens de voir, d'accord ?"
+    },
+    "144230": {
+        "「やった！　これで　ラピスちゃんも\n　ここから出られるはず……": "Super ! Avec ca, Lapis-chan devrait pouvoir\nsortir d'ici..."
+    },
+    "144231": {
+        "「って　あれ？　いない……？": "Hein ? Personne... ?"
+    },
+    "144232": {
+        "「ふむ……。\n　僕たちの　気づかない間に\n　出ていったのかもしれませんね。": "Hum... Il se pourrait qu'il soit parti sans\nque nous nous en rendions compte."
+    },
+    "144233": {
+        "「ついさっきまで　盛大に聞こえていた\n　ハラの音が　聞こえなくなったのは\n　そういうことだったのか！": "Jusqu'a il y a un instant, j'entendais\nbruyamment mon ventre gronder, mais ce n'etait\ndonc que ca !"
+    },
+    "144234": {
+        "「ラピスさん……。\n　あんなに　フラフラだったのに\n　大丈夫なんでしょうか……？": "Lapis-san... Il etait tellement Fluff...\nEst-ce qu'il va vraiment bien...?"
+    },
+    "144235": {
+        "「ひとまず　私たちも　ここを出て\n　対策室に戻りましょう　<pc>さん。": "Pour l'instant, sortons d'ici et retournons au\nbureau de strategie, <pc>-san."
+    },
+    "144236": {
+        "「こ…このオレが負けた……？": "Je... j'ai perdu... ?"
+    },
+    "144237": {
+        "「……クソッ。": "…Merde."
+    },
+    "144238": {
+        "「あっ　待てよ！": "Ah, attends !"
+    },
+    "144239": {
+        "「アイツ……　逃げたんじゃねェだろうな！？": "Cet enfoire... Il ne s'est pas echappe, hein\n!?"
+    },
+    "144240": {
+        "「たぶん　大丈夫だと思うよ。\n　あの子……　勝負に負けたからって\n　逃げるようなタイプじゃないと　思うんだ。": "Je pense que ca ira. Cet enfant... Je ne crois\npas qu'il soit du genre a fuir juste parce\nqu'il a perdu un duel, ce Red Snapper."
+    },
+    "144241": {
+        "<if_woman>「……ん？\n　<pc>ちゃん　どうかしたの？<else>「……ん？\n　<pc>くん　どうかしたの？<endif>": "<if_woman>>...Hum ? <pc>-chan, quelque\nchose ne va pas ?<else>>...Hum ? <pc>-kun, quelque chose ne va\npas ?<endif>"
+    },
+    "144242": {
+        "解放のカギが　突然　熱を放ち始めた。": "La Key de liberation a soudainement commence a\nemettre de la chaleur."
+    },
+    "144243": {
+        "なんと　解放のカギが　崩れ去った……。": "Incroyable, la Key de liberation s'est\neffondree..."
+    },
+    "144244": {
+        "「あっ　また……。": "Ah, encore..."
+    },
+    "144245": {
+        "「どうやら　解放のカギは　何回か使うと\n　壊れてしまうという性質が　あるようだね。": "Il semble que la Key de Liberation a la\nparticularite de se briser apres plusieurs\nutilisations."
+    },
+    "144246": {
+        "「まぁ　また　武道場に取りにいけばいいんだろ。\n　そんなことよりも　リソルのことが気になる。\n　早く　対策室に戻ろうぜ。": "Eh bien, on peut toujours retourner au Dojo\npour le recuperer. Mais plus que ca, ce qui\nm'inquiete, c'est Resol. Rentrons vite a la<br>salle de strategie."
+    }
+}
