@@ -1,0 +1,824 @@
+{
+    "291707": {
+        "「そろったな。\n　さっそくだが　貴様に話が……": "Vous etes tous la. J'ai quelque chose a vous\ndire immediatement..."
+    },
+    "291708": {
+        "「……ユーライザ！　大丈夫なの～？\n　目の前で　ヘルヴェルを失い　つらい想いを\n　したんですもの。無理はしないほうが……": "Yuliza ! Ca va ? Tu as du souffrir en perdant\nHelvel sous tes yeux. Ne te force pas trop..."
+    },
+    "291709": {
+        "「お気遣い　感謝します。\n　フェディーラ様。": "Je vous remercie pour votre sollicitude.\nFedira-sama."
+    },
+    "291710": {
+        "「ですが　今は　天星郷の一大事。\n　ジア・クト念晶体から　この世界を守るために\n　少しでも　自分にできることを　したいのです。": "Cependant, en ce moment, une grande crise\nfrappe le royaume celeste. Pour proteger ce\nmonde des cristaux de pensee Jia Kut, je veux<br>faire ce que je peux, meme si c'est peu."
+    },
+    "291711": {
+        "「お姉様なら　きっと　そうしたはずですから。": "Parce que je suis sure que c'est ce que ma\ngrande soeur aurait fait."
+    },
+    "291712": {
+        "「そう……。\n　強くなったのね　ユーライザ。\n　きっと　ヘルヴェルの魂も　喜んでいるわ。": "Oui... Tu es devenue forte, Yuliza. Je suis\nsure que l'ame de Helvel est aussi ravie."
+    },
+    "291713": {
+        "「まず　最初に……何を置いても\n　<pc>には　謝っておかねばなるまいな。": "Tout d'abord... avant toute chose, je dois\nm'excuser aupres de <pc>."
+    },
+    "291714": {
+        "「これまで　我ら天使は　くだらぬ流言を信じ\n　貴様に対し　邪険な態度を　取ってしまった。\n　さぞ　不愉快な思いをしてきたことだろう。": "Jusqu'a present, nous, les anges, avons cru a\nde vaines rumeurs et avons adopte une attitude\nmeprisante envers toi. Cela a du etre une<br>experience des plus desagreables."
+    },
+    "291715": {
+        "「悪神の討伐　ジア・クト念晶体との戦闘……\n　貴様が成しとげた　数々の功績を　かんがみれば\n　我らが　愚かだったと　認めざるをえまい。": "La bataille contre l'entite cristalline de\nZia-Kuto, le dieu malefique... En considerant\nles nombreux exploits que tu as accomplis,<br>nous devons admettre que nous avons ete\ninsenses."
+    },
+    "291716": {
+        "「どうか　これまでの非礼を　詫びさせてくれ。\n　虫のいいことだとは　百も承知だが……\n　我ら天使に　チカラを貸してくれないか？<yesno><close>": "Je t'en prie, permets-moi de m'excuser pour\nmon impolitesse passee. Je sais bien que c'est\negoiste de ma part... Mais pourrais-tu preter<br>ta force a nous, les anges ? <yesno><close>"
+    },
+    "291717": {
+        "「私からも　お願いします。この世界を\n　ジア・クトどもから守るには　どうしても\n　<pc>のチカラが　必要なのです。<yesno><close>": "Je vous en prie. Pour proteger ce monde des\nGia-Kuto, nous avons absolument besoin de la\npuissance de <pc>. <yesno><close>"
+    },
+    "291718": {
+        "「すまない。心から　感謝する……！": "Je suis desole. Je te remercie sincerement...\n!"
+    },
+    "291719": {
+        "「……では　本題に入ろう。\n　先の戦いで　我々は　ジア・クト念晶体を\n　撤退させることに　成功した。": "...Passons au sujet principal. Lors de la\nderniere bataille, nous avons reussi a faire\nbattre en retraite le cristal de pensee<br>Zia-Kuto."
+    },
+    "291720": {
+        "「だが　アストルティアの楯の加護を　失った以上\n　ヤツらが　戻ってくるのは　時間の問題だ。\n　早急に　守りを　固める必要がある。": "Mais maintenant que nous avons perdu la\nprotection du Bouclier d'Astoltia, leur retour\nn'est qu'une question de temps. Nous devons<br>renforcer nos defenses sans delai."
+    },
+    "291721": {
+        "「しかし……同胞である　ヘルヴェルが死に\n　英雄のひとり　レオーネは\n　ジア・クト側に　ついてしまった。": "Cependant... notre camarade Helvel est mort,\net l'un des heros, Leone, a rejoint le camp de\nJia Kuto."
+    },
+    "291722": {
+        "「貴様とフォステイル以外の　英雄たちは\n　いまだ　眠りについたまま……。\n　ハッキリ言って　状況は　絶望的だ。": "A part toi et Fostail, les autres heros sont\ntoujours plonges dans leur sommeil... Pour\netre franc, la situation est desesperee."
+    },
+    "291723": {
+        "「天星郷は　今　混乱のまっただ中にある。\n　まずは　これを　おさめねば\n　ヤツらと戦うどころでは　ないだろう。": "Tenseikyo est actuellement en pleine\nconfusion. Il faut d'abord retablir l'ordre,\nsinon il sera impossible de combattre ces<br>ennemis."
+    },
+    "291724": {
+        "「そのためにも　ふたりには\n　行方不明となった　天使長の捜索を　頼みたい。": "Pour cela, je voudrais que vous deux cherchiez\nl'Archange disparu."
+    },
+    "291725": {
+        "「ですが　あれだけの攻撃を受け　天使長が\n　ご無事かどうか……。そもそも　今どちらに\n　いらっしゃるかも　見当がつきません……。": "Mais apres avoir subi une attaque de cette\nenvergure, je crains pour la securite de\nl'Archange... D'ailleurs, je n'ai aucune idee<br>d'ou il pourrait bien se trouver en ce\nmoment..."
+    },
+    "291726": {
+        "「その点なら　心配ご無用。\n　天使長の足取りは　見当がついていますよ。": "En ce qui concerne ce point, ne vous inquietez\npas. Nous avons une idee de l'endroit ou se\ntrouve l'Archange."
+    },
+    "291727": {
+        "「時間が　かかってしまいましたが\n　あの方の持つ　天使のチカラを　たどることで\n　居場所を　おおよそ　特定できました。": "Il a fallu du temps, mais en suivant le\npouvoir angelique de cette personne, j'ai pu\nlocaliser approximativement son emplacement."
+    },
+    "291728": {
+        "「天使長は　あのジア・ルミナと名乗る者の\n　攻撃を受け　天星郷から\n　下界に　落とされてしまいました。": "Le grand ange a ete attaque par celui qui se\nfait appeler Dia Lumina et a ete precipite du\nroyaume celeste vers le monde inferieur."
+    },
+    "291729": {
+        "「そのまま　アストルティアの南東\n　プクランド大陸の　チョッピ荒野あたりに\n　流れついたようなのです。": "Il semble que cela ait derive vers le sud-est\nd'Astoltia, quelque part autour de la Choppi\nWilderness sur le continent de Pukuland."
+    },
+    "291730": {
+        "「しかし……どういうわけか\n　そこで　チカラの反応が薄れ\n　正確な位置は　わからずじまいで……。": "Mais... pour une raison quelconque, la\nreaction de la force s'est affaiblie la-bas,\net il m'est impossible de determiner<br>l'emplacement exact..."
+    },
+    "291731": {
+        "「もしかしたら　天使長の身に\n　何か　起こったのかも　しれません。": "Il se pourrait que quelque chose soit arrive a\nl'archange."
+    },
+    "291732": {
+        "「チョッピ荒野には　人々の集う集落が\n　あるようだが……そこで　情報を集めるのは\n　地上に不慣れな天使には　正直　荷が重い。": "Il semble qu'il y ait un village ou les gens\nse rassemblent dans la Choppi Wilderness...\nMais pour un ange peu habitue a la surface,<br>recueillir des informations la-bas est\nfranchement une tache ardue."
+    },
+    "291733": {
+        "「もはや　我々には　一刻の猶予もない。\n　急ぎ　アストルティアにおもむき\n　天使長を　連れ戻してくれ！": "Nous n'avons plus une seconde a perdre.\nDepechez-vous de vous rendre en Astoltia et\nramenez l'Archange !"
+    },
+    "291734": {
+        "「……おっ　見ない顔だな。\n　よそ者かァ？": "... Tiens, un visage inconnu. Serais-tu un\netranger ?"
+    },
+    "291735": {
+        "「ヒヒッ　ようこそ\n　享楽と堕落の都　魔窟アラモンドへ！": "Hihi, bienvenue dans la cite de la jouissance\net de la decadence, Alamond Cavern !"
+    },
+    "291736": {
+        "「ここは　ならず者　おたずね者……。\n　人生の落ちこぼれどもが集う　ゴミためさ。": "Ici, c'est le repaire des malfrats et des\nhors-la-loi... Une decharge ou se rassemblent\nles debris de la societe."
+    },
+    "291737": {
+        "「昔は　まっとうな　鉱山だったんだけどなァ。\n　廃坑になってからは　プクランド大陸中の\n　悪党どもが住みついて　ご覧のありさまよ。": "Autrefois, c'etait une mine prospere, tu sais.\nDepuis qu'elle a ete abandonnee, tous les\nbandits du continent de PukuLMP s'y sont<br>installes, et voila le resultat."
+    },
+    "291738": {
+        "「アンタらは　どうして　ここに？\n　盗みや殺し……表舞台から　追い出されるような\n　悪～いこと　しでかしたのかい？": "Qu'est-ce que vous faites ici, vous autres ?\nAvez-vous commis des actes mauvais, comme\nvoler ou tuer, qui vous ont fait etre chasses<br>de la scene publique ?"
+    },
+    "291739": {
+        "「そんな！　私たちは……": "Impossible ! Nous sommes..."
+    },
+    "291740": {
+        "「ね～ぇ……<heart>\n　アンタ　どこから来たの～？\n　アタシと　遊ばな～い？": "Heee... <heart> D'ou viens-tu ? Tu veux jouer\navec moi ?"
+    },
+    "291741": {
+        "「け　結構ですッ！　間に合ってますので！": "Non, merci ! Je suis deja servi !"
+    },
+    "291742": {
+        "「危ないところでした……。\n　気をつけてくださいね　<pc>。": "C'etait dangereux... Faites attention,\n<pc>."
+    },
+    "291743": {
+        "「……なんと　罪深き者たちでしょう。\n　本当に　このようなところに\n　天使長は　いるのでしょうか？": "…Quelle engeance coupable que ces gens. Y\na-t-il reellement un archange en un tel\nendroit ?"
+    },
+    "291744": {
+        "「……？": "？"
+    },
+    "291745": {
+        "「これは……！？\n　<pc>　見てください！": "Qu'est-ce que c'est... !? Regardez ca,\n<pc> !"
+    },
+    "291746": {
+        "「間違いありません！　天使の羽根です！": "C'est certain ! C'est l'Angel Feather !"
+    },
+    "291747": {
+        "<pc>は\n天使の羽根（だいじなもの）を　手に入れた。<me 60>": "<pc> a obtenu l'Angel Feather (objet\ncle). <me 60>"
+    },
+    "291748": {
+        "「これが　あるということは\n　天使長は　やはり　ここにいると見て\n　間違いなさそうですね。": "Le fait que ceci soit present signifie que\nl'archange est surement ici. Il ne semble pas\ny avoir d'erreur."
+    },
+    "291749": {
+        "「まさか　悪党どもに　つかまり\n　身動きが　取れなくなっているのでは！？\n　一刻も早く　お助けしなくてはなりませんね。": "Je ne peux pas croire que vous ayez ete\ncapture par des vauriens et que vous ne\npuissiez plus bouger ! Nous devons vous aider<br>au plus vite."
+    },
+    "291750": {
+        "「まずは　このあたりの者たちに\n　話を　聞いてみましょう。天使長のことを\n　知っている者が　いるかもしれません。": "D'abord, parlons aux gens d'ici. Il se\npourrait que quelqu'un connaisse l'archange."
+    },
+    "291751": {
+        "「……これはこれは。\n　エルトナ大陸を牛耳ってる　あのツバクロ組と\n　取り引きできるとは　光栄だねぇ。": "...Eh bien, eh bien. Je suis honore de pouvoir\ntraiter avec le celebre groupe Tsubakuro, qui\ncontrole le continent d'Eltona."
+    },
+    "291752": {
+        "「ようこそ　魔窟アラモンドへ！\n　歓迎するぜぇ。": "Bienvenue dans la caverne d'Alamond ! Nous te\nsouhaitons la bienvenue !"
+    },
+    "291753": {
+        "「俺は　ここでの商売を\n　取り仕切っている　プティーノだ。\n　ま　ヨロシク頼むぜ。": "Je suis Putino, celui qui gere les affaires\nici. Enchante de faire votre connaissance."
+    },
+    "291754": {
+        "「アンタたちとの取り引きは　はじめてだからな。\n　まずは　商品の説明を　させてもらおうか。": "C'est notre premiere transaction ensemble,\nalors laissez-moi vous expliquer les produits."
+    },
+    "291755": {
+        "「ウワサには　聞いてるだろう？\n　これが　このアラモンドでしか採れない\n　幻の鉱石……アラモンド鉱石だ。": "Tu as surement entendu les rumeurs, non ?\nVoici le minerai legendaire qu'on ne trouve\nqu'ici, a Alamond... le fameux Alamond Ore."
+    },
+    "291756": {
+        "「コイツは　タダの鉱石じゃないぞ。\n　最高級の砂糖……アラモン糖の材料になる\n　世にも　めずらしい　シロモノだ。": "Ce n'est pas un simple minerai. C'est un\nmateriau rare qui sert a fabriquer le sucre de\npremiere qualite... l'Aramon."
+    },
+    "291757": {
+        "「ひとくち食べるだけで　まさに楽園の心地。\n　かつて　プクランド中の　プクリポが\n　そのウマさに　夢中になった。": "Une seule bouchee suffit pour ressentir un\nveritable paradis. Autrefois, les Pukulipo de\ntout Plump Kingdom en etaient captives par sa<br>delicieuse saveur."
+    },
+    "291758": {
+        "「だが　アラモン糖の　あまりのウマさに\n　大陸中のプクリポが　菓子の食い過ぎで\n　ぶくぶく太り　社会問題にまで発展したのさ。": "Cependant, la delicieuse saveur du sucre\nd'Aramon etait si irresistible que tous les\nPukulipo du continent ont commence a en manger<br>trop. Ils ont tellement grossi que c'est\ndevenu un veritable probleme de societe."
+    },
+    "291759": {
+        "「当時　即位したばかりの　プーポッパン王は\n　肥満の原因である　アラモン糖を\n　根本から潰すため　鉱山に閉鎖命令を出した。": "A l'epoque, le tout juste couronne Roi\nPuupoppan a emis un ordre de fermeture des\nmines pour eradiquer a la source l'Alamonite,<br>cause de l'obesite."
+    },
+    "291760": {
+        "「かくして　アラモン糖は\n　プクランド大陸から　姿を消し\n　プクリポたちの健康は　守られた……。": "Ainsi, le sucre Alamon disparut du continent\nde PukuLMP, et la sante des Pukulipo fut\npreservee..."
+    },
+    "291761": {
+        "「ヒヒッ……だが　どうしても\n　アラモン糖の味を　忘れられない\n　甘党の皆様から　強～い　ご要望があってなぁ。": "Hi hi... Cependant, il semble que nos chers\namateurs de sucreries ne puissent tout\nsimplement pas oublier le gout du sucre<br>d'Aramon. Ils ont formule une demande tres\ninsistante."
+    },
+    "291762": {
+        "「どうしてもって　言われちゃ　しかたねえ。\n　こっそり　ご提供して\n　ガッポリ儲けさせてもらおうってワケだ。": "Si tu insistes vraiment, je n'ai pas le choix.\nJe vais discretement te l'offrir et en tirer\nun bon profit."
+    },
+    "291763": {
+        "「アラモン糖をご所望ってことは　スイーツ関係で\n　新しいビジネスを　始めるんだろ？\n　いや～　コイツに目をつけるとは　お目が高い！": "Vous desirez de l'Aramon-tou, c'est donc que\nvous commencez une nouvelle affaire dans le\ndomaine des sucreries, n'est-ce pas ? Ah, vous<br>avez vraiment l'oeil pour reperer ce qui est\nexceptionnel !"
+    },
+    "291764": {
+        "「アンタらとは　今後とも\n　ヨロシクやっていきたいし\n　特別価格で　融通してやってもいいぜ？": "Je veux continuer a bien m'entendre avec vous,\nalors je suis pret a vous faire un prix\nspecial."
+    },
+    "291765": {
+        "「……そんなものに　用はありません！\n　私たちは　大切なお方を\n　救出するために　ここへ来たのです。": "Je n'ai pas besoin de ca ! Nous sommes venus\nici pour sauver une personne qui nous est\nchere."
+    },
+    "291766": {
+        "「すでに　調べはついています！\n　翼の生えた女性が　ここにいるはずです！\n　今すぐに　解放なさい！　さもないと……": "Nous avons deja mene notre enquete ! Une femme\nailee devrait se trouver ici ! Liberez-la\nimmediatement ! Sinon..."
+    },
+    "291767": {
+        "「はっはっはっは！　なーるほどなぁ。\n　アンタら　あのヒトの知り合いか！": "Ha ha ha ha ! Je vois, je vois. Alors, vous\nconnaissez cette personne-la !"
+    },
+    "291768": {
+        "「身内を助けるために　わざわざ\n　こんなとこまで来るとは　健気じゃねえか。\n　だがな……": "C'est courageux de ta part de venir jusqu'ici\njuste pour aider un proche. Mais..."
+    },
+    "291769": {
+        "「おおっと　お帰りのようだ。\n　どうしても連れて帰りたきゃ　副長の俺じゃなく\n　直接　ここの帝王に　交渉してみるんだな。": "Oh, on dirait que tu es de retour. Si tu tiens\nabsolument a le ramener, ce n'est pas a moi,\nle vice-chef, que tu devrais t'adresser, mais<br>essaie plutot de negocier directement avec\nl'empereur d'ici."
+    },
+    "291770": {
+        "「ヒャッホーゥ！\n　帝王の　お帰りだー！": "Hyahhooo ! L'Empereur est de retour !"
+    },
+    "291771": {
+        "「キャ～！　帝王　カッコイイ～！！": "Kyaa~ ! L'empereur est tellement cool !!"
+    },
+    "291772": {
+        "「……ハハハッ　いいね。\n　やはり　気分がクサクサしたときには\n　コイツを　転がすに限る。": "...Hahaha, c'est parfait. Quand on se sent\nmorose, rien de tel que de s'amuser avec ca."
+    },
+    "291773": {
+        "「お前らァ　どけどけぇーい！\n　我らが　魔窟アラモンドを　統べるボス……\n　流星の帝王　ミトラー様のお通りだぞッ！": "Vous la-bas, ecartez-vous ! Voici notre chef\nqui regne sur Alamond Cavern... Son\nExcellence, l'Empereur des Meteores,<br>Mitora-sama arrive !"
+    },
+    "291774": {
+        "「て　天使長！？　何やってるんですかッ！": "Le C-Chef des anges !? Que faites-vous ici ?!"
+    },
+    "291775": {
+        "「おや？　お前たち　どうしてここに？": "Oh ? Que faites-vous ici, vous deux ?"
+    },
+    "291776": {
+        "「どうしてって……。\n　私たち　天使長を助けにきたんです。\n　この集落の悪党に　つかまったと思って……。": "Pourquoi, vous demandez... Eh bien, nous\nsommes venus pour aider le chef des anges.\nNous pensions qu'il avait ete capture par les<br>bandits de ce village..."
+    },
+    "291777": {
+        "「……あーっはっはっはっは！　これは傑作だ。\n　私が　コイツらに　つかまっただって？": "...Ah-ha-ha-ha-ha ! C'est un chef-d'oeuvre.\nVous pensez vraiment que j'ai ete capture par\nces types ?"
+    },
+    "291778": {
+        "「ここへ　落ちてきたときの衝撃で\n　チカラの大半を失くし\n　ご覧の通り　片翼まで失ってしまってね。": "Quand je suis tombe ici, le choc m'a fait\nperdre la plupart de mes pouvoirs, et comme\nvous pouvez le voir, j'ai meme perdu une aile."
+    },
+    "291779": {
+        "「天星郷には帰れないし　行くあてもないしで\n　フラフラしてたら　チョッピ荒野で\n　コイツらに　からまれて。": "Je ne peux pas retourner a Tenshikyō, je n'ai\nnulle part ou aller, alors je flanais dans\nChoppi Wilderness quand ces types m'ont<br>accoste."
+    },
+    "291780": {
+        "「ちょうど　虫の居どころが　悪かったから\n　腹いせに　返り討ちにしてやったら\n　なぜか懐かれて　ボスにされてしまったわけさ。": "J'etais de mauvaise humeur, alors pour me\ndefouler, je les ai tous vaincus. Et pour une\nraison quelconque, ils se sont attaches a moi<br>et m'ont fait leur chef."
+    },
+    "291781": {
+        "「そんなことより……これを見てくれ！\n　愛する大陸間鉄道を　モチーフに作らせたんだ。\n　どうだ？　美しいだろう？": "Mais treve de bavardages... Regarde ca ! Je\nl'ai fait creer en m'inspirant de mon cher\nchemin de fer intercontinental. Qu'en<br>penses-tu ? N'est-ce pas magnifique ?"
+    },
+    "291782": {
+        "「ひとまず　ご無事なようで　何よりです！\n　さあ　いっしょに　天星郷に戻りましょう。\n　みな　天使長を　心配しています……": "Tout d'abord, je suis soulage de voir que vous\nallez bien ! Allons, retournons ensemble a\nTenshikyō. Tout le monde s'inquiete pour vous,<br>notre chef des anges..."
+    },
+    "291783": {
+        "「……悪いが　天星郷に戻る気は　ない。": "…Desole, mais je n'ai pas l'intention de\nretourner a Tenboseikyo."
+    },
+    "291784": {
+        "「私がいようといまいと　結果は変わらない。\n　アストルティアは……滅びる運命。": "Que je sois la ou non, le resultat ne changera\npas. Astoltia est... vouee a la ruine."
+    },
+    "291785": {
+        "「フフッ　どちらにしろ　片翼を失った　私には\n　戦うことはおろか　天星郷に戻ることすら\n　かなわないのだがね。": "Fufu... De toute facon, avec une aile en\nmoins, je ne peux meme pas me battre, encore\nmoins retourner a Tenseikyo."
+    },
+    "291786": {
+        "「天使長の座は　そうだな……。\n　カンティスにでも　ゆずろう。みんなには\n　ミトラーは死んだと　伝えておいてくれ。": "Le poste d'Archange, voyons... Je vais le\nceder a Kantis. Dites a tout le monde que\nMitora est mort."
+    },
+    "291787": {
+        "「そんな……天使長……！": "Impossible... Ange superieur...!"
+    },
+    "291788": {
+        "「ずっと　天使たちの先頭に立ち\n　世界の守護のため　尽力してきた　あなたが\n　どうして……？": "Toi qui as toujours ete a la tete des anges et\nqui as oeuvre sans relache pour la protection\ndu monde, pourquoi... ?"
+    },
+    "291789": {
+        "「……もしかして　アンタたちさぁ。\n　ミト様　追っかけてる系？": "…Ne me dites pas que vous etes du genre a\npoursuivre Mito-sama ?"
+    },
+    "291790": {
+        "「えっ？": "Euh ?"
+    },
+    "291791": {
+        "「ウェ～～～イ！　やっぱりぃ～！\n　アンタたち　ミト様の\n　熱烈なファン的な　アレっしょ！？": "Oueeee ! Je le savais ! Vous etes des fans\ninconditionnels de Mito-sama, pas vrai !?"
+    },
+    "291792": {
+        "「ミト様って　カリスマっていうの～？\n　すんごいオーラ　出てるもんね～？\n　外に　ファンがいるのも　当然ってゆーかぁ。": "Est-ce que Mito-sama est ce qu'on appelle un\ncharisme~ ? Elle degage une aura incroyable,\npas vrai~ ? C'est normal qu'il y ait des fans<br>dehors, tu vois."
+    },
+    "291793": {
+        "「アタシも　ミト様　マジすこなの！\n　ミト担のヒトに会えて　超カンゲキ～！\n　仲良くしよーぜぃ！　ウェイ★": "Moi aussi, j'adore Mito-sama ! Je suis\ntellement emue de rencontrer quelqu'un qui\nsoutient Mito ! Soyons amis ! Wouhou ★"
+    },
+    "291794": {
+        "「う　うぇい……？": "Ou... ouah... ?"
+    },
+    "291795": {
+        "「とりま　親睦深めるために　お茶しな～い？\n　みんなで　思う存分　ミト様トーク！\n　……ウェーイ　決っまり～★": "Et si on prenait un the pour mieux se\nconnaitre ? On pourra parler de Mito-sama\nautant qu'on veut ! ... Yay, c'est decide ! ★"
+    },
+    "291796": {
+        "「ここの１階に　アタシ　オススメの\n　超バズってる　カフェがあるから～！\n　先　行ってるんで　すぐに来てよね～！": "Au premier etage ici, il y a un cafe super\ntendance que je recommande vivement ! Je vais\ny aller en avance, alors rejoins-moi vite,<br>d'accord ?"
+    },
+    "291797": {
+        "「……行ってしまいました。\n　何を言っているのか　ほとんど\n　理解できませんでしたが……。": "Il est parti. Je n'ai presque rien compris de\nce qu'il disait, mais..."
+    },
+    "291798": {
+        "「ここで　こうしていても　しかたがありません。\n　とりあえず　あの娘の話を\n　聞いてみることに　しましょうか。": "Ici, rester ainsi ne sert a rien. Pour\nl'instant, allons ecouter ce que cette fille a\na dire."
+    },
+    "291799": {
+        "「おっ疲れちゃ～ん★\n　流れ星　見つかった～？": "Salut, tu es fatigue(e) ?★ As-tu trouve une\netoile filante ?"
+    },
+    "291800": {
+        "「４つめの……最後の流れ星については\n　何か　わかりましたか？": "Avez-vous decouvert quelque chose a propos de\nla quatrieme... la derniere etoile filante ?"
+    },
+    "291801": {
+        "「……ぜーんぜんっ！\n　チョッピ荒野に　落ちたらしいって話なんだけど\n　そんな形跡　ない系なんだよね～。": "…Pas du tout ! On dit qu'il serait tombe dans\nla Choppi Wilderness, mais il n'y a aucune\ntrace de ca."
+    },
+    "291802": {
+        "「そうですか……。": "Je vois..."
+    },
+    "291803": {
+        "「早く　見つけてあげたいな～！\n　きっと　ミト様　気分あげぽよ\n　間違いなーし★　だよね～！": "Je veux vraiment le trouver rapidement ! Je\nsuis sure que Mito-sama sera super contente.\nC'est sur a 100% ★, n'est-ce pas !"
+    },
+    "291804": {
+        "「ほう？　どう　あげぽよ　なのかな？\n　ぜひ　聞かせてほしいものだねぇ。": "Oh ? Qu'est-ce qui te met de si bonne humeur ?\nJ'aimerais beaucoup l'entendre."
+    },
+    "291805": {
+        "「て　天使長っ！　どうしてここに？": "Pourquoi etes-vous ici, Grand Ange ?"
+    },
+    "291806": {
+        "「どうしてって　私は　ここの常連だからね。\n　過去に絶望して　死ぬほど　甘いものが\n　食べたいと思ったときに　来るのさ。": "Pourquoi ? Eh bien, parce que je suis une\nhabituee ici. Quand je suis desesperee a cause\ndu passe et que j'ai envie de manger quelque<br>chose de terriblement sucre, c'est ici que je\nviens."
+    },
+    "291807": {
+        "「ふっふっふ……ユーライザぁ。\n　ここのスイーツは　絶品だぞう？\n　どんな苦い思い出も　忘れさせてくれる。": "Fufufu... Yuliza. Les douceurs ici sont\nexquises, tu sais ? Elles te feront oublier\nmeme les souvenirs les plus amers."
+    },
+    "291808": {
+        "「最高級の　アラモン糖を\n　たーっぷり使った　カロリーマシマシ\n　悪魔の味だ。": "C'est le gout demoniaque d'une gourmandise aux\ncalories boostees, faite avec une genereuse\nquantite du sucre Alamon de la plus haute<br>qualite."
+    },
+    "291809": {
+        "「アラモンドに　足を踏み入れて\n　これを食さずに帰るなど　言語道断！\n　店長！　ラブリーレインボーティー　ふたつ！": "Entrer a Aramond et repartir sans gouter ceci\nest impensable ! Gerant ! Deux Lovely Rainbow\nTea, s'il vous plait !"
+    },
+    "291810": {
+        "「こ　これは……！\n　こんな　おいしいもの\n　はじめて　クチにしました……！！": "Ce... c'est incroyable... ! Je n'ai jamais\ngoute quelque chose d'aussi delicieux avant..."
+    },
+    "291811": {
+        "「でしょ？　でしょ～？\n　ユーちゃんに　気に入ってもらえて\n　超ウレシ～！　ウェイ★": "Tu vois ? Tu vois ? Je suis super contente que\nYuu-chan l'aime ! Wouhou ★"
+    },
+    "291812": {
+        "「ねぇねぇ　ユーちゃんって\n　もともと　ミト様の知り合いなんでしょ～？\n　ミト様って　前いたところでは　ナニしてたの？": "He, he, Yu-chan, tu connaissais deja\nMito-sama, n'est-ce pas ? Que faisait\nMito-sama avant, la ou il etait avant ?"
+    },
+    "291813": {
+        "「えっと　天使ちょ……ミトラー様は\n　私が　住んでいる地を\n　治めていらっしゃって……。": "Eh bien, l'ange... ou plutot Mitora-sama regne\nsur la region ou je vis..."
+    },
+    "291814": {
+        "「この世界に暮らす皆が　平和に過ごせるよう\n　日々　尽力している\n　すばらしい　お方なのです。": "Ce sont des personnes formidables qui, chaque\njour, oeuvrent pour que tous ceux qui vivent\ndans ce monde puissent vivre en paix."
+    },
+    "291815": {
+        "「それって　ユーちゃんの住んでたとこでも\n　帝王やってたってコト～？\n　ウェーイ！　さっすが　ミト様～！": "Est-ce que ca veut dire que tu etais aussi un\nempereur la ou tu vivais, Yuu-chan ? Waouh !\nComme prevu de Mito-sama !"
+    },
+    "291816": {
+        "「ミト様って　鬼ツヨだし　ルックスも神っしょ？\n　だから　アラモンドのみんなからも\n　マジ　リスペクトされまくり～っていうか～！": "Mito-sama est super fort et a un look divin,\ntu ne trouves pas ? C'est pourquoi tout le\nmonde a Aramondo le respecte a fond, vraiment<br>!"
+    },
+    "291817": {
+        "「アタシもさ～　ちっちゃいころに\n　親を亡くして　ひとりで生きてきて～\n　頼れるヒトなんて　全然　いなかったけど……。": "Moi aussi, tu sais, quand j'etais petite, j'ai\nperdu mes parents et j'ai du vivre seule... Je\nn'avais vraiment personne sur qui compter,<br>mais..."
+    },
+    "291818": {
+        "「ミト様は　出会ったばかりの　アタシに\n　優しくしてくれて　守ってくれて　ママがいたら\n　こんな感じなのかなって……思ったの。": "Mito-sama a ete si gentille avec moi, meme si\nnous venions a peine de nous rencontrer. Elle\nm'a protegee, et je me suis dit que c'etait<br>peut-etre ce que ca faisait d'avoir une\nmaman..."
+    },
+    "291819": {
+        "「ミト様は　アタシの……アラモンドのママなの！\n　ミト様がいてくれるから　アタシたち\n　みんな　超ハッピーなんだよ～！": "Mito-sama est ma... la mere d'Aramondo ! Grace\na Mito-sama, nous sommes tous super heureux !"
+    },
+    "291820": {
+        "「ミト様　だーいすきっ★\n　ずーっと　アタシたちと　いっしょにいてね！\n　約束だよっ。": "J'adore Mito-sama ★ Reste toujours avec nous !\nC'est une promesse."
+    },
+    "291821": {
+        "「ああ……そうだね。\n　お前たちと　ずっと　こうしていられたら……。": "Ah... oui. Si seulement je pouvais rester\ncomme ca avec vous tous pour toujours..."
+    },
+    "291822": {
+        "「すまない　急用を思いだした。\n　私は　ここで　失礼するよ。": "Je suis desole, une affaire urgente m'est\nrevenue a l'esprit. Je vais devoir vous\nquitter ici."
+    },
+    "291823": {
+        "「……やっぱ　ミト様　テンション低いな～。\n　超しんぱ～い……。": "...... Comme je le pensais, Mito-sama a\nvraiment une baisse de moral. Je suis super\ninquiete......"
+    },
+    "291824": {
+        "「………。": "........."
+    },
+    "291825": {
+        "「ユーちゃん？　どったの～？": "Yu-chan ? Que se passe-t-il ?"
+    },
+    "291826": {
+        "「……いえ。なんでもありませんよ。": "…Non. Ce n'est rien."
+    },
+    "291827": {
+        "「歩き回って　お疲れ系？\n　そりゃ　そうだよね～。\n　たくさん歩かせちゃって　ごめんね～！": "Tu es fatigue de marcher partout ? C'est\ncomprehensible. Je suis desole de t'avoir fait\ntant marcher !"
+    },
+    "291828": {
+        "「こんなこともあろうかと　宿屋のおばちゃんに\n　部屋用意しとくよう　頼んどいたからさ～。\n　ゆーっくり　休んでよね～！　ウェ～イ！": "En prevision de cela, j'ai demande a la\ntenanciere de l'auberge de preparer une\nchambre pour toi. Repose-toi tranquillement !<br>Ouais !"
+    },
+    "291829": {
+        "「……そうですね。\n　<pc>も　疲れたでしょう？\n　お言葉に甘えることに　しましょうか。": "......Oui, c'est vrai. <pc>, tu dois\netre fatigue aussi, non ? Je vais accepter\nvotre offre avec plaisir."
+    },
+    "291830": {
+        "「お前たち……。": "Vous..."
+    },
+    "291831": {
+        "「天使長　お願いします。\n　どうか　天星郷に　お戻りください。": "Archange, je vous en prie. Revenez au royaume\nceleste."
+    },
+    "291832": {
+        "「ジア・クトを倒し　アストルティアを守るために\n　どうしても　あなたのおチカラが\n　必要なのです。": "Pour vaincre Jia Kuto et proteger Astoltia,\nvotre aide est absolument necessaire."
+    },
+    "291833": {
+        "「……倒す　か。\n　簡単に　言ってくれるな。\n　ヤツらを倒せると　本気で思っているのか？": "... Les vaincre, hein. Tu le dis si\nfacilement. Penses-tu vraiment pouvoir les\nvaincre ?"
+    },
+    "291834": {
+        "「いい機会だ。教えてやろう。\n　ヤツらと　我ら天使の因縁を。\n　我らが故郷……とこしえのゆりかごのことを。": "C'est une bonne occasion. Je vais te\nl'apprendre. Le lien entre eux et nous, les\nanges. Notre terre natale... le Berceau<br>Eternel."
+    },
+    "291835": {
+        "「これは　創世の女神と　その眷属たちの物語……": "Ceci est l'histoire de la deesse de la\ncreation et de ses serviteurs..."
+    },
+    "291836": {
+        "「ここより　はるか彼方……星の海の向こう側。\n　とこしえのゆりかごという　世界があった。": "Ici, bien au-dela... de l'autre cote de\nl'ocean d'etoiles. Il existait un monde appele\nle Berceau Eternel."
+    },
+    "291837": {
+        "「偉大なる神々の　加護を受け\n　すべての生きとし　生ける者たちが\n　平和に暮らす　理想郷……。": "Beneficiant de la protection des grands dieux,\nun paradis ou tous les etres vivants vivent en\npaix..."
+    },
+    "291838": {
+        "「だが　平和な日々に　終わりを告げるように\n　ヤツら……ジア・クト念晶体が\n　姿を　あらわした。": "Cependant, comme pour annoncer la fin de ces\njours paisibles, ils... les cristaux mentaux\nde Jia Kuto ont fait leur apparition."
+    },
+    "291839": {
+        "「いにしえの大崩壊と呼ばれる　厄災……\n　ヤツらは　とこしえのゆりかごを蹂躙し\n　破壊の限りを　尽くした。": "Le fleau connu sous le nom de la Grande\nDestruction d'antan... Ils ont ravage le\nberceau eternel, dechainant la destruction a<br>son paroxysme."
+    },
+    "291840": {
+        "「とこしえのゆりかごを創りし　旧き神は\n　若き女神　ルティアナに　創生のチカラを託し\n　滅びゆく世界から　出立させる。": "Le dieu ancien qui crea le berceau eternel\nconfia le pouvoir de la creation a la jeune\ndeesse Rutiliana pour la faire partir d'un<br>monde voue a la destruction."
+    },
+    "291841": {
+        "「我らの祖先……とこしえのゆりかごの住人たちも\n　天の船　フォーリオンに乗り\n　女神と共に　ゆりかごを　旅立った。": "Nos ancetres... les habitants du berceau\neternel ont egalement embarque sur le vaisseau\nceleste, le ForLeon, et ont quitte le berceau<br>en compagnie de la deesse."
+    },
+    "291842": {
+        "「長き長き　旅の果て　ついに\n　女神は　安息の地にたどりつき\n　創生のチカラをもって　新たな世界を創りだす。": "Au terme d'un long, tres long voyage, la\ndeesse parvient enfin a une terre de repos et,\ngrace au pouvoir de la creation, elle donne<br>naissance a un nouveau monde."
+    },
+    "291843": {
+        "「その地の名は　アストルティア。\n　ゆりかごの民が待ち望んだ　最後の楽園。": "Le nom de cette terre est Astoltia. La\nderniere utopie tant attendue par le peuple du\nberceau."
+    },
+    "291844": {
+        "「女神は　この楽園を　ジア・クトの魔の手から\n　守るため　すべての邪悪を　しりぞける秘宝……\n　アストルティアの楯を　創りだした。": "La deesse a cree le tresor secret, le Shield\nof Astoltia, pour repousser toute forme de mal\net proteger cette Utopia des griffes<br>malefiques de Jia-Kuto..."
+    },
+    "291845": {
+        "「しかし……楯が完成する前に\n　深い闇にまぎれ　アストルティアに\n　潜りこむことに　成功した者がいた。": "Cependant... avant que le bouclier ne soit\nacheve, certains ont reussi a se dissimuler\ndans les tenebres profondes et a s'infiltrer<br>dans Astoltia."
+    },
+    "291846": {
+        "「その者の名は　ジア・グオヌバ。": "Son nom est Jia Guonuba."
+    },
+    "291847": {
+        "「そう……我々が　異界滅神ジャゴヌバと\n　呼んでいた厄災は　もともとは\n　ジア・クト念晶体の　ひとかけらだったのさ。": "Oui... La calamite que nous appelions Jagonuba\netait a l'origine un fragment du cristal de\npensee de Jia-Kuto."
+    },
+    "291848": {
+        "「アストルティアの楯の結界が　あったからこそ\n　我々は　長い間　ジャゴヌバ以外の\n　ジア・クトから　姿を隠すことができた。": "C'est grace a la barriere du Bouclier\nd'Astoltia que nous avons pu nous cacher si\nlongtemps des regards de Ziact, a l'exception<br>de Jagonuba."
+    },
+    "291849": {
+        "「だが　アストルティアの楯が　破壊され\n　ヤツらに　存在が知られてしまった以上\n　もはや　我々に　なす術はない。": "Cependant, maintenant que le Bouclier\nd'Astoltia a ete detruit et que notre\nexistence a ete revelee a ces creatures, nous<br>n'avons plus aucun moyen d'agir."
+    },
+    "291850": {
+        "「あの子も……ヘルヴェルも　死なせてしまった。\n　ジア・クトに　勝つことなど　できはしない。\n　私がしようとしていたことは　全部ムダだった。": "Cette fille aussi... Helvel est morte. Je n'ai\naucune chance de vaincre Jia Kuto. Tout ce que\nje tentais de faire etait inutile."
+    },
+    "291851": {
+        "「……アストルティアは　滅びる運命なんだ。": "…Astoltia est vouee a la destruction."
+    },
+    "291852": {
+        "「……運命？　運命ですって……。": "...Le destin ? Vous parlez de destin..."
+    },
+    "291853": {
+        "「私は……<pc>をはじめとした\n　英雄たちと出会い　その生き様に触れ……\n　彼らの姿に　多くを学びました。": "Je... J'ai rencontre des heros tels que\n<pc>, et en touchant a leur maniere de\nvivre... J'ai beaucoup appris de leur exemple."
+    },
+    "291854": {
+        "「私は……<pc>をはじめとした\n　英雄たちと出会い　その生き様に触れ……\n　彼らの姿に　多くを学びました。": "Je... J'ai rencontre des heros tels que\n<pc>, et en touchant a leur maniere de\nvivre... J'ai beaucoup appris de leur exemple."
+    },
+    "291855": {
+        "「みな　祖国と大切な者たちを　守るため\n　その命をかけて　戦っていた。\n　たとえ　勝ち目のない戦であろうとも。": "Tout le monde se battait au peril de sa vie\npour proteger leur patrie et ceux qui leur\nsont chers. Meme si la bataille semblait<br>perdue d'avance."
+    },
+    "291856": {
+        "「四天の星巡りに挑み　神になろうとしたのも\n　みな　この世界……アストルティアを\n　心から　愛しているからこそ。": "J'ai defie le parcours des etoiles des quatre\ncieux et cherche a devenir un dieu... Tout\ncela parce que j'aime profondement ce monde...<br>Astoltia."
+    },
+    "291857": {
+        "「彼らが守ろうとした世界を……その想いを！\n　運命なんて言葉で　片づけるなど\n　許されるわけがない！": "Le monde qu'ils ont essaye de proteger... leur\nvolonte ! Il est impensable de balayer cela\nd'un simple mot comme destin !"
+    },
+    "291858": {
+        "「ここで　私たちが　あきらめてしまえば\n　世界は　ジア・クトどもに\n　踏みにじられてしまう。": "Si nous abandonnons ici, le monde sera pietine\npar les Gia-Kutos."
+    },
+    "291859": {
+        "「ピコさんも……\n　アラモンドに暮らす　皆さんも\n　みんな　みんな　死んでしまうんです！": "Pico-san aussi... Tous les habitants\nd'Aramondo, tout le monde, tout le monde va\nmourir !"
+    },
+    "291860": {
+        "「それが　運命だと……\n　滅びるのは　しかたないことだと\n　本気で　おっしゃっているんですか！？": "C'est le destin... Vous dites serieusement\nqu'il n'y a rien a faire contre la destruction\n!?"
+    },
+    "291861": {
+        "「……やれやれ　私相手に\n　言うようになったじゃないか。だんだんと\n　ヘルヴェルに　似てきたような気がするな。": "Eh bien, eh bien, tu commences a me parler\ncomme ca. J'ai l'impression que tu ressembles\nde plus en plus a Helvel."
+    },
+    "291862": {
+        "「お前たちが　探していたのは　コレだろう？": "Ce que vous cherchiez, c'est ca, n'est-ce pas\n?"
+    },
+    "291863": {
+        "「お前たちの集めてきた分と　合わせれば\n　かつてのチカラを　取り戻し\n　天星郷に戻ることも　かなうだろうね。": "En combinant ce que vous avez collecte avec ce\nque nous avons, nous pourrons retrouver notre\nancienne puissance et il sera possible de<br>retourner a Tenshikyō."
+    },
+    "291864": {
+        "「アストルティアに生を受けた者の　代表として\n　お前に問おう。ジア・クト念晶体と戦い\n　世界を守る　その意志と　覚悟はあるか？<yesno><close>": "En tant que representant de ceux qui sont nes\nen Astoltia, je te pose la question. Es-tu\npret a combattre l'entite cristalline Zia-Kuto<br>et a defendre le monde, avec toute la\ndetermination et la volonte necessaires ?\n<yesno><close>"
+    },
+    "291865": {
+        "「この戦いは　厳しいものになるでしょう……。\n　ですが　数々の危機を　乗り越えてきた\n　あなたなら　大丈夫。自信を持ってください。": "Cette bataille sera difficile... Cependant,\nvous avez surmonte de nombreuses crises\njusqu'a present. Vous pouvez y arriver. Ayez<br>confiance en vous."
+    },
+    "291866": {
+        "「前にも言った通り　天星郷に戻るつもりはない。\n　どうしても　私を　連れ戻したいというのなら\n　ここの流儀に　従ってもらおう。": "Comme je l'ai deja dit, je n'ai pas\nl'intention de retourner a Tenboshi. Si tu\ntiens absolument a me ramener, alors tu devras<br>te plier aux coutumes d'ici."
+    },
+    "291867": {
+        "「魔窟アラモンドでは　勝者こそが正義……。\n　私と決闘しろ　<pc>。\n　お前が勝てば　どこへなり　連れ戻せばいい。": "Dans la caverne d'Alamond, seul le vainqueur a\nraison... Affronte-moi en duel, <pc>. Si\ntu gagnes, tu pourras ramener qui tu veux."
+    },
+    "291868": {
+        "「決闘の内容は　こちらで決める。\n　その気になったら　アラモンドの広場にいる\n　ペチャポに　声をかけるがいい。": "Le contenu du duel sera decide par nous. Quand\ntu seras pret, adresse-toi a Pechapo sur la\nplace d'Aramonde."
+    },
+    "291869": {
+        "「この　帝王ミトラーに　簡単に勝てると思うな。\n　アストルティアを救いたいと　言うのなら……\n　この勝負で　お前の覚悟を　示してみろ。": "Ne pense pas pouvoir vaincre aisement\nl'empereur Mitra. Si tu souhaites sauver\nAstoltia... Montre-moi ta determination dans<br>ce duel."
+    },
+    "291870": {
+        "<pc>と　ユーライザは\n宿屋に戻り　眠りについた。": "<pc> et Yuliza retournerent a l'auberge\net s'endormirent."
+    },
+    "291871": {
+        "そして　夜が明けた！": "Et le jour se leva !"
+    },
+    "291872": {
+        "「これより！　流星の帝王　ミトラーと\n　挑戦者　<pc>の　決闘を執り行う！": "A partir de maintenant ! Le duel entre le Roi\ndes Meteores, Mitra, et le challenger\n<pc> va commencer !"
+    },
+    "291873": {
+        "「ルールは　いたって　シンプルだ。\n　チョッピ荒野の　断崖に向かって　全力で\n　ドルバイクを走らせる　命がけのチキンレース！": "Les regles sont tres simples. C'est une course\nde poulet a couper le souffle ou vous devez\nlancer votre Dol-Bike a toute vitesse vers les<br>falaises de Choppi Wilderness !"
+    },
+    "291874": {
+        "「ビビッて　先に　ブレーキをかけるか\n　判断を誤り　海に落ちたほうの負けだ！": "C'est celui qui freine le premier par peur ou\nqui se trompe et tombe a la mer qui perdra !"
+    },
+    "291875": {
+        "「よーし　両者　覚悟はできたか！？\n　エンジンをかけろぉ！": "Tres bien, etes-vous tous les deux prets ?!\nDemarrez les moteurs !"
+    },
+    "291876": {
+        "「レディー……": "La dame..."
+    },
+    "291877": {
+        "「ゴォォォォッ！！": "Gooooo !!"
+    },
+    "291909": {
+        "「おかしいですね……。\n　ピコさんの姿が　見えません。\n　どこへ行ってしまったのでしょうか？": "C'est etrange... Je ne vois pas Pico-san. Ou\na-t-il bien pu aller ?"
+    },
+    "291910": {
+        "「キャ～～～～～～～～ッ！！！": "Kyaaaaaaa !!!"
+    },
+    "291911": {
+        "「……今の声はッ！？": "......Cette voix, c'etait !?"
+    },
+    "291912": {
+        "「うわぁぁ～～ん！　来ないで～～～～！！\n　マジ　ムリだっての～～～～！！": "Ouaaah !! Ne t'approche pas !! Serieusement,\nje ne peux pas gerer ca !!"
+    },
+    "291913": {
+        "「あ！　バカバカバカ！\n　それは　ミト様の　だいじなものなの！\n　返して　返して　返してよ～！！": "Ah ! Espece d'idiot, idiot, idiot ! C'est un\nobjet cle de Mito-sama ! Rends-le, rends-le,\nrends-le-moi !!"
+    },
+    "291914": {
+        "「……天使のチカラを　取り込んで　変身した！？": "... Il s'est transforme en absorbant le\npouvoir de l'ange !?"
+    },
+    "291915": {
+        "「チカラを制御できずに　暴走している！\n　……いけないッ！": "Je ne peux pas controler cette puissance, elle\ndevient incontrolable ! ...Ca ne va pas !"
+    },
+    "291916": {
+        "「誰か　助けてーーーーーッ！！": "Quelqu'un, aidez-moiiiiiii !!"
+    },
+    "291917": {
+        "「クッ……さすがは　天使長のチカラ。\n　ピコさんを　かばいながら\n　戦うのは　骨が折れそうです……。": "Argh... Comme on peut s'y attendre du pouvoir\ndu chef des anges. Se battre tout en\nprotegeant Pico-san risque d'etre ardu..."
+    },
+    "291918": {
+        "「おい　そこのデカブツーッ！\n　私のかわいいピコに　何してやがるオラァッッ！": "He, toi la-bas avec le gros Kabu ! Qu'est-ce\nque tu fais a mon adorable Pico, espece\nd'ordure !"
+    },
+    "291919": {
+        "「ピコのことは　まかせろ！\n　結界を張るから\n　お前たちは　存分に戦ってくれ！": "Laissez-moi m'occuper de Pico ! Je vais eriger\nune barriere, alors battez-vous de toutes vos\nforces !"
+    },
+    "291920": {
+        "「ふぅ……よくやってくれたね。\n　ふたりとも。": "Ouf... Vous avez bien travaille, tous les\ndeux."
+    },
+    "291921": {
+        "「キャ～～～～～～ッ！！": "Kyaaaaa !!"
+    },
+    "291922": {
+        "「……ッ！": "...!"
+    },
+    "291923": {
+        "「ぶわぁぁぁぁぁぁん！\n　ミト様ぁ……！　ごわがっだよぉ……！": "Bwaaah ! Mito-sama... ! J'avais tellement\npeur..."
+    },
+    "291924": {
+        "「……これまで　この世界を守るのは\n　祖先より　受け継がれた使命だからと……\n　どこか　他人事のように　構えていた。": "Jusqu'a present, proteger ce monde etait une\nmission heritee de nos ancetres, et je l'ai\ntoujours considere comme une affaire qui ne me<br>concernait pas directement..."
+    },
+    "291925": {
+        "「しかし　アストルティアに　降りたち\n　アラモンドの皆と　過ごしているうちに\n　だんだんと　考えが変わってきてな……。": "Cependant, en arrivant a Astoltia et en\npassant du temps avec tout le monde a Aramond,\nma facon de penser a peu a peu change..."
+    },
+    "291926": {
+        "「私は　ここに生きる者たちが　好きだ。\n　アストルティアに　生きる者すべてを\n　守ってやりたい。死なせたくなんかない……！": "J'aime les etres qui vivent ici. Je veux\nproteger tous ceux qui vivent a Astoltia. Je\nne veux pas les voir mourir... !"
+    },
+    "291927": {
+        "「だが　ジア・クトの勢力は　強大だ。\n　私が　ひとつでも　決断を間違えば\n　多くの者たちが　命を失うことになる。": "Cependant, les forces de Jia Kuto sont\npuissantes. Si je commets ne serait-ce qu'une\nseule erreur de jugement, beaucoup de vies<br>seront perdues."
+    },
+    "291928": {
+        "「私が　しくじれば　私の大切な者たちが\n　みんな　みんな　死んでしまう。\n　それが　どうしようもなく　怖いんだ……。": "Si j'echoue, tous ceux qui me sont chers\nmourront, tous, sans exception. Ca me terrifie\ntellement..."
+    },
+    "291929": {
+        "「……できるよ。": "…Je peux le faire."
+    },
+    "291930": {
+        "「ミト様なら　できるよ！\n　ミト様　すんごく　強いんだもん！\n　どんなヤツが　相手だって　絶対　勝てるよッ！": "Mito-sama, tu peux le faire ! Mito-sama est\nincroyablement fort ! Quel que soit\nl'adversaire, tu vas absolument gagner !"
+    },
+    "291931": {
+        "「アタシ　知ってるもん！\n　ミト様が　どんなに　すごいヒトか！": "Je le sais bien ! Mito-sama est vraiment une\npersonne incroyable !"
+    },
+    "291932": {
+        "「ミト様が　自分を信じられないなら\n　アタシたちが　信じるから！\n　だから　ぜーったい　だいじょうぶだよ！": "Si vous ne pouvez pas croire en vous-meme,\nMito-sama, alors nous croyons en vous ! Alors,\ntout ira absolument bien !"
+    },
+    "291933": {
+        "「そ　そうだそうだ！\n　ウチの帝王は　最強だ！\n　誰にも　負けたりなんて　しねえんだ！": "Oui, c'est vrai ! Notre empereur est le plus\npuissant ! Il ne perdra jamais contre qui que\nce soit !"
+    },
+    "291934": {
+        "「アタシたち……ううん！\n　この世界みんなの　帝王になってよ！\n　それで　この世界を守って！": "Nous... Non ! Devenons les souverains de ce\nmonde ! Et protegeons ce monde ensemble !"
+    },
+    "291935": {
+        "「帝王！　帝王！！　帝王！！！\n　帝王！　帝王！！　帝王！！！": "Empereur ! Empereur !! Empereur !!! Empereur !\nEmpereur !! Empereur !!!"
+    },
+    "291936": {
+        "「お前たち……。": "Vous..."
+    },
+    "291937": {
+        "「ありがとう……。": "Merci..."
+    },
+    "291938": {
+        "「……聞けぇ　お前たちィ！\n　私は　今日で　魔窟アラモンドの帝王を\n　卒業する！": "Ecoutez-moi, vous tous ! Aujourd'hui, je vais\nquitter mon titre d'empereur de la caverne\nd'Alamond !"
+    },
+    "291939": {
+        "「この世界に　仇なす\n　クソったれどもを　ぶっ潰すため\n　私は　私のあるべき場所へ　戻ろう！": "Pour ecraser ces maudits ennemis de ce monde,\nje vais retourner a ma place legitime !"
+    },
+    "291940": {
+        "「ここに　誓う！　私は\n　全世界の帝王として　アストルティアを！\n　お前たちのことを　必ず　守りぬいてみせると！": "Je jure ici ! En tant qu'empereur du monde\nentier, je protegerai Astoltia ! Je vous\nprotegerai a tout prix !"
+    },
+    "291941": {
+        "「……愛してるぜ！　お前ら！\n　達者で　暮らせよ！": "Je vous aime ! Vous tous ! Vivez bien et soyez\nheureux !"
+    },
+    "291942": {
+        "「天使長……よかった。": "L'Archange... Je suis soulage."
+    },
+    "291943": {
+        "「さぁ　私たちも　天星郷に帰りましょう。": "Allons, retournons aussi a Tenseikyo."
+    },
+    "291944": {
+        "「やぁ。ふたりとも　アラモンドでは\n　すっかり　世話になったね。": "Salut. Vous deux, a Aramonde, vous avez\nvraiment pris soin de nous."
+    },
+    "291945": {
+        "「これは　私からの　感謝の気持ちだ。\n　遠慮せずに　受け取ってくれ。": "Ceci est un temoignage de ma gratitude.\nAccepte-le sans hesitation."
+    },
+    "291946": {
+        "「……皆　私のいない間　苦労をかけた。": "Pendant mon absence, vous avez tous traverse\ndes moments difficiles."
+    },
+    "291947": {
+        "「先の戦いで　我らは　多くのものを失った。\n　アストルティアの楯を　破壊されてしまった以上\n　ジア・クトとの戦いは　避けられんだろう。": "Dans la bataille precedente, nous avons perdu\nbeaucoup de choses. Depuis que le Shield of\nAstoltia a ete detruit, il est probable que le<br>combat contre Jia Kuto soit inevitable."
+    },
+    "291948": {
+        "「だが　どれだけ　厳しい戦になろうとも\n　我々に　敗北は許されない。": "Cependant, peu importe a quel point le combat\nsera difficile, la defaite ne nous est pas\npermise."
+    },
+    "291949": {
+        "「諸君　剣を取れ！　今こそ　我らの手で\n　神話時代からの因縁に　決着をつけるとき！": "Camarades, prenez vos epees ! Le moment est\nvenu pour nous de mettre fin aux querelles qui\nremontent a l'age mythologique !"
+    },
+    "291950": {
+        "「……私は　もう　逃げない。\n　たとえ　我が身が　朽ち果てようとも\n　この世界を　大切な者たちを守るため　戦おう。": "...Je ne fuirai plus. Meme si mon corps devait\nse desintegrer, je me battrai pour proteger ce\nmonde et ceux qui me sont chers."
+    },
+    "291951": {
+        "「すべては　アストルティアのために。\n　それが　世界の守り人である\n　我らの使命である！": "Tout est pour Astoltia. C'est notre mission en\ntant que gardiens du monde !"
+    },
+    "291952": {
+        "「……よーし　てめえらァ！\n　この全面戦争　絶対に勝利するぞ！\n　ジア・クトどもに　ヤキ入れてやるッ！": "Tres bien, vous tous ! Nous allons remporter\ncette guerre totale, absolument ! Faisons\npayer ces Gia Cto !"
+    },
+    "291953": {
+        "「て　天使長……。\n　その　言葉遣いは　いったい……？": "Te... Archange... Qu'est-ce que c'est que ce\nlangage...?"
+    },
+    "291954": {
+        "「ほほほ！\n　天使長ったら　アストルティアに行くたび\n　何かしら影響されて　帰ってくるのよね～。": "Ho ho ho ! Chaque fois que notre grand ange\nrevient d'Astoltia, il semble toujours etre\ninfluence par quelque chose la-bas."
+    },
+    "291955": {
+        "「４００年前も　たしか　そうでしたね……。": "Il y a 400 ans, c'etait bien pareil, n'est-ce\npas..."
+    },
+    "291956": {
+        "「た　た　大変ですぜ！　天使長！": "Ta... ta... C'est terrible ! Maitre Ange !"
+    },
+    "291957": {
+        "「騒がしいぞ。何があった？": "Bruyant par ici. Que se passe-t-il ?"
+    },
+    "291958": {
+        "「て　て　て　天星郷の空に……\n　きょ　きょ　巨大な……": "Le ciel de Tenseikyo... Un... Un\ngigantesque..."
+    },
+    "291959": {
+        "「とにかく　外に出て　見てみてください！\n　エライことが　起きてるんでさあ！": "Quoi qu'il en soit, sortez et allez voir par\nvous-meme ! Il se passe quelque chose\nd'incroyable !"
+    },
+    "295290": {
+        "「あれは……いったい　何者なのだ……？": "Qu'est-ce que c'etait... qui etait-ce\nvraiment... ?"
+    },
+    "295291": {
+        "「……ふむ。興味深い。\n　どういう仕掛けに　なっているのかな？": "Hum. Interessant. Quel genre de mecanisme cela\npeut-il etre ?"
+    },
+    "295292": {
+        "「ちっ……もう戻ってきたか。\n　こんなに　早いとは……。": "Tch... Tu es deja revenu. Je ne m'attendais\npas a ce que ce soit si rapide..."
+    },
+    "295293": {
+        "「ンフフ……<heart>\n　また会えたな　ゆりかごの末裔よ。": "Fufu...<heart> Nous nous rencontrons a\nnouveau, descendant du berceau."
+    },
+    "295294": {
+        "「想定外だった。まさか　お前たちに\n　我らを退けるだけの　チカラがあったとは。": "C'etait inattendu. Jamais je n'aurais imagine\nque vous possediez assez de puissance pour\nnous repousser."
+    },
+    "295295": {
+        "「認めよう　お前たちを。\n　ジア・クトに　相応する敵として！\n　よって　ここに　宣言しよう。": "Je vais vous reconnaitre. En tant\nqu'adversaires dignes de Ziact ! Par\nconsequent, je vais le declarer ici."
+    },
+    "295296": {
+        "「アストルティアへの侵略を　開始する！": "L'invasion d'Astoltia commence !"
+    },
+    "295297": {
+        "「うっ……！　この光は！？\n　何が起こったの……？": "Ouh… ! Cette lumiere !? Que s'est-il passe… ?"
+    },
+    "295298": {
+        "「て　天使長っ！\n　オーグリード大陸の　バドリー岩石地帯の南に\n　異常なエネルギー反応です！": "Te... Tenseur en chef ! Il y a une reaction\nenergetique anormale au sud de la zone de\nBudley Rock sur le continent d'Ogreed !"
+    },
+    "295299": {
+        "「ここからでも　わかるほどに\n　強い　エネルギー反応……。\n　周辺も　無事では　すまないはず……。 ": "Meme d'ici, je peux sentir une energie\nincroyablement puissante... Les environs ne\ndevraient pas en sortir indemnes..."
+    },
+    "295300": {
+        "「ついに　我が船が　着陸を果たした！\n　お前たちの　大地に！": "Enfin, notre navire a atterri ! Sur vos terres\n!"
+    },
+    "295301": {
+        "「ンフ……<heart>　待っているぞ。\n　見せてみろ。お前たちのあがきを。": "Nhuf... <heart> Je vous attends. Montrez-moi\nvos efforts desesperes."
+    },
+    "295302": {
+        "「船が　着陸した……？\n　急いで　アストルティアの人々に\n　警告しなくては……！": "Le vaisseau a atterri... ? Je dois avertir les\nhabitants d'Astoltia au plus vite... !"
+    },
+    "295303": {
+        "「落ち着け　ユーライザ。\n　いずれ　こうなることは　わかっていた。": "Calme-toi, Yuliza. Nous savions que cela\nfinirait par arriver."
+    },
+    "295304": {
+        "「私の方でも　対策は考えているが\n　事態は　一刻を争うようだ。": "Je reflechis egalement a une solution, mais la\nsituation semble urgente."
+    },
+    "295305": {
+        "「まずは　すぐに動ける　お前たちふたりで\n　地上周辺の調査に　向かってくれ。": "D'abord, vous deux qui pouvez bouger\nimmediatement, partez enqueter autour de la\nsurface."
+    },
+    "295306": {
+        "「しょ……承知いたしました。\n　動揺してしまい　申し訳ありません。": "Je... Je comprends. Je suis desole pour mon\ntrouble."
+    },
+    "295307": {
+        "「バドリー岩石地帯といえば　たしか\n　ガートラント王国の　近くだったはずです。": "Quand on parle de la zone de Budley Rock, il\nme semble qu'elle est proche du royaume de Gar\net LMP."
+    },
+    "295308": {
+        "「<pc>は　ガートラントの王である\n　グロスナー王とも　顔見知りでしたね。": "<pc> est le roi de GarトLMPト et etait\negalement en bons termes avec King Grossner."
+    },
+    "295309": {
+        "「船に近寄らないよう　警告も必要でしょうし \n　オーグリード大陸の　ガートラント城にいる\n　グロスナー王に　会いにいきましょう。": "Il est necessaire de prevenir les gens de ne\npas s'approcher du navire. Allons rencontrer\nle Roi Grossner au Chateau de Gartlant, sur le<br>continent d'Orgul."
+    },
+    "302438": {
+        "断崖が　近づいてきた……。\nブレーキを　かけますか？<yesno_nc><close>": "La falaise se rapproche... Voulez-vous freiner\n?<yesno_nc><close>"
+    },
+    "302439": {
+        "<pc>は　ブレーキをかけた！": "<pc> a freine !"
+    },
+    "302440": {
+        "「おおっと　挑戦者　<pc>が\n　ビビッて　先に　ブレーキをかけた！\n　だが　さすがに　早すぎるぞ～！": "Oh la la ! Le challenger <pc> a pris\npeur et a freine en premier ! Mais c'etait\nbien trop tot !"
+    },
+    "302441": {
+        "「我らが　流星の帝王は\n　見事　断崖スレスレで　ストーップ！\n　この勝負　ミトラーの勝ちィ！！": "Notre Empereur des Meteores a magnifiquement\narrete juste au bord de la falaise ! Cette\nvictoire revient a Mithra !!"
+    },
+    "302442": {
+        "<pc>は　負けてしまった……。": "<pc> a ete vaincu..."
+    },
+    "302443": {
+        "ショックのあまり　意識が　遠のいていく……。": "Le choc est si intense que je perds\nconnaissance..."
+    },
+    "302444": {
+        "「……おおっと！？\n　両者　まだ　ブレーキをかける様子がない！\n　コイツは　とんでもない度胸だぜぇ！": "…Oh !? Les deux combattants n'ont toujours pas\nl'air de vouloir freiner ! Ils ont un sacre\ncran, ceux-la !"
+    },
+    "302445": {
+        "さらに　断崖が　近づいてきた……。\nブレーキを　かけますか？<yesno_nc><close>": "La falaise se rapproche encore plus...\nVoulez-vous freiner ? <yesno_nc><close>"
+    },
+    "302446": {
+        "「おおっと　挑戦者　<pc>は\n　まだ　ブレーキをかけない！\n　おいおいおいおい　大丈夫なのかぁ！？": "Oh la la, le challenger <pc> n'a\ntoujours pas freine ! He he he, est-ce que ca\nva aller ?!"
+    },
+    "302447": {
+        "<pc>は　勢いよく　海につっこんだ！": "<pc> s'est precipite dans la mer avec\nforce !"
+    },
+    "302448": {
+        "「はっはっは！　あわれな挑戦者が\n　海に　ダーーーーーイブッ！\n　この勝負　ミトラーの勝ちィ！！": "Ha ha ha ! Un pauvre challenger vient de\nplonger dans la mer ! Cette fois, c'est la\nvictoire de Mitraaa !"
+    },
+    "302449": {
+        "<pc>は　負けてしまった……。": "<pc> a ete vaincu..."
+    },
+    "302450": {
+        "ショックのあまり　意識が　遠のいていく……。": "Le choc est si intense que je perds\nconnaissance..."
+    },
+    "302451": {
+        "「おおっと！？\n　ここで　挑戦者　<pc>が\n　ブレーキを　かけたぁ！": "Oh la la !? C'est ici que le challenger\n<pc> a freine !"
+    },
+    "302452": {
+        "「……いい読みだが　まだ甘いな。\n　その程度で　私を出し抜くことはできん！": "Bonne lecture, mais c'est encore insuffisant.\nAvec ce niveau, tu ne pourras pas me surpasser\n!"
+    },
+    "302453": {
+        "「この勝負　私がもらったッ！": "Ce duel, je l'ai remporte !"
+    },
+    "302454": {
+        "「……ネ　ネコちゃん！？": "… Hein, un chaton !?"
+    },
+    "302455": {
+        "「きゃああああああああッ！！": "Kyaaaaaaa !!"
+    },
+    "302456": {
+        "「……へっくしょん！": "… Atchoum !"
+    },
+    "302457": {
+        "「フッ　帝王である　この私を負かすとは。\n　さすがは　四天の星巡りを乗り越えた\n　英雄といったところかな。": "Ha, me vaincre, moi, l'empereur... Cela montre\nbien que tu es un heros capable de surmonter\nle periple des quatre cieux."
+    },
+    "302458": {
+        "「……言い訳はしない。約束は約束だ。\n　天星郷に　戻るとしよう。\n　羽根を渡してくれ。": "Je ne chercherai pas d'excuses. Une promesse\nest une promesse. Il est temps de retourner a\nTenshikyō. Donne-moi les plumes."
+    },
+    "302459": {
+        "「ダメーーーーーーッ！！": "Nonーーーーーーッ！！"
+    },
+    "302460": {
+        "「これを　受けとったら　ミト様\n　元いた場所に　帰っちゃうんでしょ！？\n　そんなの　絶対ダメッ！": "Quand tu recevras ca, Mito-sama, tu\nretourneras a l'endroit d'ou tu viens,\nn'est-ce pas !? Ca, c'est absolument hors de<br>question !"
+    },
+    "302461": {
+        "「ミト様　超つらそうな顔してたもん！\n　そんな思いさせるんだったら\n　絶対に　連れてかせたりしないからッ！！": "ミト様 avait l'air vraiment souffrante ! Si cela\ndoit lui faire vivre de telles epreuves, je ne\nla laisserai absolument pas etre emmenee !!"
+    },
+    "302462": {
+        "「ピコ！　こら待てッ！": "Pico ! He, attends !"
+    },
+    "302463": {
+        "「……事情は知らんが　アレ\n　アンタらの　だいじなものなんだろ？\n　追っかけたほうが　いいんじゃないか。": "Je ne connais pas les details, mais cet objet,\nc'est un objet cle pour vous, n'est-ce pas ?\nVous devriez le poursuivre."
+    },
+    "302464": {
+        "「ピコなら　北東の　崩れゆく廃墟の近くにある\n　枯れ木のとこに　いるはずだ。アイツは\n　ヘソ曲げると　いつも　あそこに行くからな。": "Pico devrait etre pres de l'Arbre Mort, au\nnord-est, pres des ruines en decomposition. Il\nva toujours la-bas quand il boude."
+    },
+    "302465": {
+        "「なら　私もいっしょに\n　……へ　へ　へっくしょん！！": "Alors, je vais aussi venir avec... A... A...\nAtchoum !!"
+    },
+    "302466": {
+        "「ああ～！　ダメですよ　ミトラー様～！\n　そのままだと　風邪ひいちゃいますって！\n　ちゃんと　かわかさないと！": "Ahh~ ! Non, Mitora-sama~ ! Si vous restez\ncomme ca, vous allez attraper froid ! Il faut\nvous secher correctement !"
+    },
+    "302467": {
+        "「まったくです。\n　私たちが　ピコさんを　追いかけますから\n　天使長は　無理をなさらないでください。": "Tout a fait. Nous allons poursuivre Pico-san,\nalors ne vous surmenez pas, chef des anges."
+    },
+    "302468": {
+        "「ピコさんだって　ちゃんと\n　話をすれば　わかってくれるはずです。\n　急いで　追いかけましょう！": "Pico-san comprendra surement si on lui parle\ncorrectement. Depechons-nous de le rattraper !"
+    },
+    "302561": {
+        "「あ～　おっかなかったぁ……。\n　思いっきり　クラッシュしちゃったけど\n　アタシのバイク　大丈夫そ？": "Ah, j'ai eu tellement peur... J'ai eu un gros\naccident, mais ma moto, elle va bien ?"
+    }
+}
