@@ -1,0 +1,83 @@
+{
+    "88742": {
+        "「……おお！　待っていたよ。\n　私は　ティービス。\n　<%sEV_SYOK_ITEM>を　ギルドに頼んだ者だ。": "Oh ! Je t'attendais. Je suis Teebis. Je suis\ncelui qui a demande le <%sEV_SYOK_ITEM> a\nGiludo."
+    },
+    "88743": {
+        "「では　まず　依頼した\n　<%sEV_SYOK_ITEM>を　受け取ろうか。": "Alors, commencons par recevoir le\n<%sEV_SYOK_ITEM> demande."
+    },
+    "88744": {
+        "<pc>は　ティービスに\n<%sEV_SYOK_ITEM>を　渡した！": "<pc> a donne <%sEV_SYOK_ITEM> a Teebis !"
+    },
+    "88745": {
+        "「うむ。噂どおり　すばらしい品だ。\n　……きっと　ギルドマスターの指導が\n　よいのだろうな。": "Hum. Comme le disent les rumeurs, c'est un\nproduit remarquable. ...Cela doit surement\netre grace aux excellents conseils de Guild<br>Master."
+    },
+    "88746": {
+        "「ところで　君が所属する\n　さいほうギルドのマスターだが……\n　いったい　どんな人物なのかね？": "Au fait, le maitre de la Sewing Guild a\nlaquelle tu appartiens... Quel genre de\npersonne est-ce exactement ?"
+    },
+    "88747": {
+        "「若きウェディとは　聞いているが\n　名前は？　目の色や　髪の色は？\n　背びれの形は！？　どうか教えてくれっ！": "J'ai entendu parler d'un jeune Weddie. Quel\nest son nom ? Quelle est la couleur de ses\nyeux et de ses cheveux ? Quelle est la forme<br>de sa nageoire dorsale !? S'il te plait,\ndis-le-moi !"
+    },
+    "88748": {
+        "<pc>は　ティービスに\nマスター・ユービアのことを　説明した。": "<pc> a explique a Teebis qui est le\nGuildmaster Yubia."
+    },
+    "88749": {
+        "「……やはり　間違いない！\n　あの子は…ユービアは\n　生きていてくれたんだっ！！": "Je ne me trompe pas ! Cette enfant... Yubia\nest en vie !!"
+    },
+    "88750": {
+        "「いや　おどろかせてすまない。\n　じつは私は　ユービアの父親なのだ。": "Je suis desole de t'avoir surpris. En fait, je\nsuis le pere de Yubia."
+    },
+    "88751": {
+        "「かつて　幼い息子を連れて　旅をしていた途中\n　魔物に襲われて　大ケガを負い　気が付けば\n　私だけが　町の教会に　かつぎこまれていた。": "Autrefois, alors que je voyageais avec mon\njeune fils, nous avons ete attaques par des\nmonstres. Grievement blesse, je me suis<br>retrouve inconscient. A mon reveil, j'etais le\nseul a avoir ete transporte a l'eglise de la\nville."
+    },
+    "88752": {
+        "「みな　息子はとっくに死んだと言ったが\n　私は生きていると信じ　探し続けた。\n　……十数年もの間　ずっとな。": "Tout le monde disait que mon fils etait mort\ndepuis longtemps, mais moi, je croyais qu'il\netait vivant et je l'ai cherche sans relache.<br>...Pendant plus de dix ans."
+    },
+    "88753": {
+        "「そして　さいほうギルドのマスターが\n　息子に似た人物と知り　真実を確かめるため\n　ギルドに　仕事を依頼したというわけさ。": "Et donc, le maitre de la Sewing Guild, ayant\nappris qu'une personne ressemblant a son fils\netait impliquee, a demande a T. Ludo de<br>verifier la verite pour lui."
+    },
+    "88754": {
+        "「本当に　ユービアは生きているのだと\n　君のおかげで　ようやく確信が持てたよ。\n　ありがとう。心から感謝する。": "Grace a toi, je suis enfin convaincu que Yubia\nest vraiment en vie. Merci. Je te suis\nreconnaissant du fond du coeur."
+    },
+    "88755": {
+        "「ユービア……。\n　あの子に会うのは　ずいぶん　ひさしぶりだ。\n　私のことを　覚えていてくれるといいが。": "Yubia... Cela fait vraiment longtemps que je\nne l'ai pas vue. J'espere qu'elle se\nsouviendra de moi."
+    },
+    "88756": {
+        "「……やはり　面影があるな。\n　ずいぶん探したぞ　ユービア。": "...Tu as toujours cette ressemblance. Je t'ai\ncherche longtemps, Yubia."
+    },
+    "88757": {
+        "「あの……アナタは？\n　どこで　お会いしたのか\n　まったく　わからないのですが……。": "Euh... Qui etes-vous ? Je ne me souviens\nabsolument pas ou nous nous serions\nrencontres..."
+    },
+    "88758": {
+        "「なんだと？\n　ユービア。この私のことを\n　覚えていないというのかっ！？": "Quoi ? Yubia. Tu oses dire que tu ne te\nsouviens pas de moi !?"
+    },
+    "88759": {
+        "「……いや　すまん。責める資格などないな。\n　あの時　幼いお前を　守りきれなかった\n　私が悪いのだ……。": "Non, pardon. Je n'ai pas le droit de te\nblamer. C'est moi qui suis fautif de ne pas\navoir reussi a te proteger quand tu etais<br>enfant..."
+    },
+    "88760": {
+        "「我が子ユービアよ。\n　どうか　この父を　許してくれ。": "Mon enfant, Yubia. Je t'en prie, pardonne ton\npere."
+    },
+    "88761": {
+        "「……父さん？": "...Papa ?"
+    },
+    "88762": {
+        "「そうとも！\n　大きくなったな　ユービア……。": "En effet ! Tu as bien grandi, Yubia..."
+    },
+    "88763": {
+        "「ちがうっ！！": "Non !!"
+    },
+    "88764": {
+        "「……ボクの父さんは　亡霊になったはず。\n　アナタなんて　ボクは知らない！": "......Mon pere est cense etre devenu un\nfantome. Je ne te connais pas du tout !"
+    },
+    "88765": {
+        "「亡霊？　なんのことだ　ユービア。\n　私は　こうして\n　ちゃんと　生きているじゃ……": "Fantome ? De quoi parles-tu, Yubia ? Je suis\nici, bien vivante..."
+    },
+    "88766": {
+        "「もう　アナタの話は　聞きたくない！\n　お願いです。帰ってください！！": "Je ne veux plus ecouter vos histoires ! S'il\nvous plait. Rentrez chez vous !!"
+    },
+    "88767": {
+        "「……そうか　急に　すまなかったな。\n　今は受け入れられなくても　しかたがない。\n　また　近々　出直して来よう。": "...Je vois, je suis desole pour la\nprecipitation. Je comprends que tu ne puisses\npas accepter cela pour l'instant. Je<br>reviendrai bientot."
+    },
+    "115037": {
+        "「なんだ……まるで　亡霊にでも\n　会ったような顔をして……？": "Qu'est-ce que... Tu fais une tete comme si tu\navais vu un fantome..."
+    }
+}

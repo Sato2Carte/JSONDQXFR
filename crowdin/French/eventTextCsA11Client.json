@@ -1,0 +1,1091 @@
+{
+    "14678": {
+        "「キヒヒヒ！\n　また　来おったか　エテーネの民よ！\n　今度こそ　お前たちの　息の根を止めてやろう！": "Ki hi hi hi ! Vous revoila, peuple d'Ethene !\nCette fois, je vais mettre un terme a votre\nexistence ! ffdefeefefefefefefefefefefefefefefe efefefefefe fefefef"
+    },
+    "14679": {
+        "「時を超えるチカラを秘めた　お前たちに\n　テンスの花を渡すわけには　いかんからのう！": "Je ne peux pas vous donner la Fleur de Tens,\ncar vous avez un pouvoir capable de\ntranscender le temps !"
+    },
+    "14697": {
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>>": "<if_woman><pc> !<else><pc> !<endif>"
+    },
+    "14698": {
+        "「ほら　いいでしょ！？": "Tu vois, ça va, n'est-ce pas ?!"
+    },
+    "14699": {
+        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba-sama m'a dit que je pouvais monter !"
+    },
+    "14700": {
+        "「ねっ　アバさま？": ""
+    },
+    "14701": {
+        "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special !"
+    },
+    "14702": {
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Le jour est enfin arrive ou nous pouvons\nmonter sur le dos du dieu protecteur du\nvillage, Galapagod... Vivre longtemps a ses<br>avantages !"
+    },
+    "14703": {
+        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai> ! Nous devons egalement\nemmener les autres."
+    },
+    "14704": {
+        "「はい　アバさま。": "Oui, Abba-sama."
+    },
+    "14705": {
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main…<endif>>"
+    },
+    "14706": {
+        "「ダメじゃ！": "C'est impossible !"
+    },
+    "14707": {
+        "「……えっ？": "… Hein ?"
+    },
+    "14708": {
+        "「<pc>は　乗せられん。": "<pc> ne peut pas monter."
+    },
+    "14709": {
+        "「ど　どうして……？": "Po... pourquoi...?"
+    },
+    "14710": {
+        "「……………………。": "........................"
+    },
+    "14711": {
+        "「そ　れ　は　な…………": "Ce n'est pas..."
+    },
+    "14712": {
+        "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>ーー！！"
+    },
+    "14713": {
+        "「あはは……　ごめんなさい～！！": "Ah ah... desole~!!"
+    },
+    "14715": {
+        "「<pc>！　<pc>っ！\n　いないのかい？": "<pc> ! <pc> ?"
+    },
+    "14716": {
+        "「おや　まだ寝てたのかい？\n　あんたにしちゃ　めずらしいね。": "Tiens, tu dormais encore ? C'est rare pour \ntoi, dis donc."
+    },
+    "14717": {
+        "「そうだ！　それより　聞いておくれよ！\n　その　<kyodai>がね！": "Bien sur ! Ecoute ca !"
+    },
+    "14718": {
+        "「錬金術で　ハツラツ豆を\n　１０倍に増やすって言ったのに　失敗して\n　全部　灰にしちゃったんだよ！": "<kyodai> voulais multiplier par dix les \nHaricots Pep grace a l'alchimie, mais a\nechoue et a tout reduit en cendres !"
+    },
+    "14719": {
+        "「今年最後の　ハツラツ豆を……。\n　アバさまが　とーっても\n　楽しみにしてらっしゃったのに　ひどいだろ？": "Les derniers Haricots Pep de cette annee... \nAbba-sama les attendait avec tellement \nd'impatience, c'est vraiment cruel, non ?"
+    },
+    "14720": {
+        "「あんたの　<kyodai_rel2>の失敗なんだから\n　代わりに　アバさまに　謝ってきておくれ。": "C'est la faute de <kyodai> !\nalors va t'excuser aupres de Dame \nAbba a sa place."
+    },
+    "14721": {
+        "「言うまでもないけど　アバさまの家は\n　橋向こうの高台にある　大きな家だからね。\n　じゃあ　頼んだよっ！": "Il va sans dire que la maison d'Abba-sama\nest la grande maison sur la colline, de \nl'autre cote du pont. Je compte sur toi !"
+    },
+    "14750": {
+        "「なんじゃ　こんなもの！": "Qu'est-ce que c'est que cette chose !"
+    },
+    "14751": {
+        "「シンイっ！\n　やっと眠れそうなところだったのに\n　よくも　くだらんことで　ジャマしたな！！": "Shini！ Je commencais enfin a m'endormir, et tu\noses me deranger pour des futilites !!"
+    },
+    "14752": {
+        "「す　すみません……。\n　じつは　ハツラツ豆が　なくなってしまったので\n　その代わりになればと思ったのですが……。": "Je suis desole... En fait, nous avons epuise \nnotre stock d'Haricots Pep, alors j'esperais \nque ceci pourrait les remplacer..."
+    },
+    "14753": {
+        "「なっ……！？\n　ハ　ハツラツ豆が……　なくなったじゃと！？": "Quoi...!? Les Haricots pep ont... \ndisparu !?"
+    },
+    "14754": {
+        "「………………。": ".............."
+    },
+    "14755": {
+        "「おばあさま　お気を確かに！": "Grand-mere, garde ton calme!"
+    },
+    "14756": {
+        "「ああ……　大丈夫じゃ。": "Ah… ca va."
+    },
+    "14757": {
+        "「今は……　今は…………": "Ce n'est..."
+    },
+    "14758": {
+        "「豆が　どうのなどと\n　言っておられる時では　ないわ！": "Ce n'est pas le moment de parler des haricots,\nvoyons!"
+    },
+    "14759": {
+        "「おお　<pc>ではないか！\n　ちょうどよいところに　来てくれたな。\n　じつは　お前たちに　話したいことが……": "Oh, mais c'est <pc> ! Tu arrives au bon \nmoment. En fait, il y a quelque chose dont je\nvoudrais vous parler..."
+    },
+    "14760": {
+        "「……と　<kyodai>は　一緒ではないのか？\n　やれやれ。どうでもいい時には　顔を出すクセに\n　肝心な時には　おらんのだな。": "<kyodai> n'est pas avec toi ?\nEh bien, eh bien. Toujours la quand ca ne\ncompte pas, mais jamais quand on en a besoin."
+    },
+    "14761": {
+        "「すまぬが　<kyodai>を　呼んできてくれ。\n　お前たち<pc_rel3>が　そろっている時に\n　話したいことがあるのじゃ。": "Desole, mais tu vas devoir aller chercher\n<kyodai>.<br>J'ai quelque chose a vous dire a tous\nensemble."
+    },
+    "14764": {
+        "「ありがとうございます！\n　では　失礼して……\n　さっそく　作らせていただきますね。": "Merci beaucoup! Eh bien, si vous permettez…… \nJe vais m'y mettre immediatement."
+    },
+    "14765": {
+        "「<pc>さんは\n　ご存知なかったかもしれませんが……。\n　じつは　私……　さいほうが得意なんです。": "<pc>, Vous ne le saviez peut-etre \npas... Mais en realite, je suis doue pour la \ncouture."
+    },
+    "14766": {
+        "「おばあさまの服も\n　いつも　私が作っているんですよ。": "Les vetements de grand-mere sont toujours \nfaits par moi."
+    },
+    "14767": {
+        "「よし　できた！": "D'accord, c'est pret !"
+    },
+    "14768": {
+        "「ほら！　香りも　肌ざわりも　申し分ない。\n　最高の安眠まくらの　完成です！": "Voila ! Le parfum et la texture sont\nimpeccables. Voici le meilleur oreiller pour\nune nuit de sommeil parfaite !"
+    },
+    "14769": {
+        "「<pc>さんが　集めてくださった\n　もみガラと　お茶の葉の効果で\n　おばあさまも　ぐっすり眠れるはずですよ！": "Grace aux bienfaits des cosses de riz et des\nfeuilles de the recoltees, grand-mere devrait\nenfin pouvoir dormir paisiblement !"
+    },
+    "14770": {
+        "「さあ！　さっそく　おばあさまに\n　使っていただきましょう！\n　一緒に　向かいの部屋に　来てください！": "Allez ! Faisons en sorte que grand-mere\nl'utilise immediatement ! Venez avec moi dans\nla piece d'en face !"
+    },
+    "14771": {
+        "「これと　これも　入れて……\n　フタを閉めて……。": "Ajoute ca et ca aussi... Ferme le couvercle..."
+    },
+    "14772": {
+        "「よーし……。\n　今度こそ　すっごいのが　できるぞ。\n　きっと……。": "D'accord... Cette fois-ci, je vais vraiment\ncreer quelque chose d'incroyable. Sans aucun\ndoute..."
+    },
+    "14773": {
+        "なんと　ごきげんなぼうしが　できた！": "Et voila, le Chapeau Heureux est pret !"
+    },
+    "14774": {
+        "<kyodai>は\nごきげんなぼうしを　手に入れた！": "<kyodai> a obtenu le Chapeau Heureux !"
+    },
+    "14775": {
+        "「やったあっ！\n　なんか　すっごいの　できた！": "J'ai reussi ! J'ai cree quelque chose de\nvraiment incroyable !"
+    },
+    "14776": {
+        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>>": "<if_woman> Tiens, grande soeur ?<else>Tiens, grand frere ? <endif>"
+    },
+    "14777": {
+        "<if_woman>「いいところに来たね！\n　これ……　姉ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<else>「いいところに来たね！\n　これ……　兄ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<endif>>": "Tu arrives au bon moment ! Voici un\ncadeau pour toi ! Je suis sur nque ca t'ira \nmerveille !"
+    },
+    "14778": {
+        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> a obtenu le Chapeau Heureux !<me 60> "
+    },
+    "14779": {
+        "「あれ？　かばんが　いっぱいだね。\n　しょうがないから　おいらが　持っておくよ。": "Tiens ? Ton sac est plein. Bon, tant pis, je\nvais le garder pour toi."
+    },
+    "14780": {
+        "<if_woman>「で　姉ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<endif>>": "Et toi alors, qu'est-ce qui t'amene jusqu'ici?"
+    },
+    "14781": {
+        "「……えっ？\n　アバさまが　おいらを呼んでる？": "…Hein ? Abba-sama me demande ?"
+    },
+    "14782": {
+        "「ふっふっふっふっふっ……。": "Heheheheh..."
+    },
+    "14783": {
+        "「それって　ついに　アバさまが\n　おいらの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Cela signifie que le jour est enfin venu ou\nAbba-sama compte sur mon alchimie, n'est-ce\npas ?!"
+    },
+    "14784": {
+        "<if_woman>「さあ　姉ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<endif>>": "Allez !\nAllons voir Aba-sama !\nN'oublie pas le chapeau que j'ai fabrique !"
+    },
+    "14785": {
+        "<kyodai>が　仲間に加わった！<me 61>": "<kyodai> a rejoint votre equipe ! <me 61>"
+    },
+    "14786": {
+        "「テキスト削除": "text deletion"
+    },
+    "14831": {
+        "「<pc>さん。私が　起こしますよ。\n　寝起きの　おばあさまは　機嫌が悪いので……。": "<pc>-san.\nJe vais la reveiller. Quand elle se reveille,\ngrand-mere est souvent de mauvaise humeur..."
+    },
+    "14832": {
+        "「失礼します　おばあさま。\n　<pc>さんが　<kyodai>さんを\n　連れていらっしゃいましたよ。": "Excusez-moi, grand-mere.\n<pc> a amene <kyodai>."
+    },
+    "14833": {
+        "「とおッ！": "Hi-YAH!"
+    },
+    "14834": {
+        "「お　おばあさま……？": "Grand-mere… ?"
+    },
+    "14835": {
+        "「お元気そう……　ですね？": "Vous avez l'air en pleine forme...?"
+    },
+    "14836": {
+        "「うむ！　快眠じゃ！！": "Hum ! Quel sommeil reparateur !!"
+    },
+    "14837": {
+        "「……おかげで　寝覚めも　よかった。\n　なかなか　いい　まくらじゃったぞい。": "…Grace a toi, j'ai bien dormi. C'etait un\noreiller plutot confortable."
+    },
+    "14838": {
+        "「あ……　ありがとうございます！": "Ah... Merci !"
+    },
+    "14839": {
+        "「よし　みんな　そろったな。": "Bien, tout le monde est reuni."
+    },
+    "14840": {
+        "「では　シンイ！　村の者たちを集めよ！\n　これより　カメさまのお告げを　皆に伝える！": "Bien, Shini ! Rassemble les villageois ! Je\nvais transmettre a tous le message de\nGalapagod !"
+    },
+    "14841": {
+        "「はいっ！": "Oui !"
+    },
+    "14842": {
+        "「エテーネの民たちよ！\n　心して　聞くがよい！": "Peuple d'Ethene ! Ecoutez attentivement !"
+    },
+    "14843": {
+        "「わしは　カメさまからの　お告げをたまわる\n　巫女として　託された　お告げを\n　ありのままに　伝える！": "En tant que pretresse recevant les oracles de\nGalapagod, je vais transmettre fidelement le\nmessage qui m'a ete confie !"
+    },
+    "14844": {
+        "「まもなく　このエテーネの村は……": "Bientot, le village d'Ethene sera..."
+    },
+    "14845": {
+        "「大いなる災厄に見舞われ　滅びる！\n　エテーネの民は　ひとり残らず\n　死に絶えるじゃろう！": "...frappee par une grande calamite ! Les\nhabitants d'Ethene mourront tous, sans laisser\nun seul survivant !"
+    },
+    "14848": {
+        "「お告げには　まだ続きがある……。": "La prophetie n'est pas encore terminee..."
+    },
+    "14849": {
+        "「エテーネの民は　死に絶えるだろう……\n　だが　光明が　残されていないわけではない！": "Le peuple d'Ethene perira surement...\nCependant, tout espoir n'est pas perdu !"
+    },
+    "14850": {
+        "「北の　清き水の洞くつに咲く　伝説の霊草\n　テンスの花があれば　滅びの運命から\n　逃れられる……　ということじゃ！": "Si nous pouvions obtenir la legendaire plante\nspirituelle, la Fleur de Tens, qui fleurit\ndans la Grotte de Clearwater au nord, nous<br>pourrions echapper a notre funeste destin...\ntelle est la legende !"
+    },
+    "14854": {
+        "「テンスの花を　採りにいくのは\n　わしの孫のシンイと　<pc>！": "C'est a mon petit-fils Shini et <pc>\nd'aller cueillir la Fleur de Tens !"
+    },
+    "14855": {
+        "「そして……<kyodai>！\n　この　３名じゃ！": "Ainsi que... <kyodai> ! Ces trois-la !"
+    },
+    "14856": {
+        "「大いなる災厄は　そこまで迫っておる！\n　だが　わしも　チカラを尽くす！": "La grande calamite approche a grands pas !\nMais moi aussi, je donnerai tout ce que j'ai !"
+    },
+    "14857": {
+        "「このわしが　カメさまと共に\n　エテーネの村を　守りきってみせるわ！！": "Je protegerai le village d'Ethene avec le\nGalapagod a mes cotes, je vous le promets !!"
+    },
+    "14864": {
+        "「ふうっ……。": "Ouf..."
+    },
+    "14869": {
+        "「さあ　急ぎましょう！　清き水の洞くつは\n　育みの大地よりも　はるか遠い　北にあります。\n　私の家で祈りを捧げて　すぐに出発しましょう！": "Allez, depechons-nous ! La grotte Clearwater\nse trouve bien plus loin au nord que la terre\nnourriciere. Prions chez moi et partons<br>immediatement !"
+    },
+    "14900": {
+        "｢テキスト削除": "Delete text"
+    },
+    "14901": {
+        "<center>エテーネの民　<pc>よ……。\nさあ　目を覚ましなさい。": "<pc>... Reveille-toi."
+    },
+    "14902": {
+        "<center>冥王のチカラにより\nあなたの命は尽きましたが　その魂には\nまだ　果たすべき使命が　あるのです。": "Bien que votre vie ait pris fin a cause du\npouvoir du Roi des Ombres, votre ame a encore\nune mission a accomplir."
+    },
+    "14903": {
+        "<center>隔絶された島で　生きてきた\nあなたたち　エテーネの民は\n知らないでしょう……。": "Vous, peuple d'Ethene, qui avez vecu sur une\nile isolee, ne le savez probablement pas..."
+    },
+    "14904": {
+        "<center>これより　５人の神々が\nあなたに　チカラを貸してくれます。": "A partir de maintenant, cinq divinites vont\nvous preter leur aides."
+    },
+    "14905": {
+        "<center>さあ　神の像の前にゆき\nどの姿に生まれ変わるか　決めるのです。": "Rendez-vous devant une statue et choisissez la\nforme sous laquelle vous souhaitez renaitre."
+    },
+    "14906": {
+        "「なんなんだ……これは……！": "Qu'est-ce que... c'est que ca... !"
+    },
+    "14907": {
+        "「テキスト削除": "<text deletion>"
+    },
+    "14908": {
+        "「お　おばあさまは……！": "Grand-mere... !"
+    },
+    "14909": {
+        "「いやあああっ！": "Non, aaaaah !"
+    },
+    "14910": {
+        "「くそっ！": "Mince !"
+    },
+    "14911": {
+        "「…………っ！？": "... Quoi !?"
+    },
+    "14912": {
+        "「<kyodai>さんっ！！": "<kyodai>-san !!"
+    },
+    "14913": {
+        "「あ……　あ…………。": "Ah... Ah..."
+    },
+    "14914": {
+        "「な　なんなの……　この光…………。": "Qu'est-ce que... cette lumiere...?"
+    },
+    "14915": {
+        "「時間が　止まってる……？": "Le temps s'est arrete...?"
+    },
+    "14916": {
+        "「まさか　これ…………！": "Impossible... c'est... !"
+    },
+    "14917": {
+        "<if_woman>「イヤだよ！　姉ちゃん！！\n　おいらを　ひとりにしないで！！<else>「イヤだよ！　兄ちゃん！！\n　おいらを　ひとりにしないで！！<endif>>": "Non ! <pc> !!\nNe me laisse pas seul !!"
+    },
+    "14918": {
+        "<if_woman>「姉ちゃん！　姉ちゃんっ！！<else>「兄ちゃん！　兄ちゃんっ！！<endif>>": "<pc> ! <pc> !!!"
+    },
+    "14919": {
+        "<if_woman>「姉ちゃぁぁあああんっ！！<else>「兄ちゃぁぁあああんっ！！<endif>>": "Nooooon <pc> !!!!"
+    },
+    "14920": {
+        "「<kyodai>さんが……　消えた？": "<kyodai>-san a... disparu ?"
+    },
+    "14921": {
+        "「まさか　今のは……？": "Est-ce que c'etait vraiment... ?"
+    },
+    "14922": {
+        "「ぎゃあああああ！！！": "Aaaaaah !!!"
+    },
+    "14923": {
+        "「<pc>さん。\n　テンスの花は　私が　命に代えても\n　必ず　おばあさまに　届けます！": "<pc>-san. Meme si je dois y laisser ma\nvie, je m'assurerai de livrer la Fleur de Tens\na ma grand-mere !"
+    },
+    "14924": {
+        "「間に合わせてみせる……！": "Je ferai en sorte d'y arriver a temps... !"
+    },
+    "14925": {
+        "「くっくっく……　見たぞ！": "Kukuku... Je vous ai vus !"
+    },
+    "14926": {
+        "「こいつです　冥王さま！\n　あの術を　使いやがったのはっ！": "C'est lui, grand roi des Ombres ! C'est lui\nqui a utilise ce sort !"
+    },
+    "14927": {
+        "「やはり　時渡りの術を使う者が　現れたか。": "Ainsi, quelqu’un capable d’utiliser l’Art du\nVoyage temporel est finalement apparu…"
+    },
+    "14928": {
+        "「だが　ネズミ１匹　逃がしたところで\n　この冥王ネルゲルを　阻むことはできぬ。": "Mais laisser echapper un seul rat ne pourra\npas entraver le Roi des ombres, Nergel."
+    },
+    "14929": {
+        "「冥王とは　あまねく　死を統べる者。\n　生きとし生ける者が　死から逃れられぬように\n　何人たりとも　我からは　逃れられぬ。": "Le Roi des Ombres est celui qui regne sur la\nmort omnipresente. De meme que nul etre vivant\nne peut echapper a la mort, personne ne peut<br>m'echapper."
+    },
+    "14930": {
+        "「いまわしき　時渡りの術者よ！\n　灼熱の獄炎で　その身を　焼き尽くしてやろう！": "Maudit etre du temps !\nJe vais reduire ton corps en cendres dans les\nflammes de l’enfer !"
+    },
+    "14931": {
+        "「テキスト削除": "text deletion"
+    },
+    "14932": {
+        "「テキスト削除": "text deletion"
+    },
+    "14933": {
+        "「テキスト削除": "text deletion"
+    },
+    "14934": {
+        "「…………っ！？": ".........?!"
+    },
+    "14935": {
+        "「…………っ！？": ".........?!"
+    },
+    "14936": {
+        "「…………っ！？": ".........?!"
+    },
+    "14937": {
+        "「あ……　あ…………。": "Ah... Ah..."
+    },
+    "14938": {
+        "「あ……　あ…………。": "Ah... Ah..."
+    },
+    "14939": {
+        "「あ……　あ…………。": "Ah... Ah..."
+    },
+    "14940": {
+        "「な　なんだ……　この光…………。": "Qu-Qu'est-ce que... cette lumiere... ?"
+    },
+    "14941": {
+        "「な　なんなの……　この光…………。": "Q-Qu'est-ce que... cette lumiere... ?"
+    },
+    "14942": {
+        "「な　なんなの……　この光…………。": "Qu... Qu'est-ce que... cette lumiere... ?"
+    },
+    "14943": {
+        "「時間が　止まってる……？": "Le temps s'est arrete... ?"
+    },
+    "14944": {
+        "「時間が　止まってる……？": "Le temps s'est arrete... ?"
+    },
+    "14945": {
+        "「時間が　止まってる……？": "Le temps s'est arrete... ?"
+    },
+    "14946": {
+        "「まさか　これ…………！": "Impossible, ca ne peut pas etre... !"
+    },
+    "14947": {
+        "「まさか　これ…………！": "Impossible, ceci est... !"
+    },
+    "14948": {
+        "「まさか　これ…………！": "Serait-ce possible que ceci... !"
+    },
+    "14949": {
+        "「<pc>か！？\n　くそっ！　余計なことすんじゃねえ！！\n　オレと　お前は　死ぬ時も　一緒だっ！！": "<pc>, hein !?\nMince ! Ne fais pas de betises !\nToi et moi, on va mourir ensemble !!"
+    },
+    "14950": {
+        "「ちょっと！　<pc>！\n　勝手なことすんじゃないわよ！\n　あんたを守るのは　あたしなんだからっ！！": "He ! <pc> !\nNe fais pas n'importe quoi !\nC'est moi qui suis la pour te proteger !"
+    },
+    "14951": {
+        "<if_woman>「イヤだよ！　お姉ちゃん！！\n　私を　ひとりにしないで！！<else>「イヤだよ！　お兄ちゃん！！\n　私を　ひとりにしないで！！<endif>>": "<if_woman>Arrete ca ! Ne me laisse pas seule !!<else>Arrete ca ! Ne me laisse pas seule !!<endif>>"
+    },
+    "14952": {
+        "「<pc>！　<pc>っ！！": "<pc>! <pc>!!"
+    },
+    "14953": {
+        "「<pc>！　<pc>っ！！": "<pc>! <pc>!!"
+    },
+    "14954": {
+        "<if_woman>「お姉ちゃん！　お姉ちゃんっ！！<else>「お兄ちゃん！　お兄ちゃんっ！！<endif>>": "<if_woman><pc>! <pc>!!<else><pc>! <pc>!!<endif>>"
+    },
+    "14955": {
+        "「<pc>ーーーーーっ！！": "<pc> !!"
+    },
+    "14956": {
+        "「<pc>ーーーーーっ！！": "<pc>!!!!"
+    },
+    "14957": {
+        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>>": "<if_woman><pc>! <pc>!!<else><pc>! <pc>!!<endif>>"
+    },
+    "14958": {
+        "「おかしいですね。\n　魔物たちが　１匹も　いないなんて。": "C'est etrange.\nIl n'y a pas un seul monstre ici."
+    },
+    "14959": {
+        "「ねえ　今　カミナリが落ちた方角って……。": "He, la direction ou la foudre est tombee..."
+    },
+    "14960": {
+        "「村の方角です！　急ぎましょうっ！！": "C'est en direction du village !\nDepechons-nous !"
+    },
+    "14961": {
+        "「なあ　今　カミナリが落ちた方角って……。": "He, la direction ou la foudre est tombee..."
+    },
+    "14962": {
+        "「ねえ　今　カミナリが落ちた方角って……。": "He, la direction ou la foudre est tombee..."
+    },
+    "14963": {
+        "「い…今　カミナリが落ちた方角って……。": "La direction ou la foudre vient de tomber…"
+    },
+    "14964": {
+        "「ぐっ……　バ　バカなぁ…………。": "Gu... C'est... C'est impossible..."
+    },
+    "14965": {
+        "「じゃが……　たとえ　この身が果てようとも\n　冥王さまより与えられし　使命だけは！": "Mais... meme si ce corps devait perir, je ne\nfaillirai jamais a la mission que m'a confiee\nle Roi des Ombres !"
+    },
+    "14966": {
+        "「ああっ　テンスの花が……！": "Oh non ! La Fleur de Tens... !"
+    },
+    "14967": {
+        "「冥王さま……！\n　時を　超える……　エテーネの民は……\n　め…冥王さまの　手で……　滅ぼしてくだされ！": "Seigneur des Ombres... ! Les gens d'Ethene qui\ntraversent le temps... Je vous en prie...\nAneantissez-les de vos mains...!!"
+    },
+    "14968": {
+        "「ど　どうしよう……。\n　テンスの花が　全部　焼けちゃった……。": "Qu’est-ce que je vais faire... ? Toutes les\nFleurs de Tens ont brule..."
+    },
+    "14969": {
+        "「時を超えるとかなんとか\n　わけのわからないこと言って\n　おいらたちの　ジャマをするなんて……。": "Parler de traverser le temps ou je ne sais\nquoi, et venir nous gener ainsi..."
+    },
+    "14970": {
+        "「古い書物によると……": "Selon un vieux manuscrit..."
+    },
+    "14971": {
+        "「私たち　エテーネの民は　はるか昔\n　自由に時を超えられる　時渡りの術という能力を\n　持っていたそうです。": "Nous, le peuple d'Ethene, possedions il y a\nfort longtemps la capacite de traverser le\ntemps librement grace a une technique appelee<br>l'art du voyage temporel."
+    },
+    "14972": {
+        "「ですが　時渡りの術を使える者は\n　時代と共に　少なくなっていき\n　数百年前に　完全に失われたのだとか……。": "Cependant, ceux qui pouvaient utiliser l'art\ndu voyage temporel sont devenus de plus en\nplus rares avec le temps, et il parait que cet<br>art a ete completement perdu il y a plusieurs\ncentaines d'annees..."
+    },
+    "14973": {
+        "「そうだったんだ……。\n　今はもうない能力なのに　そのために\n　こんな目にあわされるなんて　あんまりだよ！": "Je vois... C'est vraiment injuste de subir ca\npour un pouvoir qu'on n'a meme plus !"
+    },
+    "14974": {
+        "「ダメだ……　見つからない……。\n　テンスの花が　１本でも残っていれば\n　おばあさまの言いつけを　果たせたのに！": "Non... Je ne la trouve pas... Si seulement il\nrestait une seule fleur de Tens, j'aurais pu\naccomplir la demande de grand-mere !"
+    },
+    "14975": {
+        "「……仕方ありません。村に帰りましょう。\n　他に　大いなる災厄を止める手立てが\n　あるかもしれません。": "Il n'y a pas d'autre choix. Retournons au\nvillage. Peut-etre y a-t-il une autre facon de\nstopper ce grand fleau."
+    },
+    "14976": {
+        "「どうしました　<kyodai>さん？": "Que se passe-t-il, <kyodai>-san ?"
+    },
+    "14977": {
+        "「あそこ……　光ってる。": "La-bas... ca brille."
+    },
+    "14978": {
+        "「……光？": "Ça brille ?"
+    },
+    "14979": {
+        "「私には　見えませんが……。": "Je ne vois rien..."
+    },
+    "14980": {
+        "「おいらには　見える！": "Ah !"
+    },
+    "14981": {
+        "「これ！": "Ici !"
+    },
+    "14982": {
+        "「そ　それは……！": "Ce... c'est... !"
+    },
+    "14983": {
+        "「よくぞ　見つけてくださいました！\n　これさえあれば　村を……\n　滅びの運命から　救えるかもしれません！": "Merci de l'avoir trouve ! Avec cela, nous\npourrons peut-etre... sauver le village de son\ndestin funeste !"
+    },
+    "14984": {
+        "「よかった。\n　おいらも　役に立てたんだね！": "Ouf, je suis content. J'ai pu etre utile, moi\naussi !"
+    },
+    "14985": {
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが\n　おいらの役目だったんだ。姉ちゃん　おいらを\n　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが\n　おいらの役目だったんだ。兄ちゃん　おいらを\n　ここまで連れてきてくれて　ありがとう！<endif>>": "<if_woman>Je suis sur que c'etait mon role de\ntrouver la Fleur de Tens ici. Grande soeur,\nmerci de m'avoir amene jusqu'ici !<else>Je suis sur que c'etait mon role de trouver la\nFleur de Tens ici. Grand frere, merci de\nm'avoir amene jusqu'ici ! <endif>>"
+    },
+    "14986": {
+        "シンイは\nテンスの花を　手に入れた！<me 60>": "Shini a obtenu la Fleur de Tens ! <me 60>"
+    },
+    "14987": {
+        "「さあ　この花を\n　おばあさまに　届けなくては！\n　急ぎましょう！": "Allez, il faut que nous apportions cette fleur\na grand-mere ! Depechons-nous !"
+    },
+    "14988": {
+        "「ど　どうすんだ……。\n　テンスの花が　みんな　焼けちまったのか？": "Qu... Qu'est-ce qu'on va faire...? Est-ce que\ntoutes les Fleur de Tens ont ete brulees ?"
+    },
+    "14989": {
+        "「ど　どうすんのよ……。\n　テンスの花が　全部　燃やされちゃったわよ！": "Qu... Qu'est-ce qu'on va faire... ? La Fleur\nde Tens a ete entierement brulee !"
+    },
+    "14990": {
+        "「ど　どうしたらいいの……？\n　テンスの花が　全部　燃えちゃった。": "Que... que devrais-je faire... ? Toutes les\nFleurs de Tens ont brule."
+    },
+    "14991": {
+        "「時を超えるとかなんとか\n　わけのわからないことを言って\n　オレたちの　ジャマしやがって……。": "Il parle de traverser le temps ou je ne sais\nquoi, et il s'est mis a nous gener avec ses\nabsurdites..."
+    },
+    "14992": {
+        "「時を超えるとかなんとか\n　わけのわかんないこと言って\n　あたしたちの　ジャマをするなんて……。": "Parler de traverser le temps ou je ne sais\nquoi, et oser nous gener ainsi..."
+    },
+    "14993": {
+        "「時を超えるとかなんとか\n　わけのわからないこと言って　私たちの\n　ジャマをするなんて　信じらんない……。": "C'est incroyable... Dire des choses\nincomprehensibles comme traverser le temps et\nnous mettre des batons dans les roues..."
+    },
+    "14994": {
+        "「そうだったのか……。\n　今はもうない能力なのに　そのために\n　こんな目にあわされるなんて　あんまりだぜ。": "Alors c'etait ca... C'est vraiment injuste de\nsubir ca pour une capacite qu'on n'a meme\nplus."
+    },
+    "14995": {
+        "「そうだったんだ……。\n　今はもうない能力なのに　そのために\n　こんな目にあわされるなんて　あんまりだわ！": "Je vois... C'est vraiment injuste d'etre\ntraite ainsi pour un pouvoir qui n'existe meme\nplus !"
+    },
+    "14996": {
+        "「そうだったんだ……。\n　今はもうない能力なのに　そのために\n　こんな目にあわされるなんて　あんまりだよね。": "Alors c'etait ca... C'est vraiment injuste de\nsubir ca pour une capacite qu'on n'a meme\nplus."
+    },
+    "14997": {
+        "「あそこ……　光ってないか？": "La-bas... ca brille ?"
+    },
+    "14998": {
+        "「あそこ……　光ってない？": "La-bas... ca brille ?"
+    },
+    "14999": {
+        "「あそこ……　光ってる。": "La-bas... ca brille."
+    },
+    "15000": {
+        "「オレには　見える！": "Je peux le voir !"
+    },
+    "15001": {
+        "「あたしには　見えるのよ！": "Je peux le voir !"
+    },
+    "15002": {
+        "「私には　見えるの！": "Je peux le voir !"
+    },
+    "15003": {
+        "「これだ！": "C'est ca !"
+    },
+    "15004": {
+        "「これ！": "Ici !"
+    },
+    "15005": {
+        "「これ！": "Ici !"
+    },
+    "15006": {
+        "「へっへ～ん。\n　さすが　オレだぜ！": "He he~ ! Ça, c'est bien moi !"
+    },
+    "15007": {
+        "「ふふん！\n　みんな　あたしに感謝してよねっ！": "Hehe ! Vous devriez tous me remercier !"
+    },
+    "15008": {
+        "「えへへへ……。\n　私も　役に立てて　うれしいな～！": "Ehehehe... Je suis tellement contente de\npouvoir etre utile !"
+    },
+    "15009": {
+        "「たぶん　ここで　テンスの花を見つけるのが\n　オレの役目だったのかもな！　<pc>\n　ここまで連れてきてくれて　ありがとよ！": "Peut-etre que c'etait mon role de trouver la\nFleur de Tens ici ! <pc>, merci de\nm'avoir emmene jusqu'ici !"
+    },
+    "15010": {
+        "「きっと　ここで　テンスの花を見つけるのが\n　あたしの役目だったのね。<pc>\n　ここまで連れてきてくれて　ありがと！": "C'etait surement mon role de trouver la Fleur\nde Tens ici. <pc>, merci de m'avoir\namenee jusqu'ici !"
+    },
+    "15011": {
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが\n　私の役目だったのね。お姉ちゃん　私を\n　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが\n　私の役目だったのね。お兄ちゃん　私を\n　ここまで連れてきてくれて　ありがと！<endif>>": "<if_woman>C'etait surement mon role de trouver\nla Fleur de Tens ici. Grande soeur, merci de\nm'avoir amenee jusqu'ici !<else>C'etait surement mon role de trouver la Fleur\nde Tens ici. Grand frere, merci de m'avoir\namenee jusqu'ici !<endif>>"
+    },
+    "15012": {
+        "「ここです。\n　テンスの花は　この扉の向こうに咲いていると\n　書物に　記されていました。": "Nous y sommes. Il est ecrit dans les livres\nque la Fleur de Tens fleurit de l'autre cote\nde cette porte."
+    },
+    "15013": {
+        "「最後に　この扉が開かれたのは\n　いったい　いつのことか\n　私には　想像もつきませんが……": "La derniere fois que cette porte a ete\nouverte, je ne saurais dire quand cela\nremonte. Je n'arrive meme pas a l'imaginer..."
+    },
+    "15014": {
+        "「この洞くつに流れる　清き水が　今も\n　テンスの花を　育み続けてくれているはず。": "L'eau pure qui coule dans cette grotte\ncontinue surement de nourrir la Fleur de Tens."
+    },
+    "15015": {
+        "「さあ　行きましょう！": "Allez, allons-y !"
+    },
+    "15018": {
+        "「いまわしき　テンスの花は\n　この魔導鬼ベドラーさまが\n　すべて　焼き尽くしてくれるわあ！": "Cette abominable Fleur de Tens, je vais tout\nbruler jusqu'a la derniere grace a ma magie,\nmoi, le grand Sorcier Bedora-sama !"
+    },
+    "15020": {
+        "「ん……？": "Hmm...?"
+    },
+    "15021": {
+        "「キヒヒヒ！　お前らは　エテーネの民か！": "Ki hihihi ! Vous etes des habitants d'Ethene ?"
+    },
+    "15023": {
+        "「じゃが　そうはいかんぞ！\n　時を超えるチカラを秘めた　お前たちに\n　この花を渡すわけには　いかんからのう！": "Mais je ne peux pas vous laisser faire ! Je ne\npeux pas vous remettre cette fleur, vous qui\npossedez le pouvoir de transcender le temps !"
+    },
+    "15025": {
+        "「<pc>さん……。\n　やはり……　お話ししておきます。": "<pc>-san...\nJe dois vraiment vous en parler."
+    },
+    "15026": {
+        "「じつは　おばあさまが　気になることを\n　つぶやいていらっしゃったのです。": "En fait, grand-mere a murmure quelque chose\nqui m'a intriguee."
+    },
+    "15027": {
+        "「気になること？": "Quelque chose te tracasse ?"
+    },
+    "15028": {
+        "「たとえ　滅亡の運命から\n　逃れることが　できたとしても……": "Meme si nous pouvions echapper au destin de la\ndestruction..."
+    },
+    "15029": {
+        "「……生き残れるのは\n　たった　ひとり……と。": "......Il n'y aura qu'un seul survivant......"
+    },
+    "15030": {
+        "「えっ？　ひ…ひとり！？": "Quoi ? Un seul !?"
+    },
+    "15031": {
+        "「ひとりって……　それって……\n　他の人は　みんな　死んじゃうってこと？": "Une seule... ca veut dire que tous les autres\nvont mourir ?"
+    },
+    "15032": {
+        "「それは　私にも　わかりませんが\n　言葉のままに　受け取るなら\n　そういうことだと思います。": "Je ne sais pas non plus, mais si je devais\nprendre ces mots au pied de la lettre, c'est\nce que je pense."
+    },
+    "15033": {
+        "「そ　そんな……。": "Ce... ce n'est pas possible..."
+    },
+    "15034": {
+        "「気を落とさないでください。\n　……おそらく　おばあさまは\n　最悪の場合のことを　つぶやかれたのでしょう。": "Ne vous laissez pas abattre. ...Peut-etre que\ngrand-mere murmurait a propos du pire des\nscenarios."
+    },
+    "15035": {
+        "「カメさまの　お告げどおり\n　テンスの花さえあれば　村は助かるとも\n　おばあさまは　おっしゃっていました。": "Selon la prophetie de Galapagod, tant que nous\navons la Fleur de Tens, le village sera sauve,\ndisait Grand-mere."
+    },
+    "15036": {
+        "「だから　今は　おばあさまの言葉を信じて\n　必ず　テンスの花を　村へ持ちかえりましょう！": "Alors, faisons confiance aux paroles de\nGrand-mere pour le moment et ramenons\nabsolument la Fleur de Tens au village !"
+    },
+    "15037": {
+        "「そうだよね……！　おいらも信じる！\n　テンスの花さえあれば\n　みんな助かるって　信じるよ！": "Oui, c'est ca... ! Moi aussi, je crois en ca !\nJe crois que tant qu'on a Fleur de Tens, tout\nle monde pourra etre sauve !"
+    },
+    "15038": {
+        "「気になることだって？": "Quelque chose te tracasse ?"
+    },
+    "15039": {
+        "「気になること？": "Quelque chose t'intrigue ?"
+    },
+    "15040": {
+        "「気になることって？": "Qu'est-ce qui te tracasse ?"
+    },
+    "15041": {
+        "「えっ？　ひ…ひとり！？": "Quoi ? Un seul ?!"
+    },
+    "15042": {
+        "「えっ？　ひ…ひとり！？": "Quoi ? Un seul ?!"
+    },
+    "15043": {
+        "「えっ？　ひ…ひとり！？": "Quoi ? Un seul ?!"
+    },
+    "15044": {
+        "「ひとりって……　それって……\n　他のヤツは　みんな　死んじまうってことか？": "......Un seul ? Ça veut dire que tous les\nautres vont mourir ?"
+    },
+    "15045": {
+        "「ひとりって……　それって……\n　他の人は　みんな　死んじゃうってことなの？": "Un seul... Ça veut dire que... tous les autres\nvont mourir ?"
+    },
+    "15046": {
+        "「ひとりって……　それって……\n　他の人は　みんな　死んじゃうってこと？": "Un seul ?... Ça veut dire que... tous les\nautres vont mourir ?"
+    },
+    "15047": {
+        "「なんだよ……　それ……。": "Qu'est-ce que... ?"
+    },
+    "15048": {
+        "「そんなのって……。": "C'est pas possible..."
+    },
+    "15049": {
+        "「そ　そんなあ……。": "Ce... ce n'est pas possible..."
+    },
+    "15050": {
+        "「そうだよな……！　オレも信じる！\n　テンスの花さえあれば\n　みんな助かるって　信じるぜ！": "C'est vrai... ! Moi aussi, j'y crois ! Je suis\nconvaincu que tant que nous avons la Fleur de\nTens, tout le monde sera sauve !"
+    },
+    "15051": {
+        "「そうよね……！　あたしも信じるわ！\n　テンスの花さえあれば\n　みんな助かるって　信じる！": "Oui... ! Moi aussi je crois en ca ! Je suis\nconvaincue que tant que nous avons la Fleur de\nTens, tout le monde sera sauve !"
+    },
+    "15052": {
+        "「そうだよね……！　私も信じる！\n　テンスの花さえあれば\n　みんな助かるって　信じるよ！": "Oui, c'est ca... ! Moi aussi, j'y crois ! Je\nsuis convaincue que si nous avons la Fleur de\nTens, tout le monde sera sauve !"
+    },
+    "15053": {
+        "<pc>は\n岩に　刻まれている文字を　読んだ。": "<pc> lit les inscriptions gravees dans\nla roche."
+    },
+    "15054": {
+        "<center>この世界で　平和に　暮らしていた\nすべての　生きとし生ける者は\n滅亡の危機に　さらされた。": "Dans ce monde ou tous les etres vivants\nvivaient en paix, ils ont ete confrontes a une\nmenace de destruction totale."
+    },
+    "15055": {
+        "<center>今　空には　ふたつの太陽が　昇っている。\nふたつめの太陽……　それが現れてから\nこの世は　地獄と化してしまったのだ。": "Deux soleils se sont leves dans le ciel.\nDepuis cet evenement, ce monde est devenu un\nveritable enfer."
+    },
+    "15056": {
+        "<center>いまわしき　ふたつめの太陽は　自在に空を駆け\n大地を焼き　海を干上がらせ\n人々を　灼熱の絶望に　おとしいれた。": "Le maudit second soleil parcourait librement\nle ciel, brulant la terre, assechant les mers\net plongeant les gens dans un desespoir<br>brulant."
+    },
+    "15057": {
+        "<center>太陽が　ふたつになった理由など　知る由もない。\nわかっていることは　地上に　生きる者すべてが\n滅亡しようとしているということだけだ。": "Nous ne savons pas pourquoi le soleil est\ndevenu double. Ce que nous savons, c'est que\ntous les etres vivants sur terre sont sur le<br>point de disparaitre."
+    },
+    "15058": {
+        "「こんな所にも　いしずえの森と同じような\n　壁画があったのですね。": "Il y avait donc aussi une fresque semblable a\ncelle de la Foret de la Pierre Angulaire ici."
+    },
+    "15059": {
+        "「ふたつめの太陽……。\n　そして……　滅亡……。": "Un second soleil... Et ensuite... la\ndestruction..."
+    },
+    "15060": {
+        "「……私は　以前から\n　いしずえの森の岩に　描かれていた絵を\n　不思議な気持ちで　見ていました。": "...... Depuis quelque temps, j'observe le\ndessin grave sur la roche de la foret\nd'Ishizue avec un sentiment de mystere."
+    },
+    "15061": {
+        "「人間以外の種族が　本当にいたのだとしたら\n　彼らは　どこに行ってしまったのだろうと……。": "Si d'autres races que les humains ont\nreellement existe, je me demande ou elles ont\nbien pu disparaitre..."
+    },
+    "15062": {
+        "「もしかしたら　ここに書かれているとおり\n　ほとんどの者たちが滅亡し……　私たち\n　人間だけが　生き残ったのかもしれませんね。": "Peut-etre que, comme il est ecrit ici, la\nplupart des etres ont peri... et que nous, les\nhumains, sommes peut-etre les seuls a avoir<br>survecu."
+    },
+    "15064": {
+        "「テキスト削除": "Delete text"
+    },
+    "15065": {
+        "「テキスト削除": "text deletion"
+    },
+    "15066": {
+        "「テキスト削除": "text deletion"
+    },
+    "15067": {
+        "「これと　これも　入れるだろ……\n　んで　フタを閉めて……。": "Je vais ajouter ca... et ca aussi... Voila.\nEnsuite, je referme le couvercle..."
+    },
+    "15068": {
+        "「これと　これも　入れて……\n　フタを閉めるでしょ……。": "Met ca et ca aussi a l'interieur... Puis, tu\nrefermes le couvercle..."
+    },
+    "15069": {
+        "「これと　これも　入れて……\n　フタを閉めて……。": "Ajoute celui-ci et celui-la aussi... Ferme le\ncouvercle..."
+    },
+    "15070": {
+        "「よーし……。\n　今度こそ　すっげえのが　できるぜ。\n　たぶんよ……！": "Tres bien... Cette fois-ci, je vais creer\nquelque chose de vraiment incroyable. Enfin,\nje l'espere...!"
+    },
+    "15071": {
+        "「うーん……。\n　今度こそ　すっごいのが　できそうなんだけど。\n　たぶん……。": "Hmm... Cette fois, je pense que je vais\nvraiment reussir quelque chose d'incroyable.\nPeut-etre..."
+    },
+    "15072": {
+        "「よーし……。\n　今度こそ　すっごいのが　できちゃうよ。\n　きっと……。": "Bon... Cette fois, je vais vraiment reussir\nquelque chose de genial. Je suis sure..."
+    },
+    "15073": {
+        "「よっしゃあっ！\n　ホントに　すっげえのが　できたぜっ！": "Yes ! J'ai vraiment reussi a creer quelque\nchose d'incroyable !"
+    },
+    "15074": {
+        "「やったあっ！\n　なんか　すっごいの　できちゃった！": "Yes ! J'ai reussi a creer quelque chose de\ngenial !"
+    },
+    "15075": {
+        "「やったあっ！\n　なんか　すっごいのが　できたよ～！": "Youpi ! J'ai reussi a creer quelque chose\nd'incroyable !"
+    },
+    "15076": {
+        "「……<pc>？": "...<pc>?"
+    },
+    "15077": {
+        "「あら　<pc>？": "Tiens, <pc> ?"
+    },
+    "15078": {
+        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>>": "<if_woman>Hein ? Grande soeur ?<else>Hein ? Grand frere ? <endif>>"
+    },
+    "15079": {
+        "「ちょうど　いいところに来たな！\n　ほらよっ！　お前に　プレゼントだ！\n　絶対　似合うと思うぜ！": "Tu arrives au bon moment ! Tiens, c'est pour\ntoi, un cadeau ! Je suis sur que ca t'ira a\nmerveille !"
+    },
+    "15080": {
+        "「いいところに来たわね！\n　これ……　<pc>に　あげるわ。\n　きっと　似合うと思うわよ！": "Tu arrives au bon moment ! Tiens... Je vais te\ndonner ca, <pc>. Je suis sure que ca\nt'ira parfaitement !"
+    },
+    "15081": {
+        "<if_woman>「いいところに来たね～！\n　これ……　お姉ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<else>「いいところに来たね～！\n　これ……　お兄ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<endif>>": "<if_woman>Tu arrives au bon moment~ ! Ceci...\nc'est un cadeau pour grande soeur ! Je suis\nsure que ca lui ira a merveille !<else>Tu arrives au bon moment~ ! Ceci... c'est un\ncadeau pour grand frere ! Je suis sur que ca\nlui ira a merveille !<endif>>"
+    },
+    "15082": {
+        "「えーっ　かばんが　いっぱいなのかよ。\n　しょうがねえなあ。オレが　持っといてやるか。": "Quoi ? Ton sac est deja plein ? Bon, d'accord.\nJe vais le garder pour toi."
+    },
+    "15083": {
+        "「ちょっと！　かばんが　いっぱいじゃないの。\n　しょうがないわね。あたしが　持っててあげる！": "He ! Ton sac est plein, non ? Bon, tant pis.\nJe vais le porter pour toi !"
+    },
+    "15084": {
+        "「あれ？　かばんが　いっぱいなの？\n　じゃあ　私が　持っててあげるね！": "Hein ? Ton sac est deja plein ? Dans ce cas,\nlaisse-moi le garder pour toi !"
+    },
+    "15085": {
+        "「で　<pc>は　こんな所まで\n　なにしに来たんだ？": "Alors, <pc>, qu'est-ce qui t'amene\njusqu'ici ?"
+    },
+    "15086": {
+        "「で　<pc>は　こんな所まで\n　わざわざ　なにしに来たってわけ？": "Alors, <pc>, pourquoi es-tu venu\njusqu'ici, expres ?"
+    },
+    "15087": {
+        "<if_woman>「で　お姉ちゃんは　こんな所まで来て\n　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て\n　なんの用事？<endif>>": "<if_woman>Alors, grande soeur, qu'est-ce qui\nt'amene jusqu'ici ?<else>Alors, grand frere, qu'est-ce qui t'amene\njusqu'ici ? <endif>>"
+    },
+    "15088": {
+        "「……なんだって？\n　アバさまが　オレを呼んでる？": "...... Quoi ? Abba-sama me demande ?"
+    },
+    "15089": {
+        "「……えっ？\n　アバさまが　あたしを呼んでる？": "…Hein ? Abba-sama me demande ?"
+    },
+    "15090": {
+        "「……えっ？\n　アバさまが　私を呼んでる？": "…Hein ? Abba-sama me demande ?"
+    },
+    "15091": {
+        "「ふっふっふっふっふっ……。": "Fufufufufu..."
+    },
+    "15092": {
+        "「うふふふふ……。": "Ufufufufu..."
+    },
+    "15093": {
+        "「うふふふふふふふふふ……。": "Oh oh oh oh oh oh oh..."
+    },
+    "15094": {
+        "「それって　ついに　アバさまが\n　オレの錬金術を　頼りにする日が\n　来たってことじゃないか！？": "Cela signifie que le jour ou Abba-sama compte\nenfin sur mon alchimie est arrive, n'est-ce\npas !?"
+    },
+    "15095": {
+        "「それって　ついに　アバさまが\n　あたしの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba-sama compte sur mon alchimie ?!"
+    },
+    "15096": {
+        "「それって　ついに　アバさまが\n　私の錬金術を　頼りにする日が\n　来たってこと～！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba-sama compte sur mon alchimie ?!"
+    },
+    "15097": {
+        "「さあ　<pc>！\n　アバさまの所へ　行こうぜ～！　オレが作った\n　ぼうしのこと　忘れんじゃねーぞ！": "Allez, <pc> ! Allons voir Abba-sama !\nN'oublie pas le chapeau que j'ai fabrique !"
+    },
+    "15098": {
+        "「さあ　<pc>！\n　アバさまの所へ　行くわよっ！　あたしが作った\n　ぼうしのこと　忘れないでよねっ！": "Allez, <pc> ! Allons voir Abba-sama !\nN'oublie pas le chapeau que j'ai fabrique,\nd'accord ?"
+    },
+    "15099": {
+        "<if_woman>「さあ　お姉ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<endif>>": "<if_woman>Grande soeur ! Emmene-moi chez\nAbba-sama ! N'oublie pas le chapeau que j'ai\nfait...<else>Grand frere ! Emmene-moi chez Abba-sama !\nN'oublie pas le chapeau que j'ai\nfait...<endif>>"
+    },
+    "15100": {
+        "「テキスト削除": "text deletion"
+    },
+    "15101": {
+        "「テキスト削除": "text deletion"
+    },
+    "15102": {
+        "「テキスト削除": "text deletion"
+    },
+    "15103": {
+        "「テキスト削除": "text deletion"
+    },
+    "15104": {
+        "「テキスト削除": "text deletion"
+    },
+    "15105": {
+        "「テキスト削除": "text deletion"
+    },
+    "15106": {
+        "「テキスト削除": "text deletion"
+    },
+    "15107": {
+        "「テキスト削除": "text deletion"
+    },
+    "15108": {
+        "「テキスト削除": "text deletion"
+    },
+    "15110": {
+        "「まったく！\n　<kyodai>は　逃げ足だけは速いんだから。": "Franchement ! <kyodai> est vraiment rapide\nquand il s'agit de s'enfuir."
+    },
+    "15111": {
+        "「<pc>ー！": "<pc>!!"
+    },
+    "15112": {
+        "「<pc>～！": "<pc>!!"
+    },
+    "15113": {
+        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>>": "Hey, <pc>!!!"
+    },
+    "15114": {
+        "「どうだ　いいだろう！？": "Alors, qu'en penses-tu ? Impressionnant, non\n!?"
+    },
+    "15115": {
+        "「どう？　いいでしょう！？": "Alors, qu'en penses-tu ? C'est pas mal, non ?!"
+    },
+    "15116": {
+        "「どう？　いいでしょ！？": "Alors, qu'en penses-tu ? Pas mal, hein !?"
+    },
+    "15117": {
+        "「アバさまが　乗っていいって\n　言ってくれたんだぜ！": "Abba-sama a dit que je pouvais monter !"
+    },
+    "15118": {
+        "「アバさまが　乗っていいって\n　言ってくれたのよ！": "Abba-sama a dit que nous pouvions monter !"
+    },
+    "15119": {
+        "「アバさまが　乗っていいって\n　言ってくれたんだ～。": "Abba-sama a dit que nous pouvions monter."
+    },
+    "15120": {
+        "「なあっ　アバさま？": "Hein, Abba-sama ?"
+    },
+    "15121": {
+        "「ねえっ　アバさま？": "Hein, Abba-sama ?"
+    },
+    "15122": {
+        "「ねっ　アバさま？": "Hein, Abba-sama ?"
+    },
+    "15123": {
+        "「おう　アバさま。": "Oh, Abba-sama."
+    },
+    "15124": {
+        "「ええ　アバさま。": "Oui, Abba-sama."
+    },
+    "15125": {
+        "「はいっ　アバさま。": "Oui, Abba-sama."
+    },
+    "15126": {
+        "「おら！　<pc>も　乗りな乗りな！\n　ほら　オレの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
+    },
+    "15127": {
+        "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
+    },
+    "15128": {
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else>He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>>"
+    },
+    "15129": {
+        "「……えっ？": "...Hein ?"
+    },
+    "15130": {
+        "「……えっ？": "Quoi...?"
+    },
+    "15131": {
+        "「……ええっ？": "...... Hein ?"
+    },
+    "15132": {
+        "「な　なんで……？": "Po... Pourquoi... ?"
+    },
+    "15133": {
+        "「ど　どうしてよ……？": "Pourquoi... pourquoi donc...?"
+    },
+    "15134": {
+        "「ど　どうして……？": "Po... Pourquoi... ?"
+    },
+    "15135": {
+        "「あはは……　わりぃ　わりぃ～！！": "Ah ah ah... Desole, desole~ !!"
+    },
+    "15136": {
+        "「あはは……　ごめんね～！！": "Ahaha... Desole !!"
+    },
+    "15137": {
+        "「え～ん……　ごめんなさい～！！": "Oh non... Pardon !!"
+    },
+    "15139": {
+        "「静まれい！": "Silence !"
+    },
+    "15141": {
+        "「さよう。テンスの花は　われらが　一度も\n　足を踏み入れたことのない秘境に咲く。\n　ゆえに　誰が採りにいくかは　わしが決める！": "En effet. La Fleur de Tens pousse dans un lieu\nsecret ou nous n'avons jamais mis les pieds.\nC'est pourquoi c'est moi qui deciderai qui ira<br>la cueillir !"
+    },
+    "15143": {
+        "「なん…じゃと……？": "Que... que se passe-t-il...?"
+    },
+    "15144": {
+        "「皆さん！　下がって！": "Tout le monde, reculez !"
+    },
+    "15145": {
+        "「なぜ……　魔物が　入ってきた……。\n　魔物たちの目から村を隠す　わしの結界は\n　どうした…………？": "Pourquoi... pourquoi les monstres ont-ils pu\nentrer... ? Qu'est-il arrive a ma barriere qui\ncachait le village aux yeux des monstres... ?"
+    },
+    "15147": {
+        "「皆さん　落ち着いてください！\n　すぐに私たちが　テンスの花を採ってきます！": "Tout le monde, calmez-vous ! Nous allons\nimmediatement chercher la Fleur de Tens !"
+    },
+    "15148": {
+        "シンイが　仲間に加わった！<me 61>": "Shini a rejoint votre equipe ! <me 61>"
+    },
+    "15149": {
+        "「キヒヒヒ……　燃えろ　燃えろ！": "Ki hi hi hi... Brule, brule !"
+    },
+    "15150": {
+        "「やめろっ！": "Arrete ca !"
+    },
+    "15151": {
+        "「なるほど！　危機を察して\n　この花を　採りにきたというわけじゃな！？": "Je vois ! Tu as senti le danger et tu es venu\ncueillir cette fleur, n'est-ce pas !?"
+    },
+    "15152": {
+        "「時を……　超える……？": "Traverser le temps... ?"
+    },
+    "15153": {
+        "「キーッヒッヒッヒ！　やっぱりそうか！\n　こんな大切なことを　忘れ去ってしまうとは\n　エテーネの民は　果てしなく愚かな者たちじゃ！": "Ki-hihi ! Je le savais ! Oublier quelque chose\nd'aussi important... Les habitants d'Ethene\nsont d'une betise sans limite !"
+    },
+    "15154": {
+        "「だが　忘れていようがいまいが　関係ない！\n　エテーネの民は　皆殺しじゃあっ！！": "Mais que tu te souviennes ou non, cela n'a\naucune importance ! Les habitants d'Ethene\nseront tous massacres !!"
+    },
+    "15155": {
+        "「ああぁ……\n　今年最後の　ハツラツ豆がぁ……。": "Aaaah... Les dernieres Pep Beans de l'annee..."
+    },
+    "15156": {
+        "「あれは……！？": "Qu'est-ce que c'est... !?"
+    },
+    "23013": {
+        "「わしは　それまで　休ませてもらうからな。\n　シンイよ！　今度は　わしの眠りを\n　ジャマするでないぞ！": "Je vais me reposer jusque-la. Shini ! Cette\nfois, ne viens pas troubler mon sommeil !"
+    },
+    "23014": {
+        "「……はい。": "...Oui."
+    },
+    "23015": {
+        "「ぐおー　ぐおーっ。": "Zzz... Zzzz..."
+    },
+    "24625": {
+        "「そ……　そんな…………。": "Ce... ce n'est pas possible..."
+    },
+    "24626": {
+        "「な…なんなんですか　そのお告げは……。\n　カメさまは　私たちを見捨てるのですか！？": "Qu... qu'est-ce que c'est que cette\nprophetie... ? Galapagod nous abandonnerait-il\n?!"
+    },
+    "24627": {
+        "「おお……　よかった！": "Oh... Ouf, tant mieux !"
+    },
+    "24628": {
+        "「でも　テンスの花なんて　聞いたことないわ。": "Mais je n'ai jamais entendu parler de Fleur de\nTens."
+    },
+    "24629": {
+        "「おおおっ　さすが　アバさまだ！": "Oh oh oh ! Comme attendu de la part\nd'Abba-sama !"
+    },
+    "24630": {
+        "「よかった……　安心していいんだねえ。": "Je suis soulage... Je peux vraiment etre\ntranquille, n'est-ce pas ?"
+    },
+    "24631": {
+        "「げっ……　あ…あそこ……！": "Oh non... la-bas... !"
+    },
+    "24632": {
+        "「魔物が……　魔物が　村に入ってきた……！": "Les monstres... les monstres sont entres dans\nle village... !"
+    },
+    "24633": {
+        "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "......Qu'allons-nous devenir ? Abba-sama a dit\nque tout irait bien, mais et si, comme le\npresage le dit, nous etions voues a<br>disparaitre... ?"
+    },
+    "24634": {
+        "「そうだよ。\n　アバさまの結界が　破られるなんて……。": "C'est vrai. Que la barriere de Abba-sama\npuisse etre brisee..."
+    },
+    "29471": {
+        "<center><pc>よ。\nその姿を　選んだのですね。": "Vous avez choisi cette apparence."
+    },
+    "29472": {
+        "<if_woman><center>不運にも　今日\nこの世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日\nこの世を去った　<pc_race>の青年がいます。<endif>>": "<if_woman>Malheureusement, aujourd'hui, une\nfemme <pc_race> a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune homme\n<pc_race> a quitte ce monde. <endif>>"
+    },
+    "29473": {
+        "<if_woman><center>あなたは今日から　その女性の身体を借り\n新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り\n新たな人生を　歩んでゆくことになります。<endif>>": "<if_woman> A partir d'aujourd'hui, vous\nemprunterez le corps de cette femme et\ncommencerez une nouvelle vie.<else>A partir d'aujourd'hui, vous emprunterez le\ncorps de ce jeune homme et commencerez une\nnouvelle vie. <endif>>"
+    },
+    "29474": {
+        "<center>｢テキスト削除": "Delete text"
+    },
+    "29475": {
+        "<center>さあ　この新しい冒険の書を　お持ちなさい。": "Voici votre nouveau Journal d'Aventure."
+    },
+    "29476": {
+        "<pc>は\n冒険の書（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Journal d'Aventure (objet\ncles) ! <me 60>"
+    },
+    "29477": {
+        "<center>神は　その書を持つ　あなたの行いを\n常に見ています。教会で祈らずとも　今後\nあなたの行いは　すべて　その書に記録されます。": "Dieu observe constamment vos actions a travers\nce livre. Meme si vous ne priez pas a\nl'eglise, toutes vos actions seront desormais<br>enregistrees dans ce livre."
+    },
+    "29478": {
+        "<center>そして　探すのです。\nあなたの使命を。\n生まれ変わることの意味を……。": "Et ainsi, cherchez. Votre mission. Le sens de\nvotre renaissance..."
+    },
+    "31661": {
+        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "Ça n'a pas marche, comme je le pensais !\nQu'est-ce que tu comptes faire pour ca !!"
+    },
+    "31662": {
+        "「テキスト削除": "text deletion"
+    },
+    "39112": {
+        "<center>あなたたちの島の外には\nアストルティアと呼ばれる　広大で偉大な\n母なる大地が　広がっていて……": "En dehors de votre ile s'etend la vaste et\nmajestueuse terre mere appelee Astoltia..."
+    },
+    "39113": {
+        "<center>そこには　あなたたち人間の他に\nさまざまな姿をした種族が\n今も　暮らしていることを……。": "La-bas, en plus de vous, les humains, il\nexiste encore aujourd'hui diverses races aux\napparences variees qui vivent ensemble..."
+    },
+    "39114": {
+        "<center>さあ　お行きなさい。\n母なる大地　アストルティアへ。": "Allez, partez maintenant. Vers la terre mere,\nAstoltia."
+    },
+    "43975": {
+        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "......Quoi ? Tu as reve que <kyodai> et\nAbba-sama montaient sur Galapagod ? Non, ca ne\npeut pas etre vrai. C'est impossible."
+    },
+    "46656": {
+        "<if_woman><center>不運にも　今日\nこの世を去った　オーガの女性がいます。<else><center>不運にも　今日\nこの世を去った　オーガの青年がいます。<endif>>": "<if_woman> Il y a une femme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<else>Il y a un jeune homme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<endif>>"
+    },
+    "46657": {
+        "<if_woman><center>不運にも　今日\nこの世を去った　エルフの女性がいます。<else><center>不運にも　今日\nこの世を去った　エルフの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Elfe a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Elfe a\nquitte ce monde. <endif>>"
+    },
+    "46658": {
+        "<if_woman><center>不運にも　今日\nこの世を去った　プクリポの女性がいます。<else><center>不運にも　今日\nこの世を去った　プクリポの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Pukulipo a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune\nPukulipo a quitte ce monde. <endif>>"
+    },
+    "46659": {
+        "<if_woman><center>不運にも　今日\nこの世を去った　ウェディの女性がいます。<else><center>不運にも　今日\nこの世を去った　ウェディの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Weddie a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Weddie\na quitte ce monde. <endif>>"
+    },
+    "46660": {
+        "<if_woman><center>不運にも　今日\nこの世を去った　ドワーフの女性がいます。<else><center>不運にも　今日\nこの世を去った　ドワーフの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Naines a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Nain a\nquitte ce monde. <endif>>"
+    }
+}

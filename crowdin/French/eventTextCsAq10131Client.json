@@ -1,0 +1,104 @@
+{
+    "21076": {
+        "<if_woman>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お姉ちゃん　ありがとね！<else>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お兄ちゃん　ありがとね！<endif>": "<if_woman>> Arrives, arrives ! Nous voila a\nMoRubble Camp ! C'etait assez loin, je suis\nsurprise ! Merci, grande soeur !<else>> Arrives, arrives ! Nous voila a MoRubble\nCamp ! C'etait assez loin, je suis surpris !\nMerci, grand frere ! <endif>"
+    },
+    "21077": {
+        "「さーて　賢者ブロッゲンさまは\n　どこにいるのかな……。": "Sage Broggen-sama, ou peut-il bien etre..."
+    },
+    "21078": {
+        "「あっ！　いたぞ！\n　賢者ブロッゲンさまだー！": "Ah ! Le voila ! C'est Sage Broggen-sama !"
+    },
+    "21079": {
+        "「ブロッゲンさまだー！": "C'est Broggen-sama !"
+    },
+    "21080": {
+        "「な　な　なんでアーールか！？\n　この　子供たちはっ！": "Pourquoi ? Pourquoi y a-t-il autant d'enfants\nici ?!"
+    },
+    "21082": {
+        "「キミたち　アグラニの子だね！？\n　こんな所まで来て　危ないでしょ！\n　いったい　親は……。": "Vous etes des enfants d'Agrani, n'est-ce pas\n!? C'est dangereux de venir jusqu'ici ! Ou\nsont vos parents... ?"
+    },
+    "21083": {
+        "「うわー　しゃべってる　しゃべってる！\n　見ろ　ココン！　先っちょが　パカパカしてる！\n　あそこから　声がするぞ！": "Waouh, ca parle, ca parle ! Regarde, Kokon !\nLe bout s'ouvre et se referme ! La voix vient\nde la-bas !"
+    },
+    "21084": {
+        "「わーい！　もっと　おはなししてー！\n　なか　どうなってるか　みせてー！": "Waouh ! Parle-moi encore plus ! Montre-moi ce\nqu'il y a a l'interieur !"
+    },
+    "21085": {
+        "「中？　中って　なんのこと！？\n　どうしよう！　ブロッゲンさまは\n　今日も　ぐっすり　お休みだし……。": "Au milieu ? Qu'est-ce que tu veux dire par 'au\nmilieu' !? Que faire ? Le seigneur Bloggen\ndort profondement aujourd'hui encore..."
+    },
+    "21086": {
+        "「ぐう　ぐう……。": "Grr... Grr..."
+    },
+    "21087": {
+        "「ねえねえ　なんで　ブロッゲンさまは\n　いつも　眠ってるの？\n　どうして　代わりに　杖さんがしゃべるの？": "Dis, dis, pourquoi Broggen-sama est-il\ntoujours en train de dormir ? Pourquoi c'est\nle baton qui parle a sa place ?"
+    },
+    "21088": {
+        "「つえさんは　どこで　うまれたの？\n　おなまえって　あるの？\n　ヘンな　しゃべりかたなのは　なんで？": "Tsue-san, ou es-tu ne ? As-tu un nom ? Et\npourquoi parles-tu d'une maniere si etrange ?"
+    },
+    "21089": {
+        "「あー！　同時に　たくさん\n　質問しないでほしいでアーーール！": "Ah ! Ne me posez pas tant de questions en meme\ntemps, je vous en prie !"
+    },
+    "21090": {
+        "こうして　賢者ブロッゲンの杖と\nナツィと　ココンの会話は\nふたりが飽きるまで　続いた。": "Ainsi, la conversation entre Nutsy, Kokon et\nle baton de Sage Broggen se poursuivit jusqu'a\nce que les deux se lassent."
+    },
+    "21091": {
+        "「……あー！　面白かった。\n　杖さんと　いっぱい　お話ししちゃった。": "…Ah ! C'etait amusant. J'ai beaucoup discute\navec M. Baton."
+    },
+    "21092": {
+        "「ねえねえ　賢者ブロッゲンさま。\n　賢者さまは　この杖のスペアとか\n　持ってるんでしょ？": "He, Sage Broggen-sama. Dis, tu aurais un\ndouble de ce baton, n'est-ce pas ?"
+    },
+    "21093": {
+        "「だからさ\n　この杖　ボクに　ちょうだ……": "Donc, ce baton, donne-le-moi..."
+    },
+    "21094": {
+        "「杖に　さわるでないッ！！": "Ne touche pas au baton !"
+    },
+    "21095": {
+        "「これは　お前たちのような\n　無垢な子供が　触れてよいものではない！": "Ce n'est pas quelque chose que des enfants\ninnocents comme vous devraient toucher !"
+    },
+    "21096": {
+        "「この杖は　わしの犯した\n　罪で　できておるのだ……。": "Ce baton est forge par le peche que j'ai\ncommis..."
+    },
+    "21098": {
+        "「……シスター　世話になったな。\n　それでは　わしは　行くよ。": "Soeur, je vous suis reconnaissant pour tout.\nAlors, je pars maintenant."
+    },
+    "21100": {
+        "「ふむ……。風のウワサに\n　気がかりなことを　耳にしたのでな……。\n　シスターも　不用意に　出歩かんことだ。": "Hmmm... J'ai entendu des rumeurs inquietantes\ndans le vent... Soeur, il serait imprudent de\nse promener sans precaution."
+    },
+    "21101": {
+        "「では　さらばだ。": "Eh bien, adieu."
+    },
+    "21102": {
+        "「ふむ。なかなか　ウデの立つ旅人のようだ。\n　……そうか。<pc>というのか。\n　子供たちを連れてきたのは　お前だな？": "Hum. Tu sembles etre un voyageur assez\ncompetent. ...Je vois. Tu t'appelles donc\n<pc>. C'est toi qui as amene les<br>enfants, n'est-ce pas ?"
+    },
+    "21103": {
+        "「おお　<pc>ではないか。\n　しばらくぶりだな。\n　お前が　子供たちを連れてきたのか？": "Oh, mais c'est <pc> ! Cela fait un\nmoment. C'est toi qui a amene les enfants ?"
+    },
+    "21104": {
+        "「……子供の　まっすぐな心は　ときに残酷だ。\n　それに直面するたびに　わしは\n　心を　えぐりとられるような気分になる……。": "Le coeur pur des enfants peut parfois etre\ncruel. Chaque fois que je suis confronte a\ncela, j'ai l'impression que mon coeur est<br>arrache..."
+    },
+    "21105": {
+        "「機会があったら　いずれ　また会おう。\n　ではな……。": "Si l'occasion se presente, nous nous reverrons\nun jour. Alors, au revoir..."
+    },
+    "21106": {
+        "「……ボク　ちょっと\n　調子に乗りすぎちゃったかな……。\n　ブロッゲンさまを　怒らせちゃった。": "Je me suis peut-etre un peu trop laisse\nemporter... J'ai mis Broggen-sama en colere."
+    },
+    "21107": {
+        "「あの杖が　ブロッゲンさまにとって\n　そんなに大事なものだったなんて\n　思わなかったよ……。": "Je ne pensais pas que ce baton etait si\nimportant pour Broggen-sama..."
+    },
+    "21108": {
+        "<if_woman>「<pc>の　お姉ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<else>「<pc>の　お兄ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<endif>": "<if_woman>> Grande soeur de <pc>. Merci\nde m'avoir amene jusqu'ici ! Pour te\nremercier, viens jusqu'a Agrani.<else>> Grand frere de <pc>. Merci de m'avoir\namene jusqu'ici ! Pour te remercier, viens\njusqu'a Agrani. <endif>"
+    },
+    "31636": {
+        "「誰かー　ヘルプミー！　でアールー……！": "Quelqu'un, aidez-moi ! S'il vous plait... !"
+    },
+    "32292": {
+        "「ホホホ。かわいらしい。\n　きっと　ブロッゲンさまの杖さまが\n　めずらしいのですわ。": "Hohoho. Quelle mignonne. C'est surement parce\nque la canne de Broggen-sama est inhabituelle."
+    },
+    "32293": {
+        "「ま…まあ　そう怒りませんでも……。\n　子供たちも　ビックリしておりますわ。": "Ma... mais, ne vous fachez pas. Les enfants\nsont egalement tres surpris."
+    },
+    "32294": {
+        "「はい　お気をつけて。……ところで\n　世界の様子を見てまわると言って　旅立たれた\n　あなたさまが　なぜ　また戻られたのです？": "Oui, prenez soin de vous. ...Au fait, vous\naviez dit que vous partiez pour explorer le\nmonde. Pourquoi etes-vous revenu ?"
+    }
+}

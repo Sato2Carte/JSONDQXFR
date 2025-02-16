@@ -1,0 +1,107 @@
+{
+    "292075": {
+        "「えっ……　ウソでしょ？\n　もしかして　嵐を呼ぶ魔物……！？": "Quoi... C'est une blague ? Serait-ce le\nmonstre qui invoque la tempete...!?"
+    },
+    "292076": {
+        "「<pc>が　鎮めてくれたはずでは？\n　どうして　ここに……。": "<pc> devait l'avoir apaise, non ?\nPourquoi est-ce ici alors..."
+    },
+    "292077": {
+        "「おうおう　あんたが　妖精の女王さまか。\n　いやあ　祭りのジャマしちまったみたいで\n　悪かったなあ。": "Oh oh, vous devez etre la Fairy Queen-sama. Eh\nbien, il semble que j'ai perturbe votre fete.\nJe suis desole pour ca."
+    },
+    "292078": {
+        "「こちとら　そんなつもりは\n　これっぽっちも　なかったんだ。\n　安心してくれ。嵐を呼んだりしねえからよ。": "Je n'avais pas la moindre intention de faire\nca. Rassure-toi, je ne vais pas invoquer de\ntempete."
+    },
+    "292079": {
+        "<if_woman>「ちょっと　この姉ちゃんに\n　渡しわすれたものが　あってな。\n　それを届けるのに　寄っただけなんだ。<else>「ちょっと　この兄ちゃんに\n　渡しわすれたものが　あってな。\n　それを届けるのに　寄っただけなんだ。<endif>": "<if_woman>>J'ai juste oublie de donner quelque\nchose a cette soeur. Je suis passe pour le lui\napporter.<else>>J'ai juste oublie de donner quelque chose a\nce frere. Je suis passe pour le lui apporter.<endif>"
+    },
+    "292080": {
+        "「おうおう　<pc>！\n　この大嵐メダルを　おめえに　やろう。\n　オレを　ごキゲンにしてくれた礼だ。": "Oh, oh, <pc> ! Je vais te donner cette\nMedaille de Tempete. C'est en remerciement\npour m'avoir mis de bonne humeur."
+    },
+    "292081": {
+        "<pc>は　タイフゥから\n大嵐メダルを　受け取り\nおまとめぶくろに　入れた！<se_nots System 7>": "<pc> a recu la Medaille de Tempete de\nTyphoo et l'a mise dans le sac de rangement !<se_nots System 7>"
+    },
+    "292082": {
+        "「あの……　すみません。\n　そうは言っても　まだ　天気は\n　回復しないままのようなのですが……。": "Euh… excusez-moi. Mais il semble que le temps\nne se soit toujours pas ameliore…"
+    },
+    "292083": {
+        "「あー　すまねえな。オレのキゲンは\n　<pc>のおかげで　よくなったんだが\n　まだ　ちょいと　引きずっててよ。": "Ah, desole. Mon humeur s'est amelioree grace a\n<pc>, mais je traine encore un peu avec\nca."
+    },
+    "292084": {
+        "「何を隠そう　家族に　捨てられちまったんだ。\n　それが　ココロのキズに　なってやがる。\n　低気圧も　くすぶってるってわけだ。": "Pour tout te dire, ma famille m'a abandonne.\nCa m'a laisse une blessure au coeur. Et c'est\ncomme si une depression planait aussi."
+    },
+    "292085": {
+        "「……つい　こないだのことだ。\n　いつものように　昼寝してて　ふと　起きたら\n　かみさんの書き置きが　あったんだ。": "...C'etait il n'y a pas longtemps. Comme\nd'habitude, je faisais la sieste et quand je\nme suis reveille, j'ai trouve un mot laisse<br>par ma femme."
+    },
+    "292086": {
+        "「あなたのことは　あきらめます。\n　娘と私　ふたりきりで　いきます……ってな。\n　オレを置いて　出ていっちまったんだ！": "Je vais t'oublier. Ma fille et moi, nous\nvivrons toutes les deux... Voila ce qu'elle a\ndit. Elle m'a quitte et est partie !"
+    },
+    "292087": {
+        "「トーネェ～～～　ハリケェ～～～！\n　帰ってきてくれえ～～～！！": "Tornay～～～ Hurricay～～～ ! Revenez, je vous en\nprie～～～ !!"
+    },
+    "292088": {
+        "「あらあら。聞きおぼえのある\n　バカでかい声がすると　思ったら\n　やっぱり　あなたの声でしたか。": "Oh la la. J'ai entendu une voix tonitruante\nqui me semblait familiere, et il s'avere que\nc'etait la tienne."
+    },
+    "292089": {
+        "「その声……。もしや\n　オレのかみさん……　トーネェか！？": "Cette voix... Serait-ce... ma femme... Tornay\n!?"
+    },
+    "292090": {
+        "「はい　そうですよ。ここに来たら\n　私たちも　スライムになるかと　思ったんですが\n　なぜか　ヒトの姿に　なってしまったようで。": "Oui, c'est exact. Quand nous sommes arrives\nici, nous pensions que nous allions devenir\ndes Slimes. Mais, pour une raison inconnue, il<br>semble que nous ayons pris une apparence\nhumaine."
+    },
+    "292091": {
+        "「……あの書き置きは　なんだったんだ？\n　オレを置いて　出ていったんじゃ……。": "…Qu'etait-ce que ce message laisse derriere ?\nTu es parti en me laissant…"
+    },
+    "292092": {
+        "「あなたも　お祭りに　誘うつもりでしたが\n　何をしたって　起きないので　あきらめて\n　書き置きを残し　娘だけ　連れてきたんですよ。": "Je comptais aussi vous inviter a la fete, mais\ncomme vous ne vous reveilliez pas malgre tous\nnos efforts, j'ai abandonne et laisse un mot,<br>emmenant seulement ma fille avec moi."
+    },
+    "292093": {
+        "「だよね～。とーちゃん　なぐっても\n　けっとばしても　起きなかったもんね～。": "Oui, c'est vrai. Papa ne s'est pas reveille,\nmeme quand on l'a secoue ou qu'on lui a donne\ndes coups de pied."
+    },
+    "292094": {
+        "「そうか……。カンちがいだったのか。\n　オレは　捨てられたわけじゃなかったんだ。": "Je vois... C'etait un malentendu. Je n'ai pas\nete abandonne."
+    },
+    "292095": {
+        "「はい　そうですね。\n　そのくらいで　捨ててしまうなら\n　最初から　夫婦になったりしません。": "Oui, c'est vrai. Si on devait abandonner pour\nsi peu, on n'aurait jamais choisi de devenir\nmari et femme des le depart."
+    },
+    "292096": {
+        "「だよね～。かーちゃんは　とーちゃんのこと\n　と～っても　好きだもんね～。": "Oui, c'est vrai. Maman aime vraiment beaucoup\nPapa, n'est-ce pas ?"
+    },
+    "292097": {
+        "「うおお～～～～　よかったぁ～～～～～！\n　ヒトの姿も　イカしてるぜ～～～っ。\n　オレの　トーネェ～～～～！！": "Uoooh～～～～ Je suis tellement soulage～～～～～！ Meme\nsous forme humaine, je suis toujours Squid～～～.\nMon Tornay～～～～！！"
+    },
+    "292098": {
+        "「すごい！　空が　晴れたわ！！": "Incroyable ! Le ciel s'est degage !!"
+    },
+    "292099": {
+        "「ふうう～。低気圧を吹っとばして\n　一気に　高気圧を　呼んじまったなあ。": "Ouf... J'ai chasse cette depression et fait\nvenir un anticyclone d'un seul coup."
+    },
+    "292100": {
+        "「これも　愛のチカラ……なのでしょうか？\n　ともあれ　お祭りに　ふさわしい\n　晴れわたった空が　戻ってきました。": "Serait-ce la aussi la force de l'amour... ?\nQuoi qu'il en soit, un ciel radieux, digne\nd'une fete, est revenu."
+    },
+    "292101": {
+        "「<pc>の活躍が　あればこそです。\n　こちらに　お礼を用意しましたので\n　どうぞ　お受け取りください。": "C'est grace aux exploits de <pc>. Nous\navons prepare un remerciement pour vous ici,\nalors s'il vous plait, acceptez-le."
+    },
+    "292102": {
+        "「……はああ。\n　やっと　お祭りが　始められるのね。\n　急いで　準備を　終わらせなきゃ！！": "...Ahhh. Enfin, le festival peut commencer. Je\ndois vite terminer les preparatifs !!"
+    },
+    "292103": {
+        "「では　私たちも　お祭りを\n　楽しませて　いただくとします。": "Alors, nous allons aussi profiter du festival."
+    },
+    "292104": {
+        "「わ～い　おまつり　おまつり～♪": "Youpi, une fete, une fete~ ♪"
+    },
+    "292105": {
+        "「オレがいると　うっかり　嵐を呼びやしないか\n　みんな　不安に　なっちまうよな？\n　ここは　アストルティア見物でも　してくるぜ。": "Je suis la, et je me demande si je ne vais pas\naccidentellement attirer une tempete. Tout le\nmonde doit etre inquiet, n'est-ce pas ? Je<br>vais faire un tour pour visiter Astoltia."
+    },
+    "292106": {
+        "「はい　お好きに。\n　娘には　私が　ついていますから。": "Oui, faites comme bon vous semble. Je veille\nsur ma fille, apres tout."
+    },
+    "292107": {
+        "「ええと　<pc>さんでしたね。\n　すみませんが　この後　私のところで\n　お話を聞いては　いただけませんか？": "Eh bien, c'est <pc>-san, n'est-ce pas ?\nJe suis desole, mais pourriez-vous venir me\nparler un moment apres ceci ?"
+    },
+    "292108": {
+        "「うちのヒトが　ご迷惑をおかけしたので\n　ちょっと　フォローをしようかと　思います。\n　どうか　よろしく　お願いします。": "Je pense que je vais essayer de rattraper un\npeu les ennuis que notre membre a causes. Je\nvous prie de bien vouloir nous excuser et de<br>nous accorder votre indulgence."
+    },
+    "292109": {
+        "ベラの指揮のもと　祭りの準備が進められ\nついに　春の祭りが　始まった！": "Sous la direction de Honey, les preparatifs du\nfestival ont progresse, et enfin, le festival\ndu printemps a commence !"
+    }
+}
