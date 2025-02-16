@@ -582,7 +582,7 @@
         "「そうそう。プディンなら　さっき\n　商人のティルツキンさんが　呼びにきて\n　賢者エイドスのほこらへ　出かけたぜ。": "Ah, oui. Pour ce qui est de Pudin, l'autre\njour, le marchand Tiltzkin-san est venu\nl'appeler, et ils sont partis au sanctuaire du<br>Sage Eidos."
     },
     "1602": {
-        "「お前も　ふたりを追いかけて\n　プディンに　ちゃんと元気に帰ったって\n　教えてやれよ。なっ！　<pc>！": "Toi aussi, poursuis-les et assure-toi de dire\na Pudding que tu es revenu sain et sauf. Allez\n! <pc> !"
+        "「お前も　ふたりを追いかけて\n　プディンに　ちゃんと元気に帰ったって\n　教えてやれよ。なっ！　<pc>！": "<if_woman>Rattrape-les et dis a Pudding que\ntu es bien rentree saine et sauve.\nD’accord, <pc> ?<else>Rattrape-les et dis a Pudding que\ntu es bien rentre sain et sauf.\nD’accord, <pc> ?<endif>"
     },
     "1603": {
         "「そもそも　わしが命じたのは　けがれの谷へ\n　迷い込む旅人がいないか　馬車で見回り\n　もしもの時は　助けてやれ……ということ。": "Au depart, j'avais ordonne de patrouiller avec\nle chariot pour verifier s'il n'y avait pas de\nvoyageurs egares dans la Defiled Valley et, si<br>necessaire, de leur venir en aide... Voila\ntout."
