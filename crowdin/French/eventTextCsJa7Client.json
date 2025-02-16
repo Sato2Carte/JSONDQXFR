@@ -1,0 +1,1337 @@
+{
+    "322796": {
+        "「うむ。よく来てくれた。\n　そなたたちが　グランゼニス神の復活に向けて\n　動いていることは　聞いている。": "Hum. Je suis content que vous soyez venus.\nJ'ai entendu dire que vous travaillez a la\nresurrection de Gran Zenith."
+    },
+    "322797": {
+        "「話というのは　他でもない。\n　エテーネ王国の式典から　帰ってきて以来\n　眠り続けている　アンルシアのことだ。": "Le sujet de la conversation n'est autre que la\nsituation d'Anlucia. Depuis son retour de la\nceremonie du royaume d'Ethene, elle ne cesse<br>de dormir."
+    },
+    "322798": {
+        "「アンルシアは　グランゼニス神の器。\n　この異常な眠りは　かの神と\n　大きく　関わりがあると　思うのだ。": "Anlucia est le receptacle de Gran Zenith. Je\npense que ce sommeil anormal est etroitement\nlie a ce dieu."
+    },
+    "322799": {
+        "「ゆえに　アンルシアの目覚めこそが\n　グランゼニス神復活のカギとなるのではないか\n　……と　私は　にらんでいる。": "Ainsi, je pense que l'eveil d'Anlucia pourrait\nbien etre la cle pour la resurrection de Gran\nZenith."
+    },
+    "322800": {
+        "「あるいは　神の復活が果たされなければ\n　器も目覚めない　という可能性もある。\n　いずれにせよ　推測の域を出ないが……。": "Il est egalement possible que le receptacle ne\nse reveille pas tant que la resurrection du\ndieu n'est pas accomplie. Quoi qu'il en soit,<br>cela reste de la pure speculation..."
+    },
+    "322801": {
+        "「……叡智の冠の賢者よ。迷うことはない。\n　何か　手がかりがあるなら　この者に与えよ。": "O sage portant la couronne de la sagesse. Ne\ndoutez pas. Si vous avez le moindre indice,\ndonnez-le a cette personne."
+    },
+    "322802": {
+        "「そなたは……何者だ？": "Qui es-tu donc...?"
+    },
+    "322803": {
+        "「我のことは　どうでもよい。\n　勇者の目覚めと　神の復活は　表裏一体。": "Peu importe ce qui m'arrive. Le reveil du\nheros et la resurrection de Dieu sont deux\nfaces d'une meme piece."
+    },
+    "322804": {
+        "「ならば　その両者と関わりのある　この者こそ\n　もっとも　答えに近い場所に　いるというのが\n　道理であろう？": "Alors, il est logique de penser que cette\npersonne, qui est liee a ces deux parties, est\nla plus proche de la reponse, n'est-ce pas ?"
+    },
+    "322805": {
+        "「あれ……<pc>隊長？\n　ここ　どこ？　このおねーさん　誰？": "Ah... Capitaine <pc> ? Ou sommes-nous ?\nEt qui est cette dame ?"
+    },
+    "322806": {
+        "「私は　このグランゼドーラ王国に仕える\n　賢者　ルシェンダだ。\n　そなたは……": "Je suis Lushenda, la sage au service du\nroyaume de Gran Zedora. Et toi, tu es..."
+    },
+    "322807": {
+        "「あたしは　ポルテ！\n　賢者の　ええっと……ルシェンダさま！\n　はじめましてっ。": "Je suis Porte ! La sage, euh... Dame Lushenda\n! Enchantee de faire votre connaissance."
+    },
+    "322808": {
+        "「ふむ……。そなたが\n　報告にあった　ポルテという少女か。\n　そなたの助言に　従ってみるとしよう。": "Hmm... Tu es donc la jeune fille nommee Porte\nmentionnee dans le rapport. Je vais suivre ton\nconseil."
+    },
+    "322809": {
+        "「アンルシアの目覚めについて\n　何か知っている者がいるとすれば\n　それは　シオン殿しか　考えられん。": "Si quelqu'un sait quelque chose sur le reveil\nd'Anlucia, il ne peut s'agir que de\nShion-dono."
+    },
+    "322810": {
+        "「シオン殿は現在　行方知れずとなっているが\n　先日　彼の部屋で　手に入れたものがある。\n　この羽根が　そうだ。": "Shion-dono est actuellement porte disparu a P.\nCependant, j'ai trouve quelque chose dans sa\nchambre l'autre jour. Cette plume en est la<br>preuve."
+    },
+    "322811": {
+        "「わあっ。キレイな羽根だね。\n　シオンって人の持ち物なの？": "Waouh. De belles plumes ! Est-ce que ca\nappartient a quelqu'un nomme Shion ?"
+    },
+    "322812": {
+        "「これが手がかりとなるか　わからんが\n　シオン殿を捜しだし　アンルシアを\n　目覚めさせる手立てを　見つけてほしい。": "<me 60> Je ne sais pas si cela servira\nd'indice, mais j'aimerais que vous trouviez\nShion-dono et decouvriez un moyen de reveiller<br>Anlucia."
+    },
+    "322813": {
+        "<pc>は\n天馬の羽根（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Plume de Pegase (objet\ncle) ! <me 60>"
+    },
+    "322814": {
+        "「どうにかして　あたしたちは\n　その人を捜さないと　いけないんだよね？\n　う～ん　どうすれば……。": "Nous devons absolument trouver cette personne,\nn'est-ce pas ? Hmm... comment devrions-nous\nproceder..."
+    },
+    "322815": {
+        "「ねえねえ　<pc>隊長。\n　もしかして　ラキなら　この羽根のニオイを\n　たどったりとか　できるんじゃないかな？": "He, <pc>-taichou. Tu crois que Lycae\npourrait suivre l'odeur de cette plume ?"
+    },
+    "322816": {
+        "「狼になれるんだし　鼻が利きそうでしょ？\n　エテーネの村へ戻って　ラキに頼んでみようよ！": "Puisqu'on peut se transformer en loup, notre\nodorat devrait etre excellent, n'est-ce pas ?\nRetournons au village d'Ethene et demandons a<br>Lycae !"
+    },
+    "322817": {
+        "「方法は　まかせる。\n　シオン殿が姿を消したことにも　理由があろう。\n　頼んだぞ　<pc>。": "Je te laisse choisir la methode. Il doit y\navoir une raison derriere la disparition de\nShion-dono. Je compte sur toi, <pc>."
+    },
+    "322818": {
+        "<pc>は　やぐらの中に入り\n地下に降りて　奥の部屋へと　向かっていった。": "<pc> est entre dans la tour, a descendu\nau sous-sol et s'est dirige vers la piece du\nfond."
+    },
+    "322819": {
+        "「うわぁ～！　白いお馬のぬいぐるみ？\n　ゆる～い感じが　なんか　かわいいね！": "Waouh ! Un costume de chat pour cheval blanc ?\nIl a un style detendu qui est vraiment mignon\n!"
+    },
+    "322820": {
+        "「よく　見つけてくれましたね　<pc>。\n　おひさしぶりです　シオンです。": "Vous m'avez bien trouve, <pc>. Ca\nfaisait longtemps, c'est Shion."
+    },
+    "322821": {
+        "「しゃべった！！": "Il a parle !!"
+    },
+    "322822": {
+        "「行きちがいになった時の　連絡手段として\n　白き導き手を　そこに　残しておきましたが\n　どうやら　役に立ったようです。": "En cas de malentendu, j'avais laisse le Handy\nHorse ici comme moyen de communication, et il\nsemble bien qu'il ait ete utile."
+    },
+    "322823": {
+        "「お手数ですが　今から\n　光の神殿へ　来ていただけませんか？\n　私も　すぐに　そちらへ向かいますので。": "Je suis desole de vous deranger, mais\npourriez-vous venir au Temple of Light\nmaintenant ? Je vais m'y rendre immediatement."
+    },
+    "322824": {
+        "「グランゼニス神の復活。アンルシアの目覚め。\n　それらに関わる　重要な話をしたいと思います。\n　では　頼みましたよ。": "La resurrection de Gran Zenith. Le reveil\nd'Anlucia. Je voudrais parler de ces sujets\nimportants. Je compte sur vous."
+    },
+    "322825": {
+        "<pc>は\n白き導き手（だいじなもの）を　手に入れた！<me 60>": "<pc> a obtenu le Handy Horse (objet cle)\n! <me 60>"
+    },
+    "322826": {
+        "「念のため　聞くけど　そのぬいぐるみが\n　シオンって人じゃないよね？": "Juste pour etre sur, ce Costume de chat, ce\nn'est pas Shion, n'est-ce pas ?"
+    },
+    "322827": {
+        "「羽根のニオイは\n　その白いのから　してたみたい。": "L'odeur des plumes semblait provenir de ce\nblanc-la."
+    },
+    "322828": {
+        "「シオンさん？……の　言ってたとおり\n　光の神殿ってとこへ行けば\n　本人に　会えるってことかな？": "Shion-san ?... Comme il l'a dit, si on va au\nTemple de la Lumiere, on pourra probablement\nle rencontrer en personne, non ?"
+    },
+    "322829": {
+        "「ラキも行く！\n　グランゼニス神の復活……\n　その話　ラキも聞きたい！": "Lycae veut venir aussi ! La resurrection de\nGran Zenith... Lycae veut entendre cette\nhistoire aussi !"
+    },
+    "322830": {
+        "「よ～し。それじゃ\n　シオンさんに会いに　みんなで\n　光の神殿へ　ゴーゴー！": "Tres bien ! Alors, allons tous ensemble au\nTemple de la Lumiere pour rencontrer Shion-san\n! Allez, allez !"
+    },
+    "322831": {
+        "「ここが　光の神殿……？\n　なんだか　静かすぎて　落ち着かないとこだね。": "Voici donc le Temple de la Lumiere... ? C'est\ntellement silencieux que ca en devient presque\ninquietant."
+    },
+    "322832": {
+        "「シオンは　どこ？\n　誰の気配も　感じない……。": "Shion est ou ? Je ne ressens la presence de\npersonne..."
+    },
+    "322833": {
+        "「何か　来る！\n　このニオイは…………。": "Quelque chose approche ! Cette odeur..."
+    },
+    "322834": {
+        "「よく来てくれました　<pc>。\n　こうして会うのは　本当に　ひさしぶりです。\n　こちらのおふたりは　新しいお仲間ですか？": "Je suis ravi que tu sois venu, <pc>.\nCela fait vraiment longtemps que nous ne nous\nsommes pas vus. Ces deux personnes ici<br>sont-elles de nouveaux compagnons ?"
+    },
+    "322835": {
+        "「わぁ　あなたが　シオくんだねっ。\n　お馬さんになれるなんて　すっご～い！": "Waouh, tu es Shio-kun, n'est-ce pas ? C'est\nincroyable que tu puisses te transformer en\ncheval !"
+    },
+    "322836": {
+        "「なるほど……。\n　おおいに　興味はそそられますが\n　時間が惜しいので　今は　話を進めましょう。": "Je vois... Cela m'intrigue beaucoup, mais le\ntemps presse, alors continuons notre\ndiscussion pour le moment."
+    },
+    "322837": {
+        "「私は　これまで　復活の時にそなえて\n　地上のどこかから　わずかに感じられる\n　グランゼニス神の気配を　追っていました。": "Jusqu'a present, je me suis prepare pour le\nmoment de ma resurrection en suivant la faible\npresence de Gran Zenith que l'on peut<br>ressentir quelque part sur Terre."
+    },
+    "322838": {
+        "「そして　創失と呼ばれる現象が起こった時\n　それに呼応するかのように　光の神殿の中から\n　我が主の気配が　一際強く　発せられたのです。": "Et lorsque le phenomene appele la Perte de\nCreation s'est produit, c'est comme si en\nreponse a cela, l'aura de notre Seigneur s'est<br>intensement manifestee depuis le Temple de la\nLumiere."
+    },
+    "322839": {
+        "「ですが　それはすぐに　途切れてしまいました。\n　復活を果たすのに　グランゼニス神のチカラが\n　足りていないのだと　考えられます。": "Cependant, cela s'est rapidement interrompu.\nIl semble que le pouvoir de Gran Zenith ne\nsoit pas suffisant pour assurer la<br>resurrection."
+    },
+    "322840": {
+        "「<pc>。あなたは\n　神の緋石のことを　覚えていますか？": "<pc>. Vous souvenez-vous de la Pierre\nEcarlate divine ?"
+    },
+    "322841": {
+        "「グランゼニス神の血より生まれた　守りの石。\n　全部で　４つの緋石が　アストルティアの各地に\n　まつられていたのですが……": "La pierre protectrice nee du sang de Gran\nZenith. Quatre pierres ecarlates etaient\nvenerees dans divers lieux d'Astoltia, mais..."
+    },
+    "322842": {
+        "「大魔王マデサゴーラの腹心\n　魔元帥ゼルドラドの　策略によって\n　ひとつが　砕かれたままとなっているのです。": "L'un des elements a ete brise sous l'effet des\nmanigances de Marshal Zeldrad, le fidele de\nMadesagora."
+    },
+    "322843": {
+        "「おそらくは　それが　チカラが足りない原因。\n　主が復活を果たすには　砕かれた神の緋石の\n　再生をおこなわなければ　なりません。": "Peut-etre est-ce la raison pour laquelle la\npuissance manque. Pour que Lord puisse\nressusciter, il est necessaire de regenerer la<br>pierre ecarlate divine brisee."
+    },
+    "322844": {
+        "「そのためには　無事に残った３つの緋石の\n　チカラを集める必要があり　それをあなたに\n　手伝っていただきたく　お呼びしたのです。": "Pour cela, il est necessaire de rassembler le\npouvoir des trois pierres ecarlates restantes.\nC'est pourquoi je vous ai demande de venir<br>nous aider."
+    },
+    "322845": {
+        "「まずは　こちらを　どうぞ。": "Tout d'abord, veuillez accepter ceci."
+    },
+    "322846": {
+        "<pc>は　シオンから\n緋色の宝石（だいじなもの）を　受け取った。<me 60>": "<pc> a recu le Crimson Jewel (objet cle)\nde Shion.<me 60>"
+    },
+    "322847": {
+        "「その宝石を持って　モンセロ温泉峡の奥に向かい\n　ご神体の間に　まつられた　神の緋石のチカラを\n　たくわえてきてください。": "Avec ce joyau en main, dirige-toi vers le fond\nde Moncello Spring Gorge et impregne-toi du\npouvoir de la Pierre Ecarlate divine, veneree<br>dans le Hall of Worship."
+    },
+    "322848": {
+        "「勇者の盟友たる　あなたであれば\n　それを手にし　強く願うだけで\n　事が　成せるはずです。": "En tant qu'allie du heros, il te suffira de le\nprendre en main et de le desirer avec force\npour que cela se realise."
+    },
+    "322849": {
+        "「モンセロ温泉峡以外の場所は\n　この私が　向かいますので　ご心配なく。": "A part le Moncello Spring Gorge, je\nm'occuperai des autres endroits, alors ne vous\ninquietez pas."
+    },
+    "322850": {
+        "「グランゼニス神の復活が果たされれば\n　その加護を受けた勇者も　目覚める……。\n　私は　そう確信しています。": "Si la resurrection de Gran Zenith est\naccomplie, le heros beneficiant de sa\nprotection s'eveillera... Je suis convaincu de<br>cela."
+    },
+    "322851": {
+        "「では　私は　これにて。": "Alors, je vais y aller."
+    },
+    "322852": {
+        "「シオくん　行っちゃった……。\n　聞きたいこと　いろいろ　あったのになあ。\n　好物は　ニンジンですかっ？　とか。": "Shio-kun est parti... J'avais tellement de\nquestions a lui poser. Comme, est-ce que tu\naimes les carottes ?"
+    },
+    "322853": {
+        "「……それより　やるべきことを　やらないと。\n　すぐに　モンセロ温泉峡に　行こう。": "…Plus que ca, nous devons faire ce que nous\navons a faire. Allons immediatement a Moncello\nSpring Gorge."
+    },
+    "322854": {
+        "「あっ。あそこにあるのが　神の緋石かな？": "Ah. Serait-ce la Pierre Ecarlate de Dieu\nla-bas ?"
+    },
+    "322855": {
+        "「こいつ　邪魔する気か……。\n　<cs_pchero>　戦おう！": "Cet individu cherche a nous gener...\n<cs_pchero>, preparons-nous a combattre !"
+    },
+    "322856": {
+        "「なんなの　あの魔物！！\n　ラキが　助けてくれなかったら\n　ペシャンコになってるところだったよ！": "Qu'etait-ce que ce monstre !! Si Lycae ne\nm'avait pas aidee, j'aurais fini aplatie comme\nune crepe !"
+    },
+    "322857": {
+        "「あの魔物のニオイ……\n　前に　どこかで　嗅いだような……。": "L'odeur de ce monstre... Je suis sur de\nl'avoir deja sentie quelque part auparavant..."
+    },
+    "322858": {
+        "「でも　この辺りは　腐った卵みたいな\n　ニオイが　きつくて　はっきりしない……。": "Mais par ici, l'odeur est si forte, comme des\noeufs pourris, que c'est difficile de s'y\nretrouver clairement..."
+    },
+    "322859": {
+        "「う～ん。気にはなるけど　今は\n　緋石のチカラをもらうのが　先かな。\n　<cs_pchero>隊長　よろしくね！": "Hum... Ca m'intrigue, mais pour l'instant,\nobtenir le pouvoir de la pierre ecarlate est\nla priorite. <cs_pchero> Capitaine, je compte<br>sur toi !"
+    },
+    "322860": {
+        "<cs_pchero>の意思が伝わり\n緋色の宝石が　神の緋石のチカラで\n満たされたようだ！": "La volonte de <cs_pchero> a ete transmise. Le\nCrimson Jewel semble etre impregne du pouvoir\nde la Pierre Ecarlate divine !"
+    },
+    "322861": {
+        "「<cs_pchero>　ご苦労様です。\n　神の緋石が　宝石に反応したのを感じました。\n　どうやら　無事に　終わったようですね。": "<cs_pchero> Merci pour vos efforts. J'ai senti\nque la Pierre Ecarlate Divine a reagi au\njoyau. Il semble que tout se soit bien<br>termine."
+    },
+    "322862": {
+        "「無事じゃないよ　シオくん！\n　よく　わかんない魔物に　襲われたんだよっ。": "Je ne vais pas bien, Shio-kun ! J'ai ete\nattaque par un monstre que je ne comprends pas\nbien."
+    },
+    "322863": {
+        "「なんと……。それは　予想していませんでした。\n　危険な目にあわせてしまい　申し訳ありません。\n　妨害者がいるなら　なおさら事を急がねば……。": "Que dire... Je ne m'y attendais pas. Je suis\ndesole de vous avoir mis en danger. S'il y a\ndes perturbateurs, nous devons agir d'autant<br>plus rapidement..."
+    },
+    "322864": {
+        "「むぅ～。": "Mmm..."
+    },
+    "322865": {
+        "「さて。こちらのほうも　ピラミッドと\n　ダーマ神殿の緋石のチカラを　得られました。\n　あとは　砕かれた緋石の再生をおこなうのみ。": "さてこちらのほうもピラミッドとAlltrades Abbeyの緋石のチカラを得られました\nあとは、砕かれた緋石の再生をおこなうのみ"
+    },
+    "322866": {
+        "「そうすれば　グランゼニス神のチカラも高まり\n　復活が　なされるはずです。": "Ainsi, le pouvoir de Gran Zenith\ns'intensifiera et la resurrection devrait etre\npossible."
+    },
+    "322867": {
+        "「緋石のある古き神の遺跡は　ソーラリア峡谷ごと\n　大魔王の生みだした　ねじれたる異形の大地に\n　上書きされて　消え去るはずでしたが……": "Les Historic Ruins ou se trouve la pierre\necarlate, ainsi que tout Solaria Canyon,\nauraient du etre effaces, remplaces par la<br>Twisted Deformed Earth creee par le grand roi\ndemon..."
+    },
+    "322868": {
+        "「女神ルティアナの加護ゆえか　今も\n　偽りの世界に　存在を残しているのです。\n　大魔王マデサゴーラも　想定外だったでしょう。": "Est-ce grace a la benediction de la deesse\nLutiana que F. continue d'exister dans notre\nmonde ? Madesagora ne l'avait probablement pas<br>prevu."
+    },
+    "322869": {
+        "「おかげで　神の緋石を再生できるというもの。\n　偽りのレンダーシア　ソーラリア峡谷にある\n　古き神の遺跡の奥　緋石の間まで　来るのです。": "Grace a cela, nous pourrons restaurer la\nPierre Ecarlate divine. Venez jusqu'a la Salle\nde la Pierre Ecarlate, situee au fond des<br>Ruines Historiques dans le Canyon de Solaria a\nF. Rendasia."
+    },
+    "322872": {
+        "「この紳士の　お仲間の方ですか。\n　今まさに　処刑を執行しようというところに\n　邪魔が　入ってしまいましたね。": "Etes-vous un compagnon de ce gentleman ? Nous\netions sur le point d'executer une sentence,\net vous etes intervenu."
+    },
+    "322873": {
+        "「無論　あなた方も　同罪です。\n　神の緋石を　再生させようなどという愚行は\n　断じて　ゆるされません。": "Bien sur, vous etes egalement coupables. Un\nacte aussi insense que vouloir regenerer la\nPierre Ecarlate divine ne peut absolument pas<br>etre pardonne."
+    },
+    "322874": {
+        "「わたくしめは　執行者ガンガブラと申す者。\n　我が主の命により　あなた方を処刑すべく\n　ここまで　参りました。": "Je suis Enforcer Gangabra. Sur ordre de mon\nSeigneur, je suis venu ici pour vous executer."
+    },
+    "322875": {
+        "「こいつ……\n　温泉で戦った魔物と　同じニオイ！": "Ce type... Il a la meme odeur que le monstre\nqu'on a combattu aux sources chaudes !"
+    },
+    "322876": {
+        "「このニオイ……さっきは　わからなかったけど\n　とうさまに　まとわりついていた\n　創失の呪いと　同じニオイ！！": "Ce parfum... Je ne l'avais pas remarque tout a\nl'heure, mais c'est la meme odeur que la\nmalediction de l'oubli qui entourait Pere !!"
+    },
+    "322877": {
+        "「えっ。どういうこと？\n　創失の呪いは　消え去ったんじゃないの？": "Quoi ? Que veux-tu dire ? La malediction de\nl'oubli n'a-t-elle pas ete levee ?"
+    },
+    "322878": {
+        "「わからない……。\n　けれど　こいつは　すごく危険。": "Je ne sais pas... Mais ce truc est vraiment\ndangereux."
+    },
+    "322879": {
+        "「ラキと　<cs_pchero>が　相手をする。\n　ポルテは　下がってて！": "Lycae et <cs_pchero> s'occupent de l'ennemi.\nPorte, reste en arriere !"
+    },
+    "322880": {
+        "「抵抗するのですね。\n　ただ　苦しみが増えるだけなのに\n　愚かとしか　言いようが　ありません。": "Vous resistez, n'est-ce pas. Mais cela ne fait\nqu'accroitre votre souffrance. Je ne peux que\ndire que c'est de la pure folie."
+    },
+    "322881": {
+        "「しかし　それを望むのならば\n　こちらも　お応えいたしましょう。\n　いざ！！": "Cependant, si tel est votre souhait, je vais y\nrepondre. En garde !!"
+    },
+    "322882": {
+        "「これは　申し訳ありません。\n　わたくしめは　あなた方のことを\n　すこしばかり　あなどっていたようです。": "Je vous prie de m'excuser. Il semblerait que\nje vous aie quelque peu sous-estimes."
+    },
+    "322883": {
+        "「今回は　いったん　退きましょう。\n　神の緋石が　再生されてしまうのは\n　業腹ですが　他に手立てがないこともない。": "Cette fois, retirons-nous pour l'instant. Il\nest regrettable que la Pierre Cramoisie Divine\nsoit restauree, mais ce n'est pas comme s'il<br>n'y avait pas d'autre moyen."
+    },
+    "322884": {
+        "「おまえは　なんだ？\n　どうして　創失の呪いと　同じニオイがする！？": "Qu'es-tu donc ? Pourquoi as-tu la meme odeur\nque la malediction de la Creation Perdue ?"
+    },
+    "322885": {
+        "「その問いに　答える必要を　認めません。": "Je ne reconnais pas la necessite de repondre a\ncette question."
+    },
+    "322886": {
+        "「罪人は　ただ　いずれ執行される\n　刑の恐怖に　震えていればいいのです。\n　はーはっはっは！": "Les criminels n'ont qu'a trembler de peur en\nattendant l'execution de leur sentence.\nHa-ha-ha-ha !"
+    },
+    "322887": {
+        "「待て！　逃がさない！！": "Attends ! Je ne te laisserai pas t'echapper !!"
+    },
+    "322888": {
+        "「<cs_pchero>　すみません。\n　緋石再生の準備に　集中していたせいで\n　不覚を　取ってしまいました。": "<cs_pchero> Desole. J'etais tellement\nconcentre sur les preparatifs pour la\nregeneration de la pierre ecarlate que j'ai<br>baisse ma garde."
+    },
+    "322889": {
+        "「キズのほうは　大したことは　ありません。\n　どうか　ご心配なく。": "Quant a ma blessure, ce n'est rien de grave.\nNe vous inquietez pas."
+    },
+    "322890": {
+        "「ラキは……　だいじょうぶかな？": "Lycae va-t-il bien... ?"
+    },
+    "322891": {
+        "「彼の安否は　気になりますが\n　後を追う手段が　なくては　どうにも……。\n　今は　緋石の再生を果たしましょう。": "Je suis inquiet pour lui, mais sans moyen de\nle suivre, nous ne pouvons rien faire. Pour\nl'instant, concentrons-nous sur la<br>regeneration de la Pierre Ecarlate."
+    },
+    "322892": {
+        "「緋色の宝石に宿したチカラを使い\n　砕かれた緋石の再生を　試みます。\n　あなたも　手を貸してください。": "Je vais tenter de regenerer la pierre ecarlate\nbrisee en utilisant le pouvoir contenu dans le\nCrimson Jewel. Aidez-moi, s'il vous plait."
+    },
+    "322893": {
+        "「大いなる神の遺せし　加護の緋石よ。\n　そのチカラを　今ここに　呼び起こさん。\n　我らの意思に　応えたまえ！": "O pierre ecarlate, benediction laissee par le\ngrand Dieu. Reveille ton pouvoir en ce lieu.\nReponds a notre volonte !"
+    },
+    "322894": {
+        "「ふう……。再生は　成功しました。\n　これで　グランゼニス神のチカラが高まり\n　復活をうながすことが　できたと思います。": "Fiu... La regeneration a reussi. Avec cela, la\npuissance de Gran Zenith s'est renforcee, et\nje pense que nous avons pu encourager sa<br>resurrection."
+    },
+    "322895": {
+        "「ラキも　それを望んでたもんね。\n　まごゼニスさまが　復活すれば\n　あの　執行者だって　怖くないし！": "Lycae aussi le souhaitait, n'est-ce pas ? Si\nle grand Zenith-sama revient, meme cet\nexecuteur ne fera plus peur !"
+    },
+    "322896": {
+        "「これは……！\n　グランゼニス神の強い気配を　感じます。": "C'est... ! Je ressens une forte presence de\nGran Zenith."
+    },
+    "322897": {
+        "「ですが　光の神殿からではない。\n　グランゼドーラ城の……\n　アンルシアの部屋の辺りから……？": "Mais cela ne vient pas du Temple de la\nLumiere. Cela semble provenir du Chateau de\nGran Zedora... Pres de la chambre d'Anlucia...<br>?"
+    },
+    "322898": {
+        "「アンルシアの部屋へ　向かいます。\n　あなたも　すぐに　来てください。\n　状況を　確認しなくては！": "Je me dirige vers la chambre d'Anlucia. Viens\nvite, toi aussi. Nous devons evaluer la\nsituation !"
+    },
+    "322899": {
+        "「アンルシアは　まだ　眠っているようです。": "Il semble qu'Anlucia dort encore."
+    },
+    "322900": {
+        "「アンルシアが　目覚めた……。": "Anlucia s'est reveillee..."
+    },
+    "322901": {
+        "「……じつに　久方ぶりだな。\n　我が眷属　天馬ファルシオンよ。\n　息災なようで　何よりだ。": "...Cela faisait vraiment longtemps. Mon fidele\nFalchion. Je suis ravi de voir que tu te\nportes bien."
+    },
+    "322902": {
+        "「なんだか　ずいぶんと　かたくるしい\n　しゃべり方の　お姫さまなんだね。\n　思ってたイメージと　だいぶ違うよ……。": "Elle parle de maniere tres formelle, cette\nprincesse. C'est bien different de l'image que\nje m'en faisais..."
+    },
+    "322903": {
+        "「その懐かしき気配は……。\n　まさか　そんなことが……！？": "Cette presence nostalgique... Est-ce possible\nque cela soit... !?"
+    },
+    "322904": {
+        "「いかにも。我が名は　グランゼニス。": "En effet. Mon nom est Glmp Zenith."
+    },
+    "322905": {
+        "「これは　いったん\n　状況を整理する必要が　ありそうですね……。": "Il semble necessaire de faire le point sur la\nsituation pour le moment..."
+    },
+    "322906": {
+        "「……神の緋石によって　高まったチカラが\n　あなたの復活を　うながしたものの\n　どういうわけか　精神のみが　先に復活。": "…Bien que le pouvoir accru par la Pierre\nPourpre Divine ait favorise ta resurrection,\npour une raison inconnue, seul ton esprit est<br>revenu en premier."
+    },
+    "322907": {
+        "「創失の呪いに侵されるのを　防ぐため\n　あなたの加護によって　眠りつづけていた\n　アンルシアの身体に　入ってしまった……と。": "Pour empecher la malediction de l'oubli de\nprendre le dessus, le corps d'Anlucia, protege\npar ta benediction, est reste endormi... et je<br>me suis retrouve a l'interieur."
+    },
+    "322908": {
+        "「うむ。本来　身体と精神の復活は\n　同時に　果たされるはずであったのだ。": "Hum. Normalement, la resurrection du corps et\nde l'esprit aurait du se faire simultanement."
+    },
+    "322909": {
+        "「この　まごゼニスさまを\n　ゼニアスに　連れていっても　きっと\n　ネーしゃまに　ダメって　言われるよね。": "Si j'emmene ce cher Mago-Zenis a Zenias, je\nsuis sur que Dame Nee me dira que ce n'est pas\npossible."
+    },
+    "322910": {
+        "「完全なる神の復活とは　言えないでしょう。\n　アンルシアのためにも　早急に\n　御身の復活を　果たさねば。": "On ne peut pas vraiment parler d'une\nresurrection complete du dieu. Pour Anlucia,\nil est imperatif que vous retrouviez<br>rapidement votre pleine puissance."
+    },
+    "322911": {
+        "「私が　女神ルティアナより　賜った神器……。\n　断罪の剣は　今　どうなっている？": "Le tresor sacre que j'ai recu de la deesse\nLutiana... Qu'est-il advenu de l'epee de\nl'expiation ?"
+    },
+    "322912": {
+        "「グランゼニス様が　ご兄姉のチカラを借りて\n　ナドラガ神との戦いで　振るった剣ですね。": "C'est l'epee brandie par Zenith-sama, avec la\nforce de vos freres et soeurs, lors du combat\ncontre Nadraga."
+    },
+    "322913": {
+        "「この目で　見たい。\n　我が身体の復活には　あの剣が必要だ。": "Je veux voir de mes propres yeux. Pour la\nresurrection de mon corps, j'ai besoin de\ncette epee."
+    },
+    "322914": {
+        "「なるほど……。断罪の剣のチカラまで\n　必要になるとは　思いも寄りませんでした。\n　申し訳ありません。": "なるほどJe n'aurais jamais imagine que nous\naurions besoin du pouvoir de la Sword of\nAtonement. Je suis desole."
+    },
+    "322915": {
+        "「おまえは　勇者の片割れのようだな。\n　この状態では　私の神としてのチカラにも\n　限界があるようだ。ともに　来てくれるか。": "Tu sembles etre l'autre moitie du heros. Dans\ncet etat, meme mes pouvoirs divins semblent\navoir leurs limites. Veux-tu bien venir avec<br>moi ?"
+    },
+    "322916": {
+        "「<pc>。私からも　お願いします。\n　断罪の剣は　竜族の世界　ナドラガンドの中心\n　神墟ナドラグラムの大地に　刺さっています。": "<pc>. Je vous en prie, ecoutez-moi\naussi. L'Epee de l'Expiation est plantee au\ncentre du monde des dragons, dans la terre du<br>Sanctuaire de Nadragram."
+    },
+    "322917": {
+        "「もちろん　あたしも　ついていくよ。\n　まごゼニスさまを　完全復活させれば\n　お姫さまも　元に戻れるよね！": "Bien sur, je viens aussi avec vous. Si nous\nparvenons a restaurer completement Maitre\nZenith, la princesse pourra egalement<br>retrouver son etat normal !"
+    },
+    "322918": {
+        "「……よかろう。\n　おまえの好きにするがいい。": "...Tres bien. Fais comme tu veux."
+    },
+    "322919": {
+        "「やったあ！": "J'ai reussi !"
+    },
+    "322920": {
+        "「グランゼニス様の御身は　光の神殿にあります。\n　私は　そちらで　準備を進めますので\n　ひと足先に　失礼いたします。": "Le corps de Zenith-sama se trouve au Temple de\nla Lumiere. Je vais m'occuper des preparatifs\nla-bas, je vous prie de m'excuser, je vous<br>devance."
+    },
+    "322921": {
+        "「それじゃ　<pc>隊長\n　竜族の世界ナドラガンドにあるっていう\n　神墟ナドラグラムへ　行ってみよ～！": "Alors, Capitaine <pc>, allons explorer\nle Sanctuaire de Nadragram qui est cense se\ntrouver dans le monde des dragons, Draganod !"
+    },
+    "322922": {
+        "「これは……　ひどい状態だな。\n　あの激しい戦いに　さらされたのだ。\n　無理もないことだが……。": "C'est... dans un etat terrible. Il a ete\nexpose a cette bataille intense. Ce n'est pas\netonnant, mais..."
+    },
+    "322923": {
+        "「しかし　このままでは　私の身体の復活に\n　役立てることは　難しいだろう……。": "Cependant, dans cet etat, il sera difficile de\ncontribuer a la resurrection de mon corps..."
+    },
+    "322924": {
+        "「そんなあ……。それじゃ\n　どうすれば　いいんですか　まごゼニスさま？": "Oh non... Alors, que devrions-nous faire,\nvenerable Mago-Zenith-sama ?"
+    },
+    "322925": {
+        "「私は　かつて　このナドラグラムの地で\n　断罪の剣を振るって　兄であるナドラガと\n　壮絶な戦いを　くりひろげた。": "J'ai autrefois brandi la Sword of Atonement\nsur cette terre de Nadagram et mene un combat\nepique contre mon frere, Nadraga."
+    },
+    "322926": {
+        "「そして　最後の一撃を与えた際に\n　剣の刃が　大きく　欠けてしまったのだ。\n　その破片が　手に入れば　あるいは……。": "Et lorsque j'ai porte le coup final, la lame\nde l'epee s'est gravement ebrechee. Si nous\npouvions recuperer ce fragment, peut-etre<br>que..."
+    },
+    "322927": {
+        "「だが　破片は　ナドラガの身体の中だ。\n　取りもどすのは　至難の業だろうな。": "Mais les fragments se trouvent a l'interieur\ndu corps de Nadraga. Les recuperer sera une\ntache extremement difficile."
+    },
+    "322928": {
+        "「やっと　追いつきました。\n　みなさん　こちらに　おられたんですね。": "Enfin, je vous ai rattrapes. Vous etiez tous\nici, n'est-ce pas ?"
+    },
+    "322929": {
+        "「あれっ　エッちゃん？\n　どうして　ここに？": "Tiens, Etsuko-chan ? Que fais-tu ici ?"
+    },
+    "322930": {
+        "「アンルシアさんの容体が　心配だったので\n　グランゼドーラ城を　訪ねたのですが\n　すでに　目覚めた後でした。": "J'etais inquiet pour l'etat de sante\nd'Anlucia-san, alors je suis alle au Chateau\nde Gran Zedora, mais elle s'etait deja<br>reveillee."
+    },
+    "322931": {
+        "「賢者ルシェンダさんに　話を聞いたら\n　さらに　大変なことになって　ナドラガンドに\n　向かったと　言うではありませんか。": "Apres avoir parle avec Sage Lushenda-san, on a\nappris que la situation etait devenue encore\nplus compliquee, et il semblerait qu'il se<br>soit dirige vers Dragan."
+    },
+    "322932": {
+        "「私も　何か　お役に立てないかと思い\n　急いで　みなさんを　追いかけてきたのです。": "Moi aussi, je me suis demande si je ne pouvais\npas etre utile, alors je me suis depeche de\nvous rejoindre."
+    },
+    "322933": {
+        "「おまえは　竜族の神官か。\n　見たところ　ナドラガの器であるようだな。": "Tu es le pretre du clan des dragons ? A en\njuger par ton apparence, tu sembles etre le\nreceptacle de Nadraga."
+    },
+    "322934": {
+        "「その話し方……。\n　本当に　グランゼニス神が\n　アンルシアさんの身体に……。": "Cette facon de parler... Est-ce que Gran\nZenith est vraiment dans le corps\nd'Anlucia-san..."
+    },
+    "322935": {
+        "「この剣の破片が　ナドラガの体内にある。\n　私は　それを取りもどさねばならない。\n　おまえの手を　貸してはくれまいか？": "Ce fragment d'epee se trouve a l'interieur du\ncorps de Nadraga. Je dois le recuperer.\nPourrais-tu me preter main-forte ?"
+    },
+    "322936": {
+        "「しかし　ナドラガ神は　すでに　滅びました。\n　取りもどすと　言われても……。": "Cependant, Nadraga a deja ete detruit. Meme si\non nous dit de le recuperer..."
+    },
+    "322937": {
+        "「身体は滅びても　意思は残る。\n　神とは　そういうものだ。": "Bien que le corps perisse, la volonte\npersiste. C'est ainsi que sont les dieux."
+    },
+    "322938": {
+        "「それでは　今でも　ナドラガ神の意思に\n　触れることが　かなうと……。": "Alors, cela signifie qu'il est possible\nd'entrer en contact avec la volonte de\nNadraga, meme maintenant..."
+    },
+    "322939": {
+        "「そのはずだ。そして　私が\n　ナドラガを説得し　彼の内に残された\n　断罪の剣の破片を　返してもらう。": "Exactement. Et je vais convaincre Nadraga de\nme rendre le fragment de l'Epee de l'Expiation\nqui est reste en lui."
+    },
+    "322940": {
+        "「……今は　わかりません。\n　ですが　もしかしたら　かつての総主教ならば\n　何か知っていた可能性は　あります。": "Je ne sais pas pour l'instant. Cependant, il\nest possible que l'ancien Lord Supreme ait su\nquelque chose."
+    },
+    "322941": {
+        "「その方法を探してみようと　思います。\n　大神殿の　総主教の部屋まで\n　来ては　いただけませんか？": "Je pense que je vais essayer de chercher cette\nmethode. Pourriez-vous venir jusqu'a la\nchambre du Grand Seigneur du Grand Temple ?"
+    },
+    "322942": {
+        "「もちろんだ。私も　手伝おう。": "Bien sur. Je vais t'aider aussi."
+    },
+    "322943": {
+        "「わかりました。大神殿は\n　炎の領界の　聖都エジャルナにあります。\n　総主教の部屋は　その２階です。": "D'accord. Le Grand Temple se trouve dans la\nCite Sainte Ejarna du Royaume du Feu. La salle\ndu Seigneur Supreme est au deuxieme etage."
+    },
+    "322944": {
+        "「あなたも　来ていただけますか。\n　私は　ひと足先に　エジャルナに向かい\n　トビアスにも　このことを　伝えておきます。": "Pourriez-vous venir egalement ? Je vais me\nrendre a Ejarna un peu en avance et informer\nTobias de la situation."
+    },
+    "322945": {
+        "「炎の領界の大神殿に　行くんだね。\n　竜族の住んでる世界って　見たことないものが\n　いっぱいで　わくわくするよ！": "Tu vas te rendre au Grand Temple du Royaume de\nFeu, n'est-ce pas ? Le monde des dragons est\nrempli de tant de choses que je n'ai jamais<br>vues, c'est excitant !"
+    },
+    "322946": {
+        "「お待ちしていました　みなさん。\n　こちらは　ナドラガンド協団の指導者\n　トビアスです。": "Nous vous attendions, tout le monde. Voici\nTobias, le leader de la coalition NaDragan."
+    },
+    "322947": {
+        "「ようこそ　ナドラガンド協団へ。\n　アンルシア姫……　いや\n　人間の種族神　グランゼニスよ。": "Bienvenue a l'Alliance Dragan. Princesse\nAnlucia... ou plutot, deesse de la race\nhumaine, G.LMP Zenith."
+    },
+    "322948": {
+        "「エステラより　話は聞きました。\n　ナドラガ神の意思を　神の器に降ろす手段を\n　求めておられると。": "J'ai entendu l'histoire de la part d'Estella.\nVous cherchez un moyen de faire descendre la\nvolonte de Nadraga dans un recipient divin."
+    },
+    "322949": {
+        "「しかし　アストルティアを　滅ぼさんとした\n　邪神として　討たれた存在なのです。\n　その意思を呼びだして　平気でしょうか？": "Cependant, il s'agit d'une entite qui a ete\nabattue en tant que dieu malefique cherchant a\ndetruire Astoltia. Est-il vraiment prudent<br>d'invoquer sa volonte ?"
+    },
+    "322950": {
+        "「今の私もそうだが　神といえど\n　器に　意思だけが宿った状態では\n　できることなど　たかが知れている。": "Meme en tant que divinite, dans mon etat\nactuel ou seule la volonte reside dans un\nreceptacle, mes capacites sont tres limitees."
+    },
+    "322951": {
+        "「ナドラガとは　私が　話を付ける。\n　何か　手立てが　見つかったのであれば\n　すぐに　教えてほしい。": "Je vais parler avec Nadraga. Si tu trouves un\nmoyen quelconque, fais-le-moi savoir\nimmediatement."
+    },
+    "322952": {
+        "「私は　このナドラガンドに残る魔瘴を浄化すべく\n　かつての総主教　オルストフの遺した\n　書物や文献を　ずっと　調べておりました。": "Je me suis consacree a l'etude des livres et\ndes ecrits laisses par l'ancien Grand Pretre\nOlstof, afin de purifier cette terre de Dragan<br>des miasmes malefiques qui y subsistent."
+    },
+    "322953": {
+        "「その書物の中に　神の器へ\n　ナドラガ神の意思を　降臨させる儀式について\n　書かれたものがあったのです。": "Dans ce livre, il y avait un ecrit sur le\nrituel qui permet d'invoquer la volonte de\nNadraga dans le receptacle divin."
+    },
+    "322954": {
+        "「それって　エッちゃんが\n　今の　まごゼニスさまみたいな感じに\n　なっちゃうってこと？": "Tu veux dire qu'Et-chan va devenir comme le\nMago-Zenith-sama actuel ?"
+    },
+    "322955": {
+        "「……そのとおりだが　一時的なものだ。\n　儀式の効果は　そう長くは続かないらしい。\n　試したわけではないが……。": "......C'est vrai, mais c'est temporaire. Il\nsemblerait que l'effet du rituel ne dure pas\ntres longtemps. Je ne l'ai pas teste moi-meme,<br>mais..."
+    },
+    "322956": {
+        "「たとえ　この身に　危険があるとしても\n　私も　燈火の調査隊の一員です。\n　できる限りの協力は　惜しみませんよ。": "Meme si cela implique un danger pour moi, je\nfais partie de l'equipe d'enquete de la\nFlamme. Je n'hesiterai pas a apporter toute<br>l'aide possible."
+    },
+    "322957": {
+        "「して　その儀式というのは\n　すぐに　できるものなのだろうか？": "Et ce rituel, peut-il etre realise\nimmediatement ?"
+    },
+    "322958": {
+        "「各領界の　ナドラガ神のほこらに\n　神官を派遣して　一斉に　祈りを捧げるのです。\n　かなり　大がかりなものとなるでしょう。": "Nous enverrons des pretres dans chaque\nsanctuaire Nadraga des differents domaines\npour offrir des prieres simultanement. Cela<br>sera une operation de grande envergure."
+    },
+    "322959": {
+        "「そのうえ　領界を守護する神獣たちにも\n　許可を取り　協力を求めなければなりません。\n　手配は始めますが　すぐには　難しいかと。": "De plus, nous devons obtenir l'autorisation\ndes divinites gardiennes qui protegent chaque\nterritoire et leur demander leur cooperation.<br>Les preparatifs vont commencer, mais cela\nrisque d'etre difficile immediatement."
+    },
+    "322960": {
+        "「そうか。ならば　待つしかあるまい。\n　だが　急いでくれ。この身体では\n　神のチカラを行使することも　ままならんのだ。": "Je vois. Dans ce cas, il ne nous reste qu'a\nattendre. Mais fais vite, je te prie. Dans ce\ncorps, je ne peux pas exercer le pouvoir divin<br>comme il se doit."
+    },
+    "322961": {
+        "「はい。できるだけ　すみやかに\n　事を進めましょう。": "Oui. Avancons les choses aussi rapidement que\npossible."
+    },
+    "322962": {
+        "「では　みなさん。\n　儀式の準備が　ととのうまで\n　しばらくは　この大神殿に　ご滞在ください。": "Alors, tout le monde. Veuillez sejourner un\nmoment dans ce grand temple jusqu'a ce que les\npreparatifs du rituel soient termines."
+    },
+    "322963": {
+        "「すみませんが　この大神殿の\n　私が使っていた部屋まで　来ていただけますか？\n　今後の相談など　しておきたいのです。": "Excusez-moi, pourriez-vous venir jusqu'a la\npiece que j'utilisais dans ce grand temple ?\nJ'aimerais discuter de certaines affaires a<br>venir."
+    },
+    "322964": {
+        "「じゃ　あたしは　その間\n　大神殿の中を　探検してこようかな。\n　まごゼニスさまも　いっしょに　行こうよ！": "Alors, pendant ce temps, je vais explorer\nl'interieur du Grand Temple. Viens avec moi,\nMago-Zenith-sama !"
+    },
+    "322965": {
+        "「ちょっと　待て。\n　勝手に　部屋に入られては\n　神官室清掃担当の私が　困るのだが。": "Un instant. Si vous entrez dans la chambre\nsans permission, cela pose probleme pour moi,\nqui suis charge du nettoyage de la chambre du<br>pretre."
+    },
+    "322966": {
+        "ベサワキに　エステラが\nどこへ行ったのか　聞いてみますか？<yesno><close>": "Voulez-vous demander a Besawaki ou Estella est\npartie ?<yesno><close>"
+    },
+    "322967": {
+        "「……何か　言いたげなカオだな。\n　聞きたいことがあるなら\n　素直に　この私に聞くべきだと　思うのだが？": "Tu sembles vouloir dire quelque chose. Si tu\nas des questions, je pense que tu devrais\nsimplement les poser directement a moi."
+    },
+    "322968": {
+        "「……エステラ？　それは　誰のことだ。\n　そんな名の神官は　大神殿に　いないのだが。": "......Estella ? Qui est-ce ? Il n'y a pas de\npretresse de ce nom dans le grand temple."
+    },
+    "322969": {
+        "「ここは　ずっと　空き部屋になっていて\n　今まで　誰も使ったことのない部屋だ。\n　清掃担当が言うのだから　まちがいないのだが！": "Ici, c'est une piece qui est restee vide\npendant longtemps et que personne n'a jamais\nutilisee jusqu'a present. C'est ce que dit le<br>responsable du nettoyage, donc il n'y a aucun\ndoute la-dessus !"
+    },
+    "322970": {
+        "「ふたたび　創失が　起こったということだ。\n　よもや　ナドラガの器が　消えてしまうとはな。": "Il semble qu'un autre effacement creatif ait\neu lieu. Je ne m'attendais pas a ce que le\nreceptacle de Nadraga disparaisse."
+    },
+    "322971": {
+        "「創失の呪いは　消え去ってはいなかった。\n　これは　由々しき事態だ。\n　策を講じねば……。": "La malediction de la creation perdue n'a pas\nete dissipee. C'est une situation grave. Nous\ndevons elaborer un plan..."
+    },
+    "322972": {
+        "「先ほど　創生のチカラのうねりを感じた。\n　この辺りから　強く発せられたようだが\n　いったい　何があったのだ？": "Tout a l'heure, j'ai ressenti une vague de\npouvoir de la Creation. Cela semblait provenir\nfortement de par ici. Que s'est-il passe<br>exactement ?"
+    },
+    "322973": {
+        "「……あれれっ？　みんな　どうしたの？\n　ここで　何か　あったの？": "…He ? Qu'est-ce qui se passe, tout le monde ?\nY a-t-il eu quelque chose ici ?"
+    },
+    "322974": {
+        "<pc>は　ポルテたちに\nエステラの存在が　創失してしまったらしいことを\n伝えた。": "<pc> informa les Porte que l'existence\nd'Estella semble avoir ete effacee."
+    },
+    "322975": {
+        "「ええっ！？　エッちゃんが？\n　そんな　どうして…………。": "Quoi !? E-chan ? Mais comment cela a-t-il pu\narriver..."
+    },
+    "322976": {
+        "「今　この状況で　神の器が……。\n　これは　本当に偶然なのか……？": "Maintenant, dans cette situation, le\nreceptacle divin... Est-ce vraiment une\ncoincidence... ?"
+    },
+    "322977": {
+        "「<pc>よ。\n　協団の指導者……　トビアスと言ったか？\n　その者の所へ　向かおう。": "<pc>, allons-y. Le leader de\nl'alliance... c'etait Tobias, n'est-ce pas ?\nAllons le rencontrer."
+    },
+    "322978": {
+        "「本当に　ナドラガの器が　失われたとしたら\n　我々の目的が　危うくなる。\n　急ぎ　状況を確認せねばなるまい。": "Si vraiment le receptacle de Nadraga a ete\nperdu, notre objectif est en peril. Nous\ndevons rapidement verifier la situation."
+    },
+    "322979": {
+        "「何を　ごちゃごちゃ言っているのだ？\n　この部屋に　用事がないなら\n　さっさと　出ていってほしいのだが！": "Qu'est-ce que tu racontes ? Si tu n'as rien a\nfaire dans cette piece, je te prierais de\npartir immediatement !"
+    },
+    "322980": {
+        "「これは　グランゼニス神。\n　いかがされましたか？": "Bienvenue au Gran Zenith. Comment puis-je vous\naider ?"
+    },
+    "322981": {
+        "「ナドラガ神降臨の儀式の件が\n　どうなっているか　確認しておきたい。": "Je veux m'assurer de l'etat de la ceremonie\nd'invocation de Nadraga."
+    },
+    "322982": {
+        "「その件でしたら　無理と　お伝えしたはずです。\n　儀式に必要となる　ナドラガ神の器の\n　資格を持つ者が　見つかっていないのですから。": "Concernant cette affaire, je vous ai deja dit\nque c'etait impossible. Nous n'avons pas\nencore trouve de personne ayant les<br>qualifications necessaires pour etre le\nreceptacle de Nadraga pour le rituel."
+    },
+    "322983": {
+        "「あのっ。エッちゃ……じゃなくて\n　エステラさんのこと　覚えてませんか？": "Euh... Vous ne vous souvenez pas d'Estella-san\n?"
+    },
+    "322984": {
+        "「エステラ……？\n　そのような名に　心当たりはないが\n　神の器と　関係のある者なのか？": "Estella... ? Je ne connais pas ce nom, mais\naurait-elle un lien avec le receptacle divin ?"
+    },
+    "322985": {
+        "「ああ。やっぱり……。": "Ah. Comme je le pensais..."
+    },
+    "322986": {
+        "「やはり　ナドラガの器は\n　創失の呪いを受けて　その存在を\n　消されてしまったようだな……。": "Il semble que le receptacle de Nadraga ait ete\nfrappe par la malediction de la creation\nperdue, effacant ainsi son existence..."
+    },
+    "322987": {
+        "「トビアスさま　大変です！！\n　謎の魔物の襲撃を　受けたとの報告が\n　あちこちの領界から　来ていますっ。": "Seigneur Tobias, c'est terrible !! On nous\nrapporte des attaques de creatures\nmysterieuses provenant de tous les<br>territoires."
+    },
+    "322988": {
+        "「なにっ？": "Quoi ?"
+    },
+    "322989": {
+        "「この炎の領界にもですっ。\n　魔物は　神出鬼没で　対処に難儀していると！": "Dans ce Royaume du Feu aussi, les monstres\napparaissent de maniere imprevisible, ce qui\ncomplique notre tache !"
+    },
+    "322990": {
+        "「すぐに　討伐隊を編成し　対応しろ。\n　他の領界のほうは　どうなっている？": "Soon, form a task force and deal with it.\nWhat's happening in the other domains?"
+    },
+    "322991": {
+        "「水の領界は　青の騎士団。\n　嵐の領界では　疾風の騎士団が\n　対応に当たっているとの報告が　ありました！": "Dans le Water Realm, c'est la brigade des\nchevaliers bleus. Dans le Storm Realm, on\nrapporte que la brigade des chevaliers de la<br>tempete est en charge de la situation !"
+    },
+    "322992": {
+        "「氷の領界は　出現した魔物の数が\n　さほど　多くないとのことですが\n　闇の領界は　捜索すら　ままならず……。": "Il semble qu'il n'y ait pas tant de monstres\ndans le Ice Realm, mais dans le Dark Realm,\nmeme la recherche est difficile..."
+    },
+    "322993": {
+        "「むう……。しかし　魔物の勢力が\n　いかほどのものなのか　わからぬことには\n　こちらの戦力を割くわけにも……。": "Mmm... Cependant, tant que nous ne connaissons\npas l'ampleur des forces des monstres, il est\ndifficile de repartir nos propres troupes..."
+    },
+    "322994": {
+        "「トビアスよ。\n　我々が　闇の領界に　向かおう。": "Tobias. Allons-nous en direction du Dark\nRealm."
+    },
+    "322995": {
+        "「よいのですか？\n　願ってもない　申し出ですが……。": "Est-ce vraiment acceptable ? C'est une offre\ntrop belle pour etre refusee..."
+    },
+    "322996": {
+        "「人々の危機とあらば　放ってはおけぬ。\n　我々に　まかせてくれ。": "Les gens sont en danger, nous ne pouvons pas\nrester les bras croises. Laisse-nous nous en\noccuper."
+    },
+    "322997": {
+        "「謎の魔物の出現は　神の器の創失と\n　無関係とは　思えん。\n　行って　確かめるしかあるまい？": "L'apparition de ce monstre mysterieux ne me\nsemble pas etre sans lien avec la creation\nperdue du receptacle divin. Il ne nous reste<br>qu'a aller verifier, n'est-ce pas ?"
+    },
+    "322998": {
+        "「そうだね。もし　関係なくても\n　困ってる人がいるなら　助けてあげなきゃ！": "Oui, c'est vrai. Meme si ca n'a rien a voir,\nsi quelqu'un est en difficulte, on doit\nl'aider !"
+    },
+    "322999": {
+        "「……恩に着ます。\n　闇の領界では　まず　カーラモーラ村に行き\n　村長に　状況を聞くのが　よいでしょう。": "...... Je vous suis reconnaissant. Dans le\nDark Realm, il serait sage de commencer par\naller au village de Carlamora et d'ecouter la<br>situation aupres du chef du village."
+    },
+    "323000": {
+        "「了解した。\n　では　行こう　<pc>。": "Compris. Allons-y, <pc>."
+    },
+    "323001": {
+        "<pc>たちは　サジェの姿を捜して\n影の谷上層の中央辺りまで　やって来た。": "<pc> et son groupe cherchaient Sajay et\nsont arrives a peu pres au centre de l'etage\nsuperieur de la Vallee de l'Ombre."
+    },
+    "323002": {
+        "ふと　空を見上げると\n竜の姿をした魔物が　たくさん\n飛びまわっていることに　気がついた！": "En levant les yeux vers le ciel, je me suis\nrendu compte qu'il y avait de nombreux\nmonstres en forme de dragons qui volaient tout<br>autour !"
+    },
+    "323003": {
+        "「もしや　あの少年が　サジェか？\n　魔物たちに　狙われているぞ！": "Peut-etre que ce garcon est Sajay ? Il est\npris pour cible par les monstres !"
+    },
+    "323004": {
+        "「うわあぁぁぁぁー！": "Uwaaaah !"
+    },
+    "323005": {
+        "「おまえは　Ｑ４８４？": "Tu es Q484 ?"
+    },
+    "323006": {
+        "「……いや。\n　アイツは　壊れてしまったんだ。\n　じゃあ　その後継機の　Ｑ４８５か！": "... Non. Il s'est casse. Alors, est-ce le\nmodele successeur, le Q485 !"
+    },
+    "323007": {
+        "「複数ノ　敵性体ヲ感知。\n　危険度極大ノタメ　緊急排除シマス。": "Detection de plusieurs entites hostiles. En\nraison du danger extreme, elimination\nd'urgence en cours."
+    },
+    "323008": {
+        "「排除ノ完了ヲ　確認。\n　現地点ノ安全ヲ　確保。\n　すきゃん開始。残存スル敵性体ヲ　探査シマス。": "Elimination confirmee. Securisation du point\nP. Demarrage du scan. Recherche des entites\nhostiles restantes."
+    },
+    "323009": {
+        "「ありがとう　Ｑ４８５！\n　ボクを　助けてくれたんだな。": "Merci, Q485 ! Tu m'as aide, n'est-ce pas ?"
+    },
+    "323010": {
+        "「キミは　<pc>？\n　どうして　ここに？": "Tu es <pc> ? Pourquoi es-tu ici ?"
+    },
+    "323011": {
+        "「あたしたち　この領界が　謎の魔物に\n　襲われてるって聞いて　助けにきたの！": "Nous avons entendu dire que ce domaine etait\nattaque par des monstres mysterieux, alors\nnous sommes venus vous aider !"
+    },
+    "323012": {
+        "「こやつに　先を越されたがな。\n　面白いカラクリだ。ワギの造ったものか。": "Ce type m'a pris de vitesse. C'est un\nmecanisme interessant. Est-ce quelque chose\nfabrique par Wagi ?"
+    },
+    "323013": {
+        "「サジェっちは　さっきの魔物を\n　調査するために　ここに　来たんだよね。\n　何か　わかったことってあるかな？": "Sajay-chan, tu es venu ici pour enqueter sur\nles monstres de tout a l'heure, n'est-ce pas ?\nAs-tu decouvert quelque chose ?"
+    },
+    "323014": {
+        "「え……。ああ。\n　アイツらが　何者かは　まだ調査中だけど\n　推測できることは　もちろん　あるさ！": "Eh... Ah. Nous sommes encore en train\nd'enqueter sur qui ils sont, mais bien sur,\nnous avons quelques suppositions !"
+    },
+    "323015": {
+        "「アイツらは　影の谷の奥にある\n　ナドラガ神のほこらから　飛んでくるみたいだ。\n　そこに元凶があると　ボクは　見ている。": "Il semble qu'ils viennent du fond de la Vallee\nde l'Ombre, depuis le Sanctuaire de Nadraga.\nJe pense que c'est la que se trouve la source<br>du probleme."
+    },
+    "323016": {
+        "「……ふむ。\n　ならば　確かめる必要があるな。": "…Hmm. Dans ce cas, nous devons verifier cela."
+    },
+    "323017": {
+        "「ありがとう。あとは　あたしたちに任せて\n　サジェっちは　村に戻って！\n　キューちゃんといっしょなら　平気だよね？": "Merci. Laisse-nous nous occuper du reste.\nSajay, retourne au village ! Avec Kyu-chan,\ntout ira bien, n'est-ce pas ?"
+    },
+    "323018": {
+        "「すきゃんガ　完了シマシタ。\n　新タナ敵性体ヲ感知。排除ニ　向カイマス。": "Scan complet. Nouvelle entite hostile\ndetectee. Je me dirige vers l'elimination."
+    },
+    "323019": {
+        "「アイツらが　別の場所に　現れたのか！\n　そこに　行くんだな？": "Ils ont ete transportes ailleurs ! On doit se\nrendre la-bas, n'est-ce pas ?"
+    },
+    "323020": {
+        "「ボクは　Ｑ４８５と　一緒にいくから\n　キミたちは　ナドラガ神のほこらへ向かって！": "Je vais partir avec Q485, vous, dirigez-vous\nvers le sanctuaire de Nadraga !"
+    },
+    "323021": {
+        "「うわーーーーーーーっ！！": "Ouahhhhhhhh !!"
+    },
+    "323022": {
+        "「だいじょうぶかな　あれ……。": "Est-ce que ca va aller, ca... ?"
+    },
+    "323023": {
+        "「先ほどの戦いを見る限り\n　あのカラクリなら　問題なさそうだ。": "En regardant le combat precedent, il semble\nque cet automate ne posera pas de probleme."
+    },
+    "323024": {
+        "「ここから　謎の魔物が　現れるの？\n　だ～れも　いないし\n　な～んにも　ないみたいだけど……。": "Est-ce que des monstres mysterieux\napparaissent d'ici ? Il n'y a personne et il\nne semble rien y avoir..."
+    },
+    "323025": {
+        "「いや　いるな……。ポルテよ。\n　おまえは　少し　離れておくんだ。": "Non, il est la... Porte. Toi, reste un peu en\nretrait."
+    },
+    "323026": {
+        "「うん　わかった……。": "Oui, j'ai compris..."
+    },
+    "323027": {
+        "「ウウウゥゥゥ……。": "Ooooh..."
+    },
+    "323028": {
+        "「この　怨みがましい思念……。\n　この地に染みついた　竜族の怨念のようだな。": "Ces pensees pleines de rancune... On dirait\nbien que ce sont les rancoeurs des Dragons qui\nimpregnent cette terre."
+    },
+    "323029": {
+        "「ナドラガに扇動され　他種族に害をなした竜族は\n　罰として　領界での過酷な生活を　強いられた。\n　怨みも溜まろうというものだ。": "Les dragonides, pousses par Nadraga a nuire\naux autres races, ont ete contraints a une vie\ndifficile dans les territoires en guise de<br>punition. Leur rancoeur ne pouvait que\ns'accumuler."
+    },
+    "323030": {
+        "「ナドラガの神の器が　創失の呪いを受けたことで\n　抑えられていた怨念が　一気に　噴きだしたか。\n　おおかた　そんなところだろう。": "Il semblerait que la malediction de la\ncreation perdue infligee au receptacle du dieu\nNadraga ait libere d'un coup les rancoeurs qui<br>etaient contenues. C'est probablement ce qui\ns'est passe."
+    },
+    "323031": {
+        "「こやつは　少々　やっかいな相手だ。\n　慣れぬ身体ではあるが　私も　ともに戦おう。": "Cet adversaire est un peu coriace. Bien que ce\nsoit un corps auquel je ne suis pas habitue,\nje combattrai a vos cotes."
+    },
+    "323032": {
+        "「ウォォォォン……！": "Woaaaaaah...!"
+    },
+    "323033": {
+        "「くっ……。この地には\n　どれだけの怨念が　眠っているというのだ！": "Argh... Combien de rancoeurs dorment dans cette\nterre !"
+    },
+    "323034": {
+        "「敵性体ヲ　発見シマシタ。\n　排除ヲ　開始シマス。": "Ennemi detecte. Commencement de l'elimination."
+    },
+    "323035": {
+        "「敵戦力　ゾウダイ。\n　現在ノ装備デハ　完全排除不可能ト　判断。\n　最終攻撃手段　自爆しーけんすニ　移行シマス。": "Force ennemie en augmentation. Evaluation :\nElimination complete impossible avec\nl'equipement actuel. Passage a la derniere<br>methode d'attaque : Autodestruction."
+    },
+    "323036": {
+        "「バカなこと　言うなよ！\n　こんなとこで　自爆なんかしたら\n　みんな　死んじゃうじゃないか！！": "Ne dis pas de betises ! Si tu te fais exploser\nici, on va tous mourir !!"
+    },
+    "323037": {
+        "「要望：ばかナコト　言ウナヨ\n　＝　自爆停止要請ト　理解。\n　自爆しーけんすヲ　きゃんせるシマシタ。": "Demande : Ne dis pas de betises. = Compris\ncomme une demande d'annulation de\nl'autodestruction. L'experience<br>d'autodestruction a ete annulee."
+    },
+    "323038": {
+        "「敵性体　排除ノ　方法ナシ。\n　一時　撤退ヲ開始シマス。": "Pas de moyen d'eliminer l'entite ennemie.\nDebut de la retraite temporaire."
+    },
+    "323039": {
+        "「うわわわわぁ。": "Ouwaaa."
+    },
+    "323040": {
+        "「さしもの　ワギのカラクリも　打つ手なしか。\n　私が　完全であれば　どうとでもなろうが\n　今の状態では……。": "Meme le mecanisme de Wagi est sans espoir. Si\nj'etais complet, je pourrais gerer cela, mais\ndans mon etat actuel..."
+    },
+    "323041": {
+        "「下がれ　ポルテ。\n　おまえが　ただの人間でないことは\n　わかっている。だが　無理だ。": "Recule, Porte. Je sais que tu n'es pas un\nsimple humain. Mais c'est impossible."
+    },
+    "323042": {
+        "「いいや。ここは　我に　まかせてもらう。\n　放置すれば　この怨念は　闇の領界の\n　すべてを飲み込み　消滅させるであろう。": "Non. Laisse-moi m'en charger. Si nous laissons\ncette rancoeur sans surveillance, elle risque\nd'engloutir et d'aneantir tout le Dark Realm."
+    },
+    "323043": {
+        "「ひいては　ナドラガンドそのものが失われる。\n　ナドラガンドも　アストルティアの一部。\n　決して　失うわけには　いかぬのだ！": "En fin de compte, le Dragan lui-meme serait\nperdu. Le Dragan est aussi une partie\nd'Astoltia. Il ne doit en aucun cas etre perdu<br>!"
+    },
+    "323044": {
+        "「我がチカラをもって　封じ込めてくれようぞ！": "Avec mon pouvoir, je vais te sceller !"
+    },
+    "323045": {
+        "「……はあっ！！": "...Haah!!"
+    },
+    "323046": {
+        "「ほう　たいしたものだ。\n　あの怨念を　すべて　封じ込めるとは。": "Oh, c'est impressionnant. Avoir reussi a\nsceller toutes ces rancunes."
+    },
+    "323047": {
+        "「おまえは　いったい　何者なのだ？\n　我が神の目をもってしても　判然としない。": "Qui es-tu donc ? Meme avec les yeux de mon\ndieu, je ne parviens pas a te cerner."
+    },
+    "323048": {
+        "「一度　聖都エジャルナの大神殿に戻るとしよう。\n　ポルテを早く　休ませてやりたい。": "Une fois, retournons au grand temple de la\nHoly City Ejarna. Je veux laisser Porte se\nreposer rapidement."
+    },
+    "323049": {
+        "気を失ったポルテを抱えて\n休ませてあげられそうな場所を　探していると\n竜族の女性神官が　声をかけてきた。": "Alors que je portais Porte evanoui a la\nrecherche d'un endroit ou il pourrait se\nreposer, une pretresse de la race des dragons<br>m'a interpelle."
+    },
+    "323051": {
+        "「どうか　ご心配なく。\n　見たところ　ケガなどはありませんし\n　過労のようなものではないかと。": "Ne vous inquietez pas. A premiere vue, il n'y\na pas de blessure. Je pense que cela pourrait\netre du a la fatigue."
+    },
+    "323052": {
+        "「助かった。ポルテのことを頼めるか？\n　我々は　協団の指導者に　闇の領界のことを\n　伝えにいかねば。": "Merci beaucoup. Peux-tu t'occuper de la Porte\n? Nous devons informer le leader de l'Alliance\nau sujet du Dark Realm."
+    },
+    "323053": {
+        "「待て　<pc>……。\n　ふたりきりで　話したいことがある。\n　ここに　残ってもらえんか。": "Attends, <pc>... J'ai quelque chose a te\ndire en prive. Peux-tu rester ici ?"
+    },
+    "323054": {
+        "「……私は　先に　行っていよう。": "Je vais y aller en avance."
+    },
+    "323055": {
+        "「我が　何者なのか……。\n　そなたも　おおいに　気になっていよう。": "Qui suis-je vraiment... Cela doit egalement te\npreoccuper grandement."
+    },
+    "323056": {
+        "「我に残された時間は　少ない。\n　今のうちに　伝えておくべきかと思うてな。": "Il me reste peu de temps. Je pense qu'il est\npreferable de te le dire maintenant."
+    },
+    "323057": {
+        "「女神ルティアナの創りし世界　アストルティア。\n　創生のチカラをもって生まれし　万物には\n　命が宿り　ときに　意思さえも宿る……。": "Le monde d'Astoltia, cree par la Deesse\nLutiana. Dans toutes les choses nees de sa\npuissance creatrice, la vie reside et parfois<br>meme la volonte prend forme..."
+    },
+    "323058": {
+        "「我は　アストルティアの大地そのもの……\n　その意思が具現化した存在と　理解するがよい。": "Je suis la terre meme d'Astoltia... Comprends\nbien que je suis l'incarnation de sa volonte."
+    },
+    "323059": {
+        "「この世界に　降りかかった　創失の呪いを\n　自ら　振り払うため　アストルティアの意思は\n　自由に動きまわれる　人の姿をとったのじゃ。": "Pour repousser par moi-meme la malediction de\nl'oubli qui s'est abattue sur ce monde, la\nvolonte d'Astoltia a pris la forme d'un etre<br>humain capable de se mouvoir librement."
+    },
+    "323060": {
+        "「しかし　この姿となった我は\n　長く　活動することが　かなわなかった。\n　すでに　この身は　呪いに侵されていたゆえ。": "Cependant, sous cette forme, il m'etait\nimpossible d'agir longtemps. Mon corps etait\ndeja ronge par la malediction."
+    },
+    "323061": {
+        "「そこで　我は　創失の影響を受けていない部分を\n　切り離して　新たな人格と成さしめた。\n　それが　そなたのよく知る少女　ポルテだ。": "C'est pourquoi j'ai separe la partie de moi\nqui n'etait pas affectee par la perte de\ncreation et l'ai transformee en une nouvelle<br>personnalite. Cette personne, c'est la jeune\nfille que tu connais bien, Porte."
+    },
+    "323062": {
+        "「あの娘と我は　同時に顕現することはできぬが\n　心の内の世界でなら　話すことは　できる。": "Bien que cette fille et moi ne puissions\napparaitre simultanement dans le monde reel,\nnous pouvons discuter dans le monde interieur<br>de nos coeurs."
+    },
+    "323063": {
+        "「人としての　知識や常識を教えているうちに\n　我のことを　師匠と\n　認識してしまったようじゃな。": "En lui enseignant les connaissances et le bon\nsens en tant qu'humain, il semble qu'il m'ait\nreconnu comme son maitre."
+    },
+    "323064": {
+        "「……我が　そなたと出会ったのは\n　エテーネ王国の　お披露目式のときであったか。\n　創失の呪いが　発現した時のことじゃ。": "C'est lors de la ceremonie de presentation du\nroyaume d'Ethene que je t'ai rencontre.\nC'etait au moment ou la malediction de la<br>Creation Perdue s'est manifestee."
+    },
+    "323065": {
+        "「幾人かが　存在そのものを消されたが\n　周りの者は　誰も　それを認識できずにいた。\n　……そなたひとりを　除いてな。": "Bien que plusieurs personnes aient ete\neffacees de l'existence meme, personne autour\nd'eux n'a pu le reconnaitre... Sauf toi, bien<br>sur."
+    },
+    "323066": {
+        "「そなたは　幾度も　神のチカラに触れたことで\n　自覚の無いまま　創生のチカラの変質を\n　感知できるように　なったのであろう。": "Tu as touche a plusieurs reprises au pouvoir\ndivin, ce qui, sans que tu t'en rendes compte,\nt'a permis de percevoir la transformation du<br>pouvoir createur."
+    },
+    "323067": {
+        "「ゆえに　そなたに　磁光石を託した。\n　あの娘とともに　創失の呪いを\n　根本から　断ってもらうためにな。": "Par consequent, je t'ai confie le Magnetolite.\nC'est pour que, avec cette jeune fille, tu\npuisses rompre la malediction de l'oubli a sa<br>source."
+    },
+    "323068": {
+        "「しかし　先ほどの怨念を　封印するため\n　想定外に　大きなチカラを使ってしまった。\n　我は　当分の間　休む必要がある……。": "Cependant, pour sceller la rancune precedente,\nj'ai du utiliser une force bien plus grande\nque prevu. Je vais devoir me reposer pendant<br>un certain temps..."
+    },
+    "323069": {
+        "「我のバカ弟子を……　頼ん…………。": "Je te confie mon stupide disciple..."
+    },
+    "323070": {
+        "「お話が　終わった頃かと思いまして。\n　あらあら？　眠ってしまわれたんですね。": "Je pensais que l'histoire serait terminee. Oh\nla la ! Vous vous etes endormi, n'est-ce pas ?"
+    },
+    "323071": {
+        "「ポルテさんのことは　ご安心ください。\n　私が　看ていますので。": "Ne vous inquietez pas pour Porte-san. Je\nveille sur lui."
+    },
+    "323072": {
+        "「トビアス様に　ご用があるのでしょう？\n　２階の総主教の部屋に　いると思いますよ。": "Vous devez avoir besoin de voir Tobias-sama,\nn'est-ce pas ? Je pense qu'il est dans la\nsalle du maitre de la guilde au deuxieme<br>etage."
+    },
+    "323073": {
+        "「<pc>殿　お疲れ様でした。\n　グランゼニス神より　話は聞いています。": "<pc>-dono, vous avez travaille dur. J'ai\nentendu parler de vous de la part de Gran\nZenith."
+    },
+    "323074": {
+        "「謎の魔物たちの正体は　竜族の怨念……。\n　そして　闇の領界に　あふれでていた怨念は\n　皆さんのご尽力で　封印されたとのこと。": "Le veritable visage des mysterieux demons est\nla rancoeur du peuple dragon... Et grace a vos\nefforts, la rancoeur qui s'etait repandue dans<br>le Dark Realm a ete scellee."
+    },
+    "323075": {
+        "「ナドラガンドの民を代表して\n　ご協力に　感謝いたします。": "Au nom du peuple de Dragan, nous vous\nremercions pour votre cooperation."
+    },
+    "323076": {
+        "「闇の領界での封印が　影響したのか\n　その他の領界でも　敵の勢力が\n　弱まりつつあるとの報告が　入っています。": "Il semble que le sceau dans le Dark Realm ait\neu un impact, car nous recevons des rapports\nindiquant que les forces ennemies<br>s'affaiblissent egalement dans d'autres\nterritoires."
+    },
+    "323077": {
+        "「それは　朗報と言えるが……\n　ナドラガの器の件を　どうにかせねばならん。": "C'est une bonne nouvelle, mais... nous devons\nresoudre le probleme du recipient de Nadraga."
+    },
+    "323078": {
+        "「トビアスさまに　ご報告です！！\n　各領界から　謎の魔物たちが　一斉に\n　撤退を始めたとの報告が　来ております！": "Seigneur Tobias, j'ai un rapport a vous faire\n!! Des rapports nous indiquent que des\ncreatures mysterieuses ont commence a se<br>retirer simultanement de chaque region !"
+    },
+    "323079": {
+        "「おおっ。我々の勝利か？": "Oh ! Est-ce notre victoire ?"
+    },
+    "323080": {
+        "「それが　その……。\n　報告を総合すると　謎の魔物は　すべて\n　ある場所へ向かっていると　考えられるんです。": "Eh bien, ce que je veux dire, c'est que...\nD'apres les rapports, il semble que tous ces\nmysterieux monstres se dirigent vers un<br>certain endroit."
+    },
+    "323081": {
+        "「神墟ナドラグラムです！\n　これは　撤退というより　何か　目的があって\n　向かっているのではないかと……。": "C'est le Sanctuaire de Nadragram ! Plutot\nqu'une retraite, il semble qu'ils ont un but\nen tete et se dirigent vers quelque chose..."
+    },
+    "323082": {
+        "「ナドラグラムだと！？\n　かの地にある　竜神の柩には　ルビーが……。": "Nadralgramme, dis-tu !? Dans ce lieu se trouve\nle Coffre du Dragon Divin avec un Rubis..."
+    },
+    "323083": {
+        "「……いや。狙いは　断罪の剣のようだ。\n　すでに　怨念の竜が　とりついて\n　悪さをしようとしているのが　見える。": "Non. L'objectif semble etre le Sword of\nAtonement. Je peux voir que le dragon de la\nrancoeur s'est deja empare de lui et qu'il<br>s'apprete a commettre des mefaits."
+    },
+    "323084": {
+        "「断罪の剣のところへ　向かうぞ　<pc>。": "Nous nous dirigeons vers l'endroit de l'Epee\nde l'Expiation, <pc>."
+    },
+    "323085": {
+        "「我々は　引きつづき　警戒を続けましょう。\n　神墟ナドラグラムのこと　どうか\n　よろしく　お願いいたします……。": "Nous devons continuer a rester vigilants. Je\nvous confie la securite du sanctuaire de\nNadragram... Merci infiniment..."
+    },
+    "323086": {
+        "「あなたがたのご武運を　祈っております。": "Je prie pour votre succes au combat."
+    },
+    "323087": {
+        "「……むっ！？": "...Hmm!?"
+    },
+    "323088": {
+        "「どこに行こうと　追いかけてくる……。\n　まったく　うっとうしい　坊やですね。": "Peu importe ou je vais, il me poursuit...\nVraiment, quel garcon agacant."
+    },
+    "323089": {
+        "「ラキは　速い。\n　おまえじゃ　逃げられない！": "Lycae est rapide. Tu ne pourras pas t'echapper\n!"
+    },
+    "323090": {
+        "「わたくしめには　果たすべき任があるのです。\n　これ以上　邪魔をしないでいただきたい！": "J'ai une mission a accomplir. Je vous serais\nreconnaissant de ne pas me gener davantage !"
+    },
+    "323091": {
+        "「おお……　我が主よ…………。\n　お手をわずらわせて　申し訳ありません。": "Oh... Mon Seigneur... Je suis desole de vous\navoir derange."
+    },
+    "323092": {
+        "「なんだ　あれは……。\n　まったく　本性が見通せぬ。": "Qu'est-ce que c'est que ca... ? Je ne peux pas\ndu tout discerner sa veritable nature."
+    },
+    "323093": {
+        "「……執行…………せよ。": "......Executez...... maintenant."
+    },
+    "323094": {
+        "「ははっ。": "Ha ha."
+    },
+    "323095": {
+        "「くっ……　このチカラは…………。": "Grr... Ce pouvoir est..."
+    },
+    "323096": {
+        "「ナドラガ神の器を消した　わたくしめの\n　創失の呪いを　はじきますか。\n　腐っても　さすがは神器というわけですね。": "J'ai efface le receptacle de Nadraga, et\npourtant, vous parvenez a repousser la\nmalediction de l'oubli que j'ai lancee. Meme<br>terni, cela reste bel et bien un artefact\ndivin."
+    },
+    "323097": {
+        "「ならば　内より　崩す……。": "Dans ce cas, nous allons le detruire de\nl'interieur..."
+    },
+    "323098": {
+        "「おおっ　竜族の怨念を利用して\n　断罪の剣の内なる世界へと　道を開くとは。\n　さすがは　我が主！": "Oh ! Utiliser la rancoeur du peuple des dragons\npour ouvrir un chemin vers le monde interieur\ndu Sword of Atonement. C'est bien digne de mon<br>Lord !"
+    },
+    "323099": {
+        "「さしもの　神器といえども\n　内なる世界から　その急所を攻めれば\n　容易に　打ち滅ぼせましょう。": "Meme un objet divin, s'il est attaque de\nl'interieur, peut etre aisement detruit."
+    },
+    "323100": {
+        "「邪魔をしたいのならば　ご自由に　どうぞ。\n　もちろん　命の保証は　いたしませんが。": "Si vous souhaitez vous interposer, libre a\nvous. Bien sur, je ne garantis pas votre\nsurvie."
+    },
+    "323101": {
+        "「ふふふ……　はーはっはっは！": "Fufufu... Ha-ha-ha-ha !"
+    },
+    "323102": {
+        "「おのれ……。\n　断罪の剣を失うわけには　いかん。\n　後を追うぞ　<pc>よ！": "Maudit soit-il... Je ne peux pas me permettre\nde perdre l'Epee de l'Expiation.\nPoursuivons-le, <pc> !"
+    },
+    "323103": {
+        "「今のラキは　足手まとい……置いていって。\n　大丈夫。自分の身は　自分で守れる……。": "Actuellement, Lycae est un fardeau… Laisse-moi\nici. Ne t'inquiete pas. Je peux me defendre\ntoute seule…"
+    },
+    "323104": {
+        "「やはり　追ってきましたね。\n　となれば　おもてなしをしなくては。": "Comme je le pensais, vous nous avez suivis.\nDans ce cas, il va falloir vous accueillir\ncomme il se doit."
+    },
+    "323105": {
+        "「彼らと　遊んであげてください。\n　それでは　ごきげんよう。": "Amusez-vous bien avec eux. Sur ce, au revoir."
+    },
+    "323106": {
+        "「時間稼ぎとは　こざかしい。": "Quelle ruse astucieuse que de gagner du temps."
+    },
+    "323107": {
+        "「あやつらは　奥へ　向かったようだ。\n　急ぎ　後を追うぞ！": "Ils semblent s'etre diriges vers l'interieur.\nDepechons-nous de les suivre !"
+    },
+    "323109": {
+        "「我が息子　グランゼニスよ。\n　母から　そなたに　授けたいものがあります。": "Mon fils, Glmp Zenith. Il y a quelque chose\nque je souhaite te transmettre de la part de\nta mere."
+    },
+    "323111": {
+        "「神器のひとつである　この剣を\n　そなたに　授けましょう。": "Je vais te confier cette epee, l'un des\nartefacts sacres."
+    },
+    "323113": {
+        "「皆の神器と　同じではありません。\n　この剣は　神器の中でも　罪を断つという\n　特別な能力を持つもの。": "Ce n'est pas comme les autres artefacts\nsacres. Cette epee possede une capacite\nspeciale parmi les artefacts sacres, celle de<br>couper les peches."
+    },
+    "323114": {
+        "「グランゼニスよ。\n　そなたは　いずれ　とこしえのゆりかごの\n　未来を　継ぐ者になる。": "O Zenith de LMP. Tu deviendras un jour celui\nqui portera l'avenir du berceau eternel."
+    },
+    "323115": {
+        "「そのとき　そなたは　多くの罪に向き合い\n　断ち切っていくことに　なるでしょう。": "A ce moment-la, tu devras faire face a de\nnombreux peches et les surmonter."
+    },
+    "323116": {
+        "「勇気をもって　罪に向き合いなさい。\n　そなたならば　この剣のチカラを借りて\n　それが　できるはずです。": "Ayez le courage d'affronter vos peches. Avec\nl'aide de la puissance de cette epee, je suis\nsur que vous pouvez le faire."
+    },
+    "323120": {
+        "<center>そんなに　落ち込まないでよ。\nグランゼニスには　がんばってもらわないと\nいけないんだからさっ。": "Ne te decourage pas autant. Nous avons besoin\nque Zenith de GLMP fasse de son mieux."
+    },
+    "323121": {
+        "<center>私たちは　身体を失っちゃったけど\nその意思は　まだ　ここに　あるんだもの。\nあきらめるのは　早いんじゃないかしら？": "Nous avons peut-etre perdu nos corps, mais\nnotre volonte est toujours ici. Il est trop\ntot pour abandonner, n'est-ce pas ?"
+    },
+    "323122": {
+        "<center>……同意する。\n我らのチカラ　おまえに託そう。\n一度　敗れたとて　恐れるに足らず。": "J'accepte. Nous te confierons notre pouvoir.\nMeme si nous avons deja ete vaincus, il n'y a\nrien a craindre."
+    },
+    "323123": {
+        "<center>たとえ　我らの意思が\nそれで消えようとも　悔いは　ありません。\n我が子らの未来を　どうか　守って……。": "Meme si notre volonte disparait ainsi, nous\nn'avons aucun regret. S'il vous plait,\nprotegez l'avenir de nos enfants..."
+    },
+    "323124": {
+        "<center>我らが末弟　グランゼニスよ！\nさあ　立ち上がるのだ。\nそして　長兄ナドラガの愚行を止めてくれ！": "Nous, tes aines, toi notre plus jeune frere,\nG-LMP Zenith ! Allez, leve-toi. Et arrete les\nfolies de notre grand frere, Nadraga !"
+    },
+    "323130": {
+        "<center>アァァアァァアァ……おのれ……。\n我は　この世のすべてを　支配する者！": "Aaah... Maudit soit-il... Je suis celui qui\nregne sur tout ce monde !"
+    },
+    "323131": {
+        "<center>ゆるさぬ……　ゆるさぬぞォ。\nグランゼニィィィィスッ！！": "Je ne te pardonnerai jamais... Jamais je ne te\npardonnerai. GrLMP Zeniith !!"
+    },
+    "323133": {
+        "「あれは　断罪の剣の　チカラの核とも\n　言うべきものだ。もし　破壊されたならば\n　剣そのものが　失われてしまうだろう。": "C'est le noyau de puissance du Sword of\nAtonement. Si jamais il est detruit, l'epee\nelle-meme disparaitra surement."
+    },
+    "323134": {
+        "「邪魔をするか。\n　ならば　斬り伏せるのみ。": "Tu oses me deranger. Dans ce cas, je vais te\ntrancher."
+    },
+    "323135": {
+        "「ふむ。神の化身を相手にしては\n　こちらの分が　悪いと言えましょう。": "Hmm. Face a une incarnation divine, il est\nclair que nous sommes en position defavorable."
+    },
+    "323136": {
+        "「しかしながら　我が主の前で\n　ふたたび　醜態をさらすわけには\n　いかないのですよ！": "Cependant, je ne peux pas me permettre de me\nridiculiser a nouveau devant mon Seigneur !"
+    },
+    "323137": {
+        "「これが執行獣と呼ばれる　わたくしの本来の姿。\n　もちろん　見た目だけでないことは\n　言わずとも　おわかりになりますね？": "Voici ma veritable apparence, celle que l'on\nappelle la Bete Executrice. Bien sur, vous\ncomprenez sans qu'il soit necessaire de le<br>dire que ce n'est pas qu'une question\nd'apparence, n'est-ce pas ?"
+    },
+    "323138": {
+        "「これは　たやすくはないか！": "Ce n'est pas facile, n'est-ce pas !"
+    },
+    "323139": {
+        "「神の器をも消し去った　創失の呪い……。\n　たとえ　種族神でも　人の身に宿ったまま受けて\n　ただで済むとは　思わないことです！": "La malediction de l'oubli... qui a meme efface\nle receptacle divin. Meme si vous etes un dieu\nde race, ne pensez pas que vous en sortirez<br>indemne si elle s'installe dans le corps d'un\nhumain !"
+    },
+    "323140": {
+        "「おまえが　あの呪いの根源か。\n　必ずや　討ち倒し\n　ナドラガの器を　取りもどしてみせよう！": "Tu es donc la source de cette malediction. Je\nte vaincrai a coup sur et je recupererai le\nreceptacle de Nadraga !"
+    },
+    "323141": {
+        "「さあ……。ここから　消え去りなさい！": "Allez... Disparaissez d'ici !"
+    },
+    "323142": {
+        "「ともに　こやつを　打ち倒すぞ！": "Ensemble, abattons cet adversaire !"
+    },
+    "323143": {
+        "「……ぐうう。そんなバカな。\n　わたくしめが　このような敗北を……。": "Grrr. C'est impossible. Comment moi,\npourrais-je subir une telle defaite..."
+    },
+    "323144": {
+        "「我が主……　申し訳ありません。\n　どうか　わたくしめを　あなたの御許に……。": "Mon Seigneur... Je suis desole. Je vous en\nprie, permettez-moi de vous rejoindre..."
+    },
+    "323145": {
+        "「刻限が　訪れた……。": "L'heure est venue..."
+    },
+    "323146": {
+        "「ああ……。くち惜しや…………。": "Ah... Quelle deception..."
+    },
+    "323147": {
+        "「剣の核を壊すのを　あきらめたのか？\n　あやつに　何が　起こったのだ……。": "As-tu abandonne l'idee de detruire le noyau de\nl'epee ? Que lui est-il arrive...?"
+    },
+    "323148": {
+        "「見た限り　異常は　ないようだ。\n　断罪の剣は　守られた。": "A premiere vue, il n'y a pas d'anomalie. Le\nSword of Atonement a ete preserve."
+    },
+    "323149": {
+        "「私ひとりでは　防ぎきれなかっただろう。\n　おまえのはたらきに　感謝するぞ。": "Je n'aurais pas pu le repousser seul. Je te\nremercie pour ton aide precieuse."
+    },
+    "323150": {
+        "「ここは　あやつらが\n　無理やり　こじ開けた場所だ。\n　時間の流れが　不安定になっているのを感じる。": "Ici, c'est l'endroit ou ils ont force le\npassage avec leurs lances. Je ressens que le\nflux du temps est devenu instable."
+    },
+    "323151": {
+        "「長く　とどまることは　得策ではない。\n　すみやかに　外に出るべきだろう。\n　ナドラガの器のことも　確認せねばならん。": "Il n'est pas judicieux de rester ici\nlongtemps. Nous devrions sortir rapidement.\nNous devons egalement verifier le receptacle<br>de Nadraga."
+    },
+    "323152": {
+        "「……あっ！\n　<cs_pchero>隊長と　まごゼニスさまだ！！": "…Ah ! Le capitaine <cs_pchero> et Maitre\nZenith sont la !!"
+    },
+    "323153": {
+        "「エッちゃんが　帰ってきたのに\n　いつまで待っても　ふたりが　出てこないから\n　心配してたんだよっ！！": "J'etais inquiete parce qu'Ecchan est revenu,\nmais vous ne sortiez pas meme apres avoir\nattendu si longtemps !"
+    },
+    "323154": {
+        "「私が消えた後　どうなっていたのか\n　ポルテさんたちから　くわしく　聞きました。\n　創失より　救っていただき　感謝します。": "Apres ma disparition, j'ai entendu tous les\ndetails de la part de Porte-san et des autres.\nJe vous remercie de m'avoir sauve de l'oubli."
+    },
+    "323155": {
+        "「どうやら　時間の流れに　ゆがみが生じ\n　何日か　経過してしまったようだな。": "Il semble que le cours du temps ait ete\nperturbe et que plusieurs jours se soient\necoules."
+    },
+    "323156": {
+        "「ポルテよ。もう　動いても　よいのか？": "Porte, est-ce que tu peux bouger maintenant ?"
+    },
+    "323157": {
+        "「うん　まごゼニスさまっ。\n　目が覚めてから　だいぶ　経ったし\n　もう　すっかり　元気だよ！": "Oui, grand-pere Zenith-sama. Il s'est ecoule\npas mal de temps depuis que je me suis\nreveille, et je suis deja en pleine forme !"
+    },
+    "323158": {
+        "「ラキも　平気！\n　あの程度のキズ　なめとけば　治る！": "Lycae va bien ! Une blessure de ce genre, ca\nguerit en la lechant !"
+    },
+    "323159": {
+        "「よし。まずは　皆が無事で　安心したぞ。\n　神の器も　戻ってきたとなれば\n　我が身体の復活も　目指せるというものだ。": "Bien. Tout d'abord, je suis soulage que tout\nle monde soit sain et sauf. Maintenant que le\nVaisseau Divin est de retour, je peux<br>envisager de restaurer mon corps."
+    },
+    "323160": {
+        "「その件ですが　ナドラガ神の意思を私に宿す\n　降臨の儀式の準備は　トビアスの尽力で\n　すでに　ととのっています。": "Concernant cette affaire, la preparation du\nrituel d'incarnation pour accueillir la\nvolonte de Nadraga est deja en place grace aux<br>efforts de Tobias."
+    },
+    "323161": {
+        "「私が　創失の呪いを受けたせいで\n　無駄な時間を　使わせてしまいました。\n　事を　急いだほうが　よいでしょう。": "Je vous ai fait perdre du temps a cause de la\nmalediction de l'oubli que j'ai subie. Il\nserait preferable de nous depecher."
+    },
+    "323162": {
+        "「わかった。すぐに　始めてくれ。\n　断罪の剣の破片を返してくれるよう\n　私が　ナドラガを説得してみせる。": "D'accord. Commence immediatement. Je vais\nessayer de convaincre Nadraga de nous rendre\nles fragments de l'Epee de l'Expiation."
+    },
+    "323163": {
+        "「それでは　降臨の儀式を始めましょう。\n　すべての領界に向けて　合図を送ります！": "Alors, commencons le rituel de l'incarnation.\nEnvoyons le signal a tous les domaines !"
+    },
+    "323164": {
+        "エステラに　ナドラガ神の意思を降ろすべく\n降臨の儀式が　開始された。": "Le rituel de descente a ete lance pour\ninvoquer la volonte de Nadraga en Estella."
+    },
+    "323165": {
+        "各領界の　ナドラガ神のほこらに派遣された\nナドラガンド協団の神官たちが\n駆けつけた神獣とともに　祈りを捧げていく……。": "Les pretres de la Dragan Alliance envoyes au\nsanctuaire Nadraga de chaque territoire se\njoignent aux creatures divines pour prier<br>ensemble..."
+    },
+    "323166": {
+        "各領界で　捧げられた祈りが\nナドラガ神の意思を　呼び覚ましていく……。": "Dans chaque domaine, les prieres offertes\neveillent la volonte de Nadraga..."
+    },
+    "323167": {
+        "「兄上……なのか？": "Frere... est-ce toi ?"
+    },
+    "323169": {
+        "「やはり　兄上なのだな。\n　久方ぶり……と言って　いいものか。": "Il semblerait que ce soit bien toi, grand\nfrere. Cela fait longtemps... si je puis dire."
+    },
+    "323173": {
+        "「そうだ。母上より授かった　断罪の剣に\n　神器としてのチカラを　取りもどしたい。": "Oui. Je veux que la Sword of Atonement, que\nj'ai recue de ma mere, retrouve son pouvoir\ndivin."
+    },
+    "323175": {
+        "「この世界は　創失の呪いによって\n　むしばまれつつある。": "Ce monde est en train d'etre ronge par la\nmalediction de la Creation Perdue."
+    },
+    "323176": {
+        "「アストルティアを　守るためならば\n　たとえ　憎き末弟を　利することになろうとも\n　兄上は　チカラを貸してくれるはずだ。": "Si c'est pour proteger Astoltia, alors meme si\ncela signifie aider notre jeune frere deteste,\nje suis certain que notre aine nous pretera<br>main-forte."
+    },
+    "323178": {
+        "「兄上は　変わっていない。\n　あなたの冗談は　昔から　下手だった。": "Grand frere, tu n'as pas change. Tes blagues\nont toujours ete mauvaises."
+    },
+    "323181": {
+        "「断罪の剣……。\n　よくぞ　我がもとに　戻った。": "Epee de l'Expiation... Tu es enfin revenue a\nmoi."
+    },
+    "323182": {
+        "「感謝します　兄上……。": "Merci, grand frere..."
+    },
+    "323184": {
+        "「……ううっ　私は……。\n　儀式は　どうなって…………？": "...Ooh, je... Qu'est-il advenu du rituel...?"
+    },
+    "323185": {
+        "「成功した。\n　ご苦労だったな　エステラよ。": "Succes. Bon travail, Estella."
+    },
+    "323186": {
+        "「どうやら　グランゼニス様は\n　断罪の剣を　入手できたようですね。": "Il semble que G.LMP Zenith-sama ait reussi a\nobtenir la Sword of Atonement."
+    },
+    "323187": {
+        "「グランゼニス様の御身は　神々の間にあります。\n　光の神殿に　新たに設置した旅の扉を使って\n　神々の間まで　お越しいただけますか。": "Le corps de LMP Zenith-sama repose dans la\nChambre de la Renaissance. Pouvez-vous\nutiliser la Porte de Voyage nouvellement<br>installee dans le Temple de la Lumiere pour\nvous rendre jusqu'a la Chambre de la\nRenaissance ?"
+    },
+    "323188": {
+        "「よし。いよいよだな。\n　皆で　光の神殿へ向かうぞ！": "Bien. Le moment est enfin venu. Allons tous\nensemble vers le Temple de la Lumiere !"
+    },
+    "323189": {
+        "「おーーーっ！": "Ohhhh !"
+    },
+    "323190": {
+        "「私は　降臨の儀式の結果を\n　トビアスに　報告しなければなりませんので\n　これにて　失礼します。道中　お気をつけて。": "Je dois informer Tobias des resultats du\nrituel d'apparition, donc je vais prendre\nconge ici. Prenez soin de vous en chemin."
+    },
+    "323191": {
+        "「お待ちしていました。\n　皆さん　ご無事なようで　何よりです。": "Je vous attendais. Je suis soulage de voir que\nvous etes tous en securite."
+    },
+    "323192": {
+        "「ご覧ください。こちらが\n　グランゼニス様の御身になります。": "Veuillez regarder. Voici le corps de\nZenith-sama."
+    },
+    "323193": {
+        "「この黒き姿は　我が罪そのものだ。\n　大義のためとはいえ　実の兄を\n　この手で討った　おおいなる罪だ……。": "Cette apparence sombre est la manifestation de\nmon peche. Bien que ce fut pour une grande\ncause, j'ai commis le grand peche de tuer mon<br>propre frere de mes mains..."
+    },
+    "323194": {
+        "「だが　兄と通じ合えた今ならば\n　この断罪の剣で　我が罪を斬りはらえるはずだ。": "Mais maintenant que j'ai pu etablir une\nconnexion avec mon frere, je devrais pouvoir\ntrancher mes peches avec cette Epee de<br>l'Expiation."
+    },
+    "323195": {
+        "「がんばれ～　まごゼニスさま～～～！": "Allez, courage, petit-fils de Zenith-sama !"
+    },
+    "323196": {
+        "「勇気をもって　今ここに　我が罪を断つ！": "Avec courage, je tranche ici et maintenant mes\npeches !"
+    },
+    "323197": {
+        "「ありがとうございます　グランゼニスさま。\n　もう　大丈夫です。": "Merci beaucoup, Glmp Zenith-sama. Tout va bien\nmaintenant."
+    },
+    "323198": {
+        "「<pc>　心配しないで。\n　グランゼニスさまに　身体を貸している間も\n　私の意識は　ちゃんと　あったの。": "<pc>, ne t'inquiete pas. Meme lorsque je\npretais mon corps a GLMP Zenith-sama, j'etais\nparfaitement consciente."
+    },
+    "323199": {
+        "「何があったのか　全部　知っているわ。\n　あなたの活躍だって　ちゃんと　見てたのよ！": "Je sais tout ce qui s'est passe. J'ai bien vu\ntes exploits !"
+    },
+    "323202": {
+        "「お役に立てたなら　光栄です。": "Je suis honore de pouvoir vous etre utile."
+    },
+    "323203": {
+        "「おや　グランゼニス様。\n　昔の話し方に　戻されるのですか？\n　そのまま　いかつい感じで　通されるのかと。": "Oh, grand Zenith-sama. Revenez-vous a votre\nancienne maniere de parler ? Je pensais que\nvous alliez continuer avec ce ton imposant."
+    },
+    "323206": {
+        "「ゼニアスには　新たな主神が必要。\n　それが　あなただ。\n　ラキは　やっと　見つけることができた！": "Zenius a besoin d'un nouveau dieu Seigneur. Et\nce sera vous. Lycae a enfin reussi a vous\ntrouver !"
+    },
+    "323207": {
+        "「あとは　王笏と王冠が　そろえばいい！": "Il ne reste plus qu'a reunir le sceptre royal\net la couronne !"
+    },
+    "323208": {
+        "「王笏のほうは　ネーしゃまが　持ってるよね。\n　王冠も　探しだすって言ってたけど\n　もう　見つかってるかな。": "Quant au sceptre royal, c'est Nee-sama qui le\ndetient, n'est-ce pas ? Elle avait dit qu'elle\nchercherait aussi la couronne. L'a-t-elle deja<br>trouvee, tu penses ?"
+    },
+    "323209": {
+        "「ねえねえ　まごゼニスさま。\n　ネーしゃま……じゃなくて\n　ゼネシアさまに　会いにいこうよ！": "He, he, petit-fils Zenith-sama. Allons rendre\nvisite a Ne-shama... je veux dire a\nZenesia-sama !"
+    },
+    "323211": {
+        "「えええっ～！？\n　なんで？　どうして～？": "Eh ?! Pourquoi ? Comment ca se fait ?"
+    },
+    "323217": {
+        "「……はやっ！\n　思ってたんだけど　まごゼニスさまって\n　すごい　せっかちさんだよね……。": "Quel rapide ! Je pensais justement que notre\ncher maitre Zenith est vraiment tres\nimpatient, n'est-ce pas..."
+    },
+    "323218": {
+        "「それは　仕方ありません。\n　あの方は　ずっと　見ていることしか\n　できなかったわけですから。": "C'est inevitable. Cette personne n'a pu faire\nqu'observer tout ce temps."
+    },
+    "323219": {
+        "「そうですよね……。\n　さっきまでの私も　手を伸ばしても届かない……\n　そんな　もどかしさを　感じていました。": "Oui, c'est vrai... Jusqu'a tout a l'heure,\nmeme en tendant la main, je ne pouvais pas\nl'atteindre... Je ressentais cette<br>frustration."
+    },
+    "323220": {
+        "「後を追うことも　難しいでしょう。\n　やるべきことを果たして　帰ってくるまでは\n　座して　待つしかないようです。": "Il sera difficile de le suivre. Nous n'avons\nd'autre choix que de rester assis et\nd'attendre jusqu'a ce qu'il finisse ce qu'il<br>doit faire et revienne."
+    },
+    "323221": {
+        "「忘れぬうちに　グランゼニス様から\n　託されていた報酬を　あなたに　渡しましょう。\n　こちらを　お受け取りください。": "Avant d'oublier, je vais vous remettre la\nrecompense confiee par le grand Zenith-sama.\nVeuillez l'accepter."
+    },
+    "323222": {
+        "「ああ　そうです。\n　役目は終わったと　思いますので\n　白き導き手は　私に　返してくださいますか。": "Ah, c'est vrai. Je pense que ma mission est\nterminee, alors pourriez-vous me rendre le\nHandy Horse ?"
+    },
+    "323223": {
+        "<pc>は　シオンに\n白き導き手を　返した。": "<pc> a rendu le Handy Horse a Shion."
+    },
+    "323224": {
+        "「それでは　グランゼドーラ城に\n　戻らせていただきますよ。\n　賢者ルシェンダには　私が　報告しておきます。": "Dans ce cas, je vais retourner au Chateau de\nGran Zedora. Je ferai le rapport au Sage\nLushenda."
+    },
+    "323225": {
+        "「<pc>。\n　私も　シオンさまと　城へ帰るわね。\n　ポルテとラキも　本当に　お疲れさま！": "<pc>. Je vais aussi rentrer au chateau\navec Shion-sama. Porte et Lycae, vous avez\nvraiment bien travaille !"
+    },
+    "323228": {
+        "「ラキ　どうしたの？\n　おなかも空いちゃったし　あたしたちも\n　エテーネの村に　帰ろうよ。": "Lycae, que se passe-t-il ? J'ai aussi un petit\ncreux, alors rentrons au village d'Ethene."
+    },
+    "323251": {
+        "「……貴様の手は　借りぬ。": "Je n'ai pas besoin de ton aide."
+    },
+    "323252": {
+        "「ふん。いかにも　我は　ナドラガなり。\n　我には　あの戦いは　昨日のことのように\n　思いだせるぞ。我が弟　グランゼニスよ。": "Hum. En effet, je suis Nadraga. Je me souviens\nde cette bataille comme si c'etait hier. Mon\nfrere, GrLMP Zenith."
+    },
+    "323253": {
+        "「我も　本来の身体ではないが\n　貴様も似たような有り様に　なっているな。\n　なかなか　面白い体験ではないか。": "Je ne suis pas dans mon corps d'origine, mais\nil semble que tu sois dans une situation\nsimilaire. Ce n'est pas une experience des<br>plus interessantes ?"
+    },
+    "323254": {
+        "「念入りに　封印までしておきながら\n　我が意思を呼び覚ました目的は……\n　断罪の剣の　破片だな？": "Tout en prenant soin de sceller, le but de me\nreveiller est... les fragments du Sword of\nAtonement, n'est-ce pas ?"
+    },
+    "323255": {
+        "「ほう……。\n　この我が　素直に返すと　思うてか？": "Oh... Tu pensais vraiment que j'allais te le\nrendre sans discuter ?"
+    },
+    "323256": {
+        "「……冗談だ。\n　ずいぶんと　神らしいクチを\n　利くようになったではないか。": "Je plaisante. Tu as commence a parler comme un\nveritable dieu, n'est-ce pas ?"
+    },
+    "323257": {
+        "「ははははっ！\n　そうか。我は　冗談が下手くそか。\n　無駄かもしれんが　覚えておこう。": "Ahahaha ! Je vois. Je ne suis pas doue pour\nles blagues. Cela pourrait etre inutile, mais\nje vais m'en souvenir."
+    },
+    "323258": {
+        "「ふむ……。儀式の効力が　薄れてきたか。\n　ならば　急がねばなるまい。": "Hmm... Le pouvoir du rituel commence a\ns'affaiblir. Dans ce cas, nous devons nous\ndepecher."
+    },
+    "323259": {
+        "「今や　全きチカラを振るえる神は\n　貴様しか　残っておらん。\n　見届けるのだ。この世界の行く末を……": "Maintenant, tu es le seul dieu a pouvoir\nexercer un pouvoir total. Observe donc le\ndestin de ce monde..."
+    },
+    "323269": {
+        "「おつかれさまでしたー！\n　まごゼニスさまが　戻ってきたら\n　あたしたちにも　教えてね　アンたん！": "Bon travail ! Quand le petit-fils de\nZenith-sama reviendra, fais-le nous savoir\naussi, Antan !"
+    },
+    "323270": {
+        "「やっと　新たな主神を　見つけたのに\n　どうして　うまくいかない……。": "J'ai enfin trouve un nouveau Lord Dieu, alors\npourquoi cela ne fonctionne-t-il pas... ?"
+    },
+    "323271": {
+        "「今回も　おつかれさま　<pc>隊長っ！\n　あたしたちは　先に　エテーネの村に　帰るよ。\n　あとで　うちにも　寄ってってね！": "Cette fois encore, bon travail, capitaine\n<pc> ! Nous rentrons d'abord au village\nd'Ethene. Passe nous voir chez nous plus tard<br>!"
+    },
+    "325122": {
+        "「緋石の間につながる道は　崩されましたが\n　手前の結界の間に　新たに　旅の扉を\n　用意しておきますので　それを使ってください。": "Le chemin menant a la Chambre Ecarlate a ete\ndetruit, mais nous avons prepare une nouvelle\nPorte de voyage dans la Chambre de la Barriere<br>juste devant. Veuillez l'utiliser."
+    },
+    "325123": {
+        "「では　私は　これにて。": "Alors, je vais y aller."
+    },
+    "325124": {
+        "「また　言うだけ言って　行っちゃった……。\n　こっちの話も　聞いてほしいなぁ。": "Il a encore dit ce qu'il voulait et est\nparti... J'aimerais bien qu'il ecoute aussi ce\nque j'ai a dire."
+    },
+    "325125": {
+        "「ラキは　はやく\n　グランゼニス神を　復活させたい。\n　古き神の遺跡へ行こう　<cs_pchero>！": "Lycae veut rapidement faire revivre Gran\nZenith. Allons aux Ruines Historiques,\n<cs_pchero> !"
+    },
+    "325258": {
+        "飛竜に乗って　エテーネの島の上空へ飛び\nそこから　光の神殿に　降り立とう。": "Envole-toi sur le dos du dragon vers le ciel\nau-dessus de l'ile d'Ethene, puis atterris au\nTemple de la Lumiere."
+    },
+    "325780": {
+        "「ほこらに　急がねばならないが\n　通路が閉ざされてしまっているな。\n　別の道を　探すしかないようだ。": "Je dois me depecher de rejoindre le\nsanctuaire, mais le passage est bloque. Il\nsemble que je n'ai d'autre choix que de<br>chercher un autre chemin."
+    },
+    "326029": {
+        "影の谷の通路と同時に　いざないの間にある\nナドラガ神のほこら・闇　への旅の扉も\n封鎖されたようだ。別の道を　見つけよう。": "Le passage de la Vale of Shadow ainsi que la\nporte du Hall of Invitation menant au Nadraga\nDark Shrine semblent etre bloques. Nous devons<br>trouver un autre chemin."
+    },
+    "326597": {
+        "「母上。お呼びにより\n　グランゼニス　参上いたしました。": "Mere. Vous m'avez appele, je suis donc venu en\ntant que GLMP Zenith."
+    },
+    "326598": {
+        "「母上から　私に？\n　それは　ありがたいことですが\n　いったい　何を？": "De la part de ma mere, pour moi ? C'est tres\naimable de sa part, mais de quoi s'agit-il\nexactement ?"
+    },
+    "326599": {
+        "「おお。兄上や　姉上たちも持つ神器を\n　ついに　私にも　授けていただけるとは\n　光栄の極みです。": "Oh. Je suis profondement honore que l'on\nm'accorde enfin l'artefact sacre que mes\nfreres et soeurs possedent egalement."
+    },
+    "326600": {
+        "「……わかりました。\n　謹んで　お受けいたします　母上。": "......J'ai compris. Je l'accepte avec respect,\nmere."
+    },
+    "326601": {
+        "「罪を断つ……か。\n　では　この剣を断罪の剣と　名付けよう！": "Couper le peche... hein. Alors, je vais\nappeler cette epee Sword of Atonement !"
+    },
+    "326657": {
+        "「私では　兄を……。\n　ナドラガを止めることは　できないのか……。": "Je ne peux pas... arreter mon frere... ou\nNadraga... ?"
+    },
+    "326658": {
+        "「そうだ……。\n　母上より授かった　この剣にかけて\n　私は　ナドラガの罪を断たねばならない。": "Oui... Sur cette epee que j'ai recue de ma\nmere, je dois mettre fin aux peches de\nNadraga."
+    },
+    "326659": {
+        "「我が兄よ。そして姉よ。\n　私に　最後のチカラを与えたまえっ！": "O mon frere ! O ma soeur ! Accordez-moi votre\nultime pouvoir !"
+    },
+    "326660": {
+        "「ありがとう。兄上　姉上……。": "Merci. Frere aine, soeur ainee..."
+    },
+    "326661": {
+        "「今こそ　あなたの罪を断つ！\n　兄姉たちよ　私にチカラをっっっ！！": "Il est temps de purger vos peches ! Freres et\nsoeurs, donnez-moi votre force !!!"
+    },
+    "326662": {
+        "「うおおおおおっ！！": "Uooooooh !!"
+    },
+    "326663": {
+        "「どうして　わかってくれないのだ……。\n　兄……上…………。": "Pourquoi ne peux-tu pas comprendre... Frere\naine..."
+    },
+    "326664": {
+        "「改めて　名乗っておくべきだね。\n　私は　女神ルティアナの末子にして\n　人間の神　グランゼニス。": "Il est temps de me presenter a nouveau. Je\nsuis le benjamin de la deesse Lutiana et le\ndieu des humains, Glmp Zenith."
+    },
+    "326665": {
+        "「今代の勇者たちよ。\n　あなたたちの　これまでのはたらきには\n　おおいに　感謝している。": "A vous, heros de cette generation. Je vous\nsuis profondement reconnaissant pour tout ce\nque vous avez accompli jusqu'a present."
+    },
+    "326666": {
+        "「いや　復活したと思ったら　勇者姫の\n　可憐な姿だったからね。せめて　神らしく\n　見えるように　物々しく　ふるまっていたんだ。": "Non, quand je me suis reveille, c'etait pour\nvoir la gracieuse apparence de la princesse\nheroique. Pour le moins, j'ai essaye de me<br>comporter de maniere imposante afin de\nparaitre digne d'un dieu."
+    },
+    "326667": {
+        "「もはや　その必要もないよ。\n　さて　これからのことだけど……": "Il n'est plus necessaire de le faire. Bon, a\npropos de ce qui va suivre..."
+    },
+    "326668": {
+        "「……それは　断る。": "...Je refuse."
+    },
+    "326669": {
+        "「……私が　ゼニアスの主神となることを\n　期待されているのは　重々　承知しているよ。\n　だけど　私は　アストルティアの神だ。": "Je suis pleinement conscient qu'on attend de\nmoi que je devienne le dieu Lord de Zenius.\nMais je suis le dieu d'Astoltia."
+    },
+    "326670": {
+        "「執行者などと　うそぶく連中が\n　創失の呪いを　この地に振りまこうとするなら\n　それを　止めなければならない。": "Si ces individus qui se pretendent executeurs\ntentent de repandre la malediction de la\ncreation perdue sur cette terre, il faut les<br>en empecher."
+    },
+    "326671": {
+        "「ゼニアスの主神となる話は\n　全てが　解決してからにしてくれ。": "L'histoire de devenir le dieu Lord de Zenius,\nattends que tout soit resolu pour en parler."
+    },
+    "326672": {
+        "「……おお　そうだ。\n　ゴダの後継者にも　会っておく必要があるね。": "...Oh, c'est vrai. Il est necessaire de\nrencontrer aussi le successeur de Goda."
+    },
+    "326673": {
+        "「時間が　惜しい。\n　すぐに　行動に移すとしよう。\n　では　さらばだ！": "Le temps presse. Agissons immediatement.\nAlors, adieu !"
+    },
+    "328858": {
+        "「……きれーい。\n　この緋石から　チカラをもらえば\n　いいんだよね？": "...... C'est magnifique. Je dois simplement\nobtenir de l'energie de cette pierre ecarlate,\nn'est-ce pas ?"
+    },
+    "328859": {
+        "「上に　何か　隠れてる！！": "Quelque chose est cache en haut !!"
+    },
+    "328860": {
+        "偽りのリャナ荒涼地帯から　ソーラリア峡谷に入り\n古き神の遺跡の奥にある　緋石の間へ向かい\nシオンと　合流しよう。": "Depuis la zone desolee de F. Lyana, entre dans\nle canyon de Solaria et dirige-toi vers la\nchambre de la Pierre Ecarlate au fond des<br>Ruines Historiques pour rejoindre Shion."
+    },
+    "328861": {
+        "「その剣でしたら　隔離された竜族の世界……。\n　神墟ナドラグラムの大地に　残されています。": "Si c'est de cette epee dont vous parlez, elle\nest conservee dans le monde isole des\ndragons... Elle repose sur le sol du<br>sanctuaire de Nadragram."
+    },
+    "328862": {
+        "炎の領界　聖都エジャルナから行ける\nいざないの間の旅の扉で　神墟ナドラグラムに\n向かい　断罪の剣の様子を　確認しよう。": "Depuis le Fire Realm, dirigez-vous vers la\nporte de voyage du Hall of Invitation,\naccessible depuis la Sainte Ville d'Ejarna,<br>pour atteindre le Sanctuaire de Nadragram et\nverifier l'etat de l'Epee de l'Expiation."
+    },
+    "328863": {
+        "「神の器である　おまえならば\n　ナドラガの意思を　その身に宿らせることが\n　できるのではないか？": "Si tu es le receptacle divin, ne pourrais-tu\npas incarner la volonte de Nadraga ?"
+    },
+    "328864": {
+        "「その子……。具合が　悪そうですね。\n　よろしければ　私の部屋を使ってください。": "Cet enfant... Il n'a pas l'air en forme,\nn'est-ce pas ? Si vous le souhaitez, vous\npouvez utiliser ma chambre."
+    }
+}
