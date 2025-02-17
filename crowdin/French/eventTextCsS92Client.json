@@ -672,19 +672,19 @@
         "「ダメじゃ！": "C'est impossible !"
     },
     "99341": {
-        "「……えっ？": "...Hein ?"
+        "「……えっ？": "…Hein ?"
     },
     "99342": {
         "「<pc>は　乗せられん。": "<pc> ne peut pas monter."
     },
     "99343": {
-        "「ど　どうして……？": "Po... pourquoi... ?"
+        "「ど　どうして……？": "P-Pourquoi… ?"
     },
     "99344": {
-        "「……………………。": "."
+        "「……………………。": "……"
     },
     "99345": {
-        "「そ　れ　は　な…………": "Cela..."
+        "「そ　れ　は　な…………": "C'est… parce que…"
     },
     "99346": {
         "「<pc>が　わしらと同じ時間を\n　生きている者では　ないからなのじゃ……。": "C'est parce que <pc> n'est pas quelqu'un\nqui vit dans le meme temps que nous..."
@@ -747,7 +747,7 @@
         "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>": "<if_woman>> He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else>> He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>"
     },
     "99366": {
-        "「……えっ？": "...Hein ?"
+        "「……えっ？": "…Hein ?"
     },
     "99367": {
         "「……えっ？": "...Hein ?"
@@ -762,7 +762,7 @@
         "「ど　どうしてよ……？": "Pourquoi... ?"
     },
     "99371": {
-        "「ど　どうして……？": "Po... pourquoi... ?"
+        "「ど　どうして……？": "P-Pourquoi… ?"
     },
     "99375": {
         "「おめでとうございます　<pc>様！": "Felicitations, <pc>-sama !"
