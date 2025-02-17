@@ -645,19 +645,19 @@
         "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>>Grande soeur !<else>>Grand frere ! <endif>"
     },
     "99332": {
-        "「ほら　いいでしょ！？": "Regarde, c'est bien, n'est-ce pas ?"
+        "「ほら　いいでしょ！？": "Alors, c’est bien, non !?"
     },
     "99333": {
-        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba-sama a dit que nous pouvions monter !"
+        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba m'a dit que j'avais le droit de monter !"
     },
     "99334": {
-        "「ねっ　アバさま？": "He, Abba-sama ?"
+        "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "99335": {
         "「ああ。今日は　特別じゃ。": "Ah. Aujourd'hui est un jour special."
     },
     "99336": {
-        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Le jour est enfin venu ou je peux monter sur\nle dos de Galapagod, le dieu protecteur du\nvillage... Vivre longtemps a ses avantages,<br>n'est-ce pas ?"
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu’un jour, je pourrais monter sur le dos de Galapagod, le protecteur du village…  \nVivre longtemps réserve bien des surprises."
     },
     "99337": {
         "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>. Nous devons aussi\nemmener les autres."
@@ -726,7 +726,7 @@
         "「ねえっ　アバさま？": "He, Abba-sama ?"
     },
     "99359": {
-        "「ねっ　アバさま？": "He, Abba-sama ?"
+        "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "99360": {
         "「おう　アバさま。": "Eh bien, Abba-sama."
