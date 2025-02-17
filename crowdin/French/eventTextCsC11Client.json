@@ -12,7 +12,7 @@
         "<if_woman>「おいら　姉ちゃんに　これを届けにきたんだよ。<else>「おいら　兄ちゃんに　これを届けにきたんだよ。<endif>": "<if_woman>>Je suis venu apporter ca a ma\ngrande soeur.<else>>Je suis venu apporter ca a mon grand frere.<endif>"
     },
     "32528": {
-        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> a obtenu le Chapeau Joyeux ! <me\n60>"
+        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> a obtenu le Chapeau Heureux !<me 60>"
     },
     "32529": {
         "<if_woman>「せっかく　作ってあげたのに\n　忘れていったでしょ？\n　ホント　姉ちゃんは　おっちょこちょいだなあ。<else>「せっかく　作ってあげたのに\n　忘れていったでしょ？\n　ホント　兄ちゃんは　おっちょこちょいだなあ。<endif>": "<if_woman>>Je me suis donne la peine de le\nfaire pour toi, mais tu l'as oublie, n'est-ce\npas ? Franchement, grande soeur, tu es vraiment<br>tete en l'air.<else>>Je me suis donne la peine de le faire pour\ntoi, mais tu l'as oublie, n'est-ce pas ?\nFranchement, grand frere, tu es vraiment tete<br>en l'air. <endif>"
