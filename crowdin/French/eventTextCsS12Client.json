@@ -1,6 +1,6 @@
 {
     "53353": {
-        "「なんだ？　今の光は……。": "Qu'est-ce que c'etait ? Cette lumiere..."
+        "「なんだ？　今の光は……。": "\n"
     },
     "53354": {
         "「姫……さま！？": "Princesse... sama !?"
@@ -84,13 +84,13 @@
         "「一見　平和そうに見える　この世界にも\n　大魔王の魔の手は　確実に伸びている……。\n　そなたには　それを探ってもらいたいのだ。": "Bien que ce monde puisse sembler paisible a\npremiere vue, la main malefique du Grand Roi\nDemon s'etend ineluctablement... Je souhaite<br>que tu enquetes a ce sujet."
     },
     "53383": {
-        "「偽りの世界を知る　<pc>なら\n　他の者たちが　気づけぬ異変にも\n　気づけるであろうからな。": "F. Connaitre le monde : Si c'est <pc>,\nalors il pourra remarquer des changements que\nles autres ne peuvent pas percevoir."
+        "「偽りの世界を知る　<pc>なら\n　他の者たちが　気づけぬ異変にも\n　気づけるであろうからな。": "<pc"
     },
     "53384": {
         "「どうだ？　<pc>。\n　このレンダーシアをめぐり　怪しい現象が\n　起きておらぬか　調査してきてくれんか？<yesno><close>": "Comment ca se presente, <pc> ? Peux-tu\nenqueter sur les evenements suspects qui se\nderoulent autour de Rendasia ? <yesno><close>"
     },
     "53385": {
-        "「ふむ。姫の守りに徹したいと言うのか。\n　だが　アンルシア姫のことは　我らにまかせよ。\n　そなたには　他の者に　できぬことを頼みたい。": "Hum. Tu veux te consacrer entierement a la\nprotection de la princesse, n'est-ce pas ?\nCependant, laisse-nous nous occuper de<br>Princess Anlucia. J'ai une tache pour toi,\nquelque chose que personne d'autre ne peut\naccomplir."
+        "「ふむ。姫の守りに徹したいと言うのか。\n　だが　アンルシア姫のことは　我らにまかせよ。\n　そなたには　他の者に　できぬことを頼みたい。": " "
     },
     "53387": {
         "「これを　そなたに渡しておこう。\n　運命の振り子と呼ばれるものでな。\n　持つ者を　運命の特異点に導くという……。": "Je vais te remettre ceci. C'est ce qu'on\nappelle le Pendulum of Fate. On dit qu'il\nguide celui qui le possede vers le point<br>singulier du destin..."
