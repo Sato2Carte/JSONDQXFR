@@ -9,19 +9,19 @@
         "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>>": "<if_woman><pc> !<else><pc> !<endif>>"
     },
     "14698": {
-        "「ほら　いいでしょ！？": "Tu vois, ca va ?!"
+        "「ほら　いいでしょ！？": "Alors, c’est bien, non !?"
     },
     "14699": {
-        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba-sama m'a dit que je pouvais monter !"
+        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba m'a dit que j'avais le droit de monter !"
     },
     "14700": {
-        "「ねっ　アバさま？": "N'est-ce pas ?"
+        "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "14701": {
         "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special !"
     },
     "14702": {
-        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Le jour est enfin arrive ou nous pouvons\nmonter sur le dos du dieu protecteur du\nvillage, Galapagod... Vivre longtemps a ses<br>avantages !"
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu’un jour, je pourrais monter sur le dos de Galapagod, le protecteur du village…  \nVivre longtemps réserve bien des surprises."
     },
     "14703": {
         "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai> ! Nous devons egalement\nemmener les autres."
@@ -402,7 +402,7 @@
         "「まさか　これ…………！": "Serait-ce possible que ceci... !"
     },
     "14949": {
-        "「<pc>か！？\n　くそっ！　余計なことすんじゃねえ！！\n　オレと　お前は　死ぬ時も　一緒だっ！！": "<pc>, hein !?\nMince ! Ne fais pas de betises !\nToi et moi, on va mourir ensemble !!"
+        "「<pc>か！？\n　くそっ！　余計なことすんじゃねえ！！\n　オレと　お前は　死ぬ時も　一緒だっ！！": "<pc> !?\nMerde ! Ne fait pas de ça !!\nToi et moi, on mourra ensemble !!"
     },
     "14950": {
         "「ちょっと！　<pc>！\n　勝手なことすんじゃないわよ！\n　あんたを守るのは　あたしなんだからっ！！": "He ! <pc> !\nNe fais pas n'importe quoi !\nC'est moi qui suis la pour te proteger !"
@@ -900,7 +900,7 @@
         "「ねえっ　アバさま？": "Hein, Abba-sama ?"
     },
     "15122": {
-        "「ねっ　アバさま？": "Hein, Abba-sama ?"
+        "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "15123": {
         "「おう　アバさま。": "Oh, Abba-sama."
