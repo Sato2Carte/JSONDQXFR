@@ -66,7 +66,7 @@
         "「聞いたぜ聞いたぜ！　<pc>！\n　とうとう　世界に　はばたくんだな！": "J'ai entendu, j'ai entendu ! <pc> ! Tu\nt'envoles enfin vers le monde !"
     },
     "1428": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1429": {
         "「ほら　お前　言ってたじゃないか。\n　プクレットの村で　やり残したことをやったら\n　都会へ出て　自分のチカラを試すんだって。": "Tu te souviens, tu disais que si tu laissais\nla lance au village de Pukulet, tu irais en\nville pour tester ta force."
@@ -87,7 +87,7 @@
         "「もと相方のオレが　保証する。\n　今の　お前なら　都会でも通用するさ。\n　面白プクリポとして　世界に　はばたく時だ！": "L'ancien partenaire que je suis te le\ngarantit. Avec tes capacites actuelles, tu\npeux reussir meme en ville. Il est temps de<br>t'envoler dans le monde en tant que l'hilarant\nPukulipo !"
     },
     "1435": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1436": {
         "「って……そういえば　ずいぶん荷物が少ないな。\n　まさか　お前　ルーラストーンを\n　なくしちゃ　いないだろうな。": "Au fait... je remarque que tu voyages leger.\nNe me dis pas que tu as perdu ton Zoomstone ?"
@@ -99,7 +99,7 @@
         "「……こりゃあ　まずいぞ。\n　ひとまず　大急ぎで\n　村長さんに　相談したほうがいいぜ。": "…C'est mauvais. On ferait mieux de se depecher\net d'en parler au chef du village."
     },
     "1439": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1440": {
         "「プクレットの村から　旅立ちゅ……\n　おっと　かんじまった。": "Je vais partir du village de Pukulet... Oups,\nj'ai fait une erreur."
@@ -189,25 +189,25 @@
         "「本当に　なくしてしまったのかっ！？": "Tu l'as vraiment perdu !?"
     },
     "1469": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1470": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1471": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1472": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1473": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1474": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1475": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1476": {
         "「ふむ。困ったことに　なったのう……。\n　ルーラストーンとは　世界を旅する者にとって\n　命づなとなる　大切な物じゃ。": "Hm. Cela devient problematique... Le Zoomstone\nest un objet precieux pour ceux qui voyagent a\ntravers le monde."
@@ -228,10 +228,10 @@
         "「エイドスというのは　人間の賢者でな……。\n　この世に起きる　すべての物事を知っていると\n　ウワサされておる　人物じゃ。": "Eidos est un sage humain... On dit qu'il\nconnait tout ce qui se passe dans ce monde."
     },
     "1482": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1483": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1484": {
         "「エイドスが住んでいる　賢者の隠れ家は\n　村を出て　街道を西に進み　ポーポラ地方の橋を\n　渡っていると　見えてくるはずじゃ。　": "Le repaire du Sage, ou vit Eidos, devrait\napparaitre lorsque vous sortez du village,\nprogressez vers l'ouest sur la route et<br>traversez le pont de la region de Popola."
@@ -279,13 +279,13 @@
         "「いたずらプクリポめがっ！！\n　この　賢者エイドスのほこらに　勝手に入るなと\n　何度言えば　わかるのじゃ！！": "Espece de Pukulipo farceur !! Combien de fois\ndevrai-je te dire de ne pas entrer sans\npermission dans le sanctuaire de Sage Eidos !!"
     },
     "1501": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1502": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1503": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1504": {
         "<pc>は　エイドスに連れられて\nその場を離れた……。": "<pc> a ete emmene par Eidos et a quitte\nles lieux..."
@@ -633,7 +633,7 @@
         "「……<pc>よ。": "......Oh, <pc>."
     },
     "1619": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1620": {
         "「自分でも　わかっているのだろう？\n　お前の肉体と魂は　別の物だと。": "Tu le sais, n'est-ce pas ? Ton corps et ton\name sont deux choses distinctes."
@@ -687,7 +687,7 @@
         "「……最後に。予言をしてやろう。": "…Pour finir, je vais te faire une prophetie."
     },
     "1637": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "1638": {
         "「<pc>よ。\n　お前は　いずれ　宿命に導かれるままに\n　なにゆえ　自分が生き返ったのかを知るだろう。": "<pc>. Un jour, tu seras conduit par ton\ndestin et sauras pourquoi tu es revenu a la\nvie."
@@ -909,10 +909,10 @@
         "今は　誰も　いないようだ。": "Il semble qu'il n'y ait personne pour le\nmoment."
     },
     "9511": {
-        "「テキスト削除<yesno><close>": "Texte supprime<yesno><close>"
+        "「テキスト削除<yesno><close>": "Texte supprimer<yesno><close>"
     },
     "9512": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "Texte supprimer"
     },
     "9602": {
         "「もはや　この村に心残りは　ないじゃろう。\n　さあ　冒険の書を出すのじゃ！": "Je n'ai plus aucun attachement a ce village\ndesormais. Allez, sortez le Adventure Log !"
