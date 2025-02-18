@@ -21,13 +21,13 @@
         "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special !"
     },
     "14702": {
-        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu’un jour, je pourrais monter sur le dos de Galapagod, le protecteur du village…  \nVivre longtemps reserve bien des surprises."
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu'un jour, je pourrais monter\nsur le dos de Galapagod, le protecteur du\nvillage...<br>Vivre longtemps reserve bien des surprises."
     },
     "14703": {
         "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai> ! Nous devons egalement\nemmener les autres."
     },
     "14704": {
-        "「はい　アバさま。": "Oui, Abba-sama."
+        "「はい　アバさま。": "Oui, Abba."
     },
     "14705": {
         "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main…<endif>>"
@@ -69,13 +69,13 @@
         "「錬金術で　ハツラツ豆を\n　１０倍に増やすって言ったのに　失敗して\n　全部　灰にしちゃったんだよ！": "<kyodai> voulais multiplier par dix les \nHaricots Pep grace a l'alchimie, mais a\nechoue et a tout reduit en cendres !"
     },
     "14719": {
-        "「今年最後の　ハツラツ豆を……。\n　アバさまが　とーっても\n　楽しみにしてらっしゃったのに　ひどいだろ？": "Les derniers Haricots Pep de cette annee... \nAbba-sama les attendait avec tellement \nd'impatience, c'est vraiment cruel, non ?"
+        "「今年最後の　ハツラツ豆を……。\n　アバさまが　とーっても\n　楽しみにしてらっしゃったのに　ひどいだろ？": "Les derniers Haricots Pep de cette annee... \nAbba les attendait avec tellement \nd'impatience, c'est vraiment cruel, non ?"
     },
     "14720": {
         "「あんたの　<kyodai_rel2>の失敗なんだから\n　代わりに　アバさまに　謝ってきておくれ。": "C'est la faute de <kyodai> !\nalors va t'excuser aupres de Dame \nAbba a sa place."
     },
     "14721": {
-        "「言うまでもないけど　アバさまの家は\n　橋向こうの高台にある　大きな家だからね。\n　じゃあ　頼んだよっ！": "Il va sans dire que la maison d'Abba-sama\nest la grande maison sur la colline, de \nl'autre cote du pont. Je compte sur toi !"
+        "「言うまでもないけど　アバさまの家は\n　橋向こうの高台にある　大きな家だからね。\n　じゃあ　頼んだよっ！": "Inutile de le preciser, mais la maison d'Abba\nest la grande demeure sur la colline, de\nl'autre cote du pont. Je compte sur toi !"
     },
     "14750": {
         "「なんじゃ　こんなもの！": "Qu'est-ce que c'est que cette chose !"
@@ -165,16 +165,16 @@
         "<if_woman>「で　姉ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<endif>>": "Et toi alors, qu'est-ce qui t'amene jusqu'ici?"
     },
     "14781": {
-        "「……えっ？\n　アバさまが　おいらを呼んでる？": "…Hein ? Abba-sama me demande ?"
+        "「……えっ？\n　アバさまが　おいらを呼んでる？": "…Hein ? Abba me demande ?"
     },
     "14782": {
         "「ふっふっふっふっふっ……。": "Heheheheh..."
     },
     "14783": {
-        "「それって　ついに　アバさまが\n　おいらの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Cela signifie que le jour est enfin venu ou\nAbba-sama compte sur mon alchimie, n'est-ce\npas ?!"
+        "「それって　ついに　アバさまが\n　おいらの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Cela signifie que le jour est enfin venu ou\nAbba compte sur mon alchimie, n'est-ce\npas ?!"
     },
     "14784": {
-        "<if_woman>「さあ　姉ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<endif>>": "Allez !\nAllons voir Aba-sama !\nN'oublie pas le chapeau que j'ai fabrique !"
+        "<if_woman>「さあ　姉ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<endif>>": "Allez !\nAllons voir Abba !\nN'oublie pas le chapeau que j'ai fabrique !"
     },
     "14785": {
         "<kyodai>が　仲間に加わった！<me 61>": "<kyodai> a rejoint votre equipe ! <me 61>"
@@ -489,7 +489,7 @@
         "「あそこ……　光ってる。": "La-bas... ca brille."
     },
     "14978": {
-        "「……光？": "ca brille ?"
+        "「……光？": "Ca brille ?"
     },
     "14979": {
         "「私には　見えませんが……。": "Je ne vois rien..."
@@ -603,7 +603,7 @@
         "「さあ　行きましょう！": "Allez, allons-y !"
     },
     "15018": {
-        "「いまわしき　テンスの花は\n　この魔導鬼ベドラーさまが\n　すべて　焼き尽くしてくれるわあ！": "Cette abominable Fleur de Tens, je vais tout\nbruler jusqu'a la derniere grace a ma magie,\nmoi, le grand Sorcier Bedora-sama !"
+        "「いまわしき　テンスの花は\n　この魔導鬼ベドラーさまが\n　すべて　焼き尽くしてくれるわあ！": "La maudite fleur de Tens sera entierement\nreduite en cendres par moi, le Demon Mage\nBedora !"
     },
     "15020": {
         "「ん……？": "Hmm...?"
@@ -801,13 +801,13 @@
         "<if_woman>「で　お姉ちゃんは　こんな所まで来て\n　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て\n　なんの用事？<endif>>": "<if_woman>Alors, grande soeur, qu'est-ce qui\nt'amene jusqu'ici ?<else>Alors, grand frere, qu'est-ce qui t'amene\njusqu'ici ? <endif>>"
     },
     "15088": {
-        "「……なんだって？\n　アバさまが　オレを呼んでる？": "...... Quoi ? Abba-sama me demande ?"
+        "「……なんだって？\n　アバさまが　オレを呼んでる？": "...... Quoi ? Abba me demande ?"
     },
     "15089": {
-        "「……えっ？\n　アバさまが　あたしを呼んでる？": "…Hein ? Abba-sama me demande ?"
+        "「……えっ？\n　アバさまが　あたしを呼んでる？": "…Hein ? Abba me demande ?"
     },
     "15090": {
-        "「……えっ？\n　アバさまが　私を呼んでる？": "…Hein ? Abba-sama me demande ?"
+        "「……えっ？\n　アバさまが　私を呼んでる？": "…Hein ? Abba me demande ?"
     },
     "15091": {
         "「ふっふっふっふっふっ……。": "Fufufufufu..."
@@ -819,22 +819,22 @@
         "「うふふふふふふふふふ……。": "Oh oh oh oh oh oh oh..."
     },
     "15094": {
-        "「それって　ついに　アバさまが\n　オレの錬金術を　頼りにする日が\n　来たってことじゃないか！？": "Cela signifie que le jour ou Abba-sama compte\nenfin sur mon alchimie est arrive, n'est-ce\npas !?"
+        "「それって　ついに　アバさまが\n　オレの錬金術を　頼りにする日が\n　来たってことじゃないか！？": "Cela signifie que le jour ou Abba compte\nenfin sur mon alchimie est arrive, n'est-ce\npas !?"
     },
     "15095": {
-        "「それって　ついに　アバさまが\n　あたしの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba-sama compte sur mon alchimie ?!"
+        "「それって　ついに　アバさまが\n　あたしの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba compte sur mon alchimie ?!"
     },
     "15096": {
-        "「それって　ついに　アバさまが\n　私の錬金術を　頼りにする日が\n　来たってこと～！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba-sama compte sur mon alchimie ?!"
+        "「それって　ついに　アバさまが\n　私の錬金術を　頼りにする日が\n　来たってこと～！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba compte sur mon alchimie ?!"
     },
     "15097": {
-        "「さあ　<pc>！\n　アバさまの所へ　行こうぜ～！　オレが作った\n　ぼうしのこと　忘れんじゃねーぞ！": "Allez, <pc> ! Allons voir Abba-sama !\nN'oublie pas le chapeau que j'ai fabrique !"
+        "「さあ　<pc>！\n　アバさまの所へ　行こうぜ～！　オレが作った\n　ぼうしのこと　忘れんじゃねーぞ！": "Allez, <pc> ! Allons voir Abba !\nN'oublie pas le chapeau que j'ai fabrique !"
     },
     "15098": {
-        "「さあ　<pc>！\n　アバさまの所へ　行くわよっ！　あたしが作った\n　ぼうしのこと　忘れないでよねっ！": "Allez, <pc> ! Allons voir Abba-sama !\nN'oublie pas le chapeau que j'ai fabrique,\nd'accord ?"
+        "「さあ　<pc>！\n　アバさまの所へ　行くわよっ！　あたしが作った\n　ぼうしのこと　忘れないでよねっ！": "Allez, <pc> ! Allons voir Abba !\nN'oublie pas le chapeau que j'ai fabrique,\nd'accord ?"
     },
     "15099": {
-        "<if_woman>「さあ　お姉ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<endif>>": "<if_woman>Grande soeur ! Emmene-moi chez\nAbba-sama ! N'oublie pas le chapeau que j'ai\nfait...<else>Grand frere ! Emmene-moi chez Abba-sama !\nN'oublie pas le chapeau que j'ai\nfait...<endif>>"
+        "<if_woman>「さあ　お姉ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<endif>>": "<if_woman>Allez, grande soeur ! Emmene-moi chez Abba !\nEt n'oublie pas le chapeau que j'ai fait... !<else>Allez, grand frere ! Emmene-moi chez Abba ! Et\nn'oublie pas le chapeau que j'ai fait... !<endif>"
     },
     "15100": {
         "「テキスト削除": "text deletion"
@@ -885,31 +885,31 @@
         "「どう？　いいでしょ！？": "Alors, qu'en penses-tu ? Pas mal, hein !?"
     },
     "15117": {
-        "「アバさまが　乗っていいって\n　言ってくれたんだぜ！": "Abba-sama a dit que je pouvais monter !"
+        "「アバさまが　乗っていいって\n　言ってくれたんだぜ！": "Abba a dit qu’on pouvait monter !"
     },
     "15118": {
-        "「アバさまが　乗っていいって\n　言ってくれたのよ！": "Abba-sama a dit que nous pouvions monter !"
+        "「アバさまが　乗っていいって\n　言ってくれたのよ！": "Abba a dit qu’on pouvait monter !"
     },
     "15119": {
-        "「アバさまが　乗っていいって\n　言ってくれたんだ～。": "Abba-sama a dit que nous pouvions monter."
+        "「アバさまが　乗っていいって\n　言ってくれたんだ～。": "Abba a dit qu’on pouvait monter~."
     },
     "15120": {
-        "「なあっ　アバさま？": "Hein, Abba-sama ?"
+        "「なあっ　アバさま？": "Hein, Abba ?"
     },
     "15121": {
-        "「ねえっ　アバさま？": "Hein, Abba-sama ?"
+        "「ねえっ　アバさま？": "Hein, Abba ?"
     },
     "15122": {
         "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "15123": {
-        "「おう　アバさま。": "Oh, Abba-sama."
+        "「おう　アバさま。": "Oh, Abba."
     },
     "15124": {
-        "「ええ　アバさま。": "Oui, Abba-sama."
+        "「ええ　アバさま。": "Oui, Abba."
     },
     "15125": {
-        "「はいっ　アバさま。": "Oui, Abba-sama."
+        "「はいっ　アバさま。": "Oui, Abba."
     },
     "15126": {
         "「おら！　<pc>も　乗りな乗りな！\n　ほら　オレの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
@@ -1014,7 +1014,7 @@
         "「でも　テンスの花なんて　聞いたことないわ。": "Mais je n'ai jamais entendu parler de Fleur de\nTens."
     },
     "24629": {
-        "「おおおっ　さすが　アバさまだ！": "Oh oh oh ! Comme attendu de la part\nd'Abba-sama !"
+        "「おおおっ　さすが　アバさまだ！": "Oh oh oh ! Comme attendu de la part\nd'Abba !"
     },
     "24630": {
         "「よかった……　安心していいんだねえ。": "Je suis soulage... Je peux vraiment etre\ntranquille, n'est-ce pas ?"
@@ -1026,10 +1026,10 @@
         "「魔物が……　魔物が　村に入ってきた……！": "Les monstres... les monstres sont entres dans\nle village... !"
     },
     "24633": {
-        "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "......Qu'allons-nous devenir ? Abba-sama a dit\nque tout irait bien, mais et si, comme le\npresage le dit, nous etions voues a<br>disparaitre... ?"
+        "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "......Qu'allons-nous devenir ? Abba a dit\nque tout irait bien, mais et si, comme le\npresage le dit, nous etions voues a<br>disparaitre... ?"
     },
     "24634": {
-        "「そうだよ。\n　アバさまの結界が　破られるなんて……。": "C'est vrai. Que la barriere de Abba-sama\npuisse etre brisee..."
+        "「そうだよ。\n　アバさまの結界が　破られるなんて……。": "C'est vrai. Que la barriere de Abba\npuisse etre brisee..."
     },
     "29471": {
         "<center><pc>よ。\nその姿を　選んだのですね。": "Vous avez choisi cette apparence."
@@ -1056,7 +1056,7 @@
         "<center>そして　探すのです。\nあなたの使命を。\n生まれ変わることの意味を……。": "Et ainsi, cherchez. Votre mission. Le sens de\nvotre renaissance..."
     },
     "31661": {
-        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "ca n'a pas marche, comme je le pensais !\nQu'est-ce que tu comptes faire pour ca !!"
+        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "Ca n'a pas marche, comme je le pensais !\nQu'est-ce que tu comptes faire pour ca !!"
     },
     "31662": {
         "「テキスト削除": "text deletion"
@@ -1071,7 +1071,7 @@
         "<center>さあ　お行きなさい。\n母なる大地　アストルティアへ。": "Allez, partez maintenant. Vers la terre mere,\nAstoltia."
     },
     "43975": {
-        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "......Quoi ? Tu as reve que <kyodai> et\nAbba-sama montaient sur Galapagod ? Non, ca ne\npeut pas etre vrai. C'est impossible."
+        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "......Quoi ? Tu as reve que <kyodai> et\nAbba montaient sur Galapagod ? Non, ca ne\npeut pas etre vrai. C'est impossible."
     },
     "46656": {
         "<if_woman><center>不運にも　今日\nこの世を去った　オーガの女性がいます。<else><center>不運にも　今日\nこの世を去った　オーガの青年がいます。<endif>>": "<if_woman> Il y a une femme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<else>Il y a un jeune homme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<endif>>"
