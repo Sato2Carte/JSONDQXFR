@@ -645,22 +645,22 @@
         "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>>Grande soeur !<else>>Grand frere ! <endif>"
     },
     "99332": {
-        "「ほら　いいでしょ！？": "Regarde, c'est bien, n'est-ce pas ?"
+        "「ほら　いいでしょ！？": "Alors, c’est bien, non !?"
     },
     "99333": {
-        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba-sama a dit que nous pouvions monter !"
+        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba m'a dit que j'avais le droit de monter !"
     },
     "99334": {
-        "「ねっ　アバさま？": "He, Abba-sama ?"
+        "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "99335": {
-        "「ああ。今日は　特別じゃ。": "Ah. Aujourd'hui est un jour special."
+        "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special !"
     },
     "99336": {
-        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Le jour est enfin venu ou je peux monter sur\nle dos de Galapagod, le dieu protecteur du\nvillage... Vivre longtemps a ses avantages,<br>n'est-ce pas ?"
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu’un jour, je pourrais monter sur le dos de Galapagod, le protecteur du village…  \nVivre longtemps reserve bien des surprises."
     },
     "99337": {
-        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>. Nous devons aussi\nemmener les autres."
+        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>.\nNous devons aussi emmener les autres."
     },
     "99338": {
         "「はい　アバさま。": "Oui, Abba-sama."
@@ -672,19 +672,19 @@
         "「ダメじゃ！": "C'est impossible !"
     },
     "99341": {
-        "「……えっ？": "...Hein ?"
+        "「……えっ？": "…Hein ?"
     },
     "99342": {
-        "「<pc>は　乗せられん。": "<pc> ne peut pas etre embarque."
+        "「<pc>は　乗せられん。": "<pc> ne peut pas monter."
     },
     "99343": {
-        "「ど　どうして……？": "Po... pourquoi... ?"
+        "「ど　どうして……？": "P-Pourquoi… ?"
     },
     "99344": {
-        "「……………………。": "."
+        "「……………………。": "……"
     },
     "99345": {
-        "「そ　れ　は　な…………": "Cela..."
+        "「そ　れ　は　な…………": "C'est… parce que…"
     },
     "99346": {
         "「<pc>が　わしらと同じ時間を\n　生きている者では　ないからなのじゃ……。": "C'est parce que <pc> n'est pas quelqu'un\nqui vit dans le meme temps que nous..."
@@ -726,7 +726,7 @@
         "「ねえっ　アバさま？": "He, Abba-sama ?"
     },
     "99359": {
-        "「ねっ　アバさま？": "He, Abba-sama ?"
+        "「ねっ　アバさま？": "Hein, Abba ?"
     },
     "99360": {
         "「おう　アバさま。": "Eh bien, Abba-sama."
@@ -747,7 +747,7 @@
         "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>": "<if_woman>> He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else>> He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>"
     },
     "99366": {
-        "「……えっ？": "...Hein ?"
+        "「……えっ？": "…Hein ?"
     },
     "99367": {
         "「……えっ？": "...Hein ?"
@@ -762,7 +762,7 @@
         "「ど　どうしてよ……？": "Pourquoi... ?"
     },
     "99371": {
-        "「ど　どうして……？": "Po... pourquoi... ?"
+        "「ど　どうして……？": "P-Pourquoi… ?"
     },
     "99375": {
         "「おめでとうございます　<pc>様！": "Felicitations, <pc>-sama !"
