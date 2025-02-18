@@ -60,7 +60,7 @@
         "「テキトーなこと　抜かすんじゃねえ！\n　なら　証拠に　上やくそうを錬金してみやがれ！\n　上やくそうのレシピくらい　知ってんだろ？": "Ne dis pas n'importe quoi ! Alors, pour\npreuve, essaie donc de fabriquer un Remede\npuissant ! Tu connais bien la recette du<br>Remede puissant, non ?"
     },
     "22986": {
-        "「……………………。": "........................"
+        "「……………………。": "……"
     },
     "22987": {
         "「まさか　上やくそうのレシピも　知らねえのか？\n　そんなんで　よくも　錬金できるだなんて\n　言えたもんだ！": "Tu ne connais meme pas la recette du Remede\npuissant ? Et tu oses pretendre pouvoir faire\nde l'alchimie avec ca !"
@@ -69,13 +69,13 @@
         "「ほらよっ　この本をくれてやる。": "Tiens, je te donne ce livre."
     },
     "22989": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "22990": {
         "<kyodai>は\n初級錬金学入門を　手に入れた！<me 60>": "<kyodai> a obtenu le livre Introduction a\nl'Alchimie Debutant ! <me 60>"
     },
     "22991": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "22992": {
         "「さあ　オレの錬金釜で\n　上やくそうを　錬金してみろ！\n　本当に　やれるもんなら　やってみやがれ！": "Allez, essaie de concocter un Remede puissant\ndans mon Alchemy Pot ! Si tu en es vraiment\ncapable, fais-le donc !"
@@ -90,7 +90,7 @@
         "「はぁ？　今まで　箱で錬金してたって？\n　箱に魔力が宿るなんて　聞いたこともねえ。\n　そんなもんで錬金してたって　お前……。": "Quoi ? Tu me dis que tu faisais de l'alchimie\navec une boite jusqu'a maintenant ? Je n'ai\njamais entendu parler d'une boite qui renferme<br>de la magie. Si tu faisais de l'alchimie avec\nca… toi…"
     },
     "22996": {
-        "「……………………。": "........................"
+        "「……………………。": "……"
     },
     "22997": {
         "「オレも　すこし前までは　この釜を使って\n　なんでも　錬金できたんだ。それが……\n　あの日以来　突然　できなくなっちまってな。": "Moi aussi, jusqu'a peu, je pouvais utiliser ce\nchaudron pour tout alchimiser. Mais depuis ce\njour-la... soudainement, je ne peux plus le<br>faire."
@@ -108,7 +108,7 @@
         "「さあっ　こいつを　受け取ってくれ！": "Tiens, prends ca !"
     },
     "23002": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23003": {
         "<kyodai>は\nメラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> a obtenu le livre de Medecine de la\nFievre Megaflamme ! <me 60>"
@@ -126,10 +126,10 @@
         "「さあ　そのクスリを　オレにくれ！\n　すぐに　リリオルに飲ませよう！": "Allez, donne-moi ce medicament ! Je vais\nimmediatement le faire boire a Lyriol !"
     },
     "23018": {
-        "「テキスト削除<yesno><close>": "text deletion<yesno><close>"
+        "「テキスト削除<yesno><close>": "texte supprimer<yesno><close>"
     },
     "23019": {
-        "「テキスト削除<yesno><close>": "text deletion<yesno><close>"
+        "「テキスト削除<yesno><close>": "texte supprimer<yesno><close>"
     },
     "23020": {
         "<kyodai>は　イッショウに\nメラゾ熱のクスリを　渡した！": "<kyodai> a donne le medicament de fievre\nMegaflamme a Issho !"
@@ -150,16 +150,16 @@
         "「……呼吸が　すこし　おだやかになってきた。\n　さっそく　クスリが効いたんだな。": "...Sa respiration est devenue un peu plus\ncalme. Le medicament a deja fait effet."
     },
     "23026": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23027": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23028": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23029": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23030": {
         "「お前は　娘の命を救ってくれた　恩人だ。\n　これからは　ウマのホネだなんて\n　失礼な呼び方は　できねえな……。": "Tu as sauve ma fille\nje te suis redevable.\nJe ne peux plus te traiter d’inconnu…"
@@ -246,7 +246,7 @@
         "「くっそう！\n　よくも　そこまで　オレを無視して\n　話を　進められるもんだな！": "Bon sang ! Comment oses-tu m'ignorer a ce\npoint et continuer la conversation comme si de\nrien n'etait !"
     },
     "23058": {
-        "「……おもしろくねえが　しょうがねえ！\n　うちに　置いてやってもいいが　ちゃんと\n　オレの言うことを　聞くんだぞ！　宿ナシ！": "… Ça ne m’amuse pas, mais soit !\nJe veux bien te laisser rester ici, mais tu as\ninteret a ecouter ce que je dis, sans-abri !"
+        "「……おもしろくねえが　しょうがねえ！\n　うちに　置いてやってもいいが　ちゃんと\n　オレの言うことを　聞くんだぞ！　宿ナシ！": "… Ca ne m’amuse pas, mais soit !\nJe veux bien te laisser rester ici, mais tu as\ninteret a ecouter ce que je dis, sans-abri !"
     },
     "23059": {
         "「……いや　待てよ。\n　住む家が　決まっちまったとなると\n　お前のこと　もう　宿ナシとは呼べねえな……。": "…Non, attends une minute. Si tu as maintenant\nun endroit ou vivre, je ne peux plus vraiment\nt'appeler 'sans-domicile', hein…?"
@@ -267,46 +267,46 @@
         "「よかったわね　<kyodai>。\n　故郷に帰れるように　私も　応援するからね！": "Je suis contente pour toi, <kyodai>. Je vais\naussi te soutenir pour que tu puisses rentrer\nchez toi !"
     },
     "23065": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23066": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23067": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23068": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23069": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23070": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23071": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23072": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23073": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23074": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23075": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23076": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23077": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23078": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23079": {
         "「では　さっそく　アバさまに\n　この豆を　お見せしてこよう。\n　……そなたは　ここで　待つがよい。": "Tres bien, je vais immediatement montrer ces\nharicots a Abba-sama. ...Toi, attends ici."
@@ -333,7 +333,7 @@
         "「もぐもが　もぐもぐ……。\n　じゅるっ……　もがっ　まめっ　うまっ！！": "Mmmh, delicieux... Miam... Croquant...\nSavoureux !!"
     },
     "23087": {
-        "「……………………。": "........................"
+        "「……………………。": "……"
     },
     "23088": {
         "「ぶっはぁっ！　うまかったあ！\n　チカラが　みなぎってきたわい！": "Bwahaha ! C'etait delicieux ! Je sens la force\nmonter en moi !"
@@ -420,31 +420,31 @@
         "「ふう……。\n　これで　わしも　肩の荷が下りたわい……。": "Ouf... Avec ca, je sens que le poids sur mes\nepaules c'est enfin alleger.."
     },
     "23116": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23117": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23118": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23119": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "23120": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "32265": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "32266": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "32267": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "32268": {
-        "「テキスト削除": "text deletion"
+        "「テキスト削除": "texte supprimer"
     },
     "37759": {
         "「ゴルルルゥ。におう……におうぞォ！\n　こいつは　錬金術師の　においだなァ！？": "Grrr... Je sens... je sens quelque chose !\nC'est l'odeur d'un alchimiste, n'est-ce pas !?"
@@ -501,7 +501,7 @@
         "「今度こそ　貴様を食わせてもらうぞ！\n　私が　究極の錬金術師となるためにな！": "Cette fois, je vais te devorer ! Pour devenir\nl'alchimiste ultime !"
     },
     "41007": {
-        "「テキスト削除": "Texte supprime."
+        "「テキスト削除": "texte supprimer"
     },
     "41008": {
         "「メラゾ熱のクスリを　作って\n　どうか　リリオルの命を救ってやってくれ！！": "Fabrique le medicament contre la fievre \nMegaflamme et sauve la vie de Lyriol, je t'en \nprie !!"
