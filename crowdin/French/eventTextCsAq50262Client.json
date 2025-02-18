@@ -42,10 +42,10 @@
         "「では　お仕事の話に　入りましょう。\n　あなたは　こちらの石……\n　無垢なる原石を　ご存知ですよね？": "Alors, passons aux choses serieuses concernant\nle travail. Vous connaissez cette pierre... la\nPure Gemstone, n'est-ce pas ?"
     },
     "253763": {
-        "「この石……じつは　未完成でしてね。\n　完成させるには　これを　偽りの世界への愛で\n　満たさなければ　ならないのです。": "Cette pierre... en verite, elle est\nincomplete. Pour la completer, il faut la\nremplir avec l'amour du monde F."
+        "「この石……じつは　未完成でしてね。\n　完成させるには　これを　偽りの世界への愛で\n　満たさなければ　ならないのです。": "Cette pierre... en realite, elle est\nincomplete. Pour la completer, elle doit etre\nremplie d'amour pour le Faux Monde."
     },
     "253764": {
-        "「偽りの世界への愛…… \n　それは言うなれば　この世界に生きる者たちの\n　偽りの世界を肯定する　心です。": "F. L'amour pour le monde... C'est, pour ainsi\ndire, le coeur de ceux qui vivent dans ce monde\nqui affirment le monde."
+        "「偽りの世界への愛…… \n　それは言うなれば　この世界に生きる者たちの\n　偽りの世界を肯定する　心です。": "L'amour pour le Faux Monde...<br>En d'autres termes, c'est le coeur de ceux qui\ny vivent, acceptant et affirmant l'existence\nde ce monde."
     },
     "253765": {
         "「愛だの心だの……正気か？\n　そんな　目に見えないものを　どうやって。": "L'amour, les sentiments... Es-tu serieux ?\nComment peux-tu compter sur des choses\ninvisibles ?"
@@ -78,7 +78,7 @@
         "<pc>は\n無垢なる原石（だいじなもの）を　手に入れた。<me 60>": "<pc> a obtenu Pure Gemstone (objets\ncles). <me 60>"
     },
     "253775": {
-        "「まず　偽りのメルン水車郷へ　行ってください。\n　そして　この偽りの世界をめぐり\n　無垢なる原石を　愛で満たしてください。": "D'abord, allez a F. MeRune, le village des\nmoulins a eau. Ensuite, parcourez ce F. Monde\net remplissez-le d'amour avec la Pure<br>Gemstone."
+        "「まず　偽りのメルン水車郷へ　行ってください。\n　そして　この偽りの世界をめぐり\n　無垢なる原石を　愛で満たしてください。": "Tout d'abord, rendez-vous a la Fausse Roue a\nAubes de Melun.<br>Puis, parcourez ce Faux Monde et impregnez la\npierre brute de purete avec de l'amour."
     },
     "253788": {
         "「おっ！　もう　帰ってきたか。\n　思ったより　早かったな。": "Oh ! Tu es deja de retour. C'etait plus rapide\nque je ne le pensais."
@@ -312,10 +312,10 @@
         "「ありふれた　おいしさじゃ　ダメだよ。\n　誰も　味わったことのない\n　びっくりするような　おいしさじゃないと！": "Une saveur ordinaire ne suffit pas. Il faut\nune delicieuse surprise que personne n'a\njamais goutee !"
     },
     "253865": {
-        "「うまかろうが　まずかろうが\n　この世界にあるものは　みんな　偽物だ。": "Que ce soit delicieux ou mauvais, tout ce qui\nexiste dans ce monde est un produit F."
+        "「うまかろうが　まずかろうが\n　この世界にあるものは　みんな　偽物だ。": "Peu importe que ce soit bon ou mauvais, tout\nce qui existe dans ce monde est faux."
     },
     "253866": {
-        "「偽物とか本物とか　そんなの　関係ないと思う。\n　おいしいものを　食べたら\n　誰だって　笑顔になるよ。": "F. Que ce soit vrai ou faux, je pense que ca\nn'a pas vraiment d'importance. Quand on mange\nquelque chose de delicieux, tout le monde<br>finit par sourire."
+        "「偽物とか本物とか　そんなの　関係ないと思う。\n　おいしいものを　食べたら\n　誰だって　笑顔になるよ。": "Peu importe que ce soit faux ou vrai. Quand on\nmange quelque chose de delicieux, tout le\nmonde sourit, non ?"
     },
     "253867": {
         "「私は　アラハギーロの　リーダーだから\n　みんなを　笑顔にするの！": "Je suis la leader d'AraHagi-ro, alors je vais\nfaire sourire tout le monde !"
@@ -381,7 +381,7 @@
         "「……もろもろの疑問に　答えるため\n　いよいよ　かの　破魂の審判について\n　ご説明いたしましょう。": "......Pour repondre a toutes vos questions, je\nvais finalement vous expliquer le fameux\nJugement de l'Ame Brisee."
     },
     "253888": {
-        "「破魂の審判とは……\n　言うなれば　この偽りの世界の\n　存亡をかけた　戦いの儀式です。": "Le Jugement de l'Ame Brisee est... disons, un\nrituel de combat pour la survie de ce monde F."
+        "「破魂の審判とは……\n　言うなれば　この偽りの世界の\n　存亡をかけた　戦いの儀式です。": "Le Jugement des Ames Brisees... En d'autres\ntermes, c'est un rituel de combat dont l'issue\ndecidera du destin de ce Faux Monde."
     },
     "253889": {
         "「世界を守る意志を　持つ者……護りの手。\n　滅ぼさんとする意志を　持つ者……滅びの手。\n　ふたてに別れ　相争います。": "Ceux qui possedent la volonte de proteger le\nmonde... la Main de la Protection. Ceux qui\npossedent la volonte de detruire... la Main de<br>la Destruction. Ils se separent en deux\ngroupes et s'affrontent."
@@ -396,13 +396,13 @@
         "「滅ぶだと？　そんな　危険な儀式をする理由が\n　どこに　あるというんだ。今すぐ　中止しろ！": "Hurubu da to? Pourquoi faire un rituel aussi\ndangereux ? Arretez-le immediatement !"
     },
     "253893": {
-        "「ご存じでしょうが　この偽りの世界は\n　創造主も消え　未完成の場所も　多い……。\n　存在そのものが　きわめて　不安定なのです。": "Vous le savez probablement, mais ce monde, F.,\na vu la disparition du Seigneur Createur,\nlaissant de nombreux endroits inacheves...<br>L'existence meme de ce monde est extremement\ninstable."
+        "「ご存じでしょうが　この偽りの世界は\n　創造主も消え　未完成の場所も　多い……。\n　存在そのものが　きわめて　不安定なのです。": "Comme vous le savez, ce Faux Monde a perdu son\ncreateur, laissant de nombreux endroits\ninacheves... <br>Son existence meme est\nextremement instable."
     },
     "253894": {
         "「このまま　放置すれば　隣接する他の世界にも\n　様々な悪影響を　およぼしかねない……。": "Si nous laissons les choses ainsi, cela\npourrait avoir divers effets nefastes sur les\nautres mondes adjacents..."
     },
     "253895": {
-        "「だからこそ　審判を経て　偽りの世界を\n　残すべきか否か　決めなければならないのです。": "C'est precisement pour cette raison que, apres\navoir passe le jugement, nous devons decider\nsi le monde de F. doit etre preserve ou non."
+        "「だからこそ　審判を経て　偽りの世界を\n　残すべきか否か　決めなければならないのです。": "C'est pourquoi, a travers ce jugement, nous\ndevons decider si ce Faux Monde doit etre\npreserve ou disparaitre."
     },
     "253896": {
         "「……理不尽　きわまりないな。\n　聞きたくなかったよ　そんな話。": "C'est tout a fait deraisonnable. Je n'avais\nvraiment pas envie d'entendre ce genre\nd'histoire."
@@ -435,7 +435,7 @@
         "「さて……前に　あなたが会った\n　メドナムですが　彼は　滅びの手の選定者。\n　言動からして　選定は終わっているはず。": "\nさて前にあなたが会ったMednamですが、彼は滅びの手の選定者言動からして、選定は終わっているはず"
     },
     "253906": {
-        "「破魂の審判の開幕は　間近です。\n　偽りの世界の行く末は\n　あなたがたの　双肩にかかっている。": "La ceremonie du Jugement de l'Ame est\nimminente. F. Le destin du monde repose sur\nvos epaules."
+        "「破魂の審判の開幕は　間近です。\n　偽りの世界の行く末は\n　あなたがたの　双肩にかかっている。": "L'ouverture du Jugement des Ames Brisees est\nimminente. L'avenir du Faux Monde repose sur\nvos epaules."
     },
     "253907": {
         "「言わば　この世界に生きる者\n　すべての代表なのです。健闘を期待します。": "En d'autres termes, vous etes le representant\nde tous ceux qui vivent dans ce monde. Je\ncompte sur votre vaillance."
