@@ -1,6 +1,6 @@
 {
     "56707": {
-        "「あら？　<pc>！\n　あなたも　アラハギーロに　来ていたの？": "あra ? <pc> ! Toi aussi, tu es venu a\nAraHagi-ro ?"
+        "「あら？　<pc>！\n　あなたも　アラハギーロに　来ていたの？": "<if_woman>Oh ? <pc> ! \nToi aussi, tu es venue a Al-Ahagiro ?<else>Oh ? <pc> !\nToi aussi, tu es venu a Al-Ahagiro ?<endif>"
     },
     "56708": {
         "「おや？　アンルシア姫は\n　<pc>と　知り合いじゃったのか！": "Oh ? Princess Anlucia connaissait deja\n<pc> !"
@@ -15,7 +15,7 @@
         "「……道理で　いいはたらきをするはずじゃ。\n　<pc>には　何度も世話になってのう。\n　それを聞いて　納得したぞよ。": "…Pas etonnant que tu fasses un si bon travail.\nJ'ai ete aide par <pc> plusieurs fois,\ntu sais. En entendant cela, je comprends<br>mieux."
     },
     "56712": {
-        "「して……　<pc>。\n　幻日の鏡の件は　どうなった？": "Alors... <pc>. Qu'en est-il de l'affaire\ndu Sun Mirror ?"
+        "「して……　<pc>。\n　幻日の鏡の件は　どうなった？": "Alors… <pc>.\nQu’en est-il du Miroir du Soleil Illusoire ?"
     },
     "56713": {
         "ムーニス王に　幻日の鏡を　渡しますか？<yesno><close>": "Voulez-vous donner le Miroir du Soleil au Roi\nMoonis ?<yesno><close>"
@@ -108,7 +108,7 @@
         "「デ…　デコっぱち…………？": "De... Deco-patch... ?"
     },
     "56744": {
-        "「ななな　なんじゃ！？": "Na-na-qu'est-ce que c'est !?"
+        "「ななな　なんじゃ！？": "Q-Q-Quoi ?!"
     },
     "56745": {
         "「ひぃぃっ！　バ…バケモノ……！！": "Hiieee ! Un... un monstre... !!"
@@ -213,7 +213,7 @@
         "「あなたは　アラハギーロに戻るんでしょ？\n　ムーニス王に　よろしく言っておいてね。": "Tu retournes a AraHagi-ro, n'est-ce pas ?\nPasse le bonjour a King Moonis pour moi."
     },
     "79553": {
-        "「……ずいぶん　チカラを失っているみたい。\n　早く　勇者のチカラを　注ぎ込まなくっちゃ！": "...Il semble que j'ai perdu beaucoup de\npuissance. Je dois vite infuser la puissance\ndu heros !"
+        "「……ずいぶん　チカラを失っているみたい。\n　早く　勇者のチカラを　注ぎ込まなくっちゃ！": "… Il semble avoir perdu une grande partie de\nsa puissance. Nous devons y insuffler au plus\nvite le pouvoir du Heros !"
     },
     "85553": {
         "「その踊りのやり方は　ピラミッドにある石碑に\n　書かれているとか……。石碑があったら\n　これを使って　解読してみるといいでしょう。": "On dit que la danse de la Lance est inscrite\nsur la stele de la pyramide... Si vous trouvez\ncette stele, utilisez ceci pour essayer de la<br>dechiffrer."
@@ -222,7 +222,7 @@
         "「それでは　<pc>どの。\n　毎度のことで　本当に　申し訳ありませんが……\n　ムーニス王のこと　よろしく頼みますぞ！": "Alors, <pc>-dono. Je suis vraiment\ndesole pour tout ce tracas habituel... Mais je\ncompte sur vous pour vous occuper de King<br>Moonis !"
     },
     "90699": {
-        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+        "「テキスト削除": "texte supprimer"
     },
     "91822": {
         "<cs_pchero>が　扉に手をかけると\n何かのスイッチが入り\nどこからともなく　重い音が響きだした。": "Quand <cs_pchero> pose la main sur la porte,\nun interrupteur s'active, et un son lourd\nresonne de nulle part."
