@@ -126,7 +126,7 @@
         "アーシクは　キレイな貝がらを　手に入れた！<me 60>": "Aashik a obtenu la Beautiful Shell ! <me 60>"
     },
     "1982": {
-        "「そうだ。これを　キールへの贈り物にしよう。\n　きっと　大事にしてくれるよ。": "Oui, faisons-en un cadeau pour Keel. Je suis\nsur qu'il en prendra grand soin."
+        "「そうだ。これを　キールへの贈り物にしよう。\n　きっと　大事にしてくれるよ。": "Oui, faisons-en un cadeau pour Keel. \nJe suis sur qu’elle le cherira."
     },
     "1984": {
         "「ほら！　この貝がらも\n　そうしてほしいって　言ってるよ！！": "Regarde ! Cette coquille demande qu'on lui\nfasse la meme chose !!"
@@ -141,7 +141,7 @@
         "「おぬしら……。": "Vous autres..."
     },
     "1988": {
-        "「ななな　なんだ。バルチャじいさんか……。\n　ビックリさせないでよ。": "Na-na-nan, c'est toi, vieux Balchard... Tu\nm'as fait une de ces peurs."
+        "「ななな　なんだ。バルチャじいさんか……。\n　ビックリさせないでよ。": "Q-Q-Quoi ?! Ah, grand-pere Balcha… \nNe me fais pas peur comme ca."
     },
     "1989": {
         "「ここで　何をしていたのだ？\n　この慰霊碑に　近づいてはならぬと\n　言ってあったはずだぞ　アーシク。": "Que faisais-tu ici ? Je t'avais dit de ne pas\nt'approcher de ce monument commemoratif,\nAashik."
@@ -162,7 +162,7 @@
         "「……その慰霊碑には　決して\n　関わっては　ならんのだ。特に　アーシク。\n　花婿となる　おぬしは……な。": "Ne vous melez jamais de ce monument\ncommemoratif. Surtout toi, Aashik. En tant que\nfutur marie, tu ne dois vraiment pas..."
     },
     "1995": {
-        "「テキスト削除": "Je suis desole, mais il semble que le texte a\nete supprime. Pourrais-tu me fournir plus\nd'informations ou un autre texte a traduire ?"
+        "「テキスト削除": "texte supprimer"
     },
     "1996": {
         "「どうして？　バルチャじいさん。": "Pourquoi, vieux Balcha ?"
@@ -702,7 +702,7 @@
         "「<pc>よ。何も言わずに\n　この鏡を　のぞいてみるのだ。": "<pc>, sans dire un mot, regarde dans ce\nmiroir."
     },
     "2183": {
-        "「この鏡は　真実を映す　ラーの鏡。\n　やはり……な。": "Ceci est le Miroir de Ra, il revele la verite... \nJe m'en doutais."
+        "「この鏡は　真実を映す　ラーの鏡。\n　やはり……な。": "Ceci est le Miroir de Ra, \nil revele la verite...<br>Je m'en doutais."
     },
     "2184": {
         "「おぬしは　人間の　<pc>であって\n　ウェディの　<pc>ではないのだな。": "Tu es <pc> parmi les humains,\net non <pc> parmi les Weddie, n’est-ce pas ?"
@@ -960,7 +960,7 @@
         "「……ようやく　目が覚めた。\n　ぼくは　あなたを　むりやり\n　自分の花嫁に　しようとしていたのか……。": "Tu t'es enfin reveillee. Je t'ai forcee a\ndevenir ma mariee, n'est-ce pas...?"
     },
     "26959": {
-        "「手がかりは　ふたつ……。\n　かすかに記憶にあった　大きな城の姿と\n　両親が　何かの研究者であるらしいこと……。": "Les indices sont au nombre de deux... La\nsilhouette imposante d'un grand chateau,\nvaguement presente dans ma memoire, et le fait<br>que mes parents semblent etre des chercheurs\nen quelque chose..."
+        "「手がかりは　ふたつ……。\n　かすかに記憶にあった　大きな城の姿と\n　両親が　何かの研究者であるらしいこと……。": "Les indices sont au nombre de deux… L’image\nfloue d’un grand chateau ancree dans ma\nmemoire, et le fait que mes parents<br>semblaient etre des chercheurs…"
     },
     "26972": {
         "「なんだ？　何かが来る……。": "Qu'est-ce que c'est ? Quelque chose arrive..."
@@ -975,7 +975,7 @@
         "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Cette Pierre de Zoom n'a pas encore enregistre\nd'emplacement. Les lieux de deplacement\npeuvent etre enregistres a l'Eglise."
     },
     "50796": {
-        "「だが　その道は　ひとりでは遠く　けわしい。\n　サポート仲間という協力者を　３人ほど\n　おぬしの旅に　同行するようにしておいた。": "Cependant, ce chemin est long et ardu en\nsolitaire. J'ai arrange pour que trois\ncompagnons de soutien t'accompagnent dans ton<br>voyage."
+        "「だが　その道は　ひとりでは遠く　けわしい。\n　サポート仲間という協力者を　３人ほど\n　おぬしの旅に　同行するようにしておいた。": "Mais ce chemin est long et difficile a\nparcourir seul.<br>J’ai prevu que trois compagnons de soutien\nt’accompagnent dans ton voyage."
     },
     "50797": {
         "「ジュレットの町まで着けば　酒場で\n　新しいサポート仲間を　紹介してもらえる。\n　自由に選んで　連れていけるようになるからな。": "Une fois que tu arrives a Julet, tu pourras te\nrendre a la taverne pour te faire presenter de\nnouveaux compagnons de soutien. Tu seras libre<br>de les choisir et de les emmener avec toi."
