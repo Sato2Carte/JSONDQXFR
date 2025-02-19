@@ -300,7 +300,7 @@
         "「ああっ　<pc>さん。 \n　お手伝いくださり　ありがとうございました。": "Ah, <pc>-san. Merci beaucoup pour votre\naide."
     },
     "192490": {
-        "「……ええ。すでに　報告は受けています。 \n　キミが　真摯に　話を聞いてくださって \n　皆さんも　よろこんでらしたようですよ。": "Oui. J'ai deja recu le rapport. Il semble que\ntu aies ecoute attentivement T. Shizuka, et\ntout le monde en est ravi."
+        "「……ええ。すでに　報告は受けています。 \n　キミが　真摯に　話を聞いてくださって \n　皆さんも　よろこんでらしたようですよ。": "...Oui, j'en ai deja ete informe. Tout le\nmonde etait heureux que tu aies ecoute avec\nattention et sincerite."
     },
     "192491": {
         "「グリエ様は　１０人ぶんの\n　苦情を　聞いたらしいゼ！　人がいいよナ！": "Il parait que Guirie-sama a ecoute les\nplaintes de dix personnes ! Quel homme bon !"
@@ -531,7 +531,7 @@
         "「気色悪い……父などと呼ぶな！\n　我は　チカラを求め……チカラを得た。": "Repugnant... Ne m'appelle pas pere ! Je\ncherche la puissance... et j'ai obtenu la\npuissance."
     },
     "192571": {
-        "「我にとって　真の姿とは　この姿よ……。": "Pour moi, l'apparence de T. est celle-ci..."
+        "「我にとって　真の姿とは　この姿よ……。": "C'est ca... ma veritable apparence."
     },
     "192572": {
         "「苦しめ！　憎め！　恐怖しろ！\n　その　すべてが　我のさらなる糧となる！": "Souffre ! Hais ! Redoute ! Tout cela ne fera\nqu'accroitre ma puissance !"
@@ -618,7 +618,7 @@
         "「大臣　どういうことだ……。\n　皆して　俺を　たばかっていたと……？": "Ministre, qu'est-ce que cela signifie... ?\nTout le monde s'est moque de moi...?"
     },
     "192600": {
-        "「いえ……真実を　知っていたのは \n　グリエ様と先王ゾルトグリン様　王妃ララリア様\n　そして　アタイのみ……。": "Non... T. Ceux qui connaissaient la verite\netaient Griez-sama, l'ancien roi\nZoltgrin-sama, la reine Laralia-sama, et le<br>Red Snapper..."
+        "「いえ……真実を　知っていたのは \n　グリエ様と先王ゾルトグリン様　王妃ララリア様\n　そして　アタイのみ……。": "Non... Ceux qui connaissaient la verite\netaient Maitre Griez, l'ancien roi Zoltgrin,\nla reine Laralia, et moi seule..."
     },
     "192601": {
         "「これは　先王様の　深いお考えが\n　あってのことなのです……。": "C'est une decision prise par le defunt roi,\nguidee par une reflexion profonde..."
@@ -735,7 +735,7 @@
         "「オーグリードは　我の大地。\n　ここで暴れていいのは　我のみよ……。": "L'Auglith est ma terre. Ici, le seul a pouvoir\nsemer le chaos, c'est moi..."
     },
     "192639": {
-        "「……ゲテモノは　ウマいというが\n　どうやら　真実らしいな。": "...On dit que les curiosites culinaires sont\ndelicieuses, mais il semble que ce soit vrai,\nT.実."
+        "「……ゲテモノは　ウマいというが\n　どうやら　真実らしいな。": "...On dit que les plats etranges peuvent etre\ndelicieux. Et il faut croire que c'est vrai."
     },
     "192640": {
         "「昔日のチカラが　よみがえっていく……。 \n　コイツを　消化しきれば\n　封印による消耗も　いえるだろうよ。": "Le pouvoir d'autrefois revient a la vie... Si\nje parviens a digerer cela entierement,\nl'epuisement cause par le sceau sera sans<br>doute gueri."
@@ -900,7 +900,7 @@
         "「おそらく　あのオーガの王は\n　邪神と契約し　チカラを得る代わりに\n　オーガを憎む心を　植えつけられたのです。": "Il est probable que ce roi Ogre ait conclu un\npacte avec un dieu malefique. En echange de la\npuissance, il s'est vu implanter une haine<br>envers les Ogres."
     },
     "192694": {
-        "「……それが　ゾンガロンの真実か。": "......C'est donc la verite sur Zongaron, T."
+        "「……それが　ゾンガロンの真実か。": "...Alors, c'est ca, la veritable nature de\nZongaron ?"
     },
     "192695": {
         "「俺は　ゾンガロンを　倒すすべを探している。\n　知恵を　授けてほしい。": "Je cherche un moyen de vaincre Zongaron.\nJ'aimerais que tu partages ta sagesse avec\nmoi."
@@ -924,7 +924,7 @@
         "「……オーグリードに　光あらんことを。": "...Que la lumiere soit sur Ougrede."
     },
     "192702": {
-        "「<pc>。 \n　お前のおかげで　真実にたどり着けた。": "<pc>. Grace a toi, nous avons pu\natteindre T."
+        "「<pc>。 \n　お前のおかげで　真実にたどり着けた。": "<pc>,\ngrace a toi, j'ai pu decouvrir la verite."
     },
     "192703": {
         "「俺は　オルセコに戻り　戦の支度をする。": "Je retourne a Orseco pour me preparer a la\nbataille."
@@ -1230,7 +1230,7 @@
         "「俺は　いまだ　未熟な王だが……\n　つねに　おのれに問いつづけると　誓おう。": "Je suis encore un roi inexperimente... mais je\njure de toujours me remettre en question."
     },
     "192804": {
-        "「真の強さとは　何か……\n　真の王とは　何かを。": "T. Qu'est-ce que la force... T. Qu'est-ce\nqu'un roi..."
+        "「真の強さとは　何か……\n　真の王とは　何かを。": "Ce qu'est la veritable force...\net ce qu'est un veritable roi."
     },
     "192805": {
         "「俺は　これからも　オルセコを守りぬく。 \n　どうか　チカラを貸してくれ。": "Je continuerai a proteger Orseco. Je t'en\nprie, prete-moi ta force."
