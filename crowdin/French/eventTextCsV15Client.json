@@ -45,7 +45,7 @@
         "「……ふむ　そうか。そなたたちには\n　戦禍のタネについて　教えてなかったな。\n　では　私の知っている限りのことを　話そう。": "…Hmm, je vois. Je ne vous ai pas parle de la\nSeed of Conflict, n'est-ce pas ? Alors,\nlaissez-moi vous raconter ce que je sais a ce<br>sujet."
     },
     "218216": {
-        "「ガートラントの事件を　覚えているか？\n　ピュージュが　そっくりの偽者をあやつる術で\n　内乱をそそのかし　国に混乱を起こした事件だ。": "Te souviens-tu de l'affaire de GarトLMPト ?\nC'etait l'incident ou Pyuju a utilise une\ntechnique de manipulation de F. personnes pour<br>inciter a la guerre civile et semer le chaos\ndans le pays."
+        "「ガートラントの事件を　覚えているか？\n　ピュージュが　そっくりの偽者をあやつる術で\n　内乱をそそのかし　国に混乱を起こした事件だ。": "Te souviens-tu de l'incident de Gartland ?<br>Pyuju a utilise une technique pour manipuler\nun double parfait, provoquant une revolte et\nsemant le chaos dans le royaume."
     },
     "218218": {
         "「私は　ガートラント王国と　懇意にしていてな。\n　ピュージュが　事件を起こして以来……\n　ひそかに　ヤツの動向を　探っていたのだ。": "Je suis en bons termes avec le royaume de\nGarトLMPト. Depuis que Pyuju a cause des\nincidents... J'ai discretement enquete sur ses<br>agissements."
@@ -465,7 +465,7 @@
         "「あっ　待ちなさい……！": "Ah, attends... !"
     },
     "230214": {
-        "「……ところで。\n　あなた　すっかり　だまされていたようだけど\n　偽者の私……何か　変なこと言ってたんじゃ？<yesno><close>": "Au fait. Il semble que vous ayez ete\ncompletement trompe, mais Je, en tant que\nmembre de F. ... N'ai-je pas dit quelque chose<br>d'etrange ?<yesno><close>"
+        "「……ところで。\n　あなた　すっかり　だまされていたようだけど\n　偽者の私……何か　変なこと言ってたんじゃ？<yesno><close>": "...Au fait. On dirait que tu t'es completement\nlaisse berner. Mon imposteur... il n'a pas dit\nquelque chose d'etrange ?<yesno><close>"
     },
     "230216": {
         "「……本当に？<yesno><close>": "Vraiment ? <yesno><close>"
