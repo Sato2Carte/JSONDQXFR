@@ -36,10 +36,10 @@
         "「……なるほど。この　３箇所か。": "...... Je vois. Ces trois endroits, alors."
     },
     "82761": {
-        "「……<pc>よ。そなたの話によると\n　偽りの世界と　この世界は酷似しているのだな。\n　ならば　ひとつ　頼みたいことがある。": "...<pc>. D'apres ton recit, il semble\nque le monde F. est tres similaire a celui-ci.\nDans ce cas, j'ai une faveur a te demander."
+        "「……<pc>よ。そなたの話によると\n　偽りの世界と　この世界は酷似しているのだな。\n　ならば　ひとつ　頼みたいことがある。": "...<pc>. D'apres ce que tu dis, le Faux\nMonde et notre monde se ressemblent\nenormement.<br>J'aurais donc une requete a te faire."
     },
     "82762": {
-        "「ブレイブストーンを使って　偽りの世界に渡り\n　これから　私が行う調査に必要な物を\n　採ってきてほしいのだ。": "Utilise la Brave Stone pour te rendre dans le\nmonde F. Je voudrais que tu recuperes les\nobjets necessaires pour l'enquete que je vais<br>mener."
+        "「ブレイブストーンを使って　偽りの世界に渡り\n　これから　私が行う調査に必要な物を\n　採ってきてほしいのだ。": "Utilise la Pierre du Brave pour te rendre dans\nle Faux Monde et rapporte-moi ce dont j'aurai\nbesoin pour mon enquete."
     },
     "82763": {
         "「調査に必要な物は　今　見た通りの場所……\n　ワルド水源　ローヌ樹林帯　デフェル荒野の\n　３箇所にある。": "Les objets necessaires a l'enquete se trouvent\ndans les lieux que je viens de te montrer...\nIls sont repartis en trois endroits : les<br>Sources de Wald, la Ceinture forestiere de\nRhone et le Desert de Defel."
@@ -105,7 +105,7 @@
         "「……うむ。この　３箇所だな。": "…Hmm. Ce sont ces trois endroits."
     },
     "82784": {
-        "「……<pc>よ。ブレイブストーンを使って\n　偽りの世界に渡り　私が行う調査に必要な物を\n　採ってきてほしい。": "<pc>. Utilise la Brave Stone pour te\nrendre dans le monde F. J'ai besoin que tu\nrecoltes des objets necessaires pour mes<br>recherches."
+        "「……<pc>よ。ブレイブストーンを使って\n　偽りの世界に渡り　私が行う調査に必要な物を\n　採ってきてほしい。": "...<pc>. Utilise la Pierre du Brave pour\nte rendre dans le Faux Monde et rapporte-moi\nce dont j'ai besoin pour mon enquete."
     },
     "82785": {
         "「調査に必要な物は　今　見た通りの場所……\n　ワルド水源　ローヌ樹林帯　デフェル荒野の\n　３箇所にある。": "Les objets necessaires a l'enquete se trouvent\ndans les lieux que je viens de te montrer...\nIls sont repartis en trois endroits : les<br>Sources de Wald, la Ceinture forestiere de\nRhone et le Desert de Defel."
@@ -183,7 +183,7 @@
         "「大魔王マデサゴーラの目的とは　すなわち……": "L'objectif de Madesagora, en d'autres\ntermes..."
     },
     "87486": {
-        "「自らの作り出した　偽りの世界によって\n　この世界を　塗りつぶすことでは\n　あるまいか……と。": "Ne serait-ce pas en recouvrant ce monde avec\nle monde F. que j'ai cree moi-meme... ?"
+        "「自らの作り出した　偽りの世界によって\n　この世界を　塗りつぶすことでは\n　あるまいか……と。": "Ne chercherait-il pas a recouvrir ce monde  \navec le Faux Monde qu'il a lui-meme cree... ?"
     },
     "87487": {
         "「大魔王の計画を　阻止できなければ\n　この世から　真実は失われてしまうだろう。\n　我々に　敗北は許されんのだ……。": "Si nous ne parvenons pas a contrecarrer les\nplans du Grand Roi Demon, le monde perdra T.\nen verite. La defaite ne nous est pas<br>permise..."
