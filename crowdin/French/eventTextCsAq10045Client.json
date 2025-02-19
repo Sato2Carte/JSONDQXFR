@@ -237,7 +237,7 @@
         "「……ごめんなさい　フィーヤ。\n　あなたのことを　ダーリアさんを殺した\n　犯人だって　ずっと思ってた。": "......Je suis desolee, Fiya. J'ai toujours\npense que c'etait toi le coupable qui avait\ntue Dahlia-san."
     },
     "27789": {
-        "「でも　真実は　そうじゃなかった。\n　フィーヤは　みんなを助けようとしていたのに\n　誰も　それに　気づかなかったんだね。": "Mais T., en realite, ce n'etait pas le cas.\nFiya essayait d'aider tout le monde, mais\npersonne ne s'en est rendu compte."
+        "「でも　真実は　そうじゃなかった。\n　フィーヤは　みんなを助けようとしていたのに\n　誰も　それに　気づかなかったんだね。": "Mais la verite etait tout autre. Fiya essayait\nde sauver tout le monde, et pourtant, personne\nne s'en est rendu compte."
     },
     "27790": {
         "「もう　遅いけど……。ありがとう　フィーヤ。": "C'est deja trop tard, mais... Merci, Fiya."
@@ -261,7 +261,7 @@
         "「最後の推理は　<cs_pchero>に　させてあげる。\n　場所がわかったら　そこへ向かってくれるかな。": "Je vais te laisser faire la derniere\ndeduction, <cs_pchero>. Quand tu auras trouve\nl'endroit, pourrais-tu t'y rendre ?"
     },
     "27797": {
-        "「この真実　いただきます！": "Je prends ce T. Jitsu !"
+        "「この真実　いただきます！": "Je m'empare de cette verite !"
     },
     "27798": {
         "<pipipi_low>「来てくれたね　<pc>くん。\n　そう。ここが　レグさんとダーリアさんが\n　眠る場所なんだよ。": "<pipipi_low> Tu es venu, <pc>-kun. Oui,\nc'est ici que Reg-san et Dahlia-san reposent."
@@ -324,6 +324,6 @@
         "「だって　私の推理によれば\n　これから　３人は　ずーっと　一緒に\n　仲良く暮らしていくはずだもん！": "D'apres mon raisonnement, ces trois-la\ndevraient vivre ensemble en harmonie pour\ntoujours !"
     },
     "27818": {
-        "「この真実　いただきました！！": "Ce T. Jitsu, je l'ai obtenu !!"
+        "「この真実　いただきました！！": "Cette verite... \nElle est a moi maintenant !!"
     }
 }
