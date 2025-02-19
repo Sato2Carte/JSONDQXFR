@@ -72,7 +72,7 @@
         "「このたびは　娘が　たいへん世話になった。": "Cette fois, ma fille vous a vraiment ete\nredevable."
     },
     "53379": {
-        "「偽りのレンダーシアなどという世界から\n　アンルシアを　無事に連れ戻してくれたこと\n　感謝してもしきれぬ。して　今後のことだが……": "Je ne te remercierai jamais assez de nous\navoir ramene Anlucia saine et sauve de ce\nmonde appele F. Lendasia. Et maintenant, pour<br>ce qui est de l'avenir..."
+        "「偽りのレンダーシアなどという世界から\n　アンルシアを　無事に連れ戻してくれたこと\n　感謝してもしきれぬ。して　今後のことだが……": "Je ne pourrai jamais assez te remercier\nd'avoir ramene Anlucia saine et sauve de la\nF.Lendersia. Et pour la suite..."
     },
     "53380": {
         "「アリオス王よ。\n　その話は　私からしよう。": "Roi Arios. Je vais raconter cette histoire\nmoi-meme."
@@ -120,7 +120,7 @@
         "「今は　私のために生きてくれた　兄の分まで\n　しっかり　勇者の使命を　果たさなくっちゃ！\n　そう。大魔王との戦いに　備えないとね。": "Maintenant, je dois accomplir avec\ndetermination la mission du heros, pour mon\nfrere qui a vecu pour moi. Oui, je dois me<br>preparer a la bataille contre le grand roi\ndemon."
     },
     "53400": {
-        "「偽りのレンダーシアから　戻る時に使った\n　その石は　きっと　<pc>の\n　これからの旅に　役立つわ！": "Cette pierre que tu as utilisee pour revenir\nde F. Lendersia sera surement utile pour le\nvoyage a venir de <pc> !"
+        "「偽りのレンダーシアから　戻る時に使った\n　その石は　きっと　<pc>の\n　これからの旅に　役立つわ！": "La pierre que tu as utilisee pour revenir de\nla F.Lendersia te sera surement utile pour la\nsuite de ton voyage, <pc> !"
     },
     "53401": {
         "「ふむ……。<pc>さんが\n　ブレイブストーンを　持つんですか。\n　それなら　すこし説明が必要ですね。": "Hmm... <pc>-san, vous possedez la Brave\nStone, n'est-ce pas ? Dans ce cas, il est\nnecessaire de vous donner quelques<br>explications."
@@ -144,7 +144,7 @@
         "「あまり知られていないことですが\n　あれは　いにしえの勇者が　その地を守るために\n　勇者のチカラを込めて作った　石塔なのです。": "Il est peu connu que ce sont des tours de\npierre creees par un heros ancien pour\nproteger cette terre, impregnees de la<br>puissance du heros."
     },
     "53408": {
-        "「ブレイブストーンを持って　その石塔を調べれば\n　勇者のチカラが手助けしてくれ　真の世界と\n　偽りの世界を　結んでくれるかもしれませんね。": "Si tu examines cette tour de pierres avec la\nBrave Stone, la puissance du heros pourrait\nt'aider a relier le monde T. et le monde F."
+        "「ブレイブストーンを持って　その石塔を調べれば\n　勇者のチカラが手助けしてくれ　真の世界と\n　偽りの世界を　結んでくれるかもしれませんね。": "Si tu examines cette tour de pierre en portant\nla Pierre du Brave.<br>La puissance du Heros pourrait t'aider a\nrelier le vrai monde et le faux."
     },
     "53409": {
         "「さて……。<pc>さんの　元気な顔も\n　見られましたし　私も　この城を出て\n　自分の目的を　果たしにいくとしましょうか。": "Alors... J'ai pu voir le visage enjoue de\n<pc>-san, et il est temps pour moi de\nquitter ce chateau pour accomplir mon propre<br>objectif."
@@ -207,7 +207,7 @@
         "「……じつはね。メルサンディ村で\n　暮らしていたときのことを　思いだしていたの。": "En fait, je repensais au temps ou je vivais a\nMelsandy Village."
     },
     "82672": {
-        "「偽りの世界のこととはいえ\n　あの村で　ミシュアとして過ごした時間は\n　何物にも代えがたい　大切な経験になったわ。": "F. Bien que cela concerne le monde entier, le\ntemps que j'ai passe dans ce village en tant\nque Mishua est devenu une experience precieuse<br>et irremplacable."
+        "「偽りの世界のこととはいえ\n　あの村で　ミシュアとして過ごした時間は\n　何物にも代えがたい　大切な経験になったわ。": "Meme s'il s'agissait d'un faux monde, le temps\npasse dans ce village en tant que Mishua aura\nete une experience precieuse et irremplacable."
     },
     "82673": {
         "「かつての私は　トーマ兄さまや……\n　自分の身近な人を　守ることまでしか\n　考えが　およんでなかったの。": "Autrefois, je ne pensais qu'a proteger les\npersonnes proches de moi, comme mon frere\nToma..."
