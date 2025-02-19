@@ -24,13 +24,13 @@
         "「ふむふむ……。\n　ブロッゲンさまは　このように\n　おっしゃって　おらレール！": "Hum, hum... Broggen-sama a declare ainsi :\nNous sommes sur la bonne voie !"
     },
     "57130": {
-        "「わしが　あずかる秘技は　『勇者の眼』。\n　物事の真偽を見極めることで\n　魔物が生みだした　まやかしを打ち破る技よ。": "Je detiens le secret de la technique L'OEil du\nHeros. C'est une technique qui permet de\ndiscerner le T. F. des choses et de briser les<br>illusions creees par les monstres."
+        "「わしが　あずかる秘技は　『勇者の眼』。\n　物事の真偽を見極めることで\n　魔物が生みだした　まやかしを打ち破る技よ。": "La technique que je garde precieusement est\nl'OEil du Heros.<br>Elle permet de discerner la verite et de\nbriser les illusions creees par les monstres."
     },
     "57131": {
         "「この秘技なくして　大魔王や\n　その眷属と戦うことは　難しいであろう。": "Sans cette technique secrete, il serait\ndifficile de combattre le Grand Roi Demon et\nses serviteurs."
     },
     "57132": {
-        "「アンルシア姫が　『勇者の眼』を会得するには\n　真偽の試練を　果たしてもらわねばならぬ。\n　真なるものを見抜く目を　きたえるのだ。": "Pour que la Princesse Anlucia maitrise le\n'Regard du Heros', elle doit reussir l'epreuve\nde T. F. Cela affinera son oeil pour discerner<br>ce qui est T."
+        "「アンルシア姫が　『勇者の眼』を会得するには\n　真偽の試練を　果たしてもらわねばならぬ。\n　真なるものを見抜く目を　きたえるのだ。": "Pour que la princesse Anlucia maitrise l'Oeil\ndu Heros, elle doit surmonter l'Epreuve de la\nVerite.<br>Elle devra aiguiser son regard pour\ndiscerner le veritable du faux."
     },
     "57133": {
         "「<pc>よ。勇者の盟友として　お前には\n　アンルシア姫とともに　わしの用意した魔物と\n　戦ってもらうことになる。": "<pc>. En tant qu'allie du heros, tu\ndevras combattre aux cotes de la Princesse\nAnlucia contre les monstres que j'ai prepares."
@@ -75,7 +75,7 @@
         "「ブロッゲンさまは　このように\n　おっしゃって　おらレール！": "Broggen-sama a declare ainsi !"
     },
     "57147": {
-        "「魔物の生みだす　まやかしを見破る技……。\n　『勇者の眼』を　勇者姫が会得するためには\n　真偽の試練を　果たさねばならない。": "La technique pour percer les illusions creees\npar les monstres... Pour que la princesse\nheroique maitrise le 'Regard du Heros', elle<br>doit reussir l'epreuve de T. F."
+        "「魔物の生みだす　まやかしを見破る技……。\n　『勇者の眼』を　勇者姫が会得するためには\n　真偽の試練を　果たさねばならない。": "Une technique pour percer les illusions creees\npar les monstres...<br>Pour que la Princesse Heroique maitrise l'Oeil\ndu Heros, elle doit surmonter l'Epreuve de la\nVerite."
     },
     "57148": {
         "「勇者の盟友として　お前には\n　勇者姫とともに　わしの用意した魔物と\n　戦ってもらうことになる。": "En tant qu'allie du heros, tu devras combattre\naux cotes de la princesse heroique contre les\nmonstres que j'ai prepares."
@@ -159,7 +159,7 @@
         "<center>勇者姫アンルシア。そして　<cs_pchero>よ。\n試練の魔物を倒したようだな。\nこの試練を果たしたことを　認めよう。": "Heroine Anlucia. Et toi, <cs_pchero>. Il\nsemble que vous ayez vaincu le monstre de\nl'epreuve. Je reconnais que vous avez accompli<br>cette epreuve."
     },
     "67698": {
-        "<center>勇者姫に　真偽を見極めるチカラが宿り\n『勇者の眼』を会得したことを\n叡智の冠のひとりとして　ここに宣言する！": "En tant que l'un des porteurs de la Couronne\nde Sagesse, je declare ici que la Princesse\nHeroique a eveille le pouvoir de discerner T.<br>F. et a maitrise l'OEil du Heros !"
+        "<center>勇者姫に　真偽を見極めるチカラが宿り\n『勇者の眼』を会得したことを\n叡智の冠のひとりとして　ここに宣言する！": "En tant que membre de la Couronne de la\nSagesse, je proclame ici que la Princesse\nHeroique a eveille le pouvoir de discerner la\n<br>\nverite et a maitrise l'Oeil du Heros !"
     },
     "67699": {
         "「ありがとうございます　ブロッゲンさま。\n　でも　私ひとりでは　無理でした。\n　<cs_pchero>がいたから　会得できたのです。": "Merci beaucoup, Broggen-sama. Mais seule, je\nn'aurais pas pu y arriver. C'est grace a\n<cs_pchero> que j'ai pu maitriser cela."
@@ -210,7 +210,7 @@
         "「いっ　いえ！　なんでもありません！！": "Non, non ! Ce n'est rien !!"
     },
     "67715": {
-        "「……なるほどな。物事の真偽を見極める\n　『勇者の眼』を　確かに会得したらしい。": "…Je vois. Il semble que tu aies maitrise l'OEil\ndu Heros qui discerne la T. F. des choses."
+        "「……なるほどな。物事の真偽を見極める\n　『勇者の眼』を　確かに会得したらしい。": "...Je vois. Il semble bien qu'elle ait\nmaitrise l'Oeil du Heros, le pouvoir de\ndiscerner la verite."
     },
     "67716": {
         "「ふふっ。これからも　その調子で頼むぞ。\n　アンルシア……それに　<pc>。": "Fufufu. Continuez comme ca, je compte sur\nvous. Anlucia... et <pc>."
