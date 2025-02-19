@@ -33,7 +33,7 @@
         "「あなたを試すつもりで　お使いを頼んだけど……\n　やっぱり　あなたは　姉さんの所に行けるのね。\n　姉さんたちのこと……くわしく説明して。": "Je voulais te mettre a l'epreuve en te\ndemandant ce service... Mais tu peux vraiment\nte rendre chez ma soeur. Parle-moi en detail de<br>ma soeur et des autres..."
     },
     "57455": {
-        "<pc>は　偽りのレンダーシアにある\nセレドの町で見てきたことを　説明した。": "<pc> expliqua ce qu'il avait vu dans la\nville de Celed, situee a F. Lendersia."
+        "<pc>は　偽りのレンダーシアにある\nセレドの町で見てきたことを　説明した。": "<if_woman><pc> expliqua ce qu'elle avait vu a\nCeled, en F.Lendersia.<else><pc> expliqua ce qu'il avait vu a Celed,\nen F.Lendersia.<endif>"
     },
     "57456": {
         "「フィーロ　ミザール　ミラカ……。\n　みんな　あのガケ崩れで死んだ子たちだわ。": "Firo, Mizar, Miraka... Ils sont tous morts\ndans cet eboulement de falaise."
