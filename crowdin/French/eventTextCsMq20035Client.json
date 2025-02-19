@@ -45,7 +45,7 @@
         "「今回の穴埋めは　魔元帥ゼルドラドさまの\n　特命によって　我ら兄弟に与えられた\n　崇高な任務なんだぞ！": "Cette fois-ci, le comblement de ce trou est\nune mission sacree confiee a nous, les\nBrothers, par l'ordre special de Marshal<br>Zeldrad-sama !"
     },
     "64511": {
-        "「後は　偽りのレンダーシアと\n　真のレンダーシアの行き来が可能な\n　この転移ゲートを閉じる　最後の仕上げのみ！": "Il ne reste plus qu'a fermer ce portail de\nteleportation qui permet de voyager entre F.\nLendersia et T. Lendersia pour le dernier<br>ajustement !"
+        "「後は　偽りのレンダーシアと\n　真のレンダーシアの行き来が可能な\n　この転移ゲートを閉じる　最後の仕上げのみ！": "Il ne reste plus qu'a fermer ce portail de\ntransfert, qui permet de voyager entre le faux\net le veritable Lendersia !"
     },
     "64512": {
         "「だから　お前も　チカラを貸すのだ！": "Alors toi aussi, prete-nous ta force !"
@@ -216,7 +216,7 @@
         "「いえ……。私は　妻の故郷を守ろうと……\n　そして　兄弟子の　ベルムドの助けになろうと\n　思ったまでです。": "Non... Je voulais simplement proteger le pays\nnatal de ma femme... et venir en aide a\nBermud, le fils des Brothers."
     },
     "64568": {
-        "「そのベルムドのことじゃが　そなたは先ほど\n　あれが　偽りのレンダーシアで\n　非業の死を遂げたと　申しておったな……。": "A propos de ce Bermud, il me semble que tu as\nmentionne plus tot qu'il a trouve une mort\ntragique dans F. Lendersia…"
+        "「そのベルムドのことじゃが　そなたは先ほど\n　あれが　偽りのレンダーシアで\n　非業の死を遂げたと　申しておったな……。": "A propos de ce Bermud... Tu as dit tout a\nl'heure qu'il avait trouve une mort tragique\nau F.Lendersia."
     },
     "64569": {
         "「……カレヴァンよ。\n　じつは　そなたに　頼みがあるんじゃ。": "......Kalevan. En fait, j'ai une faveur a te\ndemander."
@@ -312,7 +312,7 @@
         "「そうして　ベルムドは　魔族に心を売り\n　魔族の将から　まがまがしいチカラを\n　与えられたという……。": "Ainsi, Bermud a vendu son ame aux demons et a\nrecu un pouvoir sinistre de la part d'un\ngeneral demoniaque..."
     },
     "64600": {
-        "「ベルムドは　偽りのアラハギーロ王国で\n　王位に就いて　もともと人間だった者たちを\n　苦しめていたらしいのう……。": "Il parait que Bermud a accede au trone dans le\nRoyaume F. d'Al-Ahagiro et tourmentait ceux\nqui etaient autrefois humains..."
+        "「ベルムドは　偽りのアラハギーロ王国で\n　王位に就いて　もともと人間だった者たちを\n　苦しめていたらしいのう……。": "Bermud aurait accede au trone du Faux Royaume\nd'Al-Ahagiro et tourmente ceux qui etaient\nautrefois humains..."
     },
     "64601": {
         "「後のことは　おぬしのほうが　くわしいかの？\n　これが　この国に起こった　悲劇のすべてじゃ。": "Apres cela, tu en sais surement plus que moi,\nnon ? Voila toute la tragedie qui est survenue\ndans ce pays."
