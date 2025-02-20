@@ -78,7 +78,7 @@
         "「ううっ。あなたが　本物の勇者姫さま……。\n　では　私が　これまで仕えていた\n　あの姫さまは　いったい……。": "Oooh... Vous etes la veritable princesse\nheroique... Alors, la princesse que je servais\njusqu'a present etait..."
     },
     "50916": {
-        "「やはり　この世界は　おかしかった……。\n　私が　それに気付けたのは……真の勇者である\n　あなたと　一緒に過ごせた　おかげ……。": "Ce monde etait vraiment etrange... C'est grace\na toi, T., le heros, que j'ai pu m'en rendre\ncompte..."
+        "「やはり　この世界は　おかしかった……。\n　私が　それに気付けたのは……真の勇者である\n　あなたと　一緒に過ごせた　おかげ……。": "Ce monde etait vraiment etrange...\n<br>\nEt si j'ai pu m'en rendre compte, c'est grace\na toi, le veritable Heros, et au temps que\nnous avons passe ensemble..."
     },
     "50918": {
         "「……私は　あの人たちを許さない。": "Je ne pardonnerai jamais ces gens-la."
@@ -162,7 +162,7 @@
         "「創生の魔力によって\n　私は　勇者を超えるチカラを得た！": "Grace a la magie de la creation, j'ai acquis\nun pouvoir surpassant celui du heros !"
     },
     "50945": {
-        "「だが　私が望むことは　ただひとつ。\n　お前から　勇者のチカラを奪い\n　真の勇者となることだ！！": "Mais ce que je desire, c'est une seule chose.\nTe depouiller de la force du heros et devenir\nT. le heros !!"
+        "「だが　私が望むことは　ただひとつ。\n　お前から　勇者のチカラを奪い\n　真の勇者となることだ！！": "Mais je ne desire qu'une chose : te prendre\nton pouvoir de Heros et devenir le veritable\nHeros !!"
     },
     "50946": {
         "「その前に……。\n　目障りな邪魔者を　排除する必要があるな。": "Avant cela... Il est necessaire d'eliminer les\ngeneurs encombrants."
@@ -315,7 +315,7 @@
         "「これは　ブレイブストーン。\n　勇者が使ったならば　次元の壁さえも超えて\n　好きな場所に　移動できるという秘石です。": "Ceci est la Brave Stone. Si un heros\nl'utilise, il peut franchir meme les murs des\ndimensions et se deplacer ou bon lui semble<br>grace a cette pierre secrete."
     },
     "50996": {
-        "「それを使えば　私たちは\n　真のレンダーシアに　帰れるんですか！？": "En l'utilisant, pourrons-nous retourner a T.\nLendersia ?"
+        "「それを使えば　私たちは\n　真のレンダーシアに　帰れるんですか！？": "Si on utilise ca, est-ce qu'on pourra\nretourner dans la veritable Lendersia ?"
     },
     "50997": {
         "「その通り。偽りの勇者は　覚醒を迎えた後に\n　この石を使って　真のレンダーシアへと\n　渡るつもりだったのでしょう。": "C'est exact. Apres son eveil, le Faux Heros\ncomptait surement utiliser cette pierre pour\nse rendre dans le veritable Lendersia."
@@ -333,16 +333,16 @@
         "「<cs_pchero>。私は　グランゼドーラ城で\n　ブレイブストーンの完成を待つことにするわ。\n　あなたも　その時が来たら　城に来て。": "<cs_pchero>Je vais attendre l'achevement de la\nPierre du Brave au Chateau de Gran Zedora.\nQuand le moment sera venu, viens au chateau,<br>toi aussi."
     },
     "51002": {
-        "「共に　真のレンダーシアへ　帰りましょう！": "Rentrons ensemble a T. Lendarsia !"
+        "「共に　真のレンダーシアへ　帰りましょう！": "Retournons ensemble dans la veritable\nLendersia !"
     },
     "51004": {
-        "「魔勇者が残した　ブレイブストーンを\n　クロウズさんが直してくれれば\n　真のレンダーシアへ　帰れるらしいわ。": "Si Claws-san repare la Brave Stone laissee par\nle heros demoniaque, nous pourrions\napparemment retourner a T. Lendersia."
+        "「魔勇者が残した　ブレイブストーンを\n　クロウズさんが直してくれれば\n　真のレンダーシアへ　帰れるらしいわ。": "Si Claws repare la Pierre du Brave laissee par\nle Heros Demoniaque, on pourra retourner dans\nla veritable Lendersia."
     },
     "51008": {
         "「ご安心を。完璧に　直してきました。\n　どうぞ　お受け取りください。": "Rassurez-vous. Je l'ai repare a la perfection.\nVeuillez le recevoir."
     },
     "51009": {
-        "「ありがとうございます。\n　これで　私たちは　真のレンダーシアへと\n　帰れるんですね！": "Merci beaucoup. Grace a cela, nous allons\npouvoir retourner a T. Rendarcia !"
+        "「ありがとうございます。\n　これで　私たちは　真のレンダーシアへと\n　帰れるんですね！": "Merci beaucoup. \nGrace a ca, nous allons enfin pouvoir\nretourner dans la veritable Lendersia !"
     },
     "53839": {
         "「この部屋……。私の暮らしていた\n　本当のグランゼドーラ城の部屋と\n　まったく　同じなのね……。": "Cette piece... Elle est exactement identique a\ncelle du veritable Chateau de Gran Zedora ou\nje vivais..."
@@ -366,13 +366,13 @@
         "「わかりました。やってみます！": "D'accord. Je vais essayer !"
     },
     "53846": {
-        "「私たちを　真のレンダーシアに！！": "Nous, a T. Lendarsia !!"
+        "「私たちを　真のレンダーシアに！！": "Ramene-nous dans la veritable Lendersia !!"
     },
     "53847": {
         "「この部屋……。私の暮らしていた\n　本当のグランゼドーラ城の部屋と\n　まったく　同じなのね……。": "Cette piece... Elle est exactement identique a\ncelle du veritable Chateau de Gran Zedora ou\nje vivais..."
     },
     "53848": {
-        "「魔勇者が残した　ブレイブストーンを\n　クロウズさんが直してくれれば\n　真のレンダーシアへ　帰れるらしいわ。": "Si Claws-san repare la Brave Stone laissee par\nle heros demoniaque, nous pourrions\napparemment retourner a T. Lendersia."
+        "「魔勇者が残した　ブレイブストーンを\n　クロウズさんが直してくれれば\n　真のレンダーシアへ　帰れるらしいわ。": "Si Claws repare la Pierre du Brave laissee par\nle Heros Demoniaque, on pourra retourner dans\nla veritable Lendersia."
     },
     "53849": {
         "「それまで　私は　ここで待っているから\n　時が来たら　あなたも　ここへ来て。\n　私と共に　帰りましょう！": "D'ici la, je t'attendrai ici. Quand le moment\nsera venu, viens me retrouver. Revenons\nensemble !"
@@ -381,7 +381,7 @@
         "「……偽りの勇者は　滅ぼされ\n　世界の秘密は　明かされた。\n　すべては　定められし運命のままに……。": "...Le faux Heros a ete vaincu, et les secrets\ndu monde ont ete reveles. Tout s'est deroule\ncomme le destin l'avait prevu..."
     },
     "66480": {
-        "「そして　このブレイブストーンが\n　チカラを取り戻す時　ついに\n　真のレンダーシアへの扉が　開く……。": "Et lorsque cette Pierre Courageuse retrouvera\nsa puissance, enfin la Porte vers T. Lendarsia\ns'ouvrira..."
+        "「そして　このブレイブストーンが\n　チカラを取り戻す時　ついに\n　真のレンダーシアへの扉が　開く……。": "Et lorsque cette Pierre du Brave retrouvera\nson pouvoir, la porte vers la veritable\nLendersia s'ouvrira enfin..."
     },
     "66481": {
         "「……私の目的が　果たされるには\n　まだ　しばらく時間が　かかりそうですね。": "Mon objectif ne sera pas atteint de sitot, on\ndirait."
