@@ -138,7 +138,7 @@
         "「ところが　私の功績は　先代しか知らぬ\n　機密事項ゆえ……あいつは　くじ引きで\n　推挙されたなどと　ウワサが立ってなぁ……。": "Cependant, mes accomplissements ne sont connus\nque de l'ancien dirigeant en raison de la\nconfidentialite de l'affaire... Des rumeurs<br>circulent, disant qu'il a ete promu grace a un\ntirage au sort..."
     },
     "288768": {
-        "「不安になり　真偽を確かめるため　先代を\n　問い詰めたのだが　はぐらかされるばかりで\n　真相は　いまだ　闇の中さ……。": "Pris d'inquietude, j'ai interroge l'ancien\npour connaitre la verite, mais il n'a fait que\ndetourner la question...<br>Le mystere reste\nencore entier."
+        "「不安になり　真偽を確かめるため　先代を\n　問い詰めたのだが　はぐらかされるばかりで\n　真相は　いまだ　闇の中さ……。": "Pris d'inquietude, j'ai interroge l'ancien\npour connaitre la verite, mais il n'a fait que\ndetourner la question...\n<br>\nLe mystere reste\nencore entier."
     },
     "288769": {
         "「本当に　くじで決まったのかもな……ははっ。\n　くじ運だけの　とんだ　ラッキーガールさ。": "Peut-etre que cela a vraiment ete decide par\ntirage au sort... Haha. Quel incroyable coup\nde chance pour DrangGar."
@@ -645,7 +645,7 @@
         "「あの日から……私自身に　変化が起こった。\n　意図せずして　聖天舎を裏切るような行動を\n　自然に　とるようになっていたのだ。": "Depuis ce jour-la... un changement s'est opere\nen moi. Sans le vouloir, j'ai commence a agir\nnaturellement d'une maniere qui trahissait le<br>Monastere."
     },
     "289033": {
-        "「まず　人知れず　悪神の火種や　真っ赤な石を\n　神代の遺構で　栽培することから始めた。\n　知りようもない知識が　頭の中にあったのだ。": "J'ai d'abord commence par cultiver, en secret,\nles Graines du Malin et les Pierres Ecarlates\ndans des ruines antiques.<br>J'avais en moi un\nsavoir que je n'aurais jamais du posseder."
+        "「まず　人知れず　悪神の火種や　真っ赤な石を\n　神代の遺構で　栽培することから始めた。\n　知りようもない知識が　頭の中にあったのだ。": "J'ai d'abord commence par cultiver, en secret,\nles Graines du Malin et les Pierres Ecarlates\ndans des ruines antiques.\n<br>\nJ'avais en moi un\nsavoir que je n'aurais jamais du posseder."
     },
     "289034": {
         "「…………あのとき　飲み下した\n　真っ赤な石の　せいかもしれない。": "...Cela peut etre a cause de la pierre rouge\nque j'ai avalee a ce moment-la."
@@ -1578,7 +1578,7 @@
         "「大魔王の呪いで　石にされたという　言い伝えを\n　そなたは　ずっと　疑問に思っていたはず。": "Il est certain que vous avez toujours eu des\ndoutes sur la legende disant que vous avez ete\ntransforme en pierre par la malediction du<br>Grand Roi Demon."
     },
     "289438": {
-        "「勇者に向けられた　大魔王の呪いであるならば\n　なぜ　兄のアシュレイだけが　助かったのか。\n　今　真実を見せよう……。": "Si la malediction du Grand Seigneur Demon\nvisait le Heros, pourquoi seul mon frere,\nAshley, y a-t-il echappe ?<br>Je vais te reveler\nla verite..."
+        "「勇者に向けられた　大魔王の呪いであるならば\n　なぜ　兄のアシュレイだけが　助かったのか。\n　今　真実を見せよう……。": "Si la malediction du Grand Seigneur Demon\nvisait le Heros, pourquoi seul mon frere,\nAshley, y a-t-il echappe ?\n<br>\nJe vais te reveler\nla verite..."
     },
     "289439": {
         "「……問題は　大魔王を討伐したあとじゃ。": "Le probleme se pose apres avoir vaincu le\nGrand Roi Demon."
