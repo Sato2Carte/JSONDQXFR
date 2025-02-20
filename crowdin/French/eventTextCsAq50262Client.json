@@ -45,7 +45,7 @@
         "「この石……じつは　未完成でしてね。\n　完成させるには　これを　偽りの世界への愛で\n　満たさなければ　ならないのです。": "Cette pierre... en realite, elle est\nincomplete. Pour la completer, elle doit etre\nremplie d'amour pour le Faux Monde."
     },
     "253764": {
-        "「偽りの世界への愛…… \n　それは言うなれば　この世界に生きる者たちの\n　偽りの世界を肯定する　心です。": "L'amour pour le Faux Monde...<br>En d'autres termes, c'est le coeur de ceux qui\ny vivent, acceptant et affirmant l'existence\nde ce monde."
+        "「偽りの世界への愛…… \n　それは言うなれば　この世界に生きる者たちの\n　偽りの世界を肯定する　心です。": "L'amour pour le Faux Monde...\n<br>\nEn d'autres termes, c'est le coeur de ceux qui\ny vivent, acceptant et affirmant l'existence\nde ce monde."
     },
     "253765": {
         "「愛だの心だの……正気か？\n　そんな　目に見えないものを　どうやって。": "L'amour, les sentiments... Es-tu serieux ?\nComment peux-tu compter sur des choses\ninvisibles ?"
@@ -78,7 +78,7 @@
         "<pc>は\n無垢なる原石（だいじなもの）を　手に入れた。<me 60>": "<pc> a obtenu Pure Gemstone (objets\ncles). <me 60>"
     },
     "253775": {
-        "「まず　偽りのメルン水車郷へ　行ってください。\n　そして　この偽りの世界をめぐり\n　無垢なる原石を　愛で満たしてください。": "Tout d'abord, rendez-vous a la Fausse Roue a\nAubes de Melun.<br>Puis, parcourez ce Faux Monde et impregnez la\npierre brute de purete avec de l'amour."
+        "「まず　偽りのメルン水車郷へ　行ってください。\n　そして　この偽りの世界をめぐり\n　無垢なる原石を　愛で満たしてください。": "Tout d'abord, rendez-vous a la Fausse Roue a\nAubes de Melun.\n<br>\nPuis, parcourez ce Faux Monde et impregnez la\npierre brute de purete avec de l'amour."
     },
     "253788": {
         "「おっ！　もう　帰ってきたか。\n　思ったより　早かったな。": "Oh ! Tu es deja de retour. C'etait plus rapide\nque je ne le pensais."
@@ -396,7 +396,7 @@
         "「滅ぶだと？　そんな　危険な儀式をする理由が\n　どこに　あるというんだ。今すぐ　中止しろ！": "Hurubu da to? Pourquoi faire un rituel aussi\ndangereux ? Arretez-le immediatement !"
     },
     "253893": {
-        "「ご存じでしょうが　この偽りの世界は\n　創造主も消え　未完成の場所も　多い……。\n　存在そのものが　きわめて　不安定なのです。": "Comme vous le savez, ce Faux Monde a perdu son\ncreateur, laissant de nombreux endroits\ninacheves... <br>Son existence meme est\nextremement instable."
+        "「ご存じでしょうが　この偽りの世界は\n　創造主も消え　未完成の場所も　多い……。\n　存在そのものが　きわめて　不安定なのです。": "Comme vous le savez, ce Faux Monde a perdu son\ncreateur, laissant de nombreux endroits\ninacheves... \n<br>\nSon existence meme est\nextremement instable."
     },
     "253894": {
         "「このまま　放置すれば　隣接する他の世界にも\n　様々な悪影響を　およぼしかねない……。": "Si nous laissons les choses ainsi, cela\npourrait avoir divers effets nefastes sur les\nautres mondes adjacents..."
