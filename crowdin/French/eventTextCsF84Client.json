@@ -1128,7 +1128,7 @@
         "「管理コンピューター・ペコリア！\n　複製体　Ｃ１４１の　居場所を　教えてくれ！": "Ordinateur de gestion Pekoria ! Dis-moi ou se\ntrouve la replique C141 !"
     },
     "201834": {
-        "「……なるほど。やはり　そうか！\n　ボクの複製体　Ｃ１４１が　いるのは\n　この　真下にある　無限動力炉だ！": "Je vois. C'est donc ca ! Mon clone, le C141,\nse trouve dans le reacteur a energie infinie\nsous ce T. !"
+        "「……なるほど。やはり　そうか！\n　ボクの複製体　Ｃ１４１が　いるのは\n　この　真下にある　無限動力炉だ！": "...Je vois. Je m'en doutais ! Mon clone, C141,\nse trouve juste en dessous, dans le reacteur a\nenergie infinie !"
     },
     "201835": {
         "「……無限動力炉に　停止命令を出して\n　みんなに　奉仕室で　エネルギーを供給しろと\n　命令していたのは　あいつのはずだ。": "C'est lui qui a donne l'ordre d'arreter le\nreacteur a energie infinie et d'ordonner a\ntout le monde de fournir de l'energie dans la<br>salle de service."
@@ -1689,7 +1689,7 @@
         "「このところ　かの国の民が　相次いで\n　失踪しているとか。\n　あなたに　もしものことがあったら……。": "Ces derniers temps, il parait que les\nhabitants de ce pays disparaissent les uns\napres les autres. Si jamais quelque chose<br>devait t'arriver..."
     },
     "202021": {
-        "「もし　そのうわさが　真実であるなら\n　我が友リンジャーラと　この俺で\n　みごと　解決してやらねばならないな。": "Si cette rumeur concernant T. est vraie, alors\nmon ami Linjara et moi devons absolument la\nresoudre brillamment."
+        "「もし　そのうわさが　真実であるなら\n　我が友リンジャーラと　この俺で\n　みごと　解決してやらねばならないな。": "Si cette rumeur est vraie, mon ami Linjara et\nmoi devons absolument resoudre ce probleme."
     },
     "202022": {
         "「事件が片付いた暁には　みやげに\n　海洋都市リンジャハル名物の　新鮮なカニを\n　たっぷり　持ちかえってやろう！": "Une fois que l'affaire sera reglee, je\nramenerai en souvenir une bonne quantite de\ncrabes frais, specialite de la cite marine de<br>Linjaharu !"
@@ -1725,7 +1725,7 @@
         "「しかし……ならば　どうやって\n　パドレ様は　崩壊したリンジャハルから\n　生還なされたのだ？": "Cependant... dans ce cas, comment Padre-sama\na-t-il pu survivre a la destruction de\nLintahhal ?"
     },
     "202033": {
-        "「あの蝶を　追いかければ\n　真相が　わかるはずだ。\n　行ってみよう　<pc>殿！": "Si nous poursuivons ce papillon, nous devrions\netre en mesure de comprendre T. Sou. Allons-y,\n<pc>-dono !"
+        "「あの蝶を　追いかければ\n　真相が　わかるはずだ。\n　行ってみよう　<pc>殿！": "Si nous suivons ce papillon, nous devrions\ndecouvrir la verite. Allons-y, <pc> !"
     },
     "202034": {
         "「……あそこにいる　蝶に触れれば\n　海洋都市リンジャハルでの　戦いの後\n　パドレ様に　何が起きたのか　わかるはず……。": "Si tu touches ce papillon la-bas, apres la\nbataille de la cite marine de Linjahal, tu\ndevrais comprendre ce qui est arrive a<br>Padre-sama..."
