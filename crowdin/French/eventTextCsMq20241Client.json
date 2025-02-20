@@ -30,7 +30,7 @@
         "「お初に　お目にかかります　賢者ルシェンダ様。\n　私は　クロウズ。しがない　旅人です。": "Enchante de faire votre connaissance, Sage\nLushenda-sama. Je suis Claws, un simple\nvoyageur."
     },
     "58227": {
-        "「そなたが　クロウズか。話は聞いている。\n　姫が　偽のレンダーシアより　戻ってくる際\n　いろいろと　手を貸してくれたと。": "Tu es donc Claws ?<br>J'ai entendu parler de toi. On m'a dit que tu\navais apporte ton aide lors du retour de la\nprincesse depuis le F.Lendersia."
+        "「そなたが　クロウズか。話は聞いている。\n　姫が　偽のレンダーシアより　戻ってくる際\n　いろいろと　手を貸してくれたと。": "Tu es donc Claws ?\n<br>\nJ'ai entendu parler de toi. On m'a dit que tu\navais apporte ton aide lors du retour de la\nprincesse depuis le F.Lendersia."
     },
     "58228": {
         "「ふふ。昔話に　興味はありませんね。\n　今日は　あなた方に\n　お渡ししたいものがあって来ました。": "Fufu. Vous n'etes pas interesses par les\ncontes anciens, n'est-ce pas ? Aujourd'hui, je\nsuis venu pour vous remettre quelque chose."
@@ -258,7 +258,7 @@
         "「<pc>。どうだ？\n　飛竜を見つけることができたか？<yesno><close>": "<pc>. Alors, comment ca se passe ? As-tu\nreussi a trouver le dragon volant ?\n<yesno><close>"
     },
     "87378": {
-        "「ふふ。顔が　にやけているぞ。\n　まったく　ウソをつくのが　下手なヤツだ。\n　さあ　真実を話すがいい。": "Fufu. Ton visage trahit tes pensees. Tu es\nvraiment mauvais pour mentir. Allez, T.\nParle-moi franchement."
+        "「ふふ。顔が　にやけているぞ。\n　まったく　ウソをつくのが　下手なヤツだ。\n　さあ　真実を話すがいい。": "Hehe. Regarde ton sourire. Tu es vraiment\nmauvais pour mentir. Allez, dis la verite."
     },
     "87379": {
         "「……ふむ。飛竜の峰という場所に現れた\n　巨大な白き竜の導きのもと\n　飛竜を手に入れることが　できたと……。": "Hmm. A l'endroit nomme Dragon Peak, sous la\nguidance d'un immense dragon blanc, vous avez\nreussi a obtenir un dragon volant..."
