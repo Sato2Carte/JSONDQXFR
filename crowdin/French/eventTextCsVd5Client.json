@@ -1920,7 +1920,7 @@
         "<cs_pchero>の意識が　遠のいていく……。": "La conscience de <cs_pchero> commence a\ns'evanouir..."
     },
     "266330": {
-        "「貴様……いいかげんなことを　述べるな。 \n　この者は何者か　真の思いを明らかにせよ！": "Toi... ne raconte pas n'importe quoi. Qui est\ncette personne ? Clarifie tes intentions, T. !"
+        "「貴様……いいかげんなことを　述べるな。 \n　この者は何者か　真の思いを明らかにせよ！": "Toi... ne dis pas n'importe quoi. Revele qui\nest vraiment cette personne et ses veritables\nintentions !"
     },
     "266331": {
         "「こんな　おいらでも……\n　弟だって　言ってくれるの？\n<select_nc>\nもちろん！\nずっと一緒だ\nエテーネ村に帰ろう\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case 3>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Meme moi...... Tu me consideres comme ton\nfrere ? <select_nc> Bien sur ! Pour toujours\nensemble Rentrons au village d'Ethene<br><select_end> <case 1> <close> <case 2> <close>\n<case 3> <close> <case_cancel> <close><case_end>"
