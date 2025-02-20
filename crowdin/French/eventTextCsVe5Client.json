@@ -546,7 +546,7 @@
         "「この際だから　言っておくけど！\n　あたしを　さんざん　こき使っておいて\n　帰ってこなかったりしたら　許さないんだから。": "Puisque c'est l'occasion, je vais te le dire !\nApres m'avoir exploitee autant, si tu ne\nreviens pas, je ne te le pardonnerai pas."
     },
     "271614": {
-        "「これは命令よ！　従わなかったら\n　魔王だろうと　真っ黒コゲになるまで\n　火あぶりにするわよっ！": "C'est un ordre ! Si tu ne m'obeis pas, je te\nrotirai au feu jusqu'a ce que tu sois\ncarbonise, meme si tu es le Roi Demon, T. !"
+        "「これは命令よ！　従わなかったら\n　魔王だろうと　真っ黒コゲになるまで\n　火あぶりにするわよっ！": "C'est un ordre ! Si tu n'obeis pas, meme un\nseigneur demon finira en cendres, completement\ncarbonise !"
     },
     "271615": {
         "「ふふっ。それは　勘弁願いたいな。": "Fufu. Je prefererais eviter ca."
@@ -783,7 +783,7 @@
         "「だが　ふたつの世界の　更なる友好を目指すには \n　お前を　魔界にしばりつけて　いつまでも\n　頼ってばかりいたんじゃダメだ。": "Cependant, pour viser une amitie encore plus\ngrande entre nos deux mondes, nous ne pouvons\npas nous contenter de te lier au monde des<br>demons et de toujours dependre de toi."
     },
     "271693": {
-        "「ひとりひとりが　自分の意思で\n　異なる世界の者と交わり　対等な関係を\n　結んでこそ　真の協調の世が訪れる。": "Chacun, de son propre gre, doit interagir avec\nceux des mondes differents et etablir une\nrelation d'egalite pour qu'un monde de<br>cooperation T. puisse advenir."
+        "「ひとりひとりが　自分の意思で\n　異なる世界の者と交わり　対等な関係を\n　結んでこそ　真の協調の世が訪れる。": "Un monde harmonieux naitra quand chacun\nchoisira de creer des liens egaux avec les\netres d'un autre monde."
     },
     "271694": {
         "「だから　俺も……\n　お前とは　ちゃんとした関係に　なりたいんだ。\n　異なる世界の　対等な友人として。": "Donc, moi aussi... Je veux etablir une vraie\nrelation avec toi. En tant qu'amis egaux\nvenant de mondes differents."
@@ -1071,7 +1071,7 @@
         "「……だけど　そのとなりには　君がいた。\n　さらに興味深い　未知の存在がね。": "...Mais a cote de cela, il y avait toi. Une\nexistence inconnue encore plus fascinante."
     },
     "272551": {
-        "「真の大魔王は　未だ　選ばれていない。\n　だったら　ここで　決めてしまおうじゃないか。": "T. Le Grand Roi Demon n'a pas encore ete\nchoisi. Alors, decidons-le ici et maintenant."
+        "「真の大魔王は　未だ　選ばれていない。\n　だったら　ここで　決めてしまおうじゃないか。": "Le veritable Grand Roi Demon n'a pas encore\nete choisi. Alors, decidons-le ici et\nmaintenant."
     },
     "272552": {
         "「今こそ　君が望んだ　大魔王にしてあげよう。\n　供物として　その身を捧げ……\n　大いなる闇の根源のチカラ　宿すがいい！": "Maintenant, je vais realiser ton souhait de\ndevenir un grand Roi Demon. Sacrifie-toi comme\nune offrande... et accueille le pouvoir de la<br>source de la grande obscurite !"
@@ -1104,10 +1104,10 @@
         "「魔界にあまねく憎悪を　炎の翼となして\n　アストルティアを支配し　魔界を救ってやる！": "Je transformerai la haine qui regne dans le\nmonde demoniaque en ailes de feu, je\ncontrolerai Astoltia et sauverai le monde<br>demoniaque !"
     },
     "272562": {
-        "「俺こそがッ　真なる大魔王だッ！！": "Je suis le grand roi demon T. !!"
+        "「俺こそがッ　真なる大魔王だッ！！": "C'est moi... le veritable Grand Roi Demon !!"
     },
     "272563": {
-        "「この世に　大魔王は　ふたりもいらない。\n　心ゆくまで　憎み合い　殺し合い……\n　自分こそが　真の大魔王と証明するがいい！": "Dans ce monde, il ne peut y avoir deux Grands\nSeigneurs Demoniaques. Haissez-vous a coeur\njoie, combattez jusqu'a la mort... Montrez que<br>c'est vous le veritable Grand Seigneur\nDemoniaque T. !"
+        "「この世に　大魔王は　ふたりもいらない。\n　心ゆくまで　憎み合い　殺し合い……\n　自分こそが　真の大魔王と証明するがいい！": "Il n'y a pas de place pour deux Grands Rois\nDemons en ce monde.\n<br>\nHaissez-vous, battez-vous jusqu'a la mort...\net prouvez qui est le veritable Grand Roi\nDemon !"
     },
     "272564": {
         "「我が名は　大魔王ユシュカ！ \n　偽りの大魔王よ……\n　我が威に服し　こうべを垂れよッ！": "Je suis le Grand Roi Demon Yushka ! Faux Grand\nRoi Demon... Soumets-toi a ma puissance et\nincline la tete !!"
@@ -1248,7 +1248,7 @@
         "「……どうあがこうと　結果は同じさ。\n　でも　協調という　概念の可能性……\n　もう少しだけ　見てみたくなったな。": "Peu importe nos efforts, le resultat sera le\nmeme. Mais... la possibilite du concept de\ncooperation... Je suis devenu un peu curieux<br>de voir cela de plus pres."
     },
     "272610": {
-        "「僕のもとへおいで。\n　わずかな光すら　届くことのない\n　この世界の　真なる深淵へ……。": "Viens a moi. Dans ce monde ou meme la plus\nfaible lumiere ne parvient pas, vers ce Ravin\nappele T."
+        "「僕のもとへおいで。\n　わずかな光すら　届くことのない\n　この世界の　真なる深淵へ……。": "Viens a moi. \nVers les abysses ou aucune lumiere\nn'atteint..."
     },
     "272611": {
         "「ありがとう　<cs_pchero>殿……。\n　やはり　君は　私たちにとって\n　なくてはならない存在だったのだ。": "Merci, <cs_pchero> dono... Tu es vraiment\nquelqu'un d'indispensable pour nous."
@@ -1395,7 +1395,7 @@
         "<center>そして　我は　到達した。\n光と闇の交わりし者が　もたらした\n協調の真髄に。": "Et ainsi, je suis arrive. Au coeur de la\ncooperation apportee par celui qui mele la\nlumiere et les tenebres."
     },
     "272665": {
-        "「協調の真髄だと……！？": "Le T. de cooperation. La moelle... !?"
+        "「協調の真髄だと……！？": "L'essence meme de l'harmonie...!?"
     },
     "272666": {
         "<center>光あるところ　必ず　闇はある。\n強い光で在るほど　影もまた濃くなり\n闇は　より一層　深くなる。": "La ou il y a de la lumiere, il y a forcement\ndes tenebres. Plus la lumiere est intense,\nplus l'ombre devient dense et les tenebres<br>s'approfondissent encore davantage."
@@ -1440,7 +1440,7 @@
         "「今　それを考えてるんだ！\n　何か……何かが　あるはずだ。\n　奴に対抗するための　方法が……！": "Je suis en train d'y reflechir maintenant ! Il\ndoit y avoir... quelque chose. Une methode\npour contrer cet ennemi... !"
     },
     "272680": {
-        "<center>我は　真の協調を　ここに得たり！！\nヌハハハハハハハッ……！！": "Je suis T. J'ai obtenu la cooperation ici !\nNuhahahahaha... !!"
+        "<center>我は　真の協調を　ここに得たり！！\nヌハハハハハハハッ……！！": "J'ai enfin atteint la veritable harmonie !!\nNuhahahahaha...!!"
     },
     "272681": {
         "<center>……聞け。\nアストルティアの子らよ。": "...... Ecoutez. Enfants d'Astoltia."
@@ -1533,7 +1533,7 @@
         "「魔界とアストルティアのチカラ……\n　今こそ　ひとつに！": "Le pouvoir du Monde des Demons et\nd'Astoltia... Unissons-les maintenant !"
     },
     "272711": {
-        "「これが　真の協調だッ！": "Voila ce qu'on appelle la T. Collaboration !"
+        "「これが　真の協調だッ！": "C'est ca, la veritable harmonie !"
     },
     "272712": {
         "「滅びよ！\n　悪しき闇の根源　絶対滅神ジャゴヌバ！": "Peris ! Source malefique des tenebres,\nJagonuba, le Destructeur Absolu !"
