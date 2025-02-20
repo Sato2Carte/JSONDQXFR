@@ -99,7 +99,7 @@
         "「……ってことは　<pc>さんは\n　元の世界に戻る方法を　見つけたのね！\n　くわしく　教えてくれる！？": "Donc, <pc>-san, tu as trouve un moyen de\nretourner dans ton monde d'origine ! Peux-tu\nnous en dire plus en detail ?"
     },
     "64415": {
-        "<pc>は　真のレンダーシアに戻る方法と\nそこで見てきたことを　セラフィに説明した。": "<pc> expliqua a Serafi comment retourner\na T. Lendarsia et ce qu'il avait vu la-bas."
+        "<pc>は　真のレンダーシアに戻る方法と\nそこで見てきたことを　セラフィに説明した。": "<if_woman><pc> expliqua a Serafi comment retourner\ndans la veritable Lendersia et ce qu'elle y\navait vu.<else><pc> expliqua a Serafi comment retourner\ndans la veritable Lendersia et ce qu'il y\navait vu.<endif>"
     },
     "64416": {
         "「へえー！　その…ぶれいぶすとーん？\n　っていうのを使えば　元の世界に戻れるんだね。": "He ! Alors… cette… Brave Stone ? En\nl'utilisant, tu peux retourner dans ton monde\nd'origine."
