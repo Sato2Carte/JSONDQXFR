@@ -21,7 +21,7 @@
         "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special."
     },
     "14702": {
-        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu'un jour, je pourrais monter\nsur le dos de Galapagod, le protecteur du\nvillage...<br>Vivre longtemps reserve bien des surprises."
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu'un jour, je pourrais monter\nsur le dos de Galapagod, le protecteur du\nvillage...\n<br>\nVivre longtemps reserve bien des surprises."
     },
     "14703": {
         "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai> ! Nous devons egalement\nemmener les autres."
@@ -111,7 +111,7 @@
         "「……と　<kyodai>は　一緒ではないのか？\n　やれやれ。どうでもいい時には　顔を出すクセに\n　肝心な時には　おらんのだな。": "<kyodai> n'est pas avec toi ?\nEh bien, eh bien. Toujours la quand ca ne\ncompte pas, mais jamais quand on en a besoin."
     },
     "14761": {
-        "「すまぬが　<kyodai>を　呼んできてくれ。\n　お前たち<pc_rel3>が　そろっている時に\n　話したいことがあるのじゃ。": "Desole, mais tu vas devoir aller chercher\n<kyodai>.<br>J'ai quelque chose a vous dire a tous\nensemble."
+        "「すまぬが　<kyodai>を　呼んできてくれ。\n　お前たち<pc_rel3>が　そろっている時に\n　話したいことがあるのじゃ。": "Desole, mais tu vas devoir aller chercher\n<kyodai>.\n<br>\nJ'ai quelque chose a vous dire a tous\nensemble."
     },
     "14764": {
         "「ありがとうございます！\n　では　失礼して……\n　さっそく　作らせていただきますね。": "Merci beaucoup! Eh bien, si vous permettez…… \nJe vais m'y mettre immediatement."
@@ -234,7 +234,7 @@
         "「エテーネの民は　死に絶えるだろう……\n　だが　光明が　残されていないわけではない！": "Le peuple d'Ethene perira surement...\nCependant, tout espoir n'est pas perdu !"
     },
     "14850": {
-        "「北の　清き水の洞くつに咲く　伝説の霊草\n　テンスの花があれば　滅びの運命から\n　逃れられる……　ということじゃ！": "Si nous pouvions obtenir la legendaire plante\nspirituelle, la Fleur de Tens, qui fleurit\ndans la Grotte de Clearwater au nord, nous<br>pourrions echapper a notre funeste destin...\ntelle est la legende !"
+        "「北の　清き水の洞くつに咲く　伝説の霊草\n　テンスの花があれば　滅びの運命から\n　逃れられる……　ということじゃ！": "Si nous pouvions obtenir la legendaire plante\nspirituelle, la Fleur de Tens, qui fleurit\ndans la Grotte de Clearwater au nord, nous\n<br>\npourrions echapper a notre funeste destin...\ntelle est la legende !"
     },
     "14854": {
         "「テンスの花を　採りにいくのは\n　わしの孫のシンイと　<pc>！": "C'est a mon petit-fils Shini et <pc>\nd'aller cueillir la Fleur de Tens !"
@@ -252,7 +252,7 @@
         "「ふうっ……。": "Ouf..."
     },
     "14869": {
-        "「さあ　急ぎましょう！　清き水の洞くつは\n　育みの大地よりも　はるか遠い　北にあります。\n　私の家で祈りを捧げて　すぐに出発しましょう！": "Allez, depechons-nous ! La grotte Clearwater\nse trouve bien plus loin au nord que la terre\nnourriciere. Prions chez moi et partons<br>immediatement !"
+        "「さあ　急ぎましょう！　清き水の洞くつは\n　育みの大地よりも　はるか遠い　北にあります。\n　私の家で祈りを捧げて　すぐに出発しましょう！": "Allez, depechons-nous ! La grotte Clearwater\nse trouve bien plus loin au nord que la terre\nnourriciere. Prions chez moi et partons\n<br>\nimmediatement !"
     },
     "14900": {
         "｢テキスト削除": "Delete text"
@@ -342,7 +342,7 @@
         "「だが　ネズミ１匹　逃がしたところで\n　この冥王ネルゲルを　阻むことはできぬ。": "Mais laisser echapper un seul rat ne pourra\npas entraver le Roi des ombres, Nergel."
     },
     "14929": {
-        "「冥王とは　あまねく　死を統べる者。\n　生きとし生ける者が　死から逃れられぬように\n　何人たりとも　我からは　逃れられぬ。": "Le Roi des Ombres est celui qui regne sur la\nmort omnipresente. De meme que nul etre vivant\nne peut echapper a la mort, personne ne peut<br>m'echapper."
+        "「冥王とは　あまねく　死を統べる者。\n　生きとし生ける者が　死から逃れられぬように\n　何人たりとも　我からは　逃れられぬ。": "Le Roi des Ombres est celui qui regne sur la\nmort omnipresente. De meme que nul etre vivant\nne peut echapper a la mort, personne ne peut\n<br>\nm'echapper."
     },
     "14930": {
         "「いまわしき　時渡りの術者よ！\n　灼熱の獄炎で　その身を　焼き尽くしてやろう！": "Maudit etre du temps !\nJe vais reduire ton corps en cendres dans les\nflammes de l’enfer !"
@@ -468,10 +468,10 @@
         "「古い書物によると……": "Selon un vieux manuscrit..."
     },
     "14971": {
-        "「私たち　エテーネの民は　はるか昔\n　自由に時を超えられる　時渡りの術という能力を\n　持っていたそうです。": "Nous, le peuple d'Ethene, possedions il y a\nfort longtemps la capacite de traverser le\ntemps librement grace a une technique appelee<br>l'art du voyage temporel."
+        "「私たち　エテーネの民は　はるか昔\n　自由に時を超えられる　時渡りの術という能力を\n　持っていたそうです。": "Nous, le peuple d'Ethene, possedions il y a\nfort longtemps la capacite de traverser le\ntemps librement grace a une technique appelee\n<br>\nl'art du voyage temporel."
     },
     "14972": {
-        "「ですが　時渡りの術を使える者は\n　時代と共に　少なくなっていき\n　数百年前に　完全に失われたのだとか……。": "Cependant, ceux qui pouvaient utiliser l'art\ndu voyage temporel sont devenus de plus en\nplus rares avec le temps, et il parait que cet<br>art a ete completement perdu il y a plusieurs\ncentaines d'annees..."
+        "「ですが　時渡りの術を使える者は\n　時代と共に　少なくなっていき\n　数百年前に　完全に失われたのだとか……。": "Cependant, ceux qui pouvaient utiliser l'art\ndu voyage temporel sont devenus de plus en\nplus rares avec le temps, et il parait que cet\n<br>\nart a ete completement perdu il y a plusieurs\ncentaines d'annees..."
     },
     "14973": {
         "「そうだったんだ……。\n　今はもうない能力なのに　そのために\n　こんな目にあわされるなんて　あんまりだよ！": "Je vois... C'est vraiment injuste de subir ca\npour un pouvoir qu'on n'a meme plus !"
@@ -708,10 +708,10 @@
         "<center>今　空には　ふたつの太陽が　昇っている。\nふたつめの太陽……　それが現れてから\nこの世は　地獄と化してしまったのだ。": "Deux soleils se sont leves dans le ciel.\nDepuis cet evenement, ce monde est devenu un\nveritable enfer."
     },
     "15056": {
-        "<center>いまわしき　ふたつめの太陽は　自在に空を駆け\n大地を焼き　海を干上がらせ\n人々を　灼熱の絶望に　おとしいれた。": "Le maudit second soleil parcourait librement\nle ciel, brulant la terre, assechant les mers\net plongeant les gens dans un desespoir<br>brulant."
+        "<center>いまわしき　ふたつめの太陽は　自在に空を駆け\n大地を焼き　海を干上がらせ\n人々を　灼熱の絶望に　おとしいれた。": "Le maudit second soleil parcourait librement\nle ciel, brulant la terre, assechant les mers\net plongeant les gens dans un desespoir\n<br>\nbrulant."
     },
     "15057": {
-        "<center>太陽が　ふたつになった理由など　知る由もない。\nわかっていることは　地上に　生きる者すべてが\n滅亡しようとしているということだけだ。": "Nous ne savons pas pourquoi le soleil est\ndevenu double. Ce que nous savons, c'est que\ntous les etres vivants sur terre sont sur le<br>point de disparaitre."
+        "<center>太陽が　ふたつになった理由など　知る由もない。\nわかっていることは　地上に　生きる者すべてが\n滅亡しようとしているということだけだ。": "Nous ne savons pas pourquoi le soleil est\ndevenu double. Ce que nous savons, c'est que\ntous les etres vivants sur terre sont sur le\n<br>\npoint de disparaitre."
     },
     "15058": {
         "「こんな所にも　いしずえの森と同じような\n　壁画があったのですね。": "Il y avait donc aussi une fresque semblable a\ncelle de la Foret de la Pierre Angulaire ici."
@@ -726,7 +726,7 @@
         "「人間以外の種族が　本当にいたのだとしたら\n　彼らは　どこに行ってしまったのだろうと……。": "Si d'autres races que les humains ont\nreellement existe, je me demande ou elles ont\nbien pu disparaitre..."
     },
     "15062": {
-        "「もしかしたら　ここに書かれているとおり\n　ほとんどの者たちが滅亡し……　私たち\n　人間だけが　生き残ったのかもしれませんね。": "Peut-etre que, comme il est ecrit ici, la\nplupart des etres ont peri... et que nous, les\nhumains, sommes peut-etre les seuls a avoir<br>survecu."
+        "「もしかしたら　ここに書かれているとおり\n　ほとんどの者たちが滅亡し……　私たち\n　人間だけが　生き残ったのかもしれませんね。": "Peut-etre que, comme il est ecrit ici, la\nplupart des etres ont peri... et que nous, les\nhumains, sommes peut-etre les seuls a avoir\n<br>\nsurvecu."
     },
     "15064": {
         "「テキスト削除": "Delete text"
@@ -951,7 +951,7 @@
         "「静まれい！": "Silence !"
     },
     "15141": {
-        "「さよう。テンスの花は　われらが　一度も\n　足を踏み入れたことのない秘境に咲く。\n　ゆえに　誰が採りにいくかは　わしが決める！": "En effet. La Fleur de Tens pousse dans un lieu\nsecret ou nous n'avons jamais mis les pieds.\nC'est pourquoi c'est moi qui deciderai qui ira<br>la cueillir !"
+        "「さよう。テンスの花は　われらが　一度も\n　足を踏み入れたことのない秘境に咲く。\n　ゆえに　誰が採りにいくかは　わしが決める！": "En effet. La Fleur de Tens pousse dans un lieu\nsecret ou nous n'avons jamais mis les pieds.\nC'est pourquoi c'est moi qui deciderai qui ira\n<br>\nla cueillir !"
     },
     "15143": {
         "「なん…じゃと……？": "Que... que se passe-t-il...?"
@@ -1026,7 +1026,7 @@
         "「魔物が……　魔物が　村に入ってきた……！": "Les monstres... les monstres sont entres dans\nle village... !"
     },
     "24633": {
-        "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "......Qu'allons-nous devenir ? Abba a dit\nque tout irait bien, mais et si, comme le\npresage le dit, nous etions voues a<br>disparaitre... ?"
+        "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "......Qu'allons-nous devenir ? Abba a dit\nque tout irait bien, mais et si, comme le\npresage le dit, nous etions voues a\n<br>\ndisparaitre... ?"
     },
     "24634": {
         "「そうだよ。\n　アバさまの結界が　破られるなんて……。": "C'est vrai. Que la barriere de Abba\npuisse etre brisee..."
@@ -1050,7 +1050,7 @@
         "<pc>は\n冒険の書（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Journal d'Aventure (objet\ncles) ! <me 60>"
     },
     "29477": {
-        "<center>神は　その書を持つ　あなたの行いを\n常に見ています。教会で祈らずとも　今後\nあなたの行いは　すべて　その書に記録されます。": "Dieu observe constamment vos actions a travers\nce livre. Meme si vous ne priez pas a\nl'eglise, toutes vos actions seront desormais<br>enregistrees dans ce livre."
+        "<center>神は　その書を持つ　あなたの行いを\n常に見ています。教会で祈らずとも　今後\nあなたの行いは　すべて　その書に記録されます。": "Dieu observe constamment vos actions a travers\nce livre. Meme si vous ne priez pas a\nl'eglise, toutes vos actions seront desormais\n<br>\nenregistrees dans ce livre."
     },
     "29478": {
         "<center>そして　探すのです。\nあなたの使命を。\n生まれ変わることの意味を……。": "Et ainsi, cherchez. Votre mission. Le sens de\nvotre renaissance..."
