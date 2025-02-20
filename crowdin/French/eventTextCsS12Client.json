@@ -15,10 +15,10 @@
         "「大変だ！　姫さまが！　アンルシア姫さまが\n　お戻りになられたぞーっ！！": "C'est incroyable ! La princesse ! La princesse\nAnlucia est de retour !!"
     },
     "53358": {
-        "「……ふふっ。\n　どうやら　ちゃんと　真の世界に\n　到着できたようですね。": "... Fufufu. On dirait que nous avons reussi a\narriver dans le monde de T. sans encombre."
+        "「……ふふっ。\n　どうやら　ちゃんと　真の世界に\n　到着できたようですね。": "...Hehe. On dirait que tu es bien arrive dans\nle veritable monde."
     },
     "53359": {
-        "「はい。この城こそが　私が生まれ育った場所。\n　真のグランゼドーラに　間違いありません。": "Oui. Ce chateau est bien l'endroit ou je suis\nne et ai grandi. Il s'agit sans aucun doute de\nT. G. LMP Zedora."
+        "「はい。この城こそが　私が生まれ育った場所。\n　真のグランゼドーラに　間違いありません。": "Oui. Ce chateau est l'endroit ou je suis nee\net ai grandi. C'est bien le veritable Grand\nZedora."
     },
     "53360": {
         "「ア…　アンルシア……！": "Ah... Anlucia... !"
@@ -90,7 +90,7 @@
         "「どうだ？　<pc>。\n　このレンダーシアをめぐり　怪しい現象が\n　起きておらぬか　調査してきてくれんか？<yesno><close>": "Comment ca se presente, <pc> ? Peux-tu\nenqueter sur les evenements suspects qui se\nderoulent autour de Rendasia ? <yesno><close>"
     },
     "53385": {
-        "「ふむ。姫の守りに徹したいと言うのか。\n　だが　アンルシア姫のことは　我らにまかせよ。\n　そなたには　他の者に　できぬことを頼みたい。": "Hmph... Tu veux te consacrer entierement a la\nprotection de la princesse ? Laisse-nous\nveiller sur la princesse Anlucia.<br>J'ai une tache que toi seul peut accomplir."
+        "「ふむ。姫の守りに徹したいと言うのか。\n　だが　アンルシア姫のことは　我らにまかせよ。\n　そなたには　他の者に　できぬことを頼みたい。": "Hmph... Tu veux te consacrer entierement a la\nprotection de la princesse ? Laisse-nous\nveiller sur la princesse Anlucia.\n<br>\nJ'ai une tache que toi seul peut accomplir."
     },
     "53387": {
         "「これを　そなたに渡しておこう。\n　運命の振り子と呼ばれるものでな。\n　持つ者を　運命の特異点に導くという……。": "Je vais te remettre ceci. C'est ce qu'on\nappelle le Pendulum of Fate. On dit qu'il\nguide celui qui le possede vers le point<br>singulier du destin..."
@@ -144,7 +144,7 @@
         "「あまり知られていないことですが\n　あれは　いにしえの勇者が　その地を守るために\n　勇者のチカラを込めて作った　石塔なのです。": "Il est peu connu que ce sont des tours de\npierre creees par un heros ancien pour\nproteger cette terre, impregnees de la<br>puissance du heros."
     },
     "53408": {
-        "「ブレイブストーンを持って　その石塔を調べれば\n　勇者のチカラが手助けしてくれ　真の世界と\n　偽りの世界を　結んでくれるかもしれませんね。": "Si tu examines cette tour de pierre en portant\nla Pierre du Brave.<br>La puissance du Heros pourrait t'aider a\nrelier le vrai monde et le faux."
+        "「ブレイブストーンを持って　その石塔を調べれば\n　勇者のチカラが手助けしてくれ　真の世界と\n　偽りの世界を　結んでくれるかもしれませんね。": "Si tu examines cette tour de pierre en portant\nla Pierre du Brave.\n<br>\nLa puissance du Heros pourrait t'aider a\nrelier le vrai monde et le faux."
     },
     "53409": {
         "「さて……。<pc>さんの　元気な顔も\n　見られましたし　私も　この城を出て\n　自分の目的を　果たしにいくとしましょうか。": "Alors... J'ai pu voir le visage enjoue de\n<pc>-san, et il est temps pour moi de\nquitter ce chateau pour accomplir mon propre<br>objectif."
