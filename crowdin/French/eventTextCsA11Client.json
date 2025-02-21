@@ -57,13 +57,13 @@
         "「あはは……　ごめんなさい～！！": "Ah ah... desole !!"
     },
     "14715": {
-        "「<pc>！　<pc>っ！\n　いないのかい？": "<pc> ! <pc> ?"
+        "「<pc>！　<pc>っ！\n　いないのかい？": "He <pc> ! <pc> ?"
     },
     "14716": {
-        "「おや　まだ寝てたのかい？\n　あんたにしちゃ　めずらしいね。": "Tiens, tu dormais encore ? C'est rare pour \ntoi, dis donc."
+        "「おや　まだ寝てたのかい？\n　あんたにしちゃ　めずらしいね。": "Tu dormais encore ? Ca ne te ressemble pas pourtant."
     },
     "14717": {
-        "「そうだ！　それより　聞いておくれよ！\n　その　<kyodai>がね！": "Bien sur ! Ecoute ca !"
+        "「そうだ！　それより　聞いておくれよ！\n　その　<kyodai>がね！": "Bon, ecoute, c'est a propos de <kyodai>."
     },
     "14718": {
         "「錬金術で　ハツラツ豆を\n　１０倍に増やすって言ったのに　失敗して\n　全部　灰にしちゃったんだよ！": "<kyodai> voulais multiplier par dix les \nHaricots Pep grace a l'alchimie, mais a\nechoue et a tout reduit en cendres !"
@@ -864,7 +864,7 @@
         "「テキスト削除": "text deletion"
     },
     "15110": {
-        "「まったく！\n　<kyodai>は　逃げ足だけは速いんだから。": "Franchement ! <kyodai> est vraiment rapide\nquand il s'agit de s'enfuir."
+        "「まったく！\n　<kyodai>は　逃げ足だけは速いんだから。": "<kyodai> est vraiment rapide quand il s'agit de s'enfuir."
     },
     "15111": {
         "「<pc>ー！": "<pc>!!"
@@ -1071,7 +1071,7 @@
         "<center>さあ　お行きなさい。\n母なる大地　アストルティアへ。": "Allez, partez maintenant. Vers la terre mere,\nAstoltia."
     },
     "43975": {
-        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "......Quoi ? Tu as reve que <kyodai> et\nAbba montaient sur Galapagod ? Non, ca ne\npeut pas etre vrai. C'est impossible."
+        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "Quoi...? Tu as reve que <kyodai> et\nAbba montaient sur Galapagod...? Non, c'est impossible."
     },
     "46656": {
         "<if_woman><center>不運にも　今日\nこの世を去った　オーガの女性がいます。<else><center>不運にも　今日\nこの世を去った　オーガの青年がいます。<endif>>": "<if_woman> Il y a une femme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<else>Il y a un jeune homme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<endif>>"
