@@ -24,7 +24,7 @@
         "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu'un jour, je pourrais monter\nsur le dos de Galapagod, le dieu protecteur du\nvillage…\n<br>\nVivre longtemps reserve bien des surprises."
     },
     "14703": {
-        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>. Nous devons egalement\nemmener les autres.\n"
+        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>. Nous devons egalement\nemmener les autres."
     },
     "14704": {
         "「はい　アバさま。": "Oui, Abba."
@@ -48,13 +48,13 @@
         "「……………………。": "........................"
     },
     "14711": {
-        "「そ　れ　は　な…………": "Ce n'est pas..."
+        "「そ　れ　は　な…………": "Parceque..."
     },
     "14712": {
-        "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>ーー！！"
+        "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>！！"
     },
     "14713": {
-        "「あはは……　ごめんなさい～！！": "Ah ah... desole~!!"
+        "「あはは……　ごめんなさい～！！": "Ah ah... desole !!"
     },
     "14715": {
         "「<pc>！　<pc>っ！\n　いないのかい？": "<pc> ! <pc> ?"
@@ -918,13 +918,13 @@
         "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
     },
     "15128": {
-        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else>He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>>"
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>Allez ! Grande soeur, monte, monte ! Tiens, attrape ma main...<else>Allez ! Grand frere, monte, monte ! Tiens, attrape ma main...<endif>>"
     },
     "15129": {
         "「……えっ？": "...Hein ?"
     },
     "15130": {
-        "「……えっ？": "Quoi...?"
+        "「……えっ？": "Hein...?"
     },
     "15131": {
         "「……ええっ？": "...... Hein ?"
@@ -933,13 +933,13 @@
         "「な　なんで……？": "Po... Pourquoi... ?"
     },
     "15133": {
-        "「ど　どうしてよ……？": "Pourquoi... pourquoi donc...?"
+        "「ど　どうしてよ……？": "Mais... pourquoi donc...?"
     },
     "15134": {
         "「ど　どうして……？": "Po... Pourquoi... ?"
     },
     "15135": {
-        "「あはは……　わりぃ　わりぃ～！！": "Ah ah ah... Desole, desole~ !!"
+        "「あはは……　わりぃ　わりぃ～！！": "Ah ah ah... Desole, desole !!"
     },
     "15136": {
         "「あはは……　ごめんね～！！": "Ahaha... Desole !!"
@@ -1056,7 +1056,7 @@
         "<center>そして　探すのです。\nあなたの使命を。\n生まれ変わることの意味を……。": "Et ainsi, cherchez. Votre mission. Le sens de\nvotre renaissance..."
     },
     "31661": {
-        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "Ca n'a pas marche, comme je le pensais !\nQu'est-ce que tu comptes faire pour ca !!"
+        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "Je savais que ca ne marcherait pas ! Que comptes-tu faire maintenant !?"
     },
     "31662": {
         "「テキスト削除": "text deletion"
