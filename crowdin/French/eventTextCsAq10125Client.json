@@ -120,10 +120,10 @@
         "「何度　来ようとも　結果は同じ。\n　人を超える存在となった私に\n　人たる身で　かなうものか。": "Peu importe combien de fois tu viens, le\nresultat sera le meme. En tant qu'existence\nsuperieure aux humains, comment pourrais-tu,<br>simple mortel, esperer me vaincre ?"
     },
     "16335": {
-        "「このチカラがあれば　グロスナーに……\n　ガートラントに　思い知らせてやれる。\n　今こそ　復讐のときは来たのだっ！！": "Avec ce pouvoir, je pourrai montrer a Glosner\net a GarトLMPト... Le moment de la vengeance est\nenfin arrive !!"
+        "「このチカラがあれば　グロスナーに……\n　ガートラントに　思い知らせてやれる。\n　今こそ　復讐のときは来たのだっ！！": "Avec ce pouvoir, je pourrai faire comprendre a\nGrossner...\net a Gartland.\n<br>\nLe moment de la revanche est enfin arrive !!"
     },
     "16336": {
-        "「グォォ……お　おのれぇ……。\n　人を超えた存在である私が\n　や　敗れるはずが……。": "Grrr... Maudit soit-il... Moi, un etre qui\ntranscende l'humanite, je ne devrais pas etre\nvaincu..."
+        "「グォォ……お　おのれぇ……。\n　人を超えた存在である私が\n　や　敗れるはずが……。": "Groooar... Maudit sois-tu...\nMoi, un etre superieur aux humains, je...\nje ne peux pas perdre..."
     },
     "16337": {
         "「ピュージュっ！！\n　もっと……チカラをくれ！　もっとだ！": "Pyuju !! Donne-moi plus... de puissance !\nEncore plus !"
@@ -195,7 +195,7 @@
         "「スピンドル　<cs_pchero>。\n　どうか　グロスナー王に……伝えてくれ。": "Spindle <cs_pchero>. S'il te plait, transmets\nceci a King Grossner..."
     },
     "16360": {
-        "「私の復讐は　実体のない……ハリボテだったが\n　今のままのガートラントでは　いずれまた\n　剣の遺志を継ぐ者が……現れよう。": "\n私の復讐は実体のないハリボテだったが、今のままのGarトLMPトでは、いずれまた剣の遺志を継ぐ者がP.\nれよう"
+        "「私の復讐は　実体のない……ハリボテだったが\n　今のままのガートラントでは　いずれまた\n　剣の遺志を継ぐ者が……現れよう。": "Ma vengeance n'etait qu'une illusion sans\nbut...\n<br>\nMais tant que Gartland restera ainsi,\nquelqu'un d'autre finira par heriter de la\nvolonte de l'epee..."
     },
     "16361": {
         "「そのこと　ゆめゆめ　お忘れなきように\n　……と。": "Veuillez ne jamais oublier cela... hm."
@@ -234,7 +234,7 @@
         "「グロスナー王！\n　どうか　前兵士長ゼクセンの最期の言葉を\n　お忘れなきように。": "King Grossner ! Je vous en prie, n'oubliez pas\nles derniers mots de l'ancien capitaine des\nsoldats, Zexen."
     },
     "16373": {
-        "「今のままのガートラントでは　いずれまた\n　ガズバランの剣の遺志を継ぐ者が　現れる……\n　私には　ただの妄言とは　思えませぬ。": "Avec l'etat actuel de GarトLMPト, un jour,\nquelqu'un heritera de la volonte de l'epee de\nガズバLMP... Cela ne me semble pas etre de<br>simples divagations."
+        "「今のままのガートラントでは　いずれまた\n　ガズバランの剣の遺志を継ぐ者が　現れる……\n　私には　ただの妄言とは　思えませぬ。": "Si Gartland reste comme il est, tot ou tard,\nun autre reprendra la volonte de l'epee de\nGazbalan...\n<br>\net je ne peux pas croire que ce soit juste un\nfantasme."
     },
     "16374": {
         "「……そうであったな。ピュージュが言い残した\n　あの方とやらの　存在も気になるし\n　よろこんでばかりも　おられぬか。": "…C'est vrai. L'existence de cette personne\ndont Pyuju a parle m'intrigue aussi, je ne\npeux pas simplement me rejouir."
