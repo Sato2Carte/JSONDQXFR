@@ -27,7 +27,7 @@
         "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>. Nous devons egalement\nemmener les autres."
     },
     "14704": {
-        "「はい　アバさま。": "Oui, Abba."
+        "「はい　アバさま。": "Oh, Abba."
     },
     "14705": {
         "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main…<endif>>"
