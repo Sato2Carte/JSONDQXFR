@@ -1,540 +1,540 @@
 {
     "794": {
-        "「誰か……　誰か　ザンジャ神父を\n　呼んできてもらえますか……。": "Quelqu'un... pourrait appeler Father Zanja,\ns'il vous plait ?"
+        "「誰か……　誰か　ザンジャ神父を\n　呼んできてもらえますか……。": "Quelqu'un...\nQue quelqu'un aille chercher Pere Zanja..."
     },
     "795": {
-        "「ど…どうしたのじゃ　マイユさん。": "Qu... Qu'est-ce qui ne va pas, Mayu-san ?"
+        "「ど…どうしたのじゃ　マイユさん。": "Qu...\nQu'est ce qu'il se passe, Maille?"
     },
     "796": {
-        "「見てのとおりです。\n　<pc>さんが　ロンダの氷穴で\n　チカラ尽きていたのです……。": "Comme vous pouvez le voir, <pc>-san a\nsuccombe dans la Caverne de Glace de Rhonda..."
+        "「見てのとおりです。\n　<pc>さんが　ロンダの氷穴で\n　チカラ尽きていたのです……。": "Regarde par toi meme.\nJ'ai trouve <pc> ecroule Dans la Grotte de\nGlace de Rhonda..."
     },
     "797": {
         "「ザンジャ神父……。\n　どうか　<pc>さんの魂が迷わぬよう\n　神に　お祈りを……。": "Pere Zanja... Je vous en prie, priez pour que\nl'ame de <pc>-san ne se perde pas aupres\nde Dieu..."
     },
     "798": {
-        "「かわいそうに……。確かに　死んでおる。": "Pauvre de lui... Il est effectivement mort."
+        "「かわいそうに……。確かに　死んでおる。": "Cette pauvre ame...\nTu as raison, en effet elle a quitte son\ncorps."
     },
     "799": {
-        "「皆に愛された　<pc>が\n　こんなにも早く　天に召されるとはのう……\n　神も　むごいことをなさる。": "Que <pc>, aime de tous, soit rappele au\nciel si tot... Meme les dieux peuvent etre\ncruels."
+        "「皆に愛された　<pc>が\n　こんなにも早く　天に召されるとはのう……\n　神も　むごいことをなさる。": "Tout le monde adorait tellement <pc> et\npourtant parti trop tot...\nDesfois, notre dieu fait des choses terribles\n<br>\negalement."
     },
     "800": {
-        "「さあ　皆で祈ろう。\n　<pc>が　迷わず\n　神の御許へ　行けるように……。": "Prions ensemble. Pour que <pc> puisse\nrejoindre sans hesitation le royaume divin..."
+        "「さあ　皆で祈ろう。\n　<pc>が　迷わず\n　神の御許へ　行けるように……。": "Bien, prions tous afin que <pc> atteigne\nnotre dieu sans encombre..."
     },
     "801": {
-        "「う　うわあああああああああああああっ！！": "Ouahhhhhhhhhhhhhh !!"
+        "「う　うわあああああああああああああっ！！": "E-EEYYYYAAAAAAHHHHH!!"
     },
     "802": {
-        "「どうしたことじゃ！？　なぜ　生き返った？": "Comment est-ce possible !? Pourquoi es-tu\nrevenu a la vie ?"
+        "「どうしたことじゃ！？　なぜ　生き返った？": "Qu'est ce qu'il se passe?!\nComment es tu revenu?"
     },
     "803": {
-        "「先ほどまで　確かに死んでいたはず！\n　それが　突然　魂が戻ったようじゃ……！": "Il y a un instant, j'etais certain d'etre mort\n! Et puis, soudainement, c'est comme si mon\name etait revenue... !"
+        "「先ほどまで　確かに死んでいたはず！\n　それが　突然　魂が戻ったようじゃ……！": "Je suis presque certain que tu etais decede\njuste la!\nC'est comme si ton ame avait soudainement\n<br>\nregagne ton corps...!"
     },
     "804": {
-        "「いったい　<pc>の身体に\n　何が　起こったというのだっ……。": "Qu'est-ce qui a bien pu arriver au corps de\n<pc>..."
+        "「いったい　<pc>の身体に\n　何が　起こったというのだっ……。": "Qu'est ce qu'il s'est passe avec toi...?"
     },
     "805": {
-        "「<pc>さん？": "<pc>-san ?"
+        "「<pc>さん？": "<pc>?"
     },
     "806": {
-        "「よかった！　生きていたんですね。": "Super ! Vous etes en vie !"
+        "「よかった！　生きていたんですね。": "Merci bon dieu!\nTu es en vie."
     },
     "807": {
-        "「もうっ　いやだよ！\n　神父ったら　早トチリしちゃって。\n　<pc>は　生きてるじゃないか！": "Oh, j'en ai assez ! Le pretre s'est precipite.\n<pc> est vivant, n'est-ce pas !"
+        "「もうっ　いやだよ！\n　神父ったら　早トチリしちゃって。\n　<pc>は　生きてるじゃないか！": "Ne nous fais pas de frayeurs pareil!\nPour un pretre, tu m'as l'air de tirer des\nconclusions rapidement! <pc> va super bien!"
     },
     "808": {
-        "「そんな……　早トチリなどでは…………。": "Ce n'est pas possible... Ce n'est pas\nsimplement une impulsion hative..."
+        "「そんな……　早トチリなどでは…………。": "Alors c'est ce qu'il s'est passe...\nDire que j'ai ete si negligent..."
     },
     "809": {
-        "「おぬしは　本当に　<pc>なのか？\n　確かに　見た目は　<pc>だが\n　なにやら雰囲気が……。": "Es-tu vraiment <pc> ? Certes, tu as\nl'apparence de <pc>, mais il y a quelque\nchose dans ton aura qui..."
+        "「おぬしは　本当に　<pc>なのか？\n　確かに　見た目は　<pc>だが\n　なにやら雰囲気が……。": "Tu es vraiment <pc>, hein?\nTu ressembles vraiment a <pc>, mais desfois\ntu sembles..."
     },
     "810": {
-        "「<pc>さん。\n　今日は　ゆっくり　身体を休めてくださいね。": "<pc>-san, prenez bien le temps de vous\nreposer aujourd'hui."
+        "「<pc>さん。\n　今日は　ゆっくり　身体を休めてくださいね。": "<pc>, detends toi, et repose toi aujourd'hui."
     },
     "811": {
-        "「それじゃ　私は\n　用があるので　これで失礼します。": "Alors, j'ai des affaires a regler, je vais\ndonc vous laisser ici."
+        "「それじゃ　私は\n　用があるので　これで失礼します。": "Bon, et bien, j'ai des affaires a regler.\nSi vous voulez bien m'excuser."
     },
     "812": {
-        "「そういえば　マイユさんは　お父上である\n　村王の　手伝いをしておるんじゃったな。\n　なんでも　今日は　客人があるとか……。": "En parlant de ca, il parait que Mayu-san aide\nson pere, le chef du village. Apparemment, ils\nattendent des invites aujourd'hui..."
+        "「そういえば　マイユさんは　お父上である\n　村王の　手伝いをしておるんじゃったな。\n　なんでも　今日は　客人があるとか……。": "Maintenant que j'y repense, j'ai entendu dire\nque Maille aidait son pere, le chef du\nvillage.\n<br>\nApparemment il aurait des invites\naujourd'hui..."
     },
     "814": {
-        "「あんなに　急いで……。": "Il etait vraiment presse..."
+        "「あんなに　急いで……。": "Et bien, quelqu'un est presse..."
     },
     "816": {
-        "「ふむ　<pc>よ。\n　先ほどは　おかしなことを言って\n　すまなかった。": "Hmm, <pc>. Je suis desole d'avoir dit\nquelque chose d'etrange tout a l'heure."
+        "「ふむ　<pc>よ。\n　先ほどは　おかしなことを言って\n　すまなかった。": "Hmm...\nEnfin bref, <pc>.\nDesole pour avoir dit une chose aussi\n<br>\nridicule tout a l'heure."
     },
     "818": {
-        "「なあなあ　<pc>はん。\n　もしかして　ルーラストーン……": "He, he, <pc>-san. Est-ce que par hasard,\nZoomstone..."
+        "「なあなあ　<pc>はん。\n　もしかして　ルーラストーン……": "Hey, hey, <pc>!\nEst ce que tu penses que la Telepierre..."
     },
     "819": {
-        "「やっぱ　なんでも　あらへん！\n　てへへっ……　ほな　さいなら～！": "En fait, il n'y a rien du tout ! Tehehe...\nBon, a plus tard~ !"
+        "「やっぱ　なんでも　あらへん！\n　てへへっ……　ほな　さいなら～！": "Oh, ce n'est rien!\nTeeheehee...\nOn se retrouve plus tard～!"
     },
     "820": {
-        "「やれやれ……。ジェニャが　あんな顔をするのは\n　何か　お金になることを思いついた時だよ。\n　今度は　いったい　何をする気かねえ。": "Eh bien, eh bien... Quand Jenya fait ce genre\nde tete, c'est qu'elle a pense a quelque chose\nqui peut rapporter de l'argent. Je me demande<br>bien ce qu'elle a en tete cette fois-ci."
+        "「やれやれ……。ジェニャが　あんな顔をするのは\n　何か　お金になることを思いついた時だよ。\n　今度は　いったい　何をする気かねえ。": "Bon sang...\nJenya ne fait ca que lorsqu'elle imagine un\nplan pour se faire de l'argent Je me demande\n<br>\nce qu'elle a en tete..."
     },
     "821": {
-        "「それはそうと　たいしたケガも\n　してないみたいで　安心したよ。\n　本当に　運がよかったね　<pc>。": "Quoi qu'il en soit, je suis rassure de voir\nque tu n'as pas l'air de t'etre serieusement\nblesse. Tu as vraiment eu de la chance,<br><pc>."
+        "「それはそうと　たいしたケガも\n　してないみたいで　安心したよ。\n　本当に　運がよかったね　<pc>。": "Enfin bref, je suis soulage de savoir que tu\nn'est pas gravement blesse.\nTu en as de la chance, <pc>."
     },
     "822": {
-        "「後で　いいから\n　マイユちゃんに　お礼を言ってくるんだよ？\n　大変な思いをして　運んでくれたはずだからね。": "C'est bien d'aller remercier Maiyu-chan plus\ntard, tu sais ? Elle a du faire beaucoup\nd'efforts pour nous transporter."
+        "「後で　いいから\n　マイユちゃんに　お礼を言ってくるんだよ？\n　大変な思いをして　運んでくれたはずだからね。": "Tu remercieras Maille plus tard, ok?\nElle doit vraiment tenir a toi pour faire\ntout ca uniquement pour ton bien."
     },
     "823": {
-        "「知ってのとおり　マイユちゃんは　村王の娘。\n　家は　よろいの看板を出してる防具屋の横の橋を\n　渡った先だよ。村王にも　あいさつしておいで。": "Comme tu le sais, Mayu-chan est la fille du\nchef du village. Sa maison se trouve apres le\npont a cote du magasin d'armures avec<br>l'enseigne. Va saluer le chef du village."
+        "「知ってのとおり　マイユちゃんは　村王の娘。\n　家は　よろいの看板を出してる防具屋の横の橋を\n　渡った先だよ。村王にも　あいさつしておいで。": "Comme tu le sais, Maille est la fille du chef.\nSa maison se trouve apres le pont a cote de\nl'armurerie.\n<br>\nPasse le bonjour au chef egalement."
     },
     "824": {
-        "「ロンダの氷穴にも　いなかった……。": "Il n'etait pas non plus dans la grotte de\nglace Rhonda..."
+        "「ロンダの氷穴にも　いなかった……。": "Il n'etais meme pas a la Grotte de Glace de\nRhonda..."
     },
     "825": {
-        "「ジーガンフ……\n　あなたは　今　どこで何をしているの？": "Jiganf...... Ou es-tu maintenant et que\nfais-tu ?"
+        "「ジーガンフ……\n　あなたは　今　どこで何をしているの？": "Jiganf...\nOu es tu?\nQu'est ce que tu fais?"
     },
     "826": {
-        "「あら　<pc>さん。\n　どうしたんですか？": "Ah, <pc>-san. Que se passe-t-il ?"
+        "「あら　<pc>さん。\n　どうしたんですか？": "Oh, <pc>.\nQu'est ce qu'il se passe?"
     },
     "827": {
-        "「まあ！　わざわざ　お礼に？": "Oh ! Vous etes venu expres pour me remercier ?"
+        "「まあ！　わざわざ　お礼に？": "Oh, tu es venu jusqu'ici uniquement pour me\nremercier?"
     },
     "828": {
-        "「いいんですよ。\n　<pc>さんが　無事で　本当によかった。": "C'est bien. Je suis vraiment content que\n<pc>-san soit sain et sauf."
+        "「いいんですよ。\n　<pc>さんが　無事で　本当によかった。": "Ne t'en fais pas, vraiment!\nJe suis juste ravi que tu ailles bien."
     },
     "829": {
-        "「あら……？　<pc>さん。\n　ルーラストーンは　どうしたんですか？\n　いつも　腰につけているのに……。": "Ah... ? <pc>-san. Qu'est-il arrive a\nvotre Zoomstone ? Vous le portez toujours a la\ntaille habituellement..."
+        "「あら……？　<pc>さん。\n　ルーラストーンは　どうしたんですか？\n　いつも　腰につけているのに……。": "Oh...? <pc>, qu'est il arrive a ta Telepierre?\nTu la gardais toujours a la hanche..."
     },
     "830": {
-        "「えっ　ルーラストーンが　わからない……？\n　使うと　記憶させた場所に\n　一瞬で飛べる　魔法の石のことですよ？": "Quoi ? Tu ne sais pas ce qu'est une\nZoomstone... ? C'est une pierre magique qui te\npermet de te teleporter instantanement a un<br>endroit memorise quand tu l'utilises."
+        "「えっ　ルーラストーンが　わからない……？\n　使うと　記憶させた場所に\n　一瞬で飛べる　魔法の石のことですよ？": "Quoi?\nTu ne sais pas ce qu'est une Telepierre...?\nC'est une pierre magique qu'on utilise pour\n<br>\nvoyager aux lieux enregistres au prealable en\nun instant."
     },
     "831": {
-        "「そんな……。ルーラストーンだけじゃなくて\n　自分のことも　わからないですって？": "Quoi... Vous ne savez pas seulement ou est ce\nZoomstone, mais vous ne savez pas non plus qui\nvous etes ?"
+        "「そんな……。ルーラストーンだけじゃなくて\n　自分のことも　わからないですって？": "Noooon...\nNon seulement tu ne sais pas ce qu'est une\nTelepierre, mais en plus tu ne sais meme plus\n<br>\nqui tu es?"
     },
     "832": {
-        "「<pc>さんは　１年ほど前　修行のために\n　この村へ　いらっしゃったんです。あんなに\n　熱心に修行なさってたのに　思いだせませんか？": "<pc>-san est arrive dans ce village il y\na environ un an pour s'entrainer. Malgre son\ndevouement a l'entrainement, vous ne vous en<br>souvenez pas ?"
+        "「<pc>さんは　１年ほど前　修行のために\n　この村へ　いらっしゃったんです。あんなに\n　熱心に修行なさってたのに　思いだせませんか？": "Tu es venu dans ce village il y'a un an pour\ns'entrainer...\nNe te rappelles tu pas a quel point tu etais\n<br>\nenthousiaste a ce propos?"
     },
     "833": {
-        "「記憶が　混乱しているのかもしれませんね……。\n　そういえば　<pc>さんは\n　どうして　あんな所で倒れていたんでしょう？": "La memoire de <pc>-san est peut-etre\nconfuse... D'ailleurs, pourquoi etait-il\neffondre a cet endroit ?"
+        "「記憶が　混乱しているのかもしれませんね……。\n　そういえば　<pc>さんは\n　どうして　あんな所で倒れていたんでしょう？": "Peut etre que ta memoire est un peu trouble...\nEn parlant de ca, comment tu as fais pour te\nretrouver dans un endroit comme celui ci a la\n<br>\nbase?"
     },
     "834": {
-        "「めったに　人が行かない所で倒れていたから\n　私も　気になっていたんです。\n　あそこに行けば　何か思いだすかしら……。": "Comme c'etait un endroit ou les gens vont\nrarement, cela m'a intriguee aussi. Peut-etre\nque si tu y retournes, quelque chose te<br>reviendra en memoire..."
+        "「めったに　人が行かない所で倒れていたから\n　私も　気になっていたんです。\n　あそこに行けば　何か思いだすかしら……。": "Je me demande ca car l'endroit ou je t'ai\ntrouve n'est pas un lieu ou l'on va\nhabituellement.\n<br>\nPeut etre que revenir la bas debloquera ta\nmemoire..."
     },
     "835": {
-        "「ロンダの氷穴の場所は　わかりますか？\n　村を出て　道なりに西へ進むと見える\n　橋を渡った先の　氷の洞くつです。": "Savez-vous ou se trouve la grotte de glace de\nRhonda ? En sortant du village, suivez la\nroute vers l'ouest. C'est la grotte de glace<br>que vous verrez de l'autre cote du pont."
+        "「ロンダの氷穴の場所は　わかりますか？\n　村を出て　道なりに西へ進むと見える\n　橋を渡った先の　氷の洞くつです。": "Te rappelles tu ou es la Grotte de Glace de\nRhonda?\nSi tu quittes le village en direction de\n<br>\nl'Ouest tu trouveras un passage apres le\npont, la grotte se trouve la bas."
     },
     "836": {
         "「ジーガンフ……。": "Jiganf..."
     },
     "837": {
-        "「あっ　<pc>さん。": "Ah, <pc>-san."
+        "「あっ　<pc>さん。": "Oh! <pc>."
     },
     "838": {
-        "「ロンダの氷穴の場所は　わかりますか？\n　村を出て　道なりに西へ進むと見える\n　橋を渡った先の　氷の洞くつです。": "Savez-vous ou se trouve la grotte de glace de\nRhonda ? En sortant du village, suivez la\nroute vers l'ouest. C'est la grotte de glace<br>que vous verrez de l'autre cote du pont."
+        "「ロンダの氷穴の場所は　わかりますか？\n　村を出て　道なりに西へ進むと見える\n　橋を渡った先の　氷の洞くつです。": "Te rappelles tu ou es la Grotte de Glace de\nRhonda?\nSi tu quittes le village en direction de\n<br>\nl'Ouest tu trouveras un passage apres le\npont, la grotte se trouve la bas."
     },
     "839": {
-        "「<pc>さんが倒れていたのは\n　その氷穴を　南西に抜けた先の　ロンダ岬です。\n　ルーラストーンも　そこにあるかもしれません。": "<pc>-san a ete retrouve effondre a\nRhonda Cape, situe au sud-ouest de cette\ncaverne glacee. Il se pourrait que le<br>Zoomstone s'y trouve egalement."
+        "「<pc>さんが倒れていたのは\n　その氷穴を　南西に抜けた先の　ロンダ岬です。\n　ルーラストーンも　そこにあるかもしれません。": "Tu t'es evanoui au Cap Rhonda, juste au sud\nde la grotte de glace.\nPeut etre que c'est la ou se trouve ta\n<br>\nTelepierre."
     },
     "841": {
         "<pc>は\nルーラストーンを　手に入れた！<me_60>": "<pc> a obtenu la Zoomstone ! <me_60>"
     },
     "842": {
-        "「あーーーっ　<pc>はん！": "Ahーーー, <pc>-san !"
+        "「あーーーっ　<pc>はん！": "Aww, <pc>!"
     },
     "843": {
-        "「あっちゃ～。ルーラストーン\n　自分で　見つけてしもうたんかいな。": "Ah la la... Tu as trouve le Zoomstone tout\nseul ?"
+        "「あっちゃ～。ルーラストーン\n　自分で　見つけてしもうたんかいな。": "Bon sang～!\nTu as trouve la Telepierre sans moi, n'est ce\npas?"
     },
     "844": {
-        "「先に見つけて　<pc>はんに売りつけたら\n　ええ　こづかいかせぎになると思うたのに\n　残念やわあ。": "Je pensais que si je le trouvais en premier et\nle vendais a <pc>-san, cela ferait un\nbon petit profit. Quel dommage."
+        "「先に見つけて　<pc>はんに売りつけたら\n　ええ　こづかいかせぎになると思うたのに\n　残念やわあ。": "Quel dommage, Je me suis dis que ca serait\nsympa de la trouver avant toi, et la vendre\npour un peu d'argent."
     },
     "845": {
-        "「…………ん？\n　なんか　聞こえへんかった？": "…Hm? Tu n'as rien entendu ?"
+        "「…………ん？\n　なんか　聞こえへんかった？": "...\nHmm?\nTu as entendu quelque chose?"
     },
     "846": {
-        "「あの扉の向こうには　悪鬼ゾンガロンっちゅう\n　めっちゃ恐ろしい怪物が　封印されとるんやで。": "Derriere cette porte, un monstre terrifiant\nnomme Zongalon est scelle."
+        "「あの扉の向こうには　悪鬼ゾンガロンっちゅう\n　めっちゃ恐ろしい怪物が　封印されとるんやで。": "De l'autre cote de cette porte se trouve un\nmonstre hideux.\nPortant le nom de Zongalon."
     },
     "847": {
-        "「誰か　おる……。": "Quelqu'un est la..."
+        "「誰か　おる……。": "Que quelqu'un..."
     },
     "848": {
-        "「ジ…ジーガンフはんや！": "Ji... Jiganf-san !"
+        "「ジ…ジーガンフはんや！": "J...\nJiganf!"
     },
     "849": {
-        "「なんで　ジーガンフはんが\n　悪鬼ゾンガロンの封印の所に　おるんや！？": "Pourquoi Jiganf-san se trouve-t-il a l'endroit\nou Zongalon est scelle ?!"
+        "「なんで　ジーガンフはんが\n　悪鬼ゾンガロンの封印の所に　おるんや！？": "Qu'est ce que fait Jiganf avec le sceau de\nZongalon?!"
     },
     "850": {
-        "「アイツだけは　許せねえ……。": "Je ne peux vraiment pas lui pardonner..."
+        "「アイツだけは　許せねえ……。": "C'est le seul a qui je ne pourrais pas\npardonner..."
     },
     "851": {
-        "「必ず　思い知らせてやる！！": "Je vais te le faire comprendre !!"
+        "「必ず　思い知らせてやる！！": "JE JURE DE LE FAIRE PAYER!!"
     },
     "852": {
-        "「うおおおおおお！！\n　もっと　チカラをよこせ　ゾンガロン！！\n　契約の時にもらった程度では　足りんぞ！！": "Uoooooh !! Donne-moi plus de pouvoir, Zongaron\n!! Ce que j'ai recu lors du contrat ne suffit\npas !!"
+        "「うおおおおおお！！\n　もっと　チカラをよこせ　ゾンガロン！！\n　契約の時にもらった程度では　足りんぞ！！": "HHHHHAAAAAA!!\nDonnes en moi plus, Zongalon!\nLe pouvoir que tu m'as confie quand j'ai\n<br>\nsigne ce contrat n'est pas assez!!"
     },
     "853": {
-        "「ぐおおおおおおおお！！": "Gwooooooo !!"
+        "「ぐおおおおおおおお！！": "GGGGUUUUUOOOOOOOOOOOHHHH!!"
     },
     "854": {
-        "「さあ　いつでも帰ってこい　アロルド！\n　神聖な勝負を汚した罪を　つぐなわせてやる！！": "Allez, reviens quand tu veux, Arold ! Je te\nferai expier le peche d'avoir souille ce\ncombat sacre !!"
+        "「さあ　いつでも帰ってこい　アロルド！\n　神聖な勝負を汚した罪を　つぐなわせてやる！！": "Reviens quand tu veux, Arold!\nJe te ferais payer le fait de profaner le jeu\nsacre!!"
     },
     "855": {
-        "「戦いの神に代わり　このオレが\n　お前に　天罰を与えてやるぜぇぇぇえええ！！": "A la place du dieu de la guerre, c'est moi qui\nvais te donner une punition divine !"
+        "「戦いの神に代わり　このオレが\n　お前に　天罰を与えてやるぜぇぇぇえええ！！": "AU NOM DU DIEU DE LA GUERRE, J'EN FAIS APPEL\nAU JUGEMENT DIVIN!!"
     },
     "856": {
-        "「た　大変や……。": "C'est... c'est terrible..."
+        "「た　大変や……。": "C'e-c'est terrible..."
     },
     "857": {
-        "「あの無敵のチャンピオン　ジーガンフはんが\n　悪鬼ゾンガロンから　チカラをもろうてる！？": "Cet invincible Champion Jiganf recoit du\npouvoir de Zongalon !?"
+        "「あの無敵のチャンピオン　ジーガンフはんが\n　悪鬼ゾンガロンから　チカラをもろうてる！？": "Le champion invincible, Jiganf, est en train\nde recevoir le pouvoir du demon Zongalon?!"
     },
     "858": {
-        "「し…しかも　アロルドはんのことを\n　あんなに　恨んではったなんて……。": "Et... et en plus, je ne savais pas qu'Arold\nsan lui en voulait autant..."
+        "「し…しかも　アロルドはんのことを\n　あんなに　恨んではったなんて……。": "Je...\nJe n'avais pas idee qu'il detestait autant\nArold..."
     },
     "859": {
-        "「チャンスや！\n　これは　誰も知らん情報やで。": "C'est une chance ! C'est une information que\npersonne ne connait."
+        "「チャンスや！\n　これは　誰も知らん情報やで。": "Je sens une opportunite!\nJe suis sur que personne d'autre n'est au\ncourant de ceci!"
     },
     "860": {
-        "「てへへっ！　はよ　村王はんに教えたろ！": "Tehehe ! Je vais vite le dire au chef du\nvillage !"
+        "「てへへっ！　はよ　村王はんに教えたろ！": "Heehee!\nSuis moi, nous devons prevenir le chef du\nvillage!"
     },
     "862": {
-        "「おお　<pc>。\n　今　出ていった男を　見たか？": "Oh, <pc>. As-tu vu l'homme qui vient de\nsortir ?"
+        "「おお　<pc>。\n　今　出ていった男を　見たか？": "Oh, <pc>.\nTu as vu l'homme qui vient de partir?"
     },
     "863": {
-        "「あれは　アロルドといって\n　うちのマイユや　ジーガンフの　幼なじみでな。\n　子供の頃から　ずっと仲よくしてたヤツなんだ。": "C'est Arold. Il est un ami d'enfance de notre\nMayu et de Jiganf. Ils ont toujours ete\nproches depuis leur enfance."
+        "「あれは　アロルドといって\n　うちのマイユや　ジーガンフの　幼なじみでな。\n　子供の頃から　ずっと仲よくしてたヤツなんだ。": "C'etait Arold, un ami d'enfance de Maille et\nJiganf.\nIls ont toujours ete de tres bons amis depuis\n<br>\nleur enfance."
     },
     "864": {
-        "「ところで　何かあったのか？\n　顔色が　よくないが……。": "Au fait, est-ce qu'il s'est passe quelque\nchose ? Ton visage n'a pas bonne mine..."
+        "「ところで　何かあったのか？\n　顔色が　よくないが……。": "Au fait, quelque chose est arrive?\nTu as l'air en colere..."
     },
     "868": {
-        "「ガハハハ！\n　ジェニャが相手では　勝ち目はないな！\n　ここは　引き下がっておけ　<pc>。": "Gahaha ! Si tu affrontes Jenya, tu n'as aucune\nchance ! Il vaut mieux battre en retraite ici,\n<pc>."
+        "「ガハハハ！\n　ジェニャが相手では　勝ち目はないな！\n　ここは　引き下がっておけ　<pc>。": "Gahahaha!\nIl n'y a pas de victoire contre Jenya!\nTu ferais mieux d'abandonner, <pc>."
     },
     "870": {
-        "「そうだ　<pc>。\n　お前も　アロルドに　あいさつしておくといい。\n　あいつは　村の中にある武闘場へ行ったはずだ。": "C'est vrai, <pc>. Tu devrais aussi aller\nsaluer Arold. Il est parti vers l'arene qui se\ntrouve dans le village."
+        "「そうだ　<pc>。\n　お前も　アロルドに　あいさつしておくといい。\n　あいつは　村の中にある武闘場へ行ったはずだ。": "C'est vrai, <pc>.\nTu devrais dire bonjour a Arold egalement.\nIl doit se trouver pres de l'arene du village."
     },
     "871": {
-        "「ほな　そういうわけで！\n　あたしのビジネスが終わるまで\n　ジャマせんといてな！": "Alors, voila comment ca se passe ! Ne viens\npas me deranger jusqu'a ce que mon affaire\nsoit terminee !"
+        "「ほな　そういうわけで！\n　あたしのビジネスが終わるまで\n　ジャマせんといてな！": "Voila, c'est fait!\nReste en dehors de mon chemin jusqu'a ce que\nj'ai fini mes affaires!"
     },
     "874": {
         "「あっ　それより　<pc>さん。\n　ルーラストーンは　見つかったみたいですね。\n　ロンダ岬で　何か思いだせましたか？": "Ah, d'ailleurs, <pc>-san. Il semble que\nvous ayez trouve le Zoomstone. Avez-vous pu\nvous rappeler de quelque chose a Rhonda Cape ?"
     },
     "875": {
-        "「マイユ。\n　ジーガンフのことなら　心配無用だ。": "Mayu. Concernant Jiganf, ne t'inquiete pas."
+        "「マイユ。\n　ジーガンフのことなら　心配無用だ。": "Maille.\nTu n'as pas a t'inquieter pour Jiganf."
     },
     "876": {
-        "「ジーガンフは　オレの　自慢の兄貴分だ。\n　まじめで　強く　誇り高い。": "Jiganf est mon frere aine dont je suis tres\nfier. Serieux, fort et plein de dignite."
+        "「ジーガンフは　オレの　自慢の兄貴分だ。\n　まじめで　強く　誇り高い。": "En tant que frere, je suis fier de lui.\nC'est un homme, serieux, fort, et fier."
     },
     "877": {
-        "「村王や　お前が案じているような\n　悪いことなど　起こるはずがないさ。": "Le roi du village dit : Il est impossible que\nquelque chose de mauvais se produise, comme tu\nte le crains."
+        "「村王や　お前が案じているような\n　悪いことなど　起こるはずがないさ。": "Rien de mal ne lui arrivera, comme au chef du\nvillage, malgre tes craintes."
     },
     "878": {
         "「でも……。": "Mais..."
     },
     "879": {
-        "「……アロルド。\n　あいにくだが　わしとマイユの悪い予感が\n　どうやら　当たっているようだぞ。": "......Arold. Malheureusement, il semble que le\nmauvais pressentiment de Mayu et moi soit en\ntrain de se realiser."
+        "「……アロルド。\n　あいにくだが　わしとマイユの悪い予感が\n　どうやら　当たっているようだぞ。": "...\nArold.\nJe suis desole de dire ca, mais on dirait que\n<br>\nles sentiments de craintes de Maille et moi\nmeme recemment ont toujours ete averes."
     },
     "880": {
-        "「ジーガンフは　強大なチカラを得るために\n　あの悪鬼ゾンガロンと　契約している。\n　<pc>とジェニャは　その場を見たのだ。": "Jiganf a passe un pacte avec le puissant\nZongalon pour obtenir une force immense.\n<pc> et Jenya ont ete temoins de cette<br>scene."
+        "「ジーガンフは　強大なチカラを得るために\n　あの悪鬼ゾンガロンと　契約している。\n　<pc>とジェニャは　その場を見たのだ。": "Jiganf a fait un pacte avec le demon Zongalon\npour gagner en puissance. <pc> et Jenya ont\nete temoins de cet acte."
     },
     "882": {
-        "「あの　恐ろしい伝説の悪鬼と！？\n　どうして　ジーガンフが　そんなことを……！": "Avec ce demon legendaire terrifiant !?\nPourquoi Jiganf ferait-il une telle chose...！"
+        "「あの　恐ろしい伝説の悪鬼と！？\n　どうして　ジーガンフが　そんなことを……！": "Avec l'horrible demon de la legende?!\nPourquoi est ce que Jiganf ferait une chose\npareille...?!"
     },
     "883": {
-        "「わからん。だが　アロルド。\n　ジーガンフは　お前のことを恨んでいるらしい。\n　お前に　神聖な勝負を汚されたと……。": "Je ne comprends pas. Mais Arold, il semble que\nJiganf te deteste. Il dit que tu as souille un\nduel sacre..."
+        "「わからん。だが　アロルド。\n　ジーガンフは　お前のことを恨んでいるらしい。\n　お前に　神聖な勝負を汚されたと……。": "Je ne sais pas.\nMais je sais, Arold, que Jiganf a une dent\ncontre toi Il a dit que tu avais profane le\n<br>\njeu sacre..."
     },
     "884": {
-        "「ねえ　アロルド。教えて。\n　２年前の武闘大会で　何があったの？": "Dis-moi, Arold. Raconte-moi. Que s'est-il\npasse lors du tournoi d'arts martiaux d'il y a\ndeux ans ?"
+        "「ねえ　アロルド。教えて。\n　２年前の武闘大会で　何があったの？": "Hey, Arold.\nDis moi.\nQu'est il arrive durant ce tournoi il y'a\n<br>\ndeux ans?"
     },
     "885": {
-        "「あなたが　あの後　急に村を出ていったのも\n　武闘大会のことと関係があるんでしょ？": "Le fait que tu sois parti soudainement du\nvillage apres cela a aussi un rapport avec le\ntournoi d'arts martiaux, n'est-ce pas ?"
+        "「あなたが　あの後　急に村を出ていったのも\n　武闘大会のことと関係があるんでしょ？": "La raison pour laquelle tu as quitte le\nvillage avait quelque chose en rapport avec\nce tournoi, n'est ce pas?"
     },
     "886": {
-        "「……………………。": "."
+        "「……………………。": "........................."
     },
     "887": {
-        "「……探すまでもねえ。\n　お前の帰りを待ってたぜ　アロルド……。": "Pas besoin de chercher. Je t'attendais, Arold."
+        "「……探すまでもねえ。\n　お前の帰りを待ってたぜ　アロルド……。": "...\nPas besoin de me regarder comme ca.\nJ'attendais ton retour, Arold..."
     },
     "888": {
-        "「今日という今日は　貴様に\n　己の罪深さを　思い知らせてやる！": "Aujourd'hui, je vais te faire comprendre a\nquel point tes peches sont graves !"
+        "「今日という今日は　貴様に\n　己の罪深さを　思い知らせてやる！": "Aujourd'hui, je vais faire retomber sur toi\nle poids de tes peches!"
     },
     "889": {
-        "「ジーガンフ　話を聞いてくれ！": "Jiganf, ecoute-moi !"
+        "「ジーガンフ　話を聞いてくれ！": "Jiganf, ecoute moi!"
     },
     "890": {
-        "「うるせえっ！": "Tais-toi !"
+        "「うるせえっ！": "LA FERME!"
     },
     "891": {
-        "「お前だけは　絶対に許さねえ！": "Je ne te pardonnerai jamais !"
+        "「お前だけは　絶対に許さねえ！": "Tu es la seule personne que je ne peux\npardonner!"
     },
     "892": {
-        "「２年前の　武闘大会……。": "Il y a deux ans, lors du tournoi d'arts\nmartiaux..."
+        "「２年前の　武闘大会……。": "Durant ce tournoi il y'a deux ans..."
     },
     "893": {
-        "「お前のチカラは　あきらかに\n　このオレのチカラを　上回っていた。": "Ton pouvoir a clairement surpasse le mien."
+        "「お前のチカラは　あきらかに\n　このオレのチカラを　上回っていた。": "Ton pouvoir depassait clairement le mien."
     },
     "894": {
-        "「なのに　お前は\n　わざと俺に　負けやがったんだ！": "Et pourtant, tu as deliberement perdu face a\nmoi !"
+        "「なのに　お前は\n　わざと俺に　負けやがったんだ！": "Mais tu m'as deliberement laisse gagner!"
     },
     "895": {
-        "「しかも　大会の後　オレを避けるように\n　村から出ていきやがって！！": "En plus, apres le tournoi, il a quitte le\nvillage comme s'il voulait m'eviter !!"
+        "「しかも　大会の後　オレを避けるように\n　村から出ていきやがって！！": "Apres, quand le tournoi etait fini tu as\nquitte le village afin de m'eviter!!"
     },
     "896": {
-        "「そ…それは…………。": "Ce... c'est..."
+        "「そ…それは…………。": "J'...j'ai juste..."
     },
     "897": {
-        "「はっきり言え　アロルド！\n　マイユを　オレに　ゆずるために\n　神聖な勝負の行方を　汚したのだと！！": "Dis-le clairement, Arold ! Avoue que tu as\nsouille le deroulement de ce duel sacre pour\nme ceder Mayu !!"
+        "「はっきり言え　アロルド！\n　マイユを　オレに　ゆずるために\n　神聖な勝負の行方を　汚したのだと！！": "Je vais faire simple, Arold!\nTu as profane le jeu sacre pour que je sois\navec Maille!!"
     },
     "898": {
-        "「……………………。": "."
+        "「……………………。": "........................"
     },
     "899": {
-        "「そんなことで　このオレが\n　よろこぶとでも　思ったのか！\n　貴様のやったことは　戦いの神への裏切りだ！": "Tu crois vraiment que ca va me rendre heureux\n? Ce que tu as fait est une trahison envers le\ndieu de la guerre !"
+        "「そんなことで　このオレが\n　よろこぶとでも　思ったのか！\n　貴様のやったことは　戦いの神への裏切りだ！": "Penses tu vraiment que ca me rendrait\nheureux?!\nCe que tu as fais est une trahison aupres du\n<br>\nDieu de la guerre!"
     },
     "900": {
-        "「なぜ　やられるままに　なっている……。": "Pourquoi te laisses-tu faire ainsi..."
+        "「なぜ　やられるままに　なっている……。": "Pourquoi est ce que tu me laisses\nt'attaquer...?"
     },
     "901": {
-        "「あくまで　戦いの神に\n　背き続けるつもりか……。": "Tu as donc l'intention de continuer a defier\nle dieu de la guerre..."
+        "「あくまで　戦いの神に\n　背き続けるつもりか……。": "Est ce que tu comptes toujours desobeir au\nDieu de la guerre...?"
     },
     "902": {
-        "「……貴様ぁぁぁあああっ！！": "...Toi, espece de... !!"
+        "「……貴様ぁぁぁあああっ！！": "...\nSALE ORDURE!!"
     },
     "903": {
-        "「はぁ……　はぁ…………。": "Haa... haa..."
+        "「はぁ……　はぁ…………。": "Huff...\nHuff......"
     },
     "904": {
-        "「ジ…ジーガンフ……！？": "Ji... Jiganf...!?"
+        "「ジ…ジーガンフ……！？": "J...\nJiganf...?!"
     },
     "905": {
-        "「なんとしても　全力の貴様を　たたきつぶす！\n　でなきゃ　オレの怒りは　しずまらねえ！！": "Quoi qu'il arrive, je vais te vaincre de\ntoutes mes forces ! Sinon, ma colere ne\ns'apaisera pas !"
+        "「なんとしても　全力の貴様を　たたきつぶす！\n　でなきゃ　オレの怒りは　しずまらねえ！！": "Je vais t'ecraser de toute ma puissance!\nSi je ne le fais pas, ma colere ne s'apaisera\npas!!"
     },
     "906": {
-        "「どうあっても　本気を出さないというなら\n　これなら　どうだ！？　アロルド！": "Si tu refuses de te battre serieusement, que\ndirais-tu de ca !? Arold !"
+        "「どうあっても　本気を出さないというなら\n　これなら　どうだ！？　アロルド！": "Si tu ne me prends pas au serieux alors que\npenses tu de ceci, Arold?!"
     },
     "907": {
-        "「きゃああああああっ！！": "Kyaaaaaaa !!"
+        "「きゃああああああっ！！": "Kyaaaaaah!"
     },
     "908": {
-        "「マイユ！！": "Mayu !!"
+        "「マイユ！！": "Maille!"
     },
     "910": {
-        "「ジーガンフを　追うぞ！\n　悪鬼ゾンガロンの所へ行ったに　違いない！": "Poursuivons Jiganf ! Il a surement ete chez\nZongalon !"
+        "「ジーガンフを　追うぞ！\n　悪鬼ゾンガロンの所へ行ったに　違いない！": "Nous devons poursuivre Jiganf!\nIl a du rejoindre Zongalon!"
     },
     "911": {
-        "「<pc>！　お前のチカラも　貸してくれ！\n　戦いの準備をして　ロンダ岬へ向かうんだ！": "<pc> ! Prete-moi aussi ta force !\nPrepare-toi pour le combat et dirige-toi vers\nRhonda Cape !"
+        "「<pc>！　お前のチカラも　貸してくれ！\n　戦いの準備をして　ロンダ岬へ向かうんだ！": "<pc>!\nJ'ai besoin de ton aide!\nPrepare toi a combattre et viens au Cap\n<br>\nRhonda!"
     },
     "912": {
-        "「アロルド……！　貴様を　たたきつぶし\n　勝負を汚した罪を　命で　つぐなわせてやる！": "Arold... ! Je vais t'ecraser et te faire payer\nde ta vie le crime d'avoir souille ce combat !"
+        "「アロルド……！　貴様を　たたきつぶし\n　勝負を汚した罪を　命で　つぐなわせてやる！": "Arold...!\nJe te vaincrais!\nTu vas payer de ta vie les peches commis\n<br>\naupres du jeu sacre!"
     },
     "913": {
-        "<center>我がもとへ来い　ジーガンフ。\n我を封じている　結界を破れ。": "Viens a moi, Jiganf. Brise la barriere qui me\nscelle."
+        "<center>我がもとへ来い　ジーガンフ。\n我を封じている　結界を破れ。": "Viens, Jiganf.\nBrise le sceau qui me contient."
     },
     "914": {
-        "「貴様の結界を…破れ……だと……！？\n　ふざけるな……。オレは　アロルドを……！": "Tu oses briser ma barriere... !? Ne te moque\npas de moi... Je suis Arold... !"
+        "「貴様の結界を…破れ……だと……！？\n　ふざけるな……。オレは　アロルドを……！": "Briser...le sceau...?!\nComme si...!\nArold est a moi...!"
     },
     "915": {
-        "「ジーガンフ！\n　マイユを　はなせ！！": "Jiganf ! Lache Maiyu !!"
+        "「ジーガンフ！\n　マイユを　はなせ！！": "Jiganf...\nOu es tu?\nOu es tu parti?"
     },
     "917": {
-        "「<cs_pchero>！\n　お前は　ジーガンフを　食い止めてくれ！！\n　わしは　マイユたちを助ける！": "<cs_pchero> ! Occupe-toi de retenir Jiganf !!\nJe vais aider Mayu et les autres !"
+        "「<cs_pchero>！\n　お前は　ジーガンフを　食い止めてくれ！！\n　わしは　マイユたちを助ける！": "<cs_pchero>!\nTu dois arreter Jiganf!\nJe vais aider ces deux la!"
     },
     "918": {
-        "「ウガアアアアアアアアアアアアアアアアアア！！": "Ugaaaaaaaahhhhhh!!"
+        "「ウガアアアアアアアアアアアアアアアアアア！！": "GRAAAAAAAAAAAAAAAAHH!!"
     },
     "919": {
-        "「<cs_pchero>　戻ったか！！": "<cs_pchero> ! Te voila de retour !!"
+        "「<cs_pchero>　戻ったか！！": "<cs_pchero>, tu es de retour!!"
     },
     "920": {
-        "「頼む！　ジーガンフを　止めてくれ！！": "Je t'en prie ! Arrete Jiganf !!"
+        "「頼む！　ジーガンフを　止めてくれ！！": "S'il te plait!\nTu dois arreter Jiganf!!"
     },
     "921": {
-        "「ウガアアアアアアアアアアアアアアアアアア！！": "Ugaaaaaaaahhhhhh!!"
+        "「ウガアアアアアアアアアアアアアアアアアア！！": "GRAAAAAAAAAAAAAAAAHH!!"
     },
     "922": {
-        "「やってくれたか　<cs_pchero>！": "Tu l'as fait, <cs_pchero> !"
+        "「やってくれたか　<cs_pchero>！": "Tu l'as fais, <cs_pchero>!"
     },
     "923": {
-        "「ジーガンフ！": "Jiganf !"
+        "「ジーガンフ！": "Jiganf!"
     },
     "924": {
-        "「ああ　どうしたら……\n　どうしたら　もとの姿に戻してあげられるの？": "Ah, que puis-je faire... Comment puis-je te\nrendre ton apparence d'origine ?"
+        "「ああ　どうしたら……\n　どうしたら　もとの姿に戻してあげられるの？": "Ohh, que devrions nous faire...?\nComment peut-on le ramener a la normale?"
     },
     "925": {
-        "<center>我がもとへ来い　ジーガンフ。\n我を封じる結界を破れば　貴様に\n何者にも負けぬ　強大なチカラをくれてやる。": "Viens a moi, Jiganf. Si tu brises la barriere\nqui me scelle, je te donnerai une puissance\nimmense qui ne sera vaincue par personne."
+        "<center>我がもとへ来い　ジーガンフ。\n我を封じる結界を破れば　貴様に\n何者にも負けぬ　強大なチカラをくれてやる。": "Viens, Jiganf.\nBrise le sceau qui m'emprisonne."
     },
     "926": {
-        "「やめろ　悪鬼ゾンガロン！\n　ジーガンフは　もう動けん！！": "Arrete, Zongalon ! Jiganf ne peut plus bouger\n!"
+        "「やめろ　悪鬼ゾンガロン！\n　ジーガンフは　もう動けん！！": "Arrete ca, Zongalon!\nJiganf ne peut meme plus bouger!!"
     },
     "927": {
         "「ジーガンフ……？": "Jiganf...?"
     },
     "928": {
-        "「ウガアアアアアアアアアアアアアアアアアア！！": "Ugaaaaaaaahhhhhh!!"
+        "「ウガアアアアアアアアアアアアアアアアアア！！": "GRAAAAAAAAAAAAAAAAHH!!"
     },
     "929": {
-        "「グオオオオオオオオオ……！！": "Grooooaaarrr... !!"
+        "「グオオオオオオオオオ……！！": "GGUUUUUUOOOOOOOOOOOHH...!!"
     },
     "930": {
-        "「グハハハハハ！\n　愚か者めが　ムダに手こずらせおって。": "Guwahahaha ! Imbeciles ! Vous m'avez fait\nperdre mon temps inutilement."
+        "「グハハハハハ！\n　愚か者めが　ムダに手こずらせおって。": "Gwahahahahaha!\nVous avez durement luttes pour rien,\nimbeciles."
     },
     "931": {
-        "「な　なんという気だ……。\n　これが　伝説の悪鬼のチカラか！？": "Quel... quelle puissance incroyable... Est-ce\ncela la force du demon legendaire ?!"
+        "「な　なんという気だ……。\n　これが　伝説の悪鬼のチカラか！？": "Qu-qu'est ce que c'est que cette sensation...?\nEst-ce le pouvoir du demon legendaire?!"
     },
     "932": {
-        "「いかにも。\n　我こそが　悪鬼ゾンガロン。": "En effet. Je suis Zongalon."
+        "「いかにも。\n　我こそが　悪鬼ゾンガロン。": "Correct.\nJe suis le Demon Zongalon."
     },
     "933": {
-        "「あの男は　喰らってやったわ。\n　あんな小物程度では\n　腹の足しにも　ならんがな。": "J'ai devore cet homme. Ce genre de menu fretin\nne remplit meme pas mon estomac."
+        "「あの男は　喰らってやったわ。\n　あんな小物程度では\n　腹の足しにも　ならんがな。": "J'ai devore cet homme.\nMais un si petit morceau n'est pas suffisant\npour me rassasier."
     },
     "934": {
-        "「ジーガンフを　喰らった……！？": "J'ai subi le Jiganf... !?"
+        "「ジーガンフを　喰らった……！？": "Jiganf a ete devore...?!"
     },
     "937": {
-        "「さあ　ひさしぶりの外だ……。\n　せいぜい　我を楽しませてくれ。\n　たっぷり遊んだ後で　全員　喰らってやろう！": "Ah, ca fait longtemps que je ne suis pas\nsorti... Amusez-moi autant que possible. Apres\nm'etre bien amuse, je vous devorerai tous !"
+        "「さあ　ひさしぶりの外だ……。\n　せいぜい　我を楽しませてくれ。\n　たっぷり遊んだ後で　全員　喰らってやろう！": "Ca fait longtemps que je ne suis pas sorti\nd'ici alors faites de votre mieux pour me\ndivertir.\n<br>\nUne fois que j'en aurais assez, je vous\ndevorerais!"
     },
     "938": {
-        "「くそっ！　バケモノめ！！": "Merde ! Sale monstre !!"
+        "「くそっ！　バケモノめ！！": "Maudis sois tu!\nMonstre!!"
     },
     "939": {
-        "「下がっていろ　マイユ！\n　オレの命に代えても　お前を守る！！": "Recule, Mayu ! Meme si je dois donner ma vie,\nje te protegerai !"
+        "「下がっていろ　マイユ！\n　オレの命に代えても　お前を守る！！": "Reste en arriere, Maille!\nJe te protegerais meme si ma vie en depend!!"
     },
     "940": {
-        "「ど…どういうことだ。\n　我の身体が　くずれてゆく……。": "Qu... qu'est-ce que cela signifie ? Mon corps\nest en train de se desintegrer..."
+        "「ど…どういうことだ。\n　我の身体が　くずれてゆく……。": "Qu...qu'est ce qu'il se passe?\nMon corps tombe en lambeaux..."
     },
     "941": {
-        "「まさか　この光は……": "Je n'aurais jamais cru que cette lumiere..."
+        "「まさか　この光は……": "Pas possible.\nCette lumiere..."
     },
     "942": {
-        "「グアアアアァァァァァ…………。": "Guuaaaaaaaahhh..."
+        "「グアアアアァァァァァ…………。": "GGWWAAAAAAAAAAAAAAAAHH..."
     },
     "943": {
-        "「ジ…ジーガンフ！！": "Ji... Jiganf !!"
+        "「ジ…ジーガンフ！！": "J...\nJiganf!!"
     },
     "944": {
-        "「マイユ……。": "Maiyu..."
+        "「マイユ……。": "Maille..."
     },
     "945": {
-        "「オ…オレは　何を……？": "Qu... Qu'est-ce que je... ?"
+        "「オ…オレは　何を……？": "Ou...ou est-ce que je suis...?"
     },
     "946": {
-        "「なんだったんだ　あの光は？": "Qu'etait donc cette lumiere ?"
+        "「なんだったんだ　あの光は？": "Quelle etait cette lumiere?"
     },
     "947": {
-        "「わからん……。悪鬼ゾンガロンは\n　勇者覚醒の証とか　言っていたが……。": "Je ne comprends pas... Zongalon a dit que\nc'etait la preuve de l'eveil du heros..."
+        "「わからん……。悪鬼ゾンガロンは\n　勇者覚醒の証とか　言っていたが……。": "Je ne sais pas...\nZongalon a dit que c'etait le signe du reveil\ndu Heros..."
     },
     "948": {
-        "「とにかく　ランガーオ村へ帰ろう。\n　つもる話は　それからだ。": "En tout cas, retournons au village de Langao.\nNous aurons tout le temps de discuter apres."
+        "「とにかく　ランガーオ村へ帰ろう。\n　つもる話は　それからだ。": "Enfin bref, rentrons au Village Rangao.\nOn parlera de tout ceci plus tard."
     },
     "949": {
-        "「<cs_pchero>。\n　お前のおかげで　助かった。\n　後で　わしの家へ来てくれ。": "<cs_pchero> Grace a toi, j'ai ete sauve. Viens\nchez moi plus tard."
+        "「<cs_pchero>。\n　お前のおかげで　助かった。\n　後で　わしの家へ来てくれ。": "<cs_pchero>.\nGrace a toi, nous sommes sains et saufs.\nS'il te plait viens chez moi apres."
     },
     "950": {
-        "「オレは　くやしくて　たまらなかった……。": "Je ne pouvais pas contenir ma frustration..."
+        "「オレは　くやしくて　たまらなかった……。": "Je me sens tres mal..."
     },
     "951": {
-        "「真の勝者は　オレではなく　アロルドだ……。\n　その思いが　ずっと　オレを苦しめ続けた。": "Le veritable vainqueur, ce n'etait pas moi...\nmais Arold. Cette pensee m'a tourmente sans\nrepit."
+        "「真の勝者は　オレではなく　アロルドだ……。\n　その思いが　ずっと　オレを苦しめ続けた。": "Arold etait le vrai gagnant, pas moi...\nCette pensee m'a tourmente de nombreuses\nannees."
     },
     "952": {
-        "「なのに　村の者たちは\n　次の村王となり　マイユと結婚するのは\n　ジーガンフだなどと　勝手なウワサをする。": "Pourtant, les villageois repandent la rumeur\nselon laquelle Jiganf deviendrait le prochain\nroi du village et epouserait Maiyu."
+        "「なのに　村の者たちは\n　次の村王となり　マイユと結婚するのは\n　ジーガンフだなどと　勝手なウワサをする。": "Et pourtant, les villageois ont commences a\npropager la rumeur comme quoi je marierais\nMaille et deviendrais le prochain Chef."
     },
     "953": {
-        "「オレは　いらだち　修行に打ち込んだ。\n　誰にも負けない強さが　ほしかった。": "Je me suis plonge dans l'entrainement avec\nimpatience. Je voulais une force que personne\nne pourrait surpasser."
+        "「オレは　いらだち　修行に打ち込んだ。\n　誰にも負けない強さが　ほしかった。": "J'etais frustre, alors je me suis devoue a\nl'entrainement.\nJe voulais etre plus fort que quiconque."
     },
     "954": {
-        "「そんなある日　ロンダ岬で　声を聞いたんだ。": "Un jour, j'ai entendu une voix a Rhonda Cape."
+        "「そんなある日　ロンダ岬で　声を聞いたんだ。": "Puis un jour, au Cap Rhonda, j'ai entendu une\nvoix..."
     },
     "955": {
-        "「我と契約せよ……。\n　契約すれば　何者にも得ることのできない\n　強大なチカラをくれてやる……と。": "Fais un pacte avec moi... Si tu acceptes, je\nte donnerai une puissance immense que personne\nd'autre ne peut obtenir..."
+        "「我と契約せよ……。\n　契約すれば　何者にも得ることのできない\n　強大なチカラをくれてやる……と。": "Fais un pacte avec moi...!\nFais un pacte et je t'offrirais un pouvoir\nqui depasse tout ce que tu imagines."
     },
     "956": {
-        "「ふむ……。\n　しかし　どうにも納得できん。": "Hmm... Cependant, je ne peux pas vraiment etre\nconvaincu."
+        "「ふむ……。\n　しかし　どうにも納得できん。": "Hmm...\nMais quelque chose m'inquiete toujours."
     },
     "957": {
-        "「ゾンガロンは　完全に封印されていたはず。\n　それがなぜ　お前に語りかけたり\n　チカラを与えることが　できたのだ？": "Zongalon etait cense etre completement scelle.\nAlors pourquoi a-t-il pu te parler et te\ndonner de la puissance ?"
+        "「ゾンガロンは　完全に封印されていたはず。\n　それがなぜ　お前に語りかけたり\n　チカラを与えることが　できたのだ？": "Zongalon etait suppose etre completement\nscelle.\nPourquoi a t'il ete capable de te parler, et\n<br>\nde te donner de la puissance?"
     },
     "958": {
-        "「旅の途中で　こんな話を聞きました。\n　世界中の聖なるチカラや　封印が\n　一斉に　チカラを弱め始めた……と。": "En chemin, j'ai entendu cette histoire. On dit\nque les pouvoirs sacres et les sceaux du monde\nentier ont commence a s'affaiblir tous en meme<br>temps..."
+        "「旅の途中で　こんな話を聞きました。\n　世界中の聖なるチカラや　封印が\n　一斉に　チカラを弱め始めた……と。": "Durant le cours de mes voyages, j'ai entendu\nque les pouvoirs sacres pour sceller les\ndemons ont commences a s'epuiser, tous les\n<br>\npouvoirs, en meme temps."
     },
     "959": {
-        "「真偽のほどは　確かめようもありませんでしたが\n　どうやら　あの話は真実だったようですね。": "Je n'avais aucun moyen de verifier si c'etait\nvrai ou non, mais il semble que cette histoire\netait bien reelle."
+        "「真偽のほどは　確かめようもありませんでしたが\n　どうやら　あの話は真実だったようですね。": "Je ne savais pas si tout ceci etait vrai , ou\nsi ca le serait, mais apparemment ils avaient\nraison."
     },
     "960": {
-        "「村王。オレは　また旅に出ようと思います。\n　この世界に　何が起きているかを知るために。": "Villageoisseigneur. Je pense a repartir en\nvoyage. Pour comprendre ce qui se passe dans\nce monde."
+        "「村王。オレは　また旅に出ようと思います。\n　この世界に　何が起きているかを知るために。": "Chef.\nJe pars pour un nouveau voyage, afin de\nsavoir ce qu'il se passe dans ce monde."
     },
     "961": {
-        "「アロルド。旅に出るのなら　マイユも\n　連れていってやってくれないか？": "Arold. Si tu pars en voyage, pourrais-tu\nemmener Mayu avec toi ?"
+        "「アロルド。旅に出るのなら　マイユも\n　連れていってやってくれないか？": "Arold.\nSi tu pars en voyage, pourquoi n'amenes tu\npas Maille avec toi?"
     },
     "962": {
-        "「そ　そんな　私は……": "Je... je ne peux pas..."
+        "「そ　そんな　私は……": "C'e c'est...\nJe..."
     },
     "963": {
-        "「私は……　村王の娘として\n　チャンピオン　ジーガンフと結婚する気持ちに\n　変わりはありません……。": "Je suis... la fille du roi du village et mes\nsentiments n'ont pas change. Je suis toujours\ndeterminee a epouser le champion Jiganf..."
+        "「私は……　村王の娘として\n　チャンピオン　ジーガンフと結婚する気持ちに\n　変わりはありません……。": "En tant que fille du chef du village... je\nn'ai pas change d'avis sur le fait d'epouser\nle champion Jiganf..."
     },
     "964": {
-        "「マイユ。もうオレを　迷わせないでくれ。": "Mayu. Ne me fais plus douter, je t'en prie."
+        "「マイユ。もうオレを　迷わせないでくれ。": "Maille.\nNe me laisse plus jamais m'egarer."
     },
     "965": {
-        "「オレに　お前と結婚する資格はない。\n　それに……　マイユ。お前は　ずっと\n　アロルドのことが　好きだったんだろう？": "Je n'ai pas le droit de t'epouser. Et puis...\nMaiyu, tu as toujours aime Arold, n'est-ce pas\n?"
+        "「オレに　お前と結婚する資格はない。\n　それに……　マイユ。お前は　ずっと\n　アロルドのことが　好きだったんだろう？": "Je ne merite pas de t'epouser.\nDe plus...tu as toujours ete amoureuse\nd'Arold, n'est ce pas, Maille?"
     },
     "966": {
-        "「オレと来るか？　マイユ。": "Viens avec moi, Mayu ?"
+        "「オレと来るか？　マイユ。": "Va tu venir avec moi, Maille?"
     },
     "967": {
         "「はい……。": "Oui..."
     },
     "968": {
-        "「マイユを　幸せにしてやってくれ　アロルド。\n　だが……": "Fais en sorte de rendre Mayu heureuse, Arold.\nMais..."
+        "「マイユを　幸せにしてやってくれ　アロルド。\n　だが……": "Rends Maille heureuse, Arold.\nCependant..."
     },
     "969": {
-        "「オレは　いつか必ず　お前に勝ってみせる！\n　その時まで　ウデをさびつかせないよう\n　せいぜい　修行に　はげむんだな。": "Je te promets que je te vaincrai un jour ! En\nattendant ce moment, ne laisse pas tes\ncompetences rouiller. Entraine-toi de toutes<br>tes forces !"
+        "「オレは　いつか必ず　お前に勝ってみせる！\n　その時まで　ウデをさびつかせないよう\n　せいぜい　修行に　はげむんだな。": "Un jour, je te vaincrais pour de bon!\nEntraine toi dur jusque la pour que tes\ncapacites ne rouillent pas."
     },
     "970": {
         "「ジーガンフ……。": "Jiganf..."
     },
     "971": {
-        "「ガハハハハ！　いいぞ！\n　これからも　よき友　よきライバルとして\n　ともに　成長してゆけい！": "Gahahahaha ! C'est bien ! Continuez a grandir\nensemble en tant que bons amis et bons rivaux\n!"
+        "「ガハハハハ！　いいぞ！\n　これからも　よき友　よきライバルとして\n　ともに　成長してゆけい！": "Gahahahaha!\nVous allez toujours grandir en tant que bons\namis et rivaux!"
     },
     "972": {
-        "「アロルド！　マイユを頼んだぞ！": "Arold ! Prends soin de Mayu !"
+        "「アロルド！　マイユを頼んだぞ！": "Arold!\nPrends bien soin de Maille!"
     },
     "973": {
-        "「はい　ご安心ください！\n　マイユは　必ず　オレが守ります！": "Oui, soyez tranquille ! Je protegerai Maiyu,\nquoi qu'il arrive !"
+        "「はい　ご安心ください！\n　マイユは　必ず　オレが守ります！": "Yeah, ne t'en fais pas!\nJe la garderais toujours en securite!"
     },
     "974": {
-        "「みんな　よく聞いてくれ！\n　村王　立ち会いのもと　オレたちは決闘した！！": "Tout le monde, ecoutez bien ! En presence du\nroi du village, nous avons eu un duel !!"
+        "「みんな　よく聞いてくれ！\n　村王　立ち会いのもと　オレたちは決闘した！！": "Ecoutez attentivement tout le monde!\nEn presence du chef du village nous deux nous\nsommes defies en duel."
     },
     "975": {
-        "「勝者は　アロルドだ！\n　マイユは　アロルドの花嫁に決まった！！": "Le vainqueur est Arold ! Maye est designee\npour etre l'epouse d'Arold !!"
+        "「勝者は　アロルドだ！\n　マイユは　アロルドの花嫁に決まった！！": "Arold etait le vainqueur!\nIl a ete decide que Maille sera la femme\nd'Arold!!"
     },
     "976": {
-        "「さあ　ふたりの門出を　祝福してやってくれ！！": "Allez, accordez votre benediction a ces deux\naventuriers pour leur depart !"
+        "「さあ　ふたりの門出を　祝福してやってくれ！！": "Maintenant, fetons tous ensemble le debut de\nleurs nouvelles aventures!"
     },
     "977": {
-        "「行ったか……。": "Il est parti..."
+        "「行ったか……。": "Ils sont partis, huh...?"
     },
     "978": {
-        "「皆　迷いの中で生きている。\n　若ければ　なおのことだ。だが　自ら選んだ\n　道を進んでいるのなら　それでいい。": "Tout le monde vit dans l'incertitude. C'est\nencore plus vrai quand on est jeune. Mais tant\nqu'on avance sur le chemin qu'on a choisi,<br>c'est ce qui compte."
+        "「皆　迷いの中で生きている。\n　若ければ　なおのことだ。だが　自ら選んだ\n　道を進んでいるのなら　それでいい。": "Nous vivons toujours dans le doute,\nspecialement quand nous sommes jeunes.\nMais si tu choisis ton propre chemin, tout\n<br>\nira bien."
     },
     "979": {
         "「さて……　ところで　<pc>よ。\n　こっちへ来い。": "Alors... A propos, <pc>. Viens par ici."
     },
     "980": {
-        "「今回のことでは　本当に　世話になった。\n　まずは　礼を言おう。……だが　お前は\n　わしの知っている　<pc>ではないな？": "今回のことでは 本当に 世話になった まずは 礼を言おうだが お前は わしの知っている\n<pc>ではないな？ Dans cette affaire, tu m'as\nvraiment aide. Je tiens d'abord a te<br>remercier. ...Mais tu n'es pas le <pc>\nque je connais, n'est-ce pas ?"
+        "「今回のことでは　本当に　世話になった。\n　まずは　礼を言おう。……だが　お前は\n　わしの知っている　<pc>ではないな？": "Tu nous a enormement aides.\nAvant toute chose, laisse moi te remercier\npour tout ce que tu as fais. ...\n<br>\nMais tu n'es pas vraiment notre <pc> que je\nconnais hein?"
     },
     "981": {
-        "「どうも　変だと思っていたのだ。\n　今　その身体に宿っている魂は\n　本来の　お前のものではないのだろう？": "Je trouvais ca etrange. L'ame qui habite\nactuellement ce corps n'est pas la tienne,\nn'est-ce pas ?"
+        "「どうも　変だと思っていたのだ。\n　今　その身体に宿っている魂は\n　本来の　お前のものではないのだろう？": "J'ai trouve cela etrange depuis un moment\nL'ame qui habite ton corps n'est pas\nl'originale, n'est ce pas?"
     },
     "982": {
-        "「この鏡に　顔を映してみてくれ。\n　アロルドが置いていった　ラーの鏡という\n　真実の姿を映す　鏡だそうだ。": "Essaie de te regarder dans ce miroir. On dit\nque c'est le Mirror of Ra, laisse par Arold,\nqui montre la veritable apparence de chacun."
+        "「この鏡に　顔を映してみてくれ。\n　アロルドが置いていった　ラーの鏡という\n　真実の姿を映す　鏡だそうだ。": "S'il te plait regarde dans le reflet de ce\nmiroir C'est le miroir de la verite, le\nMiroir de Ra, qu'Arold m'a laisse."
     },
     "983": {
-        "「やはりか……。\n　この鏡に映る　人間の姿が\n　お前の　本当の姿なんだな？": "Je le savais... L'image refletee dans ce\nmiroir, c'est ta veritable apparence, n'est-ce\npas ?"
+        "「やはりか……。\n　この鏡に映る　人間の姿が\n　お前の　本当の姿なんだな？": "J'ai raison, hein...?\nL'humain qui s'est reflete dans le miroir est\nta vraie forme."
     },
     "984": {
         "「これも　アロルドから聞いた話だ。\n　命を落とした者の身体を得て　生き返った者が\n　他の大陸にも　いるそうだ。": "C'est aussi une histoire que j'ai entendue de\nla part d'Arold. Il semblerait qu'il y ait\nd'autres personnes sur d'autres continents qui<br>sont revenues a la vie en prenant possession\ndu corps de ceux qui ont perdu la leur."
     },
     "985": {
-        "「わしの知っている　オーガの　<pc>は\n　きっと　ロンダ岬で　悪鬼ゾンガロンの\n　邪気に触れ　命を落としたのだろう……。": "Le <pc> de l'Ogre que je connais a\nsurement ete touche par la malveillance de\nZongalon au Cap Rhonda et a perdu la vie..."
+        "「わしの知っている　オーガの　<pc>は\n　きっと　ロンダ岬で　悪鬼ゾンガロンの\n　邪気に触れ　命を落としたのだろう……。": "L'Ogre <pc> que je connais a du etre expose\nau pouvoir malefique du demon Zongalon au Cap\nRhonda et a perdu la vie..."
     },
     "987": {
-        "「……アイツには　夢があったのだ。\n　この村で修行し　一人前の証を手に入れたら\n　ひとりで　世界を旅するという夢がな。": "...Il avait un reve, tu sais. Une fois qu'il\naurait termine son entrainement dans ce\nvillage et obtenu la preuve qu'il etait devenu<br>un vrai guerrier, il revait de voyager seul a\ntravers le monde."
+        "「……アイツには　夢があったのだ。\n　この村で修行し　一人前の証を手に入れたら\n　ひとりで　世界を旅するという夢がな。": "...<pc> a eu un reve ici.\nS'est entraine dur, a recu la Marque de l'Age\nAdulte, et a prevu de voyager dans le monde\n<br>\nentier."
     },
     "988": {
-        "「<pc>。アイツの夢を\n　お前が　かなえてやってくれ。\n　その目で　世界を見て回るのだ。": "<pc>. Realise son reve pour lui.\nParcours le monde et observe-le de tes propres\nyeux."
+        "「<pc>。アイツの夢を\n　お前が　かなえてやってくれ。\n　その目で　世界を見て回るのだ。": "<pc>.\nFais que ce reve soit realite.\nVois le monde de tes propres yeux."
     },
     "989": {
-        "「それに　お前も　その姿となって\n　生き返った理由を　知りたいだろう。\n　世界を旅して　その理由を探すといい。": "De plus, tu dois surement vouloir connaitre la\nraison pour laquelle tu as ete ramene a la vie\nsous cette forme. Parcours le monde et cherche<br>cette raison."
+        "「それに　お前も　その姿となって\n　生き返った理由を　知りたいだろう。\n　世界を旅して　その理由を探すといい。": "De plus, je suis sur que tu aimerais savoir\npourquoi tu es revenu a la vie sous cette\nforme.\n<br>\nTu dois parcourir le monde pour le savoir."
     },
     "990": {
         "「これは　いつか　オーガの　<pc>が\n　旅立つときに　渡そうと思っていた物だが\n　お前に　くれてやろう！": "C'est quelque chose que je comptais donner a\n<pc> de l'Ogre lorsqu'il partirait en\nvoyage, mais je vais te le donner a toi !"
@@ -549,174 +549,174 @@
         "「それと　もうひとつ……。\n　<pc>　冒険の書を出せ。\n　お前なら　この証を持つ資格は　充分だ。": "Et puis, une autre chose... Sors le <pc>\nAdventure Log. Tu as amplement merite le droit\nde posseder cette preuve."
     },
     "994": {
-        "「これが　一人前の証！\n　その名のとおり　一人前と認められた者だけが\n　持つことのできる証だ。": "Ceci est la preuve d'une competence accomplie\n! Seuls ceux qui sont reconnus comme ayant\natteint ce niveau peuvent detenir ce symbole."
+        "「これが　一人前の証！\n　その名のとおり　一人前と認められた者だけが\n　持つことのできる証だ。": "C'est la Marque de l'Age Adulte!\nComme son nom l'indique, seuls ceux qui ont\nmuris peuvent l'obtenir."
     },
     "995": {
-        "「この証は　世界中のどこであっても\n　お前のチカラを証明してくれる。\n　一国の王にさえ　会うこともできるだろう！": "Ce certificat prouve ta puissance ou que tu\nsois dans le monde. Il te permettra meme de\nrencontrer un roi !"
+        "「この証は　世界中のどこであっても\n　お前のチカラを証明してくれる。\n　一国の王にさえ　会うこともできるだろう！": "Ce certificat va acter la preuve de ta force\npartout dans le monde.\nTu seras meme capable de parler aux rois!"
     },
     "996": {
-        "「世界をめぐり　大きな国や町で活躍すれば\n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "En parcourant le monde et en accomplissant des\nexploits dans de grands pays ou villes, il est\npossible de recevoir des medailles appelees<br>Key Emblem, qui ont la forme d'une cle."
+        "「世界をめぐり　大きな国や町で活躍すれば\n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "Si tu parcoures le monde et fait un impact\ndans la vie des gens en ville ou chateaux, tu\npourrais meme recevoir des Emblemes Cle une\n<br>\nmedaille en forme de cle."
     },
     "997": {
         "「まずは　南の獅子門を越え　グレン城を目指せ！\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させるとよいぞ。": "Tout d'abord, traverse la Lion Gate au sud et\nvise le Chateau de Glen ! J'ai prepare trois\ncompagnons de soutien pour t'aider. Il serait<br>judicieux de les emmener avec toi dans ton\nvoyage."
     },
     "998": {
-        "「あっ　<pc>はん！": "Ah, <pc>-san !"
+        "「あっ　<pc>はん！": "Heeey, <pc>!"
     },
     "999": {
-        "「あたしも　この村とは　おさらばするんや。\n　この村には　かせぎに来てただけやから。": "Je vais aussi dire adieu a ce village. Je\nn'etais la que pour travailler, apres tout."
+        "「あたしも　この村とは　おさらばするんや。\n　この村には　かせぎに来てただけやから。": "Je quitte le village egalement.\nJe ne suis venu ici que pour l'argent facile."
     },
     "1000": {
-        "「<pc>はんの　おかげで\n　だいぶ　お金も　貯まったし！\n　いったん　故郷に帰るのも　ええなあ。": "Grace a <pc>-san, j'ai pu economiser pas\nmal d'argent ! Je pense qu'il serait bien de\nrentrer chez moi pendant un moment."
+        "「<pc>はんの　おかげで\n　だいぶ　お金も　貯まったし！\n　いったん　故郷に帰るのも　ええなあ。": "Grace a toi, j'ai gagne une tonne de thunes!\nCa serait bien de rentrer chez moi pour un\nmoment."
     },
     "1001": {
-        "「ほんじゃ　<pc>はん。ほななぁ～。": "Alors, <pc>-san. A bientot~."
+        "「ほんじゃ　<pc>はん。ほななぁ～。": "Bon, je m'en vais, <pc>.\nBonne journee～!"
     },
     "1002": {
-        "「また　どっかで会うたら　かせがしてな～！": "Si jamais on se croise a nouveau, fais-moi\ngagner de l'argent, d'accord ?"
+        "「また　どっかで会うたら　かせがしてな～！": "Si nous nous rencontrons de nouveau, appelle\nmoi～!"
     },
     "22935": {
-        "<center>そうだ　ジーガンフ。\nその封印の宝珠を　たたきこわせ。": "C’est ca, Jiganf. Brise cet orbe scelle."
+        "<center>そうだ　ジーガンフ。\nその封印の宝珠を　たたきこわせ。": "Oui, Jiganf.\nDetruis la gemme qui me scelle."
     },
     "22936": {
-        "<center>そうすれば　我の無限のチカラは\nお前のものとなる！": "Ainsi, mon pouvoir illimite deviendra le tien\n!"
+        "<center>そうすれば　我の無限のチカラは\nお前のものとなる！": "Alors mon pouvoir infini sera tout a toi!"
     },
     "22937": {
-        "「伝説の勇者が　覚醒した証……？\n　バカな……　我の野望が　こんなところで……。": "Le signe de l'eveil du heros legendaire... ?\nC'est impossible... Mes ambitions ne peuvent\npas s'achever ici..."
+        "「伝説の勇者が　覚醒した証……？\n　バカな……　我の野望が　こんなところで……。": "Le signe du reveil du Heros Legendaire...\nRidicule...\nDonc mes ambitions menent a ceci..."
     },
     "22975": {
-        "「……………………？": "？"
+        "「……………………？": ".......................?"
     },
     "22976": {
-        "「な…なんだ……　この気配は！？": "Qu…qu'est-ce que c'est... cette presence !?"
+        "「な…なんだ……　この気配は！？": "Qu...quoi...?\nCe signe est...?!"
     },
     "23904": {
-        "「<pc>さんは　その氷穴を\n　南西に抜けた先の　ロンダ岬で倒れていました。\n　もしかしたら　ルーラストーンも　そこに……？": "<pc>-san a ete trouve effondre a Rhonda\nCape, apres avoir traverse la grotte de glace\nvers le sud-ouest. Peut-etre que le Zoomstone<br>s'y trouve aussi..."
+        "「<pc>さんは　その氷穴を\n　南西に抜けた先の　ロンダ岬で倒れていました。\n　もしかしたら　ルーラストーンも　そこに……？": "Tu t'es evanoui au Cap Rhonda, juste au sud\nde la grotte de glace.\nPeut etre que c'est la ou se trouve ta\n<br>\nTelepierre...?"
     },
     "23905": {
-        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si vous allez a la Grotte de Glace de Rhonda,\nsoyez prudent. Je pense que votre force est un\npeu affaiblie en ce moment, alors progressez<br>prudemment en augmentant legerement votre\nniveau."
+        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si tu te rends a la Grotte de Glace de\nRhonda, fais attention.\nJe suis sur que tu te sens toujours faible,\n<br>\nalors fais attention et monte de niveau sur\nla route."
     },
     "23906": {
-        "「私も　一緒に行けたらいいんですが\n　今は　ここを離れられなくて……。": "Je voudrais tant pouvoir vous accompagner,\nmais je ne peux pas quitter cet endroit pour\nl'instant..."
+        "「私も　一緒に行けたらいいんですが\n　今は　ここを離れられなくて……。": "J'aurais aime t'accompagner, mais je ne peux\npas partir maintenant..."
     },
     "23907": {
-        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si vous allez a la Grotte de Glace de Rhonda,\nsoyez prudent. Je pense que votre force est un\npeu affaiblie en ce moment, alors progressez<br>prudemment en augmentant legerement votre\nniveau."
+        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si tu te rends a la Grotte de Glace de\nRhonda, fais attention.\nJe suis sur que tu te sens toujours faible,\n<br>\nalors fais attention et monte de niveau sur\nla route."
     },
     "24673": {
-        "「私が見つけた時は　もう息がありませんでした。": "Lorsque je l'ai trouve, il ne respirait deja\nplus."
+        "「私が見つけた時は　もう息がありませんでした。": "Quand je l'ai trouve, <pc> ne respirait plus."
     },
     "24674": {
-        "「亡くなっているとはいえ　なきがらを\n　そのままにしておくのは　しのびないと思い\n　私が　この村まで……": "Bien qu'il soit decede, laisser le corps tel\nquel est insupportable, alors je l'ai amene\njusqu'a ce village..."
+        "「亡くなっているとはいえ　なきがらを\n　そのままにしておくのは　しのびないと思い\n　私が　この村まで……": "Meme si je ne peux pas ressusciter les morts,\nje ne pouvais pas laisser son corps sans vie\nici, donc je l'ai ramene au village..."
     },
     "24675": {
-        "「まあ　雰囲気が変わってしまったのは\n　きっと　死にかけたせいじゃろうな。": "Eh bien, si l'ambiance a change, c'est\nsurement a cause du fait que j'ai failli\nmourir."
+        "「まあ　雰囲気が変わってしまったのは\n　きっと　死にかけたせいじゃろうな。": "Alors, tu as vecu une experience de mort\nimminente, il est donc pas suprenant que tu\nsembles assez different de d'habitude."
     },
     "24676": {
-        "「修行熱心なのもよいが\n　あまり　無理をしすぎるでないぞ？\n　せっかく拾った命　大事にするといい。": "Il est bien d'etre assidu dans ton\nentrainement, mais veille a ne pas trop te\nsurmener. Prends soin de cette vie precieuse<br>que tu as eu la chance de recuperer."
+        "「修行熱心なのもよいが\n　あまり　無理をしすぎるでないぞ？\n　せっかく拾った命　大事にするといい。": "Il est bon de se consacrer a ton entrainement\nmais n'en fais pas trop non plus.\nPrends soin de la vie que tu as trouve ici."
     },
     "24677": {
-        "「これだ！！　チカラが　みなぎってくる！！": "Ca y est !! La puissance deborde en moi !!"
+        "「これだ！！　チカラが　みなぎってくる！！": "C'est ca!!\nDonne moi ton pouvoir!!"
     },
     "24678": {
-        "「おっと　失礼。": "Oh, je suis desole."
+        "「おっと　失礼。": "Oops, excuse moi."
     },
     "24679": {
-        "「ちょっちょっちょっ！　待ってえな！": "Attends un peu !"
+        "「ちょっちょっちょっ！　待ってえな！": "Hey, hey, heyyyy!\nAttendez moi!"
     },
     "24680": {
-        "「<pc>はんは　言うたらあかん！\n　これは　あたしが見つけた　情報や！": "<pc>-san, tu ne devrais pas le dire !\nC'est une information que j'ai decouverte\nmoi-meme !"
+        "「<pc>はんは　言うたらあかん！\n　これは　あたしが見つけた　情報や！": "<pc>, tu ne peux pas lui dire!\nC'est MON scoop!"
     },
     "24681": {
-        "「ほらほら　出てってえな！\n　こっからは　あたしのビジネスなんやから！": "Allez, allez, partez d'ici ! A partir de\nmaintenant, c'est mon affaire ici !"
+        "「ほらほら　出てってえな！\n　こっからは　あたしのビジネスなんやから！": "Allez, file!\nC'est MON affaire, a partir de maintenant!"
     },
     "24682": {
-        "「さっすが　村王はんは　話が早いわ！": "Comme prevu, le chef du village est rapide a\ncomprendre !"
+        "「さっすが　村王はんは　話が早いわ！": "C'est notre chef!\nDroit au but comme toujours!"
     },
     "24683": {
-        "「えっ　ロンダ岬で　ジーガンフを見かけた？\n　どうして彼が　そんな所に……？": "Quoi, tu as apercu Jiganf a Rhonda Cape ?\nPourquoi serait-il dans un endroit pareil... ?"
+        "「えっ　ロンダ岬で　ジーガンフを見かけた？\n　どうして彼が　そんな所に……？": "Quoi, tu as vu Jiganf au Cap Rhonda?\nPourquoi serait-il parti dans cet endroit...?"
     },
     "24684": {
-        "「………………！": "！"
+        "「………………！": "..................!"
     },
     "24685": {
-        "「……どうやら　事情があるようだな。\n　だが　とにかく　今は\n　一刻も早く　ジーガンフを探しだすのだ！": "Il semble qu'il y ait des circonstances\nparticulieres. Cependant, pour l'instant, nous\ndevons absolument trouver Jiganf au plus vite<br>!"
+        "「……どうやら　事情があるようだな。\n　だが　とにかく　今は\n　一刻も早く　ジーガンフを探しだすのだ！": "Apparemment, nous sommes dans l'embarras.\nPour le moment nous devons trouver Jiganf\naussi rapidement que possible!"
     },
     "24686": {
-        "「アロルド！\n　マイユの命を　助けたければ\n　全力で　かかってこい！！": "Arold ! Si tu veux sauver la vie de Mayu,\nviens de toutes tes forces !!"
+        "「アロルド！\n　マイユの命を　助けたければ\n　全力で　かかってこい！！": "Arold!\nSi tu veux sauver la vie de Maille, alors\nviens a moi avec tout ce que tu as!!"
     },
     "24687": {
-        "<center>ジーガンフよ……\n我がもとへ　来い……。": "Jiganf... Viens a moi..."
+        "<center>ジーガンフよ……\n我がもとへ　来い……。": "Jiganf...\nViens a moi......"
     },
     "24689": {
-        "「ねえ　アロルド。\n　そろそろ　教えてくれてもいいでしょ？": "He, Arold. Tu pourrais me le dire maintenant,\nnon ?"
+        "「ねえ　アロルド。\n　そろそろ　教えてくれてもいいでしょ？": "Hey, Arold.\nN'est il pas temps que tu me dises ce qui est\narrive?"
     },
     "24690": {
-        "「２年前……。\n　どうして　突然　村を出ていったの？\n　私に　何も言わないで……。": "Il y a deux ans... Pourquoi as-tu quitte le\nvillage si soudainement ? Sans rien me dire..."
+        "「２年前……。\n　どうして　突然　村を出ていったの？\n　私に　何も言わないで……。": "Il y'a deux ans...\nPourquoi tu as soudainement quitte le village?\nTu ne m'as jamais rien dis..."
     },
     "24691": {
-        "「あっ　<pc>さん。": "Ah, <pc>-san."
+        "「あっ　<pc>さん。": "Oh! <pc>."
     },
     "24692": {
         "「紹介するわ　アロルド。\n　こちらは　<pc>さん。\n　１年前　修行のために　この村へ　いらしたの。": "Je te presente, Arold. Voici <pc>-san.\nIl est venu dans ce village il y a un an pour\ns'entrainer."
     },
     "24693": {
-        "「こっちは　アロルド。\n　私の　大切な…………": "C'est Arold. Mon precieux..."
+        "「こっちは　アロルド。\n　私の　大切な…………": "C'est Arold.\nC'est mon cher..."
     },
     "24694": {
-        "「大切な……幼なじみです。": "C'est une... amie d'enfance precieuse."
+        "「大切な……幼なじみです。": "Cher...ami d'enfance."
     },
     "24695": {
-        "<center>あがいても　ムダだ　ジーガンフ。": "Meme si tu te debats, c'est inutile, Jiganf."
+        "<center>あがいても　ムダだ　ジーガンフ。": "Ca ne sert a rien de lutter, Jiganf."
     },
     "24696": {
-        "<center>我と契約した　お前に　逃れるすべはない。\nさあ　我を封じる結界を　破るのだ。": "Il n'y a aucun moyen pour toi d'echapper a\nnotre contrat. Allez, brise la barriere qui me\nscelle."
+        "<center>我と契約した　お前に　逃れるすべはない。\nさあ　我を封じる結界を　破るのだ。": "Tu as fais un contrat avec moi.\nTu ne peux t'echapper.\nAllez, brise la barriere qui me scelle."
     },
     "24697": {
-        "「そ　そういう……こと…か……。\n　……ゾンガロン……貴様…最初から\n　…こうす…るつもりで…………。": "Al... Alors c'etait... ca... ...Zongaron...\nMiserable... depuis le debut, ...tu avais\nl'intention de faire ca..."
+        "「そ　そういう……こと…か……。\n　……ゾンガロン……貴様…最初から\n　…こうす…るつもりで…………。": "D-donc c'est...ce que tu...voulais faire...\nZongalon, tu...avais tout prevu...depuis le\ndepart......"
     },
     "24698": {
-        "「くそっ……い…意識が……！\n　アロルドを　たたきつぶすまで…………": "Merde... Ma... ma conscience... ! Je dois\necraser Arold..."
+        "「くそっ……い…意識が……！\n　アロルドを　たたきつぶすまで…………": "Merde...ma conscience...est...!\nJusqu'a ce que j'ecrase Arold, Je ne peux\npas......"
     },
     "24699": {
-        "「自分のチカラに限界を感じていた　オレは\n　……つい　ヤツの誘いに　乗ってしまった。": "Je ressentais une limite a ma propre force...\net j'ai fini par accepter son invitation."
+        "「自分のチカラに限界を感じていた　オレは\n　……つい　ヤツの誘いに　乗ってしまった。": "J'avais atteins la limite de ma puissance...\nalors j'ai repondu a son offre."
     },
     "24700": {
-        "「ゾンガロンを再び封印した　あの白い光といい\n　この世界に　オレたちの知らない\n　重大なことが　始まっているのかもしれません。": "Peut-etre que quelque chose d'important, que\nnous ignorons, a commence dans ce monde, comme\ncette lumiere blanche et le sceau de Zongalon<br>a nouveau."
+        "「ゾンガロンを再び封印した　あの白い光といい\n　この世界に　オレたちの知らない\n　重大なことが　始まっているのかもしれません。": "Cette lumiere blanche qui a scelle Zongalon\nde nouveau, pourrait etre le debut de quelque\nchose que nous ne connaissons pas."
     },
     "24701": {
-        "「で…でも……私は……。": "Ma... mais... moi..."
+        "「で…でも……私は……。": "M...mais...\nJe......"
     },
     "24702": {
-        "「わしに気づかう必要はない。\n　お前は　お前の心のままに生きるといい。": "Jeune homme, tu n'as pas besoin de te soucier\nde moi. Vis simplement selon les elans de ton\ncoeur."
+        "「わしに気づかう必要はない。\n　お前は　お前の心のままに生きるといい。": "Tu n'as pas a t'inquieter pour moi.\nTu devrais suivre ton coeur."
     },
     "24703": {
         "「鉄道は　この村には通っていないが\n　南の獅子門を越えた先の　グレン城まで行けば\n　乗ることができるぞ。": "Le chemin de fer ne passe pas par ce village,\nmais si tu vas jusqu'au Chateau de Glen apres\navoir traverse la Porte du Lion au sud, tu<br>pourras le prendre."
     },
     "24704": {
-        "「そのキーエンブレムを　集めてゆけば\n　お前の名は　世界に知れ渡っていくだろう。\n　本当の　お前を知る者にも　会えるはずだ。": "Si tu continues a rassembler ces\nemblemes-cles, ton nom se repandra a travers\nle monde. Tu devrais egalement rencontrer ceux<br>qui connaissent ton vrai visage."
+        "「そのキーエンブレムを　集めてゆけば\n　お前の名は　世界に知れ渡っていくだろう。\n　本当の　お前を知る者にも　会えるはずだ。": "Si tu collectes les Emblemes Cle, ton nom se\nrepandra partout dans le monde.\nTu seras capable de rencontrer les personnes\n<br>\nqui connaissent le vrai toi."
     },
     "24793": {
-        "「オ…オレは……　ウグ……アアアアアッ！！": "O... Je... Ugh... Aaaaaah !!"
+        "「オ…オレは……　ウグ……アアアアアッ！！": "I...\nI...\nG...\n<br>\nGGGYYAAAAAAAAHHHHH!!"
     },
     "39013": {
-        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "Zoomstone est une pierre magique qui vous\npermet de vous deplacer instantanement a\nl'endroit memorise. Peu importe combien de<br>fois vous l'utilisez, elle ne disparait pas."
+        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "La Telepierre est une pierre magique qui\npermet de voyager en un lieu instantanement.\nPeu importe le nombre d'utilisations, elle ne\n<br>\ndisparait pas."
     },
     "39014": {
         "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Aucun emplacement n'est encore memorise dans\ncette Zoomstone. Les emplacements peuvent etre\nmemorises a l'eglise."
     },
     "39015": {
-        "「まさか……": "Je n'aurais jamais cru..."
+        "「まさか……": "Ne me dis pas..."
     },
     "39016": {
-        "「今の声は　悪鬼ゾンガロンか……？": "La voix que l'on vient d'entendre, c'etait\ncelle de Zongalon... ?"
+        "「今の声は　悪鬼ゾンガロンか……？": "Est-ce la voix de Zongalon...?"
     },
     "39017": {
-        "<center>おのれ……　いずれ　必ず…………。": "Je te le jure... Un jour, sans aucun doute..."
+        "<center>おのれ……　いずれ　必ず…………。": "Vermisseaux...\nUn jour, je vais vraiment......"
     },
     "50755": {
         "「グレンに着けば　酒場で\n　新しいサポート仲間を　紹介してもらえるから\n　自由に選んで　連れていくことができる！": "Une fois arrive a Glen, tu pourras faire un\ntour a la taverne. La-bas, on te presentera de\nnouveaux compagnons de soutien. Tu pourras les<br>choisir librement pour t'accompagner dans tes\naventures !"
     },
     "50756": {
-        "「お前の活躍を　楽しみにしているぞ。\n　ガハハハハハ！！": "Je me rejouis de voir tes exploits. Gahahahaha\n!!"
+        "「お前の活躍を　楽しみにしているぞ。\n　ガハハハハハ！！": "J'ai hate de voir ce que tu peux faire.\nGahahahahaha!!"
     }
 }
