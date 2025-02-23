@@ -26,9 +26,6 @@
     "22971": {
         "「お前　海から流れ着いた　流れモンだな？\n　にしちゃあ　こんな海から離れた所で\n　倒れてるってのも　妙な話だが……。": "Tu es un naufrage qui a echoue ici, n'est-ce\npas ? C'est etrange de te retrouver effondre\nsi loin de la mer..."
     },
-    "22972": {
-        "「ここは　絶海の　小さな孤島だ。\n　あるのは　ナルビアって町が　ひとつっきりで\n　エテーネの村なんて　聞いたこともねえ。": "Ici, c'est une petite ile isolee au milieu de\nl'ocean. Il n'y a qu'une seule ville, Narubia,\net je n'ai jamais entendu parler d'un village\n<br>\nnomme Ethene."
-    },
     "22973": {
         "「起きられるんなら　すぐそこの\n　ナルビアの町に行きな。流れモンだからって\n　冷たく　あしらうような町じゃねえからよ。": "Si tu peux te lever, rends-toi tout de suite a\nNalbia, juste la. Ce n'est pas une ville qui\ntraite froidement les etrangers."
     },
@@ -46,9 +43,6 @@
     },
     "22981": {
         "「……なるほど。その釜に　興味を持ったのか。\n　どこのウマのホネとも　知れねえヤツだが\n　そいつに　目をつけたところは　ほめてやるぜ！": "…Je vois. Tu t'interesses donc a ce chaudron.\nJe ne sais pas d'ou tu sors, mais je dois te\nfeliciter d'avoir remarque cet objet !"
-    },
-    "22982": {
-        "「その釜は　我が家に伝わる　錬金釜だ。\n　錬金術を使うためには　欠かせない\n　オレの　命よりも大事な　魔法の釜よ！": "Ce chaudron est l'Alchemy Pot transmis dans ma\nfamille. C'est indispensable pour utiliser\nl'alchimie, un chaudron magique plus precieux<br>que ma propre vie !"
     },
     "22983": {
         "「そして　その錬金釜こそが　錬金術師の証！\n　つまり　このオレこそが　選ばれし存在……\n　今では数少なくなった　錬金術師様ってワケだ！": "Et cet Alchemy Pot est justement la marque des\nalchimistes ! En d'autres termes, je suis\nl'elu... Je suis l'un des rares alchimistes<br>restants !"
@@ -535,5 +529,11 @@
     },
     "146749": {
         "「救世主　<kyodai>の<pc_rel2>　<pc>よ。\n　<kyodai_rel3>は　この時代で　がんばったぞ。\n　その思いを　しっかり　受け取っておくれ。": "<pc>, <pc_rel2> de <kyodai>. \nTa famille a tout donne en cette epoque.\nRecois pleinement ses sentiments."
+    },
+    "22982": {
+        "「その釜は　我が家に伝わる　錬金釜だ。 　錬金術を使うためには　欠かせない 　オレの　命よりも大事な　魔法の釜よ！": "Ce chaudron est l'Alchemy Pot transmis dans ma\r\nfamille. C'est indispensable pour utiliser\r\nl'alchimie, un chaudron magique plus precieux\r\n<br>\r\nque ma propre vie !"
+    },
+    "22972": {
+        "「ここは　絶海の　小さな孤島だ。\\n　あるのは　ナルビアって町が　ひとつっきりで\\n　エテーネの村なんて　聞いたこともねえ。": "This is a small, isolated island in the middle\\nof the sea. There's only one town here,\\nNalbia. I've never heard of Ethene Village."
     }
 }
