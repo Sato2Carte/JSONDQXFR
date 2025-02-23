@@ -57,7 +57,7 @@
         "「……………………。": "......."
     },
     "22987": {
-        "「まさか　上やくそうのレシピも　知らねえのか？\n　そんなんで　よくも　錬金できるだなんて\n　言えたもんだ！": "Ne me dis pas que tu ne connais pas la\nrecette du Remede Puissant?\nComment peux tu te pretendre alchimiste?\n<br>\nC'est une  recette toute bete!"
+        "「まさか　上やくそうのレシピも　知らねえのか？\n　そんなんで　よくも　錬金できるだなんて\n　言えたもんだ！": "Ne me dis pas que tu ne connais pas la\nrecette du Remede Puissant?\nComment peux tu te pretendre alchimiste?\n<br>\nC'est une recette toute bete!"
     },
     "22988": {
         "「ほらよっ　この本をくれてやる。": "Tiens, prends ce livre."
@@ -108,10 +108,10 @@
         "<kyodai>は\nメラゾ熱のクスリの本を　手に入れた！<me 60>": "<kyodai> a obtenu le livre de Medecine de la\nFievre Megaflamme ! <me 60>"
     },
     "23004": {
-        "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。\n　オレが　素材集めなんか手伝わせたばっかりに\n　リリオルを　こんな目に　あわせちまった……。": "La Fievre Megaflamme est une terrible et\nancienne maladie.\nJ'ai entraine Lyriol dans ces embrouilles en\n<br>\nl'emmenant  avec moi chercher des ressources."
+        "「メラゾ熱ってのは　大昔の　恐ろしい病気だ。\n　オレが　素材集めなんか手伝わせたばっかりに\n　リリオルを　こんな目に　あわせちまった……。": "La Fievre Megaflamme est une terrible et\nancienne maladie.\nJ'ai entraine Lyriol dans ces embrouilles en\n<br>\nl'emmenant avec moi chercher des ressources."
     },
     "23005": {
-        "「頼む！　オレに代わってクスリを錬金してくれ！\n　材料の　めざめの花と　レッドベリーは\n　どっちも　その辺で　簡単に手に入る素材だ！": "S'il te plait!\nJ'ai besoin que tu concoctes ce medicament\npour moi!\n<br>\nLes ingredients, de la Volubilis et de la\nPimenboise, sont facilement  trouvables\nautour de nous!"
+        "「頼む！　オレに代わってクスリを錬金してくれ！\n　材料の　めざめの花と　レッドベリーは\n　どっちも　その辺で　簡単に手に入る素材だ！": "S'il te plait!\nJ'ai besoin que tu concoctes ce medicament\npour moi!\n<br>\nLes ingredients, de la Volubilis et de la\nPimenboise, sont facilement trouvables\nautour de nous!"
     },
     "23016": {
         "「や……　やってくれたか！\n　すげえぞ　ウマのホネ！": "Oh, tu l'as fais!\nC'est vraiment super, Etranger!"
@@ -162,7 +162,7 @@
         "「……よし！\n　これから　お前のことは\n　宿ナシと　呼ばせてもらうぜ！": "Tres bien!\nA present, je vais t'appeler notre Sauveur!"
     },
     "23032": {
-        "「たいした　もてなしは　できないが\n　クスリを作ってもらった　礼がしたい。\n　今夜は　ぜひ　うちに泊まっていってくれ。": "Je ne peux pas t'offrir grand chose en\nhospitalite, mais je veux te remercier\nsincerement pour ce medicament.\n<br>\nS'il te plait  reste chez moi ce soir."
+        "「たいした　もてなしは　できないが\n　クスリを作ってもらった　礼がしたい。\n　今夜は　ぜひ　うちに泊まっていってくれ。": "Je ne peux pas t'offrir grand chose en\nhospitalite, mais je veux te remercier\nsincerement pour ce medicament.\n<br>\nS'il te plait reste chez moi ce soir."
     },
     "23033": {
         "<center><kyodai>は　イッショウから\n手厚い　もてなしを受けた。": "<kyodai> recoit la genereuse hospitalite de\nIssho."
@@ -228,7 +228,7 @@
         "「……はあ？\n　てめえ　勝手に決めてんじゃねえ！\n　この家の主は　オレだ！": "Huh?\nNe decide pas toi meme!\nC'est moi le proprietaire de cette maison\n<br>\nquand meme!"
     },
     "23054": {
-        "「お父さんは　もう錬金できないんでしょ？\n　なら　<kyodai>が代わりに　錬金釜を\n　使ってくれたほうが　みんなのためになるわ！": "Ton pere ne peut plus faire d'alchimie hein?\nAlors c'est mieux pour tout le monde si\n<kyodai> le fait  a sa place!"
+        "「お父さんは　もう錬金できないんでしょ？\n　なら　<kyodai>が代わりに　錬金釜を\n　使ってくれたほうが　みんなのためになるわ！": "Ton pere ne peut plus faire d'alchimie hein?\nAlors c'est mieux pour tout le monde si\n<kyodai> le fait a sa place!"
     },
     "23055": {
         "「て……　てめえっ　リリオル！\n　元気になったとたん　言いたい放題だな。\n　このヤロウ！": "Tu as dis toutes les choses qui te passaient\npar la tete depuis que tu te sens mieux hein.\nT'es horrible!"
@@ -252,7 +252,7 @@
         "「ありがとう　お父さん！\n　お父さんなら　きっと\n　賛成してくれると思ったわ<heart>": "Merci, Papa!\nJe savais que mon pere serait d'accord avec\nmoi<heart>."
     },
     "23062": {
-        "「やい　イソーロー！　オレの錬金釜を\n　使わせてやるんだから　キビキビ　はたらけよ！\n　グータラしやがったら　承知しねえぞ！": "Hey, Apprentimiste!\nJe te laisse utiliser mon Alchimarmite, alors\ntravaille dur!\n<br>\nSi t'es trop flemmard, j'aurais deux trois\nmots  te dire tu vois!"
+        "「やい　イソーロー！　オレの錬金釜を\n　使わせてやるんだから　キビキビ　はたらけよ！\n　グータラしやがったら　承知しねえぞ！": "Hey, Apprentimiste!\nJe te laisse utiliser mon Alchimarmite, alors\ntravaille dur!\n<br>\nSi t'es trop flemmard, j'aurais deux trois\nmots te dire tu vois!"
     },
     "23063": {
         "「この町で　錬金に　はげんでりゃあ\n　いずれ　故郷に帰るための手掛かりが\n　見つかる日も　来るだろう！　オレの勘だがな！": "Si tu continues l'alchimie dans cette ville,\nun jour tu trouveras bien des indices pour\nrentrer chez toi!\n<br>\nC'est mon intuition!"
@@ -324,7 +324,7 @@
         "「なっ　なんじゃ　この豆！？\n　めちゃくちゃ　うまいでは　ないかっ！！": "Qu'est ce que c'est que ces graines?\nElles sont si bonnes!"
     },
     "23086": {
-        "「もぐもが　もぐもぐ……。\n　じゅるっ……　もがっ　まめっ　うまっ！！": "Moo goo moo goo.\nMoo goo, moo goo, cloque cloque cloque cloque\ncloque cloque  cloque cloque cloque!"
+        "「もぐもが　もぐもぐ……。\n　じゅるっ……　もがっ　まめっ　うまっ！！": "Moo goo moo goo.\nMoo goo, moo goo, cloque cloque cloque cloque\ncloque cloque cloque cloque cloque!"
     },
     "23087": {
         "「……………………。": "......."
@@ -378,7 +378,7 @@
         "「なんと！　見たこともない豆じゃ。": "Quelle surprise!\nJe n'en ai jamais vu auparavant."
     },
     "23104": {
-        "「このふしぎな豆は　わしに　チカラを与え\n　儀式の最後のカベを　越えさせてくれた。\n　わしは　この豆を………": "Ces Graines Mysterieuse m'ont donne la force\nde franchir le seuil final du rituel.\nJe vais prendre ces  graines..."
+        "「このふしぎな豆は　わしに　チカラを与え\n　儀式の最後のカベを　越えさせてくれた。\n　わしは　この豆を………": "Ces Graines Mysterieuse m'ont donne la force\nde franchir le seuil final du rituel.\nJe vais prendre ces graines..."
     },
     "23105": {
         "「ハツラツ豆と　名付ける！": "On appelle ca des Graines Toniques!"
@@ -405,7 +405,7 @@
         "「カメさまの　お告げの通り\n　わしが　新たなる巫女となるために\n　チカラを尽くしてくれた！": "Comme Chelonios l'a predit, il a fait tout ce\nqui etait en son pouvoir pour m'aider a\ndevenir pretresse!"
     },
     "23113": {
-        "「わしは　村の救世主　<kyodai>に敬意を表し\n　エテーネの民のひとりとして　迎えると決めた。\n　皆の者も　仲良くしてやってくれい！": "J'ai decide d'honorer le sauveur de notre\nvillage, <kyodai>, et l'accueillir en tant\nque nouvel  habitant de Cadis!"
+        "「わしは　村の救世主　<kyodai>に敬意を表し\n　エテーネの民のひとりとして　迎えると決めた。\n　皆の者も　仲良くしてやってくれい！": "J'ai decide d'honorer le sauveur de notre\nvillage, <kyodai>, et l'accueillir en tant\nque nouvel habitant de Cadis!"
     },
     "23114": {
         "「以上！　解散っ！！": "C'est tout!\nDisposez!"
@@ -444,7 +444,7 @@
         "「ゴルルルゥ。におう……におうぞォ！\n　こいつは　錬金術師の　においだなァ！？": "Sacrebleu.\nJe peux le sentir!\nCe mec sent l'alchimiste a plein nez!"
     },
     "37760": {
-        "「オレ様を　こんなほこらに\n　閉じ込めやがった　錬金術師ィ！\n　ゆるさん……ゆるさんぞォォォォォ！！": "L'alchimiste qui m'a enferme la dedans!\nJe ne te pardonnerais pas, Je ne te\npardonnerais pas, Je ne te pardonnerais pas,\n<br>\nJe  ne PARDONNERAIS PAS!"
+        "「オレ様を　こんなほこらに\n　閉じ込めやがった　錬金術師ィ！\n　ゆるさん……ゆるさんぞォォォォォ！！": "L'alchimiste qui m'a enferme la dedans!\nJe ne te pardonnerais pas, Je ne te\npardonnerais pas, Je ne te pardonnerais pas,\n<br>\nJe ne PARDONNERAIS PAS!"
     },
     "37761": {
         "「我は　この世を絶望で満たすために\n　はるか死の世界より　訪れし者……。": "Je suis celui qui provient du lointain\nroyaume des morts afin de remplir ce monde de\ndesespoir."
@@ -453,37 +453,37 @@
         "「せっかく　ひとりの　有能な錬金術師から\n　その能力を消し去ったというのに　すぐに\n　新たな錬金術師が　現れるとは……。": "Comment un alchimiste aussi talentueux avec\nplus aucune capacite peut etre remplace par\nun autre alchimiste?"
     },
     "37763": {
-        "「貴様も　あの錬金術師のように\n　我に　錬金術師としてのチカラを捧げよ！\n　そして　ふたたび　死の絶望を味わうのだ！": "Comme l'alchimiste, toi aussi doit ME devouer\ntes pouvoirs alchimiques!\nEt encore une fois gouter au desespoir  et la\n<br>\nmort!"
+        "「貴様も　あの錬金術師のように\n　我に　錬金術師としてのチカラを捧げよ！\n　そして　ふたたび　死の絶望を味わうのだ！": "Comme l'alchimiste, toi aussi doit ME devouer\ntes pouvoirs alchimiques!\nEt encore une fois gouter au desespoir et la\n<br>\nmort!"
     },
     "37764": {
         "「どうだい　ボクのキンキラの身体。\n　すっごい錬金術師が　作ってくれたんだよ。": "Comment trouves tu mon corps luisant?\nUne incroyable alchimiste l'a fait pour moi."
     },
     "37765": {
-        "「知ってるよ。キミも錬金術師なんだろ？\n　ここまで来た人は　本当に　ひさしぶりで\n　ボク　とっても　うれしいよ。": "Je sais, tu es alchimiste toi aussi, c'est ca?\nCela fait bien longtemps qu'une personne\naille aussi loin  et je suis content."
+        "「知ってるよ。キミも錬金術師なんだろ？\n　ここまで来た人は　本当に　ひさしぶりで\n　ボク　とっても　うれしいよ。": "Je sais, tu es alchimiste toi aussi, c'est ca?\nCela fait bien longtemps qu'une personne\naille aussi loin et je suis content."
     },
     "37766": {
         "「さあ　キミのチカラを見せてほしいな。\n　それが　ボクのお仕事なんだ。\n　ほら　いくよっ　いくよ～っ！！": "Je veux voir ce que tu peux faire.\nC'est mon travail.\nJ'arrive, j'arriiiive!"
     },
     "37767": {
-        "「おお……。ついに　我が前に現れたか。\n　セルゲイナスの呪いすら　退ける\n　類まれなる　錬金術師の才能を持つ者よ。": "Oh.\nEnfin tu te montres a moi.\nToi qui possede les dons de l' alchimie\n<br>\nrepoussant meme les maledictions  de Chiron."
+        "「おお……。ついに　我が前に現れたか。\n　セルゲイナスの呪いすら　退ける\n　類まれなる　錬金術師の才能を持つ者よ。": "Oh.\nEnfin tu te montres a moi.\nToi qui possede les dons de l' alchimie\n<br>\nrepoussant meme les maledictions de Chiron."
     },
     "37768": {
-        "「私の名は　バルザック。\n　究極と呼ばれる錬金術……　とある秘法により\n　自身の姿すら作り変えた　偉大なる錬金術師だ。": "Mon nom est Dickenz, et je suis un grand\nalchimiste qui, au travers d'une secrete\nmethode connue sous le nom  d'Ultime\n<br>\nAlchimie, a meme modifie sa propre appearance."
+        "「私の名は　バルザック。\n　究極と呼ばれる錬金術……　とある秘法により\n　自身の姿すら作り変えた　偉大なる錬金術師だ。": "Mon nom est Dickenz, et je suis un grand\nalchimiste qui, au travers d'une secrete\nmethode connue sous le nom d'Ultime\n<br>\nAlchimie, a meme modifie sa propre appearance."
     },
     "37769": {
         "「私は　これまで　多くの錬金術師を食らい\n　その知識と技術を　この身に宿してきた。": "J'ai devore beaucoup d'alchimistes, ainsi que\nleurs savoirs et leurs competences."
     },
     "37770": {
-        "「だが　食らうだけの価値がある\n　チカラを持った錬金術師は　なかなか現れぬ。\n　ゆえに　自ら　育てることにしたのだ。": "Cependant, les alchimistes dont le pouvoir\nmerite d'etre devore sont durs a trouver.\nJ'ai donc decide d'en  cultiver par moi-meme."
+        "「だが　食らうだけの価値がある\n　チカラを持った錬金術師は　なかなか現れぬ。\n　ゆえに　自ら　育てることにしたのだ。": "Cependant, les alchimistes dont le pouvoir\nmerite d'etre devore sont durs a trouver.\nJ'ai donc decide d'en cultiver par moi-meme."
     },
     "37771": {
-        "「ククク……。この地にある　ほこらはな\n　未熟な錬金術師に　チカラをつけさせるため\n　私が創りだした　巨大な錬金釜だったのさ。": "Kukuku.\nLa forteresse sur ces terres etait une\nAlchimarmite geante que j'ai cree pour donner\n<br>\naux alchimistes  incompetents la force."
+        "「ククク……。この地にある　ほこらはな\n　未熟な錬金術師に　チカラをつけさせるため\n　私が創りだした　巨大な錬金釜だったのさ。": "Kukuku.\nLa forteresse sur ces terres etait une\nAlchimarmite geante que j'ai cree pour donner\n<br>\naux alchimistes incompetents la force."
     },
     "37772": {
         "「そうとも知らず　貴様は\n　錬金術師としての　ウデをみがき続け\n　こうして　私の前に現れた！": "Inconscient de tout cela, tu as continue ta\nroute pour ameliorer ton savoir et tu es\napparu devant moi!"
     },
     "37773": {
-        "「残念だが　このほこらの先に\n　行かせるわけにはいかん！　貴様は　ここで\n　我が錬金術のチカラの　一部となるのだ！": "Je suis au regret de t'informer que je ne\npeux pas te laisser aller plus loin.\nTu vas devenir une partie de mes  pouvoirs\n<br>\nalchimiques, ici et maintenant!"
+        "「残念だが　このほこらの先に\n　行かせるわけにはいかん！　貴様は　ここで\n　我が錬金術のチカラの　一部となるのだ！": "Je suis au regret de t'informer que je ne\npeux pas te laisser aller plus loin.\nTu vas devenir une partie de mes pouvoirs\n<br>\nalchimiques, ici et maintenant!"
     },
     "37774": {
         "「ふたたび　来るとは思わなかったぞ。\n　だが　残念ながら　このほこらの先に\n　行かせるわけにはいかん！": "Je ne pensais pas que tu reviendrais.\nCependant, je suis desole, mais je ne peux pas\nte laisser aller plus loin dans ce sanctuaire!"
@@ -510,7 +510,7 @@
         "「……何も言わんでよい。\n　このことは　お前と　わしの\n　ふたりだけの　秘密にしておこう。": "Tu n'as rien besoin de dire.\nNous garderons ca entre nous."
     },
     "146743": {
-        "「時渡りは　とうの昔に　忘れ去られた術。\n　ふたたび　人々が　クチにするようになれば\n　悪しき者に　目をつけられやすくなるからのう。": "Transcender le Temps est un art ancestral.\nSi les gens recommencent a en parler ca sera\ntres facile pour les  mechants d'en entendre\n<br>\nparler."
+        "「時渡りは　とうの昔に　忘れ去られた術。\n　ふたたび　人々が　クチにするようになれば\n　悪しき者に　目をつけられやすくなるからのう。": "Transcender le Temps est un art ancestral.\nSi les gens recommencent a en parler ca sera\ntres facile pour les mechants d'en entendre\n<br>\nparler."
     },
     "146744": {
         "「……そう。今　この時代に\n　時渡りの術を使える者は　おらん。\n　お前が　元の時代に帰る方法はないのじゃ。": "C'est vrai.\nPersonne ne peut utiliser cet art durant\nnotre epoque Il n'y a aucun moyen pour toi\n<br>\nde revenir a la tienne."
@@ -528,12 +528,12 @@
         "「強く祈れば　その思いは　形となり\n　必ず　<pc>の元へ　届くはずじゃ。": "Si tu pries suffisemment, tes pensees\nprendront forme, et atteindront <pc> sans\nl'ombre d'un doute."
     },
     "146749": {
-        "「救世主　<kyodai>の<pc_rel2>　<pc>よ。\n　<kyodai_rel3>は　この時代で　がんばったぞ。\n　その思いを　しっかり　受け取っておくれ。": "Sauveur <kyodai> et <pc_rel2> <pc>.\n<kyodai_rel3> a fait de son mieux en ce temps.\nAccepte ses  pensees et emotions."
+        "「救世主　<kyodai>の<pc_rel2>　<pc>よ。\n　<kyodai_rel3>は　この時代で　がんばったぞ。\n　その思いを　しっかり　受け取っておくれ。": "Sauveur <kyodai> et <pc_rel2> <pc>.\n<kyodai_rel3> a fait de son mieux en ce temps.\nAccepte ses pensees et emotions."
     },
     "22982": {
-        "「その釜は　我が家に伝わる　錬金釜だ。 　錬金術を使うためには　欠かせない 　オレの　命よりも大事な　魔法の釜よ！": "Ce pot est l'Alchimarmite de la famille.\nC'est un outil encore plus important que ma\nvie, essentiel pour utiliser  l'alchimie!"
+        "「その釜は　我が家に伝わる　錬金釜だ。 　錬金術を使うためには　欠かせない 　オレの　命よりも大事な　魔法の釜よ！": "Ce pot est l'Alchimarmite de la famille.\nC'est un outil encore plus important que ma\nvie, essentiel pour utiliser l'alchimie!"
     },
     "22972": {
-        "「ここは　絶海の　小さな孤島だ。\\n　あるのは　ナルビアって町が　ひとつっきりで\\n　エテーネの村なんて　聞いたこともねえ。": "C'est une petite ile isolee au milieu de\nl'ocean.\nIl n'y a qu'une seule ville ici, Nalbia, et\n<br>\nj'ai jamais entendu  parler du Village de\nCadis."
+        "「ここは　絶海の　小さな孤島だ。\\n　あるのは　ナルビアって町が　ひとつっきりで\\n　エテーネの村なんて　聞いたこともねえ。": "C'est une petite ile isolee au milieu de\nl'ocean.\nIl n'y a qu'une seule ville ici, Nalbia, et\n<br>\nj'ai jamais entendu parler du Village de\nCadis."
     }
 }
