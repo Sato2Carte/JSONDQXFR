@@ -33,7 +33,7 @@
         "<pc>は　エテーネルキューブのチカラで\n時を渡って見た　荒廃した未来のアストルティアに\nあの繭があったことを　説明した！": "<pc> a explique qu'il avait vu ce cocon\ndans le futur devaste d'Astoltia, grace au\npouvoir de l'Ethenel Cube pour voyager dans le<br>temps !"
     },
     "177079": {
-        "「大変でアール！　大変でアール！\n　<pc>が見た光景が　現実になるなら\n　世界は　滅亡してしまうのでアール！！": "大変でAru！ 大変でAru！ <pc>が見た光景が P. 実になるなら 世界は\n滅亡してしまうのでAru！！"
+        "「大変でアール！　大変でアール！\n　<pc>が見た光景が　現実になるなら\n　世界は　滅亡してしまうのでアール！！": "C’est terrible, c’est terrible !\nSi ce que <pc> a vu devient realite, le\nmonde sera detruit !!"
     },
     "177080": {
         "「繭……ということは\n　あの中には　生き物が潜んでいると？": "Un cocon... Cela signifie qu'une creature se\ncache a l'interieur ?"
@@ -114,7 +114,7 @@
         "「さっすが　アンルシアちゃん！\n　魔獣を　一刀両断とは　かっこいいのぅ～！": "Comme prevu de toi, Anlucia-chan ! Trancher\nune bete demoniaque en un seul coup, c'etait\nimpressionnant !"
     },
     "177106": {
-        "「……こいつが　突然　現れたという\n　魔獣なのね。<cs_pchero>。\n　あの　不気味な繭と　関係があるのかしら……。": "C'est donc la creature magique qui a\nsoudainement P. <cs_pchero>. Je me demande si\ncela a un lien avec ce cocon sinistre"
+        "「……こいつが　突然　現れたという\n　魔獣なのね。<cs_pchero>。\n　あの　不気味な繭と　関係があるのかしら……。": "...C’est donc la bete dont on a parle, apparue\nsoudainement. <cs_pchero>. Est-ce que ca a un\nlien avec ce cocon inquietant...?"
     },
     "177107": {
         "「………………！": "！"
@@ -330,7 +330,7 @@
         "「ちょっと　座標がズレたみたいキュル。 \n　まあ　１０００年も　時間跳躍したんだから\n　この程度は　誤差の範囲キュ。": "Il semble que les coordonnees aient legerement\ndevie, Kyuru. Eh bien, apres un saut dans le\ntemps de 1000 ans, c'est une marge d'erreur<br>acceptable, Kyuru."
     },
     "177178": {
-        "「さてと。現地人との接触は\n　<pc>に　まかせたキュ。\n　ボクは　しばらく　休息を取るキュル。": "さてとP. 地人との接触は <pc>にまかせたキュ\nボクはしばらく休息を取るキュル"
+        "「さてと。現地人との接触は\n　<pc>に　まかせたキュ。\n　ボクは　しばらく　休息を取るキュル。": "Bon.\nJe te laisse t’occuper des locaux, <pc>.\nMoi, je vais me reposer un peu, kyu."
     },
     "177179": {
         "「……この場所ならば　城の者たちに\n　聞かれる心配は　ないでしょう。": "Dans cet endroit, nous n'avons pas a nous\nsoucier d'etre entendus par les gens du\nchateau."
