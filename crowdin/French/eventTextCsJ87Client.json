@@ -318,7 +318,7 @@
         "「しばらくは　それでよかったんだ。\n　でも　メネトのみんなが　悪夢を見るように\n　なってから　状況は変わってしまった。": "Pendant un moment, tout allait bien comme ca.\nMais lorsque tout le monde a Meneth a commence\na faire des cauchemars, la situation a change."
     },
     "320359": {
-        "「この地に　ジア・クトが襲ってきた時の\n　恐怖の記憶が　みんなの心を蝕んで\n　次第に　悪夢となって　現れるようになった。": "La terreur du souvenir de l'attaque de Jia\nKuto sur cette terre a ronge le coeur de tout\nle monde, se transformant peu a peu en<br>cauchemar et en P."
+        "「この地に　ジア・クトが襲ってきた時の\n　恐怖の記憶が　みんなの心を蝕んで\n　次第に　悪夢となって　現れるようになった。": "Quand Dia Kut a attaque cette terre, la peur\ngravee dans les cœurs s'est transformee en\ncauchemars."
     },
     "320360": {
         "「そして　長い年月の間……皆の夢の中で\n　くり返された悪夢は　やがて　実体を得て\n　ひとり歩きを　始めてしまったんだ。": "Et pendant de longues annees, Mn., le\ncauchemar qui se repetait dans les reves de\ntous a fini par prendre forme et a commence a<br>se manifester independamment."
@@ -729,6 +729,6 @@
         "「村にとどまっているのも　危ないかもしれない。\n　急いで　宵の神殿に向かおう。": "Rester dans le village pourrait etre\ndangereux. Depechons-nous de nous rendre au\nTemple of Twilight."
     },
     "324972": {
-        "<cs_pchero>たちは　悪夢の世界を後にし\n現実のラランブラ山道へ　戻った！ ": "<cs_pchero> et son groupe quittent le World of\nNightmares et retournent au col de la montagne\nLarambla de P. 実 !"
+        "<cs_pchero>たちは　悪夢の世界を後にし\n現実のラランブラ山道へ　戻った！ ": "<cs_pchero> a quitte le monde des cauchemars\net est retourne sur le chemin montagneux de\nLarambla !"
     }
 }
