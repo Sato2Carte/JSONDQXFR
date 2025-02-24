@@ -222,7 +222,7 @@
         "「聞こえていることを　確認したキュ。": "Je confirme que tu m'entends bien, kyu."
     },
     "144537": {
-        "「現在の状況を説明するので\n　だまって　ボクの話を聞くキュ。": "P. Je vais expliquer la situation actuelle,\nalors ecoute attentivement ce que j'ai a dire,\nkyu."
+        "「現在の状況を説明するので\n　だまって　ボクの話を聞くキュ。": "Je t’explique la situation, alors ecoute-moi\nbien, kyu."
     },
     "144538": {
         "「おっと　自己紹介を忘れていたキュ。\n　ボクは……　そうキュね。\n　キュルルという名で　呼んでほしいキュ。": "Oups, j'ai oublie de me presenter, kyu. Je\nsuis... Voyons, kyu. Appelez-moi Kyururu, kyu."
@@ -354,7 +354,7 @@
         "「そうか……。\n　どうやら　<pc>には　もう一度\n　過去へ　とんでもらう必要が　あるようだ。": "Je vois... Il semble que <pc> doive\nretourner dans le passe une fois de plus."
     },
     "144581": {
-        "「ただ……現状では　それは\n　無理だと　言わざるを得ないキュ。": "Cependant... dans l'etat actuel de P., je suis\noblige de dire que c'est impossible, kyu."
+        "「ただ……現状では　それは\n　無理だと　言わざるを得ないキュ。": "Mais... pour l’instant, c’est impossible, kyu."
     },
     "144582": {
         "「キューブのエナジー残量が　ゼロに近く\n　再度の時間跳躍は　不可能だキュ。": "Le niveau d'energie du cube est presque a\nzero, il est donc impossible de sauter dans le\ntemps a nouveau, kyu."
@@ -798,7 +798,7 @@
         "「軍司令部にいくならば　王都に入ったら\n　大通りを　まっすぐ　進めばよい。\n　中央広場にある正門が　見えてくるはずだ。": "Si tu vas au quartier general militaire, une\nfois entre dans la capitale, avance simplement\ntout droit sur la grande avenue. Tu devrais<br>apercevoir le portail principal sur la place\ncentrale."
     },
     "145225": {
-        "「屋敷の様子が　前に来たときと\n　まったく　異なっているキュ。\n　現在の年代を　測定してみるキュ。": "<L'apparence du manoir est completement\ndifferente de la derniere fois que nous sommes\nvenus.> <P. Je vais essayer de dater son age.>"
+        "「屋敷の様子が　前に来たときと\n　まったく　異なっているキュ。\n　現在の年代を　測定してみるキュ。": "Le manoir est completement different de la\nderniere fois, kyu.\n<br>\nJe vais verifier l’epoque a laquelle on se\ntrouve, kyu."
     },
     "145226": {
         "「<pc>。ボクたちは\n　前に来たときよりも　若干　時が過ぎた状態の\n　屋敷に到着したと　推測されるキュ。": "<pc>. On dirait que nous sommes arrives\ndans le manoir a un moment legerement plus\navance que lors de notre precedente visite,<br>kyu."
@@ -822,7 +822,7 @@
         "<color_yellow>過去の世界で訪れた場所が　登録されるほか\n時空のしるべを　しらべることで\nそこを　行き先として　登録できます。": "<color_yellow>En plus des lieux visites dans\nle monde passe qui sont enregistres, vous\npouvez examiner les balises temporelles pour<br>les enregistrer comme destination."
     },
     "145233": {
-        "<color_yellow>過去では　屋根のある場所でも　使えます。\nまた　『現代へ戻る』を選ぶと\nもとの時代へ　戻ることができます。": "<color_yellow>Dans le passe, vous pouvez\nl'utiliser meme dans les endroits couverts. De\nplus, en choisissant 'Retour a l'epoque P.',<br>vous pouvez retourner a votre epoque\nd'origine."
+        "<color_yellow>過去では　屋根のある場所でも　使えます。\nまた　『現代へ戻る』を選ぶと\nもとの時代へ　戻ることができます。": "<color_yellow>Dans le passe, tu peux l’utiliser meme dans\ndes endroits couverts.\n<br>\n<color_yellow>En choisissant « Retourner au present », tu\npeux revenir a ton epoque d’origine."
     },
     "145234": {
         "「時間が　多少ズレたとはいえ\n　ここが　エテーネ王国のメレアーデがいた\n　屋敷であることは　まちがいないキュ。": "Bien que le temps ait legerement devie, il ne\nfait aucun doute que cet endroit est le manoir\nou se trouvait Mereade du royaume d'Ethene,<br>kyu."
@@ -1110,7 +1110,7 @@
         "「ありがとう　<pc>……。": "Merci, <pc>..."
     },
     "188007": {
-        "「現在地は　レンダーシア大陸。\n　ただし　キミが知る時間軸より　未来の……\n　滅亡を迎えた　レンダーシアだキュ。": "P. Le lieu est le continent de Lendersia.\nCependant, c'est dans un futur par rapport a\nla ligne temporelle que tu connais... Une<br>Lendersia qui a rencontre sa destruction, kyu."
+        "「現在地は　レンダーシア大陸。\n　ただし　キミが知る時間軸より　未来の……\n　滅亡を迎えた　レンダーシアだキュ。": "Nous sommes sur le continent de Lendersia.\nMais dans un futur par rapport a la ligne\ntemporelle que tu connais...\n<br>\nLendersia apres sa destruction, kyu."
     },
     "188008": {
         "<pc>は　床に落ちていた枝に\n足を取られて　転んでしまった！": "<pc> a trebuche sur une branche tombee\nau sol et est tombe !"
