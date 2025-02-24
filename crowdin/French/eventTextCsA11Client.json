@@ -21,16 +21,16 @@
         "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special."
     },
     "14702": {
-        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu'un jour, je pourrais monter\nsur le dos de Galapagod, le dieu protecteur du\nvillage…\n<br>\nVivre longtemps reserve bien des surprises."
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu'un jour, je pourrais monter\nsur le dos de Chelonios, le dieu protecteur du\nvillage...\n<br>\nVivre longtemps reserve bien des surprises."
     },
     "14703": {
-        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>. Nous devons egalement\nemmener les autres."
+        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>.\nNous devons egalement emmener les autres."
     },
     "14704": {
         "「はい　アバさま。": "Oh, Abba."
     },
     "14705": {
-        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main…<endif>>"
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<endif>>"
     },
     "14706": {
         "「ダメじゃ！": "C'est impossible !"
@@ -912,13 +912,13 @@
         "「はいっ　アバさま。": "Oui, Abba."
     },
     "15126": {
-        "「おら！　<pc>も　乗りな乗りな！\n　ほら　オレの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
+        "「おら！　<pc>も　乗りな乗りな！\n　ほら　オレの手に　つかまって……": "Allez ! <pc>, monte, monte !\nTiens,attrape ma main..."
     },
     "15127": {
-        "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
+        "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte !\nTiens,attrape ma main..."
     },
     "15128": {
-        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>Allez ! Grande soeur, monte, monte ! Tiens, attrape ma main...<else>Allez ! Grand frere, monte, monte ! Tiens, attrape ma main...<endif>>"
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>Allez !\nGrande soeur, monte, monte !\nTiens, attrape ma main...<else>Allez !\nGrand frere, monte, monte !\nTiens, attrape ma main...<endif>>"
     },
     "15129": {
         "「……えっ？": "...Hein ?"
