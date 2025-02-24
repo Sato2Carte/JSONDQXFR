@@ -48,7 +48,7 @@
         "「……………………。": "........................"
     },
     "14711": {
-        "「そ　れ　は　な…………": "Parceque..."
+        "「そ　れ　は　な…………": "C'est parceque..."
     },
     "14712": {
         "<shake_big>「<kyodai>ーー！！": "<shake_big><kyodai>！！"
@@ -60,13 +60,13 @@
         "「<pc>！　<pc>っ！\n　いないのかい？": "He <pc> ! <pc> ?"
     },
     "14716": {
-        "「おや　まだ寝てたのかい？\n　あんたにしちゃ　めずらしいね。": "Tu dormais encore ? Ca ne te ressemble pas pourtant."
+        "「おや　まだ寝てたのかい？\n　あんたにしちゃ　めずらしいね。": "Tu dormais encore ?\nCa ne te ressemble pas pourtant."
     },
     "14717": {
         "「そうだ！　それより　聞いておくれよ！\n　その　<kyodai>がね！": "Bon, ecoute, c'est a propos de <kyodai>."
     },
     "14718": {
-        "「錬金術で　ハツラツ豆を\n　１０倍に増やすって言ったのに　失敗して\n　全部　灰にしちゃったんだよ！": "Elle voulait utiliser l'alchimie pour decupler notre recolte de Pep beans, mais elle a echoue et tout a ete reduit en cendres."
+        "「錬金術で　ハツラツ豆を\n　１０倍に増やすって言ったのに　失敗して\n　全部　灰にしちゃったんだよ！": "Elle voulait utiliser l'alchimie pour decupler\nnotre recolte de Graines Toniques, mais elle a\nechoue et tout a ete reduit en cendres."
     },
     "14719": {
         "「今年最後の　ハツラツ豆を……。\n　アバさまが　とーっても\n　楽しみにしてらっしゃったのに　ひどいだろ？": "Les derniers Haricots Pep de cette annee... \nAbba les attendait avec tellement \nd'impatience, c'est vraiment cruel, non ?"
@@ -864,7 +864,7 @@
         "「テキスト削除": "text deletion"
     },
     "15110": {
-        "「まったく！\n　<kyodai>は　逃げ足だけは速いんだから。": "<kyodai> est vraiment rapide quand il s'agit de s'enfuir."
+        "「まったく！\n　<kyodai>は　逃げ足だけは速いんだから。": "<kyodai> est vraiment rapide quand il s'agit\nde s'enfuir."
     },
     "15111": {
         "「<pc>ー！": "<pc>!!"
@@ -987,7 +987,7 @@
         "「だが　忘れていようがいまいが　関係ない！\n　エテーネの民は　皆殺しじゃあっ！！": "Mais que tu te souviennes ou non, cela n'a\naucune importance ! Les habitants d'Ethene\nseront tous massacres !!"
     },
     "15155": {
-        "「ああぁ……\n　今年最後の　ハツラツ豆がぁ……。": "Aaaah... Les dernieres Pep Beans de l'annee..."
+        "「ああぁ……\n　今年最後の　ハツラツ豆がぁ……。": "Ohh...\nLes dernieres Graines Toniques de l'annee..."
     },
     "15156": {
         "「あれは……！？": "Qu'est-ce que c'est... !?"
@@ -1056,7 +1056,7 @@
         "<center>そして　探すのです。\nあなたの使命を。\n生まれ変わることの意味を……。": "Et ainsi, cherchez. Votre mission. Le sens de\nvotre renaissance..."
     },
     "31661": {
-        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "Je savais que ca ne marcherait pas ! Que comptes-tu faire maintenant !?"
+        "「やっぱり　ダメだったじゃないか！\n　どうしてくれるんだい！！": "Je savais que ca ne marcherait pas !\nQue comptes-tu faire maintenant !?"
     },
     "31662": {
         "「テキスト削除": "text deletion"
@@ -1071,7 +1071,7 @@
         "<center>さあ　お行きなさい。\n母なる大地　アストルティアへ。": "Allez, partez maintenant. Vers la terre mere,\nAstoltia."
     },
     "43975": {
-        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "Quoi...? Tu as reve que <kyodai> et\nAbba montaient sur Galapagod...? Non, c'est impossible."
+        "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "Quoi...?\nTu as reve que <kyodai> et Abba\nmontaient sur Chelonios...?\n<br>\nNon, c'est impossible."
     },
     "46656": {
         "<if_woman><center>不運にも　今日\nこの世を去った　オーガの女性がいます。<else><center>不運にも　今日\nこの世を去った　オーガの青年がいます。<endif>>": "<if_woman> Il y a une femme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<else>Il y a un jeune homme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<endif>>"
