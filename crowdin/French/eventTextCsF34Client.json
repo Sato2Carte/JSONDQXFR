@@ -39,7 +39,7 @@
         "「ははっ。なんだ　脳ミソまで　ボウフラ級だな。\n　自分をひっとらえた　男の顔を忘れるとは。": "Ha ha ! Eh bien, on dirait que meme ton\ncerveau est de la taille d'une larve. Oublier\nle visage de l'homme qui t'a capture,<br>vraiment."
     },
     "151045": {
-        "「いいか？　俺は　クオード。\n　現エテーネ国王である　ドミネウスの息子であり\n　王国軍を指揮する　軍団長でもある！": "Ecoute bien ! Je suis Quard, fils de Dominus,\nle roi du royaume de P. Ethene, et egalement\ncommandant des forces armees du royaume !"
+        "「いいか？　俺は　クオード。\n　現エテーネ国王である　ドミネウスの息子であり\n　王国軍を指揮する　軍団長でもある！": "Ecoute bien ! Je suis Quard, fils de Dominus,\nl’actuel roi de Cadis, et commandant en chef\nde l’armee royale !"
     },
     "151046": {
         "「貴様が　屋敷で　ろうぜきを働いた　すぐ後に\n　第一王子であった父が　王位を継いでな。\n　それで　屋敷を引き払い　王宮へ越したのだ。": "<me 60> Juste apres que tu aies cause des\nproblemes au manoir, mon pere, qui etait le\npremier prince, a herite du trone. C'est pour<br>cela que nous avons quitte le manoir et\ndemenage au palais royal."
@@ -156,10 +156,10 @@
         "「あ…あなた！！\n　どこの　どなたか　存じませんが\n　しょしょしょ　正気ですかぁ～！？": "Ah... Vous !! Je ne sais pas qui vous etes,\nmais etes-vous sain d'esprit !?"
     },
     "151084": {
-        "「現在　この門は　使用禁止になっているんです。\n　この門を使った人たちが　どうなっているか\n　あなただって　知っているでしょう？<yesno><close>": "P. En ce moment, ce portail est interdit\nd'utilisation. Tu sais ce qui est arrive aux\npersonnes qui l'ont emprunte, n'est-ce pas<br>?<yesno><close>"
+        "「現在　この門は　使用禁止になっているんです。\n　この門を使った人たちが　どうなっているか\n　あなただって　知っているでしょう？<yesno><close>": "Actuellement, cette porte est interdite\nd’utilisation! Tu sais bien ce qui est arrive\na ceux qui l’ont empruntee, non ?<yesno><close>"
     },
     "151085": {
-        "「な　な　なんですってー！\n　転送の門の現状を　ご存知ないっ！？\n　あなた　どんな　おっとりさんですか！": "Quoi ! Quoi ! Quoi ! Vous ne connaissez pas\nl'etat de la porte de transfert P. !? Quel\ngenre de reveur etes-vous !"
+        "「な　な　なんですってー！\n　転送の門の現状を　ご存知ないっ！？\n　あなた　どんな　おっとりさんですか！": "Q-Quoiii !?\nTu n’es pas au courant de l’etat actuel de la\nporte de teleportation !?\n<br>\nMais dans quel monde tu vis, serieux !"
     },
     "151086": {
         "「いいですか。今　この門を　使った人たちは\n　全員が　行方知れずとなっていて\n　いっさい消息が　つかめなくなっているんです。": "Ecoutez bien. Actuellement, toutes les\npersonnes ayant utilise ce portail sont\nportees disparues, et nous n'avons plus aucune<br>nouvelle d'elles."
