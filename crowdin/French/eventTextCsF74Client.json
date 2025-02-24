@@ -51,7 +51,7 @@
         "「<cs_pchero>！　こっちじゃ　こっち。": "<cs_pchero> ! Par ici, par ici."
     },
     "196467": {
-        "「フフ……立派な船であろう！\n　これぞ　流砂の上を自在に進む　現代に復活せし\n　砂上専用高速船……通称　砂上船ぞよ。": "Fufu... Quelle magnifique embarcation ! Voici\nle navire rapide specialise pour les sables,\ncapable de naviguer librement sur les dunes.<br>Il a ete restaure pour l'ere P. On l'appelle\nsimplement le Sandship."
+        "「フフ……立派な船であろう！\n　これぞ　流砂の上を自在に進む　現代に復活せし\n　砂上専用高速船……通称　砂上船ぞよ。": "Fufu... Impressionnant ! Voici le vaisseau a\ngrande vitesse, ressuscite a notre epoque, qui\nvogue librement sur les sables mouvants...\n<br>\nLe Vaisseau des Sables."
     },
     "196468": {
         "「積もる話もあるが　今はさっそく \n　遺跡へ　向かうとしよう。余の　華麗なる\n　操船技術を　とくと　味わうがよい。": "Il y a tant de choses a raconter, mais pour\nl'instant, dirigeons-nous sans tarder vers les\nruines. Profitez pleinement de ma technique de<br>navigation elegante."
@@ -345,7 +345,7 @@
         "「帰りましょう。あなたの時代に……。": "Rentons chez vous. Dans votre epoque..."
     },
     "196565": {
-        "<pc>たちは　エテーネルキューブで\n現代のグランゼドーラ城下町に　戻って\n歩き出した。": "Les <pc> sont retournes a la ville basse\ndu chateau de Gran Zedora de l'epoque P. avec\nle Cube d'Ethenel et ont commence a marcher."
+        "<pc>たちは　エテーネルキューブで\n現代のグランゼドーラ城下町に　戻って\n歩き出した。": "<pc> et ses compagnons revinrent a\nl’epoque actuelle dans la ville basse de Gran\nZedora grace au Cube Eternel et partirent."
     },
     "196566": {
         "なんと　メレアーデは　突然\n気を失って　倒れてしまった！": "Oh non, Mereade a soudainement perdu\nconnaissance et s'est effondree !"
@@ -669,7 +669,7 @@
         "「おかげで　予想外の手がかりを　得られました。\n　ひょっとすると　あの方の汚名を\n　そそぐことが　できるかもしれません……。": "Grace a cela, nous avons pu obtenir un indice\ninattendu. Peut-etre qu'il sera possible de\nlaver l'honneur de cette personne..."
     },
     "196673": {
-        "「私は　現地に潜り込んでいる\n　協力者を頼りに　帝国技術庁へ向かいます。": "Je vais me rendre au Departement des\nTechnologies Imperiales, en comptant sur\nl'aide de mon collaborateur infiltre a P. 地."
+        "「私は　現地に潜り込んでいる\n　協力者を頼りに　帝国技術庁へ向かいます。": "Je vais compter sur un allie infiltre sur\nplace et me diriger vers l'Agence Imperiale de\nTechnologie."
     },
     "196674": {
         "「あなたにも　ぜひ　来ていただきたい。\n　ビャン皇子のために　どうか　頼みます……。": "J'aimerais vraiment que vous veniez. Je vous\nen prie, c'est pour le prince Byan..."
@@ -1290,7 +1290,7 @@
         "「そんな状況なのに　まだ　この時代に\n　とどまってるつもりキュ？\n　何をすべきかは　もう　わかってるはずキュ。": "Dans une telle situation, tu comptes encore\nrester dans cette epoque, kyu ? Tu devrais\ndeja savoir ce que tu dois faire, kyu."
     },
     "196922": {
-        "「こうしてるうちに　黒衣の剣士が　現代で \n　大魔神を起動させてるに　決まってるキュ。\n　さっさと　元の時代に戻るっキュ！　ほれほれ！": "Pendant qu'on traine ici, Dark Swordsman doit\nsurement etre en train d'activer le Grand\nDemon dans l'ere P. Depechons-nous de<br>retourner a notre epoque ! Allez, allez !"
+        "「こうしてるうちに　黒衣の剣士が　現代で \n　大魔神を起動させてるに　決まってるキュ。\n　さっさと　元の時代に戻るっキュ！　ほれほれ！": "Pendant qu'on traine ici, le Spadassin Noir\ndoit surement deja activer le Grand Demon dans\nle present, kyu !\n<br>\nDepechons-nous de retourner a notre epoque,\nkyu ! Allez, allez !"
     },
     "196923": {
         "「ややっ　来るぞ……。\n　総員　戦闘配置に　つけーーいッ！": "Attention, ils arrivent... Tous a vos postes\nde combat !"
