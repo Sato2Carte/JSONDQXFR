@@ -186,7 +186,7 @@
         "「そう　言われるだろうと　思ってな。\n　すでに　ある人物に　調査させておいた。": "Je m'y attendais. J'ai deja charge quelqu'un\nde mener l'enquete."
     },
     "201463": {
-        "「現在　メレアーデ姫が　滞在している\n　エテーネの村の　シンイ……あやつが\n　人の記憶をあやつる術に　くわしいのだ。": "P. A propos, la princesse Mereade reside\nactuellement au village d'Ethene... Shini...\nelle est tres versee dans l'art de manipuler<br>la memoire des gens."
+        "「現在　メレアーデ姫が　滞在している\n　エテーネの村の　シンイ……あやつが\n　人の記憶をあやつる術に　くわしいのだ。": "Actuellement, le prince Shini de Cadis, ou\nsejourne la princesse Mereade, maitrise les\ntechniques de manipulation de la memoire."
     },
     "201464": {
         "「メレアーデ姫。エテーネの村へ　戻り\n　シンイに　相談するとよい。\n　きっと　チカラになってくれるはずだ。": "Mereade-hime. Retourne au village d'Ethene et\nconsulte Shini. Je suis sur qu'il pourra\nt'aider."
@@ -270,7 +270,7 @@
         "「賢者ホーロー様の話では　これまでの魔獣は\n　それぞれの大陸で　何らかのチカラを\n　吸収してきたそうですね。": "Selon les dires de Sage Hollow-sama, il semble\nque les betes demoniaques ont absorbe une\ncertaine forme de pouvoir sur chaque continent<br>jusqu'a present."
     },
     "201493": {
-        "「もし　繭とともに　出現した生物が\n　例の魔獣だとすれば　目的は　プクランド大陸の\n　地底に眠る　莫大な魔瘴なのかも　しれません。": "Si la creature apparue avec le cocon est bien\nla fameuse bete magique, son objectif pourrait\netre la vaste energie malefique qui sommeille<br>sous le continent de Puku LMP."
+        "「もし　繭とともに　出現した生物が\n　例の魔獣だとすれば　目的は　プクランド大陸の\n　地底に眠る　莫大な魔瘴なのかも　しれません。": "Si la creature apparue avec le cocon est bien\nla fameuse bete magique,\n<br>\nson objectif pourrait etre l’immense miasme\nmalefique enfoui sous le continent de\nPukuland."
     },
     "201495": {
         "「はっ！　主任研究員　パルミオ博士の管理下にて\n　厳重に施錠され　一般市民の立ち入りは\n　禁じられているはずです！": "Ah ! Sous la supervision stricte du chercheur\nLord Nin et du Dr. Palmio, cet endroit est\nfermement verrouille et l'acces aux citoyens<br>ordinaires est interdit !"
@@ -387,7 +387,7 @@
         "「これは……文字なのか？\n　いったい　いかなる仕組みなのじゃ！\n　どれどれ……": "Ceci... est-ce un texte ? Quel est donc ce\nmecanisme ! Voyons voir..."
     },
     "201534": {
-        "<center>プクランドに現れし　増殖する魔獣により\nアストルティアは滅びる。\nみな　脱出に備えよ。": "Puk LMPドにP. Astoltia sera detruite par les\nbetes magiques qui se multiplient.\nPreparez-vous tous a evacuer."
+        "<center>プクランドに現れし　増殖する魔獣により\nアストルティアは滅びる。\nみな　脱出に備えよ。": "Astoltia sera detruite par la bete magique\nproliferante apparue a Pukuland.\nPreparez-vous tous a evacuer."
     },
     "201535": {
         "「……これは　もしや！": "…Serait-ce possible !"
@@ -456,7 +456,7 @@
         "「うう……座標が　ずいぶん乱れてるキュ。\n　いつ　どこに到着したのか\n　このボクにも　判断がつかないキュ！": "Ugh... Les coordonnees sont vraiment\nperturbees, kyu. Je n'arrive pas a determiner\nquand et ou nous avons atterri, meme moi, kyu<br>!"
     },
     "201557": {
-        "「<pc>。まずは　現地人と接触して\n　ここが　どこで　いつの時代なのかを\n　解明するキュ。予言者探しも　忘れるなキュ！": "<pc>. Tout d'abord, entre en contact\navec les habitants de P. pour decouvrir ou\nnous sommes et a quelle epoque nous nous<br>trouvons. N'oublie pas non plus de chercher le\nprophete !"
+        "「<pc>。まずは　現地人と接触して\n　ここが　どこで　いつの時代なのかを\n　解明するキュ。予言者探しも　忘れるなキュ！": "<pc>, entre d'abord en contact avec les\nhabitants pour decouvrir ou et a quelle epoque\nnous sommes, kyu.\n<br>\nEt n'oublie pas de chercher le prophete, kyu !"
     },
     "201558": {
         "「……というわけで　ボクは　疲れたので\n　しばらく　休息を取るキュ。": "......C'est pourquoi je suis fatigue, donc je\nvais prendre un peu de repos, kyu."
@@ -543,7 +543,7 @@
         "「プクラスの作戦は　悪くないキュル。\n　とはいえ　この時代のプクリポどもや\n　<pc>では　役に立ちそうにないキュ。": "La strategie de Pukulas n'est pas mauvaise,\nKuru. Toutefois, les Pukulipo de cette epoque\net <pc> ne semblent pas tres utiles,<br>Kyu."
     },
     "201639": {
-        "「プクリポたちの感情を　揺さぶりたいなら\n　ここは　あえて　現代に戻って\n　方法を考えてみては　どうキュルか？": "Si tu veux bouleverser les emotions des\nPukulipo, pourquoi ne pas revenir\nintentionnellement a l'epoque de P. et<br>reflechir a une methode ?"
+        "「プクリポたちの感情を　揺さぶりたいなら\n　ここは　あえて　現代に戻って\n　方法を考えてみては　どうキュルか？": "Si tu veux toucher les emotions des Pukulipos,\npourquoi ne pas retourner dans le present et\nreflechir a une solution, kyuru ?"
     },
     "201640": {
         "「……というわけで　あとは　まかせたキュ！\n　<pc>！": "Donc, je te laisse la suite, Kyu ! <pc>\n!"
@@ -600,7 +600,7 @@
         "「５０００年も　時間跳躍したなら\n　１０年や　２０年は　誤差の範囲キュ。": "Si tu as saute dans le temps de 5000 ans, une\ndifference de 10 ou 20 ans est negligeable,\nkyu."
     },
     "201658": {
-        "「それに　古代エテーネ王国の時代から\n　現代まで　一気に　時間跳躍するには\n　莫大な時渡りのチカラが　必要になるキュ。": "De plus, pour faire un saut temporel massif de\nl'epoque du vieux royaume d'Ethene jusqu'a\nl'epoque de P., il faudra une quantite enorme<br>de puissance de voyage temporel, kyu."
+        "「それに　古代エテーネ王国の時代から\n　現代まで　一気に　時間跳躍するには\n　莫大な時渡りのチカラが　必要になるキュ。": "Et pour voyager directement de l’epoque du\nroyaume antique de Cadis au present, il\nfaudrait un immense pouvoir temporel, kyu."
     },
     "201659": {
         "「ボクが　知るかぎり　そんな　とてつもない\n　時渡りのチカラを持つ人間は\n　ここにいる　<pc>だけキュル！": "Je ne connais qu'une seule personne ici\npossedant un pouvoir de voyage temporel aussi\nextraordinaire, et c'est toi, <pc>-kun !"
@@ -828,7 +828,7 @@
         "「それは　お笑いじゃ！": "C'est de l'humour !"
     },
     "201734": {
-        "「ちょうど　わしの秘蔵の　記憶の結晶がある。\n　これに　現代のプクリポたちの　お笑いや\n　楽しい芸を　記録して　見せてみれば……": "J'ai justement un Memory Crystal precieux. Si\nnous y enregistrons les comedies et les\nspectacles amusants des Pukulipo de l'epoque<br>P., et que nous les montrons..."
+        "「ちょうど　わしの秘蔵の　記憶の結晶がある。\n　これに　現代のプクリポたちの　お笑いや\n　楽しい芸を　記録して　見せてみれば……": "Justement, j'ai un precieux cristal de\nmemoire.\n<br>\nSi on y enregistre les blagues et spectacles\ndes Pukulipos du present et qu’on leur\nmontre..."
     },
     "201735": {
         "「未来のプクリポたちも　本能に目覚め\n　感情を　取り戻すかもしれんぞ！": "Les Pukulipo du futur pourraient eux aussi\ns'eveiller a leur instinct et retrouver leurs\nemotions !"
@@ -861,7 +861,7 @@
         "「お集まり　ありがとうございます。\n　メギストリス王国　次期国王　ラグアスです。": "Merci de vous etre rassembles. Je suis Laguas,\nle futur roi du royaume de Megistris."
     },
     "201745": {
-        "「アストルティア各地を　騒がせている\n　不気味な繭と　魔獣……あいつらが　とうとう\n　このプクランドの地に　出現してしまいました。": "Les cocons etranges et les betes demoniaques\nqui troublent les differentes regions\nd'Astoltia... ont finalement fait leur<br>apparition ici, sur ces terres de PukuLMP."
+        "「アストルティア各地を　騒がせている\n　不気味な繭と　魔獣……あいつらが　とうとう\n　このプクランドの地に　出現してしまいました。": "Les sinistres cocons et betes magiques qui\ntroublent Astoltia sont finalement apparus a\nPukuland."
     },
     "201746": {
         "「……ですが　心配はありません。\n　すでに　ぼくは\n　アストルティアを救う方法を　予知しました！": "... Cependant, ne vous inquietez pas. J'ai\ndeja predit la facon de sauver Astoltia !"
@@ -1056,7 +1056,7 @@
         "「すべての扉　ロック解除いたしまーす♪": "Toutes les portes sont deverrouillees~ ♪"
     },
     "201810": {
-        "「ただし　現在の永世管理者　複製体Ｃ１４１が\n　管理タブレットによって　ロックした扉は\n　暗号化されているため　開きませーん♪": "Cependant, la porte verrouillee par le\ngestionnaire eternel P. Zai, replique C141, a\nl'aide de la tablette de gestion est cryptee,<br>donc elle ne s'ouvrira pas ♪"
+        "「ただし　現在の永世管理者　複製体Ｃ１４１が\n　管理タブレットによって　ロックした扉は\n　暗号化されているため　開きませーん♪": "Cependant, les portes verrouillees par le\ngestionnaire eternel actuel, le clone C141,\n<br>\nvia la tablette de controle, sont cryptees et\nne s’ouvriront pas ♪"
     },
     "201811": {
         "「……悪い複製体め！　<pc>さんを\n　管理棟に近づけないつもりだな！\n　でも　他の道から　行けたはずだよ。": "Sale copie ! Tu comptes empecher\n<pc>-san d'approcher l'Admin Building !\nMais, il doit y avoir un autre chemin pour y<br>acceder."
@@ -1086,7 +1086,7 @@
         "「………………。": ""
     },
     "201820": {
-        "「現在　このポッドは　特別管理命令によって\n　ロックされていまーす♪": "P. En raison d'une commande de gestion\nspeciale, cette capsule est verrouillee en ce\nmoment ♪"
+        "「現在　このポッドは　特別管理命令によって\n　ロックされていまーす♪": "Actuellement, cette capsule est verrouillee\npar un ordre de gestion special ♪"
     },
     "201821": {
         "「管理タブレットからの　許可がなければ\n　解凍することは　できませーん♪": "Sans l'autorisation de la tablette de gestion,\nil est impossible de proceder a la\ndecongelation♪"
@@ -1440,7 +1440,7 @@
         "「……と…時見の箱は　どこへ行ったキュ！？": "Et… ou est donc passee la Timeseer Box, kyu !?"
     },
     "201938": {
-        "「……どうやら\n　現代に　戻ってきたようキュルね。": "...On dirait que nous sommes revenus a\nl'epoque de P., Kyuru."
+        "「……どうやら\n　現代に　戻ってきたようキュルね。": "... On dirait qu'on est revenu a notre epoque,\nkyuru."
     },
     "201939": {
         "「大変キュ！\n　いつのまにか　この時間軸の先にある未来に\n　大きなゆらぎが　発生しているキュ！": "C'est terrible, Kyu ! A un moment donne, une\ngrande perturbation est survenue dans le futur\nde cette ligne temporelle, Kyu !"
@@ -1962,7 +1962,7 @@
         "「……犠牲は　大きかったものの\n　エピステーサの底なし穴から　繭と魔獣は消え\n　滅びの脅威は　ひとまず　遠ざかりました。": "...Bien que le sacrifice ait ete grand, le\ncocon et la creature ont disparu du gouffre\nsans fond d'Epistea, eloignant temporairement<br>la menace de la destruction."
     },
     "202112": {
-        "「<cs_pchero>さん。ぼくの予知どおり\n　あなたと　プクラス　知理の石版は\n　現代の　アストルティアを　救ってくれた。": "<cs_pchero>さんComme je l'avais predit, vous et\nla Tablette de Sagesse de Pukulas avez sauve\nl'ere P. d'Astoltia."
+        "「<cs_pchero>さん。ぼくの予知どおり\n　あなたと　プクラス　知理の石版は\n　現代の　アストルティアを　救ってくれた。": "<cs_pchero>, comme je l'avais predit, toi,\nPukulas et la Tablette de Savoir avez sauve\nl’Astoltia actuelle."
     },
     "202113": {
         "「ささやかでは　ありますが\n　どうか　このお礼を　受け取ってください。": "Bien que ce soit modeste, je vous prie\nd'accepter ce remerciement."
@@ -2097,7 +2097,7 @@
         "「キミたちは　この　管理タブレットを持って\n　異なる時代から　やってきた。\n　……違うかな？": "Vous, vous etes venus de differentes epoques\navec cette tablette de gestion. ...N'est-ce\npas ?"
     },
     "202653": {
-        "「時間跳躍の概念とは　無縁の\n　現地民にしては　察しがいいキュ。": "Le concept de saut temporel est etranger aux\nhabitants de P. Pourtant, ils comprennent\nrapidement, c'est impressionnant."
+        "「時間跳躍の概念とは　無縁の\n　現地民にしては　察しがいいキュ。": "Tu te debrouilles bien pour quelqu'un qui\nignore tout des sauts temporels, kyu."
     },
     "202654": {
         "「しらばっくれても　しょうがないキュね。\n　まあ　何か問題が起きたら\n　コイツのアタマを処理すれば　いいだけキュル。": "Meme si tu fais semblant de ne rien savoir, ca\nne sert a rien, kyu. Eh bien, s'il y a un\nprobleme, tu n'auras qu'a te debarrasser de sa<br>tete, kyu."
@@ -2169,7 +2169,7 @@
         "「だって　あいつらは　やさしくて　気のいい\n　……ボクにとって　兄弟みたいなものなんだ。\n　町のみんなを苦しめるなんて　絶対に……。": "Parce qu'ils sont gentils et de bonne\nnature... Pour moi, ce sont comme des freres.\nFaire souffrir tout le monde en ville, c'est<br>absolument impossible..."
     },
     "202677": {
-        "「現在　ボクの代理をしている複製体が\n　管理棟のどこかに　いるはずだ。\n　探して　直接　話を聞いてみよう。": "P. Il doit y avoir quelque part dans le\nbatiment administratif un clone qui me\nremplace. Cherchons-le et essayons de lui<br>parler directement."
+        "「現在　ボクの代理をしている複製体が\n　管理棟のどこかに　いるはずだ。\n　探して　直接　話を聞いてみよう。": "Le clone qui me remplace actuellement doit se\ntrouver quelque part dans le batiment de\ngestion.\n<br>\nAllons le chercher et lui parler directement."
     },
     "202678": {
         "「キミは　この部屋を出て　東側にある\n　研究室を　探してみてくれ。\n　ボクは　この下にある　動力室へ行ってみるよ。": "Toi, va explorer la piece situee a l'est de\ncette salle et trouve le laboratoire. Moi, je\nvais descendre pour inspecter la salle des<br>machines."
@@ -2241,7 +2241,7 @@
         "「キミたちは　この　管理タブレットを持って\n　異なる時代から　やってきた。\n　……違うかな？": "Vous, vous etes venus de differentes epoques\navec cette tablette de gestion. ...N'est-ce\npas ?"
     },
     "202701": {
-        "「時間跳躍の概念とは　無縁の\n　現地民にしては　察しがいいキュ。": "Le concept de saut temporel est etranger aux\nhabitants de P. Pourtant, ils comprennent\nrapidement, c'est impressionnant."
+        "「時間跳躍の概念とは　無縁の\n　現地民にしては　察しがいいキュ。": "Tu te debrouilles bien pour un habitant sans\naucune notion de saut temporel, kyu."
     },
     "202702": {
         "「しらばっくれても　しょうがないキュね。\n　まあ　何か問題が起きたら\n　コイツのアタマを処理すれば　いいだけキュル。": "Meme si tu fais semblant de ne rien savoir, ca\nne sert a rien, kyu. Eh bien, s'il y a un\nprobleme, tu n'auras qu'a te debarrasser de sa<br>tete, kyu."
@@ -2313,7 +2313,7 @@
         "「だって　あいつらは　やさしくて　気のいい\n　……ボクにとって　兄弟みたいなものなんだ。\n　町のみんなを苦しめるなんて　絶対に……。": "Parce qu'ils sont gentils et de bonne\nnature... Pour moi, ce sont comme des freres.\nFaire souffrir tout le monde en ville, c'est<br>absolument impossible..."
     },
     "202725": {
-        "「現在　ボクの代理をしている複製体が\n　管理棟のどこかに　いるはずだ。\n　探して　直接　話を聞いてみよう。": "P. Il doit y avoir quelque part dans le\nbatiment administratif un clone qui me\nremplace. Cherchons-le et essayons de lui<br>parler directement."
+        "「現在　ボクの代理をしている複製体が\n　管理棟のどこかに　いるはずだ。\n　探して　直接　話を聞いてみよう。": "Le clone qui me remplace en ce moment doit se\ntrouver quelque part dans le batiment de\ngestion.\n<br>\nAllons le chercher et lui parler directement."
     },
     "202726": {
         "「キミは　この部屋を出て　東側にある\n　研究室を　探してみてくれ。\n　ボクは　この下にある　動力室へ行ってみるよ。": "Toi, va explorer la piece situee a l'est de\ncette salle et trouve le laboratoire. Moi, je\nvais descendre pour inspecter la salle des<br>machines."
