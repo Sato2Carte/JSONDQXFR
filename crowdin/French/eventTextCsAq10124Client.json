@@ -24,7 +24,7 @@
         "「ふたりだけ……　何を言ってるんです？\n　私たちが　ふたりだけのはずないでしょう。\n　ねえ　ピュージュさん？": "Juste nous deux... Mais qu'est-ce que tu\nracontes ? Il est impossible que nous soyons\njuste nous deux, n'est-ce pas ? N'est-ce pas,<br>Pyuju-san ?"
     },
     "16249": {
-        "「あはは～　そうだね～。\n　この人たちに　現実を教えてあげないとね♪": "Ahaha~ C'est vrai~. On doit leur apprendre la\nP. Verite♪"
+        "「あはは～　そうだね～。\n　この人たちに　現実を教えてあげないとね♪": "Ahaha~ C’est vrai~.\nIl faut leur faire decouvrir la realite ♪"
     },
     "16250": {
         "「こいつら　何を言って……？": "Qu'est-ce qu'ils racontent, ceux-la... ?"
@@ -90,7 +90,7 @@
         "「……また　あんたに助けられちまったな。": "......Tu m'as encore sauve, n'est-ce pas."
     },
     "16271": {
-        "「ぬいぐるみ屋　ザッケス……あの男が\n　ガズバランの牙のリーダーなのですね。\n　グロスナー王に　報告せねば……。": "Costume de chat屋 Zackes... Cet homme est donc\nle leader des crocs de Gazba LMP. Je dois en\ninformer King Grossner..."
+        "「ぬいぐるみ屋　ザッケス……あの男が\n　ガズバランの牙のリーダーなのですね。\n　グロスナー王に　報告せねば……。": "Zackes, le marchand de peluches...\nC’est donc lui le chef des Crocs de Gazbalan.\nJe dois en informer le roi Grossnar..."
     },
     "16272": {
         "「オレたちは　先に　城に戻っておくぜ。\n　……ああ　キズの方は　大丈夫。\n　これくらいで　くたばったりしないさ。": "Nous allons retourner au chateau en avance.\n... Ah, ne t'inquiete pas pour mes blessures.\nCe n'est pas ca qui va m'abattre."
@@ -117,10 +117,10 @@
         "「よせ　マグナス！　\n　そんなことをすれば　魔女狩りが起こる。\n　それよりも　今やるべきは　元凶を断つことだ。": "Arrete, Magnus ! Si tu fais ca, une chasse aux\nsorcieres va eclater. Ce que nous devons faire\nmaintenant, c'est eliminer la source du<br>probleme."
     },
     "16280": {
-        "「元凶……ですか。ガズバランの牙には\n　ピュージュという魔物が　協力しているとか。\n　そいつを　なんとかすれば……。": "Le responsable... vous dites ? Il parait\nqu'une creature appelee Pyuju collabore avec\nles crocs de Gazba LMP. Si nous pouvons faire<br>quelque chose a son sujet..."
+        "「元凶……ですか。ガズバランの牙には\n　ピュージュという魔物が　協力しているとか。\n　そいつを　なんとかすれば……。": "Le coupable... hein.\nIl parait qu’un monstre nomme Pyuju collabore\navec les Crocs de Gazbalan.\n<br>\nSi on arrive a s’occuper de lui..."
     },
     "16281": {
-        "「それと　ガズバランの牙の首領を名乗る\n　ザッケスだな。このふたりが　今回の事件の\n　首謀者と見て　まちがいないだろう。": "Et puis, il y a Zackes, qui se proclame chef\ndes Crocs de Gazba LMP. Il ne fait aucun doute\nque ces deux-la sont les instigateurs de<br>l'incident cette fois-ci."
+        "「それと　ガズバランの牙の首領を名乗る\n　ザッケスだな。このふたりが　今回の事件の\n　首謀者と見て　まちがいないだろう。": "Et puis, il y a Zackes, qui se pretend chef\ndes Crocs de Gazbalan.\n<br>\nCes deux-la sont surement les instigateurs de\ntoute cette affaire."
     },
     "16282": {
         "「そのザッケスですが　ガズバランの剣の\n　遺志を継ぐ者だと　名乗ったそうですね。\n　ガズバランの剣とは　もしや　あの……。": "Zackes s'est presente comme celui qui herite\nde la volonte de l'epee de Gazba LMP, n'est-ce\npas ? Cette epee de Gazba LMP, serait-ce par<br>hasard... cette fameuse epee..."
@@ -135,7 +135,7 @@
         "「その中心となったのが　わしの息子\n　デルタニスと　その親友であり\n　当時の兵士長でもあった　ゼクセンだ。": "Le pilier central de tout cela etait mon fils,\nDeltanis, ainsi que son ami proche et\ncapitaine des soldats a l'epoque, Zexen."
     },
     "16286": {
-        "「ふたりは　同じ志を持つ仲間を集めて\n　ガズバランの剣という組織を作り上げ\n　日夜　厳しい修行に　はげんでおったよ。": "Tous deux ont rassemble des compagnons\npartageant les memes ideaux pour fonder une\norganisation appelee l'Epee de GazbaLMP. Jour<br>et nuit, ils s'entrainaient rigoureusement."
+        "「ふたりは　同じ志を持つ仲間を集めて\n　ガズバランの剣という組織を作り上げ\n　日夜　厳しい修行に　はげんでおったよ。": "Les deux ont fonde l’Epee de Gazbalan avec des\ncompagnons partageant leurs ideaux et\ns’entrainaient sans relache."
     },
     "16287": {
         "「だが　彼らは　純粋すぎた。\n　その修行は　次第に　エスカレートしていき\n　危険きわまりないものに　なっていったのじゃ。": "Mais ils etaient trop purs. Leur entrainement\na progressivement escalade et est devenu\nextremement dangereux."
@@ -156,7 +156,7 @@
         "「もっと早く　彼らの暴走を止めることが\n　できていれば……。\n　それだけが　今も悔やまれてならんのじゃ。": "Si seulement j'avais pu arreter leur\ndebordement plus tot... C'est la seule chose\nque je regrette encore aujourd'hui."
     },
     "16293": {
-        "「遺志を継ぐと言うからには　ザッケスという男\n　ガズバランの剣と　ゆかりのある者なのだろう。\n　わしを恨んでいたとしても　不思議はない。": "Si tu dis vouloir poursuivre la volonte, alors\ncet homme nomme Zackes doit avoir un lien avec\nl'epee de Gazba LMP. Meme s'il me deteste,<br>cela ne serait pas surprenant."
+        "「遺志を継ぐと言うからには　ザッケスという男\n　ガズバランの剣と　ゆかりのある者なのだろう。\n　わしを恨んでいたとしても　不思議はない。": "S'il dit vouloir reprendre le flambeau, ce\nZackes doit avoir un lien avec l’Epee de\nGazbalan.\n<br>\nQu’il me deteste ne serait pas surprenant."
     },
     "16294": {
         "「まさか　今になって　過去の亡霊と\n　対面することになろうとはな……。": "Je ne m'attendais pas a me retrouver face aux\nfantomes du passe maintenant..."
