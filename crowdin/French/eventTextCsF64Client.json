@@ -249,7 +249,7 @@
         "<center>ゾンガロンは　各地で　オーガを襲い\nいくつもの集落が　滅ぼされていったのです。": "Zongaron a attaque les Ogres dans plusieurs\nregions, et de nombreux villages ont ete\ndetruits."
     },
     "192473": {
-        "<center>当時　このオルセコ王国は\n隣国のドランドと　戦争をしていたのですが……": "A cette epoque, le royaume d'Orseco etait en\nguerre avec le pays voisin de LMP."
+        "<center>当時　このオルセコ王国は\n隣国のドランドと　戦争をしていたのですが……": "A l’epoque, le royaume d’Orseco etait en\nguerre contre le pays voisin, Drand..."
     },
     "192474": {
         "<center>悪鬼ゾンガロンは　ドランド王国を陥落させ\nドランドの民の心を奪って\nあっさり　征服してのけたのです。": "Zongalon a fait tomber le royaume de LMPD, a\nderobe le coeur de ses habitants et l'a conquis\nsans difficulte."
@@ -429,10 +429,10 @@
         "「僕らの父王　ゾルトグリンは\n　類まれな戦術家でしたが\n　この城は落とせないと　よく嘆いていました。": "Notre pere, le roi Zoltglin, etait un stratege\nexceptionnel, mais il se lamentait souvent de\nne pas pouvoir prendre ce chateau."
     },
     "192533": {
-        "「そんな城に　ひとりで　突っ込んでいくなんて\n　まったく　ギルガランらしい……。": "Se lancer seul dans un tel chateau... c'est\ntellement typique de GilガLMP..."
+        "「そんな城に　ひとりで　突っ込んでいくなんて\n　まったく　ギルガランらしい……。": "Se jeter seul dans un chateau pareil...\nC’est tellement typique de Gilgaran..."
     },
     "192534": {
-        "「兄さんは　すでに　侵入して \n　ドランド王の玉座を　目指しているでしょう。": "Mon frere a probablement deja penetre a\nl'interieur et se dirige vers le trone du Roi\nLMP."
+        "「兄さんは　すでに　侵入して \n　ドランド王の玉座を　目指しているでしょう。": "Mon frere est surement deja entre et se dirige\nvers le trone du roi Drand."
     },
     "192535": {
         "「中は　鬼人だらけです。\n　くれぐれも　お気をつけて……。": "A l'interieur, c'est rempli de demons. Prenez\nbien soin de vous..."
@@ -561,7 +561,7 @@
         "「父は　しょせん　\n　王の器では　なかったということだ。": "Mon pere n'etait pas, en fin de compte, fait\npour etre roi."
     },
     "192581": {
-        "「……王とて　人ですよ　ギルガラン。\n　人並みに　苦しむこともある。": "......Meme un roi est un etre humain, GilガLMP.\nIl peut souffrir comme tout le monde."
+        "「……王とて　人ですよ　ギルガラン。\n　人並みに　苦しむこともある。": "...Un roi reste un homme, Gilgaran.\nLui aussi peut souffrir comme tout le monde."
     },
     "192582": {
         "「つらいことがあるなら　一緒に背負いたかった。": "Si tu traverses des moments difficiles,\nj'aurais voulu les porter avec toi."
@@ -600,7 +600,7 @@
         "「………………。": ""
     },
     "192594": {
-        "「安心してください　ギルガラン。 \n　僕には　王を継ぐ意志も　資格もありません。": "Rassurez-vous, GilgaLMP. Je n'ai ni la volonte\nni les qualifications pour succeder au roi."
+        "「安心してください　ギルガラン。 \n　僕には　王を継ぐ意志も　資格もありません。": "Rassure-toi, Gilgaran.\nJe n’ai ni l’intention ni le droit de devenir\nroi."
     },
     "192595": {
         "「……兄というのは　本当です。\n　ただ　僕の病弱な身体では\n　世継ぎに　ふさわしくなかったというだけ。": "Il est vrai que je suis ton frere. Cependant,\navec mon corps fragile et malade, je n'etais\npas digne d'etre l'heritier."
@@ -654,7 +654,7 @@
         "「もし　未来に　その記録が残っているなら\n　ゾンガロンを　封印した方法も\n　書いてあるんじゃ　ないキュル？": "Si les archives du futur existent encore,\npeut-etre que la methode pour sceller Zongaron\ny est egalement consignee, kyuru ?"
     },
     "192612": {
-        "「さっそく　現代の　オルセコ闘技場へ\n　行ってみるっキュ！": "Allons immediatement a l'arene d'Orseco a\nl'epoque P. !"
+        "「さっそく　現代の　オルセコ闘技場へ\n　行ってみるっキュ！": "Allons vite a l’arene d’Orseco dans le\npresent, kyu !"
     },
     "192613": {
         "『ムニュ大臣の宮廷記録　第二十六章』": "Les Chroniques de la Cour de Ministre Munyu,\nChapitre Vingt-Six"
@@ -915,7 +915,7 @@
         "「あなたは　自らの命を　捧げられますか？": "Pouvez-vous offrir votre propre vie ?"
     },
     "192699": {
-        "「先王の罪は　現王の　俺の罪でもある。\n　……覚悟はできている。": "Le peche du roi precedent est aussi le peche\ndu roi P. et donc le mien. ...Je suis pret a\nl'assumer."
+        "「先王の罪は　現王の　俺の罪でもある。\n　……覚悟はできている。": "Les fautes de l’ancien roi sont aussi les\nmiennes. ...Je suis pret a les assumer."
     },
     "192700": {
         "「よいでしょう……。\n　では　魔封の術を授けましょう。": "Tres bien... Je vais donc vous enseigner l'art\ndu sceau magique."
@@ -978,7 +978,7 @@
         "「幼いながらに　その意味を　察しましたし\n　すこしだけ　父を　恨みました。": "Meme jeune, j'ai compris ce que cela\nsignifiait et j'en ai voulu un peu a mon pere."
     },
     "192720": {
-        "「それから　何年かして　僕は\n　ギルガランの弟というていで　城に戻りました。": "Quelques annees plus tard, je suis retourne au\nchateau sous l'identite du frere de Gilga LMP."
+        "「それから　何年かして　僕は\n　ギルガランの弟というていで　城に戻りました。": "Quelques annees plus tard, je suis retourne au\nchateau en me faisant passer pour le frere de\nGilgaran."
     },
     "192721": {
         "「頑健で　身体も大きかった　ギルガランは \n　子供の頃から　あんな感じで……\n　生意気で　傲慢で　嫌なやつでした。": "Gilga LMP, qui etait robuste et de grande\ntaille, etait deja comme ca depuis\nl'enfance... Arrogant, vaniteux, c'etait<br>vraiment un sale type."
@@ -1062,7 +1062,7 @@
         "「どうしたんだい　猫ちゃん……？": "Qu'est-ce qui ne va pas, petit chat...?"
     },
     "192748": {
-        "「これは……ギルガランの字……。": "C'est... l'ecriture de GilgaLMP..."
+        "「これは……ギルガランの字……。": "C'est...\nl'ecriture de Gilgaran..."
     },
     "192749": {
         "<center>グリエよ　お前には　心から失望した。\n俺を　ずっと昔から　たばかっていたとはな。": "Grie, je suis profondement decu par toi. Tu me\nmanipulais depuis tout ce temps."
@@ -1320,7 +1320,7 @@
         "「それなら　<pc>の時代に\n　行ってみたいわ！": "Dans ce cas, j'aimerais aller a l'epoque de\n<pc> !"
     },
     "192834": {
-        "「時間設定……現代。\n　エテーネルキューブ　起動キュ！": "Reglage de l'heure... P. substitut. Ethenel\nCube, activation Kyu !"
+        "「時間設定……現代。\n　エテーネルキューブ　起動キュ！": "Reglage temporel... Epoque actuelle.\nActivation du Cube Eternel, kyu !"
     },
     "192835": {
         "「うーん　なんだか　クラクラする？\n　お星さまが　まわってる？": "Hmm, j'ai un peu la tete qui tourne. Les\netoiles semblent danser autour de moi."
@@ -1383,7 +1383,7 @@
         "「……戦の舞だ！": "...La danse de la guerre !"
     },
     "192855": {
-        "「ランガーオ村に伝わる　史書にいわく。\n　オルセコ王　ギルガランの治世…… \n　<cs_pchero>と名乗る　旅人あらわる。": "Selon les archives historiques transmises par\nle village de Langao. Durant le regne du roi\nOrseco, Gilga LMP... Un voyageur se presentant<br>sous le nom de <cs_pchero> apparut."
+        "「ランガーオ村に伝わる　史書にいわく。\n　オルセコ王　ギルガランの治世…… \n　<cs_pchero>と名乗る　旅人あらわる。": "D'apres les chroniques transmises a Langao,\nsous le regne du roi d'Orseco, Gilgaran...\nun voyageur nomme <cs_pchero> apparut."
     },
     "192856": {
         "「その者　オルセコの兄弟の　心を結び\n　いにしえの戦の舞を　よみがえらせ\n　ゾンガロンを　封印せしめん……。": "Cette personne unira les coeurs des freres\nd'Orseco, ravivera la danse de guerre\nancestrale et scellera Zongaron..."
