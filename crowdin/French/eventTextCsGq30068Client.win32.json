@@ -12,7 +12,7 @@
         "「だが　こう　うるさく\n　つきまとわれちゃ　かなわねえからな。\n　今回だけは　おめぇに　つきあってやる。": "Mais bon, etre autant harcele, c'est\ninsupportable. Cette fois-ci seulement, je\nvais te suivre."
     },
     "120868": {
-        "「よろしい！\n　では　今回のランプ錬金勝負に\n　何を賭けるかを　確認いたしましょう。": "Tres bien ! Alors, voyons ce que nous allons\nmettre en jeu pour ce defi d'alchimie LMP."
+        "「よろしい！\n　では　今回のランプ錬金勝負に\n　何を賭けるかを　確認いたしましょう。": "Tres bien !\nVoyons maintenant ce que nous allons miser\npour ce duel d'alchimie de lampes."
     },
     "120869": {
         "「ヒゲのマルコ様が　負けたならば\n　イカサマからは　足を洗い\n　カタギの　ランプ錬金職人になる！": "Si Mustached Marco-sama a perdu, alors je vais\nme retirer de Squid-sama et devenir un artisan\nen alchimie de LMP a Kattagi !"
@@ -45,7 +45,7 @@
         "「まずは　先攻が　錬金をおこない\n　その後に　後攻が　同じアイテムに　重ねて\n　錬金を　おこなっていただきます！": "Tout d'abord, le joueur qui commence effectue\nl'alchimie. Ensuite, le joueur suivant\nsuperpose son alchimie sur le meme objet !"
     },
     "120879": {
-        "「……まずは　ヒゲのマルコ様！\n　ランプの前へ　どうぞ。": "Tout d'abord, Mustached Marco-sama ! Veuillez\navancer devant le LMP."
+        "「……まずは　ヒゲのマルコ様！\n　ランプの前へ　どうぞ。": "...Tout d'abord, Maitre Marco la Barbe !\nVeuillez vous avancer devant la lampe."
     },
     "120880": {
         "ヒゲのマルコは　ニヤリと笑いながら\n錬金ランプの　ルーレットを回した！": "Mustached Marco, tout en riant avec NiSpears,\na fait tourner la roulette de l'alchimie LMP !"
@@ -117,7 +117,7 @@
         "なんと　失敗だった　ＭＰ消費しない率 +5%が\nレアドロップ率 100倍に　なった！": "Incroyable ! Le taux de non-consommation de MP\n+5% a ete multiplie par 100 pour le taux de\nrarete des drops !"
     },
     "120903": {
-        "「ぐっ……！　ありえねえ！！\n　こんな　フザけたことが　あるはずがねえっ！\n　あのランプには　おれが細工を……": "Grrr... ! C'est impossible !! Il n'y a pas\nmoyen que quelque chose d'aussi insense se\nproduise ! J'avais trafique ce LMP..."
+        "「ぐっ……！　ありえねえ！！\n　こんな　フザけたことが　あるはずがねえっ！\n　あのランプには　おれが細工を……": "Grr... ! C'est impossible !!\nUn truc pareil... ca peut pas arriver !\nJ'avais trafique cette lampe..."
     },
     "120904": {
         "「…………！！": "！！"
@@ -129,7 +129,7 @@
         "「じゃあ……師匠……。": "Alors... Maitre..."
     },
     "120907": {
-        "「ああ……イカサマからは　足を洗う。\n　二度と　ランプ錬金サギは　やらねえよ。\n　……カタギに　なってやらぁ。": "あah... Je vais tourner la page avec\nSquid-sama. Je ne toucherai plus jamais a\nl'arnaque de l'alchimie LMP. ...Je vais<br>devenir un vrai Katagi."
+        "「ああ……イカサマからは　足を洗う。\n　二度と　ランプ錬金サギは　やらねえよ。\n　……カタギに　なってやらぁ。": "Ah... Je laisse tomber les arnaquesA\nJe ne ferai plus jamais de fraude a l'alchimie\nde lampes.\n<br>\n...Je vais redevenir honnete."
     },
     "120908": {
         "「う……": "Ugh..."
@@ -189,6 +189,6 @@
         "「両者が　錬金をおこなった後\n　より難易度の高い　成功を出した者が\n　この勝負の　勝利者となるのです！": "Apres que les deux parties aient effectue\nl'alchimie, celui qui reussira avec un niveau\nde difficulte plus eleve sera designe comme le<br>vainqueur de ce defi !"
     },
     "174007": {
-        "レアドロップ率 1.5倍の　錬金に失敗して\nＭＰ消費しない率 +5%が　付いてしまった……。": "J'ai echoue a l'alchimie pour un taux de drop\nrare multiplie par 1,5, et j'ai obtenu un\nbonus de +5% pour ne pas consommer de MP..."
+        "レアドロップ率 1.5倍の　錬金に失敗して\nＭＰ消費しない率 +5%が　付いてしまった……。": "Echec de l'alchimie pour un taux de drop rare\nx1,5, avec un bonus de +5 % de\nnon-consommation de PM obtenu a la place..."
     }
 }
