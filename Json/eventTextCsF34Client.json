@@ -750,7 +750,7 @@
         "「さて……と。\n　もう　こんな狭い所に　用はないはずだろ？": "Bon... Je suppose qu'on n'a plus besoin de\nrester dans cet endroit si exigu, n'est-ce pas\n?"
     },
     "151283": {
-        "<if_woman>「また　あとで　いつものように\n　剣の修行もしような　<pc>ちゃん。\n　それじゃ……。<else>「また　あとで　いつものように\n　剣の修行もしような　<pc>くん。\n　それじゃ……。<endif>": "<if_woman>>Plus tard, comme d'habitude,\nfaisons aussi notre entrainement a l'epee,\n<pc>-chan. Alors...<else>>Plus tard, comme d'habitude, faisons aussi\nnotre entrainement a l'epee, <pc>-kun.\nAlors... <endif>"
+        "<if_woman>「また　あとで　いつものように\n　剣の修行もしような　<pc>ちゃん。\n　それじゃ……。<else>「また　あとで　いつものように\n　剣の修行もしような　<pc>くん。\n　それじゃ……。<endif>": "<if_woman>Plus tard, comme d'habitude,\nfaisons aussi notre entrainement a l'epee,\n<pc>-chan. Alors...<else>Plus tard, comme d'habitude, faisons aussi\nnotre entrainement a l'epee, <pc>-kun.\nAlors... <endif>"
     },
     "151284": {
         "「あ～あ。どうやら　クオードも\n　この屋敷に　取り込まれてしまったようキュね。": "Ah la la. On dirait bien que Quard a ete\nenglouti par ce manoir aussi, kyu."
@@ -834,7 +834,7 @@
         "「きゃっ！　い…いやっ……！\n　<pc>さん。\n　お願いです　やめてください。": "Kya ! No... non... ! <pc>-san. Je vous\nen prie, arretez."
     },
     "151313": {
-        "<if_woman>「おいおい。<pc>ちゃん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<else>「おいおい。<pc>くん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<endif>": "<if_woman>>He he. <pc>-chan... ?\nQu'est-ce que tu fais tout a coup !? Grande\nsoeur n'aime pas ca, arrete ca s'il te plait !<else>>He he. <pc>-kun... ? Qu'est-ce que tu\nfais tout a coup !? Grande soeur n'aime pas ca,\narrete ca s'il te plait ! <endif>"
+        "<if_woman>「おいおい。<pc>ちゃん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<else>「おいおい。<pc>くん……？\n　いきなり　何をするんだ！？\n　姉さんが嫌がってるじゃないか。やめてくれよ！<endif>": "<if_woman>He he. <pc>-chan... ?\nQu'est-ce que tu fais tout a coup !? Grande\nsoeur n'aime pas ca, arrete ca s'il te plait !<else>He he. <pc>-kun... ? Qu'est-ce que tu\nfais tout a coup !? Grande soeur n'aime pas ca,\narrete ca s'il te plait ! <endif>"
     },
     "151314": {
         "「えっ？　きみは　大事なものが欠けた人物を\n　探すために　こうして\n　ライトを　当てているだと！？": "Quoi ? Tu utilises la lumiere de cette facon\npour chercher une personne a qui il manque\nquelque chose d'important !?"
@@ -876,7 +876,7 @@
         "「ま…待てっ……！": "Attends... !"
     },
     "151328": {
-        "<if_woman>「くそっ。なぜ　俺は　<pc>のことを\n　ちゃんづけなどとぉぉぉ……。<else>「くそっ。なぜ　俺は　<pc>のことを\n　くんづけなどとぉぉぉ……。<endif>": "<if_woman>>Mince. Pourquoi est-ce que\nj'appelle <pc> par chan...<else>>Mince. Pourquoi est-ce que j'appelle\n<pc> par kun... <endif>"
+        "<if_woman>「くそっ。なぜ　俺は　<pc>のことを\n　ちゃんづけなどとぉぉぉ……。<else>「くそっ。なぜ　俺は　<pc>のことを\n　くんづけなどとぉぉぉ……。<endif>": "<if_woman>Mince. Pourquoi est-ce que\nj'appelle <pc> par chan...<else>Mince. Pourquoi est-ce que j'appelle\n<pc> par kun... <endif>"
     },
     "151329": {
         "「う…うわぁぁぁぁぁ！\n　ななな…なんだ　この格好……！？": "Ou... ouaaaah ! Qu'est-ce que c'est que cette\ntenue...!?"
@@ -1176,7 +1176,7 @@
         "「行くぞっ！\n　アイツを倒して　ここから出るんだっ！": "Allons-y ! On le bat et on sort d'ici !"
     },
     "169321": {
-        "<if_woman>「<pc>ちゃん！　アイツは　どこだ！？<else>「<pc>くん！　アイツは　どこだ！？<endif>": "<if_woman>><pc>-chan ! Ou est-il ?!<else>><pc>-kun ! Ou est-il ?! <endif>"
+        "<if_woman>「<pc>ちゃん！　アイツは　どこだ！？<else>「<pc>くん！　アイツは　どこだ！？<endif>": "<if_woman><pc>-chan ! Ou est-il ?!<else><pc>-kun ! Ou est-il ?! <endif>"
     },
     "169892": {
         "「それでは　いきますよぅ。": "Alors, c'est parti !"
