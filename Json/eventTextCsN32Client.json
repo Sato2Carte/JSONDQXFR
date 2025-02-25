@@ -351,7 +351,7 @@
         "「さあ　話は終わりよ。\n　私はこれから　大事な用があるから\n　出ていってちょうだい。": "Bon, la discussion est terminee. J'ai des\naffaires importantes a regler, alors s'il te\nplait, sors d'ici."
     },
     "52626": {
-        "<if_woman>「ちょっと　おばさん　ジャマだよ！<else>「ちょっと　おじさん　ジャマだよ！<endif>": "<if_woman>>He, madame, vous etes dans le\nchemin !<else>>He, monsieur, vous etes dans le chemin !<endif>"
+        "<if_woman>「ちょっと　おばさん　ジャマだよ！<else>「ちょっと　おじさん　ジャマだよ！<endif>": "<if_woman>He, madame, vous etes dans le\nchemin !<else>He, monsieur, vous etes dans le chemin !<endif>"
     },
     "52627": {
         "「それじゃあ　行ってくるわね。": "Alors, je m'en vais."
