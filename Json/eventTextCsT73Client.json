@@ -567,7 +567,7 @@
         "「おいらの……せいだね……。": "C'est... de ma faute..."
     },
     "135197": {
-        "<if_woman>「姉ちゃん……ごめん。\n　…………逃げ……て。<else>「兄ちゃん……ごめん。\n　…………逃げ……て。<endif>": "<if_woman>>Grande soeur... desole. ......\nFuis...<else>>Grand frere... desole. ...... Fuis...<endif>"
+        "<if_woman>「姉ちゃん……ごめん。\n　…………逃げ……て。<else>「兄ちゃん……ごめん。\n　…………逃げ……て。<endif>": "<if_woman>Grande soeur... desole. ......\nFuis...<else>Grand frere... desole. ...... Fuis...<endif>"
     },
     "135198": {
         "「……解放者さまには　感謝しております。": "......Je vous suis reconnaissant,\nliberateur-sama."
@@ -645,7 +645,7 @@
         "「<cs_pchero>……ごめんね。\n　…………逃げ……て。": "<cs_pchero>Pardon. Je me suis enfui"
     },
     "135223": {
-        "<if_woman>「お姉ちゃん……ごめんなさい。\n　…………逃げ……て。<else>「お兄ちゃん……ごめんなさい。\n　…………逃げ……て。<endif>": "<if_woman>>Grande soeur... desolee.\n..........Fuis...<else>>Grand frere... desole.\n..........Fuis...<endif>"
+        "<if_woman>「お姉ちゃん……ごめんなさい。\n　…………逃げ……て。<else>「お兄ちゃん……ごめんなさい。\n　…………逃げ……て。<endif>": "<if_woman>Grande soeur... desolee.\n..........Fuis...<else>Grand frere... desole.\n..........Fuis...<endif>"
     },
     "135224": {
         "「……こいつって　こんなに　ダチがいたんだな。": "Je ne savais pas qu'il avait autant d'amis..."
@@ -666,7 +666,7 @@
         "「ただの　元ポツコン２号と　思ってましたのに。\n　まったく……とんだ　愛され野郎ですよッ！": "Je pensais que vous n'etiez qu'un simple\nJunkey numero 2. Vraiment... Quel type adore\nvous faites !"
     },
     "135230": {
-        "<if_woman>「……姉ちゃんは　いつだってそうさ。\n　誰にでも　好かれちゃうんだ。<else>「……兄ちゃんは　いつだってそうさ。\n　誰にでも　好かれちゃうんだ。<endif>": "<if_woman>>Ma grande soeur a toujours ete comme\nca. Elle est appreciee de tout le monde.<else>>Mon grand frere a toujours ete comme ca. Il\nest apprecie de tout le monde. <endif>"
+        "<if_woman>「……姉ちゃんは　いつだってそうさ。\n　誰にでも　好かれちゃうんだ。<else>「……兄ちゃんは　いつだってそうさ。\n　誰にでも　好かれちゃうんだ。<endif>": "<if_woman>Ma grande soeur a toujours ete comme\nca. Elle est appreciee de tout le monde.<else>Mon grand frere a toujours ete comme ca. Il\nest apprecie de tout le monde. <endif>"
     },
     "135231": {
         "「<cs_pchero>さんは　強烈な魔瘴毒に侵されて\n　絶命されたようです……。": "Il semble que <cs_pchero> san ait succombe a\nun poison demoniaque puissant..."
@@ -825,7 +825,7 @@
         "「……<cs_pchero>は　いつだってそう。\n　誰にでも　好かれちゃうのよ。": "<cs_pchero> est toujours comme ca. Tout le\nmonde l'aime."
     },
     "135283": {
-        "<if_woman>「……お姉ちゃんは　いつだってそうだよ。\n　誰にでも　好かれちゃうの。<else>「……お兄ちゃんは　いつだってそうだよ。\n　誰にでも　好かれちゃうの。<endif>": "<if_woman>>Grande soeur, tu es toujours comme\nca. Tout le monde t'adore.<else>>Grand frere, tu es toujours comme ca. Tout le\nmonde t'adore. <endif>"
+        "<if_woman>「……お姉ちゃんは　いつだってそうだよ。\n　誰にでも　好かれちゃうの。<else>「……お兄ちゃんは　いつだってそうだよ。\n　誰にでも　好かれちゃうの。<endif>": "<if_woman>Grande soeur, tu es toujours comme\nca. Tout le monde t'adore.<else>Grand frere, tu es toujours comme ca. Tout le\nmonde t'adore. <endif>"
     },
     "135284": {
         "「どこまで……人の想いを　踏みにじれば……。": "Jusqu'ou... allez-vous pietiner les sentiments\ndes gens..."
@@ -843,7 +843,7 @@
         "「おいらは　なんにも　こわくないよ！": "Moi, je n'ai peur de rien !"
     },
     "135289": {
-        "<if_woman>「なんてったって　姉ちゃんがいるし！\n　この３人が　一緒なら　誰にも負けないさ！<else>「なんてったって　兄ちゃんがいるし！\n　この３人が　一緒なら　誰にも負けないさ！<endif>": "<if_woman>>C'est certain, grande soeur est la !\nTant que nous trois sommes ensemble, nous ne\nperdrons contre personne !<else>>C'est certain, grand frere est la ! Tant que\nnous trois sommes ensemble, nous ne perdrons\ncontre personne !<endif>"
+        "<if_woman>「なんてったって　姉ちゃんがいるし！\n　この３人が　一緒なら　誰にも負けないさ！<else>「なんてったって　兄ちゃんがいるし！\n　この３人が　一緒なら　誰にも負けないさ！<endif>": "<if_woman>C'est certain, grande soeur est la !\nTant que nous trois sommes ensemble, nous ne\nperdrons contre personne !<else>C'est certain, grand frere est la ! Tant que\nnous trois sommes ensemble, nous ne perdrons\ncontre personne !<endif>"
     },
     "135290": {
         "「<kyodai>さんの　のんきさには\n　昔から　何度も救われましたっけ。": "<kyodai>-san, votre insouciance m'a sauve\ntant de fois par le passe."
@@ -894,7 +894,7 @@
         "「オルストフは　おそらく　そこを通ったはず。\n　いざないの間へ　行ってみなさい。": "Olstrof a probablement emprunte ce passage. Va\ndonc a la Hall of Invitation."
     },
     "135306": {
-        "<if_woman>「行こう！　姉ちゃん！<else>「行こう！　兄ちゃん！<endif>": "<if_woman>>Allons-y ! Grande soeur !<else>>Allons-y ! Grand frere ! <endif>"
+        "<if_woman>「行こう！　姉ちゃん！<else>「行こう！　兄ちゃん！<endif>": "<if_woman>Allons-y ! Grande soeur !<else>Allons-y ! Grand frere ! <endif>"
     },
     "135307": {
         "「神墟ナドラグラムへ　乗り込み\n　私たちの手で　ナドラガの復活を止めましょう！": "Penetrons dans le Sanctuaire de Nadragram et\narretons la resurrection de Nadraga de nos\npropres mains !"
@@ -915,7 +915,7 @@
         "「なんてったって　<pc>がいるもの！\n　この３人が　一緒なら　誰にも負けないわ！": "C'est parce qu'il y a <pc> ! Avec ces\ntrois-la ensemble, personne ne peut nous\nbattre !"
     },
     "135313": {
-        "<if_woman>「なんてったって　お姉ちゃんがいるもん！\n　この３人が　一緒なら　誰にも負けないよ！<else>「なんてったって　お兄ちゃんがいるもん！\n　この３人が　一緒なら　誰にも負けないよ！<endif>": "<if_woman>>Et puis, j'ai ma grande soeur avec\nmoi ! Avec nous trois ensemble, personne ne\npeut nous battre !<else>>Et puis, j'ai mon grand frere avec moi ! Avec\nnous trois ensemble, personne ne peut nous\nbattre ! <endif>"
+        "<if_woman>「なんてったって　お姉ちゃんがいるもん！\n　この３人が　一緒なら　誰にも負けないよ！<else>「なんてったって　お兄ちゃんがいるもん！\n　この３人が　一緒なら　誰にも負けないよ！<endif>": "<if_woman>Et puis, j'ai ma grande soeur avec\nmoi ! Avec nous trois ensemble, personne ne\npeut nous battre !<else>Et puis, j'ai mon grand frere avec moi ! Avec\nnous trois ensemble, personne ne peut nous\nbattre ! <endif>"
     },
     "135314": {
         "「もしかして　カメさまなのか！？": "Serait-ce Galapagod !?"
@@ -933,7 +933,7 @@
         "「行くわよっ！　<pc>！": "Allons-y ! <pc> !"
     },
     "135319": {
-        "<if_woman>「行こっ！　お姉ちゃん！<else>「行こっ！　お兄ちゃん！<endif>": "<if_woman>>Allons-y ! Grande soeur !<else>>Allons-y ! Grand frere ! <endif>"
+        "<if_woman>「行こっ！　お姉ちゃん！<else>「行こっ！　お兄ちゃん！<endif>": "<if_woman>Allons-y ! Grande soeur !<else>Allons-y ! Grand frere ! <endif>"
     },
     "135320": {
         "「ここが　神墟ナドラグラム……。": "Voici donc le Sanctuaire de Nadragram..."
@@ -1146,10 +1146,10 @@
         "「下等な種族に生まれた　その身を引き裂いて \n　魂を　解き放ちましょうぞ！！": "Dechirons ce corps ne d'une race inferieure et\nliberons l'ame !!"
     },
     "145325": {
-        "<if_woman>「人は　自らの運命に　立ち向かっていけるんだ！\n　姉ちゃんなら　それを証明してくれる！<else>「人は　自らの運命に　立ち向かっていけるんだ！\n　兄ちゃんなら　それを証明してくれる！<endif>": "<if_woman>>Les gens peuvent affronter leur\ndestin ! Grande soeur, tu vas le prouver !<else>>Les gens peuvent affronter leur destin !\nGrand frere, tu vas le prouver ! <endif>"
+        "<if_woman>「人は　自らの運命に　立ち向かっていけるんだ！\n　姉ちゃんなら　それを証明してくれる！<else>「人は　自らの運命に　立ち向かっていけるんだ！\n　兄ちゃんなら　それを証明してくれる！<endif>": "<if_woman>Les gens peuvent affronter leur\ndestin ! Grande soeur, tu vas le prouver !<else>Les gens peuvent affronter leur destin !\nGrand frere, tu vas le prouver ! <endif>"
     },
     "145326": {
-        "<if_woman>「行こう……姉ちゃん！！<else>「行こう……兄ちゃん！！<endif>": "<if_woman>> Allons-y... grande soeur !!<else>> Allons-y... grand frere !! <endif>"
+        "<if_woman>「行こう……姉ちゃん！！<else>「行こう……兄ちゃん！！<endif>": "<if_woman> Allons-y... grande soeur !!<else> Allons-y... grand frere !! <endif>"
     },
     "145327": {
         "「クロウズさんっ！！": "Claws-san !!"
@@ -1167,7 +1167,7 @@
         "「人は　自らの運命に　立ち向かっていけるわ！\n　<cs_pchero>なら　それを証明してくれる！": "Les gens peuvent faire face a leur destin !\n<cs_pchero> le prouvera !"
     },
     "145332": {
-        "<if_woman>「人は　自らの運命に　立ち向かっていけるよ！\n　お姉ちゃんなら　それを証明してくれるよね！<else>「人は　自らの運命に　立ち向かっていけるよ！\n　お兄ちゃんなら　それを証明してくれるよね！<endif>": "<if_woman>>Les gens peuvent affronter leur\ndestin ! Grande soeur, tu vas nous le prouver,\nn'est-ce pas ?<else>>Les gens peuvent affronter leur destin !\nGrand frere, tu vas nous le prouver, n'est-ce\npas ? <endif>"
+        "<if_woman>「人は　自らの運命に　立ち向かっていけるよ！\n　お姉ちゃんなら　それを証明してくれるよね！<else>「人は　自らの運命に　立ち向かっていけるよ！\n　お兄ちゃんなら　それを証明してくれるよね！<endif>": "<if_woman>Les gens peuvent affronter leur\ndestin ! Grande soeur, tu vas nous le prouver,\nn'est-ce pas ?<else>Les gens peuvent affronter leur destin !\nGrand frere, tu vas nous le prouver, n'est-ce\npas ? <endif>"
     },
     "145333": {
         "「行くぜ……<cs_pchero>！！": "Allons-y... <cs_pchero> !!"
@@ -1176,10 +1176,10 @@
         "「行くわよ……<cs_pchero>！！": "Allons-y... <cs_pchero> !!"
     },
     "145335": {
-        "<if_woman>「行こう……お姉ちゃん！！<else>「行こう……お兄ちゃん！！<endif>": "<if_woman>>Allons-y... Grande soeur !!<else>>Allons-y... Grand frere !! <endif>"
+        "<if_woman>「行こう……お姉ちゃん！！<else>「行こう……お兄ちゃん！！<endif>": "<if_woman>Allons-y... Grande soeur !!<else>Allons-y... Grand frere !! <endif>"
     },
     "145336": {
-        "<if_woman>「姉ちゃん……もう　もたない！\n　はやく……！<else>「兄ちゃん……もう　もたない！\n　はやく……！<endif>": "<if_woman>>Grande soeur... Je ne vais plus\ntenir ! Vite...！<else>>Grand frere... Je ne vais plus tenir !\nVite...！<endif>"
+        "<if_woman>「姉ちゃん……もう　もたない！\n　はやく……！<else>「兄ちゃん……もう　もたない！\n　はやく……！<endif>": "<if_woman>Grande soeur... Je ne vais plus\ntenir ! Vite...！<else>Grand frere... Je ne vais plus tenir !\nVite...！<endif>"
     },
     "145337": {
         "「<cs_pchero>……もう　もたないぜ！\n　はやく……！": "<cs_pchero>Je ne tiendrai plus longtemps !\nDepeche-toi !"
@@ -1188,7 +1188,7 @@
         "「<cs_pchero>……もう　もたないわよ！\n　はやく……！": "<cs_pchero>Je ne vais pas tenir plus longtemps\n! Depeche-toi !"
     },
     "145339": {
-        "<if_woman>「お姉ちゃん……もう　もたないよ！\n　はやく……！<else>「お兄ちゃん……もう　もたないよ！\n　はやく……！<endif>": "<if_woman>>Grande soeur... Je ne tiendrai plus\nlongtemps ! Depeche-toi...！<else>>Grand frere... Je ne tiendrai plus longtemps\n! Depeche-toi...！<endif>"
+        "<if_woman>「お姉ちゃん……もう　もたないよ！\n　はやく……！<else>「お兄ちゃん……もう　もたないよ！\n　はやく……！<endif>": "<if_woman>Grande soeur... Je ne tiendrai plus\nlongtemps ! Depeche-toi...！<else>Grand frere... Je ne tiendrai plus longtemps\n! Depeche-toi...！<endif>"
     },
     "145340": {
         "「ク…クク…………これでよい。": "Kuku... C'est bien ainsi."
@@ -1524,7 +1524,7 @@
         "「……私は　今　自分の足で歩きだします。": "Je commence maintenant a marcher de mes\npropres pieds."
     },
     "146268": {
-        "<if_woman>「最後の戦いは……ふたりに託すよ。\n　この先の未来を作るのは　姉ちゃんたちだ。<else>「最後の戦いは……ふたりに託すよ。\n　この先の未来を作るのは　兄ちゃんたちだ。<endif>": "<if_woman>>Le dernier combat... je le confie a\nvous deux. C'est vous, grandes soeurs, qui\nfaconnerez l'avenir a venir.<else>>Le dernier combat... je le confie a vous\ndeux. C'est vous, grands freres, qui\nfaconnerez l'avenir a venir. <endif>"
+        "<if_woman>「最後の戦いは……ふたりに託すよ。\n　この先の未来を作るのは　姉ちゃんたちだ。<else>「最後の戦いは……ふたりに託すよ。\n　この先の未来を作るのは　兄ちゃんたちだ。<endif>": "<if_woman>Le dernier combat... je le confie a\nvous deux. C'est vous, grandes soeurs, qui\nfaconnerez l'avenir a venir.<else>Le dernier combat... je le confie a vous\ndeux. C'est vous, grands freres, qui\nfaconnerez l'avenir a venir. <endif>"
     },
     "146269": {
         "「ちきしょう……こんな時に　時間が……。": "Merde... Le temps... a un moment pareil..."
@@ -1542,7 +1542,7 @@
         "「最後の戦いは……ふたりに託すわ。\n　この先の未来を作るのは　<cs_pchero>たちよ。": "La derniere bataille... je la confie a vous\ndeux. C'est vous, <cs_pchero>, qui forgerez\nl'avenir."
     },
     "146274": {
-        "<if_woman>「最後の戦いは……ふたりに託すね。\n　この先の未来を作るのは　お姉ちゃんたちだよ。<else>「最後の戦いは……ふたりに託すね。\n　この先の未来を作るのは　お兄ちゃんたちだよ。<endif>": "<if_woman>>Le dernier combat... Je le confie a\nvous deux. Ce sont vous, mes grandes soeurs,\nqui allez forger l'avenir d'ici.<else>>Le dernier combat... Je le confie a vous\ndeux. Ce sont vous, mes grands freres, qui\nallez forger l'avenir d'ici. <endif>"
+        "<if_woman>「最後の戦いは……ふたりに託すね。\n　この先の未来を作るのは　お姉ちゃんたちだよ。<else>「最後の戦いは……ふたりに託すね。\n　この先の未来を作るのは　お兄ちゃんたちだよ。<endif>": "<if_woman>Le dernier combat... Je le confie a\nvous deux. Ce sont vous, mes grandes soeurs,\nqui allez forger l'avenir d'ici.<else>Le dernier combat... Je le confie a vous\ndeux. Ce sont vous, mes grands freres, qui\nallez forger l'avenir d'ici. <endif>"
     },
     "146275": {
         "「お前ってさ……\n　いつも　おいしいとこ　全部持ってくよな。": "Toi, tu sais toujours prendre les meilleures\nparts, hein..."
@@ -1683,16 +1683,16 @@
         "「まっ　その話は　いつか話すよ。\n　今はさ……今しかできない話をしよう。": "Eh bien, je te raconterai cette histoire un\njour. Pour l'instant... parlons de quelque\nchose qu'on ne peut aborder qu'en ce moment."
     },
     "146321": {
-        "<if_woman>「あのさ　姉ちゃん……。 \n　もう　忘れてるかもだけど　あの日……<else>「あのさ　兄ちゃん……。 \n　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>>Dis, grande soeur... Tu as peut-etre\ndeja oublie, mais ce jour-la...<else>>Dis, grand frere... Tu as peut-etre deja\noublie, mais ce jour-la... <endif>"
+        "<if_woman>「あのさ　姉ちゃん……。 \n　もう　忘れてるかもだけど　あの日……<else>「あのさ　兄ちゃん……。 \n　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>Dis, grande soeur... Tu as peut-etre\ndeja oublie, mais ce jour-la...<else>Dis, grand frere... Tu as peut-etre deja\noublie, mais ce jour-la... <endif>"
     },
     "146322": {
         "「会いたくなかったなんて　言ってごめんね。\n　ほんとは　胸が苦しくなるくらい\n　……うれしかった。": "Je suis desole d'avoir dit que je ne voulais\npas te voir. En verite, j'etais tellement\nheureux que ca m'en serrait la poitrine."
     },
     "146323": {
-        "<if_woman>「おいら　姉ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったんだ。<else>「おいら　兄ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったんだ。<endif>": "<if_woman>>J'ai entendu la prediction que ma\ngrande soeur allait mourir, et j'etais\nterrifie, terrifie a l'extreme.<else>>J'ai entendu la prediction que mon grand\nfrere allait mourir, et j'etais terrifie,\nterrifie a l'extreme. <endif>"
+        "<if_woman>「おいら　姉ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったんだ。<else>「おいら　兄ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったんだ。<endif>": "<if_woman>J'ai entendu la prediction que ma\ngrande soeur allait mourir, et j'etais\nterrifie, terrifie a l'extreme.<else>J'ai entendu la prediction que mon grand\nfrere allait mourir, et j'etais terrifie,\nterrifie a l'extreme. <endif>"
     },
     "146324": {
-        "<if_woman>「だけど　姉ちゃんには　強くて優しい仲間……<else>「だけど　兄ちゃんには　強くて優しい仲間……<endif>": "<if_woman>>Cependant, ma grande soeur a des\ncompagnons forts et gentils...<else>>Cependant, mon grand frere a des compagnons\nforts et gentils... <endif>"
+        "<if_woman>「だけど　姉ちゃんには　強くて優しい仲間……<else>「だけど　兄ちゃんには　強くて優しい仲間……<endif>": "<if_woman>Cependant, ma grande soeur a des\ncompagnons forts et gentils...<else>Cependant, mon grand frere a des compagnons\nforts et gentils... <endif>"
     },
     "146325": {
         "「おいらね　すごく安心したんだ。": "Je me suis senti vraiment rassure."
@@ -1701,7 +1701,7 @@
         "「だからさ……笑って　さよならが言えるよ。": "Alors... Je peux te dire adieu avec le\nsourire."
     },
     "146327": {
-        "<if_woman>「いつの時代でも　どんな姿でも……\n　姉ちゃんを…………きっと　見つけるから。<else>「いつの時代でも　どんな姿でも……\n　兄ちゃんを…………きっと　見つけるから。<endif>": "<if_woman>>Peu importe l'epoque, peu importe\nl'apparence... Je te retrouverai toujours,\ngrande soeur...<else>>Peu importe l'epoque, peu importe\nl'apparence... Je te retrouverai toujours,\ngrand frere... <endif>"
+        "<if_woman>「いつの時代でも　どんな姿でも……\n　姉ちゃんを…………きっと　見つけるから。<else>「いつの時代でも　どんな姿でも……\n　兄ちゃんを…………きっと　見つけるから。<endif>": "<if_woman>Peu importe l'epoque, peu importe\nl'apparence... Je te retrouverai toujours,\ngrande soeur...<else>Peu importe l'epoque, peu importe\nl'apparence... Je te retrouverai toujours,\ngrand frere... <endif>"
     },
     "146328": {
         "「……最後に　３人で話したいって\n　<kyodai>さんが　おっしゃいましてね。": "…Enfin, <kyodai>-san a dit qu'il voulait\nparler avec nous trois."
@@ -1743,7 +1743,7 @@
         "「あのね　<pc>……。\n　もう　忘れてるかもしれないけど　あの日……": "Tu sais, <pc>... Tu as peut-etre oublie,\nmais ce jour-la..."
     },
     "146341": {
-        "<if_woman>「あのね　お姉ちゃん……。\n　もう　忘れてるかもだけど　あの日……<else>「あのね　お兄ちゃん……。\n　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman>> Tu sais, grande soeur... Peut-etre\nque tu as deja oublie, mais ce jour-la...<else>> Tu sais, grand frere... Peut-etre que tu as\ndeja oublie, mais ce jour-la... <endif>"
+        "<if_woman>「あのね　お姉ちゃん……。\n　もう　忘れてるかもだけど　あの日……<else>「あのね　お兄ちゃん……。\n　もう　忘れてるかもだけど　あの日……<endif>": "<if_woman> Tu sais, grande soeur... Peut-etre\nque tu as deja oublie, mais ce jour-la...<else> Tu sais, grand frere... Peut-etre que tu as\ndeja oublie, mais ce jour-la... <endif>"
     },
     "146342": {
         "「会いたくなかったなんて　言って悪かったな。\n　ほんとは　胸が苦しくなるくらい\n　……うれしかったぜ。": "Je suis desole d'avoir dit que je ne voulais\npas te voir. En verite, j'etais tellement\nheureux que cela m'en serrait la poitrine..."
@@ -1761,7 +1761,7 @@
         "「あたし　<pc>が　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったわ。": "J'ai entendu la prediction disant que\n<pc> allait mourir, et cela m'a\nterrifiee."
     },
     "146347": {
-        "<if_woman>「私ね　お姉ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったよ。<else>「私ね　お兄ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったよ。<endif>": "<if_woman>>Tu sais, quand j'ai entendu la\nprediction disant que ma grande soeur allait\nmourir, j'etais terrifiee, terrifiee au-dela<br>des mots.<else>>Tu sais, quand j'ai entendu la prediction\ndisant que mon grand frere allait mourir,\nj'etais terrifiee, terrifiee au-dela des mots.<br><endif>"
+        "<if_woman>「私ね　お姉ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったよ。<else>「私ね　お兄ちゃんが　死ぬって予知を聞いて\n　怖くて怖くて　たまらなかったよ。<endif>": "<if_woman>Tu sais, quand j'ai entendu la\nprediction disant que ma grande soeur allait\nmourir, j'etais terrifiee, terrifiee au-dela<br>des mots.<else>Tu sais, quand j'ai entendu la prediction\ndisant que mon grand frere allait mourir,\nj'etais terrifiee, terrifiee au-dela des mots.<br><endif>"
     },
     "146348": {
         "「だけど　お前には　強くて優しい仲間……": "Mais tu as des compagnons forts et\nbienveillants..."
@@ -1770,7 +1770,7 @@
         "「だけど　あんたには　強くて優しい仲間……": "Mais toi, tu as des compagnons forts et\nbienveillants..."
     },
     "146350": {
-        "<if_woman>「だけど　お姉ちゃんには　強くて優しい仲間……<else>「だけど　お兄ちゃんには　強くて優しい仲間……<endif>": "<if_woman>>Mais grande soeur, tu as des\ncompagnons forts et gentils...<else>>Mais grand frere, tu as des compagnons forts\net gentils...<endif>"
+        "<if_woman>「だけど　お姉ちゃんには　強くて優しい仲間……<else>「だけど　お兄ちゃんには　強くて優しい仲間……<endif>": "<if_woman>Mais grande soeur, tu as des\ncompagnons forts et gentils...<else>Mais grand frere, tu as des compagnons forts\net gentils...<endif>"
     },
     "146351": {
         "「オレは　すごく安心したんだ。": "Je me suis senti vraiment rassure."
@@ -1797,7 +1797,7 @@
         "「いつの時代でも　どんな姿でも……\n　あんたを…………きっと　見つけるわ。": "Peu importe l'epoque, peu importe la forme que\ntu prends... Je te trouverai... c'est sur."
     },
     "146359": {
-        "<if_woman>「いつの時代でも　どんな姿でも……\n　お姉ちゃんを…………きっと　見つけるから。<else>「いつの時代でも　どんな姿でも……\n　お兄ちゃんを…………きっと　見つけるから。<endif>": "<if_woman>>Peu importe l'epoque ou\nl'apparence... Grande soeur... Je te\nretrouverai, c'est certain.<else>>Peu importe l'epoque ou l'apparence... Grand\nfrere... Je te retrouverai, c'est certain.<endif>"
+        "<if_woman>「いつの時代でも　どんな姿でも……\n　お姉ちゃんを…………きっと　見つけるから。<else>「いつの時代でも　どんな姿でも……\n　お兄ちゃんを…………きっと　見つけるから。<endif>": "<if_woman>Peu importe l'epoque ou\nl'apparence... Grande soeur... Je te\nretrouverai, c'est certain.<else>Peu importe l'epoque ou l'apparence... Grand\nfrere... Je te retrouverai, c'est certain.<endif>"
     },
     "150978": {
         "「すべて……終わったのね。": "Tout est... termine."
@@ -1848,7 +1848,7 @@
         "「……心配ないさ。": "...Ne t'inquiete pas."
     },
     "158901": {
-        "<if_woman>「姉ちゃんのことは　今度こそ……\n　おいらが守るから！<else>「兄ちゃんのことは　今度こそ……\n　おいらが守るから！<endif>": "<if_woman>>Cette fois-ci, je protegerai ma\ngrande soeur... Je te le promets !<else>>Cette fois-ci, je protegerai mon grand\nfrere... Je te le promets ! <endif>"
+        "<if_woman>「姉ちゃんのことは　今度こそ……\n　おいらが守るから！<else>「兄ちゃんのことは　今度こそ……\n　おいらが守るから！<endif>": "<if_woman>Cette fois-ci, je protegerai ma\ngrande soeur... Je te le promets !<else>Cette fois-ci, je protegerai mon grand\nfrere... Je te le promets ! <endif>"
     },
     "158902": {
         "「……心配ねえよ。": "...Ne t'inquiete pas."
@@ -1866,7 +1866,7 @@
         "「<cs_pchero>のことは　今度こそ……\n　あたしが守るから！": "Cette fois-ci, je protegerai <cs_pchero>... Je\nte le promets !"
     },
     "158907": {
-        "<if_woman>「お姉ちゃんのことは　今度こそ……\n　私が守るから！<else>「お兄ちゃんのことは　今度こそ……\n　私が守るから！<endif>": "<if_woman>>Cette fois-ci, je protegerai grande\nsoeur... Je te le promets !<else>>Cette fois-ci, je protegerai grand frere...\nJe te le promets ! <endif>"
+        "<if_woman>「お姉ちゃんのことは　今度こそ……\n　私が守るから！<else>「お兄ちゃんのことは　今度こそ……\n　私が守るから！<endif>": "<if_woman>Cette fois-ci, je protegerai grande\nsoeur... Je te le promets !<else>Cette fois-ci, je protegerai grand frere...\nJe te le promets ! <endif>"
     },
     "160534": {
         "「ありがとうございます　<pc>殿。": "Merci beaucoup, <pc>-dono."
@@ -1875,7 +1875,7 @@
         "「<pc>さん。\n　アストルティアで　また　お会いしましょう。": "<pc>-san. Retrouvons-nous a nouveau dans\nAstoltia."
     },
     "160536": {
-        "<if_woman>「姉ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいた。<else>「兄ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいた。<endif>": "<if_woman>>Il y avait tellement de compagnons\nprets a risquer leur vie pour ma grande soeur.<else>>Il y avait tellement de compagnons prets a\nrisquer leur vie pour mon grand frere.<endif>"
+        "<if_woman>「姉ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいた。<else>「兄ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいた。<endif>": "<if_woman>Il y avait tellement de compagnons\nprets a risquer leur vie pour ma grande soeur.<else>Il y avait tellement de compagnons prets a\nrisquer leur vie pour mon grand frere.<endif>"
     },
     "160537": {
         "「<pc>のために　命を削ってくれるような\n　仲間が　いっぱいいた。": "J'avais de nombreux compagnons prets a risquer\nleur vie pour <pc>."
@@ -1884,7 +1884,7 @@
         "「<pc>のために　命を削ってくれるような\n　仲間が　いっぱいいたわ。": "Pour <pc>, il y avait de nombreux\ncamarades prets a sacrifier leur vie."
     },
     "160539": {
-        "<if_woman>「お姉ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいたのね。<else>「お兄ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいたのね。<endif>": "<if_woman>>Il y avait tant de compagnons prets\na risquer leur vie pour ma grande soeur.<else>>Il y avait tant de compagnons prets a risquer\nleur vie pour mon grand frere. <endif>"
+        "<if_woman>「お姉ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいたのね。<else>「お兄ちゃんのために　命を削ってくれるような\n　仲間が　いっぱいいたのね。<endif>": "<if_woman>Il y avait tant de compagnons prets\na risquer leur vie pour ma grande soeur.<else>Il y avait tant de compagnons prets a risquer\nleur vie pour mon grand frere. <endif>"
     },
     "160604": {
         "「にゃ～ん。": "Miaou~."
