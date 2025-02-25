@@ -732,7 +732,7 @@
         "「……どうやら　間に合わなかったようですね。\n　<kyodai>さん。": "Il semble que nous ne soyons pas arrives a\ntemps. <kyodai>-san."
     },
     "125121": {
-        "<if_woman>「……姉ちゃん。\n　どうしても　前へ　進むつもりなんだね。<else>「……兄ちゃん。\n　どうしても　前へ　進むつもりなんだね。<endif>": "<if_woman>>... Grande soeur. Tu es vraiment\ndecidee a aller de l'avant.<else>>... Grand frere. Tu es vraiment decide a\naller de l'avant. <endif>"
+        "<if_woman>「……姉ちゃん。\n　どうしても　前へ　進むつもりなんだね。<else>「……兄ちゃん。\n　どうしても　前へ　進むつもりなんだね。<endif>": "<if_woman>... Grande soeur. Tu es vraiment\ndecidee a aller de l'avant.<else>... Grand frere. Tu es vraiment decide a\naller de l'avant. <endif>"
     },
     "125122": {
         "「さて……。どうしたものでしょう。\n　私が　何か　手を打ちますか？": "さてどうしたものでしょう 私が何か手を打ちますか？"
@@ -753,7 +753,7 @@
         "「……<pc>。\n　どうあっても　前へ　進むつもりなのね。": "<pc>. Tu es vraiment determine a aller\nde l'avant, n'est-ce pas."
     },
     "125128": {
-        "<if_woman>「……お姉ちゃん。\n　どうしても　前へ　進むつもりなんだ。<else>「……お兄ちゃん。\n　どうしても　前へ　進むつもりなんだ。<endif>": "<if_woman>>... Grande soeur. Tu es vraiment\ndecidee a aller de l'avant.<else>>... Grand frere. Tu es vraiment decide a\naller de l'avant. <endif>"
+        "<if_woman>「……お姉ちゃん。\n　どうしても　前へ　進むつもりなんだ。<else>「……お兄ちゃん。\n　どうしても　前へ　進むつもりなんだ。<endif>": "<if_woman>... Grande soeur. Tu es vraiment\ndecidee a aller de l'avant.<else>... Grand frere. Tu es vraiment decide a\naller de l'avant. <endif>"
     },
     "125129": {
         "「……いいや。次の機会を待つことにする。\n　それに　あんたには\n　やってもらいたいことが　あるからな。": "Non, je vais attendre la prochaine occasion.\nDe plus, j'ai quelque chose que je voudrais\nque tu fasses."
