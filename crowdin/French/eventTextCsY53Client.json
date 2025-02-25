@@ -48,7 +48,7 @@
         "「それじゃあ　私は準備があるから……。\n　ふふっ　また後でねっ！": "Alors, je dois me preparer... Hehe, a plus\ntard !"
     },
     "91657": {
-        "<if_woman><center>姉ちゃん　姉ちゃん……。<else><center>兄ちゃん　兄ちゃん……。<endif>": "<if_woman>> Grande soeur, grande soeur...<else>> Grand frere, grand frere... <endif>"
+        "<if_woman><center>姉ちゃん　姉ちゃん……。<else><center>兄ちゃん　兄ちゃん……。<endif>": "<if_woman> Grande soeur, grande soeur...<else> Grand frere, grand frere... <endif>"
     },
     "91658": {
         "「こんなとこで昼寝なんて　のんきだなぁ。\n　……しかも　まだ寝ぼけてるでしょ？": "Faire la sieste ici, tu es bien insouciant.\n... Et en plus, tu es encore a moitie endormi,\nnon ?"
@@ -66,7 +66,7 @@
         "<center>ねえ　<pc>……。": "He, <pc>..."
     },
     "91663": {
-        "<if_woman><center>お姉ちゃん　お姉ちゃん……。<else><center>お兄ちゃん　お兄ちゃん……。<endif>": "<if_woman>> Grande soeur, grande soeur...<else>> Grand frere, grand frere... <endif>"
+        "<if_woman><center>お姉ちゃん　お姉ちゃん……。<else><center>お兄ちゃん　お兄ちゃん……。<endif>": "<if_woman> Grande soeur, grande soeur...<else> Grand frere, grand frere... <endif>"
     },
     "91701": {
         "「<pc>さま　<pc>さま！": "<pc> sama, <pc> sama !"
@@ -135,7 +135,7 @@
         "「さあさ　<pc>。\n　次は　あなたが踊ってあげてください。": "Alors, <pc>. Maintenant, c'est a votre\ntour de danser, s'il vous plait."
     },
     "91723": {
-        "<if_woman><center>できれば　会いたくなかったよ……姉ちゃん。<else><center>できれば　会いたくなかったよ……兄ちゃん。<endif>": "<if_woman>> Si possible, je n'aurais pas voulu\nte rencontrer... grande soeur.<else>> Si possible, je n'aurais pas voulu te\nrencontrer... grand frere. <endif>"
+        "<if_woman><center>できれば　会いたくなかったよ……姉ちゃん。<else><center>できれば　会いたくなかったよ……兄ちゃん。<endif>": "<if_woman> Si possible, je n'aurais pas voulu\nte rencontrer... grande soeur.<else> Si possible, je n'aurais pas voulu te\nrencontrer... grand frere. <endif>"
     },
     "91724": {
         "「………………あと　４人。": "...Encore 4 personnes."
@@ -171,7 +171,7 @@
         "<center>できれば　会いたくなかったわ……<pc>。": "Je preferais ne pas te rencontrer...\n<pc>."
     },
     "91736": {
-        "<if_woman><center>できれば　会いたくなかったよ……お姉ちゃん。<else><center>できれば　会いたくなかったよ……お兄ちゃん。<endif>": "<if_woman>> Si possible, je ne voulais pas te\nrevoir... grande soeur.<else>> Si possible, je ne voulais pas te revoir...\ngrand frere. <endif>"
+        "<if_woman><center>できれば　会いたくなかったよ……お姉ちゃん。<else><center>できれば　会いたくなかったよ……お兄ちゃん。<endif>": "<if_woman> Si possible, je ne voulais pas te\nrevoir... grande soeur.<else> Si possible, je ne voulais pas te revoir...\ngrand frere. <endif>"
     },
     "91737": {
         "「………………あと　４人。": "...Encore 4 personnes."
@@ -267,19 +267,19 @@
         "「よかった　ちゃんと覚えててくれたんだ！": "Super, tu t'en es bien souvenu !"
     },
     "98751": {
-        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　姉ちゃんは\n　どんな時も　おいらの姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　兄ちゃんは\n　どんな時も　おいらの兄ちゃんだね！<endif>": "<if_woman>>J'avais peur que tu m'aies oublie,\nmais finalement, grande soeur reste toujours ma\ngrande soeur, quoi qu'il arrive !<else>>J'avais peur que tu m'aies oublie, mais\nfinalement, grand frere reste toujours mon\ngrand frere, quoi qu'il arrive ! <endif>"
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　姉ちゃんは\n　どんな時も　おいらの姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　兄ちゃんは\n　どんな時も　おいらの兄ちゃんだね！<endif>": "<if_woman>J'avais peur que tu m'aies oublie,\nmais finalement, grande soeur reste toujours ma\ngrande soeur, quoi qu'il arrive !<else>J'avais peur que tu m'aies oublie, mais\nfinalement, grand frere reste toujours mon\ngrand frere, quoi qu'il arrive ! <endif>"
     },
     "98752": {
-        "<if_woman>「……この村で　姉ちゃんと過ごした時間は\n　本当に　かけがえのないものだったな。<else>「……この村で　兄ちゃんと過ごした時間は\n　本当に　かけがえのないものだったな。<endif>": "<if_woman>>Le temps passe avec ma grande soeur\ndans ce village etait vraiment precieux.<else>>Le temps passe avec mon grand frere dans ce\nvillage etait vraiment precieux. <endif>"
+        "<if_woman>「……この村で　姉ちゃんと過ごした時間は\n　本当に　かけがえのないものだったな。<else>「……この村で　兄ちゃんと過ごした時間は\n　本当に　かけがえのないものだったな。<endif>": "<if_woman>Le temps passe avec ma grande soeur\ndans ce village etait vraiment precieux.<else>Le temps passe avec mon grand frere dans ce\nvillage etait vraiment precieux. <endif>"
     },
     "98753": {
-        "<if_woman>「あの日　姉ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったんだ。<else>「あの日　兄ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったんだ。<endif>": "<if_woman>> Ce jour-la, apres m'etre separe de\nma grande soeur et avoir ete projete dans une\nepoque tres lointaine... il s'est passe<br>tellement de choses.<else>> Ce jour-la, apres m'etre separee de mon\ngrand frere et avoir ete projetee dans une\nepoque tres lointaine... il s'est passe<br>tellement de choses. <endif>"
+        "<if_woman>「あの日　姉ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったんだ。<else>「あの日　兄ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったんだ。<endif>": "<if_woman> Ce jour-la, apres m'etre separe de\nma grande soeur et avoir ete projete dans une\nepoque tres lointaine... il s'est passe<br>tellement de choses.<else> Ce jour-la, apres m'etre separee de mon\ngrand frere et avoir ete projetee dans une\nepoque tres lointaine... il s'est passe<br>tellement de choses. <endif>"
     },
     "98754": {
         "「そう……いろんなことがね。 \n　それから　おいら\n　何度も何度も　考えちゃうんだよ。": "Oui... beaucoup de choses, tu sais. Et depuis,\nje n'arrete pas d'y reflechir encore et\nencore."
     },
     "98755": {
-        "<if_woman>「おいらが　あんなつらい思いをしたのは\n　全部　姉ちゃんのせいなんじゃないか……って。<else>「おいらが　あんなつらい思いをしたのは\n　全部　兄ちゃんのせいなんじゃないか……って。<endif>": "<if_woman>>Si j'ai vecu des moments aussi\ndifficiles, c'est peut-etre a cause de ma\ngrande soeur...<else>>Si j'ai vecu des moments aussi difficiles,\nc'est peut-etre a cause de mon grand\nfrere...<endif>"
+        "<if_woman>「おいらが　あんなつらい思いをしたのは\n　全部　姉ちゃんのせいなんじゃないか……って。<else>「おいらが　あんなつらい思いをしたのは\n　全部　兄ちゃんのせいなんじゃないか……って。<endif>": "<if_woman>Si j'ai vecu des moments aussi\ndifficiles, c'est peut-etre a cause de ma\ngrande soeur...<else>Si j'ai vecu des moments aussi difficiles,\nc'est peut-etre a cause de mon grand\nfrere...<endif>"
     },
     "98756": {
         "「よかった　ちゃんと覚えててくれたんだな！": "Super, tu t'en es bien souvenu !"
@@ -291,13 +291,13 @@
         "「よかった　ちゃんと覚えててくれたんだね！": "Je suis content que tu t'en souviennes bien !"
     },
     "98759": {
-        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　オレの　かわいい妹だな！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　オレの　かわいい弟だな！<endif>": "<if_woman>>J'avais peur d'etre oublie, mais\napres tout, <pc> reste toujours ma\npetite soeur adoree !<else>>J'avais peur d'etre oublie, mais apres tout,\n<pc> reste toujours mon petit frere\nadore ! <endif>"
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　オレの　かわいい妹だな！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　オレの　かわいい弟だな！<endif>": "<if_woman>J'avais peur d'etre oublie, mais\napres tout, <pc> reste toujours ma\npetite soeur adoree !<else>J'avais peur d'etre oublie, mais apres tout,\n<pc> reste toujours mon petit frere\nadore ! <endif>"
     },
     "98760": {
-        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　あたしの　かわいい妹ね！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　あたしの　かわいい弟ね！<endif>": "<if_woman>>J'avais peur que tu m'aies oublie,\nmais finalement, <pc>, tu restes ma\npetite soeur adoree a tout moment !<else>>J'avais peur que tu m'aies oublie, mais\nfinalement, <pc>, tu restes mon petit\nfrere adore a tout moment !<endif>"
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　あたしの　かわいい妹ね！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　<pc>は\n　どんな時も　あたしの　かわいい弟ね！<endif>": "<if_woman>J'avais peur que tu m'aies oublie,\nmais finalement, <pc>, tu restes ma\npetite soeur adoree a tout moment !<else>J'avais peur que tu m'aies oublie, mais\nfinalement, <pc>, tu restes mon petit\nfrere adore a tout moment !<endif>"
     },
     "98761": {
-        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　お姉ちゃんは\n　どんな時も　私のお姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　お兄ちゃんは\n　どんな時も　私のお兄ちゃんだね！<endif>": "<if_woman>>J'avais peur que tu m'aies oubliee,\nmais finalement, grande soeur, tu es toujours\nma grande soeur, peu importe les circonstances<br>!<else>>J'avais peur que tu m'aies oublie, mais\nfinalement, grand frere, tu es toujours mon\ngrand frere, peu importe les circonstances<br>!<endif>"
+        "<if_woman>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　お姉ちゃんは\n　どんな時も　私のお姉ちゃんだね！<else>「忘れられてたら　どうしようかと思ったけど\n　やっぱり　お兄ちゃんは\n　どんな時も　私のお兄ちゃんだね！<endif>": "<if_woman>J'avais peur que tu m'aies oubliee,\nmais finalement, grande soeur, tu es toujours\nma grande soeur, peu importe les circonstances<br>!<else>J'avais peur que tu m'aies oublie, mais\nfinalement, grand frere, tu es toujours mon\ngrand frere, peu importe les circonstances<br>!<endif>"
     },
     "98762": {
         "「……この村で　お前と過ごした時間は\n　本当に　かけがえのないもんだったな。": "...... Le temps passe avec toi dans ce village\netait vraiment precieux."
@@ -306,7 +306,7 @@
         "「……この村で　あんたと過ごした時間は\n　本当に　かけがえのないものだったわ。": "...... Le temps passe avec toi dans ce village\na vraiment ete irremplacable."
     },
     "98764": {
-        "<if_woman>「……この村で　お姉ちゃんと過ごした時間は\n　本当に　かけがえのないものだったね。<else>「……この村で　お兄ちゃんと過ごした時間は\n　本当に　かけがえのないものだったね。<endif>": "<if_woman>>Le temps passe avec ma grande soeur\ndans ce village etait vraiment precieux.<else>>Le temps passe avec mon grand frere dans ce\nvillage etait vraiment precieux. <endif>"
+        "<if_woman>「……この村で　お姉ちゃんと過ごした時間は\n　本当に　かけがえのないものだったね。<else>「……この村で　お兄ちゃんと過ごした時間は\n　本当に　かけがえのないものだったね。<endif>": "<if_woman>Le temps passe avec ma grande soeur\ndans ce village etait vraiment precieux.<else>Le temps passe avec mon grand frere dans ce\nvillage etait vraiment precieux. <endif>"
     },
     "98765": {
         "「あの日　<pc>と別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あってさ。": "Ce jour-la, apres m'etre separe de <pc>,\nj'ai ete envoye dans un temps tres ancien...\nIl s'est passe tellement de choses depuis."
@@ -315,7 +315,7 @@
         "「あの日　<pc>と別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったの。": "Ce jour-la, apres m'etre separee de\n<pc>, j'ai ete projetee dans une epoque\ntres lointaine... Il m'est arrive tant de<br>choses."
     },
     "98767": {
-        "<if_woman>「あの日　お姉ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったよ。<else>「あの日　お兄ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったよ。<endif>": "<if_woman>> Depuis ce jour ou je me suis\nseparee de ma grande soeur et ou j'ai ete\nprojetee dans une epoque tres lointaine...<br>tant de choses se sont passees.<else>> Depuis ce jour ou je me suis separe de mon\ngrand frere et ou j'ai ete projete dans une\nepoque tres lointaine... tant de choses se<br>sont passees. <endif>"
+        "<if_woman>「あの日　お姉ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったよ。<else>「あの日　お兄ちゃんと別れて\n　ずっと昔の時代に　飛ばされてから……\n　いろんなことが　あったよ。<endif>": "<if_woman> Depuis ce jour ou je me suis\nseparee de ma grande soeur et ou j'ai ete\nprojetee dans une epoque tres lointaine...<br>tant de choses se sont passees.<else> Depuis ce jour ou je me suis separe de mon\ngrand frere et ou j'ai ete projete dans une\nepoque tres lointaine... tant de choses se<br>sont passees. <endif>"
     },
     "98768": {
         "「そう……いろんなことがな。\n　それから　オレ\n　何度も何度も　考えちまうんだ。": "Oui... tant de choses. Apres cela, je ne peux\nm'empecher d'y penser encore et encore."
@@ -333,7 +333,7 @@
         "「あたしが　あんなつらい思いをしたのは\n　全部　あんたのせいなんじゃないか……って。": "Je me demande si toutes ces souffrances que\nj'ai endurees, c'est pas a cause de toi..."
     },
     "98773": {
-        "<if_woman>「私が　あんなつらい思いをしたのは\n　全部　お姉ちゃんのせいなんじゃ……って。<else>「私が　あんなつらい思いをしたのは\n　全部　お兄ちゃんのせいなんじゃ……って。<endif>": "<if_woman>>Si j'ai vecu une experience aussi\ndouloureuse, c'est entierement a cause de ma\ngrande soeur...<else>>Si j'ai vecu une experience aussi\ndouloureuse, c'est entierement a cause de mon\ngrand frere...<endif>"
+        "<if_woman>「私が　あんなつらい思いをしたのは\n　全部　お姉ちゃんのせいなんじゃ……って。<else>「私が　あんなつらい思いをしたのは\n　全部　お兄ちゃんのせいなんじゃ……って。<endif>": "<if_woman>Si j'ai vecu une experience aussi\ndouloureuse, c'est entierement a cause de ma\ngrande soeur...<else>Si j'ai vecu une experience aussi\ndouloureuse, c'est entierement a cause de mon\ngrand frere...<endif>"
     },
     "103404": {
         "「<pc>……。\n　甲板の　船尾楼で待っています。": "<pc>... Je vous attends sur le pont\narriere."
