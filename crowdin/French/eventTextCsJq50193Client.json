@@ -48,7 +48,7 @@
         "「ねえ　<cs_pchero>。なんか　ヤバそうだし\n　用がすんでるなら　早いとこ　帰ろーよ。": "He, <cs_pchero>. Ca a l'air dangereux ici. Si\ntu as termine ce que tu devais faire, rentrons\nvite."
     },
     "244394": {
-        "<if_woman>「おっと　<cs_pchero>君が　帰れるかどうかは\n　キミしだいだ。死霊の書の封印を　解いてくれ。\n　そうすれば　彼女を　自由にしてやろう。<else>「おっと　<cs_pchero>君が　帰れるかどうかは\n　キミしだいだ。死霊の書の封印を　解いてくれ。\n　そうすれば　彼を　自由にしてやろう。<endif>": "<if_woman>> Oh, que tu puisses rentrer ou non,\n<cs_pchero>kun, cela depend de toi. Brise le\nsceau du Book of Dead. Alors, je te libererai.<else>> Oh, que tu puisses rentrer ou non,\n<cs_pchero>kun, cela depend de toi. Brise le\nsceau du Book of Dead. Alors, je le libererai.<br><endif>"
+        "<if_woman>「おっと　<cs_pchero>君が　帰れるかどうかは\n　キミしだいだ。死霊の書の封印を　解いてくれ。\n　そうすれば　彼女を　自由にしてやろう。<else>「おっと　<cs_pchero>君が　帰れるかどうかは\n　キミしだいだ。死霊の書の封印を　解いてくれ。\n　そうすれば　彼を　自由にしてやろう。<endif>": "<if_woman> Oh, que tu puisses rentrer ou non,\n<cs_pchero>kun, cela depend de toi. Brise le\nsceau du Book of Dead. Alors, je te libererai.<else> Oh, que tu puisses rentrer ou non,\n<cs_pchero>kun, cela depend de toi. Brise le\nsceau du Book of Dead. Alors, je le libererai.<br><endif>"
     },
     "244395": {
         "「はぁ？　なに言ってくれてんの　アンタ。\n　アタシを　おどしてんの？": "Quoi ? Qu'est-ce que tu racontes, toi ? Tu\nessaies de me menacer ?"
