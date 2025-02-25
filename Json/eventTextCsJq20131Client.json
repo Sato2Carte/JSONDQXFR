@@ -9,10 +9,10 @@
         "「わーい　わーい！　こんなに　ちかくで\n　モーモンたん　みるの　はじめてー！\n　すごい　すごーい！": "Waouh, waouh ! C'est la premiere fois que je\nvois un Teeny Sanguini d'aussi pres ! C'est\nincroyable, incroyable !"
     },
     "58256": {
-        "<if_woman>「ねえねえ　おねえちゃん。\n　このモーモンたん　おねえちゃんの？\n　どうして　つれあるいて　へいきなの？<else>「ねえねえ　おにいちゃん。\n　このモーモンたん　おにいちゃんの？\n　どうして　つれあるいて　へいきなの？<endif>": "<if_woman>>Dis, grande soeur. Ce Teeny\nSanguini, c'est le tien ? Pourquoi tu peux le\npromener comme ca sans probleme ?<else>>Dis, grand frere. Ce Teeny Sanguini, c'est le\ntien ? Pourquoi tu peux le promener comme ca\nsans probleme ? <endif>"
+        "<if_woman>「ねえねえ　おねえちゃん。\n　このモーモンたん　おねえちゃんの？\n　どうして　つれあるいて　へいきなの？<else>「ねえねえ　おにいちゃん。\n　このモーモンたん　おにいちゃんの？\n　どうして　つれあるいて　へいきなの？<endif>": "<if_woman>Dis, grande soeur. Ce Teeny\nSanguini, c'est le tien ? Pourquoi tu peux le\npromener comme ca sans probleme ?<else>Dis, grand frere. Ce Teeny Sanguini, c'est le\ntien ? Pourquoi tu peux le promener comme ca\nsans probleme ? <endif>"
     },
     "58257": {
-        "<if_woman>「……へえ～。おねえちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<else>「……へえ～。おにいちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<endif>": "<if_woman>>He~. Grande soeur, tu fais le metier\nde dresseuse de monstres. C'est style !<else>>He~. Grand frere, tu fais le metier de\ndresseur de monstres. C'est style !<endif>"
+        "<if_woman>「……へえ～。おねえちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<else>「……へえ～。おにいちゃん\n　まものつかいっていう　おしごとしてるのね。\n　なんか　かっこいいー！<endif>": "<if_woman>He~. Grande soeur, tu fais le metier\nde dresseuse de monstres. C'est style !<else>He~. Grand frere, tu fais le metier de\ndresseur de monstres. C'est style !<endif>"
     },
     "58258": {
         "「カーヤ。ただいまー。\n　いい子に　して……": "KayaJe suis rentre ! As-tu ete sage..."
@@ -33,7 +33,7 @@
         "「早く！": "Depeche-toi !"
     },
     "58264": {
-        "<if_woman>「ごめんね……。おねえちゃん……。<else>「ごめんね……。おにいちゃん……。<endif>": "<if_woman>>Je suis desole(e)... Grande soeur...<else>>Je suis desole(e)... Grand frere... <endif>"
+        "<if_woman>「ごめんね……。おねえちゃん……。<else>「ごめんね……。おにいちゃん……。<endif>": "<if_woman>Je suis desole(e)... Grande soeur...<else>Je suis desole(e)... Grand frere... <endif>"
     },
     "58265": {
         "「いいぞ　ファーベル！\n　剣を振る姿が　なかなか　サマになってきた。": "Bien joue, Fabel ! Ta facon de manier l'epee\ncommence a avoir fiere allure."
