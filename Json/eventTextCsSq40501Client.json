@@ -18,7 +18,7 @@
         "「よぉーっし！　お前たち！\n　お待ちかね　海開きの時間だぞぉっ！": "Allez ! Vous tous ! C'est enfin l'heure de\nl'ouverture de la plage !"
     },
     "233637": {
-        "<if_woman>「ちょいと　そこの……\n　夏の日差しが　よく似合う　お嬢さん。<else>「ちょいと　そこの……\n　夏の日差しが　よく似合う　お前さん。<endif>": "<if_woman>>He, toi la-bas... Jeune demoiselle\nqui s'accorde bien avec les rayons du soleil\nd'ete.<else>>He, toi la-bas... Toi qui t'accorde bien avec\nles rayons du soleil d'ete. <endif>"
+        "<if_woman>「ちょいと　そこの……\n　夏の日差しが　よく似合う　お嬢さん。<else>「ちょいと　そこの……\n　夏の日差しが　よく似合う　お前さん。<endif>": "<if_woman>He, toi la-bas... Jeune demoiselle\nqui s'accorde bien avec les rayons du soleil\nd'ete.<else>He, toi la-bas... Toi qui t'accorde bien avec\nles rayons du soleil d'ete. <endif>"
     },
     "233639": {
         "「どうしても　頼みてぇことがあるんだ！\n　オレは　ビーチ中央の　孤島の岩場にいるから\n　ビーチを泳いで　来てくれねぇか？": "J'ai vraiment besoin de te demander un service\n! Je suis sur Rocky Island, au centre de la\nplage. Peux-tu nager jusqu'ici ?"
