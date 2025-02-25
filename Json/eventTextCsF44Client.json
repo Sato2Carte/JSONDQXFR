@@ -324,7 +324,7 @@
         "「おぎゃあ　おぎゃあ……。": "Ogyā ogyā..."
     },
     "152112": {
-        "<if_woman>「あ…えっと　お嬢さまは　ご無事です。<else>「あ…えっと　ぼっちゃまは　ご無事です。<endif>": "<if_woman>> Ah... euh, mademoiselle est en\nsecurite.<else>> Ah... euh, monsieur est en securite.<endif>"
+        "<if_woman>「あ…えっと　お嬢さまは　ご無事です。<else>「あ…えっと　ぼっちゃまは　ご無事です。<endif>": "<if_woman> Ah... euh, mademoiselle est en\nsecurite.<else> Ah... euh, monsieur est en securite.<endif>"
     },
     "152113": {
         "「ねえ　<pc>。\n　叔母様を　私のお部屋に運ぶから\n　手伝ってちょうだい。": "He, <pc>. Je vais emmener tante dans ma\nchambre, viens m'aider, s'il te plait."
@@ -333,7 +333,7 @@
         "<pc>たちは　パドレア邸を後にし\nマローネ夫人を　エテーネ王宮にある\nメレアーデの私室へ　運び込んだ。": "<pc> et ses compagnons quitterent la\ndemeure de Padre et transporterent Madame\nMarone dans les appartements prives de Mereade<br>au palais royal d'Ethene."
     },
     "152115": {
-        "<if_woman>「ご安心ください　お嬢さま。\n　お母様は　おそばに　おられますからね。<else>「ご安心ください　ぼっちゃま。\n　お母様は　おそばに　おられますからね。<endif>": "<if_woman>>Rassurez-vous, mademoiselle. Votre\nmere est a vos cotes, vous savez.<else>>Rassurez-vous, jeune maitre. Votre mere est a\nvos cotes, vous savez. <endif>"
+        "<if_woman>「ご安心ください　お嬢さま。\n　お母様は　おそばに　おられますからね。<else>「ご安心ください　ぼっちゃま。\n　お母様は　おそばに　おられますからね。<endif>": "<if_woman>Rassurez-vous, mademoiselle. Votre\nmere est a vos cotes, vous savez.<else>Rassurez-vous, jeune maitre. Votre mere est a\nvos cotes, vous savez. <endif>"
     },
     "152116": {
         "「……うーむ。": "...Hmmm."
