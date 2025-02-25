@@ -15,7 +15,7 @@
         "「どうやら　向こうからは　こちらを\n　認識できないようキュね……。": "Il semble qu'ils ne puissent pas nous\nreconnaitre de leur cote, kyu..."
     },
     "206757": {
-        "<if_woman>「こ　これは……！？\n　お嬢さまの身に　いったい　何が？<else>「こ　これは……！？\n　坊ちゃんの身に　いったい　何が？<endif>": "<if_woman>>Qu-que se passe-t-il... !?\nQu'est-il arrive a mademoiselle ?<else>>Qu-que se passe-t-il... !? Qu'est-il arrive a\njeune maitre ? <endif>"
+        "<if_woman>「こ　これは……！？\n　お嬢さまの身に　いったい　何が？<else>「こ　これは……！？\n　坊ちゃんの身に　いったい　何が？<endif>": "<if_woman>Qu-que se passe-t-il... !?\nQu'est-il arrive a mademoiselle ?<else>Qu-que se passe-t-il... !? Qu'est-il arrive a\njeune maitre ? <endif>"
     },
     "206758": {
         "「恐怖のあまり　時渡りのチカラが\n　暴走しているのです。\n　ああ……こうなってしまっては　もう……。": "La peur est telle que le pouvoir de voyager\ndans le temps s'emballe. Ah… Maintenant que\nc'est arrive, c'est deja…"
@@ -24,7 +24,7 @@
         "「オギャアー！　オギャアー！": "Ogyah ! Ogyah !"
     },
     "206760": {
-        "<if_woman>「お嬢さまは　どこへ？<else>「坊ちゃんは　どこへ？<endif>": "<if_woman>>Ou est allee la demoiselle ?<else>>Ou est alle le jeune maitre ? <endif>"
+        "<if_woman>「お嬢さまは　どこへ？<else>「坊ちゃんは　どこへ？<endif>": "<if_woman>Ou est allee la demoiselle ?<else>Ou est alle le jeune maitre ? <endif>"
     },
     "206761": {
         "「わかりません……。\n　けれど　今ならまだ　<pc>を\n　追いかけることが　できます。": "Je ne comprends pas... Mais pour l'instant,\nnous pouvons encore poursuivre <pc>."
@@ -33,13 +33,13 @@
         "「あの子の　チカラの残滓から\n　時渡りの軌跡を追えば\n　そう遠くない時代に　たどり着けるはず……。": "Si nous suivons les traces du pouvoir de cet\nenfant, nous devrions pouvoir atteindre une\nepoque pas si lointaine..."
     },
     "206763": {
-        "<if_woman>「ならば　自分も　お連れください！\n　すぐ　お嬢さまを追いかけましょう！<else>「ならば　自分も　お連れください！\n　すぐ　坊ちゃんを追いかけましょう！<endif>": "<if_woman>>Alors, emmenez-moi aussi !\nPoursuivons immediatement la demoiselle !<else>>Alors, emmenez-moi aussi ! Poursuivons\nimmediatement le jeune maitre !<endif>"
+        "<if_woman>「ならば　自分も　お連れください！\n　すぐ　お嬢さまを追いかけましょう！<else>「ならば　自分も　お連れください！\n　すぐ　坊ちゃんを追いかけましょう！<endif>": "<if_woman>Alors, emmenez-moi aussi !\nPoursuivons immediatement la demoiselle !<else>Alors, emmenez-moi aussi ! Poursuivons\nimmediatement le jeune maitre !<endif>"
     },
     "206764": {
         "「バカなことを！\n　チカラを持たぬ者が　時を渡れば\n　恐ろしい呪いが　降りかかるのですよ！": "Quelle folie ! Si ceux qui ne possedent pas de\npouvoir traversent le temps, une terrible\nmalediction s'abattra sur eux !"
     },
     "206765": {
-        "<if_woman>「このまま　お嬢さまと　マローネ様を\n　見捨てたとあれば　このファラス\n　主に　申し訳が立ちませぬ！<else>「このまま　坊ちゃんと　マローネ様を\n　見捨てたとあれば　このファラス\n　主に　申し訳が立ちませぬ！<endif>": "<if_woman>>Si je laissais ainsi mademoiselle\net Marone-sama, je ne pourrais pas faire face\na Lord Faras !<else>>Si je laissais ainsi le jeune maitre et\nMarone-sama, je ne pourrais pas faire face a\nLord Faras ! <endif>"
+        "<if_woman>「このまま　お嬢さまと　マローネ様を\n　見捨てたとあれば　このファラス\n　主に　申し訳が立ちませぬ！<else>「このまま　坊ちゃんと　マローネ様を\n　見捨てたとあれば　このファラス\n　主に　申し訳が立ちませぬ！<endif>": "<if_woman>Si je laissais ainsi mademoiselle\net Marone-sama, je ne pourrais pas faire face\na Lord Faras !<else>Si je laissais ainsi le jeune maitre et\nMarone-sama, je ne pourrais pas faire face a\nLord Faras ! <endif>"
     },
     "206766": {
         "「……わかりました。\n　では　<pc>の時渡りの軌跡を\n　追いましょう……。": "...... D'accord. Alors, suivons les traces du\nvoyage temporel de <pc>..."
@@ -84,7 +84,7 @@
         "「しかし　浮島も街灯も　見当たらん。\n　王国が誇る　高度な錬金術は\n　失われてしまったか……。": "Cependant, je ne vois ni ile flottante ni\nreverbere. L'alchimie avancee dont le royaume\netait fier a-t-elle ete perdue...?"
     },
     "207024": {
-        "<if_woman>「<pc>！？　なぜ　俺の娘が！<else>「<pc>！？　なぜ　俺の息子が！<endif>": "<if_woman>><pc>！？ Pourquoi ma fille !<else>><pc>！？ Pourquoi mon fils ! <endif>"
+        "<if_woman>「<pc>！？　なぜ　俺の娘が！<else>「<pc>！？　なぜ　俺の息子が！<endif>": "<if_woman><pc>！？ Pourquoi ma fille !<else><pc>！？ Pourquoi mon fils ! <endif>"
     },
     "207025": {
         "「カメさま！！　どうなされましたか！？": "Galapagod！！ Que se passe-t-il !?"
@@ -123,7 +123,7 @@
         "「そうじゃ！　年寄りの家で　暮らすより\n　歳の近い　子供のいる家庭で　育ったほうが\n　お前さんにとっても　しあわせじゃろう。": "Exactement ! Plutot que de vivre chez une\npersonne agee, il serait plus heureux pour toi\nde grandir dans une famille avec des enfants<br>de ton age."
     },
     "207037": {
-        "<if_woman>「小さな子供がいる　あの夫婦に預けて\n　妹として育ててもらうのが　一番じゃな！\n　わしも毎日　会いにいくからのう……。<else>「小さな子供がいる　あの夫婦に預けて\n　弟として育ててもらうのが　一番じゃな！\n　わしも毎日　会いにいくからのう……。<endif>": "<if_woman>> Confier a ce couple qui a un jeune\nenfant, c'est la meilleure solution pour\nqu'ils l'elevent comme leur soeur, n'est-ce pas<br>! Je viendrai leur rendre visite tous les\njours...<else>> Confier a ce couple qui a un jeune enfant,\nc'est la meilleure solution pour qu'ils\nl'elevent comme leur frere, n'est-ce pas ! Je<br>viendrai leur rendre visite tous les jours...<endif>"
+        "<if_woman>「小さな子供がいる　あの夫婦に預けて\n　妹として育ててもらうのが　一番じゃな！\n　わしも毎日　会いにいくからのう……。<else>「小さな子供がいる　あの夫婦に預けて\n　弟として育ててもらうのが　一番じゃな！\n　わしも毎日　会いにいくからのう……。<endif>": "<if_woman> Confier a ce couple qui a un jeune\nenfant, c'est la meilleure solution pour\nqu'ils l'elevent comme leur soeur, n'est-ce pas<br>! Je viendrai leur rendre visite tous les\njours...<else> Confier a ce couple qui a un jeune enfant,\nc'est la meilleure solution pour qu'ils\nl'elevent comme leur frere, n'est-ce pas ! Je<br>viendrai leur rendre visite tous les jours...<endif>"
     },
     "207038": {
         "「そうじゃ！　年寄りの家で　暮らすより\n　子供をほしがってる　あの夫婦のもとに\n　預けたほうが　よいじゃろうな。": "C'est ca ! Plutot que de vivre chez des\npersonnes agees, il vaudrait mieux confier\nl'enfant a ce couple qui en desire un."
@@ -135,7 +135,7 @@
         "「俺の子が流れ着いた　ここは\n　いったい　いつの時代なのだ！？": "Mon enfant echoue ici, mais a quelle epoque\nsommes-nous donc !?"
     },
     "207041": {
-        "<if_woman>「わざわざ　探そうとしなくても\n　お前の娘なら　ほら！　目の前にいるっキュ。<else>「わざわざ　探そうとしなくても\n　お前の息子なら　ほら！　目の前にいるっキュ。<endif>": "<if_woman>>Pas besoin de chercher si loin,\nregarde ! Ta fille est juste devant tes yeux.<else>>Pas besoin de chercher si loin, regarde ! Ton\nfils est juste devant tes yeux. <endif>"
+        "<if_woman>「わざわざ　探そうとしなくても\n　お前の娘なら　ほら！　目の前にいるっキュ。<else>「わざわざ　探そうとしなくても\n　お前の息子なら　ほら！　目の前にいるっキュ。<endif>": "<if_woman>Pas besoin de chercher si loin,\nregarde ! Ta fille est juste devant tes yeux.<else>Pas besoin de chercher si loin, regarde ! Ton\nfils est juste devant tes yeux. <endif>"
     },
     "207042": {
         "「だいぶ　生体継続時間は　進行してるけど\n　この時代に出現した　赤ん坊と　<pc>は\n　まごうことなく　異時間同位体キュ！": "Le temps de continuation biologique a bien\nprogresse, mais le bebe apparu a cette epoque\net <pc> sont sans aucun doute des<br>isotypes temporels, kyu !"
@@ -783,13 +783,13 @@
         "「マローネとて……同じ思いだろう。": "Marone doit probablement ressentir la meme\nchose."
     },
     "209385": {
-        "<if_woman>「そうだ！　マローネは　お前が\n　自分の娘だと　知っているのか？<else>「そうだ！　マローネは　お前が\n　自分の息子だと　知っているのか？<endif>": "<if_woman>> Dis-moi ! Marone sait-elle que tu\nes sa fille ?<else>> Dis-moi ! Marone sait-elle que tu es son\nfils ? <endif>"
+        "<if_woman>「そうだ！　マローネは　お前が\n　自分の娘だと　知っているのか？<else>「そうだ！　マローネは　お前が\n　自分の息子だと　知っているのか？<endif>": "<if_woman> Dis-moi ! Marone sait-elle que tu\nes sa fille ?<else> Dis-moi ! Marone sait-elle que tu es son\nfils ? <endif>"
     },
     "209386": {
         "「……すべて終わったら\n　一緒に　マローネに会いにいこう。": "Une fois que tout sera termine, allons\nensemble voir Marone."
     },
     "209387": {
-        "<if_woman>「行方不明の夫が　成長した娘を連れて\n　帰ってきたとあれば　あいつも\n　さぞや　びっくりするだろうな。<else>「行方不明の夫が　成長した息子を連れて\n　帰ってきたとあれば　あいつも\n　さぞや　びっくりするだろうな。<endif>": "<if_woman>>Si le mari disparu revient avec sa\nfille grandie, il sera surement tres surpris.<else>>Si le mari disparu revient avec son fils\ngrandi, il sera surement tres surpris.<endif>"
+        "<if_woman>「行方不明の夫が　成長した娘を連れて\n　帰ってきたとあれば　あいつも\n　さぞや　びっくりするだろうな。<else>「行方不明の夫が　成長した息子を連れて\n　帰ってきたとあれば　あいつも\n　さぞや　びっくりするだろうな。<endif>": "<if_woman>Si le mari disparu revient avec sa\nfille grandie, il sera surement tres surpris.<else>Si le mari disparu revient avec son fils\ngrandi, il sera surement tres surpris.<endif>"
     },
     "209388": {
         "「エテーネ王国と　キュロノスの因縁を断つ……。\n　それが　王族として　生まれた者の義務だ。": "Rompre le lien entre le royaume d'Ethene et\nKyuronos... C'est le devoir de ceux qui sont\nnes dans la royaute."
@@ -1248,13 +1248,13 @@
         "「…………そうよね？": "...... N'est-ce pas ?"
     },
     "209540": {
-        "<if_woman>「姉ちゃん！\n　<pc>姉ちゃんなんだろ？<else>「兄ちゃん！\n　<pc>兄ちゃんなんだろ？<endif>": "<if_woman>>Grande soeur ! C'est toi, grande\nsoeur <pc> ?<else>>Grand frere ! C'est toi, grand frere\n<pc> ? <endif>"
+        "<if_woman>「姉ちゃん！\n　<pc>姉ちゃんなんだろ？<else>「兄ちゃん！\n　<pc>兄ちゃんなんだろ？<endif>": "<if_woman>Grande soeur ! C'est toi, grande\nsoeur <pc> ?<else>Grand frere ! C'est toi, grand frere\n<pc> ? <endif>"
     },
     "209541": {
         "「ああ！　よかった。\n　まぼろしじゃ　ないんだね。": "Ah ! Je suis tellement soulage. Ce n'etait pas\nun mirage."
     },
     "209542": {
-        "<if_woman>「こんな場所で　姉ちゃんと出会えるなんて\n　夢にも　思わなかったよ！<else>「こんな場所で　兄ちゃんと出会えるなんて\n　夢にも　思わなかったよ！<endif>": "<if_woman>>Rencontrer ma grande soeur dans un\nendroit comme celui-ci, je n'aurais jamais ose\nen rever !<else>>Rencontrer mon grand frere dans un endroit\ncomme celui-ci, je n'aurais jamais ose en\nrever ! <endif>"
+        "<if_woman>「こんな場所で　姉ちゃんと出会えるなんて\n　夢にも　思わなかったよ！<else>「こんな場所で　兄ちゃんと出会えるなんて\n　夢にも　思わなかったよ！<endif>": "<if_woman>Rencontrer ma grande soeur dans un\nendroit comme celui-ci, je n'aurais jamais ose\nen rever !<else>Rencontrer mon grand frere dans un endroit\ncomme celui-ci, je n'aurais jamais ose en\nrever ! <endif>"
     },
     "209543": {
         "「だけど……ここは　いったい\n　どういう場所なんだろう？": "Mais... quel est donc cet endroit ?"
@@ -1269,13 +1269,13 @@
         "「キュルルじゃないか！？": "N'est-ce pas Kyururu !?"
     },
     "209547": {
-        "<if_woman>「そうか！　姉ちゃんが　おいらのキューブを\n　使っているんだね。<else>「そうか！　兄ちゃんが　おいらのキューブを\n　使っているんだね。<endif>": "<if_woman>>Je vois ! Grande soeur utilise mon\ncube.<else>>Je vois ! Grand frere utilise mon cube.<endif>"
+        "<if_woman>「そうか！　姉ちゃんが　おいらのキューブを\n　使っているんだね。<else>「そうか！　兄ちゃんが　おいらのキューブを\n　使っているんだね。<endif>": "<if_woman>Je vois ! Grande soeur utilise mon\ncube.<else>Je vois ! Grand frere utilise mon cube.<endif>"
     },
     "209548": {
         "「ボクと　<pc>は　世界の滅亡を\n　阻止するため　ここ　時獄の迷宮に\n　乗り込んできたんだキュ。": "Moi et <pc> sommes venus ici, dans le\nLabyrinthe du Temps, pour empecher la\ndestruction du monde, kyu."
     },
     "209549": {
-        "<if_woman>「姉ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<else>「兄ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<endif>": "<if_woman>>Grande soeur... tu te meles encore\nd'une telle affaire...<else>>Grand frere... tu te meles encore d'une telle\naffaire... <endif>"
+        "<if_woman>「姉ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<else>「兄ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<endif>": "<if_woman>Grande soeur... tu te meles encore\nd'une telle affaire...<else>Grand frere... tu te meles encore d'une telle\naffaire... <endif>"
     },
     "209550": {
         "「つい　このあいだ　ナドラガンドで\n　大変な目に　あったばかりだってのに……。": "Il n'y a pas si longtemps, j'ai eu une\nterrible experience a Nadragand..."
@@ -1299,19 +1299,19 @@
         "「……けど　そんな物言いも　なつかしいや。": "...Cependant, ce genre de discours me rend\nnostalgique."
     },
     "209557": {
-        "<if_woman>「おいらの代わりに　信頼できる友だちが\n　姉ちゃんを　ささえてくれてるなら　心強いよ。<else>「おいらの代わりに　信頼できる友だちが\n　兄ちゃんを　ささえてくれてるなら　心強いよ。<endif>": "<if_woman>>Si un ami de confiance soutient ma\ngrande soeur a ma place, cela me rassure\nbeaucoup.<else>>Si un ami de confiance soutient mon grand\nfrere a ma place, cela me rassure beaucoup.<endif>"
+        "<if_woman>「おいらの代わりに　信頼できる友だちが\n　姉ちゃんを　ささえてくれてるなら　心強いよ。<else>「おいらの代わりに　信頼できる友だちが\n　兄ちゃんを　ささえてくれてるなら　心強いよ。<endif>": "<if_woman>Si un ami de confiance soutient ma\ngrande soeur a ma place, cela me rassure\nbeaucoup.<else>Si un ami de confiance soutient mon grand\nfrere a ma place, cela me rassure beaucoup.<endif>"
     },
     "209558": {
-        "<if_woman>「世界の滅亡の　阻止だっけ？\n　おいらにも協力させてよ　姉ちゃん。<else>「世界の滅亡の　阻止だっけ？\n　おいらにも協力させてよ　兄ちゃん。<endif>": "<if_woman>>C'est pour empecher la fin du\nmonde, n'est-ce pas ? Laisse-moi t'aider,\ngrande soeur.<else>>C'est pour empecher la fin du monde, n'est-ce\npas ? Laisse-moi t'aider, grand frere.<endif>"
+        "<if_woman>「世界の滅亡の　阻止だっけ？\n　おいらにも協力させてよ　姉ちゃん。<else>「世界の滅亡の　阻止だっけ？\n　おいらにも協力させてよ　兄ちゃん。<endif>": "<if_woman>C'est pour empecher la fin du\nmonde, n'est-ce pas ? Laisse-moi t'aider,\ngrande soeur.<else>C'est pour empecher la fin du monde, n'est-ce\npas ? Laisse-moi t'aider, grand frere.<endif>"
     },
     "209559": {
-        "<if_woman>「いつも　迷惑かけっぱなしだったからね。\n　ようやく　おいらの錬金の技を　姉ちゃんの\n　役に立てられるかと思うと　うれしいよ！<else>「いつも　迷惑かけっぱなしだったからね。\n　ようやく　おいらの錬金の技を　兄ちゃんの\n　役に立てられるかと思うと　うれしいよ！<endif>": "<if_woman>>Je t'ai toujours cause des ennuis.\nJe suis vraiment content de pouvoir enfin\nmettre mes competences en alchimie au service<br>de ma grande soeur !<else>>Je t'ai toujours cause des ennuis. Je suis\nvraiment content de pouvoir enfin mettre mes\ncompetences en alchimie au service de mon<br>grand frere !<endif>"
+        "<if_woman>「いつも　迷惑かけっぱなしだったからね。\n　ようやく　おいらの錬金の技を　姉ちゃんの\n　役に立てられるかと思うと　うれしいよ！<else>「いつも　迷惑かけっぱなしだったからね。\n　ようやく　おいらの錬金の技を　兄ちゃんの\n　役に立てられるかと思うと　うれしいよ！<endif>": "<if_woman>Je t'ai toujours cause des ennuis.\nJe suis vraiment content de pouvoir enfin\nmettre mes competences en alchimie au service<br>de ma grande soeur !<else>Je t'ai toujours cause des ennuis. Je suis\nvraiment content de pouvoir enfin mettre mes\ncompetences en alchimie au service de mon<br>grand frere !<endif>"
     },
     "209560": {
-        "<if_woman>「あっ　まただよ！\n　くそっ　ひどいや　こんなときに……。\n　せっかく　姉ちゃんに会えたのに！<else>「あっ　まただよ！\n　くそっ　ひどいや　こんなときに……。\n　せっかく　兄ちゃんに会えたのに！<endif>": "<if_woman>>Ah, encore une fois ! Zut, c'est\nterrible, surtout en ce moment... J'ai enfin\npu revoir ma grande soeur !<else>>Ah, encore une fois ! Zut, c'est terrible,\nsurtout en ce moment... J'ai enfin pu revoir\nmon grand frere ! <endif>"
+        "<if_woman>「あっ　まただよ！\n　くそっ　ひどいや　こんなときに……。\n　せっかく　姉ちゃんに会えたのに！<else>「あっ　まただよ！\n　くそっ　ひどいや　こんなときに……。\n　せっかく　兄ちゃんに会えたのに！<endif>": "<if_woman>Ah, encore une fois ! Zut, c'est\nterrible, surtout en ce moment... J'ai enfin\npu revoir ma grande soeur !<else>Ah, encore une fois ! Zut, c'est terrible,\nsurtout en ce moment... J'ai enfin pu revoir\nmon grand frere ! <endif>"
     },
     "209561": {
-        "<if_woman>「忘れないで　姉ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　おいらは　ずっと　姉ちゃんの味方だか……<else>「忘れないで　兄ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　おいらは　ずっと　兄ちゃんの味方だか……<endif>": "<if_woman>>N'oublie pas, grande soeur ! Peu\nimporte le temps qui passe ou ce qui se passe,\nje serai toujours de ton cote...<else>> N'oublie pas, grand frere ! Peu importe le\ntemps qui passe ou ce qui se passe, je serai\ntoujours de ton cote... <endif>"
+        "<if_woman>「忘れないで　姉ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　おいらは　ずっと　姉ちゃんの味方だか……<else>「忘れないで　兄ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　おいらは　ずっと　兄ちゃんの味方だか……<endif>": "<if_woman>N'oublie pas, grande soeur ! Peu\nimporte le temps qui passe ou ce qui se passe,\nje serai toujours de ton cote...<else> N'oublie pas, grand frere ! Peu importe le\ntemps qui passe ou ce qui se passe, je serai\ntoujours de ton cote... <endif>"
     },
     "209562": {
         "「……消えちゃったキュル。": "... Il a disparu, Kyuru."
@@ -1326,7 +1326,7 @@
         "「<pc>！？　<pc>なのね？": "<pc> !? C'est bien <pc>, n'est-ce\npas ?"
     },
     "209566": {
-        "<if_woman>「お姉ちゃん！\n　<pc>お姉ちゃんなんでしょ？<else>「お兄ちゃん！\n　<pc>お兄ちゃんなんでしょ？<endif>": "<if_woman>>Grande soeur ! Tu es <pc>,\nn'est-ce pas ?<else>>Grand frere ! Tu es <pc>, n'est-ce pas\n? <endif>"
+        "<if_woman>「お姉ちゃん！\n　<pc>お姉ちゃんなんでしょ？<else>「お兄ちゃん！\n　<pc>お兄ちゃんなんでしょ？<endif>": "<if_woman>Grande soeur ! Tu es <pc>,\nn'est-ce pas ?<else>Grand frere ! Tu es <pc>, n'est-ce pas\n? <endif>"
     },
     "209567": {
         "「ああ！　よかった。\n　まぼろしじゃ　ないんだな。": "Ah ! Je suis soulage. Ce n'est donc pas une\nillusion."
@@ -1380,7 +1380,7 @@
         "「そっか！　<pc>が\n　あたしのキューブを　使っているのね！": "Ah, je vois ! <pc> utilise mon cube !"
     },
     "209584": {
-        "<if_woman>「そうか！　お姉ちゃんが　私のキューブを\n　使っているんだね。<else>「そうか！　お兄ちゃんが　私のキューブを\n　使っているんだね。<endif>": "<if_woman>>Ah, je vois ! Grande soeur utilise\nmon cube.<else>>Ah, je vois ! Grand frere utilise mon cube.<endif>"
+        "<if_woman>「そうか！　お姉ちゃんが　私のキューブを\n　使っているんだね。<else>「そうか！　お兄ちゃんが　私のキューブを\n　使っているんだね。<endif>": "<if_woman>Ah, je vois ! Grande soeur utilise\nmon cube.<else>Ah, je vois ! Grand frere utilise mon cube.<endif>"
     },
     "209585": {
         "「<pc>……またそんな　大ごとに\n　首を　つっ込んでるのか……。": "<pc>... Encore en train de te meler de\ngrandes affaires, n'est-ce pas..."
@@ -1389,7 +1389,7 @@
         "「<pc>……またそんな　大ごとに\n　首を　つっ込んでるのね……。": "<pc>... tu te meles encore de grandes\naffaires, n'est-ce pas...?"
     },
     "209587": {
-        "<if_woman>「お姉ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<else>「お兄ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<endif>": "<if_woman>>Grande soeur... Tu te meles encore\nde quelque chose de si important...<else>>Grand frere... Tu te meles encore de quelque\nchose de si important... <endif>"
+        "<if_woman>「お姉ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<else>「お兄ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<endif>": "<if_woman>Grande soeur... Tu te meles encore\nde quelque chose de si important...<else>Grand frere... Tu te meles encore de quelque\nchose de si important... <endif>"
     },
     "209588": {
         "「つい　このあいだ　ナドラガンドで\n　大変な目に　あったばかりだというのに……。": "Il n'y a pas longtemps, j'ai vecu une terrible\nexperience a Dragan..."
@@ -1443,7 +1443,7 @@
         "「あたしの代わりに　信頼できる友だちが\n　あんたを　ささえてくれてるなら　心強いわ。": "Je suis rassuree de savoir qu'un ami de\nconfiance te soutient a ma place."
     },
     "209605": {
-        "<if_woman>「私の代わりに　信頼できる友だちが\n　お姉ちゃんをささえてくれてるなら　心強いよ。<else>「私の代わりに　信頼できる友だちが\n　お兄ちゃんをささえてくれてるなら　心強いよ。<endif>": "<if_woman>>C'est rassurant de savoir qu'un ami\nfiable soutient ma grande soeur a ma place.<else>>C'est rassurant de savoir qu'un ami fiable\nsoutient mon grand frere a ma place. <endif>"
+        "<if_woman>「私の代わりに　信頼できる友だちが\n　お姉ちゃんをささえてくれてるなら　心強いよ。<else>「私の代わりに　信頼できる友だちが\n　お兄ちゃんをささえてくれてるなら　心強いよ。<endif>": "<if_woman>C'est rassurant de savoir qu'un ami\nfiable soutient ma grande soeur a ma place.<else>C'est rassurant de savoir qu'un ami fiable\nsoutient mon grand frere a ma place. <endif>"
     },
     "209606": {
         "「世界の滅亡の　阻止だったか？\n　オレも協力させてくれ　<pc>。": "Alors, tu cherches a empecher la fin du monde\n? Laisse-moi t'aider, <pc>."
@@ -1452,7 +1452,7 @@
         "「世界の滅亡の　阻止だったかしら？\n　あたしも協力するわ　<pc>。": "Etait-ce pour empecher la fin du monde ? Je\nvais aussi t'aider, <pc>."
     },
     "209608": {
-        "<if_woman>「世界の滅亡の　阻止だったっけ？\n　私も協力させてよ　お姉ちゃん。<else>「世界の滅亡の　阻止だったっけ？\n　私も協力させてよ　お兄ちゃん。<endif>": "<if_woman>>C'etait pour empecher la fin du\nmonde, non ? Laisse-moi t'aider aussi, grande\nsoeur.<else>>C'etait pour empecher la fin du monde, non ?\nLaisse-moi t'aider aussi, grand frere.<endif>"
+        "<if_woman>「世界の滅亡の　阻止だったっけ？\n　私も協力させてよ　お姉ちゃん。<else>「世界の滅亡の　阻止だったっけ？\n　私も協力させてよ　お兄ちゃん。<endif>": "<if_woman>C'etait pour empecher la fin du\nmonde, non ? Laisse-moi t'aider aussi, grande\nsoeur.<else>C'etait pour empecher la fin du monde, non ?\nLaisse-moi t'aider aussi, grand frere.<endif>"
     },
     "209609": {
         "「いつも　迷惑かけっぱなしだったからな。\n　ようやく　オレの錬金の技を　お前の\n　役に立てられるかと思うと　うれしいぜ！": "Je vous ai toujours cause des ennuis, n'est-ce\npas ? Ca me rend heureux de penser que je peux\nenfin mettre mes competences en alchimie a<br>votre service !"
@@ -1461,7 +1461,7 @@
         "「いつも　迷惑かけっぱなしだったからね。\n　ようやく　あたしの錬金の技を　あんたの\n　役に立てられるかと思うと　うれしいわ！": "J'ai toujours ete un fardeau pour toi. Alors,\npouvoir enfin mettre mes competences\nd'alchimie a ton service me rend vraiment<br>heureuse !"
     },
     "209611": {
-        "<if_woman>「いつも　迷惑かけっぱなしだったから。\n　ようやく　私の錬金の技を　お姉ちゃんの\n　役に立てられるかと思うと　うれしい！<else>「いつも　迷惑かけっぱなしだったから。\n　ようやく　私の錬金の技を　お兄ちゃんの\n　役に立てられるかと思うと　うれしい！<endif>": "<if_woman>>J'ai toujours cause des soucis,\nalors je suis heureuse de pouvoir enfin\nutiliser mes competences en alchimie pour etre<br>utile a ma grande soeur !<else>>J'ai toujours cause des soucis, alors je suis\nheureux de pouvoir enfin utiliser mes\ncompetences en alchimie pour etre utile a mon<br>grand frere ! <endif>"
+        "<if_woman>「いつも　迷惑かけっぱなしだったから。\n　ようやく　私の錬金の技を　お姉ちゃんの\n　役に立てられるかと思うと　うれしい！<else>「いつも　迷惑かけっぱなしだったから。\n　ようやく　私の錬金の技を　お兄ちゃんの\n　役に立てられるかと思うと　うれしい！<endif>": "<if_woman>J'ai toujours cause des soucis,\nalors je suis heureuse de pouvoir enfin\nutiliser mes competences en alchimie pour etre<br>utile a ma grande soeur !<else>J'ai toujours cause des soucis, alors je suis\nheureux de pouvoir enfin utiliser mes\ncompetences en alchimie pour etre utile a mon<br>grand frere ! <endif>"
     },
     "209612": {
         "「あっ　またかよ！\n　くそっ　こんなときに……。\n　せっかく　<pc>に会えたってのに！": "Ah, encore ca ! Mince, pourquoi maintenant...\nAlors que j'avais enfin pu rencontrer\n<pc> !"
@@ -1470,7 +1470,7 @@
         "「あっ　またなの！？\n　ひどいわ　こんなときに……。\n　せっかく　<pc>に会えたのに！": "Ah, encore une fois !? C'est horrible, surtout\nen ce moment... Et dire que j'avais enfin pu\nrencontrer <pc> !"
     },
     "209614": {
-        "<if_woman>「あっ　また！？\n　ひどいよ　こんなときに……。\n　せっかく　お姉ちゃんに会えたのに！<else>「あっ　また！？\n　ひどいよ　こんなときに……。\n　せっかく　お兄ちゃんに会えたのに！<endif>": "<if_woman>>Oh, encore !? C'est pas possible a\nun moment pareil... J'etais si heureuse de te\nrevoir, grande soeur !<else>>Oh, encore !? C'est pas possible a un moment\npareil... J'etais si heureux de te revoir,\ngrand frere ! <endif>"
+        "<if_woman>「あっ　また！？\n　ひどいよ　こんなときに……。\n　せっかく　お姉ちゃんに会えたのに！<else>「あっ　また！？\n　ひどいよ　こんなときに……。\n　せっかく　お兄ちゃんに会えたのに！<endif>": "<if_woman>Oh, encore !? C'est pas possible a\nun moment pareil... J'etais si heureuse de te\nrevoir, grande soeur !<else>Oh, encore !? C'est pas possible a un moment\npareil... J'etais si heureux de te revoir,\ngrand frere ! <endif>"
     },
     "209615": {
         "「忘れんな　<pc>！\n　どんなに時が過ぎても　この先　何が起こっても\n　オレは　ずっと　お前の味方だか……": "N'oublie pas, <pc> ! Peu importe le\ntemps qui passe, peu importe ce qui arrive a\nl'avenir, Je serai toujours a tes cotes..."
@@ -1479,7 +1479,7 @@
         "「忘れないで　<pc>！\n　どんなに時が過ぎても　この先　何が起こっても\n　あたしは　ずっと　あんたの味方だか……": "N'oublie jamais, <pc> ! Peu importe le\ntemps qui passe, peu importe ce qui arrive, je\nserai toujours a tes cotes..."
     },
     "209617": {
-        "<if_woman>「忘れないで　お姉ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　私　ずっと　お姉ちゃんの味方だか……<else>「忘れないで　お兄ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　私　ずっと　お兄ちゃんの味方だか……<endif>": "<if_woman>>N'oublie pas, grande soeur ! Peu\nimporte combien de temps passe, quoi qu'il\narrive a l'avenir, je serai toujours de ton<br>cote...<else>>N'oublie pas, grand frere ! Peu importe\ncombien de temps passe, quoi qu'il arrive a\nl'avenir, je serai toujours de ton cote...<br><endif>"
+        "<if_woman>「忘れないで　お姉ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　私　ずっと　お姉ちゃんの味方だか……<else>「忘れないで　お兄ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　私　ずっと　お兄ちゃんの味方だか……<endif>": "<if_woman>N'oublie pas, grande soeur ! Peu\nimporte combien de temps passe, quoi qu'il\narrive a l'avenir, je serai toujours de ton<br>cote...<else>N'oublie pas, grand frere ! Peu importe\ncombien de temps passe, quoi qu'il arrive a\nl'avenir, je serai toujours de ton cote...<br><endif>"
     },
     "220797": {
         "「ひとりにして　ご……めん……": "Je suis desole(e) de te laisser seul(e)..."
