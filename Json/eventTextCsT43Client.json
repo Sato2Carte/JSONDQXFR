@@ -948,7 +948,7 @@
         "「だけど　<pc>……。\n　これだけは　覚えておいてね。": "Mais <pc>... Souviens-toi juste de ca."
     },
     "124901": {
-        "<if_woman>「だけど　お姉ちゃん……。\n　これだけは　覚えておいてね。<else>「だけど　お兄ちゃん……。\n　これだけは　覚えておいてね。<endif>": "<if_woman>>Mais grande soeur... S'il te plait,\nsouviens-toi de cela.<else>>Mais grand frere... S'il te plait,\nsouviens-toi de cela. <endif>"
+        "<if_woman>「だけど　お姉ちゃん……。\n　これだけは　覚えておいてね。<else>「だけど　お兄ちゃん……。\n　これだけは　覚えておいてね。<endif>": "<if_woman>Mais grande soeur... S'il te plait,\nsouviens-toi de cela.<else>Mais grand frere... S'il te plait,\nsouviens-toi de cela. <endif>"
     },
     "124903": {
         "「邪悪なる意志は　お前の　すぐ　近くに……。": "Evil Will est tout pres de toi..."
@@ -957,7 +957,7 @@
         "「邪悪なる意志は　あなたの　すぐ　近くに……。": "Evil Will est tout pres de vous..."
     },
     "124907": {
-        "<if_woman>「邪悪なる意志は\n　お姉ちゃんの　すぐ　近くに……。<else>「邪悪なる意志は\n　お兄ちゃんの　すぐ　近くに……。<endif>": "<if_woman>>Evil Will est tout pres de ma\ngrande soeur...<else>>Evil Will est tout pres de mon grand\nfrere...<endif>"
+        "<if_woman>「邪悪なる意志は\n　お姉ちゃんの　すぐ　近くに……。<else>「邪悪なる意志は\n　お兄ちゃんの　すぐ　近くに……。<endif>": "<if_woman>Evil Will est tout pres de ma\ngrande soeur...<else>Evil Will est tout pres de mon grand\nfrere...<endif>"
     },
     "124909": {
         "「……よし　これでいい。": "......Bien, c'est parfait ainsi."
@@ -1809,10 +1809,10 @@
         "「今日のところは　\n　その人を連れていくのは　やめておくよ……。": "Aujourd'hui, je vais m'abstenir d'emmener\ncette personne avec moi..."
     },
     "141299": {
-        "<if_woman>「だけど　姉ちゃん……。\n　これだけは　覚えておいてよ。<else>「だけど　兄ちゃん……。\n　これだけは　覚えておいてよ。<endif>": "<if_woman>>Mais grande soeur... N'oublie jamais\nca.<else>>Mais grand frere... N'oublie jamais ca.<endif>"
+        "<if_woman>「だけど　姉ちゃん……。\n　これだけは　覚えておいてよ。<else>「だけど　兄ちゃん……。\n　これだけは　覚えておいてよ。<endif>": "<if_woman>Mais grande soeur... N'oublie jamais\nca.<else>Mais grand frere... N'oublie jamais ca.<endif>"
     },
     "141300": {
-        "<if_woman>「邪悪なる意志は\n　姉ちゃんの　すぐ　近くに……。<else>「邪悪なる意志は\n　兄ちゃんの　すぐ　近くに……。<endif>": "<if_woman>>Evil Will est tout pres de grande\nsoeur...<else>>Evil Will est tout pres de grand frere...<endif>"
+        "<if_woman>「邪悪なる意志は\n　姉ちゃんの　すぐ　近くに……。<else>「邪悪なる意志は\n　兄ちゃんの　すぐ　近くに……。<endif>": "<if_woman>Evil Will est tout pres de grande\nsoeur...<else>Evil Will est tout pres de grand frere...<endif>"
     },
     "141301": {
         "「……やっと　見つけたぜ。": "...Enfin, je t'ai trouve."
