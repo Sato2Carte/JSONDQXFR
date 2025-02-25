@@ -30,13 +30,13 @@
         "「こ　これは……。": "Ce... ceci est..."
     },
     "34": {
-        "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>>Encore un peu...<else>>Presque la... <endif>"
+        "<if_woman>「あとすこし……。<else>「もうすこしだ……。<endif>": "<if_woman>Encore un peu...<else>Presque la... <endif>"
     },
     "35": {
         "「この古代呪文が　復活すれば\n　エルトナの大地が　滅ぶ心配はなくなる……。": "Si ce vieux sortilege renait, nous n'aurons\nplus a craindre la destruction de la terre\nd'Eltona..."
     },
     "36": {
-        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>>Oh non !<else>>Zut ! <endif>"
+        "<if_woman>「いけない！<else>「しまった！<endif>": "<if_woman>Oh non !<else>Zut ! <endif>"
     },
     "37": {
         "「<pc>さま～～！！\n　もうちょっとだけ　勉強教えて～～～！！": "<pc>-sama～～！！ Apprends-moi encore un\npeu, s'il te plait～～～！！"
