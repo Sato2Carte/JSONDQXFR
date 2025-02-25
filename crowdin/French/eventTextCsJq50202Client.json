@@ -36,7 +36,7 @@
         "「だから　なくなったときは\n　すごく悲しかったし　心が真っ黒になって\n　苦しかった。でも……": "Donc, quand il a disparu, j'etais vraiment\ntriste, mon coeur s'est assombri et j'ai\nsouffert. Mais..."
     },
     "261724": {
-        "<if_woman>「リボン　戻ってきて　よかった！\n　あたしは　もう大丈夫だよ。\n　おねえちゃん　ありがとう！<else>「リボン　戻ってきて　よかった！\n　あたしは　もう大丈夫だよ。\n　おにいちゃん　ありがとう！<endif>": "<if_woman>>Ribon, je suis tellement contente\nque tu sois revenu ! Je vais bien maintenant.\nMerci grande soeur !<else>>Ribon, je suis tellement contente que tu sois\nrevenu ! Je vais bien maintenant. Merci grand\nfrere !<endif>"
+        "<if_woman>「リボン　戻ってきて　よかった！\n　あたしは　もう大丈夫だよ。\n　おねえちゃん　ありがとう！<else>「リボン　戻ってきて　よかった！\n　あたしは　もう大丈夫だよ。\n　おにいちゃん　ありがとう！<endif>": "<if_woman>Ribon, je suis tellement contente\nque tu sois revenu ! Je vais bien maintenant.\nMerci grande soeur !<else>Ribon, je suis tellement contente que tu sois\nrevenu ! Je vais bien maintenant. Merci grand\nfrere !<endif>"
     },
     "261725": {
         "「ぬるい手に　こだわりやがって。\n　あのガキが　正気を取り戻さなかったら\n　どうするつもりだったんだ。": "Tu t'accroches a des methodes inefficaces.\nQu'aurais-tu fait si ce gamin n'etait pas\nrevenu a la raison ?"
