@@ -450,7 +450,7 @@
         "「本当に……強くなったな　アンルシア……。\n　心も……身体も……。": "Vraiment... tu es devenue forte, Anlucia...\nAussi bien dans ton coeur... que dans ton\ncorps..."
     },
     "75277": {
-        "<if_woman>「それは……　全部　彼女のおかげです。\n　勇者の……私の盟友　<cs_pchero>の。<else>「それは……　全部　彼のおかげです。\n　勇者の……私の盟友　<cs_pchero>の。<endif>": "<if_woman>>C'est... grace a elle. Mon allie...\nle heros <cs_pchero>.<else>>C'est... grace a lui. Mon allie... le heros\n<cs_pchero>. <endif>"
+        "<if_woman>「それは……　全部　彼女のおかげです。\n　勇者の……私の盟友　<cs_pchero>の。<else>「それは……　全部　彼のおかげです。\n　勇者の……私の盟友　<cs_pchero>の。<endif>": "<if_woman>C'est... grace a elle. Mon allie...\nle heros <cs_pchero>.<else>C'est... grace a lui. Mon allie... le heros\n<cs_pchero>. <endif>"
     },
     "75278": {
         "「キミとは　どこかで　会った気が……？": "J'ai l'impression de t'avoir deja rencontre\nquelque part..."
@@ -642,7 +642,7 @@
         "「<pc>　行きましょう。\n　今度こそ　大魔王との決戦になるわ。\n　準備は　万全にね。": "Allons a <pc>. Cette fois-ci, ce sera la\nbataille decisive contre le grand roi demon.\nAssurons-nous d'etre parfaitement prepares."
     },
     "99331": {
-        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>>Grande soeur !<else>>Grand frere ! <endif>"
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>Grande soeur !<else>Grand frere ! <endif>"
     },
     "99332": {
         "「ほら　いいでしょ！？": "Regarde, c'est bien, n'est-ce pas ?"
@@ -666,7 +666,7 @@
         "「はい　アバさま。": "Oui, Abba-sama."
     },
     "99339": {
-        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>": "<if_woman>>Allez ! Grande soeur, monte, monte !\nTiens, attrape ma main…<else>>Allez ! Grand frere, monte, monte ! Tiens,\nattrape ma main… <endif>"
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>": "<if_woman>Allez ! Grande soeur, monte, monte !\nTiens, attrape ma main…<else>Allez ! Grand frere, monte, monte ! Tiens,\nattrape ma main… <endif>"
     },
     "99340": {
         "「ダメじゃ！": "C'est impossible !"
@@ -699,7 +699,7 @@
         "「<pc>～！": "<pc>～！"
     },
     "99350": {
-        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": "<if_woman>>Grande soeur～！<else>>Grand frere～！<endif>"
+        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": "<if_woman>Grande soeur～！<else>Grand frere～！<endif>"
     },
     "99351": {
         "「どうだ　いいだろう！？": "Alors, qu'en penses-tu, c'est pas genial !?"
@@ -744,7 +744,7 @@
         "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
     },
     "99365": {
-        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>": "<if_woman>> He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else>> He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>"
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>": "<if_woman> He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else> He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>"
     },
     "99366": {
         "「……えっ？": "...Hein ?"
