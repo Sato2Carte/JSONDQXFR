@@ -162,7 +162,7 @@
         "「穴掘りという名の　終わりなき悪夢をな……。": "Un cauchemar sans fin appele creusement..."
     },
     "102002": {
-        "<if_woman>「思い起こせば　少年時代……。\n　ガキの時分から　地面を掘るのが　好きだった。\n　妹と一緒に　夢中で　駆けずり回ったものさ。<else>「思い起こせば　少年時代……。\n　ガキの時分から　地面を掘るのが　好きだった。\n　弟と一緒に　夢中で　駆けずり回ったものさ。<endif>": "<if_woman>>En repensant a l'epoque ou j'etais\nun garcon... Depuis que j'etais gamin,\nj'aimais creuser le sol. Je courais partout<br>avec ma soeur, completement passionne.<else>>En repensant a l'epoque ou j'etais un\ngarcon... Depuis que j'etais gamin, j'aimais\ncreuser le sol. Je courais partout avec mon<br>frere, completement passionne. <endif>"
+        "<if_woman>「思い起こせば　少年時代……。\n　ガキの時分から　地面を掘るのが　好きだった。\n　妹と一緒に　夢中で　駆けずり回ったものさ。<else>「思い起こせば　少年時代……。\n　ガキの時分から　地面を掘るのが　好きだった。\n　弟と一緒に　夢中で　駆けずり回ったものさ。<endif>": "<if_woman>En repensant a l'epoque ou j'etais\nun garcon... Depuis que j'etais gamin,\nj'aimais creuser le sol. Je courais partout<br>avec ma soeur, completement passionne.<else>En repensant a l'epoque ou j'etais un\ngarcon... Depuis que j'etais gamin, j'aimais\ncreuser le sol. Je courais partout avec mon<br>frere, completement passionne. <endif>"
     },
     "102003": {
         "「そしていつしか　当たり前のように\n　伝説のお宝を　掘り当てるという\n　大きな夢を　この胸に　抱いていた……。": "Et ainsi, comme si c'etait naturel, un grand\nreve de decouvrir des tresors legendaires\ns'etait installe dans mon coeur..."
@@ -303,7 +303,7 @@
         "「……<pc>。俺は\n　共に　穴を掘った仲間を　忘れない。\n　共に　同じ夢を見た仲間を　決して忘れない。": "…<pc>. Je n'oublierai jamais ceux qui\nont creuse avec moi. Je n'oublierai jamais\nceux qui ont partage le meme reve avec moi."
     },
     "102049": {
-        "<if_woman>「ああ……全部わかっていたよ。\n　確かに　お前の身体は　俺の妹のもの。<else>「ああ……全部わかっていたよ。\n　確かに　お前の身体は　俺の弟のもの。<endif>": "<if_woman>>Ah... J'avais tout compris. En\neffet, ton corps appartient a ma soeur.<else>>Ah... J'avais tout compris. En effet, ton\ncorps appartient a mon frere. <endif>"
+        "<if_woman>「ああ……全部わかっていたよ。\n　確かに　お前の身体は　俺の妹のもの。<else>「ああ……全部わかっていたよ。\n　確かに　お前の身体は　俺の弟のもの。<endif>": "<if_woman>Ah... J'avais tout compris. En\neffet, ton corps appartient a ma soeur.<else>Ah... J'avais tout compris. En effet, ton\ncorps appartient a mon frere. <endif>"
     },
     "102050": {
         "「しかし　心は……　その魂は\n　すっかり　別人のものだってことに……な。": "Mais le coeur... cette ame appartient\nmaintenant totalement a quelqu'un d'autre..."
@@ -324,6 +324,6 @@
         "「よし……やろう！　俺たち　ふたりでなら\n　この運命の試練も　乗り越えられるさ。\n　俺は先に行って　準備をととのえておこう。": "Bien... Allons-y ! Si nous sommes ensemble,\nnous pouvons surmonter cette epreuve du\ndestin. Je vais partir en avant et preparer le<br>terrain."
     },
     "114716": {
-        "<if_woman>「だって　俺たちは……\n　ふたりきりの　兄妹じゃないか。<else>「だって　俺たちは……\n　ふたりきりの　兄弟じゃないか。<endif>": "<if_woman>>Parce que nous sommes... juste nous\ndeux, frere et soeur.<else>>Parce que nous sommes... juste nous deux,\nBrothers. <endif>"
+        "<if_woman>「だって　俺たちは……\n　ふたりきりの　兄妹じゃないか。<else>「だって　俺たちは……\n　ふたりきりの　兄弟じゃないか。<endif>": "<if_woman>Parce que nous sommes... juste nous\ndeux, frere et soeur.<else>Parce que nous sommes... juste nous deux,\nBrothers. <endif>"
     }
 }
