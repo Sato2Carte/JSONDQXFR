@@ -39,7 +39,7 @@
         "「どうした　ニニカ？\n　ドゥラの名前が　聞こえたが……。\n　やつが　どうかしたのか？": "Que se passe-t-il, Ninika ? J'ai entendu le\nnom de Dura... Quelque chose est arrive a ce\ntype ?"
     },
     "21911": {
-        "<if_woman>「……ああ。\n　この　ねえちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<else>「……ああ。\n　この　にいちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<endif>": "<if_woman>> … Ah. Cette grande soeur semble\netre venue rencontrer Mother Helena.<else>> … Ah. Ce grand frere semble etre venu\nrencontrer Mother Helena. <endif>"
+        "<if_woman>「……ああ。\n　この　ねえちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<else>「……ああ。\n　この　にいちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<endif>": "<if_woman> … Ah. Cette grande soeur semble\netre venue rencontrer Mother Helena.<else> … Ah. Ce grand frere semble etre venu\nrencontrer Mother Helena. <endif>"
     },
     "21912": {
         "「あの　裏切り者のドゥラの使いでね……。": "Ce messager de Dura, le traitre..."
@@ -48,7 +48,7 @@
         "「……マザー・ヘレナなら　そこの部屋にいる。\n　入るときは　ノックを忘れるんじゃないよ。": "......Mere Helena est dans cette piece.\nN'oublie pas de frapper avant d'entrer."
     },
     "21914": {
-        "<if_woman>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　女の顔なんて\n　見たくもないからね。<else>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　男の顔なんて\n　見たくもないからね。<endif>": "<if_woman>>Une fois que tu as termine ce que\ntu avais a faire, rentre vite chez toi. Je\nn'ai pas envie de voir le visage d'une femme<br>exploitee par un type pareil.<else>>Une fois que tu as termine ce que tu avais a\nfaire, rentre vite chez toi. Je n'ai pas envie\nde voir le visage d'un homme exploite par un<br>type pareil. <endif>"
+        "<if_woman>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　女の顔なんて\n　見たくもないからね。<else>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　男の顔なんて\n　見たくもないからね。<endif>": "<if_woman>Une fois que tu as termine ce que\ntu avais a faire, rentre vite chez toi. Je\nn'ai pas envie de voir le visage d'une femme<br>exploitee par un type pareil.<else>Une fois que tu as termine ce que tu avais a\nfaire, rentre vite chez toi. Je n'ai pas envie\nde voir le visage d'un homme exploite par un<br>type pareil. <endif>"
     },
     "21915": {
         "「ようこそ　いらっしゃいました。\n　私が　マザー・ヘレナでございます。": "Bienvenue, je suis Mother Helena."
