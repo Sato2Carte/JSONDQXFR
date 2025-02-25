@@ -54,7 +54,7 @@
         "<center>あれだけ　来ないでって　言っておいたのに\nついに　ここまで　来ちゃったんだね……。": "Je t'avais pourtant dit de ne pas venir ici,\nmais tu es finalement arrive jusqu'ici..."
     },
     "95241": {
-        "<if_woman><center>このまま　姉ちゃんが　進むというなら……\nおいらは　絶対に……<else><center>このまま　兄ちゃんが　進むというなら……\nおいらは　絶対に……<endif>": "<if_woman>> Si grande soeur decide d'avancer\nainsi... Je ne pourrai jamais...<else>> Si grand frere decide d'avancer ainsi... Je\nne pourrai jamais... <endif>"
+        "<if_woman><center>このまま　姉ちゃんが　進むというなら……\nおいらは　絶対に……<else><center>このまま　兄ちゃんが　進むというなら……\nおいらは　絶対に……<endif>": "<if_woman> Si grande soeur decide d'avancer\nainsi... Je ne pourrai jamais...<else> Si grand frere decide d'avancer ainsi... Je\nne pourrai jamais... <endif>"
     },
     "95242": {
         "「……ああ　よかった。\n　お気づきに　なられたようですね。": "…Ah, je suis soulage. Il semble que vous soyez\neveille."
@@ -150,7 +150,7 @@
         "<center>このまま　<pc>が　進むというなら……\nあたしは　絶対に……": "Si <pc> continue ainsi... je ne le\npermettrai absolument pas..."
     },
     "95273": {
-        "<if_woman><center>このまま　お姉ちゃんが　進むというなら……\n私は　絶対に……<else><center>このまま　お兄ちゃんが　進むというなら……\n私は　絶対に……<endif>": "<if_woman>> Si grande soeur decide de continuer\nainsi... Je ne le permettrai jamais...<else>> Si grand frere decide de continuer ainsi...\nJe ne le permettrai jamais... <endif>"
+        "<if_woman><center>このまま　お姉ちゃんが　進むというなら……\n私は　絶対に……<else><center>このまま　お兄ちゃんが　進むというなら……\n私は　絶対に……<endif>": "<if_woman> Si grande soeur decide de continuer\nainsi... Je ne le permettrai jamais...<else> Si grand frere decide de continuer ainsi...\nJe ne le permettrai jamais... <endif>"
     },
     "95274": {
         "「祈りは　無事に　捧げられたようですね。\n　<pc>さん。": "L'on dirait que la priere a ete offerte sans\nencombre. <pc>-san."
