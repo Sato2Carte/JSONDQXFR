@@ -24,7 +24,7 @@
         "「そんなこと　させない！": "Je ne te laisserai pas faire ca !"
     },
     "22247": {
-        "<if_woman>「<pc>ちゃん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<else>「<pc>くん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<endif>": "<if_woman>><pc>-chan ! Commencons le\nrituel pour liberer Cheryl de la malediction !\nAllez, repands le Lightdust et le Moonsand !<else>><pc>-kun ! Commencons le rituel pour\nliberer Cheryl de la malediction ! Allez,\nrepands le Lightdust et le Moonsand !<endif>"
+        "<if_woman>「<pc>ちゃん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<else>「<pc>くん！　シェリルを\n　呪いから解き放つ儀式を　始めよう！\n　さあ　光の粉と　月の砂を　ふりまいて！<endif>": "<if_woman><pc>-chan ! Commencons le\nrituel pour liberer Cheryl de la malediction !\nAllez, repands le Lightdust et le Moonsand !<else><pc>-kun ! Commencons le rituel pour\nliberer Cheryl de la malediction ! Allez,\nrepands le Lightdust et le Moonsand !<endif>"
     },
     "22248": {
         "光の粉と　月の砂を　使いますか？<yesno><close>": "Utiliser Lightdust et Moonsand ?\n<yesno><close>"
@@ -36,7 +36,7 @@
         "<pc>は　光の粉と　月の砂を\nアーニアのまわりに　ふりまいた！": "<pc> a repandu Lightdust et Moonsand\nautour d'Anya !"
     },
     "22251": {
-        "<if_woman>「準備オッケー……。\n　ありがとう　<pc>ちゃん。<else>「準備オッケー……。\n　ありがとう　<pc>くん。<endif>": "<if_woman>>Tout est pret... Merci,\n<pc>-chan.<else>>Tout est pret... Merci, <pc>-kun.<endif>"
+        "<if_woman>「準備オッケー……。\n　ありがとう　<pc>ちゃん。<else>「準備オッケー……。\n　ありがとう　<pc>くん。<endif>": "<if_woman>Tout est pret... Merci,\n<pc>-chan.<else>Tout est pret... Merci, <pc>-kun.<endif>"
     },
     "22252": {
         "「アーニア……。お前　まさか……？": "Anya... Tu ne serais pas en train de...?"
