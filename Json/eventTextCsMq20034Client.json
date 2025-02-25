@@ -12,7 +12,7 @@
         "「マレイカどの。この　<pc>は\n　これまで　何度も　ワシを救ってくれた\n　たいへん　有能な冒険者なんじゃ！": "Maleika-dono. Ce <pc> m'a sauve a de\nnombreuses reprises jusqu'a present. C'est un\naventurier extremement competent !"
     },
     "64386": {
-        "<if_woman>「彼女に　かかれば　またたく間に\n　この問題も　解決するじゃろう！<else>「彼に　かかれば　またたく間に\n　この問題も　解決するじゃろう！<endif>": "<if_woman>>Avec elle, ce probleme sera resolu\nen un rien de temps !<else>>Avec lui, ce probleme sera resolu en un rien\nde temps ! <endif>"
+        "<if_woman>「彼女に　かかれば　またたく間に\n　この問題も　解決するじゃろう！<else>「彼に　かかれば　またたく間に\n　この問題も　解決するじゃろう！<endif>": "<if_woman>Avec elle, ce probleme sera resolu\nen un rien de temps !<else>Avec lui, ce probleme sera resolu en un rien\nde temps ! <endif>"
     },
     "64387": {
         "「まあ……。": "Eh bien..."
