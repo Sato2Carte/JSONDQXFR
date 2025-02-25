@@ -1,6 +1,6 @@
 {
     "21076": {
-        "<if_woman>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お姉ちゃん　ありがとね！<else>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お兄ちゃん　ありがとね！<endif>": "<if_woman>> Arrives, arrives ! Nous voila a\nMoRubble Camp ! C'etait assez loin, je suis\nsurprise ! Merci, grande soeur !<else>> Arrives, arrives ! Nous voila a MoRubble\nCamp ! C'etait assez loin, je suis surpris !\nMerci, grand frere ! <endif>"
+        "<if_woman>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お姉ちゃん　ありがとね！<else>「着いた　着いた！　ここが　モガレキャンプか！\n　けっこう　遠いから　ビックリしちゃった！\n　お兄ちゃん　ありがとね！<endif>": "<if_woman> Arrives, arrives ! Nous voila a\nMoRubble Camp ! C'etait assez loin, je suis\nsurprise ! Merci, grande soeur !<else> Arrives, arrives ! Nous voila a MoRubble\nCamp ! C'etait assez loin, je suis surpris !\nMerci, grand frere ! <endif>"
     },
     "21077": {
         "「さーて　賢者ブロッゲンさまは\n　どこにいるのかな……。": "Sage Broggen-sama, ou peut-il bien etre..."
@@ -87,7 +87,7 @@
         "「あの杖が　ブロッゲンさまにとって\n　そんなに大事なものだったなんて\n　思わなかったよ……。": "Je ne pensais pas que ce baton etait si\nimportant pour Broggen-sama..."
     },
     "21108": {
-        "<if_woman>「<pc>の　お姉ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<else>「<pc>の　お兄ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<endif>": "<if_woman>> Grande soeur de <pc>. Merci\nde m'avoir amene jusqu'ici ! Pour te\nremercier, viens jusqu'a Agrani.<else>> Grand frere de <pc>. Merci de m'avoir\namene jusqu'ici ! Pour te remercier, viens\njusqu'a Agrani. <endif>"
+        "<if_woman>「<pc>の　お姉ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<else>「<pc>の　お兄ちゃん。\n　ここまで連れてきてくれて　ありがとう！\n　お礼をするから　アグラニまで来てね。<endif>": "<if_woman> Grande soeur de <pc>. Merci\nde m'avoir amene jusqu'ici ! Pour te\nremercier, viens jusqu'a Agrani.<else> Grand frere de <pc>. Merci de m'avoir\namene jusqu'ici ! Pour te remercier, viens\njusqu'a Agrani. <endif>"
     },
     "31636": {
         "「誰かー　ヘルプミー！　でアールー……！": "Quelqu'un, aidez-moi ! S'il vous plait... !"
