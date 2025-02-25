@@ -81,6 +81,6 @@
         "「ボクね　お母さんと　ひさしぶりに\n　お父さんの　お墓参りに行ったの。\n　うんと遠くまで歩いたから　クタクタだよ。": "Il y a peu, je suis alle avec ma mere rendre\nvisite a la tombe de mon pere. Nous avons\nmarche tres loin et je suis epuise."
     },
     "32320": {
-        "<if_woman>「これからは　お母さんと\n　世界中の　いろんな所をまわるんだ。\n　<pc>ねえちゃんみたいに　旅するの！<else>「これからは　お母さんと\n　世界中の　いろんな所をまわるんだ。\n　<pc>にいちゃんみたいに　旅するの！<endif>": "<if_woman>>Desormais, je vais voyager avec\nmaman dans divers endroits autour du monde.\nComme <pc> nee-chan en voyage !<else>>Desormais, je vais voyager avec maman dans\ndivers endroits autour du monde. Comme\n<pc> nii-chan en voyage ! <endif>"
+        "<if_woman>「これからは　お母さんと\n　世界中の　いろんな所をまわるんだ。\n　<pc>ねえちゃんみたいに　旅するの！<else>「これからは　お母さんと\n　世界中の　いろんな所をまわるんだ。\n　<pc>にいちゃんみたいに　旅するの！<endif>": "<if_woman>Desormais, je vais voyager avec\nmaman dans divers endroits autour du monde.\nComme <pc> nee-chan en voyage !<else>Desormais, je vais voyager avec maman dans\ndivers endroits autour du monde. Comme\n<pc> nii-chan en voyage ! <endif>"
     }
 }
