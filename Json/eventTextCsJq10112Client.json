@@ -24,22 +24,22 @@
         "「アーニア……。お前は　神に見放されず\n　大病から　奇跡的に　回復したのだ。\n　自分が　何をなすべきか　よく考えろ。": "Anya... Tu n'as pas ete abandonnee par les\ndieux et tu as miraculeusement recupere de ta\ngrave maladie. Reflechis bien a ce que tu dois<br>accomplir."
     },
     "22164": {
-        "<if_woman>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>ちゃん。<else>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>くん。<endif>": "<if_woman>>Grace a toi, nous sommes arrives\nici sains et saufs. Merci, <cs_pchero>chan.<else>>Grace a toi, nous sommes arrives ici sains et\nsaufs. Merci, <cs_pchero>kun. <endif>"
+        "<if_woman>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>ちゃん。<else>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>くん。<endif>": "<if_woman>Grace a toi, nous sommes arrives\nici sains et saufs. Merci, <cs_pchero>chan.<else>Grace a toi, nous sommes arrives ici sains et\nsaufs. Merci, <cs_pchero>kun. <endif>"
     },
     "22165": {
         "「ここ　前に　シェリルと来たことがあったの。\n　だから　もしかして……って思ったけど\n　やっぱり　いるはずないよね。": "Je suis deja venu ici avec Cheryl. Donc j'ai\npense que peut-etre... mais bien sur, elle ne\npeut pas etre la."
     },
     "22166": {
-        "<if_woman>「とりあえず　研究用の素材を　採ってくるね。\n　<cs_pchero>ちゃんは　そこで待ってて。<else>「とりあえず　研究用の素材を　採ってくるね。\n　<cs_pchero>くんは　そこで待ってて。<endif>": "<if_woman>>Je vais d'abord aller chercher des\nmateriaux pour la recherche. <cs_pchero> chan,\nattends ici.<else>>Je vais d'abord aller chercher des materiaux\npour la recherche. <cs_pchero> kun, attends\nici. <endif>"
+        "<if_woman>「とりあえず　研究用の素材を　採ってくるね。\n　<cs_pchero>ちゃんは　そこで待ってて。<else>「とりあえず　研究用の素材を　採ってくるね。\n　<cs_pchero>くんは　そこで待ってて。<endif>": "<if_woman>Je vais d'abord aller chercher des\nmateriaux pour la recherche. <cs_pchero> chan,\nattends ici.<else>Je vais d'abord aller chercher des materiaux\npour la recherche. <cs_pchero> kun, attends\nici. <endif>"
     },
     "22167": {
         "「キャアァァ！！　オ…オバケーッ！！": "Kyaaah !! Un... un fantome !!"
     },
     "22168": {
-        "<if_woman>「<cs_pchero>ちゃん　お願い！\n　このオバケを　なんとかしてぇっ！！<else>「<cs_pchero>くん　お願い！\n　このオバケを　なんとかしてぇっ！！<endif>": "<if_woman>><cs_pchero> chan, s'il te plait !\nAide-moi avec ce fantome !!<else>><cs_pchero> kun, s'il te plait ! Aide-moi\navec ce fantome !!<endif>"
+        "<if_woman>「<cs_pchero>ちゃん　お願い！\n　このオバケを　なんとかしてぇっ！！<else>「<cs_pchero>くん　お願い！\n　このオバケを　なんとかしてぇっ！！<endif>": "<if_woman><cs_pchero> chan, s'il te plait !\nAide-moi avec ce fantome !!<else><cs_pchero> kun, s'il te plait ! Aide-moi\navec ce fantome !!<endif>"
     },
     "22169": {
-        "<if_woman>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>ちゃん。<else>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>くん。<endif>": "<if_woman>>Grace a toi, nous sommes arrives\nici sains et saufs. Merci, <cs_pchero>chan.<else>>Grace a toi, nous sommes arrives ici sains et\nsaufs. Merci, <cs_pchero>kun. <endif>"
+        "<if_woman>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>ちゃん。<else>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>くん。<endif>": "<if_woman>Grace a toi, nous sommes arrives\nici sains et saufs. Merci, <cs_pchero>chan.<else>Grace a toi, nous sommes arrives ici sains et\nsaufs. Merci, <cs_pchero>kun. <endif>"
     },
     "22170": {
         "「あのオバケ　今日は　いないようね……。\n　お留守にしてるのかな？": "Cet esprit n'est pas la aujourd'hui, on\ndirait... Serait-il sorti quelque part ?"
@@ -48,19 +48,19 @@
         "「キャアァァ！！　で…出たぁっ！？": "Kyaaa !! Il... Il est apparu !?"
     },
     "22172": {
-        "<if_woman>「<cs_pchero>ちゃん　お願い！\n　このオバケを　なんとかしてぇっ！！<else>「<cs_pchero>くん　お願い！\n　このオバケを　なんとかしてぇっ！！<endif>": "<if_woman>><cs_pchero> chan, s'il te plait !\nAide-moi avec ce fantome !!<else>><cs_pchero> kun, s'il te plait ! Aide-moi\navec ce fantome !!<endif>"
+        "<if_woman>「<cs_pchero>ちゃん　お願い！\n　このオバケを　なんとかしてぇっ！！<else>「<cs_pchero>くん　お願い！\n　このオバケを　なんとかしてぇっ！！<endif>": "<if_woman><cs_pchero> chan, s'il te plait !\nAide-moi avec ce fantome !!<else><cs_pchero> kun, s'il te plait ! Aide-moi\navec ce fantome !!<endif>"
     },
     "22173": {
-        "<if_woman>「すごい！　すごい！\n　<cs_pchero>ちゃん　強ーい！\n　ありがとう　助かったわっ！<else>「すごい！　すごい！\n　<cs_pchero>くん　強ーい！\n　ありがとう　助かったわっ！<endif>": "<if_woman>>Incroyable ! Incroyable !\n<cs_pchero> chan, tu es si fort(e) ! Merci, tu\nm'as sauve(e) !<else>>Incroyable ! Incroyable ! <cs_pchero> kun, tu\nes si fort(e) ! Merci, tu m'as sauve(e)\n!<endif>"
+        "<if_woman>「すごい！　すごい！\n　<cs_pchero>ちゃん　強ーい！\n　ありがとう　助かったわっ！<else>「すごい！　すごい！\n　<cs_pchero>くん　強ーい！\n　ありがとう　助かったわっ！<endif>": "<if_woman>Incroyable ! Incroyable !\n<cs_pchero> chan, tu es si fort(e) ! Merci, tu\nm'as sauve(e) !<else>Incroyable ! Incroyable ! <cs_pchero> kun, tu\nes si fort(e) ! Merci, tu m'as sauve(e)\n!<endif>"
     },
     "22174": {
-        "<if_woman>「それじゃ　私は　研究用の素材を探してくるね。\n　<cs_pchero>ちゃんは　そこで待ってて。<else>「それじゃ　私は　研究用の素材を探してくるね。\n　<cs_pchero>くんは　そこで待ってて。<endif>": "<if_woman>>Bon, je vais chercher des materiaux\npour mes recherches. <cs_pchero>chan,\nattends-moi ici.<else>>Bon, je vais chercher des materiaux pour mes\nrecherches. <cs_pchero>kun, attends-moi ici.<endif>"
+        "<if_woman>「それじゃ　私は　研究用の素材を探してくるね。\n　<cs_pchero>ちゃんは　そこで待ってて。<else>「それじゃ　私は　研究用の素材を探してくるね。\n　<cs_pchero>くんは　そこで待ってて。<endif>": "<if_woman>Bon, je vais chercher des materiaux\npour mes recherches. <cs_pchero>chan,\nattends-moi ici.<else>Bon, je vais chercher des materiaux pour mes\nrecherches. <cs_pchero>kun, attends-moi ici.<endif>"
     },
     "22175": {
-        "<if_woman>「<cs_pchero>ちゃん　見て！\n　研究素材の鉱石が　あったわ！！<else>「<cs_pchero>くん　見て！\n　研究素材の鉱石が　あったわ！！<endif>": "<if_woman>>Regarde, <cs_pchero> chan ! J'ai\ntrouve un minerai pour nos recherches !!<else>>Regarde, <cs_pchero> kun ! J'ai trouve un\nminerai pour nos recherches !!<endif>"
+        "<if_woman>「<cs_pchero>ちゃん　見て！\n　研究素材の鉱石が　あったわ！！<else>「<cs_pchero>くん　見て！\n　研究素材の鉱石が　あったわ！！<endif>": "<if_woman>Regarde, <cs_pchero> chan ! J'ai\ntrouve un minerai pour nos recherches !!<else>Regarde, <cs_pchero> kun ! J'ai trouve un\nminerai pour nos recherches !!<endif>"
     },
     "22176": {
-        "<if_woman>「ああっ！　危ない！！\n　<cs_pchero>ちゃん　うしろぉっ！！！<else>「ああっ！　危ない！！\n　<cs_pchero>くん　うしろぉっ！！！<endif>": "<if_woman>>Ah ! Attention !! <cs_pchero> chan,\nderriere toi !!!<else>>Ah ! Attention !! <cs_pchero> kun, derriere\ntoi !!!<endif>"
+        "<if_woman>「ああっ！　危ない！！\n　<cs_pchero>ちゃん　うしろぉっ！！！<else>「ああっ！　危ない！！\n　<cs_pchero>くん　うしろぉっ！！！<endif>": "<if_woman>Ah ! Attention !! <cs_pchero> chan,\nderriere toi !!!<else>Ah ! Attention !! <cs_pchero> kun, derriere\ntoi !!!<endif>"
     },
     "22177": {
         "「シェ…シェリルッ！！？": "Che... Cheryl !!?"
@@ -111,6 +111,6 @@
         "「シェリルは　意志の強いコだったけど\n　あんな　冷たいコじゃなかったわ……。\n　いったい　なぜ……。": "Cheryl etait une fille determinee, mais elle\nn'etait pas aussi froide... Pourquoi donc...?"
     },
     "22193": {
-        "<if_woman>「ごめんね　<cs_pchero>ちゃん。\n　変なとこ　見せちゃって……。\n　さあ　王立研究院に　戻ろう？<else>「ごめんね　<cs_pchero>くん。\n　変なとこ　見せちゃって……。\n　さあ　王立研究院に　戻ろう？<endif>": "<if_woman>> Desole(e), <cs_pchero> chan. Je\nt'ai montre un cote bizarre... Allez,\nretournons a l'Institut Royal de Recherche.<else>> Desole(e), <cs_pchero> kun. Je t'ai montre\nun cote bizarre... Allez, retournons a\nl'Institut Royal de Recherche. <endif>"
+        "<if_woman>「ごめんね　<cs_pchero>ちゃん。\n　変なとこ　見せちゃって……。\n　さあ　王立研究院に　戻ろう？<else>「ごめんね　<cs_pchero>くん。\n　変なとこ　見せちゃって……。\n　さあ　王立研究院に　戻ろう？<endif>": "<if_woman> Desole(e), <cs_pchero> chan. Je\nt'ai montre un cote bizarre... Allez,\nretournons a l'Institut Royal de Recherche.<else> Desole(e), <cs_pchero> kun. Je t'ai montre\nun cote bizarre... Allez, retournons a\nl'Institut Royal de Recherche. <endif>"
     }
 }
