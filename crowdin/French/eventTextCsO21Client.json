@@ -111,16 +111,16 @@
         "「いや　なんでもない。": "Non, ce n'est rien."
     },
     "1069": {
-        "「必要なものは　レムルの聖杯じゃ。\n　グレン領西の北部　ベコン渓谷の奥に\n　今も　眠っておる。": "Tu auras besoin du Calice du Royaume.\nIl se trouve dans les profondeurs de la\nVallee Becon, au Nord-Ouest du Territoire\n<br>\nGlen."
+        "「必要なものは　レムルの聖杯じゃ。\n　グレン領西の北部　ベコン渓谷の奥に\n　今も　眠っておる。": "Tu auras besoin du Calice du Royaume.\n<br>\nIl se trouve dans les profondeurs de la\nVallee Becon, au Nord-Ouest du Territoire\nGlen."
     },
     "1070": {
-        "「たやすく　入手できるものではないから\n　しっかりと準備をして　おもむくがいい。\n　聖杯が入手できた頃　また　ここで会おう。": "Ce n'est pas quelque chose que l'on peut\nobtenir facilement, alors prepare-toi bien\navant de te lancer. Une fois que tu auras mis<br>la main sur le Saint Graal, retrouvons-nous\nici."
+        "「たやすく　入手できるものではないから\n　しっかりと準備をして　おもむくがいい。\n　聖杯が入手できた頃　また　ここで会おう。": "\"Ce ne sera pas facile a obtenir, alors\nprepare-toi bien avant d’y aller.\n<br>\nUne fois le Calice en main,\nretrouvons-nous ici.\""
     },
     "1076": {
         "「オォォォォ……　誰だ？\n　われから　聖杯を　うばわんとする者は！？": "Ooooo... Qui est la?\nQui ose voler MON Calice!?"
     },
     "1077": {
-        "「……そうか　貴様\n　ガートラントの追っ手だな？": "...Hum, tu es de Gartlant, huh?"
+        "「……そうか　貴様\n　ガートラントの追っ手だな？": "...Hum, tu es de Gartlant, hein?"
     },
     "1078": {
         "「わが名は　剣士オーレン……。\n　レムルの聖杯は　われに残された\n　ただひとつの　希望！": "Mon nom est Oren, l'Epeiste...\nLe Calice du Royaume est mon unique espoir!"
@@ -150,13 +150,13 @@
         "「そこには　グロリスの木という\n　目には見えぬ　不思議な樹木が　そびえておる。\n　その木が落とす　しずくを　持ち帰るのじゃ。": "La-bas se dresse l’arbre mysterieux de Gloris,\ninvisible a l’œil nu.\n<br>\nIl va falloir rapporter une goutte qu’il fait\ntomber."
     },
     "1087": {
-        "「レムルの聖杯で　受けとめた\n　グロリスのしずくだけが　魔瘴をはらえる。\n　それを　王に飲ませれば　王は治るじゃろう。": "Seule la Goutte de Gloire, recueillie dans le\nCalice du Lemurien, peut dissiper le miasme.\nSi le roi la boit, il guerira."
+        "「レムルの聖杯で　受けとめた\n　グロリスのしずくだけが　魔瘴をはらえる。\n　それを　王に飲ませれば　王は治るじゃろう。": "\"Seule la goutte de Gloris recueillie dans le\nCalice de Lemur peut purifier le miasme\ndemoniaque.\n<br>\nSi le roi la boit, il guerira surement.\""
     },
     "1088": {
-        "「ただ　雲上湖には　恐ろしい竜がおる。\n　襲われぬように　気をつけてな。\n　　　　　　　　　　　　　　　　　　エイドス": "Cependant, il y a un dragon terrifiant au lac\nCloudtop. Faites attention a ne pas vous faire\nattaquer. Eidos"
+        "「ただ　雲上湖には　恐ろしい竜がおる。\n　襲われぬように　気をつけてな。\n　　　　　　　　　　　　　　　　　　エイドス": "\"Mais attention, un terrible dragon rode pres\ndu lac, fais en sorte de ne pas te faire\nattaquer.\"                                              — Eidos"
     },
     "1089": {
-        "「王を治すだなんて　さすが　エイドスさま！\n　やっぱり　ステキ……。": "Guerir le roi, comme on pouvait s'y attendre\nde la part de Eidos-sama ! Il est vraiment\nmerveilleux..."
+        "「王を治すだなんて　さすが　エイドスさま！\n　やっぱり　ステキ……。": "Guerir le roi...\nMaitre Eidos est vraiment incroyable !\nIl est tellement genial..."
     },
     "1090": {
         "「きゃ～　いや～～ん！": "Kyaa~ Noooon !"
@@ -204,7 +204,7 @@
         "「ない！　ネックレスが……\n　誰か　われのネックレスを　知らぬか？": "Il n'est pas ici!\nMon collier...\nEst ce que quelqu'un sait ou il est?"
     },
     "1126": {
-        "「おそれながら　ご報告させていただきます。\n　王は　あのネックレスの呪いで\n　死のふちを　さまよわれたのです。": "Desole d'etre l'annonciateur de mauvaises\nnouvelles.\nCe collier est maudit, il est la cause de\n<br>\nvotre quasi mort, votre majeste."
+        "「おそれながら　ご報告させていただきます。\n　王は　あのネックレスの呪いで\n　死のふちを　さまよわれたのです。": "Desole d'etre l'annonciateur de mauvaises\nnouvelles.\n<br>\nCe collier est maudit, il est la cause de\nvotre quasi mort, votre majeste."
     },
     "1128": {
         "「バカな！　あのネックレスは\n　ガートラント城からの　友好の証として\n　贈られた品に　入っていたのだぞ？": "Absurde!\nCe collier etait un cadeau du Chateau\nGartlant comme symbole d'amitie, n'est il pas?"
@@ -225,7 +225,7 @@
         "「マリーンは　このネックレスは危険だと言って\n　この国から　魔瘴石のネックレスを\n　持ち去ってくれたのです。": "Malynn a ensuite dit que ce collier etait\ndangereux il a ete retire du pays."
     },
     "1146": {
-        "「……ほうびと言えば　キーエンブレムだが。": "...\nEn parlant de cadeaux, ceci est notre Embleme\nCle."
+        "「……ほうびと言えば　キーエンブレムだが。": "...En parlant de cadeaux, ceci est notre\nEmbleme Cle."
     },
     "1150": {
         "「なに！？\n　われが　ガートラント城に　宣戦布告したと！？": "Quoi?!\nVous pensez que j'ai declare la guerre au\nChateau Gartlant!?"
@@ -237,13 +237,13 @@
         "「そういうことならば　あいわかった！": "Dans ce cas, je comprends!"
     },
     "1153": {
-        "「<pc>よ！　心から感謝する！\n　そなたの活躍　グレン城のキーエンブレムを\n　与えるに値する　はたらきであった！": "<pc>!\nJe te remercie du plus profond de mon coeur!\nTon travail est digne de l'Embleme Cle de ce\n<br>\nchateau!"
+        "「<pc>よ！　心から感謝する！\n　そなたの活躍　グレン城のキーエンブレムを\n　与えるに値する　はたらきであった！": "<pc>!\nJe te remercie du plus profond de mon coeur!\n<br>\nTon travail est digne de l'Embleme Cle de ce\nchateau!"
     },
     "1154": {
         "「さあ　受け取るがいい！": "Prends-le!"
     },
     "1156": {
-        "「その　黒のキーエンブレムは\n　グレンの英雄であることを示すもの。\n　他国でも　そなたのチカラの証となるだろう。": "Cet Embleme Cle Noir signifie etre un Heros\nde Glen...\nIl servira de preuve de pouvoir dans les\n<br>\nautres pays."
+        "「その　黒のキーエンブレムは\n　グレンの英雄であることを示すもの。\n　他国でも　そなたのチカラの証となるだろう。": "Cet Embleme Cle Noir signifie etre un Heros\nde Glen...\n<br>\nIl servira de preuve de pouvoir dans les\nautres pays."
     },
     "1157": {
         "「チグリ大臣よ。\n　すぐに　おふれを出せ！": "Ministre Chigri, envoyez un message\nimmediatement!"
@@ -255,16 +255,16 @@
         "「いくさが起きていれば\n　多くの血が　このオーグリード大陸に\n　流れるところであった……。": "Si la guerre avait eclate, trop de sang\naurait coule sur Ogreed..."
     },
     "1161": {
-        "「……本当に　よかった。\n　このグレンの民に　つらい思いを\n　させずにすんで……。": "...\nJe te suis tres reconnaissant, et rassure que\nle peuple de Glen n'ait pas a surmonter tout\n<br>\nca..."
+        "「……本当に　よかった。\n　このグレンの民に　つらい思いを\n　させずにすんで……。": "...Je te suis tres reconnaissant, et rassure\nque le peuple de Glen n’ait pas a traverser\ntout cela..."
     },
     "8017": {
-        "「バグド王　どうなさいました？\n　エイドスさまが　来てくださったのですぞ。": "Votre majeste, Roi Bagudo.\nC'est moi, le Sage Eidos.\nHeh heh heh... assez de formalites, vieil\n<br>\nami..."
+        "「バグド王　どうなさいました？\n　エイドスさまが　来てくださったのですぞ。": "Roi Bagdo, que se passe-t-il ?\nMaitre Eidos est venu vous voir."
     },
     "8018": {
         "「エイドスだと……！？": "Sage Eidos...?!"
     },
     "8019": {
-        "「バ…バグド王……！\n　まさか　賢者エイドスさまのことが\n　わからないのですか？": "R...\nRoi Bagudo...!\nNe me dites pas que vous ne reconnaissez pas\n<br>\nle Sage Eidos?"
+        "「バ…バグド王……！\n　まさか　賢者エイドスさまのことが\n　わからないのですか？": "R...\nRoi Bagudo...!\n<br>\nNe me dites pas que vous ne reconnaissez pas\nle Sage Eidos?"
     },
     "8020": {
         "「…………………。": "............."
@@ -276,7 +276,7 @@
         "「バグド王め。\n　難儀なことに　なっておるのう。": "Roi Bagudo, la situation est grave."
     },
     "8023": {
-        "「……この国では\n　こんな問題が　起こっておるのか。": "...\nAlors c'est ca le probleme que ce pays\nrencontre?"
+        "「……この国では\n　こんな問題が　起こっておるのか。": "...Alors c'est ca le probleme que ce pays\nrencontre?"
     },
     "8024": {
         "「バグド王に　申し上げます！\n　こちらの旅人が　グレン城の兵士になりたいと\n　志願しております。": "Laissez moi parler, Roi Bagudo!\nCe voyageur est volontaire pour devenir un\nsoldat pour le compte du Chateau de Glen."
@@ -333,7 +333,7 @@
         "「けっして　誰にも渡さぬっ！！": "Je ne le donnerais a personne!"
     },
     "8042": {
-        "<pc>は　ジダン兵士長に\nグロリスのしずくが入った\nレムルの聖杯を　渡した！": "<pc> donne au Capitaina Jidan le Royaume du\nCalice, qui contient la Goutelette de Gloris!"
+        "<pc>は　ジダン兵士長に\nグロリスのしずくが入った\nレムルの聖杯を　渡した！": "<pc> a remis au capitaine Jidan le\nCalice contenant la goutte de Gloris !"
     },
     "8043": {
         "「これで　バグド王を　元に戻せる……。": "Avec ca, nous pouvons soigner le Roi Bagudo..."
@@ -369,10 +369,10 @@
         "「なにっ！？": "Quoi!?"
     },
     "8054": {
-        "「ええ。私も　そう思います。\n　おそらくは　ガートラント以外の何者かが\n　王の　お命を狙ったのでしょう。": "Oui.\nJe le pensais egalement.\nPeut etre que quelqu'un n'ayant aucune\n<br>\naffiliation avec Gartlant voulait vous voir\nmort."
+        "「ええ。私も　そう思います。\n　おそらくは　ガートラント以外の何者かが\n　王の　お命を狙ったのでしょう。": "Oui.\nJe le pensais egalement.\n<br>\nPeut etre que quelqu'un n'ayant aucune\naffiliation avec Gartlant voulait vous voir\nmort."
     },
     "8055": {
-        "「……あの　忌まわしいネックレスは\n　王の首から　決して離れず\n　あやしい光を　たたえ続けていました。": "...\nCe collier abominable n'a jamais quitte votre\ncou et a continue de jeter sa lumiere\n<br>\nsinistre en vous."
+        "「……あの　忌まわしいネックレスは\n　王の首から　決して離れず\n　あやしい光を　たたえ続けていました。": "...Ce collier abominable n'a jamais quitte\nvotre cou et a continue de jeter sa lumiere\nsinistre en vous."
     },
     "8056": {
         "「突然　とてつもなく大きな\n　人間の女が　現れました。\n　それが　あの賢者マリーンだったのです。": "Soudain, une femme humaine de taille\nextraordinaire apparut.\nCette femme etait la Sage Malynn."
@@ -390,7 +390,7 @@
         "「マリーンどのだけではありません。": "Ce n'est pas juste Malynn."
     },
     "8061": {
-        "「王を　頭痛から解き放つため\n　グロリスのしずくを　手に入れてくれたのが\n　ここにいる　<pc>さん……": "Cette personne ici est <pc>, qui a recupere\nla Goutelette de Gloris et vous a libere du\nmal..."
+        "「王を　頭痛から解き放つため\n　グロリスのしずくを　手に入れてくれたのが\n　ここにいる　<pc>さん……": "Cette personne ici, <pc>, a recupere\nla Goutelette de Gloris et vous a libere du\nmal..."
     },
     "8062": {
         "「そして　この<pc>さんに\n　王を治すための知恵を　授けたのは\n　あのエイドスさまなのです。": "Plus encore, le Sage Eidos est celui qui a\ndonne a <pc> la connaissance pour pouvoir\nvous soigner."
@@ -399,7 +399,7 @@
         "「なんと！\n　エイドスさまが　いらしていたのか？": "Qu'est ce que tu as dis?!\nSage Eidos est ici?"
     },
     "8064": {
-        "「むう……　まったく記憶にないぞ。\n　いくら　ひどい頭痛の中にあったとはいえ……": "Mmm...\nJe ne me souviens de rien.\nMeme au beau milieu de ce terrible mal de\n<br>\ncrane..."
+        "「むう……　まったく記憶にないぞ。\n　いくら　ひどい頭痛の中にあったとはいえ……": "Mmm...\nJe ne me souviens de rien.\n<br>\nMeme au beau milieu de ce terrible mal de\ncrane..."
     },
     "8065": {
         "「ともかく　われは　正気を失っている間に\n　多くの人々に　迷惑をかけたようだ。\n　<pc>とやらにも　礼をせねば。": "Donc, quand je n'etais plus moi meme, j'ai\ncause enormement de problemes.\nJe dois te remercier, <pc>."
@@ -426,7 +426,7 @@
         "「オォォォォ……　誰だ？\n　われから　聖杯を　うばわんとする者は！？": "Ooooo...\nQui est la?\nQui ose voler MON Calice!?"
     },
     "31957": {
-        "「……そうか　貴様\n　ガートラントの追っ手だな？": "...\nHum, tu es de Gartlant, huh?"
+        "「……そうか　貴様\n　ガートラントの追っ手だな？": "...Hum, tu es de Gartlant, huh?"
     },
     "31958": {
         "「わが名は　剣士オーレン……。\n　レムルの聖杯は　われに残された\n　ただひとつの　希望！": "Mon nom est Oren, l'Epeiste...\nLe Calice du Royaume est mon unique espoir!"
@@ -444,16 +444,16 @@
         "「さあ　それより始めるよ。\n　カウントーーダウンッ！！": "Bon, passons aux choses serieuses.\nCOMPTE A REBOOURS!!"
     },
     "41124": {
-        "「……スリー！": "...\nTROIS!"
+        "「……スリー！": "...TROIS!"
     },
     "41125": {
-        "「……ツー！": "...\nDEUX!"
+        "「……ツー！": "...DEUX!"
     },
     "41126": {
-        "「……ワン！": "...\nUN!"
+        "「……ワン！": "...UN!"
     },
     "41127": {
-        "「バンジーーーーッ！！": "BUNGEEEEEEEEEEEE!!"
+        "「バンジーーーーッ！！": "BANZAAAAAI !!"
     },
     "41128": {
         "「はいよっ　お疲れさま！\n　眠ってた勇気は　目を覚ましたかい？": "Tres bien, bon travail!\nEst ce que votre courage endormi s'est\nreveille?"
@@ -462,27 +462,27 @@
         "「また　気が向いたら　いつでも\n　海峡バンジーに　挑戦しにきてくれよ！": "Si vous vous sentez d'attaque, vous pouvez\ntoujours revenir sur vos pas, et essayer un\npetit saut a l'elastique!"
     },
     "44125": {
-        "「ふむ……　先ほど　感じたとおり\n　お前は　ただの旅人ではないようじゃな。": "Hmm... Comme je le pensais tout a l'heure, tu\nn'es pas un simple voyageur, n'est-ce pas ?"
+        "「ふむ……　先ほど　感じたとおり\n　お前は　ただの旅人ではないようじゃな。": "Hmm...\nComme je l'avais pressenti tout a l'heure, tu\nn'es pas un simple voyageur."
     },
     "44126": {
-        "「お前たちは　彼の世界の王に\n　相当　ひどい目に　あわされたようじゃな。": "Il semble que vous ayez ete rudement malmenes\npar le roi de son monde."
+        "「お前たちは　彼の世界の王に\n　相当　ひどい目に　あわされたようじゃな。": "Il semblerait que vous ayez beaucoup souffert\na cause du roi de son monde."
     },
     "45453": {
-        "「なかば　忘れられた存在だった魔瘴が\n　今　ふたたび　活発化したのは　彼の世界の王が\n　この地上に　降り立ったためじゃ。": "Le miasme, qui avait ete a moitie oublie,\ns'est a nouveau active parce que le roi de son\nmonde est descendu sur cette terre."
+        "「なかば　忘れられた存在だった魔瘴が\n　今　ふたたび　活発化したのは　彼の世界の王が\n　この地上に　降り立ったためじゃ。": "Le miasme demoniaque, presque oublie, s'est de\nnouveau eveille parce que le roi de son monde\nest descendu sur cette terre."
     },
     "129929": {
         "「この国は　同じオーガの国である\n　ガートラントとの　いくさを控え\n　一人前の証を持つ勇士を　集めているところだ！": "Ce pays se prepare en guerre contre Gartlant.\nNous recrutons des guerriers avec la Marque\nde l'Age Adulte!"
     },
     "129930": {
-        "「もし　お前が　一人前の証を持っているなら\n　この国の兵士となって　ともに戦ってほしい！": "Si tu as une Marque de l'Age Adulte, je veux\nque tu deviennes un soldat de ce pays,\ncombattre a nos cotes!"
+        "「もし　お前が　一人前の証を持っているなら\n　この国の兵士となって　ともに戦ってほしい！": "Si tu possedes la Marque de l'Age Adulte, je\nvoudrais que tu deviennes soldat de ce royaume\net que tu combattes a nos cotes !"
     },
     "129931": {
         "「兵士に志願するなら　グレン城におられる\n　バグド王に　会いにいってくれ！\n　城の入り口は　この階段をのぼりきった所だ。": "Si tu es volontaire pour etre un soldat,\nrencontre notre Roi Bagudo au Chateau Glen!\nL'entree se situe juste apres ces escaliers."
     },
     "221092": {
-        "「ほら　お客さん。\n　正面に見える　ガミルゴの盾島を知ってるかい？\n　以前は　盾を持った石の巨人が　いたんだ。": "He, cher client. Tu vois l'ile de Gamilgo's\nShield juste en face ? Il y avait autrefois\ndes geants de pierre qui portaient des<br>boucliers."
+        "「ほら　お客さん。\n　正面に見える　ガミルゴの盾島を知ってるかい？\n　以前は　盾を持った石の巨人が　いたんだ。": "He, voyageur.\nTu vois l'ile du Bouclier de Gamilgo juste en\nface ?\n<br>\nAutrefois, un geant de pierre portant un\nbouclier s'y trouvait."
     },
     "221094": {
-        "「だが　ある事件で　消えちまってな。\n　その代わりに現れた　大きな穴は\n　なんでも　魔界と通じているって　ウワサだぜ。": "Cependant, lors d'un certain incident, il a\ndisparu. A la place, il y a un enorme trou\nqui, d'apres les rumeurs, menerait au monde<br>des demons."
+        "「だが　ある事件で　消えちまってな。\n　その代わりに現れた　大きな穴は\n　なんでも　魔界と通じているって　ウワサだぜ。": "Mais il a disparu lors d’un certain incident.\n<br>\nA sa place est apparu un enorme trou, et selon\nles rumeurs, il menerait directement au Monde\ndes Demons."
     }
 }
