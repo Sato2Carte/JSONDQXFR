@@ -63,7 +63,7 @@
         "「いったい　何が起こったんだ……！": "Qu'est-ce qui s'est passe... !"
     },
     "128088": {
-        "<if_woman>「ど　どうしよう　<pc>ちゃん。\n　ミランくんが　消えちゃった！<else>「ど　どうしよう　<pc>くん。\n　ミランくんが　消えちゃった！<endif>": "<if_woman>>Qu'est-ce qu'on va faire,\n<pc>-chan ? Milan-kun a disparu !<else>>Qu'est-ce qu'on va faire, <pc>-kun ?\nMilan-kun a disparu !<endif>"
+        "<if_woman>「ど　どうしよう　<pc>ちゃん。\n　ミランくんが　消えちゃった！<else>「ど　どうしよう　<pc>くん。\n　ミランくんが　消えちゃった！<endif>": "<if_woman>Qu'est-ce qu'on va faire,\n<pc>-chan ? Milan-kun a disparu !<else>Qu'est-ce qu'on va faire, <pc>-kun ?\nMilan-kun a disparu !<endif>"
     },
     "128089": {
         "「よせって　クラウン。\n　<pc>にだって　わかりっこねェって。": "Laisse tomber, Crown. Meme <pc> ne peut\npas comprendre."
