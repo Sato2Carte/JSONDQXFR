@@ -84,7 +84,7 @@
         "「そうかよ。そんなら　チカラずくでいくぜ。\n　レンドアなんかよりも　自分の生命のほうを\n　守るのが　先だろ？": "Ah, je vois. Dans ce cas, je vais utiliser la\nforce. Proteger ma propre vie passe avant\nRenda."
     },
     "277293": {
-        "<if_woman>「その新入りくせえ　姉ちゃんも\n　タマよけに連れてきたんだろ　なぁ！？<else>「その新入りくせえ　兄ちゃんも\n　タマよけに連れてきたんだろ　なぁ！？<endif>": "<if_woman>>Tu as aussi amene cette nouvelle\nfille pour servir de bouclier humain, hein !?<else>>Tu as aussi amene ce nouveau gars pour servir\nde bouclier humain, hein !? <endif>"
+        "<if_woman>「その新入りくせえ　姉ちゃんも\n　タマよけに連れてきたんだろ　なぁ！？<else>「その新入りくせえ　兄ちゃんも\n　タマよけに連れてきたんだろ　なぁ！？<endif>": "<if_woman>Tu as aussi amene cette nouvelle\nfille pour servir de bouclier humain, hein !?<else>Tu as aussi amene ce nouveau gars pour servir\nde bouclier humain, hein !? <endif>"
     },
     "277294": {
         "「マドロック！　コイツら　話になんないよ。\n　ちょっと　痛い目を見てもらうしかないね！": "Madrock ! Ces types ne comprennent rien. Il va\nfalloir leur donner une petite lecon !"
