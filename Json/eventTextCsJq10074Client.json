@@ -15,7 +15,7 @@
         "「対するは　予選第３位の　バルケス選手です。\n　ご観戦の皆さま　両選手に　盛大な拍手を！": "Voici Valucas, qui s'est classe troisieme lors\ndes qualifications. Un tonnerre\nd'applaudissements pour nos deux competiteurs,<br>chers spectateurs !"
     },
     "20616": {
-        "<if_woman>「よお　ジェイコフの弟子のねーちゃん。\n　オレのこと　覚えてるか？\n　借金の回収のときに　会っただろ？<else>「よお　ジェイコフの弟子のにーちゃん。\n　オレのこと　覚えてるか？\n　借金の回収のときに　会っただろ？<endif>": "<if_woman>>Salut, la disciple de Jakov. Tu te\nsouviens de moi ? On s'est rencontres lors du\nrecouvrement de la dette, non ?<else>>Salut, le disciple de Jakov. Tu te souviens\nde moi ? On s'est rencontres lors du\nrecouvrement de la dette, non ? <endif>"
+        "<if_woman>「よお　ジェイコフの弟子のねーちゃん。\n　オレのこと　覚えてるか？\n　借金の回収のときに　会っただろ？<else>「よお　ジェイコフの弟子のにーちゃん。\n　オレのこと　覚えてるか？\n　借金の回収のときに　会っただろ？<endif>": "<if_woman>Salut, la disciple de Jakov. Tu te\nsouviens de moi ? On s'est rencontres lors du\nrecouvrement de la dette, non ?<else>Salut, le disciple de Jakov. Tu te souviens\nde moi ? On s'est rencontres lors du\nrecouvrement de la dette, non ? <endif>"
     },
     "20617": {
         "「まさか　ジェイコフの腰ぬけの弟子が\n　決勝バトルまで　残るなんてなぁ……。\n　まあ　オレにとっちゃ　ラッキーだぜ。": "Jamais je n'aurais cru que le disciple de\nJakov, ce lache, atteindrait la finale du\ntournoi Bato... Eh bien, pour moi, c'est du<br>Drang."
