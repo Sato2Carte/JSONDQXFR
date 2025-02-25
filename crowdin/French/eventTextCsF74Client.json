@@ -798,7 +798,7 @@
         "「……生体反応　１体　接近中。": "......Reaction biologique detectee. Un\nindividu s'approche."
     },
     "196716": {
-        "<if_woman>「姉ちゃん　やっと会えた……！\n　おいらだよ　<kyodai>だ！\n　助けにきたよ！<else>「兄ちゃん　やっと会えた……！\n　おいらだよ　<kyodai>だ！\n　助けにきたよ！<endif>": "<if_woman>>Grande soeur, enfin je t'ai\nretrouvee... ! C'est moi, <kyodai> ! Je suis\nvenu te sauver !<else>>Grand frere, enfin je t'ai retrouve... !\nC'est moi, <kyodai> ! Je suis venu te sauver\n!<endif>"
+        "<if_woman>「姉ちゃん　やっと会えた……！\n　おいらだよ　<kyodai>だ！\n　助けにきたよ！<else>「兄ちゃん　やっと会えた……！\n　おいらだよ　<kyodai>だ！\n　助けにきたよ！<endif>": "<if_woman>Grande soeur, enfin je t'ai\nretrouvee... ! C'est moi, <kyodai> ! Je suis\nvenu te sauver !<else>Grand frere, enfin je t'ai retrouve... !\nC'est moi, <kyodai> ! Je suis venu te sauver\n!<endif>"
     },
     "196717": {
         "「その制服…… \n　帝国技術庁の　筆頭研究員ですな？": "Cet uniforme... Vous etes chercheur en chef au\nDepartement Technique Imperial, n'est-ce pas ?"
@@ -813,7 +813,7 @@
         "「だけど　あいつの悪事に気づいちゃって……。\n　何度も　止めようとしてきたんだけど\n　結局　おいら　何もできなかった……。": "Mais j'ai decouvert ses mefaits... J'ai essaye\nde l'arreter plusieurs fois, mais finalement\nje n'ai rien pu faire..."
     },
     "196721": {
-        "<if_woman>「でも　これ以上　見過ごせないよ。 \n　今回のことは　監視装置を通して　見てたんだ。\n　それで　姉ちゃんに　伝えたいことが……<else>「でも　これ以上　見過ごせないよ。 \n　今回のことは　監視装置を通して　見てたんだ。\n　それで　兄ちゃんに　伝えたいことが……<endif>": "<if_woman>>Mais je ne peux plus ignorer cela.\nJ'ai vu tout ce qui s'est passe a travers le\ndispositif de surveillance. Et j'ai quelque<br>chose a dire a grande soeur...<else>>Mais je ne peux plus ignorer cela. J'ai vu\ntout ce qui s'est passe a travers le\ndispositif de surveillance. Et j'ai quelque<br>chose a dire a grand frere...<endif>"
+        "<if_woman>「でも　これ以上　見過ごせないよ。 \n　今回のことは　監視装置を通して　見てたんだ。\n　それで　姉ちゃんに　伝えたいことが……<else>「でも　これ以上　見過ごせないよ。 \n　今回のことは　監視装置を通して　見てたんだ。\n　それで　兄ちゃんに　伝えたいことが……<endif>": "<if_woman>Mais je ne peux plus ignorer cela.\nJ'ai vu tout ce qui s'est passe a travers le\ndispositif de surveillance. Et j'ai quelque<br>chose a dire a grande soeur...<else>Mais je ne peux plus ignorer cela. J'ai vu\ntout ce qui s'est passe a travers le\ndispositif de surveillance. Et j'ai quelque<br>chose a dire a grand frere...<endif>"
     },
     "196722": {
         "<attr><pipipi_high><end_attr>「第二庁舎　警戒れべる上昇。\n　ＳＳらんく研究員以外ノ　立チ入リヲ　禁ズ。\n　職員各位　留意セヨ。クリ返ス…………": "<attr><pipipi_high><end_attr>Deuxieme batiment\n- Augmentation du niveau de securite. Acces\ninterdit a toute personne n'ayant pas le rang<br>de chercheur SS. Avis a tout le personnel,\nveuillez prendre note. Je repete..."
@@ -828,7 +828,7 @@
         "「第二庁舎につながる　渡り廊下は　４階にある。\n　ロックは　おいらが　解除しておくよ。": "Le couloir reliant au deuxieme batiment est au\nquatrieme etage. Je vais m'occuper de\ndeverrouiller la porte."
     },
     "196726": {
-        "<if_woman>「一緒に　皇女様を助けよう。 \n　そして　グルヤンラシュを止めるんだ……\n　姉ちゃん！<else>「一緒に　皇女様を助けよう。 \n　そして　グルヤンラシュを止めるんだ……\n　兄ちゃん！<endif>": "<if_woman>>Aidons ensemble la princesse\nimperiale. Et arretons Grulianlash... Grande\nsoeur !<else>>Aidons ensemble la princesse imperiale. Et\narretons Grulianlash... Grand frere !<endif>"
+        "<if_woman>「一緒に　皇女様を助けよう。 \n　そして　グルヤンラシュを止めるんだ……\n　姉ちゃん！<else>「一緒に　皇女様を助けよう。 \n　そして　グルヤンラシュを止めるんだ……\n　兄ちゃん！<endif>": "<if_woman>Aidons ensemble la princesse\nimperiale. Et arretons Grulianlash... Grande\nsoeur !<else>Aidons ensemble la princesse imperiale. Et\narretons Grulianlash... Grand frere !<endif>"
     },
     "196727": {
         "「<pc>　やっと会えたな……！\n　オレだ　<kyodai>だ！\n　助けにきたぜ！": "<pc>, enfin je te retrouve... ! C'est\nmoi, <kyodai> ! Je suis venu te sauver !"
@@ -837,7 +837,7 @@
         "「<pc>　やっと会えた……！\n　あたしよ　<kyodai>よ！\n　助けにきたわ！": "<pc>, enfin nous nous rencontrons... !\nC'est moi, <kyodai> ! Je suis venue te\nsauver !"
     },
     "196729": {
-        "<if_woman>「お姉ちゃん　やっと会えた……！\n　私よ　<kyodai>よ！\n　助けにきたの！<else>「お兄ちゃん　やっと会えた……！\n　私よ　<kyodai>よ！\n　助けにきたの！<endif>": "<if_woman>>Grande soeur, je t'ai enfin\nretrouvee... ! C'est moi, <kyodai> ! Je suis\nvenue te sauver !<else>>Grand frere, je t'ai enfin retrouve... !\nC'est moi, <kyodai> ! Je suis venue te\nsauver ! <endif>"
+        "<if_woman>「お姉ちゃん　やっと会えた……！\n　私よ　<kyodai>よ！\n　助けにきたの！<else>「お兄ちゃん　やっと会えた……！\n　私よ　<kyodai>よ！\n　助けにきたの！<endif>": "<if_woman>Grande soeur, je t'ai enfin\nretrouvee... ! C'est moi, <kyodai> ! Je suis\nvenue te sauver !<else>Grand frere, je t'ai enfin retrouve... !\nC'est moi, <kyodai> ! Je suis venue te\nsauver ! <endif>"
     },
     "196730": {
         "「オレ　この国に流れ着いてから\n　錬金術師として　グルヤンラシュと一緒に\n　時渡りの研究を　続けてきたんだ。": "Depuis que j'ai echoue dans ce pays, j'ai\ncontinue mes recherches sur le voyage temporel\nen tant qu'alchimiste aux cotes de Grulyan<br>Lash."
@@ -873,7 +873,7 @@
         "「だけど　これ以上　見過ごせないわ。\n　今回のことは　監視装置を通して　見ていたの。\n　それで　あんたに　伝えたいことが……": "Mais je ne peux plus fermer les yeux sur ca.\nJ'ai observe cette affaire a travers le\ndispositif de surveillance. Et maintenant, il<br>y a quelque chose que je veux te dire..."
     },
     "196741": {
-        "<if_woman>「でもっ　これ以上　見過ごせないよ。\n　今回のことは　監視装置を通して　見てたの。\n　それで　お姉ちゃんに　伝えたいことが……<else>「でもっ　これ以上　見過ごせないよ。\n　今回のことは　監視装置を通して　見てたの。\n　それで　お兄ちゃんに　伝えたいことが……<endif>": "<if_woman>>Mais... je ne peux plus fermer les\nyeux la-dessus. J'ai vu ce qui s'est passe\ncette fois-ci a travers le dispositif de<br>surveillance. Et j'ai quelque chose a dire a\ngrande soeur...<else>>Mais... je ne peux plus fermer les yeux\nla-dessus. J'ai vu ce qui s'est passe cette\nfois-ci a travers le dispositif de<br>surveillance. Et j'ai quelque chose a dire a\ngrand frere... <endif>"
+        "<if_woman>「でもっ　これ以上　見過ごせないよ。\n　今回のことは　監視装置を通して　見てたの。\n　それで　お姉ちゃんに　伝えたいことが……<else>「でもっ　これ以上　見過ごせないよ。\n　今回のことは　監視装置を通して　見てたの。\n　それで　お兄ちゃんに　伝えたいことが……<endif>": "<if_woman>Mais... je ne peux plus fermer les\nyeux la-dessus. J'ai vu ce qui s'est passe\ncette fois-ci a travers le dispositif de<br>surveillance. Et j'ai quelque chose a dire a\ngrande soeur...<else>Mais... je ne peux plus fermer les yeux\nla-dessus. J'ai vu ce qui s'est passe cette\nfois-ci a travers le dispositif de<br>surveillance. Et j'ai quelque chose a dire a\ngrand frere... <endif>"
     },
     "196742": {
         "「ウルタ皇女が　第二庁舎の下層にある\n　特別監視室に　監禁されてんだ！": "Princess Ulta est emprisonnee dans la salle de\nsurveillance speciale situee dans les\nsous-sols du deuxieme batiment !"
@@ -900,7 +900,7 @@
         "「一緒に　皇女を助けましょう。\n　そして　グルヤンラシュを止めるのよ……\n　<pc>！": "Ensemble, sauvons la princesse imperiale. Et\narretons Grulyanlash... <pc> !"
     },
     "196750": {
-        "<if_woman>「一緒に　皇女様を助けよう。\n　そして　グルヤンラシュを止めようよ……\n　お姉ちゃん！<else>「一緒に　皇女様を助けよう。\n　そして　グルヤンラシュを止めようよ……\n　お兄ちゃん！<endif>": "<if_woman>>Aidons ensemble la princesse\nimperiale. Arretons Grulyanlash... Grande soeur\n!<else>>Aidons ensemble la princesse imperiale.\nArretons Grulyanlash... Grand frere ! <endif>"
+        "<if_woman>「一緒に　皇女様を助けよう。\n　そして　グルヤンラシュを止めようよ……\n　お姉ちゃん！<else>「一緒に　皇女様を助けよう。\n　そして　グルヤンラシュを止めようよ……\n　お兄ちゃん！<endif>": "<if_woman>Aidons ensemble la princesse\nimperiale. Arretons Grulyanlash... Grande soeur\n!<else>Aidons ensemble la princesse imperiale.\nArretons Grulyanlash... Grand frere ! <endif>"
     },
     "196752": {
         "「皇女　ご無事ですかッ！": "Princesse, etes-vous saine et sauve !"
@@ -909,7 +909,7 @@
         "「いかん……来るなーっ！！": "Non... Ne viens pas !"
     },
     "196754": {
-        "<if_woman>「リウ老師は　おいらが守る……！\n　あいつは　姉ちゃんに　まかせるよ！<else>「リウ老師は　おいらが守る……！\n　あいつは　兄ちゃんに　まかせるよ！<endif>": "<if_woman>>Je protegerai Master Liu... ! Je te\nlaisse t'occuper de lui, grande soeur !<else>>Je protegerai Master Liu... ! Je te laisse\nt'occuper de lui, grand frere ! <endif>"
+        "<if_woman>「リウ老師は　おいらが守る……！\n　あいつは　姉ちゃんに　まかせるよ！<else>「リウ老師は　おいらが守る……！\n　あいつは　兄ちゃんに　まかせるよ！<endif>": "<if_woman>Je protegerai Master Liu... ! Je te\nlaisse t'occuper de lui, grande soeur !<else>Je protegerai Master Liu... ! Je te laisse\nt'occuper de lui, grand frere ! <endif>"
     },
     "196755": {
         "「リウ老師は　オレが守る……！\n　あいつは　お前に　まかせるぜ！": "Master Liu, je le protegerai... ! Je te laisse\nt'occuper de celui-la !"
@@ -918,7 +918,7 @@
         "「リウ老師は　あたしが守る……！\n　あいつは　あんたに　まかせるわよ！": "Je protegerai Maitre Liu... ! Je te laisse\nt'occuper de cet ennemi !"
     },
     "196757": {
-        "<if_woman>「リウ老師は　私が守るよ……！\n　あいつは　お姉ちゃんに　まかせるね！<else>「リウ老師は　私が守るよ……！\n　あいつは　お兄ちゃんに　まかせるね！<endif>": "<if_woman>>Je protegerai Maitre Liu... ! Je te\nlaisse t'occuper de lui, grande soeur !<else>>Je protegerai Maitre Liu... ! Je te laisse\nt'occuper de lui, grand frere ! <endif>"
+        "<if_woman>「リウ老師は　私が守るよ……！\n　あいつは　お姉ちゃんに　まかせるね！<else>「リウ老師は　私が守るよ……！\n　あいつは　お兄ちゃんに　まかせるね！<endif>": "<if_woman>Je protegerai Maitre Liu... ! Je te\nlaisse t'occuper de lui, grande soeur !<else>Je protegerai Maitre Liu... ! Je te laisse\nt'occuper de lui, grand frere ! <endif>"
     },
     "196795": {
         "「マリッチ……マリッチ……。": "Marich... Marich..."
@@ -1065,7 +1065,7 @@
         "「なんだ……どうなってる！？": "Qu'est-ce que... que se passe-t-il !?"
     },
     "196847": {
-        "<if_woman>「姉ちゃん　あぶない！<else>「兄ちゃん　あぶない！<endif>": "<if_woman>>Grande soeur, attention !<else>>Grand frere, attention ! <endif>"
+        "<if_woman>「姉ちゃん　あぶない！<else>「兄ちゃん　あぶない！<endif>": "<if_woman>Grande soeur, attention !<else>Grand frere, attention ! <endif>"
     },
     "196848": {
         "「動け……動いてくれっ！": "Bouge... Bouge, je t'en prie !"
@@ -1116,7 +1116,7 @@
         "「<pc>　あぶない！": "<pc>, attention !"
     },
     "196864": {
-        "<if_woman>「お姉ちゃん　あぶない！<else>「お兄ちゃん　あぶない！<endif>": "<if_woman>>Grande soeur, attention !<else>>Grand frere, attention ! <endif>"
+        "<if_woman>「お姉ちゃん　あぶない！<else>「お兄ちゃん　あぶない！<endif>": "<if_woman>Grande soeur, attention !<else>Grand frere, attention ! <endif>"
     },
     "196865": {
         "「動け……動いてくれっ！": "Bouge... Bouge, je t'en prie !"
