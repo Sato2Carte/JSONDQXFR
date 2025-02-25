@@ -12,7 +12,7 @@
         "「こちとら　そんなつもりは\n　これっぽっちも　なかったんだ。\n　安心してくれ。嵐を呼んだりしねえからよ。": "Je n'avais pas la moindre intention de faire\nca. Rassure-toi, je ne vais pas invoquer de\ntempete."
     },
     "292079": {
-        "<if_woman>「ちょっと　この姉ちゃんに\n　渡しわすれたものが　あってな。\n　それを届けるのに　寄っただけなんだ。<else>「ちょっと　この兄ちゃんに\n　渡しわすれたものが　あってな。\n　それを届けるのに　寄っただけなんだ。<endif>": "<if_woman>>J'ai juste oublie de donner quelque\nchose a cette soeur. Je suis passe pour le lui\napporter.<else>>J'ai juste oublie de donner quelque chose a\nce frere. Je suis passe pour le lui apporter.<endif>"
+        "<if_woman>「ちょっと　この姉ちゃんに\n　渡しわすれたものが　あってな。\n　それを届けるのに　寄っただけなんだ。<else>「ちょっと　この兄ちゃんに\n　渡しわすれたものが　あってな。\n　それを届けるのに　寄っただけなんだ。<endif>": "<if_woman>J'ai juste oublie de donner quelque\nchose a cette soeur. Je suis passe pour le lui\napporter.<else>J'ai juste oublie de donner quelque chose a\nce frere. Je suis passe pour le lui apporter.<endif>"
     },
     "292080": {
         "「おうおう　<pc>！\n　この大嵐メダルを　おめえに　やろう。\n　オレを　ごキゲンにしてくれた礼だ。": "Oh, oh, <pc> ! Je vais te donner cette\nMedaille de Tempete. C'est en remerciement\npour m'avoir mis de bonne humeur."
