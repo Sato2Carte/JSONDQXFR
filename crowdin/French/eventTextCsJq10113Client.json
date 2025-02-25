@@ -6,19 +6,19 @@
         "「あっ！　あれっ！": "Ah ! Ca alors !"
     },
     "22196": {
-        "<if_woman>「いい？　<cs_pchero>ちゃん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<else>「いい？　<cs_pchero>くん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<endif>": "<if_woman>>Ecoute, <cs_pchero> chan. Le point\nfaible de Holy Beast Dai Kirin sama est Dolma.\nSi tu utilises des sorts de type Dolma, tu<br>pourras combattre avantageusement !<else>>Ecoute, <cs_pchero> kun. Le point faible de\nHoly Beast Dai Kirin sama est Dolma. Si tu\nutilises des sorts de type Dolma, tu pourras<br>combattre avantageusement ! <endif>"
+        "<if_woman>「いい？　<cs_pchero>ちゃん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<else>「いい？　<cs_pchero>くん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<endif>": "<if_woman>Ecoute, <cs_pchero> chan. Le point\nfaible de Holy Beast Dai Kirin sama est Dolma.\nSi tu utilises des sorts de type Dolma, tu<br>pourras combattre avantageusement !<else>Ecoute, <cs_pchero> kun. Le point faible de\nHoly Beast Dai Kirin sama est Dolma. Si tu\nutilises des sorts de type Dolma, tu pourras<br>combattre avantageusement ! <endif>"
     },
     "22197": {
-        "<if_woman>「来たわっ！　お願いね！　<cs_pchero>ちゃん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<else>「来たわっ！　お願いね！　<cs_pchero>くん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<endif>": "<if_woman>>Il est la ! Je compte sur toi !\n<cs_pchero>chan ! Battons sans pitie\nDaikirin-sama !<else>>Il est la ! Je compte sur toi !\n<cs_pchero>kun ! Battons sans pitie\nDaikirin-sama !<endif>"
+        "<if_woman>「来たわっ！　お願いね！　<cs_pchero>ちゃん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<else>「来たわっ！　お願いね！　<cs_pchero>くん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<endif>": "<if_woman>Il est la ! Je compte sur toi !\n<cs_pchero>chan ! Battons sans pitie\nDaikirin-sama !<else>Il est la ! Je compte sur toi !\n<cs_pchero>kun ! Battons sans pitie\nDaikirin-sama !<endif>"
     },
     "22198": {
         "「さあ　着いたわ。\n　今度こそ　聖獣ダイキリンさまを倒して\n　あなたの強さを　示してちょうだい！": "Nous sommes arrives. Cette fois, vainquons le\nSaint-Bete Dai Kirin-sama et montre ta force !"
     },
     "22199": {
-        "<if_woman>「いい？　<cs_pchero>ちゃん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<else>「いい？　<cs_pchero>くん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<endif>": "<if_woman>>Ecoute, <cs_pchero> chan. Le point\nfaible de Holy Beast Dai Kirin sama est Dolma.\nSi tu utilises des sorts de type Dolma, tu<br>pourras combattre avantageusement !<else>>Ecoute, <cs_pchero> kun. Le point faible de\nHoly Beast Dai Kirin sama est Dolma. Si tu\nutilises des sorts de type Dolma, tu pourras<br>combattre avantageusement ! <endif>"
+        "<if_woman>「いい？　<cs_pchero>ちゃん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<else>「いい？　<cs_pchero>くん。\n　聖獣ダイキリンさまの弱点は　ドルマよ。\n　ドルマ系の呪文を使えば　有利に戦えるわ！<endif>": "<if_woman>Ecoute, <cs_pchero> chan. Le point\nfaible de Holy Beast Dai Kirin sama est Dolma.\nSi tu utilises des sorts de type Dolma, tu<br>pourras combattre avantageusement !<else>Ecoute, <cs_pchero> kun. Le point faible de\nHoly Beast Dai Kirin sama est Dolma. Si tu\nutilises des sorts de type Dolma, tu pourras<br>combattre avantageusement ! <endif>"
     },
     "22200": {
-        "<if_woman>「来たわっ！　お願いね！　<cs_pchero>ちゃん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<else>「来たわっ！　お願いね！　<cs_pchero>くん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<endif>": "<if_woman>>Il est la ! Je compte sur toi !\n<cs_pchero>chan ! Battons sans pitie\nDaikirin-sama !<else>>Il est la ! Je compte sur toi !\n<cs_pchero>kun ! Battons sans pitie\nDaikirin-sama !<endif>"
+        "<if_woman>「来たわっ！　お願いね！　<cs_pchero>ちゃん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<else>「来たわっ！　お願いね！　<cs_pchero>くん！\n　容赦なく　ダイキリンさまを　倒しちゃって！<endif>": "<if_woman>Il est la ! Je compte sur toi !\n<cs_pchero>chan ! Battons sans pitie\nDaikirin-sama !<else>Il est la ! Je compte sur toi !\n<cs_pchero>kun ! Battons sans pitie\nDaikirin-sama !<endif>"
     },
     "22201": {
         "「ふおーーーっ！　ふぉっふぉっふぉーっ！\n　参ったーっ！　わしの負けじゃあーっ！": "Fuoohhh ! Foh foh foh ! Je suis vaincu ! C'est\nma defaite !"
@@ -66,7 +66,7 @@
         "「宇宙の理。その深遠に横たわるのが　闇じゃ。\n　その闇を知らずに　賢者として\n　大成しようなどとは　片腹痛いわ。": "Les lois de l'univers. Dans leurs profondeurs,\nreside l'obscurite. Ignorer cette obscurite\ntout en aspirant a devenir un grand sage est<br>tout simplement risible."
     },
     "22216": {
-        "<if_woman>「そこの　娘っ子なら　ともかく\n　嬢ちゃんは　天地が　ひっくり返っても\n　大賢者なんかに　なれんて……。<else>「そこの　ボウズなら　ともかく\n　嬢ちゃんは　天地が　ひっくり返っても\n　大賢者なんかに　なれんて……。<endif>": "<if_woman>>Si c'etait la jeune fille la-bas, a\nla rigueur, mais toi, ma petite, meme si le\nmonde se renversait, tu ne pourrais jamais<br>devenir une grande sage...<else>>Si c'etait le garcon la-bas, a la rigueur,\nmais toi, ma petite, meme si le monde se\nrenversait, tu ne pourrais jamais devenir une<br>grande sage... <endif>"
+        "<if_woman>「そこの　娘っ子なら　ともかく\n　嬢ちゃんは　天地が　ひっくり返っても\n　大賢者なんかに　なれんて……。<else>「そこの　ボウズなら　ともかく\n　嬢ちゃんは　天地が　ひっくり返っても\n　大賢者なんかに　なれんて……。<endif>": "<if_woman>Si c'etait la jeune fille la-bas, a\nla rigueur, mais toi, ma petite, meme si le\nmonde se renversait, tu ne pourrais jamais<br>devenir une grande sage...<else>Si c'etait le garcon la-bas, a la rigueur,\nmais toi, ma petite, meme si le monde se\nrenversait, tu ne pourrais jamais devenir une<br>grande sage... <endif>"
     },
     "22217": {
         "「……これ以上　話すのは　無駄なようじゃのう。\n　それでは　わしは　失礼させてもらうでなあ。": "......Il semble inutile d'en dire plus. Dans\nce cas, je vais prendre conge."
@@ -78,7 +78,7 @@
         "「私　夢を　かなえるために\n　今まで　がんばってきたのに……。\n　こんな……こんなことって……。": "J'ai travaille si dur jusqu'a present pour\nrealiser mon reve... Et maintenant... comment\ncela a-t-il pu arriver..."
     },
     "22220": {
-        "<if_woman>「<cs_pchero>ちゃん……　ごめん。\n　私　どうしていいか　わからないよ……。\n　とりあえず　王立研究院に戻ろう？<else>「<cs_pchero>くん……　ごめん。\n　私　どうしていいか　わからないよ……。\n　とりあえず　王立研究院に戻ろう？<endif>": "<if_woman>><cs_pchero> chan... desolee. Je ne\nsais pas quoi faire... Retournons a l'Institut\nRoyal ?<else>><cs_pchero> kun... desolee. Je ne sais pas\nquoi faire... Retournons a l'Institut Royal ?<endif>"
+        "<if_woman>「<cs_pchero>ちゃん……　ごめん。\n　私　どうしていいか　わからないよ……。\n　とりあえず　王立研究院に戻ろう？<else>「<cs_pchero>くん……　ごめん。\n　私　どうしていいか　わからないよ……。\n　とりあえず　王立研究院に戻ろう？<endif>": "<if_woman><cs_pchero> chan... desolee. Je ne\nsais pas quoi faire... Retournons a l'Institut\nRoyal ?<else><cs_pchero> kun... desolee. Je ne sais pas\nquoi faire... Retournons a l'Institut Royal ?<endif>"
     },
     "22221": {
         "「きっと　シェリルも\n　このことを　知ってたんだね……。\n　だから　井戸で会ったとき　あんなことを……。": "Cheryl devait surement etre au courant de cela\naussi... C'est pour ca qu'elle a agi ainsi\nquand nous nous sommes rencontres au puits..."
@@ -132,9 +132,9 @@
         "「大賢者になんて　なれなくていい！\n　私は　絶対に　シェリルを救う方法を\n　見つけだしてみせる……！": "Je n'ai pas besoin de devenir une grande sage\n! Je vais absolument trouver un moyen de\nsauver Cheryl... !"
     },
     "22238": {
-        "<if_woman>「ねえ　<pc>ちゃん。\n　しばらくしたら　また　私に\n　チカラを貸してくれない？<else>「ねえ　<pc>くん。\n　しばらくしたら　また　私に\n　チカラを貸してくれない？<endif>": "<if_woman>>Dis, <pc>-chan. Pourrais-tu a\nnouveau m'aider apres un certain temps ?<else>>Dis, <pc>-kun. Pourrais-tu a nouveau\nm'aider apres un certain temps ? <endif>"
+        "<if_woman>「ねえ　<pc>ちゃん。\n　しばらくしたら　また　私に\n　チカラを貸してくれない？<else>「ねえ　<pc>くん。\n　しばらくしたら　また　私に\n　チカラを貸してくれない？<endif>": "<if_woman>Dis, <pc>-chan. Pourrais-tu a\nnouveau m'aider apres un certain temps ?<else>Dis, <pc>-kun. Pourrais-tu a nouveau\nm'aider apres un certain temps ? <endif>"
     },
     "28417": {
-        "<if_woman>「私　死に物狂いで　がんばるから！\n　準備ができたら　賢者になって　来てほしいの。\n　お願いね　<pc>ちゃん！<else>「私　死に物狂いで　がんばるから！\n　準備ができたら　賢者になって　来てほしいの。\n　お願いね　<pc>くん！<endif>": "<if_woman>>Je vais me battre bec et ongles !\nQuand tu seras pret, deviens un sage et viens\nme voir. Je compte sur toi, <pc>-chan !<else>>Je vais me battre bec et ongles ! Quand tu\nseras pret, deviens un sage et viens me voir.\nJe compte sur toi, <pc>-kun ! <endif>"
+        "<if_woman>「私　死に物狂いで　がんばるから！\n　準備ができたら　賢者になって　来てほしいの。\n　お願いね　<pc>ちゃん！<else>「私　死に物狂いで　がんばるから！\n　準備ができたら　賢者になって　来てほしいの。\n　お願いね　<pc>くん！<endif>": "<if_woman>Je vais me battre bec et ongles !\nQuand tu seras pret, deviens un sage et viens\nme voir. Je compte sur toi, <pc>-chan !<else>Je vais me battre bec et ongles ! Quand tu\nseras pret, deviens un sage et viens me voir.\nJe compte sur toi, <pc>-kun ! <endif>"
     }
 }
