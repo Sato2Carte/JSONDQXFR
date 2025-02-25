@@ -6,7 +6,7 @@
         "「時を超えるチカラを秘めた　お前たちに\n　テンスの花を渡すわけには　いかんからのう！": "Je ne peux pas vous donner la Fleur de Tens,\ncar vous avez un pouvoir capable de\ntranscender le temps !"
     },
     "14697": {
-        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>>": "<if_woman><pc> !<else><pc> !<endif>>"
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>>": "<if_woman><pc> !<else><pc> !<endif>"
     },
     "14698": {
         "「ほら　いいでしょ！？": "Alors, c’est bien, non !?"
@@ -30,7 +30,7 @@
         "「はい　アバさま。": "Oh, Abba."
     },
     "14705": {
-        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<endif>>"
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<endif>"
     },
     "14706": {
         "「ダメじゃ！": "C'est impossible !"
@@ -408,7 +408,7 @@
         "「ちょっと！　<pc>！\n　勝手なことすんじゃないわよ！\n　あんたを守るのは　あたしなんだからっ！！": "He ! <pc> !\nNe fais pas n'importe quoi !\nC'est moi qui suis la pour te proteger !"
     },
     "14951": {
-        "<if_woman>「イヤだよ！　お姉ちゃん！！\n　私を　ひとりにしないで！！<else>「イヤだよ！　お兄ちゃん！！\n　私を　ひとりにしないで！！<endif>>": "<if_woman>Arrete ca ! Ne me laisse pas seule !!<else>Arrete ca ! Ne me laisse pas seule !!<endif>>"
+        "<if_woman>「イヤだよ！　お姉ちゃん！！\n　私を　ひとりにしないで！！<else>「イヤだよ！　お兄ちゃん！！\n　私を　ひとりにしないで！！<endif>>": "<if_woman>Arrete ca ! Ne me laisse pas seule !!<else>Arrete ca ! Ne me laisse pas seule !!<endif>"
     },
     "14952": {
         "「<pc>！　<pc>っ！！": "<pc>! <pc>!!"
@@ -417,7 +417,7 @@
         "「<pc>！　<pc>っ！！": "<pc>! <pc>!!"
     },
     "14954": {
-        "<if_woman>「お姉ちゃん！　お姉ちゃんっ！！<else>「お兄ちゃん！　お兄ちゃんっ！！<endif>>": "<if_woman><pc>! <pc>!!<else><pc>! <pc>!!<endif>>"
+        "<if_woman>「お姉ちゃん！　お姉ちゃんっ！！<else>「お兄ちゃん！　お兄ちゃんっ！！<endif>>": "<if_woman><pc>! <pc>!!<else><pc>! <pc>!!<endif>"
     },
     "14955": {
         "「<pc>ーーーーーっ！！": "<pc> !!"
@@ -426,7 +426,7 @@
         "「<pc>ーーーーーっ！！": "<pc>!!!!"
     },
     "14957": {
-        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>>": "<if_woman><pc>! <pc>!!<else><pc>! <pc>!!<endif>>"
+        "<if_woman>「お姉ちゃぁぁあああんっ！！<else>「お兄ちゃぁぁあああんっ！！<endif>>": "<if_woman><pc>! <pc>!!<else><pc>! <pc>!!<endif>"
     },
     "14958": {
         "「おかしいですね。\n　魔物たちが　１匹も　いないなんて。": "C'est etrange.\nIl n'y a pas un seul monstre ici."
@@ -510,7 +510,7 @@
         "「よかった。\n　おいらも　役に立てたんだね！": "Ouf, je suis content. J'ai pu etre utile, moi\naussi !"
     },
     "14985": {
-        "<if_woman>「きっと　ここで　テンスの花を見つけるのが\n　おいらの役目だったんだ。姉ちゃん　おいらを\n　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが\n　おいらの役目だったんだ。兄ちゃん　おいらを\n　ここまで連れてきてくれて　ありがとう！<endif>>": "<if_woman>Je suis sur que c'etait mon role de\ntrouver la Fleur de Tens ici. Grande soeur,\nmerci de m'avoir amene jusqu'ici !<else>Je suis sur que c'etait mon role de trouver la\nFleur de Tens ici. Grand frere, merci de\nm'avoir amene jusqu'ici ! <endif>>"
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが\n　おいらの役目だったんだ。姉ちゃん　おいらを\n　ここまで連れてきてくれて　ありがとう！<else>「きっと　ここで　テンスの花を見つけるのが\n　おいらの役目だったんだ。兄ちゃん　おいらを\n　ここまで連れてきてくれて　ありがとう！<endif>>": "<if_woman>Je suis sur que c'etait mon role de\ntrouver la Fleur de Tens ici. Grande soeur,\nmerci de m'avoir amene jusqu'ici !<else>Je suis sur que c'etait mon role de trouver la\nFleur de Tens ici. Grand frere, merci de\nm'avoir amene jusqu'ici ! <endif>"
     },
     "14986": {
         "シンイは\nテンスの花を　手に入れた！<me 60>": "Shini a obtenu la Fleur de Tens ! <me 60>"
@@ -588,7 +588,7 @@
         "「きっと　ここで　テンスの花を見つけるのが\n　あたしの役目だったのね。<pc>\n　ここまで連れてきてくれて　ありがと！": "C'etait surement mon role de trouver la Fleur\nde Tens ici. <pc>, merci de m'avoir\namenee jusqu'ici !"
     },
     "15011": {
-        "<if_woman>「きっと　ここで　テンスの花を見つけるのが\n　私の役目だったのね。お姉ちゃん　私を\n　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが\n　私の役目だったのね。お兄ちゃん　私を\n　ここまで連れてきてくれて　ありがと！<endif>>": "<if_woman>C'etait surement mon role de trouver\nla Fleur de Tens ici. Grande soeur, merci de\nm'avoir amenee jusqu'ici !<else>C'etait surement mon role de trouver la Fleur\nde Tens ici. Grand frere, merci de m'avoir\namenee jusqu'ici !<endif>>"
+        "<if_woman>「きっと　ここで　テンスの花を見つけるのが\n　私の役目だったのね。お姉ちゃん　私を\n　ここまで連れてきてくれて　ありがと！<else>「きっと　ここで　テンスの花を見つけるのが\n　私の役目だったのね。お兄ちゃん　私を\n　ここまで連れてきてくれて　ありがと！<endif>>": "<if_woman>C'etait surement mon role de trouver\nla Fleur de Tens ici. Grande soeur, merci de\nm'avoir amenee jusqu'ici !<else>C'etait surement mon role de trouver la Fleur\nde Tens ici. Grand frere, merci de m'avoir\namenee jusqu'ici !<endif>"
     },
     "15012": {
         "「ここです。\n　テンスの花は　この扉の向こうに咲いていると\n　書物に　記されていました。": "Nous y sommes. Il est ecrit dans les livres\nque la Fleur de Tens fleurit de l'autre cote\nde cette porte."
@@ -771,7 +771,7 @@
         "「あら　<pc>？": "Tiens, <pc> ?"
     },
     "15078": {
-        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>>": "<if_woman>Hein ? Grande soeur ?<else>Hein ? Grand frere ? <endif>>"
+        "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>>": "<if_woman>Hein ? Grande soeur ?<else>Hein ? Grand frere ? <endif>"
     },
     "15079": {
         "「ちょうど　いいところに来たな！\n　ほらよっ！　お前に　プレゼントだ！\n　絶対　似合うと思うぜ！": "Tu arrives au bon moment ! Tiens, c'est pour\ntoi, un cadeau ! Je suis sur que ca t'ira a\nmerveille !"
@@ -780,7 +780,7 @@
         "「いいところに来たわね！\n　これ……　<pc>に　あげるわ。\n　きっと　似合うと思うわよ！": "Tu arrives au bon moment ! Tiens... Je vais te\ndonner ca, <pc>. Je suis sure que ca\nt'ira parfaitement !"
     },
     "15081": {
-        "<if_woman>「いいところに来たね～！\n　これ……　お姉ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<else>「いいところに来たね～！\n　これ……　お兄ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<endif>>": "<if_woman>Tu arrives au bon moment~ ! Ceci...\nc'est un cadeau pour grande soeur ! Je suis\nsure que ca lui ira a merveille !<else>Tu arrives au bon moment~ ! Ceci... c'est un\ncadeau pour grand frere ! Je suis sur que ca\nlui ira a merveille !<endif>>"
+        "<if_woman>「いいところに来たね～！\n　これ……　お姉ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<else>「いいところに来たね～！\n　これ……　お兄ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<endif>>": "<if_woman>Tu arrives au bon moment~ ! Ceci...\nc'est un cadeau pour grande soeur ! Je suis\nsure que ca lui ira a merveille !<else>Tu arrives au bon moment~ ! Ceci... c'est un\ncadeau pour grand frere ! Je suis sur que ca\nlui ira a merveille !<endif>"
     },
     "15082": {
         "「えーっ　かばんが　いっぱいなのかよ。\n　しょうがねえなあ。オレが　持っといてやるか。": "Quoi ? Ton sac est deja plein ? Bon, d'accord.\nJe vais le garder pour toi."
@@ -798,7 +798,7 @@
         "「で　<pc>は　こんな所まで\n　わざわざ　なにしに来たってわけ？": "Alors, <pc>, pourquoi es-tu venu\njusqu'ici, expres ?"
     },
     "15087": {
-        "<if_woman>「で　お姉ちゃんは　こんな所まで来て\n　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て\n　なんの用事？<endif>>": "<if_woman>Alors, grande soeur, qu'est-ce qui\nt'amene jusqu'ici ?<else>Alors, grand frere, qu'est-ce qui t'amene\njusqu'ici ? <endif>>"
+        "<if_woman>「で　お姉ちゃんは　こんな所まで来て\n　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て\n　なんの用事？<endif>>": "<if_woman>Alors, grande soeur, qu'est-ce qui\nt'amene jusqu'ici ?<else>Alors, grand frere, qu'est-ce qui t'amene\njusqu'ici ? <endif>"
     },
     "15088": {
         "「……なんだって？\n　アバさまが　オレを呼んでる？": "...... Quoi ? Abba me demande ?"
@@ -918,7 +918,7 @@
         "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte !\nTiens,attrape ma main..."
     },
     "15128": {
-        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>Allez !\nGrande soeur, monte, monte !\nTiens, attrape ma main...<else>Allez !\nGrand frere, monte, monte !\nTiens, attrape ma main...<endif>>"
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>Allez !\nGrande soeur, monte, monte !\nTiens, attrape ma main...<else>Allez !\nGrand frere, monte, monte !\nTiens, attrape ma main...<endif>"
     },
     "15129": {
         "「……えっ？": "...Hein ?"
@@ -1035,10 +1035,10 @@
         "<center><pc>よ。\nその姿を　選んだのですね。": "Vous avez choisi cette apparence."
     },
     "29472": {
-        "<if_woman><center>不運にも　今日\nこの世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日\nこの世を去った　<pc_race>の青年がいます。<endif>>": "<if_woman>Malheureusement, aujourd'hui, une\nfemme <pc_race> a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune homme\n<pc_race> a quitte ce monde. <endif>>"
+        "<if_woman><center>不運にも　今日\nこの世を去った　<pc_race>の女性がいます。<else><center>不運にも　今日\nこの世を去った　<pc_race>の青年がいます。<endif>>": "<if_woman>Malheureusement, aujourd'hui, une\nfemme <pc_race> a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune homme\n<pc_race> a quitte ce monde. <endif>"
     },
     "29473": {
-        "<if_woman><center>あなたは今日から　その女性の身体を借り\n新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り\n新たな人生を　歩んでゆくことになります。<endif>>": "<if_woman> A partir d'aujourd'hui, vous\nemprunterez le corps de cette femme et\ncommencerez une nouvelle vie.<else>A partir d'aujourd'hui, vous emprunterez le\ncorps de ce jeune homme et commencerez une\nnouvelle vie. <endif>>"
+        "<if_woman><center>あなたは今日から　その女性の身体を借り\n新たな人生を　歩んでゆくことになります。<else><center>あなたは今日から　その青年の身体を借り\n新たな人生を　歩んでゆくことになります。<endif>>": "<if_woman> A partir d'aujourd'hui, vous\nemprunterez le corps de cette femme et\ncommencerez une nouvelle vie.<else>A partir d'aujourd'hui, vous emprunterez le\ncorps de ce jeune homme et commencerez une\nnouvelle vie. <endif>"
     },
     "29474": {
         "<center>｢テキスト削除": "Delete text"
@@ -1074,18 +1074,18 @@
         "「……なんだって？　<kyodai>と　アバさまが\n　カメさまに乗っている夢を見た？　いやだよ。\n　そんなこと　あるはずが　ないじゃないか。": "Quoi...?\nTu as reve que <kyodai> et Abba\nmontaient sur Chelonios...?\n<br>\nNon, c'est impossible."
     },
     "46656": {
-        "<if_woman><center>不運にも　今日\nこの世を去った　オーガの女性がいます。<else><center>不運にも　今日\nこの世を去った　オーガの青年がいます。<endif>>": "<if_woman> Il y a une femme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<else>Il y a un jeune homme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<endif>>"
+        "<if_woman><center>不運にも　今日\nこの世を去った　オーガの女性がいます。<else><center>不運にも　今日\nこの世を去った　オーガの青年がいます。<endif>>": "<if_woman> Il y a une femme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<else>Il y a un jeune homme Ogre qui a\nmalheureusement quitte ce monde aujourd'hui.<endif>"
     },
     "46657": {
-        "<if_woman><center>不運にも　今日\nこの世を去った　エルフの女性がいます。<else><center>不運にも　今日\nこの世を去った　エルフの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Elfe a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Elfe a\nquitte ce monde. <endif>>"
+        "<if_woman><center>不運にも　今日\nこの世を去った　エルフの女性がいます。<else><center>不運にも　今日\nこの世を去った　エルフの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Elfe a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Elfe a\nquitte ce monde. <endif>"
     },
     "46658": {
-        "<if_woman><center>不運にも　今日\nこの世を去った　プクリポの女性がいます。<else><center>不運にも　今日\nこの世を去った　プクリポの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Pukulipo a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune\nPukulipo a quitte ce monde. <endif>>"
+        "<if_woman><center>不運にも　今日\nこの世を去った　プクリポの女性がいます。<else><center>不運にも　今日\nこの世を去った　プクリポの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Pukulipo a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune\nPukulipo a quitte ce monde. <endif>"
     },
     "46659": {
-        "<if_woman><center>不運にも　今日\nこの世を去った　ウェディの女性がいます。<else><center>不運にも　今日\nこの世を去った　ウェディの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Weddie a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Weddie\na quitte ce monde. <endif>>"
+        "<if_woman><center>不運にも　今日\nこの世を去った　ウェディの女性がいます。<else><center>不運にも　今日\nこの世を去った　ウェディの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Weddie a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Weddie\na quitte ce monde. <endif>"
     },
     "46660": {
-        "<if_woman><center>不運にも　今日\nこの世を去った　ドワーフの女性がいます。<else><center>不運にも　今日\nこの世を去った　ドワーフの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Naines a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Nain a\nquitte ce monde. <endif>>"
+        "<if_woman><center>不運にも　今日\nこの世を去った　ドワーフの女性がいます。<else><center>不運にも　今日\nこの世を去った　ドワーフの青年がいます。<endif>>": "<if_woman> Malheureusement, aujourd'hui, une\njeune Naines a quitte ce monde.<else>Malheureusement, aujourd'hui, un jeune Nain a\nquitte ce monde. <endif>"
     }
 }
