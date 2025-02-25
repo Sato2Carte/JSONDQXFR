@@ -48,7 +48,7 @@
         "「この件は　オーレンとも　エイドスさまとも\n　因縁の深い　<pc>どのでなければ\n　果たせぬと思うのですよ。": "<me 60> Je pense que cette affaire ne peut\netre accomplie que par <pc>-dono, qui a\nune profonde connexion avec Oren et<br>Eidos-sama."
     },
     "15830": {
-        "<if_woman>「おお　引き受けてくださるか！\n　さすがは　<pc>どの。\n　いざという時　頼りになる　ナイスギャル！<else>「おお　引き受けてくださるか！\n　さすがは　<pc>どの。\n　いざという時　頼りになる　ナイスガイ！<endif>": "<if_woman>>Oh, vous acceptez de le faire !\nComme prevu de la part de <pc>-dono. Une\nfille geniale sur qui on peut compter en cas<br>de besoin !<else>>Oh, vous acceptez de le faire ! Comme prevu\nde la part de <pc>-dono. Un gars genial\nsur qui on peut compter en cas de besoin<br>!<endif>"
+        "<if_woman>「おお　引き受けてくださるか！\n　さすがは　<pc>どの。\n　いざという時　頼りになる　ナイスギャル！<else>「おお　引き受けてくださるか！\n　さすがは　<pc>どの。\n　いざという時　頼りになる　ナイスガイ！<endif>": "<if_woman>Oh, vous acceptez de le faire !\nComme prevu de la part de <pc>-dono. Une\nfille geniale sur qui on peut compter en cas<br>de besoin !<else>Oh, vous acceptez de le faire ! Comme prevu\nde la part de <pc>-dono. Un gars genial\nsur qui on peut compter en cas de besoin<br>!<endif>"
     },
     "15831": {
         "「では　くれぐれも　お願いします。\n　<%sEV_QUE_NAME0>は　ドワチャッカ大陸の\n　カルサドラ火山に　棲息しているはずですぞ！": "Alors, je compte vraiment sur vous.\n<%sEV_QUE_NAME0> devrait habiter sur le\ncontinent de Dwachakka, dans le volcan<br>Calsadora !"
