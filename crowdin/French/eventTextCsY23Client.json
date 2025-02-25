@@ -21,7 +21,7 @@
         "「へ？　妖精が　なんでこんなところにって？ \n　というか　君こそ　ここがどこだか\n　わかって言っているのかい？": "Hein ? Tu te demandes pourquoi une fee serait\ndans un endroit comme celui-ci ? D'ailleurs,\nest-ce que toi-meme tu sais vraiment ou tu es<br>en ce moment ?"
     },
     "126229": {
-        "「ここは　夢と現実の境界さ。\n　元来　ここに　意識ある<pc_race>が\n　いることの方が　おかしいんだよ。": "Cet endroit est la frontiere entre les reves\net la realite. Normalement, c'est etrange\nqu'une <pc_race> consciente se trouve ici."
+        "「ここは　夢と現実の境界さ。\n　元来　ここに　意識ある<pc_race>が\n　いることの方が　おかしいんだよ。": "<if_woman>Cet endroit est la frontiere entre les reves\net la realite. Normalement, c'est etrange\nqu'une <pc_race> consciente se trouve ici.<else>Cet endroit est la frontiere entre les reves\net la realite. Normalement, c'est etrange\nqu'un <pc_race> consciente se trouve ici.<endif>"
     },
     "126230": {
         "「私は　たまに　思考を巡らせるために\n　この空間を利用するんだ。今日は何をしようか\n　ランチは　何を食べようか　とかね！": "Je me sers parfois de cet espace pour\nreflechir. Par exemple, aujourd'hui, je me\ndemande quoi faire, ou bien ce que je vais<br>manger chez LMP !"
@@ -30,10 +30,10 @@
         "「……ふむ。どうやら　冒険者のようだが…… \n　なかなか　興味深いね。\n　君　名前は　なんて言うんだい？": "Hmm. On dirait que tu es un aventurier...\nC'est plutot interessant. Quel est ton nom ?"
     },
     "126232": {
-        "<if_woman>「なるほど……\n　<pc>ちゃんというのか。 <else>「なるほど……\n　<pc>くんというのか。 <endif>": "<if_woman>>Je vois... Tu t'appelles\n<pc>-chan.<else>>Je vois... Tu t'appelles <pc>-kun.<endif>"
+        "<if_woman>「なるほど……\n　<pc>ちゃんというのか。 <else>「なるほど……\n　<pc>くんというのか。 <endif>": "Je vois... \nTu t'appelles <pc>"
     },
     "126233": {
-        "<if_woman>「よし！　<pc>ちゃん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<endif>": "<if_woman>>Bien ! <pc>-chan, notre\nrencontre ici est guidee par la Fairy\nQueen-sama ! Je veux que tu m'aides a<br>accomplir ma mission !<else>>Bien ! <pc>-kun, notre rencontre ici\nest guidee par la Fairy Queen-sama ! Je veux\nque tu m'aides a accomplir ma mission<br>!<endif>"
+        "<if_woman>「よし！　<pc>ちゃん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<else>「よし！　<pc>くん \n　ここで会ったのも　妖精の女王さまの　お導き！\n　ともに　私の使命を果たしてほしいんだ！<endif>": "<if_woman>Bien ! <pc>-chan, notre\nrencontre ici est guidee par la Fairy\nQueen-sama ! Je veux que tu m'aides a<br>accomplir ma mission !<else>Bien ! <pc>-kun, notre rencontre ici\nest guidee par la Fairy Queen-sama ! Je veux\nque tu m'aides a accomplir ma mission<br>!<endif>"
     },
     "126234": {
         "「私は　みんなをハッピーにするべく \n　各地を冒険して　そこに住まう人たちや\n　冒険者に　つながりを生むことを促してきた。": "J'ai voyage a travers le monde pour rendre\ntout le monde heureux, en encourageant les\nhabitants et les aventuriers a creer des liens<br>entre eux."
@@ -51,7 +51,7 @@
         "「ふっふーん。えーい！": "Fufuun. He !"
     },
     "126239": {
-        "<if_woman>「君には　黄色い魔法……出会いの魔法をかけた。 \n　これで　<pc>ちゃんには\n　私が選んだ人の名前が　黄色に見えるはずさ！<else>「君には　黄色い魔法……出会いの魔法をかけた。 \n　これで　<pc>くんには\n　私が選んだ人の名前が　黄色に見えるはずさ！<endif>": "<if_woman>>Je t'ai jete un sort jaune... un\nsort de rencontre. Ainsi, <pc>-chan\ndevrait voir les noms des personnes que j'ai<br>choisies en jaune !<else>>Je t'ai jete un sort jaune... un sort de\nrencontre. Ainsi, <pc>-kun devrait voir\nles noms des personnes que j'ai choisies en<br>jaune !<endif>"
+        "<if_woman>「君には　黄色い魔法……出会いの魔法をかけた。 \n　これで　<pc>ちゃんには\n　私が選んだ人の名前が　黄色に見えるはずさ！<else>「君には　黄色い魔法……出会いの魔法をかけた。 \n　これで　<pc>くんには\n　私が選んだ人の名前が　黄色に見えるはずさ！<endif>": "<if_woman>Je t'ai jete un sort jaune... un\nsort de rencontre. Ainsi, <pc>-chan\ndevrait voir les noms des personnes que j'ai<br>choisies en jaune !<else>Je t'ai jete un sort jaune... un sort de\nrencontre. Ainsi, <pc>-kun devrait voir\nles noms des personnes que j'ai choisies en<br>jaune !<endif>"
     },
     "126240": {
         "「これで　あとは　黄色い名前の人を\n　見つけて　話しかけるだけ！\n　どうだい　簡単だろう？": "Avec ca, il ne te reste plus qu'a trouver la\npersonne au nom jaune et lui parler ! Facile,\nn'est-ce pas ?"
@@ -75,7 +75,7 @@
         "「かわいいだろう。私のと　おそろいだぞ！\n　しかも　この２冊は　書いたものが\n　リンクされちゃう　ふしぎ機能付きなのさ！": "C'est mignon, n'est-ce pas ? C'est assorti au\nmien ! En plus, ces deux livres ont une\nfonction magique : ce qui est ecrit dans l'un<br>se retrouve dans l'autre !"
     },
     "126247": {
-        "<if_woman>「私がこっちに　アストルティアの住人を\n　書くと　<pc>ちゃんに\n　渡した方にも　記載されるんだ。　<else>「私がこっちに　アストルティアの住人を\n　書くと　<pc>くんに\n　渡した方にも　記載されるんだ。　<endif>": "<if_woman>>Quand j'ecris ici les habitants\nd'Astoltia, cela s'inscrit aussi sur ce que je\nremets a <pc>-chan.<else>>Quand j'ecris ici les habitants d'Astoltia,\ncela s'inscrit aussi sur ce que je remets a\n<pc>-kun. <endif>"
+        "<if_woman>「私がこっちに　アストルティアの住人を\n　書くと　<pc>ちゃんに\n　渡した方にも　記載されるんだ。　<else>「私がこっちに　アストルティアの住人を\n　書くと　<pc>くんに\n　渡した方にも　記載されるんだ。　<endif>": "<if_woman>Quand j'ecris ici les habitants\nd'Astoltia, cela s'inscrit aussi sur ce que je\nremets a <pc>-chan.<else>Quand j'ecris ici les habitants d'Astoltia,\ncela s'inscrit aussi sur ce que je remets a\n<pc>-kun. <endif>"
     },
     "126248": {
         "「私が選んだ　住人の名前を記入しておくので\n　どうぐの　だいじなものから\n　確認してみてくれ。": "J'ai inscrit le nom de l'habitant que j'ai\nchoisi, alors verifie dans les objets cles de\nton inventaire."
