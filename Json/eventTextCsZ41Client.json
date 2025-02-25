@@ -1,6 +1,6 @@
 {
     "8090": {
-        "<if_woman>「お姉ちゃん　誰？\n　ここは　フルッカおばちゃんの　おうちよ。<else>「お兄ちゃん　誰？\n　ここは　フルッカおばちゃんの　おうちよ。<endif>": "<if_woman>>Grande soeur, qui es-tu ? Ici, c'est\nla maison de Fluka tante.<else>>Grand frere, qui es-tu ? Ici, c'est la maison\nde Fluka tante. <endif>"
+        "<if_woman>「お姉ちゃん　誰？\n　ここは　フルッカおばちゃんの　おうちよ。<else>「お兄ちゃん　誰？\n　ここは　フルッカおばちゃんの　おうちよ。<endif>": "<if_woman>Grande soeur, qui es-tu ? Ici, c'est\nla maison de Fluka tante.<else>Grand frere, qui es-tu ? Ici, c'est la maison\nde Fluka tante. <endif>"
     },
     "8091": {
         "「あっ！": "Ah !"
@@ -1287,7 +1287,7 @@
         "「でも　このスワンちゃんが　最高の破邪舟だと\n　すぐに　おわかりに　なりますわ。": "Mais vous comprendrez rapidement que ce navire\nnomme Swan-chan est le meilleur des Sacred\nShips."
     },
     "22639": {
-        "<if_woman>「えっ！　それじゃ　この　お姉ちゃんが\n　あの　エルジュさまと　一緒に……？\n　あれって　おとぎ話じゃなかったの！？<else>「えっ！　それじゃ　この　お兄ちゃんが\n　あの　エルジュさまと　一緒に……？\n　あれって　おとぎ話じゃなかったの！？<endif>": "<if_woman>>Quoi ! Alors cette grande soeur est\navec ce fameux Erju-sama... ? Ce n'etait pas\nun conte de fees !?<else>>Quoi ! Alors ce grand frere est avec ce\nfameux Erju-sama... ? Ce n'etait pas un conte\nde fees !?<endif>"
+        "<if_woman>「えっ！　それじゃ　この　お姉ちゃんが\n　あの　エルジュさまと　一緒に……？\n　あれって　おとぎ話じゃなかったの！？<else>「えっ！　それじゃ　この　お兄ちゃんが\n　あの　エルジュさまと　一緒に……？\n　あれって　おとぎ話じゃなかったの！？<endif>": "<if_woman>Quoi ! Alors cette grande soeur est\navec ce fameux Erju-sama... ? Ce n'etait pas\nun conte de fees !?<else>Quoi ! Alors ce grand frere est avec ce\nfameux Erju-sama... ? Ce n'etait pas un conte\nde fees !?<endif>"
     },
     "22640": {
         "「さあ　私は　<pc>さまと\n　大切な　お話があるわ。\n　お勉強は　またにしましょうね。": "Alors, j'ai une conversation importante a\navoir avec <pc>-sama. Nous reprendrons\nles etudes plus tard."
