@@ -1068,7 +1068,7 @@
         "「そこで　術の継承を手助けし\n　破邪舟を　現代まで　途絶えさせないよう\n　その少年と　約束してきたというわけか。": "Alors pour empecher de faire disparaitre la\ntechnique dans notre present, tu as aide ce\ngarcon jusqu'au bout et il a promit de tout\n<br>\nfaire pour la conserver."
     },
     "10460": {
-        "<if_woman>「ホッホッホッホ！　ついでに\n　災厄の源を　海に落としてきたと言うか。\n　おぬしは　あっぱれな女じゃのう。<else>「ホッホッホッホ！　ついでに\n　災厄の源を　海に落としてきたと言うか。\n　おぬしは　あっぱれな男じゃのう。<endif>": "<if_woman>> Ho ho ho ho ! En plus, tu dis\navoir jete la source du malheur a la mer. Tu\nes une femme remarquable.<else>> Ho ho ho ho ! En plus, tu dis avoir jete la\nsource du malheur a la mer. Tu es un homme\nremarquable. <endif>"
+        "<if_woman>「ホッホッホッホ！　ついでに\n　災厄の源を　海に落としてきたと言うか。\n　おぬしは　あっぱれな女じゃのう。<else>「ホッホッホッホ！　ついでに\n　災厄の源を　海に落としてきたと言うか。\n　おぬしは　あっぱれな男じゃのう。<endif>": "<if_woman> Ho ho ho ho ! En plus, tu dis\navoir jete la source du malheur a la mer. Tu\nes une femme remarquable.<else> Ho ho ho ho ! En plus, tu dis avoir jete la\nsource du malheur a la mer. Tu es un homme\nremarquable. <endif>"
     },
     "10461": {
         "「よし。とにかく　これで\n　破邪舟の術が　復活しているかもしれん。": "Bien.\nAvec un peu de chance, tout ceci a du ramener\nl'art du Vaisseau Sacre chez nous."
