@@ -12,7 +12,7 @@
         "「マローネ……俺は　今　エテーネの……\n　いや　アストルティアに生きる　全ての者の敵\n　時見の箱　キュロノスと戦っている。": "Marone En ce moment, je suis l'ennemi de tous\nceux qui vivent a Ethene... non, de tous ceux\nqui vivent a Astoltia. Je combats le Timeseer<br>Box Kyuronos."
     },
     "234012": {
-        "<if_woman>「ひとりではなく\n　俺たちの娘　<pc>とだ。<else>「ひとりではなく\n　俺たちの息子　<pc>とだ。<endif>": "<if_woman>>Ce n'est pas seul, c'est avec notre\nfille <pc>.<else>>Ce n'est pas seul, c'est avec notre fils\n<pc>. <endif>"
+        "<if_woman>「ひとりではなく\n　俺たちの娘　<pc>とだ。<else>「ひとりではなく\n　俺たちの息子　<pc>とだ。<endif>": "<if_woman>Ce n'est pas seul, c'est avec notre\nfille <pc>.<else>Ce n'est pas seul, c'est avec notre fils\n<pc>. <endif>"
     },
     "234014": {
         "「おどろいてる顔が　目に浮かぶよ。\n　<pc>は　キミの目の前で\n　未来へ　時渡りしたそうだな？": "Je peux presque voir ton visage surpris. Il\nparait que <pc> a voyage dans le temps\nvers le futur sous tes yeux ?"
@@ -42,7 +42,7 @@
         "「……キミと　<pc>が再会する場に\n　俺も　居合わせたかったが……\n　どうしても　それは　かなわないんだ…………。": "J'aurais aime etre present lorsque toi et\n<pc> vous etes retrouves… Mais\nmalheureusement, cela m'est impossible…"
     },
     "234032": {
-        "<if_woman>「本当に　すまない……。\n　どうか　俺のぶんまで　過ぎ去った時間を\n　俺たちの娘と　埋めあわせてくれ。<else>「本当に　すまない……。\n　どうか　俺のぶんまで　過ぎ去った時間を\n　俺たちの息子と　埋めあわせてくれ。<endif>": "<if_woman>>Je suis vraiment desole... S'il te\nplait, pour compenser le temps passe, passe-le\navec notre fille a ma place.<else>>Je suis vraiment desole... S'il te plait,\npour compenser le temps passe, passe-le avec\nnotre fils a ma place. <endif>"
+        "<if_woman>「本当に　すまない……。\n　どうか　俺のぶんまで　過ぎ去った時間を\n　俺たちの娘と　埋めあわせてくれ。<else>「本当に　すまない……。\n　どうか　俺のぶんまで　過ぎ去った時間を\n　俺たちの息子と　埋めあわせてくれ。<endif>": "<if_woman>Je suis vraiment desole... S'il te\nplait, pour compenser le temps passe, passe-le\navec notre fille a ma place.<else>Je suis vraiment desole... S'il te plait,\npour compenser le temps passe, passe-le avec\nnotre fils a ma place. <endif>"
     },
     "234034": {
         "「名残惜しいが　ここまでのようだ。\n　愛してる……マローネ。": "Il semble que ce soit la fin. Je t'aime...\nMarone."
@@ -57,7 +57,7 @@
         "「あなたは　もう　帰らないのね……。": "Tu ne reviendras plus, n'est-ce pas..."
     },
     "234042": {
-        "<if_woman>「……<pc>　あなただったの？\n　あなたが　私たちの娘なのね。<else>「……<pc>　あなただったの？\n　あなたが　私たちの息子なのね。<endif>": "<if_woman>>...<pc>, c'etait toi ? Tu es\nnotre fille.<else>>...<pc>, c'etait toi ? Tu es notre\nfils. <endif>"
+        "<if_woman>「……<pc>　あなただったの？\n　あなたが　私たちの娘なのね。<else>「……<pc>　あなただったの？\n　あなたが　私たちの息子なのね。<endif>": "<if_woman>...<pc>, c'etait toi ? Tu es\nnotre fille.<else>...<pc>, c'etait toi ? Tu es notre\nfils. <endif>"
     },
     "234044": {
         "「よく　顔を見せて　<pc>。\n　あの日に消えた　私の赤ちゃんが\n　こんなに　大きくなって…………": "Montre-moi bien ton visage, <pc>. Mon\nbebe, qui a disparu ce jour-la, est devenu si\ngrand..."
