@@ -30,7 +30,7 @@
         "「わたくし　ザンボアであります！": "Mon nom est Zanboa!"
     },
     "1029": {
-        "「じつは……　先日も　王の命令で\n　あなたのような　罪なき人を\n　牢に入れたのですが　すぐに釈放されました！": "Pour vous dire la verite...\nL'autre jour, un innocent comme vous a ete\nenferme sur ordre du roi et libere presque\n<br>\ninstantanement!"
+        "「じつは……　先日も　王の命令で\n　あなたのような　罪なき人を\n　牢に入れたのですが　すぐに釈放されました！": "Pour vous dire la verite...\n<br>\nL'autre jour, un innocent comme vous a ete\nenferme sur ordre du roi et libere presque\ninstantanement!"
     },
     "1030": {
         "「ですから　あなたも　すぐに\n　出してもらえるのではないかと！\n　こう思う次第であります！": "Je suis sur que vous pourrez sortir tres\nbientot!\nDu moins, c'est ce que je pense!"
@@ -39,7 +39,7 @@
         "「わしは　世界を旅して　知った。": "J'ai tout appris en voyageant dans le monde\nentier."
     },
     "1034": {
-        "「お前たち　エテーネの民は\n　冥王ネルゲルのやつに　相当\n　ひどい目に　あわされたようじゃな。": "On dirait que le peuple de Cadis a beaucoup\nsouffert du courroux du Seigneur des Enfers."
+        "「お前たち　エテーネの民は\n　冥王ネルゲルのやつに　相当\n　ひどい目に　あわされたようじゃな。": "On dirait que le peuple de Cadis a beaucoup\nsouffert du courroux du Seigneur des Ombres."
     },
     "1038": {
         "「やはり　エイドスさまには\n　おわかりなのですね！\n　王が　以前のバグド王ではないと！": "Alors tu le sais toi aussi!\nCet homme n'est pas le Roi Bagudo que nous\nconnaissons!"
@@ -60,7 +60,7 @@
         "「王の頭痛を取りのぞく方法が\n　ないわけでもないが……。": "Bien, ce n'est pas comme si aucun moyen\nn'existait pour soigner le mal de tete du\nroi, mais..."
     },
     "1047": {
-        "「ジダン兵士長よ。\n　教えるのなら　そなたではなく\n　この者のほうが　よさそうじゃ。": "Capitaine Jidan, si vous souhaitez que\nj'enseigne a quelqu'un.\nCette personne correspond parfaitement aux\n<br>\ncriteres."
+        "「ジダン兵士長よ。\n　教えるのなら　そなたではなく\n　この者のほうが　よさそうじゃ。": "Capitaine Jidan, si vous souhaitez que\nj'enseigne a quelqu'un.\n<br>\nCette personne correspond parfaitement aux\ncriteres."
     },
     "1049": {
         "「お前の名は……\n　そうか　<pc>というのか。": "Ton nom est... <pc>, n'est ce pas?"
@@ -78,13 +78,13 @@
         "「ありがとうございます！\n　さすが　エイドスさまに見込まれた方！": "Merci!\nSage Eidos a eu raison de te choisir!"
     },
     "1056": {
-        "「さあ　城の出口まで　お送りしましょう。\n　宿屋に滞在中の　エイドスさまを\n　お訪ねください。": "Bien, je vais vous escorter jusqu'a la sortie\ndu chateau.\nPartez rencontrer le Sage Eidos, qui est a\n<br>\nl'auberge."
+        "「さあ　城の出口まで　お送りしましょう。\n　宿屋に滞在中の　エイドスさまを\n　お訪ねください。": "Bien, je vais vous escorter jusqu'a la sortie\ndu chateau.\n<br>\nPartez rencontrer le Sage Eidos, qui est a\nl'auberge."
     },
     "1059": {
         "「来てくれたか　<pc>。": "Tu es la, <pc>."
     },
     "1060": {
-        "「時間がない。率直に言おう。\n　バグド王の様子が　おかしいのは\n　悪しき瘴気　魔瘴に侵されているからじゃ。": "Le temps nous est compte.\nJe vais etre clair.\nLa raison pour laquelle le Roi Bagudo agit\n<br>\nbizarrement est parce qu'il est affecte par\nle Miasme Demoniaque."
+        "「時間がない。率直に言おう。\n　バグド王の様子が　おかしいのは\n　悪しき瘴気　魔瘴に侵されているからじゃ。": "Le temps nous est compte.\nJe vais etre clair.\n<br>\nLa raison pour laquelle le roi Bagudo agit de\nmaniere etrange, c'est qu'il est affecte par\nla miasme demoniaque."
     },
     "1061": {
         "「わしや　お前に　あれほど\n　はげしい嫌悪を示したのは　わしらの中の\n　聖なるチカラに　感づいたためじゃろう。": "Il a senti de la haine en nous voyant toi et\nmoi, car il a senti un pouvoir divin en nous."
@@ -96,7 +96,7 @@
         "「魔物がまとえば　そのチカラは何倍にも強まり\n　人が触れれば　命を落とすか\n　心を　悪に染められるという。": "Un monstre qui s'entoure de cette brume\ndevient de plus en plus fort, mais une\npersonne touchant cette brume peut mourir, ou\n<br>\netre possede par un grand mal."
     },
     "1064": {
-        "「なかば　忘れられた存在だった魔瘴が\n　今　ふたたび　活発化したのは　冥王ネルゲルが\n　この地上に　降り立ったためじゃ。": "Le Miasme Demoniaque autrefois oublie est ici\ncar le Seigneur des Enfers Nelgel est\ndescendu sur terre."
+        "「なかば　忘れられた存在だった魔瘴が\n　今　ふたたび　活発化したのは　冥王ネルゲルが\n　この地上に　降り立ったためじゃ。": "Le Miasme Demoniaque autrefois oublie est ici\ncar le Seigneur des Ombres Nelgel est\ndescendu sur terre."
     },
     "1065": {
         "「<pc>よ。\n　この国を救う覚悟は　できたな？": "<pc>, t'es tu prepare a sauver ce pays?"
@@ -117,10 +117,10 @@
         "「たやすく　入手できるものではないから\n　しっかりと準備をして　おもむくがいい。\n　聖杯が入手できた頃　また　ここで会おう。": "Ce n'est pas quelque chose que l'on peut\nobtenir facilement, alors prepare-toi bien\navant de te lancer. Une fois que tu auras mis<br>la main sur le Saint Graal, retrouvons-nous\nici."
     },
     "1076": {
-        "「オォォォォ……　誰だ？\n　われから　聖杯を　うばわんとする者は！？": "Ooooo...\nQui est la?\nQui ose voler MON Calice!?"
+        "「オォォォォ……　誰だ？\n　われから　聖杯を　うばわんとする者は！？": "Ooooo... Qui est la?\nQui ose voler MON Calice!?"
     },
     "1077": {
-        "「……そうか　貴様\n　ガートラントの追っ手だな？": "...\nHum, tu es de Gartlant, huh?"
+        "「……そうか　貴様\n　ガートラントの追っ手だな？": "...Hum, tu es de Gartlant, huh?"
     },
     "1078": {
         "「わが名は　剣士オーレン……。\n　レムルの聖杯は　われに残された\n　ただひとつの　希望！": "Mon nom est Oren, l'Epeiste...\nLe Calice du Royaume est mon unique espoir!"
@@ -132,22 +132,22 @@
         "「わ…が………": "M... Mon..."
     },
     "1081": {
-        "「聖……杯……………。": "Saint… Graal…"
+        "「聖……杯……………。": "Calice..."
     },
     "1082": {
         "<cs_pchero>は\nレムルの聖杯（だいじなもの）を　手に入れた！<me_60>": "<cs_pchero> a obtenu le Calice de Lemure\n(objet cle) !<me_60>"
     },
     "1083": {
-        "「<pc>さんって　あなたでしょ？\n　エイドスさまから　伝言を預かっているから\n　読むわね？": "<pc>-san, c'est bien vous, n'est-ce pas\n? J'ai un message de la part de Eidos-sama\npour vous. Je vais vous le lire, d'accord ?"
+        "「<pc>さんって　あなたでしょ？\n　エイドスさまから　伝言を預かっているから\n　読むわね？": "C'est toi, <pc> ?\nJ'ai un message de Maitre Eidos a te\ntransmettre, je vais le lire pour toi."
     },
     "1084": {
-        "「急で　すまぬが　旅立つことになった。\n　<pc>なら　問題なく\n　レムルの聖杯を　手に入れてくれたと思う。": "Je suis desole pour la precipitation, mais je\ndois partir en voyage. Je pense que <pc>\na reussi a obtenir le Calice du Lemur sans<br>probleme."
+        "「急で　すまぬが　旅立つことになった。\n　<pc>なら　問題なく\n　レムルの聖杯を　手に入れてくれたと思う。": "Desole pour la precipitation, mais il a fallu\npartir.\n<br>\nJe suis sur que <pc> a reussi a obtenir\nle Saint Calice de Lemur sans probleme."
     },
     "1085": {
-        "「次は　その聖杯を持って　はるか南東へ行け。\n　グレン領東の南から　ゲルト海峡を南東に抜け\n　ランドン山脈の南東から　雲上湖へ行くのじゃ。": "Ensuite, prends ce Saint Graal et dirige-toi\nloin vers le sud-est. Passe par le sud de Glen\nEast, traverse le detroit de Gert vers le<br>sud-est et rends-toi au lac Cloudtop situe au\nsud-est des montagnes Landon."
+        "「次は　その聖杯を持って　はるか南東へ行け。\n　グレン領東の南から　ゲルト海峡を南東に抜け\n　ランドン山脈の南東から　雲上湖へ行くのじゃ。": "Il va falloir que tu prennes ce Calice et que\ntu partes loin au sud-est.\n<br>\nPasse par le sud de la region Est de Glen,\ntraverse le detroit de Gert vers le sud-est,\n<br>\npuis rejoins le lac celeste au sud-est de la\nchaine de Landon."
     },
     "1086": {
-        "「そこには　グロリスの木という\n　目には見えぬ　不思議な樹木が　そびえておる。\n　その木が落とす　しずくを　持ち帰るのじゃ。": "La-bas se dresse un arbre mysterieux et\ninvisible appele l'Arbre Gloris. Ramene les\ngouttes que cet arbre laisse tomber."
+        "「そこには　グロリスの木という\n　目には見えぬ　不思議な樹木が　そびえておる。\n　その木が落とす　しずくを　持ち帰るのじゃ。": "La-bas se dresse l’arbre mysterieux de Gloris,\ninvisible a l’œil nu.\n<br>\nIl va falloir rapporter une goutte qu’il fait\ntomber."
     },
     "1087": {
         "「レムルの聖杯で　受けとめた\n　グロリスのしずくだけが　魔瘴をはらえる。\n　それを　王に飲ませれば　王は治るじゃろう。": "Seule la Goutte de Gloire, recueillie dans le\nCalice du Lemurien, peut dissiper le miasme.\nSi le roi la boit, il guerira."
