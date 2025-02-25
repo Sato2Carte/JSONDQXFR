@@ -57,7 +57,7 @@
         "「…………ぐう。おなか　すいた。": "...Grrr. J'ai faim."
     },
     "127442": {
-        "<if_woman>「<pc>ちゃん。\n　ここは　あたしたちだけで\n　なんとかするしか　なさそうね。<else>「<pc>くん。\n　ここは　あたしたちだけで\n　なんとかするしか　なさそうね。<endif>": "<if_woman>><pc>-chan. On dirait qu'il va\nfalloir qu'on se debrouille seuls ici.<else>><pc>-kun. On dirait qu'il va falloir\nqu'on se debrouille seuls ici. <endif>"
+        "<if_woman>「<pc>ちゃん。\n　ここは　あたしたちだけで\n　なんとかするしか　なさそうね。<else>「<pc>くん。\n　ここは　あたしたちだけで\n　なんとかするしか　なさそうね。<endif>": "<if_woman><pc>-chan. On dirait qu'il va\nfalloir qu'on se debrouille seuls ici.<else><pc>-kun. On dirait qu'il va falloir\nqu'on se debrouille seuls ici. <endif>"
     },
     "127443": {
         "「これでも　ゆっくり　来たつもりなんだけど\n　やっぱ　オレの方が　早く着いたみたいだね。": "Je pensais etre venu tranquillement, mais il\nsemble que je sois arrive plus vite que prevu."
@@ -96,7 +96,7 @@
         "「無理はしないほうがいい。\n　ここは　僕たちに　まかせてくれ。": "Il vaut mieux ne pas en faire trop.\nLaisse-nous nous en occuper."
     },
     "127455": {
-        "<if_woman>「先輩の　ウデの見せどころね。\n　いきましょう　<pc>ちゃん。<else>「先輩の　ウデの見せどころね。\n　いきましょう　<pc>くん。<endif>": "<if_woman>>C'est l'occasion de montrer vos\ntalents, senpai. Allons-y, <pc>-chan.<else>>C'est l'occasion de montrer vos talents,\nsenpai. Allons-y, <pc>-kun. <endif>"
+        "<if_woman>「先輩の　ウデの見せどころね。\n　いきましょう　<pc>ちゃん。<else>「先輩の　ウデの見せどころね。\n　いきましょう　<pc>くん。<endif>": "<if_woman>C'est l'occasion de montrer vos\ntalents, senpai. Allons-y, <pc>-chan.<else>C'est l'occasion de montrer vos talents,\nsenpai. Allons-y, <pc>-kun. <endif>"
     },
     "127456": {
         "「何度言えば　わかるんだ……。": "Combien de fois devrai-je le repeter pour que\ntu comprennes..."
@@ -144,7 +144,7 @@
         "「たぶん　大丈夫だと思うよ。\n　あの子……　勝負に負けたからって\n　逃げるようなタイプじゃないと　思うんだ。": "Je pense que ca ira. Cet enfant... Je ne crois\npas qu'il soit du genre a fuir juste parce\nqu'il a perdu un duel, ce Red Snapper."
     },
     "144241": {
-        "<if_woman>「……ん？\n　<pc>ちゃん　どうかしたの？<else>「……ん？\n　<pc>くん　どうかしたの？<endif>": "<if_woman>>...Hum ? <pc>-chan, quelque\nchose ne va pas ?<else>>...Hum ? <pc>-kun, quelque chose ne va\npas ?<endif>"
+        "<if_woman>「……ん？\n　<pc>ちゃん　どうかしたの？<else>「……ん？\n　<pc>くん　どうかしたの？<endif>": "<if_woman>...Hum ? <pc>-chan, quelque\nchose ne va pas ?<else>...Hum ? <pc>-kun, quelque chose ne va\npas ?<endif>"
     },
     "144242": {
         "解放のカギが　突然　熱を放ち始めた。": "La Key de liberation a soudainement commence a\nemettre de la chaleur."
