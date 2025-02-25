@@ -69,7 +69,7 @@
         "「……その時こそ　あなたの大切なものを \n　何もかも　グッチャグチャにしてあげる。": "A ce moment-la, je detruirai tout ce qui vous\nest cher en mille morceaux."
     },
     "57846": {
-        "<if_woman>「さあ　お嬢さん。お家に帰って\n　滅びの恐怖を　伝えてくれるかしら。<else>「さあ　坊や。お家に帰って\n　滅びの恐怖を　伝えてくれるかしら。<endif>": "<if_woman>>Allez, mademoiselle. Rentre chez\ntoi et parle-leur de la terreur de la\ndestruction.<else>>Allez, jeune homme. Rentre chez toi et\nparle-leur de la terreur de la destruction.<endif>"
+        "<if_woman>「さあ　お嬢さん。お家に帰って\n　滅びの恐怖を　伝えてくれるかしら。<else>「さあ　坊や。お家に帰って\n　滅びの恐怖を　伝えてくれるかしら。<endif>": "<if_woman>Allez, mademoiselle. Rentre chez\ntoi et parle-leur de la terreur de la\ndestruction.<else>Allez, jeune homme. Rentre chez toi et\nparle-leur de la terreur de la destruction.<endif>"
     },
     "57847": {
         "「キャハハハハッ！！": "Ahahahahaha !!"
