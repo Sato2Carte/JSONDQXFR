@@ -81,7 +81,7 @@
         "「あの……　クロウズ様。\n　その異種族の者とは　いったい\n　どのような　ご関係なのでしょうか？": "あno... Claws-sama. Quelle est exactement la\nnature de votre relation avec cet etre d'une\nautre espece ?"
     },
     "131855": {
-        "<if_woman>「彼女は　私の……\n　アストルティアでの　古くからの友人です。<else>「彼は　私の……\n　アストルティアでの　古くからの友人です。<endif>": "<if_woman>>Elle est ma... vieille amie depuis\nAstoltia.<else>>Il est mon... vieil ami depuis Astoltia.<endif>"
+        "<if_woman>「彼女は　私の……\n　アストルティアでの　古くからの友人です。<else>「彼は　私の……\n　アストルティアでの　古くからの友人です。<endif>": "<if_woman>Elle est ma... vieille amie depuis\nAstoltia.<else>Il est mon... vieil ami depuis Astoltia.<endif>"
     },
     "131856": {
         "「そして　<kyodai>さんの\n　<pc_rel2>にあたる方でもあります。": "Et c'est egalement la personne qui correspond\na votre <pc_rel2>, <kyodai>-san."
