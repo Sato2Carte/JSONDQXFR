@@ -180,7 +180,7 @@
         "「他の誰よりも　リーダーから　渡してあげるのが\n　いちばん　いいと思うんだ。ねっ　お願い。\n<select>\nリソルにフウキの証を渡す\n渡さない\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Je pense que c'est mieux que le leader le\nremette en personne plutot que quelqu'un\nd'autre. Allez, s'il te plait. <select><br>Remettre l'embleme SCC a Resol Ne pas le\nremettre <select_end> <case 1> <close> <case\n2> <close> <case_cancel> <close> <case_end>"
     },
     "139115": {
-        "<if_woman>「まったく。<pc>ちゃんが\n　そこまで言うなら……\n　あたしから　リソルくんに　渡すね。<else>「まったく。<pc>くんが\n　そこまで言うなら……\n　あたしから　リソルくんに　渡すね。<endif>": "<if_woman>>Vraiment. Si <pc>-chan va\njusqu'a dire ca... alors je vais le donner a\nResol-kun de ma part.<else>>Vraiment. Si <pc>-kun va jusqu'a dire\nca... alors je vais le donner a Resol-kun de\nma part. <endif>"
+        "<if_woman>「まったく。<pc>ちゃんが\n　そこまで言うなら……\n　あたしから　リソルくんに　渡すね。<else>「まったく。<pc>くんが\n　そこまで言うなら……\n　あたしから　リソルくんに　渡すね。<endif>": "<if_woman>Vraiment. Si <pc>-chan va\njusqu'a dire ca... alors je vais le donner a\nResol-kun de ma part.<else>Vraiment. Si <pc>-kun va jusqu'a dire\nca... alors je vais le donner a Resol-kun de\nma part. <endif>"
     },
     "139116": {
         "クラウンは　<pc>から\nリソルのフウキの証を　受け取った。": "Crown a recu l'embleme SCC de Resol de\n<pc>."
