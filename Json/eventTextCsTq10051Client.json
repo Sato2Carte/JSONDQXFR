@@ -24,9 +24,9 @@
         "「最近は　この研究院にも\n　顔を　出さなくなったんだけど\n　今日は　どうしたのかな……。": "Recemment, tu n'as plus montre ton visage a\nl'institut de recherche. Que se passe-t-il\naujourd'hui... ?"
     },
     "22144": {
-        "<if_woman>「ああっ！　ごめんね　また話が脱線しちゃった！\n　<pc>ちゃんが　試験をクリアしたこと\n　ティーザさんに報告しとくから　安心して！<else>「ああっ！　ごめんね　また話が脱線しちゃった！\n　<pc>くんが　試験をクリアしたこと\n　ティーザさんに報告しとくから　安心して！<endif>": "<if_woman>> Ah ! Desole, je me suis encore\negare dans la conversation ! Je vais informer\nTiza-san que <pc>-chan a reussi<br>l'examen, alors ne t'inquiete pas !<else>> Ah ! Desole, je me suis encore egare dans la\nconversation ! Je vais informer Tiza-san que\n<pc>-kun a reussi l'examen, alors ne<br>t'inquiete pas ! <endif>"
+        "<if_woman>「ああっ！　ごめんね　また話が脱線しちゃった！\n　<pc>ちゃんが　試験をクリアしたこと\n　ティーザさんに報告しとくから　安心して！<else>「ああっ！　ごめんね　また話が脱線しちゃった！\n　<pc>くんが　試験をクリアしたこと\n　ティーザさんに報告しとくから　安心して！<endif>": "<if_woman> Ah ! Desole, je me suis encore\negare dans la conversation ! Je vais informer\nTiza-san que <pc>-chan a reussi<br>l'examen, alors ne t'inquiete pas !<else> Ah ! Desole, je me suis encore egare dans la\nconversation ! Je vais informer Tiza-san que\n<pc>-kun a reussi l'examen, alors ne<br>t'inquiete pas ! <endif>"
     },
     "22145": {
-        "<if_woman>「ティーザさんの所に行けば\n　賢者に　転職できるようにしてくれるよ！\n　おめでとう　<pc>ちゃん！<else>「ティーザさんの所に行けば\n　賢者に　転職できるようにしてくれるよ！\n　おめでとう　<pc>くん！<endif>": "<if_woman>>Si tu vas voir Tiza-san, il te\npermettra de te reconvertir en sage !\nFelicitations, <pc>-chan !<else>>Si tu vas voir Tiza-san, il te permettra de\nte reconvertir en sage ! Felicitations,\n<pc>-kun !<endif>"
+        "<if_woman>「ティーザさんの所に行けば\n　賢者に　転職できるようにしてくれるよ！\n　おめでとう　<pc>ちゃん！<else>「ティーザさんの所に行けば\n　賢者に　転職できるようにしてくれるよ！\n　おめでとう　<pc>くん！<endif>": "<if_woman>Si tu vas voir Tiza-san, il te\npermettra de te reconvertir en sage !\nFelicitations, <pc>-chan !<else>Si tu vas voir Tiza-san, il te permettra de\nte reconvertir en sage ! Felicitations,\n<pc>-kun !<endif>"
     }
 }
