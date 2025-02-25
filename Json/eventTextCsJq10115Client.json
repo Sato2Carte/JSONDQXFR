@@ -1,12 +1,12 @@
 {
     "22270": {
-        "<if_woman>「ありがとう……　<pc>ちゃん……！\n　この試練を　乗りこえたら……\n　私も　大賢者に……なれる…よね……？<else>「ありがとう……　<pc>くん……！\n　この試練を　乗りこえたら……\n　私も　大賢者に……なれる…よね……？<endif>": "<if_woman>>Merci... <pc>-chan... ! Une\nfois cette epreuve surmontee... Je deviendrai\nmoi aussi une grande sage... n'est-ce pas...?<else>>Merci... <pc>-kun... ! Une fois cette\nepreuve surmontee... Je deviendrai moi aussi\nun grand sage... n'est-ce pas...?<endif>"
+        "<if_woman>「ありがとう……　<pc>ちゃん……！\n　この試練を　乗りこえたら……\n　私も　大賢者に……なれる…よね……？<else>「ありがとう……　<pc>くん……！\n　この試練を　乗りこえたら……\n　私も　大賢者に……なれる…よね……？<endif>": "<if_woman>Merci... <pc>-chan... ! Une\nfois cette epreuve surmontee... Je deviendrai\nmoi aussi une grande sage... n'est-ce pas...?<else>Merci... <pc>-kun... ! Une fois cette\nepreuve surmontee... Je deviendrai moi aussi\nun grand sage... n'est-ce pas...?<endif>"
     },
     "22271": {
         "「アーニア！": "Anya !"
     },
     "22272": {
-        "<if_woman>「シェリル……。私なら…大丈夫……。\n　それよりも…今　<pc>ちゃんが\n　一緒に　戦ってくれるって……。<else>「シェリル……。私なら…大丈夫……。\n　それよりも…今　<pc>くんが\n　一緒に　戦ってくれるって……。<endif>": "<if_woman>>Cheryl... Je vais bien... Mais en\nplus... <pc>-chan va se battre a nos\ncotes...<else>>Cheryl... Je vais bien... Mais en plus...\n<pc>-kun va se battre a nos cotes...<endif>"
+        "<if_woman>「シェリル……。私なら…大丈夫……。\n　それよりも…今　<pc>ちゃんが\n　一緒に　戦ってくれるって……。<else>「シェリル……。私なら…大丈夫……。\n　それよりも…今　<pc>くんが\n　一緒に　戦ってくれるって……。<endif>": "<if_woman>Cheryl... Je vais bien... Mais en\nplus... <pc>-chan va se battre a nos\ncotes...<else>Cheryl... Je vais bien... Mais en plus...\n<pc>-kun va se battre a nos cotes...<endif>"
     },
     "22273": {
         "「行こう　カルサドラ火山へ……。\n　呪いなんか　さっさと　おさらばして\n　もとの私たちに　戻るのよ……。": "Allons-y, au volcan de Calsadora...\nDepechons-nous de nous debarrasser de cette\nmalediction et redevenons nous-memes..."
@@ -201,13 +201,13 @@
         "「<cs_pchero>……。私は　幸せだ。\n　こんな私を　待っていてくれる人が\n　いるのだから……。": "<cs_pchero>... Je suis heureux. Parce qu'il y\na quelqu'un qui m'attend, meme moi, tel que je\nsuis..."
     },
     "22337": {
-        "<if_woman>「あっ！　<pc>ちゃん！<else>「あっ！　<pc>くん！<endif>": "<if_woman>>Ah ! <pc>-chan !<else>>Ah ! <pc>-kun ! <endif>"
+        "<if_woman>「あっ！　<pc>ちゃん！<else>「あっ！　<pc>くん！<endif>": "<if_woman>Ah ! <pc>-chan !<else>Ah ! <pc>-kun ! <endif>"
     },
     "22338": {
         "「シェリルから　聞いたよ！\n　呪いの主を　やっつけてくれたんだってね！\n　私　それ聞いたら　元気になっちゃった！": "J'ai entendu ca de Cheryl ! Tu as vaincu le\nSeigneur des Maledictions, n'est-ce pas ? Rien\nque d'entendre ca, ca m'a redonne de l'energie<br>!"
     },
     "22339": {
-        "<if_woman>「やっぱり　<pc>ちゃんは　スゴイよ！\n　ホントに　ホントに　ホンット～に！\n　あなたに出会えて　よかったわっ！<else>「やっぱり　<pc>くんは　スゴイよ！\n　ホントに　ホントに　ホンット～に！\n　あなたに出会えて　よかったわっ！<endif>": "<if_woman>><pc>-chan, tu es vraiment\nincroyable ! Vraiment, vraiment, vraiment ! Je\nsuis si heureuse de t'avoir rencontre !<else>><pc>-kun, tu es vraiment incroyable !\nVraiment, vraiment, vraiment ! Je suis si\nheureux de t'avoir rencontre !<endif>"
+        "<if_woman>「やっぱり　<pc>ちゃんは　スゴイよ！\n　ホントに　ホントに　ホンット～に！\n　あなたに出会えて　よかったわっ！<else>「やっぱり　<pc>くんは　スゴイよ！\n　ホントに　ホントに　ホンット～に！\n　あなたに出会えて　よかったわっ！<endif>": "<if_woman><pc>-chan, tu es vraiment\nincroyable ! Vraiment, vraiment, vraiment ! Je\nsuis si heureuse de t'avoir rencontre !<else><pc>-kun, tu es vraiment incroyable !\nVraiment, vraiment, vraiment ! Je suis si\nheureux de t'avoir rencontre !<endif>"
     },
     "22340": {
         "「<pc>。来ていたか……。": "<pc>. Tu es la..."
