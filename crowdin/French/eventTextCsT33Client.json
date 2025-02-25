@@ -909,16 +909,16 @@
         "「それから　こちらは　総主教さまからあなたへ。\n　闇の領界への道を　開いてくださったお礼です。\n　どうぞ　お受け取りください。": "Ensuite, ceci est de la part du Grand Lord\npour vous. C'est un remerciement pour avoir\nouvert le chemin vers le Dark Realm. Veuillez<br>l'accepter."
     },
     "122473": {
-        "<if_woman>「……あれだけ　おいらたちが止めたのに\n　やっぱり　姉ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<else>「……あれだけ　おいらたちが止めたのに\n　やっぱり　兄ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<endif>": "<if_woman>>...Meme si nous avons essaye de\nl'arreter, grande soeur a tout de meme traverse\nl'Abyss Gate pour venir ici.<else>>...Meme si nous avons essaye de l'arreter,\ngrand frere a tout de meme traverse l'Abyss\nGate pour venir ici. <endif>"
+        "<if_woman>「……あれだけ　おいらたちが止めたのに\n　やっぱり　姉ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<else>「……あれだけ　おいらたちが止めたのに\n　やっぱり　兄ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<endif>": "<if_woman>...Meme si nous avons essaye de\nl'arreter, grande soeur a tout de meme traverse\nl'Abyss Gate pour venir ici.<else>...Meme si nous avons essaye de l'arreter,\ngrand frere a tout de meme traverse l'Abyss\nGate pour venir ici. <endif>"
     },
     "122474": {
-        "<if_woman>「姉ちゃんは　こっちに\n　来ちゃいけなかったんだ！\n　だって　姉ちゃんは……<else>「兄ちゃんは　こっちに\n　来ちゃいけなかったんだ！\n　だって　兄ちゃんは……<endif>": "<if_woman>>Grande soeur, tu n'aurais pas du\nvenir ici ! Parce que, grande soeur, tu es...<else>>Grand frere, tu n'aurais pas du venir ici !\nParce que, grand frere, tu es... <endif>"
+        "<if_woman>「姉ちゃんは　こっちに\n　来ちゃいけなかったんだ！\n　だって　姉ちゃんは……<else>「兄ちゃんは　こっちに\n　来ちゃいけなかったんだ！\n　だって　兄ちゃんは……<endif>": "<if_woman>Grande soeur, tu n'aurais pas du\nvenir ici ! Parce que, grande soeur, tu es...<else>Grand frere, tu n'aurais pas du venir ici !\nParce que, grand frere, tu es... <endif>"
     },
     "122475": {
         "「この大事なときに　ジャマが……！\n　くわしく　説明してるヒマはないみたいだ。\n　ごめん。おいら　もう行くよ。": "Tu tombes mal en ce moment crucial...! Je n'ai\npas le temps de tout expliquer en detail.\nDesole. Je dois y aller."
     },
     "122476": {
-        "<if_woman>「ねえ　姉ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<else>「ねえ　兄ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<endif>": "<if_woman>>He, grande soeur. Si on agit\nmaintenant, on a peut-etre encore une chance.\nAlors, ne faisons pas souffrir davantage ce<br>monde...<else>>He, grand frere. Si on agit maintenant, on a\npeut-etre encore une chance. Alors, ne faisons\npas souffrir davantage ce monde... <endif>"
+        "<if_woman>「ねえ　姉ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<else>「ねえ　兄ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<endif>": "<if_woman>He, grande soeur. Si on agit\nmaintenant, on a peut-etre encore une chance.\nAlors, ne faisons pas souffrir davantage ce<br>monde...<else>He, grand frere. Si on agit maintenant, on a\npeut-etre encore une chance. Alors, ne faisons\npas souffrir davantage ce monde... <endif>"
     },
     "122477": {
         "「<pc>さん……？\n　よかった　追いついて！": "<pc>-san... ? Heureusement, je t'ai\nrattrape !"
@@ -939,7 +939,7 @@
         "「……あれだけ　あたしたちが止めたのに\n　やっぱり　あんたは\n　奈落の門を越えて　来ちゃったのね。": "Malgre toutes nos tentatives pour t'arreter,\ntu as quand meme franchi l'Abyss Gate et tu es\nvenu jusqu'ici."
     },
     "122483": {
-        "<if_woman>「……あれだけ　私たちが止めたのに\n　やっぱり　お姉ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<else>「……あれだけ　私たちが止めたのに\n　やっぱり　お兄ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<endif>": "<if_woman>>Meme si nous avons tant essaye de\nt'arreter, grande soeur, tu as quand meme\ntraverse l'Abyss Gate pour venir ici.<else>>Meme si nous avons tant essaye de t'arreter,\ngrand frere, tu as quand meme traverse l'Abyss\nGate pour venir ici. <endif>"
+        "<if_woman>「……あれだけ　私たちが止めたのに\n　やっぱり　お姉ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<else>「……あれだけ　私たちが止めたのに\n　やっぱり　お兄ちゃんは\n　奈落の門を越えて　来ちゃったんだね。<endif>": "<if_woman>Meme si nous avons tant essaye de\nt'arreter, grande soeur, tu as quand meme\ntraverse l'Abyss Gate pour venir ici.<else>Meme si nous avons tant essaye de t'arreter,\ngrand frere, tu as quand meme traverse l'Abyss\nGate pour venir ici. <endif>"
     },
     "122484": {
         "「お前は　こっちに\n　来ちゃいけなかったんだ！\n　だって　お前は……": "Tu n'aurais jamais du venir ici ! Parce que\ntoi, tu es..."
@@ -948,7 +948,7 @@
         "「あんたは　こっちに\n　来ちゃいけなかったのよ！\n　だって　あんたは……": "Toi, tu n'aurais jamais du venir ici ! Parce\nque tu es..."
     },
     "122486": {
-        "<if_woman>「お姉ちゃんは　こっちに\n　来ちゃいけなかったの！\n　だって　お姉ちゃんは……<else>「お兄ちゃんは　こっちに\n　来ちゃいけなかったの！\n　だって　お兄ちゃんは……<endif>": "<if_woman>>Grande soeur, tu n'aurais pas du\nvenir ici ! Car, grande soeur, tu es...<else>>Grand frere, tu n'aurais pas du venir ici !\nCar, grand frere, tu es... <endif>"
+        "<if_woman>「お姉ちゃんは　こっちに\n　来ちゃいけなかったの！\n　だって　お姉ちゃんは……<else>「お兄ちゃんは　こっちに\n　来ちゃいけなかったの！\n　だって　お兄ちゃんは……<endif>": "<if_woman>Grande soeur, tu n'aurais pas du\nvenir ici ! Car, grande soeur, tu es...<else>Grand frere, tu n'aurais pas du venir ici !\nCar, grand frere, tu es... <endif>"
     },
     "122487": {
         "「この大事なときに　ジャマが……！\n　くわしく　説明してるヒマはないみたいだ。\n　悪い。オレは　もう行く。": "Quelle interruption au pire moment... ! Je\nn'ai pas le temps de donner des explications\ndetaillees. Desole, je dois y aller."
@@ -966,7 +966,7 @@
         "「ねえ　<pc>。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………": "He, <pc>. Il est peut-etre encore temps.\nAlors, plus que ca, dans ce monde..."
     },
     "122492": {
-        "<if_woman>「ねえ　お姉ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<else>「ねえ　お兄ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<endif>": "<if_woman>>He, grande soeur. Il est peut-etre\nencore temps. Alors, dans ce monde, ne...<else>>He, grand frere. Il est peut-etre encore\ntemps. Alors, dans ce monde, ne... <endif>"
+        "<if_woman>「ねえ　お姉ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<else>「ねえ　お兄ちゃん。\n　今なら　まだ間に合うかもしれない。\n　だから　これ以上　この世界には…………<endif>": "<if_woman>He, grande soeur. Il est peut-etre\nencore temps. Alors, dans ce monde, ne...<else>He, grand frere. Il est peut-etre encore\ntemps. Alors, dans ce monde, ne... <endif>"
     },
     "122945": {
         "「あなたが　その後　どうしているか気になって\n　こちらから　連絡を取ってみたのです。": "Je me demandais comment vous alliez depuis,\nalors j'ai pris l'initiative de vous\ncontacter."
