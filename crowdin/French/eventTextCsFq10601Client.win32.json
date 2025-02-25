@@ -3,7 +3,7 @@
         "「おきゃくさんでは　ないのよ。\n　テティはね　ほんきできたの！": "Ce n'est pas un client. Tetti est venu pour de\nvrai !"
     },
     "75832": {
-        "<if_woman>「おねえちゃん　みててね。\n　テティ　あそこから\n　ロープなしで　とびおりるよ！<else>「おにいちゃん　みててね。\n　テティ　あそこから\n　ロープなしで　とびおりるよ！<endif>": "<if_woman>>Grande soeur, regarde-moi. Tetti va\nsauter de la sans corde !<else>>Grand frere, regarde-moi. Tetti va sauter de\nla sans corde !<endif>"
+        "<if_woman>「おねえちゃん　みててね。\n　テティ　あそこから\n　ロープなしで　とびおりるよ！<else>「おにいちゃん　みててね。\n　テティ　あそこから\n　ロープなしで　とびおりるよ！<endif>": "<if_woman>Grande soeur, regarde-moi. Tetti va\nsauter de la sans corde !<else>Grand frere, regarde-moi. Tetti va sauter de\nla sans corde !<endif>"
     },
     "75833": {
         "「ふぇ……こんなに　たかいの……？": "Fuh... C'est si cher que ca... ?"
@@ -42,10 +42,10 @@
         "「あいつが　コワ～イ魔物なのね……。": "Il est donc ce terrifiant monstre..."
     },
     "75845": {
-        "<if_woman>「おねえちゃん　みててね。\n　テティ　あいつを　ひとりでやっつけるよ！<else>「おにいちゃん　みててね。\n　テティ　あいつを　ひとりでやっつけるよ！<endif>": "<if_woman>>Grande soeur, regarde-moi. Tetti va\nle battre tout seul !<else>>Grand frere, regarde-moi. Tetti va le battre\ntout seul !<endif>"
+        "<if_woman>「おねえちゃん　みててね。\n　テティ　あいつを　ひとりでやっつけるよ！<else>「おにいちゃん　みててね。\n　テティ　あいつを　ひとりでやっつけるよ！<endif>": "<if_woman>Grande soeur, regarde-moi. Tetti va\nle battre tout seul !<else>Grand frere, regarde-moi. Tetti va le battre\ntout seul !<endif>"
     },
     "75846": {
-        "<if_woman>「おねえちゃん　おそいよ～。みててね。\n　テティ　今度こそ　あいつを　やっつけるよ！<else>「おにいちゃん　おそいよ～。みててね。\n　テティ　今度こそ　あいつを　やっつけるよ！<endif>": "<if_woman>>Grande soeur, tu es lente~. Regarde\nbien. Cette fois, Tetti, je vais le vaincre !<else>>Grand frere, tu es lent~. Regarde bien. Cette\nfois, Tetti, je vais le vaincre !<endif>"
+        "<if_woman>「おねえちゃん　おそいよ～。みててね。\n　テティ　今度こそ　あいつを　やっつけるよ！<else>「おにいちゃん　おそいよ～。みててね。\n　テティ　今度こそ　あいつを　やっつけるよ！<endif>": "<if_woman>Grande soeur, tu es lente~. Regarde\nbien. Cette fois, Tetti, je vais le vaincre !<else>Grand frere, tu es lent~. Regarde bien. Cette\nfois, Tetti, je vais le vaincre !<endif>"
     },
     "75847": {
         "「だいじょうぶ！　テティは　ぜったい\n　だいじょうぶだから　みてて！": "Je t'assure ! Tetti va s'en sortir, alors\nregarde bien !"
@@ -63,7 +63,7 @@
         "「ヴェルギャアアアァァァァア！！": "Vel, aaaaaaaaaah !!"
     },
     "75852": {
-        "<if_woman>「おねえちゃんが　たおしてくれたのね……？\n　そっか～　そういうことか～！\n　だから　テティは　しなないんだ！<else>「おにいちゃんが　たおしてくれたのね……？\n　そっか～　そういうことか～！\n　だから　テティは　しなないんだ！<endif>": "<if_woman>>C'est grande soeur qui l'a vaincu,\nhein...? Je vois~ c'est comme ca~ ! C'est pour\nca que Tetti ne meurt pas !<else>>C'est grand frere qui l'a vaincu, hein...? Je\nvois~ c'est comme ca~ ! C'est pour ca que\nTetti ne meurt pas !<endif>"
+        "<if_woman>「おねえちゃんが　たおしてくれたのね……？\n　そっか～　そういうことか～！\n　だから　テティは　しなないんだ！<else>「おにいちゃんが　たおしてくれたのね……？\n　そっか～　そういうことか～！\n　だから　テティは　しなないんだ！<endif>": "<if_woman>C'est grande soeur qui l'a vaincu,\nhein...? Je vois~ c'est comme ca~ ! C'est pour\nca que Tetti ne meurt pas !<else>C'est grand frere qui l'a vaincu, hein...? Je\nvois~ c'est comme ca~ ! C'est pour ca que\nTetti ne meurt pas !<endif>"
     },
     "75853": {
         "「あのね　あのね……\n　テティが転んだのは　ぐうぜんじゃないんだよ。": "Tu sais, tu sais... Ce n'est pas par hasard\nque Tetti est tombe."
@@ -87,7 +87,7 @@
         "「どうしても　やらなきゃいけない……\n　って思ったの！": "Je devais absolument le faire... c'est ce que\nje ressentais !"
     },
     "75860": {
-        "<if_woman>「……おねえちゃんのおかげで\n　シスター・サテラが　のこしてくれた予言が\n　ホントウだったって　みんなに伝えられるよ！<else>「……おにいちゃんのおかげで\n　シスター・サテラが　のこしてくれた予言が\n　ホントウだったって　みんなに伝えられるよ！<endif>": "<if_woman>>…Grace a toi, grande soeur, je peux\nannoncer a tout le monde que la prophetie\nlaissee par Sister Satella etait vraie !<else>>…Grace a toi, grand frere, je peux annoncer a\ntout le monde que la prophetie laissee par\nSister Satella etait vraie ! <endif>"
+        "<if_woman>「……おねえちゃんのおかげで\n　シスター・サテラが　のこしてくれた予言が\n　ホントウだったって　みんなに伝えられるよ！<else>「……おにいちゃんのおかげで\n　シスター・サテラが　のこしてくれた予言が\n　ホントウだったって　みんなに伝えられるよ！<endif>": "<if_woman>…Grace a toi, grande soeur, je peux\nannoncer a tout le monde que la prophetie\nlaissee par Sister Satella etait vraie !<else>…Grace a toi, grand frere, je peux annoncer a\ntout le monde que la prophetie laissee par\nSister Satella etait vraie ! <endif>"
     },
     "75861": {
         "「テティを　ここまで　連れてきてくれて\n　ありがとう……。\n　お礼に　テティのたからもの　あげるね！": "Merci d'avoir amene Tetti jusqu'ici... En\nremerciement, je vais te donner le tresor de\nTetti !"
