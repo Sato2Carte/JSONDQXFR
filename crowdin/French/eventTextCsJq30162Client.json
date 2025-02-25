@@ -168,7 +168,7 @@
         "「あら……お客さんかしら。何かお困り？\n　悩みがあるなら　占ってあげましょうか。": "Oh... Serait-ce un client ? Avez-vous un souci\n? Si vous avez des preoccupations, voulez-vous\nque je vous fasse une prediction ?"
     },
     "121826": {
-        "<if_woman>「母さん。彼女が　さっき話していた人です。\n　私たちを　手伝ってくれている\n　新人占い師の　<pc>ですよ。<else>「母さん。彼が　さっき話していた人です。\n　私たちを　手伝ってくれている\n　新人占い師の　<pc>ですよ。<endif>": "<if_woman>>Maman. C'est la personne dont Her\nparlait tout a l'heure. C'est <pc>, le\nnouvel apprenti devin qui nous aide.<else>>Maman. C'est la personne dont je parlais tout\na l'heure. C'est <pc>, le nouvel\napprenti devin qui nous aide. <endif>"
+        "<if_woman>「母さん。彼女が　さっき話していた人です。\n　私たちを　手伝ってくれている\n　新人占い師の　<pc>ですよ。<else>「母さん。彼が　さっき話していた人です。\n　私たちを　手伝ってくれている\n　新人占い師の　<pc>ですよ。<endif>": "<if_woman>Maman. C'est la personne dont Her\nparlait tout a l'heure. C'est <pc>, le\nnouvel apprenti devin qui nous aide.<else>Maman. C'est la personne dont je parlais tout\na l'heure. C'est <pc>, le nouvel\napprenti devin qui nous aide. <endif>"
     },
     "121827": {
         "「あらあら……まあまあ！　そうだったのね。\n　あなたが　ウワサの　デキる新人の子なのね～！": "Oh la la... Eh bien ! Je vois ! Tu es le\nfameux nouveau talent dont tout le monde\nparle, n'est-ce pas ?"
