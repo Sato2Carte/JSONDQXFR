@@ -288,7 +288,7 @@
         "「あなたのこと　全部　忘れないから！": "Je n'oublierai jamais tout ce qui te concerne\n!"
     },
     "27806": {
-        "<if_woman>「ありがとう……ルベカ…姉ちゃん。\n　ありがとう…<pc>姉ちゃん。<else>「ありがとう……ルベカ…姉ちゃん。\n　ありがとう…<pc>兄ちゃん。<endif>": "<if_woman>>Merci... Rebekah... grande soeur.\nMerci... <pc>, grand frere.<else>>Merci... Rebekah... grande soeur. Merci...\n<pc>, grand frere. <endif>"
+        "<if_woman>「ありがとう……ルベカ…姉ちゃん。\n　ありがとう…<pc>姉ちゃん。<else>「ありがとう……ルベカ…姉ちゃん。\n　ありがとう…<pc>兄ちゃん。<endif>": "<if_woman>Merci... Rebekah... grande soeur.\nMerci... <pc>, grand frere.<else>Merci... Rebekah... grande soeur. Merci...\n<pc>, grand frere. <endif>"
     },
     "27807": {
         "「……さようなら。": "...Adieu."
