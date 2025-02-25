@@ -57,7 +57,7 @@
         "「おうおう　だまって聞いてりゃ\n　さっきから　ずいぶんと　うちの相棒を\n　こき下ろしてくれるじゃねえか。": "Oh, oh, je vous entends parler depuis tout a\nl'heure. Vous n'arretez pas de rabaisser mon\npartenaire, n'est-ce pas ?"
     },
     "19225": {
-        "<if_woman>「たしかに　相棒は　ボンヤリしたとこもあるが\n　このオレ様が　みとめた女だ。\n　レンジャーの才能は　お前なんかより　上だぜ！<else>「たしかに　相棒は　ボンヤリしたとこもあるが\n　このオレ様が　みとめた男だ。\n　レンジャーの才能は　お前なんかより　上だぜ！<endif>": "<if_woman>>C'est vrai que ma partenaire a\nquelques defauts, mais c'est une femme que\nmoi, le grand moi, j'ai reconnue. Elle a plus<br>de talent de ranger que toi !<else>>C'est vrai que mon partenaire a quelques\ndefauts, mais c'est un homme que moi, le grand\nmoi, j'ai reconnu. Il a plus de talent de<br>ranger que toi ! <endif>"
+        "<if_woman>「たしかに　相棒は　ボンヤリしたとこもあるが\n　このオレ様が　みとめた女だ。\n　レンジャーの才能は　お前なんかより　上だぜ！<else>「たしかに　相棒は　ボンヤリしたとこもあるが\n　このオレ様が　みとめた男だ。\n　レンジャーの才能は　お前なんかより　上だぜ！<endif>": "<if_woman>C'est vrai que ma partenaire a\nquelques defauts, mais c'est une femme que\nmoi, le grand moi, j'ai reconnue. Elle a plus<br>de talent de ranger que toi !<else>C'est vrai que mon partenaire a quelques\ndefauts, mais c'est un homme que moi, le grand\nmoi, j'ai reconnu. Il a plus de talent de<br>ranger que toi ! <endif>"
     },
     "19226": {
         "「フン……こいつが　ウワサの精霊か。\n　いい機会だ。ぜひとも　その才能ってやつを\n　証明してもらおうじゃねーか。": "Hmm... Alors c'est l'esprit dont tout le monde\nparle. Quelle belle occasion. Je vais te\ndemander de prouver ce fameux talent."
