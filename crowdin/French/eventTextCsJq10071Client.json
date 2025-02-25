@@ -39,13 +39,13 @@
         "「コロシアムの裏名物　モンスター勝ち抜き戦！\n　今夜の挑戦者は　若きバトルマスター\n　<pc>選手です。": "La specialite secrete du Colisee : le tournoi\ndes monstres invincibles ! Ce soir, le\nchallenger est le jeune maitre Batoru, le<br>competiteur <pc> !"
     },
     "20522": {
-        "<if_woman>「はたして　彼女は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<else>「はたして　彼は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<endif>": "<if_woman>>Est-ce que Her pourra descendre\nl'anneau en toute securite ? L'heure du destin\napproche a grands pas.<else>>Est-ce qu'il pourra descendre l'anneau en\ntoute securite ? L'heure du destin approche a\ngrands pas. <endif>"
+        "<if_woman>「はたして　彼女は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<else>「はたして　彼は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<endif>": "<if_woman>Est-ce que Her pourra descendre\nl'anneau en toute securite ? L'heure du destin\napproche a grands pas.<else>Est-ce qu'il pourra descendre l'anneau en\ntoute securite ? L'heure du destin approche a\ngrands pas. <endif>"
     },
     "20523": {
         "「見事　イエティを倒した\n　<pc>選手。あと１勝。\n　あと１勝すれば　勝利の栄光は　君のものだ！": "Felicitations, <pc>, tu as vaincu le\nPowie Yowie. Encore une victoire. Une victoire\nde plus et la gloire de la victoire sera<br>tienne !"
     },
     "20524": {
-        "<if_woman>「しかし　立ちはだかるカベは　あまりに高い。\n　３回戦の相手は　よろいのきし。\n　この絶望的な相手に　彼女は　どう戦うのか！？<else>「しかし　立ちはだかるカベは　あまりに高い。\n　３回戦の相手は　よろいのきし。\n　この絶望的な相手に　彼は　どう戦うのか！？<endif>": "<if_woman>> Cependant, l'obstacle est immense.\nL'adversaire du troisieme tour est Knight\nErrant. Comment Her va-t-elle combattre cet<br>adversaire desesperant !?<else>> Cependant, l'obstacle est immense.\nL'adversaire du troisieme tour est Knight\nErrant. Comment va-t-il combattre cet<br>adversaire desesperant !? <endif>"
+        "<if_woman>「しかし　立ちはだかるカベは　あまりに高い。\n　３回戦の相手は　よろいのきし。\n　この絶望的な相手に　彼女は　どう戦うのか！？<else>「しかし　立ちはだかるカベは　あまりに高い。\n　３回戦の相手は　よろいのきし。\n　この絶望的な相手に　彼は　どう戦うのか！？<endif>": "<if_woman> Cependant, l'obstacle est immense.\nL'adversaire du troisieme tour est Knight\nErrant. Comment Her va-t-elle combattre cet<br>adversaire desesperant !?<else> Cependant, l'obstacle est immense.\nL'adversaire du troisieme tour est Knight\nErrant. Comment va-t-il combattre cet<br>adversaire desesperant !? <endif>"
     },
     "20525": {
         "「それでは　バトル開始ですっ！！": "Alors, que le combat commence !!"
@@ -132,7 +132,7 @@
         "「見事　あばれこまいぬを倒した\n　<pc>選手。\n　しかし　その苦難は　まだまだ続きます。": "<pc> a brillamment vaincu le Foo Dog.\nCependant, ses epreuves ne sont pas pretes de\ns'arreter."
     },
     "60358": {
-        "<if_woman>「２回戦の相手は　イエティ。\n　この　恐るべき怪物を相手に\n　はたして　彼女の技は　通じるのかっ！？<else>「２回戦の相手は　イエティ。\n　この　恐るべき怪物を相手に\n　はたして　彼の技は　通じるのかっ！？<endif>": "<if_woman>>Au deuxieme tour, l'adversaire est\nPowie Yowie. Face a ce redoutable monstre, les\ntechniques de Her seront-elles efficaces ?<else>>Au deuxieme tour, l'adversaire est Powie\nYowie. Face a ce redoutable monstre, ses\ntechniques seront-elles efficaces ?<endif>"
+        "<if_woman>「２回戦の相手は　イエティ。\n　この　恐るべき怪物を相手に\n　はたして　彼女の技は　通じるのかっ！？<else>「２回戦の相手は　イエティ。\n　この　恐るべき怪物を相手に\n　はたして　彼の技は　通じるのかっ！？<endif>": "<if_woman>Au deuxieme tour, l'adversaire est\nPowie Yowie. Face a ce redoutable monstre, les\ntechniques de Her seront-elles efficaces ?<else>Au deuxieme tour, l'adversaire est Powie\nYowie. Face a ce redoutable monstre, ses\ntechniques seront-elles efficaces ?<endif>"
     },
     "60359": {
         "「それでは　バトル開始ですっ！！": "Alors, que le combat commence !!"
