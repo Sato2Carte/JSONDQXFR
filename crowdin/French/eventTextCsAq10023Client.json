@@ -108,10 +108,10 @@
         "「う……　うん！！": "Mm... Oui !!"
     },
     "17443": {
-        "<if_woman>「おねえちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<else>「おにいちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<endif>": "<if_woman>>Grande soeur... Je... je te donne\ncette poupee. J'ai trouve une vraie amie...\nalors je pense que je n'en ai plus besoin...<else>>Grand frere... Je... je te donne cette\npoupee. J'ai trouve un vrai ami... alors je\npense que je n'en ai plus besoin... <endif>"
+        "<if_woman>「おねえちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<else>「おにいちゃん……。こ…この　お人形　あげる。\n　ほんとの　お友達……　できたから\n　あたし……もう　いらないかなって……。<endif>": "<if_woman>Grande soeur... Je... je te donne\ncette poupee. J'ai trouve une vraie amie...\nalors je pense que je n'en ai plus besoin...<else>Grand frere... Je... je te donne cette\npoupee. J'ai trouve un vrai ami... alors je\npense que je n'en ai plus besoin... <endif>"
     },
     "17444": {
-        "<if_woman>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　ねーちゃんに　あげるよ。<else>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　にーちゃんに　あげるよ。<endif>": "<if_woman>>Alors, comme je me suis bien\nentendue avec Pupuri, je n'ai plus besoin de\ncette poupee ! Je vais la donner a la grande<br>soeur voyageuse.<else>>Alors, comme je me suis bien entendu avec\nPupuri, je n'ai plus besoin de cette poupee !\nJe vais la donner au grand frere voyageur.<br><endif>"
+        "<if_woman>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　ねーちゃんに　あげるよ。<else>「じゃあ　あたしも　ププリと\n　なかよくできたから　このお人形　いらなーい！\n　旅の　にーちゃんに　あげるよ。<endif>": "<if_woman>Alors, comme je me suis bien\nentendue avec Pupuri, je n'ai plus besoin de\ncette poupee ! Je vais la donner a la grande<br>soeur voyageuse.<else>Alors, comme je me suis bien entendu avec\nPupuri, je n'ai plus besoin de cette poupee !\nJe vais la donner au grand frere voyageur.<br><endif>"
     },
     "17445": {
         "<pc>は\n愛の賢人フレイヤ（だいじなもの）と\n光の賢人バルドル（だいじなもの）を手に入れた！<me 60>": "<pc> a obtenu l'objet cle : Sage de\nl'Amour Freya et l'objet cle : Sage de la\nLumiere Baldr ! <me 60>"
