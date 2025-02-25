@@ -141,7 +141,7 @@
         "「ありがとう　<pc>！\n　キミなら　そう言ってくれると　信じていた！": "Merci, <pc> ! Je savais que tu dirais ca\n!"
     },
     "17342": {
-        "<if_woman>「皆　しかと見よ！\n　彼女こそが　我らの道標となる\n　巨人族の戦士　<pc>である！！<else>「皆　しかと見よ！\n　彼こそが　我らの道標となる\n　巨人族の戦士　<pc>である！！<endif>": "<if_woman>>Regardez tous attentivement ! C'est\nelle, <pc>, la guerriere du peuple des\ngeants, qui sera notre guide !<else>>Regardez tous attentivement ! C'est lui,\n<pc>, le guerrier du peuple des geants,\nqui sera notre guide ! <endif>"
+        "<if_woman>「皆　しかと見よ！\n　彼女こそが　我らの道標となる\n　巨人族の戦士　<pc>である！！<else>「皆　しかと見よ！\n　彼こそが　我らの道標となる\n　巨人族の戦士　<pc>である！！<endif>": "<if_woman>Regardez tous attentivement ! C'est\nelle, <pc>, la guerriere du peuple des\ngeants, qui sera notre guide !<else>Regardez tous attentivement ! C'est lui,\n<pc>, le guerrier du peuple des geants,\nqui sera notre guide ! <endif>"
     },
     "17343": {
         "「心強き　盟友を得た今\n　我らの勝利は　約束されたも同然だ！": "Maintenant que nous avons acquis de vaillants\nallies, notre victoire est pratiquement\nassuree !"
