@@ -105,7 +105,7 @@
         "「おらよっ！　母さんのオルゴールに入ってた\n　これ　返してやらぁ。": "Tiens ! C'est ce qui etait dans la boite a\nmusique de maman. Je vais te le rendre."
     },
     "13618": {
-        "<if_woman>「自分の正体が　バレないよう\n　そこの　ねえちゃん　使うなんて\n　ダサダサなんだよ　アンタは……。<else>「自分の正体が　バレないよう\n　そこの　あんちゃん　使うなんて\n　ダサダサなんだよ　アンタは……。<endif>": "<if_woman>>Utiliser cette fille pour ne pas\nreveler ta vraie identite, c'est vraiment\npathetique... Toi...<else>>Utiliser ce garcon pour ne pas reveler ta\nvraie identite, c'est vraiment pathetique...\nToi... <endif>"
+        "<if_woman>「自分の正体が　バレないよう\n　そこの　ねえちゃん　使うなんて\n　ダサダサなんだよ　アンタは……。<else>「自分の正体が　バレないよう\n　そこの　あんちゃん　使うなんて\n　ダサダサなんだよ　アンタは……。<endif>": "<if_woman>Utiliser cette fille pour ne pas\nreveler ta vraie identite, c'est vraiment\npathetique... Toi...<else>Utiliser ce garcon pour ne pas reveler ta\nvraie identite, c'est vraiment pathetique...\nToi... <endif>"
     },
     "13619": {
         "「なんとか言ったらどうだ！\n　天下の盗賊王……\n　マスク・ド・ムーチョさんよおっ！！": "Tu vas dire quelque chose, oui ?! O grand roi\ndes voleurs... Masque de Mucho-san !!"
