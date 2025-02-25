@@ -51,7 +51,7 @@
         "「やめ……て…………。": "Arrete... s'il te plait..."
     },
     "57865": {
-        "<if_woman>「……あらん<heart>　ザンクローネの\n　お友達の　お嬢さんね。<else>「……あらん<heart>　ザンクローネの\n　お友達の　坊やね。<endif>": "<if_woman>>Oh<heart> la jeune demoiselle amie\nde Zankrone, n'est-ce pas ?<else>>Oh<heart> le jeune garcon ami de Zankrone,\nn'est-ce pas ? <endif>"
+        "<if_woman>「……あらん<heart>　ザンクローネの\n　お友達の　お嬢さんね。<else>「……あらん<heart>　ザンクローネの\n　お友達の　坊やね。<endif>": "<if_woman>Oh<heart> la jeune demoiselle amie\nde Zankrone, n'est-ce pas ?<else>Oh<heart> le jeune garcon ami de Zankrone,\nn'est-ce pas ? <endif>"
     },
     "57866": {
         "「私　いたずらウサギちゃんから　聞いてたの。\n　ザンクローネが　気にかけてる\n　カワイイ村娘がいるってね。": "J'ai entendu dire par la petite lapine\nespiegle qu'il y a une adorable villageoise\nqui attire l'attention de Zankrone."
