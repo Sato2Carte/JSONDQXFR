@@ -177,6 +177,6 @@
         "「おまけに　怖い声が　ボクに　ささやくんだ。\n　誰も　助けてくれないよ……って。": "En plus, une voix effrayante me murmure :\nPersonne ne viendra t'aider..."
     },
     "32318": {
-        "<if_woman>「でも　そんなこと　なかったよ。\n　<pc>ねえちゃんが　来てくれたもん。\n　助けてくれて　ほんとに　ありがとう。<else>「でも　そんなこと　なかったよ。\n　<pc>にいちゃんが　来てくれたもん。\n　助けてくれて　ほんとに　ありがとう。<endif>": "<if_woman>>Mais ce n'etait pas le cas.\n<pc>-neesan est venue. Merci beaucoup de\nm'avoir aide.<else>>Mais ce n'etait pas le cas. <pc>-niisan\nest venu. Merci beaucoup de m'avoir aide.<endif>"
+        "<if_woman>「でも　そんなこと　なかったよ。\n　<pc>ねえちゃんが　来てくれたもん。\n　助けてくれて　ほんとに　ありがとう。<else>「でも　そんなこと　なかったよ。\n　<pc>にいちゃんが　来てくれたもん。\n　助けてくれて　ほんとに　ありがとう。<endif>": "<if_woman>Mais ce n'etait pas le cas.\n<pc>-neesan est venue. Merci beaucoup de\nm'avoir aide.<else>Mais ce n'etait pas le cas. <pc>-niisan\nest venu. Merci beaucoup de m'avoir aide.<endif>"
     }
 }
