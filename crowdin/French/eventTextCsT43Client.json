@@ -435,7 +435,7 @@
         "「なんて　広いんだ……。\n　大きな天井から　光があふれてる……。": "C'est tellement grand... Et le plafond immense est inondé de lumière..."
     },
     "124702": {
-        "「水面みたいに　なめらかな床……\n　どうしたら　こんなに　まっすぐに作れるんだ？\n　ボクたちが暮らす村の上に　こんな場所が……。": "Un sol aussi lisse que la surface de l'eau...\nQui a bien pu construire quelque chose\nd'aussi parfait ? Penser qu'un endroit comme<br>celui-ci existe juste au-dessus du village..."
+        "「水面みたいに　なめらかな床……\n　どうしたら　こんなに　まっすぐに作れるんだ？\n　ボクたちが暮らす村の上に　こんな場所が……。": "Un sol aussi lisse que la surface de l'eau...\nQui a bien pu construire quelque chose\nd'aussi parfait ? Penser qu'un endroit comme\n<br>\ncelui-ci existe juste au-dessus du village..."
     },
     "124703": {
         "「カーラモーラ村の技術では　こんな建物は\n　１００年たったって　作れっこない。\n　この楽園は　いつ　誰が建造したものなんだ！？": "Avec la technologie de Carlamora, il nous\nfaudrait au moins 100 ans pour construire ca.\nQui a construit cet endroit, et quand ?!"
@@ -450,7 +450,7 @@
         "「ああ　気にしないで。ひとりごとを言いながら\n　考えるほうが　思考が　まとまるんだ。\n　<cs_pchero>に　質問してるわけじゃないよ。": "Ne fais pas attention a moi. Penser a haute\nvoix m'aide a mieux reflechir. Je ne te posais\npas de question, <cs_pchero>."
     },
     "124707": {
-        "「それにしても　わからないことだらけだな。\n　誰かいれば　話を聞けるんだけど……\n　この辺りには　人の気配がしないね。": "Cependant, il reste tellement de questions\na elucider. Si seulement il y avait quelqu'un\na qui parler...<br>Malheureusement je ne vois personne dans\nles parages."
+        "「それにしても　わからないことだらけだな。\n　誰かいれば　話を聞けるんだけど……\n　この辺りには　人の気配がしないね。": "Cependant, il reste tellement de questions\na elucider. Si seulement il y avait quelqu'un\na qui parler...\n<br>\nMalheureusement je ne vois personne dans\nles parages."
     },
     "124708": {
         "「まずは　月を探そう。\n　この楽園の　どこかに　落ちたはず……": "D'abord, cherchons Mn. Il doit etre tombe\nquelque part dans cette Utopia..."
