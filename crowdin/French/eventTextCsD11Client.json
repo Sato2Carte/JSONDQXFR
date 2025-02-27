@@ -423,7 +423,7 @@
     "「いいえ　とか　言うなっ！！": "N'OSE MEME PAS REFUSER!!"
   },
   "3530": {
-    "「ブロッゲンさまが　気をつかって\n　ルーラストーンをくれるって言ってるんだぞ？\n　手伝うに　決まってるよねっ！？<yesno><close>": "Master Broggen has been so thoughtful, and\neven offered you a Zoomstone! So OBVIOUSLY\nyou'll assist him, RIGHT?!<yesno><close>"
+    "「ブロッゲンさまが　気をつかって\n　ルーラストーンをくれるって言ってるんだぞ？\n　手伝うに　決まってるよねっ！？<yesno><close>": "Maitre Broggen fait un effort pour t’offrir\nune Telepierre, tu sais?\nEvidemment que tu vas aider, pas vrai!?<yesno><close>"
   },
   "3531": {
     "「ブロッゲンさまが　先に　ルーラストーンを\n　くださるそうでアール！": "Bien, avant toute chose, Maitre Broggen te\ndonnera cette Telepierre!"
@@ -432,7 +432,7 @@
     "「ぐう　ぐう……。": "Snrrrk, snrrrk..."
   },
   "3533": {
-    "<pc>は\nルーラストーンを　手に入れた！<me 60>": "<pc> received a Zoomstone!<me 60>"
+    "<pc>は\nルーラストーンを　手に入れた！<me 60>": "<pc> a obtenu une Telepierre !<me 60>"
   },
   "3534": {
     "「報酬だけもらって　逃げちゃダメだよ！\n　準備を整えたら　まっすぐ\n　ホッツィ親方の家まで　来てよねっ！": "Ne prends pas juste la recompense et au\nrevoir, ok?!\nUne fois que tu es prepare, rends toi a la\n<br>\nmaison d'Hottsi!"
@@ -462,7 +462,7 @@
     "「ブロッゲンさまは　おっしゃっておらレール！\n　崩落の前から　アクロニア鉱山の様子は\n　すこし　おかしかった。": "Tels sont les mots de Maitre Broggen! 'Meme\navant l'eboulement, il y avait quelque chose\nde tres etrange dans la Mine d'Acronia!'"
   },
   "3543": {
-    "「山神イプチャルの　おわす山に\n　魔瘴が発生するなど　よほどの事態。\n　早急に　調査せねば……　とのことでアール。": "'Si le miasme apparait meme sous la\nprotection d'Yppchal, la situation est\ndesastreuse. nous devons enqueter le plus\n<br>\nrapidement possible.'"
+    "「山神イプチャルの　おわす山に\n　魔瘴が発生するなど　よほどの事態。\n　早急に　調査せねば……　とのことでアール。": "\"Que du miasme demoniaque apparaisse sur la\nmontagne du dieu Yppchal est une situation des\nplus graves.\n<br>\nIl faut enqueter au plus vite...\"\nVoila ce qui a ete decide."
   },
   "3544": {
     "「……ううむ。": "...\nMm-hmm."
@@ -762,16 +762,16 @@
     "「……<pc>。\n　お前と　しゃべるのに　ブロッゲンさまは\n　ちっとばかり　ご無理をなさったようだ。": "...<pc>.\nOn dirait que Mr.\nBroggen a repousse ses limites alors qu'il te\n<br>\nparlait."
   },
   "3648": {
-    "「……おお　そうだ。\n　今のうちに　こいつを渡しておこう。": "Ohh, that's right.\nI need to give you this while you're here."
+    "「……おお　そうだ。\n　今のうちに　こいつを渡しておこう。": "...Oh, c'est vrai.\nAutant te donner ca maintenant."
   },
   "3649": {
-    "<pc>は　ホッツィ親方から\n大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> received\nan Intercontinental Rail Pass (Key Item) from\nBoss Hottsi!<me 60>"
+    "<pc>は　ホッツィ親方から\n大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Pass Ferroviaire\nIntercontinental (Objet cle) de Hottsi!<me 60>"
   },
   "3650": {
-    "「大陸間鉄道パスは　持ってるだけで\n　好きなだけ　鉄道に乗れちまう\n　そりゃあ　貴重なモンなんだぜ。": "An Intercontinental Rail Pass is a valuable\nitem that lets you ride the train as often as\nyou want just by having it."
+    "「大陸間鉄道パスは　持ってるだけで\n　好きなだけ　鉄道に乗れちまう\n　そりゃあ　貴重なモンなんだぜ。": "Ce pass permet de prendre le train autant de\nfois qu'on le veut rien qu'en le possedant.\nC'est un objet vraiment precieux."
   },
   "3651": {
-    "「……ホントは　いつか\n　その身体の持ち主のほうの　<pc>に\n　やるつもりだったんだけどな……。": "...I was planning to give it to the\n<pc> who that body originally\nbelonged to..."
+    "「……ホントは　いつか\n　その身体の持ち主のほうの　<pc>に\n　やるつもりだったんだけどな……。": "...A vrai dire, j’avais prevu de le donner un\njour au veritable <pc>, celui a qui\nappartient ce corps..."
   },
   "3652": {
     "「まだ　信じられねえけどよ……\n　ブロッゲンさまの話じゃ　お前さんは\n　ドワーフの　<pc>とは別人なんだろ？": "J'ai toujours du mal a y croire...\nMais selon Mr.\nBroggen, tu n'es pas la meme personne que le\n<br>\nnain <pc>, n'est ce pas?"
@@ -792,7 +792,7 @@
     "「うわっ！\n　ブロッゲンさまの杖さま！？": "Qu'est ce qu'il y'a,Baton de Mr.\nBroggen?\nQuelque chose ne va pas avec <pc>?"
   },
   "3658": {
-    "「ブロッゲンさまは　おっしゃっておらレール！\n　<pc>のように　姿を変えて\n　生き返った者には　果たすべき　使命があると。": "These are master Broggen's words! Those who\ncome back to life in a new form, like\n<pc>, have a mission to fulfill."
+    "「ブロッゲンさまは　おっしゃっておらレール！\n　<pc>のように　姿を変えて\n　生き返った者には　果たすべき　使命があると。": "Maitre Broggen l’a affirme avec certitude !\nCeux qui renaissent sous une autre apparence,\ncomme <pc>, ont une mission a accomplir."
   },
   "3659": {
     "「ぐう　ぐう……。": "Snrrrk, snrrrk..."
@@ -885,12 +885,12 @@
     "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "La Telepierre est une pierre magique qui\npermet de voyager dans n'importe quel lieu\nenregistre auparavant.\n<br>\nEt en plus c'est en usage illimite."
   },
   "39088": {
-    "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "This Zoomstone doesn't have a location stored\nin it yet. You can record a location for it in\nthe church."
+    "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Cette Telepierre n’a encore aucun emplacement\nenregistre.\n<br>\nLes lieux de teleportation peuvent etre\nmemorises dans une eglise."
   },
   "50740": {
-    "「ここから先の旅は　ひとりには　つらいもの。\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させてくれ。": "The journey ahead will be difficult alone.\nI've arranged for three support party members\nto join you on your journey."
+    "「ここから先の旅は　ひとりには　つらいもの。\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させてくれ。": "Le voyage qui t’attend sera difficile en\nsolitaire.\n<br>\nJ’ai rassemble trois compagnons de soutien,\nalors laisse-les t’accompagner."
   },
   "50742": {
-    "「岳都ガタラまで着けば　酒場で\n　新しいサポート仲間を　紹介してもらえるから\n　自由に選んで　連れていくことができるぞ。": "Once you reach the mountain city of Gatara,\nyou'll be introduced to new support party\nmembers at the tavern, and you can pick and\n<br>\nchoose who to take along with you."
+    "「岳都ガタラまで着けば　酒場で\n　新しいサポート仲間を　紹介してもらえるから\n　自由に選んで　連れていくことができるぞ。": "Une fois arrive a Gatara, tu pourras recruter\nde nouveaux compagnons de soutien a la taverne\net choisir librement qui t’accompagnera."
   }
 }
