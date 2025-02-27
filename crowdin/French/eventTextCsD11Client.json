@@ -1,30 +1,30 @@
 {
   "3383": {
-    "「むっ！\n　今のは　まさか　アクロニア鉱山か！？": "Whoa!\nEtait-ce la Mine d'Acronia?!"
+    "「むっ！\n　今のは　まさか　アクロニア鉱山か！？": "Whoa!\nCa venait de la mine d'Acronia!?"
   },
   "3384": {
     "「チャルコ！　何があった！？": "Chalko!\nQu'est ce qu'il se passe?!"
   },
   "3385": {
-    "「ホ　ホッツィ親方！　大変ですっ！！": "M-Mr.\nHottsi!\nC'est un desastre!!"
+    "「ホ　ホッツィ親方！　大変ですっ！！": "M-Mr. Hottsi!\nC'est un desastre!!"
   },
   "3386": {
-    "「アクロニア鉱山で　崩落が起こって\n　<pc>が……\n　<pc>が　巻き込まれましたっ！！": "Il y'a eu un eboulement dans la Mine\nd'Acronia, et <pc>... <pc> est toujours\ndedans!!"
+    "「アクロニア鉱山で　崩落が起こって\n　<pc>が……\n　<pc>が　巻き込まれましたっ！！": "Un eboulement s'est produit dans la mine\nd'Acronia et <pc>...\n<pc> a ete <if_woman>prise<else>pris<endif> dedans !!"
   },
   "3387": {
     "「な　なんだってーっ！？": "Qu-qu'est ce que tu as dis?!"
   },
   "3388": {
-    "「オラ　見たんだ……。\n　変な紫の霧が　岩壁から　ふきだしてよォ。": "J'ai vu ce...,brouillard violet etrange venir\ndepuis le mur de pierre."
+    "「オラ　見たんだ……。\n　変な紫の霧が　岩壁から　ふきだしてよォ。": "J'ai vu cette... etrange brume violette\ns'echapper de la paroi rocheuse."
   },
   "3389": {
-    "「そしたら　でかい岩が　はがれるように\n　落ちてきて　<pc>の上に……。": "Et un enorme rocher a casse et atterit sur\n<pc>..."
+    "「そしたら　でかい岩が　はがれるように\n　落ちてきて　<pc>の上に……。": "Puis un enorme rocher s'est detache et est\ntombe sur <pc>..."
   },
   "3390": {
     "「<pc>　返事してくれよォ！": "<pc>, reponds moi!"
   },
   "3391": {
-    "「今　上の町へ　シスターを呼びに\n　行かせていますが……。": "J'ai deja invoque la pretresse dans la Ville\nSuperieur..."
+    "「今　上の町へ　シスターを呼びに\n　行かせていますが……。": "J’ai envoye quelqu’un chercher une pretresse\ndans la partie haute de la ville..."
   },
   "3392": {
     "「………………。": "...................."
