@@ -156,7 +156,7 @@
         "<if_woman>「いいところに来たね！\n　これ……　姉ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<else>「いいところに来たね！\n　これ……　兄ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<endif>>": "Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !"
     },
     "14778": {
-        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> a obtenu le Chapeau Heureux !<me 60> "
+        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> obtient le Chapeau de Felicite !<me 60>  "
     },
     "14779": {
         "「あれ？　かばんが　いっぱいだね。\n　しょうがないから　おいらが　持っておくよ。": "Tiens ? Ton sac est plein. Bon, tant pis, je\nvais le garder pour toi."
