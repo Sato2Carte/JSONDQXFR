@@ -150,10 +150,10 @@
         "「やったあっ！\n　なんか　すっごいの　できた！": "Super, j'ai reussi !"
     },
     "14776": {
-        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>>": "<if_woman> Tiens, grande soeur ?<else>Tiens, grand frere ? <endif>"
+        "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>>": "<if_woman>Hein ? grande soeur ?<else>Hein ? grand frere ? <endif>"
     },
     "14777": {
-        "<if_woman>「いいところに来たね！\n　これ……　姉ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<else>「いいところに来たね！\n　これ……　兄ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<endif>>": "Tu arrives au bon moment ! Voici un\ncadeau pour toi ! Je suis sur nque ca t'ira \nmerveille !"
+        "<if_woman>「いいところに来たね！\n　これ……　姉ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<else>「いいところに来たね！\n　これ……　兄ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<endif>>": "Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !"
     },
     "14778": {
         "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> a obtenu le Chapeau Heureux !<me 60> "
@@ -768,19 +768,19 @@
         "「……<pc>？": "...<pc>?"
     },
     "15077": {
-        "「あら　<pc>？": "Tiens, <pc> ?"
+        "「あら　<pc>？": "Hein ? <pc> ?"
     },
     "15078": {
         "<if_woman>「あれっ　お姉ちゃん？<else>「あれっ　お兄ちゃん？<endif>>": "<if_woman>Hein ? Grande soeur ?<else>Hein ? Grand frere ? <endif>"
     },
     "15079": {
-        "「ちょうど　いいところに来たな！\n　ほらよっ！　お前に　プレゼントだ！\n　絶対　似合うと思うぜ！": "Tu arrives au bon moment ! Tiens, c'est pour\ntoi, un cadeau ! Je suis sur que ca t'ira a\nmerveille !"
+        "「ちょうど　いいところに来たな！\n　ほらよっ！　お前に　プレゼントだ！\n　絶対　似合うと思うぜ！": "Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !"
     },
     "15080": {
-        "「いいところに来たわね！\n　これ……　<pc>に　あげるわ。\n　きっと　似合うと思うわよ！": "Tu arrives au bon moment ! Tiens... Je vais te\ndonner ca, <pc>. Je suis sure que ca\nt'ira parfaitement !"
+        "「いいところに来たわね！\n　これ……　<pc>に　あげるわ。\n　きっと　似合うと思うわよ！": "Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !"
     },
     "15081": {
-        "<if_woman>「いいところに来たね～！\n　これ……　お姉ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<else>「いいところに来たね～！\n　これ……　お兄ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<endif>>": "<if_woman>Tu arrives au bon moment~ ! Ceci...\nc'est un cadeau pour grande soeur ! Je suis\nsure que ca lui ira a merveille !<else>Tu arrives au bon moment~ ! Ceci... c'est un\ncadeau pour grand frere ! Je suis sur que ca\nlui ira a merveille !<endif>"
+        "<if_woman>「いいところに来たね～！\n　これ……　お姉ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<else>「いいところに来たね～！\n　これ……　お兄ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<endif>>": "<if_woman>Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !<else>Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !<endif>"
     },
     "15082": {
         "「えーっ　かばんが　いっぱいなのかよ。\n　しょうがねえなあ。オレが　持っといてやるか。": "Quoi ? Ton sac est deja plein ? Bon, d'accord.\nJe vais le garder pour toi."
