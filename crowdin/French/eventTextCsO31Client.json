@@ -27,7 +27,7 @@
         "「よく来てくれた　アロルド！\n　急な呼びだしにも　かかわらず\n　こうして　来てくれたこと　感謝するぞ。": "Bienvenu, Arold!\nMerci d'etre venu aussi vite."
     },
     "1183": {
-        "「すでに　聞き及んでいるかもしれぬが　今\n　我が国は　やっかいな問題を　抱えているのだ。": "Comme vous le savez probablement deja,\nactuellement notre pays a un problement\nplutot genant."
+        "「すでに　聞き及んでいるかもしれぬが　今\n　我が国は　やっかいな問題を　抱えているのだ。": "Comme vous le savez probablement deja,\nactuellement notre pays a un probleme\nplutot genant."
     },
     "1184": {
         "「はい　グロスナー王。\n　ウワサは　道中　耳にいたしました。\n　なんでも　強い者たちが　いなくなるとか？": "Oui, Roi Grossner.\nJ'ai entendu les rumeurs en arrivant.\nJ'ai cru comprendre que vos meilleurs\n<br>\ncombattants disparaissaient?"
@@ -606,7 +606,7 @@
         "「<pc>さん　おひさしぶりです。\n　ランガーオ村では　お世話になりました。": "<pc>, ca fait longtemps.\nMerci d'avoir pris soin du Village Rangao."
     },
     "11616": {
-        "「なあ　<pc>。\n　玉座の間にいたなら　強い者たちが\n　行方不明になるという話を　聞いていたな？": "Dis moi, <pc>, si tu es alle dans la salle du\ntrone tu as donc entendu l'histoire de la\ndisparition de nos meilleurs elements, n'est\n<br>\nce pas?"
+        "「なあ　<pc>。\n　玉座の間にいたなら　強い者たちが\n　行方不明になるという話を　聞いていたな？": "Dis moi, <pc>, si tu es alle dans la\nsalle du trone tu as donc entendu l'histoire\nde la disparition de nos meilleurs elements?"
     },
     "11617": {
         "「同じオーガとして　放っておくわけにいかない。\n　<pc>にも　チカラを貸してほしい。": "En tant qu'Ogres, nous ne pouvons pas laisser\nles choses se derouler ainsi <pc>.\nJ'aimerais que tu nous donnes un coup de main."
@@ -615,7 +615,7 @@
         "「まだ　この国に来たばかりなら\n　城下町などを　ゆっくり見てからで　構わない。": "Si tu es nouveau dans ce pays, et que tu veux\npasser du temps a visiter notre chateau, pas\nde probleme."
     },
     "11619": {
-        "「オレたちは　これから\n　北のザマ烽火台を拠点に　捜索する。\n　<pc>も　後から来てくれ。": "Nous allons maintenant partir a la recherche\ndepuis la tour de guet de Zama au nord.\n<pc>, rejoins-nous plus tard."
+        "「オレたちは　これから\n　北のザマ烽火台を拠点に　捜索する。\n　<pc>も　後から来てくれ。": "Nous allons etablir notre base au poste de\nguet de Zama, au nord, pour poursuivre les\nrecherches.\n<br>\n<pc>, rejoins-nous plus tard."
     },
     "11620": {
         "「失礼。": "Pardonne nous."
@@ -651,7 +651,7 @@
         "「<pc>は　まだ　この国に来たばかりか？\n　だったら　城下町などを\n　ゆっくり見てからで　構わない。": "<pc>, tu viens d'arriver dans notre pays?\nSi c'est le cas, n'hesite pas a visiter le\nchateau il y'a plein de choses a voir."
     },
     "11631": {
-        "「オレたちは　これから\n　北のザマ烽火台を拠点に　捜索する。\n　<pc>も　後から来てくれ。": "Nous allons maintenant partir a la recherche\ndepuis la tour de guet de Zama au nord.\n<pc>, rejoins-nous plus tard."
+        "「オレたちは　これから\n　北のザマ烽火台を拠点に　捜索する。\n　<pc>も　後から来てくれ。": "Nous allons etablir notre base au poste de\nguet de Zama, au nord, pour poursuivre les\nrecherches.\n<br>\n<pc>, rejoins-nous plus tard."
     },
     "11632": {
         "「あの時……。": "Il y'a quelques temps..."
