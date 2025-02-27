@@ -135,19 +135,19 @@
         "「さあ！　さっそく　おばあさまに\n　使っていただきましょう！\n　一緒に　向かいの部屋に　来てください！": "Faisons en sorte qu'elle l'utilise\nimmediatement !\nVenez avec moi dans la piece d'en face !"
     },
     "14771": {
-        "「これと　これも　入れて……\n　フタを閉めて……。": "Ajoute ca et ca aussi... Ferme le couvercle..."
+        "「これと　これも　入れて……\n　フタを閉めて……。": "J'ajoute ca...\net ca...\npuis je referme le couvercle..."
     },
     "14772": {
-        "「よーし……。\n　今度こそ　すっごいのが　できるぞ。\n　きっと……。": "D'accord... Cette fois-ci, je vais vraiment\ncreer quelque chose d'incroyable. Sans aucun\ndoute..."
+        "「よーし……。\n　今度こそ　すっごいのが　できるぞ。\n　きっと……。": "Parfait… Cette fois-ci je vais vraiment\ncreer quelque chose de genial.\nDu moins, je l'espere…!"
     },
     "14773": {
-        "なんと　ごきげんなぼうしが　できた！": "Et voila, le Chapeau Heureux est pret !"
+        "なんと　ごきげんなぼうしが　できた！": "Un Chapeau de Felicite a ete cree !"
     },
     "14774": {
-        "<kyodai>は\nごきげんなぼうしを　手に入れた！": "<kyodai> a obtenu le Chapeau Heureux !"
+        "<kyodai>は\nごきげんなぼうしを　手に入れた！": "<kyodai> obtient le Chapeau de Felicite !"
     },
     "14775": {
-        "「やったあっ！\n　なんか　すっごいの　できた！": "J'ai reussi ! J'ai cree quelque chose de\nvraiment incroyable !"
+        "「やったあっ！\n　なんか　すっごいの　できた！": "Super, j'ai reussi !"
     },
     "14776": {
         "<if_woman>「あれっ　姉ちゃん？<else>「あれっ　兄ちゃん？<endif>>": "<if_woman> Tiens, grande soeur ?<else>Tiens, grand frere ? <endif>"
@@ -738,31 +738,31 @@
         "「テキスト削除": "text deletion"
     },
     "15067": {
-        "「これと　これも　入れるだろ……\n　んで　フタを閉めて……。": "Je vais ajouter ca... et ca aussi... Voila.\nEnsuite, je referme le couvercle..."
+        "「これと　これも　入れるだろ……\n　んで　フタを閉めて……。": "J'ajoute ca...\net ca...\npuis je referme le couvercle..."
     },
     "15068": {
-        "「これと　これも　入れて……\n　フタを閉めるでしょ……。": "Met ca et ca aussi a l'interieur... Puis, tu\nrefermes le couvercle..."
+        "「これと　これも　入れて……\n　フタを閉めるでしょ……。": "J'ajoute ca...\net ca...\npuis je referme le couvercle..."
     },
     "15069": {
-        "「これと　これも　入れて……\n　フタを閉めて……。": "Ajoute celui-ci et celui-la aussi... Ferme le\ncouvercle..."
+        "「これと　これも　入れて……\n　フタを閉めて……。": "J'ajoute ca...\net ca...\npuis je referme le couvercle..."
     },
     "15070": {
-        "「よーし……。\n　今度こそ　すっげえのが　できるぜ。\n　たぶんよ……！": "Tres bien... Cette fois-ci, je vais creer\nquelque chose de vraiment incroyable. Enfin,\nje l'espere...!"
+        "「よーし……。\n　今度こそ　すっげえのが　できるぜ。\n　たぶんよ……！": "Parfait… Cette fois-ci je vais vraiment\ncreer quelque chose de genial.\nDu moins, je l'espere…!"
     },
     "15071": {
-        "「うーん……。\n　今度こそ　すっごいのが　できそうなんだけど。\n　たぶん……。": "Hmm... Cette fois, je pense que je vais\nvraiment reussir quelque chose d'incroyable.\nPeut-etre..."
+        "「うーん……。\n　今度こそ　すっごいのが　できそうなんだけど。\n　たぶん……。": "Parfait… Cette fois-ci je vais vraiment\ncreer quelque chose de genial.\nDu moins, je l'espere…!"
     },
     "15072": {
         "「よーし……。\n　今度こそ　すっごいのが　できちゃうよ。\n　きっと……。": "Bon... Cette fois, je vais vraiment reussir\nquelque chose de genial. Je suis sure..."
     },
     "15073": {
-        "「よっしゃあっ！\n　ホントに　すっげえのが　できたぜっ！": "Yes ! J'ai vraiment reussi a creer quelque\nchose d'incroyable !"
+        "「よっしゃあっ！\n　ホントに　すっげえのが　できたぜっ！": "Super, j'ai reussi !"
     },
     "15074": {
         "「やったあっ！\n　なんか　すっごいの　できちゃった！": "Yes ! J'ai reussi a creer quelque chose de\ngenial !"
     },
     "15075": {
-        "「やったあっ！\n　なんか　すっごいのが　できたよ～！": "Youpi ! J'ai reussi a creer quelque chose\nd'incroyable !"
+        "「やったあっ！\n　なんか　すっごいのが　できたよ～！": "Super, j'ai reussi !"
     },
     "15076": {
         "「……<pc>？": "...<pc>?"
