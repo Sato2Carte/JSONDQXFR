@@ -156,7 +156,7 @@
         "<if_woman>「いいところに来たね！\n　これ……　姉ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<else>「いいところに来たね！\n　これ……　兄ちゃんに　プレゼント！\n　きっと　似合うと思うよ！<endif>>": "Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !"
     },
     "14778": {
-        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": "<pc> obtient le Chapeau de Felicite !<me 60>  "
+        "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": ""
     },
     "14779": {
         "「あれ？　かばんが　いっぱいだね。\n　しょうがないから　おいらが　持っておくよ。": "Tiens ? Ton sac est plein. Bon, tant pis, je\nvais le garder pour toi."
@@ -171,19 +171,19 @@
         "「ふっふっふっふっふっ……。": "Heheheheh..."
     },
     "14783": {
-        "「それって　ついに　アバさまが\n　おいらの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Cela signifie que le jour est enfin venu ou\nAbba compte sur mon alchimie, n'est-ce\npas ?!"
+        "「それって　ついに　アバさまが\n　おいらの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Cela voudrait-il dire qu’Abba s'est enfin\ndecidee a s'en remettre a mon alchimie !?"
     },
     "14784": {
-        "<if_woman>「さあ　姉ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<endif>>": "Allez !\nAllons voir Abba !\nN'oublie pas le chapeau que j'ai fabrique !"
+        "<if_woman>「さあ　姉ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　兄ちゃん！\n　アバさまの所へ　行こう～！　おいらが作った\n　ぼうしのこと……　忘れないでね！<endif>>": "Allez, <pc> ! Allons voir Abba !\nEt surtout n'oublie pas ton nouveau chapeau !"
     },
     "14785": {
-        "<kyodai>が　仲間に加わった！<me 61>": "<kyodai> a rejoint votre equipe ! <me 61>"
+        "<kyodai>が　仲間に加わった！<me 61>": "<kyodai> rejoint votre equipe ! <me 61>"
     },
     "14786": {
         "「テキスト削除": "text deletion"
     },
     "14831": {
-        "「<pc>さん。私が　起こしますよ。\n　寝起きの　おばあさまは　機嫌が悪いので……。": "<pc>-san.\nJe vais la reveiller. Quand elle se reveille,\ngrand-mere est souvent de mauvaise humeur..."
+        "「<pc>さん。私が　起こしますよ。\n　寝起きの　おばあさまは　機嫌が悪いので……。": "Si vous permettez <pc>, je vais la\nreveiller moi-meme. Au lever, grand-mere est\nsouvent de mauvaise humeur…"
     },
     "14832": {
         "「失礼します　おばあさま。\n　<pc>さんが　<kyodai>さんを\n　連れていらっしゃいましたよ。": "Excusez-moi, grand-mere.\n<pc> a amene <kyodai>."
@@ -819,22 +819,22 @@
         "「うふふふふふふふふふ……。": "Oh oh oh oh oh oh oh..."
     },
     "15094": {
-        "「それって　ついに　アバさまが\n　オレの錬金術を　頼りにする日が\n　来たってことじゃないか！？": "Cela signifie que le jour ou Abba compte\nenfin sur mon alchimie est arrive, n'est-ce\npas !?"
+        "「それって　ついに　アバさまが\n　オレの錬金術を　頼りにする日が\n　来たってことじゃないか！？": "Cela voudrait-il dire qu’Abba s'est enfin\ndecidee a s'en remettre a mon alchimie !?"
     },
     "15095": {
-        "「それって　ついに　アバさまが\n　あたしの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba compte sur mon alchimie ?!"
+        "「それって　ついに　アバさまが\n　あたしの錬金術を　頼りにする日が\n　来たってことじゃない！？": "Cela voudrait-il dire qu’Abba s'est enfin\ndecidee a s'en remettre a mon alchimie !?"
     },
     "15096": {
-        "「それって　ついに　アバさまが\n　私の錬金術を　頼りにする日が\n　来たってこと～！？": "Est-ce que cela signifie que le jour est enfin\nvenu ou Abba compte sur mon alchimie ?!"
+        "「それって　ついに　アバさまが\n　私の錬金術を　頼りにする日が\n　来たってこと～！？": "Cela voudrait-il dire qu’Abba s'est enfin\ndecidee a s'en remettre a mon alchimie !?"
     },
     "15097": {
-        "「さあ　<pc>！\n　アバさまの所へ　行こうぜ～！　オレが作った\n　ぼうしのこと　忘れんじゃねーぞ！": "Allez, <pc> ! Allons voir Abba !\nN'oublie pas le chapeau que j'ai fabrique !"
+        "「さあ　<pc>！\n　アバさまの所へ　行こうぜ～！　オレが作った\n　ぼうしのこと　忘れんじゃねーぞ！": "Allez, <pc> ! Allons voir Abba !\nEt surtout n'oublie pas ton nouveau chapeau !"
     },
     "15098": {
-        "「さあ　<pc>！\n　アバさまの所へ　行くわよっ！　あたしが作った\n　ぼうしのこと　忘れないでよねっ！": "Allez, <pc> ! Allons voir Abba !\nN'oublie pas le chapeau que j'ai fabrique,\nd'accord ?"
+        "「さあ　<pc>！\n　アバさまの所へ　行くわよっ！　あたしが作った\n　ぼうしのこと　忘れないでよねっ！": "Allez, <pc> ! Allons voir Abba !\nEt surtout n'oublie pas ton nouveau chapeau !"
     },
     "15099": {
-        "<if_woman>「さあ　お姉ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<endif>>": "<if_woman>Allez, grande soeur ! Emmene-moi chez Abba !\nEt n'oublie pas le chapeau que j'ai fait... !<else>Allez, grand frere ! Emmene-moi chez Abba ! Et\nn'oublie pas le chapeau que j'ai fait... !<endif>"
+        "<if_woman>「さあ　お姉ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<else>「さあ　お兄ちゃん！\n　アバさまの所へ　連れてって～！　私が作った\n　ぼうしのこと……　忘れないでね！<endif>>": "<if_woman>Allez, <pc> ! Allons voir Abba !\nEt surtout n'oublie pas ton nouveau chapeau !\n<else>Allez, <pc> ! Allons voir Abba !\nEt surtout n'oublie pas ton nouveau chapeau !\n<endif>"
     },
     "15100": {
         "「テキスト削除": "text deletion"
