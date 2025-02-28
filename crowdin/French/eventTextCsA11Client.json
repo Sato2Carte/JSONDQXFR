@@ -27,7 +27,7 @@
         "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>.\nNous devons egalement emmener les autres."
     },
     "14704": {
-        "「はい　アバさま。": "Oh, Abba."
+        "「はい　アバさま。": "Oui, Abba."
     },
     "14705": {
         "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>>": "<if_woman>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<else>Allez ! <pc>, monte, monte !\nTiens, attrape ma main…<endif>"
@@ -165,7 +165,7 @@
         "<if_woman>「で　姉ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<endif>>": "Et toi alors, qu'est-ce qui t'amene jusqu'ici?"
     },
     "14781": {
-        "「……えっ？\n　アバさまが　おいらを呼んでる？": "…Hein ? Abba me demande ?"
+        "「……えっ？\n　アバさまが　おいらを呼んでる？": "Hein…?\nAbba m'appelle ?"
     },
     "14782": {
         "「ふっふっふっふっふっ……。": "Heheheheh..."
@@ -753,19 +753,19 @@
         "「うーん……。\n　今度こそ　すっごいのが　できそうなんだけど。\n　たぶん……。": "Parfait… Cette fois-ci je vais vraiment\ncreer quelque chose de genial.\nDu moins, je l'espere…!"
     },
     "15072": {
-        "「よーし……。\n　今度こそ　すっごいのが　できちゃうよ。\n　きっと……。": "Bon... Cette fois, je vais vraiment reussir\nquelque chose de genial. Je suis sure..."
+        "「よーし……。\n　今度こそ　すっごいのが　できちゃうよ。\n　きっと……。": "Parfait… Cette fois-ci je vais vraiment\ncreer quelque chose de genial.\nDu moins, je l'espere…!"
     },
     "15073": {
         "「よっしゃあっ！\n　ホントに　すっげえのが　できたぜっ！": "Super, j'ai reussi !"
     },
     "15074": {
-        "「やったあっ！\n　なんか　すっごいの　できちゃった！": "Yes ! J'ai reussi a creer quelque chose de\ngenial !"
+        "「やったあっ！\n　なんか　すっごいの　できちゃった！": "Super, j'ai reussi !"
     },
     "15075": {
         "「やったあっ！\n　なんか　すっごいのが　できたよ～！": "Super, j'ai reussi !"
     },
     "15076": {
-        "「……<pc>？": "...<pc>?"
+        "「……<pc>？": "Hein ? <pc> ?"
     },
     "15077": {
         "「あら　<pc>？": "Hein ? <pc> ?"
@@ -795,25 +795,25 @@
         "「で　<pc>は　こんな所まで\n　なにしに来たんだ？": "Alors, <pc>, qu'est-ce qui t'amene\njusqu'ici ?"
     },
     "15086": {
-        "「で　<pc>は　こんな所まで\n　わざわざ　なにしに来たってわけ？": "Alors, <pc>, pourquoi es-tu venu\njusqu'ici, expres ?"
+        "「で　<pc>は　こんな所まで\n　わざわざ　なにしに来たってわけ？": "Alors, <pc>, pourquoi as-tu fait tout le\nchemin jusqu'ici ?"
     },
     "15087": {
         "<if_woman>「で　お姉ちゃんは　こんな所まで来て\n　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て\n　なんの用事？<endif>>": "<if_woman>Alors, grande soeur, qu'est-ce qui\nt'amene jusqu'ici ?<else>Alors, grand frere, qu'est-ce qui t'amene\njusqu'ici ? <endif>"
     },
     "15088": {
-        "「……なんだって？\n　アバさまが　オレを呼んでる？": "...... Quoi ? Abba me demande ?"
+        "「……なんだって？\n　アバさまが　オレを呼んでる？": "Hein…?\nAbba m'appelle ?"
     },
     "15089": {
-        "「……えっ？\n　アバさまが　あたしを呼んでる？": "…Hein ? Abba me demande ?"
+        "「……えっ？\n　アバさまが　あたしを呼んでる？": "Hein…?\nAbba m'appelle ?"
     },
     "15090": {
-        "「……えっ？\n　アバさまが　私を呼んでる？": "…Hein ? Abba me demande ?"
+        "「……えっ？\n　アバさまが　私を呼んでる？": "Hein…?\nAbba m'appelle ?"
     },
     "15091": {
-        "「ふっふっふっふっふっ……。": "Fufufufufu..."
+        "「ふっふっふっふっふっ……。": "Hehehe…"
     },
     "15092": {
-        "「うふふふふ……。": "Ufufufufu..."
+        "「うふふふふ……。": "Hehehe…"
     },
     "15093": {
         "「うふふふふふふふふふ……。": "Oh oh oh oh oh oh oh..."
@@ -921,22 +921,22 @@
         "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>>": "<if_woman>Allez !\nGrande soeur, monte, monte !\nTiens, attrape ma main...<else>Allez !\nGrand frere, monte, monte !\nTiens, attrape ma main...<endif>"
     },
     "15129": {
-        "「……えっ？": "...Hein ?"
+        "「……えっ？": "Hein...?"
     },
     "15130": {
         "「……えっ？": "Hein...?"
     },
     "15131": {
-        "「……ええっ？": "...... Hein ?"
+        "「……ええっ？": "Hein...?"
     },
     "15132": {
-        "「な　なんで……？": "Po... Pourquoi... ?"
+        "「な　なんで……？": "Mais... pourquoi donc…?"
     },
     "15133": {
         "「ど　どうしてよ……？": "Mais... pourquoi donc...?"
     },
     "15134": {
-        "「ど　どうして……？": "Po... Pourquoi... ?"
+        "「ど　どうして……？": "Mais... pourquoi donc…?"
     },
     "15135": {
         "「あはは……　わりぃ　わりぃ～！！": "Ah ah ah... Desole, desole !!"
