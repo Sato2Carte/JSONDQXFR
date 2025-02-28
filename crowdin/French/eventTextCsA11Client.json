@@ -165,7 +165,7 @@
         "<if_woman>「で　姉ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<endif>>": "Et toi alors, qu'est-ce qui t'amene jusqu'ici?"
     },
     "14781": {
-        "「……えっ？\n　アバさまが　おいらを呼んでる？": "Hein…?\nAbba m'appelle ?"
+        "「……えっ？\n　アバさまが　おいらを呼んでる？": "Hein…?\nAbba me demande ?"
     },
     "14782": {
         "「ふっふっふっふっふっ……。": "Heheheheh..."
@@ -801,13 +801,13 @@
         "<if_woman>「で　お姉ちゃんは　こんな所まで来て\n　なんの用事？<else>「で　お兄ちゃんは　こんな所まで来て\n　なんの用事？<endif>>": "<if_woman>Alors, grande soeur, qu'est-ce qui\nt'amene jusqu'ici ?<else>Alors, grand frere, qu'est-ce qui t'amene\njusqu'ici ? <endif>"
     },
     "15088": {
-        "「……なんだって？\n　アバさまが　オレを呼んでる？": "Hein…?\nAbba m'appelle ?"
+        "「……なんだって？\n　アバさまが　オレを呼んでる？": "Hein…?\nAbba me demande ?"
     },
     "15089": {
-        "「……えっ？\n　アバさまが　あたしを呼んでる？": "Hein…?\nAbba m'appelle ?"
+        "「……えっ？\n　アバさまが　あたしを呼んでる？": "Hein…?\nAbba me demande ?"
     },
     "15090": {
-        "「……えっ？\n　アバさまが　私を呼んでる？": "Hein…?\nAbba m'appelle ?"
+        "「……えっ？\n　アバさまが　私を呼んでる？": "Hein…?\nAbba me demande ?"
     },
     "15091": {
         "「ふっふっふっふっふっ……。": "Hehehe…"
@@ -945,7 +945,7 @@
         "「あはは……　ごめんね～！！": "Ahaha... Desole !!"
     },
     "15137": {
-        "「え～ん……　ごめんなさい～！！": "Oh non... Pardon !!"
+        "「え～ん……　ごめんなさい～！！": "Oh mince... Desole !!"
     },
     "15139": {
         "「静まれい！": "Silence !"
