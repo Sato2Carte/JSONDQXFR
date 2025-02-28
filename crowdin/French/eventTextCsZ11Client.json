@@ -105,7 +105,7 @@
         "「故郷の村を　ネルゲルに滅ぼされた\n　おぬしじゃ。できることなら　今すぐ\n　仇討ちを果たしたいことじゃろう。": "Tu es celui dont le village natal a ete\ndetruit par Nelgel. Si cela etait possible, tu\nvoudrais surement te venger immediatement,<br>n'est-ce pas ?"
     },
     "9457": {
-        "「だがな　お若いの。焦りは禁物じゃよ。\n　今のおぬしでは　とうてい\n　あの冥王には　勝てまい。": "Cependant, jeune homme. Ne vous precipitez\npas. Dans votre etat actuel, il vous est\nabsolument impossible de vaincre ce roi des<br>tenebres."
+        "「だがな　お若いの。焦りは禁物じゃよ。\n　今のおぬしでは　とうてい\n　あの冥王には　勝てまい。": "Mais, jeune <if_woman>femme<else>homme<endif>, la precipitation est\nmauvaise conseillere.\n<br>\nDans ton etat actuel, il est impensable de\nvaincre ce Roi des Tenebres."
     },
     "9458": {
         "「それに　ヤツの支配する　冥界への入り口は\n　ランドン山脈の奥深く　断崖の先にあり　\n　誰も　そこへ至ることは　かなわぬという。": "De plus, l'entree vers le royaume des morts\nqu'il controle se trouve au fin fond des\nMontagnes Landon, au-dela des falaises. On dit<br>que personne ne peut y parvenir."
