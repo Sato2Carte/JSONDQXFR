@@ -39,7 +39,7 @@
         "「コロシアムの裏名物　モンスター勝ち抜き戦！\n　今夜の挑戦者は　若きバトルマスター\n　<pc>選手です。": "La specialite secrete du Colisee : le tournoi\ndes monstres invincibles ! Ce soir, le\nchallenger est le jeune maitre Batoru, le<br>competiteur <pc> !"
     },
     "20522": {
-        "<if_woman>「はたして　彼女は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<else>「はたして　彼は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<endif>": "<if_woman>Est-ce que Her pourra descendre\nl'anneau en toute securite ? L'heure du destin\napproche a grands pas.<else>Est-ce qu'il pourra descendre l'anneau en\ntoute securite ? L'heure du destin approche a\ngrands pas. <endif>"
+        "<if_woman>「はたして　彼女は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<else>「はたして　彼は　無事に\n　リングを下りることが　できるのか？\n　運命の時は　刻一刻と　近づいています。<endif>": "Reussira-t-<if_woman>elle<else>il<endif> a quitter le ring indemne ? \nL’heure fatidique se rapproche inexorablement."
     },
     "20523": {
         "「見事　イエティを倒した\n　<pc>選手。あと１勝。\n　あと１勝すれば　勝利の栄光は　君のものだ！": "Felicitations, <pc>, tu as vaincu le\nPowie Yowie. Encore une victoire. Une victoire\nde plus et la gloire de la victoire sera<br>tienne !"
