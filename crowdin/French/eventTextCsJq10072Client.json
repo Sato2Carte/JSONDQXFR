@@ -6,7 +6,7 @@
         "「……チッ！\n　うるせーのが　来やがった。": "… Tsk ! Quelqu'un de bruyant est arrive."
     },
     "20552": {
-        "「<pc>。この間みたいに\n　借金のカタに　売られそうになったりしたら\n　オレに　相談してくれよ。": "<pc>. Si jamais tu te retrouves encore\nune fois dans une situation ou tu risques\nd'etre vendu a cause de tes dettes, viens m'en<br>parler."
+        "「<pc>。この間みたいに\n　借金のカタに　売られそうになったりしたら\n　オレに　相談してくれよ。": "<pc>, si jamais tu risques encore d’etre\n<if_woman>vendue<else>vendu<endif> a cause d’une dette, viens m’en \nparler."
     },
     "20553": {
         "「ちげえって！　今回は　なんと\n　<pc>のファンからの　ご指名で\n　仕事の依頼が　飛び込んだのさ。": "Non, ce n'est pas ca ! Cette fois-ci,\nfigure-toi qu'une demande de travail est\narrivee directement d'un fan de <pc>."
