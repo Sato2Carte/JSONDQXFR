@@ -159,7 +159,7 @@
         "<pc>は\nごきげんなぼうしを　手に入れた！<me 60>": ""
     },
     "14779": {
-        "「あれ？　かばんが　いっぱいだね。\n　しょうがないから　おいらが　持っておくよ。": "Tiens ? Ton sac est plein. Bon, tant pis, je\nvais le garder pour toi."
+        "「あれ？　かばんが　いっぱいだね。\n　しょうがないから　おいらが　持っておくよ。": "Quoi ? Ton sac est deja plein ?\nDans ce cas, je vais le porter moi-meme !"
     },
     "14780": {
         "<if_woman>「で　姉ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<else>「で　兄ちゃんは　こんな所まで\n　わざわざ　なにしに来たの？<endif>>": "Et toi alors, qu'est-ce qui t'amene jusqu'ici?"
@@ -210,7 +210,7 @@
         "「よし　みんな　そろったな。": "Bien. Tout le monde est reuni."
     },
     "14840": {
-        "「では　シンイ！　村の者たちを集めよ！\n　これより　カメさまのお告げを　皆に伝える！": "Bien, Shini ! Rassemble les villageois ! Je\nvais transmettre a tous le message de\nGalapagod !"
+        "「では　シンイ！　村の者たちを集めよ！\n　これより　カメさまのお告げを　皆に伝える！": "Maintenant Shini, rassemble les villageois !\n<br>\nJe vais annoncer a tout le monde le message\nque m'a transmis Chelonios !"
     },
     "14841": {
         "「はいっ！": "Oui !"
@@ -783,13 +783,13 @@
         "<if_woman>「いいところに来たね～！\n　これ……　お姉ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<else>「いいところに来たね～！\n　これ……　お兄ちゃんに　プレゼントなの！\n　きっと　似合うと思うな！<endif>>": "<if_woman>Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !<else>Tu arrives pile au bon moment !\nJ'ai justement un cadeau pour toi !\nJe suis sur qu'il t'ira a merveille !<endif>"
     },
     "15082": {
-        "「えーっ　かばんが　いっぱいなのかよ。\n　しょうがねえなあ。オレが　持っといてやるか。": "Quoi ? Ton sac est deja plein ? Bon, d'accord.\nJe vais le garder pour toi."
+        "「えーっ　かばんが　いっぱいなのかよ。\n　しょうがねえなあ。オレが　持っといてやるか。": "Quoi ? Ton sac est deja plein ?\nDans ce cas, je vais le porter moi-meme !"
     },
     "15083": {
-        "「ちょっと！　かばんが　いっぱいじゃないの。\n　しょうがないわね。あたしが　持っててあげる！": "He ! Ton sac est plein, non ? Bon, tant pis.\nJe vais le porter pour toi !"
+        "「ちょっと！　かばんが　いっぱいじゃないの。\n　しょうがないわね。あたしが　持っててあげる！": "Quoi ? Ton sac est deja plein ?\nDans ce cas, je vais le porter moi-meme !"
     },
     "15084": {
-        "「あれ？　かばんが　いっぱいなの？\n　じゃあ　私が　持っててあげるね！": "Hein ? Ton sac est deja plein ? Dans ce cas,\nlaisse-moi le garder pour toi !"
+        "「あれ？　かばんが　いっぱいなの？\n　じゃあ　私が　持っててあげるね！": "Quoi ? Ton sac est deja plein ?\nDans ce cas, je vais le porter moi-meme !"
     },
     "15085": {
         "「で　<pc>は　こんな所まで\n　なにしに来たんだ？": "Alors, <pc>, qu'est-ce qui t'amene\njusqu'ici ?"
