@@ -237,16 +237,16 @@
         "「北の　清き水の洞くつに咲く　伝説の霊草\n　テンスの花があれば　滅びの運命から\n　逃れられる……　ということじゃ！": "Si nous pouvions obtenir la legendaire plante\nspirituelle, la Fleur de Tens, qui fleurit\ndans la Grotte de Clearwater au nord, nous\n<br>\npourrions echapper a notre funeste destin...\ntelle est la legende !"
     },
     "14854": {
-        "「テンスの花を　採りにいくのは\n　わしの孫のシンイと　<pc>！": "C'est a mon petit-fils Shini et <pc>\nd'aller cueillir la Fleur de Tens !"
+        "「テンスの花を　採りにいくのは\n　わしの孫のシンイと　<pc>！": "Ce sont <pc> et mon petit-fils Shini qui\nse chargeront de cette tache !"
     },
     "14855": {
-        "「そして……<kyodai>！\n　この　３名じゃ！": "Ainsi que... <kyodai> ! Ces trois-la !"
+        "「そして……<kyodai>！\n　この　３名じゃ！": "Et… <kyodai> aussi !\nIls y iront tous les trois !"
     },
     "14856": {
-        "「大いなる災厄は　そこまで迫っておる！\n　だが　わしも　チカラを尽くす！": "La grande calamite approche a grands pas !\nMais moi aussi, je donnerai tout ce que j'ai !"
+        "「大いなる災厄は　そこまで迫っておる！\n　だが　わしも　チカラを尽くす！": "Une grande calamite est a nos portes, et je\nferai tout ce qui est en mon pouvoir pour\nl'arreter !"
     },
     "14857": {
-        "「このわしが　カメさまと共に\n　エテーネの村を　守りきってみせるわ！！": "Je protegerai le village d'Ethene avec le\nGalapagod a mes cotes, je vous le promets !!"
+        "「このわしが　カメさまと共に\n　エテーネの村を　守りきってみせるわ！！": "Je protegerai le village de Cadis aux cotes de\nChelonios !"
     },
     "14864": {
         "「ふうっ……。": "Ouf..."
@@ -954,7 +954,7 @@
         "「さよう。テンスの花は　われらが　一度も\n　足を踏み入れたことのない秘境に咲く。\n　ゆえに　誰が採りにいくかは　わしが決める！": "En effet. La Fleur de Tens pousse dans un lieu\nsecret ou nous n'avons jamais mis les pieds.\nC'est pourquoi c'est moi qui deciderai qui ira\n<br>\nla cueillir !"
     },
     "15143": {
-        "「なん…じゃと……？": "Que... que se passe-t-il...?"
+        "「なん…じゃと……？": "Qu'est-ce-que cela signifie…?"
     },
     "15144": {
         "「皆さん！　下がって！": "Tout le monde, reculez !"
@@ -1011,19 +1011,19 @@
         "「おお……　よかった！": "Oh…! Dieu soit loue !"
     },
     "24628": {
-        "「でも　テンスの花なんて　聞いたことないわ。": "Mais… Je n'ai jamais entendu parle de Fleur\nTens…"
+        "「でも　テンスの花なんて　聞いたことないわ。": "Mais… Je n'ai jamais entendu parler de Fleur\nTens…"
     },
     "24629": {
-        "「おおおっ　さすが　アバさまだ！": "Oh oh oh ! Comme attendu de la part\nd'Abba !"
+        "「おおおっ　さすが　アバさまだ！": "On ne pouvait pas en attendre moins de la part\nde dame Abba !"
     },
     "24630": {
-        "「よかった……　安心していいんだねえ。": "Je suis soulage... Je peux vraiment etre\ntranquille, n'est-ce pas ?"
+        "「よかった……　安心していいんだねえ。": "A la bonheur, je suis soulagee."
     },
     "24631": {
-        "「げっ……　あ…あそこ……！": "Oh non... la-bas... !"
+        "「げっ……　あ…あそこ……！": "Ah ! La… La-bas !"
     },
     "24632": {
-        "「魔物が……　魔物が　村に入ってきた……！": "Les monstres... les monstres sont entres dans\nle village... !"
+        "「魔物が……　魔物が　村に入ってきた……！": "Un monstre… Un monstre a penetre dans le\nvillage !"
     },
     "24633": {
         "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "......Qu'allons-nous devenir ? Abba a dit\nque tout irait bien, mais et si, comme le\npresage le dit, nous etions voues a\n<br>\ndisparaitre... ?"
