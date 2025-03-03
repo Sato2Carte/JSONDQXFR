@@ -9,7 +9,7 @@
         "「あのガラクタ城に住む　ダストン氏は\n　キーエンブレムを　ゆずってくれるような\n　人物じゃなかったしね。": "Duston, l'homme qui vit dans le Chateau de\nFerraille n'est pas le genre de gars qui\ndonnerait son Embleme Cle..."
     },
     "4046": {
-        "「うむ……仕方がない。\n　他の町で　名を上げるとするか。": "Hmm...\nY'a rien a faire.\nJe suppose qu'on va devoir se faire un nom a\n<br>\nun autre endroit."
+        "「うむ……仕方がない。\n　他の町で　名を上げるとするか。": "Hmph... Pas le choix.\nJe vais me faire un nom dans une autre ville."
     },
     "4047": {
         "「天知る！　地知る！　人ぞ知る！": "C'est dans l'obscurite que les yeux de la\njustice brillent le plus!"
@@ -51,37 +51,37 @@
         "「もきーー！！　もきぃーーー！！": "RRRRRRGHー!!\nHURRRRRGHーー!!"
     },
     "4060": {
-        "「お　落ち着いてください　ダストンさま！！": "S'i-s'il vous plait, Mr.\nDuston!!"
+        "「お　落ち着いてください　ダストンさま！！": "S'i-s'il vous plait, Mr. Duston!!"
     },
     "4061": {
-        "「その方は　怪盗ポイックリンでは\n　ありませんよ！！": "Ce n'est pas la voleuse fantome Poiclin!!"
+        "「その方は　怪盗ポイックリンでは\n　ありませんよ！！": "Cette personne n'est pas la voleuse fantome\nPoiclin!!"
     },
     "4062": {
-        "「ぜー……　ぜー………。": "Huff...\nHuff..."
+        "「ぜー……　ぜー………。": "Huff... Huff..."
     },
     "4063": {
         "「あぎゃぎゃぎゃ……　なんですよッ！！": "*Grogne-marmonne-mmph!*...\nAlors, C'EST QUI ALORS!?"
     },
     "4064": {
-        "「そうですね　ダストンさま。": "C'est comme ca, Mr.\nDuston."
+        "「そうですね　ダストンさま。": "C'est vrai, Mr. Duston."
     },
     "4065": {
-        "「ポイックリンが盗んでいった　緑の石板は\n　ダストンさまが　三日三晩　掘って見つけた\n　たいへん　めずらしいガラクタでした！": "La Tablette Verte que Poiclin a vole etait\nune piece rare des dechets que Mr.\nDuston a trouve apres avoir creuse pendant 3\n<br>\njours et 3 nuits!"
+        "「ポイックリンが盗んでいった　緑の石板は\n　ダストンさまが　三日三晩　掘って見つけた\n　たいへん　めずらしいガラクタでした！": "La tablette verte volee par Poiclin etait un\nbric-a-brac rare que Mr. Duston a deterre\napres trois jours et trois nuits!!"
     },
     "4066": {
         "「ぐもも　もきー！　……するなんてッ！": "Gra-HMPHー! ...\nL'Audace!"
     },
     "4067": {
-        "「おっしゃる通りです　ダストンさま。": "En effet, Mr.\nDuston."
+        "「おっしゃる通りです　ダストンさま。": "Vous avez raison, Mr. Duston."
     },
     "4068": {
-        "「このガラクタ城ばかり　３度も狙い\n　ダストンさまの　とっておきの宝物ばかりを\n　盗むなんて　ひどすぎます！": "C'est la troisieme fois qu'elle vise le\nChateau de Ferraille et vole les objets les\nplus precieux de Mr.\n<br>\nDuston."
+        "「このガラクタ城ばかり　３度も狙い\n　ダストンさまの　とっておきの宝物ばかりを\n　盗むなんて　ひどすぎます！": "Viser trois fois de suite ce chateau de\nbric-a-brac et ne voler que les tresors\npreferes de Mr. Duston, c'est trop cruel!!"
     },
     "4069": {
-        "「ポイックリンめ！\n　いったい　なんの恨みがあって\n　この城にばかり……。": "Cette foutue Poiclin!\nQu'est ce qu'elle a contre Mr.\nDuston...?"
+        "「ポイックリンめ！\n　いったい　なんの恨みがあって\n　この城にばかり……。": "Cette foutue Poiclin!\nQu'est ce qu'elle a contre Mr. Duston...?"
     },
     "4070": {
-        "「……ああっ。\n　こんなとき　チリさんがいてくれれば\n　あっという間に　解決してくださるのに。": "...\nAah.\nSi seulement Chiri etait la pour nous aider\n<br>\nquand ca arrive.\nElle reglerait tous nos problemes en un\nclaquement de doigt."
+        "「……ああっ。\n　こんなとき　チリさんがいてくれれば\n　あっという間に　解決してくださるのに。": "...Ahh.\nSi Chiri etait la, elle reglerait ca en un\nrien de temps."
     },
     "4071": {
         "「チリ！？": "Chiri!?"
@@ -90,7 +90,7 @@
         "「あーんなヤツの話は　しないでほしいですねッ！\n　もう　娘でも　なんでもないんですから！！": "Je t'ai dis de ne pas la mentionner!\nCe n'est plus ma fille desormais!!"
     },
     "4073": {
-        "「す　すみません……　失言でした。\n　ええと……。": "D-desole...\nJe me suis mal exprime.\nUhhh..."
+        "「す　すみません……　失言でした。\n　ええと……。": "D-desole... Je me suis mal exprime.\nUhhh..."
     },
     "4074": {
         "「あっ！\n　この方　何か　ご用があるみたいですよ！": "Oh!\nCette personne semble vouloir faire affaire\navec vous!"
@@ -105,7 +105,7 @@
         "「キ…キーふぇンブレムなんて\n　ひゃくに立たないもの……\n　あげるわふぇ　ないじゃないふぇすかッ！！": "Pp-pas myyyen quje dnnne un Emblmm Cle auss\nimportnnt a ququn qu'a ren ffait d'ttile!!"
     },
     "4078": {
-        "「ダストンさまっ！\n　この方　一人前の証を\n　持っていらっしゃいますよ！！": "Mr.\nDuston!\nC'est une Preuve de l'Age Adulte!!"
+        "「ダストンさまっ！\n　この方　一人前の証を\n　持っていらっしゃいますよ！！": "Mr. Duston!\nC'est une Preuve de l'Age Adulte!!"
     },
     "4079": {
         "「一人前の証！？": "Une Preuve de l'Age Adulte!?"
@@ -126,34 +126,34 @@
         "「今日からアンタは　わしの助手\n　ポツコン２号ですッ！！": "A partir de maintenant, tu es mon assistant:\nJunkey #2!!"
     },
     "4085": {
-        "「出動ですッ　ポツコン２号！\n　なんとしてでも　ポイックリンから\n　緑の石板を　奪い返すんですよッ！！": "Partons, Junkey #2!\nNous devons recuperer la Tablette Verte de\nPoiclin a tout prix!!"
+        "「出動ですッ　ポツコン２号！\n　なんとしてでも　ポイックリンから\n　緑の石板を　奪い返すんですよッ！！": "En mission, Junkey #2!\nPeu importe comment, nous devons recuperer la\ntablette verte a Poiclin!"
     },
     "4086": {
-        "「ダストンさまー！\n　ポイックリンが消えたのは　北東の方角ですー！": "Mr.\nDuston!\nPoiclin a disparu au nord-est!"
+        "「ダストンさまー！\n　ポイックリンが消えたのは　北東の方角ですー！": "Mr. Duston!\nPoiclin a disparu au nord-est!"
     },
     "4087": {
         "「がってんですッ！！": "Roger!!"
     },
     "4088": {
-        "「すごいなー　ダストンさま。": "Mr.\nDuston est vraiment incroyable!."
+        "「すごいなー　ダストンさま。": "Mr. Duston est vraiment incroyable!."
     },
     "4089": {
-        "「ガラクタへの　あふれる愛情……\n　尽きることのない情熱……\n　ボクも見習わなくちゃ。": "Un amour debordant pour la ferraille...\nUne passion sans limite...\nIl pourrait m'apprendre une chose ou deux."
+        "「ガラクタへの　あふれる愛情……\n　尽きることのない情熱……\n　ボクも見習わなくちゃ。": "Un amour debordant pour la feraille...\nUne passion inepuisable...\nJe devrais en prendre exemple."
     },
     "4090": {
-        "「……ええっと　ポツコン２号さんでしたっけ？\n　これからは　ダストンさまの助手として\n　お互い　がんばりましょうね！": "...\nUhh, Junkey #2, c'est ca?\nA partir de maintenant, tu seras l'assistant\n<br>\nde Mr.\nDuston aussi.\nFaisons de notre mieux!"
+        "「……ええっと　ポツコン２号さんでしたっけ？\n　これからは　ダストンさまの助手として\n　お互い　がんばりましょうね！": "...Euh, Junkey #2, c'est ca?\nA partir de maintenant, tu seras l'assistant\nde Mr.Duston aussi.\n<br>\nFaisons de notre mieux!"
     },
     "4091": {
-        "「ダストンさまは　ガラクタ集めが\n　大　大　だ～い好きで　たまらないお方！\n　それを手伝うのが　ボクらの仕事です！": "Mr.\nDuston a-a-adore collecter les dechets!\nEt notre boulot c'est de l'aider a le faire."
+        "「ダストンさまは　ガラクタ集めが\n　大　大　だ～い好きで　たまらないお方！\n　それを手伝うのが　ボクらの仕事です！": "Mr. Duston adore plus que tout collectionner\nde la ferailles!!\nNotre travail est de l’aider!"
     },
     "4092": {
-        "「……って　ダストンさまのキーエンブレムと\n　同じくらい役に立たない　一人前の証を\n　持っていらっしゃるなら　おわかりですね！": "...\nBien, si tu as une Preuve de l'Age Adulte,\nqui est aussi inutile que l'Embleme Cle de Mr.\n<br>\nDuston je suis sur que tu le sais deja!"
+        "「……って　ダストンさまのキーエンブレムと\n　同じくらい役に立たない　一人前の証を\n　持っていらっしゃるなら　おわかりですね！": "...Si vous possedez une Marque de l'Age Adulte\naussi inutile que l'Embleme Cle de Mr. Duston,\nvous comprenez, n'est-ce pas!!"
     },
     "4093": {
-        "「遅いですよ　ポツコン２号！\n　まだ　こんな所にいたんですかッ！？": "Vous etes en retard, Junkey numero 2 ! Vous\netes encore ici !?"
+        "「遅いですよ　ポツコン２号！\n　まだ　こんな所にいたんですかッ！？": "T'es en retard, Junkey #2!\nQu'est-ce que tu fais encore ici!?"
     },
     "4094": {
-        "「なかなか　いい役立たずっぷりですね！\n　さあ　町を飛びだし　北東へ出発ですよ！\n　ポイックリンを追うんですッ！！": "T'es vraiment inutile toi tu le sais!\nAllez sors de cette ville et va au nord-est!\nOn doit rattraper Poiclin!!"
+        "「なかなか　いい役立たずっぷりですね！\n　さあ　町を飛びだし　北東へ出発ですよ！\n　ポイックリンを追うんですッ！！": "Plutot un bel exemple d'inutilite!!\nAllez, fonce hors de la ville et mets le cap\nau nord-est!!\n<br>\nPourchasse Poiclin!!"
     },
     "4095": {
         "「あっ　ポツコン２号さん！": "Oh, Junkey #2!"
@@ -162,13 +162,13 @@
         "「あ　えっと……。": "Ah, euh..."
     },
     "4097": {
-        "「ボクは　別に　ポツコン２号さんが\n　ダストンさまのガラクタを　盗らないように\n　番をしているわけじゃないですからね。": "Je ne suis pas la pour surveiller que Junkey\nnumero 2 ne vole pas les bric-a-brac de\nDuston-sama."
+        "「ボクは　別に　ポツコン２号さんが\n　ダストンさまのガラクタを　盗らないように\n　番をしているわけじゃないですからね。": "Je ne suis pas la pour surveiller Junkey #2 et\nl'empecher de voler les bric-a-brac de Maitre\nDuston, d'accord ?"
     },
     "4098": {
-        "「ポツコン２号さんは　ダストンさまの手伝いを！\n　ガタラを飛びだし　北東へ逃げた\n　怪盗ポイックリンを追ってくださいっ！": "Junkey numero 2-san, aide Duston-sama !\nPoursuivez le Phantom Thief Poiclin, qui a\nquitte Gatara et s'est enfui vers le nord-est<br>!"
+        "「ポツコン２号さんは　ダストンさまの手伝いを！\n　ガタラを飛びだし　北東へ逃げた\n　怪盗ポイックリンを追ってくださいっ！": "Junkey #2, aide Mr. Duston!! Sors de Gattara\net poursuis Poiclin, la voleuse fantome, qui\ns'est enfuie vers le nord-est!!"
     },
     "4099": {
-        "「それにしても……　ポツコン２号さんって\n　ちょっと呼びにくいですね。\n　えへへへへ。": "D'ailleurs... c'est assez dur de t'appeler\nJunkey #2 tout le temps.\nEheheheh."
+        "「それにしても……　ポツコン２号さんって\n　ちょっと呼びにくいですね。\n　えへへへへ。": "Mais quand meme...\nJunkey #2, c'est un peu dur a dire.\nEhehehe."
     },
     "4100": {
         "「くくく……　とうとう見つけたですよ！\n　怪盗ポイックリンめ！！": "Keheheh...\nJe t'ai enfin trouve, Voleuse Fantome\nPoiclin!!"
@@ -180,7 +180,7 @@
         "「先回りして　ギャフンと言わせてやるです！": "Je te battrais a plate couture!"
     },
     "4103": {
-        "「ポツコン２号も　ついてきなさいッ！！": "Junkey numero 2, suis-moi !"
+        "「ポツコン２号も　ついてきなさいッ！！": "Junkey #2, suis-moi!!"
     },
     "4104": {
         "「まさか　これを見つけてしまうなんて……。": "Je n'aurais jamais pense trouver ca..."
@@ -195,10 +195,10 @@
         "「あら　あなたは……？": "Oh, tu es...?"
     },
     "4108": {
-        "「……そう。<pc>っていうのね。\n　どこかで見た顔だと思ったら\n　あのとき　ガラクタ城の前にいた人じゃない。": "...\nDonc tu es <pc>, ok.\nJe crois que j'ai deja vu ton visage quelque\n<br>\npart, en face du Chateau de Ferraille, tu es\ncette personne, n'est ce pas."
+        "「……そう。<pc>っていうのね。\n　どこかで見た顔だと思ったら\n　あのとき　ガラクタ城の前にいた人じゃない。": "...Je vois. Tu t'appelles <pc>.\nJe me disais bien que ton visage me disait\nquelque chose...\n<br>\nTu etais devant le chateau de bric-a-brac,\ncette fois-la."
     },
     "4109": {
-        "「残念だけど　緑の石板は\n　マグマの中に捨てちゃったわ。\n　もう二度と　誰も　手にできないように！": "Desolee, mais j'ai du jeter la Tablette Verte\ndans le magma...\nPour que jamais personne ne mette les mains\n<br>\ndessus de nouveau!"
+        "「残念だけど　緑の石板は\n　マグマの中に捨てちゃったわ。\n　もう二度と　誰も　手にできないように！": "Desolee, mais j'ai jete la tablette verte dans\nla lave.\nPlus personne ne pourra jamais la recuperer!!"
     },
     "4110": {
         "「あの石板はね……\n　ウルベア地下遺跡の奥にある\n　扉を開けるための　カギだったの。": "Cette Tablette...\nEtait une cle pour ouvrir une porte derriere\nles Ruines Souterraines d'Urbea."
@@ -210,7 +210,7 @@
         "「くぷぷぷぷ……！": "Kupupupupu...!"
     },
     "4113": {
-        "「してやったりですよッ！": "Je vous ai bien eu, n'est ce pas?"
+        "「してやったりですよッ！": "Ha, qui c’est l'meilleur!"
     },
     "4114": {
         "「ポイックリンのヤツも\n　まさか　わしが　カベに張りついているとは\n　思わなかったようですねえッ！": "Cette Poiclin ne s'attendait jamais a ce que\nje sois coince sur le mur, haha!"
@@ -219,7 +219,7 @@
         "「なんですか　ポツコン２号ッ？\n　その　しらーっとした目は！！": "Qu'est ce qu'il y'a, Junkey #2?\nCe regard vide!!"
     },
     "4116": {
-        "「ははあ……　なるほど。\n　さっきの　ポイックリンの話を\n　気にしてるんですねッ？": "Hahaa...\nJ'ai compris.\nTu t'inquietes a propos de ce qu'a dit\n<br>\nPoiclin?"
+        "「ははあ……　なるほど。\n　さっきの　ポイックリンの話を\n　気にしてるんですねッ？": "Haha... Je vois.\nTu repenses a ce que Poiclin a dit, pas vrai?"
     },
     "4117": {
         "「この石板は　残念ながら\n　使えるものでしたが……。": "Malheureusement, on dirait que cette Tablette\nsert a quelque chose..."
@@ -231,37 +231,37 @@
         "「わしのカンは　ハズれたことがねえです！\n　この緑の石板ちゃんは　必ず　わしを\n　ガラクタの元へ　導いてくれますよッ！！": "Mon instinct ne m'as jamais trompe!\nCette petite Tablette Verte va me conduire au\npactol!!"
     },
     "4120": {
-        "「さあ　ポツコン２号ッ！\n　ガタラに帰って　すぐに準備ですよー！！": "Allez, Junkey numero 2 ! Retourne a Gatara et\nprepare-toi immediatement !"
+        "「さあ　ポツコン２号ッ！\n　ガタラに帰って　すぐに準備ですよー！！": "Allez, Junkey #2!!\nRetourne a Gattara et prepare-toi tout de\nsuite!!"
     },
     "4121": {
         "「あっ　ポツコン２号さん！": "Oh, Junkey #2!"
     },
     "4122": {
-        "「あれ？　チリさんに会いませんでした？\n　ちょっと前に　ここを出ていったんですけど。": "Huh?\nEst ce que j'ai vu Chiri?\nElle est partie y'a pas longtemps."
+        "「あれ？　チリさんに会いませんでした？\n　ちょっと前に　ここを出ていったんですけど。": "Hein?\nEst ce que j'ai vu Chiri?\nElle est partie y'a pas longtemps."
     },
     "4123": {
         "「相変わらず　かわいかったな～<heart>\n　ボクと同じドワーフとは　思えないくらい！": "Elle etait toujours aussi mignonne～<heart>\nC'est dur de croire que c'est une Naine comme\nmoi!"
     },
     "4124": {
-        "「ええと　チリさんっていうのは\n　ダストンさまの娘なんですよ。": "Err, Chiri est la fille de Mr.\nDuston..."
+        "「ええと　チリさんっていうのは\n　ダストンさまの娘なんですよ。": "Err, Chiri est la fille de Mr. Duston..."
     },
     "4125": {
-        "「……とは言っても　血はつながっていないし\n　３年前の　そーぜつなケンカの末\n　親子の縁も　切られているんですけどね。": "...\nMais ils n'ont pas de lien de sang, et ils\nont coupes les ponts apres une dispute y'a 3\n<br>\nans."
+        "「……とは言っても　血はつながっていないし\n　３年前の　そーぜつなケンカの末\n　親子の縁も　切られているんですけどね。": "...Cela dit, ils ne sont pas lies par le sang,\net apres une violente dispute il y a trois\nans, leurs liens de parente ont ete rompus."
     },
     "4126": {
-        "「ダストンさまなら　緑の石板を取り戻してきて\n　また　すぐに出かけたって教えたら\n　チリさん　すぐに飛びだしていっちゃって。": "Quand je lui ai dis que Mr.\nDuston a recupere la Tablette Verte et qu'il\nallait rentrer, elle est partie en courant..."
+        "「ダストンさまなら　緑の石板を取り戻してきて\n　また　すぐに出かけたって教えたら\n　チリさん　すぐに飛びだしていっちゃって。": "Quand j'ai dit a Chiri qu'il avait recupere la\ntablette verte et etait deja reparti, elle\ns'est precipitee dehors immediatement."
     },
     "4127": {
         "「恋人は　いるの～？　とか\n　チリさんに聞きたいこと\n　いっぱいあったのに　残念だな。": "Est ce qu'elle a un p'tit ami～?\nC'est dommage, j'ai tellement de questions a\nlui poser."
     },
     "4128": {
-        "「………………。": ""
+        "「………………。": "............"
     },
     "4129": {
         "「あっ　そうでした！": "Oh, c'est vrai!"
     },
     "4130": {
-        "「ポツコン２号さんに伝言です。\n　ダストンさまが　ウルベア地下遺跡に来いって\n　おっしゃっていましたよ！": "On m'a demande de te dire ce message.\nMr.\nDuston a dit de venir dans les Ruines\n<br>\nSouterraines d'Urbea!"
+        "「ポツコン２号さんに伝言です。\n　ダストンさまが　ウルベア地下遺跡に来いって\n　おっしゃっていましたよ！": "Junkey #2, j’ai un message pour toi.\nMr. Duston a dit de venir aux ruines\nsouterraines d’Ulbea!!"
     },
     "4131": {
         "「ウルベア地下遺跡は　このガタラの北西にある\n　大昔　栄えた国の遺跡で　なんでも\n　チリさんが　捨てられてた場所らしいです。": "Les Ruines Souterrainnes d'Urbea sont les\nrestes d'une ancienne contree prospere au\nNord-Ouest de Gatara.\n<br>\nApparemment c'est la ou Chiri et Duston se\nsont faches."
@@ -276,7 +276,7 @@
         "「うわっ　ポツコン２号さん！\n　いつから　そこにいたんです？": "Whoa, Junkey #2!\nDepuis combien de temps tu es la?"
     },
     "4137": {
-        "「いいですか？　ダストンさまの向かった\n　ウルベア地下遺跡は　町を出て\n　西の山沿いに進んだ先に　ありますからね！": "Tu comprends, hein?\nLes Ruines Souterraines d'Urbea ou Mr.\nDuston s'est rendu, sont a l'ouest de la\n<br>\nville le long des montagnes!"
+        "「いいですか？　ダストンさまの向かった\n　ウルベア地下遺跡は　町を出て\n　西の山沿いに進んだ先に　ありますからね！": "Tu as bien compris?\n<br>\nLes ruines souterraines d’Ulbea, ou est alle\nMr. Duston, se trouvent en sortant de la\nville, en longeant les montagnes a l’ouest!"
     },
     "4138": {
         "「ああっ……　チリさん………<heart>": "Ohhhhhhh...\nChiri.........<heart>"
@@ -285,7 +285,7 @@
         "「あの緑の石板……　間違いなく捨てたのに\n　どうして　あの人が持ってるの？": "Cette Tablette Verte...\nJe sais que je l'ai jete, alors pourquoi est\nce qu'il l'a?"
     },
     "4140": {
-        "「……あっ！！\n　あなたは　<pc>！？": "...\nAah!!\nTu es <pc>, n'est ce pas!?"
+        "「……あっ！！\n　あなたは　<pc>！？": "...Aah!!\nTu es <pc>, n'est ce pas!?"
     },
     "4141": {
         "「天知る！　地知る！　人ぞ知る！": "C'est dans l'obscurite que les yeux de la\njustice brillent le plus!"
@@ -297,7 +297,7 @@
         "「ああっ　こんなこと\n　してる場合じゃないのにっ！": "Gah, on a pas le temps pour ca!"
     },
     "4144": {
-        "「お願い　<pc>！　私に協力して！\n　このままだと　あの人は\n　とんでもない過ちを犯してしまう！": "S'il te plait, <pc>!\nTu dois m'aider!\nSi tu ne le fais pas, il fera une enorme\n<br>\nbetise!"
+        "「お願い　<pc>！　私に協力して！\n　このままだと　あの人は\n　とんでもない過ちを犯してしまう！": "S'il te plait, <pc>! Aide-moi!\nA ce rythme, il va commettre une terrible\nerreur!"
     },
     "4145": {
         "「じつはね　この遺跡の地下深くには\n　緑の石板でしか　開けられない扉があって……\n　その中には　謎の古代兵器が眠っているの！": "La verite est que, loin sous terre dans ces\nruines, il y'a une porte qui ne peut etre\nouverte qu'avec la Tablette...\n<br>\nEt derriere se trouve une arme ancienne\nmysterieuse!"
@@ -309,13 +309,13 @@
         "「わしより　早く来るなんて……\n　デキのいい助手は　好きじゃないですよッ！": "Comment es tu arrive ici avant moi...\nJe n'aime pas les bons assistants, t'sais!"
     },
     "4170": {
-        "「さては　わしの石板ちゃんを\n　横取りにきたんですねッ！？<yesno><close>": "Alors, vous etes venu pour me voler ma\nprecieuse tablette, n'est-ce pas !?\n<yesno><close>"
+        "「さては　わしの石板ちゃんを\n　横取りにきたんですねッ！？<yesno><close>": "Ne me dis pas que tu es venu me voler ma\nprecieuse tablette!?<yesno><close>"
     },
     "4172": {
         "「くぅぅうう……！！": "Gggggghhhhh...!!"
     },
     "4175": {
-        "「はー……　はー………。": "Huff...\nHuff..."
+        "「はー……　はー………。": "Huff... Huff..."
     },
     "4177": {
         "「あのくぼみに　入れればいいんですね！？": "Alors j'ai juste a le rentrer dans ce trou!?"
@@ -363,7 +363,7 @@
         "「命のが大事だなんて　甘っちょろい価値観に\n　わしを　はめ込まないでくださいッ！\n　余計なコトしねえでくだせいッ！！": "Alors s'il te plait ne m'implique pas dans\nton ideal a la noix des valeurs de la vie!"
     },
     "4194": {
-        "「………………。": ""
+        "「………………。": "............"
     },
     "4195": {
         "「ぷっ……。": "Pfft..."
@@ -372,7 +372,7 @@
         "「あははははははは！": "Aahahahahahahaha!"
     },
     "4197": {
-        "「ガラクタが　命よりも大事なんだ！\n　あはは　ごめんっ！\n　そこまでとは思わなかった！": "Ce tas de dechets est plus important que ta\nvie!\nAhaha, pardon!\n<br>\nC'est juste, j'avais pas realise a quel point\ntu es si STUPIDE!"
+        "「ガラクタが　命よりも大事なんだ！\n　あはは　ごめんっ！\n　そこまでとは思わなかった！": "Ce tas de dechets est plus important que ta\nvie! Ahaha, pardon!\n<br>\nC'est juste, j'avais pas realise a quel point\ntu es si STUPIDE!"
     },
     "4198": {
         "「まったく！　何年　わしと暮らしてたんです？\n　アンタも意外と　半人前ですねえ！": "Honnetement!\nComment ai-je pu vivre si longtemps avec toi?\nT'es etonnamment plus inutile que je pensais!"
@@ -387,10 +387,10 @@
         "「なんですって！？": "Redis ca!?"
     },
     "4202": {
-        "「あれは　わしの命より大切なガラクタですよ！\n　あれほど　意味のないシロモノなんて\n　そうそう……": "Ce tas de ferraille est plus important que ma\nvie!\nIl n'y pas grand chose qui sont aussi\n<br>\ninutiles que ces trucs..."
+        "「あれは　わしの命より大切なガラクタですよ！\n　あれほど　意味のないシロモノなんて\n　そうそう……": "Ce tas de ferraille est plus important que ma\nvie!\n<br>\nIl n'y pas grand chose qui sont aussi\ninutiles que ces trucs..."
     },
     "4203": {
-        "「お父さんは知らないだろうけど\n　今は　世界中の人たちが　名を上げるために\n　キーエンブレムを求めているのよ。": "Tu ne le sais peut etre pas, papa, mais dans\nle monde beaucoup de gens sont a la recherche\nde ces Emblemes Cla pour se faire un nom par\n<br>\neux memes."
+        "「お父さんは知らないだろうけど\n　今は　世界中の人たちが　名を上げるために\n　キーエンブレムを求めているのよ。": "Papa, tu ne le sais surement pas, mais en ce\nmoment, les gens du monde entier recherchent\nles Emblemes Cles pour se faire un nom."
     },
     "4204": {
         "「きっと　<cs_pchero>も\n　そのひとりだと思うわ。": "Je paris que <cs_pchero> est un des leurs."
@@ -402,7 +402,7 @@
         "「た　頼りにされる……！？": "V-vraiment!?"
     },
     "4207": {
-        "「うおおお　やめてくだせえッ！\n　そんな恥ずかしい目には　あいたくねえです！！": "Whoooa, arrete s'il te plait!\nJe veux pas te mettre dans une position aussi\nembarrassante!!"
+        "「うおおお　やめてくだせえッ！\n　そんな恥ずかしい目には　あいたくねえです！！": "Uooooh, arrete!!\nJe ne veux pas vivre une honte pareille!!"
     },
     "4208": {
         "「わかりましたよッ！　キーエンブレムは\n　<cs_pchero>に　ゆずるですよッ！！": "Compris!\nL'Embleme Cle est a toi, <cs_pchero>!!"
@@ -411,34 +411,34 @@
         "「まったく！": "Honnetement!"
     },
     "4210": {
-        "「いつも　わしの大切なガラクタに\n　世紀の大発見だ　なんだのと　価値を見出して\n　役立たずさを　台無しにする……。": "Tu trouves toujours de l'utilite dans ma\nferraille, en l'appellant la 'decouverte du\nsiecle' et tu ruines son inutilite..."
+        "「いつも　わしの大切なガラクタに\n　世紀の大発見だ　なんだのと　価値を見出して\n　役立たずさを　台無しにする……。": "Tu trouves toujours de l'utilite dans ma\nferraille, en l'appellant la \"decouverte du\nsiecle\" et tu ruines son inutilite..."
     },
     "4211": {
-        "「アンタは　本当に　親不孝な娘ですよッ！！": "T'es vraiment une traitresse de fille!!"
+        "「アンタは　本当に　親不孝な娘ですよッ！！": "T'es vraiment une fille indigne!!"
     },
     "4212": {
-        "「むすめ……？": "Ma fille...?"
+        "「むすめ……？": "Une fille...?"
     },
     "4213": {
-        "「……ありがとう　お父さん。": "...\nMerci, papa."
+        "「……ありがとう　お父さん。": "...Merci, papa."
     },
     "4214": {
         "「ふんッ！！": "Pfff!!"
     },
     "4216": {
-        "「さあ　急いで　ここから出て！": "Allez depechez vous et sortez d'ici!"
+        "「さあ　急いで　ここから出て！": "Allez, depechez-vous de sortir d'ici !"
     },
     "4217": {
-        "「この部屋のことは　まだ\n　ドルワーム王国にある　王立研究院でも\n　ちゃんと解明できていないの。": "L'Academie Royale de Recherche dans le\nRoyaume Dolworm ne comprend pas encore tout a\nfait cet endroit."
+        "「この部屋のことは　まだ\n　ドルワーム王国にある　王立研究院でも\n　ちゃんと解明できていないの。": "Cette piece n’a pas encore ete entierement\netudiee, meme par l’Institut Royal de\nRecherche du royaume de Dolworm."
     },
     "4218": {
         "「何かあるといけないから\n　緑の石板は　私が　あずかるわね！": "Je prends la Tablette Verte au cas ou quelque\nchose se passe mal!"
     },
     "4219": {
-        "「<cs_pchero>には　また\n　お世話になってしまったわね。\n　本当に　ありがとう。助かったわ。": "<cs_pchero>, je me suis encore retrouvee a\ndependre de toi. Merci beaucoup. Tu m'as\nvraiment sauvee."
+        "「<cs_pchero>には　また\n　お世話になってしまったわね。\n　本当に　ありがとう。助かったわ。": "<cs_pchero>, je t’ai encore cause du souci.\nMerci vraiment, tu m’as beaucoup aidee."
     },
     "4220": {
-        "「<cs_pchero>が　いなかったら\n　どうなっていたことか……。\n　本当に　ありがとう。": "<cs_pchero>, si ce n'etait pas pour toi, je\nne sais pas ce que j'aurais fais...\nJe l'apprecie enormement."
+        "「<cs_pchero>が　いなかったら\n　どうなっていたことか……。\n　本当に　ありがとう。": "Si tu n'avais pas ete la, je n'ose imaginer ce\nqui se serait passe...\nMerci vraiment."
     },
     "4223": {
         "「それでは皆さん　ごきげんよう。": "Maintenant, je vous dis adieu!"
@@ -456,16 +456,16 @@
         "「………………？": "...............?"
     },
     "4228": {
-        "「ダストンさま。\n　もしかして　ポツコン２号さんは\n　キーエンブレムを　取りにいらしたのでは？": "Mr.\nDuston, peut etre que Junkey #2 est venu\nrecuperer l'Embleme Cle."
+        "「ダストンさま。\n　もしかして　ポツコン２号さんは\n　キーエンブレムを　取りにいらしたのでは？": "Mr. Duston, peut etre que Junkey #2 est venu\nrecuperer l'Embleme Cle."
     },
     "4229": {
         "「キーエンブレムっ！？": "L'Embleme Cle!?"
     },
     "4230": {
-        "「……って　なんですか？": "...\nQu'est ce que c'est?"
+        "「……って　なんですか？": "...Qu'est ce que c'est?"
     },
     "4231": {
-        "「ダ…ダストンさま……。": "M-Mr.\nDuston..."
+        "「ダ…ダストンさま……。": "M-Mr. Duston..."
     },
     "4232": {
         "「ほら　以前　大事にしていらっしゃった\n　カギの形をした勲章ですよ。\n　ポツコン２号さんに　ゆずるって……": "Tu sais, la medaille en forme de cle que tu\ncherissais.\nTu as dis que tu la donnerais a Junkey #2..."
@@ -477,13 +477,13 @@
         "「知っているなら\n　ポツコンが探してあげるですよッ！": "Si tu sais ce que c'est, Junkey, alors trouve\nla!"
     },
     "4235": {
-        "「はいっ　ダストンさま！": "Oui, Mr.\nDuston!"
+        "「はいっ　ダストンさま！": "Oui, Mr. Duston!"
     },
     "4236": {
-        "「ダストンさまは　ガラクタじゃない物のことは\n　すぐ忘れてしまうんですよ。": "Mr.\nDuston oublie absolument tout ce qui n'est\npas de la ferraille."
+        "「ダストンさまは　ガラクタじゃない物のことは\n　すぐ忘れてしまうんですよ。": "Mr. Duston oublie absolument tout ce qui n'est\npas de la ferraille."
     },
     "4237": {
-        "「でも　今回は　忘れるの早かったな。\n　チリさんのことは　なんだかんだ言って\n　ずーっと覚えていらっしゃるのに。": "Mais cette fois tu as oublie bien vite.\nApres tout, tu t'es souvenu de Chiri pendant\ntres longtemps."
+        "「でも　今回は　忘れるの早かったな。\n　チリさんのことは　なんだかんだ言って\n　ずーっと覚えていらっしゃるのに。": "Mais cette fois, il a oublie bien vite.\nPourtant, quoi qu’on en dise, il se souvient\ntoujours de Chiri."
     },
     "4238": {
         "「ポツコン！\n　そんな余計なことを言ってしまうヤツは！！": "Junkey!\nNe dis pas ce genre de choses inutiles!!"
@@ -501,13 +501,13 @@
         "<pc>は\n黄のキーエンブレム（だいじなもの）を\n受け取った！<me 72>": "<pc> recoit l'Embleme Cle Jaune (Objet\nImportant)!<me 72>"
     },
     "4243": {
-        "「ポツコン２号！\n　アンタは　ただのデキのいい　お人ですから\n　もう　わしの助手じゃねえです。": "Junkey n°2 ! Tu es une personne vraiment\ndouee, alors tu n'es plus mon assistant."
+        "「ポツコン２号！\n　アンタは　ただのデキのいい　お人ですから\n　もう　わしの助手じゃねえです。": "Junkey #2!\nT'es juste quelqu'un de trop parfait, alors\nt'es plus mon assistant."
     },
     "4244": {
-        "「さあ　用がねえなら帰ってくだせぇ！\n　だけど　いつでも　ガラクタ城に\n　遊びにきて　いいですからねッ！！": "Allez, si vous n'avez plus rien a faire ici,\nrentrez chez vous ! Mais n'hesitez pas a\nrevenir jouer au chateau des babioles quand<br>vous voulez !"
+        "「さあ　用がねえなら帰ってくだせぇ！\n　だけど　いつでも　ガラクタ城に\n　遊びにきて　いいですからねッ！！": "Allez, si t'as plus rien a faire ici, rentre\nchez toi!\n<br>\nMais tu peux toujours venir t'amuser au\nchateau de bric-a-brac quand tu veux!!"
     },
     "6730": {
-        "「…………む？": "...\nHmm?"
+        "「…………む？": "...Hmm?"
     },
     "6731": {
         "「どうしたんです？\n　めずらしく　真剣な顔なんかして。": "Quel est le soucis?\nTu sembles inhabituellement serieux."
@@ -531,7 +531,7 @@
         "「ダメーーー！！": "NONー!!"
     },
     "6738": {
-        "「やったですかッ！？": "Est ce que je l'ai fais!?"
+        "「やったですかッ！？": "J'ai reussi!?"
     },
     "6739": {
         "「間に合わなかった……。": "Je ne suis pas arrive a temps..."
@@ -546,7 +546,7 @@
         "「すごい……！": "Incroyable...!"
     },
     "6743": {
-        "「あるだけで　ジャマになるような……\n　あんなロクでもない　ガラクタを見たのは\n　はじめてですッ！！": "C'est comme si c'etait ici juste pour me\nnuire...\nJe n'ai jamais vu un tas de ferraille comme\n<br>\ncelle ci!!"
+        "「あるだけで　ジャマになるような……\n　あんなロクでもない　ガラクタを見たのは\n　はじめてですッ！！": "C'est bien la premiere fois que je vois de la\nferraille aussi inutile et encombrante!!"
     },
     "6744": {
         "「危ないっ　逃げて！！\n　それは　恐ろしい兵器なのよ！！": "C'est dangereux!\nCourez!!\nC'est une arme horrible!"
@@ -564,7 +564,7 @@
         "「お父さんっ！！": "PAPA!!"
     },
     "6749": {
-        "「お前は……　チリ！？": "Tu es...\nChiri!?"
+        "「お前は……　チリ！？": "...Chiri!?"
     },
     "6750": {
         "「これは　太古の帝国　ウルベアで\n　開発された　ウルベア魔神兵。": "C'est le Soldat d'Urbea, developpe dans\nl'ancien Empire Urbea."
@@ -591,10 +591,10 @@
         "「機能テイシ……　キノウ停止………。\n　ウルベア帝国……　永遠ナレ……。": "INSPECTER:_FONCTION...\nFONCTION_INTERROMPUE...\nL_EM_PirE_UrBEa... eSt______etERn_e__llllll..."
     },
     "6758": {
-        "「ここを出たら　必ず　ガラクタ城へ行ってね。\n　お父さんが　キーエンブレムのことを\n　忘れてしまう前に。": "Quand tu sortiras d'ici, assure-toi d'aller au\nchateau de bric-a-brac. Avant que pere\nn'oublie l'embleme cle."
+        "「ここを出たら　必ず　ガラクタ城へ行ってね。\n　お父さんが　キーエンブレムのことを\n　忘れてしまう前に。": "Une fois sorti d'ici, va au chateau de\nbric-a-brac.\nAvant que papa n'oublie l'Embleme Cle."
     },
     "6759": {
-        "「わしは　一度　ガラクタ城へ戻りますッ！\n　あんな大量のガラクタ　持ちきれないんで\n　ポツコンを連れて　出直すことにしますよッ！": "Je rentre au Chateau de Ferraille!\nJe ne peux pas transporter autant de\nferraille sur moi, alors je devrais revenir\n<br>\navec Junkey."
+        "「わしは　一度　ガラクタ城へ戻りますッ！\n　あんな大量のガラクタ　持ちきれないんで\n　ポツコンを連れて　出直すことにしますよッ！": "Je retourne au chateau de bric-a-brac!\n<br>\nJe ne peux pas transporter toute cette\nferraille tout seul, alors je vais revenir\navec Junkey!"
     },
     "6760": {
         "「チリも残さず\n　キレイに退散ですわっ！": "Et ainsi, je disparais sans laisser de trace!"
@@ -606,22 +606,22 @@
         "「……あ。それで　伝言の続きなんですが\n　ウルベア地下遺跡は　町を出て\n　西の山沿いに進んだ先に　あるそうです。": "...\nUhh.\nDonc je repete, les Ruines Souterraines\n<br>\nd'Urbea sont a l'ouest de la ville le long\ndes montagnes."
     },
     "24738": {
-        "「ただ　入り口が少し　わかりづらいようなので\n　最後は　努力と根性で　探しあててください。\n　それでは　ダストンさまを頼みましたよ！": "Malheureusement, l'entree est un peu dur a\ntrouver, donc tu devrais mettre un peu\nd'huile de coude.\n<br>\nAllez s'il te plait, aide Mr.\nDuston!"
+        "「ただ　入り口が少し　わかりづらいようなので\n　最後は　努力と根性で　探しあててください。\n　それでは　ダストンさまを頼みましたよ！": "Malheureusement, l'entree est un peu dur a\ntrouver, donc tu devrais mettre un peu\nd'huile de coude.\n<br>\nAllez s'il te plait, aide Mr. Duston!"
     },
     "24739": {
-        "「ただ　入り口が少し　わかりづらいようなので\n　最後は　努力と根性で　探しあててください！\n　ダストンさまのこと　頼みましたよ！": "Malheureusement, l'entree est un peu dur a\ntrouver, donc tu devrais mettre un peu\nd'huile de coude.\n<br>\nAllez s'il te plait, aide Mr.\nDuston!"
+        "「ただ　入り口が少し　わかりづらいようなので\n　最後は　努力と根性で　探しあててください！\n　ダストンさまのこと　頼みましたよ！": "Malheureusement, l'entree est un peu dur a\ntrouver, donc tu devrais mettre un peu\nd'huile de coude.\n<br>\nAllez s'il te plait, aide Mr. Duston!"
     },
     "24745": {
         "「あの人が　古代兵器を目覚めさせてしまう前に\n　緑の石板を　奪い返さないと……！": "Nous devons recuperer la Tablette Verte avant\nqu'il ne reveille l'arme ancienne...!"
     },
     "24746": {
-        "「急ぎましょう　<pc>！\n　あの人は　この先を　右に曲がっていったわ！\n　そこから地下を目指せば　追いつけるはずよ！": "Depechons nous, <pc>!\nIl est parti dans le coin la bas!\nSi on se dirige dans les souterrains, on\n<br>\npourra le rattraper a temps!"
+        "「急ぎましょう　<pc>！\n　あの人は　この先を　右に曲がっていったわ！\n　そこから地下を目指せば　追いつけるはずよ！": "Depechons-nous, <pc>!\nIl a tourne a droite plus loin!\n<br>\nSi on prend la direction des souterrains a\npartir de la, on devrait pouvoir la rattraper!"
     },
     "37913": {
-        "「あら　あなたは　たしか……。": "Oh, vous etes bien celui que je pense..."
+        "「あら　あなたは　たしか……。": "Oh, mais tu es bien..."
     },
     "37914": {
-        "「以前　ドルワームを救ってくれた\n　<pc>って　旅人さんよね？\n　どうして　こんな所に……。": "Tu es le voyageur <pc> qui a deja sauve\nDolworm, n'est-ce pas ? Que fais-tu ici... ?"
+        "「以前　ドルワームを救ってくれた\n　<pc>って　旅人さんよね？\n　どうして　こんな所に……。": "Tu es le voyageur qui a deja sauve\nDolworm, n'est-ce pas ? Que fais-tu ici... ?"
     },
     "37915": {
         "「そっか……。\n　あの人に頼まれて　私のことを追ってきたのね？": "Compris...?\nIl t'as demande de me rattraper, hein?"
