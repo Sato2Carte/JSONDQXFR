@@ -252,7 +252,7 @@
         "「ふうっ……。": "Fiou…"
     },
     "14869": {
-        "「さあ　急ぎましょう！　清き水の洞くつは\n　育みの大地よりも　はるか遠い　北にあります。\n　私の家で祈りを捧げて　すぐに出発しましょう！": "Allez, depechons-nous ! La grotte Clearwater\nse trouve bien plus loin au nord que la terre\nnourriciere. Prions chez moi et partons\n<br>\nimmediatement !"
+        "「さあ　急ぎましょう！　清き水の洞くつは\n　育みの大地よりも　はるか遠い　北にあります。\n　私の家で祈りを捧げて　すぐに出発しましょう！": "Il nous faut faire vite !\nLa Grotte Eauclaire se trouve loin au Nord, au\ndela de la Terre Nourriciere.\n<br>\nPrions chez grand-mere, et partons sur le\nchamp !"
     },
     "14900": {
         "｢テキスト削除": "Delete text"
@@ -615,10 +615,10 @@
         "「じゃが　そうはいかんぞ！\n　時を超えるチカラを秘めた　お前たちに\n　この花を渡すわけには　いかんからのう！": "Mais je ne peux pas vous laisser faire ! Je ne\npeux pas vous remettre cette fleur, vous qui\npossedez le pouvoir de transcender le temps !"
     },
     "15025": {
-        "「<pc>さん……。\n　やはり……　お話ししておきます。": "<pc>-san...\nJe dois vraiment vous en parler."
+        "「<pc>さん……。\n　やはり……　お話ししておきます。": "<pc>...\nIl y a quelque chose que je dois vous dire."
     },
     "15026": {
-        "「じつは　おばあさまが　気になることを\n　つぶやいていらっしゃったのです。": "En fait, grand-mere a murmure quelque chose\nqui m'a intriguee."
+        "「じつは　おばあさまが　気になることを\n　つぶやいていらっしゃったのです。": "En fait, j'ai entendu grand-mere murmurer\nquelque chose qui m'a beaucoup intrigue\ndepuis."
     },
     "15027": {
         "「気になること？": "Quelque chose te tracasse ?"
@@ -963,10 +963,10 @@
         "「なぜ……　魔物が　入ってきた……。\n　魔物たちの目から村を隠す　わしの結界は\n　どうした…………？": "Comment un monstre a-t-il pu penetrer ici…?\nQu'est-il donc arrive a ma barriere qui est\ncensee cacher le village a leurs yeux…?"
     },
     "15147": {
-        "「皆さん　落ち着いてください！\n　すぐに私たちが　テンスの花を採ってきます！": "Tout le monde, calmez-vous ! Nous allons\nimmediatement chercher la Fleur de Tens !"
+        "「皆さん　落ち着いてください！\n　すぐに私たちが　テンスの花を採ってきます！": "Calmez-vous, tout le monde !\nNous allons chercher la Fleur Tens\nimmediatement !"
     },
     "15148": {
-        "シンイが　仲間に加わった！<me 61>": "Shini a rejoint votre equipe ! <me 61>"
+        "シンイが　仲間に加わった！<me 61>": "Shini rejoint votre equipe ! <me 61>"
     },
     "15149": {
         "「キヒヒヒ……　燃えろ　燃えろ！": "Ki hi hi hi... Brule, brule !"
@@ -1029,7 +1029,7 @@
         "「……オレたち　どうなっちまうんだ？\n　アバさまは　大丈夫だって言ってたけど\n　お告げどおり　滅びてしまうんじゃ……。": "Que va-t-il advenir de nous…?\n<br>\nDame Abba a dit que nous allions nous en\nsortir, mais nous sommes peut-etre reellement\ncondamnes apres tout…"
     },
     "24634": {
-        "「そうだよ。\n　アバさまの結界が　破られるなんて……。": "En effet. Il est impensable que la barriere\nait ete brisee…"
+        "「そうだよ。\n　アバさまの結界が　破られるなんて……。": "En effet. C'est impensable que la barriere ait\npu etre brisee…"
     },
     "29471": {
         "<center><pc>よ。\nその姿を　選んだのですね。": "Vous avez choisi cette apparence."
