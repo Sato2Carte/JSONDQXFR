@@ -147,13 +147,13 @@
         "「わ　わかりました。それでは　皆さん\n　この布を　お受け取りください。": "T-tres bien. s'il vous plait, prenez ce tissu\navec vous."
     },
     "4919": {
-        "「やるじゃない　<cs_pchero>ッ！": "Bien joue, <cs_pchero> !"
+        "「やるじゃない　<cs_pchero>ッ！": "Pas mal, <cs_pchero> !"
     },
     "4920": {
-        "「あたしたちが　来る前に\n　掃除しておくなんて　下僕のカガミ……\n　まさに　エリート下僕ねッ！": "Nous nettoyer avant meme notre arrivee... Un\nserviteur exemplaire... Tu es vraiment un\nserviteur d'elite !"
+        "「あたしたちが　来る前に\n　掃除しておくなんて　下僕のカガミ……\n　まさに　エリート下僕ねッ！": "Tu as tout nettoye avant meme notre arrivee...\nUn modele de serviteur...\nUn veritable elite parmi les subordonnes!"
     },
     "4921": {
-        "「ふっふっふ……。\n　この辺りは　まだ誰も　掘ってないみたいだし\n　デカイ魔瘴石が　期待できそうね。": "Hehehe...\nJe suis sure qu'on peut trouver de la\nMiasmite gigantesque par ici, on ne dirait\n<br>\npas que quelqu'un ait fouille ici."
+        "「ふっふっふ……。\n　この辺りは　まだ誰も　掘ってないみたいだし\n　デカイ魔瘴石が　期待できそうね。": "Fufufu... On dirait que personne n’a encore\ncreuse ici. On peut s’attendre a trouver de\ngrosses Miasmites."
     },
     "4922": {
         "「へいっ！": "Bien~~!"
@@ -177,7 +177,7 @@
         "「わかったわッ！": "Je l'ai!"
     },
     "4929": {
-        "「見て！　巨大な魔瘴石よッ！\n　私の思った通り　このおふだで\n　こいつを封じていたんだわッ！！": "Regarde ! Une pierre malefique geante ! Comme\nje le pensais, c'etait ce talisman qui la\nscellait !"
+        "「見て！　巨大な魔瘴石よッ！\n　私の思った通り　このおふだで\n　こいつを封じていたんだわッ！！": "Regarde! Une immense Miasmite!!\nComme je le pensais, ce talisman servait a la\nsceller!!"
     },
     "4930": {
         "「ふ　封印を　解いちまったりして\n　いいんですかい　ルナナさま！？": "E-est ce que c'est bien de briser le sceau\ncomme ca, Dame Lunana...!?"
@@ -186,16 +186,16 @@
         "「ふんッ　何を　怖じ気づいてるのよ！\n　そのために　魔法布が　あるんでしょッ！？\n　さっさと　掘りだしてちょうだいッ！！": "Quoi, vous avez peur ou quoi!?\nC'est a ca que sert le Magitissu!\nAlors depechez vous et creusez moi ca!!"
     },
     "4932": {
-        "「へ……へいっ！": "B...\nBien~~!"
+        "「へ……へいっ！": "B... Bien~~!"
     },
     "4933": {
-        "「バカの相手は　疲れるわ……。\n　採掘のウデ前が　なかったら\n　とっくに　クビにしているところよ。": "J'en peux plus d'avoir affaire a des\ncretins... si ce n'etait pas pour vos talents\nde minage, je vous aurais vire depuis\n<br>\nlooongtemps."
+        "「バカの相手は　疲れるわ……。\n　採掘のウデ前が　なかったら\n　とっくに　クビにしているところよ。": "C’est epuisant de traiter avec un idiot...\nSi tu n’etais pas aussi doue pour\nl’extraction, je t’aurais deja vire."
     },
     "4934": {
         "「こ　これは……！": "C-c'est...!"
     },
     "4935": {
-        "「想像以上ですぜっ！": "...\nPlus que ce que j'imaginais!!"
+        "「想像以上ですぜっ！": "...Plus que ce que j'imaginais!!"
     },
     "4936": {
         "「いや～ん！\n　やればできるじゃないの　あなたたち～！": "Woooo-w!\nVous voyez, suffit de le vouloir pour pouvoir\nles gars～!"
@@ -207,7 +207,7 @@
         "「ああ……　<cs_pchero>にも\n　魔物を掃除してくれた　ごほうびを\n　あげないといけないわね。": "Oh, bien... <cs_pchero> aurait besoin d'une\nrecompense aussi pour avoir vaincu tous ces\nmonstres."
     },
     "4939": {
-        "<cs_pchero>は　ルナナから\n小さな魔瘴石のかけらを　受け取った！": "<cs_pchero> recoit un petit morceau de\nMiasmite de Lunana!<me 60>"
+        "<cs_pchero>は　ルナナから\n小さな魔瘴石のかけらを　受け取った！": "<cs_pchero> recoit un petit morceau de\nMiasmite de Lunana!"
     },
     "4940": {
         "「じゃあ　さよならッ！": "Allez, a plus!"
@@ -216,16 +216,16 @@
         "どこからか　もの悲しい音楽が\n聞こえてくる……。": "De nulle part, une musique melancholique se\nfait entendre..."
     },
     "4942": {
-        "「ラララ　遠い昔の物語～♪\n　王家に生まれた　双子の子～。\n　王位を争い　国を滅ぼす～。": "Lalala, un conte d'il y'a longtemps, tres\nlongtemps...～♪ Des jumeaux royal, combattant\npour le trone...\n<br>\nLe sort du pays est incertain..."
+        "「ラララ　遠い昔の物語～♪\n　王家に生まれた　双子の子～。\n　王位を争い　国を滅ぼす～。": "Lalala ♪ Une histoire d'un lointain passe~♪\nDes jumeaux nes dans la famille royale~♪\n<br>\nSe disputant le trone, ils ont conduit le\nroyaume a sa ruine~♪"
     },
     "4943": {
-        "「時は流れて　歴史はめぐり～♪\n　またも　生まれた　災いの双子～。\n　３つの星を手にした　運命の子～。": "Le temps s'ecoule, et l'histoire se repete...\nLes jumeaux maudits, nes sur cette terre...\nDestines, avec trois etoiles sur leur main..."
+        "「時は流れて　歴史はめぐり～♪\n　またも　生まれた　災いの双子～。\n　３つの星を手にした　運命の子～。": "Le temps a passe, l'histoire se repete~♪\nDe nouveau sont nes des jumeaux maudits~♪\n<br>\nL'enfant du destin, porteur des trois\netoiles~♪"
     },
     "4944": {
-        "「そうはいえども　かわいい　我が子～♪\n　誰が　この子を手放せようか～。\n　誰が　この子を責められようか～。": "Meme si, cher, cher enfant...\nQui pourrait te laisser partir?\nEt je t'en veux egalement, d'etre tombe aussi\n<br>\nbas?"
+        "「そうはいえども　かわいい　我が子～♪\n　誰が　この子を手放せようか～。\n　誰が　この子を責められようか～。": "Mais malgre tout, mon enfant cheri~♪\nQui pourrait jamais l’abandonner~♪\nQui pourrait jamais le blamer~♪"
     },
     "4945": {
-        "「国を選ぶか　我が子を選ぶか～♪\n　ふたつにひとつ　ふたつにひとつ～。\n　星降りの夜に　ルラルルル～♪": "Choisir son pays, ou choisir son enfant...\nL'un ou l'autre, juste un seul choix...\nEn cette nuit etoilee, rejouissons nous..."
+        "「国を選ぶか　我が子を選ぶか～♪\n　ふたつにひとつ　ふたつにひとつ～。\n　星降りの夜に　ルラルルル～♪": "Choisir le royaume ou choisir son enfant~♪\nUn choix unique, un choix unique~♪\nPar une nuit d'etoiles filantes~♪"
     },
     "4946": {
         "「むむむっ！　あなた　魔瘴石をお持ちですねっ？\n　魔法布と一緒に　回収させていただきますっ！": "Mmmmm!\nTu as de la Miasmite, n'est ce pas?\nJe vais le prendre ainsi que ton Magitissu!"
@@ -240,7 +240,7 @@
         "「すみません。\n　そういうことなので　お礼も　ささやかでっ。": "Desole.\nUn si petit objet merite une si petite\nrecompense."
     },
     "4950": {
-        "<pc>は　５０ゴールドを　受け取った！<se_nots System 7>": "<pc> recoit 50 Or!<se_nots System Item>"
+        "<pc>は　５０ゴールドを　受け取った！<se_nots System 7>": "<pc> recoit 50 Or!<se_nots System 7>"
     },
     "4951": {
         "「さっきまでは　すごーい行列だったんですが\n　さすがに　そろそろ　終わりかなっ。": "Il y'avait la queue devant afin de rentrer,\nmais il semble qu'elle se soit estompee."
@@ -252,19 +252,19 @@
         "「ジャマよッ！！": "Que c'est ennuyant!!"
     },
     "4954": {
-        "「あら　<pc>　ずいぶん早い到着ね！\n　うふふ……　荷物が増えないように\n　気を使ってあげた　あたしに　感謝なさいッ！": "Oh, <pc>, tu es arrive aussi vite!\nHehehe...\nTu devrais me remercier d'avoir apporte cette\n<br>\nchose aussi lourde pour toi!"
+        "「あら　<pc>　ずいぶん早い到着ね！\n　うふふ……　荷物が増えないように\n　気を使ってあげた　あたしに　感謝なさいッ！": "Oh, <pc>, tu es arrive bien vite!\nUfufu... Remercie-moi, j’ai pris soin de ne\npas alourdir tes bagages!"
     },
     "4955": {
         "「はわわわわわわわっ……。": "Wwwwwwwwoah...."
     },
     "4956": {
-        "「ねえ　あなた！\n　王立研究院の人でしょッ！？\n　さっさと　魔瘴石を　引き取ってよッ！": "Hey, toi!\nTu fais parti de l'Institut Royal de\nRecherche, n'est ce pas!?\n<br>\nDepeche toi et amene ce truc a l'interieur!"
+        "「ねえ　あなた！\n　王立研究院の人でしょッ！？\n　さっさと　魔瘴石を　引き取ってよッ！": "He, toi! Tu fais partie de l'Institut Royal de\nRecherche, non?!\nDepeche-toi de recuperer cette Miasmite!"
     },
     "4957": {
         "「は　はいぃっ！\n　少々　お待ちをっ！！": "O-oui!\nVeuillez patienter quelques temps!"
     },
     "4958": {
-        "「あーもう　グズばっかりねッ！": "Jeez, ils ne valent rien!"
+        "「あーもう　グズばっかりねッ！": "Ah, vraiment...\nQue des mollassons!!"
     },
     "4959": {
         "「こっちは　この魔瘴石のせいで\n　ノロノロとしか歩けなくて　疲れてるのにッ！！": "J'en ai assez de marcher a la vitesse d'un\nescargot au galop, tout ca pour ce truc\ninutile!"
@@ -288,7 +288,7 @@
         "「キーエンブレムですって……？": "Un Embleme Cle, huh...?"
     },
     "4966": {
-        "「ふふふ……　当然よねッ！\n　あたしは　この国の英雄なんだから<heart>": "Hehehe...\nFascinant n'est ce pas!\nJE SUIS le heros de ce pays, apres tout<heart>"
+        "「ふふふ……　当然よねッ！\n　あたしは　この国の英雄なんだから<heart>": "Fufufu...\nEvidemment!\nJE SUIS l’heroine de ce pays, apres tout <heart>"
     },
     "4969": {
         "「この巨大な魔瘴石は　こちらにいらっしゃる\n　ルナナさんと　その仲間たちによって\n　掘りだされたものです。": "Cette Miasmite gigantesque a ete creuse par\nLunana et ses compagnons ici presents."
@@ -312,7 +312,7 @@
         "「ドゥラよ　礼を言おウ。\n　今　ふたタビ　地上に出ることができたノハ\n　すべて　お前ノ　おかげダ……。": "JE DOIS VOUS REMERCIER, DURA.\nMAINTENANT JE PEUX ENFIN REVENIR SUR CES\nTERRES, ET TOUT CA GRACE A TOI..."
     },
     "4976": {
-        "「……なんの話だ？": "...\nQu'est ce que ca veut dire?"
+        "「……なんの話だ？": "...Qu'est ce que ca veut dire?"
     },
     "4977": {
         "「わからぬノカ？": "NE COMPRENEZ VOUS PAS?"
@@ -327,10 +327,10 @@
         "「ま　まさか　あれは……\n　あのときの声は……　お前が！？": "C'est-c'est pas vrai....\nAlors cette voix... ...\nC'etait toi!?"
     },
     "4981": {
-        "「……さよウ。\n　魔瘴石ヲ集めさせルタメ　我ハ\n　お前ヲ　利用させてモらったノだ。": "...\nCORRECT.\nJE T'AI MANIPULE UNIQUEMENT POUR QUE VOUS\n<br>\nRECHERCHIEZ DE LA MIASMITE."
+        "「……さよウ。\n　魔瘴石ヲ集めさせルタメ　我ハ\n　お前ヲ　利用させてモらったノだ。": "...CORRECT.\nJE T'AI MANIPULE UNIQUEMENT POUR QUE VOUS\nRECHERCHIEZ DE LA MIASMITE."
     },
     "4982": {
-        "「魔瘴石と成りはテタ　我ノ魂ヲ\n　封印から　解きはなってもらうためにナ！！": "MON AME A ETE PIEGEE DANS CETTE FOUTUE\nPIERRE...\nJ'AI ATTENDU PATIEMMENT QUE LE SCEAU SOIT\n<br>\nENFIN BRISE!!"
+        "「魔瘴石と成りはテタ　我ノ魂ヲ\n　封印から　解きはなってもらうためにナ！！": "MON AME A ETE PIEGEE DANS CETTE FOUTUE\nPIERRE...\n<br>\nJ'AI ATTENDU PATIEMMENT QUE LE SCEAU SOIT\nENFIN BRISE!!"
     },
     "4983": {
         "「ふ　封印って　まさか……\n　あのとき　ルナナさまが解いちゃった……？": "Est-est ce qu'il a dit scelle...?\nMais Lunana n'a t'elle pas brise le sceau\ndans le volcan...?"
@@ -351,19 +351,19 @@
         "「ふんッ！": "Hmph!"
     },
     "4989": {
-        "「なんということじゃ……。\n　かつて　この国を滅ぼそうとした　伝説の魔物\n　天魔クァバルナが　復活してしまうとは……。": "Bon dieu...\nLe monstre de la legende, Kukulkannibal a\nessaye une fois de detruire ce pays, et\n<br>\nmaintenant il est de retour..."
+        "「なんということじゃ……。\n　かつて　この国を滅ぼそうとした　伝説の魔物\n　天魔クァバルナが　復活してしまうとは……。": "Quelle tragedie... Le demon legendaire qui\navait jadis voulu detruire ce pays, le\nterrible Kukulkannibal, est de retour..."
     },
     "4990": {
-        "「はい……。\n　どうやら　そのようです。": "Oui...\nOn dirait bien."
+        "「はい……。\n　どうやら　そのようです。": "Oui... On dirait bien."
     },
     "4991": {
         "「お前ほどの者が　功をあせり\n　魔物に　つけこまれるとは……。": "Qu'un homme de ton calibre puisse etre\nmanipule a l'avantage d'un tel monstre..."
     },
     "4992": {
-        "「富　名声　知識……。\n　それらを求めすぎた　ドワーフたちの末路を\n　知らぬわけでは　あるまいに。": "Sante, gloire, savoir...\nTu as sans doute vu ce qui est arrive aux\nnains qui cherchaient un peu trop ces choses\n<br>\nla."
+        "「富　名声　知識……。\n　それらを求めすぎた　ドワーフたちの末路を\n　知らぬわけでは　あるまいに。": "Richesse, gloire, savoir...\nTu n’ignores pas quel fut le destin des Nains\nqui en ont trop convoite."
     },
     "4993": {
-        "「私は……　どうしても　この国を救いたかった！\n　救わなくては　ならなかったんだ！": "Je...\nPeu importe comment, je voulais sauver ce\nroyaume!\n<br>\nJe devais le sauver!"
+        "「私は……　どうしても　この国を救いたかった！\n　救わなくては　ならなかったんだ！": "Je... Je devais sauver ce pays!\nJe n’avais pas le choix!"
     },
     "4994": {
         "「ウラード国王っ！\n　あなたは　この３つのホクロに\n　見覚えがあるはずだ！": "Roi Woolard!\nVous reconnaissez ces trois points sur ma\nmain, n'est ce pas?"
@@ -387,13 +387,13 @@
         "「ヤツが　向かった先に\n　心当たりのある者は　いるか！？": "Est ce que l'un d'entre vous a une idee d'ou\npourrait ce trouver cette chose!?"
     },
     "5001": {
-        "「……おそらく　この大陸の西の果て\n　ボロヌスの穴かと。": "...\nPeut-etre dans la Doline Boronus a l'extreme\nouest de notre continent."
+        "「……おそらく　この大陸の西の果て\n　ボロヌスの穴かと。": "...Peut-etre dans la Doline Boronus a\nl'extreme ouest de notre continent."
     },
     "5002": {
         "「古文書によると　天魔クァバルナは\n　肉体と魂に分けられ　ボロヌスの穴の泉に\n　その肉体が　封印されたとあるのです。": "Selon les textes anciens, le corps et l'ame\nde Kukulkannibal ont ete separes; son corps,\nscelle dans la fontaine loin dans la Doline."
     },
     "5003": {
-        "「よし！　ラミザよ。\n　騎士団を率いて　ボロヌスの穴へ向かうのじゃ！\n　ドゥラ　お前も　一緒に行くように！": "Tres bien!\nRamiza!\nConduis la cavalerie a la Doline Boronus!\n<br>\nEt Dura, tu vas avec eux!"
+        "「よし！　ラミザよ。\n　騎士団を率いて　ボロヌスの穴へ向かうのじゃ！\n　ドゥラ　お前も　一緒に行くように！": "Bien! Ramiza, mene la chevalerie jusqu’au\nGouffre de Boronus!\nDura, tu pars avec eux!"
     },
     "5004": {
         "「はいっ！": "Bien sur!"
@@ -408,7 +408,7 @@
         "「私の責任だ……。\n　この命に代えても　クァバルナを討つ！": "C'est ma responsibilite...\nJe vais vaincre ce monstre, meme si cela doit\nme couter la vie!"
     },
     "5008": {
-        "「ドゥラめ……。なんという\n　おろかなことをしてくれたのじゃ。\n　よりにもよって　あの天魔クァバルナを……。": "Ce Dura...\nQuelle betise de sa part.\nLui parmis tout notre peuple, qui a ramene\n<br>\ncet horrible Kukulkannibal ici..."
+        "「ドゥラめ……。なんという\n　おろかなことをしてくれたのじゃ。\n　よりにもよって　あの天魔クァバルナを……。": "Dura, espece d’imbecile...\nQuelle folie as-tu commise? Et il a fallu que\nce soit le terrible Kukulkannibal..."
     },
     "5009": {
         "「しかし　それもすべて\n　愛しい我が子を　捨ててしまった\n　わしの過ちが　原因なのだな……。": "Cependant...\nTout est a cause de mon erreur d'avoir\nabandonner mon enfant adore..."
@@ -429,7 +429,7 @@
         "「もう二度ト　封印などされるモノカ！！": "JE NE SERAIS PLUS JAMAIS EMPRISONNE!!"
     },
     "5018": {
-        "「生きとし生ける者ハ　すべて　我が糧……！\n　まずは　お前から　喰らってやロウ！！": "JE ME REGALERAIS DE TOUS CES ETRES VIVANTS...\n...\nET JE VAIS VOUS DEVORER EN PREMIER!!"
+        "「生きとし生ける者ハ　すべて　我が糧……！\n　まずは　お前から　喰らってやロウ！！": "JE ME REGALERAIS DE TOUS CES ETRES VIVANTS...\n...ET JE VAIS VOUS DEVORER EN PREMIER!!"
     },
     "5019": {
         "「まだ　我ニ　挑もうとするカ？\n　はかなく　弱き者よ。": "VOUS VOULEZ QUAND MEME ME DEFIER, MOI?\nFAIBLE ET CHETIF ETRE?"
@@ -450,28 +450,28 @@
         "「あぶないっ！": "Attention!"
     },
     "5025": {
-        "「クククク……！\n　ドゥラ……。まだ　絶望は…終わらヌ……。\n　我が呪イ　絶えヌ…限…り……。": "KEHEHEHEH...\nDURA...\nLE DESESPOIR RESTE A VENIR...\n<br>\nMA MALEDICTION VA...\nDURER...\nPOUR TOUJOURS..."
+        "「クククク……！\n　ドゥラ……。まだ　絶望は…終わらヌ……。\n　我が呪イ　絶えヌ…限…り……。": "KUKUKUKU...! DURA... LE DESESPOIR... N’EST PAS\nENCORE TERMINE... MA MALEDICTION... NE\nS’ETEINDRA JAMAIS..."
     },
     "5026": {
-        "「……あなたが　クァバルナを？": "...Vous avez vaincu Kuabarna ?"
+        "「……あなたが　クァバルナを？": "...C'est toi qui as vaincu Kukulkannibal?"
     },
     "5027": {
-        "「ありがとうございました。\n　私たちが　遅れてしまったせいで\n　危険な目に　あわせてしまいましたね……。": "Merci beaucoup. A cause de notre retard, nous\nvous avons mis en danger..."
+        "「ありがとうございました。\n　私たちが　遅れてしまったせいで\n　危険な目に　あわせてしまいましたね……。": "Merci beaucoup.\nA cause de notre retard, nous vous avons mis\nen danger..."
     },
     "5028": {
-        "「ぜい　ぜい……　ドゥラくん　速いよ。\n　ク　クァバルナは　どこ？": "Zei zei... Dura-kun, tu es rapide. Ou est\nQuabbalna ?"
+        "「ぜい　ぜい……　ドゥラくん　速いよ。\n　ク　クァバルナは　どこ？": "Huff... Huff...\nDura, tu vas trop vite.\nOu... Ou est Kukulkannibal?"
     },
     "5029": {
         "「お前のようなヤツが\n　私の兄だなんて　うんざりだ！": "Je suis si malade et fatigue d'avoir\nquelqu'un comme toi en tant que frere!"
     },
     "5030": {
-        "「討伐のための騎士を選ぶのに　時間をかけて。\n　そのために　なんの関係もない旅の者が\n　クァバルナと　戦ってしまったんだぞ！": "Tu as pris tellement de temps a trouver des\nchevalier pour t'aider.\nCe voyageur est venu le combattre a ta place,\n<br>\nalors que ce n'etait pas son probleme!"
+        "「討伐のための騎士を選ぶのに　時間をかけて。\n　そのために　なんの関係もない旅の者が\n　クァバルナと　戦ってしまったんだぞ！": "On a perdu du temps a choisir les chevaliers\npour l’affronter...\n<br>\nEt a cause de ca, un voyageur qui n’avait rien\na voir avec tout ca a du combattre\nKukulkannibal!"
     },
     "5031": {
         "「ご　ごめん。\n　あやまるから　怒らないで。\n　ボクは　兄弟仲良くしたいんだよ！": "P-pardon...\nNe soyez pas en colere contre moi.\nJ'essaie vraiment d'etre un bon frere!"
     },
     "5032": {
-        "「そ　それに　戦う人は　ちゃんと選ばないと。\n　ケガしたら悲しむ家族が　みんないるから。": "Je dois choisir les bonnes personnes pour le\ntravail.\nSi tu etais blesse, tu aurais inquiete ta\n<br>\nfamille."
+        "「そ　それに　戦う人は　ちゃんと選ばないと。\n　ケガしたら悲しむ家族が　みんないるから。": "Et puis, il faut choisir soigneusement ceux\nqui vont se battre... Leurs familles seraient\ntoutes en deuil s’ils venaient a etre blesses."
     },
     "5033": {
         "「やはり　お前のような甘いヤツに\n　ドルワームを　まかせるわけにはいかない！": "Comme prevu.\nDolworm ne devrait pas etre dirige par une\nmauviette comme toi!"
@@ -483,7 +483,7 @@
         "「いえ……。": "Non..."
     },
     "5036": {
-        "「天魔クァバルナを倒したのは　あの者です。\n　私たちが　到着したときには\n　すでに　すべてが　終わっていました。": "C'est cette personne qui a vaincu\nKukulkannibal. Lorsque nous sommes arrives,\ntout etait deja termine."
+        "「天魔クァバルナを倒したのは　あの者です。\n　私たちが　到着したときには\n　すでに　すべてが　終わっていました。": "C'est cette personne qui a vaincu\nKukulkannibal. Quand nous sommes arrives, tout\netait deja termine."
     },
     "5037": {
         "「なんと！　それは　まことか？": "Quoi!? est-ce bien vrai?"
@@ -495,7 +495,7 @@
         "「そなた　名は　なんと申す？": "Et quel est ton nom?"
     },
     "5040": {
-        "「……そうか　<pc>というのか。\n　<pc>よ。我が家臣の不始末で\n　そなたには　迷惑をかけたようだ。": "<pc>...\nJe vois...\nJe m'excuse pour les ennuis que je t'ai cause\n<br>\navec la mauvaise gestion de mes vassaux."
+        "「……そうか　<pc>というのか。\n　<pc>よ。我が家臣の不始末で\n　そなたには　迷惑をかけたようだ。": "...Je vois, tu t’appelles <pc>.\n<pc>, il semble que mes vassaux t’aient\ncause des ennuis par leur negligence."
     },
     "5041": {
         "「そなたのはたらきと　勇気をたたえ……": "En reconnaissance de ton travail acharche et\nde ta bravour..."
@@ -507,13 +507,13 @@
         "「こ　これは……。": "C-c'est..."
     },
     "5044": {
-        "「恐れながら　国王様。\n　一部　太陽の石になりきれなかった魔瘴石があり\n　それが　悪さをしているのでしょう。": "Avec tout votre respect, votre Majeste, mais\nil y a quelques Miasmites qui ne sont pas\ndevenus des Pierres Soleil.\n<br>\nCa doit etre ca le probleme."
+        "「恐れながら　国王様。\n　一部　太陽の石になりきれなかった魔瘴石があり\n　それが　悪さをしているのでしょう。": "Sauf votre respect, Majeste, certaines\nMiasmites n’ont pas entierement ete purifiees\nen Pierres du Soleil.\n<br>\nElles doivent etre la cause du probleme."
     },
     "5045": {
         "「では　どうすれば……？": "Alors, que devrions nous faire...?"
     },
     "5046": {
-        "「この暴走を　止めるのです。\n　太陽の石のチカラを　制御できるのは\n　ドルワーム王家の血を　引く者のみ！": "Tu dois arreter la Pierre.\nSeuls ceux avec du sang royal de Dolworm\npeuvent controler le pouvoir de la Pierre\n<br>\nSoleil!"
+        "「この暴走を　止めるのです。\n　太陽の石のチカラを　制御できるのは\n　ドルワーム王家の血を　引く者のみ！": "Arretez cette frenesie! Seuls ceux de la\nlignee royale de Dolworm peuvent controler le\npouvoir des Pierres Soleil!"
     },
     "5047": {
         "「私が　止めてみせましょう！\n　それが　私が　この国の王子であるという\n　何よりの証になる！": "Je l'arreterais!\nComme ca, je prouverais que je suis le vrai\nprince de ce pays!"
@@ -525,7 +525,7 @@
         "「なぜ　認めないっ！？": "Pourquoi ne l'admettez vous pas!?"
     },
     "5050": {
-        "「国のために　子を捨てたのでしょう！？\n　正しいことをしたと思っているのなら\n　認められるはずです！！": "Vous avez abandonnes votre propre enfant pour\nvotre pays!\nSi vous pensez reellement avoir fait la bonne\n<br>\nchose, alors vous devriez etre reconnu pour\ncela!!"
+        "「国のために　子を捨てたのでしょう！？\n　正しいことをしたと思っているのなら\n　認められるはずです！！": "Tu as abandonne ton enfant pour le bien du\nroyaume, n’est-ce pas!?\n<br>\nSi tu penses avoir fait le bon choix, alors tu\ndevrais pouvoir l’assumer!!"
     },
     "5051": {
         "「だが　子を捨てた罪は　決して消えない！\n　私の恨みも　消えることはない……！！": "Mais le peche d'avoir abandonne son propre\nenfant ne s'en ira jamais!\nTout comme mon ressentiment a votre egard!!"
@@ -537,19 +537,19 @@
         "「止まれ！　太陽の石よ！！\n　暴走をやめろ！！！": "Noon! la Pierre Soleil!!\nJe dois arreter ce carnage!!!"
     },
     "5054": {
-        "「……なぜだっ！　なぜ　止まらない！？": "....\nPourquoi?\nPourquoi ca ne l'arrete pas!?"
+        "「……なぜだっ！　なぜ　止まらない！？": "....Pourquoi?\nPourquoi ca ne l'arrete pas!?"
     },
     "5055": {
         "「わしが　かつて　捨てた子は……": "L'enfant que j'ai abandonne..."
     },
     "5056": {
-        "「女の子なのじゃよ。": "...\nEtait une fille."
+        "「女の子なのじゃよ。": "...Etait une fille."
     },
     "5057": {
         "「女……。": "Une fille..."
     },
     "5058": {
-        "「国王様っ！　チカラをお貸しください！\n　早く　太陽の石を抑えないと\n　お城が　ふき飛んでしまいます！！": "Votre Majeste, j'ai besoin de votre aide!\nSi nous ne faisons rien a propos de la Pierre\nSoleil maintenant, notre chateau sera de\n<br>\nl'histoire ancienne!!"
+        "「国王様っ！　チカラをお貸しください！\n　早く　太陽の石を抑えないと\n　お城が　ふき飛んでしまいます！！": "Majeste! Pretez-nous votre force! Si nous ne\nmaitrisons pas rapidement les Pierres Soleil,\nle chateau risque d’etre souffle!!"
     },
     "5059": {
         "「うむっ！": "Hmm!"
@@ -561,7 +561,7 @@
         "「ラミザ王子も　チカラを貸してください！": "Ramiza, aide nous toi aussi!"
     },
     "5062": {
-        "「うう……　うううっ………。": "*pleurs*... *pleurs*....."
+        "「うう……　うううっ………。": "*pleurs*... *pleurs*..."
     },
     "5063": {
         "「ラミザ王子！？": "Prince Ramiza!?"
@@ -582,10 +582,10 @@
         "「ラミザ王子っ！！": "Prince Ramiza!!"
     },
     "5069": {
-        "「……チリ！？": "...\nChiri!?"
+        "「……チリ！？": "...Chiri!?"
     },
     "5070": {
-        "「ま　まさか　キミが！？": "P-pas possible...\nTu es!?"
+        "「ま　まさか　キミが！？": "Qu-Quoi ?! Ce serait toi ?!"
     },
     "5071": {
         "「お願いします　ラミザ王子！\n　あなたのチカラが　必要なんです！！": "S'il vous plait, Prince Ramiza!\nOn a vraiment besoin de votre aide!!"
@@ -597,28 +597,28 @@
         "「…………………。": "..................."
     },
     "5074": {
-        "「くっ……　うあああああああ！！！": "Grr...\nAaaghhh!!!"
+        "「くっ……　うあああああああ！！！": "Grr... Aaaghhh!!!"
     },
     "5075": {
-        "「い　今のは　ボクの……　あれ？": "A l'instant, c'etait...\nHuh?"
+        "「い　今のは　ボクの……　あれ？": "Ce... ca venait de moi... Hein ?"
     },
     "5076": {
         "「ラミザ王子　すごいです！": "Prince Ramiza, tu as fais un travail\nextraordinaire!"
     },
     "5077": {
-        "「チリ……　と言ったか。\n　わしに　顔を見せておくれ。": "Chiri...\nEtait-ce.\nLaisse moi voir ton visage."
+        "「チリ……　と言ったか。\n　わしに　顔を見せておくれ。": "Chiri... Etait-ce.\nLaisse moi voir ton visage."
     },
     "5078": {
         "「そうか……　お前だったのか。": "Je vois...\nC'etait vraiment toi."
     },
     "5079": {
-        "「すまなかった……。\n　あのとき　わしは　お前を手放す以外に\n　国を守る方法はないと　信じておったのじゃ。": "Je suis tellement desole...\nA cet epoque, je croyais que le seul moyen de\nproteger notre pays etait de te laisser\n<br>\npartir."
+        "「すまなかった……。\n　あのとき　わしは　お前を手放す以外に\n　国を守る方法はないと　信じておったのじゃ。": "Je suis desole...\nA l’epoque, je croyais que t’abandonner etait\nla seule facon de proteger le royaume."
     },
     "5080": {
-        "「だが　結果的に　多くの者をキズつけ\n　この国に　新たな悲劇を生んでしまった。\n　わしの選択は　まちがっていたのじゃな。": "Mais...\nEn consequence, enormement de monde a ete\nblesse et une nouvelle tragedie a frappe\n<br>\nnotre pays...\nJ'ai fais le mauvais choix."
+        "「だが　結果的に　多くの者をキズつけ\n　この国に　新たな悲劇を生んでしまった。\n　わしの選択は　まちがっていたのじゃな。": "Mais au final, j’ai blesse tant de personnes\net provoque une nouvelle tragedie dans ce\nroyaume...\n<br>\nMon choix etait une erreur, n’est-ce pas?"
     },
     "5081": {
-        "「チリよ。この王宮で　一緒に暮らさぬか？\n　亡き王妃も　お前を手放したことを\n　ずっと　気に病んでおった。": "Chiri, veux tu venir ici, et vivre avec nous\nau palais?\nTa defunte mere etait tellement en colere de\n<br>\nt'avoir abandonne comme ca."
+        "「チリよ。この王宮で　一緒に暮らさぬか？\n　亡き王妃も　お前を手放したことを\n　ずっと　気に病んでおった。": "Chili, voudrais-tu vivre ici, au palais?\nFeue la reine a toujours regrette de t’avoir\nabandonnee."
     },
     "5083": {
         "「ありがとうございます　国王様。": "Merci enormement, votre Majeste."
@@ -627,34 +627,34 @@
         "「ですが……　王宮の生活は\n　きっと　私には　あいません。": "Cependant...\nJe peux vous dire pour sur que vivre dans ce\npalais n'est pas fait pour moi."
     },
     "5085": {
-        "「私の父は　ガタラに住む　養父だけ。\n　変わり者だけど　愛情込めて育ててくれました。\n　私は　彼のように　自由に生きたいのです。": "Mon pere est la personne qui m'a adopte et\nm'a eleve.\nC'est un homme etrange, mais il m'a eleve.\n<br>\nJe veux vivre librement, comme il l'a fait\nauparavant."
+        "「私の父は　ガタラに住む　養父だけ。\n　変わり者だけど　愛情込めて育ててくれました。\n　私は　彼のように　自由に生きたいのです。": "Mon seul pere, c’est mon pere adoptif de\nGatara. Un original, certes, mais il m’a eleve\navec amour. Je veux vivre libre, comme lui."
     },
     "5086": {
         "「ドゥラくん　どこへ行くの？": "Dura, ou est ce que tu vas?"
     },
     "5087": {
-        "「ウラード国王　暴言の数々を　お許しください。\n　私は　もう二度と　ドルワームの土を\n　踏みません。": "Roi Woolard, je voudrais sincerement\nm'excuser pour mon comportement.\nJe ne mettrais plus jamais les pieds sur la\n<br>\nterre de Dolworm."
+        "「ウラード国王　暴言の数々を　お許しください。\n　私は　もう二度と　ドルワームの土を\n　踏みません。": "Roi Woolard, pardonnez mes paroles\noffensantes. Je ne remettrai plus jamais les\npieds a Dolworm."
     },
     "5088": {
-        "「待ってください　ドゥラ院長！\n　院長の代わりになるような研究者は\n　どこにも　いません。": "Attends, Directeur Dura!\nIl n'y a pas un seul chercheur que je\nconnaisse qui puisse te remplacer en tant que\n<br>\nDirecteur."
+        "「待ってください　ドゥラ院長！\n　院長の代わりになるような研究者は\n　どこにも　いません。": "Attendez, directeur Dura!\nIl n’existe aucun chercheur capable de vous\nremplacer."
     },
     "5089": {
         "「院長なら　クァバルナの入れ知恵なんてなくても\n　いつか　太陽の石を　創りだせたはずです！\n　私は　そう信じてます！": "Tu aurais pu creer une Pierre Soleil un jour\nsans l'intervention de Kukulkannibal!\nJe le crois vraiment!"
     },
     "5090": {
-        "「………………。": ""
+        "「………………。": "............"
     },
     "5091": {
-        "「ありがとう……　チリ。": "Merci...\nChiri."
+        "「ありがとう……　チリ。": "Merci... Chiri."
     },
     "5092": {
-        "「ドゥラよ。そなたには　これからも\n　王立研究院の長であることを　命ずる。\n　ドルワームのため　チカラを貸してほしい。": "Dura.\nTu devrais restera a la tete de l'Institut\nRoyal de Recherche.\n<br>\nJe t'ordonne de continuer a preter ta force\npour le bien de Dolworm."
+        "「ドゥラよ。そなたには　これからも\n　王立研究院の長であることを　命ずる。\n　ドルワームのため　チカラを貸してほしい。": "Dura, je t’ordonne de rester a la tete de\nl’Institut Royal de Recherche.\nDolworm a encore besoin de toi."
     },
     "5093": {
         "「は……はいっ！": "B-bien sur!"
     },
     "5094": {
-        "「そして　もちろん　忘れてはならぬ。\n　見事　天魔クァバルナを葬ってくれた\n　ドルワームの英雄　<pc>の活躍を。": "Et bien sur, nous ne devons pas oublier!\n<pc>, notre Heros de Dolworm, qui a\nvaillamment mit six pieds sous terre le\n<br>\nmonstre Kukulkannibal!"
+        "「そして　もちろん　忘れてはならぬ。\n　見事　天魔クァバルナを葬ってくれた\n　ドルワームの英雄　<pc>の活躍を。": "Et bien sur, nous ne devons pas oublier...\nL’exploit de <pc>, <if_woman>l’heroine<else>le heros<endif> de Dolworm,\nqui a brillamment vaincu Kukulkannibal."
     },
     "5095": {
         "「そなたには　ほうびとして\n　金のキーエンブレムを与えよう！": "Comme recompense, je te confie un Embleme Cle\nd'Or!"
@@ -663,7 +663,7 @@
         "<pc>は\n金のキーエンブレム（だいじなもの）を\n受け取った！<me 72>": "<pc> recoit L'Embleme Cle Dore (Objet\nImportant!)<me 72>"
     },
     "5097": {
-        "「また　今後は　水晶宮の中にある\n　ドルワーム鉄道駅の利用を　許可しよう。\n　そなたの旅に　大いに役立てるがよい！": "Et en plus, tu pourras acceder a la station\nde Dolworm a l'interieur du palais.\nJ'espere qu'il te sera utile lors de tes\n<br>\nvoyages!"
+        "「また　今後は　水晶宮の中にある\n　ドルワーム鉄道駅の利用を　許可しよう。\n　そなたの旅に　大いに役立てるがよい！": "Desormais, je t’autorise a utiliser la gare\nferroviaire de Dolworm, situee dans le Palais\nde Cristal.\n<br>\nQue cela te soit d’une grande aide pour ton\nvoyage!"
     },
     "5098": {
         "「そなたたちの未来に　明るい太陽の光が\n　降りそそがんことを！": "Que la lumiere du Soleil brille vivement sur\nvotre futur!"
@@ -675,13 +675,13 @@
         "「いってらっしゃいませ！": "Bon voyage!"
     },
     "5101": {
-        "<pc>は\n魔法布（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Magicloth (objet cle) !<me 60>"
+        "<pc>は\n魔法布（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Magitissu (Objet cle)!<me 60>"
     },
     "5102": {
-        "「それは　王立研究院で開発された　魔法布です。\n　魔瘴石に　直接　触れるのは危険ですから\n　必ず　その布ごしに　持ってください。": "C'est un tissu magique cree par l'Institut\nRoyale de Recherche.\nC'est dangereux de toucher directement la\n<br>\nMiasmite, donc utilisez ce tissu."
+        "「それは　王立研究院で開発された　魔法布です。\n　魔瘴石に　直接　触れるのは危険ですから\n　必ず　その布ごしに　持ってください。": "C'est un Magitissu developpe par l'Institut\nRoyal de Recherche.\n<br>\nToucher une Miasmite a mains nues est\ndangereux, alors utilise toujours ce tissu\npour la manipuler."
     },
     "5103": {
-        "「ふふん。さあ　奥へ行くわよ　<pc>！\n　このルナナさまの　神がかった運のよさを\n　見せつけてあげるわッ！！": "Heheh.\nViens, <pc>.\nAllons plus profond!\n<br>\nJe vais te montrer a quel point je suis\nchanceuse!"
+        "「ふふん。さあ　奥へ行くわよ　<pc>！\n　このルナナさまの　神がかった運のよさを\n　見せつけてあげるわッ！！": "Heheh. Viens, <pc>.\nAllons plus profond! Je vais te montrer a quel\npoint je suis chanceuse!"
     },
     "5104": {
         "「おおお～っ　さすが　ドゥラ様！": "Ooohhh!\nComme on pouvait s'y attendre, Directeur Dura!"
@@ -690,7 +690,7 @@
         "「うおおっ　でけえ！！！": "Woow, c'est enorme!!!"
     },
     "5106": {
-        "「国王様……。\n　その件は　国を想うため　仕方のなかったこと。\n　どうか　ご自分を責めないでください。": "Votre Majeste...\nCe qui est arrive etait pour le bien de notre\npays.\n<br>\nNe vous en voulez pas, s'il vous plait."
+        "「国王様……。\n　その件は　国を想うため　仕方のなかったこと。\n　どうか　ご自分を責めないでください。": "Majeste... Vous n’aviez pas le choix, c’etait\npour le bien du royaume.\nNe vous blamez pas."
     },
     "5108": {
         "「そなたは　たしか　王立研究院の者だったな。\n　名は　チリと申したか。": "Tu es de l'Institut Royal de Recherche, non?\nChiri, c'est ca...?"
@@ -699,7 +699,7 @@
         "「それに　ラミザ王子が　きっと\n　天魔クァバルナを　討ってくださると\n　私は　信じております。": "Et je suis sur que le Prince Ramiza vaincra\nKukulkannibal."
     },
     "28442": {
-        "「……礼を言わねばな。そなたの申す通りじゃ。\n　今は　ラミザを信じ　待つことにしよう。": "...\nJe dois te remercier.\nTu as raison.\n<br>\nPour le moment, je vais croire Ramiza et\nattendre."
+        "「……礼を言わねばな。そなたの申す通りじゃ。\n　今は　ラミザを信じ　待つことにしよう。": "...Je dois te remercier. Tu as raison.\nPour le moment, je vais croire Ramiza et\nattendre."
     },
     "28443": {
         "「む？": "Mmm?"
@@ -708,7 +708,7 @@
         "「そなたは　旅の者か。\n　こんなときに　ドルワームを訪れるとは\n　ついておらんかったな。": "Un voyageur?\nJe deteste devoir dire ca, mais tu es venu\ndans ce royaume au mauvais moment."
     },
     "28445": {
-        "「……ほう。なかなか　ウデの立ちそうな旅人だ。\n　どうじゃ？　そなたさえよければ\n　天魔クァバルナを討つ　手助けをしてくれぬか？": "...\nOh, il a l'air tres competent...\nQu'en penses tu?\n<br>\nVa tu nous aider a vaincre ce monstre\nKukulkannibal?"
+        "「……ほう。なかなか　ウデの立ちそうな旅人だ。\n　どうじゃ？　そなたさえよければ\n　天魔クァバルナを討つ　手助けをしてくれぬか？": "...Oh? Tu as l’air talentueux.\nSi tu le veux bien, aiderais-tu a vaincre\nKukulkannibal?"
     },
     "28446": {
         "「ラミザを　信頼していないわけではないが\n　ひとりでも　味方が増えたほうが\n　きっと　あやつも　心強いじゃろう。": "Ce n'est pas que je ne crois pas Ramiza, mais\nje suis sur qu'il sera un peu plus confiant\navec plus de compagnons a ses cotes."
@@ -729,18 +729,18 @@
         "<cs_pchero>は　小さな魔瘴石のかけらを\n持っていた魔法布で　包んだ。": "<cs_pchero> enveloppe les petits eclats de\nMiasmite dans le Magitissu."
     },
     "28452": {
-        "「アグラニでは　散々な目にあったけど\n　このドルワームで活躍をして　今度こそ\n　私の名を　世界中に　とどろかせるのよッ！": "J'ai eu des moments difficiles a Agrani, mais\nici, a Dolworm, je vais briller et faire\nresonner mon nom dans le monde entier !"
+        "「アグラニでは　散々な目にあったけど\n　このドルワームで活躍をして　今度こそ\n　私の名を　世界中に　とどろかせるのよッ！": "A Agrani, j’ai eu mon lot de malheurs...\nMais cette fois, a Dolworm, je vais briller et\nfaire resonner mon nom dans le monde entier!!"
     },
     "28453": {
-        "「私の夢は　世界一の名声を　手に入れること！\n　このドルワームで　活躍をして\n　私の名を　世界中に　とどろかせるのよッ！": "Mon reve est de devenir celebre dans le monde\nentier ! Je vais briller a Dorworm et faire\nresonner mon nom aux quatre coins du globe !"
+        "「私の夢は　世界一の名声を　手に入れること！\n　このドルワームで　活躍をして\n　私の名を　世界中に　とどろかせるのよッ！": "Mon reve, c’est d’obtenir la plus grande\nrenommee au monde!\n<br>\nEn me distinguant a Dolworm, je ferai resonner\nmon nom aux quatre coins du monde!!"
     },
     "28454": {
-        "「命令に背いたら　痛い目を見るからね。\n　頼んだわよ　<pc>！": "Si tu desobeis aux ordres, tu le regretteras.\nJe compte sur toi, <pc> !"
+        "「命令に背いたら　痛い目を見るからね。\n　頼んだわよ　<pc>！": "Si tu desobeis, ca va mal finir pour toi.\nJe compte sur toi, <pc>!"
     },
     "32286": {
         "「ドルワームに　平和を　もたらしてくれた\n　すべての者たちに　感謝する。": "Merci a tout ceux qui ont apportes la paix a\nDolworm."
     },
     "37699": {
-        "<cs_pchero>は\n魔瘴石の包み（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu le Wrapped Miasmite\n(objet cle) ! <me 60>"
+        "<cs_pchero>は\n魔瘴石の包み（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu la Miasmite enveloppee\n(Objet cle)!<me 60>"
     }
 }
