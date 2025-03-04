@@ -1,6 +1,6 @@
 {
     "4865": {
-        "「うん？　ドゥラ院長に　何か用か？\n　だが　院長は……": "Hmm?\nTu as besoin du Directeur Dura pour quelque\nchose?\n<br>\nPardon, mais il est..."
+        "「うん？　ドゥラ院長に　何か用か？\n　だが　院長は……": "Hmm?\nTu cherches le directeur Dura?\nMais il est..."
     },
     "4866": {
         "「ドゥラ院長！\n　もう　お出かけですか？": "Directeur Dura!\nVous nous quittez deja?"
@@ -9,22 +9,22 @@
         "「では　行ってくる。": "Sur ce, je m'en vais."
     },
     "4869": {
-        "「あれで　ラミザ王子と同じ　１６歳とは。\n　まったく　たいした若者だ……。": "Et dire qu'il a le meme age que le Prince\nRamiza, 16 ans Quel jeune homme brillant,\nintelligent..."
+        "「あれで　ラミザ王子と同じ　１６歳とは。\n　まったく　たいした若者だ……。": "Il a le meme age que le prince Ramiza, 16\nans...\nQuel jeune exceptionnel..."
     },
     "4871": {
-        "「待っておったぞ　ドゥラ。\n　今にも失われそうな　太陽の石のかがやきを\n　取り戻すことができるとは　本当なのか？": "Je t'attendais, Dura.\nEst-ce vrai?\nTu peux vraiment restaurer l'eclat de notre\n<br>\nPierre Soleil qui s'estompe?"
+        "「待っておったぞ　ドゥラ。\n　今にも失われそうな　太陽の石のかがやきを\n　取り戻すことができるとは　本当なのか？": "Je t’attendais, Dura.\n<br>\nEst-il vrai que tu peux restaurer l’eclat de\nla Pierre Soleil, qui est sur le point de\ns’eteindre?"
     },
     "4872": {
         "「はい　ウラード国王。\n　まずは　こちらを　ご覧ください。": "Oui, Roi Woolard.\nD'abord, regardez ceci."
     },
     "4873": {
-        "「それは……　まさか　太陽の石か！？": "Pas possible...\nC'est une Pierre Soleil!?"
+        "「それは……　まさか　太陽の石か！？": "Ca... Ce ne serait pas une Pierre Soleil?!"
     },
     "4874": {
         "「さようでございます。": "Bien sur que c'en est une."
     },
     "4875": {
-        "「どうやって　太陽の石を　手に入れたのじゃ！？\n　数十年も前に　掘りつくされ\n　枯渇したと言われる　幻の石なのじゃぞ！": "Comment tu as fais pour en trouver une!?\nOn dit que toutes les Pierres ont ete mines\net qu'il n'y a plus aucune veine depuis des\n<br>\ndecennies!"
+        "「どうやって　太陽の石を　手に入れたのじゃ！？\n　数十年も前に　掘りつくされ\n　枯渇したと言われる　幻の石なのじゃぞ！": "Comment as-tu pu obtenir une Pierre\nSoleil?!\n<br>\nOn dit que c'est une pierre legendaire,\nepuisee depuis des decennies!"
     },
     "4876": {
         "「創りだしたのでございます　国王。": "Je l'ai cree moi meme, mon Roi."
@@ -39,10 +39,10 @@
         "「その黒い石は……！？": "Cette Pierre sombre, c'est...!?"
     },
     "4880": {
-        "「はい。悪しき瘴気の塊　魔瘴石でございます。\n　ですが　この魔法布の上に置き\n　直接　触れねば　なんの心配もございません。": "Oui.\nCe petit bout de miasme demoniaque, de la\nMiasmite.\n<br>\nCependant, en la placant dans ce Magitissu,\non ne la touche pas directement."
+        "「はい。悪しき瘴気の塊　魔瘴石でございます。\n　ですが　この魔法布の上に置き\n　直接　触れねば　なんの心配もございません。": "Oui, c’est un fragment de miasme demoniaque\nsolidifie, une Miasmite.\n<br>\nMais tant qu’elle est posee sur ce tissu\nenchante et que personne ne la touche\ndirectement, il n’y a aucun risque."
     },
     "4881": {
-        "「う……うむ。": "B...\nBien."
+        "「う……うむ。": "B... Bien."
     },
     "4882": {
         "「では　始めます。": "Je vais commencer."
@@ -75,7 +75,7 @@
         "「聞いた通りだ　皆の者！\n　これより　魔瘴石を集めてきた者には\n　その量に応じて　ほうびを与える！": "Vous avez entendu les ordres!\nCeux qui ramenent le plus de Miasmite seront\nfortement recompenses!"
     },
     "4892": {
-        "「魔瘴石は　この国の東にある\n　カルサドラ火山で　多く採れます。\n　現地にいる　研究員の指示に従ってください。": "La Miasmite est tres abondant dans le Volcan\nCalsadora a l'Est.\nVeuillez suivre les instructions du chercheur\n<br>\nsur le site."
+        "「魔瘴石は　この国の東にある\n　カルサドラ火山で　多く採れます。\n　現地にいる　研究員の指示に従ってください。": "Les Miasmites abondent dans le volcan\nCalsadora, a l'est du pays. Suis les\ninstructions des chercheurs sur place."
     },
     "4893": {
         "「ドルワームを救うのは……　この私だ！": "Celui qui sauvera Dolworm... c'est moi!"
@@ -87,13 +87,13 @@
         "「あら　あなたは　たしか……。\n　あたしの元下僕の　<pc>じゃないッ！？": "Hey, attends une minute...\nN'es tu pas mon ancien serviteur, <pc>!?"
     },
     "4896": {
-        "「くくく……　いいところで　会ったわね！\n　タイミングのよさに免じて\n　もう一度　あたしの下僕にしてあげるわッ！": "Hehehe...\nQuel timing de ta part!\nTu as l'honneur de redevenir mon petit\n<br>\nserviteur!"
+        "「くくく……　いいところで　会ったわね！\n　タイミングのよさに免じて\n　もう一度　あたしの下僕にしてあげるわッ！": "Kukuku... Tu arrives au bon moment!\nPour cette chance, je vais encore une fois\nfaire de toi mon serviteur!"
     },
     "4897": {
-        "「あら　あなた……。\n　なかなか　いい目をしてるじゃないッ！？\n　名前は……　そう　<pc>っていうの。": "Hey, toi la...\nTu as des yeux aiguises, pas vrai?\nTon nom est... <pc>.\n<br>\nGotcha."
+        "「あら　あなた……。\n　なかなか　いい目をしてるじゃないッ！？\n　名前は……　そう　<pc>っていうの。": "Oh? Toi... Tu as un regard plutot interessant,\nnon!? Ton nom est...\nOui, <pc>, c’est bien ca."
     },
     "4898": {
-        "「ふふん　気に入ったわ！\n　ちょうど　人手のほしいところだったし\n　あなた　このルナナさまの下僕になりなさいッ！": "Je l'adore!\nJuste quand j'avais besoin d'une main\nd'oeuvre a l'ancienne... tu peux etre mon\n<br>\nserviteur, moi la grande Lunana!"
+        "「ふふん　気に入ったわ！\n　ちょうど　人手のほしいところだったし\n　あなた　このルナナさまの下僕になりなさいッ！": "Fufun, tu me plais!\nJustement, j’avais besoin de quelqu’un...\nToi, deviens le serviteur de la grande Lunana!"
     },
     "4899": {
         "「それでは　さっそく　命令するわ！\n　今すぐ　東のカルサドラ火山へ行き\n　大量の魔瘴石を　ゲットしてくるのよッ！！": "Alors, je vais te donner un ordre\nimmediatement ! Va tout de suite au volcan de\nCalsadora a l'est et rapporte-moi une grande<br>quantite de pierres de miasme !!"
