@@ -9,7 +9,7 @@
         "「見てのとおりです。\n　<pc>さんが　ロンダの氷穴で\n　チカラ尽きていたのです……。": "Regarde par toi meme.\nJ'ai trouve <pc> ecroule Dans la Grotte de\nGlace de Rhonda..."
     },
     "797": {
-        "「ザンジャ神父……。\n　どうか　<pc>さんの魂が迷わぬよう\n　神に　お祈りを……。": "Pere Zanja... Je vous en prie, priez pour que\nl'ame de <pc>-san ne se perde pas aupres\nde Dieu..."
+        "「ザンジャ神父……。\n　どうか　<pc>さんの魂が迷わぬよう\n　神に　お祈りを……。": "Pere Zanja...\nPriez afin que l’ame de <pc> ne s’egare\npas..."
     },
     "798": {
         "「かわいそうに……。確かに　死んでおる。": "Cette pauvre ame...\nTu as raison, en effet elle a quitte son\ncorps."
@@ -129,7 +129,7 @@
         "「<pc>さんが倒れていたのは\n　その氷穴を　南西に抜けた先の　ロンダ岬です。\n　ルーラストーンも　そこにあるかもしれません。": "Tu t'es effondre au Cap de Rhonda, juste apres\navoir traverse la Grotte de Glace.\nTa Telepierre s'y trouve peut-etre encore."
     },
     "841": {
-        "<pc>は\nルーラストーンを　手に入れた！<me_60>": "<pc> a obtenu la Zoomstone ! <me_60>"
+        "<pc>は\nルーラストーンを　手に入れた！<me_60>": "<pc> a obtenu une Télépierre!<me_60>"
     },
     "842": {
         "「あーーーっ　<pc>はん！": "Aww, <pc>!"
@@ -207,7 +207,7 @@
         "「ほな　そういうわけで！\n　あたしのビジネスが終わるまで\n　ジャマせんといてな！": "Voila, c'est fait!\nReste en dehors de mon chemin jusqu'a ce que\nj'ai fini mes affaires!"
     },
     "874": {
-        "「あっ　それより　<pc>さん。\n　ルーラストーンは　見つかったみたいですね。\n　ロンダ岬で　何か思いだせましたか？": "Ah, d'ailleurs, <pc>-san. Il semble que\nvous ayez trouve le Zoomstone. Avez-vous pu\nvous rappeler de quelque chose a Rhonda Cape ?"
+        "「あっ　それより　<pc>さん。\n　ルーラストーンは　見つかったみたいですね。\n　ロンダ岬で　何か思いだせましたか？": "Ah, mais avant ca, <pc>... On dirait que\ntu as retrouve ta Telepierre. As-tu reussi a\nte rappeler de quelque chose au Cap de Rhonda?"
     },
     "875": {
         "「マイユ。\n　ジーガンフのことなら　心配無用だ。": "Maille.\nTu n'as pas a t'inquieter pour Jiganf."
@@ -507,7 +507,7 @@
         "「皆　迷いの中で生きている。\n　若ければ　なおのことだ。だが　自ら選んだ\n　道を進んでいるのなら　それでいい。": "Tout le monde vit dans l’incertitude, surtout\nles jeunes.\n<br>\nMais tant qu’on avance sur la voie qu’on a\nchoisie, tout ira bien."
     },
     "979": {
-        "「さて……　ところで　<pc>よ。\n　こっちへ来い。": "Alors... A propos, <pc>. Viens par ici."
+        "「さて……　ところで　<pc>よ。\n　こっちへ来い。": "Bon...\nAu fait, <pc>, viens ici."
     },
     "980": {
         "「今回のことでは　本当に　世話になった。\n　まずは　礼を言おう。……だが　お前は\n　わしの知っている　<pc>ではないな？": "Cette fois encore, tu m'as vraiment aide.\nJe te remercie.\n<br>\n...Mais tu n'es pas le <pc> que je\nconnais, n'est-ce pas?"
@@ -522,13 +522,13 @@
         "「やはりか……。\n　この鏡に映る　人間の姿が\n　お前の　本当の姿なんだな？": "J'ai raison, hein...?\nL'humain qui s'est reflete dans le miroir est\nta vraie forme."
     },
     "984": {
-        "「これも　アロルドから聞いた話だ。\n　命を落とした者の身体を得て　生き返った者が\n　他の大陸にも　いるそうだ。": "C'est aussi une histoire que j'ai entendue de\nla part d'Arold. Il semblerait qu'il y ait\nd'autres personnes sur d'autres continents qui<br>sont revenues a la vie en prenant possession\ndu corps de ceux qui ont perdu la leur."
+        "「これも　アロルドから聞いた話だ。\n　命を落とした者の身体を得て　生き返った者が\n　他の大陸にも　いるそうだ。": "Ca aussi, c’est quelque chose qu’Arold m’a\nraconte.\n<br>\nIl parait que sur d’autres continents, des\npersonnes sont revenues a la vie en prenant le\ncorps de ceux qui avaient perdu la leur."
     },
     "985": {
         "「わしの知っている　オーガの　<pc>は\n　きっと　ロンダ岬で　悪鬼ゾンガロンの\n　邪気に触れ　命を落としたのだろう……。": "L’ogre que je connais a surement perdu la vie\nau Cap de Rhonda, apres avoir ete touche par\nl’aura malefique du demon Zongalon..."
     },
     "987": {
-        "「……アイツには　夢があったのだ。\n　この村で修行し　一人前の証を手に入れたら\n　ひとりで　世界を旅するという夢がな。": "...<if_woman>elle<else>Il<endif> avait un reve.\n<br>\nApres s'etre entraine dans ce village et avoir\nobtenu la preuve de sa valeur, <if_woman>elle<else>il<endif> voulait\nvoyager seul a travers le monde."
+        "「……アイツには　夢があったのだ。\n　この村で修行し　一人前の証を手に入れたら\n　ひとりで　世界を旅するという夢がな。": "...<if_woman>elle<else>Il<endif> avait un reve.\n<br>\nApres s'etre <if_woman>entrainee<else>entraine<endif> dans ce village et avoir\nobtenu la preuve de sa valeur, <if_woman>elle<else>il<endif> voulait\nvoyager <if_woman>seule<else>seul<endif> a travers le monde."
     },
     "988": {
         "「<pc>。アイツの夢を\n　お前が　かなえてやってくれ。\n　その目で　世界を見て回るのだ。": "<pc>.\nFais que ce reve soit realite.\nVois le monde de tes propres yeux."
@@ -537,16 +537,16 @@
         "「それに　お前も　その姿となって\n　生き返った理由を　知りたいだろう。\n　世界を旅して　その理由を探すといい。": "De plus, je suis sur que tu aimerais savoir\npourquoi tu es revenu a la vie sous cette\nforme.\n<br>\nTu dois parcourir le monde pour le savoir."
     },
     "990": {
-        "「これは　いつか　オーガの　<pc>が\n　旅立つときに　渡そうと思っていた物だが\n　お前に　くれてやろう！": "C'est quelque chose que je comptais donner a\n<pc> de l'Ogre lorsqu'il partirait en\nvoyage, mais je vais te le donner a toi !"
+        "「これは　いつか　オーガの　<pc>が\n　旅立つときに　渡そうと思っていた物だが\n　お前に　くれてやろう！": "J’avais prevu de donner ceci a <pc>,\nl’ogre, lorsqu’il partirait en voyage un\njour...\n<br>\nMais je vais te le donner!"
     },
     "991": {
-        "<pc>は\n大陸間鉄道パス（だいじなもの）を　手に入れた！<me_60>": "<pc> a obtenu le Intercontinental Rail\nPass (objet cle) ! <me_60>"
+        "<pc>は\n大陸間鉄道パス（だいじなもの）を　手に入れた！<me_60>": "<pc> a obtenu le Pass de Train\nIntercontinental (Objet cle)!<me_60>"
     },
     "992": {
-        "「その大陸間鉄道パスは\n　鉄道に乗るための　許可証だ。\n　海の向こうに渡るために　必要になる。": "Ce Intercontinental Rail Pass est un permis\npour prendre le train. Il sera necessaire pour\ntraverser la mer."
+        "「その大陸間鉄道パスは\n　鉄道に乗るための　許可証だ。\n　海の向こうに渡るために　必要になる。": "Le Pass de Train Intercontinental est un\npermis permettant de prendre le train.\nIl est indispensable pour traverser la mer."
     },
     "993": {
-        "「それと　もうひとつ……。\n　<pc>　冒険の書を出せ。\n　お前なら　この証を持つ資格は　充分だ。": "Et puis, une autre chose... Sors le <pc>\nAdventure Log. Tu as amplement merite le droit\nde posseder cette preuve."
+        "「それと　もうひとつ……。\n　<pc>　冒険の書を出せ。\n　お前なら　この証を持つ資格は　充分だ。": "Et une derniere chose... <pc>,\nmontre-moi ton Journal d'Aventure.\nTu as largement merite cette preuve."
     },
     "994": {
         "「これが　一人前の証！\n　その名のとおり　一人前と認められた者だけが\n　持つことのできる証だ。": "C'est la Marque de l'Age Adulte!\nComme son nom l'indique, seuls ceux qui ont\nmuris peuvent l'obtenir."
@@ -555,10 +555,10 @@
         "「この証は　世界中のどこであっても\n　お前のチカラを証明してくれる。\n　一国の王にさえ　会うこともできるだろう！": "Ce certificat va acter la preuve de ta force\npartout dans le monde.\nTu seras meme capable de parler aux rois!"
     },
     "996": {
-        "「世界をめぐり　大きな国や町で活躍すれば\n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "Si tu parcoures le monde et fait un impact\ndans la vie des gens en ville ou chateaux, tu\npourrais meme recevoir des Emblemes Cle une\n<br>\nmedaille en forme de cle."
+        "「世界をめぐり　大きな国や町で活躍すれば\n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "En voyageant et en se distinguant dans de\ngrandes nations et cites, on peut recevoir un\nembleme cle, une medaille en forme de cle."
     },
     "997": {
-        "「まずは　南の獅子門を越え　グレン城を目指せ！\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させるとよいぞ。": "Tout d'abord, traverse la Lion Gate au sud et\nvise le Chateau de Glen ! J'ai prepare trois\ncompagnons de soutien pour t'aider. Il serait<br>judicieux de les emmener avec toi dans ton\nvoyage."
+        "「まずは　南の獅子門を越え　グレン城を目指せ！\n　サポート仲間という協力者を　３人用意したから\n　お前の旅に　同行させるとよいぞ。": "Commence par franchir la Porte du Lion au sud\net vise le chateau de Glen!\n<br>\nJ’ai rassemble trois compagnons de soutien\npour toi, tu ferais bien de les emmener avec\ntoi."
     },
     "998": {
         "「あっ　<pc>はん！": "Heeey, <pc>!"
@@ -591,19 +591,19 @@
         "「な…なんだ……　この気配は！？": "Qu...quoi...?\nCe signe est...?!"
     },
     "23904": {
-        "「<pc>さんは　その氷穴を\n　南西に抜けた先の　ロンダ岬で倒れていました。\n　もしかしたら　ルーラストーンも　そこに……？": "Tu t'es evanoui au Cap Rhonda, juste au sud\nde la grotte de glace.\nPeut etre que c'est la ou se trouve ta\n<br>\nTelepierre...?"
+        "「<pc>さんは　その氷穴を\n　南西に抜けた先の　ロンダ岬で倒れていました。\n　もしかしたら　ルーラストーンも　そこに……？": "<pc>, tu t’es effondre au Cap de Rhonda,\njuste apres avoir traverse la Grotte de Glace\nvers le sud-ouest.\n<br>\nTa Telepierre s’y trouve peut-etre..."
     },
     "23905": {
-        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si tu te rends a la Grotte de Glace de\nRhonda, fais attention.\nJe suis sur que tu te sens toujours faible,\n<br>\nalors fais attention et monte de niveau sur\nla route."
+        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si tu vas a la Grotte de Glace de Rhonda, sois\nprudent.\n<br>\nTu as surement perdu en puissance, alors monte\nun peu de niveau en chemin et avance\nprudemment."
     },
     "23906": {
         "「私も　一緒に行けたらいいんですが\n　今は　ここを離れられなくて……。": "J'aurais aime t'accompagner, mais je ne peux\npas partir maintenant..."
     },
     "23907": {
-        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si tu te rends a la Grotte de Glace de\nRhonda, fais attention.\nJe suis sur que tu te sens toujours faible,\n<br>\nalors fais attention et monte de niveau sur\nla route."
+        "「ロンダの氷穴へ行くなら　気をつけて。\n　今は　チカラも落ちてると思うので　すこし\n　レベルを上げながら　慎重に行ってください。": "Si tu vas a la Grotte de Glace de Rhonda, sois\nprudent.\n<br>\nTu as surement perdu en puissance, alors monte\nun peu de niveau en chemin et avance\nprudemment."
     },
     "24673": {
-        "「私が見つけた時は　もう息がありませんでした。": "Quand je l'ai trouve, <pc> ne respirait plus."
+        "「私が見つけた時は　もう息がありませんでした。": "Quand je t’ai trouve, tu ne respirais deja\nplus."
     },
     "24674": {
         "「亡くなっているとはいえ　なきがらを\n　そのままにしておくのは　しのびないと思い\n　私が　この村まで……": "Meme si je ne peux pas ressusciter les morts,\nje ne pouvais pas laisser son corps sans vie\nici, donc je l'ai ramene au village..."
@@ -630,7 +630,7 @@
         "「ほらほら　出てってえな！\n　こっからは　あたしのビジネスなんやから！": "Allez, file!\nC'est MON affaire, a partir de maintenant!"
     },
     "24682": {
-        "「さっすが　村王はんは　話が早いわ！": "C'est notre chef!\nDroit au but comme toujours!"
+        "「さっすが　村王はんは　話が早いわ！": "Comme on pouvait s’y attendre, le chef du\nvillage ne perd pas de temps!"
     },
     "24683": {
         "「えっ　ロンダ岬で　ジーガンフを見かけた？\n　どうして彼が　そんな所に……？": "Quoi, tu as vu Jiganf au Cap Rhonda?\nPourquoi serait-il parti dans cet endroit...?"
@@ -639,7 +639,7 @@
         "「………………！": "..................!"
     },
     "24685": {
-        "「……どうやら　事情があるようだな。\n　だが　とにかく　今は\n　一刻も早く　ジーガンフを探しだすのだ！": "Apparemment, nous sommes dans l'embarras.\nPour le moment nous devons trouver Jiganf\naussi rapidement que possible!"
+        "「……どうやら　事情があるようだな。\n　だが　とにかく　今は\n　一刻も早く　ジーガンフを探しだすのだ！": "...On dirait qu’il y a une raison derriere\ntout ca.\n<br>\nMais quoi qu’il en soit, trouvons Jiganf au\nplus vite!"
     },
     "24686": {
         "「アロルド！\n　マイユの命を　助けたければ\n　全力で　かかってこい！！": "Arold!\nSi tu veux sauver la vie de Maille, alors\nviens a moi avec tout ce que tu as!!"
@@ -657,7 +657,7 @@
         "「あっ　<pc>さん。": "Oh! <pc>."
     },
     "24692": {
-        "「紹介するわ　アロルド。\n　こちらは　<pc>さん。\n　１年前　修行のために　この村へ　いらしたの。": "Je te presente, Arold. Voici <pc>-san.\nIl est venu dans ce village il y a un an pour\ns'entrainer."
+        "「紹介するわ　アロルド。\n　こちらは　<pc>さん。\n　１年前　修行のために　この村へ　いらしたの。": "Commence par franchir la Porte du Lion au sud\net vise le chateau de Glen!\n<br>\nJ’ai rassemble trois compagnons de soutien\npour toi, tu ferais bien de les emmener avec\ntoi."
     },
     "24693": {
         "「こっちは　アロルド。\n　私の　大切な…………": "C'est Arold.\nC'est mon cher..."
@@ -690,19 +690,19 @@
         "「わしに気づかう必要はない。\n　お前は　お前の心のままに生きるといい。": "Tu n'as pas a t'inquieter pour moi.\nTu devrais suivre ton coeur."
     },
     "24703": {
-        "「鉄道は　この村には通っていないが\n　南の獅子門を越えた先の　グレン城まで行けば\n　乗ることができるぞ。": "Le chemin de fer ne passe pas par ce village,\nmais si tu vas jusqu'au Chateau de Glen apres\navoir traverse la Porte du Lion au sud, tu<br>pourras le prendre."
+        "「鉄道は　この村には通っていないが\n　南の獅子門を越えた先の　グレン城まで行けば\n　乗ることができるぞ。": "Le train ne passe pas par ce village, mais tu\npourras l’emprunter en allant au chateau de\nGlen apres la Porte du Lion au sud."
     },
     "24704": {
         "「そのキーエンブレムを　集めてゆけば\n　お前の名は　世界に知れ渡っていくだろう。\n　本当の　お前を知る者にも　会えるはずだ。": "Si tu collectes les Emblemes Cle, ton nom se\nrepandra partout dans le monde.\nTu seras capable de rencontrer les personnes\n<br>\nqui connaissent le vrai toi."
     },
     "24793": {
-        "「オ…オレは……　ウグ……アアアアアッ！！": "I...\nI...\nG...\n<br>\nGGGYYAAAAAAAAHHHHH!!"
+        "「オ…オレは……　ウグ……アアアアアッ！！": "I... I... G...\nGGGYYAAAAAAAAHHHHH!!"
     },
     "39013": {
-        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "La Telepierre est une pierre magique qui\npermet de voyager en un lieu instantanement.\nPeu importe le nombre d'utilisations, elle ne\n<br>\ndisparait pas."
+        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "Une Telepierre est une pierre magique qui\npermet de se teleporter instantanement a\nl’endroit memorise.\n<br>\nElle ne disparait pas, peu importe combien de\nfois on l’utilise."
     },
     "39014": {
-        "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Aucun emplacement n'est encore memorise dans\ncette Zoomstone. Les emplacements peuvent etre\nmemorises a l'eglise."
+        "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Cette Telepierre n’a encore aucun emplacement\nmemorise.\nTu peux en enregistrer un dans une eglise."
     },
     "39015": {
         "「まさか……": "Ne me dis pas..."
@@ -714,7 +714,7 @@
         "<center>おのれ……　いずれ　必ず…………。": "Vermisseaux...\nUn jour, je vais vraiment......"
     },
     "50755": {
-        "「グレンに着けば　酒場で\n　新しいサポート仲間を　紹介してもらえるから\n　自由に選んで　連れていくことができる！": "Une fois arrive a Glen, tu pourras faire un\ntour a la taverne. La-bas, on te presentera de\nnouveaux compagnons de soutien. Tu pourras les<br>choisir librement pour t'accompagner dans tes\naventures !"
+        "「グレンに着けば　酒場で\n　新しいサポート仲間を　紹介してもらえるから\n　自由に選んで　連れていくことができる！": "Une fois a Glen, tu pourras aller a la taverne\nou l’on te presentera de nouveaux compagnons\nde soutien.\n<br>\nTu seras libre de choisir ceux que tu veux\nemmener!"
     },
     "50756": {
         "「お前の活躍を　楽しみにしているぞ。\n　ガハハハハハ！！": "J'ai hate de voir ce que tu peux faire.\nGahahahahaha!!"
