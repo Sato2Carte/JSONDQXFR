@@ -1,0 +1,7 @@
+files:
+  - source: '*/*.xlsx'
+    translation: /crowdin/%language%/%original_file_name%
+    type: json
+    update_option: update_as_unapproved
+bundles:
+  - 2
