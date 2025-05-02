@@ -1,0 +1,1553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="4175" original="/Clarity Server-Side/extracted_bad_strings.xlsx" source-language="ja" target-language="fr" datatype="plaintext" project-id="763503" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="1414057" resname="「無事　入門試験は済ませてきたんだろうなッ！&#10;&lt;select&gt;&#10;イエッサー！&#10;いいえ&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>&lt;attr&gt;&lt;feel_normal_one&gt;&lt;end_attr&gt;You've returned! I assume that means you've
+successfully completed your initiation exam,
+right?!
+&lt;select&gt;
+Yes sir!
+No, sir.
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">&lt;attr&gt;&lt;feel_normal_one&gt;&lt;end_attr&gt;You've returned! I assume that means you've
+successfully completed your initiation exam,
+right?!
+&lt;select&gt;
+Yes sir!
+No, sir.
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「無事　入門試験は済ませてきたんだろうなッ！
+&lt;select&gt;
+イエッサー！
+いいえ
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414059" resname="解放の扉に到達した！" approved="yes">
+        <source>You've reached the Door of Return!</source>
+        <target state="final">Test test</target>
+        <context-group purpose="information">
+          <context context-type="source">解放の扉に到達した！</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414061" resname="階に移動できそうだ。&#10;移動しますか？&lt;yesno&gt;&lt;close&gt;">
+        <source>You can proceed to the next floor down from
+here. Go to the next floor?&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You can proceed to the next floor down from
+here. Go to the next floor?&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">階に移動できそうだ。
+移動しますか？&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414063" resname="はじめての町に　着きました！&#10;全滅時の復活場所を　変更しておくと安心です。&#10;">
+        <source>This is your first visit to this town! It may
+be advantageous to change your resurrection
+spot to here in case your party is defeated.
+&lt;br&gt;
+Change your current resurrection spot to
+this town?&lt;yesno 2&gt;&lt;break&gt;</source>
+        <target state="needs-translation">This is your first visit to this town! It may
+be advantageous to change your resurrection
+spot to here in case your party is defeated.
+&lt;br&gt;
+Change your current resurrection spot to
+this town?&lt;yesno 2&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">はじめての町に　着きました！
+全滅時の復活場所を　変更しておくと安心です。
+</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414065" resname="　すべてのスキルで&#10;スキルポイントを　２０Ｐかくとく！&#10;&lt;color_yellow&gt;スキルふりわけ画面で　確認しましょう。 &lt;color_white&gt;&lt;me 71&gt;&lt;bw_break&gt;">
+        <source>Received 20 skill points in all of your skill
+lines!
+&lt;color_yellow&gt;Check the &quot;Skill Points&quot; screen.&lt;color_white&gt;&lt;me 71&gt;&lt;bw_break&gt;</source>
+        <target state="needs-translation">Received 20 skill points in all of your skill
+lines!
+&lt;color_yellow&gt;Check the &quot;Skill Points&quot; screen.&lt;color_white&gt;&lt;me 71&gt;&lt;bw_break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　すべてのスキルで
+スキルポイントを　２０Ｐかくとく！
+&lt;color_yellow&gt;スキルふりわけ画面で　確認しましょう。 &lt;color_white&gt;&lt;me 71&gt;&lt;bw_break&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414067" resname="冒険者のあなたに　心強い仲間と&#10;すぐに　強くなれる帽子を　用意しました。">
+        <source>Welcome to Astoltia!
+&lt;br&gt;
+As an adventurer beginning past Version 1,
+you'll be given strong allies and a hat
+that'll help you to get stronger.</source>
+        <target state="needs-translation">Welcome to Astoltia!
+&lt;br&gt;
+As an adventurer beginning past Version 1,
+you'll be given strong allies and a hat
+that'll help you to get stronger.</target>
+        <context-group purpose="information">
+          <context context-type="source">冒険者のあなたに　心強い仲間と
+すぐに　強くなれる帽子を　用意しました。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414069" resname="遠くの場所へ　行きたい場合は　町にある列車や&#10;どうぐ欄の中にある　ルーラストーンが&#10;あなたの冒険を　助けてくれるでしょう。&#10;&lt;br&gt;&#10;冒険で困ったときは　『さくせん』コマンドにある&#10;『遊び方ガイド』の『遊び方のヒント』からでも&#10;冒険に役立つ情報が　確認できます。&#10;&lt;br&gt;&#10;ゲームについて　さらに　くわしく知りたい場合は&#10;冒険者の広場にて　ご確認ください。&#10;https://sqex.to/MGUIDE&#10;&lt;br&gt;&#10;さあ　旅立ちのときです。&#10;この広い世界の冒険を　楽しんでください。">
+        <source>Many a challenge awaits you in this grand
+world. Talking to the villagers in this town
+may provide you with some helpful information.
+&lt;br&gt;
+Quests will be marked with purple icons.
+If you find yourself lost, opening your
+map can show you the way.
+&lt;br&gt;
+To travel to faraway places, you can use a
+train station or a Zoomstone, located under
+the &quot;Items&quot; command.
+&lt;br&gt;
+You can find useful adventuring information
+in the &quot;Play Guide&quot; section using the &quot;Misc.&quot;
+command.
+&lt;br&gt;
+Now, it is time to embark on your great
+journey. Adventure awaits!</source>
+        <target state="needs-translation">Many a challenge awaits you in this grand
+world. Talking to the villagers in this town
+may provide you with some helpful information.
+&lt;br&gt;
+Quests will be marked with purple icons.
+If you find yourself lost, opening your
+map can show you the way.
+&lt;br&gt;
+To travel to faraway places, you can use a
+train station or a Zoomstone, located under
+the &quot;Items&quot; command.
+&lt;br&gt;
+You can find useful adventuring information
+in the &quot;Play Guide&quot; section using the &quot;Misc.&quot;
+command.
+&lt;br&gt;
+Now, it is time to embark on your great
+journey. Adventure awaits!</target>
+        <context-group purpose="information">
+          <context context-type="source">遠くの場所へ　行きたい場合は　町にある列車や
+どうぐ欄の中にある　ルーラストーンが
+あなたの冒険を　助けてくれるでしょう。
+&lt;br&gt;
+冒険で困ったときは　『さくせん』コマンドにある
+『遊び方ガイド』の『遊び方のヒント』からでも
+冒険に役立つ情報が　確認できます。
+&lt;br&gt;
+ゲームについて　さらに　くわしく知りたい場合は
+冒険者の広場にて　ご確認ください。
+https://sqex.to/MGUIDE
+&lt;br&gt;
+さあ　旅立ちのときです。
+この広い世界の冒険を　楽しんでください。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414071" resname="体験版では　これ以上　お礼は渡せないんだ。&#10;製品版で　また　その人に話しかけてくれ。">
+        <source>&lt;pipipi_high&gt;Ohh, thank you! I see you've found one of
+my chosen residents! Here, this is for you!
+&lt;br&gt;
+...hang on. You're currently playing the trial
+version, so I can't give you anything else
+until you upgrade to the full version.
+&lt;br&gt;
+You'll have to speak with them again once
+you have the full version to get something.</source>
+        <target state="needs-translation">&lt;pipipi_high&gt;Ohh, thank you! I see you've found one of
+my chosen residents! Here, this is for you!
+&lt;br&gt;
+...hang on. You're currently playing the trial
+version, so I can't give you anything else
+until you upgrade to the full version.
+&lt;br&gt;
+You'll have to speak with them again once
+you have the full version to get something.</target>
+        <context-group purpose="information">
+          <context context-type="source">体験版では　これ以上　お礼は渡せないんだ。
+製品版で　また　その人に話しかけてくれ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414073" resname="「宝珠を　青い炎に捧げた後も&#10;　呪文や特技の表示内容は　一度変更するまで&#10;　今の状態が　記憶されているぞ。">
+        <source>Even after offering the jewel to the blue
+flame, your current skill and spell positions will
+stay as they are.
+&lt;br&gt;
+I've placed the stone into your bag.
+Please return here if you need my
+services again.</source>
+        <target state="needs-translation">Even after offering the jewel to the blue
+flame, your current skill and spell positions will
+stay as they are.
+&lt;br&gt;
+I've placed the stone into your bag.
+Please return here if you need my
+services again.</target>
+        <context-group purpose="information">
+          <context context-type="source">「宝珠を　青い炎に捧げた後も
+　呪文や特技の表示内容は　一度変更するまで
+　今の状態が　記憶されているぞ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414075" resname="ゴールド受け取った。&#10;　やりなおしの宝珠を　受け取るがいい。">
+        <source>Thank you. Please take this stone.</source>
+        <target state="needs-translation">Thank you. Please take this stone.</target>
+        <context-group purpose="information">
+          <context context-type="source">ゴールド受け取った。
+　やりなおしの宝珠を　受け取るがいい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414077" resname="』に　勝利した！&lt;me 58&gt;&lt;auto_bw=10000&gt;&lt;close&gt;">
+        <source>You emerged victorious!&lt;me 58&gt;&lt;auto_bw=10000&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You emerged victorious!&lt;me 58&gt;&lt;auto_bw=10000&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">』に　勝利した！&lt;me 58&gt;&lt;auto_bw=10000&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414079" resname="　私の旅路の　すべてを聞きたくない？&#10;　何から　話してあげましょうか？&#10;&lt;select 1&gt;&#10;時獄の迷宮を脱出したあとは？&#10;エテーネ王国では？&#10;古グランゼドーラ王国では？&#10;時渡りの呪いについて&#10;これからのメレアーデ&#10;ネコちゃんについて&#10;やめる&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case 4&gt;&#10;&lt;break&gt;&#10;&lt;case 5&gt;&#10;&lt;break&gt;&#10;&lt;case 6&gt;&#10;&lt;break&gt;&#10;&lt;case 7&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 1&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 1&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　私の旅路の　すべてを聞きたくない？
+　何から　話してあげましょうか？
+&lt;select 1&gt;
+時獄の迷宮を脱出したあとは？
+エテーネ王国では？
+古グランゼドーラ王国では？
+時渡りの呪いについて
+これからのメレアーデ
+ネコちゃんについて
+やめる
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414081" resname="　私の旅路の　すべてを聞きたくない？&#10;　何から　話してあげましょうか？&#10;&lt;select 2&gt;&#10;時獄の迷宮を脱出したあとは？&#10;エテーネ王国では？&#10;古グランゼドーラ王国では？&#10;時渡りの呪いについて&#10;これからのメレアーデ&#10;ネコちゃんについて&#10;やめる&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case 4&gt;&#10;&lt;break&gt;&#10;&lt;case 5&gt;&#10;&lt;break&gt;&#10;&lt;case 6&gt;&#10;&lt;break&gt;&#10;&lt;case 7&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 2&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 2&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　私の旅路の　すべてを聞きたくない？
+　何から　話してあげましょうか？
+&lt;select 2&gt;
+時獄の迷宮を脱出したあとは？
+エテーネ王国では？
+古グランゼドーラ王国では？
+時渡りの呪いについて
+これからのメレアーデ
+ネコちゃんについて
+やめる
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414083" resname="　私の旅路の　すべてを聞きたくない？&#10;　何から　話してあげましょうか？&#10;&lt;select 3&gt;&#10;時獄の迷宮を脱出したあとは？&#10;エテーネ王国では？&#10;古グランゼドーラ王国では？&#10;時渡りの呪いについて&#10;これからのメレアーデ&#10;ネコちゃんについて&#10;やめる&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case 4&gt;&#10;&lt;break&gt;&#10;&lt;case 5&gt;&#10;&lt;break&gt;&#10;&lt;case 6&gt;&#10;&lt;break&gt;&#10;&lt;case 7&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 3&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 3&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　私の旅路の　すべてを聞きたくない？
+　何から　話してあげましょうか？
+&lt;select 3&gt;
+時獄の迷宮を脱出したあとは？
+エテーネ王国では？
+古グランゼドーラ王国では？
+時渡りの呪いについて
+これからのメレアーデ
+ネコちゃんについて
+やめる
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414085" resname="　私の旅路の　すべてを聞きたくない？&#10;　何から　話してあげましょうか？&#10;&lt;select 4&gt;&#10;時獄の迷宮を脱出したあとは？&#10;エテーネ王国では？&#10;古グランゼドーラ王国では？&#10;時渡りの呪いについて&#10;これからのメレアーデ&#10;ネコちゃんについて&#10;やめる&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case 4&gt;&#10;&lt;break&gt;&#10;&lt;case 5&gt;&#10;&lt;break&gt;&#10;&lt;case 6&gt;&#10;&lt;break&gt;&#10;&lt;case 7&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 4&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 4&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　私の旅路の　すべてを聞きたくない？
+　何から　話してあげましょうか？
+&lt;select 4&gt;
+時獄の迷宮を脱出したあとは？
+エテーネ王国では？
+古グランゼドーラ王国では？
+時渡りの呪いについて
+これからのメレアーデ
+ネコちゃんについて
+やめる
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414087" resname="　私の旅路の　すべてを聞きたくない？&#10;　何から　話してあげましょうか？&#10;&lt;select 5&gt;&#10;時獄の迷宮を脱出したあとは？&#10;エテーネ王国では？&#10;古グランゼドーラ王国では？&#10;時渡りの呪いについて&#10;これからのメレアーデ&#10;ネコちゃんについて&#10;やめる&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case 4&gt;&#10;&lt;break&gt;&#10;&lt;case 5&gt;&#10;&lt;break&gt;&#10;&lt;case 6&gt;&#10;&lt;break&gt;&#10;&lt;case 7&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 5&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 5&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　私の旅路の　すべてを聞きたくない？
+　何から　話してあげましょうか？
+&lt;select 5&gt;
+時獄の迷宮を脱出したあとは？
+エテーネ王国では？
+古グランゼドーラ王国では？
+時渡りの呪いについて
+これからのメレアーデ
+ネコちゃんについて
+やめる
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414089" resname="　私の旅路の　すべてを聞きたくない？&#10;　何から　話してあげましょうか？&#10;&lt;select 6&gt;&#10;時獄の迷宮を脱出したあとは？&#10;エテーネ王国では？&#10;古グランゼドーラ王国では？&#10;時渡りの呪いについて&#10;これからのメレアーデ&#10;ネコちゃんについて&#10;やめる&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case 4&gt;&#10;&lt;break&gt;&#10;&lt;case 5&gt;&#10;&lt;break&gt;&#10;&lt;case 6&gt;&#10;&lt;break&gt;&#10;&lt;case 7&gt;&#10;&lt;break&gt;&#10;&lt;case_cancel&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 6&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">By the way, is there something you wanted to
+ask me about my journey? Where should
+I begin?
+&lt;select 6&gt;
+After escaping the Time Prison?
+Ethene Kingdom?
+Old Gran Zedora Kingdom?
+Ask about the time traveling curse.
+Future Mereade
+Ask about the cat.
+Cancel
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　私の旅路の　すべてを聞きたくない？
+　何から　話してあげましょうか？
+&lt;select 6&gt;
+時獄の迷宮を脱出したあとは？
+エテーネ王国では？
+古グランゼドーラ王国では？
+時渡りの呪いについて
+これからのメレアーデ
+ネコちゃんについて
+やめる
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case 4&gt;
+&lt;break&gt;
+&lt;case 5&gt;
+&lt;break&gt;
+&lt;case 6&gt;
+&lt;break&gt;
+&lt;case 7&gt;
+&lt;break&gt;
+&lt;case_cancel&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414091" resname="　ぼくの指示が　下手だったみたいだね。&#10;　もう一度　一緒に　がんばってくれる？&#10;&lt;br&gt;&#10;「きみの準備が　ととのったら&#10;　聖なる織り機の前に　座ってね。">
+        <source>Agh, I'm sorry, I'm sorry! I should've been
+better at giving instructions. Do you want
+to try one more time?
+&lt;br&gt;
+Whenever you're ready, please sit in front
+of the loom again.</source>
+        <target state="needs-translation">Agh, I'm sorry, I'm sorry! I should've been
+better at giving instructions. Do you want
+to try one more time?
+&lt;br&gt;
+Whenever you're ready, please sit in front
+of the loom again.</target>
+        <context-group purpose="information">
+          <context context-type="source">　ぼくの指示が　下手だったみたいだね。
+　もう一度　一緒に　がんばってくれる？
+&lt;br&gt;
+「きみの準備が　ととのったら
+　聖なる織り機の前に　座ってね。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414093" resname="ボタンを　押してみますか？&#10;あと７日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 7 days.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 7 days.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと７日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414095" resname="ボタンを　押してみますか？&#10;あと６日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 6 days.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 6 days.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと６日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414097" resname="ボタンを　押してみますか？&#10;あと５日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 5 days.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 5 days.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと５日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414099" resname="ボタンを　押してみますか？&#10;あと４日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 4 days.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 4 days.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと４日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414101" resname="ボタンを　押してみますか？&#10;あと３日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 3 days.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 3 days.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと３日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414103" resname="ボタンを　押してみますか？&#10;あと２日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 2 days.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 2 days.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと２日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414105" resname="ボタンを　押してみますか？&#10;あと１日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;">
+        <source>You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 1 day.&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">You won't receive any Golden Treasure since
+you've explored already. Press the button
+anyways? You can explore again in 1 day.&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">ボタンを　押してみますか？
+あと１日で　獲得できるようになります。&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414107" resname="　感じるぞ！　キミから　濃厚にただよう&#10;　超一流っぽい匂いを……。&#10;&lt;br&gt;&#10;「キミに　戦いを挑もう！ &#10;　ワガハイ考案の　クイズバトルという戦いを。&#10;　この挑戦　受けてくれるね？&lt;yesno&gt;&lt;break&gt;">
+        <source>I see... I can feel it! I can even smell it
+on you! The makings of &quot;the best&quot;...
+&lt;br&gt;
+I challenge you to a battle: a quiz of my
+own design! Do you accept my challenge?&lt;yesno&gt;&lt;break&gt;
+</source>
+        <target state="needs-translation">I see... I can feel it! I can even smell it
+on you! The makings of &quot;the best&quot;...
+&lt;br&gt;
+I challenge you to a battle: a quiz of my
+own design! Do you accept my challenge?&lt;yesno&gt;&lt;break&gt;
+</target>
+        <context-group purpose="information">
+          <context context-type="source">　感じるぞ！　キミから　濃厚にただよう
+　超一流っぽい匂いを……。
+&lt;br&gt;
+「キミに　戦いを挑もう！ 
+　ワガハイ考案の　クイズバトルという戦いを。
+　この挑戦　受けてくれるね？&lt;yesno&gt;&lt;break&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414109" resname="　でも　ひとつ　忠告です。くれぐれも&#10;　パピルマさんのクチぐせに　影響されないでね。&#10;&lt;br&gt;&#10;「わたくしたちは　客商売なのだから&#10;　依頼者と接するときは&#10;　ていねいに　お話しすること。よろしくて？&#10;&lt;select_nc&gt;&#10;了解です！&#10;わっかたでやーんす&#10;気をつけるじゃんよぉ&#10;&lt;select_end&gt;&#10;&lt;case 1&gt;&#10;&lt;break&gt;&#10;&lt;case 2&gt;&#10;&lt;break&gt;&#10;&lt;case 3&gt;&#10;&lt;break&gt;&#10;&lt;case_end&gt;">
+        <source>Hey! But one word of advice.
+Don't be influenced by Papilma's mouth. We
+are a customer service firm, so be polite
+&lt;br&gt;
+when dealing with clients. Okay?
+&lt;select_nc&gt;
+I understand!
+I got it.
+I'll be careful.
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case_end&gt;</source>
+        <target state="needs-translation">Hey! But one word of advice.
+Don't be influenced by Papilma's mouth. We
+are a customer service firm, so be polite
+&lt;br&gt;
+when dealing with clients. Okay?
+&lt;select_nc&gt;
+I understand!
+I got it.
+I'll be careful.
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　でも　ひとつ　忠告です。くれぐれも
+　パピルマさんのクチぐせに　影響されないでね。
+&lt;br&gt;
+「わたくしたちは　客商売なのだから
+　依頼者と接するときは
+　ていねいに　お話しすること。よろしくて？
+&lt;select_nc&gt;
+了解です！
+わっかたでやーんす
+気をつけるじゃんよぉ
+&lt;select_end&gt;
+&lt;case 1&gt;
+&lt;break&gt;
+&lt;case 2&gt;
+&lt;break&gt;
+&lt;case 3&gt;
+&lt;break&gt;
+&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414111" resname="　今　ボクが読んだ辺りを　探して&#10;　写真を　撮ってきてほしいんだ。&#10;&lt;br&gt;&#10;「うまく　写真が撮れたら　だいじなものに&#10;　入るはずだから　その状態で&#10;　戻ってきてくれないかな？　よろしく頼むよ。">
+        <source>I'd like you to head over to the area I just
+read about and take a photograph.
+&lt;br&gt;
+If you manage to take a good enough photo,
+I'm sure you can find something important.
+Could you please bring one to me?</source>
+        <target state="needs-translation">I'd like you to head over to the area I just
+read about and take a photograph.
+&lt;br&gt;
+If you manage to take a good enough photo,
+I'm sure you can find something important.
+Could you please bring one to me?</target>
+        <context-group purpose="information">
+          <context context-type="source">　今　ボクが読んだ辺りを　探して
+　写真を　撮ってきてほしいんだ。
+&lt;br&gt;
+「うまく　写真が撮れたら　だいじなものに
+　入るはずだから　その状態で
+　戻ってきてくれないかな？　よろしく頼むよ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414113" resname="　神聖秘文の答えが　わかったのかな。&#10;　答えがわかったなら　ボクにも教えてくれない？&#10;&lt;br&gt;&#10;「ただし　回答は　ひとつしか受け付けられないし&#10;　一度　回答した後　何分かは　次の神聖秘文に&#10;　挑戦することもできないから　注意して。&#10;&lt;br&gt;&#10;「回答をせずに　時間切れになった人がいた場合&#10;　失敗となるから　それも　気をつけてね。&#10;　本当に　神聖秘文を唱えるってことで　いい？&lt;yesno&gt;&lt;break&gt;">
+        <source>Could it be that you've figured out the answer
+to the sacred text? If you do, could you
+please tell me as well?
+&lt;br&gt;
+However, once you tell me, that's it. You only
+get one answer. After that, you can't attempt
+solving another sacred text for some time.
+&lt;br&gt;
+Also, if you fail to answer within the time
+limit, the investigation will be considered
+failed. Please keep that in mind. Well?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">Could it be that you've figured out the answer
+to the sacred text? If you do, could you
+please tell me as well?
+&lt;br&gt;
+However, once you tell me, that's it. You only
+get one answer. After that, you can't attempt
+solving another sacred text for some time.
+&lt;br&gt;
+Also, if you fail to answer within the time
+limit, the investigation will be considered
+failed. Please keep that in mind. Well?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　神聖秘文の答えが　わかったのかな。
+　答えがわかったなら　ボクにも教えてくれない？
+&lt;br&gt;
+「ただし　回答は　ひとつしか受け付けられないし
+　一度　回答した後　何分かは　次の神聖秘文に
+　挑戦することもできないから　注意して。
+&lt;br&gt;
+「回答をせずに　時間切れになった人がいた場合
+　失敗となるから　それも　気をつけてね。
+　本当に　神聖秘文を唱えるってことで　いい？&lt;yesno&gt;&lt;break&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414115" resname="すでに　解き明かしています。&#10;リプレイとなりますが　ふたたび　挑戦しますか？&lt;yesno&gt;&lt;break&gt;">
+        <source>You've already solved this sacred text.
+Are you all right with doing it again?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">You've already solved this sacred text.
+Are you all right with doing it again?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">すでに　解き明かしています。
+リプレイとなりますが　ふたたび　挑戦しますか？&lt;yesno&gt;&lt;break&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414117" resname="クリアしました！&lt;update_quedate&gt;&lt;open_irai&gt;">
+        <source>Success! The quest has been transgressed
+with finesse!&lt;update_quedate&gt;&lt;open_irai&gt;</source>
+        <target state="needs-translation">Success! The quest has been transgressed
+with finesse!&lt;update_quedate&gt;&lt;open_irai&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">クリアしました！&lt;update_quedate&gt;&lt;open_irai&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414119" resname="クリアしました！&#10;&lt;update_quedate&gt;&lt;open_irai&gt;">
+        <source>Success! The quest has been transgressed
+with finesse!&lt;update_quedate&gt;&lt;open_irai&gt;</source>
+        <target state="needs-translation">Success! The quest has been transgressed
+with finesse!&lt;update_quedate&gt;&lt;open_irai&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">クリアしました！
+&lt;update_quedate&gt;&lt;open_irai&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414121" resname="生き返しを受けた&#10;　光の神殿へ　飛竜に乗って　行きましょう。">
+        <source>Let's make our way to the Temple of Light,
+the place you were given a chance at life
+once more.</source>
+        <target state="needs-translation">Let's make our way to the Temple of Light,
+the place you were given a chance at life
+once more.</target>
+        <context-group purpose="information">
+          <context context-type="source">生き返しを受けた
+　光の神殿へ　飛竜に乗って　行きましょう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414123" resname="行くために&#10;一度　元の世界へ戻りますか？&lt;yesno&gt;&lt;close&gt;">
+        <source>Return to Astoltia so you can head to the
+Memory Spot?&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">Return to Astoltia so you can head to the
+Memory Spot?&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">行くために
+一度　元の世界へ戻りますか？&lt;yesno&gt;&lt;close&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414125" resname="&lt;pipipi_off&gt;&lt;speed=0&gt;第１問&#10;答えを">
+        <source>&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+first question?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+first question?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pipipi_off&gt;&lt;speed=0&gt;第１問
+答えを</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414127" resname="&lt;pipipi_off&gt;&lt;speed=0&gt;第２問&#10;答えを">
+        <source>&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+second question?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+second question?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pipipi_off&gt;&lt;speed=0&gt;第２問
+答えを</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414129" resname="&lt;pipipi_off&gt;&lt;speed=0&gt;第３問&#10;答えを">
+        <source>&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+third question?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+third question?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pipipi_off&gt;&lt;speed=0&gt;第３問
+答えを</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414131" resname="&lt;pipipi_off&gt;&lt;speed=0&gt;第４問&#10;答えを">
+        <source>&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+fourth question?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+fourth question?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pipipi_off&gt;&lt;speed=0&gt;第４問
+答えを</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414133" resname="&lt;pipipi_off&gt;&lt;speed=0&gt;第５問&#10;答えを">
+        <source>&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+fifth question?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">&lt;pipipi_off&gt;&lt;speed=0&gt;Is this your final answer to the
+fifth question?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pipipi_off&gt;&lt;speed=0&gt;第５問
+答えを</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414135" resname="「五・七・五の それぞれの頭の２文字……&#10;　神　春　無為をとって　この国は&#10;　カミハルムイと　呼ばれるようになったのです。">
+        <source>Three words taken from this verseー&quot;divine&quot;,
+&quot;spring&quot;, and &quot;idly&quot;ーcan be said &quot;kami&quot;,
+&quot;haru&quot;, and &quot;mui&quot;. That is how this city came
+&lt;br&gt;
+to be called Kamiharmui.</source>
+        <target state="needs-translation">Three words taken from this verseー&quot;divine&quot;,
+&quot;spring&quot;, and &quot;idly&quot;ーcan be said &quot;kami&quot;,
+&quot;haru&quot;, and &quot;mui&quot;. That is how this city came
+&lt;br&gt;
+to be called Kamiharmui.</target>
+        <context-group purpose="information">
+          <context context-type="source">「五・七・五の それぞれの頭の２文字……
+　神　春　無為をとって　この国は
+　カミハルムイと　呼ばれるようになったのです。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414137" resname="&lt;icon_exc&gt;「なるほど　わかりましたぞ！&#10;　キヨクサは　ギョクサ……&#10;　すなわし　王座を示しておるのですな？">
+        <source>&lt;icon_exc&gt;I see, I understand now! &quot;Thrown&quot; is
+&quot;throne&quot;... So it that what it's showing,
+then?</source>
+        <target state="needs-translation">&lt;icon_exc&gt;I see, I understand now! &quot;Thrown&quot; is
+&quot;throne&quot;... So it that what it's showing,
+then?</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;icon_exc&gt;「なるほど　わかりましたぞ！
+　キヨクサは　ギョクサ……
+　すなわし　王座を示しておるのですな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414139" resname="「神代過ぎ～　春の桜よ　無為に咲く～&#10;　清き風吹き　草木は芽吹く～。">
+        <source>&quot;Past ages divine, the spring blossoms bloom,
+waiting idly by... Pure winds blow and trees
+grown, budding green as the breeze is thrown.&quot;</source>
+        <target state="needs-translation">&quot;Past ages divine, the spring blossoms bloom,
+waiting idly by... Pure winds blow and trees
+grown, budding green as the breeze is thrown.&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">「神代過ぎ～　春の桜よ　無為に咲く～
+　清き風吹き　草木は芽吹く～。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414141" resname="「さて　上の句の神　春　無為　と同様に&#10;　下の句の　上２文字を読むと&#10;　なんという言葉が　浮かんできますかな。">
+        <source>In regards to the second part of the song,
+the very last word is something you may
+want to pay attention to...</source>
+        <target state="needs-translation">In regards to the second part of the song,
+the very last word is something you may
+want to pay attention to...</target>
+        <context-group purpose="information">
+          <context context-type="source">「さて　上の句の神　春　無為　と同様に
+　下の句の　上２文字を読むと
+　なんという言葉が　浮かんできますかな。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414143" resname="「……ふむ。&#10;　清…草……　キヨ　クサですな。">
+        <source>The word &quot;thrown&quot;...
+Does it make you think of anything?&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">The word &quot;thrown&quot;...
+Does it make you think of anything?&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「……ふむ。
+　清…草……　キヨ　クサですな。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414145" resname="「わしは　この言葉にこそ　手がかりがあると&#10;　思うのですが　キヨクサとは何であるか……。&#10;　この城の中に　あるものでしょうかな？">
+        <source>I believe a clue lies within this word
+&quot;thrown&quot;, but what could it mean...?
+Does it exist in the castle, I wonder?&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">I believe a clue lies within this word
+&quot;thrown&quot;, but what could it mean...?
+Does it exist in the castle, I wonder?&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「わしは　この言葉にこそ　手がかりがあると
+　思うのですが　キヨクサとは何であるか……。
+　この城の中に　あるものでしょうかな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414147" resname="　このカミハルムイ城の中に　キヨクサが指す&#10;　何かがあると……そう　おっしゃるのかな？">
+        <source>So you're saying...there's something inside
+this castle that points to the word &quot;thrown&quot;?&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">So you're saying...there's something inside
+this castle that points to the word &quot;thrown&quot;?&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　このカミハルムイ城の中に　キヨクサが指す
+　何かがあると……そう　おっしゃるのかな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414149" resname="「ほう!　 キヨクサの答えが　わかったと! &#10;　では　すまぬが　キヨクサの指すものを&#10;　写真に撮ってきてもらえますかな？">
+        <source>Oh, ho! So you've figured it out, have you?
+Then, if it's not too much trouble, could I
+bother you to take a photo of it for me?</source>
+        <target state="needs-translation">Oh, ho! So you've figured it out, have you?
+Then, if it's not too much trouble, could I
+bother you to take a photo of it for me?</target>
+        <context-group purpose="information">
+          <context context-type="source">「ほう!　 キヨクサの答えが　わかったと! 
+　では　すまぬが　キヨクサの指すものを
+　写真に撮ってきてもらえますかな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414151" resname="「正しい写真を撮れば　だいじなものに入るはず。&#10;　それを　わしに　見せてくだされ。&#10;　 ……ホッホッホッ。楽しみですな。">
+        <source>&lt;close_irai&gt;
+If you manage to take the correct photo, it
+will be placed in your Key Items. Please
+show it to me then. Hohoho... I'm looking
+&lt;br&gt;
+forward to it!</source>
+        <target state="needs-translation">&lt;close_irai&gt;
+If you manage to take the correct photo, it
+will be placed in your Key Items. Please
+show it to me then. Hohoho... I'm looking
+&lt;br&gt;
+forward to it!</target>
+        <context-group purpose="information">
+          <context context-type="source">「正しい写真を撮れば　だいじなものに入るはず。
+　それを　わしに　見せてくだされ。
+　 ……ホッホッホッ。楽しみですな。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414153" resname="「謎が隠されている　神代の春の歌の下の句は&#10;　……清き風吹き　草木は芽吹く。&#10;　上2文字を読むと　キヨクサとなりますな。">
+        <source>A mystery hidden in the Song of Divine
+Spring's second part... The final word
+&quot;thrown&quot; seems to be the key.
+&lt;open_irai&gt;</source>
+        <target state="needs-translation">A mystery hidden in the Song of Divine
+Spring's second part... The final word
+&quot;thrown&quot; seems to be the key.
+&lt;open_irai&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「謎が隠されている　神代の春の歌の下の句は
+　……清き風吹き　草木は芽吹く。
+　上2文字を読むと　キヨクサとなりますな。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414155" resname="「もしかすると　キヨクサという言葉の&#10;　読み方を変えるなど　工夫をすれば&#10;　答えが　見えてくるのでしょうか。">
+        <source>Perhaps if you can think of another
+word or phrase that sounds like &quot;thrown&quot;,
+then you can figure it out.</source>
+        <target state="needs-translation">Perhaps if you can think of another
+word or phrase that sounds like &quot;thrown&quot;,
+then you can figure it out.</target>
+        <context-group purpose="information">
+          <context context-type="source">「もしかすると　キヨクサという言葉の
+　読み方を変えるなど　工夫をすれば
+　答えが　見えてくるのでしょうか。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414157" resname="　カミハルムイ城内にある　キヨクサの指すものを&#10;　写真に撮ってきてもらえますかな？">
+        <source>If you could, can you take a picture of what
+you think &quot;thrown&quot; means from inside the
+castle?</source>
+        <target state="needs-translation">If you could, can you take a picture of what
+you think &quot;thrown&quot; means from inside the
+castle?</target>
+        <context-group purpose="information">
+          <context context-type="source">　カミハルムイ城内にある　キヨクサの指すものを
+　写真に撮ってきてもらえますかな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414159" resname="　この城の中にあるという　キヨクサが指すものを&#10;　写真に　収められましたのでしょうかな？">
+        <source>Oh? Were you able to take a photo of the
+&quot;thrown&quot; inside the castle?</source>
+        <target state="needs-translation">Oh? Were you able to take a photo of the
+&quot;thrown&quot; inside the castle?</target>
+        <context-group purpose="information">
+          <context context-type="source">　この城の中にあるという　キヨクサが指すものを
+　写真に　収められましたのでしょうかな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414161" resname="「おや　この写真に写っとるのは　ニコロイ王 ？">
+        <source>Ah, this is a photo of King Nikoroi, isn't it?
+So this is what you believe the word &quot;thrown&quot;
+is referring to?&lt;yesno&gt;&lt;close&gt;</source>
+        <target state="needs-translation">Ah, this is a photo of King Nikoroi, isn't it?
+So this is what you believe the word &quot;thrown&quot;
+is referring to?&lt;yesno&gt;&lt;close&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「おや　この写真に写っとるのは　ニコロイ王 ？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414163" resname="　わしには　ニコロイ王と　キヨクサの関係が&#10;　わかりかねますぞ。">
+        <source>What? I'm not sure I'm seeing the connection
+between King Nikoroi and &quot;thrown&quot; here...</source>
+        <target state="needs-translation">What? I'm not sure I'm seeing the connection
+between King Nikoroi and &quot;thrown&quot; here...</target>
+        <context-group purpose="information">
+          <context context-type="source">　わしには　ニコロイ王と　キヨクサの関係が
+　わかりかねますぞ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414165" resname="「写真は　これで正しいような気もしますが……。&#10;　キヨクサが　本当に　ニコロイ王を指すのか&#10;　もう一度　よくお考えいただけますかな？">
+        <source>This photo does seem correct, but... Can you
+reconsider if there really is a connection
+between King Nikoroi and &quot;thrown&quot;?</source>
+        <target state="needs-translation">This photo does seem correct, but... Can you
+reconsider if there really is a connection
+between King Nikoroi and &quot;thrown&quot;?</target>
+        <context-group purpose="information">
+          <context context-type="source">「写真は　これで正しいような気もしますが……。
+　キヨクサが　本当に　ニコロイ王を指すのか
+　もう一度　よくお考えいただけますかな？</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414167" resname="「なんと! 　ニコロイ王が　キヨクサではないと。&#10;　では　ニコロイ王のほかに　写っているのは……">
+        <source>What?! King Nikoroi isn't related to &quot;thrown&quot;?
+Then, what is...?</source>
+        <target state="needs-translation">What?! King Nikoroi isn't related to &quot;thrown&quot;?
+Then, what is...?</target>
+        <context-group purpose="information">
+          <context context-type="source">「なんと! 　ニコロイ王が　キヨクサではないと。
+　では　ニコロイ王のほかに　写っているのは……</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414169" resname="&lt;pc&gt;は　なぞの小箱を&#10;じっくり　ながめてみた。&#10;&lt;br&gt;&#10;&lt;pc&gt;は　小箱の裏に&#10;文字が刻まれているのを　見つけた！&#10;&lt;br&gt;&#10;うるわしき　女王の統べる　白亜の城の南&#10;朽ちたる柵を越えゆけば　水晶のごとく&#10;麗しき　蒼い肌の魔女が　手招きす。&#10;&lt;br&gt;&#10;我を開きたくば　魔女に勝利せよ。">
+        <source>&lt;pc&gt; carefully examines
+the Mystery Box.
+&lt;br&gt;
+&lt;pc&gt; finds letters engraved
+on the back side of the box!
+&lt;br&gt;
+&quot;To the south of the chalky castle where
+the beautiful queen sings and beyond the
+decayed fence, beckons the witch
+&lt;br&gt;
+with the blue, crystalline-skin.&quot;</source>
+        <target state="needs-translation">&lt;pc&gt; carefully examines
+the Mystery Box.
+&lt;br&gt;
+&lt;pc&gt; finds letters engraved
+on the back side of the box!
+&lt;br&gt;
+&quot;To the south of the chalky castle where
+the beautiful queen sings and beyond the
+decayed fence, beckons the witch
+&lt;br&gt;
+with the blue, crystalline-skin.&quot;</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pc&gt;は　なぞの小箱を
+じっくり　ながめてみた。
+&lt;br&gt;
+&lt;pc&gt;は　小箱の裏に
+文字が刻まれているのを　見つけた！
+&lt;br&gt;
+うるわしき　女王の統べる　白亜の城の南
+朽ちたる柵を越えゆけば　水晶のごとく
+麗しき　蒼い肌の魔女が　手招きす。
+&lt;br&gt;
+我を開きたくば　魔女に勝利せよ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414171" resname="&lt;pc&gt;は　なぞの小箱を&#10;じっくり　ながめてみた。&#10;&lt;br&gt;&#10;どうやら　かかっていた術が　解けているようだ！">
+        <source>&lt;pc&gt; carefully examines
+the Mystery Box.
+&lt;br&gt;
+It seems the spell has been broken!</source>
+        <target state="needs-translation">&lt;pc&gt; carefully examines
+the Mystery Box.
+&lt;br&gt;
+It seems the spell has been broken!</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pc&gt;は　なぞの小箱を
+じっくり　ながめてみた。
+&lt;br&gt;
+どうやら　かかっていた術が　解けているようだ！</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414173" resname="「&lt;pc&gt;　こんにちはクポ！&#10;　モグのあげたコインは　お役に立ったクポ？&lt;bw_break&gt;">
+        <source>&lt;pc&gt;! Hello, kupo!
+Was the coin that I gave you useful?
+&lt;bw_break&gt;</source>
+        <target state="needs-translation">&lt;pc&gt;! Hello, kupo!
+Was the coin that I gave you useful?
+&lt;bw_break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「&lt;pc&gt;　こんにちはクポ！
+　モグのあげたコインは　お役に立ったクポ？&lt;bw_break&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414175" resname="　モグに　プレゼントしてくれるクポ？&lt;yesno&gt;&lt;case 1&gt;&lt;close&gt;&lt;case 2&gt;&lt;break&gt;&lt;case_cancel&gt;&lt;break&gt;&lt;case_end&gt;">
+        <source>&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;Kupo!
+Can you give me the flower I asked for, kupo?
+&lt;yesno&gt;&lt;case 1&gt;&lt;close&gt;&lt;case 2&gt;&lt;break&gt;&lt;case_cancel&gt;&lt;break&gt;&lt;case_end&gt;</source>
+        <target state="needs-translation">&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;Kupo!
+Can you give me the flower I asked for, kupo?
+&lt;yesno&gt;&lt;case 1&gt;&lt;close&gt;&lt;case 2&gt;&lt;break&gt;&lt;case_cancel&gt;&lt;break&gt;&lt;case_end&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">　モグに　プレゼントしてくれるクポ？&lt;yesno&gt;&lt;case 1&gt;&lt;close&gt;&lt;case 2&gt;&lt;break&gt;&lt;case_cancel&gt;&lt;break&gt;&lt;case_end&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414177" resname="&lt;pc&gt;たちが　扉を開けると&#10;なんと　チュピちゃんが　飛んできて&#10;部屋の中へ　すべりこんだ！">
+        <source>When &lt;pc&gt; opens the door,
+Chupie came flying past and slipped
+through the door!</source>
+        <target state="needs-translation">When &lt;pc&gt; opens the door,
+Chupie came flying past and slipped
+through the door!</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;pc&gt;たちが　扉を開けると
+なんと　チュピちゃんが　飛んできて
+部屋の中へ　すべりこんだ！</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414179" resname="「おかえりなさい！　&lt;pc&gt;様！&#10;　お部屋の準備も　すっかり整っておりますよ。&#10;　もう　お休みになりますか？&lt;yesno&gt;&lt;break&gt;">
+        <source>Welcome back!
+Your room is ready. Would you like to
+rest now?&lt;yesno&gt;&lt;break&gt;</source>
+        <target state="needs-translation">Welcome back!
+Your room is ready. Would you like to
+rest now?&lt;yesno&gt;&lt;break&gt;</target>
+        <context-group purpose="information">
+          <context context-type="source">「おかえりなさい！　&lt;pc&gt;様！
+　お部屋の準備も　すっかり整っておりますよ。
+　もう　お休みになりますか？&lt;yesno&gt;&lt;break&gt;</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414181" resname="断罪の剣の内なる世界が　これまで以上に&#10;大きな干渉を受けているようだ。">
+        <source>The path forward is blocked by an obtrusion
+even larger than before.</source>
+        <target state="needs-translation">The path forward is blocked by an obtrusion
+even larger than before.</target>
+        <context-group purpose="information">
+          <context context-type="source">断罪の剣の内なる世界が　これまで以上に
+大きな干渉を受けているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414183" resname="「そっから　『キャラの場所』ってのを選べば&#10;　誰が　どこさいるか　わかるはずだっぺ。&#10;　他の機能も　便利だから　試してみてくんろ。&#10;&lt;br&gt;&#10;「孫のシンイさまは　あんなに　優しくて&#10;　ステキな人だのになぁ。&#10;　アバさまは　本当に　怖いっぺ。">
+        <source>&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;Huh? Are ya goin' to Abba's to apologize
+for Shinonome's mistake?!
+&lt;br&gt;
+Abba gets super scary when she's steamed.
+Hope she doesn't scold ya too much!
+&lt;br&gt;
+If ya need to find her house, open the map
+and look for her house with the shiny star
+mark.
+&lt;br&gt;
+You see &quot;Menu Display&quot; at the bottom of the
+map there? Open that up and select
+&quot;NPC Location&quot;, and you can see who's where.
+&lt;br&gt;
+The other functions're useful too, so be sure
+to check 'em out.
+&lt;br&gt;
+Abba's grandson, Shini...he's so nice.
+But man, is she scary...</source>
+        <target state="needs-translation">&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;Huh? Are ya goin' to Abba's to apologize
+for Shinonome's mistake?!
+&lt;br&gt;
+Abba gets super scary when she's steamed.
+Hope she doesn't scold ya too much!
+&lt;br&gt;
+If ya need to find her house, open the map
+and look for her house with the shiny star
+mark.
+&lt;br&gt;
+You see &quot;Menu Display&quot; at the bottom of the
+map there? Open that up and select
+&quot;NPC Location&quot;, and you can see who's where.
+&lt;br&gt;
+The other functions're useful too, so be sure
+to check 'em out.
+&lt;br&gt;
+Abba's grandson, Shini...he's so nice.
+But man, is she scary...</target>
+        <context-group purpose="information">
+          <context context-type="source">「そっから　『キャラの場所』ってのを選べば
+　誰が　どこさいるか　わかるはずだっぺ。
+　他の機能も　便利だから　試してみてくんろ。
+&lt;br&gt;
+「孫のシンイさまは　あんなに　優しくて
+　ステキな人だのになぁ。
+　アバさまは　本当に　怖いっぺ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414185" resname="&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;「アバさまに　しかられずに済んだだか？&#10;　シンイさまの　お使いで済むんなら&#10;　やすいもんだべ。">
+        <source>&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;So, didja manage to avoid gettin'
+scolded by Abba? You got off easy if it's
+just an errand ya need to run for Shini!
+&lt;br&gt;
+Fluffy Rice Husks can be found in the Water
+Cabin, and old man Kudai often uses Dried
+Antidotal Herbs to make tea.
+&lt;br&gt;
+If ya get lost, go ahead and open the map
+and look for the shiny star mark, 'kay?
+&lt;br&gt;
+You see &quot;Menu Display&quot; at the bottom of the
+map there? Open that up and select
+&quot;NPC Location&quot;, and you can see who's where.
+&lt;br&gt;
+The other functions're useful too, so be sure
+to check 'em out.</source>
+        <target state="needs-translation">&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;So, didja manage to avoid gettin'
+scolded by Abba? You got off easy if it's
+just an errand ya need to run for Shini!
+&lt;br&gt;
+Fluffy Rice Husks can be found in the Water
+Cabin, and old man Kudai often uses Dried
+Antidotal Herbs to make tea.
+&lt;br&gt;
+If ya get lost, go ahead and open the map
+and look for the shiny star mark, 'kay?
+&lt;br&gt;
+You see &quot;Menu Display&quot; at the bottom of the
+map there? Open that up and select
+&quot;NPC Location&quot;, and you can see who's where.
+&lt;br&gt;
+The other functions're useful too, so be sure
+to check 'em out.</target>
+        <context-group purpose="information">
+          <context context-type="source">&lt;attr&gt;&lt;feel_happy_lv3&gt;&lt;end_attr&gt;「アバさまに　しかられずに済んだだか？
+　シンイさまの　お使いで済むんなら
+　やすいもんだべ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414187" resname="「やっと　新たな主神を見つけたのに&#10;　自分のやりたいことを　優先するなんて&#10;　どうして……。&#10;&lt;br&gt;&#10;「追いかけようと　思ったけど&#10;　ラキでも　ニオイをたどれなかった。">
+        <source>Finally, after we found the new Almighty...
+He goes off and does what he wants.
+Why...?
+&lt;br&gt;
+Lycae thought about chasing after him,
+but even he couldn't track his scent.</source>
+        <target state="needs-translation">Finally, after we found the new Almighty...
+He goes off and does what he wants.
+Why...?
+&lt;br&gt;
+Lycae thought about chasing after him,
+but even he couldn't track his scent.</target>
+        <context-group purpose="information">
+          <context context-type="source">「やっと　新たな主神を見つけたのに
+　自分のやりたいことを　優先するなんて
+　どうして……。
+&lt;br&gt;
+「追いかけようと　思ったけど
+　ラキでも　ニオイをたどれなかった。</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
