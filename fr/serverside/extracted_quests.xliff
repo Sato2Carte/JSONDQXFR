@@ -1,0 +1,2201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="4167" original="/Clarity Server-Side/extracted_quests.xlsx" source-language="ja" target-language="fr" datatype="plaintext" project-id="763503" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="1414189" resname="ダーマ神殿にいる　スキルマスターの弟子&#10;タッツィから　真のアラハギーロ王国の城下町で&#10;『深遠なるぱふぱふ』という本の持ち主を探し&#10;その本を手に入れてきてほしい！　と頼まれた。&#10;本の持ち主は　暗くて　ジメジメした場所が&#10;好きらしい。">
+        <source>Tazzi, the Skill Master's apprentice in the
+Alltrades Abbey, asked me to find the owner
+of the book &quot;Profound Puff-Puff&quot; in the
+castle town of the true Kingdom of Arahagiro
+and get the book for him!　The owner of the
+book is a dark and gloomy man named Jiméjito.
+Apparently, the owner of the book likes dark
+and gloomy places.</source>
+        <target state="needs-translation">Tazzi, the Skill Master's apprentice in the
+Alltrades Abbey, asked me to find the owner
+of the book &quot;Profound Puff-Puff&quot; in the
+castle town of the true Kingdom of Arahagiro
+and get the book for him!　The owner of the
+book is a dark and gloomy man named Jiméjito.
+Apparently, the owner of the book likes dark
+and gloomy places.</target>
+        <context-group purpose="information">
+          <context context-type="source">ダーマ神殿にいる　スキルマスターの弟子
+タッツィから　真のアラハギーロ王国の城下町で
+『深遠なるぱふぱふ』という本の持ち主を探し
+その本を手に入れてきてほしい！　と頼まれた。
+本の持ち主は　暗くて　ジメジメした場所が
+好きらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414191" resname="ジュレットの町にいる　武闘家ヤーンから&#10;ガウラドに呼びだされているので&#10;ランガーオ山地にある　ロンダの氷穴の奥&#10;ガラガの穴に来てほしい！　と頼まれた。&#10;ヤーンとは　現地で会うことになっている。">
+        <source>Martial Artist Yarn, in Julet House, has
+summoned me to Gaurad, and asked me to come
+to Garaga Hole, behind the Rhonda Ice Cave in
+the Langao Mountains!　He asked me to come to
+the Galaga Hole in the Rongda Ice Hole in the
+Langao Mountains. I am to meet Yarn there.</source>
+        <target state="needs-translation">Martial Artist Yarn, in Julet House, has
+summoned me to Gaurad, and asked me to come
+to Garaga Hole, behind the Rhonda Ice Cave in
+the Langao Mountains!　He asked me to come to
+the Galaga Hole in the Rongda Ice Hole in the
+Langao Mountains. I am to meet Yarn there.</target>
+        <context-group purpose="information">
+          <context context-type="source">ジュレットの町にいる　武闘家ヤーンから
+ガウラドに呼びだされているので
+ランガーオ山地にある　ロンダの氷穴の奥
+ガラガの穴に来てほしい！　と頼まれた。
+ヤーンとは　現地で会うことになっている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414193" resname="ガウラドの正体は　超天道士を倒すために&#10;魔界から来た　魔物だった。ヤーンの代わりに&#10;武闘魔ガウラドと闘い　倒した。&#10;ヤーンから　確かめたいことがあるので&#10;コロシアムで勝負してくれ！　と頼まれた。&#10;グララという女オーガに　話をつけてあるようだ。">
+        <source>Gaurad's true identity was that of a monster
+from Demon World who came to defeat the
+Chotenkyoji. Instead of Yarn, he fought
+Warrior Demon Gaurad and defeated him. Yarn
+asked me to compete with him at the Coliseum
+to see what I can find out.　He was asked to
+fight at the Colosseum. It seems that he has
+already talked to a female ogre named Grala.</source>
+        <target state="needs-translation">Gaurad's true identity was that of a monster
+from Demon World who came to defeat the
+Chotenkyoji. Instead of Yarn, he fought
+Warrior Demon Gaurad and defeated him. Yarn
+asked me to compete with him at the Coliseum
+to see what I can find out.　He was asked to
+fight at the Colosseum. It seems that he has
+already talked to a female ogre named Grala.</target>
+        <context-group purpose="information">
+          <context context-type="source">ガウラドの正体は　超天道士を倒すために
+魔界から来た　魔物だった。ヤーンの代わりに
+武闘魔ガウラドと闘い　倒した。
+ヤーンから　確かめたいことがあるので
+コロシアムで勝負してくれ！　と頼まれた。
+グララという女オーガに　話をつけてあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414195" resname="赤いずきんの女性　コリスに頼まれて&#10;オオカミ退治を　することになった。&#10;月の守り神を呼ぶために　月見団子を&#10;作りたいというので　フォルモンティ村の外にある&#10;つきかげの広場に行き　ルナーの池で&#10;月見のしずくを　手に入れよう。">
+        <source>Coris, the woman in the red hood, asked me to
+help her kill the wolves. She wanted to make
+Moon Viewing Dumplings to call the Moon
+Guardian, so we went to Moonlight Plaza
+outside Folmonti Village to get Moon Viewing
+Drops from Lunar Pond.</source>
+        <target state="needs-translation">Coris, the woman in the red hood, asked me to
+help her kill the wolves. She wanted to make
+Moon Viewing Dumplings to call the Moon
+Guardian, so we went to Moonlight Plaza
+outside Folmonti Village to get Moon Viewing
+Drops from Lunar Pond.</target>
+        <context-group purpose="information">
+          <context context-type="source">赤いずきんの女性　コリスに頼まれて
+オオカミ退治を　することになった。
+月の守り神を呼ぶために　月見団子を
+作りたいというので　フォルモンティ村の外にある
+つきかげの広場に行き　ルナーの池で
+月見のしずくを　手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414197" resname="赤いずきんの女性　コリスに頼まれて&#10;オオカミ退治を　することになった。&#10;退治に使う　伝説の銃ススキラーを　作るため&#10;エルトナ大陸の　落陽の草原などにいる&#10;バサラーナと戦うと現れる　ススキーノから&#10;銀のススキを　手に入れよう。">
+        <source>Coris, a woman in a red hood, asked him to
+kill the wolves. To make the legendary gun,
+Susuki, which is used to exterminate wolves,
+you must get Silver Grass from Susukino, who
+appears when you fight Basarana in Sunset
+Meadow and other places in Eltona Continent.
+Get it.</source>
+        <target state="needs-translation">Coris, a woman in a red hood, asked him to
+kill the wolves. To make the legendary gun,
+Susuki, which is used to exterminate wolves,
+you must get Silver Grass from Susukino, who
+appears when you fight Basarana in Sunset
+Meadow and other places in Eltona Continent.
+Get it.</target>
+        <context-group purpose="information">
+          <context context-type="source">赤いずきんの女性　コリスに頼まれて
+オオカミ退治を　することになった。
+退治に使う　伝説の銃ススキラーを　作るため
+エルトナ大陸の　落陽の草原などにいる
+バサラーナと戦うと現れる　ススキーノから
+銀のススキを　手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414199" resname="赤いずきんの女性　コリスに頼まれて&#10;オオカミ退治を　することになった。&#10;退治に使う　伝説の銃ススキラーを　作るため&#10;銀のススキを　手に入れたので&#10;フォルモンティ村の　教会にいる&#10;コリスに　届けよう。">
+        <source>Coris, the woman in the red hood, has asked
+me to kill the wolves. I received some Silver
+Grass to make the legendary gun, Suskiller,
+which I will use to kill the wolves, and I
+will deliver it to Coris at the Church in
+Folmonti Village.</source>
+        <target state="needs-translation">Coris, the woman in the red hood, has asked
+me to kill the wolves. I received some Silver
+Grass to make the legendary gun, Suskiller,
+which I will use to kill the wolves, and I
+will deliver it to Coris at the Church in
+Folmonti Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">赤いずきんの女性　コリスに頼まれて
+オオカミ退治を　することになった。
+退治に使う　伝説の銃ススキラーを　作るため
+銀のススキを　手に入れたので
+フォルモンティ村の　教会にいる
+コリスに　届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414201" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;真のレンダーシアの　{color=yellow}真のローヌ樹林帯{reset}にいる&#10;{color=yellow}トリカトラプス{reset}を　１５匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>~Request from Monster Strike Force~ I want
+you to kill
+{color=yellow}Trikaceratops{reset} in
+{color=yellow}True Rhone Forest Belt{reset}
+in True Lendersia! I want you to take down 15
+of them! 　 Currently, 0 of them have been
+killed.</source>
+        <target state="needs-translation">~Request from Monster Strike Force~ I want
+you to kill
+{color=yellow}Trikaceratops{reset} in
+{color=yellow}True Rhone Forest Belt{reset}
+in True Lendersia! I want you to take down 15
+of them! 　 Currently, 0 of them have been
+killed.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+真のレンダーシアの　{color=yellow}真のローヌ樹林帯{reset}にいる
+{color=yellow}トリカトラプス{reset}を　１５匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414203" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;真のレンダーシアの　{color=yellow}真のローヌ樹林帯{reset}にいる&#10;{color=yellow}トリカトラプス{reset}を　１５匹　討伐してほしい！&#10;　&#10;現在　６匹　倒している。">
+        <source>~Request from Monster Strike Force~ I want
+you to kill
+{color=yellow}Trikaceratops{reset} in
+{color=yellow}True Rhone Forest Belt{reset}
+in True Lendersia! I want you to take down 15
+of them! 　 I've killed 6 of them so far.</source>
+        <target state="needs-translation">~Request from Monster Strike Force~ I want
+you to kill
+{color=yellow}Trikaceratops{reset} in
+{color=yellow}True Rhone Forest Belt{reset}
+in True Lendersia! I want you to take down 15
+of them! 　 I've killed 6 of them so far.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+真のレンダーシアの　{color=yellow}真のローヌ樹林帯{reset}にいる
+{color=yellow}トリカトラプス{reset}を　１５匹　討伐してほしい！
+　
+現在　６匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414205" resname="港町レンドア南の　船舶管理局にいる&#10;ジャッカル局員から　オーグリード大陸の&#10;ベコン渓谷にいる　チャームバットが&#10;落とす　ゆうわくエキスが　ほしいの！&#10;と頼まれた。">
+        <source>I need the Luring Extract that Charm Bats in
+Becon Valley, Ogreed Continent drop from
+Clerk Jackal at Ship Bureau, South Port Town
+Lendor. I'm in Bekong Canyon on the Orgreid
+Continent. I was asked to get it.</source>
+        <target state="needs-translation">I need the Luring Extract that Charm Bats in
+Becon Valley, Ogreed Continent drop from
+Clerk Jackal at Ship Bureau, South Port Town
+Lendor. I'm in Bekong Canyon on the Orgreid
+Continent. I was asked to get it.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア南の　船舶管理局にいる
+ジャッカル局員から　オーグリード大陸の
+ベコン渓谷にいる　チャームバットが
+落とす　ゆうわくエキスが　ほしいの！
+と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414207" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;エルトナ大陸の　{color=yellow}落陽の草原{reset}にいる&#10;{color=yellow}グリンバングル{reset}を　２０匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>~Request from Monster Strike Force Force~
+I want you to take out 20 Sbonce in Eltona
+Continent's {color=yellow}Sunset Meadow
+{reset}! I want you to take down 20 of them!
+ Currently, 0 of them have been killed.</source>
+        <target state="needs-translation">~Request from Monster Strike Force Force~
+I want you to take out 20 Sbonce in Eltona
+Continent's {color=yellow}Sunset Meadow
+{reset}! I want you to take down 20 of them!
+ Currently, 0 of them have been killed.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+エルトナ大陸の　{color=yellow}落陽の草原{reset}にいる
+{color=yellow}グリンバングル{reset}を　２０匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414209" resname="メギストリスの都の　噴水公園にいる&#10;自称おしゃれ評論家のペレーレから&#10;トレンドハットを　流行に合ったカラーにして&#10;着てみせることで　おしゃれセンスを証明して&#10;きせかえドールを　手に入れてみませんか？&#10;と言われた。">
+        <source>Prove your fashionable senses and get
+yourself a Kisekae doll by wearing Trend Hat
+in fashionable colors from Perere, the self-
+proclaimed fashion critic on the City of
+Megistris fountain.</source>
+        <target state="needs-translation">Prove your fashionable senses and get
+yourself a Kisekae doll by wearing Trend Hat
+in fashionable colors from Perere, the self-
+proclaimed fashion critic on the City of
+Megistris fountain.</target>
+        <context-group purpose="information">
+          <context context-type="source">メギストリスの都の　噴水公園にいる
+自称おしゃれ評論家のペレーレから
+トレンドハットを　流行に合ったカラーにして
+着てみせることで　おしゃれセンスを証明して
+きせかえドールを　手に入れてみませんか？
+と言われた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414211" resname="アラハギーロ王国の宝物庫で　カギ師グラーネから&#10;開かずの小箱を　メギストリス城の宝物庫にいる&#10;ネジロに届けてくれ！　と頼まれた。&#10;ネジロに　会いにいこう。">
+        <source>Deliver the Unopened Small Box from the
+keymaster Grane at the treasury of the
+Kingdom of Al-Ahagiro to Nejiro at the
+treasury of Megistris Castle!　 Let's go see
+Nejiro.</source>
+        <target state="needs-translation">Deliver the Unopened Small Box from the
+keymaster Grane at the treasury of the
+Kingdom of Al-Ahagiro to Nejiro at the
+treasury of Megistris Castle!　 Let's go see
+Nejiro.</target>
+        <context-group purpose="information">
+          <context context-type="source">アラハギーロ王国の宝物庫で　カギ師グラーネから
+開かずの小箱を　メギストリス城の宝物庫にいる
+ネジロに届けてくれ！　と頼まれた。
+ネジロに　会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414213" resname="偽りの　アラハギーロ城下町で　セラフィから&#10;町の人のため　薬の材料を集めて！　と頼まれた。&#10;偽りのローヌ樹林帯の　南の果てで&#10;ローヌにんじんを　偽りのアラハギーロ地方の&#10;東の砂漠で　ドラゴンゾンビを倒すと落とす&#10;サリュウコツを　集めて　セラフィに渡そう。">
+        <source>falseGather medicine materials for the
+townspeople from Seraphi in Al-AhagiroCastle
+Town!　 Collect Rhone Carrot at the south end
+of falseRhone Forest Belt. falseCollect Sand
+Bone from Dragon Zombie at the east desert of
+Al-Ahagiro Region and give it to Seraphi.</source>
+        <target state="needs-translation">falseGather medicine materials for the
+townspeople from Seraphi in Al-AhagiroCastle
+Town!　 Collect Rhone Carrot at the south end
+of falseRhone Forest Belt. falseCollect Sand
+Bone from Dragon Zombie at the east desert of
+Al-Ahagiro Region and give it to Seraphi.</target>
+        <context-group purpose="information">
+          <context context-type="source">偽りの　アラハギーロ城下町で　セラフィから
+町の人のため　薬の材料を集めて！　と頼まれた。
+偽りのローヌ樹林帯の　南の果てで
+ローヌにんじんを　偽りのアラハギーロ地方の
+東の砂漠で　ドラゴンゾンビを倒すと落とす
+サリュウコツを　集めて　セラフィに渡そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414215" resname="妖精図書館の管理人　妖精ミモリーに頼まれ&#10;誰かの記憶が記された　不思議な本の中に入ると&#10;セラニーは　リィンという少女の姿に&#10;変わっていた。&#10;リィンは　夜の神殿と呼ばれる遺跡のお宝を&#10;狙っているようだ。神殿の入口を探してみよう。">
+        <source>Mimori, the caretaker of the Fairy Library,
+asks Serany to enter a mysterious book that
+contains someone's memories, and Serany is
+transformed into a girl named Lynn. Lynn
+seems to be after the treasure of the ruins
+called Night Temple, so let's find the
+entrance to the temple.</source>
+        <target state="needs-translation">Mimori, the caretaker of the Fairy Library,
+asks Serany to enter a mysterious book that
+contains someone's memories, and Serany is
+transformed into a girl named Lynn. Lynn
+seems to be after the treasure of the ruins
+called Night Temple, so let's find the
+entrance to the temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">妖精図書館の管理人　妖精ミモリーに頼まれ
+誰かの記憶が記された　不思議な本の中に入ると
+セラニーは　リィンという少女の姿に
+変わっていた。
+リィンは　夜の神殿と呼ばれる遺跡のお宝を
+狙っているようだ。神殿の入口を探してみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414217" resname="不思議の魔塔で　管理人をしているという&#10;ガチャコッコの　チャコロットから&#10;塔の中にあらわれた　魔物を退治して&#10;封印された扉を　解放するように　頼まれた。">
+        <source>Chacolot of Clockwork Cuckoo, the caretaker
+of Mysterious Tower, asked me to kill the
+demon that appeared in the tower and free the
+sealed door.</source>
+        <target state="needs-translation">Chacolot of Clockwork Cuckoo, the caretaker
+of Mysterious Tower, asked me to kill the
+demon that appeared in the tower and free the
+sealed door.</target>
+        <context-group purpose="information">
+          <context context-type="source">不思議の魔塔で　管理人をしているという
+ガチャコッコの　チャコロットから
+塔の中にあらわれた　魔物を退治して
+封印された扉を　解放するように　頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414219" resname="ヴェリナード城下町の　カーメロから&#10;リーネと一緒に　豪華客船のパーティーに&#10;出席してもらえないか？　と頼まれた。&#10;さっそく　リーネに話しかけてみよう。">
+        <source>Could you and Renee from Karmelo in Verinard
+Castle Town attend a party on a luxury cruise
+ship?　 Let's talk to Renee right away.</source>
+        <target state="needs-translation">Could you and Renee from Karmelo in Verinard
+Castle Town attend a party on a luxury cruise
+ship?　 Let's talk to Renee right away.</target>
+        <context-group purpose="information">
+          <context context-type="source">ヴェリナード城下町の　カーメロから
+リーネと一緒に　豪華客船のパーティーに
+出席してもらえないか？　と頼まれた。
+さっそく　リーネに話しかけてみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414221" resname="グレン城にある　武器鍛冶ギルドで&#10;マスター・ラセドから　武器鍛冶職人に&#10;なるための試練を　受けることになった。&#10;武器鍛冶用の設備をしらべて&#10;実際に　武器鍛冶に挑戦してみよう。">
+        <source>At the Weaponsmith Guild in Glen Castle,
+Guildmaster Rasedo gave me a trial to become
+a weaponsmith. Let's check out the
+weaponsmithing equipment and try our hand at
+weaponsmithing.</source>
+        <target state="needs-translation">At the Weaponsmith Guild in Glen Castle,
+Guildmaster Rasedo gave me a trial to become
+a weaponsmith. Let's check out the
+weaponsmithing equipment and try our hand at
+weaponsmithing.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城にある　武器鍛冶ギルドで
+マスター・ラセドから　武器鍛冶職人に
+なるための試練を　受けることになった。
+武器鍛冶用の設備をしらべて
+実際に　武器鍛冶に挑戦してみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414223" resname="エンドールという町からやってきた&#10;トルネコという商人の依頼で&#10;妻と息子に宛てた手紙を　郵便局に届けた。&#10;魔法の迷宮で　トルネコと再会できたら&#10;報告しよう。">
+        <source>I delivered a letter to my wife and son to
+the Post Office at the request of a merchant
+named Torneko from a town called Endor. I'll
+let you know if I see Torneko again at Magic
+Maze.</source>
+        <target state="needs-translation">I delivered a letter to my wife and son to
+the Post Office at the request of a merchant
+named Torneko from a town called Endor. I'll
+let you know if I see Torneko again at Magic
+Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">エンドールという町からやってきた
+トルネコという商人の依頼で
+妻と息子に宛てた手紙を　郵便局に届けた。
+魔法の迷宮で　トルネコと再会できたら
+報告しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414225" resname="ヴェリナード領南の　海辺の交易所で　ソーネから&#10;美容院で使える　新色の開発のため&#10;ヴェリナード領南の　ホタテワラビーが&#10;たまに落とす　白銀ホタテを&#10;手に入れてください！　と頼まれた。">
+        <source>Get a Silver Scallop, sometimes dropped by
+Verinard South's Scallop Wallaby, from Sonet
+at the Beach Trading Post in Verinard South
+for the development of new colors for the
+salon!</source>
+        <target state="needs-translation">Get a Silver Scallop, sometimes dropped by
+Verinard South's Scallop Wallaby, from Sonet
+at the Beach Trading Post in Verinard South
+for the development of new colors for the
+salon!</target>
+        <context-group purpose="information">
+          <context context-type="source">ヴェリナード領南の　海辺の交易所で　ソーネから
+美容院で使える　新色の開発のため
+ヴェリナード領南の　ホタテワラビーが
+たまに落とす　白銀ホタテを
+手に入れてください！　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414227" resname="港町レンドア北にある　道具鍛冶ギルドで&#10;マスター・バレクスから　道具鍛冶職人に&#10;なるための試練を　受けることになった。&#10;レシピ帳　はじめての道具鍛冶をつかって&#10;内容を覚えたら　バレクスに話しかけよう。">
+        <source>At the Toolsmith Guild in North Port Lendor,
+Guildmaster Barex gave me a trial on how to
+become a toolsmith. After learning the
+contents of the recipe book Beginner
+Toolsmithing, I talked to Barex.</source>
+        <target state="needs-translation">At the Toolsmith Guild in North Port Lendor,
+Guildmaster Barex gave me a trial on how to
+become a toolsmith. After learning the
+contents of the recipe book Beginner
+Toolsmithing, I talked to Barex.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア北にある　道具鍛冶ギルドで
+マスター・バレクスから　道具鍛冶職人に
+なるための試練を　受けることになった。
+レシピ帳　はじめての道具鍛冶をつかって
+内容を覚えたら　バレクスに話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414229" resname="港町レンドア北にある　道具鍛冶ギルドで&#10;マスター・バレクスから　道具鍛冶職人に&#10;なるための試練を　受けることになった。&#10;道具鍛冶用の設備をしらべて&#10;実際に　道具鍛冶に挑戦してみよう。">
+        <source>Guildmaster Barex at the Toolsmith Guild in
+North Port Lendor is giving me a trial to
+become a toolsmith. Let's check out the
+toolsmithing equipment and actually try tool
+smithing.</source>
+        <target state="needs-translation">Guildmaster Barex at the Toolsmith Guild in
+North Port Lendor is giving me a trial to
+become a toolsmith. Let's check out the
+toolsmithing equipment and actually try tool
+smithing.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア北にある　道具鍛冶ギルドで
+マスター・バレクスから　道具鍛冶職人に
+なるための試練を　受けることになった。
+道具鍛冶用の設備をしらべて
+実際に　道具鍛冶に挑戦してみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414231" resname="氷の領界のイーサの村にいる　リルチェラから&#10;悩みがあるので　相談に　のってほしい！&#10;と頼まれた。どこからともなく　聞こえる&#10;ふしぎな声に　恵みの木の裏側を調べるように&#10;言われたので　ついてきて　ほしいそうだ。&#10;恵みの木の裏側を　調べてみよう。">
+        <source>Lilcherat, who is in the Ether Village of the
+Ice Realm, has a problem and would like you
+to consult with him! A mysterious voice came
+out of nowhere and told me to check the back
+side of Grace Tree, so please follow me.
+Let's check the backside of Grace Tree.</source>
+        <target state="needs-translation">Lilcherat, who is in the Ether Village of the
+Ice Realm, has a problem and would like you
+to consult with him! A mysterious voice came
+out of nowhere and told me to check the back
+side of Grace Tree, so please follow me.
+Let's check the backside of Grace Tree.</target>
+        <context-group purpose="information">
+          <context context-type="source">氷の領界のイーサの村にいる　リルチェラから
+悩みがあるので　相談に　のってほしい！
+と頼まれた。どこからともなく　聞こえる
+ふしぎな声に　恵みの木の裏側を調べるように
+言われたので　ついてきて　ほしいそうだ。
+恵みの木の裏側を　調べてみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414233" resname="氷の領界のイーサの村にいる　リルチェラに頼まれ&#10;恵みの木の裏側を調べると　恵みの木の中にある&#10;ふしぎな世界　恵みの園で　サジェと再会した。&#10;万象流転の書にある　神聖秘文の内容を探るため&#10;とこしえの氷原の　フラッペリンと&#10;白霜の流氷野の　ダークシルフを倒そう。">
+        <source>Lilcherat in the Ether Village of the Ice
+Realm asked me to check the backside of the
+Grace Tree, and I met Sajay again in the
+mysterious world of Gratia inside the Grace
+Tree. I defeated White Imp in the Eternal Ice
+Field and Dark Sylph in the Frosty Ice Field
+to find out the contents of the Sacred Secret
+in the Book of All Things.</source>
+        <target state="needs-translation">Lilcherat in the Ether Village of the Ice
+Realm asked me to check the backside of the
+Grace Tree, and I met Sajay again in the
+mysterious world of Gratia inside the Grace
+Tree. I defeated White Imp in the Eternal Ice
+Field and Dark Sylph in the Frosty Ice Field
+to find out the contents of the Sacred Secret
+in the Book of All Things.</target>
+        <context-group purpose="information">
+          <context context-type="source">氷の領界のイーサの村にいる　リルチェラに頼まれ
+恵みの木の裏側を調べると　恵みの木の中にある
+ふしぎな世界　恵みの園で　サジェと再会した。
+万象流転の書にある　神聖秘文の内容を探るため
+とこしえの氷原の　フラッペリンと
+白霜の流氷野の　ダークシルフを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414235" resname="港町レンドア南の宿屋にある　鏡の向こうで&#10;リュナンが　待っている。&#10;魔法使いになっているなら&#10;宿屋に泊まって　鏡に話しかけてみよう。">
+        <source>Lunan is waiting for you behind the mirror at
+the inn in South Port Lendor. If you are a
+mage, stay at the inn and talk to the mirror.</source>
+        <target state="needs-translation">Lunan is waiting for you behind the mirror at
+the inn in South Port Lendor. If you are a
+mage, stay at the inn and talk to the mirror.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア南の宿屋にある　鏡の向こうで
+リュナンが　待っている。
+魔法使いになっているなら
+宿屋に泊まって　鏡に話しかけてみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414237" resname="夢幻の森の捨てられた城で　囚われている&#10;リュナンから　魔法の結界を解くため&#10;トラマナ石を持ってきてくれ！　と頼まれた。&#10;トラマナ石は　夢幻の森の　夜に出現する&#10;インキュバスに　ヒャドで&#10;とどめをさしたときだけ　手に入るらしい。">
+        <source>Bring me the Safe Pass Stone from Lunan, who
+is being held captive in the Abandoned Castle
+in the Dream Forest, in order to break the
+magic spell! The Safe Pass Stone can only be
+obtained by using Crack to finish off
+Incubus, who appears at night in the Dream
+Forest.</source>
+        <target state="needs-translation">Bring me the Safe Pass Stone from Lunan, who
+is being held captive in the Abandoned Castle
+in the Dream Forest, in order to break the
+magic spell! The Safe Pass Stone can only be
+obtained by using Crack to finish off
+Incubus, who appears at night in the Dream
+Forest.</target>
+        <context-group purpose="information">
+          <context context-type="source">夢幻の森の捨てられた城で　囚われている
+リュナンから　魔法の結界を解くため
+トラマナ石を持ってきてくれ！　と頼まれた。
+トラマナ石は　夢幻の森の　夜に出現する
+インキュバスに　ヒャドで
+とどめをさしたときだけ　手に入るらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414239" resname="港町レンドア北にある　道具鍛冶ギルドで&#10;マスター・バレクスから　レベル３１以上の&#10;道具鍛冶職人になるため　★以上の&#10;銀の錬金ツボを　作って&#10;新品のまま　持ってくるという仕事を&#10;引き受けてくれ！　と頼まれた。">
+        <source>Accept an assignment from Guildmaster Barex
+at the Toolsmith Guild in North Port Lendor
+to create and bring back new Silver Alchemy
+Pot with a ★ or higher to become a level 31+
+toolsmith!</source>
+        <target state="needs-translation">Accept an assignment from Guildmaster Barex
+at the Toolsmith Guild in North Port Lendor
+to create and bring back new Silver Alchemy
+Pot with a ★ or higher to become a level 31+
+toolsmith!</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア北にある　道具鍛冶ギルドで
+マスター・バレクスから　レベル３１以上の
+道具鍛冶職人になるため　★以上の
+銀の錬金ツボを　作って
+新品のまま　持ってくるという仕事を
+引き受けてくれ！　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414241" resname="チョッピ荒野の　荒野の休息所で&#10;ココナという　プクリポの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>A Pukulipo woman named Cocona at the
+Wilderness Retreat in Choppi Wilderness needs
+help creating new colors for use at the
+Salon.</source>
+        <target state="needs-translation">A Pukulipo woman named Cocona at the
+Wilderness Retreat in Choppi Wilderness needs
+help creating new colors for use at the
+Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">チョッピ荒野の　荒野の休息所で
+ココナという　プクリポの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414243" resname="ブーナー熱帯雨林の　密林の野営地で&#10;ジェーンという　ウェディの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>At the Jungle Camp in the Booner Rainforest,
+a Weddie woman named Jane needs help creating
+new colors for the Salon.</source>
+        <target state="needs-translation">At the Jungle Camp in the Booner Rainforest,
+a Weddie woman named Jane needs help creating
+new colors for the Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">ブーナー熱帯雨林の　密林の野営地で
+ジェーンという　ウェディの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414245" resname="落陽の草原の　ガケっぷち村で&#10;シズクという　エルフの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>In the Ruined Village of Sunset Meadow, an
+Elf woman named Shizuku is seeking help in
+creating new colors for use in her salon.</source>
+        <target state="needs-translation">In the Ruined Village of Sunset Meadow, an
+Elf woman named Shizuku is seeking help in
+creating new colors for use in her salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">落陽の草原の　ガケっぷち村で
+シズクという　エルフの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414247" resname="ゴブル砂漠西の　商人たちのテントで&#10;ドワーフの女の子　ミミルナが&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>In the merchants' tents at Goble Desert West,
+Dwarf girl Mimilna needs help creating new
+colors for use at the Salon.</source>
+        <target state="needs-translation">In the merchants' tents at Goble Desert West,
+Dwarf girl Mimilna needs help creating new
+colors for use at the Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">ゴブル砂漠西の　商人たちのテントで
+ドワーフの女の子　ミミルナが
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414249" resname="ギルザッド地方の　入り江の集落で&#10;バロンという老人が　美容院で使える&#10;新しい色を作るための　手助けを求めている。">
+        <source>In Cove Village, Gilzad Region, an old man
+named Baron needs help creating new colors
+for use in the Salon.</source>
+        <target state="needs-translation">In Cove Village, Gilzad Region, an old man
+named Baron needs help creating new colors
+for use in the Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">ギルザッド地方の　入り江の集落で
+バロンという老人が　美容院で使える
+新しい色を作るための　手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414251" resname="オルフェア地方東の　ピィピのお宿で&#10;ママポッナという　プクリポの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>At Pipi's Inn in Orphea Region East, a
+Pukulipo woman named Mamapona is seeking help
+in creating new colors for use at the Salon.</source>
+        <target state="needs-translation">At Pipi's Inn in Orphea Region East, a
+Pukulipo woman named Mamapona is seeking help
+in creating new colors for use at the Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">オルフェア地方東の　ピィピのお宿で
+ママポッナという　プクリポの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414253" resname="アズラン地方の　木かげの集落で&#10;ヤツハという　エルフの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>In Treeshade Village, Azlan Region, an Elf
+woman named Yatsuha is seeking help in
+creating new colors for her salon.</source>
+        <target state="needs-translation">In Treeshade Village, Azlan Region, an Elf
+woman named Yatsuha is seeking help in
+creating new colors for her salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">アズラン地方の　木かげの集落で
+ヤツハという　エルフの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414255" resname="獅子門の集落で　ガモという　オーガの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>At Lion Gate Village, an Ogre woman named
+Gamo needs help creating new colors for the
+Salon.</source>
+        <target state="needs-translation">At Lion Gate Village, an Ogre woman named
+Gamo needs help creating new colors for the
+Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">獅子門の集落で　ガモという　オーガの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414257" resname="モガリム街道の　モガレキャンプで&#10;ロロドという　ドワーフの女性が&#10;美容院で使える　新しい色を作るための&#10;手助けを求めている。">
+        <source>At Mogare Camp on Mogarim Highway, a Dwarf
+woman named Lorod is asking for help in
+creating new colors for use at the Salon.</source>
+        <target state="needs-translation">At Mogare Camp on Mogarim Highway, a Dwarf
+woman named Lorod is asking for help in
+creating new colors for use at the Salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">モガリム街道の　モガレキャンプで
+ロロドという　ドワーフの女性が
+美容院で使える　新しい色を作るための
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414259" resname="風の町アズランの　アズラン温泉にいる&#10;エルフの女性　マンジュが&#10;レベル２２以上の旅人を　探しているようだ。">
+        <source>Manju, an Elf woman at the Azlan warm
+fountain in Wind Town Azlan, is looking for
+travelers of level 22 and above.</source>
+        <target state="needs-translation">Manju, an Elf woman at the Azlan warm
+fountain in Wind Town Azlan, is looking for
+travelers of level 22 and above.</target>
+        <context-group purpose="information">
+          <context context-type="source">風の町アズランの　アズラン温泉にいる
+エルフの女性　マンジュが
+レベル２２以上の旅人を　探しているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414261" resname="港町レンドア北にある　教会で&#10;冒険マイスターを育成している　リガードが&#10;ふさわしい人材を　探しているようだ。&#10;名声レベル２５以上の　冒険者ならば&#10;彼の気持ちに　応えられるかもしれない。">
+        <source>Rigado, who trains adventurers at the Church
+in North Port Lendor, is looking for the
+right person. Adventurers with a prestige
+level of 25 or above may be able to
+accommodate him.</source>
+        <target state="needs-translation">Rigado, who trains adventurers at the Church
+in North Port Lendor, is looking for the
+right person. Adventurers with a prestige
+level of 25 or above may be able to
+accommodate him.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア北にある　教会で
+冒険マイスターを育成している　リガードが
+ふさわしい人材を　探しているようだ。
+名声レベル２５以上の　冒険者ならば
+彼の気持ちに　応えられるかもしれない。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414263" resname="イナミノ街道の　山間の関所の　片隅で&#10;ヒガンという　元美容師の　エルフの女性が&#10;手助けを求めている。">
+        <source>In a corner of Mountain Pass on the Inamino
+Highway, an Elf woman named Higan, a former
+hairdresser, is asking for help.</source>
+        <target state="needs-translation">In a corner of Mountain Pass on the Inamino
+Highway, an Elf woman named Higan, a former
+hairdresser, is asking for help.</target>
+        <context-group purpose="information">
+          <context context-type="source">イナミノ街道の　山間の関所の　片隅で
+ヒガンという　元美容師の　エルフの女性が
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414265" resname="ゲルト海峡の　宿屋の前で&#10;バラバという　美容師見習いの　オーガの女性が&#10;手助けを求めている。">
+        <source>An Ogre woman named Baraba, an apprentice
+hairdresser, asks for help in front of an inn
+on Gert Strait.</source>
+        <target state="needs-translation">An Ogre woman named Baraba, an apprentice
+hairdresser, asks for help in front of an inn
+on Gert Strait.</target>
+        <context-group purpose="information">
+          <context context-type="source">ゲルト海峡の　宿屋の前で
+バラバという　美容師見習いの　オーガの女性が
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414267" resname="キラキラ大風車塔の　カフェテラスで&#10;サロン・フェリシアの　マネージャーの&#10;プクリポ男性　プチーノが&#10;手助けを求めている。">
+        <source>Pukulipo man Puchino, manager of Salon Fe
+Lycia, needs help at Cafe Terrace in Glitter
+Windmill Tower.</source>
+        <target state="needs-translation">Pukulipo man Puchino, manager of Salon Fe
+Lycia, needs help at Cafe Terrace in Glitter
+Windmill Tower.</target>
+        <context-group purpose="information">
+          <context context-type="source">キラキラ大風車塔の　カフェテラスで
+サロン・フェリシアの　マネージャーの
+プクリポ男性　プチーノが
+手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414269" resname="グランゼドーラ王国　美容院にいる&#10;美容師の女性　ヴィタルが&#10;手助けを求めているようだ。">
+        <source>It seems that Vitar, a female hairdresser at
+the Gran Zedora Kingdom Salon, needs some
+help.</source>
+        <target state="needs-translation">It seems that Vitar, a female hairdresser at
+the Gran Zedora Kingdom Salon, needs some
+help.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ王国　美容院にいる
+美容師の女性　ヴィタルが
+手助けを求めているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414271" resname="聖都エジャルナにいる　竜族の男性&#10;無明導師イゾラが　レベル９０以上の&#10;より　強くなりたいと願う者に&#10;興味を持っているようだ。">
+        <source>Ignorant Guru Izola, a dragon man in Holy
+City Ejarna, is interested in anyone above
+level 90 who wants to become more powerful.</source>
+        <target state="needs-translation">Ignorant Guru Izola, a dragon man in Holy
+City Ejarna, is interested in anyone above
+level 90 who wants to become more powerful.</target>
+        <context-group purpose="information">
+          <context context-type="source">聖都エジャルナにいる　竜族の男性
+無明導師イゾラが　レベル９０以上の
+より　強くなりたいと願う者に
+興味を持っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414273" resname="メギストリスの都の　噴水公園下にいる&#10;プクリポの男性　プッツンが&#10;カモを探しているようだ。">
+        <source>Pukulipo man Puttsun at the below fountain in
+City of Megistris is looking for ducks.</source>
+        <target state="needs-translation">Pukulipo man Puttsun at the below fountain in
+City of Megistris is looking for ducks.</target>
+        <context-group purpose="information">
+          <context context-type="source">メギストリスの都の　噴水公園下にいる
+プクリポの男性　プッツンが
+カモを探しているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414275" resname="偽りのグランゼドーラ王国にいる&#10;派手な服装で　特徴的なヒゲの　男性が&#10;話を聞いてくれる冒険者を　探しているらしい。">
+        <source>A man in the false Gran Zedora Kingdom,
+dressed in fancy clothes and with a
+distinctive beard, is apparently looking for
+an adventurer who will listen to him.</source>
+        <target state="needs-translation">A man in the false Gran Zedora Kingdom,
+dressed in fancy clothes and with a
+distinctive beard, is apparently looking for
+an adventurer who will listen to him.</target>
+        <context-group purpose="information">
+          <context context-type="source">偽りのグランゼドーラ王国にいる
+派手な服装で　特徴的なヒゲの　男性が
+話を聞いてくれる冒険者を　探しているらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414277" resname="ガートラント城１階　炎の間にいる&#10;オーガの男性　ジウバが&#10;レベル５０以上の冒険者に&#10;何か　頼みごとがあるようだ。">
+        <source>Jiuba, an Ogre man at The Flame on the first
+floor of Gartlant Castle, has a request for
+adventurers above level 50.</source>
+        <target state="needs-translation">Jiuba, an Ogre man at The Flame on the first
+floor of Gartlant Castle, has a request for
+adventurers above level 50.</target>
+        <context-group purpose="information">
+          <context context-type="source">ガートラント城１階　炎の間にいる
+オーガの男性　ジウバが
+レベル５０以上の冒険者に
+何か　頼みごとがあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414279" resname="＼＼★無料キャンペーンのご案内★／／&#10;早い者勝ち！　人数限定！　先着順！&#10;メガルーラストーンを　さらに便利にする&#10;完全無料のキャンペーン　実施中！&#10;↓お問い合わせはコチラ↓&#10;グランゼドーラ王国宿屋　担当者リンクス">
+        <source>Free Kyan Pennies★/ / / The first one to get
+in early wins!　Limited number of
+people!　First come, first served! We are now
+offering a completely free Kyan Pane to make
+Mega Zoomstone even more convenient! ↓Contact
+us for more information ↓ Gran Zedora Kingdom
+Innkeeper Contact Person Lynx</source>
+        <target state="needs-translation">Free Kyan Pennies★/ / / The first one to get
+in early wins!　Limited number of
+people!　First come, first served! We are now
+offering a completely free Kyan Pane to make
+Mega Zoomstone even more convenient! ↓Contact
+us for more information ↓ Gran Zedora Kingdom
+Innkeeper Contact Person Lynx</target>
+        <context-group purpose="information">
+          <context context-type="source">＼＼★無料キャンペーンのご案内★／／
+早い者勝ち！　人数限定！　先着順！
+メガルーラストーンを　さらに便利にする
+完全無料のキャンペーン　実施中！
+↓お問い合わせはコチラ↓
+グランゼドーラ王国宿屋　担当者リンクス</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414281" resname="ジュレットの町にいる&#10;ウェディの男性　レテリオが&#10;レベル１０以上の旅人に&#10;手助けを求めているようだ。&#10;飢えた狼が　バトルドレスセットを&#10;求めている……らしい。">
+        <source>It appears that Reterio, a Weddie male in
+Julet Town, is asking for help from level 10+
+travelers. Apparently a hungry wolf is asking
+for a battle dress set .......</source>
+        <target state="needs-translation">It appears that Reterio, a Weddie male in
+Julet Town, is asking for help from level 10+
+travelers. Apparently a hungry wolf is asking
+for a battle dress set .......</target>
+        <context-group purpose="information">
+          <context context-type="source">ジュレットの町にいる
+ウェディの男性　レテリオが
+レベル１０以上の旅人に
+手助けを求めているようだ。
+飢えた狼が　バトルドレスセットを
+求めている……らしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414283" resname="ドルワーム王国の民家にいる　ヘチャブが&#10;何か　困っているようだ。">
+        <source>Hechab in the Dolworm Kingdom house seems to
+be in some kind of trouble.</source>
+        <target state="needs-translation">Hechab in the Dolworm Kingdom house seems to
+be in some kind of trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドルワーム王国の民家にいる　ヘチャブが
+何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414285" resname="港町レンドア駅の　売店の前にいる&#10;エルフの女性　シロツメが&#10;手助けを求めているようだ。">
+        <source>Shirotsume, the Elf woman in front of the
+Port Town Lendor Stop shop, seems to be
+asking for help.</source>
+        <target state="needs-translation">Shirotsume, the Elf woman in front of the
+Port Town Lendor Stop shop, seems to be
+asking for help.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア駅の　売店の前にいる
+エルフの女性　シロツメが
+手助けを求めているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414287" resname="娯楽島ラッカランの宿屋にいる　老人の２人組&#10;モバーと　イールが　お客様の訪れを&#10;待っているようだ。">
+        <source>It seems that Moe and Byle, a couple of old
+men at an inn on Luckland Island, are waiting
+for their guests to visit.</source>
+        <target state="needs-translation">It seems that Moe and Byle, a couple of old
+men at an inn on Luckland Island, are waiting
+for their guests to visit.</target>
+        <context-group purpose="information">
+          <context context-type="source">娯楽島ラッカランの宿屋にいる　老人の２人組
+モバーと　イールが　お客様の訪れを
+待っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414289" resname="素材屋に　上がりにくかった部位の　使い込み度が &#10;上がりやすくなる　便利な方法として&#10;素材屋のぼうし紅を　装備した状態で&#10;モンセロ温泉峡にいる　魔物との戦闘に&#10;１０回　勝利してきてください！　と言われた。">
+        <source>For a convenient way to increase the
+usability of a hard-to-get-up item in the
+Material Shop, equip yourself with the
+Material Shop Red Cap and win 10 battles
+against the demons in Moncello Spring Gorge!</source>
+        <target state="needs-translation">For a convenient way to increase the
+usability of a hard-to-get-up item in the
+Material Shop, equip yourself with the
+Material Shop Red Cap and win 10 battles
+against the demons in Moncello Spring Gorge!</target>
+        <context-group purpose="information">
+          <context context-type="source">素材屋に　上がりにくかった部位の　使い込み度が 
+上がりやすくなる　便利な方法として
+素材屋のぼうし紅を　装備した状態で
+モンセロ温泉峡にいる　魔物との戦闘に
+１０回　勝利してきてください！　と言われた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414291" resname="ガートラント城にいる　ジウバに&#10;バグレア教会跡地で　神父の幽霊が&#10;嘆き悲しんでいる夢を　よく見るので&#10;様子を見てきてほしい！　と頼まれた。&#10;グレン領西にある　バグレア教会跡地に向かおう。">
+        <source>Jiuba at Gartlant Castle often dreams of the
+ghost of a priest mourning at Bagulea Church
+Vestige, so please go check on him! Let's
+head to Bagulea Church Vestige in Glen West.</source>
+        <target state="needs-translation">Jiuba at Gartlant Castle often dreams of the
+ghost of a priest mourning at Bagulea Church
+Vestige, so please go check on him! Let's
+head to Bagulea Church Vestige in Glen West.</target>
+        <context-group purpose="information">
+          <context context-type="source">ガートラント城にいる　ジウバに
+バグレア教会跡地で　神父の幽霊が
+嘆き悲しんでいる夢を　よく見るので
+様子を見てきてほしい！　と頼まれた。
+グレン領西にある　バグレア教会跡地に向かおう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414293" resname="嵐の領界のムストの町で　魔法生物ニコちゃんに&#10;私の願いをかなえなさいな！　と頼まれた。&#10;疾風の騎士団員たちから聞いた　ほかの領界の&#10;植物のウワサ話が　本当かどうか　確かめるため&#10;ニコちゃんを　炎樹の生えている場所まで&#10;連れていこう！">
+        <source>Do me a favor and grant the magical creature
+Smyles a wish in the Town of Must in the
+Storm Realm! Take Smyles to the place where
+the Flame Tree grows to see if the rumors of
+plants in the other realms are true, as told
+to me by the Knights of the Gale!</source>
+        <target state="needs-translation">Do me a favor and grant the magical creature
+Smyles a wish in the Town of Must in the
+Storm Realm! Take Smyles to the place where
+the Flame Tree grows to see if the rumors of
+plants in the other realms are true, as told
+to me by the Knights of the Gale!</target>
+        <context-group purpose="information">
+          <context context-type="source">嵐の領界のムストの町で　魔法生物ニコちゃんに
+私の願いをかなえなさいな！　と頼まれた。
+疾風の騎士団員たちから聞いた　ほかの領界の
+植物のウワサ話が　本当かどうか　確かめるため
+ニコちゃんを　炎樹の生えている場所まで
+連れていこう！</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414295" resname="ガートラント城にいる　ジウバに頼まれて&#10;バグレア教会跡地の　神父の幽霊を訪ねてみた。&#10;神父が探している子供の幽霊　ブリックを&#10;見つけると　ブリックは　教会にあった神像を&#10;壊してしまったので　直してほしいという。&#10;直し方は　ガミルゴが　知っているようだ。">
+        <source>Jiuba in Gartlant Castle asked me to visit
+the ghost of the priest of Bagulea Church
+Vestige. When I found Brick, the ghost of the
+child the priest was looking for, Brick told
+me that he had broken an idol in the church
+and wanted me to fix it. Gamilgo seems to
+know how to fix it.</source>
+        <target state="needs-translation">Jiuba in Gartlant Castle asked me to visit
+the ghost of the priest of Bagulea Church
+Vestige. When I found Brick, the ghost of the
+child the priest was looking for, Brick told
+me that he had broken an idol in the church
+and wanted me to fix it. Gamilgo seems to
+know how to fix it.</target>
+        <context-group purpose="information">
+          <context context-type="source">ガートラント城にいる　ジウバに頼まれて
+バグレア教会跡地の　神父の幽霊を訪ねてみた。
+神父が探している子供の幽霊　ブリックを
+見つけると　ブリックは　教会にあった神像を
+壊してしまったので　直してほしいという。
+直し方は　ガミルゴが　知っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414297" resname="バグレア教会跡地にいる幽霊　オッド神父が&#10;探していた　子供の幽霊　ブリックは&#10;教会にあった　神像を　壊してしまったので&#10;直してほしいという。過去の世界で　ガミルゴに&#10;神像を　直してもらったので　グレン領西の&#10;バグレア教会跡地に行き　オッド神父に渡そう。">
+        <source>Father Od, a ghost in Bagulea Church Vestige,
+is looking for Brick, a ghost of a child, who
+has broken an idol in the church and wants it
+fixed. Since Gamilgo fixed the idol in the
+past world, let's go to Bagulea Church
+Vestige in Glen West and give it to Father
+Od.</source>
+        <target state="needs-translation">Father Od, a ghost in Bagulea Church Vestige,
+is looking for Brick, a ghost of a child, who
+has broken an idol in the church and wants it
+fixed. Since Gamilgo fixed the idol in the
+past world, let's go to Bagulea Church
+Vestige in Glen West and give it to Father
+Od.</target>
+        <context-group purpose="information">
+          <context context-type="source">バグレア教会跡地にいる幽霊　オッド神父が
+探していた　子供の幽霊　ブリックは
+教会にあった　神像を　壊してしまったので
+直してほしいという。過去の世界で　ガミルゴに
+神像を　直してもらったので　グレン領西の
+バグレア教会跡地に行き　オッド神父に渡そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414299" resname="子供の幽霊　ブリックが　壊してしまった&#10;神像を　ガミルゴに　直してもらい&#10;オッド神父に渡すと　ブリックは　天へ&#10;導かれていった。オッド神父は　教会が&#10;安息の地となるまで　留まるという。&#10;ガートラント城の　ジウバに　報告しにいこう。">
+        <source>Brick's idol was broken by a child ghost,
+Brick, and when Gamilgo fixed it and gave it
+to Father Od, Brick was led up to heaven.
+Let's report to Jiuba at Gartlant Castle.</source>
+        <target state="needs-translation">Brick's idol was broken by a child ghost,
+Brick, and when Gamilgo fixed it and gave it
+to Father Od, Brick was led up to heaven.
+Let's report to Jiuba at Gartlant Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">子供の幽霊　ブリックが　壊してしまった
+神像を　ガミルゴに　直してもらい
+オッド神父に渡すと　ブリックは　天へ
+導かれていった。オッド神父は　教会が
+安息の地となるまで　留まるという。
+ガートラント城の　ジウバに　報告しにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414301" resname="氷の領界のイーサの村にいる　ヒヤーネに頼まれ&#10;リルチェラに贈るふとん作りを　手伝うことに。&#10;そのため　白霜の流氷野の　大魔獣イーギュアを&#10;倒すか　または　ぬくぬくどりが落とす&#10;羽毛を　２００個分　集めてほしいという。&#10;現在　ホンワカ羽毛を　０個　集めている。">
+        <source>Hyane in Ether Village in the Ice Realm asked
+me to help him make a futon for Lilcherat. To
+do so, he asked me to help him defeat the
+Giga Rapscallion in the Frosty Ice Field or
+collect 200 feathers dropped by the Polar
+Polly. Currently, he has collected 0 Honwaka
+Feathers.</source>
+        <target state="needs-translation">Hyane in Ether Village in the Ice Realm asked
+me to help him make a futon for Lilcherat. To
+do so, he asked me to help him defeat the
+Giga Rapscallion in the Frosty Ice Field or
+collect 200 feathers dropped by the Polar
+Polly. Currently, he has collected 0 Honwaka
+Feathers.</target>
+        <context-group purpose="information">
+          <context context-type="source">氷の領界のイーサの村にいる　ヒヤーネに頼まれ
+リルチェラに贈るふとん作りを　手伝うことに。
+そのため　白霜の流氷野の　大魔獣イーギュアを
+倒すか　または　ぬくぬくどりが落とす
+羽毛を　２００個分　集めてほしいという。
+現在　ホンワカ羽毛を　０個　集めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414303" resname="落陽の草原の　ガケっぷち村で　シズクから&#10;美容院で使える新しい色を作るために&#10;呪われた大地の　ウドラーが落とす&#10;魅惑のぶどうを　手に入れてくださらないかしら？&#10;と頼まれた。">
+        <source>Shizuku at Ruined Village in Sunset Meadow
+would like to get some Enchanted Grapes from
+Treevil in Cursed Land to make new colors for
+the salon.</source>
+        <target state="needs-translation">Shizuku at Ruined Village in Sunset Meadow
+would like to get some Enchanted Grapes from
+Treevil in Cursed Land to make new colors for
+the salon.</target>
+        <context-group purpose="information">
+          <context context-type="source">落陽の草原の　ガケっぷち村で　シズクから
+美容院で使える新しい色を作るために
+呪われた大地の　ウドラーが落とす
+魅惑のぶどうを　手に入れてくださらないかしら？
+と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414305" resname="ゴブル砂漠西の　商人たちのテントで　ミミルナに&#10;美容院で使える　新しい色を作るため&#10;ボロヌス溶岩流の　ベホマスライムが&#10;たまに落とす　ようがんイチゴを&#10;手に入れてほしいんですの！　と頼まれた。">
+        <source>I need Mimilna at the merchants' tents in
+Goble Desert West to get some Lava Berries
+that Cureslime from Boronus Lava Flow
+sometimes drops to make new colors for the
+salon!</source>
+        <target state="needs-translation">I need Mimilna at the merchants' tents in
+Goble Desert West to get some Lava Berries
+that Cureslime from Boronus Lava Flow
+sometimes drops to make new colors for the
+salon!</target>
+        <context-group purpose="information">
+          <context context-type="source">ゴブル砂漠西の　商人たちのテントで　ミミルナに
+美容院で使える　新しい色を作るため
+ボロヌス溶岩流の　ベホマスライムが
+たまに落とす　ようがんイチゴを
+手に入れてほしいんですの！　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414307" resname="ギルザッド地方の　入り江の集落で　バロンから&#10;美容院で使える新しい色を作るために&#10;トガス岩道で　ヘルコンダクターと手合わせし&#10;紳士のたしなみと呼ぶに　ふさわしいものを&#10;手に入れてきていただけますかな？　と頼まれた。">
+        <source>Would you be willing to meet with Hell
+Conductor on Togas Rock Road at Cove Village
+in the Gilzad Region to create a new color
+for the salon from Baron and get us what we
+would call a Gentleman's Taste?</source>
+        <target state="needs-translation">Would you be willing to meet with Hell
+Conductor on Togas Rock Road at Cove Village
+in the Gilzad Region to create a new color
+for the salon from Baron and get us what we
+would call a Gentleman's Taste?</target>
+        <context-group purpose="information">
+          <context context-type="source">ギルザッド地方の　入り江の集落で　バロンから
+美容院で使える新しい色を作るために
+トガス岩道で　ヘルコンダクターと手合わせし
+紳士のたしなみと呼ぶに　ふさわしいものを
+手に入れてきていただけますかな？　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414309" resname="グレン城の１階にある　訓練場で&#10;オーガの男性　教官ランババが&#10;鍛える相手を探しているようだ。&#10;レベル５０以上の　冒険者ならば&#10;彼の特訓を　受けられるだろう。">
+        <source>Ogre male instructor Ranbaba is looking for
+someone to train at the training grounds on
+the first floor of Glen Castle. Adventurers
+of level 50 or above can take his training.</source>
+        <target state="needs-translation">Ogre male instructor Ranbaba is looking for
+someone to train at the training grounds on
+the first floor of Glen Castle. Adventurers
+of level 50 or above can take his training.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城の１階にある　訓練場で
+オーガの男性　教官ランババが
+鍛える相手を探しているようだ。
+レベル５０以上の　冒険者ならば
+彼の特訓を　受けられるだろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414311" resname="オルフェア地方東の　ピィピのお宿で&#10;ママポッナから　美容院で使える&#10;新しい色を作るために　ポーポラ地方の&#10;賢者の隠れ家の　ダークナイトが&#10;たまに落とす　夜のささやきを&#10;手に入れてきて～ん！　と頼まれた。">
+        <source>I need to get the Night Whisper that is
+sometimes dropped by the Invisible Swordsman
+of Sage's Lair in Popola Region to make a new
+color for the Salon from Mamapona at Pipi's
+Inn in Orphea Region East!</source>
+        <target state="needs-translation">I need to get the Night Whisper that is
+sometimes dropped by the Invisible Swordsman
+of Sage's Lair in Popola Region to make a new
+color for the Salon from Mamapona at Pipi's
+Inn in Orphea Region East!</target>
+        <context-group purpose="information">
+          <context context-type="source">オルフェア地方東の　ピィピのお宿で
+ママポッナから　美容院で使える
+新しい色を作るために　ポーポラ地方の
+賢者の隠れ家の　ダークナイトが
+たまに落とす　夜のささやきを
+手に入れてきて～ん！　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414313" resname="アズラン地方の　木かげの集落で　ヤツハから&#10;美容院で使える新しい色を作るために&#10;アズラン地方の　南東の川沿いにいる&#10;サンダーフロッグから　チャノキの葉を&#10;取り返してきてもらえまへん？　と頼まれた。">
+        <source>Can you please go to Treeshade Village in
+Azlan Region and get back the Tea Plant
+Leaves from the Tranquilander along the
+southeast river in Azlan Region so that
+Yatsuha can create new colors for the Salon?</source>
+        <target state="needs-translation">Can you please go to Treeshade Village in
+Azlan Region and get back the Tea Plant
+Leaves from the Tranquilander along the
+southeast river in Azlan Region so that
+Yatsuha can create new colors for the Salon?</target>
+        <context-group purpose="information">
+          <context context-type="source">アズラン地方の　木かげの集落で　ヤツハから
+美容院で使える新しい色を作るために
+アズラン地方の　南東の川沿いにいる
+サンダーフロッグから　チャノキの葉を
+取り返してきてもらえまへん？　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414315" resname="獅子門の集落にいる　ガモから&#10;美容院で使える　新しい色を作るために&#10;ランガーオ山地の　南部や　東部にいる&#10;ブリザードが持つ　純白の雪片の入手を&#10;お願いできないかい？　と頼まれた。">
+        <source>Can you get Pure White Snow from Frostburn in
+the southern and eastern Langao Mountains
+from Gamo in Lion Gate Village to make a new
+color for Salon?</source>
+        <target state="needs-translation">Can you get Pure White Snow from Frostburn in
+the southern and eastern Langao Mountains
+from Gamo in Lion Gate Village to make a new
+color for Salon?</target>
+        <context-group purpose="information">
+          <context context-type="source">獅子門の集落にいる　ガモから
+美容院で使える　新しい色を作るために
+ランガーオ山地の　南部や　東部にいる
+ブリザードが持つ　純白の雪片の入手を
+お願いできないかい？　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414317" resname="エテーネの村にいる　シンイが&#10;セラニーを　待っているようだ。">
+        <source>It seems that Shini in Ethene Village is
+waiting for Serany.</source>
+        <target state="needs-translation">It seems that Shini in Ethene Village is
+waiting for Serany.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネの村にいる　シンイが
+セラニーを　待っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414319" resname="オルフェアの町にいる　プクリポの女性&#10;プールプが　レベル１０以上の旅人に&#10;何か頼みたいことが　あるようだ。">
+        <source>Pulup, a Pukulipo woman in the Town of
+Orphea, has a request for travelers of level
+10 and above.</source>
+        <target state="needs-translation">Pulup, a Pukulipo woman in the Town of
+Orphea, has a request for travelers of level
+10 and above.</target>
+        <context-group purpose="information">
+          <context context-type="source">オルフェアの町にいる　プクリポの女性
+プールプが　レベル１０以上の旅人に
+何か頼みたいことが　あるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414321" resname="岳都ガタラの中央広場で&#10;ドワーフの女性　レレナが&#10;レベル１０以上の旅人に&#10;手助けを求めているようだ。">
+        <source>At the Center Plaza in Mount Gatara, Lerena,
+a Dwarf woman, appears to be asking for help
+from travelers level 10 and above.</source>
+        <target state="needs-translation">At the Center Plaza in Mount Gatara, Lerena,
+a Dwarf woman, appears to be asking for help
+from travelers level 10 and above.</target>
+        <context-group purpose="information">
+          <context context-type="source">岳都ガタラの中央広場で
+ドワーフの女性　レレナが
+レベル１０以上の旅人に
+手助けを求めているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414323" resname="ゲルト海峡の　宿屋前で　バラバに&#10;ゲルト海峡にいる　たてまじんから&#10;死んだダチの形見の&#10;落日のフラッグを取り戻してくれ！　と頼まれた。">
+        <source>In front of the inn in Gert Strait, ask
+Baraba to retrieve the Sunset Flag, a memento
+of my dead friend, from Peekabogre in Gert
+Strait!</source>
+        <target state="needs-translation">In front of the inn in Gert Strait, ask
+Baraba to retrieve the Sunset Flag, a memento
+of my dead friend, from Peekabogre in Gert
+Strait!</target>
+        <context-group purpose="information">
+          <context context-type="source">ゲルト海峡の　宿屋前で　バラバに
+ゲルト海峡にいる　たてまじんから
+死んだダチの形見の
+落日のフラッグを取り戻してくれ！　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414325" resname="キラキラ大風車塔で　プチーノから&#10;風車の丘の　モンスターたちに奪われた&#10;三つ星ブレンド豆を　１０個　取り返して！&#10;と頼まれた。現在　三つ星ブレンド豆を&#10;０個　集めている。">
+        <source>I got 10 3-Star Blend Beans back from Puchino
+in Glitter Windmill Tower, which were stolen
+by the monsters on Windmill Way! I currently
+have 0 3-Star Blend Beans.</source>
+        <target state="needs-translation">I got 10 3-Star Blend Beans back from Puchino
+in Glitter Windmill Tower, which were stolen
+by the monsters on Windmill Way! I currently
+have 0 3-Star Blend Beans.</target>
+        <context-group purpose="information">
+          <context context-type="source">キラキラ大風車塔で　プチーノから
+風車の丘の　モンスターたちに奪われた
+三つ星ブレンド豆を　１０個　取り返して！
+と頼まれた。現在　三つ星ブレンド豆を
+０個　集めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414327" resname="キラキラ大風車塔で　プチーノから&#10;風車の丘の　モンスターたちに奪われた&#10;三つ星ブレンド豆を　１０個　取り返して！&#10;と頼まれた。現在　三つ星ブレンド豆を&#10;３個　集めている。">
+        <source>I got 10 3-Star Blend Beans back from Puchino
+in Glitter Windmill Tower, which were stolen
+by the monsters on Windmill Way! I have 3
+3-Star Blend Beans now.</source>
+        <target state="needs-translation">I got 10 3-Star Blend Beans back from Puchino
+in Glitter Windmill Tower, which were stolen
+by the monsters on Windmill Way! I have 3
+3-Star Blend Beans now.</target>
+        <context-group purpose="information">
+          <context context-type="source">キラキラ大風車塔で　プチーノから
+風車の丘の　モンスターたちに奪われた
+三つ星ブレンド豆を　１０個　取り返して！
+と頼まれた。現在　三つ星ブレンド豆を
+３個　集めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414329" resname="グランゼドーラ王国の　美容院にいる&#10;ヴィタルに　新色ヘアカラー追加のために&#10;サラツヤオイルを手に入れて！　と頼まれた。&#10;サラツヤオイルは　グランゼドーラ領の&#10;プークプックが　落とすらしい。">
+        <source>Get Glossy Oil from Vitar at the Salon in
+Gran Zedora Kingdom to add a new hair color!
+Glossy Oil is said to be dropped by Satyr in
+Gran Zedora Territory.</source>
+        <target state="needs-translation">Get Glossy Oil from Vitar at the Salon in
+Gran Zedora Kingdom to add a new hair color!
+Glossy Oil is said to be dropped by Satyr in
+Gran Zedora Territory.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ王国の　美容院にいる
+ヴィタルに　新色ヘアカラー追加のために
+サラツヤオイルを手に入れて！　と頼まれた。
+サラツヤオイルは　グランゼドーラ領の
+プークプックが　落とすらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414331" resname="ツスクルの村にいる　エルフの女性&#10;テマリが　何か　困っているようだ。">
+        <source>Temari, an Elf woman in Tsusukul Village,
+seems to be in some kind of trouble.</source>
+        <target state="needs-translation">Temari, an Elf woman in Tsusukul Village,
+seems to be in some kind of trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">ツスクルの村にいる　エルフの女性
+テマリが　何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414333" resname="炎の領界　聖都エジャルナの大神殿の２階&#10;エステラの部屋の前にいる神官　ベサワキが&#10;セラニーの訪れを　待っているようだ。">
+        <source>The priest Besawaki in front of Estella's
+Room on the second floor of the Great Temple
+in Fire Realm Holy City Ejarna seems to be
+waiting for Serany's visit.</source>
+        <target state="needs-translation">The priest Besawaki in front of Estella's
+Room on the second floor of the Great Temple
+in Fire Realm Holy City Ejarna seems to be
+waiting for Serany's visit.</target>
+        <context-group purpose="information">
+          <context context-type="source">炎の領界　聖都エジャルナの大神殿の２階
+エステラの部屋の前にいる神官　ベサワキが
+セラニーの訪れを　待っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414335" resname="グレン城下町駅にいる　オーガの男性&#10;マイラーの　ギオーダが&#10;何か　頼みごとがあるようだ。">
+        <source>Gioda, the Ogre male miler at the Glen Castle
+Town Stop, seems to have a favor to ask.</source>
+        <target state="needs-translation">Gioda, the Ogre male miler at the Glen Castle
+Town Stop, seems to have a favor to ask.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城下町駅にいる　オーガの男性
+マイラーの　ギオーダが
+何か　頼みごとがあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414337" resname="嵐の領界のムストの町の地下　下層にいる&#10;イルギ町長が　何か　困っているようだ。">
+        <source>Mayor Irugi in the lower level of the Town of
+Must in the Storm Realm seems to be in some
+kind of trouble.</source>
+        <target state="needs-translation">Mayor Irugi in the lower level of the Town of
+Must in the Storm Realm seems to be in some
+kind of trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">嵐の領界のムストの町の地下　下層にいる
+イルギ町長が　何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414339" resname="水の領界の　海底都市ルシュカにいる&#10;竜族の男性　ブルグが&#10;何か　頼みごとがあるようだ。">
+        <source>Burg, a dragon man in the City of Ruska in
+the Water Realm, seems to have a favor to
+ask.</source>
+        <target state="needs-translation">Burg, a dragon man in the City of Ruska in
+the Water Realm, seems to have a favor to
+ask.</target>
+        <context-group purpose="information">
+          <context context-type="source">水の領界の　海底都市ルシュカにいる
+竜族の男性　ブルグが
+何か　頼みごとがあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414341" resname="水の領界のカシャル海底神殿にいる&#10;青の騎士団員のテトが　何か　困っているようだ。">
+        <source>Tet, a member of the Blue Knights at the
+Kashal Submarine Temple in Water Realm, seems
+to be in some kind of trouble.</source>
+        <target state="needs-translation">Tet, a member of the Blue Knights at the
+Kashal Submarine Temple in Water Realm, seems
+to be in some kind of trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">水の領界のカシャル海底神殿にいる
+青の騎士団員のテトが　何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414343" resname="闇の領界の　カーラモーラ村で&#10;カイラム村長が　何か困っているようだ。">
+        <source>Chief Kairam is in trouble at Carlamora
+Village in the Dark Realm.</source>
+        <target state="needs-translation">Chief Kairam is in trouble at Carlamora
+Village in the Dark Realm.</target>
+        <context-group purpose="information">
+          <context context-type="source">闇の領界の　カーラモーラ村で
+カイラム村長が　何か困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414345" resname="炎の領界の　聖都エジャルナにいる&#10;竜族の女性　イオマが&#10;何か　困っているようだ。">
+        <source>Ioma, a dragoness in Holy City Ejarna in the
+Fire Realm, seems to be in some kind of
+trouble.</source>
+        <target state="needs-translation">Ioma, a dragoness in Holy City Ejarna in the
+Fire Realm, seems to be in some kind of
+trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">炎の領界の　聖都エジャルナにいる
+竜族の女性　イオマが
+何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414347" resname="闇の領界の　カーラモーラ村にいる&#10;バジューの妹　ミルテが&#10;頼みごとがあるようだ。">
+        <source>Baju's sister Mirta in Carlamora Village in
+the Dark Realm has a favor to ask.</source>
+        <target state="needs-translation">Baju's sister Mirta in Carlamora Village in
+the Dark Realm has a favor to ask.</target>
+        <context-group purpose="information">
+          <context context-type="source">闇の領界の　カーラモーラ村にいる
+バジューの妹　ミルテが
+頼みごとがあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414349" resname="氷の領界のイーサの村にいる&#10;竜族のおばあさん　ヘモニグが&#10;何か　頼みごとがあるようだ。">
+        <source>Hemonig, a dragon grandmother in the Ice
+Realm's Ether Village, seems to have a favor
+to ask.</source>
+        <target state="needs-translation">Hemonig, a dragon grandmother in the Ice
+Realm's Ether Village, seems to have a favor
+to ask.</target>
+        <context-group purpose="information">
+          <context context-type="source">氷の領界のイーサの村にいる
+竜族のおばあさん　ヘモニグが
+何か　頼みごとがあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414351" resname="炎の領界の　アペカの村にいる&#10;竜族のおじいさん　エーゴンが&#10;何か　困っているようだ。">
+        <source>Agon, the old man of the dragon tribe in
+Apeka Village in the Fire Realm, seems to be
+in some kind of trouble.</source>
+        <target state="needs-translation">Agon, the old man of the dragon tribe in
+Apeka Village in the Fire Realm, seems to be
+in some kind of trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">炎の領界の　アペカの村にいる
+竜族のおじいさん　エーゴンが
+何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414353" resname="竜族の隠れ里にいる老人　ゴハから&#10;何か　頼みごとがあるようだ。">
+        <source>It seems that Goha, an old man at Nadravian's
+Rest, has a favor to ask.</source>
+        <target state="needs-translation">It seems that Goha, an old man at Nadravian's
+Rest, has a favor to ask.</target>
+        <context-group purpose="information">
+          <context context-type="source">竜族の隠れ里にいる老人　ゴハから
+何か　頼みごとがあるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414355" resname="炎の領界のアぺカの村にいる　ネオル村長が&#10;何か　困っているようだ。">
+        <source>Chief Neoru in the village of Apeca in the
+Fire Realm seems to be in some kind of
+trouble.</source>
+        <target state="needs-translation">Chief Neoru in the village of Apeca in the
+Fire Realm seems to be in some kind of
+trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">炎の領界のアぺカの村にいる　ネオル村長が
+何か　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414357" resname="聖都エジャルナの郵便局で&#10;便せん屋ミカゲが　手助けを求めている。">
+        <source>Paper Shop Mikage needs help at the Post
+Office in Holy City Ejarna.</source>
+        <target state="needs-translation">Paper Shop Mikage needs help at the Post
+Office in Holy City Ejarna.</target>
+        <context-group purpose="information">
+          <context context-type="source">聖都エジャルナの郵便局で
+便せん屋ミカゲが　手助けを求めている。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414359" resname="グランゼドーラ王国にいる　リンクスから&#10;メガルーラストーンを　グレードアップするため&#10;ホーリーパウダーを　取ってきてほしい！&#10;と頼まれた。ホーリーパウダーは&#10;セレドット山道の南東にある　カギのかかった&#10;資料室に　置いてあるらしい。">
+        <source>I need to get Holy Powder from Lynx in Gran
+Zedora Kingdom to upgrade Mega Zoomstone!
+Holy Powder is said to be in locked Archives
+in the southeast of Celedot Mountain Pass.</source>
+        <target state="needs-translation">I need to get Holy Powder from Lynx in Gran
+Zedora Kingdom to upgrade Mega Zoomstone!
+Holy Powder is said to be in locked Archives
+in the southeast of Celedot Mountain Pass.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ王国にいる　リンクスから
+メガルーラストーンを　グレードアップするため
+ホーリーパウダーを　取ってきてほしい！
+と頼まれた。ホーリーパウダーは
+セレドット山道の南東にある　カギのかかった
+資料室に　置いてあるらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414361" resname="グランゼドーラ王国にいる　リンクスから&#10;メガルーラストーンをグレードアップするため&#10;ホーリーパウダーを　取ってきてほしい！&#10;と頼まれた。資料室で調べたところ&#10;ホーリーパウダーは　ソーラリア峡谷にいる&#10;ヘルビーストが　落とすらしい。">
+        <source>I need to get Holy Powder from Lynx in Gran
+Zedora Kingdom to upgrade Mega Zoomstone! I
+found out from Archives that Holy Powder is
+dropped by Sculptrice in Solaria Canyon.</source>
+        <target state="needs-translation">I need to get Holy Powder from Lynx in Gran
+Zedora Kingdom to upgrade Mega Zoomstone! I
+found out from Archives that Holy Powder is
+dropped by Sculptrice in Solaria Canyon.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ王国にいる　リンクスから
+メガルーラストーンをグレードアップするため
+ホーリーパウダーを　取ってきてほしい！
+と頼まれた。資料室で調べたところ
+ホーリーパウダーは　ソーラリア峡谷にいる
+ヘルビーストが　落とすらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414363" resname="グランゼドーラ王国にいる　リンクスから&#10;メガルーラストーンを　グレードアップするため&#10;ホーリーパウダーを　取ってきてほしい！&#10;と頼まれた。偽りのソーラリア峡谷で&#10;ホーリーパウダーを　手に入れたので&#10;リンクスの所へ持っていこう。">
+        <source>I need you to get Holy Powder from Lynx in
+Gran Zedora Kingdom to upgrade Mega
+Zoomstone! I received Holy Powder at the
+false Solaria Canyon, so let's take it to
+Lynx.</source>
+        <target state="needs-translation">I need you to get Holy Powder from Lynx in
+Gran Zedora Kingdom to upgrade Mega
+Zoomstone! I received Holy Powder at the
+false Solaria Canyon, so let's take it to
+Lynx.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ王国にいる　リンクスから
+メガルーラストーンを　グレードアップするため
+ホーリーパウダーを　取ってきてほしい！
+と頼まれた。偽りのソーラリア峡谷で
+ホーリーパウダーを　手に入れたので
+リンクスの所へ持っていこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414365" resname="グランゼドーラ王国　美容院にいる&#10;美容師の女性　ヴィタルが&#10;また　手助けを求めているようだ。">
+        <source>It seems that Vitar, the hairdresser lady at
+the Gran Zedora Kingdom Salon, needs another
+helping hand.</source>
+        <target state="needs-translation">It seems that Vitar, the hairdresser lady at
+the Gran Zedora Kingdom Salon, needs another
+helping hand.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ王国　美容院にいる
+美容師の女性　ヴィタルが
+また　手助けを求めているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414367" resname="預かり所の従業員に　入会の手続きのため&#10;バブルスライムが　落とす&#10;きらめきインクを　持ってきてほしい！&#10;と頼まれた。手に入れた　きらめきインクで&#10;入会申込書にサインして&#10;預かり所が　使えるようになった！">
+        <source>I want an employee of the Depository to bring
+me the Glittering Ink that Bubble Slime drops
+to complete the enrollment process! I signed
+the application form with the received
+Glittering Ink, and the Depository is now
+ready to use it!</source>
+        <target state="needs-translation">I want an employee of the Depository to bring
+me the Glittering Ink that Bubble Slime drops
+to complete the enrollment process! I signed
+the application form with the received
+Glittering Ink, and the Depository is now
+ready to use it!</target>
+        <context-group purpose="information">
+          <context context-type="source">預かり所の従業員に　入会の手続きのため
+バブルスライムが　落とす
+きらめきインクを　持ってきてほしい！
+と頼まれた。手に入れた　きらめきインクで
+入会申込書にサインして
+預かり所が　使えるようになった！</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414369" resname="預かり所の従業員に　新しい倉庫の&#10;性能テストのため　つけもの石&#10;上やくそう　まほうの小ビンを&#10;指定数　持ってきてほしい！　と頼まれ&#10;これを達成した。&#10;お礼として　新しい倉庫が使えるようになった。">
+        <source>An employee of the depository asked me to
+bring a specified number of Flintstone Strong
+Medicine Single Phials to test the
+performance of the new storage!　I
+accomplished this. In return, the new storage
+became available.</source>
+        <target state="needs-translation">An employee of the depository asked me to
+bring a specified number of Flintstone Strong
+Medicine Single Phials to test the
+performance of the new storage!　I
+accomplished this. In return, the new storage
+became available.</target>
+        <context-group purpose="information">
+          <context context-type="source">預かり所の従業員に　新しい倉庫の
+性能テストのため　つけもの石
+上やくそう　まほうの小ビンを
+指定数　持ってきてほしい！　と頼まれ
+これを達成した。
+お礼として　新しい倉庫が使えるようになった。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414371" resname="真のセレドット山道の資料室にいる&#10;ナゾの人物が　旅人の訪れを&#10;待っているらしい。">
+        <source>A mysterious figure in the Archives of true
+Celedot Mountain Pass is apparently waiting
+for travelers to visit.</source>
+        <target state="needs-translation">A mysterious figure in the Archives of true
+Celedot Mountain Pass is apparently waiting
+for travelers to visit.</target>
+        <context-group purpose="information">
+          <context context-type="source">真のセレドット山道の資料室にいる
+ナゾの人物が　旅人の訪れを
+待っているらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414373" resname="辺境警備隊詰所にいる兵士　ヘキートに&#10;詰所の近くに出る魔物に盗まれた　大事なモンを&#10;取り返してくれねえか？　と頼まれた。">
+        <source>I asked Hequito, a soldier at the Frontier
+Guard Post, if he could return a valuable
+item that was stolen by a monster that
+appears near the guard post.</source>
+        <target state="needs-translation">I asked Hequito, a soldier at the Frontier
+Guard Post, if he could return a valuable
+item that was stolen by a monster that
+appears near the guard post.</target>
+        <context-group purpose="information">
+          <context context-type="source">辺境警備隊詰所にいる兵士　ヘキートに
+詰所の近くに出る魔物に盗まれた　大事なモンを
+取り返してくれねえか？　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414375" resname="港町レンドア南で　詩人ナスガルドから&#10;ベジセルクの戦詩を紡ぐ　舞台作りに必要な&#10;戦いのルールを聞いて　理解した。&#10;そして　しぐさ『ガッツポーズ』をして&#10;勝利を誓うように　言われた。">
+        <source>In South Port Lendor, Poet Woebergard
+explained the rules of warfare necessary to
+set the stage for the War Poem of
+Cucumberserk. You were then told to use the
+emote &quot;Guts Pose&quot; and pledge victory.</source>
+        <target state="needs-translation">In South Port Lendor, Poet Woebergard
+explained the rules of warfare necessary to
+set the stage for the War Poem of
+Cucumberserk. You were then told to use the
+emote &quot;Guts Pose&quot; and pledge victory.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア南で　詩人ナスガルドから
+ベジセルクの戦詩を紡ぐ　舞台作りに必要な
+戦いのルールを聞いて　理解した。
+そして　しぐさ『ガッツポーズ』をして
+勝利を誓うように　言われた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414377" resname="真のグランゼドーラ王国にいる　人間の男性&#10;シルベッスが　いずれかの職業のレベルが&#10;１２８に到達した冒険者を　待っているようだ。">
+        <source>A man named Silbess is waiting for
+adventurers of at least level 128 in
+the true Gran Zedora Kingdom.</source>
+        <target state="needs-translation">A man named Silbess is waiting for
+adventurers of at least level 128 in
+the true Gran Zedora Kingdom.</target>
+        <context-group purpose="information">
+          <context context-type="source">真のグランゼドーラ王国にいる　人間の男性
+シルベッスが　いずれかの職業のレベルが
+１２８に到達した冒険者を　待っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414379" resname="オーグリード大陸　ラギ雪原の西にある&#10;竜術士の家に住んでいる　ランジェが&#10;待っているようだ。&#10;竜術士に転職して　行ってみよう。">
+        <source>Ranje, who resides in the Dragomancer's
+House in the Ragi Snowfield in Ogreed,
+is waiting for you. Go here to learn how
+to become a Dragomancer.</source>
+        <target state="needs-translation">Ranje, who resides in the Dragomancer's
+House in the Ragi Snowfield in Ogreed,
+is waiting for you. Go here to learn how
+to become a Dragomancer.</target>
+        <context-group purpose="information">
+          <context context-type="source">オーグリード大陸　ラギ雪原の西にある
+竜術士の家に住んでいる　ランジェが
+待っているようだ。
+竜術士に転職して　行ってみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414381" resname="メネト村にいる　ミミッタから頼まれ　ティセを&#10;元気づける花冠を作るため　トープスの花の場所を&#10;ぺピノラに聞いて　ラランブラ山道へ行くと&#10;花は枯れてしまっていた。不思議な声が&#10;天使のチカラの宿った液体で　再び咲くと言うので&#10;天使のチカラを宿す液体を入手し　花にかけよう。">
+        <source>At the request of Mimitta in Menet Village, she
+wants cheer up Tise by making a flower crown. You
+ask Pepinora for the location of Tohpes' flowers
+and go outside town, but the flowers had withered.
+A mysterious voice said they would bloom again
+with liquid imbued with angelic power.</source>
+        <target state="needs-translation">At the request of Mimitta in Menet Village, she
+wants cheer up Tise by making a flower crown. You
+ask Pepinora for the location of Tohpes' flowers
+and go outside town, but the flowers had withered.
+A mysterious voice said they would bloom again
+with liquid imbued with angelic power.</target>
+        <context-group purpose="information">
+          <context context-type="source">メネト村にいる　ミミッタから頼まれ　ティセを
+元気づける花冠を作るため　トープスの花の場所を
+ぺピノラに聞いて　ラランブラ山道へ行くと
+花は枯れてしまっていた。不思議な声が
+天使のチカラの宿った液体で　再び咲くと言うので
+天使のチカラを宿す液体を入手し　花にかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414383" resname="王都カミハルムイのレンジャー協会本部から&#10;モリナラ支部に　派遣された。&#10;支部長ポランパンから　先輩のユウギリと共に&#10;森を荒らす　スカルガルーを&#10;なんとかしてほしい！　と頼まれた。&#10;先に森の奥へ行った　ユウギリに追いつこう。">
+        <source>I was sent to Molinara branch from Ranger
+Association HQ in Kamiharmui City. Poranpan, the
+branch manager, asked me to work with Yugiri, his
+senior, to deal with the Guaardvark that was
+destroying the forest! to do something about the
+Guaardvark that is ravaging the forest. [...]</source>
+        <target state="needs-translation">I was sent to Molinara branch from Ranger
+Association HQ in Kamiharmui City. Poranpan, the
+branch manager, asked me to work with Yugiri, his
+senior, to deal with the Guaardvark that was
+destroying the forest! to do something about the
+Guaardvark that is ravaging the forest. [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">王都カミハルムイのレンジャー協会本部から
+モリナラ支部に　派遣された。
+支部長ポランパンから　先輩のユウギリと共に
+森を荒らす　スカルガルーを
+なんとかしてほしい！　と頼まれた。
+先に森の奥へ行った　ユウギリに追いつこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414385" resname="レンジャー協会モリナラ支部での　初仕事。&#10;先輩のユウギリから　森を荒らしている&#10;スカルガルーを　５匹&#10;みのがすを使って　逃がして！　と頼まれた。&#10;戦闘に勝った時以外に　みのがした分は&#10;無効らしい。">
+        <source>My first job in the Molinara branch of the Ranger
+Association. Yugiri, my senior, asked me to
+release five Guaardvarks that were tearing up the
+forest using Mercy! I was asked to use Mercy to
+release five Guaardvarks that were ravaging the
+forest. I was told that any misses are not [...]</source>
+        <target state="needs-translation">My first job in the Molinara branch of the Ranger
+Association. Yugiri, my senior, asked me to
+release five Guaardvarks that were tearing up the
+forest using Mercy! I was asked to use Mercy to
+release five Guaardvarks that were ravaging the
+forest. I was told that any misses are not [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">レンジャー協会モリナラ支部での　初仕事。
+先輩のユウギリから　森を荒らしている
+スカルガルーを　５匹
+みのがすを使って　逃がして！　と頼まれた。
+戦闘に勝った時以外に　みのがした分は
+無効らしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414387" resname="エルトナ・レンジャー協会　モリナラ支部で&#10;ポランパン支部長から　レーノスと共に&#10;モリナラ大森林の木を　勝手に切り倒している&#10;不法な伐採者を見つけだせ！　と頼まれた。&#10;レーノスは　犯人を自力で探せと挑発してきた。&#10;モリナラ大森林の奥を　徹底的に調査しよう。">
+        <source>Poranpan, the president of the Eltona Ranger
+Association Molinara Chapter, asked me to work
+with Renosu to find the illegal loggers who are
+cutting down trees in the Molinara Forest without
+permission! Renosu challenged me to find the
+culprits by myself.</source>
+        <target state="needs-translation">Poranpan, the president of the Eltona Ranger
+Association Molinara Chapter, asked me to work
+with Renosu to find the illegal loggers who are
+cutting down trees in the Molinara Forest without
+permission! Renosu challenged me to find the
+culprits by myself.</target>
+        <context-group purpose="information">
+          <context context-type="source">エルトナ・レンジャー協会　モリナラ支部で
+ポランパン支部長から　レーノスと共に
+モリナラ大森林の木を　勝手に切り倒している
+不法な伐採者を見つけだせ！　と頼まれた。
+レーノスは　犯人を自力で探せと挑発してきた。
+モリナラ大森林の奥を　徹底的に調査しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414389" resname="エルトナ・レンジャー協会　モリナラ支部で&#10;ポランパン支部長から　伐採同盟に囚われた&#10;ユウギリを　助けだしてほしい！　と頼まれた。&#10;同盟のアジトがある　森外れのほら穴へ&#10;レーノスと共に　向かおう。">
+        <source>I was asked by Poranpan, head of the Eltona
+Ranger Association's Molinarra branch, to help
+rescue Yugiri, who was being held captive by a
+logging alliance! Yugiri is trapped by the
+logging alliance. Let's go with Renosu to the
+Outer Forest Cave where the alliance [...]</source>
+        <target state="needs-translation">I was asked by Poranpan, head of the Eltona
+Ranger Association's Molinarra branch, to help
+rescue Yugiri, who was being held captive by a
+logging alliance! Yugiri is trapped by the
+logging alliance. Let's go with Renosu to the
+Outer Forest Cave where the alliance [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">エルトナ・レンジャー協会　モリナラ支部で
+ポランパン支部長から　伐採同盟に囚われた
+ユウギリを　助けだしてほしい！　と頼まれた。
+同盟のアジトがある　森外れのほら穴へ
+レーノスと共に　向かおう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414391" resname="森の怒りを鎮めるには　レンジャーの必殺技を&#10;習得しなければ　ならないらしい。&#10;そのための試練として　落陽の草原などで&#10;まだらイチョウを　５匹　倒しなさい！&#10;と言われた。">
+        <source>To appease the wrath of the forest, it seems that
+you must master the ranger's special move. To do
+so, I was told to go to Sunset Meadow and kill
+five Bud Brothers as a trial! I was told.</source>
+        <target state="needs-translation">To appease the wrath of the forest, it seems that
+you must master the ranger's special move. To do
+so, I was told to go to Sunset Meadow and kill
+five Bud Brothers as a trial! I was told.</target>
+        <context-group purpose="information">
+          <context context-type="source">森の怒りを鎮めるには　レンジャーの必殺技を
+習得しなければ　ならないらしい。
+そのための試練として　落陽の草原などで
+まだらイチョウを　５匹　倒しなさい！
+と言われた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414393" resname="レンジャーの必殺技　妖精たちのポルカを&#10;身につけるために　まだらイチョウを&#10;５匹　倒してこい！　と言われた。&#10;すでに　５匹倒し　試練を達成した。&#10;レンジャー協会本部に　戻ろう。">
+        <source>I was told to kill 5 Bud Brother in order to
+learn the ranger's special move Brownie Boost!
+I've already killed 5 of them and completed the
+trial. I've already killed 5 and completed the
+trial.</source>
+        <target state="needs-translation">I was told to kill 5 Bud Brother in order to
+learn the ranger's special move Brownie Boost!
+I've already killed 5 of them and completed the
+trial. I've already killed 5 and completed the
+trial.</target>
+        <context-group purpose="information">
+          <context context-type="source">レンジャーの必殺技　妖精たちのポルカを
+身につけるために　まだらイチョウを
+５匹　倒してこい！　と言われた。
+すでに　５匹倒し　試練を達成した。
+レンジャー協会本部に　戻ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414395" resname="モリナラ支部のポランパン支部長から&#10;森の怒りを鎮め　魔物と化した人々を救うため&#10;モリナラ大森林の奥深く　緑の聖域にいる&#10;憎悪の精霊樹を倒してくれ！　と頼まれた。&#10;この戦いでは　妖精たちのポルカを使って&#10;勝たなくてはならないらしい。">
+        <source>Poranpan, the head of the Molinara branch, asked
+me to kill the Tree of Hatred in the Green
+Sanctuary deep in the Molinara Forest to appease
+the forest's anger and save the people who have
+been turned into monsters! to save the people who
+have been turned into monsters. In this [...]</source>
+        <target state="needs-translation">Poranpan, the head of the Molinara branch, asked
+me to kill the Tree of Hatred in the Green
+Sanctuary deep in the Molinara Forest to appease
+the forest's anger and save the people who have
+been turned into monsters! to save the people who
+have been turned into monsters. In this [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">モリナラ支部のポランパン支部長から
+森の怒りを鎮め　魔物と化した人々を救うため
+モリナラ大森林の奥深く　緑の聖域にいる
+憎悪の精霊樹を倒してくれ！　と頼まれた。
+この戦いでは　妖精たちのポルカを使って
+勝たなくてはならないらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414397" resname="娯楽島ラッカランのササラナに　整理術のために&#10;本の下巻を探してほしい！　と頼まれた。&#10;ササラナに　本が見つからなかったことを伝えると&#10;整理術の開発は　手元の上巻でなんとかするから&#10;タバネのチカラになって！　と言われた。">
+        <source>Sasalana from Luckland Island asked me to find
+the bottom volume of the book for her
+organizational skills! When I told Sasalana that
+I couldn't find the book, she told me that she
+would help Tabane in the development of the
+organizing system, since she had the upper [...]</source>
+        <target state="needs-translation">Sasalana from Luckland Island asked me to find
+the bottom volume of the book for her
+organizational skills! When I told Sasalana that
+I couldn't find the book, she told me that she
+would help Tabane in the development of the
+organizing system, since she had the upper [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">娯楽島ラッカランのササラナに　整理術のために
+本の下巻を探してほしい！　と頼まれた。
+ササラナに　本が見つからなかったことを伝えると
+整理術の開発は　手元の上巻でなんとかするから
+タバネのチカラになって！　と言われた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414399" resname="娯楽島ラッカランのササラナに　タバネのチカラに&#10;なって！　と頼まれた。風の町アズランの&#10;宿屋にいる　タバネの父　ハシバミと話したところ&#10;姉のチヒロが　帰っていないと　心配しており&#10;手がかりを　探すことになった。チヒロの部屋に&#10;行くには　ハシバミと話せば　いいようだ。">
+        <source>Sasalana in Luckland Island asked me to help
+Tabane! I talked to Hashibami, Tabane's father,
+who is in the inn in Wind Town Azlan, and he was
+worried that her sister Chihiro had not come back
+home, so we decided to look for clues.</source>
+        <target state="needs-translation">Sasalana in Luckland Island asked me to help
+Tabane! I talked to Hashibami, Tabane's father,
+who is in the inn in Wind Town Azlan, and he was
+worried that her sister Chihiro had not come back
+home, so we decided to look for clues.</target>
+        <context-group purpose="information">
+          <context context-type="source">娯楽島ラッカランのササラナに　タバネのチカラに
+なって！　と頼まれた。風の町アズランの
+宿屋にいる　タバネの父　ハシバミと話したところ
+姉のチヒロが　帰っていないと　心配しており
+手がかりを　探すことになった。チヒロの部屋に
+行くには　ハシバミと話せば　いいようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414401" resname="謎の異空間にいる　世告げの姫ロディアから&#10;帝王の玉座に掛かっている幻術を解く時が&#10;来たので　闇の溢る世界に向かうよう&#10;言われた。帝王の玉座にいる　災厄の王は&#10;幻影であり　もう一度　戦うことになるらしい。">
+        <source>Princess of ProphecyRhodia, who is in a
+mysterious foreign space, told me to go to the
+World of Darkness because it was time to break
+the spell on the Imperial Throne. I will have to
+fight him again.</source>
+        <target state="needs-translation">Princess of ProphecyRhodia, who is in a
+mysterious foreign space, told me to go to the
+World of Darkness because it was time to break
+the spell on the Imperial Throne. I will have to
+fight him again.</target>
+        <context-group purpose="information">
+          <context context-type="source">謎の異空間にいる　世告げの姫ロディアから
+帝王の玉座に掛かっている幻術を解く時が
+来たので　闇の溢る世界に向かうよう
+言われた。帝王の玉座にいる　災厄の王は
+幻影であり　もう一度　戦うことになるらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414403" resname="娯楽島ラッカランのササラナに　タバネのチカラに&#10;なって！　と頼まれた。倉庫に住みついていた&#10;魔物を倒したところ　なんと　チヒロが現れた。&#10;チヒロが　これまでの経緯を話すと　タバネは&#10;姉の部屋のことを　ササラナに相談してみようと&#10;提案した。ササラナのところへ　行こう。">
+        <source>Sasalana from Luckland Island asked me to help
+Tabane! When Chihiro told him what had happened,
+Tabane suggested that he should talk to Sasalana
+about his sister's room.</source>
+        <target state="needs-translation">Sasalana from Luckland Island asked me to help
+Tabane! When Chihiro told him what had happened,
+Tabane suggested that he should talk to Sasalana
+about his sister's room.</target>
+        <context-group purpose="information">
+          <context context-type="source">娯楽島ラッカランのササラナに　タバネのチカラに
+なって！　と頼まれた。倉庫に住みついていた
+魔物を倒したところ　なんと　チヒロが現れた。
+チヒロが　これまでの経緯を話すと　タバネは
+姉の部屋のことを　ササラナに相談してみようと
+提案した。ササラナのところへ　行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414405" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;{color=yellow}強戦士の聖域・闘場{reset}にいる&#10;{color=yellow}魔軍師イッド強{reset}を　１匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>Request from Monster Strike Force member
+{color=yellow}I want you to take out one
+{color=yellow}Apex Tactician Idd{reset} in
+Warrior's Sanctuary - Arena{reset}! Currently, 0
+of them have been killed.</source>
+        <target state="needs-translation">Request from Monster Strike Force member
+{color=yellow}I want you to take out one
+{color=yellow}Apex Tactician Idd{reset} in
+Warrior's Sanctuary - Arena{reset}! Currently, 0
+of them have been killed.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+{color=yellow}強戦士の聖域・闘場{reset}にいる
+{color=yellow}魔軍師イッド強{reset}を　１匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414407" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;{color=yellow}強戦士の聖域・闘場{reset}にいる&#10;{color=yellow}呪術師マリーン強{reset}を　１匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>Request from Monster Strike Force member
+{color=yellow}I need you to kill 1
+{color=yellow}Apex Monstrous Malynn in Warrior's
+Sanctuary - Arena {reset}! He has killed 0 so
+far.</source>
+        <target state="needs-translation">Request from Monster Strike Force member
+{color=yellow}I need you to kill 1
+{color=yellow}Apex Monstrous Malynn in Warrior's
+Sanctuary - Arena {reset}! He has killed 0 so
+far.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+{color=yellow}強戦士の聖域・闘場{reset}にいる
+{color=yellow}呪術師マリーン強{reset}を　１匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414409" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;{color=yellow}強戦士の聖域・闘場{reset}にいる&#10;{color=yellow}暴君バサグランデ強{reset}を　１匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>Request from Monster Strike Force member
+{color=yellow}I want you to take out one
+{color=yellow}Apex Tyrant Bogan{reset} in
+Warrior's Sanctuary - Arena{reset}! Currently, 0
+of them have been killed.</source>
+        <target state="needs-translation">Request from Monster Strike Force member
+{color=yellow}I want you to take out one
+{color=yellow}Apex Tyrant Bogan{reset} in
+Warrior's Sanctuary - Arena{reset}! Currently, 0
+of them have been killed.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+{color=yellow}強戦士の聖域・闘場{reset}にいる
+{color=yellow}暴君バサグランデ強{reset}を　１匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414411" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;{color=yellow}強戦士の聖域・闘場{reset}にいる&#10;{color=yellow}魔人エンラージャ強{reset}を　１匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>Request from Monster Strike Force member
+{color=yellow}I want you to kill one
+{color=yellow}Apex Enraja{reset} in Warrior's
+Sanctuary - Arena{reset}! Currently, 0 have been
+killed.</source>
+        <target state="needs-translation">Request from Monster Strike Force member
+{color=yellow}I want you to kill one
+{color=yellow}Apex Enraja{reset} in Warrior's
+Sanctuary - Arena{reset}! Currently, 0 have been
+killed.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+{color=yellow}強戦士の聖域・闘場{reset}にいる
+{color=yellow}魔人エンラージャ強{reset}を　１匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414413" resname="ジュレットの町にある　さいほうギルドで&#10;マスター・ユービアから　レベル４６以上の&#10;さいほう職人になるため　★★以上の&#10;ホーリーブーツを作って　新品のまま&#10;持ってきてほしい！　と言われた。">
+        <source>At the Sewing Guild in Julet, Guildmaster Yubia
+asked me to make  or higher Holy Boots and bring
+them to him as new boots in order to become a
+Level 46+ Sewer! He asked me to bring him a new
+pair of boots.</source>
+        <target state="needs-translation">At the Sewing Guild in Julet, Guildmaster Yubia
+asked me to make  or higher Holy Boots and bring
+them to him as new boots in order to become a
+Level 46+ Sewer! He asked me to bring him a new
+pair of boots.</target>
+        <context-group purpose="information">
+          <context context-type="source">ジュレットの町にある　さいほうギルドで
+マスター・ユービアから　レベル４６以上の
+さいほう職人になるため　★★以上の
+ホーリーブーツを作って　新品のまま
+持ってきてほしい！　と言われた。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414415" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;{color=yellow}強戦士の聖域・闘場{reset}にいる&#10;{color=yellow}天魔クァバルナ強{reset}を　１匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>Request from Monster Strike Force member
+{color=yellow}To kill 1 {color=yellow}Apex
+Kukulkannibal{reset} in {color=yellow}Book of
+Bosses - Arena{reset}! Currently, 0
+Kukulkannibals have been defeated.</source>
+        <target state="needs-translation">Request from Monster Strike Force member
+{color=yellow}To kill 1 {color=yellow}Apex
+Kukulkannibal{reset} in {color=yellow}Book of
+Bosses - Arena{reset}! Currently, 0
+Kukulkannibals have been defeated.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+{color=yellow}強戦士の聖域・闘場{reset}にいる
+{color=yellow}天魔クァバルナ強{reset}を　１匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414417" resname="～モンスター討伐隊隊員からの依頼～&#10;　&#10;{color=yellow}強戦士の聖域・闘場{reset}にいる&#10;{color=yellow}悪魔長ジウギス{reset}を　１匹　討伐してほしい！&#10;　&#10;現在　０匹　倒している。">
+        <source>Request from Monster Strike Force member
+{color=yellow}To defeat one {color=yellow}Devil
+Chief Jiggis{reset} in the Book of Bosses -
+Arena{reset}! Currently, 0 of them have been
+defeated.</source>
+        <target state="needs-translation">Request from Monster Strike Force member
+{color=yellow}To defeat one {color=yellow}Devil
+Chief Jiggis{reset} in the Book of Bosses -
+Arena{reset}! Currently, 0 of them have been
+defeated.</target>
+        <context-group purpose="information">
+          <context context-type="source">～モンスター討伐隊隊員からの依頼～
+　
+{color=yellow}強戦士の聖域・闘場{reset}にいる
+{color=yellow}悪魔長ジウギス{reset}を　１匹　討伐してほしい！
+　
+現在　０匹　倒している。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414419" resname="グランゼドーラ城にいる　賢者ルシェンダから&#10;ひとりで魔族の討伐に向かった　アンルシアを&#10;守ってほしい！　と頼まれた。&#10;魔元帥ゼルドラドが　現れたと聞いた&#10;アンルシアは　ソーラリア峡谷の奥地にある&#10;古き神の遺跡に　向かったらしい。">
+        <source>Sage Lushenda at Gran Zedora Castle asked me to
+protect Anlucia, who was on her way to defeat the
+demons alone! Anlucia heard that Marshal Zeldrad
+had appeared and headed for the Historic Ruins in
+the depths of Solaria Canyon.</source>
+        <target state="needs-translation">Sage Lushenda at Gran Zedora Castle asked me to
+protect Anlucia, who was on her way to defeat the
+demons alone! Anlucia heard that Marshal Zeldrad
+had appeared and headed for the Historic Ruins in
+the depths of Solaria Canyon.</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ城にいる　賢者ルシェンダから
+ひとりで魔族の討伐に向かった　アンルシアを
+守ってほしい！　と頼まれた。
+魔元帥ゼルドラドが　現れたと聞いた
+アンルシアは　ソーラリア峡谷の奥地にある
+古き神の遺跡に　向かったらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414421" resname="ダーマ神殿にいる　ディエゴから&#10;スキルポイントの割り振り上限を&#10;２００まで　解放するための試練を&#10;受けるよな？　と誘われた。戦う用意ができたら&#10;神殿の外　入り口の手前にある破邪の鐘を鳴らして&#10;加護を受け　試練の舞台へ　飛ばしてもらおう。">
+        <source>Diego at Alltrades Abbey asked me if I would take
+a trial to open up my skill point allotment to
+200. He asked me if I was ready to fight. When
+you are ready to fight, ring the bell of
+destruction outside the temple, in front of the
+entrance, to receive blessings and be [...]</source>
+        <target state="needs-translation">Diego at Alltrades Abbey asked me if I would take
+a trial to open up my skill point allotment to
+200. He asked me if I was ready to fight. When
+you are ready to fight, ring the bell of
+destruction outside the temple, in front of the
+entrance, to receive blessings and be [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">ダーマ神殿にいる　ディエゴから
+スキルポイントの割り振り上限を
+２００まで　解放するための試練を
+受けるよな？　と誘われた。戦う用意ができたら
+神殿の外　入り口の手前にある破邪の鐘を鳴らして
+加護を受け　試練の舞台へ　飛ばしてもらおう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414423" resname="謎の異空間にいる　世告げの姫サテラから&#10;災厄の王の幻術を打ち破るために&#10;自分の封じられた記憶を　取り戻してほしい！&#10;と頼まれた。サテラは　おぼろげな記憶の中で&#10;どこかの港町にある　大きな教会にいる女の子を&#10;覚えているらしい。その子を探して話を聞こう。">
+        <source>Princess of ProphecySatella, who lives in a
+mysterious alien space, asks you to retrieve her
+sealed memories in order to defeat the King of
+Calamity's illusions! Satella seems to remember a
+girl in a big church in a port town somewhere in
+her dim memory. Let's find her and talk to her.</source>
+        <target state="needs-translation">Princess of ProphecySatella, who lives in a
+mysterious alien space, asks you to retrieve her
+sealed memories in order to defeat the King of
+Calamity's illusions! Satella seems to remember a
+girl in a big church in a port town somewhere in
+her dim memory. Let's find her and talk to her.</target>
+        <context-group purpose="information">
+          <context context-type="source">謎の異空間にいる　世告げの姫サテラから
+災厄の王の幻術を打ち破るために
+自分の封じられた記憶を　取り戻してほしい！
+と頼まれた。サテラは　おぼろげな記憶の中で
+どこかの港町にある　大きな教会にいる女の子を
+覚えているらしい。その子を探して話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414425" resname="港町レンドア南で　詩人ナスガルドから&#10;ベジセルクの戦詩を紡ぐ　舞台作りに必要な&#10;もうひとつのピースである　黄昏の詩人の楽譜を&#10;手に入れてきてほしい！　と頼まれた。&#10;プクランド大陸の　ポポリアきのこ山などにいる&#10;アモデウスを倒すと　手に入るらしい。">
+        <source>I was asked by Poet Woebergard in South Port
+Lendor to get Twilight Poet's Score, which is
+another Peace needed to set the stage for
+Cucumberserk's war poetry! I heard that you can
+get it by defeating Amodeus at Popolia Mushroom
+Mountain and other places in Pukuland.</source>
+        <target state="needs-translation">I was asked by Poet Woebergard in South Port
+Lendor to get Twilight Poet's Score, which is
+another Peace needed to set the stage for
+Cucumberserk's war poetry! I heard that you can
+get it by defeating Amodeus at Popolia Mushroom
+Mountain and other places in Pukuland.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア南で　詩人ナスガルドから
+ベジセルクの戦詩を紡ぐ　舞台作りに必要な
+もうひとつのピースである　黄昏の詩人の楽譜を
+手に入れてきてほしい！　と頼まれた。
+プクランド大陸の　ポポリアきのこ山などにいる
+アモデウスを倒すと　手に入るらしい。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414427" resname="偽りのメルサンディ村で&#10;吟遊詩人パニーノが　困っているようだ。">
+        <source>F. In Melsandy Village, the bard Panino seems to
+be in trouble.</source>
+        <target state="needs-translation">F. In Melsandy Village, the bard Panino seems to
+be in trouble.</target>
+        <context-group purpose="information">
+          <context context-type="source">偽りのメルサンディ村で
+吟遊詩人パニーノが　困っているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414429" resname="オルフェア地方東の　ピィピのお宿にいる&#10;エルフ女性　光導使ナズナが　レベル８１に&#10;到達した旅人を　探しているようだ。">
+        <source>Elf F sex Light Guide Nazuna at Pippi's Inn in
+Orphea Region East is looking for travelers who
+have reached level 81.</source>
+        <target state="needs-translation">Elf F sex Light Guide Nazuna at Pippi's Inn in
+Orphea Region East is looking for travelers who
+have reached level 81.</target>
+        <context-group purpose="information">
+          <context context-type="source">オルフェア地方東の　ピィピのお宿にいる
+エルフ女性　光導使ナズナが　レベル８１に
+到達した旅人を　探しているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414431" resname="娯楽島ラッカランの　オーナーの館にいる&#10;ササラナが　レベル７８以上の　冒険者に&#10;相談したいことが　あるようだ。">
+        <source>Sasalana at the Owner's Mansion on Luckland
+Island has some advice for adventurers level 78
+and above.</source>
+        <target state="needs-translation">Sasalana at the Owner's Mansion on Luckland
+Island has some advice for adventurers level 78
+and above.</target>
+        <context-group purpose="information">
+          <context context-type="source">娯楽島ラッカランの　オーナーの館にいる
+ササラナが　レベル７８以上の　冒険者に
+相談したいことが　あるようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414433" resname="ガートラント城下町の　井戸の底にいる&#10;かばん職人パックが　何か困っているようだ。&#10;職業レベルが８０以上なら　話を聞いてあげよう。">
+        <source>If your location level is 80 or higher, we will
+listen to you.</source>
+        <target state="needs-translation">If your location level is 80 or higher, we will
+listen to you.</target>
+        <context-group purpose="information">
+          <context context-type="source">ガートラント城下町の　井戸の底にいる
+かばん職人パックが　何か困っているようだ。
+職業レベルが８０以上なら　話を聞いてあげよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414435" resname="港町レンドア駅の３階にいる　人間の男性&#10;ペリッツが　冒険者を　探しているようだ。">
+        <source>The human man Peritz on the third floor of Port
+Lendor Station seems to be looking for
+adventurers.</source>
+        <target state="needs-translation">The human man Peritz on the third floor of Port
+Lendor Station seems to be looking for
+adventurers.</target>
+        <context-group purpose="information">
+          <context context-type="source">港町レンドア駅の３階にいる　人間の男性
+ペリッツが　冒険者を　探しているようだ。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414437" resname="オルフェア地方東　ピィピのお宿にいる&#10;光導使ナズナに　レベル８５の制限を解放するため&#10;ポポリアきのこ山などにいる&#10;スライムベホマズンを　倒すと　手に入る&#10;慈愛の紋章を持ちかえって！&#10;と頼まれた。ナズナに　慈愛を示そう。">
+        <source>Light Guide Nazuna at Orphea Region East Pippi's
+Inn will give you the Crest of Kindness, which
+you can get by defeating King Cureslime at
+Popolia Mushroom Mountain and other locations to
+release the level 85 limit. Nazuna asked me to
+take back the Crest of Kindness! Let's show [...]</source>
+        <target state="needs-translation">Light Guide Nazuna at Orphea Region East Pippi's
+Inn will give you the Crest of Kindness, which
+you can get by defeating King Cureslime at
+Popolia Mushroom Mountain and other locations to
+release the level 85 limit. Nazuna asked me to
+take back the Crest of Kindness! Let's show [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">オルフェア地方東　ピィピのお宿にいる
+光導使ナズナに　レベル８５の制限を解放するため
+ポポリアきのこ山などにいる
+スライムベホマズンを　倒すと　手に入る
+慈愛の紋章を持ちかえって！
+と頼まれた。ナズナに　慈愛を示そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1414439" resname="グランゼドーラ城の　秘密会議室の装置を&#10;修理できる技師　バジェオと再会した。&#10;バジェオから　修理に必要な　魔光レンズを&#10;ラギ雪原の北西などにいる&#10;キラーマシンから　手に入れ&#10;直接　秘密会議室に届けてくれ！　と頼まれた。">
+        <source>I met Bajeo again, the technician who can repair
+the equipment in the Secret Meeting Room of Gran
+Zedora Castle. Bajeo asked me to get the Magic
+Lens needed for the repair from the Killing
+Machine northwest of Ragi Snowfield! He asked me
+to deliver it directly to the Secret [...]</source>
+        <target state="needs-translation">I met Bajeo again, the technician who can repair
+the equipment in the Secret Meeting Room of Gran
+Zedora Castle. Bajeo asked me to get the Magic
+Lens needed for the repair from the Killing
+Machine northwest of Ragi Snowfield! He asked me
+to deliver it directly to the Secret [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">グランゼドーラ城の　秘密会議室の装置を
+修理できる技師　バジェオと再会した。
+バジェオから　修理に必要な　魔光レンズを
+ラギ雪原の北西などにいる
+キラーマシンから　手に入れ
+直接　秘密会議室に届けてくれ！　と頼まれた。</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
