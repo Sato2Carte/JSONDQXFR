@@ -1,0 +1,2559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file id="4173" original="/Clarity Server-Side/extracted_walkthrough.xlsx" source-language="ja" target-language="ja" datatype="plaintext" project-id="763503" tool-id="crowdin">
+    <header>
+      <tool tool-id="crowdin" tool-name="Crowdin" tool-version="1.1"/>
+    </header>
+    <body>
+      <trans-unit id="1419453" resname="メインコマンド『せんれき』の_x000D_&#10;これまでのおはなしを見ながら_x000D_&#10;物語を進めていこう。">
+        <source>Use &quot;Records&quot; and check_x000D_
+&quot;The Story So Far&quot; to see_x000D_
+where to head next.</source>
+        <target state="needs-translation">Use &quot;Records&quot; and check_x000D_
+&quot;The Story So Far&quot; to see_x000D_
+where to head next.</target>
+        <context-group purpose="information">
+          <context context-type="source">メインコマンド『せんれき』の_x000D_
+これまでのおはなしを見ながら_x000D_
+物語を進めていこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419455" resname="新たなる冒険にそなえ_x000D_&#10;町の酒場にいる_x000D_&#10;紹介人に話しかけよう。">
+        <source>Prepare for new adventures._x000D_
+Talk to an Introducer at the_x000D_
+tavern in any town.</source>
+        <target state="needs-translation">Prepare for new adventures._x000D_
+Talk to an Introducer at the_x000D_
+tavern in any town.</target>
+        <context-group purpose="information">
+          <context context-type="source">新たなる冒険にそなえ_x000D_
+町の酒場にいる_x000D_
+紹介人に話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419457" resname="エテーネの村のアバの家にいる&#10;アバさまに　謝りにいこう。">
+        <source>Let's go apologize to Lady
+Abba's house in Ethene Village.</source>
+        <target state="needs-translation">Let's go apologize to Lady
+Abba's house in Ethene Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネの村のアバの家にいる
+アバさまに　謝りにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419459" resname="久遠の森にいる　イココと話し&#10;世界樹の頂へ行こう。">
+        <source>Talk to Ikoko in Eternal Wood
+and go to the top of Yggdrasil.</source>
+        <target state="needs-translation">Talk to Ikoko in Eternal Wood
+and go to the top of Yggdrasil.</target>
+        <context-group purpose="information">
+          <context context-type="source">久遠の森にいる　イココと話し
+世界樹の頂へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419461" resname="久遠の森にいる　イココと話し&#10;世界樹の頂にいる&#10;紫獅鬼バイロゼオを倒そう。">
+        <source>Talk with Ikoko in Eternal Wood
+and defeat Purple Lion Byrozeo
+at the World Tree Top.</source>
+        <target state="needs-translation">Talk with Ikoko in Eternal Wood
+and defeat Purple Lion Byrozeo
+at the World Tree Top.</target>
+        <context-group purpose="information">
+          <context context-type="source">久遠の森にいる　イココと話し
+世界樹の頂にいる
+紫獅鬼バイロゼオを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419463" resname="ツスクルの村の巫女の館にいる&#10;巫女ヒメアの話を聞こう。">
+        <source>Let's listen to Maiden Himea in
+the Maiden Manor in Tsusukul
+Village.</source>
+        <target state="needs-translation">Let's listen to Maiden Himea in
+the Maiden Manor in Tsusukul
+Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">ツスクルの村の巫女の館にいる
+巫女ヒメアの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419465" resname="ランガーオの村で&#10;ヘビ使いの男を探そう。">
+        <source>Find the snake charmer in
+Langao Village.</source>
+        <target state="needs-translation">Find the snake charmer in
+Langao Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">ランガーオの村で
+ヘビ使いの男を探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419467" resname="グレン城下町駅で&#10;マイユを見かけた人を探そう。">
+        <source>Find out who has seen Maille at
+Glen Castle Town Stop.</source>
+        <target state="needs-translation">Find out who has seen Maille at
+Glen Castle Town Stop.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城下町駅で
+マイユを見かけた人を探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419469" resname="グレン城の玉座の間で&#10;バグド王の話を聞こう。">
+        <source>Listen to King Bagudo in the
+throne room of Glen Castle.</source>
+        <target state="needs-translation">Listen to King Bagudo in the
+throne room of Glen Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城の玉座の間で
+バグド王の話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419471" resname="獅子門でマイユを探そう。">
+        <source>Look for Maille at Lion Gate.</source>
+        <target state="needs-translation">Look for Maille at Lion Gate.</target>
+        <context-group purpose="information">
+          <context context-type="source">獅子門でマイユを探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419473" resname="ランガーオ村の村王の家にいる&#10;カシャに報告しよう。">
+        <source>Report to Kasha at the Chief's
+home in Langao Village.</source>
+        <target state="needs-translation">Report to Kasha at the Chief's
+home in Langao Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">ランガーオ村の村王の家にいる
+カシャに報告しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419475" resname="ゴズ渓谷の大雪柱で&#10;いやしの雪中花を手に入れよう。">
+        <source>Get a healing snowflake at
+Large Snow Pillar in Goz
+Valley.</source>
+        <target state="needs-translation">Get a healing snowflake at
+Large Snow Pillar in Goz
+Valley.</target>
+        <context-group purpose="information">
+          <context context-type="source">ゴズ渓谷の大雪柱で
+いやしの雪中花を手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419477" resname="ランガーオ村の&#10;村王の家にいるアロルドに&#10;いやしの雪中花を届けよう。">
+        <source>Deliver the healing snowflakes
+to Arold at the Chief's home in
+Langao Village.</source>
+        <target state="needs-translation">Deliver the healing snowflakes
+to Arold at the Chief's home in
+Langao Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">ランガーオ村の
+村王の家にいるアロルドに
+いやしの雪中花を届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419479" resname="ランガーオ村の武闘場へ行こう。">
+        <source>Let's go to Langao Village
+Village Arena.</source>
+        <target state="needs-translation">Let's go to Langao Village
+Village Arena.</target>
+        <context-group purpose="information">
+          <context context-type="source">ランガーオ村の武闘場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419481" resname="ランガーオ村の武闘場へ行き&#10;竜将アンテロを倒そう。">
+        <source>Go to the Village Arena in
+Langao Village and defeat the
+Dragon General Antelo.</source>
+        <target state="needs-translation">Go to the Village Arena in
+Langao Village and defeat the
+Dragon General Antelo.</target>
+        <context-group purpose="information">
+          <context context-type="source">ランガーオ村の武闘場へ行き
+竜将アンテロを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419483" resname="ランガーオ村の　村王の家にある&#10;マイユの部屋へ行こう。">
+        <source>Let's go to Maille's room at
+the Chief's home in Langao
+Village.</source>
+        <target state="needs-translation">Let's go to Maille's room at
+the Chief's home in Langao
+Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">ランガーオ村の　村王の家にある
+マイユの部屋へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419485" resname="真のグランゼドーラ城の&#10;東の塔の寝室にいる&#10;シオンに会いにいこう。">
+        <source>Let's go see Shion in his
+bedroom in the East Tower of
+the true Gran Zedora Castle.</source>
+        <target state="needs-translation">Let's go see Shion in his
+bedroom in the East Tower of
+the true Gran Zedora Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真のグランゼドーラ城の
+東の塔の寝室にいる
+シオンに会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419487" resname="飛竜に乗って　モンセロ温泉峡の&#10;南にある煙霧の谷へ行き&#10;壁画の前で　竜笛を吹こう。">
+        <source>Ride the flying dragon to Misty
+Valley, south of Moncello
+Spring Gorge, and blow [...]</source>
+        <target state="needs-translation">Ride the flying dragon to Misty
+Valley, south of Moncello
+Spring Gorge, and blow [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">飛竜に乗って　モンセロ温泉峡の
+南にある煙霧の谷へ行き
+壁画の前で　竜笛を吹こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419489" resname="竜族の隠れ里の　族長の家にいる&#10;オルゲンの話を聞こう。">
+        <source>Let's listen to Orgen, who is
+in the Chief's home in Hidden
+Dragon Town.</source>
+        <target state="needs-translation">Let's listen to Orgen, who is
+in the Chief's home in Hidden
+Dragon Town.</target>
+        <context-group purpose="information">
+          <context context-type="source">竜族の隠れ里の　族長の家にいる
+オルゲンの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419491" resname="竜族の隠れ里の中心にある&#10;竜の香炉の周辺で&#10;幻竜草を手に入れよう。">
+        <source>Get Ghostlily around the Dragon
+Incense in the center of Hidden
+Dragon Town.</source>
+        <target state="needs-translation">Get Ghostlily around the Dragon
+Incense in the center of Hidden
+Dragon Town.</target>
+        <context-group purpose="information">
+          <context context-type="source">竜族の隠れ里の中心にある
+竜の香炉の周辺で
+幻竜草を手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419493" resname="ドラクロン山地　第１層の&#10;中央の洞窟で　スカルゴンを倒し&#10;竜の芯骨を手に入れよう。">
+        <source>Draklon Mountains, Level 1,
+center cave, defeat Skelegon
+and get the Dragon Bone.</source>
+        <target state="needs-translation">Draklon Mountains, Level 1,
+center cave, defeat Skelegon
+and get the Dragon Bone.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドラクロン山地　第１層の
+中央の洞窟で　スカルゴンを倒し
+竜の芯骨を手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419495" resname="竜族の隠れ里の&#10;族長の家にいるオルゲンに&#10;幻竜草と　竜の芯骨を届けよう。">
+        <source>Deliver Ghostlily and Dragon
+Bone to Orgen at Chief's home
+in Hidden Dragon Town.</source>
+        <target state="needs-translation">Deliver Ghostlily and Dragon
+Bone to Orgen at Chief's home
+in Hidden Dragon Town.</target>
+        <context-group purpose="information">
+          <context context-type="source">竜族の隠れ里の
+族長の家にいるオルゲンに
+幻竜草と　竜の芯骨を届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419497" resname="飛竜に乗って&#10;エテーネの島の上空へ行き&#10;竜の香炉を使おう。">
+        <source>Ride the flying dragon to the
+sky above the Island of Ethene
+and use the Dragon Incense.</source>
+        <target state="needs-translation">Ride the flying dragon to the
+sky above the Island of Ethene
+and use the Dragon Incense.</target>
+        <context-group purpose="information">
+          <context context-type="source">飛竜に乗って
+エテーネの島の上空へ行き
+竜の香炉を使おう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419499" resname="飛竜に乗って&#10;奈落の門へ　降り立とう。">
+        <source>Let us ride the flying dragon
+down to the Abyss Gate.</source>
+        <target state="needs-translation">Let us ride the flying dragon
+down to the Abyss Gate.</target>
+        <context-group purpose="information">
+          <context context-type="source">飛竜に乗って
+奈落の門へ　降り立とう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419501" resname="飛竜に乗って&#10;奈落の門へ　降り立ち&#10;竜将アンテロを倒そう。">
+        <source>Ride the flying dragon down to
+Abyss Gate and defeat the
+dragon general Antelo.</source>
+        <target state="needs-translation">Ride the flying dragon down to
+Abyss Gate and defeat the
+dragon general Antelo.</target>
+        <context-group purpose="information">
+          <context context-type="source">飛竜に乗って
+奈落の門へ　降り立ち
+竜将アンテロを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419503" resname="竜族の隠れ里の　族長の家にいる&#10;オルゲンに会いにいこう。">
+        <source>Let's go see Orgen at the
+Chief's home in Hidden Dragon
+Town.</source>
+        <target state="needs-translation">Let's go see Orgen at the
+Chief's home in Hidden Dragon
+Town.</target>
+        <context-group purpose="information">
+          <context context-type="source">竜族の隠れ里の　族長の家にいる
+オルゲンに会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419505" resname="飛竜に乗って&#10;奈落の門の先へ旅立とう。">
+        <source>Let's ride the flying dragon
+and set out beyond the Abyss
+Gate.</source>
+        <target state="needs-translation">Let's ride the flying dragon
+and set out beyond the Abyss
+Gate.</target>
+        <context-group purpose="information">
+          <context context-type="source">飛竜に乗って
+奈落の門の先へ旅立とう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419507" resname="アペカの村を出て&#10;赤熱の荒野の北にある&#10;ナドラガ神のほこらへ行こう。">
+        <source>Let's leave Apeka Village and
+go to the Nadraga God Shrine,
+north of the Red Hot Desert.</source>
+        <target state="needs-translation">Let's leave Apeka Village and
+go to the Nadraga God Shrine,
+north of the Red Hot Desert.</target>
+        <context-group purpose="information">
+          <context context-type="source">アペカの村を出て
+赤熱の荒野の北にある
+ナドラガ神のほこらへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419509" resname="ナドラガ神のほこらの祭壇に&#10;竜族式の祈りのしぐさで&#10;祈りを捧げよう。">
+        <source>Let us pray at the altar of the
+Nadraga God Shrine with the
+Dragon Prayer emote.</source>
+        <target state="needs-translation">Let us pray at the altar of the
+Nadraga God Shrine with the
+Dragon Prayer emote.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ神のほこらの祭壇に
+竜族式の祈りのしぐさで
+祈りを捧げよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419511" resname="アペカの村の宿屋で休もう。">
+        <source>Let's rest at the Inn in Apeka
+Village.</source>
+        <target state="needs-translation">Let's rest at the Inn in Apeka
+Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">アペカの村の宿屋で休もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419513" resname="アペカの村の　ギダの家に行き&#10;ギダの話を聞こう。">
+        <source>Let's go to Gida's house in
+Apeka Village and hear what
+Gida has to say.</source>
+        <target state="needs-translation">Let's go to Gida's house in
+Apeka Village and hear what
+Gida has to say.</target>
+        <context-group purpose="information">
+          <context context-type="source">アペカの村の　ギダの家に行き
+ギダの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419515" resname="赤熱の荒野の南にある&#10;炎樹の丘へ行こう。">
+        <source>Let's go to Firetree Hill,
+south of Red Hot Desert.</source>
+        <target state="needs-translation">Let's go to Firetree Hill,
+south of Red Hot Desert.</target>
+        <context-group purpose="information">
+          <context context-type="source">赤熱の荒野の南にある
+炎樹の丘へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419517" resname="赤熱の荒野の東にある&#10;煉獄の谷の魔炎鳥の巣へ行こう。">
+        <source>Let's go to Darkflame Nest in
+Hell Valley, East Desert of Red
+Hot Desert.</source>
+        <target state="needs-translation">Let's go to Darkflame Nest in
+Hell Valley, East Desert of Red
+Hot Desert.</target>
+        <context-group purpose="information">
+          <context context-type="source">赤熱の荒野の東にある
+煉獄の谷の魔炎鳥の巣へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419519" resname="煉獄の谷の魔炎鳥の巣にいる&#10;魔炎鳥を倒そう。">
+        <source>Defeat the Darkflame Nest in
+Hell Valley.</source>
+        <target state="needs-translation">Defeat the Darkflame Nest in
+Hell Valley.</target>
+        <context-group purpose="information">
+          <context context-type="source">煉獄の谷の魔炎鳥の巣にいる
+魔炎鳥を倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419521" resname="アペカの村へ戻ろう。">
+        <source>Let's go back to Apeka Village.</source>
+        <target state="needs-translation">Let's go back to Apeka Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">アペカの村へ戻ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419523" resname="赤熱の荒野の西にある&#10;聖都エジャルナへ行こう。">
+        <source>Let's go to the Holy City
+Ejarna, west of the Red Hot
+Desert.</source>
+        <target state="needs-translation">Let's go to the Holy City
+Ejarna, west of the Red Hot
+Desert.</target>
+        <context-group purpose="information">
+          <context context-type="source">赤熱の荒野の西にある
+聖都エジャルナへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419525" resname="聖都エジャルナにある&#10;ナドラガ教団大神殿へ行こう。">
+        <source>Let's go to the Nadraga Order
+Great Temple in the Holy City
+Ejarna.</source>
+        <target state="needs-translation">Let's go to the Nadraga Order
+Great Temple in the Holy City
+Ejarna.</target>
+        <context-group purpose="information">
+          <context context-type="source">聖都エジャルナにある
+ナドラガ教団大神殿へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419527" resname="ナドラガ教団大神殿の&#10;集会所へ行こう。">
+        <source>Let's go to the Clubhouse of
+the Nadraga Order Great Temple.</source>
+        <target state="needs-translation">Let's go to the Clubhouse of
+the Nadraga Order Great Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ教団大神殿の
+集会所へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419529" resname="ナドラガ教団大神殿の&#10;エステラの部屋へ行こう。">
+        <source>Let's go to Estella's Room in
+the Nadraga Order Great Temple.</source>
+        <target state="needs-translation">Let's go to Estella's Room in
+the Nadraga Order Great Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ教団大神殿の
+エステラの部屋へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419531" resname="聖都エジャルナの西門から出て&#10;烈火の渓谷にある&#10;マティルの村へ行こう。">
+        <source>Let's go out of the west gate
+of the Holy City Ejarna to the
+Matil Village in the [...]</source>
+        <target state="needs-translation">Let's go out of the west gate
+of the Holy City Ejarna to the
+Matil Village in the [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">聖都エジャルナの西門から出て
+烈火の渓谷にある
+マティルの村へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419533" resname="マティルの村の&#10;民家の２階へ行こう。">
+        <source>Let's go to House 2F in Matil
+Village.</source>
+        <target state="needs-translation">Let's go to House 2F in Matil
+Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">マティルの村の
+民家の２階へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419535" resname="マティルの村の北西にある&#10;フェザリアス山へ行こう。">
+        <source>Let's go to Fezarias Mountain,
+northwest of Matil Village.</source>
+        <target state="needs-translation">Let's go to Fezarias Mountain,
+northwest of Matil Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">マティルの村の北西にある
+フェザリアス山へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419537" resname="フェザリアス山　第２層にいる&#10;エルダーフレイムを倒そう。">
+        <source>Defeat Elder Flame in Level 2,
+Fezarias Mountain.</source>
+        <target state="needs-translation">Defeat Elder Flame in Level 2,
+Fezarias Mountain.</target>
+        <context-group purpose="information">
+          <context context-type="source">フェザリアス山　第２層にいる
+エルダーフレイムを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419539" resname="フェザリアス山の&#10;聖鳥の幽居へ行こう。">
+        <source>Let's go to Flamia's Refuge on
+Fezarias Mountain.</source>
+        <target state="needs-translation">Let's go to Flamia's Refuge on
+Fezarias Mountain.</target>
+        <context-group purpose="information">
+          <context context-type="source">フェザリアス山の
+聖鳥の幽居へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419541" resname="烈火の渓谷の南西にある&#10;業炎の聖塔へ行こう。">
+        <source>Let's go to the Fire Tower
+southwest of the Valley of
+Fire.</source>
+        <target state="needs-translation">Let's go to the Fire Tower
+southwest of the Valley of
+Fire.</target>
+        <context-group purpose="information">
+          <context context-type="source">烈火の渓谷の南西にある
+業炎の聖塔へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419543" resname="スイゼン湿原にある&#10;スイの塔へ行こう。">
+        <source>Let's go to Sui Tower in Suizen
+Marsh.</source>
+        <target state="needs-translation">Let's go to Sui Tower in Suizen
+Marsh.</target>
+        <context-group purpose="information">
+          <context context-type="source">スイゼン湿原にある
+スイの塔へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419545" resname="スイのやしろにある&#10;２つの土地神のやしろで&#10;おまいりのしぐさをしよう。">
+        <source>Let's make an emote of worship
+at the two Land Shrines in Sui
+Shrine.</source>
+        <target state="needs-translation">Let's make an emote of worship
+at the two Land Shrines in Sui
+Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">スイのやしろにある
+２つの土地神のやしろで
+おまいりのしぐさをしよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419547" resname="スイのやしろの&#10;銅鏡の舞台にある　５つの太鼓を&#10;教えられたとおりに鳴らそう。">
+        <source>Let's beat the five drums in
+the Bronze Mirror of Sui Shrine
+as instructed.</source>
+        <target state="needs-translation">Let's beat the five drums in
+the Bronze Mirror of Sui Shrine
+as instructed.</target>
+        <context-group purpose="information">
+          <context context-type="source">スイのやしろの
+銅鏡の舞台にある　５つの太鼓を
+教えられたとおりに鳴らそう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419549" resname="スイのやしろの&#10;銅鏡の舞台にある&#10;銅鏡を調べよう。">
+        <source>Check the bronze mirror in the
+Bronze Mirror at Sui Shrine.</source>
+        <target state="needs-translation">Check the bronze mirror in the
+Bronze Mirror at Sui Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">スイのやしろの
+銅鏡の舞台にある
+銅鏡を調べよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419551" resname="スイのやしろの　銅鏡の中にいる&#10;森羅蛮獣を倒そう。">
+        <source>Defeat Equistrion in the bronze
+mirror at Sui Shrine.</source>
+        <target state="needs-translation">Defeat Equistrion in the bronze
+mirror at Sui Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">スイのやしろの　銅鏡の中にいる
+森羅蛮獣を倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419553" resname="山間の関所にいる&#10;たづな職人のエヌカラに&#10;森羅蛮毛を届けよう。">
+        <source>Deliver Harsh Hair to Enkara, a
+Tazuna craftsman in Mountain
+Pass.</source>
+        <target state="needs-translation">Deliver Harsh Hair to Enkara, a
+Tazuna craftsman in Mountain
+Pass.</target>
+        <context-group purpose="information">
+          <context context-type="source">山間の関所にいる
+たづな職人のエヌカラに
+森羅蛮毛を届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419555" resname="天ツ風の原にある神獣の森で&#10;神獣アマカムシカを探そう。">
+        <source>Find God Beast Amazlantelope at
+Stormbough in Heavenly Field.</source>
+        <target state="needs-translation">Find God Beast Amazlantelope at
+Stormbough in Heavenly Field.</target>
+        <context-group purpose="information">
+          <context context-type="source">天ツ風の原にある神獣の森で
+神獣アマカムシカを探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419557" resname="神獣の森の上層にある&#10;静寂の泉へ行こう。">
+        <source>Let's go to Quiet Spring on the
+upper level of Stormbough.</source>
+        <target state="needs-translation">Let's go to Quiet Spring on the
+upper level of Stormbough.</target>
+        <context-group purpose="information">
+          <context context-type="source">神獣の森の上層にある
+静寂の泉へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419559" resname="神獣の森の　静寂の泉にいる&#10;巨竜樹タツノギを倒そう。">
+        <source>Defeat Tree Dragon Tatsunogi at
+Quiet Spring in Stormbough.</source>
+        <target state="needs-translation">Defeat Tree Dragon Tatsunogi at
+Quiet Spring in Stormbough.</target>
+        <context-group purpose="information">
+          <context context-type="source">神獣の森の　静寂の泉にいる
+巨竜樹タツノギを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419561" resname="天ツ風の原にある&#10;烈風の岬へ行こう。">
+        <source>Let's go to Cape Squall in
+Heavenly Field.</source>
+        <target state="needs-translation">Let's go to Cape Squall in
+Heavenly Field.</target>
+        <context-group purpose="information">
+          <context context-type="source">天ツ風の原にある
+烈風の岬へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419563" resname="天ツ風の原の北にある&#10;ナドラガ神のほこらへ行こう。">
+        <source>Let's go to Nadraga Shrine
+north of Heavenly Field.</source>
+        <target state="needs-translation">Let's go to Nadraga Shrine
+north of Heavenly Field.</target>
+        <context-group purpose="information">
+          <context context-type="source">天ツ風の原の北にある
+ナドラガ神のほこらへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419565" resname="ナドラガ神のほこらを&#10;抜けた先にある祭壇へ行こう。">
+        <source>Go to Altar, located just past
+the Nadraga Shrine.</source>
+        <target state="needs-translation">Go to Altar, located just past
+the Nadraga Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ神のほこらを
+抜けた先にある祭壇へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419567" resname="ナドラガ神のほこらの祭壇にいる&#10;激情の竜エステラを倒そう。">
+        <source>Defeat Passion Dragon Estella
+at Altar in Nadraga Shrine.</source>
+        <target state="needs-translation">Defeat Passion Dragon Estella
+at Altar in Nadraga Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ神のほこらの祭壇にいる
+激情の竜エステラを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419569" resname="地下のムストの町の&#10;会議室へ行こう。">
+        <source>Let's go to the Town of Must
+meeting room in the basement.</source>
+        <target state="needs-translation">Let's go to the Town of Must
+meeting room in the basement.</target>
+        <context-group purpose="information">
+          <context context-type="source">地下のムストの町の
+会議室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419571" resname="天ツ風の原の南東にいる&#10;ダークオルニスを倒して&#10;エレクトラムを手に入れよう。">
+        <source>Defeat Dark Buzzard southeast
+of Heavenly Field to get
+Electrum.</source>
+        <target state="needs-translation">Defeat Dark Buzzard southeast
+of Heavenly Field to get
+Electrum.</target>
+        <context-group purpose="information">
+          <context context-type="source">天ツ風の原の南東にいる
+ダークオルニスを倒して
+エレクトラムを手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419573" resname="地下のムストの町の&#10;集会所へ行こう。">
+        <source>Let's go to the assembly hall
+of Town of Must in the
+basement.</source>
+        <target state="needs-translation">Let's go to the assembly hall
+of Town of Must in the
+basement.</target>
+        <context-group purpose="information">
+          <context context-type="source">地下のムストの町の
+集会所へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419575" resname="地下のムストの町の&#10;集会所にいる&#10;剣士ヒューザを倒そう。">
+        <source>Defeat Swordsman Hyuza in the
+assembly hall of the
+underground Town of Must.</source>
+        <target state="needs-translation">Defeat Swordsman Hyuza in the
+assembly hall of the
+underground Town of Must.</target>
+        <context-group purpose="information">
+          <context context-type="source">地下のムストの町の
+集会所にいる
+剣士ヒューザを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419577" resname="ヒューザの後を追い&#10;地上のムストの町へ行こう。">
+        <source>Let's follow Hyuza to the Town
+of Must on the ground.</source>
+        <target state="needs-translation">Let's follow Hyuza to the Town
+of Must on the ground.</target>
+        <context-group purpose="information">
+          <context context-type="source">ヒューザの後を追い
+地上のムストの町へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419579" resname="迅雷の丘の北にある&#10;翠嵐の聖塔へ行こう。">
+        <source>Go to Storm Tower north of
+Thunder Hill.</source>
+        <target state="needs-translation">Go to Storm Tower north of
+Thunder Hill.</target>
+        <context-group purpose="information">
+          <context context-type="source">迅雷の丘の北にある
+翠嵐の聖塔へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419581" resname="翠嵐の聖塔に挑もう。">
+        <source>Take on Storm Tower.</source>
+        <target state="needs-translation">Take on Storm Tower.</target>
+        <context-group purpose="information">
+          <context context-type="source">翠嵐の聖塔に挑もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419583" resname="迅雷の丘の北東にいる&#10;ファラリスブルを倒そう。">
+        <source>Defeat the Brazen Bull
+northeast of Thunder Hill.</source>
+        <target state="needs-translation">Defeat the Brazen Bull
+northeast of Thunder Hill.</target>
+        <context-group purpose="information">
+          <context context-type="source">迅雷の丘の北東にいる
+ファラリスブルを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419585" resname="翠嵐の聖塔にいる&#10;サノジに報告しよう。">
+        <source>Report to Sanoji at Storm
+Tower.</source>
+        <target state="needs-translation">Report to Sanoji at Storm
+Tower.</target>
+        <context-group purpose="information">
+          <context context-type="source">翠嵐の聖塔にいる
+サノジに報告しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419587" resname="翠嵐の聖塔　解放の間へ行こう。">
+        <source>Let's go to Storm Tower
+Restoratory.</source>
+        <target state="needs-translation">Let's go to Storm Tower
+Restoratory.</target>
+        <context-group purpose="information">
+          <context context-type="source">翠嵐の聖塔　解放の間へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419589" resname="翠嵐の聖塔　解放の間にいる&#10;黒蛇鬼アクラガレナと&#10;嵐魔ウェンリルを倒そう。">
+        <source>Defeat Black Snake Akragarena
+and Storm Demon Wenrir at Storm
+Tower Restoratory.</source>
+        <target state="needs-translation">Defeat Black Snake Akragarena
+and Storm Demon Wenrir at Storm
+Tower Restoratory.</target>
+        <context-group purpose="information">
+          <context context-type="source">翠嵐の聖塔　解放の間にいる
+黒蛇鬼アクラガレナと
+嵐魔ウェンリルを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419591" resname="聖都エジャルナの&#10;ナドラガ教団大神殿へ行こう。">
+        <source>Let's go to Nadraga Order Great
+Temple in Holy City Ejarna.</source>
+        <target state="needs-translation">Let's go to Nadraga Order Great
+Temple in Holy City Ejarna.</target>
+        <context-group purpose="information">
+          <context context-type="source">聖都エジャルナの
+ナドラガ教団大神殿へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419593" resname="炎の領界の&#10;ナドラガ神のほこらにある&#10;祭祀場へ行こう。">
+        <source>Let's go to the ritual site at
+the Nadraga Shrine in the Fire
+Realm.</source>
+        <target state="needs-translation">Let's go to the ritual site at
+the Nadraga Shrine in the Fire
+Realm.</target>
+        <context-group purpose="information">
+          <context context-type="source">炎の領界の
+ナドラガ神のほこらにある
+祭祀場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419595" resname="氷の領界の&#10;ナドラガ神のほこらにある&#10;祭祀場へ行こう。">
+        <source>Go to the ritual site at the
+Nadraga Shrine in the Ice
+Realm.</source>
+        <target state="needs-translation">Go to the ritual site at the
+Nadraga Shrine in the Ice
+Realm.</target>
+        <context-group purpose="information">
+          <context context-type="source">氷の領界の
+ナドラガ神のほこらにある
+祭祀場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419597" resname="闇の領界の&#10;ナドラガ神のほこらにある&#10;祭祀場へ行こう。">
+        <source>Go to the Ritual Hall at
+Nadraga Shrine in the Dark
+Realm.</source>
+        <target state="needs-translation">Go to the Ritual Hall at
+Nadraga Shrine in the Dark
+Realm.</target>
+        <context-group purpose="information">
+          <context context-type="source">闇の領界の
+ナドラガ神のほこらにある
+祭祀場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419599" resname="水の領界の&#10;ナドラガ神のほこらにある&#10;祭祀場へ行こう。">
+        <source>Let's go to the ritual site at
+Nadraga Shrine in Water Realm.</source>
+        <target state="needs-translation">Let's go to the ritual site at
+Nadraga Shrine in Water Realm.</target>
+        <context-group purpose="information">
+          <context context-type="source">水の領界の
+ナドラガ神のほこらにある
+祭祀場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419601" resname="嵐の領界の&#10;ナドラガ神のほこらにある&#10;祭祀場へ行こう。">
+        <source>Go to the Ritual Hall at
+Nadraga Shrine in Storm Realm.</source>
+        <target state="needs-translation">Go to the Ritual Hall at
+Nadraga Shrine in Storm Realm.</target>
+        <context-group purpose="information">
+          <context context-type="source">嵐の領界の
+ナドラガ神のほこらにある
+祭祀場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419603" resname="地下のムストの町の&#10;騎士団の部屋にいる&#10;シンイと話そう。">
+        <source>Talk to Shini at Knight's
+Quarters in the underground
+Town of Must.</source>
+        <target state="needs-translation">Talk to Shini at Knight's
+Quarters in the underground
+Town of Must.</target>
+        <context-group purpose="information">
+          <context context-type="source">地下のムストの町の
+騎士団の部屋にいる
+シンイと話そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419605" resname="ナドラガ教団大神殿で&#10;総主教オルストフを探そう。">
+        <source>Find Patriarch Orstov at the
+Nadraga Order Great Temple.</source>
+        <target state="needs-translation">Find Patriarch Orstov at the
+Nadraga Order Great Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ教団大神殿で
+総主教オルストフを探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419607" resname="ナドラガ教団大神殿の地下にある&#10;幽遠の牢獄へ行こう。">
+        <source>Let's go to the Ghost Prison in
+the basement of the Nadraga
+Order Great Temple.</source>
+        <target state="needs-translation">Let's go to the Ghost Prison in
+the basement of the Nadraga
+Order Great Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ教団大神殿の地下にある
+幽遠の牢獄へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419609" resname="ナドラガ教団大神殿の&#10;幽遠の牢獄にいる&#10;逆乱の竜ナダイアを倒そう。">
+        <source>Defeat the Rebellion Dragon
+Nadaia in the Ghost Prison of
+the Nadraga Order Great Temple.</source>
+        <target state="needs-translation">Defeat the Rebellion Dragon
+Nadaia in the Ghost Prison of
+the Nadraga Order Great Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ教団大神殿の
+幽遠の牢獄にいる
+逆乱の竜ナダイアを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419611" resname="地下のムストの町の上層から&#10;地上の教会跡へ行こう。">
+        <source>Let's go to the church ruins
+from the upper level of the
+underground Town of Must.</source>
+        <target state="needs-translation">Let's go to the church ruins
+from the upper level of the
+underground Town of Must.</target>
+        <context-group purpose="information">
+          <context context-type="source">地下のムストの町の上層から
+地上の教会跡へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419613" resname="いざないの間の　旅の扉から&#10;神墟ナドラグラムへ行こう。">
+        <source>Let's go to Nadragram Shrine
+from the teleportal of Hall of
+Invitation.</source>
+        <target state="needs-translation">Let's go to Nadragram Shrine
+from the teleportal of Hall of
+Invitation.</target>
+        <context-group purpose="information">
+          <context context-type="source">いざないの間の　旅の扉から
+神墟ナドラグラムへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419615" resname="神墟ナドラグラムの&#10;調停の祭壇へ行こう。">
+        <source>Let's go to the Mediation Altar
+at Nadragram Shrine.</source>
+        <target state="needs-translation">Let's go to the Mediation Altar
+at Nadragram Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">神墟ナドラグラムの
+調停の祭壇へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419617" resname="神墟ナドラグラムの&#10;調停の祭壇にいる&#10;祭司ドラガンに話しかけよう。">
+        <source>Talk to the priest Dragan at
+the Mediation Altar of the
+Nadragram Shrine.</source>
+        <target state="needs-translation">Talk to the priest Dragan at
+the Mediation Altar of the
+Nadragram Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">神墟ナドラグラムの
+調停の祭壇にいる
+祭司ドラガンに話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419619" resname="神墟ナドラグラムの&#10;調停の祭壇で&#10;竜族式の祈りのしぐさをしよう。">
+        <source>Let's emote Dragon Prayer at
+the Mediation Altar of
+Nadragram Shrine.</source>
+        <target state="needs-translation">Let's emote Dragon Prayer at
+the Mediation Altar of
+Nadragram Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">神墟ナドラグラムの
+調停の祭壇で
+竜族式の祈りのしぐさをしよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419621" resname="神墟ナドラグラムの&#10;最奥にある&#10;竜神の柩へ行こう。">
+        <source>Go to the Divine Dragon's
+Coffin at the far end of
+Nadragram Shrine.</source>
+        <target state="needs-translation">Go to the Divine Dragon's
+Coffin at the far end of
+Nadragram Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">神墟ナドラグラムの
+最奥にある
+竜神の柩へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419623" resname="神墟ナドラグラムの&#10;竜神の柩にいる&#10;邪竜教祖オルストフを倒そう。">
+        <source>Defeat Evil Dragon Guru Orstov
+at Divine Dragon's Coffin in
+Nadragram Shrine.</source>
+        <target state="needs-translation">Defeat Evil Dragon Guru Orstov
+at Divine Dragon's Coffin in
+Nadragram Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">神墟ナドラグラムの
+竜神の柩にいる
+邪竜教祖オルストフを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419625" resname="神墟ナドラグラムに&#10;グランゼニスが遺した&#10;断罪の剣のもとへ行こう。">
+        <source>Let's go to the Nadragram
+Shrine to the Sword of Sin left
+by Gran Zenith.</source>
+        <target state="needs-translation">Let's go to the Nadragram
+Shrine to the Sword of Sin left
+by Gran Zenith.</target>
+        <context-group purpose="information">
+          <context context-type="source">神墟ナドラグラムに
+グランゼニスが遺した
+断罪の剣のもとへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419627" resname="竜神の世界の&#10;最深部を目指そう。">
+        <source>Aim for the depths of Within
+Nadraga.</source>
+        <target state="needs-translation">Aim for the depths of Within
+Nadraga.</target>
+        <context-group purpose="information">
+          <context context-type="source">竜神の世界の
+最深部を目指そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419629" resname="大神殿の中庭にいる&#10;皆に話しかけよう。">
+        <source>Talk to everyone in the Great
+Temple courtyard.</source>
+        <target state="needs-translation">Talk to everyone in the Great
+Temple courtyard.</target>
+        <context-group purpose="information">
+          <context context-type="source">大神殿の中庭にいる
+皆に話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419631" resname="ホーローからの手紙が届いたら&#10;手紙を読んで&#10;ホーローの指示に従おう。">
+        <source>When you receive a letter from
+Hollow, read the letter and
+follow Hollow's instructions.</source>
+        <target state="needs-translation">When you receive a letter from
+Hollow, read the letter and
+follow Hollow's instructions.</target>
+        <context-group purpose="information">
+          <context context-type="source">ホーローからの手紙が届いたら
+手紙を読んで
+ホーローの指示に従おう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419633" resname="物置にあるベッドで休もう。">
+        <source>Rest on the bed in the storage
+room.</source>
+        <target state="needs-translation">Rest on the bed in the storage
+room.</target>
+        <context-group purpose="information">
+          <context context-type="source">物置にあるベッドで休もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419635" resname="ドミネウス邸３階にある&#10;クオードの部屋で&#10;銀色の箱を探そう。">
+        <source>Find the Silver Box in Quard's
+room on the 3rd floor of
+Domineus Mansion.</source>
+        <target state="needs-translation">Find the Silver Box in Quard's
+room on the 3rd floor of
+Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸３階にある
+クオードの部屋で
+銀色の箱を探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419637" resname="ドミネウス邸１階にいる&#10;執事ジェリナンの話を聞こう。">
+        <source>Let's talk to Gelinan, the
+butler on the first floor of
+Domineus Mansion.</source>
+        <target state="needs-translation">Let's talk to Gelinan, the
+butler on the first floor of
+Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸１階にいる
+執事ジェリナンの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419639" resname="ドミネウス邸３階の&#10;テラスの前にいる&#10;侍女ハーミィの話を聞こう。">
+        <source>Let's listen to Hermy, an aide-
+de-camp in front of the terrace
+on the third floor of [...]</source>
+        <target state="needs-translation">Let's listen to Hermy, an aide-
+de-camp in front of the terrace
+on the third floor of [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸３階の
+テラスの前にいる
+侍女ハーミィの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419641" resname="ドミネウス邸３階の&#10;侍女たちの部屋にいる&#10;侍女ポーラの話を聞こう。">
+        <source>Let's listen to Paula, an aide-
+de-camp on the third floor of
+Domineus Mansion, in the [...]</source>
+        <target state="needs-translation">Let's listen to Paula, an aide-
+de-camp on the third floor of
+Domineus Mansion, in the [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸３階の
+侍女たちの部屋にいる
+侍女ポーラの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419643" resname="ドミネウス邸２階にある&#10;客間へ行き　銀色の箱を探そう。">
+        <source>Go to the parlor on the second
+floor of Domineus Mansion and
+look for the Silver Box.</source>
+        <target state="needs-translation">Go to the parlor on the second
+floor of Domineus Mansion and
+look for the Silver Box.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸２階にある
+客間へ行き　銀色の箱を探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419645" resname="ドミネウス邸３階にある&#10;テラスへ行こう。">
+        <source>Let's go to the terrace on the
+3rd floor of Domineus Mansion.</source>
+        <target state="needs-translation">Let's go to the terrace on the
+3rd floor of Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸３階にある
+テラスへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419647" resname="真グランゼドーラ城２階にある&#10;賢者の執務室へ行こう。">
+        <source>true Let's go to Sage's office
+on the 2nd floor of Gran Zedora
+Castle.</source>
+        <target state="needs-translation">true Let's go to Sage's office
+on the 2nd floor of Gran Zedora
+Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城２階にある
+賢者の執務室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419649" resname="真のエテーネの島の&#10;スレア海岸にいる　錬金術師&#10;イッショウの話を聞こう。">
+        <source>Listen to Issho the alchemist
+at Surea Coast on the True
+Island of Ethene.</source>
+        <target state="needs-translation">Listen to Issho the alchemist
+at Surea Coast on the True
+Island of Ethene.</target>
+        <context-group purpose="information">
+          <context context-type="source">真のエテーネの島の
+スレア海岸にいる　錬金術師
+イッショウの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419651" resname="サザミレ草原の西にある&#10;ポルネア山へ行き&#10;シルバーデビルを倒そう。">
+        <source>Go to Polnea Mountain west of
+Sazamire Prairie and defeat
+Silvapithecus.</source>
+        <target state="needs-translation">Go to Polnea Mountain west of
+Sazamire Prairie and defeat
+Silvapithecus.</target>
+        <context-group purpose="information">
+          <context context-type="source">サザミレ草原の西にある
+ポルネア山へ行き
+シルバーデビルを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419653" resname="スレア海岸にいる&#10;イッショウに&#10;紫の封石を届けよう。">
+        <source>Deliver Purple Stone to Issho
+in Surea Coast.</source>
+        <target state="needs-translation">Deliver Purple Stone to Issho
+in Surea Coast.</target>
+        <context-group purpose="information">
+          <context context-type="source">スレア海岸にいる
+イッショウに
+紫の封石を届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419655" resname="スレア海岸にある&#10;紫のほこらへ行こう。">
+        <source>Let's go to Purple Shrine in
+Surea Coast.</source>
+        <target state="needs-translation">Let's go to Purple Shrine in
+Surea Coast.</target>
+        <context-group purpose="information">
+          <context context-type="source">スレア海岸にある
+紫のほこらへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419657" resname="スレア海岸の&#10;紫のほこらにいる&#10;スライムエネルゴンを倒そう。">
+        <source>Defeat Energon Slime at Purple
+Shrine in Surea Coast.</source>
+        <target state="needs-translation">Defeat Energon Slime at Purple
+Shrine in Surea Coast.</target>
+        <context-group purpose="information">
+          <context context-type="source">スレア海岸の
+紫のほこらにいる
+スライムエネルゴンを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419659" resname="真グランゼドーラ城の&#10;賢者の執務室にいる&#10;賢者ルシェンダに報告しよう。">
+        <source>Report to Sage Lushenda at
+Sage's office in true Gran
+Zedora Castle.</source>
+        <target state="needs-translation">Report to Sage Lushenda at
+Sage's office in true Gran
+Zedora Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城の
+賢者の執務室にいる
+賢者ルシェンダに報告しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419661" resname="廃墟のドミネウス邸から&#10;外に出よう。">
+        <source>Let's get out of Abandoned
+Domineus Mansion.</source>
+        <target state="needs-translation">Let's get out of Abandoned
+Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">廃墟のドミネウス邸から
+外に出よう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419663" resname="バントリユ地方の東にある&#10;辺境警備隊詰所を目指そう。">
+        <source>Aim for the Frontier Guard Post
+located east of Bantryu Region.</source>
+        <target state="needs-translation">Aim for the Frontier Guard Post
+located east of Bantryu Region.</target>
+        <context-group purpose="information">
+          <context context-type="source">バントリユ地方の東にある
+辺境警備隊詰所を目指そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419665" resname="辺境警備隊詰所にある&#10;警備隊本部へ行こう。">
+        <source>Go to the guard's office at the
+Frontier Guard Post.</source>
+        <target state="needs-translation">Go to the guard's office at the
+Frontier Guard Post.</target>
+        <context-group purpose="information">
+          <context context-type="source">辺境警備隊詰所にある
+警備隊本部へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419667" resname="バントリユ地方の西にある&#10;辺境のほら穴へ行こう。">
+        <source>Let's go to Frontier Den, west
+of Bantryu Region.</source>
+        <target state="needs-translation">Let's go to Frontier Den, west
+of Bantryu Region.</target>
+        <context-group purpose="information">
+          <context context-type="source">バントリユ地方の西にある
+辺境のほら穴へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419669" resname="バントリユ地方の&#10;辺境のほら穴にいる&#10;異形獣を倒そう。">
+        <source>Defeat Hexabeast in Frontier
+Den, Bantryu Region.</source>
+        <target state="needs-translation">Defeat Hexabeast in Frontier
+Den, Bantryu Region.</target>
+        <context-group purpose="information">
+          <context context-type="source">バントリユ地方の
+辺境のほら穴にいる
+異形獣を倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419671" resname="辺境警備隊詰所にいる&#10;ラゴウ隊長に&#10;異形獣のツノを届けよう。">
+        <source>Deliver the Hexabeast Horn to
+Commander Lago at the Frontier
+Guard Post.</source>
+        <target state="needs-translation">Deliver the Hexabeast Horn to
+Commander Lago at the Frontier
+Guard Post.</target>
+        <context-group purpose="information">
+          <context context-type="source">辺境警備隊詰所にいる
+ラゴウ隊長に
+異形獣のツノを届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419673" resname="エテーネ王国領にある&#10;王都キィンベルを目指そう">
+        <source>Located in Ethene Kingdom Area
+Aim for Royal City Kimbel</source>
+        <target state="needs-translation">Located in Ethene Kingdom Area
+Aim for Royal City Kimbel</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王国領にある
+王都キィンベルを目指そう</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419675" resname="王都キィンベルの北にある&#10;王国軍区画へ行こう。">
+        <source>Let's go to Royal Army Ward,
+north of Royal City Kimbel.</source>
+        <target state="needs-translation">Let's go to Royal Army Ward,
+north of Royal City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの北にある
+王国軍区画へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419677" resname="王都キィンベルの宿屋へ行こう。">
+        <source>Let's go to the innkeeper in
+Royal City Kimbel.</source>
+        <target state="needs-translation">Let's go to the innkeeper in
+Royal City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの宿屋へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419679" resname="王都キィンベルの&#10;宿屋の奥にある　酒場へ行こう。">
+        <source>Let's go to the tavern at the
+back of the inn in Royal City
+Kimbel.</source>
+        <target state="needs-translation">Let's go to the tavern at the
+back of the inn in Royal City
+Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの
+宿屋の奥にある　酒場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419681" resname="王都キィンベルの東にある&#10;ゼフの店へ行こう。">
+        <source>Go to Zef's Shop east of Royal
+City Kimbel.</source>
+        <target state="needs-translation">Go to Zef's Shop east of Royal
+City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの東にある
+ゼフの店へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419683" resname="ゼフの店にいる&#10;リンカの話を聞いてみよう。">
+        <source>Let's hear what Linka at Zef's
+Shop has to say.</source>
+        <target state="needs-translation">Let's hear what Linka at Zef's
+Shop has to say.</target>
+        <context-group purpose="information">
+          <context context-type="source">ゼフの店にいる
+リンカの話を聞いてみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419685" resname="王都キィンベルにある&#10;雑貨屋へ行こう。">
+        <source>Let's go to the Shop in Royal
+City Kimbel.</source>
+        <target state="needs-translation">Let's go to the Shop in Royal
+City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルにある
+雑貨屋へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419687" resname="バントリユ地方で&#10;５株の　ネジガラミの根を&#10;手に入れよう。">
+        <source>Get 5 plants of screw louse
+root in Bantryu Region.</source>
+        <target state="needs-translation">Get 5 plants of screw louse
+root in Bantryu Region.</target>
+        <context-group purpose="information">
+          <context context-type="source">バントリユ地方で
+５株の　ネジガラミの根を
+手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419689" resname="王都キィンベルの&#10;雑貨屋にいる　ブルーノーに&#10;ネジガラミの根を届けよう。">
+        <source>Deliver screw louse root to
+Brunoe at the Royal City Kimbel
+Shop.</source>
+        <target state="needs-translation">Deliver screw louse root to
+Brunoe at the Royal City Kimbel
+Shop.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの
+雑貨屋にいる　ブルーノーに
+ネジガラミの根を届けよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419691" resname="王都キィンベルにある&#10;ゼフの店へ行こう。">
+        <source>Go to Zef's Shop in Royal City
+Kimbel.</source>
+        <target state="needs-translation">Go to Zef's Shop in Royal City
+Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルにある
+ゼフの店へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419693" resname="ゼフの店の２階にいる&#10;シャンテに会いにいこう。">
+        <source>Meet Shante on the 2nd floor of
+Zef's Shop.</source>
+        <target state="needs-translation">Meet Shante on the 2nd floor of
+Zef's Shop.</target>
+        <context-group purpose="information">
+          <context context-type="source">ゼフの店の２階にいる
+シャンテに会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419695" resname="エテーネ王国領の南西にある&#10;ラウラリエの丘へ行こう。">
+        <source>Let's go to Laurarie Hill,
+southwest of Ethene Kingdom
+Area.</source>
+        <target state="needs-translation">Let's go to Laurarie Hill,
+southwest of Ethene Kingdom
+Area.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王国領の南西にある
+ラウラリエの丘へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419697" resname="ラウラリエの丘にいる&#10;フローラルダンディを倒そう。">
+        <source>Defeat Floral Dandy in Laurarie
+Hill.</source>
+        <target state="needs-translation">Defeat Floral Dandy in Laurarie
+Hill.</target>
+        <context-group purpose="information">
+          <context context-type="source">ラウラリエの丘にいる
+フローラルダンディを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419699" resname="ラウラリエの丘の奥へ進もう。">
+        <source>Let's proceed to the back of
+Laurarie Hill.</source>
+        <target state="needs-translation">Let's proceed to the back of
+Laurarie Hill.</target>
+        <context-group purpose="information">
+          <context context-type="source">ラウラリエの丘の奥へ進もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419701" resname="王都キィンベルの&#10;ゼフの店に戻ろう。">
+        <source>Let's go back to Zef's Shop in
+Royal City Kimbel.</source>
+        <target state="needs-translation">Let's go back to Zef's Shop in
+Royal City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの
+ゼフの店に戻ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419703" resname="エテーネ王国領の南東にある&#10;残響の海蝕洞へ向かった&#10;シャンテを追いかけよう。">
+        <source>Follow Shante to the Echoing
+Sea Cave southeast of the
+Ethene Kingdom Area.</source>
+        <target state="needs-translation">Follow Shante to the Echoing
+Sea Cave southeast of the
+Ethene Kingdom Area.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王国領の南東にある
+残響の海蝕洞へ向かった
+シャンテを追いかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419705" resname="残響の海蝕洞の奥へ向かった&#10;シャンテを追いかけよう。">
+        <source>Follow Shante as he heads
+deeper into the Echoing Sea
+Cave.</source>
+        <target state="needs-translation">Follow Shante as he heads
+deeper into the Echoing Sea
+Cave.</target>
+        <context-group purpose="information">
+          <context context-type="source">残響の海蝕洞の奥へ向かった
+シャンテを追いかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419707" resname="残響の海蝕洞の廃棄場にいる&#10;異形獣・狂を倒そう。">
+        <source>Defeat the Hexabeast Madness in
+the disposal of Echoing Sea
+Cave.</source>
+        <target state="needs-translation">Defeat the Hexabeast Madness in
+the disposal of Echoing Sea
+Cave.</target>
+        <context-group purpose="information">
+          <context context-type="source">残響の海蝕洞の廃棄場にいる
+異形獣・狂を倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419709" resname="王国軍区画にある&#10;王国軍司令部へ行こう。">
+        <source>Let's go to Royal Army
+Headquarters in Royal Army
+Ward.</source>
+        <target state="needs-translation">Let's go to Royal Army
+Headquarters in Royal Army
+Ward.</target>
+        <context-group purpose="information">
+          <context context-type="source">王国軍区画にある
+王国軍司令部へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419711" resname="王国軍司令部の軍団長室にいる&#10;クオードに会いにいこう。">
+        <source>Let's go see Quard at the
+commander's office at Royal
+Army Headquarters.</source>
+        <target state="needs-translation">Let's go see Quard at the
+commander's office at Royal
+Army Headquarters.</target>
+        <context-group purpose="information">
+          <context context-type="source">王国軍司令部の軍団長室にいる
+クオードに会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419713" resname="王国軍区画にある&#10;転送の門へ行こう。">
+        <source>Let's go to Relay Gate in Royal
+Army Ward.</source>
+        <target state="needs-translation">Let's go to Relay Gate in Royal
+Army Ward.</target>
+        <context-group purpose="information">
+          <context context-type="source">王国軍区画にある
+転送の門へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419715" resname="王都キィンベルの北東にある&#10;ディアンジの家へ行こう。">
+        <source>Let's go to Dianji's house
+located northeast of Royal City
+Kimbel.</source>
+        <target state="needs-translation">Let's go to Dianji's house
+located northeast of Royal City
+Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの北東にある
+ディアンジの家へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419717" resname="王都キィンベルの北東から&#10;ティプローネ高地にある&#10;星落ちる谷を目指そう。">
+        <source>From northeast of Royal City
+Kimbel, head for Starfall
+Valley in the Tiplone [...]</source>
+        <target state="needs-translation">From northeast of Royal City
+Kimbel, head for Starfall
+Valley in the Tiplone [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの北東から
+ティプローネ高地にある
+星落ちる谷を目指そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419719" resname="ティプローネ高地の北にある&#10;星落ちる谷を目指そう。">
+        <source>Go to Starfall Valley, north of
+Tiplone Highlands.</source>
+        <target state="needs-translation">Go to Starfall Valley, north of
+Tiplone Highlands.</target>
+        <context-group purpose="information">
+          <context context-type="source">ティプローネ高地の北にある
+星落ちる谷を目指そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419721" resname="ティプローネ高地の&#10;星落ちる谷にいる&#10;スパーキーを倒そう。">
+        <source>Defeat Sparky in Starfall
+Valley, Tiplone Highlands.</source>
+        <target state="needs-translation">Defeat Sparky in Starfall
+Valley, Tiplone Highlands.</target>
+        <context-group purpose="information">
+          <context context-type="source">ティプローネ高地の
+星落ちる谷にいる
+スパーキーを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419723" resname="王都キィンベルにある&#10;ディアンジの家に戻ろう。">
+        <source>Let's go back to Dianji's house
+in Royal City Kimbel.</source>
+        <target state="needs-translation">Let's go back to Dianji's house
+in Royal City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルにある
+ディアンジの家に戻ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419725" resname="部屋を出ていった&#10;クオードを追いかけよう。">
+        <source>Let's go after Quard who left
+the room.</source>
+        <target state="needs-translation">Let's go after Quard who left
+the room.</target>
+        <context-group purpose="information">
+          <context context-type="source">部屋を出ていった
+クオードを追いかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419727" resname="ドミネウス邸の中にある&#10;クオードの手荷物を探そう。">
+        <source>Look for Quard's baggage in
+Domineus Mansion.</source>
+        <target state="needs-translation">Look for Quard's baggage in
+Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸の中にある
+クオードの手荷物を探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419729" resname="ドミネウス邸の空き部屋にある&#10;燭台を　動かしてみよう。">
+        <source>Let's move the candelabrum in
+the dominant room of Domineus
+Mansion.</source>
+        <target state="needs-translation">Let's move the candelabrum in
+the dominant room of Domineus
+Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸の空き部屋にある
+燭台を　動かしてみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419731" resname="ドミネウス邸の隠し扉の先にある&#10;荷物を調べよう。">
+        <source>Check the luggage at the hidden
+door of Domineus Mansion.</source>
+        <target state="needs-translation">Check the luggage at the hidden
+door of Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸の隠し扉の先にある
+荷物を調べよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419733" resname="ドミネウス邸にいる&#10;怪しい人物に&#10;星華のライトを当ててみよう。">
+        <source>Try to shine Starflower Light
+on a suspicious person in
+Domineus Mansion.</source>
+        <target state="needs-translation">Try to shine Starflower Light
+on a suspicious person in
+Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸にいる
+怪しい人物に
+星華のライトを当ててみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419735" resname="ドミネウス邸の食堂で&#10;さっきまでと違う&#10;違和感を探してみよう。">
+        <source>Let's look for something
+different in the dining room of
+Domineus Mansion.</source>
+        <target state="needs-translation">Let's look for something
+different in the dining room of
+Domineus Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">ドミネウス邸の食堂で
+さっきまでと違う
+違和感を探してみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419737" resname="イル・ラビリンスにいる&#10;魔物を探そう。">
+        <source>Find the monster in Il Maze.</source>
+        <target state="needs-translation">Find the monster in Il Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスにいる
+魔物を探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419739" resname="イル・ラビリンスの中にある&#10;チェスのコマを探そう。">
+        <source>Find the chess pieces in Il
+Maze.</source>
+        <target state="needs-translation">Find the chess pieces in Il
+Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスの中にある
+チェスのコマを探そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419741" resname="イル・ラビリンスの&#10;宵の食堂にいる　メレアーデに&#10;チェスのコマを渡そう。">
+        <source>Give the chess board to Mereade
+in the night dining room of Il
+Maze.</source>
+        <target state="needs-translation">Give the chess board to Mereade
+in the night dining room of Il
+Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスの
+宵の食堂にいる　メレアーデに
+チェスのコマを渡そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419743" resname="イル・ラビリンスの&#10;宵の食堂にいる&#10;チェックメイツを倒そう。">
+        <source>Defeat the checkmates in the
+night dining room of Il Maze.</source>
+        <target state="needs-translation">Defeat the checkmates in the
+night dining room of Il Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスの
+宵の食堂にいる
+チェックメイツを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419745" resname="イル・ラビリンスの&#10;宵の食堂にいる&#10;メレアーデに話しかけよう。">
+        <source>Talk to Mereade in the night
+dining room at Il Maze.</source>
+        <target state="needs-translation">Talk to Mereade in the night
+dining room at Il Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスの
+宵の食堂にいる
+メレアーデに話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419747" resname="イル・ラビリンスの&#10;宵の食堂に出現した&#10;扉の先へ進もう。">
+        <source>Let's go through the door that
+appeared in the night dining
+room of Il Maze.</source>
+        <target state="needs-translation">Let's go through the door that
+appeared in the night dining
+room of Il Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスの
+宵の食堂に出現した
+扉の先へ進もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419749" resname="イル・ラビリンスの&#10;宵の食堂の　扉の先にいる&#10;影魔レイミリアを倒そう。">
+        <source>Defeat Shadow Demon Remilia at
+the door of the night dining
+room in Il Maze.</source>
+        <target state="needs-translation">Defeat Shadow Demon Remilia at
+the door of the night dining
+room in Il Maze.</target>
+        <context-group purpose="information">
+          <context context-type="source">イル・ラビリンスの
+宵の食堂の　扉の先にいる
+影魔レイミリアを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419751" resname="王都キィンベル　王国軍区画の&#10;王国軍司令部　２階にある&#10;軍団長室へ行こう。">
+        <source>Let's go to the commander's
+office on the 2nd floor of
+Royal Army Headquarters [...]</source>
+        <target state="needs-translation">Let's go to the commander's
+office on the 2nd floor of
+Royal Army Headquarters [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベル　王国軍区画の
+王国軍司令部　２階にある
+軍団長室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419753" resname="エテーネ王宮２階にある&#10;玉座の間へ行こう。">
+        <source>Let's go to the throne room on
+the 2nd floor of Ethene Royal
+Manor.</source>
+        <target state="needs-translation">Let's go to the throne room on
+the 2nd floor of Ethene Royal
+Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮２階にある
+玉座の間へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419755" resname="エテーネ王宮２階にある&#10;王族の居室へ行こう。">
+        <source>Let's go to the royal living
+room on the 2nd floor of Ethene
+Royal Manor.</source>
+        <target state="needs-translation">Let's go to the royal living
+room on the 2nd floor of Ethene
+Royal Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮２階にある
+王族の居室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419757" resname="エテーネ王宮１階にある&#10;転送の門へ行こう。">
+        <source>Go to Relay Gate on the 1st
+floor of Ethene Royal Manor.</source>
+        <target state="needs-translation">Go to Relay Gate on the 1st
+floor of Ethene Royal Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮１階にある
+転送の門へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419759" resname="パドレア邸の中に入ろう。">
+        <source>Let's go inside Padrea Mansion.</source>
+        <target state="needs-translation">Let's go inside Padrea Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">パドレア邸の中に入ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419761" resname="パドレア邸の奥へ進もう。">
+        <source>Let's proceed to the back of
+Padrea Mansion.</source>
+        <target state="needs-translation">Let's proceed to the back of
+Padrea Mansion.</target>
+        <context-group purpose="information">
+          <context context-type="source">パドレア邸の奥へ進もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419763" resname="エテーネ王宮２階にある&#10;テラスへ行こう。">
+        <source>Let's go to the terrace on the
+2nd floor of Ethene Royal
+Manor.</source>
+        <target state="needs-translation">Let's go to the terrace on the
+2nd floor of Ethene Royal
+Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮２階にある
+テラスへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419765" resname="エテーネ王宮１階にある&#10;転送の門を使って&#10;王都キィンベルへ行こう。">
+        <source>Use the Relay Gate on the 1st
+floor of Ethene Royal Manor to
+get to Royal City Kimbel.</source>
+        <target state="needs-translation">Use the Relay Gate on the 1st
+floor of Ethene Royal Manor to
+get to Royal City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮１階にある
+転送の門を使って
+王都キィンベルへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419767" resname="王都キィンベルの北西にある&#10;ヨンゲ所長の家を調べよう。">
+        <source>Check out Director Yong's house
+northwest of Royal City Kimbel.</source>
+        <target state="needs-translation">Check out Director Yong's house
+northwest of Royal City Kimbel.</target>
+        <context-group purpose="information">
+          <context context-type="source">王都キィンベルの北西にある
+ヨンゲ所長の家を調べよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419769" resname="ティプローネ高地の東にある&#10;自由人の集落を目指そう。">
+        <source>Aim for Freedom Village,
+located east of Tiplone
+Highlands.</source>
+        <target state="needs-translation">Aim for Freedom Village,
+located east of Tiplone
+Highlands.</target>
+        <context-group purpose="information">
+          <context context-type="source">ティプローネ高地の東にある
+自由人の集落を目指そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419771" resname="自由人の集落にいる&#10;ワグミカの話を聞こう。">
+        <source>Listen to Wagmika at Freedom
+Village.</source>
+        <target state="needs-translation">Listen to Wagmika at Freedom
+Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">自由人の集落にいる
+ワグミカの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419773" resname="ワグミカの家から出ていこう。">
+        <source>Let's leave Wagmika's house.</source>
+        <target state="needs-translation">Let's leave Wagmika's house.</target>
+        <context-group purpose="information">
+          <context context-type="source">ワグミカの家から出ていこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419775" resname="ワグミカの家にある宝箱から&#10;秘密の取っ手を　手に入れよう。">
+        <source>Get the Secret Handles from the
+treasure chest in Wagmika's
+house.</source>
+        <target state="needs-translation">Get the Secret Handles from the
+treasure chest in Wagmika's
+house.</target>
+        <context-group purpose="information">
+          <context context-type="source">ワグミカの家にある宝箱から
+秘密の取っ手を　手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419777" resname="ヨンゲ所長の家２階にある&#10;タンスを調べ　暗証番号&#10;『０５２７』を入力しよう。">
+        <source>Check the Wardrobe on the
+second floor of Director Yong's
+house and enter the [...]</source>
+        <target state="needs-translation">Check the Wardrobe on the
+second floor of Director Yong's
+house and enter the [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">ヨンゲ所長の家２階にある
+タンスを調べ　暗証番号
+『０５２７』を入力しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419779" resname="ヨンゲ所長の家１階にいる&#10;家政婦ママルボンの話を聞こう。">
+        <source>Let's listen to Mamarbon, the
+housekeeper on the first floor
+of Director Yong's house.</source>
+        <target state="needs-translation">Let's listen to Mamarbon, the
+housekeeper on the first floor
+of Director Yong's house.</target>
+        <context-group purpose="information">
+          <context context-type="source">ヨンゲ所長の家１階にいる
+家政婦ママルボンの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419781" resname="宿屋の奥の酒場にいる&#10;酒場のマスター　ギャラスから&#10;踊り子について聞いてみよう。">
+        <source>Ask tavern master Gallas,
+located in the tavern behind
+the inn, about dancers.</source>
+        <target state="needs-translation">Ask tavern master Gallas,
+located in the tavern behind
+the inn, about dancers.</target>
+        <context-group purpose="information">
+          <context context-type="source">宿屋の奥の酒場にいる
+酒場のマスター　ギャラスから
+踊り子について聞いてみよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419783" resname="ギャラスのヒントに従い&#10;暗証番号につながる情報を&#10;集めよう。">
+        <source>Follow Gallas's hints to gather
+information that will lead to
+the PIN.</source>
+        <target state="needs-translation">Follow Gallas's hints to gather
+information that will lead to
+the PIN.</target>
+        <context-group purpose="information">
+          <context context-type="source">ギャラスのヒントに従い
+暗証番号につながる情報を
+集めよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419785" resname="暗証番号を推理して&#10;ヨンゲ所長の家２階にある&#10;タンスに入力しよう。">
+        <source>Guess the PIN number and enter
+it in the Wardrobe on the
+second floor of Director [...]</source>
+        <target state="needs-translation">Guess the PIN number and enter
+it in the Wardrobe on the
+second floor of Director [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">暗証番号を推理して
+ヨンゲ所長の家２階にある
+タンスに入力しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419787" resname="王立アルケミアの奥へ進もう。">
+        <source>Let's go to the back of Royal
+Alchemia.</source>
+        <target state="needs-translation">Let's go to the back of Royal
+Alchemia.</target>
+        <context-group purpose="information">
+          <context context-type="source">王立アルケミアの奥へ進もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419789" resname="王立アルケミア　地下１階の&#10;最終処分場にいる&#10;ヘルゲゴーグ・烈を倒そう。">
+        <source>Defeat Fierce Helgegog at the
+landfill site on the first
+basement floor of Royal [...]</source>
+        <target state="needs-translation">Defeat Fierce Helgegog at the
+landfill site on the first
+basement floor of Royal [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">王立アルケミア　地下１階の
+最終処分場にいる
+ヘルゲゴーグ・烈を倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419791" resname="王立アルケミア１階から&#10;先進研究区画に入ろう。">
+        <source>Enter the advanced research
+area from the first floor of
+Royal Alchemia.</source>
+        <target state="needs-translation">Enter the advanced research
+area from the first floor of
+Royal Alchemia.</target>
+        <context-group purpose="information">
+          <context context-type="source">王立アルケミア１階から
+先進研究区画に入ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419793" resname="王立アルケミア１階から&#10;先進研究区画に入り&#10;機密研究室を調べよう。">
+        <source>Enter the advanced research
+area from the first floor of
+Royal Alchemia and check [...]</source>
+        <target state="needs-translation">Enter the advanced research
+area from the first floor of
+Royal Alchemia and check [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">王立アルケミア１階から
+先進研究区画に入り
+機密研究室を調べよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419795" resname="エテーネ王宮の&#10;王族の居室へ行こう。">
+        <source>Let's go to the royal living
+room of Ethene Royal Manor.</source>
+        <target state="needs-translation">Let's go to the royal living
+room of Ethene Royal Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮の
+王族の居室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419797" resname="エテーネ王宮の&#10;玉座の間へ行こう。">
+        <source>Let's go to the throne room at
+Ethene Royal Manor.</source>
+        <target state="needs-translation">Let's go to the throne room at
+Ethene Royal Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮の
+玉座の間へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419799" resname="エテーネ王宮の地下牢にいる&#10;囚人バディンドの話を聞こう。">
+        <source>Let's talk to Badindo, a
+prisoner in the dungeon of
+Ethene Royal Manor.</source>
+        <target state="needs-translation">Let's talk to Badindo, a
+prisoner in the dungeon of
+Ethene Royal Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮の地下牢にいる
+囚人バディンドの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419801" resname="地下牢にあるベッドで休もう。">
+        <source>Rest on the beds in the
+dungeon.</source>
+        <target state="needs-translation">Rest on the beds in the
+dungeon.</target>
+        <context-group purpose="information">
+          <context context-type="source">地下牢にあるベッドで休もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419803" resname="エテーネ王宮１階にある&#10;御前広場へ行こう。">
+        <source>Let's go to Imperial Plaza on
+the 1st floor of Ethene Royal
+Manor.</source>
+        <target state="needs-translation">Let's go to Imperial Plaza on
+the 1st floor of Ethene Royal
+Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮１階にある
+御前広場へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419805" resname="エテーネ王宮の&#10;御前広場にいる&#10;自動人形ドミネウスを倒そう。">
+        <source>Defeat Automaton Domineus at
+Imperial Plaza in Ethene Royal
+Manor.</source>
+        <target state="needs-translation">Defeat Automaton Domineus at
+Imperial Plaza in Ethene Royal
+Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮の
+御前広場にいる
+自動人形ドミネウスを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419807" resname="エテーネ王宮の玉座の間にある&#10;執務室へ行こう。">
+        <source>Let's go to the office in the
+throne room of Ethene Royal
+Manor.</source>
+        <target state="needs-translation">Let's go to the office in the
+throne room of Ethene Royal
+Manor.</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮の玉座の間にある
+執務室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419809" resname="時見の神殿にある&#10;時見の祭壇へ行こう。">
+        <source>Go to the Timeseer Altar at
+Timeseer Temple.</source>
+        <target state="needs-translation">Go to the Timeseer Altar at
+Timeseer Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">時見の神殿にある
+時見の祭壇へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419811" resname="時見の祭壇の奥へ進もう。">
+        <source>Let's proceed to the back of
+Timeseer Altar.</source>
+        <target state="needs-translation">Let's proceed to the back of
+Timeseer Altar.</target>
+        <context-group purpose="information">
+          <context context-type="source">時見の祭壇の奥へ進もう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419813" resname="エテーネ王宮の玉座の間にある&#10;執務室から　時見の祭壇へ行き&#10;ドミネウス王を倒そう。">
+        <source>Go to Timeseer Altar from the
+office in the throne room of
+Ethene Royal Manor and [...]</source>
+        <target state="needs-translation">Go to Timeseer Altar from the
+office in the throne room of
+Ethene Royal Manor and [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">エテーネ王宮の玉座の間にある
+執務室から　時見の祭壇へ行き
+ドミネウス王を倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419815" resname="真グランゼドーラ城の&#10;賢者の執務室にいる&#10;賢者ルシェンダの話を聞こう。">
+        <source>true Let's talk to Sage
+Lushenda at Sage's office in
+Gran Zedora Castle.</source>
+        <target state="needs-translation">true Let's talk to Sage
+Lushenda at Sage's office in
+Gran Zedora Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城の
+賢者の執務室にいる
+賢者ルシェンダの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419817" resname="プクランド大陸　ポーポラ地方の&#10;賢者の隠れ家にいる&#10;賢者エイドスに会いにいこう。">
+        <source>Meet Sage Eidos at Sage's Lair
+in Pukuland Continent Popola
+Region.</source>
+        <target state="needs-translation">Meet Sage Eidos at Sage's Lair
+in Pukuland Continent Popola
+Region.</target>
+        <context-group purpose="information">
+          <context context-type="source">プクランド大陸　ポーポラ地方の
+賢者の隠れ家にいる
+賢者エイドスに会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419819" resname="ポーポラ地方の南にある&#10;ペシュヤ地下空洞の中で&#10;しぐさ『聖別の詩歌』をしよう。">
+        <source>Let's emote &quot;Holy Poetry&quot; in
+the Peshuya Underground Cave,
+south of Popola Region.</source>
+        <target state="needs-translation">Let's emote &quot;Holy Poetry&quot; in
+the Peshuya Underground Cave,
+south of Popola Region.</target>
+        <context-group purpose="information">
+          <context context-type="source">ポーポラ地方の南にある
+ペシュヤ地下空洞の中で
+しぐさ『聖別の詩歌』をしよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419821" resname="ポーポラ地方の&#10;賢者の隠れ家に戻り&#10;賢者エイドスに報告しよう。">
+        <source>Return to Sage's Lair in Popola
+Region and report to Sage
+Eidos.</source>
+        <target state="needs-translation">Return to Sage's Lair in Popola
+Region and report to Sage
+Eidos.</target>
+        <context-group purpose="information">
+          <context context-type="source">ポーポラ地方の
+賢者の隠れ家に戻り
+賢者エイドスに報告しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419823" resname="真グランゼドーラ城１階の&#10;エレベーターを使って&#10;秘密会議室へ行こう。">
+        <source>true Let's go to the secret
+meeting room using the elevator
+on the first floor of [...]</source>
+        <target state="needs-translation">true Let's go to the secret
+meeting room using the elevator
+on the first floor of [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城１階の
+エレベーターを使って
+秘密会議室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419825" resname="真グランゼドーラ城から&#10;外に出て　勇者の橋へ行こう。">
+        <source>true Let's go out from Gran
+Zedora Castle and go to Bridge
+of Heroes.</source>
+        <target state="needs-translation">true Let's go out from Gran
+Zedora Castle and go to Bridge
+of Heroes.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城から
+外に出て　勇者の橋へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419827" resname="真グランゼドーラ城から&#10;外に出て　勇者の橋にいる&#10;魔獣ネロスゴーグを倒そう。">
+        <source>true Go out from Gran Zedora
+Castle and defeat Demon Beast
+Nerosugog at Bridge of Heroes.</source>
+        <target state="needs-translation">true Go out from Gran Zedora
+Castle and defeat Demon Beast
+Nerosugog at Bridge of Heroes.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城から
+外に出て　勇者の橋にいる
+魔獣ネロスゴーグを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419829" resname="真グランゼドーラ城１階にある&#10;勇者の聖壇へ行こう。">
+        <source>true Let's go to Hero's Altar
+on the 1st floor of Gran Zedora
+Castle.</source>
+        <target state="needs-translation">true Let's go to Hero's Altar
+on the 1st floor of Gran Zedora
+Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城１階にある
+勇者の聖壇へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419831" resname="古グランゼドーラ城へ行こう。">
+        <source>Let's go to Old Gran Zedora
+Castle.</source>
+        <target state="needs-translation">Let's go to Old Gran Zedora
+Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">古グランゼドーラ城へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419833" resname="古グランゼドーラ城下町にいる&#10;猛将ギーグハンマーを倒そう。">
+        <source>Defeat General Giga Clubber in
+Old Gran Zedora Castle
+downtown.</source>
+        <target state="needs-translation">Defeat General Giga Clubber in
+Old Gran Zedora Castle
+downtown.</target>
+        <context-group purpose="information">
+          <context context-type="source">古グランゼドーラ城下町にいる
+猛将ギーグハンマーを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419835" resname="古グランゼドーラ城２階の&#10;玉座の間へ行こう。">
+        <source>Let's go to the throne room on
+the 2nd floor of Old Gran
+Zedora Castle.</source>
+        <target state="needs-translation">Let's go to the throne room on
+the 2nd floor of Old Gran
+Zedora Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">古グランゼドーラ城２階の
+玉座の間へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419837" resname="グレン城の訓練場の上にある&#10;選王の儀礼場で&#10;原獣プレゴーグを倒そう。">
+        <source>Defeat Wild Beast Pregog at
+King's Ceremony on the training
+grounds of Glen Castle.</source>
+        <target state="needs-translation">Defeat Wild Beast Pregog at
+King's Ceremony on the training
+grounds of Glen Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城の訓練場の上にある
+選王の儀礼場で
+原獣プレゴーグを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419839" resname="メインコマンド『せんれき』の&#10;これまでのおはなしを見ながら&#10;物語を進めていこう。">
+        <source>Use &quot;Records&quot; and check
+&quot;The Story So Far&quot; to see
+where to head next.</source>
+        <target state="needs-translation">Use &quot;Records&quot; and check
+&quot;The Story So Far&quot; to see
+where to head next.</target>
+        <context-group purpose="information">
+          <context context-type="source">メインコマンド『せんれき』の
+これまでのおはなしを見ながら
+物語を進めていこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419841" resname="新たなる冒険にそなえ&#10;町の酒場にいる&#10;紹介人に話しかけよう。">
+        <source>Prepare for new adventures.
+Talk to an Introducer at the
+tavern in any town.</source>
+        <target state="needs-translation">Prepare for new adventures.
+Talk to an Introducer at the
+tavern in any town.</target>
+        <context-group purpose="information">
+          <context context-type="source">新たなる冒険にそなえ
+町の酒場にいる
+紹介人に話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419843" resname="いざないの間にいる&#10;バジネヅの試練に挑み&#10;護門将ゴウシルシャを倒そう。">
+        <source>Defeat the Protector General
+Goshylsa by challenging
+Bajinez's trial in the [...]</source>
+        <target state="needs-translation">Defeat the Protector General
+Goshylsa by challenging
+Bajinez's trial in the [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">いざないの間にいる
+バジネヅの試練に挑み
+護門将ゴウシルシャを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419845" resname="いざないの間にいる&#10;バジネヅに話しかけよう。">
+        <source>Talk to Bajinez in the Hall of
+Invitation.</source>
+        <target state="needs-translation">Talk to Bajinez in the Hall of
+Invitation.</target>
+        <context-group purpose="information">
+          <context context-type="source">いざないの間にいる
+バジネヅに話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419847" resname="いざないの間の&#10;南にある扉を調べて&#10;聖都エジャルナへ行こう。">
+        <source>Check the door south of Hall of
+Invitation and go to Holy City
+Ejarna.</source>
+        <target state="needs-translation">Check the door south of Hall of
+Invitation and go to Holy City
+Ejarna.</target>
+        <context-group purpose="information">
+          <context context-type="source">いざないの間の
+南にある扉を調べて
+聖都エジャルナへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419849" resname="いざないの間にある&#10;氷の領界の　旅の扉を使い&#10;クラウジに報告しよう。">
+        <source>Report to Clauge using the Ice
+Realm teleportal in the Hall of
+Invitation.</source>
+        <target state="needs-translation">Report to Clauge using the Ice
+Realm teleportal in the Hall of
+Invitation.</target>
+        <context-group purpose="information">
+          <context context-type="source">いざないの間にある
+氷の領界の　旅の扉を使い
+クラウジに報告しよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419851" resname="ナドラガ教団大神殿の&#10;総主教の部屋にいる&#10;総主教オルストフの話を聞こう。">
+        <source>Listen to Patriarch Orstov in
+the Patriarch's Room of the
+Nadraga Order's Grand Temple.</source>
+        <target state="needs-translation">Listen to Patriarch Orstov in
+the Patriarch's Room of the
+Nadraga Order's Grand Temple.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ教団大神殿の
+総主教の部屋にいる
+総主教オルストフの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419853" resname="氷晶の聖塔の南東にある&#10;円盤の遺跡から&#10;闇の領界へ旅立とう。">
+        <source>Let's start our journey to the
+Dark Realm from the Disc Ruins
+located southeast of the [...]</source>
+        <target state="needs-translation">Let's start our journey to the
+Dark Realm from the Disc Ruins
+located southeast of the [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">氷晶の聖塔の南東にある
+円盤の遺跡から
+闇の領界へ旅立とう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419855" resname="闇の辺獄の北東にある&#10;カーラモーラ村へ行こう。">
+        <source>Let's go to Carlamora Village,
+northeast of Dark Edge.</source>
+        <target state="needs-translation">Let's go to Carlamora Village,
+northeast of Dark Edge.</target>
+        <context-group purpose="information">
+          <context context-type="source">闇の辺獄の北東にある
+カーラモーラ村へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419857" resname="カーラモーラ村にある&#10;浄月の間へ行こう。">
+        <source>Let's go to Moonlit Hall in
+Carlamora Village.</source>
+        <target state="needs-translation">Let's go to Moonlit Hall in
+Carlamora Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">カーラモーラ村にある
+浄月の間へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419859" resname="カーラモーラ村から&#10;闇の辺獄に出た先にある&#10;楽園への扉へ行こう。">
+        <source>Let's go to the Door to Utopia
+at the end of Dark Edge from
+Carlamora Village.</source>
+        <target state="needs-translation">Let's go to the Door to Utopia
+at the end of Dark Edge from
+Carlamora Village.</target>
+        <context-group purpose="information">
+          <context context-type="source">カーラモーラ村から
+闇の辺獄に出た先にある
+楽園への扉へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419861" resname="カーラモーラ村の下層から&#10;影の谷の東にある&#10;ナドラガ神のほこらへ行こう。">
+        <source>From the lower level of
+Carlamora Village, go to
+Nadraga Shrine, east of [...]</source>
+        <target state="needs-translation">From the lower level of
+Carlamora Village, go to
+Nadraga Shrine, east of [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">カーラモーラ村の下層から
+影の谷の東にある
+ナドラガ神のほこらへ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419863" resname="ナドラガ神のほこらの&#10;祭壇を調べよう。">
+        <source>Find out the altar of the
+Nadraga Shrine.</source>
+        <target state="needs-translation">Find out the altar of the
+Nadraga Shrine.</target>
+        <context-group purpose="information">
+          <context context-type="source">ナドラガ神のほこらの
+祭壇を調べよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419865" resname="闇の辺獄にある&#10;楽園への扉へ行こう。">
+        <source>Let's go to Door to Utopia in
+Dark Edge.</source>
+        <target state="needs-translation">Let's go to Door to Utopia in
+Dark Edge.</target>
+        <context-group purpose="information">
+          <context context-type="source">闇の辺獄にある
+楽園への扉へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419867" resname="楽園への扉の先にいる&#10;悪魔の手下たちを倒そう。">
+        <source>Defeat the Devil's Minions at
+the end of Door to Utopia.</source>
+        <target state="needs-translation">Defeat the Devil's Minions at
+the end of Door to Utopia.</target>
+        <context-group purpose="information">
+          <context context-type="source">楽園への扉の先にいる
+悪魔の手下たちを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419869" resname="楽園へ至る間から楽園へ行こう。">
+        <source>The Way to Utopia from Utopia.</source>
+        <target state="needs-translation">The Way to Utopia from Utopia.</target>
+        <context-group purpose="information">
+          <context context-type="source">楽園へ至る間から楽園へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419871" resname="グレン城下町の駅から&#10;過去世界へと旅立とう。">
+        <source>Let's travel to the past from
+the train station in Glen
+Castle Town.</source>
+        <target state="needs-translation">Let's travel to the past from
+the train station in Glen
+Castle Town.</target>
+        <context-group purpose="information">
+          <context context-type="source">グレン城下町の駅から
+過去世界へと旅立とう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419873" resname="メインコマンド『せんれき』の&#13;&#10;これまでのおはなしを見ながら&#13;&#10;物語を進めていこう。">
+        <source>Use &quot;Records&quot; and check&#13;
+&quot;The Story So Far&quot; to see&#13;
+where to head next.</source>
+        <target state="needs-translation">Use &quot;Records&quot; and check&#13;
+&quot;The Story So Far&quot; to see&#13;
+where to head next.</target>
+        <context-group purpose="information">
+          <context context-type="source">メインコマンド『せんれき』の&#13;
+これまでのおはなしを見ながら&#13;
+物語を進めていこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419875" resname="新たなる冒険にそなえ&#13;&#10;町の酒場にいる&#13;&#10;紹介人に話しかけよう。">
+        <source>Prepare for new adventures.&#13;
+Talk to an Introducer at the&#13;
+tavern in any town.</source>
+        <target state="needs-translation">Prepare for new adventures.&#13;
+Talk to an Introducer at the&#13;
+tavern in any town.</target>
+        <context-group purpose="information">
+          <context context-type="source">新たなる冒険にそなえ&#13;
+町の酒場にいる&#13;
+紹介人に話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419877" resname="町の宿屋にいる&#10;案内係に話しかけよう。">
+        <source>Talk to the information desk at
+the inn in town.</source>
+        <target state="needs-translation">Talk to the information desk at
+the inn in town.</target>
+        <context-group purpose="information">
+          <context context-type="source">町の宿屋にいる
+案内係に話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419879" resname="ソーラリア峡谷の先にある&#10;古き神の遺跡の&#10;結界の間へ行こう。">
+        <source>Go to the Barrier Chamber of
+Historic Ruins at the end of
+Solaria Canyon.</source>
+        <target state="needs-translation">Go to the Barrier Chamber of
+Historic Ruins at the end of
+Solaria Canyon.</target>
+        <context-group purpose="information">
+          <context context-type="source">ソーラリア峡谷の先にある
+古き神の遺跡の
+結界の間へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419881" resname="ジュレットの町の&#10;ソーミャの家へ行こう。">
+        <source>Let's go to Somya's House in
+Julet.</source>
+        <target state="needs-translation">Let's go to Somya's House in
+Julet.</target>
+        <context-group purpose="information">
+          <context context-type="source">ジュレットの町の
+ソーミャの家へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419883" resname="古き神の遺跡の　結界の間にいる&#10;獣魔将ガルレイを倒そう。">
+        <source>Defeat General Gullray in the
+Barrier Chamber of Historic
+Ruins.</source>
+        <target state="needs-translation">Defeat General Gullray in the
+Barrier Chamber of Historic
+Ruins.</target>
+        <context-group purpose="information">
+          <context context-type="source">古き神の遺跡の　結界の間にいる
+獣魔将ガルレイを倒そう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419885" resname="古き神の遺跡の&#10;結界の間の奥へ行こう。">
+        <source>Let's go to the back of the
+Barrier Chamber in Historic
+Ruins.</source>
+        <target state="needs-translation">Let's go to the back of the
+Barrier Chamber in Historic
+Ruins.</target>
+        <context-group purpose="information">
+          <context context-type="source">古き神の遺跡の
+結界の間の奥へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419887" resname="真グランゼドーラ城の&#10;賢者の執務室に戻ろう。">
+        <source>Let's go back to Sage's Office
+in true Gran Zedora Castle.</source>
+        <target state="needs-translation">Let's go back to Sage's Office
+in true Gran Zedora Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城の
+賢者の執務室に戻ろう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419889" resname="真グランゼドーラ城の&#10;賢者の執務室にいる&#10;賢者ルシェンダに話しかけよう。">
+        <source>Talk to Sage Lushenda at Sage's
+Office in the true Gran Zedora
+Castle.</source>
+        <target state="needs-translation">Talk to Sage Lushenda at Sage's
+Office in the true Gran Zedora
+Castle.</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城の
+賢者の執務室にいる
+賢者ルシェンダに話しかけよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419891" resname="真グランゼドーラ城１階の&#10;エレベーターで秘密会議室へ行き&#10;ミルトの話を聞こう。">
+        <source>Take the elevator on the first
+floor of the true Gran Zedora
+Castle to the Secret [...]</source>
+        <target state="needs-translation">Take the elevator on the first
+floor of the true Gran Zedora
+Castle to the Secret [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城１階の
+エレベーターで秘密会議室へ行き
+ミルトの話を聞こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419893" resname="ラギ雪原の小屋に住む&#10;技師バジェオに会いにいこう。">
+        <source>Meet Bajeo, an engineer who
+lives in the Cabin at Ragi
+Snowfield.</source>
+        <target state="needs-translation">Meet Bajeo, an engineer who
+lives in the Cabin at Ragi
+Snowfield.</target>
+        <context-group purpose="information">
+          <context context-type="source">ラギ雪原の小屋に住む
+技師バジェオに会いにいこう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419895" resname="ラギ雪原の北西などにいる&#10;キラーマシンを倒して&#10;魔光レンズを手に入れよう。">
+        <source>Defeat the Killing Machine in
+the northwest of Ragi Snowfield
+and other areas to get [...]</source>
+        <target state="needs-translation">Defeat the Killing Machine in
+the northwest of Ragi Snowfield
+and other areas to get [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">ラギ雪原の北西などにいる
+キラーマシンを倒して
+魔光レンズを手に入れよう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419897" resname="真グランゼドーラ城１階の&#10;エレベーターを使い&#10;秘密会議室へ行こう。">
+        <source>Take the elevator on the first
+floor of the true Gran Zedora
+Castle to the Secret [...]</source>
+        <target state="needs-translation">Take the elevator on the first
+floor of the true Gran Zedora
+Castle to the Secret [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">真グランゼドーラ城１階の
+エレベーターを使い
+秘密会議室へ行こう。</context>
+        </context-group>
+      </trans-unit>
+      <trans-unit id="1419899" resname="秘密会議室の　緑の椅子から&#10;賢者ブロッゲンを呼び出し&#10;破邪の秘儀の試練を受けよう。">
+        <source>Call Sage Broggen from the
+green chair in the Secret
+Meeting Room to receive a [...]</source>
+        <target state="needs-translation">Call Sage Broggen from the
+green chair in the Secret
+Meeting Room to receive a [...]</target>
+        <context-group purpose="information">
+          <context context-type="source">秘密会議室の　緑の椅子から
+賢者ブロッゲンを呼び出し
+破邪の秘儀の試練を受けよう。</context>
+        </context-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
