@@ -4,4 +4,4 @@ files:
     type: json
     update_option: update_as_unapproved
 bundles:
-  - 2
+  - 4
