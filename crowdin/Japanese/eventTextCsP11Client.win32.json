@@ -1,0 +1,938 @@
+{
+    "1406": {
+        "「あんた　運がなかったなあ……。": "Tu n'as vraiment pas eu de chance..."
+    },
+    "1407": {
+        "「まだ　若いっていうのに。\n　かわいそうに……かわいそうになあ。": "Il est encore si jeune. Pauvre de lui...\nvraiment pauvre."
+    },
+    "1408": {
+        "「せめて　あたしが　あんたのなきがらを\n　故郷にまで　連れて帰ってあげるからね。": "Au moins, je te ramenerai chez toi, meme si\nc'est seulement en tant que depouille."
+    },
+    "1409": {
+        "「うわっ！　相変わらず　ひどい道だなあ。\n　これじゃあ　馬車が壊れちまうよ。": "Ouaah ! C'est toujours une sacree route\nabimee. A ce rythme, notre chariot risque de\nse briser."
+    },
+    "1410": {
+        "「ほら　見えてきたよ。\n　あんたの故郷　プッ　プク……\n　プクッ…………！": "Regarde, on peut le voir maintenant. Ta terre\nnatale, Pu... Puku... Puku... !"
+    },
+    "1411": {
+        "「……プクレットの村だよっ！！": "…C'est le village de Pukulet !!"
+    },
+    "1412": {
+        "「ぎゃーーーーーーっ！！": "Gyaaaaaaa !!"
+    },
+    "1413": {
+        "「おっかしいなあー。\n　この人　確かに死んでたんですよ。": "C'est bizarre... Cette personne etait bel et\nbien morte, tu sais."
+    },
+    "1414": {
+        "「やだなあ　ティルツキンさん。\n　<pc>は　ちゃーんと生きてるじゃん。": "Mais voyons, Tiltzkin-san. <pc> est bel\net bien vivant."
+    },
+    "1415": {
+        "「でもね。あたしが　<pc>さんを\n　見つけた時は　心臓は止まってたし\n　息も　してなかった……。": "Mais tu sais, quand j'ai trouve\n<pc>-san, son coeur s'etait arrete et il\nne respirait plus..."
+    },
+    "1416": {
+        "「ありゃあ　誰が見たって　死んでました。\n　この上なく　カンペキに死んでたのに\n　なんで　生きてるんですか！？": "Ah ca, n'importe qui aurait dit qu'il etait\nmort. Il etait parfaitement mort, et\npourtant... pourquoi est-il vivant !?"
+    },
+    "1417": {
+        "「あはは。まんまと　だまされたね！\n　ティルツキンさんは　知らないだろうけど\n　<pc>は　この村　いちばんの役者だよ。": "Ahaha. Tu t'es fait avoir, n'est-ce pas !\nTiltzkin-san ne le sait peut-etre pas, mais\n<pc> est le meilleur acteur de ce<br>village."
+    },
+    "1418": {
+        "「けど　<pc>。生き返るタイミングが\n　ちょっと　早かったんじゃないか？\n　村に着いてからのが　ギャラリーが多いだろ。": "<けど <pc>>生き返るRed\nSnapperミングがちょっと早かったんじゃないか？\n村に着いてからの方がギャラリーが多いだろ"
+    },
+    "1419": {
+        "「まあまあ。魔物がうろつく　恐ろしい場所で\n　誰かが　通りかかるまで\n　ずっと　死んだフリを　してたんだし。": "Eh bien, eh bien. Dans cet endroit effrayant\nou rodent des monstres, j'ai fait semblant\nd'etre mort jusqu'a ce que quelqu'un passe."
+    },
+    "1420": {
+        "「ティルツキンさんには　ウケたんだから\n　それで　いいじゃない。": "Tiltzkin-san a trouve ca amusant, alors ca va."
+    },
+    "1421": {
+        "「まあなー。村の中なら　ともかく\n　魔物が出る場所を　選ぶあたりが\n　<pc>の　すごいところだよな。": "Eh bien... C'est une chose de le faire dans le\nvillage, mais choisir un endroit ou\napparaissent des monstres, c'est vraiment<br>impressionnant de la part de <pc>."
+    },
+    "1422": {
+        "「死んだフリねえ……。\n　私には　死体に突然\n　別の魂が宿ったようにも　思えましたが……。": "Faire semblant d'etre mort, hein... Pour moi,\nc'etait comme si une autre ame avait\nsoudainement pris possession du corps."
+    },
+    "1423": {
+        "「ともかく　プクリポの皆さんの\n　芸にかける根性には\n　つくづく　おそれいります。とほほ……。": "En tout cas, je suis vraiment impressionne par\nla determination des gens de Pukulipo pour\nleur art. Oh la la..."
+    },
+    "1424": {
+        "「それじゃ　あたしは　商売がありますんで\n　このへんで　失礼しますよ。\n　では　皆さん　また来ますね！": "Eh bien, j'ai des affaires a traiter, donc je\nvais devoir vous laisser ici. Alors, a bientot\ntout le monde !"
+    },
+    "1425": {
+        "「あー　面白かった！\n　ティルツキンさんの　あの顔ってば！\n　おつかれっ　<pc>！": "Ah, c'etait amusant ! Tu as vu la tete de\nTiltzkin-san ? Bon travail, <pc> !"
+    },
+    "1426": {
+        "「それじゃあな　<pc>！": "A plus tard, <pc> !"
+    },
+    "1427": {
+        "「聞いたぜ聞いたぜ！　<pc>！\n　とうとう　世界に　はばたくんだな！": "J'ai entendu, j'ai entendu ! <pc> ! Tu\nt'envoles enfin vers le monde !"
+    },
+    "1428": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1429": {
+        "「ほら　お前　言ってたじゃないか。\n　プクレットの村で　やり残したことをやったら\n　都会へ出て　自分のチカラを試すんだって。": "Tu te souviens, tu disais que si tu laissais\nla lance au village de Pukulet, tu irais en\nville pour tester ta force."
+    },
+    "1430": {
+        "「ティルツキンさんを　ドッキリで\n　おどろかす……ってのが\n　その　やり残したことなんだろ？": "C'etait pour faire une surprise a\nTiltzkin-san... C'est pour ca que ce Spear a\nete laisse, n'est-ce pas ?"
+    },
+    "1431": {
+        "「……えっ　ちがうの？\n　じゃあ　他に　何がしたかったんだ？\n　もう　こんな田舎の村に　未練はないだろ。": "Eh, ce n'est pas ca ? Alors, qu'est-ce que tu\nvoulais vraiment faire ? Tu ne dois plus avoir\nde regrets pour ce village rural, n'est-ce pas<br>?"
+    },
+    "1432": {
+        "「プクレットの村の　<pc>といえば……": "A propos de <pc> du village de\nPukulet..."
+    },
+    "1433": {
+        "「プクレットの村で　最強の　面白野郎を決める\n　演芸グランプリで　３回連続優勝した\n　伝説のプクリポだって　みんな知ってるぜ。": "Tout le monde sait que c'est le legendaire\nPukulipo qui a remporte trois fois de suite le\nconcours de comedie a Pukulet Village pour<br>determiner le plus drole des farceurs."
+    },
+    "1434": {
+        "「もと相方のオレが　保証する。\n　今の　お前なら　都会でも通用するさ。\n　面白プクリポとして　世界に　はばたく時だ！": "L'ancien partenaire que je suis te le\ngarantit. Avec tes capacites actuelles, tu\npeux reussir meme en ville. Il est temps de<br>t'envoler dans le monde en tant que l'hilarant\nPukulipo !"
+    },
+    "1435": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1436": {
+        "「って……そういえば　ずいぶん荷物が少ないな。\n　まさか　お前　ルーラストーンを\n　なくしちゃ　いないだろうな。": "Au fait... je remarque que tu voyages leger.\nNe me dis pas que tu as perdu ton Zoomstone ?"
+    },
+    "1437": {
+        "「おいおい……。ルーラストーンどころか\n　オレが　せんべつにあげた　ネタ帖も\n　何もかも　持ってないじゃないか！": "He, he... Non seulement tu n'as pas le\nZoomstone, mais tu n'as meme pas le carnet de\nblagues que je t'ai donne en cadeau de depart<br>!"
+    },
+    "1438": {
+        "「……こりゃあ　まずいぞ。\n　ひとまず　大急ぎで\n　村長さんに　相談したほうがいいぜ。": "…C'est mauvais. On ferait mieux de se depecher\net d'en parler au chef du village."
+    },
+    "1439": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1440": {
+        "「プクレットの村から　旅立ちゅ……\n　おっと　かんじまった。": "Je vais partir du village de Pukulet... Oups,\nj'ai fait une erreur."
+    },
+    "1441": {
+        "「プクレットの村から　旅立つのは\n　その後に……": "C'est apres cela que tu partiras du village de\nPukulet..."
+    },
+    "1442": {
+        "「ダメだよ！！": "C'est impossible !!"
+    },
+    "1443": {
+        "「なんだ？　この　チビすけ……。\n　ええと……たしか…プディンだっけ？": "Qu'est-ce que c'est ? Ce petit bonhomme...\nEuh... C'etait... Pudding, c'est ca ?"
+    },
+    "1444": {
+        "「ダメ！　絶対ダメ！\n　もう村の外へは　行っちゃダメだよ！！\n　ボクとの約束なんて　もういいから！": "Non ! Absolument pas ! Tu ne dois plus jamais\nquitter le village !! Peu importe notre\npromesse, oublie-la !"
+    },
+    "1445": {
+        "「だって……だって……": "Parce que... parce que..."
+    },
+    "1446": {
+        "「おいおい　<pc>。\n　お前　このプディンと　何か約束したのか？": "He, <pc>. As-tu fait une promesse a ce\nPudding ?"
+    },
+    "1447": {
+        "「…………<pc>さん？\n　もしかして　覚えてないの……？": "...... <pc>-san ? Tu ne te souviens\npeut-etre pas de moi...... ?"
+    },
+    "1448": {
+        "「そんな……どうして……": "<me 60> Non... Pourquoi..."
+    },
+    "1449": {
+        "「……うっ　うっ……": "... Snif... Snif..."
+    },
+    "1450": {
+        "「うっ…うぇえええーーん！！": "Ouh... Ouhouhouuuh !!"
+    },
+    "1451": {
+        "「うわっ！　泣くなよ。も～。": "Ouah ! Ne pleure pas. Allez..."
+    },
+    "1452": {
+        "「こいつは　泣きやませとくから　お前は\n　ルーラストーンのことを　報告にいけよ？\n　村長さんの家は　赤い屋根の家だからな。": "Je vais m'occuper de le calmer. Toi, va faire\nton rapport sur la pierre de teleportation,\nd'accord ? La maison du chef du village a un<br>toit rouge."
+    },
+    "1453": {
+        "「おいおい　プディン。\n　いいかげんに　泣きやめってば。": "He, he, Pudding. Allez, arrete de pleurer."
+    },
+    "1454": {
+        "「はーい！　プップクペッポッ　パー！": "Ha-ha ! Pupuku Peppo Pa !"
+    },
+    "1455": {
+        "「……ダメなんだ……ボクのせいで……\n　だって　ボクの約束のせいで……\n　……<pc>さんが……": "...C'est de ma faute... A cause de moi...\nParce que, a cause de ma promesse...\n...<pc>-san a..."
+    },
+    "1456": {
+        "「……ヒック……うっ………。\n　うわあああーん！！": "…Hic… sniff... Ouaaah !!"
+    },
+    "1457": {
+        "「もう　カンベンしてくれよ……。": "S'il te plait, epargne-moi ca..."
+    },
+    "1458": {
+        "「……よう　<pc>。\n　村長さんに　ルーラストーンをなくしたこと\n　もう　報告したのか？": "Salut <pc>. As-tu deja informe le chef\ndu village que tu as perdu le Zoomstone ?"
+    },
+    "1459": {
+        "「ルーラシュトーンは　とても……\n　おっと　かんじまった。": "La Pierre de Rula est vraiment... Oups, je me\nsuis laisse emporter."
+    },
+    "1460": {
+        "「ルーラストーンは　とても　大切な物だ。\n　早く　村長さんに相談したほうがいいぜ。\n　赤い屋根の家が　村長さんの家だからな。": "Le Zoomstone est un objet tres precieux. Tu\ndevrais consulter le chef du village\nrapidement. La maison au toit rouge, c'est<br>celle du chef du village."
+    },
+    "1461": {
+        "「来たな！　<pc>よ。\n　話は聞いておる。村から旅立つ　お前に\n　せんべつとして　わが秘伝の一発芸を……": "Te voila ! <pc>. J'ai entendu parler de\ntoi. Pour celebrer ton depart du village, je\nvais te montrer mon tour secret..."
+    },
+    "1462": {
+        "「………む？　どうした　浮かぬ顔じゃな。\n　何があったのか　話してみなさい。": "…Hmm ? Pourquoi cet air sombre ? Qu'est-ce qui\ns'est passe ? Parle-moi."
+    },
+    "1463": {
+        "<pc>は　プックレイ村長に\nルーラストーンを　なくしてしまったことを\n報告した。": "<pc> a informe Chief Pukklei qu'il avait\nperdu le Zoomstone."
+    },
+    "1464": {
+        "「なっ　なんじゃと！\n　ルーラストーンを　なくしたじゃと！？": "Qu-quoi ! Vous avez perdu le Zoomstone !?"
+    },
+    "1465": {
+        "「……いやいや　だまされんぞ。": "...Non, non, je ne vais pas me laisser duper."
+    },
+    "1466": {
+        "「ルーラストーンを　なくしたと言えば\n　わしが　おどろくと思ったのじゃろう。\n　かっかっか！　その手は　くわぬぞっ。": "Tu pensais que je serais surpris si tu disais\navoir perdu la Zoomstone, n'est-ce pas ?\nKakakka ! Je ne tomberai pas dans ce piege."
+    },
+    "1467": {
+        "「……なんじゃ　その冷ややかな目は。\n　もしや……": "Pourquoi ce regard si froid ? Serait-ce que..."
+    },
+    "1468": {
+        "「本当に　なくしてしまったのかっ！？": "Tu l'as vraiment perdu !?"
+    },
+    "1469": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1470": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1471": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1472": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1473": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1474": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1475": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1476": {
+        "「ふむ。困ったことに　なったのう……。\n　ルーラストーンとは　世界を旅する者にとって\n　命づなとなる　大切な物じゃ。": "Hm. Cela devient problematique... Le Zoomstone\nest un objet precieux pour ceux qui voyagent a\ntravers le monde."
+    },
+    "1477": {
+        "「ルーラストーンなしに　旅をするのは\n　あまりにも　危険すぎる。\n　なんとかして　探しださねば　ならんぞ。": "Voyager sans pierre de teleportation est bien\ntrop dangereux. Il faut absolument en trouver\nune."
+    },
+    "1478": {
+        "「じゃが　探そうにも\n　何か　手がかりが　ないことには……": "Mais pour le chercher, il nous faudrait un\nindice..."
+    },
+    "1479": {
+        "「そうじゃ！　エイドスが　おった！": "Exactement ! Eidus etait la !"
+    },
+    "1480": {
+        "「賢者エイドスに頼んでみれば\n　<pc>が　なくした　ルーラストーンの\n　ありかを　教えてくれるかもしれん。": "Peut-etre que si nous demandons a Sage Eidos,\nil pourra nous indiquer l'emplacement du\nZoomstone perdu par <pc>."
+    },
+    "1481": {
+        "「エイドスというのは　人間の賢者でな……。\n　この世に起きる　すべての物事を知っていると\n　ウワサされておる　人物じゃ。": "Eidos est un sage humain... On dit qu'il\nconnait tout ce qui se passe dans ce monde."
+    },
+    "1482": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1483": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1484": {
+        "「エイドスが住んでいる　賢者の隠れ家は\n　村を出て　街道を西に進み　ポーポラ地方の橋を\n　渡っていると　見えてくるはずじゃ。　": "Le repaire du Sage, ou vit Eidos, devrait\napparaitre lorsque vous sortez du village,\nprogressez vers l'ouest sur la route et<br>traversez le pont de la region de Popola."
+    },
+    "1485": {
+        "「道中は　魔物も出る。\n　くれぐれも　気をつけて行くんじゃぞ！": "En chemin, des monstres pourraient apparaitre.\nFais bien attention en progressant !"
+    },
+    "1486": {
+        "「もう　カンベンしてくれよー。\n　なあ。プディン？": "Allez, fais-moi une faveur, d'accord ? Hein,\nPudin ?"
+    },
+    "1487": {
+        "「ごめんなさい……ごめんなさい……。\n　……もう　約束なんか　いいから……\n　うっ　うっ……。": "Je suis desolee... Je suis desolee... ... Je\nn'ai plus besoin de promesses... Hic... Hic..."
+    },
+    "1488": {
+        "「だーかーらあー。": "Donc..."
+    },
+    "1489": {
+        "「……ん　<pc>か。\n　どうだった？　ルーラストーンは。": "…Oh, c'est toi, <pc>. Alors, comment ca\ns'est passe avec la Zoomstone ?"
+    },
+    "1490": {
+        "「……へえー　そうなのか。\n　エイロスのほこらへ　行って……\n　おっと　かんじまった。": "Ah, vraiment ? Aller au sanctuaire d'Eiros\net... Oups, je me suis laisse emporter."
+    },
+    "1491": {
+        "「エイドスのほこらへ　行って\n　ルーラストーンのありかを　教えてもらうのか。\n　ちょっと　遠いから　気をつけてな！": "Vous allez au sanctuaire d'Eidos pour\napprendre l'emplacement du Zoomstone. C'est un\npeu loin, alors faites attention !"
+    },
+    "1492": {
+        "「やれやれ……この老いぼれの手を\n　いつまでも　わずらわせおって……。": "Bon sang... Toujours a deranger ce vieil\nhomme..."
+    },
+    "1493": {
+        "「じゃが　この………を　地上へ出せば\n　この地は　滅びる。": "Cependant, si nous liberons ceci a la\nsurface... cette terre perira."
+    },
+    "1494": {
+        "「今　ひとたび！\n　封印させて　もらうぞ！！": "Cette fois encore ! Je vais te sceller !!"
+    },
+    "1495": {
+        "「フゥ……骨が折れるわい。\n　まったく　いつまでも　キリのない……": "Ouf... C'est epuisant. Vraiment, ca n'en finit\njamais..."
+    },
+    "1496": {
+        "「…………？": "？"
+    },
+    "1497": {
+        "「そこで　何をしている！！": "Qu'est-ce que tu fais la-bas !!"
+    },
+    "1498": {
+        "「いたずらプクリポめがっ！！\n　この　賢者エイドスのほこらに　勝手に入るなと\n　何度言えば　わかるのじゃ！！": "Espece de Pukulipo farceur !! Combien de fois\ndevrai-je te dire de ne pas entrer sans\npermission dans le sanctuaire de Sage Eidos !!"
+    },
+    "1501": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1502": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1503": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1504": {
+        "<pc>は　エイドスに連れられて\nその場を離れた……。": "<pc> a ete emmene par Eidos et a quitte\nles lieux..."
+    },
+    "1505": {
+        "「……まったく！　なりが小さいからといって\n　スキマとみれば　首を　つっこむ！\n　プクリポは　ネズミと同じじゃ！！": "Vraiment ! Juste parce qu'il est petit, des\nqu'il voit une ouverture, il s'y faufile ! Les\nPukulipo sont comme des souris !!"
+    },
+    "1506": {
+        "「よいか！？": "Vous comprenez !?"
+    },
+    "1507": {
+        "「あの結界の　向こう側には……\n　お前たち　プクリポのアタマでは　考えも及ばぬ\n　大いなる災いが　封印されておるのだ。": "De l'autre cote de cette barriere... Un grand\nfleau, que vos tetes de Pukulipo ne peuvent\nmeme pas imaginer, y est scelle."
+    },
+    "1508": {
+        "「災いは　触れた物すべてを滅ぼす。\n　草木は枯れ　岩は崩れさり　水は腐り……\n　生き物も　皆……": "La calamite detruit tout ce qu'elle touche.\nLes plantes se fletrissent, les rochers\ns'effritent, l'eau devient croupie... Et tous<br>les etres vivants aussi..."
+    },
+    "1509": {
+        "「お前は……先ほど　洞くつに入り込み\n　あの　大いなる災いが　ふきだす\n　ただなかを　歩いてきたはずじゃな……。": "Toi... Tu es entre dans la grotte tout a\nl'heure et tu as traverse cet endroit ou le\ngrand fleau s'est dechaine, n'est-ce pas..."
+    },
+    "1510": {
+        "「しかし　お前は……\n　こうして　生きておる。": "Cependant, toi... tu es toujours en vie."
+    },
+    "1511": {
+        "「ふうむ……とすれば………つまり……。": "Hmm... dans ce cas... en d'autres termes..."
+    },
+    "1512": {
+        "「まさか……お前も　なのか……？": "Impossible... Toi aussi...?"
+    },
+    "1513": {
+        "「よかろう！　先ほどの無礼は　忘れよう。": "D'accord ! J'oublierai l'insolence de tout a\nl'heure."
+    },
+    "1514": {
+        "「こんな　人里離れた隠れ家まで\n　はるばる　わしを訪ねてきたのだ。\n　何か　頼みごとが　あるのじゃろう。": "Vous avez fait tout ce chemin pour me trouver\ndans cette retraite isolee. Vous devez avoir\nune requete a formuler."
+    },
+    "1515": {
+        "「話してみるといい。この賢者エイドス\n　お前のチカラに　なってやろう。": "Tu devrais lui parler. Ce Sage Eidos sera a\ntes cotes pour te preter main-forte."
+    },
+    "1516": {
+        "「……<pc>。\n　お前は　こう言うのだな？": "...<pc>. Tu dis cela, n'est-ce pas ?"
+    },
+    "1517": {
+        "「ルーラストーンを　なくしてしまったが\n　どこにいったのか　まったく　わからない。\n　それを　わしに探してほしい……と。": "J'ai perdu la Zoomstone, mais je n'ai aucune\nidee d'ou elle est passee. Tu veux que je la\ncherche pour toi..."
+    },
+    "1518": {
+        "「いかにも。お前のルーラストーンが\n　どこにあるか……　わしにかかれば\n　何もかも　お見通しじゃ。": "En effet. Peu importe ou se trouve ton\nZoomstone... Je peux tout voir clairement."
+    },
+    "1519": {
+        "「だが……たとえ　ありかが　わかったとしても\n　それを　取り戻すためには　お前は\n　試練を乗り越えねばならぬようじゃな。": "Mais... meme si tu decouvres son emplacement,\nil semble que tu devras surmonter des epreuves\npour le recuperer."
+    },
+    "1520": {
+        "「……さあ。じっとしていなさい。\n　わしが　まじないをかけてやろう……。": "… Allez. Reste tranquille. Je vais te lancer\nun enchantement..."
+    },
+    "1521": {
+        "「お前から　ルーラストーンをうばい……": "Je vais te prendre le Zoomstone et..."
+    },
+    "1522": {
+        "「……すべてを　うばった者は\n　暗闇にひそみ　めったに姿を現さぬ。\n　じゃが……この　まじないをかければ……": "...Celui qui a tout vole se cache dans l'ombre\net ne se montre que rarement. Mais... si on\nlance ce sortilege..."
+    },
+    "1523": {
+        "「やつは　わしの魔法に　おびきよせられ\n　必ず　姿を現すはずじゃ。": "Il sera inevitablement attire par ma magie et\nrevelera sa presence."
+    },
+    "1524": {
+        "「その時こそ　やつを倒すのだ。\n　さすれば　すべては動きだすじゃろう……。": "C'est a ce moment-la que tu devras le vaincre.\nAlors, tout se mettra en mouvement..."
+    },
+    "1525": {
+        "「……うむ。これでよい。": "…Hum. Cela ira."
+    },
+    "1526": {
+        "「<pc>よ。\n　お前には　プディンという\n　子供の知り合いが　おるであろう。": "<pc>. Tu as une connaissance nommee\nPudin, n'est-ce pas ?"
+    },
+    "1527": {
+        "「ふむ。村にいる子供なのか？\n　では　今一度　プクレットの村に戻り\n　プディンという子供に　会うがよい。": "Hm. Tu es un enfant du village, n'est-ce pas ?\nAlors, retourne une fois de plus a Pukulet\nVillage et rencontre l'enfant nomme Pudding."
+    },
+    "1528": {
+        "「その子が　すべての謎を解く\n　カギに　なるであろう。": "Cet enfant sera probablement la cle pour\nresoudre tous les mysteres."
+    },
+    "1529": {
+        "「……グスッ　うっ　うっ。": "... Snif... Hic..."
+    },
+    "1530": {
+        "「あぁ～！　もう！！": "Ahh~ ! Ca suffit !!"
+    },
+    "1531": {
+        "「まいったよ。<pc>が出かけてから\n　ずーっと　あの調子なんだ。": "Je suis depasse. Depuis que <pc> est\nparti, elle est comme ca sans arret."
+    },
+    "1532": {
+        "「ちょっと　外の空気でも吸ってくる。\n　あとは　まかせたぜ！　<pc>！": "Je vais prendre un peu l'air dehors. Je te\nlaisse le reste, <pc> !"
+    },
+    "1533": {
+        "「……<pc>さん！": "......<pc>-san !"
+    },
+    "1534": {
+        "「よかった　無事だったんだね！\n　ボク　すっごく心配したんだよ！": "Je suis tellement soulage que tu sois sain et\nsauf ! J'etais vraiment tres inquiet !"
+    },
+    "1535": {
+        "「……えっ？　賢者エイドスに会ってきたの？\n　ボクが　謎を解くカギになるはずだって\n　言われたの？": "... Hein ? Tu es alle rencontrer Sage Eidos ?\nIl t'a dit que je devrais etre la cle pour\nresoudre l'enigme ?"
+    },
+    "1536": {
+        "「なんのことだろう…………。": "De quoi s'agit-il..."
+    },
+    "1537": {
+        "「わ…わかった！　<pc>さんは\n　やっぱり　あいつと戦ったために……\n　そのために　記憶をなくしたんだっ！": "Je... je comprends ! <pc>-san a perdu la\nmemoire a cause de ce combat... C'est pour ca\nqu'il a tout oublie !"
+    },
+    "1538": {
+        "「そんな……だって……\n　ボクなんかのために……。": "Ce n'est pas possible... Parce que... Pour\nquelqu'un comme moi..."
+    },
+    "1539": {
+        "「う……うぅ……。": "Ugh... uuuh..."
+    },
+    "1540": {
+        "「うわああああああああんっ！": "Ouaaahhhh !"
+    },
+    "1541": {
+        "「……ボクが　ひとりで泣いてると\n　いつも……。": "Quand je pleure seul, tu es toujours la pour\nmoi..."
+    },
+    "1542": {
+        "「<pc>さんが来て\n　いっぱい　いっぱい\n　面白いことを　見せてくれたよね。": "<pc>-san est venu et nous a montre\nplein, plein de choses interessantes."
+    },
+    "1543": {
+        "「でも　ボク……けがれの谷に出る魔物に\n　お父さんと　お母さんを殺されてから\n　……悲しくて　笑えなくて。": "Mais moi... Depuis que les monstres de la\nVallee Profanee ont tue mon pere et ma mere...\nje suis triste, je ne peux plus sourire."
+    },
+    "1544": {
+        "「ボクが　ごめんなさいって　あやまったら\n　<pc>さん　ボクの頭をなでて\n　こう言ってくれたよね。": "Quand je me suis excuse, <pc>-san m'a\ncaresse la tete et m'a dit ca, n'est-ce pas ?"
+    },
+    "1545": {
+        "「だいじょうぶだよ　プディン。": "Tout ira bien, Pudding."
+    },
+    "1546": {
+        "「村のチャンピオンは　村のみんなが\n　笑って暮らせるようにするのが　役目。": "Le role du champion du village est de faire en\nsorte que tout le monde puisse vivre en riant."
+    },
+    "1547": {
+        "「村の仲間から　笑顔をうばうヤツは\n　チャンピオンの名にかけて……": "Celui qui vole le sourire de mes camarades du\nvillage... Au nom du Champion, je ne le\npermettrai pas..."
+    },
+    "1548": {
+        "「……それから　<pc>さんは\n　ぼくのお父さんと　お母さんの　カタキを討ちに\n　たったひとりで　けがれの谷へ……。": "...... Ensuite, <pc>-san est parti seul\npour la Vallee Profanee afin de venger mon\npere et ma mere..."
+    },
+    "1549": {
+        "「………………。": ""
+    },
+    "1550": {
+        "「そうか……。\n　たぶん　そこで　<pc>さんは\n　ルーラストーンも　なくしてしまったんだね。": "Je vois... <pc>-san a probablement perdu\nson Zoomstone la-bas aussi."
+    },
+    "1551": {
+        "「…………ボクなんかのために。\n　ねえ！　ルーラストーンが　必要なら\n　ボクが持ってるのを　あげるよ！": "Pour quelqu'un comme moi. He ! Si tu as besoin\nd'un Zoomstone, je te donnerai celui que j'ai\n!"
+    },
+    "1552": {
+        "「これがあれば　けがれの谷に行かなくても\n　大丈夫だよね？　カタキなんて　もういいから。\n　ボクなんかのために　命をかけないで！": "Avec ca, on n'a plus besoin d'aller dans la\nVallee Profanee, n'est-ce pas ? La vengeance,\nc'est bon, ca suffit. Ne risquez pas votre vie<br>pour quelqu'un comme moi !"
+    },
+    "1553": {
+        "「どうせ　ボクなんか　きらわれ者なんだ！\n　村の仲間じゃないんだからっ！\n　ボクのことなんか　ほっといてよっ！！": "De toute facon, je suis juste un paria ! Je ne\nfais pas partie des habitants du village !\nLaisse-moi tranquille !"
+    },
+    "1554": {
+        "<pc>は　ルーラストーンを\nむりやり　押しつけられた！<me 60>": "<pc> s'est vu imposer un Zoomstone par\nune lance forcee ! <me 60>"
+    },
+    "1555": {
+        "「ふやけるなーッ！！": "Ne te ramollis pas !"
+    },
+    "1556": {
+        "「しびれくらげ先生が　今のお前を見たら\n　情けなくて　マヒしちまうぞっ！？": "Si Sir Man o' War te voyait maintenant, il\nserait tellement navre qu'il en serait\nparalyse !"
+    },
+    "1557": {
+        "「し　しびれフヤケ先生……？": "Shi... Shibire Fuyake-sensei... ?"
+    },
+    "1558": {
+        "「しびれふやけティーチャーじゃねえ！\n　しびれくらげ先生だっ！！": "Ce n'est pas Mr. Paralysie et Engourdissement\n! C'est Sir Man o' War !!"
+    },
+    "1559": {
+        "「ご　ごめんなさいっ！": "Je suis... desole !"
+    },
+    "1560": {
+        "「そりゃ　お前は　泣き虫でベソかきで\n　ぐずりまくりで　メソメソした　ガキだっ！\n　ベイビーだよ　キッズだよ　チャイルドだよ！": "Toi, tu es un pleurnichard, un morveux qui\nn'arrete pas de geindre ! Un vrai bebe, un\nFry, un vrai Chai Ludo !"
+    },
+    "1561": {
+        "「でもなあ！！": "Mais quand meme !!"
+    },
+    "1562": {
+        "「泣きたい時は　泣いていいんだ！\n　泣いて　泣いて　泣いて　泣いて　泣いて\n　泣くのに　あきたら！！": "Quand tu as envie de pleurer, tu peux pleurer\n! Pleure, pleure, pleure, pleure, pleure Et\nquand tu en auras assez de pleurer !!"
+    },
+    "1563": {
+        "「オレや！　<pc>や！　村のみんなが！": "C'est moi ! <pc> ! Tout le monde au\nvillage !"
+    },
+    "1564": {
+        "「必殺の一発芸で！\n　プディン！　お前を　笑わしゅてやるっ！": "Je vais te faire rire aux eclats avec mon\nsketch ultime ! Prends ca, Pudding !"
+    },
+    "1565": {
+        "「みんな　お前のこと心配してるんだぜ。\n　さっきだってな　お前に食べさせてくれって\n　あの女の子が　アクロバットケーキを……": "Tout le monde s'inquiete pour toi, tu sais.\nTout a l'heure, cette fille voulait te donner\na manger son Acrobatic Cake..."
+    },
+    "1566": {
+        "「やべえっ！？　せっかくのケーキが！": "Oh non ! Mon delicieux Gateau a la creme est\nruine !"
+    },
+    "1567": {
+        "「ごめんなさい……ピリッポさん。\n　<pc>さん。": "Je suis desole... Pirippo-san. <pc>-san."
+    },
+    "1568": {
+        "「ありがとう……。": "Merci..."
+    },
+    "1569": {
+        "「……そうか。<pc>が\n　村を出る前に　やりたいことってのは\n　けがれの大ちゃんを　倒すことだったのか。": "...Je vois. Ce que <pc> voulait faire\navant de quitter le village, c'etait vaincre\nle grand demon Kegare."
+    },
+    "1570": {
+        "「村のチャンピオンの　名にかけて\n　プディンに　笑顔を取り戻すために\n　命を張るとは　お前らしいや。はははっ。": "En tant que champion du village, c'est bien de\ntoi de risquer ta vie pour redonner le sourire\na Pudin. Haha."
+    },
+    "1571": {
+        "「でも　やっぱり　あぶないよ……。": "Mais c'est quand meme dangereux..."
+    },
+    "1572": {
+        "「こいつの　頑固さは\n　もと相方のオレが　保証するぜ！\n　止めたって無駄さ！": "Cet entete, je le garantis en tant qu'ancien\npartenaire ! Inutile d'essayer de l'arreter !"
+    },
+    "1573": {
+        "「北の荒れ地……けがれの谷の　いちばん奥に\n　けがれの大蛇はいるんだ。<pc>さんの\n　ルーラストーンも　たぶん　そこに……。": "Le desert du nord... Au fond de la Defiled\nValley, se trouve le grand serpent impur. La\nZoomstone de <pc>-san est probablement<br>la aussi..."
+    },
+    "1574": {
+        "「おねがいだよ　<pc>さん。\n　ボク　村で待ってるから\n　絶対に　生きて帰ってきてね。約束だよ！": "Je t'en prie, <pc>-san. Je t'attendrai\nau village, alors reviens sain et sauf,\nd'accord ? C'est une promesse !"
+    },
+    "1575": {
+        "「がんばれよ　<pc>！！　おっと！\n　けがれの谷に行く前に　教会で　この村の場所を\n　ルーラストーンに記憶させるのを　忘れるなよ！": "Bonne chance, <pc> !! Oh, attends !\nAvant de te rendre a Defiled Valley, n'oublie\npas de memoriser l'emplacement de ce village<br>dans le Zoomstone a l'eglise !"
+    },
+    "1576": {
+        "「北の荒れ地……けがれの谷の　いちばん奥に\n　けがれの大蛇はいるんだ。<pc>さんの\n　ルーラストーンも　たぶん　そこに……。": "Le desert du nord... Au fond de la Defiled\nValley, se trouve le grand serpent impur. La\nZoomstone de <pc>-san est probablement<br>la aussi..."
+    },
+    "1577": {
+        "「おねがいだよ　<pc>さん。\n　ボク　村で待ってるから\n　絶対に　生きて帰ってきてね。約束だよ！": "Je t'en prie, <pc>-san. Je t'attendrai\nau village, alors reviens sain et sauf,\nd'accord ? C'est une promesse !"
+    },
+    "1578": {
+        "「ああ。オレとも　約束だぜ！\n　チャンピオンの底力　けがれの大ちゃんに\n　見せつけてやれ！": "Ah. Fais-moi aussi la promesse ! Montre a ce\ngrand impur la veritable force du Champion !"
+    },
+    "1579": {
+        "「がんばれよ　<pc>！！\n　けがれの谷に行く前に　教会で　この村の場所を\n　ルーラストーンに記憶させるのを　忘れるなよ！": "Bonne chance, <pc> !! Avant de te rendre\na Defiled Valley, n'oublie pas de te rendre a\nl'eglise pour enregistrer l'emplacement de ce<br>village dans le Zoomstone !"
+    },
+    "1580": {
+        "「プクレットの村の仲間　プディンから\n　親をうばい　笑顔をうばった\n　けがれの大蛇っ！！": "A Pukulet Village, l'ami Pudin a ete prive de\nses parents et de son sourire par le grand\nserpent impur !"
+    },
+    "1581": {
+        "「３年連続　演芸グランプリ　チャンピオン！\n　この　<cs_pchero>が　お前を　たお……": "Champion du Grand Prix de comedie trois annees\nde suite ! Moi, <cs_pchero>, je vais te\nbattre..."
+    },
+    "1582": {
+        "「ああ～　いやだ　いやだ。\n　エイドスさまの命令じゃなきゃあ\n　こんな　こわい所　絶対に来ませんよ。": "Ah, vraiment, je deteste ca, je deteste ca. Si\nce n'etait pas un ordre de la part\nd'Eidos-sama, je ne serais jamais venu dans un<br>endroit aussi effrayant."
+    },
+    "1583": {
+        "「ええと……迷い込んだ旅人は　いませんよね？\n　いないことにして……": "Hum... Aucun voyageur egare ici, n'est-ce pas\n? Faisons comme s'il n'y en avait pas..."
+    },
+    "1584": {
+        "「あちゃあ……。いたか……。": "Aie... Ca fait mal..."
+    },
+    "1585": {
+        "「ああ～。こりゃあ　もう……。": "Ahh... C'est vraiment..."
+    },
+    "1586": {
+        "「まだ　若いのに　かわいそうになあ……。": "C'est vraiment triste, malgre sa jeunesse..."
+    },
+    "1587": {
+        "「もうすこし　あたしが　早く来てれば\n　エイドスさまの魔よけのおかげで\n　助かったかも　しれないのに。": "Si j'etais arrivee un peu plus tot, peut-etre\nque grace au talisman de protection\nd'Eidos-sama, j'aurais pu etre sauvee."
+    },
+    "1588": {
+        "「あんた　運がなかったなあ……。": "Tu n'as vraiment pas eu de chance..."
+    },
+    "1589": {
+        "「ふむふむ……。\n　けっこうな　金持ちじゃないか。": "Hmm hmm... Tu es plutot bien loti, n'est-ce\npas ?"
+    },
+    "1590": {
+        "なんと　<cs_pchero>は\nお金を　うばわれた！": "Oh non ! <cs_pchero> s'est fait voler son\nargent !"
+    },
+    "1591": {
+        "「なんだこりゃ……。\n　ピリッポ秘伝のネタ帖……？\n　これは　いらないっと。": "Qu'est-ce que c'est que ca...? Un carnet\nsecret de recettes de Pirippo...? Je n'en ai\npas besoin."
+    },
+    "1592": {
+        "なんと　ピリッポ秘伝のネタ帖を\n捨てられてしまった！": "Oh non, le carnet secret de Pirippo a ete jete\n!"
+    },
+    "1593": {
+        "「ほほう。ルーラストーンも持ってるのか！": "Oh, tu as aussi une Zoomstone !"
+    },
+    "1594": {
+        "なんと　<cs_pchero>は\nルーラストーンを　うばわれた！": "Quelle surprise, <cs_pchero> s'est fait voler\nle Zoomstone !"
+    },
+    "1595": {
+        "「そうかそうか。きっと　オルフェアの町で\n　名を上げるつもりだったんだね。": "Ah, je vois, je vois. Tu avais l'intention de\nte faire un nom a Orphea, n'est-ce pas ?"
+    },
+    "1596": {
+        "「それが　こんな所で死んじまって……\n　さぞや無念だろう。でも　安心しなさい。": "Ca doit etre tellement frustrant de mourir\ndans un endroit pareil... Mais ne t'inquiete\npas."
+    },
+    "1597": {
+        "「お金と　ルーラストーンは\n　あんたの分まで　あたしが使ってあげる。\n　だから　化けてでるんじゃないよ。": "L'argent et les Zoomstones, je les utiliserai\na ta place. Alors ne viens pas me hanter,\nd'accord ?"
+    },
+    "1598": {
+        "「きっと　プクレットの村の人だろう。\n　あたしが　あんたを\n　故郷に　連れて帰ってあげるよ。": "Tu dois surement etre quelqu'un du village de\nPukulet. Je vais te ramener chez toi."
+    },
+    "1599": {
+        "「おっ！　無事に　お帰りみたいだな。\n　どうだった？　へたれの大ちゃんは倒せたのか？": "Oh ! Tu es de retour sain et sauf, on dirait.\nAlors, comment ca s'est passe ? As-tu reussi a\nvaincre le lache Daichan ?"
+    },
+    "1600": {
+        "「……っと　いい！　いい！\n　戦いの結末を　最初に聞く権利は\n　プディンにある。オレは　その後でいいよ。": "Tres bien ! Tres bien ! C'est a Pudin d'avoir\nle droit d'entendre le denouement du combat en\npremier. Je peux attendre apres."
+    },
+    "1601": {
+        "「そうそう。プディンなら　さっき\n　商人のティルツキンさんが　呼びにきて\n　賢者エイドスのほこらへ　出かけたぜ。": "Ah, oui. Pour ce qui est de Pudin, l'autre\njour, le marchand Tiltzkin-san est venu\nl'appeler, et ils sont partis au sanctuaire du<br>Sage Eidos."
+    },
+    "1602": {
+        "「お前も　ふたりを追いかけて\n　プディンに　ちゃんと元気に帰ったって\n　教えてやれよ。なっ！　<pc>！": "Toi aussi, poursuis-les et assure-toi de dire\na Pudding que tu es revenu sain et sauf. Allez\n! <pc> !"
+    },
+    "1603": {
+        "「そもそも　わしが命じたのは　けがれの谷へ\n　迷い込む旅人がいないか　馬車で見回り\n　もしもの時は　助けてやれ……ということ。": "Au depart, j'avais ordonne de patrouiller avec\nle chariot pour verifier s'il n'y avait pas de\nvoyageurs egares dans la Defiled Valley et, si<br>necessaire, de leur venir en aide... Voila\ntout."
+    },
+    "1604": {
+        "「馬車に　魔物よけの　まじないを\n　ほどこしてやったのも　そのためだぞ！？": "J'ai aussi applique un sort de protection\ncontre les monstres sur le chariot pour cette\nraison !"
+    },
+    "1605": {
+        "「うっうっ……ごめんなさいってば。": "Snif, snif... Je suis desolee, vraiment."
+    },
+    "1606": {
+        "「……ふむ。ルーラストーンか。\n　それだけでは　あるまい。\n　カネは　使い込んだのだな。": "Hmm. Un Zoomstone, hein. Mais ce n'est pas\ntout, n'est-ce pas ? Tu as egalement detourne\nde l'argent."
+    },
+    "1607": {
+        "「さすがは　賢者さま！\n　よく　おわかりでございますねえ。": "Comme on pouvait s'y attendre du sage ! Vous\ncomprenez vraiment bien, n'est-ce pas ?"
+    },
+    "1608": {
+        "「…………と　いうわけだ　<pc>。": "…Et c'est ainsi, <pc>."
+    },
+    "1609": {
+        "「<pc>さんっ！？": "<pc>-san !?"
+    },
+    "1610": {
+        "「不肖の弟子の無礼　まことに申し訳ない。\n　さあ　これが　お前のルーラストーンだ。": "Je suis vraiment desole pour l'impolitesse de\nmon disciple indigne. Voici, c'est ton\nZoomstone."
+    },
+    "1611": {
+        "<pc>は　ルーラストーンを\n返してもらった！<me 60>": "<pc> a recupere le Zoomstone !<me 60>"
+    },
+    "1612": {
+        "<pc>は　借りていたルーラストーンを\nプディンに　返した！": "<pc> a rendu le Zoomstone qu'il avait\nemprunte a Pudin !"
+    },
+    "1613": {
+        "「………そうか。<pc>が\n　ふたたび　命を落としそうになったとき\n　白き光が　けがれの大蛇をしりぞけたか……。": "…Je vois. Quand <pc> a failli perdre la\nvie a nouveau, une lumiere blanche a repousse\nle grand serpent impur..."
+    },
+    "1614": {
+        "「ボクも見たよ……。\n　遠くの山の向こうから　真っ白い光が伸びて\n　空いっぱいに　広がったんだ。": "Moi aussi, je l'ai vu... Une lumiere blanche\neclatante s'est etendue depuis les montagnes\nlointaines, remplissant le ciel entier."
+    },
+    "1615": {
+        "「やはりな……。\n　わしの目に　狂いは　なかったようじゃ。": "Je le savais... Il semble que mes yeux ne\nm'ont pas trompe."
+    },
+    "1616": {
+        "「白き光は　伝説の勇者が覚醒した証……。\n　遠き　レンダーシアより放たれしもの。": "Une lumiere blanche est le signe de l'eveil du\nheros legendaire... Elle emane de la lointaine\nLendersia."
+    },
+    "1617": {
+        "「<pc>　お前には　宿命がある。\n　だからこそ　死すべき運命より逃れたのだ。": "<pc>, tu as un destin qui t'attend.\nC'est pour cette raison que tu as echappe a\nton sort mortel."
+    },
+    "1618": {
+        "「……<pc>よ。": "......Oh, <pc>."
+    },
+    "1619": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1620": {
+        "「自分でも　わかっているのだろう？\n　お前の肉体と魂は　別の物だと。": "Tu le sais, n'est-ce pas ? Ton corps et ton\name sont deux choses distinctes."
+    },
+    "1621": {
+        "「……まだ　くわしいことは　わからぬが。": "…Nous ne savons pas encore les details."
+    },
+    "1622": {
+        "「しばらく前より　死んだ者の肉体に\n　別の場所で死んだ人間の魂が　入り込み\n　生き返るという事件が　あちこちで起きておる。": "Depuis quelque temps, des incidents se\nproduisent un peu partout ou l'ame d'une\npersonne decedee dans un autre endroit entre<br>dans le corps d'un mort, le ramenant ainsi a\nla vie."
+    },
+    "1623": {
+        "「じゃあ……ボクを　元気づけてくれた\n　あの　<pc>さんは……\n　けがれの大蛇に　殺されたんだね……。": "Alors... le <pc>-san qui m'a remonte le\nmoral... a ete tue par le Grand Serpent Impur,\nn'est-ce pas..."
+    },
+    "1624": {
+        "「もはや　この肉体の主は　よみがえらぬが\n　……<pc>よ。お前は　やつのおかげで\n　生き返り　こうして　ここにいる。": "Desormais, le Lord de ce corps ne reviendra\nplus a la vie... Cependant, <pc>, grace\na lui, tu as pu renaitre et te tenir ici."
+    },
+    "1625": {
+        "「せめて　いつか……\n　こやつが背負っていた　夢を\n　代わりに　かなえてやってくれ。": "Au moins, un jour... Realise a sa place le\nreve qu'il portait sur ses epaules."
+    },
+    "1626": {
+        "「……<pc>さんの…夢……。": "Le reve de <pc>-san"
+    },
+    "1627": {
+        "「……さて！\n　わしは　勇者の覚醒について調べるため\n　しばらく　旅に出るぞ。": "さて！ Je vais partir en voyage pour enqueter sur\nl'eveil du heros."
+    },
+    "1628": {
+        "「おお　そうじゃ。ティルツキン！\n　お前の鉄道パスを　<pc>に渡せ。\n　盗んだカネの　代わりじゃ。": "Oh, c'est vrai. Tiltzkin ! Passe ton ticket de\ntrain a <pc>. Ce sera en echange de\nl'argent vole."
+    },
+    "1629": {
+        "「そっ　そんなぁ～！？　ひどいですよっ！\n　反省したのを　アピールするために\n　ずーっと　だまって聞いてたのに！": "Quoi ? Mais c'est pas vrai ! C'est cruel !\nJ'etais silencieux tout ce temps pour montrer\nque je regrettais vraiment !"
+    },
+    "1630": {
+        "「わかりました！　わかりましたよっ！！\n　もう～！！": "D'accord ! J'ai compris !! Oh la la !!"
+    },
+    "1631": {
+        "<pc>は　ティルツキンから\n大陸間鉄道パス（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Pass Rail\nIntercontinental (objet cle) de Tiltzkin ! <me\n60>"
+    },
+    "1632": {
+        "「その鉄道パスは　世界中の鉄道に乗れちゃう\n　すっごく　貴重な物なんですよ！\n　せめて　大事に使ってくださいね……とほほ。": "Ce pass ferroviaire permet de voyager sur les\nchemins de fer du monde entier. C'est un objet\nextremement precieux ! Alors, s'il vous plait,<br>utilisez-le avec soin... Oh la la."
+    },
+    "1633": {
+        "「<pc>よ。鉄道パスに免じて\n　この　あほうのこと　許してやってくれ。\n　では　わしは　これから旅に……": "<pc>. Pour le bien du passeport\nferroviaire, pardonnez cet idiot, je vous\nprie. Maintenant, je pars en voyage..."
+    },
+    "1634": {
+        "「……そうだな。プクレットの村の連中が\n　また　いたずらしに来るかもしれん。\n　身代わりを　置いていくことにしよう。": "…C'est vrai. Les habitants du village de\nPukulet pourraient revenir faire des farces.\nJe vais laisser un substitut."
+    },
+    "1635": {
+        "「うむ。これでよし。": "Hmm. Voila, c'est parfait."
+    },
+    "1636": {
+        "「……最後に。予言をしてやろう。": "…Pour finir, je vais te faire une prophetie."
+    },
+    "1637": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "1638": {
+        "「<pc>よ。\n　お前は　いずれ　宿命に導かれるままに\n　なにゆえ　自分が生き返ったのかを知るだろう。": "<pc>. Un jour, tu seras conduit par ton\ndestin et sauras pourquoi tu es revenu a la\nvie."
+    },
+    "1639": {
+        "「まずは　５つの大陸を旅してみるといい。\n　心のまま歩め。いずれ　宿命がお前を捕まえる。\n　いやだと言っても　逃れることはできんぞ。": "Tout d'abord, voyage a travers les cinq\ncontinents. Suis ton coeur. Un jour, le destin\nte rattrapera. Meme si tu refuses, tu ne<br>pourras pas y echapper."
+    },
+    "1640": {
+        "「では　達者でな！　<pc>。\n　いつの日か　ふたたび\n　我らは　めぐり会うだろう！": "Alors, prends soin de toi ! <pc>. Un\njour, nous nous retrouverons a nouveau !"
+    },
+    "1641": {
+        "「お師匠さま……行っちゃいましたね。": "Maitre… il est parti…"
+    },
+    "1642": {
+        "「エイドスさまの話は　むずかしくて\n　よくわからなかったんですが……": "Les propos de Maitre Eidos etaient compliques\net je n'ai pas tout compris, mais..."
+    },
+    "1643": {
+        "「とりあえず　けがれの谷の見回りは\n　もう　いらないみたいですから\n　あたしは　オルフェアの町へ行こうと思います。": "Pour l'instant, il semble que nous n'ayons\nplus besoin de surveiller la Vallee Profanee,\nalors je pense aller a Orphea."
+    },
+    "1644": {
+        "「あっちで　まじめに　商売をやり直しますよ。\n　<pc>さん　本当に\n　ご迷惑を　おかけしました。": "Je vais reprendre serieusement le commerce\nla-bas avec Spear. Je suis vraiment desole\npour le derangement, <pc>-san."
+    },
+    "1645": {
+        "「プディンさんは　あたしの馬車で\n　プクレットの村まで　送っていきますんで\n　ご心配なく。さ　プディンさん。行きましょう。": "Pudine-san, je vais vous emmener a Pukulet\nVillage avec mon chariot, alors ne vous\ninquietez pas. Allez, Pudine-san. Partons."
+    },
+    "1646": {
+        "「……<pc>さんは　いずれ\n　世界の中心　レンダーシアに渡って\n　最高の面白演技を極めるんだ！　って言ってた。": "<pc>-san disait qu'un jour, il irait a\nLendersia, le centre du monde, et qu'il y\nperfectionnerait son art de la performance<br>comique ultime !"
+    },
+    "1647": {
+        "「それが　自分の夢だって……。\n　<pc>さん。\n　ボク　先に　村に戻ってるね！": "Ca, c'est vraiment mon reve... <pc>-san.\nJe retourne au village avant toi !"
+    },
+    "1648": {
+        "「よう！　<pc>。\n　プディンとは　会えたのか？": "Salut ! <pc>. As-tu pu rencontrer Pudin\n?"
+    },
+    "1649": {
+        "「じつは……。\n　オレ　この村を出ていくんだ。": "En fait... Je vais quitter ce village."
+    },
+    "1650": {
+        "「お前や　プディンを見てて　思ったんだ。\n　ただ　人を笑わせるだけじゃなくて……\n　もっと大切なことが　あるんじゃないかって。": "Je vous ai observes, toi et Pudin, et j'ai\nreflechi. Faire rire les gens, ce n'est pas\ntout... Il y a quelque chose de plus<br>important, n'est-ce pas ?"
+    },
+    "1651": {
+        "「おっと！　止めないでくれよ。\n　お前に引き止められたら\n　決心が　にぶっちまう。": "Oh ! Ne m'arrete pas, s'il te plait. Si tu me\nretiens, ma determination faiblira."
+    },
+    "1652": {
+        "「とにかく　そういうわけだ。\n　<pc>も　元気でやれよ！": "Quoi qu'il en soit, c'est comme ca.\n<pc>, prends soin de toi et reste en\nforme !"
+    },
+    "1653": {
+        "「１……２……１・２・３！": "1... 2... 1, 2, 3 !"
+    },
+    "1655": {
+        "「フウッ！！": "Fuu !!"
+    },
+    "1656": {
+        "「<pc>！　これまた！\n　やーってくれたなッ！　フウッ！": "<pc> ! Encore une fois ! Tu l'as fait !\nFuu !"
+    },
+    "1657": {
+        "「けがれっちゃん♪　けがれの大蛇を♪\n　つまり・バッチリ　追っぱらう！": "Purification-chan♪ Le grand serpent de\nl'impurete♪ Autrement dit, nous allons le\nchasser completement !"
+    },
+    "1658": {
+        "「ルーラストーン♪　ルーラストーンも♪\n　きっぱり・スッキリ　見つけちゃう！": "Zoomstone♪ Zoomstone aussi♪ Je vais les\ntrouver clairement et nettement !"
+    },
+    "1659": {
+        "「い・ち・に・ん・前・の・証……\n　ラ～ラ～ラ～♪": "Le symbole d'un aventurier accompli... La~ la~\nla~ ♪"
+    },
+    "1660": {
+        "「あげちゃう！！": "Je vais te le donner !!"
+    },
+    "1661": {
+        "「<pc>さんッ！！！！": "<pc>-san !"
+    },
+    "1662": {
+        "「あ……その……": "Ah... euh..."
+    },
+    "1663": {
+        "「その……ボク　生き返ったとか\n　そういうの　よくわからないんだけど……\n　前の　<pc>さんとは別人…なんだよね？": "Je... Je ne comprends pas vraiment cette\nhistoire de resurrection... Mais tu es une\npersonne differente de l'ancien<br><pc>-san, n'est-ce pas ?"
+    },
+    "1664": {
+        "「前の　<pc>さんは　ボクのこと\n　いつも　元気づけてくれて……\n　……ボクのために戦って　死んじゃって。": "Le precedent <pc>-san me remontait\ntoujours le moral... ...Il s'est battu pour\nmoi et en est mort."
+    },
+    "1665": {
+        "「今の　<pc>さんも……\n　ボクのことを　気にかけてくれて。\n　けがれの大蛇を　追い払ってくれて……。": "<pc>-san d'aujourd'hui... Se soucie\naussi de moi. Il a chasse le grand serpent\nimpur..."
+    },
+    "1666": {
+        "「今度は……ちゃんと　帰ってきてくれた。\n　だから　<pc>さん。": "Cette fois... tu es vraiment revenu. Alors,\n<pc>-san."
+    },
+    "1667": {
+        "「ボクにとっては　どっちの\n　<pc>さんも　恩人なんだよ。\n　ボク　<pc>さんの　おかげで……": "Pour moi, quel que soit le <pc>-san,\nvous etes un bienfaiteur. Grace a vous,\n<pc>-san..."
+    },
+    "1668": {
+        "「……っ　ヒック……うう……": "... Hic... Ouh..."
+    },
+    "1669": {
+        "「うわあああああああんっ！！！": "Uwaaaaaaaah !!!"
+    },
+    "1670": {
+        "「あー　ゴホン。": "Ah... Hum."
+    },
+    "1671": {
+        "「プディンも　いろいろ　あったからな。\n　しばらく休めば　落ち着くじゃろう。": "Pudding a traverse beaucoup d'epreuves, tu\nsais. En se reposant un peu, il finira par se\ncalmer."
+    },
+    "1672": {
+        "「話は　すべて　聞いておるぞ。\n　<pc>……": "J'ai tout entendu. <pc>..."
+    },
+    "1673": {
+        "「いや　チャンピオ～ンヌッ！！": "Non, Champion~ne !!"
+    },
+    "1674": {
+        "「プディンや　プクレットの村の者たち\n　皆の笑顔のために　よくぞ\n　あの　けがれの大蛇を追い払った！": "Pudin et habitants du village de Pukulet, vous\navez bien fait de chasser ce grand serpent\nimpur pour le sourire de tous !"
+    },
+    "1675": {
+        "「まさしく　笑いのためなら\n　不可能をも　可能にするヤツ！！\n　見上げた根性じゃ！　わしは感動したぞ！": "Ce gars-la est vraiment incroyable ! Il rend\nl'impossible possible pour le bien de l'humour\n!! Quel courage admirable ! Je suis<br>impressionne !"
+    },
+    "1676": {
+        "「ルーラストーンも　取り戻したそうじゃな！\n　くわしい使い方なら　教会のヘペット神父が\n　教えてくれるはずじゃ！": "Il parait que tu as aussi recupere le\nZoomstone ! Si tu veux en savoir plus sur son\nutilisation, le pere Heppet a l'eglise devrait<br>pouvoir t'aider !"
+    },
+    "1677": {
+        "「この　一人前の証が　あれば\n　いかなる国の　王や大臣も\n　会ってくれるはずじゃ。": "Avec ce Certificat d'Aptitude, meme les rois\net ministres de n'importe quel pays devraient\naccepter de te rencontrer."
+    },
+    "1678": {
+        "「その上　<pc>は\n　演芸グランプリ史上最強の　面白プクリポ。": "De plus, <pc> est le Pukulipo le plus\ndrole de toute l'histoire du Grand Concours\nd'Art Scenique."
+    },
+    "1679": {
+        "「きっと　行く先々で　皆を笑わし\n　オルフェアの町や　メギストリス王国……\n　そして世界中に　笑顔を運んでくれるじゃろう。": "Je suis sur que partout ou tu iras, tu feras\nrire tout le monde. A Orphea, au royaume de\nMegistris... et tu apporteras des sourires<br>dans le monde entier."
+    },
+    "1680": {
+        "「ぷくく……各国で　手がらを立て\n　キーエンブレムまみれになった　お前の姿を\n　想像するだけで　うれしくなってくるわい！": "Pouh pouh... Rien que d'imaginer ta silhouette\ncouverte de Key Emblems apres avoir accompli\ntant de hauts faits dans chaque pays me<br>remplit de joie !"
+    },
+    "1681": {
+        "「ボクも……そう思う！": "Moi aussi... je le pense !"
+    },
+    "1682": {
+        "「<pc>さん。\n　ボクも　これから　しんせきのいる\n　オルフェアの町へ行くんだ。": "<pc>-san. Je vais aussi me rendre a\nOrphea, la ou vivent mes proches."
+    },
+    "1683": {
+        "「だから　えっと……": "Donc, euh..."
+    },
+    "1684": {
+        "「先　行ってるね！": "Je pars devant !"
+    },
+    "1685": {
+        "「さあ！　本当の冒険は　これからじゃぞ！\n　とりあえず　西に向かって走るのじゃ！\n　世界が　お前の笑いを待っておる！": "Allez ! La veritable aventure commence\nmaintenant ! Pour l'instant, cours vers\nl'ouest ! Le monde attend ton rire !"
+    },
+    "1686": {
+        "「さらばだ　<pc>……。\n　わが　最愛の弟子よ！": "Adieu, <pc>... Mon cher et precieux\ndisciple !"
+    },
+    "1687": {
+        "「お～い！　<pc>！": "He ! <pc> !"
+    },
+    "1688": {
+        "「ちょうど　オレたちも　これから\n　村を出るところなんだ。\n　プディンを　オルフェアの町まで送ってくのさ。": "Nous etions justement sur le point de quitter\nle village. Nous allons accompagner Pudin\njusqu'a Orphee."
+    },
+    "1689": {
+        "「それにしても……\n　<pc>　お前は　すごいよな。": "En tout cas... <pc>, tu es vraiment\nincroyable."
+    },
+    "1690": {
+        "「演芸グランプリには　ぶっちぎりで優勝するわ\n　けがれの大蛇は　追い払っちまうわ\n　……ほんと　かないっこないぜ。": "Le Grand Prix de l'Art du Spectacle, je vais\nle remporter haut la main. Je vais chasser le\nserpent impur. ... Vraiment, je ne peux pas<br>rivaliser."
+    },
+    "1691": {
+        "「……プディンや　お前を見てて\n　ようやく　ふんぎりがついたよ。": "...Pudin, en te regardant, j'ai enfin pris une\ndecision."
+    },
+    "1692": {
+        "「オレには　お笑いは向いてない。\n　これからは……": "Je ne suis pas fait pour l'humour. A partir de\nmaintenant..."
+    },
+    "1693": {
+        "「プディン直伝の　泣き芸で\n　いつでも　どこでも　泣ける男として\n　世界を　感動に包んでやるぜ！": "Grace a l'art du pleur enseigne par Pudding,\nje vais emouvoir le monde entier en devenant\nl'homme capable de pleurer n'importe quand,<br>n'importe ou !"
+    },
+    "1694": {
+        "「そして　いつか！": "Et puis, un jour !"
+    },
+    "1695": {
+        "「世界の中心　レンダーシアの劇場で\n　お前の演技と　オレの泣き芸\n　どっちが　客を　わかせるか！": "Sur la scene du theatre de Lendersia, au coeur\ndu monde, on verra si c'est ton jeu d'acteur\nou mon art des larmes qui saura enflammer le<br>public !"
+    },
+    "1696": {
+        "「ビシっと！　けちゃちゃく……\n　決着を　つけようぜ！！": "Boum ! Finissons-en une bonne fois pour toutes\n!"
+    },
+    "1697": {
+        "「………………。": ""
+    },
+    "1698": {
+        "「……え　えっと……。": "...Eh, euh..."
+    },
+    "1699": {
+        "「……ごくっ。": "...Gulp."
+    },
+    "1700": {
+        "「<pc>さん。\n　ボクのために……本当に　ありがとう。": "<pc>-san. Merci beaucoup... pour moi."
+    },
+    "1701": {
+        "「ボク　これからは　泣かないよ。\n　<pc>さんみたいに\n　みんなに笑顔を届ける人に　なりたいから。": "Je ne pleurerai plus desormais. Je veux\ndevenir quelqu'un qui apporte le sourire a\ntout le monde, comme <pc>-san."
+    },
+    "1702": {
+        "「それじゃ　オレの泣き芸修行は\n　どうすりゃいいんだよ！？": "Alors, comment vais-je m'entrainer a pleurer\n!?"
+    },
+    "1703": {
+        "「<pc>さん。": "<pc>-san."
+    },
+    "1704": {
+        "「ボク……プクレットの村の　みんなも\n　死んじゃった　<pc>さんと\n　今の　<pc>さんのことも……": "Je... Je pense a tous ceux du village de\nPukulet qui sont morts, et aussi a\n<pc>-san, celui du passe et celui<br>d'aujourd'hui..."
+    },
+    "1705": {
+        "「みんな　みんな　大好きだよ！": "Tout le monde, je vous aime tous !"
+    },
+    "1706": {
+        "「……ああ。\n　プクレットの村は　サイコーだぜ！": "...Ah. Le village de Pukulet est genial !"
+    },
+    "1707": {
+        "「じゃあな　もと相方！\n　また　どこかで会おうぜ！": "A plus, ancien partenaire ! On se reverra\nquelque part !"
+    },
+    "1708": {
+        "「さよなら　<pc>さん。": "Au revoir, <pc>-san."
+    },
+    "1709": {
+        "「……ありがとう！": "...Merci !"
+    },
+    "6786": {
+        "「ま　こうやって　中の人が変わって\n　ケロっと　生き返ってますけどね。": "Eh bien, comme ca, la personne a l'interieur\nchange et revient a la vie comme si de rien\nn'etait."
+    },
+    "6788": {
+        "今は　誰も　いないようだ。": "Il semble qu'il n'y ait personne pour le\nmoment."
+    },
+    "9511": {
+        "「テキスト削除<yesno><close>": "Texte supprime<yesno><close>"
+    },
+    "9512": {
+        "「テキスト削除": "Je suis desole, je ne peux pas vous aider avec\nca."
+    },
+    "9602": {
+        "「もはや　この村に心残りは　ないじゃろう。\n　さあ　冒険の書を出すのじゃ！": "Je n'ai plus aucun attachement a ce village\ndesormais. Allez, sortez le Adventure Log !"
+    },
+    "26924": {
+        "「ウケるためだったら　死んだフリくらい\n　かんたんに　できちゃうのさ！": "Pour faire rire, faire semblant d'etre mort,\nc'est un jeu d'enfant !"
+    },
+    "27116": {
+        "「世界をめぐり　各国で活躍すれば \n　キーエンブレムという　カギの形をした\n　勲章を　与えられることがある。": "Voyager a travers le monde et accomplir des\nexploits dans chaque pays peut te valoir des\nmedailles en forme de cle, appelees Key<br>Emblems."
+    },
+    "39117": {
+        "ルーラストーンは　記憶させた場所に\n一瞬で移動できる　魔法の石です。\n何度使っても　なくなりません。": "Zoomstone est une pierre magique qui vous\npermet de vous deplacer instantanement a\nl'endroit memorise. Peu importe combien de<br>fois vous l'utilisez, elle ne disparait pas."
+    },
+    "39118": {
+        "このルーラストーンには\nまだ場所が　記憶されていません。\n移動する場所は　教会で記憶させられます。": "Aucun emplacement n'est encore memorise dans\ncette Zoomstone. Les emplacements peuvent etre\nmemorises a l'eglise."
+    },
+    "50738": {
+        "「ここから先の旅は　ひとりには　つらい旅。\n　サポート仲間という協力者を　３人用意したので\n　お前の旅に　同行させるといいじゃろう。": "A partir d'ici, le voyage sera difficile en\nsolitaire. J'ai prepare trois compagnons de\nsoutien pour t'aider. Il serait sage de les<br>emmener avec toi dans ton periple."
+    },
+    "50739": {
+        "「オルフェアの町まで着けば　酒場で\n　新しいサポート仲間を　紹介してもらえる。\n　自由に選んで　連れていくことが　できるぞ！": "Une fois arrives a Orphea, on pourra se rendre\na la taverne et faire la connaissance de\nnouveaux compagnons de soutien. Tu pourras<br>librement choisir qui tu souhaites emmener\navec toi !"
+    }
+}

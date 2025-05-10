@@ -1,0 +1,185 @@
+{
+    "17295": {
+        "<cs_pchero>は\nニーベルのゆびわ（だいじなもの）を\n手に入れた！<me 60>": "<cs_pchero> a obtenu \nl'Anneau de Nibel (objet cle) !<me 60>"
+    },
+    "17296": {
+        "<center>……待っ……　れ……": "...Attends..."
+    },
+    "17297": {
+        "「巨人族よ！　ボクの声が　聞こえるか？<yesno><close>": "Peuple des geants ! M'entendez-vous ?"
+    },
+    "17298": {
+        "「おお！　聞こえているか！\n　どうやら術は　成功したようだな！": "Oh ! Tu m'entends ? Il semble que le sort ait\nreussi !"
+    },
+    "17299": {
+        "「おどろかせて　すまない。\n　今のは　ボクと　巨人族であるキミが\n　言葉を交わせるようにするための術だったんだ。": "Excuse-moi de t'avoir surpris. Ce que je viens\nde faire etait un sort pour que toi, un membre\ndu peuple des geants, et moi puissions<br>communiquer."
+    },
+    "17300": {
+        "「ボクの名は　シグルド！\n　世界の均衡を守るべく戦う　ヴァルハラの戦士！": "Mon nom est ShigLudo ! Je suis un guerrier de\nValhalla, combattant pour preserver\nl'equilibre du monde !"
+    },
+    "17301": {
+        "「キミの名は……　そうか　<cs_pchero>か！\n　ボクの想像どおり　猛々しく　美しい名前だ。": "Ton nom est... Ah, <cs_pchero> ! Comme je\nl'imaginais, c'est un nom a la fois puissant\net magnifique."
+    },
+    "17302": {
+        "「勇猛な巨人族　<cs_pchero>よ！\n　キミは　気づいているか？\n　我らの世界の均衡が　崩れ始めていることに。": "Courageux geant <cs_pchero> ! Es-tu conscient\n? Que l'equilibre de notre monde commence a se\ndesagreger."
+    },
+    "17303": {
+        "「ボクは　それを食い止めるために　長い旅を\n　していたが　その途中で　先ほどの巨鳥に捕まり\n　この巣に　囚われてしまったんだ。": "Je faisais un long voyage pour l'arreter, mais\nen chemin, j'ai ete capture par ce gigantesque\noiseau et emprisonne dans ce nid."
+    },
+    "17304": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "17305": {
+        "「まったく　とんだ目にあったが\n　これも　<cs_pchero>に　出会うための\n　運命だったのかもしれない。": "Quel periple inattendu, mais peut-etre que\nc'etait le destin de rencontrer <cs_pchero>."
+    },
+    "17306": {
+        "「キミに　相談したいことがあるんだ。\n　すまないが　仲間の待つ　ヴァルハラの館へ\n　ボクを　連れていってくれないだろうか？<yesno><close>": "J'ai quelque chose a te confier. Desole, mais\npourrais-tu m'emmener au To Valhalla Hall ou\nmes compagnons m'attendent ? <yesno><close>"
+    },
+    "17307": {
+        "「……なんだって？\n　キミは　人に頼まれて　巨鳥に奪われた指輪を\n　取り返しにきていたのか。": "Quoi... ? Tu dis que tu es venu recuperer\nl'anneau vole par le grand oiseau pour\nquelqu'un ?"
+    },
+    "17308": {
+        "「それなら　優先すべきは　その使命だな。\n　まずは　その指輪を　持ち主に届けよう！": "Dans ce cas, notre priorite doit etre cette\nmission. Commencons par apporter cette bague a\nLord !"
+    },
+    "17309": {
+        "「勇猛な巨人族　<cs_pchero>よ！\n　ボクの足では　移動するのに　時間がかかる。\n　キミの　かばんに　入らせてもらうぞ。": "勇猛な巨人族 <cs_pchero>よ！ Avec mes petites jambes,\nje mets du temps a me deplacer. Laisse-moi\nentrer dans ton sac."
+    },
+    "17310": {
+        "<cs_pchero>は\n戦士シグルド（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu le Warrior Sigurd (objets\ncles) ! <me 60>"
+    },
+    "17311": {
+        "かばんの中から　シグルドの声が聞こえる。": "Depuis l'interieur du sac, tu entends la voix\nde ShiguLudo."
+    },
+    "17312": {
+        "「どうやら　これで\n　キミの使命は　済んだようだな！": "Il semble que ta mission soit accomplie !"
+    },
+    "17313": {
+        "「それでは　すまないが　ボクの仲間が待つ\n　ヴァルハラの館へ　向かってくれ！": "Alors, je suis desole, mais rends-toi au To\nValhalla Hall ou mes compagnons t'attendent !"
+    },
+    "17314": {
+        "「じつは　幸運なことに　ヴァルハラの館は\n　この　巨人族の町にあるんだ！": "En realite, par chance, la salle de Valhalla\nse trouve dans cette ville des geants !"
+    },
+    "17315": {
+        "「あの階段を上がれば　巨人族の住まう\n　特別　大きな家がある。そこに入って\n　右手にある　桃色の扉の部屋を目指してくれ！": "Si tu montes cet escalier, tu trouveras une\nmaison particulierement grande ou vivent les\nGeants. Une fois a l'interieur, vise la piece<br>avec la porte rose sur ta droite !"
+    },
+    "17316": {
+        "「皆！　遅くなって　すまない！\n　ボクだ！　今　帰ったぞ！！": "Tout le monde ! Desole pour le retard ! C'est\nmoi ! Je suis rentre !!"
+    },
+    "17317": {
+        "「おおっ　シグルド様！！\n　よくぞ……　ご無事で　お帰りになりました！": "Oh, Seigneur ShigLudo !! Je suis si heureux...\nque vous soyez revenu sain et sauf !"
+    },
+    "17318": {
+        "「おケガが　ねえようで　なによりです。\n　アッシらは　皆　シグルド様の　お帰りを\n　首を長くして　お待ちしておりやした。": "Il est rassurant de voir que vous n'avez pas\nde blessure. Nous vous attendions tous avec\nimpatience, Ludo-sama."
+    },
+    "17319": {
+        "「ところで　その巨人族は……？": "Au fait, a propos de ce peuple de geants... ?"
+    },
+    "17320": {
+        "「あの者の　視線をあびても\n　身体が動く！　ということは…………": "Meme sous le regard de cette personne, mon\ncorps peut bouger ! Ce qui signifie..."
+    },
+    "17321": {
+        "「シグルド様！　ついに巨人族の戦士に\n　ふさわしき者を　このヴァルハラの館へと\n　お連れになったのですな！": "Seigneur Sig Ludo ! Vous avez finalement amene\nquelqu'un digne d'etre un guerrier des Geants\ndans ce Hall de Valhalla !"
+    },
+    "17322": {
+        "「<pc>。我々　ヴァルハラの戦士は\n　先ほどの術の　かかっていない　巨人族の\n　視線をあびると　身体が動かなくなるんだ。": "<pc>. Nous, les guerriers de Valhalla,\nsommes paralyses lorsque nous croisons le\nregard des geants qui ne sont pas sous l'effet<br>du sort precedent."
+    },
+    "17323": {
+        "「これは　我々が　世の理に背いたゆえの制約。\n　ヴァルハラの戦士は　もとは皆\n　戦いのうちに　命を落とした戦士なのだ。": "C'est une contrainte imposee parce que nous\navons defie les lois du monde. Les guerriers\nde Valhalla etaient a l'origine tous des<br>combattants qui ont perdu la vie sur le champ\nde bataille."
+    },
+    "17324": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "17325": {
+        "「さあ！　キミを　このヴァルハラの館へ\n　招いた理由を話そう。": "Alors ! Laisse-moi te parler de la raison pour\nlaquelle je t'ai invite dans ce To Valhalla\nHall."
+    },
+    "17326": {
+        "<center>キミたち　巨人族は　知らないだろう。\n世界は　調停者オーディンと呼ばれる\n大いなる存在に　支配されていることを。": "Vous, les geants, vous ne le savez\nprobablement pas. Le monde est controle par\nune grande entite appelee Odin, le Mediateur."
+    },
+    "17327": {
+        "<center>万物は　調停者オーディンにより\nその形　その在り方を　さだめられ\n存在を　許されているのだ。": "Toutes choses ont ete definies dans leur forme\net leur existence par Odin, l'Arbitre, et leur\npresence a ete permise ainsi."
+    },
+    "17328": {
+        "<center>その　オーディンの　かたわらには\n我らの主であり　世界の均衡を保つチカラを持つ\n天命の戦乙女の姿が　常に　あった。": "Aux cotes d'Odin se tenait toujours la Fate's\nWar Maiden, notre Seigneur et detentrice du\npouvoir qui maintient l'equilibre du monde."
+    },
+    "17329": {
+        "<center>しかし……　調停者オーディンは\n突如　天命の戦乙女を　いずこかへ連れ去り\n自ら　世界の均衡を　崩し始めた。": "Cependant... le Mediateur Odin a soudainement\nemmene la Vierge de Guerre du Destin quelque\npart et a lui-meme commence a desequilibrer le<br>monde."
+    },
+    "17330": {
+        "<center>オーディンは……\nこの世界を　闇に葬ろうとしているのだ。": "Odin... cherche a plonger ce monde dans les\ntenebres."
+    },
+    "17331": {
+        "「……我々は　ヴァルハラの戦士だ！\n　必ずや　我らが主　天命の戦乙女を奪還し\n　世界の均衡を　取り戻す！": "Nous sommes les guerriers de Valhalla ! Nous\nreprendrons notre Dame de Guerre, Lord Fate,\net retablirons l'equilibre du monde !"
+    },
+    "17332": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "17333": {
+        "「天命の戦乙女の　行方を探すためには\n　三賢人と呼ばれる方々の　おチカラを\n　借りねばなりません。": "Pour retrouver la trace de la Fate's War\nMaiden, nous devons solliciter l'aide des\npersonnes connues sous le nom des Trois Sages."
+    },
+    "17334": {
+        "「三賢人とは　英知の結晶……。世界の均衡を\n　より堅牢なものとする　チカラを持つ方々ですが\n　その居場所は　つかめておりません……。": "Les trois sages sont les incarnations de la\nsagesse... Ils possedent le pouvoir de rendre\nl'equilibre du monde plus solide, mais nous<br>n'avons pas encore localise leur\nemplacement..."
+    },
+    "17335": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "17336": {
+        "「勇猛なる巨人族　<pc>よ！\n　このヴァルハラの館には　古来より\n　ある言い伝えが　語り継がれている。": "O valeureux geant <pc> ! Dans cette\ndemeure de Valhalla, une legende est transmise\ndepuis longtemps."
+    },
+    "17337": {
+        "「世界の均衡が　崩れかけし時\n　選ばれたる巨人族の戦士が　我らの道標となり\n　世界を　闇から救うだろう……と。": "Lorsque l'equilibre du monde menace de\ns'effondrer, un guerrier elu parmi les geants\ndeviendra notre guide et sauvera le monde des<br>tenebres..."
+    },
+    "17338": {
+        "「ボクは　あの巨鳥と戦うキミを見て　確信した！\n　巨人族の戦士に　ふさわしき者は\n　キミのほかに　いない……！": "En te voyant te battre contre ce gigantesque\noiseau, j'en suis convaincu ! Il n'y a\npersonne d'autre que toi qui soit digne d'etre<br>un guerrier de la tribu des geants... !"
+    },
+    "17339": {
+        "「<pc>！　我ら　ヴァルハラの戦士の\n　道標になってくれ！　盟友の契りを結び\n　巨人族の戦士となって　ともに　戦ってくれ！<yesno><close>": "<pc> ! Deviens notre guide, nous, les\nguerriers de Valhalla ! Scellons notre pacte\nd'amitie et deviens un guerrier du peuple des<br>geants pour combattre a nos cotes !\n<yesno><close>"
+    },
+    "17340": {
+        "「しかし　このままでは　世界は\n　闇に　葬り去られてしまう！\n　頼む……キミのチカラが　必要なのだ！": "Cependant, si cela continue ainsi, le monde\nsera plonge dans les tenebres ! Je t'en\nprie... Nous avons besoin de ton pouvoir !"
+    },
+    "17341": {
+        "「ありがとう　<pc>！\n　キミなら　そう言ってくれると　信じていた！": "Merci, <pc> ! Je savais que tu dirais ca\n!"
+    },
+    "17342": {
+        "<if_woman>「皆　しかと見よ！\n　彼女こそが　我らの道標となる\n　巨人族の戦士　<pc>である！！<else>「皆　しかと見よ！\n　彼こそが　我らの道標となる\n　巨人族の戦士　<pc>である！！<endif>": "<if_woman>>Regardez tous attentivement ! C'est\nelle, <pc>, la guerriere du peuple des\ngeants, qui sera notre guide !<else>>Regardez tous attentivement ! C'est lui,\n<pc>, le guerrier du peuple des geants,\nqui sera notre guide ! <endif>"
+    },
+    "17343": {
+        "「心強き　盟友を得た今\n　我らの勝利は　約束されたも同然だ！": "Maintenant que nous avons acquis de vaillants\nallies, notre victoire est pratiquement\nassuree !"
+    },
+    "17344": {
+        "「おぉおおおぉおおおーーー！！": "Ohhhh !!"
+    },
+    "17345": {
+        "「フッ　バカバカしい。\n　付き合っていられませんね。": "Hmph, c'est ridicule. Je ne vais pas perdre\nmon temps avec ca."
+    },
+    "17346": {
+        "「愚鈍な巨人族ごときが\n　調停者オーディンを相手に\n　何が　できるというのです？": "Que peut bien faire une race de geants\nstupides face a Odin, l'arbitre ?"
+    },
+    "17347": {
+        "「ハーゲン！　てめえ　クチを慎め！！": "Hagen ! Modere ton langage !"
+    },
+    "17348": {
+        "「よせ　フロッティ！": "Arrete, Hrotti !"
+    },
+    "17349": {
+        "「ハーゲンよ。キミの　戦士としての能力は\n　ボクも買っている……。しかし　盟友となった\n　<pc>を　愚弄することは　許さん！": "Hagen. J'apprecie tes competences en tant que\nguerrier... Cependant, je ne te pardonnerai\npas de te moquer de notre allie, <pc> !"
+    },
+    "17350": {
+        "「さあ　巨人族の戦士　<pc>よ！\n　粗末な品だが　これを受け取ってくれ。\n　すこしは　キミの助けに　なるだろう。": "Allez, guerrier du peuple des geants,\n<pc> ! C'est un modeste cadeau, mais\naccepte-le. Cela devrait t'aider un peu."
+    },
+    "17351": {
+        "「我々は　全力を尽くして\n　三賢人の居場所を　探しだしてみせる！": "Nous allons faire tout notre possible pour\ntrouver la cachette des Trois Sages !"
+    },
+    "17352": {
+        "「何か　わかったことがあれば　しらせよう。\n　それまでは　休息を取っていてくれ！": "Si je decouvre quelque chose, je te tiendrai\ninforme. D'ici la, prends du repos !"
+    },
+    "17353": {
+        "「巨人族の戦士　<pc>よ！\n　今　ボクたちは　全力を尽くして\n　三賢人の居場所を　探しているところだ。": "O guerrier de la tribu des geants, <pc>\n! Nous mettons actuellement tous nos efforts\npour decouvrir la cachette des Trois Sages."
+    },
+    "17354": {
+        "「何か　わかったことがあれば　しらせよう。\n　それまでは　休息を取っていてくれ！": "Si je decouvre quelque chose, je te tiendrai\ninforme. D'ici la, prends du repos !"
+    },
+    "48530": {
+        "「おぉおおおぉおおおーーー！！": "Ohhhh !!"
+    }
+}

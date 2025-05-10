@@ -1,0 +1,644 @@
+{
+    "319798": {
+        "エドアルドは　<pc>が採ってきた\n宝石を削って　美しく輝く瞳を作り\nそれを　人形の目に取りつけた……。": "Eduardo a taille les gemmes que <pc>\navait rapportees pour creer de magnifiques\nyeux scintillants, puis les a fixes aux<br>poupees..."
+    },
+    "319799": {
+        "「さぁ　目覚めておくれ……愛しき人……。\n　僕の天使……ルーミリアよ！": "Allez, reveille-toi... Mon etre cher... Mon\nange... Lumeria !"
+    },
+    "319800": {
+        "「……あー。\n　何も　起きねえみたいだな。": "…Ah. Il semble que rien ne se passe."
+    },
+    "319801": {
+        "「どうして！　ようやく　完璧な身体が完成した！\n　身体さえあれば　戻ってきてくれるはずなんだ！\n　なぜ　目覚めない　ルーミリアァ……！": "Pourquoi ! J'avais enfin reussi a creer le\ncorps parfait ! Avec ce corps, elle devrait\nrevenir ! Pourquoi ne te reveilles-tu pas,<br>Lumeria... !"
+    },
+    "319802": {
+        "「この町の守護天使様は　もう\n　いなくなってしまったのでしょうか……？": "Le gardien celeste de cette ville aurait-il\ndeja disparu...?"
+    },
+    "319803": {
+        "「守護天使は……いるよ。": "Les anges gardiens... existent."
+    },
+    "319804": {
+        "「天使像のマギエルさんが　言ってたでしょ。\n　守護天使は　各地で眠ってるって。\n　だから　町のどこかには　いるんだと思う。": "La statue de l'ange, Magiel-san, l'a dit,\nn'est-ce pas ? Les anges gardiens dorment un\npeu partout. Donc, je pense qu'il doit y en<br>avoir quelque part dans cette ville."
+    },
+    "319805": {
+        "「それに　前にね　この町で\n　不思議な存在の気配を感じたの。\n　もしかして　あれが天使だったのかな……。": "Et puis, tu sais, j'ai ressenti la presence\nd'une entite mysterieuse dans cette ville\nauparavant. Peut-etre que c'etait un ange..."
+    },
+    "319806": {
+        "「……本当かッ！？\n　彼女は　今　どこにいる！\n　もったいぶってないで　早く教えろッ！": "...C'est vrai !? Ou est Her en ce moment ? Ne\nfais pas de manieres, dis-le-moi vite !"
+    },
+    "319807": {
+        "「わかんない……どこにいるかまでは……。\n　エドアルドさん　やめて……。\n　い　痛いよ……。": "Je ne sais pas... ou il est exactement...\nEduardo-san, arrete... Ca... ca fait mal..."
+    },
+    "319808": {
+        "「あ……すまない……。": "Ah... Desole..."
+    },
+    "319809": {
+        "「う……僕は　いったい……？\n　たしか　結晶のバケモノに\n　身体を貫かれて　それで……。": "Ou... Ou suis-je... ? Je me souviens avoir ete\ntransperce par ce monstre de cristal, et\nensuite..."
+    },
+    "319810": {
+        "「良かった……。\n　あなたのマネをして　身体を作ってみたのですが\n　上手くできるか　自信がなくて……。": "Je suis tellement soulage... J'ai essaye de\ncreer un corps en imitant le tien, mais je\nn'etais pas sur de reussir..."
+    },
+    "319811": {
+        "「新しい身体の具合は　いかがですか。\n　どこか　痛むところは　ありませんか……？": "Comment se porte votre nouveau corps ? Y\na-t-il un endroit qui vous fait mal...?"
+    },
+    "319812": {
+        "「……はじめまして。\n　私は　ルーミリア……です。": "Enchantee de faire votre connaissance. Je suis\nLumeria..."
+    },
+    "319813": {
+        "「僕は　ずっと　待っていたんだ。\n　愛しい人が戻ってくる　その時を。\n　町を守っているのも　すべて彼女のため……。": "J'ai toujours attendu ce moment. Le moment ou\nla personne que j'aime reviendra. Tout ce que\nje fais pour proteger la ville, c'est pour<br>elle..."
+    },
+    "319814": {
+        "「もう一度　彼女に会うためだったら\n　僕は　なんだってやってやる。\n　……だが　ひとりでは　どうにもできなかった。": "Pour revoir Her, je suis pret a tout faire.\n...Mais seul, je n'y suis pas arrive."
+    },
+    "319815": {
+        "「どうしても　ルーミリアに会いたいんだ。\n　キミたちのチカラを　貸してほしい……！\n　頼む　この通りだ！": "Je veux vraiment rencontrer Lumeria. J'ai\nbesoin de votre aide... ! Je vous en prie, je\nvous le demande avec insistance !"
+    },
+    "319816": {
+        "「ルーミリアさん……守護天使様は\n　いったい　どちらにいらっしゃるのでしょう。\n　エドアルドさん　心あたりはありませんか？": "Lumeria-san... Ou se trouve donc notre ange\ngardien ? Eduardo-san, avez-vous une idee ?"
+    },
+    "319817": {
+        "「うーん……彼女については\n　わからないことが多すぎるんだ。内気で\n　自分のことを　語らない人だったから……。": "Hmm... Il y a trop de choses que je ne sais\npas a propos de Her. Elle etait reservee et ne\nparlait pas d'elle-meme..."
+    },
+    "319818": {
+        "「ムニエカ地方の東の高台に　かつて\n　ルーミリアが暮らしていた小屋がある。そこに\n　何か　手がかりが　残っているかもしれない。": "Il y a une cabane sur les hauteurs a l'est de\nla region de Munieka ou Lumeria vivait\nautrefois. Il pourrait y avoir des indices<br>laisses la-bas."
+    },
+    "319819": {
+        "「僕も　あそこを　散々調べてはみたんだが\n　残念ながら　何もつかめなかった。キミたちなら\n　何か　わかることもあるかもしれない……。": "Moi aussi, j'ai longuement explore cet\nendroit, mais malheureusement, je n'ai rien\ndecouvert. Peut-etre que vous pourrez y<br>trouver quelque chose..."
+    },
+    "319820": {
+        "「あー　でも今は　はしごが落ちていて\n　空でも飛ばないと　小屋には行けないんだった。\n　……まぁ　なんとかしてくれたまえ。うん！": "Ah, mais en ce moment, l'echelle est tombee,\net a moins de voler dans les airs, il est\nimpossible d'atteindre la cabane. ...Bon,<br>debrouille-toi pour arranger ca. Oui !"
+    },
+    "319821": {
+        "「僕も行きたいところだが　住民の修理の予定が\n　入っていて　手が離せなくてね……。\n　ドロテア　案内をお願いできるかい？": "Je voudrais y aller aussi, mais j'ai des\nreparations prevues pour les habitants et je\nne peux pas m'en detacher... Mudara,<br>pourrais-tu te charger de les guider ?"
+    },
+    "319822": {
+        "「えっと……あの　ご主人様……。\n　ドロテアは……できれば……。\n　そのう……。": "Euh... euh, cher Lord... Si possible,\nMudara... Enfin..."
+    },
+    "319823": {
+        "「……いえ　なんでもありません。\n　みなさまと　いっしょに\n　ルーミリア様を　捜しますぅ……。": "…Non, ce n'est rien. Je vais chercher\nLumeria-sama avec vous tous…"
+    },
+    "319824": {
+        "「ありがとう　さすがは　僕のドロテア！\n　必ずや　愛しのルーミリアを\n　見つけだしてくれたまえ！": "Merci, comme attendu de mon Mudara !\nTrouve-moi mon amour, Lumeria, sans faute !"
+    },
+    "319825": {
+        "「……ドロテア　元気ないね。\n　どうしたんだろう？": "Mudara, tu n'as pas l'air en forme. Qu'est-ce\nqui se passe ?"
+    },
+    "319826": {
+        "「チュ　チュ……チュピィ～～～～ッ！！": "Chu Chu... Chupi~~~~!!"
+    },
+    "319827": {
+        "チュピちゃんが　天井に体当たりすると\nなんと　天井の板が外れた！": "Lorsque Chupie se jette contre le plafond,\nincroyable, une planche du plafond se detache\n!"
+    },
+    "319828": {
+        "チュピちゃんは　天井裏から\n本のようなものを　持ってきた……。": "Chupie a rapporte quelque chose ressemblant a\nun livre depuis le plafond..."
+    },
+    "319829": {
+        "「……かーっ！　まさか\n　天井裏なんかに　隠してやがったとはな。\n　どこ探しても　見つからねえワケだぜ。": "...Argh ! Je ne m'attendais pas a ce qu'il\nl'ait cache dans le plafond. Pas etonnant\nqu'on ne l'ait trouve nulle part."
+    },
+    "319830": {
+        "「どうやら　これも\n　ルーミリアさんの日記のようですね。\n　さっそく　読んでみましょう……。": "Il semble que ce soit aussi le journal de\nLumeria-san. Allons-y, lisons-le..."
+    },
+    "319831": {
+        "「私の名は　ルーミリア……。\n　かつて　ムニエカの守護天使と\n　呼ばれていた者……。": "Mon nom est Lumeria... Autrefois, on\nm'appelait l'ange gardien de Munieka..."
+    },
+    "319832": {
+        "ジア・クト念晶体と名乗る　侵略者による\n襲撃の果てに　ムニエカの町は\nそこに暮らす住民ともども　破壊されました。": "A la suite de l'attaque des envahisseurs se\nfaisant appeler Cristal de Pensee Zia-Kuto,\nMunieka a ete detruite, ainsi que ses<br>habitants."
+    },
+    "319833": {
+        "理不尽な運命から　なんとしても\n愛する住民たちを救いたかった　私は\n彼らに　新しい器……人形の身体を与え……": "Face a un destin injuste, je voulais a tout\nprix sauver les habitants que j'aimais. Je\nleur ai donne de nouveaux receptacles... des<br>corps de poupees..."
+    },
+    "319834": {
+        "ムニエカ地方の森に残された　創生のチカラで\n彼らの魂と　人形の身体を結びつけ\n復活させることに　成功したのです。": "Grace au pouvoir de la Creation laisse dans la\nforet de la region de Munieka, nous avons\nreussi a lier leurs ames aux corps des poupees<br>et a les ressusciter."
+    },
+    "319835": {
+        "「エドアルドさんが　話していた通りだ。\n　やっぱり　ルーミリアさんが\n　守護天使だったんだね。": "Eduardo-san avait raison. Comme prevu,\nLumeria-san etait bien l'ange gardien."
+    },
+    "319836": {
+        "神が創りたもうた人間と　寸分違わぬ身体を\n全員分作るのは　途方もない作業でしたが\n彼の協力もあり　やりとげることができました。": "Creer un corps identique a celui des humains\nfaconnes par les dieux pour chacun d'entre eux\na ete une tache monumentale. Cependant, grace<br>a sa cooperation, nous avons pu y parvenir."
+    },
+    "319837": {
+        "長い長い時を経て　ついに　私たちは\n愛する故郷ムニエカを　取り戻したのです。\nうれしくて　涙が止まりませんでした。": "Apres un long, tres long moment, nous avons\nenfin repris notre chere patrie, Munieka.\nJ'etais si heureux que je n'ai pu retenir mes<br>larmes."
+    },
+    "319838": {
+        "私たちは　決して　朽ちることのない\n永遠の平和と安寧を　手に入れた。\nこれでずっと　幸せに暮らすことができる。": "Nous avons obtenu une paix et une tranquillite\neternelles qui ne periront jamais. Desormais,\nnous pourrons vivre heureux pour toujours."
+    },
+    "319839": {
+        "けれど……ひとつだけ　気がかりがあります。\n今はまだ　小さな染みだけれど　捨て置けば\n皆を蝕み　町に災いを呼ぶ可能性がある。": "Mais... il y a une chose qui m'inquiete. Pour\nl'instant, ce n'est qu'une petite tache, mais\nsi on l'ignore, elle pourrait ronger tout le<br>monde et apporter le malheur a la ville."
+    },
+    "319840": {
+        "ムニエカの地下にある　私の秘密の場所……。\nしばらくは　そこに　こもりきりになるでしょう。\n入り口の鍵を　３人の住民に　託しておきます。": "Sous Munieka se trouve mon lieu secret... Je\nvais probablement y rester un bon moment. J'ai\nconfie la cle de l'entree a trois habitants."
+    },
+    "319841": {
+        "もう二度と　ムニエカの町を……\n愛する人々を　失いたくはない。\n今度こそ　皆を守らなければ……。": "Je ne veux plus jamais perdre Munieka... ni\nles personnes que j'aime. Cette fois, je dois\nproteger tout le monde..."
+    },
+    "319842": {
+        "「この後に　鍵の取り出し方が　書いてある！\n　……む～？　なんか　へんてこりんだね。": "Apres cela, la methode pour extraire la cle\nest expliquee ! ... Hum ? C'est un peu\netrange, n'est-ce pas ?"
+    },
+    "319843": {
+        "「ルーミリアさんが　町のどこかに\n　今もいるのだとすれば……まだ捜していない\n　町の地下にいる可能性が　高いのでは？": "Si Lumeria-san est encore quelque part dans la\nville, il est fort probable qu'elle se trouve\ndans les souterrains que nous n'avons pas<br>encore explores..."
+    },
+    "319844": {
+        "「地下への入り口が　どこにあるかまでは\n　現段階では　わかりませんが　まずは\n　日記に書いてある　鍵を取りにいきましょう。": "L'emplacement de l'entree pour le sous-sol\nreste inconnu a ce stade. Pour commencer,\nallons chercher la cle mentionnee dans le<br>journal."
+    },
+    "319845": {
+        "「鍵を託されたのは　セアトロさん　オルーサさん\n　ロベールさんの３人。彼らに　日記に記された\n　指示をすれば　鍵を入手できるようです。": "La cle a ete confiee a trois personnes :\nSeatro-san, Orusa-san et Robere-san. Si vous\nsuivez les instructions notees dans le<br>journal, vous devriez pouvoir obtenir la cle."
+    },
+    "319846": {
+        "「あれ？　セアトロさんと　オルーサさんは\n　わかるんですけど　ロベールさん……？\n　この町に　いらっしゃらなかったような……。": "あれ？ Je reconnais Seatro-san et Orusa-san, mais\nRobere-san... ? Il me semble qu'il n'etait pas\ndans cette ville..."
+    },
+    "319847": {
+        "「……とりあえず　順番通り　セアトロさんに\n　日記の指示を　試してみましょうか。こちらは\n　<pc>隊長に　お渡ししておきますね。": "Pour l'instant, essayons de suivre les\ninstructions du journal dans l'ordre,\nSeatro-san. Je vais remettre ceci au capitaine<br><pc>."
+    },
+    "319848": {
+        "<pc>は　\nルーミリアの日記（だいじなもの）を\n手に入れた！<me 60>": "<pc> a obtenu le Journal de Lumeria\n(objet cle) ! <me 60>"
+    },
+    "319849": {
+        "「…………はぁ。": ".........Pff."
+    },
+    "319850": {
+        "「ドロテア？　えっと……何かあった？\n　ルーミリアさんを　捜すことになってから\n　なんだか　元気がないみたいだけど……。": "Mudara ? Euh... Qu'est-ce qu'il y a ? Depuis\nque nous avons commence a chercher\nLumeria-san, tu sembles un peu abattu..."
+    },
+    "319851": {
+        "「あ　<pc>様　ポルテ様……。\n　ご心配をおかけし　申し訳ございません。": "Ah, <pc>-sama, Porte-sama... Je suis\ndesole de vous avoir inquietes."
+    },
+    "319852": {
+        "「ルーミリア様のことを考えると\n　胸のこのあたりが　締めつけられるように\n　痛むんです。人形のくせに　おかしいですよね。": "Quand je pense a Lumeria-sama, j'ai\nl'impression que quelque chose serre ma\npoitrine ici, et ca fait mal. C'est etrange<br>pour une poupee, n'est-ce pas ?"
+    },
+    "319853": {
+        "「ルーミリア様が　帰ってきたら　ご主人様は\n　お喜びになるでしょう。でも　ドロテアは\n　それが　なぜか　とても怖いんです……。": "Lorsque Lumeria-sama reviendra, votre Seigneur\nsera surement ravi. Mais pour une raison\ninconnue, cela effraie terriblement Mudara..."
+    },
+    "319854": {
+        "「大好きなご主人様の　心からの願いなのに\n　こんな風に　考えてしまうなんて\n　ドロテアは　なんと恩知らずなのでしょう……。": "C'est le souhait sincere de mon cher Lord, et\npourtant, comment puis-je penser de la sorte ?\nMudara est vraiment ingrat..."
+    },
+    "319855": {
+        "だいじなものから　ルーミリアの日記を使い\n住民たちから　鍵を手に入れる手順を\n確認しよう。": "Utilise le Journal de Lumeria depuis les\nobjets cles pour verifier la procedure afin\nd'obtenir les cles des habitants."
+    },
+    "319858": {
+        "「すっごーい……！": "Incroyable... !"
+    },
+    "319859": {
+        "「地下へおりる　階段があるな。\n　かなり深くまで　続いているようだが……。": "Il y a un escalier qui descend vers le\nsous-sol. Il semble descendre assez\nprofondement..."
+    },
+    "319860": {
+        "「うう　寒い……。\n　前に　結晶の森で感じたのと同じだ。\n　この先から　冷たくて　悲しい気配がする……。": "Brrr, il fait froid... C'est la meme sensation\nque j'ai ressentie dans la Crystalline Forest.\nPlus loin, je percois une atmosphere glaciale<br>et triste..."
+    },
+    "319861": {
+        "「私……この場所　知ってる……。\n　ずっとずっと　昔に　来たことがある……？": "Je... je connais cet endroit... Je suis deja\nvenue ici il y a tres, tres longtemps..."
+    },
+    "319862": {
+        "「おーい　キミたち～～～！！": "He, vous la-bas～～～ !!"
+    },
+    "319863": {
+        "「なんだいこりゃ……びっくり仰天だ！\n　まさか　毎日見てる広場に\n　こんな仕掛けが　隠されていたなんてさ！": "Qu'est-ce que c'est que ca... je suis\nstupefait ! Jamais je n'aurais imagine qu'un\ntel mecanisme etait cache dans la place que je<br>vois tous les jours !"
+    },
+    "319864": {
+        "「ルーミリアの家で　何か\n　手がかりが　見つかったんだろう？\n　早く　見せておくれよっ！": "As-tu trouve des indices dans la maison de\nLumeria ? Montre-les-moi vite !"
+    },
+    "319865": {
+        "エドアルドに\nルーミリアの日記を　渡しますか？<yesno><close>": "Voulez-vous donner le Journal de Lumeria a\nEduardo ?<yesno><close>"
+    },
+    "319866": {
+        "「……<pc>？\n　イジワルするのは　良くないと思うな。": "…<pc> ? Je pense que ce n'est pas bien\nd'etre mechant."
+    },
+    "319867": {
+        "エドアルドに\nルーミリアの日記を　渡しますか？<yesno><close>": "Voulez-vous donner le Journal de Lumeria a\nEduardo ?<yesno><close>"
+    },
+    "319868": {
+        "<pc>は　エドアルドに\nルーミリアの日記を　渡した。": "<pc> a remis le Journal de Lumeria a\nEduardo."
+    },
+    "319869": {
+        "「マーベラスッ！　初めて会ったときから\n　天使のように可憐な人だと　思っていたが\n　まさか　ホンモノの天使だったとはね！": "Ma chere Honey ! Depuis notre premiere\nrencontre, je te trouvais aussi gracieuse\nqu'un ange, mais je ne m'attendais pas a ce<br>que tu sois un veritable ange !"
+    },
+    "319870": {
+        "「町の中で　まだ　捜していない場所は\n　日記に書いてあった　秘密の場所だけです。\n　恐らく　ルーミリアさんの魂は　この奥に……。": "Dans la ville, l'endroit que nous n'avons pas\nencore explore est celui mentionne dans le\njournal, le lieu secret. C'est probablement la<br>que se trouve l'ame de Lumeria-san..."
+    },
+    "319871": {
+        "「でかしたぞッ　諸君！\n　では　さっそく　我が麗しの天使を\n　迎えにいくとしよう！": "Beau travail, mes amis ! Allons des maintenant\naccueillir notre magnifique ange !"
+    },
+    "319872": {
+        "「あ……待ってぇ……。\n　エドアルド様……行っちゃダメ……！": "Ah... Attends... Eduardo-sama... Ne pars\npas... !"
+    },
+    "319873": {
+        "「……ウアアアアアアッ！": "...Guaaahhh !"
+    },
+    "319874": {
+        "「ア……俺の身体は　ドコダ……？\n　人形の身体じゃなイ　人間のカラダ……。\n　結晶のバケモノに　壊さレタ……俺ノ……。": "Ah… Ou est mon corps… ? Ce n'est pas un corps\nde poupee, mais un corps humain… Le monstre de\ncristal l'a detruit… Mon…"
+    },
+    "319875": {
+        "「何千年も　何万年も\n　アタシは５歳のまま。時ガ止まったまま……。\n　ネエ　いったい　いつマデ……？": "Des milliers d'annees, des dizaines de\nmilliers d'annees, je suis restee a l'age de 5\nans. Le temps s'est arrete... Dis-moi, jusqu'a<br>quand cela va-t-il durer...?"
+    },
+    "319876": {
+        "「アア　アンタたちの　生きてる身体……\n　キレイだネェ　うらやましイネェ……。\n　アタシたチに　恵んでオクレェ……！": "Ahh, vos corps vivants... Ils sont si beaux...\nje suis jaloux... Offrez-les-nous... !"
+    },
+    "319877": {
+        "「ゲゲッ！？　こんなときに\n　みんなそろって　故障かよ！　おいエドアルド！\n　また　何か　やらかしたんじゃねえだろうな！？": "Quoi !? Tout le monde tombe en panne a un\nmoment pareil ! He, Eduardo ! Tu n'aurais pas\nencore fait une de tes betises, hein !?"
+    },
+    "319878": {
+        "「誓って　何もしていないとも！\n　毎日のメンテナンスも　欠かさず\n　おこなっていたし　異常はなかったはずだ。": "Je le jure, je n'ai rien fait ! Je faisais\nl'entretien quotidien sans faute et tout\nsemblait normal."
+    },
+    "319879": {
+        "「うう……少しでも早く　ルーミリアのもとへ\n　向かいたいところだが　町のみんなを\n　このまま　放ってはおけないな。": "Ugh... J'aimerais me diriger vers Lumeria le\nplus tot possible, mais je ne peux pas laisser\nles habitants de la ville ainsi."
+    },
+    "319880": {
+        "「キミたち　悪いが　先に行ってくれないか？\n　みんなを修理したら　僕も\n　すぐに　向かうからさ！": "Je suis desole, mais pourriez-vous avancer\nsans moi ? Une fois que j'aurai repare tout le\nmonde, je vous rejoindrai immediatement !"
+    },
+    "319881": {
+        "「わかりました。\n　エドアルドさんも　お気をつけて！": "D'accord. Eduardo-san, prends soin de toi\naussi !"
+    },
+    "319882": {
+        "「ドロテアは　知っていました……。\n　みんなが　こうなることも　全部……。\n　どうして……どうして……？": "Mudara le savait... Que tout le monde finirait\ncomme ca aussi... Pourquoi... pourquoi...?"
+    },
+    "319883": {
+        "「これは……？\n　ルーミリアさんは　この場所で\n　いったい　何を……。": "Qu'est-ce que... ? Lumeria-san, que\nfaisiez-vous donc a cet endroit... ?"
+    },
+    "319886": {
+        "「……ええっ　ルーミリアさん！？\n　こ　こんな　あっさり\n　見つかっちゃっていいのかな？": "...... Hein, Lumeria-san !? Je... je t'ai\ntrouve si facilement, est-ce vraiment normal ?"
+    },
+    "319887": {
+        "「いえ　ポルテ様……。\n　これは　まぼろしです。\n　この地に封じられし　守護天使の記憶……。": "Non, Porte-sama... Ceci est une illusion.\nC'est le souvenir de l'ange gardien scelle en\nce lieu..."
+    },
+    "319896": {
+        "「町で感じた悪寒は　これだったんだ……。\n　ムニエカのみんなが　長い間\n　ためこんできた　魂のケガレ……。": "C'etait donc ce frisson que j'ai ressenti en\nville... La souillure des ames que tous les\nhabitants de Munieka ont accumulee pendant si<br>longtemps..."
+    },
+    "319897": {
+        "「永遠の生命なんて　どだい　無茶な話なんだ。\n　どうにもならないことを　無理やり\n　どうにかしようとしても　ロクなことにならん。": "L'idee d'une vie eternelle est completement\ninsensee. Essayer de forcer l'impossible avec\nune lance... Ne mene jamais a rien de bon."
+    },
+    "319898": {
+        "「ルーミリアさんは……間違えたのでしょう。\n　愛する者を　守ろうとするあまり\n　大切なことが　見えなくなってしまった。": "Lumeria-san a du... faire une erreur. En\nvoulant trop proteger ceux qu'elle aime, elle\na perdu de vue l'essentiel."
+    },
+    "319899": {
+        "「かつての私も　オルストフさまを……\n　竜族を救いたい一心で　過ちを犯しました。\n　だから　彼女の気持ちは　痛いほどわかります。": "Autrefois, j'ai moi aussi... pour sauver le\npeuple des dragons, commis une erreur envers\nOrstef sama. C'est pourquoi je comprends<br>profondement les sentiments de Her."
+    },
+    "319900": {
+        "「このまま　放っておいたら\n　町のみんなは　どうなっちゃうんだろう……。": "Si on laisse les choses telles quelles,\nqu'adviendra-t-il de tous les habitants de la\nville... ?"
+    },
+    "319901": {
+        "「それこそ　ロクな結果にならんだろうさ。\n　この先にいるはずの　ルーミリア本人に\n　なんとかしてもらうしかねえ。行こうぜ！": "Cela ne menera a rien de bon. Nous n'avons pas\nd'autre choix que de demander a Lumeria\nelle-meme, qui devrait etre plus loin.<br>Allons-y !"
+    },
+    "319902": {
+        "「ええ　急ぎましょう！": "Oui, depechons-nous !"
+    },
+    "319903": {
+        "「…………。": ""
+    },
+    "319904": {
+        "「ここにも　上の階と同じように\n　ルーミリアさんの記憶が\n　残ってるみたいだね……。": "Il semble qu'il y ait ici aussi des souvenirs\nde Lumeria-san, tout comme a l'etage\nsuperieur..."
+    },
+    "319917": {
+        "「町の様子を見るに　ルーミリアが姿を消す前に\n　浄化装置は　完成したようだが……": "A en juger par l'etat de la ville, il semble\nque l'appareil de purification ait ete acheve\navant que Lumeria ne disparaisse..."
+    },
+    "319918": {
+        "「ルーミリアは　住民たちの悪意に\n　耐えることが　できなかったんだろう。\n　これが　失踪の原因かもしれねえな……。": "Lumeria n'a probablement pas pu supporter la\nmalveillance des habitants. Cela pourrait etre\nla raison de sa disparition..."
+    },
+    "319919": {
+        "「……卑怯者！　自分のしたことに　向き合わず\n　被害者ぶって　勝手に逃げて！\n　全部　自分の弱さが　招いた結果なのに！": "... Lache ! Tu refuses de faire face a ce que\ntu as fait, tu te fais passer pour une victime\net tu fuis sans permission ! Tout cela est le<br>resultat de ta propre faiblesse !"
+    },
+    "319920": {
+        "「あなたのせいで　町のみんなは……\n　エドアルド様は　今も　苦しんでいるのに！\n　私は……貴女のことなんか　大っ嫌い……ッ！": "A cause de vous, tous les habitants de la\nville... Eduardo-sama souffre encore ! Je...\nJe te deteste completement... !"
+    },
+    "319921": {
+        "「あ……。": "Ah..."
+    },
+    "319922": {
+        "「お　おい！　どうしたんだ　ドロテア……。\n　お前さんらしく　ないじゃないか。": "He, Mudara ! Qu'est-ce qui se passe... ? Ce\nn'est pas dans tes habitudes."
+    },
+    "319923": {
+        "「いえ……これが　本当の私なんです。\n　臆病で　性根の腐った　汚くて醜い私……。\n　ずっと　目をそむけていた……。": "Non... c'est la vraie moi. Lache, avec un coeur\npourri, sale et laide... J'ai detourne le\nregard pendant tout ce temps..."
+    },
+    "319924": {
+        "「……先に　進みましょう。\n　ルーミリア……見つけなければ……。": "Avancons. Nous devons trouver Lumeria"
+    },
+    "319925": {
+        "「ドロテアさん……？": "Mudara-san...?"
+    },
+    "319926": {
+        "「ルーミリアが話していた\n　浄化の聖花石ってのは　アレか……？": "La pierre sacree de purification dont parlait\nLumeria... c'est ca, non ?"
+    },
+    "319927": {
+        "「ええ……そして　あのモヤのようなものが\n　町の人々から吸収した　魂のケガレ……。": "Eh bien... et cette sorte de brouillard, c'est\nl'impurete des ames absorbee par les habitants\nde la ville..."
+    },
+    "319928": {
+        "「うっ……町のみんなの　負の感情が\n　流れ込んでくる。ルーミリアさんは\n　毎日　こんなのと　向きあっていたの……。": "Ouah... Les emotions negatives de tout le\nmonde en ville affluent. Lumeria-san faisait\nface a ca tous les jours..."
+    },
+    "319929": {
+        "「ケガレが　たまりすぎて\n　浄化しきれなくなってしまっている……。\n　一刻も早く　対処しなければ……。": "Les impuretes se sont accumulees au point de\nne plus pouvoir etre purifiees... Il faut agir\nau plus vite..."
+    },
+    "319930": {
+        "「ですが　ルーミリアさんの魂らしきものは\n　どこにも　見あたりません。\n　ここに　いるだろうと　思ったのに……。": "Cependant, il semble que l'ame de Lumeria-san\nne soit nulle part en vue. Je pensais qu'elle\nserait ici pourtant..."
+    },
+    "319931": {
+        "「やぁやぁ　諸君！　おまたせー！": "Salut a tous ! Desole pour l'attente !"
+    },
+    "319932": {
+        "「さあ　ルーミリアは　どこにいるんだい？\n　人形も連れてきたし　準備万端だ！\n　もったいぶってないで　早く　教えておくれよ！": "Alors, ou se trouve Lumeria ? J'ai meme amene\nla poupee, tout est pret ! Ne fais pas de\nchichis, dis-le-moi vite !"
+    },
+    "319933": {
+        "「どこだい？　僕のルーミリア！\n　見てくれ　キミの身体を　作ったんだよ。\n　隠れてないで　出てきておくれ！": "Ou es-tu ? Ma Lumeria ! Regarde, j'ai cree ton\ncorps. Ne te cache pas, montre-toi !"
+    },
+    "319934": {
+        "「……おおおおおッ！\n　動いた！　ルーミリアが動いたぞ！！": "...Ooooooh ! Lumeria s'est mise en mouvement !\nLumeria a bouge !!"
+    },
+    "319935": {
+        "「そこだね！\n　今行くよ　ルーミリア！": "C'est la ! J'arrive, Lumeria !"
+    },
+    "319936": {
+        "「エドアルドさん！？　それは違うの！\n　すごく　危険なものだから\n　近づいちゃ　ダメだよ！": "Eduardo-san !? Ce n'est pas ca ! C'est quelque\nchose de tres dangereux, ne t'en approche pas\n!"
+    },
+    "319937": {
+        "「ハッハッハッハッ！　何を言っているんだい？\n　ほらごらん　この身体に入りたがっている……。\n　ルーミリアが　僕に　会いたがってるんだよ！": "Ha ha ha ha ! Que dis-tu donc ? Regarde, elle\nveut entrer dans ce corps... Lumeria veut me\nrencontrer !"
+    },
+    "319938": {
+        "「バカなこと　言ってんじゃねえ！\n　そんなヤバそうなの　どう見たって\n　天使なワケねえだろうがよ！": "Ne dis pas de betises ! Ca a l'air dangereux,\ncomment ca pourrait etre un ange ?"
+    },
+    "319939": {
+        "「……うるさいッ！\n　この僕が　間違えるはずがないだろう！\n　ここにいるのは　確かに　ルーミリアなんだ！": "Silence ! Il est impossible que moi, je me\ntrompe ! Ce lieu est assurement Lumeria !"
+    },
+    "319940": {
+        "「あああ　うんざり　うんざりだッ！\n　僕は　こんなに　努力しているのに\n　いくら待てども　キミは　帰ってはこない！": "Ah, j'en ai assez, j'en ai assez ! Je fais\ntant d'efforts, et pourtant, peu importe\ncombien j'attends, tu ne reviens jamais !"
+    },
+    "319941": {
+        "「毎日毎日毎日　変わりばえのない　退屈な日々。\n　愛しいキミがいない町で　木偶人形たちの\n　世話をして過ごすのなんて　もうまっぴらだ！": "Jour apres jour, jour apres jour, des journees\nennuyeuses qui ne changent jamais. Vivre dans\ncette ville sans toi, mon cher, a m'occuper de<br>ces marionnettes... Je n'en peux plus !"
+    },
+    "319942": {
+        "「そうさ　他のヤツらなんて　どうだっていい。\n　ルーミリア……キミだけがいれば……！\n　アハッ……ハハハハッ……！": "Exactement, les autres, peu importe ce qu'ils\ndeviennent. Lumeria... Tant que tu es la... !\nAhah... Hahahaha... !"
+    },
+    "319944": {
+        "「ケガレに　近づいたからです。\n　エドアルド様は　誰よりも\n　この町に　尽くしていた……。": "C'est parce qu'il s'est approche de\nl'impurete. Eduardo-sama a servi cette ville\nplus que quiconque..."
+    },
+    "319945": {
+        "「誰よりも　魂をすり減らし\n　ケガレの影響を　受けやすかった彼を\n　ここには　近づけたくなかった……。": "Plus que quiconque, il a use son ame, et etait\nparticulierement vulnerable a l'influence de\nla Corruption. Je ne voulais pas qu'il<br>s'approche d'ici..."
+    },
+    "319946": {
+        "「エドアルド様……。\n　それ以上　ケガレに　近づいてはなりません。\n　あなたの魂が　壊れてしまいます……。": "Eduardo-sama... Ne vous approchez pas\ndavantage de cette impurete. Votre ame\npourrait en etre brisee..."
+    },
+    "319947": {
+        "「私は　貴方を　失いたくない。\n　貴方を　愛しているから……。\n　お願いです　どうか　戻ってきて！": "Je ne veux pas te perdre. Parce que je\nt'aime... Je t'en prie, reviens !"
+    },
+    "319948": {
+        "「……僕とルーミリアの　邪魔をするな。\n　お前のような　クソ人形の言うことなど\n　誰が聞くものか。": "Ne nous derange pas, Lumeria et moi. Qui\necouterait ce qu'une poupee de pacotille comme\ntoi a a dire ?"
+    },
+    "319949": {
+        "「エドアルド！　てめえ！": "Eduardo ! Toi !"
+    },
+    "319950": {
+        "「さぁ　目覚めよ！\n　僕の天使……ルーミリアよ！": "Allez, reveille-toi ! Mon ange... Lumeria !"
+    },
+    "319951": {
+        "「ああ　なんと　美しい……。\n　やっと　帰ってきてくれたんだね。\n　僕のルーミリア……！": "Ah, que c'est beau... Enfin, tu es revenue. Ma\nLumeria... !"
+    },
+    "319952": {
+        "「ル　ルルル　ルーミリァ……。\n　ワタシ　ルーミリア？\n　キャハッ　キャハハッ！！": "Lu Lu Lu Lumeria... Suis-je Lumeria ? Kya ha !\nKya ha ha !"
+    },
+    "319953": {
+        "「聞コエル　町ノ　ミンナノ声！\n　ミンナ　コンナ身体　モウ嫌ダッテ！\n　早ク　自由ニナリタイッテ　言ッテルヨ。": "J'entends les voix de tout le monde en ville !\nTout le monde dit qu'ils en ont assez de ce\ncorps ! Ils disent qu'ils veulent etre libres<br>comme le Red Snapper."
+    },
+    "319954": {
+        "「……なんだって！？　キミと僕のおかげで\n　死なずに済んだっていうのに\n　なんて　恩知らずな連中だろう！": "...Quoi !? Grace a toi et moi, ils ont pu\neviter la mort, et pourtant, quelle bande\nd'ingrats !"
+    },
+    "319955": {
+        "「そうだ！　そんなに　この暮らしが\n　気に食わないって言うなら　お望みどおり\n　みんな　スクラップにしてあげよう。": "Eh bien ! Si tu detestes tant cette vie, alors\ncomme tu le souhaites, je vais tout\ntransformer en ferraille pour toi."
+    },
+    "319956": {
+        "「キミが　帰ってきた以上\n　あんな出来損ないの人形たちなんて　必要ない！\n　すべて壊して　僕たちだけで　幸せに暮らそう。": "Maintenant que tu es revenu, ces poupees\nratees ne sont plus necessaires !\nDetruisons-les toutes et vivons heureux, juste<br>nous deux."
+    },
+    "319957": {
+        "「キャハッ　スクラップ　スクラップ！\n　ミンナ　コワス！　タノシイ　タノシイナ！": "Kyaha ! De la ferraille, de la ferraille ! Je\nvais tout detruire ! C'est amusant, c'est\ntellement amusant !"
+    },
+    "319958": {
+        "「……チッ！　おい　ポルテ！\n　俺から　離れるんじゃねえぞ！": "... Tch ! He, Porte ! Ne t'eloigne pas de moi\n!"
+    },
+    "319959": {
+        "「……来ます！\n　<cs_pchero>隊長　注意してください！": "Il arrive ! <cs_pchero> Capitaine, faites\nattention !"
+    },
+    "319960": {
+        "「住民たちの魂のケガレは\n　すべて　浄化しました。": "Les impuretes des ames des habitants ont ete\nentierement purifiees."
+    },
+    "319961": {
+        "「ムニエカの町は　本当に美しい。\n　みんな　いつも　幸せそうに笑っていて……。\n　この輝きを　永遠に　残しておきたかった……。": "Munieka est vraiment magnifique. Tout le monde\nsourit toujours avec bonheur... Je voulais\npreserver cette lueur pour l'eternite..."
+    },
+    "319962": {
+        "「ですが　それは　大きな間違いでした。\n　終わりがあるからこそ　ヒトは\n　限られた生の中で　幸せであろうとする……。": "Mais c'etait une grosse erreur. C'est\nprecisement parce qu'il y a une fin que les\netres humains cherchent a etre heureux dans<br>leur vie limitee..."
+    },
+    "319963": {
+        "「だからこそ　町もヒトも　輝いて見えた。\n　私は　人々の生命の輝きに\n　魅せられていたのですね。": "C'est pour cette raison que la ville et ses\nhabitants semblaient briller. J'etais\nenchantee par l'eclat de la vie des gens."
+    },
+    "319964": {
+        "「申し遅れました。我が名は　ルーミリア。\n　偉大なる主神　グランゼニスより\n　このムニエカの地を任されし　守護天使です。": "Je me presente tardivement. Mon nom est\nLumeria. Je suis l'ange gardien charge de\ncette terre de Munieka par le grand Lord<br>divin, Glmp Zenith."
+    },
+    "319965": {
+        "「まさか　ドロテアが　守護天使で\n　こーんなキレイな　おねーさんだったなんて\n　ビックリしちゃったよ。": "Je n'aurais jamais imagine que Mudara, l'ange\ngardien, etait une si jolie demoiselle. J'en\nsuis vraiment etonne."
+    },
+    "319966": {
+        "「あっ　もちろん　あの姿のドロテアも\n　かわいくて　大好きだけどね！": "Ah, bien sur, je trouve aussi Mudara sous\ncette forme adorable et je l'adore !"
+    },
+    "319967": {
+        "「でへへ……キレイで　かわいいなんて……\n　あ　ありがとうございますぅ……。\n　とっても　うれしいですぅ……。": "Dehehe... Dire que je suis jolie et\nmignonne... Ah, merci beaucoup... Je suis\nvraiment ravie..."
+    },
+    "319968": {
+        "「ところで　あのう……。\n　なぜ　皆さまは　私を\n　捜していたのでしょうか……？": "Au fait, euh... pourquoi me cherchiez-vous\ntous ?"
+    },
+    "319969": {
+        "「守護天使マギエル様が　私を……？\n　招集の時が　近いということでしょうか……。": "L'ange gardien Magiel-sama m'a... ? Est-ce que\ncela signifie que le moment de la convocation\napproche... ?"
+    },
+    "319970": {
+        "「では　こちらを　お受け取りください。\n　マギエル様から　おあずかりしていたものです。\n　きっと　皆さまの役に立つでしょう。": "Alors, veuillez accepter ceci. C'est quelque\nchose que nous avons recu de la part de\nMagiel-sama. Je suis sur que cela vous sera<br>utile a tous."
+    },
+    "319971": {
+        "<cs_pchero>は\n女神の弦（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu le Fil de la Deesse\n(objet cle) ! <me 60>"
+    },
+    "319972": {
+        "「それから……\n　これは　私からの　感謝の気持ちです。": "Ensuite... Voici un temoignage de ma\ngratitude."
+    },
+    "319973": {
+        "「ねえ　ルーミリア。聞いてもいい……？\n　ムニエカの町の人たちは\n　これから　どうなっちゃうの？": "Dis, Lumeria. Puis-je te demander quelque\nchose... ? Qu'adviendra-t-il des gens de\nMunieka a present ?"
+    },
+    "319974": {
+        "「ご主人様……エドアルドさんが　これまで\n　皆さんの身体を　修理していましたが\n　それができる者は　もう　町に存在しません。": "Seigneur… Eduardo s'occupait de reparer les\ncorps de tout le monde jusqu'a present, mais\nplus personne en ville n'est capable de le<br>faire maintenant."
+    },
+    "319975": {
+        "「おそらく　百年も経たず　身体が朽ち……\n　住民たちの魂は　人形から解放され\n　天に召されることと　なるでしょう。": "Il est probable que, dans moins de cent ans,\nles corps se desintegrent... Les ames des\nhabitants seront liberees des poupees et<br>rejoindront le ciel."
+    },
+    "319976": {
+        "「地下にある聖花石は　作動していますから\n　人形が朽ちる前に　魂に\n　ケガレがたまる心配は　ないと思います。": "La pierre sacree situee sous terre est en\nfonctionnement, donc je pense qu'il n'y a pas\nlieu de s'inquieter que les ames accumulent<br>des impuretes avant que les poupees ne se\ndegradent."
+    },
+    "319977": {
+        "「ムニエカは……終わりの時を　待つのみとなる。\n　それが　この町の　本来あるべき姿だから……。": "Muñeca... n'attend plus que la fin. C'est\nainsi que cette ville doit etre, en realite..."
+    },
+    "319978": {
+        "「本当は今すぐ　私の手で　みんなを\n　眠らせてあげるべきなのかも　しれません。\n　ですが……": "En verite, je devrais peut-etre tous vous\nendormir de ma main immediatement.\nCependant..."
+    },
+    "319980": {
+        "「皆さま　ムニエカの町を　お守りくださり\n　本当に　ありがとうございます。\n　このご恩は　決して　忘れません。": "Mesdames et messieurs, merci infiniment de\nproteger Munieka. Je n'oublierai jamais cette\nfaveur."
+    },
+    "319981": {
+        "「時が来たら　お呼びください。\n　どこであろうと　必ず　はせ参じます。": "Quand le moment sera venu, appelez-moi. Ou que\nce soit, je viendrai sans faute."
+    },
+    "319982": {
+        "「どうか　貴方たちの人生が　最後の瞬間まで\n　幸せなものでありますように……。": "Que vos vies soient remplies de bonheur\njusqu'a votre dernier instant..."
+    },
+    "319984": {
+        "「……良かったんだよ。\n　この物語は　ここで終わらせるべきなんだ。\n　そう　信じるしかねえだろ。": "...C'etait bien comme ca. Cette histoire doit\nse terminer ici. Oui, il ne nous reste plus\nqu'a y croire."
+    },
+    "319985": {
+        "残りの守護天使を　目覚めさせるため\nほかの町へ　向かおう。": "Pour reveiller les autres anges gardiens,\ndirigeons-nous vers les autres villes."
+    },
+    "319986": {
+        "これで　３人の守護天使を　目覚めさせた。\nはじまりの地へ　戻ろう。": "Avec cela, nous avons reveille les trois anges\ngardiens. Retournons au Pays des\nCommencements."
+    },
+    "319987": {
+        "「貴様らァ……よくも　僕のルーミリアをぉ……。\n　許さん……許さんぞぉッ！": "Vous... Comment avez-vous ose toucher a mon\nLumeria... Je ne vous le pardonnerai pas... Je\nne vous le pardonnerai jamais !"
+    },
+    "319988": {
+        "「エドアルドさん　違うんです……。\n　それは　ルーミリアさんじゃない！\n　信じてください……！": "Eduardo-san, ce n'est pas ca... Ce n'est pas\nLumeria-san ! Je vous en prie, croyez-moi... !"
+    },
+    "319989": {
+        "「ハッ　だまされないぞ……。\n　僕から　ルーミリアを奪おうと\n　嘘をついているんだろう？": "Haha, je ne me laisserai pas tromper... Vous\nmentez pour essayer de me prendre Lumeria,\nn'est-ce pas ?"
+    },
+    "319990": {
+        "「彼女は　誰にも渡さない。僕だけのものだ。\n　ふたりで　永遠に　幸せに暮らすんだ……。\n　アハ　アハハハハァ……！": "Je ne laisserai personne avoir Her. Elle est a\nmoi, rien qu'a moi. Nous vivrons ensemble,\nheureux pour toujours... Ah, ahahahah... !"
+    },
+    "319991": {
+        "「あ……かはっ……。\n　ルーミリ……ア……？": "Ah... kah... Ruumiria...?"
+    },
+    "319992": {
+        "「ギ　ギギ……デキソコナイノ　ニンギョウ\n　ゼンブ　スクラップ……オマエモ！\n　キャハッ　キャハハハハッ！": "Gi... Gigi... Une poupee ratee... Tout est des\ndechets... Toi aussi ! Kya-kya-kya-ha-ha-ha !"
+    },
+    "319993": {
+        "「エドアルドさん！": "Eduardo-san !"
+    },
+    "319994": {
+        "「ドロテア……？\n　キミ　どうして……。": "Mudara... ? Pourquoi es-tu ici... ?"
+    },
+    "319995": {
+        "「ああ　違う。\n　この美しくて　優しい光……。\n　キミは……キミこそが……": "あah, non. Cette lumiere belle et douce...\nToi... c'est bien toi qui..."
+    },
+    "319996": {
+        "「……ルーミリア。\n　キミなんだね。": "......Lumeria. C'est toi, n'est-ce pas ?"
+    },
+    "319997": {
+        "「浄化の聖花石を作るため　チカラのすべてを\n　使い果たした私は　自らの存在すら\n　維持することが　できなくなっていました……。": "Pour creer la Pierre Sacree de Purification,\nj'ai epuise toutes mes forces au point de ne\nplus pouvoir maintenir ma propre existence..."
+    },
+    "319998": {
+        "「消えかけていたところを\n　貴方の作った人形に　入りこんで\n　どうにか　生きながらえることができたのです。": "Alors que j'etais sur le point de disparaitre,\nj'ai reussi a survivre en entrant dans la\npoupee que vous avez creee."
+    },
+    "319999": {
+        "「自分が　何者であるのかも忘れ……\n　真実から　目をそむけてきた……。": "J'ai oublie qui je suis... T. J'ai detourne\nles yeux de la verite..."
+    },
+    "320000": {
+        "「恐ろしかったんです。\n　死という現実を受け入れ　すべてを……\n　大好きな貴方を　失うことが……。": "C'etait terrifiant. Accepter la realite de la\nmort et tout... Perdre quelqu'un que j'aime\ntant..."
+    },
+    "320001": {
+        "「でも　どれだけつらくても　向きあわなくては。\n　これ以上　ムニエカの民を\n　苦しめるわけには　いかないから。": "Mais peu importe a quel point c'est difficile,\nje dois y faire face. Je ne peux pas continuer\na faire souffrir le peuple de Munieka."
+    },
+    "320002": {
+        "「これは……私の罪。\n　すべて　受けとめます。": "Ceci... est mon peche. Je l'assumerai\nentierement."
+    },
+    "320003": {
+        "「エドアルドさん　しっかりして！\n　エドアルドさん！": "Eduardo-san, reprenez-vous ! Eduardo-san !"
+    },
+    "320004": {
+        "「ルーミリア……君は\n　ずっと　そばに　いてくれたんだね……。\n　それなのに　僕　ちっとも気づかないでさ……。": "Lumeria... tu es restee a mes cotes tout ce\ntemps... Et moi, je ne m'en suis meme pas\nrendu compte..."
+    },
+    "320005": {
+        "「ホント　バカだよねぇ……。\n　あまりに　バカすぎて　笑っちゃうよ。\n　アハ……ハハハ……。": "Franchement, tu es vraiment idiot, hein...\nC'est tellement stupide que ca me fait rire.\nAhah... Hahaha..."
+    },
+    "320006": {
+        "「ごめんなさい……私のせいで　みんなを……\n　貴方を　長い間　苦しませてしまった……。\n　ごめんなさい　ごめんなさい……。": "Je suis desolee... A cause de moi, tout le\nmonde... Je t'ai fait souffrir pendant si\nlongtemps... Pardon, pardon..."
+    },
+    "320007": {
+        "「どうして　謝るんだい？　キミは\n　僕たちの命を救い　心から愛してくれた。\n　つらいこともあったけど　幸せな日々だったよ。": "Pourquoi t'excuses-tu ? Tu as sauve nos vies\net tu nous as aimes de tout ton coeur. Il y a\neu des moments difficiles, mais ce furent des<br>jours heureux."
+    },
+    "320008": {
+        "「ねえ　見てくれたかい？　キミの愛した町を。\n　美しいだろう？　キミの喜ぶ顔が見たくてさ\n　僕　すごく　がんばったんだよ……。": "He, tu l'as vue, n'est-ce pas ? La ville que\ntu aimais. Elle est magnifique, n'est-ce pas ?\nJ'ai vraiment voulu voir ton visage<br>s'illuminer de joie. J'ai vraiment beaucoup\ntravaille pour ca..."
+    },
+    "320009": {
+        "「だからさ　どうか　笑っておくれ……。\n　ね　ルーミリア……。": "Alors, s'il te plait, souris pour moi... Hein,\nLumeria..."
+    },
+    "320010": {
+        "「……そう　その顔だ。　\n　ずっと　その顔が見たくて　僕は……": "......Oui, ce visage. J'ai toujours voulu voir\nce visage, et c'est pourquoi je..."
+    },
+    "320011": {
+        "「エドアルドさんの魂が砕けて……消えちゃった。\n　攻撃とケガレに　耐えられなかったんだ……。": "L'ame de Eduardo-san s'est brisee... et a\ndisparu. Il n'a pas pu supporter les attaques\net la souillure..."
+    },
+    "320012": {
+        "「……彼は　長い間ずっと　ムニエカの町を\n　守り続けていました。こんな\n　ボロボロになるまで……私なんかのために……。": "...Il a protege Munieka pendant si longtemps,\njusqu'a en devenir dans cet etat lamentable...\nTout ca pour quelqu'un comme moi..."
+    },
+    "320013": {
+        "「彼の魂は　もう　どこにもいない。\n　二度と　よみがえらせることは　できません。\n　もう二度と……会えない……。": "Son ame n'est plus nulle part. Il ne pourra\njamais etre ressuscite. Plus jamais... nous ne\npourrons le revoir..."
+    },
+    "323660": {
+        "「エドアルドさん……そんな……！": "Eduardo-san... c'est impossible... !"
+    },
+    "323661": {
+        "「町の人たちのことを想うなら……\n　あなたはもう　手を出すべきじゃない。\n　彼らを信じ　そっとしておいてあげましょう。": "Si tu penses aux habitants de la ville... Tu\nne devrais plus intervenir. Fais-leur\nconfiance et laisse-les tranquilles."
+    },
+    "323662": {
+        "「これで……良かったのかな。": "Est-ce que c'etait... vraiment la bonne chose\na faire ?"
+    },
+    "325662": {
+        "<center>ここは　愛しい　ムニエカの住民たちを\n見守り　管理するため　作られし場所。\n私の　秘密の場所。": "Ici, c'est un endroit cree pour veiller sur\nles chers habitants de Munieka et les gerer.\nMon endroit secret."
+    },
+    "325663": {
+        "<center>我が名は　ルーミリア……。\n偉大なる　主神グランゼニスから\nムニエカの町の守護を命じられし　天使。": "Mon nom est Lumeria... Je suis l'ange charge\nde proteger Munieka, sur ordre du grand Gran\nZenith."
+    },
+    "325664": {
+        "<center>ジア・クト念晶体の襲来から\nどれだけの月日が　経ったでしょう……。": "Combien de jours se sont ecoules depuis\nl'attaque du cristal de pensee Gia-Kuto..."
+    },
+    "325665": {
+        "<center>毎日　この場所で　住民たちの様子を見守り\n細心の注意を　払っていました……しかし　ついに\n恐れていたことが　起こってしまったのです。": "Chaque jour, je veillais sur les habitants\ndepuis cet endroit, en faisant preuve de la\nplus grande vigilance... Cependant, ce que je<br>redoutais a finalement fini par se produire."
+    },
+    "325666": {
+        "<center>ある日　突然　住民のひとりが\n異常な言動を取りはじめ　その果てに\n人形の身体を破壊し　自害してしまった……。": "Un jour, soudainement, l'un des habitants a\ncommence a avoir un comportement etrange, et\nfinalement, il a detruit le corps d'une poupee<br>avant de se suicider..."
+    },
+    "325667": {
+        "<center>人形の身体となった　住民たちは\n歳を取らず　死も迎えない……不老不死。\n長い間　不変の生を過ごしていた。": "Les habitants, transformes en corps de\npoupees, ne vieillissent pas et ne connaissent\npas la mort... une immortalite. Ils ont passe<br>une longue periode dans une existence\nimmuable."
+    },
+    "325668": {
+        "<center>流れぬ水が　にごりゆくのと同じように\n時の流れをせき止められた　彼らの魂には\n強いケガレが　生じてしまっていたのです……。": "Comme l'eau stagnante qui devient trouble, les\names de ceux dont le cours du temps a ete\ninterrompu etaient devenues profondement<br>souillees..."
+    },
+    "325669": {
+        "<center>住民たちに異常が出るたび　ひとりひとり\n浄化を施しましたが……いくら　浄化をしても\n年月を経た魂には　すぐケガレがたまってしまう。": "Chaque fois qu'un resident montrait des\nanomalies, nous avons applique une\npurification individuelle... Mais peu importe<br>combien nous purifions, l'impurete s'accumule\nrapidement dans une ame qui a vecu pendant\ntant d'annees."
+    },
+    "325670": {
+        "<center>このままでは　浄化が追いつかず\n住民たちの魂は　皆　闇に堕ちて\n魔物と　化してしまうでしょう……。": "Si cela continue, la purification ne pourra\npas suivre le rythme, et les ames des\nhabitants tomberont toutes dans les tenebres,<br>se transformant en monstres..."
+    },
+    "325671": {
+        "<center>もう二度と　ムニエカの町を\n愛する者たちを　失いたくありません……。\n一刻も早く　アレを完成させなければ……。": "Je ne veux plus jamais perdre ceux qui aiment\nMunieka... Je dois terminer cela au plus\nvite..."
+    },
+    "325672": {
+        "<center>住民たちの魂のケガレに　対処するため\n私は　町の地下に　ケガレを吸いあつめ\n浄化する装置を　作ることにしました。": "Pour traiter la souillure des ames des\nhabitants, j'ai decide de construire un\ndispositif sous la ville qui absorbera et<br>purifiera cette souillure."
+    },
+    "325673": {
+        "<center>守護天使である私の　ありったけのチカラを\nこの聖花石にこめ　町中のケガレを\n一気に吸収し　浄化する。": "En tant qu'ange gardien, je vais concentrer\ntoute ma puissance dans cette pierre sacree\npour absorber et purifier instantanement toute<br>la souillure de la ville."
+    },
+    "325674": {
+        "<center>浄化の聖花石の完成まで　あともう少し……。\n身体も精神も　限界を迎えつつありますが\nすべてを失ったとしても　やりとげなくては。": "Il ne reste plus qu'un petit peu avant que la\nSainte Pierre Purificatrice ne soit achevee...\nMon corps et mon esprit sont sur le point<br>d'atteindre leurs limites, mais meme si je\ndevais tout perdre, je dois obtenir la Lance."
+    },
+    "325675": {
+        "<center>ムニエカの住民たちの……\n愛する人の笑顔を　守るために。\nだけど……。": "Les habitants de Munieka... Pour proteger le\nsourire de ceux qu'ils aiment. Mais..."
+    },
+    "325676": {
+        "<center>住民たちは　ケガレから生じる絶望を\n抑えることができず　そのすべてを\n私にぶつけてきました。": "Les habitants, incapables de contenir le\ndesespoir engendre par la souillure, ont\ndeverse toute leur detresse sur moi."
+    },
+    "325677": {
+        "<center>どうして　自分たちは　理不尽に殺され\nこんなに苦しんでまで　生きなければならぬのか。\n悲しくて　腹立たしくて　しかたない。": "Pourquoi devons-nous etre tues de maniere si\nabsurde et souffrir autant pour vivre ? C'est\nsi triste et frustrant, c'en est<br>insupportable."
+    },
+    "325678": {
+        "<center>お前さえ　この町に来なければ……。\nこの……疫病神め　とも……。": "Si seulement tu n'etais jamais venu dans cette\nville... Toi... Satane porte-malheur..."
+    },
+    "325679": {
+        "<center>毎日のように　住民たちから\n罵倒の言葉を浴びせられる。魂のケガレによる\n一時的なものだと　理解しています……。": "Chaque jour, les habitants m'invectivent avec\ndes paroles blessantes. Je comprends que c'est\ntemporaire, du a l'impurete de leur ame..."
+    },
+    "325680": {
+        "<center>聖花石さえ完成すれば　元の優しい皆さんに\n戻ってくれる。わかっているはずなのに……。\n目の前が　真っ暗になっていく……。": "Une fois la Sainte Pierre Fleur achevee, tout\nle monde redeviendra aussi gentil qu'avant. Je\nle sais bien, pourtant... Je sens l'obscurite<br>envahir mon esprit..."
+    },
+    "325681": {
+        "<center>どうして　こんなことになってしまったのだろう。\n私はただ　あの幸せな光景を　失いたくなかった。\n愛するあの人に　笑っていてほしかった……。": "Pourquoi cela a-t-il du arriver ainsi ? Je\nvoulais juste ne pas perdre ce paysage\nheureux. Je voulais que cette personne que<br>j'aime continue de sourire..."
+    },
+    "325682": {
+        "<center>もう……何も　考えたくない……。\n皆が言うように　こんな私\n消えてしまえばいい……。": "Je ne veux plus penser a rien... Comme tout le\nmonde le dit, il vaudrait mieux que je\ndisparaisse..."
+    },
+    "325683": {
+        "<center>ごめんなさい　エドアルドさん。\n貴方と交わした約束は　もう\n守ることができないかもしれません……。": "Je suis desolee, Eduardo-san. Je ne suis\npeut-etre plus en mesure de tenir la promesse\nque j'ai faite avec vous..."
+    }
+}

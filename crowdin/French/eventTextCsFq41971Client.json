@@ -1,0 +1,80 @@
+{
+    "234004": {
+        "「私の名は　パドレ。\n　この結晶を　拾った者よ。\n　どうか　これを我が妻に…………": "私の名は、Padre この結晶を拾った者よ どうか、これを我が妻に"
+    },
+    "234006": {
+        "「エテーネ王国の　マローネに\n　届けては　もらえないだろうか？": "Pourrais-tu l'apporter a Marone, au royaume\nd'Ethene ?"
+    },
+    "234008": {
+        "「心ある者に拾われていることを　切に願う……。": "Je prie sincerement pour qu'une ame\nbienveillante le trouve..."
+    },
+    "234010": {
+        "「マローネ……俺は　今　エテーネの……\n　いや　アストルティアに生きる　全ての者の敵\n　時見の箱　キュロノスと戦っている。": "Marone En ce moment, je suis l'ennemi de tous\nceux qui vivent a Ethene... non, de tous ceux\nqui vivent a Astoltia. Je combats le Timeseer<br>Box Kyuronos."
+    },
+    "234012": {
+        "<if_woman>「ひとりではなく\n　俺たちの娘　<pc>とだ。<else>「ひとりではなく\n　俺たちの息子　<pc>とだ。<endif>": "<if_woman>>Ce n'est pas seul, c'est avec notre\nfille <pc>.<else>>Ce n'est pas seul, c'est avec notre fils\n<pc>. <endif>"
+    },
+    "234014": {
+        "「おどろいてる顔が　目に浮かぶよ。\n　<pc>は　キミの目の前で\n　未来へ　時渡りしたそうだな？": "Je peux presque voir ton visage surpris. Il\nparait que <pc> a voyage dans le temps\nvers le futur sous tes yeux ?"
+    },
+    "234016": {
+        "「フフッ　なぜ　知っているかって？\n　俺は　赤ん坊の　<pc>が\n　はるか未来に　時渡りしてくるのを見たんだ。": "Fufu... Pourquoi est-ce que je le sais ? J'ai\nvu le petit <pc>, encore bebe, voyager a\ntravers le temps depuis un futur lointain."
+    },
+    "234018": {
+        "「５０００年後の未来で　<pc>は育った。\n　再会したときは　メレアーデや　クオードと\n　同じ年頃の　立派な若者に　成長していたよ。": "5000 ans dans le futur, <pc> a grandi.\nQuand nous nous sommes retrouves, il etait\ndevenu un jeune homme remarquable, du meme age<br>que Mereade et Quard."
+    },
+    "234020": {
+        "「キミも　もう　すでに会っているはずだ。\n　ファラスと共に　キミを救ってくれた\n　<pc>という若者が　俺たちの子なんだ。": "Tu as probablement deja rencontre cette\npersonne. Le jeune homme nomme <pc>, qui\nt'a sauve avec Faras, est notre enfant."
+    },
+    "234022": {
+        "「<pc>は　５０００年後の未来から\n　俺やキミを　助けにきてくれていたんだよ。": "<pc> venait nous aider, toi et moi,\ndepuis un futur lointain, 5000 ans dans le\nfutur."
+    },
+    "234024": {
+        "「マローネ……キミが　<pc>と\n　親子の再会を果たすことを　願っている。": "Marone... Je souhaite que toi et <pc>\npuissiez vous retrouver en tant que parent et\nenfant."
+    },
+    "234026": {
+        "「俺は　もう……キミのもとへ　戻れそうにないが\n　<pc>なら　必ずや　キュロノスを倒し\n　キミのもとへ　戻ってきてくれるだろう。": "Je ne pourrai plus... revenir vers toi. Mais\n<pc> vaincra surement Kyuronos et\nreviendra vers toi."
+    },
+    "234028": {
+        "「なにせ　俺たちの子だからな。\n　必ず　やりとげてくれるはずだ。": "Apres tout, c'est notre enfant. Il reussira\nsurement sa mission avec Spear."
+    },
+    "234030": {
+        "「……キミと　<pc>が再会する場に\n　俺も　居合わせたかったが……\n　どうしても　それは　かなわないんだ…………。": "J'aurais aime etre present lorsque toi et\n<pc> vous etes retrouves… Mais\nmalheureusement, cela m'est impossible…"
+    },
+    "234032": {
+        "<if_woman>「本当に　すまない……。\n　どうか　俺のぶんまで　過ぎ去った時間を\n　俺たちの娘と　埋めあわせてくれ。<else>「本当に　すまない……。\n　どうか　俺のぶんまで　過ぎ去った時間を\n　俺たちの息子と　埋めあわせてくれ。<endif>": "<if_woman>>Je suis vraiment desole... S'il te\nplait, pour compenser le temps passe, passe-le\navec notre fille a ma place.<else>>Je suis vraiment desole... S'il te plait,\npour compenser le temps passe, passe-le avec\nnotre fils a ma place. <endif>"
+    },
+    "234034": {
+        "「名残惜しいが　ここまでのようだ。\n　愛してる……マローネ。": "Il semble que ce soit la fin. Je t'aime...\nMarone."
+    },
+    "234036": {
+        "「そして　<pc>。\n　お前が　これを　聞いているのなら\n　キュロノスを　倒せたということだな。": "Et donc, <pc>. Si tu entends ceci, cela\nsignifie que tu as reussi a vaincre Kyuronos."
+    },
+    "234038": {
+        "「よくやった……お前を　誇りに思う。": "Bien joue... Je suis fier de toi."
+    },
+    "234040": {
+        "「あなたは　もう　帰らないのね……。": "Tu ne reviendras plus, n'est-ce pas..."
+    },
+    "234042": {
+        "<if_woman>「……<pc>　あなただったの？\n　あなたが　私たちの娘なのね。<else>「……<pc>　あなただったの？\n　あなたが　私たちの息子なのね。<endif>": "<if_woman>>...<pc>, c'etait toi ? Tu es\nnotre fille.<else>>...<pc>, c'etait toi ? Tu es notre\nfils. <endif>"
+    },
+    "234044": {
+        "「よく　顔を見せて　<pc>。\n　あの日に消えた　私の赤ちゃんが\n　こんなに　大きくなって…………": "Montre-moi bien ton visage, <pc>. Mon\nbebe, qui a disparu ce jour-la, est devenu si\ngrand..."
+    },
+    "234046": {
+        "「成長した姿だからこそ　わかることもある。\n　あなたには　パドレのおもかげが　あるわ。": "C'est justement parce que tu as grandi que\ncertaines choses deviennent comprehensibles.\nTu as en toi la ressemblance de Padre."
+    },
+    "234048": {
+        "「私とあなたは　たしかに親子。\n　これからは　ゆっくりと　時間をかけて\n　空白を　埋めあわせていきましょう。": "Vous et moi sommes certainement parent et\nenfant. A partir de maintenant, prenons le\ntemps de combler le vide qui nous separe."
+    },
+    "234050": {
+        "「とはいえ　あなたには　あなたの都合が\n　あるものね……でも　これだけは覚えておいて。": "Cependant, tu as aussi tes propres raisons...\nMais souviens-toi de cela."
+    },
+    "234052": {
+        "「今日から　ここは　あなたの家よ。\n　いつでも帰っておいでね　<pc>。": "A partir d'aujourd'hui, ici, c'est ta maison.\nReviens quand tu veux, <pc>."
+    },
+    "245252": {
+        "「ああ……パドレ……。": "Ah... Padre..."
+    }
+}

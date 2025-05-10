@@ -1,0 +1,638 @@
+{
+    "270575": {
+        "「…………け……て……。": "...Aide... moi..."
+    },
+    "270576": {
+        "「たすけて～！\n　誰か　いるの？\n　おねがい！　ここから　出して～！": "Aidez-moi~ ! Y a-t-il quelqu'un ? S'il vous\nplait ! Sortez-moi d'ici~ !"
+    },
+    "270577": {
+        "何者かが　ツボの中から　助けを求めている。\n手を貸して　あげますか？<yesno><close>": "Quelqu'un a l'interieur du Pot demande de\nl'aide. Voulez-vous lui donner un coup de main\n?<yesno><close>"
+    },
+    "270578": {
+        "「くらいよぉ！　こわいよぉ！\n　おねがい　ここから　出して～！": "C'est sombre ! J'ai peur ! S'il te plait,\nsors-moi d'ici !"
+    },
+    "270579": {
+        "<pc>は　ツボの中に　手をつっこんだ。\n何か　やわらかいものが　入っている……。": "<pc> plongea sa main dans le pot.\nQuelque chose de doux s'y trouvait..."
+    },
+    "270580": {
+        "<pc>は　やわらかい何かを\n思いきり　ひっぱり上げた！": "<pc> a tire de toutes ses forces sur\nquelque chose de mou !"
+    },
+    "270581": {
+        "「ぷるぷる……。このまま　ずーっと\n　くらくて　こわいままかと思ったよぅ。": "Purupuru... J'ai pense que ca resterait sombre\net effrayant pour toujours."
+    },
+    "270582": {
+        "「助けてくれて　ありがとう！\n　ぼく　スラピー！": "Merci de m'avoir aide ! Je suis Slurpy !"
+    },
+    "270583": {
+        "「ふふふ……お優しいのですね。": "Fufufu... Vous etes vraiment gentil."
+    },
+    "270584": {
+        "「まあ。お優しいだけでなく\n　なんと　強そうな　お方でしょう！\n　さぞ　名のある英雄さまと　お見受けしました。": "Eh bien. Non seulement vous etes aimable, mais\nvous semblez aussi incroyablement fort ! Je\ndevine que vous etes un heros de renom."
+    },
+    "270585": {
+        "「わたくしは　リナーシェと申します。\n　天星郷に招かれた者の　ひとりですわ。\n　あなたも　そうなのでしょう？": "Je m'appelle Linashe. Je suis l'une des\npersonnes invitees au Royaume des Etoiles\nCelestes. Vous aussi, n'est-ce pas ?"
+    },
+    "270586": {
+        "「……当代の　勇者の盟友　<pc>さま。\n　その高潔なお心と　堂々たる　たたずまいにも\n　得心がいくというもの。": "...... <pc>-sama, allie du heros de\ncette generation. Nous sommes convaincus de\nvotre noble coeur et de votre prestance<br>majestueuse."
+    },
+    "270587": {
+        "「あなたほどのお方を　前にしては\n　わたくしのごとき　つまらない女が英雄など……\n　過ぎた　呼び名です。": "Face a quelqu'un d'aussi exceptionnel que\nvous, une femme aussi insignifiante que moi ne\nmerite pas le titre de heros... C'est un nom<br>bien trop grand pour moi."
+    },
+    "270588": {
+        "「わたくしは　戦うことが　不得手なのです。\n　これから始まる　紺碧の試練を\n　乗り越えることも　できるかどうか……。": "Je ne suis pas douee pour le combat. Je ne\nsais pas si je pourrai surmonter l'epreuve\nazur qui va commencer..."
+    },
+    "270589": {
+        "「そうですわ！": "C'est exact !"
+    },
+    "270590": {
+        "「ここで　あなたと出会えたのも　天の導き。\n　どうか　わたくしと共に\n　試練へ挑んでいただけませんか？<yesno><close>": "Ici, notre rencontre est guidee par le destin.\nJe vous en prie, accepteriez-vous de relever\nles epreuves a mes cotes ? <yesno><close>"
+    },
+    "270591": {
+        "「お願いいたします　盟友さま。\n　わたくしには　あなたの助けが　必要なのです。\n　ですから…………": "Je vous en prie, cher allie. J'ai besoin de\nvotre aide. C'est pourquoi..."
+    },
+    "270592": {
+        "「ああ……ありがとうございます！\n　さすがは　当代の　盟友さまですわ。\n　なんと　心強い……！": "Ah… merci beaucoup ! Comme attendu de l'allie\nde notre temps. Que c'est rassurant… !"
+    },
+    "270593": {
+        "「スラピーも　いっしょに　行っていい？\n　スラピー　仲間と　はぐれちゃったの。": "Est-ce que Slurpy peut venir avec nous ?\nSlurpy s'est separee de ses compagnons."
+    },
+    "270594": {
+        "「もちろんです。\n　スラピーちゃんのお友達を　捜しながら\n　行きましょうね。": "Bien sur. Allons-y en cherchant les amis de\nSlurpy-chan."
+    },
+    "270595": {
+        "「うんっ！\n　ふたりとも　ありがとう！": "Oui ! Merci a vous deux !"
+    },
+    "270596": {
+        "「この試練場をつかさどる　審判の天使さまは\n　裁定の清堂という場所に　いらっしゃるとか。\n　まずは　そこを　目指しましょう。": "L'ange du jugement qui supervise cette salle\nd'epreuve se trouverait dans un endroit appele\nHall of Arbitration. Commencons par nous<br>diriger la-bas."
+    },
+    "270597": {
+        "「どうしたものか……。": "Comment faire..."
+    },
+    "270598": {
+        "「カンティス～！": "Kantis～ !"
+    },
+    "270599": {
+        "「おお……お前は！": "Oh... c'est toi !"
+    },
+    "270600": {
+        "「あのお方が　審判の天使さまでしょうか？": "Serait-ce cet etre l'ange du jugement ?"
+    },
+    "270601": {
+        "「思いがけず　迷子のスラピーちゃんを\n　お知り合いの所に　連れてきてあげられて\n　よかったですね。": "C'etait une bonne chose de pouvoir ramener la\npetite Slurpy perdue chez ses connaissances."
+    },
+    "270602": {
+        "「そなたは　英雄　リナーシェ殿だな。\n　我が名は　カンティス。\n　この　紺碧の試練場を　あずかる天使だ。": "Tu es le heros Linashe-dono, n'est-ce pas ? Je\nme nomme Kantis. Je suis l'ange qui veille sur\ncette Azure Trial."
+    },
+    "270603": {
+        "「ところで　リナーシェ殿。\n　まさか……そやつと共に　まいられたのか？": "Au fait, Linashe-dono. Ne me dites pas...\netes-vous venu avec cette personne ?"
+    },
+    "270604": {
+        "「はい。盟友さまは\n　わたくしとスラピーちゃんを　守りながら\n　ここまで　連れてきてくださったのです。": "Oui. Votre Excellence l'allie nous a proteges,\nSlurpy-chan et moi, et nous a conduits\njusqu'ici."
+    },
+    "270605": {
+        "「それは　けっこうなことだ。リナーシェ殿の\n　お役に立ったのなら　たとえ　そのような者でも\n　天星郷へ招かれた　意味もあるのだろう。": "C'est une excellente nouvelle. Si cela a pu\netre utile a Linashe-dono, alors meme une\npersonne comme cela doit avoir une raison<br>d'avoir ete invitee au Domaine Celeste."
+    },
+    "270606": {
+        "「……カンティスさま。\n　さっそくですが　試練を始めませんか？": "......Kantis-sama. Pourrions-nous commencer\nl'epreuve sans plus tarder ?"
+    },
+    "270607": {
+        "「盟友さまは　偉大なるチカラを　手にするのに\n　ふさわしいお方。盟友さまと一緒なら　わたくし\n　どんな試練も　乗り越える自信がありますわ。": "L'allie digne de ce nom possede un pouvoir\ngrandiose. Avec un tel allie a mes cotes, je\nsuis certaine de pouvoir surmonter n'importe<br>quelle epreuve."
+    },
+    "270608": {
+        "「……いいだろう。\n　紺碧の試練は　きわめて　明快。\n　我が定めし　番人と戦い　これに勝てばよい。": "...Tres bien. L'epreuve azur est on ne peut\nplus claire. Affronte le gardien que j'ai\ndesigne et triomphe de lui."
+    },
+    "270609": {
+        "「しかし　ひと筋縄ではいかぬぞ。\n　汝らの相手は　天星郷でも　有数の実力者。\n　心して　かかるがよい。": "Cependant, vous ne vous en sortirez pas si\nfacilement. Votre adversaire est l'un des\ncombattants les plus puissants de Tenseikyou.<br>Preparez-vous serieusement avant de\nl'affronter."
+    },
+    "270610": {
+        "「さあ　行け！\n　紺碧の覇者　試練の守り人よ！": "Allez, en avant ! O gardien des epreuves,\nsouverain des mers azurees !"
+    },
+    "270611": {
+        "「スラピーちゃんが……試練の守り人？": "Slurpy-chan est... le Gardien de l'Epreuve ?"
+    },
+    "270612": {
+        "「……汝らが　ここへ至る　少し前のことだ。\n　ひとりの英雄が　紺碧の試練に挑み\n　試練の守り人と　戦った。": "C'etait peu avant que vous n'arriviez ici. Un\nheros solitaire a releve l'epreuve de l'Azur\net s'est battu contre le gardien de l'epreuve."
+    },
+    "270613": {
+        "「その英雄は　おそろしく強く\n　またたく間に　守り人を　追いつめていった。": "Ce heros etait terriblement puissant et en un\nclin d'oeil, il a accule les gardiens."
+    },
+    "270614": {
+        "「そして　トドメの　強烈な一撃によって\n　守り人は　８匹のスライムに分裂し\n　四方八方へ　吹き飛んでしまったのだ。": "Et puis, par un coup final puissant, le\nGardien s'est divise en 8 Slimes, qui ont ete\nprojetes dans toutes les directions."
+    },
+    "270615": {
+        "「スラピーちゃんが　そのうちの\n　１匹ということなのですね。\n　残りの　７匹は……？": "Slurpy-chan est donc l'un d'entre eux. Les 7\nautres...？"
+    },
+    "270616": {
+        "「……合体した状態ならば　いざ知らず\n　分裂したスライムたちは　弱い。\n　自力で戻ってくることさえ　難しいだろう。": "...Quand ils sont fusionnes, c'est une autre\nhistoire, mais une fois divises, les Slimes\nsont faibles. Il leur serait meme difficile de<br>revenir par leurs propres moyens."
+    },
+    "270617": {
+        "「このままでは　試練が……なんということだ。\n　せっかく　天使長から　審判の天使という\n　名誉ある役目を　仰せつかったのに！": "Si cela continue, l'epreuve... Quelle\ncatastrophe. Moi qui avais recu l'honneur de\nla tache d'Ange du Jugement de la part du<br>Grand Ange !"
+    },
+    "270618": {
+        "「……そうだ！": "...C'est ca !"
+    },
+    "270619": {
+        "「汝らへは　試練の内容を　変えるとしよう。\n　二手に分かれ　失踪したスライムたちを集めよ。": "Je vais modifier le contenu de votre epreuve.\nSeparez-vous en deux groupes et rassemblez les\nSlimes disparus."
+    },
+    "270620": {
+        "「すべてのスライムが　見つかった時点で\n　より多くのスライムを集めていた方を　勝者とし\n　紺碧の試練を　達成したものと見なす。": "Une fois que tous les Slimes ont ete trouves,\ncelui qui en aura rassemble le plus sera\ndesigne comme le vainqueur et considere comme<br>ayant reussi l'epreuve azur."
+    },
+    "270621": {
+        "「そして……敗者は　紺碧の試練に\n　失敗したものとする。偉大なるチカラを\n　与えられるのは　どちらか　ひとりのみだ。": "Et ensuite... le perdant sera considere comme\nayant echoue a l'epreuve azur. Seul l'un\nd'entre vous recevra le pouvoir grandiose."
+    },
+    "270622": {
+        "「……殿方は　本当に\n　争い事が　お好きですわね。": "Les hommes aiment vraiment les conflits,\nn'est-ce pas ?"
+    },
+    "270623": {
+        "「審判の天使さまが　そう決められたのでしたら\n　いたしかたありません。\n　これよりは　別々に　まいりましょう。": "Si l'ange du jugement l'a decide ainsi, il n'y\na rien a faire. A partir de maintenant, nous\nemprunterons des chemins separes."
+    },
+    "270624": {
+        "「とはいえ……広い試練場を　あてもなく\n　捜しまわるのは　骨が折れそうです。": "Cela dit... chercher dans cette vaste salle\nd'epreuves sans but precis semble etre une\ntache ardue."
+    },
+    "270625": {
+        "「それなら　スラピーが　ふたりに\n　いいもの　貸してあげる！": "Dans ce cas, Slurpy va vous preter quelque\nchose de bien a vous deux !"
+    },
+    "270626": {
+        "「まあ！　かわいらしいピアスですね。\n　でも……どうして　これを？": "Oh ! Ces boucles d'oreilles sont adorables.\nMais… pourquoi celles-ci ?"
+    },
+    "270627": {
+        "「あのねっ　これを使うと　とおい場所にいても\n　スラピーと　おはなしできるんだよ！": "Tu sais, avec ca, tu peux parler avec Slurpy\nmeme s'il est loin !"
+    },
+    "270628": {
+        "「スラピー　近くにいる仲間のこと\n　ちょっとだけ　わかるの。もし　仲間の場所が\n　わかったら　ふたりに　しらせるね！": "Slurpy, je peux comprendre un peu ce que\nressentent nos camarades proches. Si je\ndecouvre ou ils se trouvent, je vous le ferai<br>savoir a tous les deux !"
+    },
+    "270629": {
+        "「ありがとうございます　スラピーちゃん！\n　これで　あなたのお友達を\n　見つけだすことが　できますわ。": "Merci beaucoup, Slurpy-chan ! Grace a cela,\nnous pourrons retrouver vos amis."
+    },
+    "270630": {
+        "「盟友さま。\n　片方ずつ　お借りしましょう。": "Allie-sama. Empruntons-les chacun a notre\ntour."
+    },
+    "270631": {
+        "<pc>は\nぷるぷるスラピー（だいじなもの）を\n受け取った！<me 60>": "<pc> a recu le Wobbling Slurpy (objet\ncle) ! <me 60>"
+    },
+    "270632": {
+        "「盟友さま。わたくしが　あなたとの勝負に\n　勝つなんて　夢物語に近いのかもしれません。\n　けれど……": "<Allie> sama. Il est peut-etre presque\nimpossible que je vous batte dans un duel.\nCependant..."
+    },
+    "270633": {
+        "「わたくしなりに　がんばらせていただきますね<heart>": "Je vais faire de mon mieux, de mon cote<heart>"
+    },
+    "270634": {
+        "「くくく……。\n　あやつに勝ち目など　あるものか。": "Kukuku... Il n'a aucune chance de gagner."
+    },
+    "270635": {
+        "だいじなものの中にある\n『ぷるぷるスラピー』を使って\nスライムたちの居場所を　教えてもらおう！": "Utilise le 『Wobbling Slurpy』 parmi les objets\ncles pour decouvrir l'emplacement des Slimes !"
+    },
+    "270636": {
+        "「まあ　盟友さま。\n　あなたも　スライムさんを捜しに\n　いらっしゃったのですね。": "Ah, cher allie. Vous etes aussi venu chercher\nM. Slime, n'est-ce pas ?"
+    },
+    "270637": {
+        "「わたくしも　この洞くつを調べようかと\n　思ったのですが……服が　よごれてしまいそうで\n　悩んでおりましたの。": "Moi aussi, je pensais explorer cette grotte...\nMais j'hesitais, de peur de salir mes\nvetements."
+    },
+    "270638": {
+        "「盟友さまは　進まれるのですか？\n　……でしたら　どうか　お気をつけて。": "<Allie> sama, allez-vous avancer ? ...Dans ce\ncas, prenez soin de vous."
+    },
+    "270639": {
+        "「ぷるぷる。": "Purupuru."
+    },
+    "270640": {
+        "「ぷるぷる。\n　ぷるぷる……。": "Purupuru. Purupuru..."
+    },
+    "270641": {
+        "「ぷるぷる！　許せぬ！": "Purupuru! Impardonnable !"
+    },
+    "270642": {
+        "「ここは　我らのすみか。\n　生者が　足を踏み入れるなど……許せぬッ！": "Ici, c'est notre demeure. Que des vivants\nosent y penetrer... C'est inadmissible !"
+    },
+    "270643": {
+        "「こちらです　スライムさん！": "C'est par ici, Slime-san !"
+    },
+    "270644": {
+        "「ひゃあ～っ　助かった！\n　あんたも　英雄さんかい？": "Ouf, je suis sauve ! Tu es aussi un heros,\nn'est-ce pas ?"
+    },
+    "270645": {
+        "「はい　リナーシェと申します。\n　スラピーちゃんの　お友達ですね？\n　あなたを　捜しにまいりました。": "Oui, je m'appelle Linashe. Vous etes l'ami de\nSlurpy, n'est-ce pas ? Je suis venu vous\nchercher."
+    },
+    "270646": {
+        "「オラは　スラロウってんだ。\n　吹っ飛ばされた先で　魔物に追いかけられて\n　なんとか洞くつに　逃げこんだんだけどよォ。": "Je suis Goonther. J'ai ete projete au loin par\nune explosion et je me suis fait poursuivre\npar des monstres. J'ai reussi a m'echapper et<br>a me refugier dans une grotte."
+    },
+    "270647": {
+        "「そこに　おっかないオバケが　いるんだもの！\n　動けなくて　困ってたんだわぁ。": "Il y a un fantome effrayant la-bas ! Je ne\npouvais pas bouger, j'etais vraiment dans le\npetrin."
+    },
+    "270648": {
+        "「それは　大変でしたね。\n　けれど　もう　大丈夫ですよ。": "Ca a du etre difficile. Mais maintenant, tout\nva bien."
+    },
+    "270649": {
+        "「んだけど……あっちの英雄さんは\n　助けなくて　いいのかい？": "Mais... tu n'as pas besoin d'aider ce heros\nla-bas ?"
+    },
+    "270650": {
+        "「ええ　よろこんで<heart>": "Eh bien, avec plaisir <heart>"
+    },
+    "270651": {
+        "「ぷるるーん…………。": "Pururun..."
+    },
+    "270652": {
+        "……誰も　いない。\nどうやら　スライムは\nリナーシェに　ついて行ったようだ。": "Personne n'est la. Il semble que Slime ait\nsuivi Linashe."
+    },
+    "270653": {
+        "「お着きになられていたのですね　盟友さま。": "Vous etes deja arrive, cher allie."
+    },
+    "270654": {
+        "「スラピーちゃんが　おっしゃっていた場所は\n　ここで間違いないと　思うのですが……\n　スライムさんの姿は　見えませんね。": "Je pense que l'endroit dont parlait\nSlurpy-chan est bien ici... Cependant, je ne\nvois pas de Slime-san."
+    },
+    "270655": {
+        "「また　戻ってこられるかもしれません。\n　このあたりで　少し　待ってみましょうか。": "Peut-etre pourrons-nous revenir. Attendons ici\nun moment."
+    },
+    "270656": {
+        "「それにしても　盟友さま。\n　試練場を歩きまわったり　魔物と戦ったり……\n　さぞ　お疲れのことでしょう。": "En tout cas, cher allie. Vous avez beaucoup\nmarche dans l'arene des epreuves et combattu\ndes monstres... Vous devez etre epuise."
+    },
+    "270657": {
+        "「ぱふぱふ……しましょうか？<yesno><close>": "Voulez-vous un petit pafu pafu… ?\n<yesno><close>"
+    },
+    "270658": {
+        "「怖がらなくて　大丈夫ですよ。\n　さあ　チカラを抜いて。\n　わたくしに　すべて　任せて…………": "N'ayez pas peur, tout ira bien. Allez,\ndetendez-vous. Laissez-moi tout prendre en\ncharge..."
+    },
+    "270659": {
+        "「いい子ですね。\n　さあ　目を閉じて……。": "Tu es un bon enfant. Allez, ferme les yeux..."
+    },
+    "270660": {
+        "<cs_pchero>は　リナーシェに言われたとおり\n目を閉じた。": "<cs_pchero> ferma les yeux comme Linashe le\nlui avait demande."
+    },
+    "270661": {
+        "「ぱふぱふ　ぱふぱふ……": "Pafu pafu, pafu pafu..."
+    },
+    "270662": {
+        "うぷぷぷぷ。": "Hihihi."
+    },
+    "270663": {
+        "「ぱふぱふ　ぱふぱふ。": "Paf paf, paf paf."
+    },
+    "270664": {
+        "ぷにぷにと　やわらかい何かが\n<cs_pchero>に　押しつけられた……。": "Quelque chose de moelleux et doux est presse\ncontre <cs_pchero>..."
+    },
+    "270665": {
+        "こ　これは……": "Ce... ceci est..."
+    },
+    "270666": {
+        "き　気持ちいい……。": "C'est agreable..."
+    },
+    "270667": {
+        "「ぷにぷに　ぷにぷに。": "Puni puni, puni puni."
+    },
+    "270668": {
+        "「う～ん。キミ　すっごく　いい匂い！\n　ボク　おなか　すいちゃったよ。": "Hmm. Tu sens vraiment bon ! J'ai vraiment\nfaim."
+    },
+    "270669": {
+        "「ぱふ　ぱふ。": "Pafu pafu."
+    },
+    "270670": {
+        "「これは　魔物たちの　大好物の匂いを\n　再現した　魔物呼びの香水。\n　うまくいきましたね<heart>": "C'est le parfum Monster Call, repliquant\nl'odeur preferee des monstres. Ca a bien\nfonctionne <heart>"
+    },
+    "270672": {
+        "「グルルル……。": "Grurururu..."
+    },
+    "270673": {
+        "「……申し訳ありません。\n　別の魔物まで　呼んでしまったようです。": "Je suis desole. Il semble que j'ai appele\nd'autres creatures."
+    },
+    "270674": {
+        "「ふわあ……ボク　ひとりだったら\n　アイツに　食べられちゃってたよ。\n　やっつけてくれて　ありがとう～！": "Ouaaah... Si j'avais ete seul, il m'aurait\navale tout cru. Merci de l'avoir vaincu pour\nmoi !"
+    },
+    "270675": {
+        "「カンティスに言われて　ボクを　捜しにきたの？\n　じゃあ　ボク　キミに　ついていくよ。\n　ボクの名前は　スープル。よろしくね～。": "Kantis t'a demande de me chercher ? Alors, je\nvais te suivre. Mon nom est Slurple.\nEnchante~."
+    },
+    "270676": {
+        "<cs_pchero>は　スープル（だいじなもの）を\n手に入れた！<me 60>": "<cs_pchero> a obtenu le Slurple (objet cle) !<me 60>"
+    },
+    "270677": {
+        "「さすがは　盟友さまですね。\n　戦うお姿も　勇壮で　りりしくて……\n　わたくし　感動しちゃいました<heart>": "Comme on pouvait s'y attendre de notre allie,\nn'est-ce pas ? Votre maniere de combattre est\na la fois majestueuse et pleine de grace... Je<br>suis vraiment emue <heart>"
+    },
+    "270678": {
+        "ぷるぷる！　ぷるぷる！": "Puru puru ! Puru puru !"
+    },
+    "270679": {
+        "ぷるぷるスラピーが　ぷるぷるしている。": "Wobbling Slurpy tremble."
+    },
+    "270680": {
+        "もしもし！　ぼく　スラピーです！\nふたりに　おはなしが　ありますっ。": "Bonjour ! Je suis Slurpy ! J'ai quelque chose\na vous dire."
+    },
+    "270681": {
+        "あのね……もう試練場に　仲間は　いないみたい。\nもしかしたら　フォーリオンまで\n飛んでいっちゃったのかも　しれないです！": "Tu sais... Il semble qu'il n'y ait plus de\ncompagnons dans la salle des epreuves.\nPeut-etre qu'ils sont deja partis jusqu'a<br>PhorLeon !"
+    },
+    "270682": {
+        "「そうですか……。\n　ありがとうございます　スラピーちゃん。": "Je vois... Merci beaucoup, Slurpy-chan."
+    },
+    "270683": {
+        "「迷子のスライムさんは　全部で　７匹。\n　盟友さまが見つけた　スライムさんが　２匹で\n　わたくしは　１匹。": "Les Slimes perdus sont au nombre de 7. Votre\nAltesse, vous en avez trouve 2, et moi, 1."
+    },
+    "270684": {
+        "「残りのスライムさんは　４匹ですから\n　盟友さまが　あと２匹　見つけると\n　勝負は　決まってしまいますのね。": "Il reste 4 Slimes, donc si vous en trouvez\nencore 2, cher allie, la partie sera decidee."
+    },
+    "270685": {
+        "「困りましたわ。\n　さすが　盟友さまは　強敵ですわね。": "Je suis dans l'embarras. Comme prevu, notre\nallie est un adversaire redoutable."
+    },
+    "270686": {
+        "「とにかく　わたくしも\n　フォーリオンへ　向かうことにします。\n　それでは。": "En tout cas, je vais egalement me rendre a\nForLeon. Sur ce, a plus tard."
+    },
+    "270687": {
+        "突然　<pc>の頭に　何かが直撃し\n<pc>は　すっころんだ！": "Soudain, quelque chose a percute la tete de\n<pc>, et <pc> est tombe a la\nrenverse !"
+    },
+    "270688": {
+        "「おうおう　ネエちゃん！\n　オレっちの相棒に　いったい　なんの用でい！": "Oh oh, mademoiselle ! Qu'est-ce que tu veux a\nmon partenaire ?"
+    },
+    "270689": {
+        "「おうおう　ニイちゃん！\n　オレっちの相棒に　いったい　なんの用でい！": "Oh oh, p'tit frere ! Qu'est-ce que tu veux a\nmon pote ?"
+    },
+    "270690": {
+        "「あっ！　さては　お前……英雄だな！？\n　オイラたちを　連れ戻して\n　また　試練をやろうってんだろ！": "Ah ! Toi... tu es un heros, n'est-ce pas !? Tu\nes la pour nous ramener et nous faire passer\nencore une epreuve, c'est ca !"
+    },
+    "270691": {
+        "「そうは　いくかってぇんでい！\n　ドカンとやられて　ピューっと吹っ飛んで……\n　あんな恐ろしい思いは　二度とゴメンでい！": "Pas question que ca arrive, non ! Je me suis\nfait exploser et j'ai ete projete... Je ne\nveux plus jamais revivre une telle frayeur !"
+    },
+    "270692": {
+        "スライムたちは　逃げだした！": "Les Slimes ont pris la fuite !"
+    },
+    "270693": {
+        "「あのオネーサン……\n　おれを　迎えにきてくれたんだけど\n　魔物どもに　襲われちまったんだ！": "Cette jeune dame est venue me chercher, mais\nnous avons ete attaques par des monstres !"
+    },
+    "270694": {
+        "「なあ　アンタ！　強いんだろ！？\n　オネーサンのこと　助けてやってくれよ！<yesno><close>": "He, toi ! Tu es fort, n'est-ce pas ? Aide donc\nnotre grande soeur, s'il te plait !\n<yesno><close>"
+    },
+    "270695": {
+        "「頼むよ！　おれは　見てのとおり\n　かわいいだけの　かよわいスライム！\n　オネーサンを助けられるのは　アンタだけだ！<yesno><close>": "Je t'en prie ! Comme tu peux le voir, je suis\nun Slime mignon mais faible ! Tu es le seul a\npouvoir aider ma grande soeur !"
+    },
+    "270696": {
+        "「……盟友さま？　どうして……。": "Mon cher allie ? Pourquoi......"
+    },
+    "270697": {
+        "「わたくしのことなど　放っておいて\n　スライムさんを　先に　連れ帰っていれば\n　あなたの　勝ちだったのですよ？": "Si vous m'aviez ignoree et aviez ramene\nSlime-san en premier, vous auriez gagne, vous\nsavez ?"
+    },
+    "270698": {
+        "「あなたという方は…………。": "Vous etes vraiment..."
+    },
+    "270699": {
+        "「……………………": ""
+    },
+    "270700": {
+        "<center>星はまたたき　花はつぼむ\n波がゆりかご　瞳を閉じて\nお眠りなさい　愛しい子": "Les etoiles scintillent, les fleurs ornent le\nvase, Les vagues bercent comme un berceau.\nFerme tes yeux, dors bien, mon enfant adore."
+    },
+    "270701": {
+        "<center>剣はおろして　怒りは忘れ\n波がゆりかご　瞳を閉じて\nお眠りなさい　優しい子": "Depose ton epee, oublie la colere Les vagues\nsont un berceau, ferme les yeux Dors\npaisiblement, doux enfant"
+    },
+    "270702": {
+        "<center>夢はやすらぎ　しとねは棺\n母なる海は　すべてを　いだく\nお眠りなさい　お帰りなさい　私の子": "Le reve est un repos, le lit un cercueil\nLa mer nourriciere embrasse toute chose\nDors en paix, rentre chez toi, mon enfant."
+    },
+    "270703": {
+        "「お帰りなさい。\n　あなたの場所へ……。": "Bienvenue chez vous. A votre place..."
+    },
+    "270704": {
+        "「この歌のチカラこそ　わたくしが英雄として\n　天星郷に招かれた　ゆえんです。": "Le pouvoir de cette chanson est precisement la\nraison pour laquelle j'ai ete invite en tant\nque heros a Tenseikyo."
+    },
+    "270705": {
+        "「盟友さま……。\n　試練のためとはいえ　わたくしは\n　あなたを　利用してばかりいました。": "Mon cher allie... Bien que cela ait ete pour\nl'epreuve, je n'ai fait que vous utiliser."
+    },
+    "270706": {
+        "「そんな　わたくしを　あなたは助けた。\n　わたくしを見捨てていれば　あなたが勝負に勝ち\n　試練を　通過できたというのに……。": "Vous m'avez aidee malgre tout cela. Si vous\nm'aviez abandonnee, vous auriez gagne le duel\net passe l'epreuve... Pourtant, vous avez<br>choisi de m'aider."
+    },
+    "270707": {
+        "「あなたのような方こそを\n　人は　英雄と呼ぶのでしょう。": "C'est des personnes comme vous que l'on\nappelle des heros."
+    },
+    "270708": {
+        "「ですが……わたくしのような女にも\n　ゆずれぬものが　あるのです。": "Cependant... meme pour une femme comme moi, il\ny a des choses que je ne peux pas ceder."
+    },
+    "270709": {
+        "「スラーレさん。\n　わたくしと一緒に　来てくださる？": "Goolliver-san. Voudriez-vous venir avec moi ?"
+    },
+    "270710": {
+        "「はっ　はい！\n　よろこんで……<heart>": "Ou-oui ! C'est avec plaisir... <heart>"
+    },
+    "270711": {
+        "「これで　すべてのスライムさんを\n　見つけたことになりますね。\n　審判の天使さまのもとへ　戻りましょう。": "Avec cela, nous avons trouve tous les Slime\nsan. Retournons aupres de l'ange du jugement\nsama."
+    },
+    "270712": {
+        "「いててて…………。": "Ouch, ca fait mal..."
+    },
+    "270713": {
+        "「さっき　やたらと凶暴な\n　スライムたちに　体当たりされたんだ。": "Tout a l'heure, des Slimes incroyablement\nagressifs m'ont fonce dessus."
+    },
+    "270714": {
+        "「やつらを　捜してるのかい？\n　そこの袋小路に　駆け込んでいったが……\n　くれぐれも　用心するんだぞ。あいててて。": "Vous etes a leur recherche ? Ils se sont\nengouffres dans cette impasse la-bas... Soyez\ntres prudent. Ouille, ouille..."
+    },
+    "270715": {
+        "「ごきげんよう　盟友さま。": "Bonjour, cher allie."
+    },
+    "270716": {
+        "「２匹の　凶暴なスライム……？": "Deux Slimes feroces...?"
+    },
+    "270717": {
+        "「もしかして……\n　ブルースさんとブラザーさんの事でしょうか？": "Peut-etre parlez-vous de Begooshi-san et\nAgooroyd-san..."
+    },
+    "270718": {
+        "「ぷるぷる。\n　オイラたち　凶暴なスライムじゃないよ。\n　いい子のスライムだよ～<heart>": "Purupuru. Nous ne sommes pas des Slimes\nagressifs. Nous sommes de gentils\nSlimes~<heart>"
+    },
+    "270719": {
+        "「姐さん　姐さん！\n　それより　はやく\n　残りの仲間を　捜しにいきやしょう。": "Grande soeur, grande soeur ! Avant tout, allons\nvite chercher le reste de nos compagnons."
+    },
+    "270720": {
+        "「オレっち……姐さんのためなら\n　よろこんで　試練に戻りますぜ<heart>": "Moi... pour vous, grande soeur, je retourne\nvolontiers a l'epreuve<heart>"
+    },
+    "270721": {
+        "「……魔物呼びの香水は　使っていませんよ。\n　あれは　先ほど　使い切ってしまいましたもの。": "...Je n'ai pas utilise le Parfum d'Appel\nMonstre. Je l'ai entierement utilise tout a\nl'heure."
+    },
+    "270722": {
+        "「ふふ……。戦うことだけが\n　強さではないと　いうことです。": "Fufufu... La force ne reside pas seulement\ndans le combat."
+    },
+    "270723": {
+        "「これで　盟友さまと　わたくしの\n　スライムさんは　３対３の　同数になりました。": "Maintenant, mon cher allie et moi, avec\nSlime-san, nous sommes a egalite, trois contre\ntrois."
+    },
+    "270724": {
+        "「７匹目の……最後のスライムさんは\n　どちらに　いらっしゃるのでしょうね？": "Le septieme... le dernier Slime-san, ou\npourrait-il bien etre ?"
+    },
+    "270725": {
+        "「見つかっていないのは　スラーレの野郎ですね。\n　近くに気配は　感じやせんし\n　フォーリオンには　いないと思いやすぜ。": "Celui qu'on n'a pas encore trouve, c'est ce\nGoolliver, ce vaurien. Je ne ressens pas sa\npresence aux alentours, et je pense qu'il<br>n'est pas dans les environs de Fort-Leon."
+    },
+    "270726": {
+        "「ですが　紺碧の試練場には　いないようだと\n　スラピーちゃんが　おっしゃっていたのです。": "Mais il semble que dans l'Azure Trial, il n'y\nsoit pas, d'apres ce que disait Slurpy-chan."
+    },
+    "270727": {
+        "「ねえねえ　リっちゃん。\n　試練場にある　ザドムの泉は　捜した？": "Dis, dis, Ritchan. As-tu cherche la source de\nZaddom dans le lieu des epreuves ?"
+    },
+    "270728": {
+        "「あそこは　裁定の清堂から　遠いんだ。\n　もし　ザドムの泉に　仲間がいても\n　スラピーのやつ　気付かないんじゃないかな。": "La-bas, c'est loin du Hall of Arbitration.\nMeme s'il y a des compagnons a la fontaine de\nZadom, je me demande si Slurpy s'en rendrait<br>compte."
+    },
+    "270729": {
+        "「なるほど。では　スラーレさんを捜しに\n　ザドムの泉へ　向かうことにしましょう。\n　おふたりとも　ありがとうございます。": "Je vois. Dans ce cas, allons chercher\nGoolliver a la Fontaine de Zadom. Merci a vous\ndeux."
+    },
+    "270730": {
+        "「決着の時は　近いようですね。\n　それでは　盟友さま　お先に失礼します。": "Le moment de la decision semble proche,\nn'est-ce pas ? Dans ce cas, cher allie,\nveuillez m'excuser de partir en premier."
+    },
+    "270731": {
+        "「おかえり～。\n　仲間たちを　見つけてくれて　ありがとう！\n　それじゃ　ぷるぷるするやつは　かえしてねっ。": "Bienvenue chez toi～ Merci d'avoir retrouve mes\ncompagnons ! Maintenant, rends-moi cette chose\nqui tremblote, d'accord ?"
+    },
+    "270732": {
+        "<cs_pchero>と　リナーシェは\nぷるぷるスラピーを　スラピーに返した！": "<cs_pchero> a rendu le Wobbling Slurpy a\nLinashe !"
+    },
+    "270733": {
+        "「すべてのスライムを　見つけたということは\n　勝敗が　決したのだな。": "Cela signifie que la victoire est decidee\npuisque tous les Slimes ont ete trouves."
+    },
+    "270734": {
+        "「リナーシェ殿は　４匹。": "Linashe-dono est avec 4 betes."
+    },
+    "270735": {
+        "「当然の結果だ。貴様のような者が\n　偉大なるチカラを　手にする\n　英雄に　ふさわしいはずがない。": "Evidemment. Quelqu'un comme toi ne merite pas\nde devenir le heros qui possede un pouvoir si\ngrand."
+    },
+    "270736": {
+        "「いいえ。\n　まだ　勝負は　終わっていませんわ。": "Non. Le combat n'est pas encore termine."
+    },
+    "270737": {
+        "「スラピーちゃん。\n　あなたを見つけ　ここまで連れてきたのは\n　どなたでしたか？": "Slurpy-chan. Qui vous a trouve et amene ici ?"
+    },
+    "270738": {
+        "「それは……もちろん　<cs_pchero>！": "C'est... bien sur, <cs_pchero> !"
+    },
+    "270739": {
+        "「カンティスさまは　スラピーちゃんを\n　数に入れないとは　おっしゃいませんでした。\n　……これで　４対４の　引き分けですね。": "Kantis-sama n'a pas dit qu'il n'inclurait pas\nSlurpy-chan dans le compte. ...Ainsi, c'est un\nmatch nul, 4 contre 4."
+    },
+    "270740": {
+        "「なっ…なぜ　リナーシェ殿は\n　そやつの肩を持つ！？": "Pourquoi... pourquoi Linashe-dono prend-il son\nparti ?!"
+    },
+    "270741": {
+        "「そもそも……あなたの　歌のチカラがあれば\n　天星郷じゅうから　スライムを集めることなど\n　たやすかったはずだ！": "En fait... Avec le pouvoir de ta chanson, tu\naurais facilement pu rassembler tous les\nSlimes de la cite celeste !"
+    },
+    "270742": {
+        "「やはり　盟友さまを　失格にしようと\n　わたくしに有利な勝負を　させていたのですね。": "En fin de compte, vous avez organise un duel a\nmon avantage pour disqualifier votre allie,\nn'est-ce pas ?"
+    },
+    "270743": {
+        "「なぜ　あなたが　盟友さまを嫌うのかは\n　存じません。しかし　あなたがしたことは\n　天使の責務に　反する行為ではないのですか？": "Pourquoi detestez-vous notre allie, je\nl'ignore. Cependant, ce que vous avez fait ne\nva-t-il pas a l'encontre du devoir des anges ?"
+    },
+    "270744": {
+        "「偉大なるチカラは　世界を守るチカラ。\n　４つの試練を乗り越えた者　全員に与えられる。": "Le grand pouvoir est celui qui protege le\nmonde. Il sera accorde a tous ceux qui\nsurmonteront les quatre epreuves."
+    },
+    "270745": {
+        "「逆に言うと　試練の脱落者が　増えれば\n　世界を守るチカラを持つ者が　減るということ。\n　そして　世界を守ることが　天使のつとめ……。": "Inversement, cela signifie que si le nombre de\nceux qui echouent aux epreuves augmente, le\nnombre de ceux qui ont le pouvoir de proteger<br>le monde diminue. Et proteger le monde est le\ndevoir des anges..."
+    },
+    "270746": {
+        "「盟友さまを　試練から脱落させようという\n　あなたのたくらみは　天使のつとめと\n　守るべき世界に　背くものでは？": "Votre complot visant a faire echouer l'allie\ndans son epreuve ne trahit-il pas vos devoirs\nd'ange et le monde que vous devez proteger ?"
+    },
+    "270747": {
+        "「なっ！？\n　い　いや……しかし…………！": "Quoi !? Non, mais... cependant... !"
+    },
+    "270748": {
+        "「わたくしの考えが　正しいか否か……\n　天使長さまに　報告して\n　ご判断いただいても　よろしいのですよ。": "Si ma pensee est correcte ou non... Je ferai\nun rapport au Grand Ange-sama et demanderai\nson jugement, si cela vous convient."
+    },
+    "270749": {
+        "「そういえば　審判の天使とは\n　天使長さまより　仰せつかった\n　名誉ある　お役目……でしたわね。": "Maintenant que j'y pense, le role de l'ange du\njugement est une mission honorable confiee par\nle grand ange-sama... n'est-ce pas ?"
+    },
+    "270750": {
+        "「カンティスさまの不手際のため　わたくしたちが\n　スライムさんを　捜しにいく事態になったと\n　天使長さまは　ご存知なのでしょうか？": "Est-ce que l'archange est au courant que, en\nraison de la maladresse de Kantis-sama, nous\ndevons partir a la recherche de M. Slime ?"
+    },
+    "270751": {
+        "「こっ……この　女狐め！": "Es... Espece de renarde !"
+    },
+    "270752": {
+        "「まあ　ひどい。\n　魔性の女と　お呼びになって<heart>": "Oh, c'est terrible. Appelez-moi une femme\nfatale <heart>"
+    },
+    "270753": {
+        "「…………いいだろう。": "...........Tres bien."
+    },
+    "270754": {
+        "「俺は　勝負に勝ったほうを\n　試練の通過者と見なすと　言った。\n　だが　勝負の結果は　引き分けだった。": "J'ai dit que celui qui gagnerait le duel\nserait considere comme ayant passe l'epreuve.\nCependant, le resultat du duel est une<br>egalite."
+    },
+    "270755": {
+        "「ならば　本来の試練を　受けてもらおう。\n　試練の守り人と戦い　勝利してみせよ。": "Dans ce cas, je te propose de passer l'epreuve\nauthentique. Affronte et triomphe du gardien\nde l'epreuve."
+    },
+    "270756": {
+        "「天星郷　指折りの実力者……\n　紺碧の覇者　ホーリーキングにな！": "Dans le royaume celeste, l'un des plus\npuissants combattants... Le conquerant azur,\nle Holy King Slime !"
+    },
+    "270757": {
+        "「おふたりの　おかげで\n　元の姿に　戻ることができたこと\n　感謝の念に　たえません。": "Grace a vous deux, je ne saurais exprimer\ntoute ma gratitude d'avoir pu retrouver ma\nforme originale."
+    },
+    "270758": {
+        "「ですが　手加減は　いたしません。\n　試練の挑戦者に　全力で　応えること……。\n　それが　守り人のつとめ！": "Cependant, je ne retiendrai pas mes coups.\nRepondre de toutes mes forces aux challengers\nde l'epreuve... C'est la le devoir du gardien<br>!"
+    },
+    "270759": {
+        "「……………………。": "."
+    },
+    "270760": {
+        "「さあ　盟友さま！\n　今度こそ　ふたり一緒に\n　試練を　乗り越えましょう！": "Allons-y, cher allie ! Cette fois, surmontons\nensemble l'epreuve !"
+    },
+    "270761": {
+        "「わたくしは　歌であなたを　お助けします。\n　盟友さまは　チカラいっぱい\n　戦ってくださいませ<heart>": "Je vous aiderai avec mon chant. Cher allie,\ncombattez de toutes vos forces, je vous en\nprie. <heart>"
+    },
+    "270762": {
+        "「さあ　勝負です！": "Allons-y, le duel commence !"
+    },
+    "270764": {
+        "「ううっ……！": "Ouh... !"
+    },
+    "270765": {
+        "「そこまで！": "Jusqu'ici !"
+    },
+    "270766": {
+        "「また　吹き飛ばされても　かなわん。\n　……汝らの　勝ちだ。": "Je ne peux pas supporter d'etre a nouveau\nsouffle. ...La victoire est votre."
+    },
+    "270767": {
+        "「少なくとも　<cs_pchero>\n　貴様の強さだけは　認めねばならんな。": "Au moins, <cs_pchero>, je dois admettre ta\nforce."
+    },
+    "270768": {
+        "「紺碧の試練は　これで　しまいだ。\n　……これを持って　とっとと　先へ進むがよい。": "La derniere epreuve de l'azur est terminee.\n...Prends ceci et avance sans tarder."
+    },
+    "270769": {
+        "<cs_pchero>が持つ\n魂の燭台に　炎が灯った！": "Le Soul Candelabra detenu par <cs_pchero>\ns'est enflamme !"
+    },
+    "270770": {
+        "「カンティスさまに　お考えを\n　あらためていただくことができて\n　よかったです。": "Je suis ravi que Kantis-sama ait pu changer\nd'avis."
+    },
+    "270771": {
+        "「じつは　わたくし　これでも\n　過去には　一国を治めていた身ですので\n　交渉事には　慣れておりますの。": "En realite, meme si cela ne se voit pas, j'ai\nautrefois gouverne un pays. Je suis donc\nhabitue aux negociations."
+    },
+    "270772": {
+        "「……まだ　お話して　おりませんでしたね。\n　わたくしは６００年ほど前の　ウェナ諸島に生き\n　ヴェリナード王国のいしずえを　築いた者です。": "...... Je ne vous avais pas encore parle de\ncela, n'est-ce pas. Je suis une personne qui a\nvecu il y a environ 600 ans dans l'archipel de<br>Wena et qui a pose les fondations du royaume\nde Velinard."
+    },
+    "270773": {
+        "「わたくしの死してのち　世の人々は\n　ヴェリナード王家の始祖である　わたくしを\n　始源の歌姫と　呼んだそうです。": "Apres ma mort, il semble que les gens du monde\nm'aient appelee la Diva Originelle, moi,\nl'ancetre de la famille royale de Velinard."
+    },
+    "270774": {
+        "「ただし　その名も　当時の歴史も　３００年前\n　バサグランデという魔物が　ウェナ諸島を襲った\n　混乱により　現代では失われているそうですわ。": "Cependant, ce nom et cette histoire remontent\na 300 ans. On dit que le demon BasagLMPD a\nattaque l'archipel de Wena, et que cela a ete<br>perdu dans la confusion de l'epoque P."
+    },
+    "270775": {
+        "「天星郷に招かれ　目覚めたとき\n　天使さまから　そう　うかがいました。": "Lorsque je me suis reveille, invite au Royaume\ndes Astres, c'est ce que j'ai entendu de la\npart de l'ange sama."
+    },
+    "270776": {
+        "「唄うことしかできず　剣も持てない　わたくしが\n　すべての試練を成しとげ　偉大なるチカラを\n　手に入れられるかは　わかりません。": "Je ne sais pas si moi, qui ne peux que chanter\net ne peux meme pas tenir une epee, je pourrai\nsurmonter toutes les epreuves et obtenir ce<br>pouvoir immense."
+    },
+    "270777": {
+        "「けれど英雄として　この時代　この場所に\n　かりそめの命を　与えられたこと……\n　天に　感謝しておりますの。": "Mais en tant que heros, je suis reconnaissant\nenvers le ciel d'avoir recu cette vie ephemere\nen ce temps et en ce lieu..."
+    },
+    "270778": {
+        "「だって……あなたに　会えたから…………<heart>": "Parce que... je t'ai rencontre... <heart>"
+    },
+    "270779": {
+        "「すべての試練を　乗り越え　また\n　相まみえることを　心から　願っておりますわ。\n　それでは　盟友さま　ごきげんよう。": "Je souhaite de tout coeur que vous surmontiez\ntoutes les epreuves et que nous nous\nretrouvions a nouveau. Alors, au revoir, cher<br>allie."
+    },
+    "272982": {
+        "「つまり……リナーシェ殿の勝利だな。": "En d'autres termes... C'est la victoire de\nLinashe-dono."
+    },
+    "274189": {
+        "「<cs_pchero>は　３匹。": "<cs_pchero> est accompagne de trois monstres."
+    },
+    "276985": {
+        "「紺碧の試練は　これで　しまいだ。\n　……とっとと　先へ進むがよい。": "Le defi azur est maintenant termine.\n...Depeche-toi d'avancer."
+    },
+    "278596": {
+        "紺碧の試練に　合格した。\n四天の星巡りを　すべて終えるために\n残りの試練に　挑もう。": "Tu as reussi l'epreuve de l'Azur. Pour\nterminer toutes les epreuves des Quatre Cieux,\ndefions les epreuves restantes."
+    },
+    "278597": {
+        "すべての試練に合格し　四天の星巡りを達成した！\n神都フォーリオンの聖天区画へ進み\n天使長に　会いにいこう！": "Tu as reussi toutes les epreuves et accompli\nle pelerinage des etoiles des Quatre Cieux !\nAvance vers le quartier sacre de Fourion et va<br>rencontrer l'archange !"
+    },
+    "278599": {
+        "「あの方のことは　心配ありませんよ。\n　かの勇者の盟友が　相手では\n　魔物のほうが　気の毒になるほどです。": "Il n'y a pas lieu de s'inquieter a propos de\ncette personne. Avec l'allie du courageux\nheros comme adversaire, c'est plutot les<br>monstres qui sont a plaindre."
+    },
+    "278600": {
+        "「はあ～……さっすが　英雄さんは頼もしいなァ。\n　そんじゃ　リナーシェちゃん\n　オラを　連れてってくんろ！": "Haa~... Comme on peut s'y attendre, le heros\nest vraiment rassurant. Alors, Linashe-chan,\nemmene-moi avec toi !"
+    },
+    "278601": {
+        "「盟友さま。こちらの　魔物の相手を\n　お願いしてもよろしいですか？　おわびに\n　スライムさんは　お譲りしますので……。": "Allie(e) cher(e). Pourriez-vous vous occuper\nde ces monstres ? En guise de remerciement, je\nvous offrirai M. Slime..."
+    },
+    "285078": {
+        "「そこで……わたくしにも　何か\n　できる事がないか　考えてみたのですが…………": "Alors... j'ai reflechi a ce que je pourrais\nfaire..."
+    }
+}

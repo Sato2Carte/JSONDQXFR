@@ -1,0 +1,503 @@
+{
+    "9421": {
+        "「おぬし　どうやら　一度死んで\n　生き返しを受けた者……\n　すなわち　生き返リストのようじゃな。": "Il semblerait que tu sois quelqu'un qui est\ndeja mort une fois et a ete ressuscite... En\nd'autres termes, un ressuscitiste."
+    },
+    "9422": {
+        "「わしの名は　放浪の賢者ホーロー。": "Mon nom est Hollow, le Sage errant."
+    },
+    "9423": {
+        "「このアストルティアに\n　知らぬことなしと　うたわれる\n　賢者の中の賢者じゃよ<heart>": "Dans cette Astoltia, je suis chante comme le\nsage parmi les sages, celui qui ne connait\nrien d'inconnu."
+    },
+    "9424": {
+        "「わしの眼力にかかれば　おぬしが\n　生き返リストか　どうかなど\n　一目りょーぜんというわけじゃ！": "Avec mon oeil percant, je peux dire en un coup\nd'oeil si tu es un Ikikaerist ou non !"
+    },
+    "9425": {
+        "「……さて　こちらが　名乗ったのだから\n　おぬしも名乗るのが　礼儀じゃろ？\n　まずは　名前を聞かせてもらおーかの。": "...Eh bien, puisque je me suis presente, il\nest de coutume que tu te presentes egalement,\nn'est-ce pas ? Commencons par entendre ton<br>nom."
+    },
+    "9426": {
+        "「……ふーむ　<pc>というのか。\n　いかにも　エテーネの民らしい\n　プリミティブかつ　エレガントな名前じゃな。": "...Hmm, tu t'appelles donc <pc>. C'est\neffectivement un nom a la fois primitif et\nelegant, typique des habitants d'Ethene."
+    },
+    "9427": {
+        "「……そう　おぬしの故郷　エテーネの村は\n　冥王ネルゲルの手で　封印されし大地\n　レンダーシアの真ん中に　位置しておる。": "Oui, ton village natal, Ethene Village, se\ntrouve dans la terre scellee par Netherlord\nNergel, au coeur de Rendashia."
+    },
+    "9428": {
+        "「そして　勇者覚醒の光が　放たれたのも\n　レンダーシア……　そう。\n　おぬしは　かの地を目指さねばならぬのじゃ！": "Et ensuite, la lumiere de l'eveil du heros a\nete emise egalement a Lendersia... Oui. Tu\ndois te diriger vers cette terre !"
+    },
+    "9429": {
+        "「そのためには　何をすべきか\n　教えてやってもいいのじゃが……。　": "Pour cela, je pourrais te dire ce qu'il faut\nfaire..."
+    },
+    "9430": {
+        "「……ときに　おぬし\n　いくつ集めたんじゃ？": "Dis-moi, combien en as-tu rassemble ?"
+    },
+    "9431": {
+        "「…………。": ".........."
+    },
+    "9432": {
+        "「……………………。": "……"
+    },
+    "9433": {
+        "「……むっ　言葉足らずだったようじゃな。\n　すまん　すまん。": "…Hmmm, il semble que je n'ai pas ete assez\nclair. Desole, desole."
+    },
+    "9434": {
+        "「わしが聞きたいのは　キーエンブレムの数じゃ。\n　それを聞けば　おぬしの実力と活躍のほどが\n　どれくらいのものか　わかるからのう。": "Ce que je veux savoir, c'est le nombre de Key\nEmblems. En connaissant ce nombre, je pourrai\nevaluer la mesure de ton talent et de tes<br>exploits."
+    },
+    "9435": {
+        "<pc>は　賢者ホーローに\n自分の持つ　キーエンブレムの数を教えた。": "<pc> a informe le sage Hollow du nombre\nd'emblemes-cles qu'il possedait."
+    },
+    "9436": {
+        "「なんと！　それだけか！？\n　うむむむ……これは　先が思いやられるのう。": "Quoi !? C'est tout !? Hum… ca ne presage rien\nde bon."
+    },
+    "9437": {
+        "「まあ　それしかないのなら仕方ない。 \n　これから　がんばれば　よいのじゃからな。\n　今は　ただ　キーエンブレムを集めるのじゃ。": "Eh bien, s'il n'y a pas d'autre choix, tant\npis. Il suffit de faire de notre mieux a\npartir de maintenant. Pour l'instant, il<br>s'agit simplement de rassembler les emblemes\ncles."
+    },
+    "9438": {
+        "「おぬしの実力が　頼むに足りると\n　判断したとき　レンダーシアの封印を\n　解くための方法を　教えちゃおう。　": "Quand je jugerai que ta competence est\nsuffisante, je te revelerai comment lever le\nsceau de Lendashia."
+    },
+    "9439": {
+        "「次は～　アズラン～　アズラン～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station ~ AzLMP ~ AzLMP ~. L'ecart\nentre le train et le quai est large. Veuillez\nfaire attention a vos pieds en descendant."
+    },
+    "9441": {
+        "「い　いかん！　アズラン駅では　\n　名物のカムシカせんべえを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah, c'est pas bon ! J'ai oublie d'acheter les\ncelebres Azlantelope senbei a la station Azlan\n! Je ne peux pas me permettre de trainer ici."
+    },
+    "9442": {
+        "「い　いかん！　娯楽島ラッカラン駅では　\n　名物のコロシアムバーガーを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il ne faut pas ! A la station de Luckland\nIsland, j'ai achete le celebre Coliseum Burger\n! Je ne peux pas rester ici a trainer."
+    },
+    "9443": {
+        "「そのときまで　せいぜい\n　キーエンブレムを　集めておくのじゃぞ！\n　ホッホッホッ……。": "D'ici la, fais de ton mieux pour rassembler\nles emblemes cles ! Hohoho..."
+    },
+    "9444": {
+        "「おお　そのビビッドかつ　ユニークな\n　顔立ちは　<pc>ではないか！\n　また　会ったのう。": "Oh, ce visage si vif et unique, ne serait-ce\npas <pc> ! Nous nous rencontrons a\nnouveau."
+    },
+    "9445": {
+        "「よもや　わしのことを　忘れちゃいまいな？\n　アストルティアに　知らぬことなし！\n　放浪の賢者　ホーローじゃ。": "Tu ne m'aurais tout de meme pas oublie,\nn'est-ce pas ? Il n'y a rien que je ne sache\nsur Astoltia ! Je suis Hollow, le sage<br>vagabond."
+    },
+    "9446": {
+        "「……して　いくつ集めたんじゃ？": "Combien en as-tu rassemble... ?"
+    },
+    "9447": {
+        "「…………。": ".........."
+    },
+    "9448": {
+        "「……………………。": "……"
+    },
+    "9449": {
+        "「……むう　ツーカーとはいかんもんじゃな。\n　わしが　聞きたいのは　とーぜん\n　おぬしの持つ　キーエンブレムの数じゃ。": "Hmm, ce n'est pas facile de comprendre sans\nmots. Evidemment, ce que je veux savoir, c'est\nle nombre de cles emblemes que tu possedes."
+    },
+    "9450": {
+        "<pc>は　賢者ホーローに\n自分の持つ　キーエンブレムの数を教えた。": "<pc> a informe le sage Hollow du nombre\nd'emblemes-cles qu'il possedait."
+    },
+    "9451": {
+        "「ほう　そうか　そうか。\n　なかなか　がんばってるようじゃな。": "Oh, vraiment, vraiment. Tu sembles faire des\nefforts, n'est-ce pas ?"
+    },
+    "9452": {
+        "「そうじゃなぁ……５個？\n　いや　６個……６個じゃな！": "Hmm... Peut-etre cinq ? Non, six... Oui, six !"
+    },
+    "9453": {
+        "「……<pc>よ。\n　おぬしには　キーエンブレムを６個以上\n　集めてきてほしいのじゃ。": "...<pc>. Je veux que tu collectes au\nmoins six emblemes cles."
+    },
+    "9454": {
+        "「それほどのウデ前の　持ち主ならば\n　わしも　安心して　おぬしに\n　大事な使命を　託すことができるからのう。": "Si tu es un Lord avec un tel talent, alors je\npeux te confier cette mission importante en\ntoute confiance."
+    },
+    "9455": {
+        "「……その使命とは　ズバリ！\n　冥王ネルゲルを倒し　やつに封印された\n　レンダーシアの大地を救うことじゃ！": "Cette mission, en un mot ! C'est de vaincre\nNetherlord Nergel et de sauver la terre de\nLendersia qu'il a scellee !"
+    },
+    "9456": {
+        "「故郷の村を　ネルゲルに滅ぼされた\n　おぬしじゃ。できることなら　今すぐ\n　仇討ちを果たしたいことじゃろう。": "Tu es celui dont le village natal a ete\ndetruit par Nelgel. Si cela etait possible, tu\nvoudrais surement te venger immediatement,<br>n'est-ce pas ?"
+    },
+    "9457": {
+        "「だがな　お若いの。焦りは禁物じゃよ。\n　今のおぬしでは　とうてい\n　あの冥王には　勝てまい。": "Cependant, jeune homme. Ne vous precipitez\npas. Dans votre etat actuel, il vous est\nabsolument impossible de vaincre ce roi des<br>tenebres."
+    },
+    "9458": {
+        "「それに　ヤツの支配する　冥界への入り口は\n　ランドン山脈の奥深く　断崖の先にあり　\n　誰も　そこへ至ることは　かなわぬという。": "De plus, l'entree vers le royaume des morts\nqu'il controle se trouve au fin fond des\nMontagnes Landon, au-dela des falaises. On dit<br>que personne ne peut y parvenir."
+    },
+    "9459": {
+        "「……そう。このワシを　のぞいてはな。": "... Oui. Sauf moi, bien sur."
+    },
+    "9460": {
+        "「今は　実力の証　キーエンブレムを集めながら\n　チカラを　たくわえる時期なのじゃ。\n　くれぐれも　無策　無謀に走るでないぞ。": "En ce moment, c'est le moment de rassembler\nles emblemes cles, preuve de notre puissance,\ntout en accumulant de la force. Veille a ne<br>pas agir de maniere irreflechie ou imprudente."
+    },
+    "9461": {
+        "「次は～　アズラン～　アズラン～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine station~ AzLMP~ AzLMP~. Aujourd'hui,\nvotre conducteur est le chauffeur Skippio~ et\nvotre guide est moi, Marius, le chef de train."
+    },
+    "9463": {
+        "「いかん！　アズラン駅では　名物の\n　カムシカせんべえを　買うんじゃった。\n　こりゃ　急がねば！": "Il ne faut pas oublier ! J'ai failli oublier\nd'acheter les celebres biscuits Azlantelope a\nla station Azlan. Il faut que je me depeche !"
+    },
+    "9464": {
+        "「いかん！　娯楽島ラッカラン駅では　名物の\n　コロシアムバーガーを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! J'ai oublie d'acheter le celebre\nColiseum Burger a la station de Luckland\nIsland. Je dois me depecher !"
+    },
+    "9465": {
+        "「おぬしが　キーエンブレムを\n　６個以上　集める日を\n　わしは　心待ちにしておるからな～。": "J'attends avec impatience le jour ou tu auras\nrassemble plus de six emblemes cles."
+    },
+    "9466": {
+        "「……見つけたぞ　エテーネの民の生き残りよ。": "... Je t'ai trouve, survivant du peuple\nd'Ethene."
+    },
+    "9467": {
+        "「貴様たちは　危険な存在……\n　ひとりたりとも　生かしてはおけぬ……。": "Vous etes des etres dangereux... Je ne peux\npas laisser un seul d'entre vous en vie..."
+    },
+    "9468": {
+        "「……ずいぶん　うなされていたのう。": "...Tu avais l'air de faire un cauchemar."
+    },
+    "9469": {
+        "「なにか悪い夢でも　見ていたようじゃが\n　よかったら　このジジイに　聞かせてくれんか？": "On dirait que tu as fait un mauvais reve. Si\ntu veux, tu peux le raconter a ce vieux\nbonhomme."
+    },
+    "9470": {
+        "<pc>は　賢者ホーローに\n夢の内容を　語った。": "<pc> raconta le contenu de son reve au\nsage Hollow."
+    },
+    "9471": {
+        "「……なるほどのう。\n　夢の中で　ネルゲルが　そんなことを……。": "Je vois. Dans tes reves, Nelger faisait donc\nune telle chose..."
+    },
+    "9472": {
+        "「どうやら　事態は　思っていた以上に\n　シリアスかつ　デンジャーなようじゃな。\n　こりゃ　ノンビリしておれん！": "Il semble que la situation soit plus serieuse\net dangereuse que je ne le pensais. Je ne peux\npas rester sans rien faire !"
+    },
+    "9473": {
+        "「次は～　アズラン～　アズラン～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : AzLMP, AzLMP. Les\npassagers souhaitant descendre, veuillez\nverifier que vous n'avez rien oublie avant de<br>descendre du vehicule."
+    },
+    "9475": {
+        "「……おっと　しかし　メギストリスの都駅では　\n　名物のメギス鶏のからあげを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais je viens d'acheter le celebre\nMegis Fried Chicken a la station de Megistris\nCity. Pour l'instant, c'est prioritaire !"
+    },
+    "9476": {
+        "「おぬしは　一刻も早く\n　キーエンブレムを　６個以上集めるのじゃぞ。\n　わしは　わしで　準備を進めておくからな。": "Tu dois te depecher de rassembler au moins six\nemblemes-cles. Je vais de mon cote me preparer\negalement."
+    },
+    "9477": {
+        "「……ほっほう。\n　これは　これは……。": "......Oh oh. Eh bien, eh bien......"
+    },
+    "9478": {
+        "「またまた　会ったのう　<pc>。\n　アストルティアに　知らぬことなし！\n　ご存知　放浪の賢者　ホーローじゃ。": "Encore une fois, nous nous rencontrons,\n<pc>. Il n'y a rien que je ne connaisse\npas en Astoltia ! Je suis Hollow, le sage<br>errant bien connu."
+    },
+    "9479": {
+        "「……ふむ。ひと目見て　ピンと来たぞい。\n　おぬし　ついに　キーエンブレムを６個以上\n　集めたようじゃな。": "Hmmm. Des le premier coup d'oeil, j'ai compris.\nTu as finalement reussi a rassembler au moins\nsix emblemes cles."
+    },
+    "9480": {
+        "「いやはや　見ちがえたの～。\n　グレートかつ　マーベラスな\n　おぬしの強さ　ビンビン感じるぞい。": "Eh bien, je ne t'avais pas reconnu~. Ta force\nest vraiment Great et Marvelous, je la ressens\nintensement."
+    },
+    "9481": {
+        "「時は来たれり……ということか。": "Le moment est venu... n'est-ce pas ?"
+    },
+    "9482": {
+        "「では　かねてからの約束通り　今こそ\n　レンダーシア解放への道を　教えちゃおうぞ！": "Alors, comme promis depuis longtemps, il est\ntemps de vous reveler le chemin vers la\nliberation de Lendersia !"
+    },
+    "9483": {
+        "「レンダーシアを　封印から解放するには\n　それをなした者……冥王ネルゲルを\n　倒さねばならんのが　道理じゃ。": "Pour liberer Rendaashia du sceau, il est\nlogique de devoir vaincre celui qui l'a\ncree... Netherlord Nergel."
+    },
+    "9484": {
+        "「だが　ネルゲルの支配する　冥界への入り口は \n　ランドン山脈の奥深く　断崖の先にあり　\n　誰も　そこへ至ることは　かなわぬ。": "Cependant, l'entree du monde souterrain\ncontrole par Nelgel se trouve au-dela des\nfalaises profondes des montagnes de Landon, et<br>personne ne peut y parvenir."
+    },
+    "9485": {
+        "「……しかし　方法がないわけではない。\n　この放浪の賢者ホーローに\n　まかせておけば　バッチリじゃ！": "...Cependant, il n'est pas impossible de\ntrouver une methode. Si tu laisses cela aux\nsoins du sage vagabond Hollow, tout ira<br>parfaitement bien !"
+    },
+    "9486": {
+        "「まずは　オーグリード大陸にそびえる\n　ランドン山脈の　冥界への入り口が見える\n　断崖まで　行ってみることにしようぞ。": "Tout d'abord, dirigeons-nous vers la falaise\nd'ou nous pouvons apercevoir l'entree vers le\nmonde infernal, nichee dans les imposantes<br>montagnes Landon du continent Ogride."
+    },
+    "9487": {
+        "「次は～　アズラン～　アズラン～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Ensuite, c'est a... AzLMP... AzLMP...\nRecemment, il y a eu une recrudescence\nd'accidents impliquant des voyageurs en<br>exterieur, victimes de la malveillance\nmagique."
+    },
+    "9488": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination~ l'ile de divertissement\nRakaran~ Rakaran~. Recemment, de nombreux\nvoyageurs en plein air ont ete victimes des<br>miasmes demoniaques. Les incidents se\nmultiplient."
+    },
+    "9489": {
+        "「……聞いたじゃろう？\n　近ごろ　魔瘴の被害が　増えているのは\n　レンダーシア封印の影響に　他ならぬ。": "...Tu as entendu, n'est-ce pas ? Recemment,\nles dommages causes par le miasme ont\naugmente, et c'est sans aucun doute du a<br>l'effet du sceau de Lendersia."
+    },
+    "9490": {
+        "「このまま　ネルゲルめを放置すれば\n　やがて　アストルティアは\n　魔瘴におおわれ　滅ぼされるじゃろう。": "Si nous laissons ainsi Nergel agir, Astoltia\nsera bientot recouverte par le miasme et\ndetruite."
+    },
+    "9491": {
+        "「それだけは　防がねばならん！": "Je dois absolument l'empecher !"
+    },
+    "9492": {
+        "「わしは　こうして　世界をめぐり\n　おぬしのような若者が　育つのを\n　ずっと　待っておった。": "Je parcours le monde ainsi, et j'ai toujours\nattendu qu'un jeune comme toi grandisse."
+    },
+    "9493": {
+        "「<pc>よ。\n　おぬしは　わしの希望じゃ。\n　どうか　この使命　果たしてくれよ！": "<pc>. Tu es mon espoir. Accomplis cette\nmission, je t'en prie !"
+    },
+    "9494": {
+        "「……ううっ！　熱弁をふるっていたら\n　駅弁を食いそびれてしまった！": "…Oh non ! J'etais tellement pris dans mon\ndiscours passionne que j'ai rate l'occasion de\nmanger mon bento de la gare !"
+    },
+    "9495": {
+        "「じゃが　アズラン駅では\n　名物　カムシカせんべえを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la gare d'Azlan, il faut absolument\nacheter les fameux crackers Azlantelope !\nDesole, mais je vais devoir vous laisser ici."
+    },
+    "9496": {
+        "「じゃが　娯楽島ラッカラン駅では\n　名物　コロシアムバーガーを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, a la Luckland Island Station, il\nfaut absolument acheter le celebre Coliseum\nBurger ! Desole, mais je vais devoir vous<br>laisser ici."
+    },
+    "9497": {
+        "「そして　その奥深くにある　\n　冥界への入り口が見える　断崖まで行ってくれ。\n　わしも　すぐに　後を追うからの。": "Et ensuite, rends-toi jusqu'a la falaise d'ou\nl'on apercoit l'entree du monde des tenebres,\nbien au fond. Je te rejoindrai rapidement."
+    },
+    "9498": {
+        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また会おう！": "Alors, pour aujourd'hui, c'est le moment de\nnous separer. Quand les voies du destin se\ncroiseront, nous nous reverrons !"
+    },
+    "12121": {
+        "「ホッホッホッ……図星かね？\n　なんで　そんなことが　わかるのかと\n　聞きたいようじゃのう？": "Ho ho ho... Ai-je touche juste ? Tu te\ndemandes comment je le sais, n'est-ce pas ?"
+    },
+    "32998": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : Kamiharmui City ～\nカミハルムイ ～. Recemment, de nombreux voyageurs en\nplein air ont ete victimes de la malveillance<br>des miasmes."
+    },
+    "32999": {
+        "「次は～　岳都ガタラ～　ガタラ～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : Mount Gatara...\nGatara... Recemment, il y a eu de nombreux\nincidents ou des voyageurs en exterieur ont<br>ete victimes des miasmes."
+    },
+    "33000": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret : Royaumes de Dolworm~ Royaumes\nde Dolworm~. Recemment, de nombreux voyageurs\nen plein air ont ete victimes de la<br>malfaisance miasmique."
+    },
+    "33001": {
+        "「次は～　オルフェア～　オルフェア～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret~ Orphea~ Orphea~. Recemment, de\nnombreux voyageurs en plein air ont ete\nvictimes de l'influence nefaste des miasmes."
+    },
+    "33002": {
+        "「次は～　メギストリスの都　メギストリスの都。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine etape : Megistris City, Megistris\nCity. Recemment, de nombreux voyageurs ont ete\nvictimes de miasmes lors de leurs aventures en<br>plein air."
+    },
+    "33003": {
+        "「次は～　ジュレット～　ジュレット～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine etape : Jurette, Jurette. Recemment,\nde nombreux voyageurs ont ete victimes de\nmiasmes lors de leurs deplacements en plein<br>air."
+    },
+    "33004": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : le Chateau de\nVerinard, le Chateau de Verinard. Recemment,\nde nombreux voyageurs ont ete victimes des<br>miasmes demoniaques lors de leurs deplacements\nen exterieur."
+    },
+    "33005": {
+        "「次は～　グレン城～　グレン城～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret~ Glen Castle~ Glen Castle~.\nRecemment, de nombreuses personnes voyageant\nen exterieur ont ete victimes de l'influence<br>nefaste des miasmes."
+    },
+    "33006": {
+        "「次は～　ガートラント城～　ガートラント城～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochaine destination : Chateau de Gartlant,\nChateau de Gartlant. Recemment, de nombreux\nvoyageurs en plein air ont ete victimes de<br>miasmes magiques."
+    },
+    "33007": {
+        "「次は～　港町レンドア～　レンドア～。\n　最近　野外を旅する方が　魔瘴の被害に\n　遭うという事故が　多発しております。": "Prochain arret : Port Lendor, Lendor.\nRecemment, de nombreux voyageurs en exterieur\nont ete victimes d'accidents dus aux miasmes<br>malefiques."
+    },
+    "33008": {
+        "「お出かけの際は　くれぐれもお気をつけて。\n　魔瘴には　よらず　さわらず　踏み込まずを\n　心がけ　安全な旅を　お楽しみください。": "Lorsque vous partez en voyage, veillez a etre\ntres prudent. Evitez de vous approcher, de\ntoucher ou de vous aventurer dans les miasmes<br>malefiques. Profitez d'un voyage en toute\nsecurite."
+    },
+    "33009": {
+        "「じゃが　王都カミハルムイ駅では\n　名物　王都の桜もちを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, je dois absolument acheter le\ncelebre Royal Cherry Mochi a la station\nKamiharmui ! Je suis desole, mais je vais<br>devoir vous laisser ici."
+    },
+    "33010": {
+        "「じゃが　岳都ガタラ駅では\n　名物　ガタラのブタまんを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la gare de Gatara, il faut absolument\nacheter les fameux Gatara Pig Buns ! Desole,\nmais je vais devoir vous laisser ici."
+    },
+    "33011": {
+        "「じゃが　ドルワーム王国駅では\n　名物　銘菓　砂漠の月を買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "A la Station du Royaume de Dolworm, il faut\nabsolument acheter le celebre Moon Desert\nDessert ! Desole, mais je vais devoir vous<br>laisser ici."
+    },
+    "33012": {
+        "「じゃが　オルフェア駅では\n　名物　アクロバットケーキを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la station Orphea, il faut absolument\nacheter le fameux Acrobatic Cake ! Desole,\nmais je vais devoir vous quitter ici."
+    },
+    "33013": {
+        "「じゃが　メギストリスの都駅では\n　名物　メギス鶏のからあげを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, a la gare de Megistris City, il\nfaut absolument acheter le fameux Megis Fried\nChicken ! Desole, mais je vais devoir vous<br>laisser ici."
+    },
+    "33014": {
+        "「じゃが　ジュレット駅では\n　名物　とこなつココナッツを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la Julet Station, il faut absolument\nacheter la fameuse Summer Coconut ! Desole,\nmais je vais devoir vous laisser ici."
+    },
+    "33015": {
+        "「じゃが　ヴェリナード城駅では\n　名物　女王様サブレを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, au Verinard Castle Station, il faut\nabsolument acheter les sables de la reine !\nDesole, mais je vais devoir vous laisser ici."
+    },
+    "33016": {
+        "「じゃが　グレン城下町駅では\n　名物　げんこつアメを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais a la gare de Glen Castle Town, je dois\nabsolument acheter le celebre bonbon Gencotsu\n! Desole, mais je vais devoir vous laisser<br>ici."
+    },
+    "33017": {
+        "「じゃが　ガートラント城駅では\n　名物　オーガニックサラダを買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Mais je dois absolument acheter la celebre\nOgre-nic Salad a la gare du Chateau de\nGartlant ! Desole, je vais devoir vous laisser<br>ici."
+    },
+    "33018": {
+        "「じゃが　港町レンドア駅では\n　名物　グランドタイタス丼を買わねばっ！\n　悪いが　ここで　失礼させてもらうぞ。": "Cependant, a la station de Port Lendor, il\nfaut absolument acheter le celebre Grand Titus\nBowl ! Desole, je vais devoir vous laisser<br>ici."
+    },
+    "33019": {
+        "「もう一度　言っとくぞい。\n　オーグリード大陸にそびえる\n　ランドン山脈に　向かうのじゃ。": "Je vais te le redire. Dirige-toi vers les\nMontagnes Landon qui se dressent sur le\ncontinent d'Augridhe."
+    },
+    "33021": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret ~ Kamiharmui City ~ Kamiharmui\n~. Aujourd'hui, le conducteur etait Skippio ~\nEt moi, Marius, votre guide en tant que<br>Conductor."
+    },
+    "33022": {
+        "「次は～　岳都ガタラ～　ガタラ～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine etape~ Mount Gatara~ Gatara~.\nAujourd'hui, le conducteur est Skippio~ Et le\nguide de votre voyage est moi, Marius."
+    },
+    "33023": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret~ Royaumes de Dolworm~ Royaumes\nde Dolworm~. Aujourd'hui, le conducteur est\nSkippio~ Et moi, Marius, votre conducteur de<br>train, je vous ai guide."
+    },
+    "33024": {
+        "「次は～　オルフェア～　オルフェア～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination : Orphea, Orphea~.\nAujourd'hui, notre conducteur est Skippio~. Et\nmoi, Marius, je suis votre controleur."
+    },
+    "33025": {
+        "「次は　メギストリスの都　メギストリスの都。\n　本日の運転は　スキッピオ運転手が　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine station : Megistris City, Megistris\nCity. Aujourd'hui, votre conducteur est\nSkippio, et moi, Marius, je suis votre<br>accompagnateur."
+    },
+    "33026": {
+        "「次は～　ジュレット～　ジュレット～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine etape~ Juretto~ Juretto~.\nAujourd'hui, notre chauffeur est Skippio~ et\nmoi, Marius, votre conducteur, j'ai eu le<br>plaisir de vous guider."
+    },
+    "33027": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination : Chateau de Verinard,\nChateau de Verinard. Aujourd'hui, notre\nconducteur est le chauffeur Scipio. Et moi,<br>Marius, je suis votre guide, votre conducteur."
+    },
+    "33028": {
+        "「次は～　グレン城～　グレン城～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret : Glen Castle, Glen Castle.\nAujourd'hui, le conducteur est Skippio, et\nmoi, Marius, le chef de train, je vous ai<br>accompagne."
+    },
+    "33029": {
+        "「次は～　ガートラント城～　ガートラント城～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochain arret~ Chateau de Gartlant~ Chateau\nde Gartlant~. Aujourd'hui, votre chauffeur\netait Skippio~ Et moi, Marius, en tant que<br>conducteur, je vous ai guide."
+    },
+    "33030": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination~ Ile du divertissement\nRakkaran~ Rakkaran~. Aujourd'hui, le\nconducteur Skippio est aux commandes~ Et moi,<br>Marius, votre guide et conducteur~."
+    },
+    "33031": {
+        "「次は～　港町レンドア～　レンドア～。\n　本日の運転は　スキッピオ運転手が～　\n　車掌は私　マリウスが　ご案内いたしました。": "Prochaine destination : Port Lendor, Lendor !\nAujourd'hui, notre conducteur est Skippio, et\nmoi, Marius, je serai votre guide en tant que<br>Conductor."
+    },
+    "33032": {
+        "「……おお　もう着いたのか。\n　相変わらず　大地の箱舟は　速いのう。　": "Oh, nous sommes deja arrives. L'Arche de la\nTerre est vraiment rapide, comme toujours."
+    },
+    "33033": {
+        "「いかん！　王都カミハルムイ駅では　名物の\n　王都の桜もちを　買うんじゃった。\n　こりゃ　急がねば！": "Il ne faut pas trainer ! A la station\nKamiharmui, j'ai oublie d'acheter le celebre\nRoyal Cherry Mochi. Je dois me depecher !"
+    },
+    "33034": {
+        "「いかん！　岳都ガタラ駅では　名物の\n　ガタラのブタまんを　買うんじゃった。\n　こりゃ　急がねば！": "C'est pas possible ! J'ai oublie d'acheter les\ncelebres Gatara Pig Buns a la station de\nGatara. Je dois me depecher !"
+    },
+    "33035": {
+        "「いかん！　ドルワーム王国駅では　名物の\n　銘菓　砂漠の月を　買うんじゃった。\n　こりゃ　急がねば！": "Ca ne va pas du tout ! A la Station du Royaume\nde Dolworm, j'ai oublie d'acheter le celebre\nMoon Desert Dessert. Je dois me depecher !"
+    },
+    "33036": {
+        "「いかん！　オルフェア駅では　名物の\n　アクロバットケーキを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! Je devais acheter le celebre\nAcrobatic Cake a la station Orphea. Je dois me\ndepecher !"
+    },
+    "33037": {
+        "「いかん！　メギストリスの都駅では　名物の\n　メギス鶏のからあげを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! J'ai oublie d'acheter le celebre\nMegis Fried Chicken a la Megistris City\nStation. Il faut que je me depeche !"
+    },
+    "33038": {
+        "「いかん！　ジュレット駅では　名物の\n　とこなつココナッツを　買うんじゃった。\n　こりゃ　急がねば！": "Oh non ! J'ai oublie d'acheter le fameux\nSummer Coconut a la Julet Station. Je dois me\ndepecher !"
+    },
+    "33039": {
+        "「いかん！　ヴェリナード城駅では　名物の\n　女王様サブレを　買うんじゃった。\n　こりゃ　急がねば！": "Ah mince ! J'ai oublie d'acheter les sables de\nla reine, une specialite de la station du\nchateau de Verinard. Je dois me depecher !"
+    },
+    "33040": {
+        "「いかん！　グレン城下町駅では　名物の\n　げんこつアメを　買うんじゃった。\n　こりゃ　急がねば！": "Zut ! A la gare de Glen Castle Town, j'avais\nprevu d'acheter les fameux bonbons en forme de\npoing. Je dois me depecher !"
+    },
+    "33041": {
+        "「いかん！　ガートラント城駅では　名物の\n　オーガニックサラダを　買うんじゃった。\n　こりゃ　急がねば！": "Zut ! J'ai oublie d'acheter la celebre salade\nOgre-nic a la gare du chateau de Gartlant. Je\ndois me depecher !"
+    },
+    "33042": {
+        "「いかん！　港町レンドア駅では　名物の\n　グランドタイタス丼を　買うんじゃった。\n　こりゃ　急がねば！": "Il faut que je me depeche ! J'avais prevu\nd'acheter le celebre Grand Titus Bowl a la\nstation de Port Lendor. Je dois me presser !"
+    },
+    "33043": {
+        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また会おう！": "Alors, pour aujourd'hui, c'est le moment de\nnous separer. Quand les voies du destin se\ncroiseront, nous nous reverrons !"
+    },
+    "33044": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Kamiharmui City ～ カミハルムイ～\nLes passagers qui descendent a cet arret sont\npries de verifier qu'ils n'ont rien oublie<br>avant de descendre."
+    },
+    "33045": {
+        "「次は～　岳都ガタラ～　ガタラ～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station～ Mont Gatara～ Gatara～.\nVeuillez vous assurer de ne rien oublier avant\nde descendre du vehicule."
+    },
+    "33046": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Royaumes de Dolworm,\nRoyaumes de Dolworm. Passagers souhaitant\ndescendre, veuillez verifier que vous n'avez<br>rien oublie avant de quitter le vehicule, s'il\nvous plait."
+    },
+    "33047": {
+        "「次は～　オルフェア～　オルフェア～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine destination : Orphea ! Orphea ! Pour\nles passagers qui descendent, veuillez\nverifier que vous n'oubliez rien avant de<br>quitter le vehicule."
+    },
+    "33048": {
+        "「次は　メギストリスの都　メギストリスの都。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Megistris City, Megistris\nCity. Passagers souhaitant descendre, veuillez\nverifier que vous n'avez rien oublie avant de<br>quitter le train."
+    },
+    "33049": {
+        "「次は～　ジュレット～　ジュレット～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochain arret~ Juretto~ Juretto~. Pour les\npassagers qui descendent, veuillez verifier\nque vous n'avez rien oublie avant de descendre<br>du vehicule."
+    },
+    "33050": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine etape~ Chateau de Verinard~ Chateau\nde Verinard~. Pour les passagers qui\ndescendent, veuillez vous assurer de ne rien<br>oublier et verifiez une fois de plus avant de\ndescendre, s'il vous plait."
+    },
+    "33051": {
+        "「次は～　グレン城～　グレン城～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine station : Chateau de Glen, Chateau\nde Glen. Les passagers qui descendent,\nveuillez verifier que vous n'avez rien oublie<br>avant de descendre du vehicule."
+    },
+    "33052": {
+        "「次は～　ガートラント城～　ガートラント城～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine etape : Chateau de Gartlant. Chateau\nde Gartlant. Pour les passagers qui\ndescendent, veuillez verifier que vous<br>n'oubliez rien avant de quitter le vehicule."
+    },
+    "33053": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochaine destination ~ L'ile de\ndivertissement Lucky Karan ~ Lucky Karan ~.\nPour les passagers qui descendent, veuillez<br>verifier que vous n'avez rien oublie avant de\nquitter le vehicule."
+    },
+    "33054": {
+        "「次は～　港町レンドア～　レンドア～。\n　お降りのお客さまは　お忘れ物のなきよう\n　今一度　ご確認の上　ご降車ください。": "Prochain arret : Port Lendor, Lendor. Pour les\npassagers qui descendent, veuillez verifier\nune derniere fois que vous n'avez rien oublie<br>avant de quitter le train."
+    },
+    "33055": {
+        "「……おっと　しかし　アズラン駅では　\n　名物のカムシカせんべえを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a Azlan Station, j'ai achete les\nfameux crackers Azlantelope. Pour l'instant,\nc'est la priorite !"
+    },
+    "33056": {
+        "「……おっと　しかし　王都カミハルムイ駅では　\n　名物の王都の桜もちを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "Oh, mais a la Kamiharmui Station, j'ai achete\nle celebre Royal Cherry Mochi. Pour l'instant,\nc'est ca qui est prioritaire !"
+    },
+    "33057": {
+        "「……おっと　しかし　岳都ガタラ駅では　\n　名物のガタラのブタまんを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais a la station de Gatara, j'ai achete\nles fameux Gatara Pig Buns. Pour l'instant,\nc'est ca qui est prioritaire !"
+    },
+    "33058": {
+        "「……おっと　しかし　ドルワーム王国駅では　\n　名物の銘菓　砂漠の月を　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a la Station du Royaume de\nDolworm, j'ai achete la fameuse Moon Desert\nDessert. Pour l'instant, c'est ca qui est<br>prioritaire !"
+    },
+    "33059": {
+        "「……おっと　しかし　オルフェア駅では　\n　名物のアクロバットケーキを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a Orphea Station, j'ai achete le\ncelebre Acrobatic Cake. Pour l'instant, c'est\nca qui est prioritaire !"
+    },
+    "33060": {
+        "「……おっと　しかし　ジュレット駅では　\n　名物のとこなつココナッツを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais a la station Julet, j'ai achete la\nfameuse Summer Coconut. Pour l'instant, c'est\nca qui est prioritaire !"
+    },
+    "33061": {
+        "「……おっと　しかし　ヴェリナード城駅では　\n　名物の女王様サブレを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais a la Verinard Castle Station, j'ai\nachete les fameux sables de la reine. Pour\nl'instant, c'est ca qui est prioritaire !"
+    },
+    "33062": {
+        "「……おっと　しかし　グレン城下町駅では　\n　名物のげんこつアメを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais j'ai achete les celebres bonbons au\npoing a la gare de Glen Castle Town. Pour\nl'instant, c'est la priorite !"
+    },
+    "33063": {
+        "「……おっと　しかし　ガートラント城駅では　\n　名物のオーガニックサラダを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "Oh, mais d'abord, a la Gartlant Castle\nStation, je dois acheter leur fameuse Ogre-nic\nSalad. Pour l'instant, c'est ma priorite !"
+    },
+    "33064": {
+        "「……おっと　しかし　娯楽島ラッカラン駅では　\n　名物のコロシアムバーガーを　買うんじゃった。\n　今は　そちらが　先決じゃ！": "...Oh, mais j'ai achete le celebre Coliseum\nBurger a la station de Luckland Island. Pour\nl'instant, ca passe en priorite !"
+    },
+    "33065": {
+        "「……おっと　しかし　港町レンドア駅では　\n　名物のグランドタイタス丼を　買うんじゃった。\n　今は　そちらが　先決じゃ！": "…Oh, mais a la Port Lendor Station, j'ai\nachete le celebre Grand Titus Bowl. Pour le\nmoment, c'est ca la priorite !"
+    },
+    "33066": {
+        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また　会おう！\n　": "Alors, pour aujourd'hui, c'est un au revoir.\nQuand les voies du destin se croiseront, nous\nnous reverrons !"
+    },
+    "33067": {
+        "「次は～　王都カミハルムイ～　カミハルムイ～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine destination : Kamiharmui City ～\nカミハルムイ～. L'ecart entre le train et le quai est\nlarge. Faites attention a vos pas en<br>descendant."
+    },
+    "33068": {
+        "「次は～　岳都ガタラ～　ガタラ～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine etape～ Mont Gatara～ Gatara～. L'ecart\nentre le train et le quai est important.\nFaites attention a vos pieds en descendant."
+    },
+    "33069": {
+        "「次は～　ドルワーム王国～　ドルワーム王国～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochain arret : Royaumes de Dolworm~ Royaumes\nde Dolworm~. L'ecart entre le train et le quai\nest large. Veuillez faire attention a vos pas<br>en descendant."
+    },
+    "33070": {
+        "「次は～　オルフェア～　オルフェア～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station : Orphea, Orphea. L'espace\nentre le train et le quai est assez large.\nVeuillez faire attention a vos pieds en<br>descendant."
+    },
+    "33071": {
+        "「次は　メギストリスの都　メギストリスの都。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine etape : Megistris City, Megistris\nCity. L'espace entre le train et le quai est\nlarge. Veuillez faire attention a vos pieds en<br>descendant."
+    },
+    "33072": {
+        "「次は～　ジュレット～　ジュレット～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station~ Juretto~ Juretto~. L'ecart\nentre le train et le quai est large. Veuillez\nfaire attention a vos pieds en descendant."
+    },
+    "33073": {
+        "「次は～　ヴェリナード城～　ヴェリナード城～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochain arret : Chateau de Verinard, Chateau\nde Verinard. L'espace entre le train et le\nquai est assez large. Veuillez faire attention<br>a vos pas en descendant."
+    },
+    "33074": {
+        "「次は～　グレン城～　グレン城～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochain arret : Glen Castle, Glen Castle.\nL'ecart entre le train et le quai est large.\nFaites attention a vos pas en descendant, s'il<br>vous plait."
+    },
+    "33075": {
+        "「次は～　ガートラント城～　ガートラント城～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station : Chateau de Gartlant~\nChateau de Gartlant~. L'espace entre le\nvehicule et le quai est large. Veuillez faire<br>attention a vos pieds en descendant."
+    },
+    "33076": {
+        "「次は～　娯楽島ラッカラン～　ラッカラン～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "La prochaine station est... l'ile de\ndivertissement La Karan... La Karan... L'ecart\nentre le train et le quai est large. Veuillez<br>faire attention a vos pas en descendant."
+    },
+    "33077": {
+        "「次は～　港町レンドア～　レンドア～。\n　車両と　ホームの間が　広くなっております。　\n　足もとに気をつけて　お降りください。": "Prochaine station~ Port Lendor~ Lendor~.\nL'espace entre le train et le quai est large.\nVeuillez faire attention a vos pieds en<br>descendant."
+    },
+    "33078": {
+        "「……おお　もう着いたのか。\n　この大地の箱舟という乗り物は　じつによい。\n　まったく　便利な世の中になったもんじゃ。": "Oh, nous sommes deja arrives. Cet engin,\nappele Ark of the Earth, est vraiment\nformidable. Le monde est devenu bien pratique."
+    },
+    "33079": {
+        "「い　いかん！　王都カミハルムイ駅では　\n　名物の王都の桜もちを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Oh non ! J'ai oublie d'acheter le Royal Cherry\nMochi, une specialite de la station Kamiharmui\n! Je ne peux pas me permettre de trainer ici."
+    },
+    "33080": {
+        "「い　いかん！　岳都ガタラ駅では　\n　名物のガタラのブタまんを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il faut que je me depeche ! J'ai oublie\nd'acheter les celebres Gatara Pig Buns a la\nstation Gatara ! Je ne peux pas trainer ici."
+    },
+    "33081": {
+        "「い　いかん！　ドルワーム王国駅では　\n　名物の銘菓　砂漠の月を　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah, zut ! A la Station du Royaume de Dolworm,\nj'ai oublie d'acheter le celebre Moon Desert\nDessert ! Je ne peux pas me permettre de<br>trainer."
+    },
+    "33082": {
+        "「い　いかん！　オルフェア駅では　\n　名物のアクロバットケーキを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah non ! A la station Orphea, j'avais prevu\nd'acheter le celebre Acrobatic Cake ! Je ne\npeux pas rester ici a trainer."
+    },
+    "33083": {
+        "「い　いかん！　メギストリスの都駅では　\n　名物のメギス鶏のからあげを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il faut que je fasse vite ! A la station de\nMegistris City, j'avais prevu d'acheter le\nfameux Megis Fried Chicken ! Je ne peux pas<br>trainer."
+    },
+    "33084": {
+        "「い　いかん！　ジュレット駅では　\n　名物のとこなつココナッツを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il faut que je fasse vite ! J'ai oublie\nd'acheter le fameux Summer Coconut a la Julet\nStation ! Je ne peux pas me permettre de<br>trainer ici."
+    },
+    "33085": {
+        "「い　いかん！　ヴェリナード城駅では　\n　名物の女王様サブレを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Oh non ! J'ai oublie d'acheter les celebres\nsables de la reine a la station du chateau de\nVerinard ! Je ne peux pas trainer ici."
+    },
+    "33086": {
+        "「い　いかん！　グレン城下町駅では　\n　名物のげんこつアメを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "C'est pas possible ! J'ai oublie d'acheter les\ncelebres bonbons poing a la station de Glen\nCastle Town ! Je ne peux pas trainer ici."
+    },
+    "33087": {
+        "「い　いかん！　ガートラント城駅では　\n　名物のオーガニックサラダを　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Ah, non ! A la Gare du Chateau de Gartlant,\nj'avais prevu d'acheter la celebre salade\nOgre-nic ! Je ne peux pas perdre de temps ici."
+    },
+    "33088": {
+        "「い　いかん！　港町レンドア駅では　\n　名物のグランドタイタス丼を　買うんじゃった！\n　こりゃ　ノンビリしておれん。": "Il… il ne fallait pas ! A la station Port\nLendor, j'ai achete le celebre Grand Titus\nBowl ! Pas le temps de trainer."
+    },
+    "33089": {
+        "「では　今日のところは　お別れじゃ。\n　運命の線路が交差するとき　また　会おう！": "Alors, pour aujourd'hui, c'est un au revoir.\nLorsque les chemins du destin se croiseront,\nnous nous reverrons !"
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "57661": {
+        "「困ったわ……。\n　ラペットおじいさんと　約束したのに。": "Je suis embetee... J'avais promis a Lapett, le\nvieil homme."
+    },
+    "57662": {
+        "「…………あら？": "...Oh ?"
+    },
+    "57663": {
+        "「まあ　旅の方ですね。\n　ようこそ　童話の里　メルサンディ村へ。 \n　私は　アイリといいます。": "Ah, vous etes un voyageur, n'est-ce pas ?\nBienvenue au village des contes de fees,\nMelsandy Village. Je m'appelle Aili."
+    },
+    "57664": {
+        "「……そうだわ！ \n　お強そうな　あなたになら　私の悩みを\n　解決していただけるかもしれません。": "Oh, mais oui ! Vous avez l'air si fort.\nPeut-etre pourriez-vous resoudre mon probleme."
+    },
+    "57665": {
+        "「私　紙芝居をしている　ラペットおじいさんに\n　パンを焼いて　お届けしますねって\n　約束したんです。": "J'ai promis de preparer du pain pour le vieil\nhomme Lapett, qui fait des kamishibai, et de\nle lui apporter."
+    },
+    "57666": {
+        "「ですが　この家で　たくわえていた小麦を \n　悪い　<%sEV_QUE_NAME0>さんたちが\n　盗んでいってしまって……。": "Cependant, le ble que nous avions stocke dans\ncette maison a ete vole par les mechants\n<%sEV_QUE_NAME0> san et ses compagnons..."
+    },
+    "57667": {
+        "「旅の方　お願いです。 \n　<%sEV_QUE_NAME0>さんたちから　小麦を\n　取り戻してきていただけませんか？": "Voyageur, je vous en prie. Pourriez-vous\nrecuperer le ble aupres de <%sEV_QUE_NAME0> et\nses compagnons ?"
+    },
+    "57668": {
+        "「まあ！　ありがとうございます。 \n　お優しいんですね……。": "Ah ! Merci beaucoup. Vous etes vraiment\ngentil..."
+    },
+    "57669": {
+        "「小麦を盗んだ　<%sEV_QUE_NAME0>さんたちは\n　メルサンディ穀倉帯に　いるはずです。\n　犯人をやっつけたら　小麦を落とすでしょう。": "Ceux qui ont vole le ble, <%sEV_QUE_NAME0>\nsan, devraient etre dans les champs de\nMelsandy Millfields. Une fois que vous aurez<br>neutralise les coupables, ils laisseront\ntomber le ble."
+    },
+    "57670": {
+        "「ついでと言ってはなんですが　村の北西の\n　メルン水車郷で　小麦をひいてきていただけると\n　うれしいです。どうか　お願いしま……": "En parlant de cela, si vous pouviez moudre du\nble au Moulin de Rune, au nord-ouest du\nvillage, cela me rendrait tres heureux. Je<br>vous en prie..."
+    },
+    "57671": {
+        "「ゴホッ　ゴホッ。": "<Cough> <Cough>."
+    },
+    "57672": {
+        "「……ごめんなさい。私は\n　お部屋の中で　お待ちしていますね。": "......Je suis desolee. Je vais vous attendre\ndans la chambre."
+    },
+    "57673": {
+        "「まあ。お優しいんですね。 \n　でも　頼まれごとが　いっぱいのようですよ。": "Eh bien. Vous etes vraiment gentil. Mais on\ndirait que vous avez deja beaucoup de\ndemandes."
+    },
+    "57674": {
+        "「どうか　ご無理はなさらず\n　手が空きましたら　私のお願いを\n　聞いていただけると……": "Je vous en prie, ne vous surmenez pas. Lorsque\nvous aurez un peu de temps libre,\npourriez-vous ecouter ma requete..."
+    },
+    "57675": {
+        "「ゴホッ　ゴホッ。": "<Cough> <Cough>."
+    },
+    "57676": {
+        "「……ごめんなさい。\n　私は　お部屋に入りますので\n　また　おヒマな時に　訪ねてきてくださいね。": "...Je suis desolee. Je vais rentrer dans ma\nchambre, alors revenez me voir quand vous\naurez du temps libre."
+    },
+    "57677": {
+        "「そうですね。\n　無理を　言って……": "C'est vrai. Je vous ai demande l'impossible..."
+    },
+    "57678": {
+        "「ゴホッ　ゴホッ。": "<Cough> <Cough>."
+    },
+    "57679": {
+        "「……ごめんなさい。私は\n　お部屋に入りますので　もし気が向いたら\n　お願いを　聞いてくださいね。": "Je suis desolee. Je vais entrer dans ma\nchambre, alors si vous en avez envie, ecoutez\nma demande, s'il vous plait."
+    },
+    "57680": {
+        "「ラペットじいしゃんの\n　紙芝居が　はじまるよう！": "Le spectacle de kamishibai de grand-pere\nLapett va commencer !"
+    },
+    "57681": {
+        "「ラペットじいさん　待ちくたびれたよー！": "Grand-pere Lapett, je t'ai attendu si\nlongtemps !"
+    },
+    "57682": {
+        "「ほんとよぉ。\n　今日は　やらないのかと思っちゃった。": "Vraiment ? Je pensais que tu n'allais pas le\nfaire aujourd'hui."
+    },
+    "57683": {
+        "「それは～　しゅまんかったの。\n　発声れんすうに　手間どってねえ。": "Je suis vraiment desole pour ca. J'ai pris du\nretard avec mes exercices de diction."
+    },
+    "57684": {
+        "「ささ　旅人さん。\n　もっと　前へどうぞ！": "Allez-y, voyageur. Avancez un peu plus, je\nvous prie !"
+    },
+    "57685": {
+        "「うぉっほん。\n　それでは　わしのいちばんの～親友\n　パンパニーニの傑作童話……": "Ahem. Alors, voici l'un de mes plus grands\namis~ Un chef-d'oeuvre de conte de fees\nintitule Le Panini de Pain…"
+    },
+    "57686": {
+        "「『小さな英雄ザンクローネの物語』　第３話\n　はじまり～　はじまり～～～。": "L'histoire du petit heros Zankrone Chapitre 3\nEt c'est parti～～～."
+    },
+    "57687": {
+        "「さてさて　さらわれた姉を助けに\n　おどろおどろしゅい　地下水路にやってきた\n　ラスカ少年と　不思議な旅人……。": "Alors, alors, pour sauver la soeur enlevee,\nRaskaBoy et l'etrange voyageur sont arrives\ndans les sinistres egouts souterrains..."
+    },
+    "57688": {
+        "「ズシーーーーーン！！　大きな音がしゅてね。\n　ラスカ少年の　後ろに……": "ZUSSHIIIIIN !! Quel grand bruit, n'est-ce pas\n? Derriere RaskaBoy..."
+    },
+    "57689": {
+        "「手の化け物が　降ってきたあ！": "Un monstre avec des mains est tombe du ciel !"
+    },
+    "57690": {
+        "「……ふるえる　ラスカ少年！\n　チカラいっぱい　叫ぶよ！": "...Tremble, RaskaBoy ! Je crie de toutes mes\nforces !"
+    },
+    "57691": {
+        "「ザンクローネしゃま～～～！！": "Zankrone-sama～～～ !!"
+    },
+    "57692": {
+        "「すると　不思議な旅人の持つ宝石が\n　ピカリと　光った！": "Soudain, le joyau du mysterieux voyageur\nbrilla intensement !"
+    },
+    "57693": {
+        "「待たせたな　ボウズ！": "Je t'ai fait attendre, gamin !"
+    },
+    "57694": {
+        "「ザンクローネ様は　魔炎の大剣\n　火燐刀を　ふり回し……": "Zankrone-sama brandit la grande epee de feu\ninfernal, Blazeblade..."
+    },
+    "57695": {
+        "「おそろしゅい　手の化け物を　\n　ザクーッ　メコメコーッと　やっつけた！\n　そして　最後に決めゼリフ！": "Tu as terrasse l'effrayante creature aux mains\nmonstrueuses avec un Zaku! et Mekomeko!. Et\nenfin, la phrase finale pour conclure !"
+    },
+    "57696": {
+        "「どんな時も　希望は捨てんな。 \n　メルサンディ村は　俺とともにある！": "Ne perdez jamais espoir, peu importe les\ncirconstances. Le village de Melsandy est avec\nmoi !"
+    },
+    "57697": {
+        "「こうして　手の化け物は倒され\n　姉のミシュアは　助かったわけだねえ。": "Et ainsi, le monstre de la main a ete vaincu\net ma soeur Misha a ete sauvee."
+    },
+    "57698": {
+        "「しゃて　『小さな英雄ザンクローネの物語』\n　第３話は　これでおしゅまい～。": "Eh bien, c'est ainsi que se termine le\ntroisieme episode de La Petite Histoire du\nHeros Zankrone."
+    },
+    "57699": {
+        "「うーん　何度見ても\n　ザンクローネの物語は　面白いなあ。": "Hmm, peu importe combien de fois je le lis,\nl'histoire de Zankrone est toujours\nfascinante."
+    },
+    "57700": {
+        "「ねーねー　ラペットじいさん！\n　この続きは？　続きはないのっ！？": "He, he, Grand-pere Lapett ! Et la suite alors\n? Y a-t-il une suite ?"
+    },
+    "57701": {
+        "「ふーーーむ……。\n　しゅまんが　続きはないんだよ。\n　さあさ　今日は　これでおしゅまい～。": "Hmmm... Desole, mais il n'y a pas de suite.\nVoila, pour aujourd'hui c'est termine~."
+    },
+    "57702": {
+        "「まあ　旅の方　おかえりなさい！\n　ラペットおじいさんに　パンを届けてくださるの\n　ここから　見えていました。": "Ah, voyageur, bienvenue de retour ! J'ai vu\nque vous avez livre le pain a grand-pere\nLapett depuis ici."
+    },
+    "57703": {
+        "「無理なお願いを　聞いてくださって\n　本当に　ありがとうございます。\n　ささやかですが　こちらは　お礼です。": "Merci beaucoup d'avoir accepte cette demande\nimpossible. Ce n'est pas grand-chose, mais\nvoici un petit remerciement."
+    },
+    "57704": {
+        "「……旅の方。ラペットおじいさんは\n　なにか　おっしゃってましたか？": "…Voyageur. Est-ce que le vieux Lapett a dit\nquelque chose ?"
+    },
+    "57705": {
+        "「まあ。ザンクローネの物語の続きが\n　ないのが　残念だと……？": "Oh. Vous dites que c'est dommage qu'il n'y ait\npas de suite a l'histoire de Zankrone... ?"
+    },
+    "57706": {
+        "「…………ちょっと　お待ちくださいね。": "...... Un instant, je vous prie."
+    },
+    "57707": {
+        "「童話作家だった　パンパニーニおじいさまは\n　メルサンディ村を　深く愛し\n　村を舞台に　英雄の物語を書いたのです。": "Le grand-pere Bread Panini, qui etait un\necrivain de contes de fees, aimait\nprofondement le village de Melsandy et a ecrit<br>une histoire de heros se deroulant dans ce\nvillage."
+    },
+    "57708": {
+        "「小さな英雄さんの活躍する　童話は\n　村の皆さんに　親しまれ\n　生前に　第３話まで　発表されました。": "Le conte mettant en scene le petit heros a ete\napprecie par tous les villageois et, de son\nvivant, il a publie jusqu'au troisieme<br>chapitre."
+    },
+    "57709": {
+        "「そして　これが　おじいさまが遺した\n　『小さな英雄ザンクローネの物語』の\n　まぼろしの　４話です。": "Et voici le quatrieme chapitre legendaire de\nL'histoire du petit heros Zankrone laisse par\ngrand-pere."
+    },
+    "57710": {
+        "「けれど……\n　あまりに　悲しい結末が描かれているので\n　皆さんには　お見せできなくって。": "Mais... Comme il depeint une fin trop\ntragique, je ne peux pas vous la montrer."
+    },
+    "57711": {
+        "「だから　ラペットおじいさんの夢は\n　かなえてあげられないんです……。": "Donc, je ne peux pas realiser le reve de\ngrand-pere Lapett..."
+    },
+    "57712": {
+        "「そうだわ。私ったら　うっかり\n　あなたのお名前を　聞き忘れておりました。\n　なんと　おっしゃるのですか？": "Ah, c'est vrai. J'ai completement oublie de\nvous demander votre nom. Comment vous\nappelez-vous ?"
+    },
+    "57713": {
+        "「……<pc>さんですって？\n　おじいさまの　童話に出てくる\n　不思議な旅人さんと　同じ名前だわ。": "...... Vous dites que c'est <pc>-san ?\nC'est le meme nom que le mysterieux voyageur\ndans les contes de mon grand-pere."
+    },
+    "57714": {
+        "「……不思議な　ご縁ですね。\n　また　お会いできたら　うれしいです。": "C'est une rencontre mysterieuse, n'est-ce pas\n? Je serais ravi de vous revoir."
+    },
+    "87195": {
+        "「その小麦を　<%nEV_QUE_T_NUM0>つほど集めて\n　束ねたら　パンを焼くのに\n　なんとか足りる量になると　思うんです。": "Je pense qu'en recoltant environ\n<%nEV_QUE_T_NUM0> de ce ble et en le liant en\ngerbes, nous aurons juste assez pour cuire du<br>pain."
+    },
+    "87892": {
+        "「それと　お手伝いのルーデさんが\n　気を利かせて　村の宿屋さんのビップルームを\n　予約してくれたので　お使いくださいね。": "Et aussi, Rudy-san, notre aide, a eu la\ngentillesse de reserver la chambre VIP de\nl'auberge du village pour vous. N'hesitez pas<br>a l'utiliser."
+    }
+}

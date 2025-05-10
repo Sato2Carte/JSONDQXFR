@@ -1,0 +1,176 @@
+{
+    "120805": {
+        "「……<pc>さん。\n　魂と　情熱と　心意気にあふれた\n　すばらしい出来映えです……。": "...<pc>-san. C'est une realisation\nmerveilleuse, debordante d'ame, de passion et\nde courage..."
+    },
+    "120806": {
+        "「あなたは　私が見込んだとおり\n　一流の職人に　成長してくれました。\n　ありがとうございま……": "あなたは 私が見込んだとおり 一流の職人に 成長してくれました ありがとうございま"
+    },
+    "120807": {
+        "「いつまで　人を待たせるんだい！\n　カンナっ！！": "いつまで人を待たせるんだい！ カンナっ！！"
+    },
+    "120808": {
+        "「ギルドマスターの　後釜が見つかったと\n　アタシに連絡してきたのは　アンタだろ！\n　さあ　出発するよ！": "C'est toi qui m'as contactee pour me dire que\ntu avais trouve le successeur du maitre du jeu\nLudo, n'est-ce pas ? Alors, allons-y !"
+    },
+    "120809": {
+        "「ま　待ってください　お母さん。\n　今は　<pc>さんに\n　依頼した品の　鑑定の途中で……": "At-Attendez, maman. Je suis en plein milieu de\nl'evaluation de l'article demande par\n<pc>-san..."
+    },
+    "120810": {
+        "「なんだい　こんなくだらない物！": "Quel est cet objet insignifiant !"
+    },
+    "120811": {
+        "「返してください！\n　それは　大切な物なんですっ！": "Rendez-le moi ! C'est quelque chose de\nprecieux !"
+    },
+    "120812": {
+        "「ふん。それなら　すぐに支度して\n　この町の鉄道駅に　来るんだね。\n　そうしたら　返してやるよ。": "Hmm. Dans ce cas, prepare-toi rapidement et\nviens a la gare de cette ville. Ensuite, je te\nle rendrai."
+    },
+    "120813": {
+        "マスター・カンナの母　カナノコは\nカンナから　<%sEV_SYOK_ITEM>を奪ったまま\n去っていった……。": "La mere de Guildmaster Kanna, Kananok, est\npartie apres lui avoir pris\n<%sEV_SYOK_ITEM>..."
+    },
+    "120814": {
+        "「……じつは　今回\n　<pc>さんに　依頼したのは\n　この私なんです。": "En fait, cette fois, c'est moi qui ai demande\na <pc>-san."
+    },
+    "120816": {
+        "「２０歳になったら　ギルドマスターをやめて\n　実家に帰る。それが　母との約束でした。\n　私は　この木工ギルドから　去るつもりです。": "A mes 20 ans, j'ai promis a ma mere d'arreter\nd'etre maitre du jeu et de rentrer chez moi.\nC'etait notre accord. Je compte quitter cette<br>guilde de travail du bois."
+    },
+    "120817": {
+        "「だから　この依頼で　次のマスターにふさわしい\n　ウデ前かどうか　確かめさせてもらいました。\n　<pc>さん……ギルドは　頼みましたよ。": "C'est pourquoi, a travers cette mission, j'ai\nvoulu verifier si vous avez les competences\nrequises pour devenir le prochain Maitre.<br><pc>-san... Je compte sur toi pour\nGILudo."
+    },
+    "120818": {
+        "「そんなっ！　カンナさんっ！？\n　考え直してくだせえっ！\n　実家に帰っちまうなんて　イヤですよ！　": "Quoi ! Kan'na-san !? Reflechissez-y encore, je\nvous en prie ! Je ne veux pas que vous\nretourniez chez vous !"
+    },
+    "120819": {
+        "「……もう　決めたことですから。\n　ただ　正式に　<pc>さんが\n　マスターになるには　レベル解放が　必要です。": "......C'est deja decide. Cependant, pour que\n<pc>-san devienne officiellement le\nMaitre, il est necessaire de liberer le<br>niveau."
+    },
+    "120820": {
+        "「この町の鉄道駅で　母と待ち合わせしています。\n　そこで　必ず　<%sEV_SYOK_ITEM>を　取り戻し\n　<pc>さんの　レベル解放をします。": "Je donne rendez-vous a ma mere a la gare de\ncette ville. La-bas, je recupererai le\n<%sEV_SYOK_ITEM> et je debloquerai le niveau<br>de <pc>-san."
+    },
+    "120821": {
+        "「……お手数をおかけしますが\n　この町の　鉄道駅まで　来てください。\n　私の　最後のお願いです。": "Je suis desole de vous deranger, mais veuillez\nvenir a la gare de cette ville. C'est ma\nderniere requete."
+    },
+    "120822": {
+        "「そろそろ　出発の時間だ。\n　乗り込むよ　カンナ。": "Il est presque temps de partir. On embarque,\nKanna."
+    },
+    "120823": {
+        "「待ってください　お母さん。\n　まだ　<pc>さんが……": "Attendez, maman. <pc>-san est encore..."
+    },
+    "120824": {
+        "「待ってくれっ！　カンナ姐さん！": "Attends ! Grande soeur Kanna !"
+    },
+    "120825": {
+        "「皆さん……。\n　それに　<pc>さん！": "Mesdames et messieurs... Et vous aussi,\n<pc>-san !"
+    },
+    "120826": {
+        "「おやおや。職人どもの　お出ましか。\n　ボーフラみたいに　どこにでも　わいてくる\n　うっとうしい連中だね。": "Oh la la. Voila que les artisans se montrent.\nIls surgissent partout comme des larves de\nmoustiques, c'est vraiment agacant."
+    },
+    "120827": {
+        "「あの……お母さん。\n　駅に来たら　<%sEV_SYOK_ITEM>を\n　返してくれるって約束でしたよね……？": "Euh... Maman. Tu avais promis de me rendre\n<%sEV_SYOK_ITEM> quand on serait a la gare,\nnon...?"
+    },
+    "120828": {
+        "「はん。あの　いまいちの出来で\n　趣味の悪い　<%sEV_SYOK_ITEM>のことかい。\n　荷物になるから　とっくに　捨てちまったよ。": "Ha. Tu parles de ce < %sEV_SYOK_ITEM > au gout\ndouteux et de qualite mediocre, n'est-ce pas ?\nJe l'ai deja jete depuis longtemps, ca ne<br>faisait que m'encombrer."
+    },
+    "120829": {
+        "「今ごろ　風呂の　たきつけにでも\n　使われてるんじゃないのかい？\n　あの　<%sEV_SYOK_ITEM>には　お似合いだね。": "A ce stade, il doit etre utilise pour allumer\nle feu du bain, non ? Cela convient bien a ce\n<%sEV_SYOK_ITEM>."
+    },
+    "120830": {
+        "「……ふざけんじゃないよっ！！": "...Ne te moque pas de moi !!"
+    },
+    "120831": {
+        "「<pc>が　どれほど\n　魂をそそいで　<%sEV_SYOK_ITEM>を\n　作りあげたと思ってるんだいっ！": "Tu sais a quel point <pc> a mis toute\nson ame pour creer <%sEV_SYOK_ITEM> !"
+    },
+    "120832": {
+        "「木工で作った品を　踏みにじるってことは\n　職人の魂を　踏みにじるのと　同じだよっ！\n　たとえ母親であっても　許しちゃおけねえ！！": "Pietiner des objets fabriques en menuiserie\nrevient a pietiner l'ame de l'artisan ! Meme\nsi c'est ma propre mere, je ne peux pas le<br>pardonner !!"
+    },
+    "120833": {
+        "「アンタとは　もう　親でも子でもない！\n　アタシは　家には　帰らないよっ！\n　木工ギルドに　骨をうずめるんだ！！": "Entre toi et moi, c'est fini ! Nous ne sommes\nplus ni parent ni enfant ! Je ne rentrerai pas\na la maison ! Je vais consacrer ma vie a la<br>Woodworking Guild !!"
+    },
+    "120834": {
+        "「ご……ごめんなさい　お母さんっ！！\n　わ　私　つい　カッとなって\n　失礼なことを……": "P... Pardon, maman !! Je... je me suis\nemportee et j'ai dit quelque chose de\ndeplace..."
+    },
+    "120835": {
+        "「……その言葉が聞きたかったんだよ\n　カンナ。": "C'est ce que je voulais entendre, Kanna."
+    },
+    "120836": {
+        "カナノコは　<pc>の作った\n<%sEV_SYOK_ITEM>を\nカンナに　返してくれた！": "Kananok a rendu a Canna le <%sEV_SYOK_ITEM>\nque <pc> avait fabrique !"
+    },
+    "120837": {
+        "「アンタが　いいかげんな気持ちで\n　ギルドマスターを　やってるなら\n　実家に　連れ戻すつもりだったけど……": "Si tu faisais ca en te contentant d'une\nattitude desinvolte en tant que maitre du jeu\nLudo, j'avais l'intention de te ramener a la<br>maison..."
+    },
+    "120838": {
+        "「どうやら　いらない心配だったようだ。\n　頼もしくなったね　カンナ。": "Il semble que je me suis inquiete pour rien.\nTu es devenue vraiment fiable, Kanna."
+    },
+    "120839": {
+        "「お母さん……？": "Maman...?"
+    },
+    "120840": {
+        "「カンナ。木工職人という　アンタの花道を\n　チカラいっぱい　歩いておゆき。\n　……たまには　家にも顔を見せなよ。": "Kanna. Suis ton chemin de maitre artisan avec\ntoute ta force. …Et de temps en temps, viens\nrendre visite a la maison."
+    },
+    "120841": {
+        "マスター・カンナの母親　カナノコは\n列車に乗りこむと\nひとり　帰っていった……。": "La mere de Guildmaster Kanna, Kananok, monta\ndans le train et repartit seule..."
+    },
+    "120842": {
+        "<pc>と　木工ギルドの職人たちは\n大喜びで　カンナを　木工ギルドへ連れて帰った。": "<pc> et les artisans de la Woodworking\nGuild ont ramene Kanna au Woodworking Guild\navec une grande joie."
+    },
+    "120843": {
+        "「それにしても……\n　母は　ずっと　私が木工職人になるのを\n　反対していたのに　どうして急に……？": "それにしても 母はずっと私が木工職人になるのを 反対していたのに、どうして急に？"
+    },
+    "120844": {
+        "「よう　お嬢。元気そうじゃの。\n　この間は　うちの若ぇモンが\n　借金の件で　えれえ迷惑かけちまったな。": "Salut, mademoiselle. Tu as l'air en forme. La\nderniere fois, nos jeunes ont cause pas mal\nd'ennuis avec cette histoire de dettes,<br>n'est-ce pas ?"
+    },
+    "120845": {
+        "「そんなっ！　お気になさらないでください。\n　おかげで　キハダさんも\n　心を入れ替えてくれましたし……。": "Oh non ! Ne vous en faites pas. Grace a cela,\nKihada-san a aussi change d'attitude..."
+    },
+    "120846": {
+        "「お嬢の　懐の深さは\n　スミツボのオヤジさん　そっくりじゃな。\n　……恩に着るけえ。": "Le grand coeur de la jeune demoiselle ressemble\nbeaucoup a celui du vieux monsieur de SumiPot,\nn'est-ce pas ? ... Je lui en suis<br>reconnaissant."
+    },
+    "120847": {
+        "「ところで　カナノコさんが\n　来とると聞いたけえ　あいさつのひとつも\n　したかったんじゃが……もう　おらんのか。": "Au fait, j'ai entendu dire que Kananok-san\netait ici, et je voulais lui adresser un\nsalut... mais il est deja parti, n'est-ce pas<br>?"
+    },
+    "120848": {
+        "「ツバクロさん。\n　母のこと　ご存知なんですか！？": "Tsubakuro-san. Vous connaissez ma mere !?"
+    },
+    "120849": {
+        "「そりゃぁ　よう知っとる。\n　若い頃のカナノコさんは　毎日のように\n　木工ギルドに　来とったけえのう。": "Ah, je le sais bien. Dans sa jeunesse,\nKananok-san venait presque tous les jours a la\nWoodworking Guild."
+    },
+    "120850": {
+        "「ええっ！？": "Quoi !?"
+    },
+    "120851": {
+        "「……ほう　そんなことが　あったんか。": "…Oh, c'est donc ce qui s'est passe."
+    },
+    "120852": {
+        "「ええ。木工ギルドの仕事を続けていいと\n　許してくれたのは　うれしいんですが\n　私　母の気持ちがわからなくて……。": "Oui. Je suis heureuse que l'on m'ait permis de\ncontinuer mon travail a la Woodworking Guild,\nmais je ne comprends pas les sentiments de ma<br>mere..."
+    },
+    "120853": {
+        "「カナノコさんはのう\n　昔　木工職人を　目指しとったんじゃよ。": "Kananok-san, tu sais, visait autrefois a\ndevenir un artisan menuisier."
+    },
+    "120854": {
+        "「じゃが　先代　スミツボのオヤジさんは\n　えらく反対してなあ。カナノコさんは\n　木工職人になるのを　あきらめたんじゃ。": "Cependant, le pere de SumiPot s'y est\nfermement oppose. Kananok-san a donc renonce a\ndevenir artisan menuisier."
+    },
+    "120855": {
+        "「今にして思えば　かわいい娘に\n　キツい仕事をさせたくなかったんじゃろうが\n　……ありゃあ　かわいそうじゃった。": "En y repensant, il ne voulait probablement pas\nfaire travailler sa fille adoree si\ndurement... C'etait vraiment triste."
+    },
+    "120856": {
+        "「お母さんが……。": "Maman..."
+    },
+    "120857": {
+        "「カナノコさんは　木工って仕事を\n　誰よりも　愛していたからこそ\n　お嬢の本気が　見たかった。": "Kananok-san aimait son metier de menuisier\nplus que quiconque, c'est pourquoi il voulait\nvoir la determination de sa fille."
+    },
+    "120858": {
+        "「……ま　ワシの勝手な想像じゃがのう。\n　本当のトコは　お嬢が　自分で聞くがええ。": "... Eh bien, ce n'est que mon imagination,\napres tout. Mais pour connaitre la verite,\nc'est mieux que tu lui demandes toi-meme."
+    },
+    "120859": {
+        "「……はい。ありがとうございます。\n　ツバクロさん！": "...Oui. Merci beaucoup. Tsubakuro-san !"
+    },
+    "120860": {
+        "「じゃあの。": "A plus tard."
+    },
+    "120861": {
+        "「……私　もっと　しっかりした\n　頼もしいギルドマスターになれるよう\n　精一杯　がんばります。": "Je vais faire de mon mieux pour devenir une\nmaitresse du jeu Ludo plus fiable et digne de\nconfiance."
+    },
+    "120862": {
+        "「そして　祖父スミツボと　母カナノコの\n　木工にかける想いを\n　職人の皆さんに　伝えていきたい……。": "Et je veux transmettre a tous les artisans la\npassion que mon grand-pere SumiPot et ma mere\nKananok avaient pour le travail du bois..."
+    },
+    "120863": {
+        "「だから　<pc>さん。\n　これからも　私と一緒に　木工ギルドを\n　盛り上げていきましょうねっ！": "Donc, <pc>-san. Continuons a faire\ngrandir ensemble la Guilde de Menuiserie !"
+    }
+}

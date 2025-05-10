@@ -1,0 +1,116 @@
+{
+    "64346": {
+        "「ほおっ　<pc>！　来てくれたか。\n　ちーと　頼みたいことがあって\n　そなたを　探していたんじゃよ。": "Oh, <pc> ! Tu es venu. J'ai une petite\nfaveur a te demander, c'est pourquoi je te\ncherchais."
+    },
+    "64347": {
+        "「じつはな　なんと……\n　元の姿に戻る方法が　判明したんじゃよ！": "En fait, figure-toi que... nous avons\ndecouvert comment retrouver notre apparence\nd'origine !"
+    },
+    "64348": {
+        "「我が国に伝わる　古文書によると\n　強力な　へんげの呪いを解く　聖なる泉が\n　ジャイラ密林という場所にあるらしい。": "Selon les anciens documents de notre pays, il\nsemblerait qu'il existe une source sacree\ncapable de lever la puissante malediction de<br>transformation, situee dans un endroit appele\nJyra Jungle."
+    },
+    "64349": {
+        "「その名も　クドゥスの泉じゃ。\n　そこに　身をひたせば　かかった呪いが\n　たちまち　はらわれるという……。": "Son nom est Kudus Spring. Si vous vous y\nimmergez, la malediction qui vous affecte sera\ninstantanement levee..."
+    },
+    "64350": {
+        "「この姿のままじゃと　国事をとりおこなうにも\n　支障をきたすのでな。一刻も早く\n　人間の姿を　取り戻さねばならぬのじゃ。": "Dans cette apparence, il est difficile de\nmener a bien les affaires d'Etat. Je dois\nretrouver mon apparence humaine au plus vite."
+    },
+    "64351": {
+        "「本来なら　城の兵士と　ジャイラ密林へ行き\n　クドゥスの泉を　探すところじゃが\n　ワシの　この姿を知る者は　限られておる。": "Normalement, je devrais aller a la Jungle de\nJyra avec les soldats du chateau pour chercher\nla Source de Kudus, mais tres peu de gens<br>connaissent ma veritable apparence."
+    },
+    "64352": {
+        "「そこで　事情を知り　ウデも立つ　おぬしが\n　護衛についてくれれば　よいだろう……と\n　カブース大臣も　オッケーしてくれたんじゃ。": "La-bas, en apprenant la situation, quelqu'un\nde competent comme toi pourrait servir de\ngarde du corps... C'est ce que le Ministre<br>Kabusu a accepte."
+    },
+    "64353": {
+        "「どうじゃ？　デフェル荒野の北西にある\n　ジャイラ密林の　クドゥスの泉まで\n　ワシの護衛を　頼めんかのう？": "Comment ca te semble ? Pourrais-je te demander\nde m'escorter jusqu'a la source Kudus dans la\njungle Jyra, au nord-ouest du desert Defel ?"
+    },
+    "64354": {
+        "「おおっ。そうこなくっちゃ　じゃ！\n　おぬしを見込んで　頼んでみて　よかったわい。": "Oh ! C'est comme ca que ca doit etre, alors !\nJe suis content d'avoir fait appel a toi."
+    },
+    "64355": {
+        "「そういうことで　ワシは　おぬしのあとを\n　コッソリ　ジットリ　つけていくぞよ。\n　では　さっそく　出発じゃ！": "Voila ce qu'il en est, je vais te suivre\ndiscretement et attentivement. Alors, partons\nsans plus tarder !"
+    },
+    "64356": {
+        "「おお。ありがたや……と　言いたいところじゃが\n　おぬし　他の者からの頼まれごとで\n　手が　いっぱいのようじゃな。": "Oh. Je suis reconnaissant... enfin, j'aimerais\nle dire, mais il semble que tu sois deja bien\noccupe avec les demandes des autres."
+    },
+    "64357": {
+        "「それらを　速やかに片付けて\n　急いで　戻ってまいるのじゃ。\n　ワシ　ここで待っておるからの。": "Debarrasse-toi de tout cela rapidement et\nreviens en toute hate. Je t'attendrai ici."
+    },
+    "64358": {
+        "「おおっ　<pc>！\n　責任感の強い　おぬしのことじゃから\n　必ずや　また　来てくれると信じておったぞ。": "Oh, <pc> ! Je savais que tu reviendrais,\ncar je crois fermement en ton sens des\nresponsabilites."
+    },
+    "64359": {
+        "「古文書によると　強力な　へんげの呪いを解く\n　聖なる泉が　デフェル荒野の北西に存在する\n　ジャイラ密林という場所に　あるらしい……。": "Selon d'anciens documents, une source sacree\ncapable de briser une puissante malediction de\ntransformation se trouverait au nord-ouest du<br>desert de Defel, dans un lieu appele la jungle\nde Jyra..."
+    },
+    "64360": {
+        "「その名も　クドゥスの泉。\n　その泉まで　ワシを連れていってほしいんじゃ。": "Cela s'appelle Kudus Spring. J'aimerais que tu\nm'accompagnes jusqu'a cette source."
+    },
+    "64361": {
+        "「クドゥスの泉に　身をひたせば　へんげの呪いが\n　解けて　人間の姿に戻れると思うでの。\n　どうじゃ　やってくれんかの？": "Si tu te plonges dans la source de Kudus\nSpring, je pense que la malediction de\ntransformation sera levee et que tu pourras<br>retrouver ton apparence humaine. Qu'en dis-tu\n? Pourrais-tu essayer ?"
+    },
+    "64362": {
+        "「ぬっ？　どうした　<pc>。": "Hm ? Qu'est-ce qui se passe, <pc> ?"
+    },
+    "64363": {
+        "「おぬしには　デフェル荒野の北西の\n　ジャイラ密林のどこかにあるという\n　クドゥスの泉まで　連れていってほしいんじゃ。": "Je veux que tu m'emmenes jusqu'a Kudus Spring,\nqui se trouve quelque part dans Jyra Jungle,\nau nord-ouest de Defel Desert."
+    },
+    "64364": {
+        "「古文書の通りならば　そのクドゥスの泉に\n　身をひたせば　へんげの呪いが　解けて\n　人間の姿に戻れるはず！": "Si l'on en croit les anciens ecrits, en\ns'immergeant dans cette source Kudus, la\nmalediction de transformation devrait se<br>dissiper et l'on devrait pouvoir retrouver son\napparence humaine !"
+    },
+    "64365": {
+        "「ささっ　<pc>。出発じゃ！\n　心配せんでも　ワシは　おぬしの後ろを\n　ヒッソリ　ジットリ　ついていくからの。": "Allez, <pc>. Partons ! Ne t'inquiete\npas, je te suivrai discretement et\nsilencieusement."
+    },
+    "64366": {
+        "「ふぉ……！　ここが　かのクドゥスの泉じゃな。\n　確かに　神秘的なニオイが　プンプンするぞい！": "Oh... ! Voici donc la fameuse source Kudus. Il\nest vrai qu'une aura mystique s'en degage\nfortement !"
+    },
+    "64367": {
+        "「さて……。本当に　呪いが解けるかどうか\n　確かめねばならんのう。": "Bon... Nous devons verifier si la malediction\nest vraiment levee ou non."
+    },
+    "64368": {
+        "「<pc>。ワシに　もしものことがあったら\n　よろしく　頼んだぞ……。": "<pc>. Si jamais il m'arrive quelque\nchose, je compte sur toi..."
+    },
+    "64369": {
+        "「ふむ。……何も　起こらんな。": "Hmm. ...Rien ne se passe."
+    },
+    "64370": {
+        "「<pc>……。\n　これは　ぬかよろこびだったようじゃ。\n　クドゥスの泉には　なんの効果も……": "<pc>... C'etait une joie de courte\nduree, on dirait. Cela n'a eu aucun effet sur\nKudus Spring..."
+    },
+    "64371": {
+        "「ん……んん！？\n　なんじゃ　これは……。": "Hmm... Hmm !? Qu'est-ce que c'est que ca...?"
+    },
+    "64372": {
+        "「ぎゃああああああ！！": "Gyaaaaaah !!"
+    },
+    "64373": {
+        "「ふぉっ！　こ　これは……。": "Oh ! Ce... ce..."
+    },
+    "64374": {
+        "「やったぞい！！\n　元の姿に　戻れたぞよ！": "J'ai reussi !! Je suis revenu a ma forme\noriginale !"
+    },
+    "64375": {
+        "「どうじゃ？　<pc>。ふっふふー♪\n　前の　ヌメヌメした姿からは\n　想像がつかないほどの　イケメンじゃろう？": "Qu'en dis-tu ? <pc>. Fufufu♪ Il est\ndevenu un beau gosse, n'est-ce pas, si\ndifferent de son apparence visqueuse d'avant ?"
+    },
+    "64376": {
+        "「むほー！　ワシは　もうバケモノじゃない！\n　これで　ワシは　ワシはっ……。": "Muh-oh ! Je ne suis plus un monstre !\nMaintenant, je suis... je suis..."
+    },
+    "64377": {
+        "「……ワシだけが　戻ってしまった。": "…Je suis le seul a etre revenu."
+    },
+    "64378": {
+        "「国王である　ワシだけが……。\n　ワシが　ふがいないせいで\n　皆に　苦しい思いをさせたというのに……。": "Seul moi, le roi... C'est a cause de ma\nfaiblesse si j'ai cause tant de souffrances a\ntout le monde..."
+    },
+    "64379": {
+        "「ゴリウス兵士長に　率いられた兵士たちと\n　戦争に駆り出された　まもの使いたち……\n　彼らは　どこに　連れ去られたんじゃろうか。": "Les soldats menes par le Capitaine Gorius et\nles dompteurs de monstres envoyes a la\nguerre... Ou ont-ils bien pu etre emmenes ?"
+    },
+    "64380": {
+        "「あの者たちも　この泉に連れてきて\n　人間の姿に　戻してやりたいのう……。\n　なんとか　探しだしてやらねば。": "Je voudrais aussi amener ces personnes a cette\nsource et les ramener a leur forme humaine...\nIl faut absolument que je les retrouve."
+    },
+    "64381": {
+        "「<pc>！　ご苦労じゃった。\n　アラハギーロへ戻ったら　玉座の間まで\n　来てくれんか。礼がしたいんじゃ。": "<pc> ! Tu as bien travaille. Lorsque tu\nseras de retour a Arahagi-Ro, pourrais-tu\nvenir jusqu'a la salle du trone ? J'aimerais<br>te remercier."
+    },
+    "66966": {
+        "「なん……じゃと……？　ワシの恩人が\n　そんな　非情なヤツじゃったとは……。": "Quoi... ? Mon bienfaiteur etait un etre aussi\nimpitoyable... ?"
+    },
+    "66967": {
+        "「でも　ワシ　おぬしの気が変わるのを\n　信じて　ここで待っておるからな。": "Mais, je crois que tu changeras d'avis, alors\nje vais attendre ici."
+    }
+}

@@ -1,0 +1,290 @@
+{
+    "15675": {
+        "「おおっ　<pc>か！\n　よく来てくれた！": "Oh, <pc> ! Je suis content que tu sois\nvenu !"
+    },
+    "15676": {
+        "「ケガを負って　帰って以来\n　ずっと　村王の熱が下がらなかったのだが\n　さきほど　ついに　意識を失ってしまった……。": "Depuis qu'il est revenu blesse, la fievre du\nroi du village n'est jamais redescendue, et a\nl'instant, il a finalement perdu<br>connaissance..."
+    },
+    "15677": {
+        "「こ　このままでは　村王の　命が危ない！\n　急いで　解熱薬を用意せねばならん！": "Ce... Ce n'est pas bon, la vie du roi du\nvillage est en danger ! Nous devons preparer\nun medicament pour faire baisser la fievre<br>rapidement !"
+    },
+    "15678": {
+        "「<pc>よ！　材料となる\n　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>を\n　早急に　持ってきてもらえんか！": "<pc> ! Peux-tu m'apporter d'urgence les\nmateriaux <%sEV_QUE_NAME4> et <%sEV_QUE_NAME5>\n?"
+    },
+    "15679": {
+        "「ありがたい！　どちらも　特別なことをせずとも\n　手に入るものだ！　もし見つからないなら\n　旅人バザーを　のぞいたりしてみてくれ！": "Merci beaucoup ! Les deux sont des objets que\nl'on peut obtenir sans effort particulier ! Si\ntu ne les trouves pas, essaie de jeter un oeil<br>au Traveler's Bazaar !"
+    },
+    "15680": {
+        "「私は　村王から　目が離せん！\n　よろしく頼むぞ！！": "Je ne peux pas quitter le roi du village des\nyeux ! Je compte sur toi !!"
+    },
+    "15681": {
+        "「やってくれるか……。\n　だが　頼まれごとで　いっぱいではないか！": "Tu vas le faire... Mais tu ne serais pas deja\ndeborde par toutes les demandes qu'on te fait\n!"
+    },
+    "15682": {
+        "「手遅れになる前に　頼みを聞ける状態にして\n　また来てくれ！　急ぐのだぞ！　いいな！": "Avant qu'il ne soit trop tard, mets-toi en\netat de m'ecouter et reviens me voir !\nDepeche-toi ! D'accord !"
+    },
+    "15683": {
+        "「お前だけが　頼りなのだ！\n　そう言わずに　もう一度　考え直してくれ！": "Tu es notre seul espoir ! Ne dis pas cela,\nreflechis-y encore une fois !"
+    },
+    "15684": {
+        "「おおっ　<pc>！\n　来てくれたか！": "Oh, <pc> ! Tu es venu !"
+    },
+    "15685": {
+        "「村王が　熱で　意識を失ってしまった……。\n　このままでは　命が危ない！\n　急いで　解熱薬を用意せねばならん！": "Le roi du village a perdu connaissance a cause\nde la fievre... A ce rythme, sa vie est en\ndanger ! Nous devons preparer un remede contre<br>la fievre immediatement !"
+    },
+    "15686": {
+        "「<pc>よ！　材料となる\n　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>を\n　早急に　持ってきてもらえんか！": "<pc> ! Peux-tu m'apporter d'urgence les\nmateriaux <%sEV_QUE_NAME4> et <%sEV_QUE_NAME5>\n?"
+    },
+    "15687": {
+        "「<pc>！　戻ったか！": "<pc> ! Te voila de retour !"
+    },
+    "15688": {
+        "「む……。どうやら　まだ\n　<%sEV_QUE_NAME4>と　<%sEV_QUE_NAME5>は\n　手に入らないようだな……。": "Hum... Il semble que je ne puisse pas encore\nobtenir <%sEV_QUE_NAME4> et\n<%sEV_QUE_NAME5>..."
+    },
+    "15689": {
+        "「ならば　ここに来ている場合ではない！\n　解熱薬の材料を　急いで　集めてきてくれ！": "Alors, ce n'est pas le moment de rester ici !\nVite, va rassembler les ingredients pour le\nmedicament contre la fievre !"
+    },
+    "15690": {
+        "「どうだ！\n　解熱薬の材料は　手に入ったか！": "Comment ca se passe ? As-tu reussi a obtenir\nles ingredients pour l'antipyretique ?"
+    },
+    "15691": {
+        "ギュランに　<%sEV_QUE_NAME4>と\n<%sEV_QUE_NAME5>を　渡しますか？<yesno><close>": "Souhaitez-vous donner <%sEV_QUE_NAME4> et\n<%sEV_QUE_NAME5> a Guran ? <yesno><close>"
+    },
+    "15692": {
+        "「……そうか。まだ　手に入らないか。\n　ならば　ここに来ている場合ではない！\n　解熱薬の材料を　急いで　集めてきてくれ！": "…Je vois. On ne l'a pas encore obtenu. Dans ce\ncas, ce n'est pas le moment de rester ici !\nDepeche-toi de rassembler les ingredients pour<br>le medicament contre la fievre !"
+    },
+    "15693": {
+        "<pc>は　ギュランに\n<%sEV_QUE_NAME4>と\n<%sEV_QUE_NAME5>を　渡した！": "<pc> a remis a Guran <%sEV_QUE_NAME4> et\n<%sEV_QUE_NAME5> !"
+    },
+    "15694": {
+        "「おおっ！　ありがたい！\n　さっそく　解熱薬を　調合しよう！\n　これで　村王を　助けられるぞ！": "Oh ! Merci beaucoup ! Je vais immediatement\npreparer l'antipyretique ! Avec ca, nous\npourrons sauver le roi du village !"
+    },
+    "15695": {
+        "「よく眠っておられる……。\n　どうやら　落ち着いたようだ。": "Il dort profondement... On dirait qu'il s'est\ncalme."
+    },
+    "15696": {
+        "「しばらく　ゆっくり眠れば\n　また元気な村王に　戻られるだろう。\n　ありがとう。<pc>のおかげだ。": "Apres un bon repos, le roi du village\nretrouvera surement sa vitalite. Merci. C'est\ngrace a <pc>."
+    },
+    "15697": {
+        "「……私は　１０年　お仕えしているが\n　村王の　お気持ちは　まだまだ\n　理解できていない部分が　多いのかもしれんな。": "Cela fait 10 ans que je sers, mais il y a\nencore de nombreux aspects des sentiments du\nroi du village que je ne parviens pas a<br>comprendre."
+    },
+    "15698": {
+        "「……だが　心から　人に優しい方であることは\n　知っている。今　多くを語られないことにも\n　相応の理由が　あってのことなのだろう……。": "...Mais je sais que c'est une personne\nprofondement bienveillante. S'il ne peut pas\nen dire plus pour l'instant, c'est<br>certainement pour une bonne raison..."
+    },
+    "15699": {
+        "「村王！　村王ーっ！！": "Chef du village ! Chef du village !!"
+    },
+    "15700": {
+        "「やめんかっ！　村王は　お休み中だ！": "Arretez ca ! Le roi du village est en train de\nse reposer !"
+    },
+    "15701": {
+        "「た　大変なんです！！": "C'est... c'est terrible !!"
+    },
+    "15702": {
+        "「何事だ。\n　つまらんことだったら　承知せんぞ。": "Qu'y a-t-il ? Si c'est quelque chose de\nfutile, je ne le tolererai pas."
+    },
+    "15703": {
+        "「む　村の武闘場に\n　見たことのないヤツが　入り込んできて\n　占拠してるんです！": "Un type que je n'ai jamais vu s'est infiltre\ndans l'arene du village et l'a prise d'assaut\n!"
+    },
+    "15704": {
+        "「で　そいつは　自分のことを\n　死神だとか　言ってやがるんです！": "Et ce type pretend etre un dieu de la mort !"
+    },
+    "15705": {
+        "「なんだと……？": "Quoi...?"
+    },
+    "15706": {
+        "「それは　確かに　ただごとではないな。\n　村王が　このようなときに\n　村を　襲ってくるとは……。": "Ca, c'est vraiment inquietant. Que le roi du\nvillage attaque a un moment pareil..."
+    },
+    "15707": {
+        "「<pc>よ！\n　すまないが　武闘場の様子を\n　見にいってくれ！": "<pc> ! Je suis desole, mais pourrais-tu\naller voir ce qui se passe a l'arene de combat\n?"
+    },
+    "15708": {
+        "「味方が増えるのは　ありがたい！\n　一緒に　行きましょう！": "Avoir un allie de plus, c'est formidable !\nAllons-y ensemble !"
+    },
+    "15709": {
+        "「<pc>っ！\n　私は　村王のそばから　離れられん！": "<pc>っ！ Je ne peux pas quitter le cote du\nroi du village !"
+    },
+    "15710": {
+        "「武闘場の様子を　見にいってくれ！\n　頼れるのは　お前だけだ！　頼むぞ！": "Va voir ce qui se passe dans l'arene de combat\n! Je ne peux compter que sur toi ! Je t'en\nprie !"
+    },
+    "15711": {
+        "「……これで　もう終わりか？": "Est-ce deja la fin ?"
+    },
+    "15712": {
+        "「強さこそ至上と唱えた　ランガーオ村とは\n　とても思えぬ　歯ごたえのなさだ。": "Il est difficile de croire que ce manque de\ndefi provienne du village de Langao, qui\npronait la force comme valeur supreme."
+    },
+    "15713": {
+        "「どうやら　集まってきたようだな。": "Il semble que tout le monde soit reuni."
+    },
+    "15714": {
+        "「ランガーオ村の　愚民どもに告ぐ！\n　オレは　今から　この村を　滅ぼす！！": "Aux imbeciles du village de Langao ! Je vais\ndetruire ce village des maintenant !!"
+    },
+    "15715": {
+        "「不意打ちのような　ひきょうなマネはしない。\n　戦う意志のあるやつは\n　全員　相手をしてやろう！": "Je ne ferai pas de coups bas par surprise.\nJ'affronterai tous ceux qui ont la volonte de\nse battre !"
+    },
+    "15716": {
+        "「さあ　好きなタイミングで　かかってこい！\n　束になってきても　構わんぞ！！": "Allez, affronte-moi avec ta technique de Red\nSnapper preferee ! Meme si vous venez en\ngroupe, cela ne me derange pas !!"
+    },
+    "15717": {
+        "「やれやれ。どうやら　今\n　この村にいるのは　戦う勇気さえも失った\n　情けないオーガばかりのようだな。": "Eh bien, eh bien. Il semblerait\nqu'actuellement dans ce village, il n'y ait\nque des Ogres pitoyables qui ont meme perdu le<br>courage de se battre."
+    },
+    "15718": {
+        "「ならば　こっちも遠慮はせん。\n　端から順番に　殺していってやろう。\n　命乞いしたいやつは　せいぜい叫ぶがいい。": "Dans ce cas, je ne me retiendrai pas non plus.\nJe vais vous eliminer un par un. Ceux qui\nveulent supplier pour leur vie, criez autant<br>que vous le pouvez."
+    },
+    "15719": {
+        "「き　き　貴様ぁ！\n　次は……　次は　オ　オレが相手だ！": "Ki... ki... espece de... ! La prochaine\nfois... la prochaine fois, c'est moi qui\nt'affronterai !"
+    },
+    "15720": {
+        "「よし。それでこそ\n　ランガーオ村の　勇気あるオーガだ。\n　次に死ぬのは　お前にしてやる。": "Bien. Voila qui fait de toi un Ogre courageux\ndu village de Langao. La prochaine fois, je te\nlaisserai mourir."
+    },
+    "15721": {
+        "「……待てっ！": "...Attends !"
+    },
+    "15722": {
+        "「ギュランよ……。すまんな。\n　ここからは　ひとりで行く。": "Guran... Desole. A partir d'ici, je dois\ncontinuer seul."
+    },
+    "15723": {
+        "「村王…………。": "Le roi du village..."
+    },
+    "15724": {
+        "「……ガガイよ。\n　今　この村には　お前に勝てるような\n　強いオーガは　ひとりもいない……。": "Gagai. Dans ce village, il n'y a pas un seul\nOgre assez fort pour te vaincre..."
+    },
+    "15725": {
+        "「……だが　わしは　この村の王だ。\n　たとえ　どんなことをしてでも\n　村の者を　守り抜かなくてはならない。": "Cependant, je suis le roi de ce village. Peu\nimporte ce qu'il en coute, je dois proteger\nles habitants du village."
+    },
+    "15726": {
+        "「これが　今の　わしにできる　すべてだ。": "Voila tout ce que je peux faire pour le\nmoment."
+    },
+    "15727": {
+        "「この通りだ。頼む……。\n　この村の者を　殺さないでくれ……。\n　わしの命ならば　いくらでも　くれてやる。": "Comme tu peux le voir. Je t'en prie... Epargne\nles habitants de ce village... Si c'est ma vie\nque tu veux, je te la donne volontiers."
+    },
+    "15729": {
+        "「はっはっは！\n　いい姿だな　クリフゲーン。": "Ha ha ha ! Quelle belle allure, Crifgan."
+    },
+    "15730": {
+        "「見るがいい　ランガーオ村の者たちよ！\n　これが　貴様らが　村王などと呼び\n　崇める者の　本当の姿だ！": "Regardez bien, habitants du village de Langao\n! Voici la veritable apparence de celui que\nvous appelez et venerez comme le roi du<br>village !"
+    },
+    "15731": {
+        "「つい先日のことだ。\n　この男は　オレとの真剣勝負に敗れた。\n　今も　そのキズで　満足に動けないようだ。": "Il y a quelques jours a peine. Cet homme a\nperdu un duel d'epees contre moi. Meme\nmaintenant, il semble incapable de bouger<br>correctement a cause de cette blessure."
+    },
+    "15732": {
+        "「この男は　敗者だ！\n　貴様らは　それを知っても　この男を\n　同じように　村王と呼び続けられるのか！！": "Ce type est un perdant ! Meme en sachant cela,\npouvez-vous continuer a l'appeler roi du\nvillage ?!"
+    },
+    "15733": {
+        "「よ　呼び続けられるもん……。": "Je... je suis constamment appele..."
+    },
+    "15734": {
+        "「そうだよっ！　村王は　村王だもん！\n　勝者とか敗者とか　そんなのカンケーないよっ！": "Exactement ! Le roi du village est le roi du\nvillage ! Ca n'a rien a voir avec etre\nvainqueur ou perdant !"
+    },
+    "15737": {
+        "「この村に　お前の居場所は　なーいっ！\n　早々に　立ち去れい！": "Dans ce village, il n'y a pas de place pour\ntoi ! Pars sur-le-champ !"
+    },
+    "15738": {
+        "「き…貴様ら……。": "<me 60> Vo...Vous... !"
+    },
+    "15739": {
+        "「……ガガイよ。今は　ちがうのだ。\n　ランガーオ村は　変わったのだ。": "...Gagai. Ce n'est plus comme avant. Le\nvillage de Langao a change."
+    },
+    "15740": {
+        "「だ　だまれえええっ！！！": "Tais-toi !!!"
+    },
+    "15741": {
+        "「変わったなど　オレは認めんっ！！\n　貴様ら　皆殺しにしてやるっ！！": "Je ne reconnais pas avoir change !! Je vais\ntous vous massacrer !!"
+    },
+    "15742": {
+        "「<cs_pchero>っ！　村王を！\n　村王を　お守りしてくれっ！！": "<cs_pchero> ! Protege le roi du village !\nProtege le roi du village !"
+    },
+    "15743": {
+        "「<cs_pchero>っ！　戻ってきてくれたか！": "<cs_pchero> ! Tu es revenu !"
+    },
+    "15744": {
+        "「今度こそ　ガガイを倒し　村王を……\n　いや　この村を　守ってくれっ！！": "Cette fois, bats Gagai et protege le roi du\nvillage... Non, protege ce village !"
+    },
+    "15745": {
+        "「何度やっても　同じことだ！\n　この村のやつらは　ひとり残らず\n　殺してやるっ！！": "Peu importe combien de fois je m'y essaie,\nc'est toujours la meme chose ! Je vais tous\nles eliminer, sans en laisser un seul dans ce<br>village !!"
+    },
+    "15746": {
+        "「……バ　バカな。\n　このオレが……敗れた…だと……？": "…Im…Impossible. Moi, etre vaincu… par vous… ?"
+    },
+    "15747": {
+        "「……これが　神の意志だというのか。\n　親子二代に渡り　同じ場所で\n　同じ屈辱にまみれて　死ねと……。": "Est-ce vraiment la volonte divine... Que sur\ndeux generations, pere et fils, nous mourrions\nau meme endroit, enveloppes dans la meme<br>humiliation...?"
+    },
+    "15748": {
+        "「オレの……負けだ！　さあ　オレを殺せ！": "Je... j'ai perdu ! Allez, tue-moi !"
+    },
+    "15749": {
+        "「お前たちが　父と母にしたのと同じように\n　敗れた弱者を　さげすみながら\n　オレを　殺すがいい！": "Comme vous l'avez fait avec mon pere et ma\nmere, meprisez les faibles que vous avez\nvaincus, et tuez-moi !"
+    },
+    "15750": {
+        "「お前を　死なすわけにはいかん。": "Je ne peux pas te laisser mourir."
+    },
+    "15753": {
+        "「どっちも　サイコーに　かっけーぜっ！\n　オイラ　チョーあこがれちまうぜーっ！": "Les deux sont hyper styles ! Je les admire\ntellement !"
+    },
+    "15754": {
+        "「見てくれ　ガガイ。\n　このランガーオ村は　変わったのだ。": "Regarde, Gagai. Ce village de Langao a change."
+    },
+    "15755": {
+        "「死への恐怖に打ち勝ち　勇気を持って\n　戦った両者を　等しく敬え。\n　それが　今の　この村の教えだ。": "Honorez egalement ceux qui ont surmonte la\npeur de la mort et ont combattu avec courage.\nC'est l'enseignement actuel de notre village."
+    },
+    "15756": {
+        "「お前が　村を出ていってから\n　２０年かけて……　この教えを\n　村の皆に　行きわたらせたのだ。": "Cela fait 20 ans depuis ton depart du\nvillage... Durant ce temps, j'ai diffuse cet\nenseignement a tous les villageois."
+    },
+    "15757": {
+        "「ガガイよ。言わば　お前の父親の死が\n　今の　この村の姿を　作ったのだ……。": "Gagai. On pourrait dire que la mort de ton\npere a faconne le village tel qu'il est\naujourd'hui..."
+    },
+    "15758": {
+        "「バカな…………。": "Quel imbecile..."
+    },
+    "15759": {
+        "「もう一度言う。ガガイよ。": "Je le repete encore une fois. C'est Gagai."
+    },
+    "15760": {
+        "「お前には　この村で　暮らしてほしい。\n　そして　その強さを\n　この村のために　役立ててほしいのだ。": "Je souhaite que tu vives dans ce village. Et\nque tu utilises ta force pour le bien de ce\nvillage."
+    },
+    "15761": {
+        "「それが　かなえば　きっと\n　ガガベスも　報われるだろう……。": "Si cela se realise, Gagabes sera surement\nrecompense..."
+    },
+    "15762": {
+        "「これは　私も　最近　村人から聞いて\n　知ったことだが……。": "<me 60> Ca, je l'ai aussi appris recemment\nd'un villageois..."
+    },
+    "15763": {
+        "「この村では　当時　敗者の墓を作ることは\n　禁じられていた。だが　村王は　オキテを破って\n　ガガベス殿の墓を作り　今も供養しているのだ。": "Dans ce village, a l'epoque, il etait interdit\nde construire des tombes pour les vaincus.\nCependant, le roi du village a enfreint cette<br>regle en erigeant une tombe pour Gagabes dono,\net il continue de lui rendre hommage a ce\njour."
+    },
+    "15764": {
+        "「墓を作ったことも　新しい教えを\n　行きわたらせたことも　すべては　いつの日か\n　そなたを　この村に　迎えたいと願ったため。": "Le fait d'avoir construit un cimetiere et\nrepandu la nouvelle doctrine, tout cela etait\ndans l'espoir de pouvoir t'accueillir un jour<br>dans ce village."
+    },
+    "15765": {
+        "「ガガイ殿よ……。\n　どうか　村王の気持ちを　察してくれまいか。": "Gagai-dono... Je vous en prie, pourriez-vous\ncomprendre les sentiments du roi du village ?"
+    },
+    "15766": {
+        "「わかった……。もう充分だ。": "D'accord... C'est assez."
+    },
+    "15767": {
+        "「だが……オレには　オレの　けじめがある。\n　この村で　暮らすことは　できない……。": "Mais... j'ai mes propres responsabilites. Je\nne peux pas vivre dans ce village..."
+    },
+    "15768": {
+        "「オレは　罪を重ねすぎた……。": "J'ai commis trop de peches..."
+    },
+    "15769": {
+        "「ありがとう　<cs_pchero>よ。\n　まったく　お前には\n　最後まで　世話に　なりっぱなしだったな。": "Merci, <cs_pchero>. Tu m'as vraiment aide\njusqu'a la fin."
+    },
+    "15770": {
+        "「せめてものことは　させてほしい。\n　後で　わしの所に　来てくれ。": "Permets-moi au moins de faire quelque chose\npour toi. Viens me voir plus tard."
+    },
+    "50293": {
+        "「村王さま……。": "Village Roi-sama..."
+    },
+    "50294": {
+        "「そうだそうだ！\n　オレたちが　村王を尊敬しているのは\n　強いからだけじゃないぞ！": "Exactement, exactement ! Si nous respectons le\nroi du village, ce n'est pas seulement parce\nqu'il est fort !"
+    },
+    "50295": {
+        "「あたしたちは　村王が　立派な人だから\n　心から　尊敬してるんだよ！": "Nous respectons sincerement notre chef de\nvillage parce qu'il est une personne\nremarquable !"
+    },
+    "50296": {
+        "「ガガイーっ！\n　お前は　負けはしたが　すごかったぞー！": "Gagaiー ! Tu as peut-etre perdu, mais tu etais\nincroyable !"
+    },
+    "50297": {
+        "「最後まで　あきらめずに戦い続けて\n　<cs_pchero>も　ガガイも　本当に立派だよ！\n　あたし　感動で　泣けてきたよっ！！": "Jusqu'a la fin, vous avez continue a vous\nbattre sans jamais abandonner. <cs_pchero> et\nGagai, vous etes vraiment admirables ! Je suis<br>tellement emue que j'en pleure !!"
+    }
+}

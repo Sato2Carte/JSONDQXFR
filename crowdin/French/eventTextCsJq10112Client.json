@@ -1,0 +1,116 @@
+{
+    "22156": {
+        "「……お前は　まだ\n　そんなことを言ってるのか。": "Tu dis encore ce genre de choses."
+    },
+    "22157": {
+        "「ティーザさん……？": "Tiza-san...?"
+    },
+    "22158": {
+        "「アーニア　よく聞け。\n　お前の修練の成果や　実力を　かんがみて\n　次の研究発表で　結果を出せなかった場合……": "Anya, ecoute-moi bien. En considerant les\nresultats de ton entrainement et tes\ncompetences, si tu ne parviens pas a obtenir<br>des resultats lors de la prochaine\npresentation de recherche..."
+    },
+    "22159": {
+        "「お前を　この研究院から\n　追放することが　決定した。": "Il a ete decide de te bannir de cet institut\nde recherche."
+    },
+    "22160": {
+        "「私が　追放……？": "Moi, exile... ?"
+    },
+    "22161": {
+        "「研究院会議の総意だ。\n　くつがえりは　しない。": "C'est la decision unanime du conseil de\nl'institut. Elle ne sera pas renversee."
+    },
+    "22162": {
+        "「……努力する者は　支援する。\n　だが　個人的　かつ　感傷的な理由で\n　歩みを止める者など　研究院には必要ない。": "Je soutiens ceux qui font des efforts.\nCependant, ceux qui s'arretent pour des\nraisons personnelles et sentimentales ne sont<br>pas necessaires a l'institut de recherche."
+    },
+    "22163": {
+        "「アーニア……。お前は　神に見放されず\n　大病から　奇跡的に　回復したのだ。\n　自分が　何をなすべきか　よく考えろ。": "Anya... Tu n'as pas ete abandonnee par les\ndieux et tu as miraculeusement recupere de ta\ngrave maladie. Reflechis bien a ce que tu dois<br>accomplir."
+    },
+    "22164": {
+        "<if_woman>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>ちゃん。<else>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>くん。<endif>": "<if_woman>>Grace a toi, nous sommes arrives\nici sains et saufs. Merci, <cs_pchero>chan.<else>>Grace a toi, nous sommes arrives ici sains et\nsaufs. Merci, <cs_pchero>kun. <endif>"
+    },
+    "22165": {
+        "「ここ　前に　シェリルと来たことがあったの。\n　だから　もしかして……って思ったけど\n　やっぱり　いるはずないよね。": "Je suis deja venu ici avec Cheryl. Donc j'ai\npense que peut-etre... mais bien sur, elle ne\npeut pas etre la."
+    },
+    "22166": {
+        "<if_woman>「とりあえず　研究用の素材を　採ってくるね。\n　<cs_pchero>ちゃんは　そこで待ってて。<else>「とりあえず　研究用の素材を　採ってくるね。\n　<cs_pchero>くんは　そこで待ってて。<endif>": "<if_woman>>Je vais d'abord aller chercher des\nmateriaux pour la recherche. <cs_pchero> chan,\nattends ici.<else>>Je vais d'abord aller chercher des materiaux\npour la recherche. <cs_pchero> kun, attends\nici. <endif>"
+    },
+    "22167": {
+        "「キャアァァ！！　オ…オバケーッ！！": "Kyaaah !! Un... un fantome !!"
+    },
+    "22168": {
+        "<if_woman>「<cs_pchero>ちゃん　お願い！\n　このオバケを　なんとかしてぇっ！！<else>「<cs_pchero>くん　お願い！\n　このオバケを　なんとかしてぇっ！！<endif>": "<if_woman>><cs_pchero> chan, s'il te plait !\nAide-moi avec ce fantome !!<else>><cs_pchero> kun, s'il te plait ! Aide-moi\navec ce fantome !!<endif>"
+    },
+    "22169": {
+        "<if_woman>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>ちゃん。<else>「おかげさまで　無事に　ここまで来れたわ。\n　ありがとね　<cs_pchero>くん。<endif>": "<if_woman>>Grace a toi, nous sommes arrives\nici sains et saufs. Merci, <cs_pchero>chan.<else>>Grace a toi, nous sommes arrives ici sains et\nsaufs. Merci, <cs_pchero>kun. <endif>"
+    },
+    "22170": {
+        "「あのオバケ　今日は　いないようね……。\n　お留守にしてるのかな？": "Cet esprit n'est pas la aujourd'hui, on\ndirait... Serait-il sorti quelque part ?"
+    },
+    "22171": {
+        "「キャアァァ！！　で…出たぁっ！？": "Kyaaa !! Il... Il est apparu !?"
+    },
+    "22172": {
+        "<if_woman>「<cs_pchero>ちゃん　お願い！\n　このオバケを　なんとかしてぇっ！！<else>「<cs_pchero>くん　お願い！\n　このオバケを　なんとかしてぇっ！！<endif>": "<if_woman>><cs_pchero> chan, s'il te plait !\nAide-moi avec ce fantome !!<else>><cs_pchero> kun, s'il te plait ! Aide-moi\navec ce fantome !!<endif>"
+    },
+    "22173": {
+        "<if_woman>「すごい！　すごい！\n　<cs_pchero>ちゃん　強ーい！\n　ありがとう　助かったわっ！<else>「すごい！　すごい！\n　<cs_pchero>くん　強ーい！\n　ありがとう　助かったわっ！<endif>": "<if_woman>>Incroyable ! Incroyable !\n<cs_pchero> chan, tu es si fort(e) ! Merci, tu\nm'as sauve(e) !<else>>Incroyable ! Incroyable ! <cs_pchero> kun, tu\nes si fort(e) ! Merci, tu m'as sauve(e)\n!<endif>"
+    },
+    "22174": {
+        "<if_woman>「それじゃ　私は　研究用の素材を探してくるね。\n　<cs_pchero>ちゃんは　そこで待ってて。<else>「それじゃ　私は　研究用の素材を探してくるね。\n　<cs_pchero>くんは　そこで待ってて。<endif>": "<if_woman>>Bon, je vais chercher des materiaux\npour mes recherches. <cs_pchero>chan,\nattends-moi ici.<else>>Bon, je vais chercher des materiaux pour mes\nrecherches. <cs_pchero>kun, attends-moi ici.<endif>"
+    },
+    "22175": {
+        "<if_woman>「<cs_pchero>ちゃん　見て！\n　研究素材の鉱石が　あったわ！！<else>「<cs_pchero>くん　見て！\n　研究素材の鉱石が　あったわ！！<endif>": "<if_woman>>Regarde, <cs_pchero> chan ! J'ai\ntrouve un minerai pour nos recherches !!<else>>Regarde, <cs_pchero> kun ! J'ai trouve un\nminerai pour nos recherches !!<endif>"
+    },
+    "22176": {
+        "<if_woman>「ああっ！　危ない！！\n　<cs_pchero>ちゃん　うしろぉっ！！！<else>「ああっ！　危ない！！\n　<cs_pchero>くん　うしろぉっ！！！<endif>": "<if_woman>>Ah ! Attention !! <cs_pchero> chan,\nderriere toi !!!<else>>Ah ! Attention !! <cs_pchero> kun, derriere\ntoi !!!<endif>"
+    },
+    "22177": {
+        "「シェ…シェリルッ！！？": "Che... Cheryl !!?"
+    },
+    "22178": {
+        "「……死相が出ていると　言っただろう。\n　人の忠告は　ちゃんと聞くんだな。": "...Je t'avais dit que je voyais une aura de\nmort autour de toi. Tu devrais vraiment\necouter les avertissements des autres."
+    },
+    "22179": {
+        "「シェリル！　どうして　ここへ！？": "Cheryl ! Pourquoi es-tu ici ?!"
+    },
+    "22180": {
+        "「お前が　研究院を追放されると聞いて\n　いやみのひとつでも　言ってやろうと思ってな。": "J'ai entendu dire que tu allais etre banni de\nl'institut de recherche, alors je me suis dit\nque je pourrais te lancer une petite pique."
+    },
+    "22181": {
+        "「……私も　あなたに言いたいことがあるわ！": "…Moi aussi, j'ai quelque chose a te dire !"
+    },
+    "22182": {
+        "「王立研究院の門を　たたいたとき\n　一緒に　大賢者になろうって誓った……\n　あのときの約束　あなたは　忘れちゃったの！？": "Quand nous avons frappe a la porte de\nl'Institut Royal de Recherche, nous avons jure\nde devenir de grands sages ensemble... As-tu<br>oublie la promesse que nous avons faite a ce\nmoment-la !?"
+    },
+    "22183": {
+        "「私は……　のろまで　グズで　バカで\n　なんのとりえもない　ただの落ちこぼれだけど\n　あなたのほうが　ず～～っと　愚かよ！": "Je suis... lente, maladroite, stupide, sans\naucun talent, juste une ratee. Mais toi, tu es\nbien plus idiot !"
+    },
+    "22184": {
+        "「自分の　恵まれた才能を活かさず\n　ふらふら　遊んでばっかり……！\n　私みたいな人の気持ち　考えたことがないの！？": "Tu ne fais que flaner et t'amuser, sans meme\nutiliser tes talents precieux... ! As-tu deja\npris le temps de penser aux sentiments de<br>quelqu'un comme moi ?"
+    },
+    "22185": {
+        "「…………黙れ！": "… Tais-toi !"
+    },
+    "22186": {
+        "「お前の　戯言など聞きたくない！！\n　出来の悪い　愚者のお前に　何がわかる！？\n　私の苦悩など　知りうるはずがないだろう！！": "Je ne veux pas entendre tes balivernes !!\nQu'est-ce qu'un imbecile incompetent comme toi\npeut comprendre !? Il est impossible que tu<br>connaisses mes tourments !!"
+    },
+    "22187": {
+        "「……それとも　お前は\n　今でも　自分が　大賢者になれると\n　本気で思っているのか？": "Ou bien, crois-tu encore serieusement que tu\npeux devenir un grand sage ?"
+    },
+    "22188": {
+        "「なれるよ。私は　絶対になる。\n　ふたりで夢見た　大賢者に……！": "Je le deviendrai. Je deviendrai absolument. Le\ngrand sage dont nous avons reve ensemble... !"
+    },
+    "22189": {
+        "「ふっ　笑わせてくれる……。\n　お前は　大賢者になど　なれん。\n　かなわぬ夢など　むなしいだけだ。": "Haha, tu me fais rire... Tu ne deviendras\njamais un grand sage. Un reve irrealisable est\nsimplement vain."
+    },
+    "22190": {
+        "「早々に　あきらめろ。\n　忠告だけは　しておいてやる。": "Abandonne des maintenant. Considere cela comme\nun simple avertissement."
+    },
+    "22191": {
+        "「シェリル……！\n　私は　あなたのこと　待ってるから\n　いつでも　王立研究院に　戻ってきて！": "Cheryl... ! Je t'attendrai toujours, alors\nreviens a l'Institut Royal de Recherche quand\ntu veux !"
+    },
+    "22192": {
+        "「シェリルは　意志の強いコだったけど\n　あんな　冷たいコじゃなかったわ……。\n　いったい　なぜ……。": "Cheryl etait une fille determinee, mais elle\nn'etait pas aussi froide... Pourquoi donc...?"
+    },
+    "22193": {
+        "<if_woman>「ごめんね　<cs_pchero>ちゃん。\n　変なとこ　見せちゃって……。\n　さあ　王立研究院に　戻ろう？<else>「ごめんね　<cs_pchero>くん。\n　変なとこ　見せちゃって……。\n　さあ　王立研究院に　戻ろう？<endif>": "<if_woman>> Desole(e), <cs_pchero> chan. Je\nt'ai montre un cote bizarre... Allez,\nretournons a l'Institut Royal de Recherche.<else>> Desole(e), <cs_pchero> kun. Je t'ai montre\nun cote bizarre... Allez, retournons a\nl'Institut Royal de Recherche. <endif>"
+    }
+}

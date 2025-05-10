@@ -1,0 +1,662 @@
+{
+    "95216": {
+        "「<pc>さーん！": "<pc>-san !"
+    },
+    "95217": {
+        "「私　グランゼドーラ城に　立ち寄って\n　<pc>さんと　知り合いの\n　シオンさんって人に　会ってきたの。": "Je suis passee par le chateau de Gran Zedora\npour rencontrer une personne nommee Shion, qui\nconnait <pc>-san."
+    },
+    "95218": {
+        "「そうしたら　<pc>さんが\n　竜族の世界に行くって　聞いたから\n　私も　一緒に行こうと思って……。": "Quand j'ai entendu que <pc>-san allait\nse rendre dans le monde des dragons, j'ai\npense que je pourrais y aller aussi... alors<br>je me suis dit que je devrais l'accompagner..."
+    },
+    "95219": {
+        "「アロルドをむしばむ毒は　竜族のものでしょ？\n　だから　あれを治す解毒薬も　竜族の世界に\n　行かないと　見つからないと思うの。": "Le poison qui ronge Arold vient des dragons,\nn'est-ce pas ? Je pense donc que pour trouver\nun antidote, il faut aller dans le monde des<br>dragons."
+    },
+    "95220": {
+        "「古代遺跡で発見されて　復元されたばかりの\n　反重力飛行装置を　ドゥラさんに頼み込んで\n　貸してもらったまでは　よかったんだけど……": "J'avais bien reussi a convaincre Dura-san de\nme preter le dispositif de vol antigravite,\nrecemment decouvert et restaure dans les<br>ruines antiques, mais..."
+    },
+    "95221": {
+        "「オマケで　この人が　ついてきちゃって……。": "En bonus, cette personne a decide de nous\nsuivre..."
+    },
+    "95222": {
+        "「豪華な食事に　専属の召使い……。\n　ドルワーム水晶宮での　ひどい扱いに耐え切れず\n　思い切って　脱走してやったですよッ。": "Des repas somptueux, des serviteurs\npersonnels... Je n'ai pas pu supporter le\ntraitement horrible au Palais de Cristal de<br>Dolworm, alors j'ai pris mon courage a deux\nmains et je me suis echappe !"
+    },
+    "95223": {
+        "「それに　竜族の世界には　想像を超えるような\n　ガラクタが　あるにちげえねえです。\n　だから　わしが　乗り込んでやって……": "De plus, il doit y avoir des objets\ninimaginables dans le monde des Dragonites.\nC'est pourquoi je vais y aller moi-meme et..."
+    },
+    "95224": {
+        "「ガラクタという　ガラクタを\n　手当たり次第に　持ち帰ってやるんですッ！\n　むきゃきゃーー！　ウデが　なりますよッ！": "Je vais ramener tous les bric-a-brac que je\npeux trouver, sans exception ! Mukyakyahーー！ Je\nsuis pret a me mettre au travail !"
+    },
+    "95225": {
+        "「……さあ　門の向こうへ行きましょう！": "Allez, passons de l'autre cote de la porte !"
+    },
+    "95226": {
+        "「なんだか　奇妙な場所でごぜえますな。": "Quel endroit etrange, n'est-ce pas ?"
+    },
+    "95227": {
+        "「本当に　不思議な場所ね……。\n　この通路って　どこまで続いているのかしら。": "Vraiment un endroit mysterieux... Je me\ndemande jusqu'ou ce couloir s'etend."
+    },
+    "95228": {
+        "「ああっ！　ダストンさん！\n　あまり　遠くに行っては……！": "Ah ! Duston-san ! Ne vous eloignez pas trop...\n!"
+    },
+    "95229": {
+        "「あぎゃぎゃぎゃ！　なんですか　この光はっ！？": "あぎゃぎゃぎゃ！ Qu'est-ce que c'est que cette lumiere\n!?"
+    },
+    "95230": {
+        "「ダストンさん！！": "Duston-san !!"
+    },
+    "95231": {
+        "「な…なに！？　この光！": "Qu'est-ce que... cette lumiere !?"
+    },
+    "95232": {
+        "「<pc>さん！！": "<pc>-san !!"
+    },
+    "95240": {
+        "<center>あれだけ　来ないでって　言っておいたのに\nついに　ここまで　来ちゃったんだね……。": "Je t'avais pourtant dit de ne pas venir ici,\nmais tu es finalement arrive jusqu'ici..."
+    },
+    "95241": {
+        "<if_woman><center>このまま　姉ちゃんが　進むというなら……\nおいらは　絶対に……<else><center>このまま　兄ちゃんが　進むというなら……\nおいらは　絶対に……<endif>": "<if_woman>> Si grande soeur decide d'avancer\nainsi... Je ne pourrai jamais...<else>> Si grand frere decide d'avancer ainsi... Je\nne pourrai jamais... <endif>"
+    },
+    "95242": {
+        "「……ああ　よかった。\n　お気づきに　なられたようですね。": "…Ah, je suis soulage. Il semble que vous soyez\neveille."
+    },
+    "95243": {
+        "「どこか　痛むところは　ありませんか？\n　ご自分の名前は　言えますか？": "Est-ce que vous ressentez de la douleur\nquelque part ? Pouvez-vous dire votre nom ?"
+    },
+    "95244": {
+        "「……そうですか。あなたの名前は\n　<pc>さんと　いうのですね。\n　では　何があったのかは　覚えていますか？<yesno><close>": "Je vois. Votre nom est donc <pc>-san.\nAlors, vous souvenez-vous de ce qui s'est\npasse ?<yesno><close>"
+    },
+    "95245": {
+        "「あなたは　ひどい　やけどを負って\n　この近くで　倒れていたんですよ。\n　だから　私が　この村まで連れてきたんです。": "Vous aviez de graves brulures et vous etiez\neffondre pres d'ici. C'est pourquoi je vous ai\namene jusqu'a ce village."
+    },
+    "95246": {
+        "「……炎に包まれた鳥に　やられたのですね。\n　ひどい　やけどを負っていましたが\n　治療をほどこしたので　心配は　いりません。": "... Vous avez ete attaque par un oiseau\nentoure de flammes. Vous aviez de graves\nbrulures, mais je vous ai soigne, donc ne vous<br>inquietez pas."
+    },
+    "95247": {
+        "「……神官エステラさま。\n　救援の願い出を　聞き届けていただき\n　感謝いたしておりますぞ。": "...Priest Estella-sama. Nous vous sommes\nreconnaissants d'avoir accepte notre demande\nde secours."
+    },
+    "95248": {
+        "「ただ今　村の若い衆が　皆で\n　魔炎鳥の討伐に　向かっているところです。": "En ce moment, les jeunes du village sont tous\npartis ensemble pour affronter Darkflame."
+    },
+    "95249": {
+        "「これに　神官さま方のチカラも加われば\n　あの魔炎鳥を　討伐することができるでしょう。\n　どうか　我々を助けてくだされ。": "Si nous pouvions ajouter la puissance des\npretres a notre cause, nous pourrions vaincre\nce Darkflame. Je vous en prie, aidez-nous."
+    },
+    "95250": {
+        "「……ところで　エステラさまの姿しか\n　見当たりませんが　他の神官さま方は\n　いつごろ　到着なさるのでしょうか？": "D'ailleurs, je ne vois que Dame Estella. Quand\nles autres pretres arriveront-ils ?"
+    },
+    "95251": {
+        "「ネオル村長。申し訳ありませんが\n　今　教団には　救援を出す余裕がありません。\n　だから　せめてもの助けにと　私が来たのです。": "Chef Neoru. Je suis desole, mais actuellement,\nl'ordre n'a pas les moyens d'envoyer des\nrenforts. C'est pourquoi je suis venu moi-meme<br>pour vous apporter un peu d'aide."
+    },
+    "95252": {
+        "「……つまり　教団の助けは来ないと？": "...En d'autres termes, l'aide de l'ordre ne\nviendra pas ?"
+    },
+    "95253": {
+        "「はい……。": "Oui..."
+    },
+    "95254": {
+        "「なんということだ……。\n　このままでは　アペカの村は……。": "Quelle catastrophe... A ce rythme, le village\nd'Apeka va..."
+    },
+    "95255": {
+        "「ネオル村長。\n　ひとつ　ご相談が……。": "Chef Neoru. J'ai une requete a vous\nsoumettre..."
+    },
+    "95256": {
+        "「こちらの方を　しばらくの間\n　この村に　置いてはもらえないでしょうか？": "Pourriez-vous accueillir cette personne dans\nce village pour un certain temps ?"
+    },
+    "95257": {
+        "「……しかし　見なれない姿をしていますが\n　いったい　この方は何者なんですか？": "Cependant, il semble avoir une apparence\ninhabituelle. Qui est donc cette personne ?"
+    },
+    "95258": {
+        "「もし　我々に　害をなす者だとしたら……。": "Si jamais il s'averait que vous etes une\nmenace pour nous..."
+    },
+    "95259": {
+        "「いえ……。この方は　敵ではありません。\n　アストルティアという世界から　迷い込んできた\n　異種族の方だと　思うのです。": "Non... Cette personne n'est pas un ennemi. Je\npense qu'il s'agit d'une personne d'une autre\nrace, egaree en provenance du monde<br>d'Astoltia."
+    },
+    "95260": {
+        "「な　なんと……！": "Q-Quoi donc... !"
+    },
+    "95261": {
+        "「迷える者に手を差し伸べることも　教団の使命。\n　この一帯が　魔炎鳥の脅威に　さらされている今\n　放っておくわけにはいきません。": "Tendre la main a ceux qui sont perdus est\naussi une mission de notre ordre. Maintenant\nque toute cette region est menacee par le<br>Darkflame, nous ne pouvons pas rester les bras\ncroises."
+    },
+    "95262": {
+        "「……ふむ。\n　神官さまの頼みなら　仕方ありませんな。\n　いいでしょう……。": "Hmm. Si c'est une demande de la part de\nPriest-sama, je ne peux pas refuser. Tres bien\nalors"
+    },
+    "95263": {
+        "「ただし　しきたりが　ありますのでな。\n　村に留まる者には　ナドラガさまに\n　祈りを捧げてきてもらわねば　なりませんぞ。": "Cependant, il y a une tradition a respecter.\nCeux qui souhaitent rester dans le village\ndoivent aller prier pour Nadra-sama."
+    },
+    "95264": {
+        "「村を出て　東に行くと　古いほこらがあります。\n　竜族の礼にのっとった祈りを　教えますから\n　そこで　ナドラガさまに　祈りを捧げなさい。": "En sortant du village et en allant vers l'est,\nvous trouverez l'Old いほこら. Je vais vous\nenseigner la priere selon les rites des<br>Dragonborn. La-bas, adressez votre priere a\nNadraga-sama."
+    },
+    "95265": {
+        "<pc>は\nしぐさ『竜族式の祈り』を　覚えた！<me 71>": "<pc> a appris le geste Priere du Dragon\n! <me 71>"
+    },
+    "95266": {
+        "「ナドラガさまに　祈りを捧げてきたら\n　あなたを　村に受け入れることにしましょう。\n　さあ　行ってきなされ。": "Apres avoir offert vos prieres a Nadra-sama,\nnous accepterons de vous accueillir dans le\nvillage. Allez-y maintenant."
+    },
+    "95267": {
+        "「では　私は　村の周囲の様子を見てきます。\n　<pc>さんは　村の東にある　ほこらへ。\n　また　のちほど　お会いしましょう。": "Alors, je vais aller observer les environs du\nvillage. <pc>-san, rendez-vous au\nsanctuaire a l'est du village. A plus tard."
+    },
+    "95268": {
+        "<center>あれだけ　来るなって　言っといたのに\nついに　ここまで　来ちまったんだな……。": "Je t'avais pourtant dit de ne pas venir, et\nmalgre tout, te voila arrive jusqu'ici..."
+    },
+    "95269": {
+        "<center>あんなに　来ないでって　言っておいたのに\nついに　ここまで　　来ちゃったのね……。": "Je t'avais pourtant dit de ne pas venir ici,\net voila que tu es finalement arrive\njusqu'ici..."
+    },
+    "95270": {
+        "<center>あんなに　来ちゃダメって　言っといたのに\nついに　ここまで　来ちゃったんだ……。": "Je t'avais pourtant dit de ne pas venir, mais\ntu es finalement arrive jusqu'ici..."
+    },
+    "95271": {
+        "<center>このまま　<pc>が　進むというなら……\nオレは　絶対に……": "Si <pc> continue ainsi...... Je ne le\nlaisserai jamais faire......"
+    },
+    "95272": {
+        "<center>このまま　<pc>が　進むというなら……\nあたしは　絶対に……": "Si <pc> continue ainsi... je ne le\npermettrai absolument pas..."
+    },
+    "95273": {
+        "<if_woman><center>このまま　お姉ちゃんが　進むというなら……\n私は　絶対に……<else><center>このまま　お兄ちゃんが　進むというなら……\n私は　絶対に……<endif>": "<if_woman>> Si grande soeur decide de continuer\nainsi... Je ne le permettrai jamais...<else>> Si grand frere decide de continuer ainsi...\nJe ne le permettrai jamais... <endif>"
+    },
+    "95274": {
+        "「祈りは　無事に　捧げられたようですね。\n　<pc>さん。": "L'on dirait que la priere a ete offerte sans\nencombre. <pc>-san."
+    },
+    "95275": {
+        "「あなたのことが　心配になって\n　私も　来てしまいました。": "Je suis devenue inquiete pour vous, alors je\nsuis venue aussi."
+    },
+    "95276": {
+        "「やけどのほうは　もう平気なようですね。\n　キズの治りが早くて　おどろかされます。": "Il semble que votre brulure aille deja mieux.\nJe suis surpris par la rapidite avec laquelle\nvous guerissez."
+    },
+    "95277": {
+        "「見えますか？\n　遠くに見える　あの竜の形をした岩が……。": "Vous voyez ca ? La-bas, au loin, ce rocher en\nforme de dragon..."
+    },
+    "95278": {
+        "「あれは　神代の昔から\n　この世界を守っていたといわれる\n　竜族の神ナドラガさまの頭部と言われています。": "C'est ce qu'on appelle la tete du dieu dragon\nNadraga-sama, qui, dit-on, protege ce monde\ndepuis les temps anciens des dieux."
+    },
+    "95279": {
+        "「ナドラガ神のご加護が　あるから\n　私たち竜族は　このような過酷な環境でも\n　生きていくことが　できるんですよ。": "Grace a la protection de Nadraga, nous, les\ndragons, pouvons survivre meme dans un\nenvironnement aussi hostile."
+    },
+    "95280": {
+        "「ですが　今は\n　その　ご加護のチカラをもってしても……。": "Cependant, meme avec la puissance de cette\nprotection divine en ce moment..."
+    },
+    "95281": {
+        "「……村長の言う　しきたりには　従いましたし\n　これで　あなたも　受け入れてもらえるはず。\n　アペカの村に　戻りましょう。": "Nous avons suivi les traditions dictees par le\nchef du village, donc tu devrais etre accepte\nmaintenant. Retournons au village d'Apeka."
+    },
+    "95282": {
+        "「あれは……？": "Qu'est-ce que c'est... ?"
+    },
+    "95284": {
+        "「ひどいケガ……。\n　魔炎鳥に　やられたのでしょうか。\n　だとしたら　この方は　アペカの村の……。": "Une blessure serieuse... Cela aurait-il ete\ncause par Darkflame ? Si c'est le cas, cette\npersonne viendrait du village d'Apeka..."
+    },
+    "95285": {
+        "「私が　この方を　村へ連れていきましょう。\n　これも　神官たる者の務めです。": "Je vais emmener cette personne au village.\nC'est aussi le devoir d'un pretre."
+    },
+    "95286": {
+        "「キズが治ったばかりの　<pc>さんに\n　頼むわけにも　いきませんから。\n　あなたは　先に　村へ戻っていてください。": "Les blessures de <pc>-san viennent a\npeine de guerir, donc je ne peux pas lui\ndemander. Retourne au village avant moi, s'il<br>te plait."
+    },
+    "95287": {
+        "「ねぇねぇ。\n　あれって　ギダ兄ちゃんじゃない？": "He, he. Ce ne serait pas grand frere Gida,\nla-bas ?"
+    },
+    "95288": {
+        "「おお　そうじゃ。ギダじゃ。": "Oh, c'est ca. Gida."
+    },
+    "95289": {
+        "「皆の衆！　ギダじゃ！\n　ギダが　帰ってきたぞーーー！": "Tous les amis ! C'est Gida ! Gida est de\nretour !"
+    },
+    "95290": {
+        "「ギダよ。魔炎鳥は　どうなった？": "Gida. Qu'est-il advenu de Darkflame ?"
+    },
+    "95291": {
+        "「………………。": ""
+    },
+    "95292": {
+        "「なぜ　だまっている……。\n　まさか　お前以外　全滅したとでもいうのか？": "Pourquoi restes-tu silencieux... ? Ne me dis\npas que tous les autres ont ete aneantis, sauf\ntoi ?"
+    },
+    "95293": {
+        "「なんと……。\n　では　どうして　ひとりで帰ってきたのだ？\n　よもや　逃げだしたわけではなかろう？": "Comment ca... Alors, pourquoi es-tu revenu\nseul ? Tu ne t'es tout de meme pas enfui,\nn'est-ce pas ?"
+    },
+    "95294": {
+        "「……ひとりで　逃げてきたというのか？": "... Tu t'es enfui tout seul ?"
+    },
+    "95295": {
+        "「このっ…………": "Toi...!"
+    },
+    "95296": {
+        "「おくびょう者め！！\n　なぜ　最後まで戦わなかった！？": "Lache !! Pourquoi n'as-tu pas combattu\njusqu'au bout !?"
+    },
+    "95297": {
+        "「他の男たちは　命を犠牲にしてまで\n　戦い抜いたというのに　ひとりで　こそこそ\n　逃げ帰ってくるとは　それでも　竜族の男か！": "Les autres hommes ont combattu jusqu'a leur\ndernier souffle, sacrifiant leur vie. Et toi,\ntu rentres en douce, seul... Est-ce digne d'un<br>homme du peuple des dragons ?"
+    },
+    "95298": {
+        "「楽器を弾くことしか能がない　役立たずめ！\n　お前なぞ　こうしてやる！": "Tout ce que tu sais faire, c'est jouer de cet\ninstrument, bon a rien ! Je vais te montrer !"
+    },
+    "95299": {
+        "「ネオル村長。怒るのは　後にしてください。\n　この方は　ひどいケガを負っています。\n　先に　治療をほどこさなくては。": "Chief Neoru. Veuillez remettre votre colere a\nplus tard. Cette personne a subi de graves\nblessures. Nous devons d'abord lui prodiguer<br>des soins."
+    },
+    "95300": {
+        "「ぐむ……。": "Gumu…"
+    },
+    "95301": {
+        "「ナドラガさまのご加護を　得られたようですな。\n　どうやら　あやしい者では　ないようですし\n　この村への滞在を　認めましょう。": "Il semble que vous ayez recu la benediction de\nNadraga-sama. Il ne semble pas que vous soyez\nune personne suspecte, alors nous vous<br>autoriserons a rester dans ce village."
+    },
+    "95302": {
+        "「しかし　あの役立たずが生き残り\n　レゼロのやつが　死んでしまうとは……。": "Cependant, c'est incroyable que cet incapable\nait survecu alors que celui de Rezero est\nmort..."
+    },
+    "95303": {
+        "「ギダの兄　レゼロは　弟と　ちがって\n　責任感の強い　屈強な竜族の男でしてね……。\n　彼が生きていれば　望みもあったのですが……。": "Le frere de Gida, Rezero, est un homme dragon\nrobuste avec un fort sens des responsabilites,\ncontrairement a son frere cadet... S'il etait<br>encore en vie, il y aurait de l'espoir..."
+    },
+    "95304": {
+        "「……失礼。あなたには　関係のない話でしたな。\n　きっと　お疲れでしょう。\n　宿屋には話しておいたので　休んでいきなさい。": "......Pardon. Cela ne vous concernait pas.\nVous devez etre fatigue. J'ai deja parle a\nl'auberge, alors reposez-vous."
+    },
+    "95305": {
+        "「聞いたかい？\n　ギダは　もうずいぶん　回復したそうだよ。": "Tu as entendu ? Il parait que Gida a deja bien\nrecupere."
+    },
+    "95306": {
+        "「なんでも　神官さまが　ひと晩つきっきりで\n　治療を　ほどこされたそうじゃ。\n　ほんに　ありがたいことじゃのう。": "Il parait que le pretre-sama a veille toute la\nnuit pour prodiguer des soins. C’est vraiment\nune benediction."
+    },
+    "95307": {
+        "「しかし　弟のギダが生き残って\n　村いちばんの勇士である\n　兄のレゼロが　亡くなるとは……。": "Cependant, c'est Gida, le frere cadet, qui a\nsurvecu, alors que Rezero, l'aine et le plus\nvaillant guerrier du village, a peri..."
+    },
+    "95308": {
+        "「わしの息子も　魔炎鳥にやられたんかのお……。\n　すぐに　わしも　あとを追うことになろうな。": "Mon fils aussi a ete vaincu par Darkflame,\nn'est-ce pas... Je vais bientot le rejoindre,\nje suppose."
+    },
+    "95309": {
+        "「いくら　神官さまでも　たった　ひとりじゃ\n　魔炎鳥を倒すことなど　できんじゃろうし……。\n　この村は　もう　おしまいじゃよ。": "Meme si vous etes un pretre, vaincre Darkflame\nseul serait impossible... Ce village est deja\ncondamne."
+    },
+    "95310": {
+        "「まだ　完治とは言えませんが\n　時間が経てば　痛みも治まるでしょう。": "Bien que l'on ne puisse pas encore parler de\nguerison complete, la douleur devrait\ns'attenuer avec le temps."
+    },
+    "95311": {
+        "「………………。": ""
+    },
+    "95312": {
+        "「あら　<pc>さん。": "Ah, <pc>-san."
+    },
+    "95313": {
+        "「あなたは　異世界から来た人らしいね。\n　神官さまから　話は聞いたよ。": "Il parait que vous venez d'un autre monde,\nn'est-ce pas ? J'ai entendu parler de vous par\nle pretre-sama."
+    },
+    "95314": {
+        "「ギダさん。つらいこととは　思いますが\n　魔炎鳥との戦いで　何があったのか\n　私たちに　話してくれませんか。": "Gida-san. Je sais que c'est difficile, mais\npourriez-vous nous parler de ce qui s'est\npasse lors de votre combat contre Darkflame ?"
+    },
+    "95315": {
+        "「もしかしたら　この村を救うための\n　手がかりが　あるかもしれないのです。": "Il se pourrait qu'il y ait un indice pour\nsauver ce village."
+    },
+    "95316": {
+        "「え…ええ。": "E... oui."
+    },
+    "95317": {
+        "「ボクたちは　全員で魔炎鳥と戦い　もう少しで\n　倒せるところまで　あの魔物を追い詰めたんだ。": "Nous avons tous combattu Darkflame ensemble et\nnous etions sur le point de vaincre cette\ncreature demoniaque."
+    },
+    "95318": {
+        "「魔炎鳥が　近くを流れるマグマを食べると\n　たちまち　キズが回復していったんだ。": "Quand Darkflame a consomme le Magma Blast qui\ncoulait a proximite, ses blessures ont\nimmediatement commence a se regenerer."
+    },
+    "95319": {
+        "「それまでの戦いで　疲れきっていた　仲間たちは\n　次々と　やられていった……。\n　そして　ボクと兄さんだけが残ったんだ。": "Dans les combats precedents, nos compagnons\netaient epuises et ils ont ete vaincus un a\nun... Finalement, il ne restait plus que mon<br>frere et moi."
+    },
+    "95320": {
+        "「だけど　兄さんは　何を思ったのか　突然\n　危険をかえりみず　魔炎鳥のしっぽに生えていた\n　真っ赤な尾羽を　もぎとった。": "Cependant, pour une raison que j'ignore, mon\nfrere a soudainement, sans se soucier du\ndanger, arrache la plume rouge vif qui<br>poussait sur la queue de Darkflame."
+    },
+    "95321": {
+        "「それを　ボクに託して　こう言ったんだ。": "Il m'a confie cela en disant ceci."
+    },
+    "95322": {
+        "「炎樹の丘へ行け！\n　あの曲だ！　あの曲を弾くんだ！": "Va a Firetree Hill ! Cette melodie ! Joue\ncette melodie !"
+    },
+    "95323": {
+        "「意味は　わからなかったけど　それを聞いて\n　ボクは走りだした。当然　兄さんも\n　一緒だと思って。そして　その時……。": "Je ne comprenais pas le sens, mais en\nentendant cela, j'ai commence a courir. Bien\nsur, je pensais que mon frere etait avec moi.<br>Et a ce moment-la..."
+    },
+    "95324": {
+        "「兄さんは　持っていた火薬ツボを爆発させて\n　落盤を起こしたんだ。\n　ボクが逃げる時間を稼ぐために……。": "Mon frere a fait exploser le pot de poudre\nqu'il avait pour provoquer un eboulement.\nC'etait pour me donner le temps de<br>m'echapper..."
+    },
+    "95325": {
+        "「覚えているのは　それだけだよ。\n　だけど　兄さんは　なぜ突然あんなことを……。": "Je me souviens seulement de ca. Mais pourquoi\nmon frere a-t-il soudain fait une chose\npareille..."
+    },
+    "95326": {
+        "「でも　何らかの目的があったはずです……。": "Mais cela devait avoir un but precis..."
+    },
+    "95327": {
+        "「お兄さんが言っていた　炎樹の丘に\n　もしかしたら　手かがりがあるかもしれません。\n　そこに行ってみるのは　どうでしょうか？": "Ton frere a mentionne Firetree Hill. Peut-etre\nque nous pourrions y trouver des indices. Que\ndirais-tu d'y aller ?"
+    },
+    "95328": {
+        "「炎樹の丘か。そうですね……。": "Firetree Hill, hein. Oui, c'est ca..."
+    },
+    "95329": {
+        "「あそこには　ボクたちの思い出が眠っています。\n　兄さんの言葉を信じて　ボクは\n　あの丘へ　行ってみようと　思います。": "La-bas, nos souvenirs dorment. En croyant aux\nparoles de mon frere, je pense que je vais\nessayer d'aller sur cette colline."
+    },
+    "95330": {
+        "「<pc>さん。\n　ギダさんには　まだ　私たちの助けが必要です。\n　一緒に来ては　いただけませんか。": "<pc>-san. Gida-san a encore besoin de\nnotre aide. Pourriez-vous venir avec nous ?"
+    },
+    "95331": {
+        "「炎樹の丘は　村を出て\n　ずっと　南に行った先の森林地帯にあります。": "Firetree Hill se trouve dans la region boisee,\nen allant toujours vers le sud apres avoir\nquitte le village."
+    },
+    "95332": {
+        "「私たちは　<pc>さんの後を\n　ついていきますので……。\n　それでは　出発しましょう。": "Nous allons suivre <pc>-san... Alors,\npartons maintenant."
+    },
+    "95333": {
+        "「なつかしい……。": "Cela me rappelle de bons souvenirs..."
+    },
+    "95334": {
+        "「たしか　この辺りだな。": "C'est bien par ici."
+    },
+    "95335": {
+        "「演奏していると　兄さんが　ほめてくれました。\n　兄さんの喜ぶカオを見たくて\n　小さいころから　よく曲を奏でていたんです。": "Quand je joue de la musique, mon frere me\nfelicite. Je voulais voir le sourire de mon\nfrere, alors depuis que je suis petit, je<br>jouais souvent des morceaux."
+    },
+    "95336": {
+        "「だけど　みんなが　この世界で生きるために\n　がんばっているのに　楽器なんか弾いてて\n　恥ずかしくないのかって　村長に言われて……。": "Mais le chef du village m'a dit : 'Alors que\ntout le monde se bat pour survivre dans ce\nmonde, tu ne ressens aucune honte a jouer d'un<br>instrument ?'..."
+    },
+    "95337": {
+        "「村での演奏が禁止になったから　この丘に\n　兄さんとふたりで来て　ハープを埋めたんです。\n　悲しくて　ボクは　ずっと泣いていました。": "Comme les representations musicales ont ete\ninterdites dans le village, mon frere et moi\nsommes venus sur cette colline et avons<br>enterre la harpe. J'etais si triste que je\nn'ai pas pu m'empecher de pleurer."
+    },
+    "95338": {
+        "「でも　兄さんが　いつか\n　暮らしが楽になったら　また演奏を\n　聴かせてほしいと　言ってくれたから……。": "Mais mon frere m'a dit que si un jour notre\nvie devenait plus facile, il aimerait que je\nlui joue de la musique a nouveau..."
+    },
+    "95339": {
+        "「けれど　その兄さんは\n　もう　いないんですね……。": "Mais ce frere n'est plus la, n'est-ce pas..."
+    },
+    "95340": {
+        "「お兄さんのために弾いていた曲……。\n　よかったら　聴かせてくれませんか？": "La melodie que vous jouiez pour votre frere...\nSi cela ne vous derange pas, pourriez-vous la\njouer pour moi ?"
+    },
+    "95341": {
+        "「ええ。ぜひ　聴いてください。": "Oui. Ecoutez, je vous en prie."
+    },
+    "95342": {
+        "「この曲は……。": "Cette melodie est..."
+    },
+    "95343": {
+        "「炎のように　燃え上がる　聖なる鳥よ。\n　天より高く舞い上がり　見守りたまえ。\n　我ら　竜の民を。永遠に……。": "O oiseau sacre qui s'embrase tel une flamme,\nEleve-toi plus haut que les cieux et veille\nsur nous. Nous, le peuple des dragons. Pour<br>l'eternite..."
+    },
+    "95344": {
+        "「今のは　もしかして　この曲の歌詞……？\n　あなたは　この曲を知っているんですか？": "Est-ce que c'etait... les paroles de cette\nchanson... ? Est-ce que vous connaissez cette\nchanson ?"
+    },
+    "95345": {
+        "「これは　かつて\n　この地の守り神である聖鳥に\n　祈りを捧げるため　奏でられた曲……": "C'etait autrefois une melodie jouee pour\noffrir des prieres a Flamia, la divinite\nprotectrice de cette terre..."
+    },
+    "95346": {
+        "「祈り鳥の曲といいます。": "On l'appelle la Melodie de l'Oiseau Priere."
+    },
+    "95347": {
+        "「昔　この地の竜族が　聖鳥の怒りを買った時に\n　彼らが　祈り鳥の曲を奏でて　怒りをしずめ\n　この地は救われたという逸話が　あります。": "Il y a une legende qui raconte qu'autrefois,\nlorsque les dragons de cette terre ont\nprovoque la colere de Flamia, ils ont joue la<br>melodie de l'oiseau de priere pour apaiser sa\ncolere, sauvant ainsi cette terre."
+    },
+    "95348": {
+        "「そうだったのか……。昔　兄さんとふたりで\n　大神殿に行った時に　たまたま　この曲を聴いて\n　その記憶を頼りに　弾いていたんだけど……": "Je vois... Quand mon frere et moi sommes alles\nau grand temple autrefois, nous avons entendu\ncette melodie par hasard. Je jouais en me<br>basant sur ce souvenir..."
+    },
+    "95349": {
+        "「なぜ　兄さんは\n　この曲を弾けと言ったんだろう……？": "Pourquoi mon frere m'a-t-il demande de jouer\nce morceau...?"
+    },
+    "95350": {
+        "「もしかしたら……。": "Peut-etre..."
+    },
+    "95351": {
+        "「ギダさん。お兄さんから　受け取ったという\n　魔炎鳥の尾羽を　見せてもらえませんか？": "Gida-san, pourrais-tu me montrer la Plume de\nFlamme Sombre que tu as recue de ton frere ?"
+    },
+    "95352": {
+        "「え…ええ。": "E... oui."
+    },
+    "95353": {
+        "「真紅の聖鳥は　その身に宿す。\n　地上をさまよう　死者の想いを。\n　そして　いざなわん。安息の地へと……。": "T. Flamia la Rouge abrite en elle-meme les\npensees des morts errant sur la terre. Et\nainsi, elle les guidera vers un lieu de<br>repos..."
+    },
+    "95354": {
+        "「……今のも　歌詞の一部です。\n　もしかしたら　お兄さんは\n　この曲の歌詞を　知っていたのかもしれません。": "Ce que je viens de dire fait aussi partie des\nparoles de la chanson. Peut-etre que vous,\nMonsieur, connaissiez deja les paroles de<br>cette chanson."
+    },
+    "95355": {
+        "「きっと　気がついたのでしょう。\n　魔炎鳥に生えていた　１枚の真っ赤な羽を見て\n　目の前にいる魔炎鳥が　聖鳥であることを……。": "Il a surement compris. En voyant une plume\nrouge vif pousser sur Darkflame, il a realise\nque le Darkflame devant lui etait en realite<br>Flamia..."
+    },
+    "95356": {
+        "「そして　この曲でなければ\n　魔炎鳥の怒りを　しずめられないことを……。": "Et sans cette melodie, il est impossible\nd'apaiser la colere de Darkflame..."
+    },
+    "95357": {
+        "「だから　兄さんは　命を犠牲にしてまで\n　ボクを生かしたと……？　祈り鳥の曲を\n　弾けるのは　村で　ボクしかいないから？": "Donc, mon frere a sacrifie sa vie pour me\nsauver...? Parce que je suis le seul dans le\nvillage a pouvoir jouer la melodie de l'oiseau<br>de priere ?"
+    },
+    "95358": {
+        "「ウデが立つだけでなく\n　深い知識を　持っていた方なのですね……。": "Vous n'etes pas seulement doue, mais vous\npossedez egalement de vastes connaissances..."
+    },
+    "95359": {
+        "「ええ。自慢の兄ですよ。\n　その兄さんが　そこまでの想いをもって\n　ボクを　生かしてくれたのなら……": "Oui, c'est mon frere dont je suis fier. Si ce\nfrere avait tant de sentiments pour me garder\nen vie, alors..."
+    },
+    "95360": {
+        "「その想いに　こたえなければいけない！": "Je dois repondre a ces sentiments !"
+    },
+    "95361": {
+        "「<pc>さん　神官さま。ボクは　これから\n　村の東にある　煉獄の谷へ向かいます。\n　魔炎鳥の棲み家は　その谷の奥にあるんです。": "<pc>-san, Priest-sama. Je vais\nmaintenant me diriger vers la Vallee de\nl'Enfer a l'est du village. Le repaire de<br>Darkflame se trouve au fond de cette vallee."
+    },
+    "95362": {
+        "「魔炎鳥の棲み家への道は\n　落盤によって　ふさがれてしまいましたが\n　たしか　細い脇道を使えば　行けるはず……。": "Le chemin vers la demeure de Darkflame a ete\nbloque par un eboulement, mais je suis sur\nqu'on peut y acceder en empruntant un petit<br>sentier lateral..."
+    },
+    "95363": {
+        "「祈り鳥の曲を弾いて　魔炎鳥の怒りを\n　しずめるのですね。ならば　私も同行します。": "Vous allez jouer la melodie de l'oiseau de\npriere pour apaiser la colere de Darkflame.\nDans ce cas, je vous accompagnerai."
+    },
+    "95365": {
+        "「わかりました……。\n　それが　あなたの選択なら\n　その意思を　尊重しましょう。": "D'accord... Si c'est ton choix, je respecterai\nta decision."
+    },
+    "95366": {
+        "「ですが　もし　気が変わったら\n　アペカの村の東にある　煉獄の谷へ\n　来てください。それでは……。": "Mais si jamais vous changez d'avis,\nrendez-vous dans la Vallee de l'Enfer, a l'est\ndu village d'Apeka. Sur ce..."
+    },
+    "95367": {
+        "「ありがとうございます　<pc>さん。": "Merci beaucoup, <pc>-san."
+    },
+    "95368": {
+        "「煉獄の谷は　アペカの村の東……。\n　それでは　出発しましょう。": "La Vallee de l'Enfer se trouve a l'est du\nvillage d'Apeka... Allons-y."
+    },
+    "95370": {
+        "「あいつのせいで　兄さんも……。": "C'est a cause de lui que mon frere aussi..."
+    },
+    "95371": {
+        "「ギダさん。これは　復讐ではありません。\n　お気持ちは　わかりますが\n　お兄さんのためにも　怒りをおさえてください。": "Gida-san. Ce n'est pas une vengeance. Je\ncomprends vos sentiments, mais calmez votre\ncolere, pour votre frere aussi."
+    },
+    "95372": {
+        "「え…ええ。わかっています。": "Eh... oui. Je comprends."
+    },
+    "95373": {
+        "「……どうやら　こちらに気づいたようですね。": "… On dirait qu'ils ont remarque notre presence\nici."
+    },
+    "95375": {
+        "「完全に　我を失っているようです。\n　ギダさんの演奏で　魔炎鳥の怒りをしずめるには\n　まず　大人しくさせなければいけません。": "Il semble qu'il ait completement perdu la\nraison. Pour apaiser la colere de Darkflame\navec la performance de Gida-san, nous devons<br>d'abord le calmer."
+    },
+    "95376": {
+        "「私は　ギダさんの守りに専念しますので\n　魔炎鳥を　弱らせてください。\n　頼みましたよ　<cs_pchero>さん。": "Je vais me concentrer sur la protection de\nGida-san, alors affaiblissez Darkflame, s'il\nvous plait. Je compte sur vous, <cs_pchero><br>san."
+    },
+    "95377": {
+        "「ギダさんの演奏で　魔炎鳥の怒りをしずめるには\n　まず　大人しくさせなければいけません。": "Pour apaiser la colere de Darkflame grace a la\nperformance de Gida-san, il faut d'abord le\ncalmer."
+    },
+    "95378": {
+        "「私は　ギダさんの守りに専念しますので\n　魔炎鳥を　弱らせてください。\n　頼みましたよ　<cs_pchero>さん。": "Je vais me concentrer sur la protection de\nGida-san, alors affaiblissez Darkflame, s'il\nvous plait. Je compte sur vous, <cs_pchero><br>san."
+    },
+    "95379": {
+        "「ギダさん！　今です！\n　祈り鳥の曲を弾いてください！": "Gida-san ! C'est le moment ! Jouez la melodie\nde l'oiseau de priere !"
+    },
+    "95381": {
+        "<center>炎のように　燃え上がる　聖なる鳥よ。\n天より高く舞い上がり　見守りたまえ。": "O oiseau sacre qui brule comme le feu,\nEleve-toi plus haut que le ciel et veille sur\nnous."
+    },
+    "95382": {
+        "<center>我ら　竜の民を。永遠に……。": "Nous, le peuple des dragons. Pour\nl'eternite..."
+    },
+    "95383": {
+        "「美しい……。\n　これが　聖鳥……。": "Magnifique... C'est donc ca, Flamia..."
+    },
+    "95384": {
+        "「真紅の聖鳥は　その身に宿す。\n　地上をさまよう　死者の想いを。\n　そして　いざなわん。安息の地へと……。": "T. Flamia la Rouge abrite en elle-meme les\npensees des morts errant sur la terre. Et\nainsi, elle les guidera vers un lieu de<br>repos..."
+    },
+    "95385": {
+        "「こ…これは。もしかして\n　亡くなった　仲間たちの想いのかけら……？": "Ce... ceci. Est-ce que ce serait des fragments\ndes pensees de mes compagnons disparus...?"
+    },
+    "95386": {
+        "「に…兄さん！": "Ni… Nii-san !"
+    },
+    "95387": {
+        "<center>ギダよ。オレたちは　聖鳥とひとつになる。\nひとつとなって　遠い空から見守ろう。\nオレたちの故郷の行く末を。": "Gida. Nous ne faisons plus qu'un avec Flamia.\nEnsemble, veillons de loin sur notre terre\nnatale et son avenir."
+    },
+    "95388": {
+        "「いやだ！　いかないでくれ！\n　ボクを　ひとりにしないでくれ！": "Non ! Ne pars pas ! Ne me laisse pas tout seul\n!"
+    },
+    "95389": {
+        "<center>これからは　お前が村を守るんだ。\nお前ならできると　信じているぞ……。": "Desormais, c'est toi qui protegeras le\nvillage. Je crois en toi..."
+    },
+    "95390": {
+        "「そんなの　無理だよ……。\n　ボクは　兄さんみたいに　強くないんだ！": "Ca, c'est impossible... Je ne suis pas aussi\nfort que mon frere !"
+    },
+    "95391": {
+        "<center>お前は　人の弱さを許すことができる。\nその　やさしさこそが　お前の強さなんだ。": "Tu es capable de pardonner la faiblesse des\nautres. Cette gentillesse, c'est la ta\nveritable force."
+    },
+    "95392": {
+        "「に…兄さん……。": "Grand frere..."
+    },
+    "95393": {
+        "「聖鳥よ。この地の守り手よ。\n　彼らの魂を　無事に\n　安息の地へと　送りとどけたまえ。": "Flamia, o gardienne de cette terre. Veille a\nce que leurs ames soient sainement guidees\nvers le lieu de repos."
+    },
+    "95394": {
+        "「ギダさん。行きましょう……。": "Gida-san. Allons-y..."
+    },
+    "95395": {
+        "「<cs_pchero>さん。本当に助かりました。\n　では　村まで　戻ることにしましょう。": "<cs_pchero> san. Vous nous avez vraiment\nsauve. Eh bien, retournons au village."
+    },
+    "95396": {
+        "「炎の領界の守り手である　聖鳥が\n　闇に　取り込まれるなんて……。\n　これも　邪悪なる意志のチカラなの……？": "Que Flamia, la gardienne du Fire Realm, soit\nengloutie par les tenebres... Est-ce aussi le\npouvoir du Evil Will...?"
+    },
+    "95397": {
+        "「さきほど　空を飛んでいたのは\n　伝説の聖鳥じゃ！　まちがいないぞ！": "Ce que nous avons vu voler dans le ciel tout a\nl'heure, c'est le legendaire Flamia ! Il n'y a\naucun doute la-dessus !"
+    },
+    "95398": {
+        "「まさか　死ぬ前に\n　聖鳥を　この目で拝むことができるとは！\n　こんなに　ありがたいことはないのうっ。": "Je ne m'attendais pas a pouvoir contempler\nFlamia de mes propres yeux avant de mourir !\nC'est vraiment une benediction."
+    },
+    "95399": {
+        "「しかし　村長さん。\n　なぜ　今になって　聖鳥が現れたんかのお？": "Mais, monsieur le maire. Pourquoi Flamia\na-t-elle ete P. maintenant ?"
+    },
+    "95400": {
+        "「わしにも　わからん……。\n　いったい　何が起こったというのか……。": "Je ne comprends pas moi non plus... Que\ns'est-il passe exactement..."
+    },
+    "95401": {
+        "「……そのことについては\n　私から　お話ししましょう。": "......A ce sujet, laissez-moi vous en parler."
+    },
+    "95402": {
+        "エステラは　これまでに起きたことを\nすべて　村人たちに話した。": "Estella a raconte aux villageois tout ce qui\ns'est passe jusqu'a present."
+    },
+    "95403": {
+        "「なんと……。\n　そのようなことが　起きていたとは……。": "Que... comment... ? Je ne savais pas qu'une\ntelle chose etait en train de se produire..."
+    },
+    "95404": {
+        "「はい……。\n　炎の領界の守り手である存在が\n　闇のチカラに　取り込まれていたのです。": "Oui... L'entite qui protege le Royaume du Feu\navait ete absorbee par les forces des\ntenebres."
+    },
+    "95405": {
+        "「そして　それを聖鳥の姿に戻したのが\n　ギダだと……。\n　我々は　ギダに救われたということか……。": "Et donc, c'est Gida qui a rendu a Flamia son\napparence... Cela signifie que nous avons ete\nsauves par Gida..."
+    },
+    "95406": {
+        "「ギダよ。": "Gida, salut."
+    },
+    "95407": {
+        "「思えば　わしは　お前に対して\n　さんざん　つらく当たってきたな。": "En y repensant, j'ai ete vraiment dur avec\ntoi."
+    },
+    "95408": {
+        "「本当に　申し訳ないことをした……。\n　今さら　謝っても　ゆるしてもらえまい。\n　どんな罰でも　この身に　受けよう。": "Je suis vraiment desole pour ce que j'ai\nfait... Il est probablement trop tard pour\nm'excuser. Je suis pret a accepter n'importe<br>quelle punition."
+    },
+    "95409": {
+        "「村長……。": "Villageois..."
+    },
+    "95410": {
+        "「どうか　アタマを上げてください。\n　ボクは　たしかに　役立たずでした。\n　自分のことしか　考えていなかったんです。": "Je vous en prie, relevez la tete. J'ai\neffectivement ete inutile. Je ne pensais qu'a\nmoi-meme."
+    },
+    "95411": {
+        "「これからは　亡くなった　みんなの分まで\n　ボクが　がんばって　村を守っていきます。\n　村長のチカラも　貸してください！": "A partir de maintenant, je vais me battre pour\nproteger le village au nom de tous ceux qui\nnous ont quittes. Prete-moi aussi ta force,<br>chef du village !"
+    },
+    "95412": {
+        "「ありがとう　ギダよ……。\n　頼りにしているぞ。": "Merci, Gida... Je compte sur toi."
+    },
+    "95413": {
+        "「仲間たちの魂が　安息の地へと運ばれていく。\n　みんな　祈ろう……。": "Les ames de nos compagnons sont transportees\nvers leur lieu de repos eternel. Prions tous\nensemble..."
+    },
+    "95414": {
+        "「<pc>さん。こちらへ……。": "<pc>-san. Par ici..."
+    },
+    "95415": {
+        "「どうか　お気を悪くせず聞いてください。": "Je vous en prie, ecoutez-moi sans vous vexer."
+    },
+    "95416": {
+        "「……今だから　告白しますが\n　私は　これまで　<pc>さんが\n　信用できる方なのか　試していたのです。": "...Maintenant, je vais vous avouer quelque\nchose. Jusqu'a present, je testais pour voir\nsi <pc>-san etait quelqu'un de fiable."
+    },
+    "95417": {
+        "「もしも　村に……竜族たちに\n　危害を加えるような方なら\n　私が　あなたを止めるつもりでした。": "Si jamais vous deviez nuire au village... ou\naux membres de la tribu des dragons, j'avais\nl'intention de vous arreter."
+    },
+    "95418": {
+        "「……ですが　行動を共にして\n　<pc>さんが　とても強く　やさしく\n　信用できる方だと　わかりました。": "... Cependant, en voyageant ensemble, j'ai\ncompris que <pc>-san est une personne\ntres forte, gentille et digne de confiance."
+    },
+    "95419": {
+        "「今まで　あなたに　いろいろと\n　押し付けるような　まねをしてしまい\n　本当に　申し訳ありません……。": "Jusqu'a present, je suis vraiment desole de\nvous avoir impose tant de choses..."
+    },
+    "95420": {
+        "「……アペカの村だけではなく\n　今　この世界には　あなたのような\n　強くて　信頼できる方が　求められています。": "......Ce n'est pas seulement le village\nd'Apeka, mais le monde entier qui a besoin de\npersonnes fortes et dignes de confiance comme<br>vous."
+    },
+    "95421": {
+        "「そこで　あなたには\n　こちらも　受け取っていただきたいのです。": "C'est pourquoi j'aimerais que vous acceptiez\naussi ceci."
+    },
+    "95422": {
+        "<pc>は\nエステラの紹介状（だいじなもの）を\n受け取った！<me 60>": "<pc> a recu la Lettre d'introduction\nd'Estella (objet cle) ! <me 60>"
+    },
+    "95423": {
+        "「私が書いた　その紹介状があれば\n　ナドラガ教団の大神殿がある\n　聖都エジャルナに　出入りすることができます。": "Avec la lettre de recommandation que j'ai\necrite, vous pourrez entrer et sortir de la\nSainte Cite d'Ejarna, ou se trouve le grand<br>temple de l'Ordre de Nadraga."
+    },
+    "95424": {
+        "「聖都エジャルナは　ここから西にある橋を\n　渡ったところにあります。\n　もし　よろしければ　そこまで来てください。": "La Holy City Ejarna se trouve de l'autre cote\ndu pont a l'ouest d'ici. Si cela vous\nconvient, veuillez vous y rendre."
+    },
+    "95425": {
+        "「私は先に戻って　このことを\n　総主教さまに　報告しておきましょう。\n　それでは　エジャルナで　お待ちしています。": "Je vais retourner en avance pour informer le\nSeigneur Supreme de cette affaire. Je vous\nattendrai donc a Ejarlna."
+    },
+    "95426": {
+        "「そこの者！　止まれ！": "Toi la-bas ! Arrete-toi !"
+    },
+    "95427": {
+        "「ここは　ナドラガ教団が治める神聖な都。\n　貴様のような素性の知れぬ者を\n　中に入れるわけにはいかぬ。立ち去るがいい！": "ここはナドラガ教団が治める神聖な都 貴様のような素性の知れぬ者を\n中に入れるわけにはいかぬ立ち去るがいい！ C'est la cite sacree\ngouvernee par le culte de Nadraga. Nous ne<br>pouvons pas laisser entrer quelqu'un dont nous\nignorons les intentions comme toi. Va-t'en !"
+    },
+    "95428": {
+        "「<pc>さん。私だけでは\n　ギダさんを守りきれるか　わかりません。\n　どうか　チカラを貸してくれませんか？<yesno><close>": "<pc>-san. Je ne sais pas si je pourrai\nproteger Gida-san tout seul. Pourriez-vous,\ns'il vous plait, me preter votre force ?<br><yesno><close>"
+    },
+    "95429": {
+        "「は…はい。": "Oui..."
+    },
+    "114812": {
+        "「せめてもの　償いの品です。\n　どうか　こちらを受け取ってください。": "C'est un humble cadeau en guise de redemption.\nJe vous en prie, acceptez-le."
+    },
+    "115402": {
+        "「し…失礼しました……。": "P…Pardonnez-moi..."
+    },
+    "117184": {
+        "「だけど　地獄は　それからだった……。": "Cependant, l'enfer a commence apres cela..."
+    },
+    "118502": {
+        "「<cs_pchero>さん。\n　あなたなら来てくれると　思っていました。": "<cs_pchero> san. Je savais que vous viendriez."
+    },
+    "118503": {
+        "「いた……。\n　あいつが　村の仲間を殺したんだ……。": "Je l'ai vu... C'est lui qui a tue les membres\nde notre village..."
+    },
+    "122908": {
+        "「ふふっ　おどろいた？\n　この　反重力飛行装置のおかげで\n　あなたに　追いつくことが　できたわ。": "Fufu, tu es surpris ? Grace a cet appareil de\nvol antigravite, j'ai pu te rattraper."
+    },
+    "122909": {
+        "<pc>は　ネオル村長に\n竜族の礼にのっとった祈りを　教えてもらった。": "<pc> a appris de Chief Neoru la priere\nselon les rites de la tribu des dragons."
+    },
+    "122910": {
+        "「それに　お前と　一緒に　討伐に行った\n　他の男たちは　どうしたのだ？": "Et les autres hommes qui sont partis en\nexpedition avec toi, que leur est-il arrive ?"
+    },
+    "122911": {
+        "「<pc>さん……でしたかな？\n　旅の方に　みっともないところを\n　お見せしてしまい　申し訳ありません。": "<pc>-san... c'est bien cela, n'est-ce\npas ? Je suis desole de vous avoir montre un\nspectacle aussi peu reluisant alors que vous<br>etes en voyage."
+    },
+    "122912": {
+        "「……休んだら　すぐに　去ったほうがいい。\n　この村は　もう　おしまいでしょう……。": "Une fois repose, il vaut mieux partir\nimmediatement. Ce village est probablement\ndeja fini......"
+    },
+    "122913": {
+        "老人たちは　暗いカオをして\nうなだれながら　去っていった……。": "Les anciens, le visage sombre, sont partis en\nbaissant la tete..."
+    },
+    "122914": {
+        "<center>後のことは頼んだぞ　オレの自慢の弟よ……。": "Je compte sur toi pour la suite, mon frere\ndont je suis si fier..."
+    },
+    "122915": {
+        "「…………。": "."
+    },
+    "122916": {
+        "「楽器を弾くのを　やめさせたり\n　兄のレゼロと比べて　お前を\n　役立たずと　ののしったこともあった。": "J'ai parfois essaye de te faire arreter de\njouer de l'instrument, et je t'ai meme compare\na ton frere Rezero en te traitant d'incapable."
+    },
+    "124195": {
+        "「この人は……？\n　まさか…………。": "Cette personne est... ? Incroyable..."
+    },
+    "124196": {
+        "「えっ……？　自分の他に\n　誰か　一緒にいなかったか……ですか？": "Hein... ? Vous me demandez s'il y avait\nquelqu'un d'autre avec moi...?"
+    },
+    "124197": {
+        "「私が　通りかかったとき\n　あそこにいたのは　あなただけでした。": "Quand je suis passe par la, il n'y avait que\nvous."
+    },
+    "124198": {
+        "「教団が所蔵する文献に　書かれていました。\n　アストルティアには　私たち　竜族とは\n　異なる種族たちが　暮らしているのだと。": "Il etait ecrit dans les documents conserves\npar l'ordre. Qu'en Astoltia, il existe\nd'autres races qui vivent differemment de<br>nous, les dragons."
+    }
+}

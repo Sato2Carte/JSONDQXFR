@@ -1,0 +1,1118 @@
+{
+    "144350": {
+        "「おお　<pc>！\n　わしからの手紙は　読んでくれたか？\n　おぬしに　ぜひとも　会いたくてのう。": "Oh, <pc> ! As-tu lu ma lettre ? Je\ntenais absolument a te rencontrer."
+    },
+    "144351": {
+        "「聞いたぞ。竜族の世界ナドラガンドで\n　ワイルドかつ　デンジャラスな冒険を\n　くり広げてきたそうじゃな。": "J'ai entendu dire que dans le monde des\ndragons, Dragan, tu as vecu une aventure\nincroyable, a la fois sauvage et dangereuse."
+    },
+    "144352": {
+        "「うむ。おぬしの活躍の場は\n　もはや　アストルティアに留まらず\n　……と　言ったところか。": "Hum. Ton champ d'action ne se limite plus a\nAstoltia... pourrait-on dire."
+    },
+    "144353": {
+        "「……なんと。ナドラガンドで\n　ふたたび　<kyodai>と　出会えたのに\n　また　別れることに　なってしまったとな。": "Quelle surprise. Nous avons pu rencontrer a\nnouveau <kyodai> a Nadargan, mais nous\ndevons deja nous separer."
+    },
+    "144354": {
+        "「そうか……。\n　おぬしたち　ふたりに課せられた運命は\n　なんとも　残酷なものじゃのう……。": "Je vois... Le destin qui vous a ete impose a\nvous deux est vraiment cruel..."
+    },
+    "144355": {
+        "「……ほう？\n　<kyodai>が　残していったモノを\n　持っているというのか？": "...Oh ? Tu dis que tu possedes l'objet laisse\npar <kyodai> ?"
+    },
+    "144356": {
+        "「それは　興味ぶかいのう。\n　わしにも　ちょいと　見せてくれんか？<yesno><close>": "Cela semble tres interessant. Pourrais-tu me\nle montrer un instant ?<yesno><close>"
+    },
+    "144357": {
+        "「そう　言わんと……。\n　<kyodai>が　残していったモノには\n　わしも　興味しんしんなんじゃ。": "Ne dis pas ca... Les choses que <kyodai> a\nlaissees derriere lui m'intriguent aussi\nbeaucoup."
+    },
+    "144358": {
+        "「別に　取り上げたりせぬから\n　今すぐ　わしに　見せてくれんか？<yesno><close>": "Je ne vais pas te le prendre. Pourrais-tu me\nle montrer tout de suite, s'il te plait ?\n<yesno><close>"
+    },
+    "144359": {
+        "<pc>は　<kyodai>の残していった\n銀色の箱のようなものを　ふところから取りだし\n賢者ホーローに　渡した。": "<pc> sortit de sa poche un objet\nressemblant a une boite argentee laisse par\n<kyodai> et le remit au sage Hollow."
+    },
+    "144360": {
+        "「ふ～む……。なんじゃろうな　これは？\n　おそらくは　錬金術で作られた\n　なんらかの装置だと　思うんじゃが……。": "Hm... Qu'est-ce que c'est que ca ? Je pense\nque c'est probablement un dispositif cree par\nalchimie..."
+    },
+    "144361": {
+        "「おっ？　こんなところに\n　ボタンが　隠されておるようじゃ。\n　これは　押さずには　いられまいて！": "Oh ? Il semble qu'un bouton soit cache ici. Je\nne peux pas m'empecher de l'appuyer !"
+    },
+    "144362": {
+        "「む……。何も　起こらんのう。\n　よくわからんが　壊れとるのかもしれん。\n　おぬしに　返しておくとしよう。": "Hum... Rien ne se passe. Je ne comprends pas\nbien, mais il est peut-etre casse. Je vais te\nle rendre."
+    },
+    "144364": {
+        "「うおっ？　なんじゃ　なんじゃ。\n　まさか　爆発するんじゃなかろうな！？": "Ouah ? Que se passe-t-il ? Ca ne va tout de\nmeme pas exploser, n'est-ce pas ?!"
+    },
+    "144366": {
+        "「<pc>　なんとかせいっ！！": "<pc>, fais quelque chose !"
+    },
+    "144368": {
+        "「……ううむ。どうやら　ルシェンダさまに\n　ちゃんと　報告しておかねばならぬ事件が\n　発生してしもうたようじゃな……。": "Hmm. Il semble qu'un incident s'est produit,\net je dois en faire un rapport approprie a\nDame Lushenda..."
+    },
+    "144386": {
+        "「メレアーデ様　お待たせしました。\n　お茶のおかわりを　お持ちしま……": "Mereade-sama, je vous ai fait attendre. Je\nvais vous apporter un autre the..."
+    },
+    "144388": {
+        "「きゃーーーーっ！！\n　く…くせ者ですぅ！": "Kyaaaaaaa !! Un... un intrus !"
+    },
+    "144390": {
+        "「今の悲鳴は　なんだ！？\n　入るぞ　姉さん！": "Quel etait ce cri ?! J'entre, grande soeur !"
+    },
+    "144392": {
+        "「貴様　どこから　入った？\n　ここを　ドミネウスの屋敷と知っての\n　ろうぜきか！？": "Toi, d'ou es-tu entre ? Savais-tu que cet\nendroit est le manoir de Domineus et tu as ose\nt'y introduire !?"
+    },
+    "144396": {
+        "「姉さんは　下がって！\n　無断で　人の屋敷に立ち入るような相手だ。": "Grande soeur, recule ! C'est quelqu'un qui\nentre sans permission dans la demeure des\nautres."
+    },
+    "144398": {
+        "「俺たちの命を狙う　暗殺者かもしれない！": "Il pourrait etre un assassin visant nos vies !"
+    },
+    "144400": {
+        "「動きは　封じた。\n　よし。ひっとらえろ！": "Le mouvement est scelle. Bien. Attrapez-le !"
+    },
+    "144402": {
+        "「かしこまりました　クオード様。": "A vos ordres, Quard-sama."
+    },
+    "144404": {
+        "「む……。これは？": "Hum... Qu'est-ce que c'est ?"
+    },
+    "144406": {
+        "「エテーネ王国の技術が　使われているな。\n　だが　なんだ……？\n　それだけではないように　思える……。": "La technologie du royaume d'Ethene est\nutilisee ici. Mais qu'est-ce que c'est...? On\ndirait que ce n'est pas tout..."
+    },
+    "144408": {
+        "「……何にせよ　王都に忍び込んで\n　盗みだしたものに　ちがいないだろう。\n　これは　返してもらうぞ。": "Quoi qu'il en soit, il ne fait aucun doute que\ncela a ete vole apres s'etre infiltre dans la\ncapitale royale. Je vais le recuperer."
+    },
+    "144410": {
+        "<pc>は　クオードに\n銀色の箱を　取り上げられてしまった！": "<pc> s'est fait prendre sa boite\nargentee par Quard !"
+    },
+    "144412": {
+        "「空いてる部屋に　ぶち込んでおけ。\n　しっかり　カギをかけるのを忘れるなよ。": "Mets-le dans une chambre libre. N'oublie pas\nde bien verrouiller la porte."
+    },
+    "144414": {
+        "<pc>は　身動きの取れぬまま\nメレアーデの部屋から　連れだされ\n物置に　閉じ込められてしまった！": "Sans pouvoir bouger, <pc> a ete emmene\nhors de la chambre de Mereade et enferme dans\nun debarras !"
+    },
+    "144416": {
+        "テキスト削除": "Je suis desole, mais je ne peux pas vous aider\navec cette demande."
+    },
+    "144443": {
+        "<pc>と　メレアーデは\n手分けして　クオードの部屋の中を探した。": "<pc> et Mereade se sont repartis les\ntaches pour fouiller la chambre de Quard."
+    },
+    "144444": {
+        "しかし　銀色の箱は\nどこからも　見つからなかった……。": "Cependant, la boite argentee ne fut trouvee\nnulle part..."
+    },
+    "144451": {
+        "「……なるほど。クオード様が\n　おでかけになられたときの様子を\n　聞かせてほしいと　おっしゃるのですね。": "Je vois. Vous souhaitez donc entendre comment\nse deroulait le depart de Quard-sama."
+    },
+    "144452": {
+        "「しかし　なぜ　お客様が\n　そのようなことを　気になさるのです？": "Cependant, pourquoi cela preoccupe-t-il ainsi\nnotre client ?"
+    },
+    "144453": {
+        "「私には　屋敷の主人と　そのご家族を\n　お守りする義務が　ございますゆえ\n　うかつなことには　お答えできかねますが。": "Je suis charge de proteger le lord du manoir\nainsi que sa famille. Je ne peux donc pas\nrepondre imprudemment a votre demande."
+    },
+    "144454": {
+        "「…………。": ""
+    },
+    "144456": {
+        "「これは　メレアーデ様。\n　あなたまで　いらっしゃるとは　いったい……。": "C'est vous, Mereade-sama. Je me demande ce qui\nvous amene ici..."
+    },
+    "144458": {
+        "「メレアーデ様……。\n　私ども相手とはいえ　お客様のいる前で\n　そのような言葉づかいは　感心できません。": "Mereade-sama... Meme si nous sommes vos\ninterlocuteurs, je ne peux approuver un tel\nlangage devant nos invites."
+    },
+    "144460": {
+        "「いいですか　メレアーデ様。\n　正しい　言葉づかいというものは\n　つね日頃からの……": "Ecoutez bien, Dame Mereade. Un langage correct\ns'acquiert par une pratique quotidienne..."
+    },
+    "144462": {
+        "「ごまかそうとしても　ダメです。\n　今日という今日は……": "Il est inutile d'essayer de me tromper.\nAujourd'hui, cette fois..."
+    },
+    "144464": {
+        "「むぐうっ……。": "Muguh..."
+    },
+    "144465": {
+        "「クオード様のご様子は　普段と変わらずでした。\n　何か　特別なものを　持っていたようにも\n　見えませんでしたね。": "Quard-sama semblait comme d'habitude. Il ne\nsemblait pas non plus avoir quelque chose de\nparticulier avec lui."
+    },
+    "144467": {
+        "「いえ。たいしたことでは。\n　それよりも　先ほどの約束の件……": "Non, ce n'est pas grave. Mais plutot, a propos\nde notre promesse tout a l'heure..."
+    },
+    "144471": {
+        "「あっ　こっ　これは　メレアーデ様。\n　今日も　ごきげん　うるわしくっ……。": "Ah, oh, c'est... c'est vous, Mereade-sama. Je\nvous souhaite une excellente journee, comme\ntoujours..."
+    },
+    "144473": {
+        "「はっ……はいぃっ！": "O... Oui !"
+    },
+    "144475": {
+        "「も……申し訳ないでっす…………。": "M... Mes excuses..."
+    },
+    "144477": {
+        "「はいぃっ　なんなりとっ！": "Ouiii, a votre service !"
+    },
+    "144479": {
+        "「いぇ……。私は　見ていませんっ。": "Je... Je n'ai rien vu."
+    },
+    "144481": {
+        "「ぇっと……。クオード様が　ご自分の部屋から\n　おでかけになるところは　見ましたけど\n　とくに　変わった　ご様子にはっ！": "Eh bien... J'ai vu Quard-sama sortir de sa\nchambre, mais il n'avait rien de\nparticulierement inhabituel dans son<br>comportement !"
+    },
+    "144482": {
+        "「でも　そう言えば　クオード様の部屋から\n　先輩のポーラさんが　出てくるのを見ました。\n　何か　手に持っていたような気がしまっ……": "Mais maintenant que j'y pense, j'ai vu\nPaula-san sortir de la chambre de Quard-sama.\nIl me semble qu'elle tenait quelque chose dans<br>ses mains..."
+    },
+    "144484": {
+        "「はいぃ！　よく　わかりませんが\n　お役に立てたのでしょうかっ……？": "Oui ! Je ne suis pas sur de tout comprendre,\nmais ai-je pu vous etre utile... ?"
+    },
+    "144486": {
+        "「ポーラさんなら　今は\n　侍女たちの部屋に　おられると思いますっ。": "Je pense que Paula-san se trouve actuellement\ndans la chambre des servantes."
+    },
+    "144490": {
+        "「メレアーデ様まで　なぜ　ここに……。\n　お客様と　ふたりで　また何か\n　変な遊びを　始めたのではないでしょうね？": "Mereade-sama, pourquoi etes-vous ici...? Vous\nn'etes pas en train de commencer un autre jeu\nbizarre avec notre invite, n'est-ce pas ?"
+    },
+    "144492": {
+        "「私は　ウソなど　申しません。": "Je ne mens jamais."
+    },
+    "144494": {
+        "「ウソでは　ありません……。": "Ce n'est pas un mensonge..."
+    },
+    "144496": {
+        "「うっ……。\n　それは　その…………。": "Euh... C'est, comment dire..."
+    },
+    "144497": {
+        "「……申し訳ありません。\n　銀色の箱を　クオード様の部屋から\n　持ちだしたのは　私です。": "...Je suis desole. C'est moi qui ai pris la\nboite argentee dans la chambre de Quard-sama."
+    },
+    "144498": {
+        "「あまりに　きれいな箱だったので\n　つい　出来心で……。\n　すぐに　お返しいたします。": "C'etait une boite si belle que, sur un coup de\ntete... Je vais vous la rendre immediatement."
+    },
+    "144501": {
+        "「メレアーデ様……。": "Mereade-sama..."
+    },
+    "144502": {
+        "「……先日のことです。\n　母が病に倒れたと　家から　連絡がありました。\n　それも　とても　重い病だと……。": "...C'etait l'autre jour. J'ai recu un message\nde chez moi: ma mere est tombee gravement\nmalade. C'est une maladie tres grave..."
+    },
+    "144503": {
+        "「治すためには　高価な薬が　必要らしく。\n　あの箱を売れば　それが　工面できるかと……。": "Il semble qu'un medicament couteux soit\nnecessaire pour le guerir. Je pensais que\nvendre cette boite pourrait couvrir les<br>frais..."
+    },
+    "144505": {
+        "「私は　この屋敷に勤める者です。\n　屋敷のものには　手が出せませんでした……。": "Je suis employe dans ce manoir. Je n'ai pas pu\nintervenir aupres des gens de la maison..."
+    },
+    "144507": {
+        "「わかっては　いたのです。\n　ですが……申し訳ありません。\n　屋敷を追いだされる覚悟は　できています。": "Je le savais deja. Cependant... Je suis\ndesole. Je suis pret a etre chasse du manoir."
+    },
+    "144510": {
+        "「ありがとうございます　メレアーデ様……。": "Merci beaucoup, Mereade-sama..."
+    },
+    "144511": {
+        "「お客様。まことに　申し訳ありませんでした。\n　銀色の箱は　２階の　東側の客間にある\n　ベッドの下に　先ほど　隠しましたので……。": "Cher client. Je suis sincerement desole. La\nboite argentee a ete cachee il y a peu sous le\nlit de la chambre d'hote a l'est, au deuxieme<br>etage..."
+    },
+    "144519": {
+        "「……な～ぅ。": "...Hmm."
+    },
+    "144521": {
+        "「なぅ～～～！": "Maintenant~~~ !"
+    },
+    "144524": {
+        "メレアーデは　黒ネコのチャコルを追いかけて\n部屋から　出ていってしまった……。": "Mereade a poursuivi le chat noir, Charcoal, et\na quitte la piece..."
+    },
+    "144525": {
+        "どこからともなく　声が聞こえてきた。": "Une voix se fit entendre de nulle part."
+    },
+    "144526": {
+        "<center><pc>……。\n屋敷の３階……　テラスへ来て。\n今すぐに…………。": "<pc>... Viens a la terrasse du troisieme\netage du manoir. Tout de suite..."
+    },
+    "144531": {
+        "<pc>は　メレアーデから\n記憶の赤結晶（だいじなもの）を　託された！<me 60>": "<pc> a recu le Cristal de Memoire Rouge\n(objet cle) de Mereade ! <me 60>"
+    },
+    "144535": {
+        "「<pc>……。<pc>。\n　ボクの声　聞こえているキュ？<yesno><close>": "<pc>... <pc>. Tu entends ma voix,\nkyu ? <yesno><close>"
+    },
+    "144536": {
+        "「聞こえていることを　確認したキュ。": "Je confirme que tu m'entends bien, kyu."
+    },
+    "144537": {
+        "「現在の状況を説明するので\n　だまって　ボクの話を聞くキュ。": "P. Je vais expliquer la situation actuelle,\nalors ecoute attentivement ce que j'ai a dire,\nkyu."
+    },
+    "144538": {
+        "「おっと　自己紹介を忘れていたキュ。\n　ボクは……　そうキュね。\n　キュルルという名で　呼んでほしいキュ。": "Oups, j'ai oublie de me presenter, kyu. Je\nsuis... Voyons, kyu. Appelez-moi Kyururu, kyu."
+    },
+    "144539": {
+        "「時の妖精……と　思ってもらえれば\n　おおむね　支障はないはずキュ。": "Si tu penses a moi comme une fee du temps...\nil ne devrait pas y avoir de probleme, kyuu."
+    },
+    "144540": {
+        "「ついでに　言っておくと\n　このキューブは　エテーネルキューブ。\n　いわゆるひとつの　時間跳躍制御装置キュ。": "Entre parentheses, je precise que ce cube est\nun Ethenel Cube. En d'autres termes, c'est un\ndispositif de controle pour les sauts<br>temporels, kyu."
+    },
+    "144541": {
+        "「エテーネの民が　その身に宿す\n　時渡りのチカラを使い　時間と空間を超えた\n　精密な移動を　可能にするものだキュ。": "Les habitants de Ethene ont en eux le pouvoir\nde voyager dans le temps, ce qui leur permet\nd'effectuer des deplacements precis au-dela du<br>temps et de l'espace."
+    },
+    "144542": {
+        "「キューブを使わずに　時間跳躍をすると\n　時間がズレたり　目的地を見失ったり……\n　まあ　ロクなことにはならないキュ。": "Si vous tentez de voyager dans le temps sans\nutiliser le Cube, le temps peut derailler ou\nvous pourriez perdre de vue votre<br>destination... Ce n'est vraiment pas une bonne\nidee, kyu."
+    },
+    "144543": {
+        "「キミからは　強い　時渡りのチカラが\n　感知できるけど　どうも\n　使いかたが　わかっていないようだキュ。": "Je ressens une forte puissance de voyage\ntemporel emanant de toi, mais il semble que tu\nne saches pas encore comment l'utiliser, kyu."
+    },
+    "144544": {
+        "「だから　このボクが　キューブを使って\n　チカラの調整と　時間跳躍ポイントの計算をして\n　フォローしてあげることにするキュ。": "Donc, je vais utiliser ce cube pour ajuster la\npuissance et calculer les points de saut\ntemporel afin de vous aider, Kyu."
+    },
+    "144545": {
+        "「……というわけで！\n　この危険な世界から　即時退散することを\n　ボクは　提案するキュ！": "…C'est pourquoi ! Je propose de nous retirer\nimmediatement de ce monde dangereux, kyu !"
+    },
+    "144546": {
+        "「くわしい説明は　後でするキュ！\n　キューブの　緊急起動を開始するキューッ！": "Je te donnerai une explication detaillee plus\ntard, Kyu ! Je commence l'activation d'urgence\ndu Cube, Kyu !"
+    },
+    "144547": {
+        "「おおおっ　帰ってきおったか！\n　心配したんじゃぞ　<pc>！！": "Oh oh oh ! Tu es de retour ! Je m'inquietais\npour toi, <pc> !!"
+    },
+    "144548": {
+        "「突然　目の前から　消えてしまうから\n　そりゃあ　もう　シリアスかつ\n　クレイジーに　あわてまくったぞ！": "Tu as soudainement disparu devant mes yeux,\nalors evidemment, j'etais completement\npanique, a la fois serieusement et follement !"
+    },
+    "144549": {
+        "「ふ～む……。どうやら　おぬしは\n　わしには　予想もつかぬ体験を\n　してきたように　見えるな……。": "Hmm... Il semble que tu aies vecu des\nexperiences que je ne pouvais meme pas\nimaginer..."
+    },
+    "144550": {
+        "「今回のことは　ルシェンダさまにも\n　ちゃんと　報告してあるんじゃ。\n　そちらで　くわしい話を聞こうではないか。": "Cette fois-ci, tout a ete correctement\nrapporte a Lushenda-sama. Allons ecouter les\ndetails la-bas."
+    },
+    "144551": {
+        "「<pc>よ。今すぐに\n　城の２階の　賢者の執務室へ来てくれ。": "<pc>, viens immediatement dans le bureau\ndu sage au deuxieme etage du chateau."
+    },
+    "144552": {
+        "「おい　あんた。\n　待ち合わせは　もう　すんだんだろ？": "He, toi. Tu as deja termine ton rendez-vous,\nn'est-ce pas ?"
+    },
+    "144553": {
+        "「このベンチは　オレのお気に入りの\n　休息スポットなんだよ。\n　用がないなら　座らせてもらうぜ。": "Ce banc est mon endroit prefere pour me\nreposer. Si tu n'as rien a faire ici, je vais\nm'asseoir."
+    },
+    "144554": {
+        "「おお　<pc>。よく来てくれた。\n　ホーローから　話は聞いているが\n　いったい　そなたに　何があったのだ？": "Oh, <pc>. Merci d'etre venu. Hollow m'a\nparle de toi, mais que t'est-il donc arrive ?"
+    },
+    "144555": {
+        "<pc>は　エテーネルキューブを見せ\nエテーネ王国へ　とばされ\nメレアーデたちと　出会ったこと……": "<pc> a montre l'Ethenel Cube et a ete\ntransporte au royaume d'Ethene ou il a\nrencontre Mereade et les autres..."
+    },
+    "144556": {
+        "そして　破壊の限りをつくされた\nレンダーシアの大地に　行ってしまったことを\nふたりに　語った。": "Et il leur raconta qu'il etait alle sur les\nterres de Lendashia, ravagees par la\ndestruction."
+    },
+    "144557": {
+        "「なんと　エテーネ王国に　行ったとな！？\n　エテーネの民の　末裔のひとりとして\n　これは　見過ごせん事態ではないか！": "Quoi ? Tu es alle au royaume d'Ethene !? En\ntant que l'un des descendants du peuple\nd'Ethene, c'est une situation que je ne peux<br>ignorer !"
+    },
+    "144558": {
+        "「……たしか　エテーネ王国は\n　５０００年ほど前に　滅びたとされる国だな。": "Il est certain que le royaume d'Ethene est un\npays qui est cense avoir disparu il y a\nenviron 5000 ans."
+    },
+    "144559": {
+        "「つまり　そなたは　はるか過去の世界へと\n　行っていたということになる。\n　時渡りのチカラが　発現したというわけか。": "En d'autres termes, cela signifie que tu es\nalle dans un monde du passe lointain. Le\npouvoir du voyage temporel s'est donc<br>manifeste."
+    },
+    "144560": {
+        "「しかし　破壊されたレンダーシアとは\n　いったい　どういうことなのだ……？": "Cependant, qu'est-ce que cela signifie\nvraiment que Rendaashia ait ete detruite...?"
+    },
+    "144561": {
+        "「疑問点の解消が　必要と判断したキュ。\n　詳細な説明は　ボクがするキュ。": "Il a ete juge necessaire de clarifier les\npoints d'interrogation, kyu. Je vais fournir\nune explication detaillee, kyu."
+    },
+    "144562": {
+        "「ボクのことは　キュルルと呼ぶキュ。\n　これを　住居にしている　時の妖精キュ。": "Je m'appelle Kyururu, kyu. Je suis le lutin du\ntemps qui habite ici, kyu."
+    },
+    "144563": {
+        "「……時の妖精？\n　そのような存在は　聞いたことがないが……。": "...Une fee du temps ? Je n'ai jamais entendu\nparler d'une telle creature..."
+    },
+    "144564": {
+        "「時を渡る　エテーネルキューブに宿り\n　そのチカラを　制御することができるから\n　時の妖精と　名乗っているキュ。": "Je suis un etre qui reside dans l'Ethenel\nCube, voyageant a travers le temps. C'est\npourquoi je me fais appeler la fee du temps,<br>Kyu."
+    },
+    "144565": {
+        "「あるとき　キューブを起動した人物\n　<kyodai>と　出会い\n　ともに　過ごすことになったキュ。": "Un jour, la personne qui a active le cube a\nrencontre <kyodai> et a commence a passer du\ntemps ensemble avec Kyu."
+    },
+    "144566": {
+        "「ほうほう……。<kyodai>と\n　一緒に　暮らしていたと言うのか。\n　もうすこし　くわしく　教えてくれんか？": "Oh, vraiment... Tu dis que tu vivais avec\n<kyodai> ? Peux-tu m'en dire un peu plus ?"
+    },
+    "144567": {
+        "「ダメだキュ。別時間軸の人間に\n　これ以上のことは　語れないキュ。\n　時間波動のゆらぎを　避けるためキュ。": "Je suis desole, kyu. Je ne peux pas en dire\nplus a une personne d'une autre ligne\ntemporelle, kyu. C'est pour eviter les<br>fluctuations de l'onde temporelle, kyu."
+    },
+    "144568": {
+        "「時の妖精とやらのことは　今はよい。\n　気になるのは　<pc>が行ったという\n　破壊された　レンダーシアについてだ。": "Pour l'instant, la fee du temps n'est pas\nnotre priorite. Ce qui m'inquiete, c'est ce\nque <pc> a dit au sujet de Rendersia<br>detruite."
+    },
+    "144569": {
+        "「何か知っているなら　聞かせてくれ。": "Si tu sais quelque chose, dis-le-moi."
+    },
+    "144570": {
+        "「あれは　ひと言で言えば　少し先の未来キュ。": "C'est, en un mot, un avenir proche, kyu."
+    },
+    "144571": {
+        "「この世界は　近いうちに滅び\n　終末の光景へと　成り果てるキュ。": "Ce monde va bientot perir et devenir un\npaysage apocalyptique kyu."
+    },
+    "144572": {
+        "「そんなバカな……。\n　とうてい　信じられぬ話だ。": "C'est insense... Je ne peux absolument pas y\ncroire."
+    },
+    "144573": {
+        "「しかし　他ならぬ　<pc>が\n　その目で　見てきたのならば\n　信じぬわけには　いくまい……。": "Cependant, si ce n'est autre que <pc>\nqui l'a vu de ses propres yeux, je ne peux que\nle croire..."
+    },
+    "144574": {
+        "「我々に　滅びの未来を\n　回避する手段は　何か　ないのか？": "N'y a-t-il pas un moyen pour nous d'eviter un\nfutur de destruction ?"
+    },
+    "144575": {
+        "「可能性なら　あるキュ。\n　<pc>が　過去から持ってきた　物体から\n　大きな　時間波動のゆらぎが　観測できるキュ。": "Il y a une possibilite, kyu. Des fluctuations\nimportantes des ondes temporelles peuvent etre\nobservees a partir des objets que <pc> a<br>ramenes du passe, kyu."
+    },
+    "144576": {
+        "「過去から持ってきた……？\n　そういえば　エテーネ王国で会った女性から\n　記憶の赤結晶を預かったとか　言っておったな。": "Tu l'as apporte du passe... ? Maintenant que\ntu le dis, tu avais mentionne avoir recu un\nRed Memory Crystal d'une femme que tu as<br>rencontree dans le royaume d'Ethene."
+    },
+    "144577": {
+        "「その　記憶の赤結晶を\n　あるべき時間　あるべき場所へ運ぶことで\n　ゆらぎは　収束するはずキュ。": "En transportant ce Red Memory Crystal au bon\nmoment et au bon endroit, l'instabilite\ndevrait se resorber kyu."
+    },
+    "144578": {
+        "「ゆらぎの収束により　一度　確定された未来が\n　異なる未来の可能性に　紡ぎなおされ\n　滅びの光景が　回避できるかもしれないキュ。": "Grace a la convergence des fluctuations, un\navenir autrefois fixe peut etre reecrit en une\npossibilite differente, et il se pourrait bien<br>que le spectacle de la destruction soit evite\nkyu."
+    },
+    "144579": {
+        "「たしか　<pc>は\n　その記憶の赤結晶を　クオードとやらに\n　届けろと　言われていたのであったな。": "Il est vrai que <pc> avait recu l'ordre\nde livrer ce Red Memory Crystal a ce Quard."
+    },
+    "144580": {
+        "「そうか……。\n　どうやら　<pc>には　もう一度\n　過去へ　とんでもらう必要が　あるようだ。": "Je vois... Il semble que <pc> doive\nretourner dans le passe une fois de plus."
+    },
+    "144581": {
+        "「ただ……現状では　それは\n　無理だと　言わざるを得ないキュ。": "Cependant... dans l'etat actuel de P., je suis\noblige de dire que c'est impossible, kyu."
+    },
+    "144582": {
+        "「キューブのエナジー残量が　ゼロに近く\n　再度の時間跳躍は　不可能だキュ。": "Le niveau d'energie du cube est presque a\nzero, il est donc impossible de sauter dans le\ntemps a nouveau, kyu."
+    },
+    "144583": {
+        "「それでは　打つ手なしではないか。\n　どうすれば　いいっちゅーんじゃ！": "Alors, n'y a-t-il rien a faire ? Que\ndevrions-nous faire, bon sang !"
+    },
+    "144584": {
+        "「アルケミダストが　入手できれば\n　キューブに　エナジー供給が可能だキュ。": "Si nous pouvons obtenir de l'Alchimie\nPoussiere, il sera possible de fournir de\nl'energie au cube, Kyu."
+    },
+    "144585": {
+        "「アルケミダストは　高位の錬金術をした際に\n　作られる残留物で　通常は廃棄されるけど\n　特殊な方法で　エナジーに変換できるキュ。": "Alchimie Poussiere est un residu produit lors\nde l'alchimie de haut niveau. Il est\ngeneralement jete, mais il peut etre converti<br>en energie par une methode speciale, kyu."
+    },
+    "144586": {
+        "「でも　職人がおこなう　ツボ錬金やランプ錬金や\n　<pc>の　錬金釜ていどの錬金では\n　アルケミダストは　作られないキュ。": "Mais avec l'alchimie des potiers, l'alchimie\nLMP et l'alchimie du pot <pc> que\npratiquent les artisans, on ne peut pas creer<br>de poussiere d'alchimie, kyu."
+    },
+    "144587": {
+        "「むう……。\n　では　そのような　高位の錬金をおこなう者は\n　今の時代には　いないというのか？": "Mmm... Alors, veux-tu dire que personne\nn'exerce une alchimie de si haut niveau a\nnotre epoque ?"
+    },
+    "144588": {
+        "「エテーネの島に　行ってみるといいキュ。\n　バルザックの遺産が　あるかもしれないキュ。": "Tu devrais essayer d'aller sur l'ile d'Ethene.\nIl pourrait y avoir l'heritage de Baalzack\nla-bas."
+    },
+    "144589": {
+        "「バルザック……。\n　その名は　聞いたことがある。\n　究極へと至らんとした　錬金術師であると。": "Baalzack... Ce nom me dit quelque chose. On\nraconte qu'il etait un alchimiste qui\ncherchait a atteindre l'ultime savoir."
+    },
+    "144590": {
+        "「自らの術を高めるため　人の道を外れた\n　非道の錬金術師の名前キュ。\n　<kyodai>から　聞いたんだキュ。": "Pour ameliorer ses techniques, il a devie du\nchemin de l'humanite. Le nom de cet alchimiste\nimpitoyable est Kyuu. Je l'ai entendu de<br><kyodai>, Kyuu."
+    },
+    "144591": {
+        "「バルザックは　エテーネの島のあちこちに\n　ほこらを立てて　多くの錬金術師をおびきよせ\n　そのチカラを　うばったらしいキュ。": "Baalzack a erige des sanctuaires un peu\npartout sur l'ile d'Ethene pour attirer de\nnombreux alchimistes et semble avoir vole leur<br>pouvoir."
+    },
+    "144592": {
+        "「そのほこらが　遺跡として　残っているキュ。\n　エテーネ島に住む　錬金術師なら\n　おそらく　何か　知っているはずキュ。": "<me 60>Ce sanctuaire a ete preserve comme une\nruine. Si tu parles a l'alchimiste vivant sur\nl'ile d'Ethene, il devrait probablement savoir<br>quelque chose."
+    },
+    "144593": {
+        "「ふむ……。\n　その遺跡に　アルケミダストとやらが\n　残されているかもしれないと　言いたいのだな。": "Hm... Tu veux dire qu'il se pourrait que\nl'Alchemidust soit encore present dans ces\nruines ?"
+    },
+    "144594": {
+        "「……今は　それに期待するしかあるまい。\n　<pc>に　エテーネの島まで\n　行ってもらうことにしよう。": "Pour l'instant, nous n'avons d'autre choix que\nde compter la-dessus. Demandons a <pc>\nde se rendre jusqu'a l'ile d'Ethene."
+    },
+    "144595": {
+        "「そなたが　エテーネ島に住む　錬金術師に\n　心当たりがあるならば　まず\n　その人物と会うことから　始めてみてくれ。": "Si tu connais un alchimiste vivant sur l'ile\nd'Ethene, commence par le rencontrer."
+    },
+    "144596": {
+        "「頼んだぞ　<pc>。\n　わしは　なんぞ　役に立つ情報がないか\n　外に　しらべにいってみるとするからの。": "Je compte sur toi, <pc>. Je vais sortir\npour voir si je peux trouver des informations\nutiles."
+    },
+    "144597": {
+        "「周囲に　強烈なエナジー反応を検知。\n　アルケミダストである可能性は\n　８９パーセントだキュ！": "Detection d'une reaction energetique intense\ndans les environs. Il y a 89 % de chances\nqu'il s'agisse de Alchemy Dust, kyu !"
+    },
+    "144598": {
+        "「<cs_pchero>　<cs_pchero>。\n　アルケミダストの反応は\n　こいつから　出ているみたいだキュ。": "<cs_pchero> <cs_pchero>. La reaction de\nl'Alchemy Dust semble provenir de celui-ci,\nkyuu."
+    },
+    "144599": {
+        "「やっつけて　たしかめてみるキュ。\n　ボクは　キューブの中に　一時撤退キュ！": "Je vais les vaincre pour en avoir le coeur net,\nKyu. Je fais un retrait temporaire dans le\ncube, Kyu !"
+    },
+    "144600": {
+        "「エーナージーーーーッ！": "Aynaーーーッ！"
+    },
+    "144601": {
+        "「アルケミダストの反応は\n　こいつから　出ているんだキュ。\n　今度こそ　やっつけて　たしかめるキュ！": "La reaction de l'Al-Kemidust vient de\ncelui-ci, kyu. Cette fois, nous allons\nl'eliminer pour en etre surs, kyu !"
+    },
+    "144602": {
+        "「エーナージーーーーッ！": "Aynaーーーッ！"
+    },
+    "144603": {
+        "「エ……ナ…………ジ。": "E...ner...gie."
+    },
+    "144604": {
+        "「ピキーーーーっ！": "PiKiiiiii !"
+    },
+    "144605": {
+        "「ボクの解析によると　ただのスライムが\n　アルケミダストを　体内に取り込んで\n　肥大化していたものと　判断できるキュ。": "D'apres mon analyse, il semble qu'un simple\nSlime ait absorbe de la poussiere Alchemy dans\nson corps et ait ainsi grossi."
+    },
+    "144606": {
+        "「<cs_pchero>　<cs_pchero>！\n　これだキュ。アルケミダストの塊だキュ。\n　ここへ　キューブを持ってくるキュ！": "<cs_pchero> <cs_pchero> ! Regarde ca, kyu.\nC'est un bloc d'Alchimie Dust, kyu. Amene le\ncube ici, kyu !"
+    },
+    "144607": {
+        "「さっそく　エナジー変換して\n　キューブに　チャージを開始するキュ。": "Commencons immediatement la conversion\nd'energie et chargeons le cube, Kyu."
+    },
+    "144608": {
+        "「エナジーが　完全に　チャージされるまで\n　しばらく　時間がかかる予定だキュ。": "Il faudra un certain temps avant que l'Ena-gy\nsoit completement charge, kyu."
+    },
+    "144609": {
+        "「<cs_pchero>には　外見的要素が\n　生体継続時間と一致しない　女賢者に\n　報告しに戻ることを　提案するキュ。": "Je te propose de retourner faire ton rapport a\nla sage feminine, dont l'apparence ne\ncorrespond pas a la duree de vie biologique,<br><cs_pchero>."
+    },
+    "144610": {
+        "「<pc>　ご苦労。\n　時の妖精の言っていた　アルケミダストは\n　手に入ったのか？": "<pc>, bon travail. As-tu reussi a\nobtenir l'Alchimie Poussiere dont parlait la\nfee du temps ?"
+    },
+    "144611": {
+        "「キューブへの　エナジーチャージは\n　先ほど　完了したキュ。": "La charge d'energie pour le cube a ete\ncompletee recemment, Kyu."
+    },
+    "144612": {
+        "「おお。つまり　キューブは\n　すぐにでも　使えるということだな。": "Oh. Cela signifie que le cube est pret a etre\nutilise immediatement."
+    },
+    "144613": {
+        "「では　<pc>よ。\n　滅びの未来を　食い止めるために\n　ふたたび　過去の世界へ向かってくれるか？": "Alors, <pc>. Pour empecher l'avenir de\nsombrer dans la ruine, veux-tu retourner une\nnouvelle fois dans le monde du passe ?"
+    },
+    "144614": {
+        "「またしても　そなたに頼ることになるが\n　これは　時渡りのチカラを持つ\n　そなたにしか　できないことなのだ！": "Encore une fois, je dois compter sur toi.\nC'est quelque chose que seul toi, avec le\npouvoir de voyager dans le temps, peux<br>accomplir !"
+    },
+    "144615": {
+        "「その前に　言っておきたいことがある。\n　わしは　エテーネ王国について知るため\n　各地の文献を　あさってきたのじゃが……": "Avant toute chose, il y a quelque chose que je\ntiens a dire. J'ai explore divers ecrits a\ntravers le monde pour en apprendre davantage<br>sur le royaume d'Ethene..."
+    },
+    "144616": {
+        "「高度な錬金術により　栄華を誇った王国だが\n　５０００年前に　突如として　滅んだとしか\n　記されては　おらんかった。": "C'etait un royaume qui se vantait de sa\nprosperite grace a une alchimie avancee, mais\nil n'est ecrit nulle part d'autre qu'il a<br>soudainement periclite il y a 5000 ans."
+    },
+    "144617": {
+        "「つまるところ　おぬしは　これから\n　滅んだ原因も定かではない　エテーネ王国へと\n　行かねばならぬのじゃ。": "En somme, tu dois te rendre au royaume\nd'Ethene, dont la cause de la destruction\nreste incertaine."
+    },
+    "144618": {
+        "「そして　そこでの選択が　我々の未来をも\n　変えていくことに　なるやもしれん。": "Et les choix que nous ferons la-bas pourraient\nbien changer notre avenir."
+    },
+    "144619": {
+        "「おぬしの持つ　時渡りのチカラも\n　決して　万能なものではない。\n　これまで以上に　慎重な行動を心がけるのじゃ！": "Le pouvoir de voyager dans le temps que tu\npossedes n'est pas omnipotent. Sois encore\nplus prudent dans tes actions a l'avenir !"
+    },
+    "144620": {
+        "「それじゃ　時間跳躍を開始するキュ。\n　時間設定……　５０１２年前。": "Alors, commencons le saut temporel, Kyu.\nReglage du temps... 5012 ans en arriere."
+    },
+    "144621": {
+        "「ポイント設定……　エテーネ王国。\n　メレアーデのいた屋敷に\n　ピンポイントで　行けるよう　設定するキュ。": "Configuration des points... Royaume d'Ethene.\nJ'ajuste la destination pour pouvoir atteindre\nprecisement le manoir de Mereade."
+    },
+    "144622": {
+        "「……設定完了。\n　エテーネルキューブ　起動するキュ！": "...Parametres termines. Ethenel Cube,\ndemarrage kyu!"
+    },
+    "144623": {
+        "「頼んだぞ　<pc>……。": "Je compte sur toi, <pc>..."
+    },
+    "144637": {
+        "「<pc>。あそこの崩れたカベから\n　外へ出られると　推測できるキュ。": "<pc>. On peut supposer que l'on peut\nsortir par le mur effondre la-bas, kyu."
+    },
+    "144638": {
+        "「複数の生体反応が　接近中。\n　武装している可能性　９２パーセント。\n　ボクは　キューブに　退避するキュ！": "Plusieurs reactions biologiques en approche.\nProbabilite qu'ils soient armes : 92%. Je vais\nme refugier dans le cube, Kyu !"
+    },
+    "144639": {
+        "「ここから　入れそうですよ。\n　調査なら　楽な任務かと思いましたが\n　めんどうなことに　なってきましたねえ。": "Il semble que nous puissions entrer par ici.\nJe pensais que ce serait une mission facile,\nmais cela devient de plus en plus complique."
+    },
+    "144640": {
+        "「とりあえず　屋敷の中に　入ってみよう。\n　みんな　注意をおこたるなよ。": "Pour l'instant, entrons dans le manoir. Tout\nle monde, restez sur vos gardes."
+    },
+    "144641": {
+        "「だいぶ　荒らされているな……。\n　どうやら　魔物が入り込んでいるようだ。": "Le lieu est assez saccage... On dirait que des\nmonstres se sont infiltres ici."
+    },
+    "144642": {
+        "「……むっ。貴様は　何者か！？": "…Mmh. Qui es-tu, toi ?!"
+    },
+    "144643": {
+        "「……ふーむ。\n　エテーネ王国の者には　見えませんねえ。": "Hmm. Vous ne semblez pas etre du royaume\nd'Ethene."
+    },
+    "144644": {
+        "「ここで　何をしてやがる！\n　もしかして　野盗のたぐいってか？": "Que fais-tu ici ! Serais-tu un bandit par\nhasard ?"
+    },
+    "144645": {
+        "「私は　ローベル。\n　我々は　この辺りの警備をまかされている\n　エテーネ王国　辺境警備隊の兵士だ。": "Je suis Robel. Nous sommes les soldats de la\ngarde frontaliere du Royaume d'Ethene, charges\nde la securite dans cette region."
+    },
+    "144646": {
+        "「……貴殿は　旅の者と見た。\n　何用で　訪れたのかは知らぬが\n　この屋敷は今　危険な状態にある。": "Je vois que vous etes un voyageur. Je ne sais\npas ce qui vous amene ici, mais sachez que ce\nmanoir est actuellement dans une situation<br>dangereuse."
+    },
+    "144647": {
+        "「即刻　立ち去ったほうがいい。\n　我々の詰所が　そう　遠くない場所にある。\n　そこまで行けば　安全だ。": "Il est preferable de partir immediatement.\nNotre poste de garde n'est pas tres loin\nd'ici. Une fois la-bas, vous serez en<br>securite."
+    },
+    "144648": {
+        "「だが　我々は　調査任務があるため\n　貴殿を　送っていくことは　できない。\n　自分の足で　詰所まで　行ってもらいたい。": "Cependant, nous avons une mission d'enquete a\nmener et ne pouvons pas vous escorter. Nous\nvous demandons de vous rendre au poste par vos<br>propres moyens."
+    },
+    "144649": {
+        "「……だとさ。\n　よかったな　あんた。\n　普通なら　しょっぴかれてるところだぜ。": "...C'est ce qu'ils ont dit. Heureusement pour\ntoi. Normalement, tu aurais ete arrete."
+    },
+    "144650": {
+        "「この者の目は　犯罪者のものではない。\n　責任は　私が取る。": "Les yeux de cette personne ne sont pas ceux\nd'un criminel. Je prendrai la responsabilite."
+    },
+    "144651": {
+        "「警備隊の詰所は　このバントリユ地方の東だ。\n　気をつけて　向かうがいい。": "Le poste de garde se trouve a l'est de cette\nregion de Bantriyu. Faites attention en vous y\nrendant."
+    },
+    "144652": {
+        "「……よし。\n　我々は　屋敷の奥へ　調査に向かうぞ。": "......Bien. Nous allons nous diriger vers\nl'interieur du manoir pour enqueter."
+    },
+    "144653": {
+        "「へいへい。わかりましたよ。": "Hein hein. J'ai compris."
+    },
+    "144654": {
+        "「魔物と　戦うことになるなら\n　この任務　辞退すれば　よかったですねえ。\n　今さら　遅いですが……。": "Si j'avais su que nous devrions combattre des\nmonstres, j'aurais du refuser cette mission.\nMais maintenant, il est trop tard..."
+    },
+    "144655": {
+        "「……そこで　待て。\n　これより先は　エテーネ王国の誇る\n　王都キィンベルである。": "......Arrete-toi la. Au-dela, c'est la Royal\nCity Kimbel, fierte du royaume d'Ethene."
+    },
+    "144656": {
+        "「そなたの名を　告げよ。\n　指針書に記された者か　確認をおこなう。": "Declare ton nom. Je vais verifier si tu es\nbien celui qui est inscrit dans le livre des\ndirectives."
+    },
+    "144657": {
+        "自分の名前を　門番に　告げますか？<yesno><close>": "Voulez-vous dire votre nom au gardien ?\n<yesno><close>"
+    },
+    "144658": {
+        "「名を　告げぬのならば\n　王都へ入れることは　できん。\n　すぐに　立ち去るがよい。": "Si tu ne donnes pas ton nom, je ne peux pas te\nlaisser entrer dans la capitale royale. Pars\nimmediatement."
+    },
+    "144660": {
+        "「我らの持つ指針書に　記された者しか\n　王都へ入ることは　許可できない決まりだ。\n　すぐに　立ち去るがよい。": "Seules les personnes inscrites dans notre\nregistre peuvent entrer dans la capitale\nroyale. C'est la regle. Vous devez partir<br>immediatement."
+    },
+    "144661": {
+        "「おお。貴殿も　今　着いたところか。": "Oh. Vous venez d'arriver aussi ?"
+    },
+    "144662": {
+        "「貴殿と会った後　屋敷の奥へ向かったが\n　思ったよりも　中の魔物が　手ごわくてな。\n　いったん　引きあげてきたところだ。": "Apres vous avoir rencontre, je me suis dirige\nvers le fond du manoir, mais les monstres a\nl'interieur etaient plus coriaces que prevu.<br>J'ai donc decide de me retirer pour le moment."
+    },
+    "144663": {
+        "「まったく　ひどい目に　あいましたよ……。": "Vraiment, j'ai passe un sale quart d'heure..."
+    },
+    "144664": {
+        "「お前　あそこにいて　よく無事だったな。\n　運のいいヤツだぜ。": "Tu as eu de la chance de t'en sortir indemne\nla-bas. Tu es vraiment un veinard."
+    },
+    "144665": {
+        "「貴殿には　隊長の所まで　同行を願おう。\n　ドミネウス邸に　いたのには\n　何か　事情がありそうだったからな。": "Je souhaiterais que vous m'accompagniez\njusqu'au chef de l'unite. Il semblerait qu'il\ny avait une raison particuliere pour laquelle<br>vous etiez au manoir Domineus."
+    },
+    "144666": {
+        "「私は　隊長に　増員の許可をもらってくる。\n　ディークと　イガラの両名は\n　その間に　すこし　休んでおけ。": "Je vais demander au capitaine l'autorisation\nde renforcer nos effectifs. Deak et Igara,\nreposez-vous un peu pendant ce temps."
+    },
+    "144667": {
+        "「了解しました。": "Compris."
+    },
+    "144668": {
+        "「隊長は　２階にいる。\n　ついてくるがいい。": "Le capitaine est au deuxieme etage.\nSuivez-moi."
+    },
+    "144669": {
+        "「ラゴウ隊長。ドミネウス邸の調査の件\n　増員を　願いたいのですが。": "Capitaine Lago. Concernant l'enquete sur le\nmanoir Domineus, j'aimerais demander un\nrenforcement des effectifs."
+    },
+    "144670": {
+        "「なに？　ただの調査任務のはずだが\n　お前たちだけでは　足りないと言うのか？": "Quoi ? Ce n'est qu'une simple mission\nd'enquete, mais vous dites que vous ne\nsuffisez pas ?"
+    },
+    "144671": {
+        "「どういうことか　さっさと　報告しろ。": "Depeche-toi de me faire un rapport sur ce qui\nse passe."
+    },
+    "144672": {
+        "「……はっ！　屋敷内には　魔物が侵入しており\n　我々　３名だけでは　苦戦をまぬがれず\n　一時　撤退してきたという次第です。": "…Ah ! Des monstres ont penetre dans le manoir.\nA nous trois, nous ne pouvions pas les\ncontenir et nous avons du battre en retraite<br>temporairement."
+    },
+    "144673": {
+        "「……しかたあるまい。増員を許可する。\n　人選は　お前にまかせる。": "...Il n'y a pas d'autre choix. J'autorise le\nrenforcement des effectifs. Je te laisse le\nchoix des personnes."
+    },
+    "144674": {
+        "「はっ！　ありがとうございます。": "Ha ! Merci beaucoup."
+    },
+    "144675": {
+        "「……ところで　ローベル。\n　お前の横にいる　そいつは　なんだ？": "Au fait, Robel. Qui est-ce a cote de toi ?"
+    },
+    "144676": {
+        "「はっ。我々が　調査に訪れたとき\n　屋敷にいた　旅の者です。\n　事情がありそうなので　連れてきました。": "Ha. C'est le voyageur que nous avons trouve\ndans le manoir lorsque nous sommes venus\nenqueter. Il semblait avoir des informations<br>importantes, alors nous l'avons amene avec\nnous."
+    },
+    "144677": {
+        "「ふん……。屋敷にいただと？\n　ならば　そいつは\n　ただの不法侵入者ではないか！": "Hmm... Tu dis qu'il est dans le manoir ?\nAlors, cet individu n'est rien d'autre qu'un\nintrus !"
+    },
+    "144678": {
+        "「おおかた　王都に行こうとして\n　道に迷ったのだろうが　そんな話は後だ。\n　その辺で　待たせて……": "Vous avez probablement essaye d'aller a la\ncapitale royale et vous vous etes perdu en\nchemin, mais nous en parlerons plus tard.<br>Attendez par ici..."
+    },
+    "144679": {
+        "「うわあーーーっ！！": "Ouahhhh !!!"
+    },
+    "144680": {
+        "「なんだ　今の悲鳴は！？": "Quel etait ce cri de detresse ?!"
+    },
+    "144681": {
+        "「ディークの声のようです。\n　いったい　何が……。": "C'est la voix de Deak. Qu'est-ce qui se\npasse...?"
+    },
+    "144682": {
+        "「たっ　たたたっ　隊長！\n　魔物……っ　魔物の襲撃だっ。\n　何人か　やられちまいましたっ！！": "Ta-ta-ta, capitaine ! Les monstres... les\nmonstres nous attaquent. Quelques-uns de nos\nhommes ont ete touches !"
+    },
+    "144683": {
+        "「なに！？　この辺りの魔物が\n　詰所を　襲ってきたことなど\n　今までに　一度も　なかったぞ！": "Quoi !? Les monstres de cette region n'ont\njamais attaque notre poste auparavant !"
+    },
+    "144684": {
+        "「それが　はじめて見るヤツで\n　オマケに　なんか　普通じゃなくて……！": "C'etait la premiere fois que je voyais un type\ncomme ca, et en plus, il avait quelque chose\nde vraiment inhabituel... !"
+    },
+    "144685": {
+        "「うひゃあっ！\n　こここ　こいつですっ。": "Ouh la la ! C-C-C'est lui !"
+    },
+    "144686": {
+        "「ギッ……ギギギ……。": "Gi... gigigi..."
+    },
+    "144687": {
+        "「……ひいっ！！": "...Hii!!"
+    },
+    "144688": {
+        "「あ……うあぁ…………。": "Ah... Ooooh..."
+    },
+    "144689": {
+        "「フシュウウゥゥゥゥ……。": "Fshuuuuu..."
+    },
+    "144690": {
+        "「………………。": ""
+    },
+    "144691": {
+        "「むっ……　待てっ！！": "Mmm... Attends !!"
+    },
+    "144692": {
+        "「な……。なんなんだ　あの魔物はっ。\n　あんなのは　見たことがないぞ！！": "Qu'est-ce que... C'etait quoi ce monstre ? Je\nn'ai jamais vu quelque chose comme ca !!"
+    },
+    "144693": {
+        "「それに　なんだ　あの態度は！！\n　我々には　もう興味がないとでも\n　言いたそうな感じだったではないか！": "Et puis, quelle etait cette attitude ! On\naurait dit qu'il voulait dire qu'il n'avait\nplus aucun interet pour nous !"
+    },
+    "144694": {
+        "「死んでは　いないのか？\n　まるで　生気を抜かれたような……。": "Il n'est pas mort ? On dirait qu'on lui a\naspire toute son energie..."
+    },
+    "144695": {
+        "「おい！　イガラ　聞こえるか！！": "He ! Igara, tu m'entends ?!!"
+    },
+    "144696": {
+        "「ダメか……。とにかく\n　このまま　放っておくわけには　いかんな。": "Ca ne va pas... En tout cas, on ne peut pas\nlaisser les choses comme ca."
+    },
+    "144697": {
+        "奇妙な魔物に襲われた　詰所の兵たちは\n皆　生気を抜かれたかのようになり\n動かなくなっていた。": "Les soldats du poste, attaques par d'etranges\ncreatures, semblaient avoir ete vides de leur\nenergie vitale et demeuraient immobiles."
+    },
+    "144698": {
+        "ラゴウ隊長の命により　彼らは\n襲撃をまぬがれた兵士によって　治療のため\n王都へと　送還されていった。": "Sous les ordres du capitaine Lago, ceux qui\nont echappe a l'attaque ont ete renvoyes a la\ncapitale pour y etre soignes par les soldats."
+    },
+    "144699": {
+        "「うむむ……。なんということだ。\n　ほとんどの隊員が　あの魔物１匹に\n　やられてしまうとは。": "Hum... Quelle situation deplorable. Presque\ntous nos membres ont ete vaincus par ce seul\nmonstre."
+    },
+    "144700": {
+        "「おおっ　ローベル。\n　なんとか　お前は　無事だったか！": "Oh, Robel. Heureusement, tu es sain et sauf !"
+    },
+    "144701": {
+        "「はっ……。\n　逃げていく　あやつの後を追い\n　西のほら穴へ　入り込むのを確認しました。": "Ha... J'ai vu cette creature s'enfuir, Je l'ai\nsuivie jusqu'a ce qu'elle entre dans la grotte\na l'ouest."
+    },
+    "144702": {
+        "「私ひとりでは　太刀打ちできぬと判断し\n　報告に戻った次第です。": "J'ai juge que je ne pourrais pas faire face\nseul et je suis donc revenu pour faire mon\nrapport."
+    },
+    "144703": {
+        "「ぬう。そうか……。\n　しかし　あれを放置しておいて\n　また　ここを襲ってきたら……。": "Hmm. Je vois... Cependant, si nous laissons\ncela comme ca et qu'ils attaquent a nouveau\ncet endroit..."
+    },
+    "144704": {
+        "「おお　そうだ！\n　そこのお前　荒事は得意なのだろう？\n　風体を見れば　すぐに　わかるぞ。": "Oh, mais bien sur ! Toi la-bas, tu es doue\npour gerer les situations difficiles, n'est-ce\npas ? Cela se voit tout de suite a ton allure."
+    },
+    "144705": {
+        "「お前に　仕事を与えよう。\n　あの魔物を　退治しに向かうのだ。\n　屋敷への不法侵入を　不問にしてやるぞ。": "Je vais te confier une mission. Va eliminer ce\nmonstre. Je fermerai les yeux sur ton\nintrusion dans le manoir."
+    },
+    "144706": {
+        "「しかし　この者だけでは……。\n　私も　ともに　向かわせてください！": "Cependant, cette personne seule ne suffira\npas... Laissez-moi l'accompagner, je vous en\nprie !"
+    },
+    "144707": {
+        "「ならん！　お前は　ここに残れ。\n　わしの護衛が　いなくなってしまうからな。": "Non, il n'en est pas question ! Tu restes ici.\nJe ne peux pas me passer de ta protection,\napres tout."
+    },
+    "144708": {
+        "「よいな？　お前に　他の選択肢はない。\n　あの魔物……。": "Compris ? Tu n'as pas d'autre choix. Ce\nmonstre..."
+    },
+    "144709": {
+        "「……むう。名がないと不便だな。": "Hmm. C'est embetant de ne pas avoir de nom."
+    },
+    "144710": {
+        "「……よし。異形のケダモノということで\n　あれを　異形獣と名づけよう！\n　我ながら　よいネーミングではないか。": "Tres bien. Puisque c'est une bete monstrueuse,\nappelons-la Hexabeast ! Je dois dire que c'est\nun bon nom, n'est-ce pas ?"
+    },
+    "144711": {
+        "「ローベルの言った　西のほら穴に向かい\n　異形獣を　退治してくるのだ。\n　倒した証拠の品も　忘れずにな。": "Robel a dit de se diriger vers la grotte a\nl'ouest et d'eliminer le Hexabeast. N'oublie\npas de rapporter une preuve de ta victoire."
+    },
+    "144712": {
+        "「……ご命令ならば　仕方ありません。\n　私は　隊長の護衛として　残ります。": "Si tel est votre ordre, je n'ai pas le choix.\nJe resterai ici en tant que garde du\ncapitaine."
+    },
+    "144713": {
+        "「どうした？　異形獣がいるのは\n　ここより　西のほら穴だ。\n　わかったら　ぐずぐずせずに　行け！": "Qu'est-ce qui se passe ? Hexabeast se trouve\ndans la caverne a l'ouest d'ici. Si tu as\ncompris, ne traine pas et vas-y !"
+    },
+    "144714": {
+        "「ギギッ……。": "Gigi..."
+    },
+    "144715": {
+        "「シュウウゥゥ……。": "Shuuu..."
+    },
+    "144716": {
+        "「ギ……ァ…………。": "G... aa..."
+    },
+    "144717": {
+        "「ギィッ…………。": "Gii..."
+    },
+    "144718": {
+        "「ボクの解析によれば　あのツノには\n　生命体から　特殊なエナジーを\n　抽出するチカラが　あるようキュ。": "D'apres mon analyse, ces cornes semblent avoir\nle pouvoir d'extraire une energie speciale des\netres vivants, kyu."
+    },
+    "144719": {
+        "「でも　<cs_pchero>の持つ　そのエナジーが\n　ぼうだいなため　許容量を超えてしまい\n　その結果　ああなってしまったんだキュ。": "Mais l'energie que possede <cs_pchero> est si\nimmense qu'elle a depasse la capacite permise,\net c'est ainsi que cela s'est produit, kyu."
+    },
+    "144720": {
+        "「それにしても　おかしな魔物キュ。\n　ボクも　見たことがない種類だったキュ。": "En tout cas, c'etait un drole de monstre, kyu.\nJe n'avais jamais vu ce genre-la, kyu."
+    },
+    "144721": {
+        "「たしか　隊長とかいう人間が\n　倒した証拠の品がどうとか　言っていたキュ。\n　あのツノを　持っていけばいいキュ。": "Certainement, cet humain qu'on appelle le\ncapitaine a parle d'un objet prouvant la\ndefaite. Si nous prenons cette corne, cela<br>devrait suffire."
+    },
+    "144722": {
+        "<cs_pchero>は\n異形獣のツノ（だいじなもの）を　手に入れた！<me 60>": "<cs_pchero> a obtenu la Corne du Hexabeast\n(objet cle) !<me 60>"
+    },
+    "144723": {
+        "辺境警備隊の詰所に向かい　ラゴウ隊長に\n異形獣を倒したことを　報告しよう。": "Dirige-toi vers le poste de garde de la\npatrouille frontaliere et informe le Capitaine\nLago que tu as vaincu le Hexabeast."
+    },
+    "144724": {
+        "「おおっ！　これは　まさしく\n　あの異形獣のアタマにあった　ツノだな！！": "Oh ! C'est exactement la corne qui se trouvait\nsur la tete de cet Hexabeast !!"
+    },
+    "144725": {
+        "「見れば見るほど　不思議なツノだ。\n　よし。こいつは　わしのコレクションに\n　加えておくとしよう！": "Plus je les regarde, plus ces cornes me\nsemblent etranges. Tres bien, je vais les\najouter a ma collection !"
+    },
+    "144726": {
+        "「……よくやった。約束どおり\n　お前の　屋敷への無断侵入の罪は\n　わしの権限で　不問にしてやろう。": "Bien joue. Comme promis, je vais ignorer le\ndelit de ton intrusion dans mon manoir grace a\nmon autorite."
+    },
+    "144727": {
+        "「だが　その前に　もう　ひとはたらき\n　してもらわないと　いかん。\n　ちょっと　そのまま　待っていろ。": "Cependant, avant cela, il y a encore un petit\ntravail a faire. Attends ici un instant."
+    },
+    "144728": {
+        "ラゴウ隊長は　机の上に紙を広げて\nもうれつな勢いで　何かを書きはじめた。": "Captain Lago deploie un papier sur le bureau\net commence a ecrire quelque chose avec une\nenergie furieuse."
+    },
+    "144729": {
+        "そして　書いた内容をながめて\nうむうむと　うなずくと\nその紙を　封筒に入れて　封をした。": "Ensuite, il regarda le contenu qu'il avait\necrit, hochant la tete avec satisfaction, puis\nmit le papier dans un tube scelle et le ferma."
+    },
+    "144730": {
+        "「これを　王都キィンベルの軍司令部にいる\n　軍団長まで　すみやかに　届けてくれ。": "Apporte ceci rapidement au commandant de la\nlegion situe au quartier general militaire de\nRoyal City Kimbel."
+    },
+    "144731": {
+        "「異形獣の出現により　屋敷の調査が\n　不可能になったことを書いた　報告書だ。": "C'est un rapport indiquant que l'enquete du\nmanoir est devenue impossible en raison de\nl'apparition du Hexabeast."
+    },
+    "144732": {
+        "「……ついでに　わしの王都への\n　配置転換も　陳情しておいたがな。": "Et j'ai aussi profite de l'occasion pour\ndemander mon transfert vers la capitale\nroyale."
+    },
+    "144733": {
+        "「お前も　王都に　用があるのだろう？\n　これで　大手を振って　入れるのだ。\n　おおいに　喜ぶがよい！": "Tu as aussi des affaires a regler dans la\ncapitale royale, n'est-ce pas ? Grace a cela,\ntu pourras y entrer fierement. Rejouis-toi<br>grandement !"
+    },
+    "144734": {
+        "<pc>は\n隊長の報告書（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Captain's Report (objets\ncles) ! <me 60>"
+    },
+    "144735": {
+        "「王都キィンベルへは　ここより　南から\n　エテーネ王国領に入り　北を目指せばいい。\n　寄り道などはせず　まっすぐ　向かうのだぞ！！": "Pour te rendre a la Cite Royale de Kimbel,\ndirige-toi vers le sud d'ici pour entrer dans\nle royaume d'Ethene, puis vise le nord. Ne<br>fais pas de detours, avance directement !"
+    },
+    "144736": {
+        "「……そこで　待て。\n　これより先は　エテーネ王国の誇る\n　王都キィンベルである。": "......Arrete-toi la. Au-dela, c'est la Royal\nCity Kimbel, fierte du royaume d'Ethene."
+    },
+    "144737": {
+        "「そなたの名と用件を　告げよ。\n　指針書に記された者か　確認をおこなう。": "Veuillez decliner votre nom et votre demande.\nJe vais verifier si vous figurez dans le\nregistre des directives."
+    },
+    "144738": {
+        "自分の名前と　ラゴウ隊長の報告書を\n持ってきたことを　門番に　告げますか？<yesno><close>": "Souhaitez-vous informer le garde de votre nom\net que vous avez apporte le rapport du\ncapitaine Lagow ? <yesno><close>"
+    },
+    "144739": {
+        "「名と用件を　告げぬのならば\n　王都へ入れることは　できん。\n　すぐに　立ち去るがよい。": "Si tu ne donnes pas ton nom et la raison de ta\nvisite, je ne peux pas te laisser entrer dans\nla capitale royale. Pars immediatement."
+    },
+    "144741": {
+        "「先ほど　指針書を確認した際に\n　たしかに　そのような者が来ることが\n　記されていたのを　覚えているぞ。": "Tout a l'heure, en consultant le livre des\ndirectives, je me souviens avoir vu qu'une\npersonne de ce genre allait venir."
+    },
+    "144742": {
+        "「……よろしい。通行を許可する。": "......Tres bien. Je vous autorise a passer."
+    },
+    "144743": {
+        "「軍司令部にいくならば　王都に入ったら\n　大通りを　まっすぐ　進めばよい。\n　中央広場にある正門が　見えてくるはずだ。": "Si tu vas au quartier general militaire, une\nfois entre dans la capitale, avance simplement\ntout droit sur la grande avenue. Tu devrais<br>apercevoir le portail principal sur la place\ncentrale."
+    },
+    "145225": {
+        "「屋敷の様子が　前に来たときと\n　まったく　異なっているキュ。\n　現在の年代を　測定してみるキュ。": "<L'apparence du manoir est completement\ndifferente de la derniere fois que nous sommes\nvenus.> <P. Je vais essayer de dater son age.>"
+    },
+    "145226": {
+        "「<pc>。ボクたちは\n　前に来たときよりも　若干　時が過ぎた状態の\n　屋敷に到着したと　推測されるキュ。": "<pc>. On dirait que nous sommes arrives\ndans le manoir a un moment legerement plus\navance que lors de notre precedente visite,<br>kyu."
+    },
+    "145227": {
+        "「エテーネルキューブの調律に\n　すこし　乱れが　発生していて\n　そのせいで　時間がズレたみたいだキュ。": "Il semble qu'il y ait eu une legere\nperturbation dans l'harmonisation de l'Ethenel\nCube, ce qui a cause un decalage temporel,<br>Kyu."
+    },
+    "145228": {
+        "「今後は　このような問題が\n　起こらないよう　ボクは\n　キューブの制御に　集中するキュ。": "Desormais, pour eviter que ce genre de\nprobleme ne se reproduise, je vais me\nconcentrer sur le controle du cube."
+    },
+    "145229": {
+        "「その代わり　今後は\n　エテーネルキューブの起動判断は\n　<pc>に　まかせることにするキュ！": "En echange, a partir de maintenant, la\ndecision d'activer l'Ethenel Cube sera confiee\na <pc> kyu !"
+    },
+    "145230": {
+        "<pc>は　エテーネルキューブとして\n銀色の箱を　使えるようになった！<me 71>": "<pc> peut desormais utiliser la boite\nargentee en tant que Cube Ethenel ! <me 71>"
+    },
+    "145231": {
+        "<color_yellow>メインコマンドの　『どうぐ』の中にある\n『エテーネルキューブ』を使うと\n現代と過去を　行き来することができます。": "<color_yellow>En utilisant le 『Cube d'Ethenel』\ndans le menu principal 『Objets』, vous pourrez\nvoyager entre le present et le passe."
+    },
+    "145232": {
+        "<color_yellow>過去の世界で訪れた場所が　登録されるほか\n時空のしるべを　しらべることで\nそこを　行き先として　登録できます。": "<color_yellow>En plus des lieux visites dans\nle monde passe qui sont enregistres, vous\npouvez examiner les balises temporelles pour<br>les enregistrer comme destination."
+    },
+    "145233": {
+        "<color_yellow>過去では　屋根のある場所でも　使えます。\nまた　『現代へ戻る』を選ぶと\nもとの時代へ　戻ることができます。": "<color_yellow>Dans le passe, vous pouvez\nl'utiliser meme dans les endroits couverts. De\nplus, en choisissant 'Retour a l'epoque P.',<br>vous pouvez retourner a votre epoque\nd'origine."
+    },
+    "145234": {
+        "「時間が　多少ズレたとはいえ\n　ここが　エテーネ王国のメレアーデがいた\n　屋敷であることは　まちがいないキュ。": "Bien que le temps ait legerement devie, il ne\nfait aucun doute que cet endroit est le manoir\nou se trouvait Mereade du royaume d'Ethene,<br>kyu."
+    },
+    "145235": {
+        "「メレアーデから預かった　記憶の赤結晶を\n　弟のクオードに渡して　一緒に見ることが\n　<pc>の　任務だキュ。": "La mission de <pc> est de donner le Red\nMemory Crystal confie par Mereade a son frere\nQuard et de le regarder ensemble."
+    },
+    "145236": {
+        "「でも　屋敷の中から　キミ以外の人間の\n　生体反応が　まったく　感知できないキュ。\n　ここにいても　意味がないと思われるキュ。": "Mais il semble qu'aucune autre presence\nhumaine a part toi ne soit detectee a\nl'interieur du manoir kyu. Rester ici ne<br>semble pas avoir de sens kyu."
+    },
+    "145237": {
+        "「可及的すみやかに　屋敷の外へ脱出し\n　クオード探索ルートの再構築をするよう\n　提案しておくキュ。": "Je propose de sortir du manoir aussi vite que\npossible et de reconstruire le parcours\nd'exploration de Quard."
+    },
+    "145238": {
+        "「ボクは　キューブの中に　退避しておくキュ。\n　時の妖精たる者　別時間の存在と　むやみに\n　接触することは　極力　避ける必要があるキュ。": "Je vais me mettre a l'abri dans le cube, Kyu.\nEn tant qu'esprit du temps, il est essentiel\nd'eviter autant que possible tout contact<br>imprudent avec des existences d'un autre\ntemps, Kyu."
+    },
+    "146038": {
+        "「どうしたの　クロちゃん？\n　おなか　空いちゃったのかな～？": "Qu'est-ce qui t'arrive, Kuro-chan ? Tu as\nfaim, peut-etre ?"
+    },
+    "146039": {
+        "「……あら？　お客様の訪問なんて\n　今日の予定に　あったかしら？": "Oh ? Avais-je prevu la visite d'un client\naujourd'hui ?"
+    },
+    "146040": {
+        "「あなたとは　はじめて　会うわよね。\n　ええと。私の名前は　メレアーデ。\n　この屋敷の主の　娘よ。": "C'est la premiere fois que nous nous\nrencontrons, n'est-ce pas ? Hmm. Mon nom est\nMereade. Je suis la fille du Seigneur de ce<br>manoir."
+    },
+    "146041": {
+        "「それで　いつ　この部屋に入ったの？\n　私　ぜんぜん　気づかなかったわ。\n　すごいのね　あなたって！": "Alors, quand es-tu entre dans cette piece ? Je\nn'avais absolument rien remarque. Tu es\nvraiment incroyable !"
+    },
+    "146042": {
+        "「あなたのファッションも\n　ずいぶんと　個性的で　興味深いわ。\n　どこのお店で　買ったのかしら？": "Votre style vestimentaire est vraiment unique\net interessant. Je me demande dans quelle\nboutique vous l'avez achete ?"
+    },
+    "146043": {
+        "「……う～ん。なんだか　あなた。\n　何が起こったか　よく　わからない！\n　……ってカオをしているわね。": "...... Hmm. On dirait que toi, tu as l'air de\nne pas bien comprendre ce qui s'est passe !"
+    },
+    "146044": {
+        "「……もしかして　ここが　有名な\n　ドミネウスのお屋敷ってことも\n　あなたには　わかっていないのかしら？": "...Peut-etre que tu ne sais meme pas que c'est\nle fameux manoir de Domineus ?"
+    },
+    "146045": {
+        "「でも　さすがに　このエテーネ王国にいて\n　それを知らないってことは　ないわよね？": "Mais, il est impossible que tu sois dans le\nroyaume d'Ethene et que tu ne saches pas ca,\nn'est-ce pas ?"
+    },
+    "146046": {
+        "「ちょっと待って　クオード。\n　この人も　何か　とまどっているみたい。\n　まずは　話を聞いてみるべきよ。": "Attends un peu, Quard. Cette personne semble\naussi etre un peu perdue. Nous devrions\nd'abord ecouter ce qu'elle a a dire."
+    },
+    "146047": {
+        "「……ねえ。私の声　聞こえる？\n　今　開けるから　ちょっと　待ってね。": "…He. Tu m'entends ? Je vais ouvrir maintenant,\nattends un peu."
+    },
+    "146048": {
+        "「……よかった。元気そうね。": "...Je suis content. Tu as l'air en forme."
+    },
+    "146049": {
+        "「まったく　あの子ったら\n　ひとの話を　聞いてくれなくて\n　本当に　困っちゃうわ。": "Vraiment, cet enfant ne veut jamais ecouter ce\nqu'on lui dit, c'est vraiment embetant."
+    },
+    "146050": {
+        "「……と　私たちのことは　置いときましょう。": "...Eh bien, mettons cela de cote pour\nl'instant."
+    },
+    "146051": {
+        "「……さて。まずは\n　あなたの名前を　教えてくれる？": "…Alors. Pour commencer, pourrais-tu me dire\nton nom ?"
+    },
+    "146052": {
+        "「……<pc>っていうの？\n　そう……　とても　ステキな名前ね！": "…<pc>, c'est ca ? Oui… c'est vraiment un\njoli nom !"
+    },
+    "146053": {
+        "「あなたのこと……。\n　クオードは　極悪人のように　言ってたけど\n　私には　とても　そうは思えないわ。": "A propos de toi... Quard te decrivait comme un\netre abominable, mais je ne peux pas du tout\nle croire."
+    },
+    "146054": {
+        "「だって　あなたは　とても\n　優しそうな目を　しているもの……。\n　私　ひとを見る目には　自信があるのよ！": "Parce que tu as l'air d'avoir des yeux tres\ngentils... J'ai confiance en ma capacite a\njuger les gens !"
+    },
+    "146055": {
+        "「だから　ここから　出してあげる。\n　だいじょうぶ。後のことは　心配ないわ。\n　クオードも　王都に　でかけちゃったし。": "Donc je vais te faire sortir d'ici. Ne\nt'inquiete pas, tout ira bien ensuite. Quard\nest aussi parti en voyage vers la capitale<br>royale."
+    },
+    "146056": {
+        "「それで　あなたは\n　どうやって　ここに　来たの？\n　エテーネ王国の人じゃないみたいだけど。": "Alors, comment es-tu arrive ici ? Tu n'as pas\nl'air de venir du royaume d'Ethene."
+    },
+    "146057": {
+        "「……えっ？　銀色の箱のチカラで\n　ここに　とんできたんですって？": "...Eh ? Vous dites que vous avez ete\ntransporte ici grace au pouvoir de la boite\nargentee ?"
+    },
+    "146058": {
+        "「あれ……。\n　それじゃ　あの箱がないと\n　帰ることも　できないってことじゃ……。": "Hein... Dans ce cas, cela signifie que sans\ncette boite, on ne peut meme pas rentrer..."
+    },
+    "146059": {
+        "「でも　心配しないで！\n　クオードは　この家から\n　箱を　持ちだしたりしてないわ。": "Mais ne t'inquiete pas ! Quard n'a pas emporte\nde boite de cette maison."
+    },
+    "146060": {
+        "「あとで　ゆっくり　調べるつもりで\n　自分の部屋に　しまってあると思うの。\n　あの子のことだから　きっと　そう。": "Je pense que je l'ai range dans ma chambre\navec l'intention de l'examiner tranquillement\nplus tard. C'est tout a fait son genre, je<br>suis sure que c'est ca."
+    },
+    "146061": {
+        "「クオードの部屋を探せば\n　きっと　銀色の箱が　見つかるはずよ！": "Si tu cherches dans la chambre de Quard, tu\ndevrais surement trouver la boite argentee !"
+    },
+    "146062": {
+        "「あなたは　私のお客さんってことにしてあるから\n　すこしくらい　うろついても　問題ないわ。\n　クオードの部屋は　３階の西側よ！": "Je t'ai presente comme mon invite, donc il n'y\naura pas de probleme si tu te balades un peu.\nLa chambre de Quard est au troisieme etage,<br>cote ouest !"
+    },
+    "146063": {
+        "「あら？　早かったわね。\n　そう。ここが　クオードの部屋よ。": "Ah ? Tu es deja la. Oui, c'est ici, la chambre\nde Quard."
+    },
+    "146064": {
+        "「それじゃ　あの子には悪いけど\n　部屋の中を　かきまわして\n　銀色の箱とやらを　探してみましょうか。": "Dans ce cas, meme si c'est dommage pour cet\nenfant, fouillons la piece et cherchons cette\nboite argentee."
+    },
+    "146065": {
+        "「ふふっ。なんだか　楽しいわ。\n　何か　おもしろいものも　出てくるかも？": "Fufu. Je trouve ca amusant. Peut-etre que\nquelque chose d'interessant va apparaitre ?"
+    },
+    "146066": {
+        "「見つからないわね　箱……。\n　私のカンも　にぶっちゃったなあ。": "Je ne trouve pas cette boite... Mon intuition\ns'est emoussee."
+    },
+    "146067": {
+        "「おもしろいものも　出てこないし\n　ちょっと　ガッカリだわ。": "Je suis un peu decue, il n'y a rien\nd'interessant qui soit apparu."
+    },
+    "146068": {
+        "「クオードは　あの箱を持ったまま\n　王都に　行っちゃったのかなあ。\n　う～ん……。": "Quard est parti pour la capitale royale avec\ncette boite, n'est-ce pas ? Hmmm..."
+    },
+    "146069": {
+        "「……あっ　そうだわ。\n　ちょっと　玄関にいる執事のジェリナンに\n　話を聞きにいってみましょうよ。": "…Ah, c'est vrai. Allons parler au majordome\nGelinan qui se trouve a l'entree."
+    },
+    "146070": {
+        "「彼なら　出ていくときのクオードを\n　見かけているはずだから\n　そのときの様子を　覚えているかも。": "S'il a vu Quard partir, il pourrait se\nsouvenir de comment il etait a ce moment-la."
+    },
+    "146071": {
+        "「それじゃ　１階の玄関まで　お願い。\n　ジェリナンは　すこし　気むずかしい人だけど\n　きっと　チカラになってくれるわ！": "Alors, accompagne-moi jusqu'a l'entree du\nrez-de-chaussee, s'il te plait. Gelinan est\nune personne un peu difficile, mais je suis<br>sure qu'il nous aidera !"
+    },
+    "146072": {
+        "「もう～。ジェリナンてば\n　本当に　おカタいんだから！": "Oh la la... Gelinan, tu es vraiment trop\nrigide !"
+    },
+    "146073": {
+        "「あのね。クオードが　でかけるとき\n　何か　持ってなかったか　教えてほしいのよ。": "Ecoute. J'aimerais que tu me dises si Quard\nemportait quelque chose en partant."
+    },
+    "146074": {
+        "「ああっ　まずいわ。\n　ジェリナンのお小言が　始まっちゃう！": "Ah, c'est mauvais. Les remontrances de Gelinan\nvont commencer !"
+    },
+    "146075": {
+        "「はい　そこまで！　お小言なら\n　あとで　いくらでも聞くって　約束するから\n　今は　クオードのことを教えて！！": "Oui, ca suffit ! Je te promets que j'ecouterai\ntes remontrances plus tard autant que tu veux.\nMais pour l'instant, dis-moi tout sur Quard !"
+    },
+    "146076": {
+        "「お待ちになって　ジェリナン！\n　お客様の前で　お説教を始めるのも\n　いかがなものかと　思うのですわ！！": "Attendez, Gelinan ! Je pense qu'il n'est pas\napproprie de commencer a sermonner devant nos\ninvites !"
+    },
+    "146077": {
+        "「……そう。それなら　いいの。\n　感謝するわ　ジェリナン！": "…Je vois. Dans ce cas, tout va bien. Je te\nremercie, Gelinan !"
+    },
+    "146078": {
+        "「<pc>！　やっぱり　あの箱は\n　まだ　この屋敷の中にあるのよ。": "<pc> ! Je suis sure que cette boite est\nencore quelque part dans ce manoir."
+    },
+    "146079": {
+        "「クオードが　自分の部屋の他に\n　あの箱を　隠しそうな所となると\n　う～ん……。": "Hmm... Si Quard devait cacher cette boite\nquelque part en dehors de sa propre chambre..."
+    },
+    "146080": {
+        "「あっ！　クオードの部屋から\n　ここに来るまでの間に　テラスの前を通るわ。\n　もしかしたら　テラスに……？": "Ah ! En venant ici depuis la chambre de Quard,\non passe devant la terrasse. Peut-etre que sur\nla terrasse... ?"
+    },
+    "146081": {
+        "「たしか　今日は　侍女のハーミィが\n　テラスの　お掃除当番の日ね。\n　彼女が　何か　知っているかもしれないわ。": "Certainement, aujourd'hui c'est le jour ou la\nservante Hermy est de corvee pour nettoyer la\nterrasse. Elle pourrait savoir quelque chose."
+    },
+    "146082": {
+        "「<pc>。\n　次は　ハーミィに　話を聞いてみて。\n　テラスは　３階の北側よ！": "<pc>. Ensuite, va parler a Hermy. La\nterrasse se trouve au troisieme etage, cote\nnord !"
+    },
+    "146083": {
+        "「うふふ　ハーミィ。\n　まだ　そんなに　緊張しているの？": "Ohoho, Hermy. Es-tu encore aussi nerveux ?"
+    },
+    "146084": {
+        "「私には　そんな　かたくるしい言葉を\n　使わなくていいって　言ったでしょ。\n　普通にして　普通に。": "Je t'ai dit que tu n'avais pas besoin\nd'utiliser des mots aussi formels avec moi.\nSois naturel, simplement naturel."
+    },
+    "146085": {
+        "「彼女は　この屋敷に来てから\n　まだ　日が浅いの。\n　ジェリナンにも　しかられまくりよね。": "Her est arrivee dans ce manoir il n'y a pas\nlongtemps. Elle se fait souvent gronder par\nGelinan."
+    },
+    "146086": {
+        "「ふふっ。あやまらなくても　いいわ。\n　私たち　あなたに　聞きたいことがあって\n　来たのだけど　いいかしら？": "Fufufu. Pas besoin de t'excuser. Nous sommes\nvenues te poser quelques questions. Est-ce que\ntu es d'accord ?"
+    },
+    "146087": {
+        "「ちょっとね。探し物をしているの。\n　これくらいの　銀色の箱っぽいものなんだけど\n　この辺りで　見なかった？": "Un instant. Je cherche quelque chose. C'est un\nobjet qui ressemble a une boite argentee de\ncette taille, tu ne l'aurais pas vu dans les<br>parages ?"
+    },
+    "146088": {
+        "「そう……。じゃあ　クオードの様子に\n　変わったところとか　なかったかしら？\n　何かを持って　テラスに　出てみたりとか。": "Vraiment... Alors, n'y a-t-il rien\nd'inhabituel concernant Quard ? Comme s'il\navait emporte quelque chose pour sortir sur la<br>terrasse, par exemple."
+    },
+    "146089": {
+        "「それよっ！！": "C'est ca !!"
+    },
+    "146090": {
+        "「ありがとう　ハーミィ。\n　じゅうぶん　役に立ったわ。\n　ポーラに　会いにいってみるわね。": "Merci, Hermy. Tu m'as ete d'une grande aide.\nJe vais aller voir Paula."
+    },
+    "146091": {
+        "「<pc>。今の聞いたわよね？": "<pc>. Tu as entendu ca, n'est-ce pas ?"
+    },
+    "146092": {
+        "「ポーラが　きっと　何かを知っているはずよ。\n　侍女たちの部屋なら　この３階にあるわ。": "Paula doit surement savoir quelque chose. La\nchambre des servantes se trouve ici, au\ntroisieme etage."
+    },
+    "146093": {
+        "「ちょっと　待って　ポーラ。": "Attends un peu, Paula."
+    },
+    "146094": {
+        "「……あのね　ポーラ。\n　あなたに　聞きたいことがあるの。\n　正直に　答えてくれるかしら。": "Ecoute, Paula. Il y a quelque chose que\nj'aimerais te demander. Peux-tu me repondre\nhonnetement ?"
+    },
+    "146095": {
+        "「……本当に？\n　さっき　<pc>に　答えたことも\n　ウソではないって　言えるのね？": "Vraiment ? Tu peux vraiment dire que ce que tu\nas repondu a <pc> tout a l'heure n'etait\npas un mensonge ?"
+    },
+    "146096": {
+        "「私の目を見ながら　そう言える？": "Peux-tu vraiment dire ca en me regardant dans\nles yeux ?"
+    },
+    "146097": {
+        "「……ポーラ。\n　まだ　何か　隠しているわね？": "…Paula. Tu caches encore quelque chose,\nn'est-ce pas ?"
+    },
+    "146098": {
+        "「あなたが　そんな理由で\n　盗みを　はたらくような人じゃないって\n　私　知っているもの。": "Je sais que tu n'es pas quelqu'un qui volerait\npour de telles raisons."
+    },
+    "146099": {
+        "「それなら　屋敷に置いてあるものを\n　持ちだしても　よかったはずよ。\n　なぜ　<pc>の箱を？": "Dans ce cas, tu aurais pu emporter les objets\nlaisses dans le manoir. Pourquoi choisir la\nboite de <pc> ?"
+    },
+    "146100": {
+        "「この屋敷のものでなければ\n　よいなんて考えは　まちがっているわ。\n　その前に　私に　相談してくれれば……。": "Penser que cela irait bien tant que ce n'est\npas de cet manoir est une erreur. Si seulement\ntu m'avais consultee avant..."
+    },
+    "146101": {
+        "「ねえ　<pc>。\n　私から　お願いがあるの。\n　ポーラを　ゆるしてあげてくれる……？<yesno><close>": "Dis, <pc>. J'ai une faveur a te\ndemander. Pourrais-tu pardonner Paula...\n?<yesno><close>"
+    },
+    "146102": {
+        "「ポーラも　あやまりなさい。\n　それとね……　お母さんのことは\n　私に　まかせてほしいの。": "Paula, tu devrais aussi t'excuser. Et puis...\nlaisse-moi m'occuper de maman, d'accord ?"
+    },
+    "146103": {
+        "「なるほど。今は使われていない\n　客間のベッドに　目をつけたわけね。": "Je vois. Vous avez donc remarque le lit dans\nla chambre d'amis qui n'est pas utilisee\nactuellement."
+    },
+    "146104": {
+        "「それじゃあ　<pc>。\n　２階の　東側の客間を探してみて。\n　今度こそ　銀色の箱が　見つかるはずよ！": "Alors, <pc>. Va explorer la chambre\nd'amis a l'est, au deuxieme etage. Cette\nfois-ci, tu devrais y trouver la boite<br>argentee !"
+    },
+    "146105": {
+        "「銀色の箱　見つかったのね。\n　これで　<pc>も　ひと安心！": "La boite argentee a ete trouvee, n'est-ce pas\n? Avec cela, <pc> peut enfin etre\ntranquille !"
+    },
+    "146106": {
+        "「ところで……。ずっと　気になってたけど\n　その箱って　なんなのかしら？\n　クオードは　エテーネのものって言ってたけど。": "ところでずっと気になってたけど その箱ってなんなのかしら？\nQuardはEtheneのものって言ってたけど Au fait... Ca fait un\nmoment que je me le demande, mais qu'est-ce<br>que c'est que cette boite ? Quard a dit que\nc'etait quelque chose d'Ethene, non ?"
+    },
+    "146107": {
+        "「……あなたにも　よく　わからないの？\n　もしかして　帰りかたも　わからないって\n　言うんじゃないわよね？": "......Toi non plus, tu ne comprends pas\nvraiment ? Ne me dis pas que tu ne sais pas\nnon plus comment rentrer ?"
+    },
+    "146108": {
+        "「ひゃあっ！？": "Hyahh!?"
+    },
+    "146109": {
+        "「あら……。クロちゃん？\n　どうしたの？": "Ah... Cro-chan ? Que se passe-t-il ?"
+    },
+    "146110": {
+        "「ああん　もう　クロちゃんたら。\n　そんなに　スカートのすそを　引っ張らないで！": "Oh la la, Kuro-chan, voyons. Ne tire pas\nautant sur le bas de ma jupe Sato !"
+    },
+    "146111": {
+        "「ごめんなさい　<pc>。\n　クロちゃんが　私を呼んでるみたい。\n　きっと　おなかが　空いたんだわ。": "Je suis desolee, <pc>. Il semble que\nKuro-chan m'appelle. Il doit avoir faim."
+    },
+    "146112": {
+        "「私　ちょっと　行ってくるわ。\n　すぐに戻るから　話の続きは　後でね！": "Je vais faire un petit tour. Je reviens tout\nde suite, alors continuons notre conversation\nplus tard !"
+    },
+    "146113": {
+        "「やっと　会えた……。": "Enfin, je t'ai retrouve..."
+    },
+    "146114": {
+        "「<pc>……。\n　あなたに　これを託したいのです。": "<pc>... Je voudrais te confier ceci."
+    },
+    "146115": {
+        "「エテーネ王国の王都　キィンベルへ……。\n　私の弟……　クオードに会い\n　この記憶の赤結晶を　渡してください。": "Vers la capitale du royaume d'Ethene,\nKiinbel... Rencontrez mon frere, Quard, et\nremettez-lui ce Red Memory Crystal."
+    },
+    "146116": {
+        "「そして　必ず　クオードとともに\n　記憶の赤結晶の内容を　確認するのです。": "Et ensuite, assurez-vous de verifier le\ncontenu du Cristal de Memoire Rouge avec\nQuard."
+    },
+    "146117": {
+        "「ですが　その前に……。\n　あなたは　見なければならない。": "Mais avant cela... Vous devez voir quelque\nchose."
+    },
+    "146118": {
+        "「この世の　終末を……。": "La fin de ce monde..."
+    },
+    "146119": {
+        "「<pc>……。\n　あなたを　信じているわ…………": "<pc>... Je te fais confiance..."
+    },
+    "153052": {
+        "「そのときの話を　わしに聞かせてくれんか？\n　ちょうどよい　おかずに　なりそうじゃ。": "Peux-tu me raconter cette histoire ? Cela\npourrait etre un bon accompagnement."
+    },
+    "156348": {
+        "「本当に　ごめんなさい。\n　弟のクオードは　せっかちで……。": "Je suis vraiment desolee. Mon petit frere\nQuard est tellement impatient..."
+    },
+    "156349": {
+        "「……しかたありませんね。\n　お答えしましょう。": "... Je suppose que je n'ai pas le choix. Je\nvais vous repondre."
+    },
+    "156350": {
+        "「説明は　完了したキュ。\n　それじゃ　ボクは　失礼するキュ。": "L'explication est terminee, kyu. Alors, je\nvais prendre conge, kyu."
+    },
+    "161211": {
+        "「……<pc>？\n　そのような名は　記されていない。": "......<pc> ? Ce nom n'est pas inscrit."
+    },
+    "161212": {
+        "「辺境警備隊より　預かった報告書を\n　軍司令部の　軍団長のもとへ\n　届けにきたと　言うのだな。": "Vous dites que vous etes ici pour livrer le\nrapport que vous avez recu de l'equipe de\nsurveillance frontaliere au commandant du<br>quartier general militaire."
+    },
+    "188005": {
+        "「……ああ。\n　どうか　そんなことを　言わないで。\n　ポーラを　ゆるしてあげて……？<yesno><close>": "Ah. S'il te plait, ne dis pas ca. Pardonne\nPaula, d'accord… ?<yesno><close>"
+    },
+    "188006": {
+        "「ありがとう　<pc>……。": "Merci, <pc>..."
+    },
+    "188007": {
+        "「現在地は　レンダーシア大陸。\n　ただし　キミが知る時間軸より　未来の……\n　滅亡を迎えた　レンダーシアだキュ。": "P. Le lieu est le continent de Lendersia.\nCependant, c'est dans un futur par rapport a\nla ligne temporelle que tu connais... Une<br>Lendersia qui a rencontre sa destruction, kyu."
+    },
+    "188008": {
+        "<pc>は　床に落ちていた枝に\n足を取られて　転んでしまった！": "<pc> a trebuche sur une branche tombee\nau sol et est tombe !"
+    }
+}

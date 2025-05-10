@@ -1,0 +1,371 @@
+{
+    "286986": {
+        "「……っと。\n　コイツぁ　いただいとくぜぃ。": "...Et voila. Je vais prendre ca."
+    },
+    "286987": {
+        "「これで　また一歩\n　あのお人に　近付けたってぇモンよ！": "Voila, c'est encore un pas de plus pour me\nrapprocher de cette personne !"
+    },
+    "286988": {
+        "「あれは……\n　オーグリード大陸の　闇のキーエンブレム！": "Ca, c'est... l'embleme cle des tenebres du\ncontinent d'Auglith !"
+    },
+    "286989": {
+        "「遠路はるばる　アタシと　戦うために\n　追ってくるたァ　見上げたモンだぜ\n　なんとかのフンドシ……ってな。": "Venir de si loin juste pour se battre contre\nmoi, c'est vraiment admirable. Comme on dit,\nc'est une question de courage... n'est-ce pas<br>?"
+    },
+    "286990": {
+        "「それとも……お目当ては　コレかい？": "Ou bien... est-ce que c'est ca que tu cherches\n?"
+    },
+    "286991": {
+        "「ふざけるな！": "Ne te moque pas de moi !"
+    },
+    "286992": {
+        "「オメェは　すっこんでろぃッ！！\n　この　トーヘンボク！": "Toi, reste en dehors de ca ! Espece de cretin\n!"
+    },
+    "286993": {
+        "「……いいぜ　決着をつけよう。": "...Tres bien, reglons ca une bonne fois pour\ntoutes."
+    },
+    "286994": {
+        "「本気のアタシに　勝てたら\n　青　桃　赤のバッジは\n　全部　オメェに　くれてやらァ！": "Si tu parviens a me vaincre serieusement, je\nte donnerai les badges bleu, rose et rouge !"
+    },
+    "286995": {
+        "「勝負だ　<cs_pchero>。\n　……来な。": "C'est un defi, <cs_pchero>. ...Viens."
+    },
+    "286996": {
+        "「……負けたぜ　<cs_pchero>。\n　完敗だ。": "J'ai perdu, <cs_pchero>. C'est une defaite\ntotale."
+    },
+    "286997": {
+        "「約束どおり　コイツは　持ってきな。": "Comme promis, prends ca avec toi."
+    },
+    "286998": {
+        "<pc>は\n闇のキーエンブレム・青（だいじなもの）\n闇のキーエンブレム・桃（だいじなもの）": "<pc> possede Embleme cle bleu fonce\n(objets cles) Embleme cle rose fonce (objets\ncles)"
+    },
+    "286999": {
+        "闇のキーエンブレム・赤（だいじなもの）を\n手に入れた！<me 60>": "Tu as obtenu l'Embleme Cle Rouge Sombre ! <me\n60>"
+    },
+    "287000": {
+        "５つの　闇のキーエンブレム\nすべてが　そろった！": "Les 5 emblemes cles de l'ombre sont reunis !"
+    },
+    "287001": {
+        "「ひぃ　ふぅ　み……っと　これで全部かァ？\n　いくつ　手に入れたんだか\n　よく　覚えてねェんだよなぁ。": "Hii, fuu, mi... Est-ce que c'est tout ? Je ne\nme souviens plus trop combien j'en ai obtenu."
+    },
+    "287002": {
+        "「お前……闇のキーエンブレムが\n　いくつあるかも　知らずに　集めていたのか？\n　つまり　それが何かも　理解してないな？": "Toi... Tu ramassais les emblemes cles de\nl'ombre sans meme savoir combien tu en as ?\nDonc, tu ne sais meme pas ce que c'est,<br>n'est-ce pas ?"
+    },
+    "287003": {
+        "「おう。強ェ魔物を倒すと　手に入る\n　ごほうびの　バッジだろ？\n　キラッキラしてて　ちょっと　イイよな。": "Oh. C'est le badge recompense que l'on obtient\nen battant des monstres puissants, n'est-ce\npas ? Il brille de mille feux et c'est plutot<br>chouette."
+    },
+    "287004": {
+        "「バッジじゃない！　闇のキーエンブレムだ！\n　冥王ネルゲル　復活のカギとなる\n　闇の魔力を秘めた　危険なものなんだっ！": "Ce n'est pas un badge ! C'est un embleme cle\nde l'obscurite ! C'est la cle de la\nresurrection de Netherlord Nergel Un objet<br>dangereux impregne de magie noire !"
+    },
+    "287005": {
+        "「なに　感心してるんだ！\n　お前……ネルゲル復活をもくろむ\n　魔物の仲間じゃないのか！？": "Qu'est-ce qui t'impressionne tant ? Ne\nserais-tu pas... un allie des monstres qui\ncomplotent pour ressusciter Nelgel !?"
+    },
+    "287006": {
+        "「へっ。仲間なんか　いねェや！\n　こちとら　生まれついての　一匹狼さ。": "Heh. Je n'ai pas de camarades ! Je suis un\nloup solitaire de naissance."
+    },
+    "287007": {
+        "「しかしよォー。あの人に　追いつく前に\n　もういっこ　デケえ目標が　できちまったぜ。\n　……<pc>。オメェの強さは　本物だ。": "Cependant... Avant de le rattraper, je me suis\nfixe un nouvel objectif encore plus grand.\n...<pc>. Ta force est authentique."
+    },
+    "287008": {
+        "「あの人……？　なんの話だ。": "Cette personne... ? De quoi parles-tu ?"
+    },
+    "287009": {
+        "「よくぞ　聞いてくださった！\n　あの人ってのぁ　アタシの……\n　いやっ　全世界の冒険者の目標さ！": "Merci de m'avoir ecoute ! Cette personne\nest... mon... non, c'est l'objectif de tous\nles aventuriers du monde !"
+    },
+    "287010": {
+        "<center>しばらく前……\nレンダーシアから　勇者姫の光が\n大空に向け　放たれた頃。": "Il y a quelque temps... Depuis Rendaashia, la\nlumiere de la princesse courageuse fut lancee\nvers le grand ciel."
+    },
+    "287011": {
+        "<center>ひとりの　冒険者が\nアストルティアに　現れた……。": "Un aventurier est apparu dans Astoltia..."
+    },
+    "287012": {
+        "<center>五大陸を苦しめる　あまたの魔物を討伐し\nあの　冥王ネルゲルすらも　倒したという\n伝説の冒険者。": "L'aventurier legendaire qui a vaincu de\nnombreux monstres tourmentant les cinq\ncontinents et meme terrasse le redoutable<br>Netherlord Nergel."
+    },
+    "287013": {
+        "<center>その正体は　オーガの戦士とも\nプクリポの芸人とも　エルフの学びの徒とも\nウェディの守り手とも……": "Son identite pourrait etre celle d'un guerrier\nOgre, d'un artiste Pukulipo, d'un etudiant\nElfe ou d'un gardien Weddie..."
+    },
+    "287014": {
+        "<center>ドワーフの　トレジャーハンターとも　言われ\n種族どころか　性別　年齢　名称\nその　すべてが　謎に包まれている……。": "On le surnomme le chasseur de tresors Nain.\nSon espece, son sexe, son age et meme son nom,\ntout cela est enveloppe de mystere..."
+    },
+    "287015": {
+        "「顔も　名前もわからねェ　あのお人を\n　アタシは　仮に……\n　エックスさんと　呼んでいる！": "Je ne connais ni le visage ni le nom de cette\npersonne mysterieuse, mais je l'appelle X-san\ndans le TMP... !"
+    },
+    "287016": {
+        "「エックスさんは　スゲェんだぜッ！？\n　突然　彗星のように　現れて\n　バッタバッタと　魔物どもを　なぎ倒しさァ！": "X-san est incroyable ! Il est apparu\nsoudainement comme une comete, et a fauche les\nmonstres les uns apres les autres !"
+    },
+    "287017": {
+        "「神も魔王も　エックスさんの前じゃぁ\n　スライム同然！　エックスさんは\n　すべての冒険者の　あこがれなんだぜっ！！": "Dieu ou Roi Demon, face a X-san, ils ne sont\nrien de plus que des Slimes ! X-san est\nl'idole de tous les aventuriers !"
+    },
+    "287018": {
+        "「……いつか　エックスさんを　超えたくて\n　アタシは　こうして\n　日々　戦い続けてンのさ。": "Un jour, je veux surpasser X-san, c'est pour\nca que je continue a me battre ainsi chaque\njour."
+    },
+    "287019": {
+        "「けどよォ　エックスさんに　挑む前に\n　まずは　オメェに勝てるぐらい\n　強くならねェとだぜ。": "Mais avant de defier X-san, je dois devenir\nassez fort pour te vaincre d'abord."
+    },
+    "287020": {
+        "「……その　エックスという人物。\n　どう考えても　ここにいる\n　<cs_pchero>のことだと　思うけど。": "......Cette personne appelee X. Peu importe\ncomment on y reflechit, je pense que c'est\nforcement <cs_pchero> qui est la."
+    },
+    "287021": {
+        "「ぶぁか言ぇいっ！": "Ne dis pas de betises !"
+    },
+    "287022": {
+        "「そりゃ　<cs_pchero>も　大した強さだが\n　まだまだ　エックスさんには　およばねェよ。\n　……あのお方の強さは　異次元だ。": "Certes, <cs_pchero> est vraiment puissant,\nmais il n'arrive pas encore a la cheville de\nM. X. ...La force de cette personne est d'un<br>autre monde."
+    },
+    "287023": {
+        "「……おっと。悪ィなぁ　話し込んじまって。": "…Oups. Desole, je me suis un peu laisse\nemporter dans la conversation."
+    },
+    "287024": {
+        "「ともかく！　まずは　オメェに勝てるように\n　とことん　鍛えなおしてくらァ。\n　手当たり次第　強ぇ魔物を　倒しまくるぜッ！": "De toute facon ! Je vais d'abord m'entrainer a\nfond pour pouvoir te battre. Je vais vaincre\ntous les monstres puissants que je croise !"
+    },
+    "287025": {
+        "「また会おう　<cs_pchero>！\n　……次は　アタシが勝つ！！": "A la prochaine, <cs_pchero> ! ...La prochaine\nfois, c'est moi qui gagnerai !!"
+    },
+    "287026": {
+        "「謎の冒険者　エックスと\n　<cs_pchero>が　同一人物だって\n　あいつ　一生　気づかないんだろうな……。": "Cet aventurier mysterieux, X, et <cs_pchero>\nsont en fait la meme personne. Je parie qu'il\nne le realisera jamais de sa vie..."
+    },
+    "287027": {
+        "「色々あったけど　これで　５つ。\n　すべての　闇のキーエンブレムが　集まった。\n　この時代の　賢者たちに　報告を……": "Il s'en est passe des choses, mais voici la\ncinquieme. Tous les emblemes cles des tenebres\nsont rassembles. Il est temps de faire rapport<br>aux sages de cette epoque..."
+    },
+    "287028": {
+        "「……なんでもない。\n　最近　ちょっと　疲れやすいんだ。": "...Ce n'est rien. Je suis juste un peu plus\nfatigue ces derniers temps."
+    },
+    "287029": {
+        "「じゃあ　ボクは　先に行くよ。\n　ホーローの隠れ家で　落ち合おう。": "Alors je vais y aller en premier.\nRetrouvons-nous a Hollow's Hideout."
+    },
+    "287030": {
+        "「ここが　聖地……？": "Alors, c'est ici... le sanctuaire sacre ?"
+    },
+    "287031": {
+        "「なんて美しい場所だ……。\n　師から　聞いていたとおり\n　聖なるチカラに　満ちている……。": "Quel endroit magnifique... C'est exactement\ncomme mon maitre me l'avait dit, rempli de\npuissance sacree..."
+    },
+    "287032": {
+        "「こいつ……！\n　また　現れたなっ　ネルゲルの手先め！": "Ce type... ! Encore manipule par les sbires de\nNelgel !"
+    },
+    "287033": {
+        "「ネルゲルの手先だと？\n　……愚か者めが。": "Serviteur de Nelger ? ...Imbecile."
+    },
+    "287034": {
+        "「……しまった！？": "...Oh non !?"
+    },
+    "287035": {
+        "「まったく　破邪舟師とは\n　そろいもそろって　間抜けなものよ。": "Franchement, les maitres du Sacred Ship sont\ntous aussi stupides les uns que les autres."
+    },
+    "287036": {
+        "「あれから　５００年……\n　我ら魔族に　封印の祭壇のことを\n　隠しおおせるはずが　なかろうに。": "Cela fait 500 ans... Nous, les demons, ne\npourrons pas garder indefiniment le secret du\nSealed Altar."
+    },
+    "287037": {
+        "「誰だっ！？": "Qui va la !?"
+    },
+    "287038": {
+        "「我が名は　ラズバーン！": "Mon nom est Razbane !"
+    },
+    "287039": {
+        "「冥王ネルゲル様を　生み出せし\n　神殿レイダメテスの守護者なり！": "Je suis le gardien du Temple de Reidametes,\ncelui qui a donne naissance au Seigneur des\nTenebres Nergel-sama !"
+    },
+    "287040": {
+        "「ラズバーン……？\n　父さんを殺した　アイツか……？\n　だが　お前は　５００年前に　死んだはずだ！": "Razbarn... ? Est-ce lui qui a tue mon pere...\n? Mais tu es cense etre mort il y a 500 ans !"
+    },
+    "287041": {
+        "「……かつて　単身　我に　立ち向かい\n　炎に焼かれて死んだ　身の程知らずの\n　破邪舟師がいたが　貴様は　あの息子か。": "Il y a longtemps, un maitre du Sacred Ship,\nignorant de sa place, s'est dresse seul contre\nmoi et est mort brule par les flammes.<br>Serais-tu le fils de cet homme ?"
+    },
+    "287042": {
+        "「父　ベルンハルトを　愚弄するな！": "Ne te moque pas de mon pere, Bernhardt !"
+    },
+    "287043": {
+        "「かつて　我は　不死の魔王の配下として\n　この地に降り立ち　勇者という　神の摂理により\n　不死の軍勢が　敗れるさまを目にした……。": "Jadis, je suis descendu en ce lieu en tant que\nserviteur du roi demon immortel et j'ai ete\ntemoin de la defaite de l'armee immortelle par<br>la providence divine appelee heros..."
+    },
+    "287044": {
+        "「ゆえに　我は　それから５００年の時をかけ\n　勇者なき時代に　このアストルティアにて\n　魔族の王を生み出す計画を　打ち立てた……。": "Ainsi, j'ai pris 500 ans pour elaborer un plan\nvisant a creer un roi des demons en Astoltia,\na une epoque depourvue de heros..."
+    },
+    "287045": {
+        "「それこそが　神殿レイダメテスと\n　我が　新しき王　ネルゲル！": "Voila ce qu'est le Temple de Reidametes et\nnotre nouveau roi, Nelger !"
+    },
+    "287046": {
+        "「不滅の冥王　ネルゲル様は\n　５つの　闇のキーエンブレムのチカラで\n　今こそ　復活をとげるのだ。": "L'Empereur des Tenebres immortel, Nergel-sama,\nva enfin ressusciter grace au pouvoir des cinq\nemblemes cles de l'ombre."
+    },
+    "287047": {
+        "「……人間よ。きさまらの命を\n　祝いの宴の　捧げ物としてやろう！　": "...Humains. Je ferai de vos vies l'offrande de\nnotre banquet de celebration !"
+    },
+    "287048": {
+        "「てやんでぃ　べらぼうめっ！": "Te yandei berabome!"
+    },
+    "287049": {
+        "「…………！？": "...!?"
+    },
+    "287050": {
+        "「ふざけた　小細工しねェで\n　闇のバッジが　ほしいンなら\n　<cs_pchero>と　正面きって　戦いやがれぃ！": "Arrete de faire des petites combines ridicules\n! Si tu veux le badge des tenebres, affronte\n<cs_pchero> en face a face et bats-toi !"
+    },
+    "287051": {
+        "「<cs_pchero>！\n　オメェのチカラを　見せてやれッ！！": "<cs_pchero> ! Montre-leur ta puissance !!"
+    },
+    "287052": {
+        "「父　ベルンハルトの仇……覚悟！！": "Prepare-toi a affronter la vengeance pour mon\npere, Bernhardt !"
+    },
+    "287053": {
+        "「……我が王…よ……\n　今こ…そ……復活…を……": "O mon roi… Maintenant… c'est… le moment… de…\nressusciter…"
+    },
+    "287054": {
+        "「………………。": ""
+    },
+    "287055": {
+        "<center>エルトナ大陸の聖地を　守ってくれて\nありがとう\nあなたたちに　心からの　感謝を……": "Merci d'avoir protege la terre sacree du\ncontinent d'Eltona. Je vous exprime ma\nprofonde gratitude..."
+    },
+    "287056": {
+        "<center>今こそ　聖地の奥へと\nあなたがたを　導きましょう\nさあ　この木の　もとへ……": "Il est temps de vous guider vers le coeur de la\nterre sacree. Venez, sous cet arbre..."
+    },
+    "287057": {
+        "「やっぱ　オメェは\n　アタシの　見込んだとおりの冒険者だぜぃ。": "Tu es vraiment l'aventurier que j'avais\nespere."
+    },
+    "287058": {
+        "「……それより　どうして　お前がここにいる。\n　武者修行に出たんじゃ　なかったのか？": "...... Plus important, pourquoi es-tu ici ? Tu\nn'etais pas parti pour un entrainement de\nguerrier ?"
+    },
+    "287059": {
+        "「おう。そのつもりで　カミハルムイらへんで\n　魔物を狩ってたらよォ\n　えらく　強ェヤツの気配を　感じてさ。": "Oh. En chassant des monstres dans les environs\nde Kamiharmui, j'ai senti la presence d'un\ntype sacrement puissant."
+    },
+    "287060": {
+        "「いっちょ　戦ってやっかと　後を追ったら\n　あのデカブツが　泉の封印を破って\n　おかしなトコに　入ってった……ってワケよ。": "Quand je me suis dit que j'allais me battre et\nque je l'ai suivi, ce grand Kabu a brise le\nsceau de la source et est entre dans un<br>endroit etrange... Voila ce qui s'est passe."
+    },
+    "287061": {
+        "「ラズバーンを　倒すために\n　聖地に　忍び込んだっていうのか！？": "Tu t'es faufile dans le sanctuaire pour\nvaincre Razbane !?"
+    },
+    "287062": {
+        "「あたぼうよ！\n　いつ　タイマン仕掛けっか　狙ってたのに\n　オメェらが　やってきたから　驚いたぜ。": "Ah bien sur ! J'attendais le bon moment pour\nlancer le piege de Red Snapper Man, et vous\nm'avez surpris en arrivant."
+    },
+    "287063": {
+        "「……まあ　結果的には\n　お前に　助けられたわけなのだし。\n　いちおう　礼を　言ってやってもいいが……。": "Eh bien, au final, tu m'as quand meme sauve.\nJe suppose que je devrais te remercier,\nmais..."
+    },
+    "287064": {
+        "「遅くなってすまんのう！\n　叡智の冠　ここに　見参じゃ！": "Desole pour le retard ! La Couronne de la\nSagesse est ici !"
+    },
+    "287065": {
+        "「……む？　横にいる　おねえちゃんは\n　どこの　どなたじゃ？": "Hm ? Et qui est cette jeune fille a cote de\ntoi ? D'ou vient-elle ?"
+    },
+    "287066": {
+        "<cs_pchero>は　賢者たちに\n待ち伏せしていた　ラズバーンを\nケイトのおかげで倒せたのだと　説明した。": "<cs_pchero> expliqua aux sages qu'ils avaient\npu vaincre Razbane, qui les attendait en\nembuscade, grace a Kate."
+    },
+    "287067": {
+        "闇のキーエンブレムと　聖地の無事を確かめた\n賢者たちは　封印の祭壇のある場所へと\n<cs_pchero>たちを　導いた……。": "Les sages, ayant confirme la securite de\nl'embleme cle des tenebres et du lieu sacre,\nguiderent <cs_pchero> vers l'endroit ou se<br>trouve le Sealed Altar..."
+    },
+    "287068": {
+        "「……これが　封印の祭壇なのか？": "...C'est donc ca, le Sealed Altar ?"
+    },
+    "287069": {
+        "「うむ　うむ！　エルジュよ。お前さんたち\n　５００年前の四術師が　遺してくれた\n　闇のキーエンブレム封印のための　祭壇じゃ！": "Hum hum ! Erju. Voici l'autel laisse par les\nquatre mages il y a 500 ans pour sceller\nl'embleme cle des tenebres !"
+    },
+    "287070": {
+        "「さあ　闇のキーエンブレムを！": "Allez, l'embleme-cle des tenebres !"
+    },
+    "287071": {
+        "「なんと　まがまがしい光だ……。\n　たしかに　これは　冥王ネルゲルのチカラ\n　そのもののようだな……。": "Quel eclat sinistre... Il est certain que\nc'est le pouvoir meme de Netherlord Nergel..."
+    },
+    "287072": {
+        "「ああ。一刻も早く　封印しなくては！": "Ah. Il faut le sceller au plus vite !"
+    },
+    "287073": {
+        "「破邪舟師　エルジュが遺した　古文書には\n　闇のキーエンブレムの　封印には\n　順番があると　書いてあったのでアールっ！": "Le document ancien laisse par le maitre du\nnavire sacre, Erju, mentionne qu'il y a un\nordre a respecter pour sceller l'embleme cle<br>des tenebres, Aru !"
+    },
+    "287074": {
+        "<center>５つの　闇のキーエンブレムを\n五柱の種族神が　世に現れし順に\nその守護せし大陸の　位置に捧げ　封印するのだ": "Les cinq emblemes cles des tenebres doivent\netre offerts et scelles dans l'ordre ou les\ncinq divinites des races les ont delivres, a<br>l'emplacement des continents qu'elles\nprotegent."
+    },
+    "287075": {
+        "「……位置は簡単だな。問題は　順番だが……\n　エルドナ　ガズバラン　ワギ　マリーヌ\n　ピナヘト……つまり　緑・赤・黄・青・桃だ！": "La position est facile. Le probleme, c'est\nl'ordre EludoNa, GazubaLMP, Wagi, MariiNu\nPinaheto c'est-a-dire vert, rouge, jaune,<br>bleu, rose !"
+    },
+    "287076": {
+        "「……やったか！？": "...Est-ce que c'est fait !?"
+    },
+    "287077": {
+        "「クレバー　かつ\n　パーフェクトに　やったとも！！": "Tu l'as fait de maniere astucieuse et parfaite\n!!"
+    },
+    "287078": {
+        "「５つの　闇のキーエンブレム\n　すべての封印に　成功したのでアール！": "Les cinq emblemes cles de l'ombre, tous les\nsceaux ont ete reussis, Aru !"
+    },
+    "287079": {
+        "「あとは　聖地の外から　泉の入口を封印すれば\n　エルトナの聖地に宿るチカラが\n　魔のものから　完璧に　守ってくれるじゃろう。": "Ensuite, si nous scellons l'entree de la\nsource depuis l'exterieur du sanctuaire, la\npuissance qui reside dans le sanctuaire<br>d'Eltona nous protegera parfaitement des\nforces malefiques."
+    },
+    "287080": {
+        "「……これで　結界も　万全じゃ！\n　何人たりとも　入れんぞ。": "Avec ca, la barriere est parfaite ! Personne\nne pourra entrer."
+    },
+    "287081": {
+        "「みなさん……。\n　今回は　本当にありがとう。": "Tout le monde... Merci vraiment pour cette\nfois-ci."
+    },
+    "287082": {
+        "「アストルティアの危機ならば\n　叡智の冠の出番と　決まっておる。\n　……もとの時代でも　達者でな。": "S'il y a une crise en Astoltia, c'est le\nmoment pour la Couronne de la Sagesse\nd'intervenir. ...Porte-toi bien, meme dans ton<br>epoque."
+    },
+    "287083": {
+        "「では　我らは　失礼する。\n　あとは　ふたりで　つもる話でもするがいい。": "Eh bien, nous allons nous retirer. Vous pouvez\ndesormais discuter tranquillement tous les\ndeux."
+    },
+    "287084": {
+        "「……これで　この時代の　アストルティアに\n　冥王ネルゲルが　復活することはないはずだ。": "......Ainsi, dans cette epoque d'Astoltia,\nNetherlord Nergel ne devrait pas ressusciter."
+    },
+    "287085": {
+        "「ボクは　役目を終えた。\n　……５００年前へ　戻るよ。よかったら\n　グレン城下町駅まで　見送りに来てくれ。": "Je suis arrive au terme de ma mission. ... Je\nretourne 500 ans en arriere. Si tu veux, viens\nme dire au revoir a la gare de la ville de<br>Glen."
+    },
+    "287086": {
+        "<cs_pchero>たちは\nエルトナの聖地を　後にした……。": "<cs_pchero> et ses compagnons ont quitte le\nsanctuaire d'Eltona..."
+    },
+    "287088": {
+        "「師から　聞いているよ。\n　君を　ボクの生きる　５００年前まで\n　連れてきたのは　この　大地の箱舟だって。": "J'ai entendu parler de toi par le maitre. On\nm'a dit que c'est cet Ark of the Earth qui t'a\namene ici, 500 ans dans le passe, a l'epoque<br>ou je vis."
+    },
+    "287089": {
+        "「ボクも　同じさ。\n　大地の箱舟のチカラで　５００年の時を超え\n　君の時代を　助けることができたんだ。": "Moi aussi, je suis pareil. Grace au pouvoir de\nl'Arche de la Terre, j'ai pu traverser 500 ans\ndans le temps pour vous aider dans votre<br>epoque."
+    },
+    "287090": {
+        "「時の円環が　こうして　また\n　ボクと　君とを　巡り合わせてくれた。\n　ある意味　ネルゲルの　おかげでもあるかな。": "Le cercle du temps nous a ainsi reunis a\nnouveau, toi et moi. D'une certaine maniere,\nc'est aussi grace a Nelgel."
+    },
+    "287091": {
+        "「しまった　忘れてた！\n　君に　お礼を　しなくちゃね。": "Mince, j'avais oublie ! Je dois te remercier,\nn'est-ce pas ?"
+    },
+    "287092": {
+        "「ここだ　<pc>！": "C'est ici, <pc> !"
+    },
+    "287093": {
+        "「君の住む世界が　５００年前のような\n　荒れ果てた姿になる前に\n　守ることができて　本当に　よかった。": "Je suis vraiment heureux d'avoir pu proteger\nle monde dans lequel tu vis avant qu'il ne\ndevienne un paysage desole comme il y a 500<br>ans."
+    },
+    "287094": {
+        "「それに　ようやく　この手で\n　父　ベルンハルトの仇を　討つことができた……": "Et enfin, j'ai pu venger mon pere Bernhardt de\nmes propres mains..."
+    },
+    "287095": {
+        "「なんだよ　いいところなのに……。\n　このあたりって　観光名所でも　あるのか？": "Quoi, c'est vraiment un bon endroit\npourtant... Est-ce que cet endroit est aussi\nune attraction touristique ?"
+    },
+    "287096": {
+        "「まさか……そんなはずは……": "Impossible... Ca ne se peut pas..."
+    },
+    "287097": {
+        "「レイダメテス　どう…して……": "Rei Dametes... pourquoi..."
+    },
+    "287098": {
+        "「なんだったんだぁ　ありゃ？\n　蜃気楼か　なんかかねえ？": "Qu'est-ce que c'etait que ca ? Un mirage ou\nquelque chose comme ca ?"
+    },
+    "287099": {
+        "「……違うっ！！\n　あれは　幻なんかじゃない！": "Non... !! Ce n'etait pas une illusion !"
+    },
+    "287100": {
+        "「きゃあああーっ！？\n　どうしたの？　しっかりして！！": "Quoiiiii !? Qu'est-ce qui se passe ? Reste\navec moi !!"
+    },
+    "287101": {
+        "「この　程度……なんてこと…ない……。\n　平気…だよ……。": "Ce niveau... ce n'est rien... Je vais bien..."
+    },
+    "287102": {
+        "「ボクは…どう　なっても……いい……\n　今度は　ボクが…君の…世界を救う……\n　救わ…な　きゃ……。": "Je... je m'en fiche de ce qui peut\nm'arriver... Cette fois, c'est a moi de\nsauver... ton monde... Je dois... te sauver..."
+    },
+    "287103": {
+        "高熱を発し　倒れたエルジュを\n最寄りの駅で降ろすと　<pc>は\nホーローの隠れ家まで　運び込んだ。": "Erju, qui avait une forte fievre et s'etait\neffondre, fut descendu a la station la plus\nproche et transporte par <pc> jusqu'a<br>Hollow's Hideout."
+    },
+    "287104": {
+        "賢者たちが　必死に　看病したが\nエルジュの熱は　いっこうに\n下がらなかった……。": "Les sages ont pris soin d'Erju avec\nacharnement, mais sa fievre ne baissait\ntoujours pas..."
+    },
+    "290167": {
+        "「……<pc>。\n　ともに　冥王ネルゲル復活を　阻止してくれて\n　ありがとう。": "<pc>. Merci d'avoir aide a empecher la\nresurrection de Netherlord Nergel avec moi."
+    },
+    "290168": {
+        "<pc>が　グレン城下町駅に　着くと\n先に　列車に乗りこんでいた　エルジュが\n<pc>を　車内に手まねきしている……。": "<pc> arrive a la gare de Glen Castle\nTown et voit qu'Erju, deja monte dans le\ntrain, lui fait signe d'entrer..."
+    },
+    "292034": {
+        "「……よかろう。\n　不死の魔王より　賜りしチカラ……\n　とくと　味わうがよい！": "......Tres bien. Savoure pleinement le pouvoir\nconfere par le Roi Demon immortel..."
+    },
+    "297876": {
+        "<pc>たちは　５つの闇のキーエンブレムを\n北に緑　北西に赤　北東に黄　南西に青\n南東に桃の　順番で　祭壇にささげた！": "<pc> et ses compagnons ont offert les\ncinq emblemes cles des tenebres sur l'autel\ndans cet ordre : le vert au nord, le rouge au<br>nord-ouest, le jaune au nord-est, le bleu au\nsud-ouest, et le rose au sud-est !"
+    },
+    "299999": {
+        "「……その　エックスという人物。\n　どう考えても　ここにいる\n　<cs_pchero>のことだと　思うけど。": "......Cette personne appelee X. Peu importe\ncomment on y reflechit, je pense que c'est\nforcement <cs_pchero> qui est la."
+    }
+}

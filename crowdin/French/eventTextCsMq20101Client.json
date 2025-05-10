@@ -1,0 +1,413 @@
+{
+    "62100": {
+        "「お呼びでしょうか　ルシェンダさま。": "Vous m'avez appele, Lushenda-sama ?"
+    },
+    "62101": {
+        "「うむ。待っておったぞ。\n　今回は　お前にも　同席してほしかったのだ。\n　……では　さっそく　始めるとしよう。": "Hum. Je vous attendais. Cette fois, je voulais\nque vous soyez egalement present. ... Eh bien,\ncommencons tout de suite."
+    },
+    "62102": {
+        "「運命を司る　聖なる振り子よ。\n　新たな運命の変異を　うながしたまえ……。\n　そして　ゆくべき道を示したまえ……。": "O pendule sacre qui regit le destin. Inspire\nune nouvelle variation de ce destin... Et\nmontre-nous le chemin a suivre..."
+    },
+    "62104": {
+        "「場所は……ソーラリア峡谷か。\n　例の仮面の男も　一緒のようだな……。": "L'endroit est... le Canyon de Solaria,\nn'est-ce pas ? Il semble que l'homme masque\nsoit egalement avec lui..."
+    },
+    "62106": {
+        "「いや　それよりも　魔元帥ゼルドラドが\n　動き出したということは　大魔王が\n　本格的な侵攻を　始めたということか……。": "Non, plus important encore, le fait que le\nMarshal Zeldrad ait commence a agir signifie\nque le Grand Roi Demon a lance une veritable<br>invasion..."
+    },
+    "62110": {
+        "「待て！　早まるな　アンルシア！": "Attends ! Ne te precipite pas, Anlucia !"
+    },
+    "62111": {
+        "「まったく　軽率な行動を取りおって……。\n　いかに　覚醒した勇者でも　魔元帥ゼルドラドに\n　ひとりで挑むのは　あまりに　危険すぎる。": "Vraiment, quelle imprudence de ta part... Meme\nsi tu es un heros eveille, affronter Marshal\nZeldrad seul est bien trop dangereux."
+    },
+    "62112": {
+        "「<pc>。アンルシアは　逆上して\n　トーマのカタキを取ることしか考えていない。\n　あそこまで　冷静さを欠くとは　計算外だった。": "<pc>. Anlucia est tellement enragee\nqu'elle ne pense qu'a venger Toma. Je ne\nm'attendais pas a ce qu'elle perde son<br>sang-froid a ce point."
+    },
+    "62113": {
+        "「ソーラリア峡谷にある\n　古き神の遺跡に向かった　彼女を追って\n　どうか　守ってやってくれないか？": "Pourriez-vous, s'il vous plait, suivre Her qui\ns'est dirigee vers les Ruines Historiques dans\nle Canyon de Solaria et la proteger ?"
+    },
+    "62114": {
+        "「いい返事だ。そなたであれば\n　安心して　まかせることができる。": "Bonne reponse. Si c'est toi, je peux te\nconfier cela en toute confiance."
+    },
+    "62115": {
+        "「遺跡の中を　くまなく探してでも\n　アンルシアを　見つけ出すのだ。\n　私も　準備をしてから　そなたの後を追う。": "Explore minutieusement les ruines et trouve\nAnlucia. Je te rejoindrai apres avoir fait mes\npreparatifs."
+    },
+    "62116": {
+        "「そうだ　<pc>。\n　運命の振り子は　そなたに返しておこう。": "Oui, <pc>. Je te rends le Pendulum of\nFate."
+    },
+    "62117": {
+        "「結界のチカラが　弱まってきたな。\n　そろそろ　いいだろう。": "Le pouvoir de la barriere commence a faiblir.\nIl est peut-etre temps d'agir."
+    },
+    "62118": {
+        "「………………。": ""
+    },
+    "62119": {
+        "「……やれやれ。ハエが　舞い込んできたか。": "...Eh bien, eh bien. Une mouche est entree."
+    },
+    "62120": {
+        "「ついに　見つけたわ　魔元帥ゼルドラド！": "Enfin, je t'ai trouve, Marshal Zeldrad !"
+    },
+    "62121": {
+        "「ほほう。真の勇者か。\n　グランゼドーラ城での戦い以来だな。": "Oh. T. le heros, n'est-ce pas ? Depuis la\nbataille au Chateau de Gran Zedora, nous ne\nnous etions pas revus."
+    },
+    "62122": {
+        "「あの時とは　違う！\n　今こそ　兄さまのカタキを取ってみせる！": "Ce n'est pas comme avant ! Cette fois, je vais\nvenger mon frere !"
+    },
+    "62123": {
+        "「クックック……。\n　なるほどな。確かに　あの時とは違うな。\n　覚醒して　少しは　チカラをつけたと見える。": "Kukukku... Je vois. Il est certain que tu n'es\nplus le meme qu'a cette epoque. On dirait que\nton eveil t'a permis de gagner un peu de<br>puissance."
+    },
+    "62124": {
+        "「……だが　それでは　わしに勝てんな。": "... Cependant, avec ca, tu ne pourras pas me\nvaincre."
+    },
+    "62125": {
+        "「黙れっ！": "Tais-toi !"
+    },
+    "62126": {
+        "「くっ！！": "Argh !!"
+    },
+    "62127": {
+        "「クックック……。身の程知らずめが。": "Ck ck ck... Pauvre ignorant."
+    },
+    "62128": {
+        "「やれやれ。また　ハエが　わいたか。": "Eh bien, eh bien. Encore une fois, des mouches\napparaissent."
+    },
+    "62129": {
+        "「ガルレイよ。勇者の始末は　まかせたぞ。\n　わしらは　先へ向かう。": "Gullray, je te confie la tache de t'occuper du\nheros. Nous allons avancer."
+    },
+    "62130": {
+        "「ガルルルガアアアーーーーーッ！！\n　おまかせください　ゼルドラドさま！！": "Garuルルガアアアーーーーーッ！！ Laissez-moi faire,\nLudoラド-sama !!"
+    },
+    "62131": {
+        "「ガルルルガアアアーーーーーッ！！": "Garu Rurugaaaaaaaaーーーッ！！"
+    },
+    "62132": {
+        "「い…いかん！　アンルシアが！": "Qu... que se passe-t-il ? Anlucia !"
+    },
+    "62133": {
+        "<attr><center><end_attr>ここで　勇者の命運を\n終わらせるわけには　いきません。": "Je ne peux pas laisser le destin du heros se\nterminer ici."
+    },
+    "62134": {
+        "<attr><center><end_attr><cs_pchero>よ……。\n勇者を　守るのです。": "<attr> <end_attr><cs_pchero>... Protegez le\nheros."
+    },
+    "62135": {
+        "「い　今のは　まさか……。": "C'etait... Est-ce possible..."
+    },
+    "62136": {
+        "「き…貴様　いったい　なにをした！？": "Qu... Qu'as-tu fait, espece de scelerat !?"
+    },
+    "62137": {
+        "「……なるほど。勇者の仲間というわけか。": "Je vois. Vous etes donc un compagnon du heros."
+    },
+    "62138": {
+        "「我は　獣魔将ガルレイ！！\n　大魔王マデサゴーラさまに　忠誠を誓う\n　四魔将の　一角なり！！": "Je suis Gullray !! Je suis l'un des quatre\ngeneraux demoniaques qui a prete allegeance a\nMadesagora-sama !!"
+    },
+    "62139": {
+        "「大魔王さまに　たてつく者は\n　皆殺しにしてくれるわ！！": "Ceux qui osent defier le grand roi demon\nseront tous extermines !!"
+    },
+    "62140": {
+        "「ガルルルガアアアーーーーーッ！！": "Garu Rurugaaaaaaaaーーーッ！！"
+    },
+    "62141": {
+        "「ガルルルガアアアーーーーーッ！！\n　なかなか　やるようだな！！\n　だが　その程度では　我は倒せんぞ！！": "Garuルルガアアアーーーーーッ！！ Tu te debrouilles pas mal\n!! Mais avec ce niveau, tu ne pourras pas me\nvaincre !!"
+    },
+    "62142": {
+        "「ちっ。アンルシアを守りながらとなると\n　そうカンタンには　いかぬな……。": "Tch. Proteger Anlucia ne sera pas si simple..."
+    },
+    "62143": {
+        "「<cs_pchero>！　ボヤボヤするな！\n　私は　アンルシアの守りに専念する！\n　こいつは　そなたに　まかせたぞ！": "<cs_pchero> ! Ne traine pas ! Je vais me\nconcentrer sur la protection d'Anlucia ! Je te\nconfie celui-la !"
+    },
+    "62144": {
+        "「ガルルルガアアアーーーーーッ！！": "Garu Rurugaaaaaaaaーーーッ！！"
+    },
+    "62145": {
+        "「グワアアアアアアアーーーーーッ！！": "Gwaaaaaaaaahーーーーー !!"
+    },
+    "62146": {
+        "「やはり　まちがいないな……。": "Il n'y a aucun doute a ce sujet..."
+    },
+    "62147": {
+        "「のんびりしているヒマはないわ。\n　早く　ゼルドラドを追わないと……。": "Nous n'avons pas le temps de trainer. Nous\ndevons vite poursuivre Ludo."
+    },
+    "62148": {
+        "「待て。": "Attends."
+    },
+    "62149": {
+        "「少しは　自重するのだ。アンルシアよ。\n　<cs_pchero>が　いなければ\n　そなたは　死んでいたかもしれんぞ？": "Fais un peu attention a toi, Anlucia. Si\n<cs_pchero> n'avait pas ete la, tu aurais pu y\nlaisser ta vie, tu sais ?"
+    },
+    "62150": {
+        "「………………。": ""
+    },
+    "62151": {
+        "「ところで　ふたりに　話があるのだ。\n　<cs_pchero>が　アンルシアを助けた時の\n　あの技だが……": "D'ailleurs, j'ai quelque chose a vous dire a\ntous les deux. A propos de cette technique que\n<cs_pchero> a utilisee pour aider Anlucia..."
+    },
+    "62152": {
+        "「ルシェンダさま……。\n　そのような話をしているヒマは　ありません。\n　一刻も早く　先へ向かいましょう。": "Lushenda sama... Nous n'avons pas le temps\npour ce genre de conversation. Allons de\nl'avant sans plus tarder."
+    },
+    "62153": {
+        "「やれやれ……。こりておらぬな……。\n　<cs_pchero>。とりあえず　話は後だ。\n　今は　アンルシアを追うとしよう。": "Bon sang... Tu ne te lasses donc jamais,\nhein... <cs_pchero>. Pour l'instant, nous\nparlerons plus tard. Pour le moment, allons<br>suivre Anlucia."
+    },
+    "62154": {
+        "「覚えておけ　<cs_pchero>。\n　これからの魔族との戦いは　そなたと\n　アンルシアの協力が　必要不可欠となるだろう。": "Souviens-toi bien, <cs_pchero>. A partir de\nmaintenant, il sera indispensable que toi et\nAnlucia unissiez vos forces pour lutter contre<br>les forces demoniaques."
+    },
+    "62155": {
+        "「クックック……。やはりな……。\n　悠久の時の間に　神の緋石はチカラを消費し\n　ずいぶんと　弱まっているようだ。": "Kukukuku... Comme je le pensais... Au fil du\ntemps, la pierre ecarlate divine a consomme\nson pouvoir et semble s'etre considerablement<br>affaiblie."
+    },
+    "62156": {
+        "「神の緋石さえ破壊してしまえば\n　この地は　守りを失い\n　大魔王さまの創りし世界が　侵食を果たそう。": "Si nous parvenons a detruire la Pierre\nEcarlate des Dieux, cette terre perdra sa\nprotection, et le monde cree par le Grand Roi<br>Demon saura s'imposer."
+    },
+    "62157": {
+        "「………………。": ""
+    },
+    "62158": {
+        "「そこまでよ　魔元帥ゼルドラド！": "C'est termine, Marshal Zeldrad !"
+    },
+    "62159": {
+        "「ほお……。ガルレイを倒したか。\n　少しは　やるようだな。": "Oh... Tu as vaincu Gullray. Tu te debrouilles\nplutot bien."
+    },
+    "62160": {
+        "「クックック……。\n　面白い余興を　思いついたぞ。\n　ひとつ　この者と戦ってもらおうか。": "Kukukuku... J'ai pense a un divertissement\ninteressant. Pourquoi ne pas combattre cette\npersonne ?"
+    },
+    "62161": {
+        "「邪魔をするなら　相手になるわよ。": "Si tu te mets en travers de mon chemin, je te\nferai face."
+    },
+    "62162": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "62163": {
+        "「もう　始まっていたか。": "Ca avait deja commence."
+    },
+    "62164": {
+        "「ハァハァ……。": "<Huff, huff...>"
+    },
+    "62165": {
+        "「ほお……。これはこれは　見違えたぞ。\n　思った以上に　やりおるわ。": "Oh... Eh bien, je dois dire que je suis\nimpressionne. Il y a plus de lances que je ne\nl'avais imagine."
+    },
+    "62166": {
+        "「黙って　見守っているようだが\n　手助けしなくてよいのか？\n　貴様らが協力すれば　勇者が勝つかもしれぬぞ？": "Tu restes silencieux, a observer, mais ne\ndevrais-tu pas intervenir ? Si vous\ncollaborez, le heros pourrait peut-etre<br>l'emporter."
+    },
+    "62167": {
+        "「よく言う……。私たちが　スキを見せる瞬間を\n　先ほどから　うかがっているクセに……。\n　そんな手に乗るほど　モウロクしておらんわ。": "Tu parles bien... Pourtant, depuis tout a\nl'heure, tu guettes le moindre instant ou nous\nbaisserions notre garde... Je ne suis pas<br>assez senile pour tomber dans un piege aussi\nsimple."
+    },
+    "62168": {
+        "「……クックック。なるほどな。\n　貴様は　なかなか　アタマが切れるようだ。": "…Kukuku. Je vois. Il semble que tu es plutot\nintelligent."
+    },
+    "62170": {
+        "「そ…そんな……。": "Ce... ce n'est pas possible..."
+    },
+    "62171": {
+        "「に…兄さま……？": "Ni... frere... ?"
+    },
+    "62172": {
+        "「トーマ兄さまが…生きて……。": "Mon frere Toma... est vivant..."
+    },
+    "62173": {
+        "「……私は　大魔王さまに仕える者。\n　お前の兄などではない。": "Je suis un serviteur du grand roi demon. Je ne\nsuis pas ton frere."
+    },
+    "62174": {
+        "「その男は　大魔王マデサゴーラさまによって\n　黄泉の世界から舞い戻った　闇の勇者……。": "Cet homme est le heros des tenebres, revenu du\nmonde des morts par le pouvoir de\nMadesagora-sama..."
+    },
+    "62175": {
+        "「勇者の持つチカラを欲していた　大魔王さまは\n　小娘……真の勇者である貴様を捕らえ\n　操り人形に　するつもりであられた。": "Le grand roi demon, desireux de s'approprier\nle pouvoir des heros, avait l'intention de\ncapturer cette jeune fille... toi, T., le<br>heros, et de te transformer en marionnette."
+    },
+    "62176": {
+        "「だが　たまたま手に入った代用品でも\n　充分に　役割を果たせることが判明してな。\n　大魔王さまも　その男で　満足しておられるわ。": "Cependant, il s'est avere qu'un substitut\nobtenu par hasard pouvait parfaitement remplir\nson role. Le grand roi demon-sama est<br>egalement satisfait de cet homme."
+    },
+    "62177": {
+        "「そんなっ！　兄さまが……。": "Quoi ?! Mon frere..."
+    },
+    "62178": {
+        "「クックック……。もう　いいだろう。\n　トーマよ。使命を果たすのだ。": "Kukukuku... C'est bon maintenant. Toma,\naccomplis ta mission."
+    },
+    "62179": {
+        "「………………。": ""
+    },
+    "62180": {
+        "「神の緋石は　砕け散り\n　いずれ　侵食が始まる……。": "La pierre ecarlate divine va se briser, et\nbientot, l'invasion commencera..."
+    },
+    "62181": {
+        "「この地は　もはや用済みよな。\n　行くぞ　トーマよ。": "Ce lieu n'a plus d'utilite maintenant.\nAllons-y, Toma."
+    },
+    "62182": {
+        "「………………。": ""
+    },
+    "62183": {
+        "「やはり　いいものだな。 \n　絶望した者のカオを見るというのは……。": "C'est vraiment quelque chose de bien, n'est-ce\npas ? Voir le visage de quelqu'un plonge dans\nle desespoir..."
+    },
+    "62184": {
+        "「クックック……。": "Kukukuku..."
+    },
+    "62185": {
+        "「兄さま……。どうして……。": "Frere… Pourquoi…"
+    },
+    "62186": {
+        "「<pc>！　ここは　もうダメだ！\n　私は　アンルシアを連れて　脱出する！\n　そなたも　早く　逃げるのだ！": "<pc> ! Ici, c'est fini ! Je vais\nm'echapper avec Anlucia ! Toi aussi, fuis vite\n!"
+    },
+    "62187": {
+        "「おお。<pc>　ごくろうだったな。\n　アンルシアも　少しは　落ち着いたようだ。": "Oh. <pc>, bon travail. Anlucia semble\ns'etre un peu calmee aussi."
+    },
+    "62188": {
+        "「………………。": ""
+    },
+    "62189": {
+        "「さて　さっそくだが　本題に入ろう。\n　これから　重要な話をいくつかする。\n　よく　聞いておくのだ。": "Bien, entrons tout de suite dans le vif du\nsujet. A partir de maintenant, je vais aborder\nplusieurs points importants. Ecoute<br>attentivement."
+    },
+    "62190": {
+        "「まず　そなたが　獣魔将ガルレイと戦った際に\n　アンルシアを守らんと　発動した技について……\n　あの技は　盟友の守りと呼ばれるものだ。": "Tout d'abord, concernant la technique que tu\nas declenchee en affrontant Gullray pour\nproteger Anlucia... Cette technique est<br>appelee la Protection de l'Ami Loyal."
+    },
+    "62191": {
+        "「盟友の守り…………。": "La protection de l'allie..."
+    },
+    "62192": {
+        "「あの技を使えるということは　すなわち\n　勇者を支え　共に戦う存在であることを示す。": "Utiliser cette technique signifie donc etre un\nsoutien pour le heros et combattre a ses\ncotes."
+    },
+    "62193": {
+        "「……<pc>こそが　勇者の盟友なのだ。": "......C'est <pc> qui est l'allie du\nheros."
+    },
+    "62194": {
+        "「<pc>が　盟友…………。": "<pc> est un allie..."
+    },
+    "62195": {
+        "「そなたが　アンルシアと共に現れた時から\n　そうではなかろうかと思っていたが……\n　どうやら　私の予感は　当たっていたようだな。": "Depuis que tu as ete avec Anlucia, j'avais le\npressentiment que cela pourrait etre le cas...\nIl semble que mon intuition etait juste."
+    },
+    "62196": {
+        "「盟友　<pc>よ。\n　これからも　アンルシアを支え　共に戦うのだ。\n　これは　そなたにしかできぬ使命だからな。": "Cher allie <pc>. Continue a soutenir\nAnlucia et combattons ensemble. C'est une\nmission que toi seul peux accomplir."
+    },
+    "62197": {
+        "「わかったな　アンルシア。\n　勇者とは　ひとりで戦う者ではない。\n　常に　盟友が共にいることを忘れるな。": "Tu comprends, Anlucia. Le heros n'est pas\ncelui qui combat seul. N'oublie jamais que des\nallies sont toujours a ses cotes."
+    },
+    "62198": {
+        "「……はい。": "... Oui."
+    },
+    "62199": {
+        "「……さて　次の話をするとしよう。\n　トーマが破壊した　あの石だが\n　あれは　神の緋石と呼ばれる物だ。": "Bien, passons a l'histoire suivante. Cette\npierre que Toma a detruite, elle s'appelle la\nPierre Ecarlate Divine."
+    },
+    "62200": {
+        "「ゼルドラドの言葉を信じるなら　どうやら\n　神の緋石を破壊されると　大魔王による\n　偽のレンダーシアの侵食が進んでしまうらしい。": "Si l'on en croit les paroles de Ludo, il\nsemble que si la Pierre Ecarlate divine est\ndetruite, l'influence du Grand Roi Demon sur<br>F. Rendashia progressera davantage."
+    },
+    "62201": {
+        "「では　神の緋石とは　なんなのか……。\n　くわしくは　古き神の遺跡を研究している\n　専門家に　解説してもらうとしよう。": "Alors, qu'est-ce que la Pierre Ecarlate des\nDieux... ? Nous devrions demander une\nexplication detaillee a un specialiste qui<br>etudie les Ruines Historiques."
+    },
+    "62202": {
+        "「入れっ！": "Entre !"
+    },
+    "62203": {
+        "「この者は　ロッサム博士。\n　あの古き神の遺跡を研究している学者だ。": "Cet individu est le Dr. Rossham. C'est un\nchercheur qui etudie les Historic Ruins."
+    },
+    "62204": {
+        "「さあ　ロッサム博士。\n　神の緋石について　くわしく説明してくれ。": "Allez, Dr. Rossham. Parlez-nous en detail de\nla pierre ecarlate divine."
+    },
+    "62205": {
+        "「か…神の緋石は　人間の神　グランゼニスが\n　自らの血で創りだした　レンダーシアの地を\n　邪悪な存在から守る　要石と言われております。": "La... pierre ecarlate divine est dite etre la\ncle de voute que le dieu humain, Zenith, a\ncreee avec son propre sang pour proteger la<br>terre de Lendersia des entites malefiques."
+    },
+    "62206": {
+        "「あの神殿にある　緋石は破壊されましたが\n　神の緋石は　レンダーシア内に\n　全部で　４つあるとのこと。": "La pierre ecarlate de ce temple a ete\ndetruite, mais il est dit qu'il y a en tout\nquatre pierres ecarlates divines dans tout<br>Lendersia."
+    },
+    "62207": {
+        "「本来　魔族には触れることすら　かないませんが\n　長い歴史の中で　チカラは衰えていき　今では\n　レンダーシアを守るだけで　精一杯の状態です。": "Normalement, il est impossible de toucher les\ndemons, mais au fil de la longue histoire,\nnotre pouvoir a diminue. Aujourd'hui, nous<br>sommes a peine capables de proteger\nRendaashia."
+    },
+    "62208": {
+        "「ですが……": "Mais..."
+    },
+    "62209": {
+        "「ついに　一度衰えた　神の緋石のチカラを\n　復活させる方法が　判明しました！": "Enfin, nous avons decouvert comment restaurer\nle pouvoir de la Pierre Ecarlate des Dieux,\nqui avait faibli !"
+    },
+    "62210": {
+        "「それは　勇者姫！\n　あなたが持つ　勇者のチカラを\n　神の緋石に　注ぎ込むことなのです！": "C'est la princesse heroine ! Vous devez\ninfuser la puissance heroique que vous\npossedez dans la pierre ecarlate divine !"
+    },
+    "62211": {
+        "「さすれば　緋石は　たちまち活性化し\n　神代のチカラを取り戻して　何者にも\n　破壊されることは　なくなるでしょう！": "Ainsi, la pierre ecarlate s'activera\ninstantanement, recouvrant le pouvoir des\ntemps anciens et ne pourra plus etre detruite<br>par qui que ce soit !"
+    },
+    "62212": {
+        "「なぜか……　それは　勇者のチカラも　また\n　グランゼニス神より　たまわりし物であると\n　伝承に　記されているからなのです！！": "Pourquoi me direz-vous... C'est parce que la\npuissance du heros est egalement un don\naccorde par Gran Zenith, comme le raconte la<br>legende !"
+    },
+    "62213": {
+        "「そこで　勇者姫に　お願いがあります！\n　あなたの身体は　とても興味深い！\n　どうか　あなたのことを研究させてください！": "そこで勇者姫にお願いがあります！ あなたの身体はとても興味深い！\nどうかあなたのことを研究させてください！"
+    },
+    "62214": {
+        "「ごくろうだったな　ロッサム博士よ。\n　もう　下がってよいぞ。": "Merci pour tes efforts, Dr. Rossham. Tu peux\nte retirer maintenant."
+    },
+    "62215": {
+        "「す…すいません。古代史のことになると\n　つい　興奮してしまって……。では　これにて。": "Je... je suis desole. Quand il s'agit de\nl'histoire ancienne, je ne peux m'empecher de\nm'enthousiasmer... Sur ce, je vous laisse."
+    },
+    "62216": {
+        "「さて　今　聞いたとおりだ。そなたたちには\n　これから　残り３つの緋石を探しだし\n　勇者のチカラを　注ぎ込んでもらいたい。": "Bien, comme vous venez de l'entendre, je\nvoudrais que vous partiez a la recherche des\ntrois dernieres pierres ecarlates et que vous<br>y insuffliez la puissance du heros."
+    },
+    "62217": {
+        "「だが　そなたたちも　今回の戦いで\n　おのれの未熟さを　思い知ったであろう。": "Mais vous avez surement pris conscience de\nvotre manque de maturite lors de ce combat."
+    },
+    "62218": {
+        "「あのゼルドラドを　相手に回して\n　神の緋石を守るためには　さらなるチカラを\n　身につけておかねばならぬ。": "Pour faire face a ce redoutable Ludo, nous\ndevons acquerir encore plus de puissance pour\nproteger la Pierre Ecarlate divine."
+    },
+    "62219": {
+        "「私は　そのための準備をしておく。\n　そなたたちは　その時にそなえて\n　充分に　身体を休めておくのだ。": "Je vais me preparer pour cela. En attendant,\nvous devez bien vous reposer pour etre prets\nlorsque le moment viendra."
+    },
+    "62220": {
+        "「ごくろうだったな　アンルシアよ。\n　もう　下がってよいぞ。": "Tu as bien travaille, Anlucia. Tu peux te\nretirer maintenant."
+    },
+    "62221": {
+        "「ルシェンダさま。今回の戦いでは\n　大変　ご迷惑をおかけしました。これからは\n　<pc>と共に　がんばっていきます。": "Lushenda-sama. Je suis vraiment desole pour\nles desagrements causes lors de cette\nbataille. A partir de maintenant, je ferai de<br>mon mieux aux cotes de <pc>."
+    },
+    "62222": {
+        "「<pc>よ。アンルシアを守るという\n　今回の任務を　見事に果たしてくれたな。\n　報酬として　これを受け取ってくれ。": "<pc>, tu as admirablement accompli ta\nmission de proteger Anlucia. En recompense, je\nte prie d'accepter ceci."
+    },
+    "62223": {
+        "「そうだ。トーマが　よみがえったことは\n　くれぐれも　他言無用で頼むぞ。\n　皆に知れ渡れば　パニックになるからな。": "C'est ca. Je te demande de garder le secret\nsur la resurrection de Toma. Si tout le monde\nle decouvre, cela pourrait creer une panique."
+    },
+    "62224": {
+        "「なかなか　ウデが立つようだな！！\n　だが　そんな攻撃では　我は倒せんぞ！！": "Tu sembles avoir un certain talent !\nCependant, avec de telles attaques, tu ne\npourras pas me vaincre !"
+    },
+    "62225": {
+        "なんと　獣魔将ガルレイのキズが\n見る見るうちに　回復していく！": "Incroyable, les blessures de Gullray sont en\ntrain de se soigner sous nos yeux !"
+    },
+    "62226": {
+        "「ガルルルガアアアーーーーーッ！！\n　我は　大魔王マデサゴーラさまから\n　無敵の身体を　いただいたのだ！！": "Garuルルガアアアーーーーーッ！！ J'ai recu un corps\ninvincible de la part de Madesagora-sama !!"
+    },
+    "62227": {
+        "「決して滅びぬ　この身体がある限り\n　貴様らごときに　敗れはせぬ！！": "Je ne serai jamais vaincu tant que ce corps\nimmortel existe. Vous ne pourrez jamais me\nvaincre !!"
+    },
+    "62228": {
+        "「そうか……。\n　大魔王の加護を得た　魔族は\n　通常の攻撃では　倒せないのだったな……。": "Je vois... Les demons sous la protection du\nGrand Roi Demon ne peuvent etre vaincus par\ndes attaques ordinaires..."
+    },
+    "62229": {
+        "「うん……？": "Hum...?"
+    },
+    "62230": {
+        "「<cs_pchero>……。今よ。\n　偽の世界で　魔勇者を倒した時と同じように\n　ふたりで　チカラを合わせるの……。": "<cs_pchero>... C'est maintenant. Tout comme\nlorsque nous avons vaincu le heros demoniaque\ndans le monde de F., nous devons unir nos<br>forces ensemble..."
+    },
+    "62231": {
+        "「私が　勇者のチカラを高めるまで\n　化け物の相手を　お願い……。": "Jusqu'a ce que je renforce le pouvoir du\nheros, je te prie de t'occuper des monstres..."
+    },
+    "80320": {
+        "「ふむ……。どうやら　峡谷の奥地にある\n　古き神の遺跡に　向かっているようだな。\n　奴らの目的は　いったい……。": "Hmm... Il semble qu'ils se dirigent vers les\nRuines Historiques, situees au fond du canyon.\nQuel peut bien etre leur objectif..."
+    },
+    "80321": {
+        "「のんびりと構えている時間は　ないな。\n　何か　対策を講じねば……。": "Il n'y a pas de temps a perdre en\ntergiversations. Nous devons prendre des\nmesures..."
+    },
+    "81342": {
+        "「こ…この魔族は……": "<me 60> Ce... ce demon..."
+    },
+    "81343": {
+        "「魔元帥ゼルドラド……\n　絶対に……絶対に　許さない……！": "Marshal Zeldrad... Je ne te pardonnerai\njamais... jamais !"
+    },
+    "81344": {
+        "「ルシェンダさま！\n　私は　これから　勇者として\n　悪しき魔族どもを　討伐してまいります！": "Lushenda-sama ! Je pars maintenant en tant que\nheros pour vaincre les mauvais demons !"
+    },
+    "81345": {
+        "<pc>は　賢者ルシェンダから\n運命の振り子（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Pendule du Destin (objet\ncle) de Sage Lushenda ! <me 60>"
+    },
+    "81346": {
+        "「それでは　アンルシアの件。\n　くれぐれも　よろしく頼むぞ。<pc>。": "Concernant le cas d'Anlucia. Je compte\nvraiment sur toi, <pc>."
+    },
+    "81347": {
+        "「いい返事だ。そなたであれば\n　安心して　まかせることができる。": "Bonne reponse. Si c'est toi, je peux te\nconfier cela en toute confiance."
+    },
+    "81348": {
+        "「……だが　そなたは　頼まれごとを\n　抱えすぎているようだ。すみやかに手を空け\n　できるだけ早く　戻ってこい。頼んだぞ。": "Cependant, il semble que tu sois surcharge de\nrequetes. Libere-toi rapidement et reviens des\nque possible. Je compte sur toi."
+    },
+    "81349": {
+        "「この緊急時に断るとは　何事だ！\n　私を失望させないでくれ　<pc>！": "Refuser en plein etat d'urgence, qu'est-ce que\ncela signifie ? Ne me decois pas, <pc> !"
+    },
+    "94163": {
+        "「……トーマ兄さまのカタキっ！！": "...La vengeance pour Toma ani-sama !!"
+    }
+}

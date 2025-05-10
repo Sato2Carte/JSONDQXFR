@@ -1,0 +1,173 @@
+{
+    "21898": {
+        "「あら　まあ　旅人さんでございますわね？\n　モ　モガレ修道院に　ようこそ\n　いらっしゃりました……。オホホ……。": "Ah, mais vous etes un voyageur, n'est-ce pas ?\nBienvenue au Monastere de Mogare. Je suis\nravie de vous accueillir... Oh ho ho..."
+    },
+    "21899": {
+        "「あー！　見ろよ　アペペ！\n　シスター・ニニカが　ネコかぶってるぞ！\n　ダッセー！": "Ah ! Regarde ca, Apepe ! Soeur Ninika fait\nsemblant d'etre gentille ! La honte !"
+    },
+    "21900": {
+        "「なんだい　チョッパ！\n　シスターしゃべりの　練習してんだ！\n　邪魔するんじゃないよ！　あっちに　お行き！": "Quoi, Choppa ! Je m'entraine a parler comme\nune soeur ! Ne viens pas me deranger ! Va-t'en\npar la-bas !"
+    },
+    "21901": {
+        "「シスター・ニニカが　怒ったぞー！\n　ウヒョー！　チョー　コエー！": "La soeur Ninika est en colere ! Ouh la la !\nElle fait vraiment peur !"
+    },
+    "21902": {
+        "「……やれやれ。\n　チョッパのせいで　お里が　知れちまった。\n　アンタの前で　ネコかぶっても　もうムダだね。": "…Eh bien, eh bien. A cause de Choppa, mon vrai\nvisage a ete revele. Ca ne sert plus a rien de\nfaire semblant devant toi."
+    },
+    "21903": {
+        "「にぎやかだろう？　この修道院。": "Animee, n'est-ce pas ? Cette abbaye."
+    },
+    "21904": {
+        "「この修道院はね　マザー・ヘレナが\n　身寄りのない子供の　面倒を見ている\n　孤児院でもあるんだ。": "Ce monastere sert aussi d'orphelinat, ou\nMother Helena prend soin des enfants sans\nfamille."
+    },
+    "21905": {
+        "「みんな　いろいろ　あったけど\n　ああやって　元気に　振る舞っていられるのは\n　マザー・ヘレナの　おかげだよ。": "Tout le monde a traverse tant d'epreuves, mais\ns'ils peuvent agir avec autant de vitalite,\nc'est grace a Mother Helena."
+    },
+    "21906": {
+        "「マザー・ヘレナは　立派な方さ。\n　あたいも　孤児でね。昔は　相当　荒れてたけど\n　あの人のおかげで　ずいぶんマシになったんだ。": "Mother Helena est une personne remarquable.\nMoi aussi, j'etais orpheline. Autrefois,\nj'etais assez rebelle, mais grace a elle, je<br>me suis beaucoup amelioree."
+    },
+    "21907": {
+        "「……で？　旅人さん。\n　アンタ　こんな　いなかの修道院に\n　何しにきたっていうんだい？": "...Alors ? Voyageur. Qu'est-ce qui t'amene\ndans ce monastere perdu en pleine campagne ?"
+    },
+    "21908": {
+        "「……へえ。ドルワーム王立研究院の院長\n　ドゥラの使いで　マザー・ヘレナにねえ。\n　なんだって　そんなエライ人が……": "Eh bien. L'envoye de Dura, directeur de\nl'Institut Royal de Recherche de Dolworm, chez\nMere Helena, hein. Pourquoi une personne aussi<br>importante..."
+    },
+    "21909": {
+        "「……って　ちょっと　待った！\n　アンタ　今　ドゥラって言ったかい！？\n　ドゥラの使いって……　それ　マジ！？": "... Attends un peu ! Tu viens de dire Dura,\nn'est-ce pas !? L'emissaire de Dura... c'est\nserieux !?"
+    },
+    "21910": {
+        "「どうした　ニニカ？\n　ドゥラの名前が　聞こえたが……。\n　やつが　どうかしたのか？": "Que se passe-t-il, Ninika ? J'ai entendu le\nnom de Dura... Quelque chose est arrive a ce\ntype ?"
+    },
+    "21911": {
+        "<if_woman>「……ああ。\n　この　ねえちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<else>「……ああ。\n　この　にいちゃん　マザー・ヘレナに\n　会いにきたみたいなんだ。<endif>": "<if_woman>> … Ah. Cette grande soeur semble\netre venue rencontrer Mother Helena.<else>> … Ah. Ce grand frere semble etre venu\nrencontrer Mother Helena. <endif>"
+    },
+    "21912": {
+        "「あの　裏切り者のドゥラの使いでね……。": "Ce messager de Dura, le traitre..."
+    },
+    "21913": {
+        "「……マザー・ヘレナなら　そこの部屋にいる。\n　入るときは　ノックを忘れるんじゃないよ。": "......Mere Helena est dans cette piece.\nN'oublie pas de frapper avant d'entrer."
+    },
+    "21914": {
+        "<if_woman>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　女の顔なんて\n　見たくもないからね。<else>「用件が済んだら　さっさと帰ってくれよな。\n　あんなやつに　こき使われてる　男の顔なんて\n　見たくもないからね。<endif>": "<if_woman>>Une fois que tu as termine ce que\ntu avais a faire, rentre vite chez toi. Je\nn'ai pas envie de voir le visage d'une femme<br>exploitee par un type pareil.<else>>Une fois que tu as termine ce que tu avais a\nfaire, rentre vite chez toi. Je n'ai pas envie\nde voir le visage d'un homme exploite par un<br>type pareil. <endif>"
+    },
+    "21915": {
+        "「ようこそ　いらっしゃいました。\n　私が　マザー・ヘレナでございます。": "Bienvenue, je suis Mother Helena."
+    },
+    "21916": {
+        "「あなたは　どうやら　ドゥラの使いで\n　この修道院まで　来られたようですが……。\n　ウフフ。図星ですわね？": "Il semblerait que vous soyez venu jusqu'a ce\nmonastere en tant qu'emissaire de Dura...\nUfufu. Ai-je vise juste ?"
+    },
+    "21917": {
+        "「私　目が見えない分　耳がよく聞こえましてね。\n　先ほどの　あなたと　ニニカの会話を\n　ここで　聞かせていただきましたの。": "Je ne peux pas voir, mais mon ouie est\nexcellente, vous savez. J'ai pu ecouter votre\nconversation avec Ninika juste ici."
+    },
+    "21918": {
+        "「それにしても　ドゥラったら\n　私の所へ　使いをよこすなんて……。": "Tout de meme, Dura m'envoyer quelqu'un..."
+    },
+    "21919": {
+        "「ドルワームで　よほど　エラくなったか。\n　あるいは……　育ての親である　私に\n　よほど　会いたくなかったのでしょうね。": "Tu es devenu tres important a Dolworm,\nn'est-ce pas ? Ou bien... tu ne voulais\nvraiment pas revoir ta mere adoptive, n'est-ce<br>pas ?"
+    },
+    "21920": {
+        "「ドゥラは　ドルワームに行くまで\n　この修道院に　身を置いておりました。\n　孤児だった　あの子を　私が引き取って……。": "Dura a sejourne dans ce monastere jusqu'a ce\nqu'il se rende a Dolworm. J'ai pris en charge\ncet enfant orphelin..."
+    },
+    "21921": {
+        "「ですが　ある日……。ドゥラは\n　自分こそが　ドルワームの捨てられた王子だと\n　証明すると言って　ここを出ていったのです。": "Cependant, un jour... Dura a declare qu'il\nprouverait qu'il est le prince abandonne de\nDolworm et il est parti d'ici."
+    },
+    "21922": {
+        "「……私は　風のウワサで　耳にしました。\n　本当の双子の王子……　いえ　双子の王女が\n　ドルワームに　姿を現したことを。": "......J'ai entendu une rumeur dans le vent.\nLes veritables princesses jumelles... non, les\nprincesses jumelles sont apparues a Dolworm."
+    },
+    "21923": {
+        "「あの子ったら　自分の過ちを　気にして\n　ここに来られなかったのかしら？\n　フフフ。あの子も　まだまだ子供ですわね。": "Cette enfant s'inquiete tellement de sa propre\nerreur qu'elle n'a pas pu venir ici, n'est-ce\npas ? Fufu, elle est encore bien jeune."
+    },
+    "21924": {
+        "「……ところで　そのドゥラが　使いまで\n　よこして　私に　頼みたかったこととは\n　いったい　なんなのですか？": "D'ailleurs, qu'est-ce que ce Dura voulait tant\nme demander en envoyant un messager ?"
+    },
+    "21925": {
+        "「……なるほど。天魔クァバルナという\n　魔物を封じ込めるため　そのゼキルの聖杭に\n　聖女の祈りを　捧げるのですね。": "...... Je vois. Pour sceller le monstre appele\nKukulkannibal, il faut offrir une priere de la\nsainte sur ce pieu sacre de Zekir."
+    },
+    "21926": {
+        "「ドゥラのたっての　お願いです。\n　よろこんで　お引き受けしますが\n　ひとつ　問題がございます。": "C'est une demande speciale de Dura. Je\nl'accepte avec plaisir, mais il y a un\nprobleme."
+    },
+    "21927": {
+        "「それほどまで　強大な敵を封じるのであれば\n　神に近い場所……　聖地にまで　足を運び\n　祈りを　捧げなくてはなりません。": "Si un ennemi aussi puissant doit etre scelle,\nalors il est necessaire de se rendre dans un\nlieu proche des dieux... un sanctuaire, et d'y<br>offrir nos prieres."
+    },
+    "21928": {
+        "「そうですね。ウェナ諸島の聖地　清廉の大滝。\n　その加護を受けた水の流れる　川の近くなら\n　私の祈りも　神に届くはずです。": "En effet. Le sanctuaire de l'ile de Wena, la\ngrande cascade sacree de Seiren. Si je prie\npres de la riviere ou coule cette eau benie,<br>ma priere devrait atteindre les dieux."
+    },
+    "21929": {
+        "「ヴェリナード領北の　はるか東にある\n　ブーナー熱帯雨林の南東の桟橋から　舟で渡ると\n　清らかな泉があるので　そこへ参りましょう。": "A l'est lointain de Verinard North, en\ntraversant en bateau depuis le quai sud-est de\nla foret tropicale de Booner, il y a une<br>source pure. Allons-y."
+    },
+    "21930": {
+        "「私は　この通り　目が見えませんので\n　耳を頼りに　あなたのあとに　ついていきます。\n　そこまで　先導を　お願いいたしますわね。": "Je suis aveugle, donc je me fierai a mes\noreilles pour vous suivre. Je compte sur vous\npour me guider jusque-la."
+    },
+    "21931": {
+        "「天魔クァバルナを　封じるチカラを\n　ゼキルの聖杭に　宿すためには\n　聖地にて　祈りを捧げる必要があります。": "Pour impregner le Zekir's Holy Stake du\npouvoir de sceller Kukulkannibal, il est\nnecessaire d'offrir des prieres dans le lieu<br>sacre."
+    },
+    "21932": {
+        "「ウェナ諸島にある聖地　清廉の大滝……。\n　その加護を受けた水の流れる　川の近くなら\n　私の祈りも　神に届くはずです。": "Les iles Wena abritent le sanctuaire de la\nGrande Cascade Pure... Si je prie pres de la\nriviere benie par ses eaux, ma priere devrait<br>atteindre les dieux."
+    },
+    "21933": {
+        "「ヴェリナード領北の　はるか東にある\n　ブーナー熱帯雨林の南東の桟橋から　舟で渡ると\n　清らかな泉があるので　そこへ参りましょう。": "A l'est lointain de Verinard North, en\ntraversant en bateau depuis le quai sud-est de\nla foret tropicale de Booner, il y a une<br>source pure. Allons-y."
+    },
+    "21934": {
+        "「私は　この通り　目が見えませんので\n　耳を頼りに　あなたのあとに　ついていきます。\n　そこまで　先導を　お願いいたしますわね。": "Je suis aveugle, donc je me fierai a mes\noreilles pour vous suivre. Je compte sur vous\npour me guider jusque-la."
+    },
+    "21935": {
+        "「ずいぶん　遠くまで来てしまったものですね。\n　しかし　ここならば　清廉の大滝の加護を\n　問題なく　受けることができるでしょう。": "Nous sommes venus de tres loin, n'est-ce pas ?\nCependant, ici, nous devrions pouvoir\nbeneficier de la benediction de la Grande<br>Cascade Pure sans probleme."
+    },
+    "21936": {
+        "「それでは　<pc>さん。\n　ゼキルの聖杭を　渡していただけますか？<yesno><close>": "Alors, <pc>-san. Pourriez-vous me\nremettre le Zekir's Holy Stake, s'il vous\nplait ? <yesno><close>"
+    },
+    "21937": {
+        "「あらあら　まるで　駄々っ子ね。\n　とっても　かわいらしいけど\n　聖杭を　渡してもらえないと困りますわ。": "Oh la la, tu es comme un enfant capricieux.\nC'est vraiment mignon, mais ca me poserait\nprobleme si tu ne me donnes pas le pieu sacre."
+    },
+    "21938": {
+        "<pc>は　マザー・ヘレナに\nゼキルの聖杭を　渡した！": "<pc> a remis le Pieu Sacre de Zekir a\nMere Helena !"
+    },
+    "21939": {
+        "「……確かに　受け取りましたわ。\n　では　さっそく　ゼキルの聖杭に\n　祈りを　捧げるとしましょう。": "...Je l'ai bien recu. Alors, prions\nimmediatement devant le Saint Pieu de Zekir."
+    },
+    "21940": {
+        "「……父なる　神よ。\n　どうか　我が祈り　聞き届けたまえ……。\n　そのチカラ　授けたまえ……。": "O Pere celeste. Je vous en prie, entendez ma\npriere... Accordez-moi votre puissance..."
+    },
+    "21941": {
+        "「……祈りは　届いたようですね。\n　ゼキルの聖杭に　チカラが　たくわえられるまで\n　もう少し　時間が　かかるでしょう。": "…Il semble que nos prieres ont ete entendues.\nIl faudra encore un peu de temps avant que le\npouvoir ne soit pleinement absorbe par le<br>Zekir's Holy Stake."
+    },
+    "21942": {
+        "「ただ待っていても　退屈ですから\n　ドゥラの　昔話でもしましょうか……。": "Attendre sans rien faire est ennuyeux,\nn'est-ce pas ? Et si je vous racontais une\nancienne legende de Dura..."
+    },
+    "21943": {
+        "「……ドゥラは　確かに　賢い子でしたが\n　それ以上に　心の優しい子でした。": "......Dura etait certes un enfant intelligent,\nmais elle etait surtout dotee d'une grande\ngentillesse."
+    },
+    "21944": {
+        "「おなかを空かせて　泣いている子がいたら\n　ただでさえ少ない　自分のパンを\n　その子に　分けあたえたりして……。": "Si tu vois un enfant pleurer de faim, tu\npartages ton pain, meme si tu en as deja peu\npour toi-meme..."
+    },
+    "21945": {
+        "「私は　そんな優しいドゥラが　大好きでした。": "J'aimais tellement ce Dura si gentil."
+    },
+    "21946": {
+        "「修道院のみんなは　野心家に変わってしまった\n　あの子を　責めているけれど……": "Tout le monde au monastere est devenu\nambitieux et blame cet enfant..."
+    },
+    "21947": {
+        "「あの子の心根は　今も　変わっていない……。\n　私は　そう思うのです。": "Le coeur de cet enfant n'a pas change... C'est\nce que je pense."
+    },
+    "21948": {
+        "「……そういえば\n　あの子とも　こうやって並んで\n　川のせせらぎを　聞いていたことがありました。": "... Maintenant que j'y pense, il y a eu un\nmoment ou j'etais assis a cote de cet enfant,\necoutant le murmure de la riviere."
+    },
+    "21949": {
+        "「懐かしいわ。\n　もう　何年前のことに　なるのかしら……。": "C'est nostalgique. Combien d'annees cela\nfait-il deja... ?"
+    },
+    "21950": {
+        "「……ごめんなさいね。\n　ちょっと　話し込んでしまったわ。\n　私　ゼキルの聖杭の様子を　見てきます。": "Je suis desolee. Je me suis laissee emporter\npar la conversation. Je vais aller verifier\nl'etat du Zekir's Holy Stake."
+    },
+    "21951": {
+        "「……問題ありませんわ。\n　無事　聖杭に　チカラが　たくわえられました。\n　あとは　仕上げに　私の術をかけるだけです。": "...Il n'y a aucun probleme. La puissance a ete\ncorrectement absorbee par le Saint Pieu. Il ne\nreste plus qu'a appliquer ma magie pour<br>finaliser le tout."
+    },
+    "21952": {
+        "「というわけですので　仕上げが　終わるまで\n　ゼキルの聖杭は　私が　おあずかりしますわね。\n　ドゥラにも　そう　お伝えください。": "Donc, jusqu'a ce que le travail soit termine,\nje vais garder le Zekir's Holy Stake. Veuillez\nen informer egalement Dura."
+    },
+    "21953": {
+        "「それでは　私は　修道院に戻ります。\n　帰りは　私ひとりでも　大丈夫ですので\n　気にせず　ドルワームへ　お戻りくださいね。": "Dans ce cas, je vais retourner au monastere.\nNe vous inquietez pas pour moi, je peux\nrentrer seule. Veuillez retourner a Dolworm<br>sans souci."
+    },
+    "21954": {
+        "「また　会いましょう　<pc>さん。\n　それでは……。": "A bientot, <pc>-san. Alors..."
+    }
+}

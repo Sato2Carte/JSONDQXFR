@@ -1,0 +1,230 @@
+{
+    "18350": {
+        "「ナ～イス　<cs_pchero>。": "Na~is, <cs_pchero>."
+    },
+    "18352": {
+        "「魔瘴だらけね……。": "Le miasme est partout..."
+    },
+    "18354": {
+        "「今のところ　被害は　たいしたことないけど\n　もし　この魔瘴が\n　外にまで　もれたりしたら……。": "Pour l'instant, les degats ne sont pas tres\nimportants, mais si cette miasme malefique\nvenait a se repandre a l'exterieur..."
+    },
+    "18355": {
+        "「誰！？　誰かいるの！？": "Qui est la ?! Y a-t-il quelqu'un ?!"
+    },
+    "18357": {
+        "「ま…魔瘴の中から！？": "D-Dans les miasmes magiques !?"
+    },
+    "18358": {
+        "「あ…あんた　もしかして\n　魔瘴の中にいたの！？": "Ah... tu etais peut-etre dans cette miasme\nmagique ?"
+    },
+    "18359": {
+        "「顔色が　悪いみたいだけど\n　本当に大丈夫なの？": "On dirait que tu as mauvaise mine. Es-tu sur\nque ca va ?"
+    },
+    "18360": {
+        "「大丈夫そうね……。常識的に考えれば\n　魔瘴の中になんていたら　すぐに死に至るのに\n　なんなの　この子は……。": "Ca a l'air d'aller... Logiquement, si on\ndevait rester dans une telle miasme, on\nmourrait rapidement. Mais qui est donc cet<br>enfant...?"
+    },
+    "18361": {
+        "「ねぇねぇ。\n　名前だけでも　教えてくんない？": "He, dis-moi. Tu ne veux pas au moins me dire\nton nom ?"
+    },
+    "18362": {
+        "「ボクは　エルフじゃない……。\n　家に帰らせて……。": "Je ne suis pas un Elfe... Laisse-moi rentrer\nchez moi..."
+    },
+    "18363": {
+        "「それ　聞きあきた。\n　じゃあさ　家はどこなの？": "J'ai entendu ca assez souvent. Alors, ou est\nta maison ?"
+    },
+    "29387": {
+        "魔瘴が　辺りに立ち込めている。\nこれ以上　先に進むのは危険なようだ。": "Une brume malefique enveloppe les environs. Il\nsemble dangereux d'avancer davantage."
+    },
+    "58743": {
+        "「よく来たな　<pc>。\n　ちょうどいい。近くへ　来るがよい。": "Tu es bien venu, <pc>. Approche-toi,\nc'est parfait."
+    },
+    "58744": {
+        "「じつはな　最近　この王都カミハルムイで\n　身体の不調を訴える者が　多発しているのだ。": "En fait, recemment, de nombreuses personnes a\nKamiharmui City se plaignent de problemes de\nsante."
+    },
+    "58745": {
+        "「今　ひとりの博士に\n　原因を　探ってもらってるとこでな。\n　そなたにも　博士の話を聞いてもらいたい。": "En ce moment, un docteur est en train de\nrechercher la cause. J'aimerais que tu ecoutes\naussi ce que le docteur a a dire."
+    },
+    "58746": {
+        "「しかし　遅いな。\n　もう　そろそろ来ると思うのだが……。": "Cependant, il est tard. Je pensais qu'il\narriverait bientot..."
+    },
+    "58747": {
+        "「やれやれ　やっと来たか。\n　若き天才博士の　お出ましだな。": "Enfin, te voila. Le jeune prodige est enfin\narrive."
+    },
+    "58748": {
+        "「うう……。しくじった～。\n　うっかり　寝坊しちゃったわ。": "Ooooh... J'ai rate le coche. Je me suis\nendormie par inadvertance."
+    },
+    "58749": {
+        "「紹介しよう　<pc>。\n　魔瘴研究者の　ハネツキ博士だ。": "Je vous presente <pc>. Voici Dr.\nHanetsuki, un chercheur en miasmes."
+    },
+    "58750": {
+        "「おおっと　あなたが　<pc>か。\n　ウワサは聞いてるわよ。\n　王都を守った　英雄でしょ？": "Oh, mais ne serait-ce pas <pc> ? J'ai\nentendu des rumeurs a votre sujet. Vous etes\nle heros qui a protege la capitale, n'est-ce<br>pas ?"
+    },
+    "58751": {
+        "「あたし　ハネツキ。\n　以後　よろしく～。": "Je suis Hanetsuki. Ravie de faire ta\nconnaissance~."
+    },
+    "58752": {
+        "「で　ハネツキ博士よ。\n　なにか　わかったのか？": "Alors, Dr. Hanetsuki. Avez-vous decouvert\nquelque chose ?"
+    },
+    "58753": {
+        "「はい。大気中の魔瘴濃度が　増加しています。\n　王都近くに　魔瘴が発生したためでしょう。": "Oui. La concentration de miasmes dans\nl'atmosphere est en augmentation. Cela doit\netre du a l'apparition de miasmes pres de la<br>capitale royale."
+    },
+    "58754": {
+        "「魔瘴は　濃度が　うすくても\n　身体に影響を及ぼしますので　体調を崩す者が\n　続出しているのは　これが原因かと思われます。": "Meme si la concentration de miasmes est\nfaible, elle affecte le corps, ce qui pourrait\nexpliquer pourquoi de nombreuses personnes<br>tombent malades."
+    },
+    "58755": {
+        "「なるほどな。\n　して　魔瘴の発生場所は　どこだ？": "Je vois. Alors, ou se trouve l'origine de\ncette miasme magique ?"
+    },
+    "58756": {
+        "「はい。そのことですが……": "Oui. A propos de cela..."
+    },
+    "58757": {
+        "「発生場所を　はっきりさせるには\n　現地まで　目視確認に行く必要があります。\n　護衛を　お貸しいただけないでしょうか。": "Pour confirmer l'emplacement de l'incident,\nnous devons nous rendre sur place a P. 地 pour\nune inspection visuelle. Pourriez-vous nous<br>preter une escorte ?"
+    },
+    "58758": {
+        "「ふむ。護衛か……それならば　ここに\n　うってつけの人物が　おるではないか。": "Hmm. Une escorte, hein... Dans ce cas, il y a\nici une personne tout a fait qualifiee pour\ncela, n'est-ce pas ?"
+    },
+    "58759": {
+        "「王都を救ってくれた　<pc>よ。\n　ハネツキ博士の護衛を　やってもらえぬか？<yesno><close>": "<pc>, toi qui as sauve la capitale.\nPourrais-tu assurer la protection de Dr.\nHanetsuki ? <yesno><close>"
+    },
+    "58760": {
+        "「そなたなら　安心して　まかせられるのだ。\n　そう言わずに　頼む。": "Je peux te confier cette tache en toute\ntranquillite. Je t'en prie, accepte."
+    },
+    "58761": {
+        "「うむ。感謝するぞ　<pc>。": "Hum. Je te remercie, <pc>."
+    },
+    "58762": {
+        "「では　<pc>に\n　護衛を　まかせよう。\n　それでいいな？　ハネツキ博士よ。": "Alors, confions la protection a <pc>.\nCela te convient, Dr. Hanetsuki ?"
+    },
+    "58763": {
+        "「やっりー！\n　英雄が　護衛についてくれるなんて\n　ラッキーだわ！": "Genial ! Un heros va nous accompagner en tant\nque garde du corps, c'est Drang !"
+    },
+    "58764": {
+        "「っと　すいません。問題ありません。": "Oh, pardon. Il n'y a pas de probleme."
+    },
+    "58765": {
+        "「よし。では　<pc>よ。\n　あとは　ハネツキ博士から聞いてくれ。": "D'accord. Alors, <pc>. Ecoute le reste\nde l'histoire de Dr. Hanetsuki."
+    },
+    "58766": {
+        "「ええと　さっそくで悪いんだけど……": "Euh, desole de te demander ca tout de suite,\nmais..."
+    },
+    "58767": {
+        "「魔瘴の発生場所を　突き止めて\n　どれくらいの被害が　出ているのか\n　ちょっくら　調べたいの。": "Je veux juste enqueter un peu pour decouvrir\nl'origine de la miasme malefique et determiner\nl'ampleur des degats qu'il cause."
+    },
+    "58768": {
+        "「街道沿いは　兵士が　チェックしてるし\n　発生してるとしたら　たぶん\n　洞くつとか　人目につかないとこよ。": "Le long de la route, les soldats surveillent,\ndonc s'il y a quelque chose, ce serait\nprobablement dans des endroits comme des<br>grottes ou des lieux a l'abri des regards."
+    },
+    "58769": {
+        "「北だけ　ほかに比べて　魔瘴濃度が高めだから\n　位置的に　カミハルムイ領北の北の辺りかもね。": "Le nord a une concentration en miasmes plus\nelevee que les autres endroits, donc ca\npourrait etre quelque part au nord de<br>Kamiharmui North."
+    },
+    "58770": {
+        "「そこまで行く間　あなたに\n　護衛を　お願いしたいんだけど\n　どう？　やってくれるわよね？": "Je voudrais vous demander de m'escorter\njusqu'a ce point. Qu'en pensez-vous ? Vous\naccepterez, n'est-ce pas ?"
+    },
+    "58771": {
+        "「サンキュー。それじゃ　目的地に\n　着くまでの間　あたしは　こっそりと\n　あなたの後を　ついてくわね。": "San-kyuu. Pendant que nous nous rendons a\nnotre destination, je vais te suivre\ndiscretement."
+    },
+    "58772": {
+        "「あなたが　出発するまでの間\n　あたしは　ひとまず　部屋に戻ってるわ。": "Jusqu'a ton depart, je retourne dans ma\nchambre pour l'instant."
+    },
+    "58773": {
+        "「あたしの部屋は　この城の東の方。\n　厨房の近くだから　よろしく～。": "Ma chambre se trouve a l'est de ce chateau.\nPres de la cuisine, donc a bientot~."
+    },
+    "58774": {
+        "「サンキュー。それじゃ　目的地に\n　着くまでの間　あたしは　こっそりと\n　あなたの後を　ついてくわね。": "San-kyuu. Pendant que nous nous rendons a\nnotre destination, je vais te suivre\ndiscretement."
+    },
+    "58775": {
+        "「……って　あなた　ほかの人たちの\n　頼まれごとを　たくさん抱えてるみたいね。\n　先に　そっちを片付けてきて　大丈夫よ。": "… On dirait que tu as deja beaucoup de\nrequetes de la part d'autres personnes. C'est\nbon, occupe-toi d'abord de celles-la."
+    },
+    "58776": {
+        "「おお？　そっかー。\n　んー　どうしよっかなあ。": "Oh ? Vraiment ? Hmm, que devrais-je faire..."
+    },
+    "58777": {
+        "「ホント言うと　あたし　忙しいから\n　手伝ってくれると　うれしいんだけどね。\n　気が向いたら　戻ってきて。": "Pour etre honnete, je suis occupee, donc ca me\nferait plaisir si tu pouvais m'aider. Reviens\nsi tu en as envie."
+    },
+    "58778": {
+        "「よかった　また来てくれたわね。": "Je suis content que tu sois revenu."
+    },
+    "58779": {
+        "「魔瘴の発生場所を　突き止めて\n　どれくらいの被害が　出ているのか\n　ちょっくら　調べたいの。": "Je veux juste enqueter un peu pour decouvrir\nl'origine de la miasme malefique et determiner\nl'ampleur des degats qu'il cause."
+    },
+    "58780": {
+        "「街道沿いは　兵士が　チェックしてるし\n　発生してるとしたら　たぶん\n　洞くつとか　人目につかないとこよ。": "Le long de la route, les soldats surveillent,\ndonc s'il y a quelque chose, ce serait\nprobablement dans des endroits comme des<br>grottes ou des lieux a l'abri des regards."
+    },
+    "58781": {
+        "「北だけ　ほかに比べて　魔瘴濃度が高めだから\n　位置的に　カミハルムイ領北の北の辺りかもね。": "Le nord a une concentration en miasmes plus\nelevee que les autres endroits, donc ca\npourrait etre quelque part au nord de<br>Kamiharmui North."
+    },
+    "58782": {
+        "「そこまで行く間　あなたに\n　護衛を　お願いしたいんだけど\n　どう？　やってくれるわよね？": "Je voudrais vous demander de m'escorter\njusqu'a ce point. Qu'en pensez-vous ? Vous\naccepterez, n'est-ce pas ?"
+    },
+    "58783": {
+        "「ギギギギギギーーー！": "GIGIGIGIGIーーー！"
+    },
+    "58784": {
+        "「魔物を倒してくれて　助かったわ。\n　中に入れなくて　困ってたのよ。": "Tu m'as sauve en terrassant les monstres.\nJ'etais vraiment embetee de ne pas pouvoir\nentrer."
+    },
+    "58785": {
+        "「ここが　発生場所か。\n　まいったわ。想像以上の量ね。": "Voici donc le lieu d'apparition. Quel bazar...\nC'est bien plus que ce que j'avais imagine."
+    },
+    "58786": {
+        "「ヒッ……！\n　こ…殺さないで！": "Hii... ! P-...Pitie, ne me tue pas !"
+    },
+    "58787": {
+        "「ヒッ……！　や…やめて！\n　こわいことしないで……！": "Hi... ! N... ne me fais pas de mal ! Ne fais\npas de choses effrayantes... !"
+    },
+    "58788": {
+        "「大丈夫よ。なにもしないから。\n　あたし　ハネツキっていうの。\n　ねぇ　あんたの名前は？": "Ne t'inquiete pas. Je ne vais rien te faire.\nJe m'appelle Hanetsuki. Dis-moi, quel est ton\nnom ?"
+    },
+    "58789": {
+        "「ボクは　エルフじゃない……。": "Je ne suis pas un Elfe..."
+    },
+    "58790": {
+        "「ははーん　な～んだ。": "Ah ha, je vois maintenant."
+    },
+    "58791": {
+        "「あんた　ハラ減ってんの？\n　お姉ちゃんが　おいしいモノ作るからさ。\n　一緒に　王都まで行こうよ。ねっ？": "Tu as faim ? Ma grande soeur va preparer\nquelque chose de delicieux. Allons ensemble\njusqu'a la capitale royale. D'accord ?"
+    },
+    "58792": {
+        "「こ…こわいことしないで。": "Ne... ne me fais pas de mal."
+    },
+    "58793": {
+        "「あはは。なんも　しないって。\n　さあ　行くわよ。": "Ah ah ah. Je ne vais rien faire. Allez, on y\nva."
+    },
+    "58794": {
+        "「そうだ　<cs_pchero>。\n　後で　あたしの部屋に来てね。\n　お礼するからさ。よろしく～。": "Tiens, <cs_pchero>. Viens dans ma chambre plus\ntard. Je te remercierai. A bientot~."
+    },
+    "58795": {
+        "「ダメ。言わない。\n　知らない人に　家を教えちゃダメって\n　パパに　言われたから。": "Desolee. Je ne peux pas te le dire. Papa m'a\ndit de ne pas donner notre adresse a des\ninconnus."
+    },
+    "58796": {
+        "「はぁ。こりゃ　ダメだ……。": "Haah. Ca ne va pas du tout..."
+    },
+    "58797": {
+        "「あっ。<pc>じゃん。": "Ah. C'est <pc>."
+    },
+    "58798": {
+        "「護衛してくれて　ありがとね。\n　これは　あたしからの　お礼よ。": "Merci de m'avoir escortee. Voici un petit\ncadeau de ma part."
+    },
+    "58799": {
+        "「おかげで　魔瘴の発生場所が　わかったけど\n　それよりも　おどろいたのは\n　あの子が　魔瘴の中から出てきたことね。": "Grace a cela, nous avons decouvert l'endroit\nou se forme la miasme malefique, mais ce qui\nm'a le plus surpris, c'est que cet enfant est<br>sorti de l'interieur de la miasme."
+    },
+    "58800": {
+        "「どうして　魔瘴が　平気なのかしら。\n　どこから来たのかも　気になるし\n　いろいろ　興味深い子ね……。": "Comment se fait-il qu'il soit insensible a la\nmalveillance ? D'ou vient-il, cela m'intrigue\naussi. C'est vraiment un enfant fascinant..."
+    },
+    "58801": {
+        "「あの子のこととか　魔瘴のこととか\n　じっくり　腰をすえて　調べてみたいの。": "Je veux prendre le temps de bien enqueter sur\ncette fille et sur la miasme malefique."
+    },
+    "58802": {
+        "「それが終わったら　あたしの研究を\n　また　手伝ってもらうかもしれないから\n　そん時は　よろしくね～。": "Quand ce sera termine, il se peut que tu\nm'aides encore avec mes recherches. Je compte\nsur toi a ce moment-la~."
+    },
+    "58919": {
+        "「だ～か～ら～。\n　それは　もう聞いたって。": "Je te dis que je l'ai deja entendu."
+    },
+    "58920": {
+        "「ボ…ボク　わからない……。": "Je... je ne comprends pas..."
+    },
+    "58921": {
+        "「はぁ。こりゃ　ダメだ……。\n　この子　何者なのかしら。": "Haa. Ca ne va pas... Qui est donc cet enfant ?"
+    },
+    "58922": {
+        "「あっ。<pc>じゃん。\n　ごめんね。今　取り込み中だからさ\n　しばらくしてから　来てね。": "Ah. C'est <pc>. Desole. Je suis un peu\noccupe en ce moment. Reviens dans un petit\nmoment, d'accord ?"
+    }
+}

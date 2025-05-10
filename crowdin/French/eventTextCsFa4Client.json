@@ -1,0 +1,1505 @@
+{
+    "206752": {
+        "「倒しても倒しても　キリがないな……。": "Peu importe combien nous les abattons, ils ne\ncessent d'arriver..."
+    },
+    "206753": {
+        "「キュキュ！？　ファラス！": "Quoi !? Faras !"
+    },
+    "206754": {
+        "「ここは　過去の　エテーネ王宮だキュ。\n　また別の時間軸に　迷い込んでしまったキュ。": "Ici, c'est le Palais Royal d'Ethene dans le\npasse, kyu. Nous nous sommes encore perdus\ndans une autre ligne temporelle, kyu."
+    },
+    "206755": {
+        "「おやめなさい　<pc>！\n　そのチカラは……": "Arretez, <pc> ! Cette puissance est..."
+    },
+    "206756": {
+        "「どうやら　向こうからは　こちらを\n　認識できないようキュね……。": "Il semble qu'ils ne puissent pas nous\nreconnaitre de leur cote, kyu..."
+    },
+    "206757": {
+        "<if_woman>「こ　これは……！？\n　お嬢さまの身に　いったい　何が？<else>「こ　これは……！？\n　坊ちゃんの身に　いったい　何が？<endif>": "<if_woman>>Qu-que se passe-t-il... !?\nQu'est-il arrive a mademoiselle ?<else>>Qu-que se passe-t-il... !? Qu'est-il arrive a\njeune maitre ? <endif>"
+    },
+    "206758": {
+        "「恐怖のあまり　時渡りのチカラが\n　暴走しているのです。\n　ああ……こうなってしまっては　もう……。": "La peur est telle que le pouvoir de voyager\ndans le temps s'emballe. Ah… Maintenant que\nc'est arrive, c'est deja…"
+    },
+    "206759": {
+        "「オギャアー！　オギャアー！": "Ogyah ! Ogyah !"
+    },
+    "206760": {
+        "<if_woman>「お嬢さまは　どこへ？<else>「坊ちゃんは　どこへ？<endif>": "<if_woman>>Ou est allee la demoiselle ?<else>>Ou est alle le jeune maitre ? <endif>"
+    },
+    "206761": {
+        "「わかりません……。\n　けれど　今ならまだ　<pc>を\n　追いかけることが　できます。": "Je ne comprends pas... Mais pour l'instant,\nnous pouvons encore poursuivre <pc>."
+    },
+    "206762": {
+        "「あの子の　チカラの残滓から\n　時渡りの軌跡を追えば\n　そう遠くない時代に　たどり着けるはず……。": "Si nous suivons les traces du pouvoir de cet\nenfant, nous devrions pouvoir atteindre une\nepoque pas si lointaine..."
+    },
+    "206763": {
+        "<if_woman>「ならば　自分も　お連れください！\n　すぐ　お嬢さまを追いかけましょう！<else>「ならば　自分も　お連れください！\n　すぐ　坊ちゃんを追いかけましょう！<endif>": "<if_woman>>Alors, emmenez-moi aussi !\nPoursuivons immediatement la demoiselle !<else>>Alors, emmenez-moi aussi ! Poursuivons\nimmediatement le jeune maitre !<endif>"
+    },
+    "206764": {
+        "「バカなことを！\n　チカラを持たぬ者が　時を渡れば\n　恐ろしい呪いが　降りかかるのですよ！": "Quelle folie ! Si ceux qui ne possedent pas de\npouvoir traversent le temps, une terrible\nmalediction s'abattra sur eux !"
+    },
+    "206765": {
+        "<if_woman>「このまま　お嬢さまと　マローネ様を\n　見捨てたとあれば　このファラス\n　主に　申し訳が立ちませぬ！<else>「このまま　坊ちゃんと　マローネ様を\n　見捨てたとあれば　このファラス\n　主に　申し訳が立ちませぬ！<endif>": "<if_woman>>Si je laissais ainsi mademoiselle\net Marone-sama, je ne pourrais pas faire face\na Lord Faras !<else>>Si je laissais ainsi le jeune maitre et\nMarone-sama, je ne pourrais pas faire face a\nLord Faras ! <endif>"
+    },
+    "206766": {
+        "「……わかりました。\n　では　<pc>の時渡りの軌跡を\n　追いましょう……。": "...... D'accord. Alors, suivons les traces du\nvoyage temporel de <pc>..."
+    },
+    "206767": {
+        "「マローネ様！　これは　どうしたことです！？\n　共に　時を渡るのでは……？": "Marone-sama ! Que se passe-t-il ?\nN'etions-nous pas censes traverser le temps\nensemble...?"
+    },
+    "206768": {
+        "「どの道　私には　ふたりの人間を\n　時渡りさせるようなチカラは\n　ありませんから……。": "De toute facon, je n'ai pas le pouvoir de\nfaire voyager deux personnes dans le temps..."
+    },
+    "206769": {
+        "「ごめんなさい　ファラス。\n　あの子を……<pc>を　守ってください！": "Je suis desolee, Faras. Protegez cet enfant...\nProtegez <pc> !"
+    },
+    "206770": {
+        "「マローネさ……": "Marone-san..."
+    },
+    "206771": {
+        "「ああ……私は　なんということを……。": "Ah… Qu'ai-je donc fait…"
+    },
+    "206772": {
+        "「<pc>……すべては　過去の出来事キュ。": "<pc>... tout cela appartient au passe,\nkyu."
+    },
+    "206773": {
+        "「その人とは　言葉をかわすことも\n　触れることも　できないキュル……。\n　今は　ひたすら　前に進むしかないキュ。": "Avec cette personne, je ne peux ni echanger de\nmots, ni la toucher... Pour l'instant, je dois\nsimplement continuer d'avancer."
+    },
+    "207018": {
+        "「<pc>……か？": "<pc>... ?"
+    },
+    "207019": {
+        "「どうやら　俺が　見えているな。\n　過去の幻影でなく　時獄の迷宮に来ている\n　<pc>に　相違ないようだ。": "On dirait bien que tu peux me voir. Ce n'est\npas une illusion du passe, tu es bien dans le\nTime Labyrinth, <pc>."
+    },
+    "207020": {
+        "「どうも　俺には　見覚えのない村だ。\n　お前には　わかるか？": "Je ne reconnais pas du tout ce village. Tu\nsais ou on est, toi ?"
+    },
+    "207021": {
+        "<pc>は　ここが　エテーネの民の\n末裔たちが暮らす村だと　パドレに説明した。": "<pc> a explique a Padre que c'est le\nvillage ou vivent les descendants du peuple\nd'Ethene."
+    },
+    "207022": {
+        "「エテーネの民の　末裔たちの村か！\n　ここが　そうなのだな……。": "Le village des descendants du peuple d'Ethene,\nn'est-ce pas ? C'est donc ici..."
+    },
+    "207023": {
+        "「しかし　浮島も街灯も　見当たらん。\n　王国が誇る　高度な錬金術は\n　失われてしまったか……。": "Cependant, je ne vois ni ile flottante ni\nreverbere. L'alchimie avancee dont le royaume\netait fier a-t-elle ete perdue...?"
+    },
+    "207024": {
+        "<if_woman>「<pc>！？　なぜ　俺の娘が！<else>「<pc>！？　なぜ　俺の息子が！<endif>": "<if_woman>><pc>！？ Pourquoi ma fille !<else>><pc>！？ Pourquoi mon fils ! <endif>"
+    },
+    "207025": {
+        "「カメさま！！　どうなされましたか！？": "Galapagod！！ Que se passe-t-il !?"
+    },
+    "207026": {
+        "「あ…赤ん坊じゃと！？\n　これは　いったい　どういうことじゃ……？": "Ah... Un bebe !? Qu'est-ce que cela\nsignifie...?"
+    },
+    "207027": {
+        "「オギャー！　オギャー！": "Ogyah ! Ogyah !"
+    },
+    "207028": {
+        "「おお　よしよし。泣くでない。\n　ひとりで　さびしかったのかい？\n　ババが　いっしょに　いてやるでな。": "Oh, la la, ne pleure pas. Tu te sentais seul,\nn'est-ce pas ? Mamie est la avec toi\nmaintenant."
+    },
+    "207029": {
+        "「ややっ！？　産着に　ししゅうが……\n　<pc>……これが　おぬしの名かえ？": "Oh !? Il y a une broderie sur la layette...\n<pc>... Est-ce donc ton nom ?"
+    },
+    "207030": {
+        "「だぁだぁ♪": "Da Da ♪"
+    },
+    "207031": {
+        "「うむうむ　<pc>というのか……。\n　ほかに　何か手がかりは……": "Hum hum, tu t'appelles donc <pc>... Y\na-t-il d'autres indices..."
+    },
+    "207032": {
+        "「これは　もしや……\n　古代エテーネ王国の　紋章ではないか！？": "Ne serait-ce pas... l'embleme du vieux royaume\nd'Ethene ?!"
+    },
+    "207033": {
+        "「おぬしを包んでいた　あの輝き……\n　古代エテーネの民は　不思議な術が\n　使えたというが　よもや…………？": "Cette lueur qui t'enveloppait… On dit que le\npeuple de Old Ethene possedait des techniques\nmysterieuses, mais pourrait-il vraiment... ?"
+    },
+    "207034": {
+        "「真実は　わからぬが　これだけは言える！\n　おぬしは　カメさまの申し子じゃ！": "T. En verite, je ne comprends pas tout, mais\nje peux te dire ceci ! Tu es l'elu de\nGalapagod !"
+    },
+    "207035": {
+        "「カメさまから　授かった子じゃ。\n　この村の一員として　立派に育ててやるぞ。": "Cet enfant a ete confie par Galapagod. Je vais\nl'elever dignement en tant que membre de ce\nvillage."
+    },
+    "207036": {
+        "「そうじゃ！　年寄りの家で　暮らすより\n　歳の近い　子供のいる家庭で　育ったほうが\n　お前さんにとっても　しあわせじゃろう。": "Exactement ! Plutot que de vivre chez une\npersonne agee, il serait plus heureux pour toi\nde grandir dans une famille avec des enfants<br>de ton age."
+    },
+    "207037": {
+        "<if_woman>「小さな子供がいる　あの夫婦に預けて\n　妹として育ててもらうのが　一番じゃな！\n　わしも毎日　会いにいくからのう……。<else>「小さな子供がいる　あの夫婦に預けて\n　弟として育ててもらうのが　一番じゃな！\n　わしも毎日　会いにいくからのう……。<endif>": "<if_woman>> Confier a ce couple qui a un jeune\nenfant, c'est la meilleure solution pour\nqu'ils l'elevent comme leur soeur, n'est-ce pas<br>! Je viendrai leur rendre visite tous les\njours...<else>> Confier a ce couple qui a un jeune enfant,\nc'est la meilleure solution pour qu'ils\nl'elevent comme leur frere, n'est-ce pas ! Je<br>viendrai leur rendre visite tous les jours...<endif>"
+    },
+    "207038": {
+        "「そうじゃ！　年寄りの家で　暮らすより\n　子供をほしがってる　あの夫婦のもとに\n　預けたほうが　よいじゃろうな。": "C'est ca ! Plutot que de vivre chez des\npersonnes agees, il vaudrait mieux confier\nl'enfant a ce couple qui en desire un."
+    },
+    "207039": {
+        "「この先　弟か妹が　できるかもしれんしのう。\n　少しでも　にぎやかな家庭で暮らすことが\n　お前さんにとっても　しあわせじゃろうて。": "Dans le futur, tu pourrais avoir un petit\nfrere ou une petite soeur, tu sais. Vivre dans\nune famille un peu plus animee te rendra<br>surement heureux, n'est-ce pas ?"
+    },
+    "207040": {
+        "「俺の子が流れ着いた　ここは\n　いったい　いつの時代なのだ！？": "Mon enfant echoue ici, mais a quelle epoque\nsommes-nous donc !?"
+    },
+    "207041": {
+        "<if_woman>「わざわざ　探そうとしなくても\n　お前の娘なら　ほら！　目の前にいるっキュ。<else>「わざわざ　探そうとしなくても\n　お前の息子なら　ほら！　目の前にいるっキュ。<endif>": "<if_woman>>Pas besoin de chercher si loin,\nregarde ! Ta fille est juste devant tes yeux.<else>>Pas besoin de chercher si loin, regarde ! Ton\nfils est juste devant tes yeux. <endif>"
+    },
+    "207042": {
+        "「だいぶ　生体継続時間は　進行してるけど\n　この時代に出現した　赤ん坊と　<pc>は\n　まごうことなく　異時間同位体キュ！": "Le temps de continuation biologique a bien\nprogresse, mais le bebe apparu a cette epoque\net <pc> sont sans aucun doute des<br>isotypes temporels, kyu !"
+    },
+    "207043": {
+        "「ほ　本当に　さっきの赤ん坊は\n　お前……なのか？<yesno><close>": "V-Vraiment, ce bebe d'il y a un moment...\nc'etait toi ?"
+    },
+    "207044": {
+        "「<pc>……それは　ないキュ。\n　この時獄の迷宮で　ボクと\n　決定的な場面を　見てきたはずっキュよ。": "<pc>... ca, ce n'est pas possible, kyu.\nDans ce Time Labyrinth, tu as du voir des\nmoments decisifs avec moi, kyu."
+    },
+    "207045": {
+        "「この　気の毒な男の気持ちを\n　もてあそぶのは　感心しないキュ！\n　ちゃんと　正直に答えてあげるキュ。": "Je ne trouve pas ca bien de jouer avec les\nsentiments de ce pauvre homme, Kyu !\nReponds-lui honnetement, Kyu."
+    },
+    "207046": {
+        "「さっきの　ばあさんが連れていった赤ん坊は\n　<pc>の　異時間同位体に\n　まちがいないキュよね？<yesno><close>": "La vieille dame d'il y a un instant a emmene\nle bebe, c'est surement l'isotope temporel de\n<pc>, n'est-ce pas ? <yesno><close>"
+    },
+    "207047": {
+        "「やはり　お前なのか……。": "C'est donc toi, n'est-ce pas..."
+    },
+    "207048": {
+        "「だが　俺の記憶の中の　<pc>は\n　いつまでも　赤ん坊のままでな……こんなに\n　成長してるとは　思いもよらなかった……。": "Cependant, dans mes souvenirs, <pc> est\ntoujours reste un bebe... Je n'aurais jamais\nimagine qu'il aurait autant grandi..."
+    },
+    "207049": {
+        "「……………………": ""
+    },
+    "207050": {
+        "「なんというか……その……\n　親子の再会を祝って　握手でも……しないか？": "Eh bien... Comment dire... Peut-etre que pour\ncelebrer ces retrouvailles familiales, on\npourrait... se serrer la main ?"
+    },
+    "207051": {
+        "「ムリしなくても　いいキュよ。\n　親子の問題は　時が　解決してくれるキュ。\n　でも　キュロノスは待ってくれないキュ。": "Ne te force pas, kyu. Les problemes entre\nparents et enfants, le temps les resoudra,\nkyu. Mais Kyuronos, lui, n'attendra pas, kyu."
+    },
+    "207052": {
+        "「そうだったな。\n　今　なしとげなければ　ならぬのは\n　妻を助け　時見の箱を　破壊することだった。": "Exactement. Ce que je dois accomplir\nmaintenant, c'est sauver ma femme et detruire\nla Timeseer Box."
+    },
+    "207053": {
+        "「この先に　マローネが待っているはず……。\n　今は　前へ進むぞ。<pc>！": "Marone doit nous attendre plus loin...\nAvancons maintenant ! <pc> !"
+    },
+    "209182": {
+        "「そんな……もう　隕石が……。": "Impossible... Deja une meteorite..."
+    },
+    "209183": {
+        "「まだ　望みはあるキュ。\n　王都を守るバリアが　破壊される前に\n　永久時環を　起動させるキュ。": "Il y a encore de l'espoir, kyu. Avant que la\nbarriere protegeant la capitale royale ne soit\ndetruite, nous devons activer l'Eternal Ring,<br>kyu."
+    },
+    "209184": {
+        "「あれが　キュレクスさんの言っていた\n　王都を守る　障壁…………。": "C'est ca, la barriere protectrice de la\ncapitale royale dont parlait Kyurekus-san..."
+    },
+    "209185": {
+        "「おい！　王様を　呼んできてくれっ！！": "He ! Va chercher le roi, vite !"
+    },
+    "209186": {
+        "「どこへ　逃げればいいのッ！？": "Ou devrais-je fuir !?"
+    },
+    "209187": {
+        "「今すぐ　指針をくれ！\n　俺は　どうすれば助かるんだ！？": "Maintenant, donne-moi une directive ! Que\ndois-je faire pour m'en sortir ?!"
+    },
+    "209188": {
+        "「この子だけでも　助けとくれよぉ！": "Sauve au moins cet enfant, je t'en prie !"
+    },
+    "209189": {
+        "「み…見ろよ！　クオード王だぞ！！": "Re...regarde ! C'est le roi Quard !!"
+    },
+    "209190": {
+        "「クオード！\n　今すぐ　永久時環の封印を解いて！\n　時見のカギがあれば　できるはずだから！": "Quard ! Depeche-toi de briser le sceau de\nl'Eternal Ring ! Avec la cle du Timeseer, tu\ndevrais y arriver !"
+    },
+    "209191": {
+        "「クオードっ！！": "Quard !!"
+    },
+    "209192": {
+        "「あ…あれを……止めるだと…………": "Ah... Arreter... ca..."
+    },
+    "209193": {
+        "「そんなこと……できるわけがない……。\n　もう……おしまいだ……。": "Une telle chose... c'est impossible...\nC'est... la fin..."
+    },
+    "209194": {
+        "「しっかりなさい　クオード！\n　皆が見ている。王なら　民の前で\n　ヒザを屈する姿を　見せてはいけない！": "Restez fort, Quard ! Tout le monde regarde. En\ntant que roi, vous ne devez pas vous montrer a\ngenoux devant votre peuple !"
+    },
+    "209195": {
+        "「永久時環は　建国王レトリウスの遺産よ。\n　あれを使えば　この危機も　乗り越えられるの！": "Eternal Ring est l'heritage du roi fondateur\nRetrius. Avec cela, nous pourrons surmonter\ncette crise !"
+    },
+    "209196": {
+        "「でも　その封印を解除するのは\n　エテーネ王にしか　できない……。\n　私たちは　永久時環の前で　待ってるから。": "Mais seul le roi Ethene peut lever ce sceau...\nNous attendrons devant l'Eternal Ring."
+    },
+    "209197": {
+        "「必ず来るのよ。\n　あなたが　エテーネの国王ならば……。": "Tu viendras a coup sur. Si tu es le roi\nd'Ethene..."
+    },
+    "209198": {
+        "永久時環を　起動させにいこう。": "Allons activer l'Eternal Ring."
+    },
+    "209199": {
+        "「おお！　クオード王だ！": "Oh ! C'est le roi Quard !"
+    },
+    "209200": {
+        "「クオード王！　我らに指針を！": "Quard roi ! Donnez-nous une direction !"
+    },
+    "209201": {
+        "「私たちを　隕石から守って！！": "Protege-nous de la meteorite !!"
+    },
+    "209202": {
+        "「静まれ！　道を空けよ！\n　指針などに頼らずとも　救われる。": "Silence ! Faites place ! Meme sans se fier aux\ndirectives, on peut etre sauve."
+    },
+    "209203": {
+        "「我らを救うのは　指針にあらず！\n　神聖なる　エテーネ王国に　受け継がれし\n　建国王レトリウスの　遺産である。": "Nous ne serons pas sauves par les directives !\nC'est l'heritage du roi fondateur Letrius,\ntransmis dans le saint royaume d'Ethene."
+    },
+    "209204": {
+        "「今日の危機を見越し　レトリウスの遺産を\n　使いこなす秘術を極めた　我が姉　メレアーデが\n　この国に　救いを　もたらすであろう！": "Anticipant la crise d'aujourd'hui, ma soeur\nMereade, qui a maitrise l'art secret\nd'utiliser l'heritage de Retrius, apportera le<br>salut a ce pays !"
+    },
+    "209205": {
+        "「おお！　メレアーデ様だ！\n　メレアーデ様が　ご帰還なされた！": "Oh ! C'est Mereade-sama ! Mereade-sama est de\nretour !"
+    },
+    "209206": {
+        "「はったりにしては　上出来ね。": "Pour un bluff, c'est plutot bien reussi."
+    },
+    "209207": {
+        "「民に希望を与えるのが　王だ。\n　そのための　ウソや方便は　許される。": "Donner de l'espoir au peuple, c'est le role\nd'un roi. Les mensonges et les stratagemes\npour y parvenir sont permis."
+    },
+    "209208": {
+        "「あら　言うようになったわね。\n　だったら　国王として　民の期待に\n　しっかりと　こたえなさい。": "Oh, tu parles bien maintenant. Dans ce cas, en\ntant que roi, reponds pleinement aux attentes\nde ton peuple."
+    },
+    "209209": {
+        "「封印が　解けたキュ。\n　次は　メレアーデの出番だキュ。": "La scellee a ete brisee, kyu. Ensuite, c'est\nau tour de Mereade, kyu."
+    },
+    "209210": {
+        "「まず　永久時環に貯蔵された\n　莫大な　時渡りのチカラを使うために\n　装置と使用者の　同期を開始するキュ。": "Tout d'abord, pour utiliser l'immense pouvoir\ndu voyage temporel stocke dans l'Eternal Ring,\nnous allons commencer la synchronisation entre<br>l'appareil et l'utilisateur, kyu."
+    },
+    "209211": {
+        "「頭の中で　命じるだけで　リストレットが\n　永久時環に　意思を伝えてくれるキュ。": "En donnant simplement un ordre mental, le\nbracelet transmettra ta volonte a l'Eternal\nRing. Kyu."
+    },
+    "209212": {
+        "「わかったわ。やってみる！": "D'accord, je vais essayer !"
+    },
+    "209213": {
+        "「おい！　姉さんは　どうなってるんだ？": "He ! Qu'est-il arrive a grande soeur ?"
+    },
+    "209214": {
+        "「永久時環との　同期がすめば\n　もとの状態に戻るから　心配無用キュ。": "Une fois la synchronisation avec l'Eternal\nRing terminee, tout reviendra a la normale,\npas de souci kyu."
+    },
+    "209215": {
+        "<center>新たなる　時の異分子の発生を　確認した。": "Nous avons confirme l'apparition d'une\nnouvelle anomalie temporelle."
+    },
+    "209216": {
+        "「マローネ叔母さん！？": "Marone tante !?"
+    },
+    "209217": {
+        "「静寂たる　未来の到来を\n　さまたげる者どもに　死の裁きを！": "Que le jugement de la mort s'abatte sur ceux\nqui entravent l'arrivee d'un avenir paisible !"
+    },
+    "209218": {
+        "<center>汝らは　このまま　滅びるべき存在。\nこれ以上　時を歪めることは　許されぬ。　\n消えよ　新たなる異分子。": "Vous etes des etres voues a disparaitre. Il ne\nvous est plus permis de deformer le temps\ndavantage. Disparaissez, nouvelles anomalies."
+    },
+    "209219": {
+        "「狙いは　姉さんか！": "Tu vises ma grande soeur !"
+    },
+    "209220": {
+        "<center>所詮は　代用品か……。": "Au final, n'est-ce qu'un simple substitut..."
+    },
+    "209221": {
+        "<center>グギィイイイヤャアアアアアッ！！": "Grraaaahhh !!"
+    },
+    "209222": {
+        "「悪しき存在を産み落とした　祖先のあやまちを\n　今代の王が　この手で　断ち切る！": "En tant que roi de cette generation, je vais\nmoi-meme couper les liens avec les erreurs de\nnos ancetres qui ont engendre une existence<br>malefique !"
+    },
+    "209223": {
+        "「エテーネの歪みを　ただすため！\n　滅びよ！　時見の箱ぉおおおおッ！！": "Pour corriger la distorsion de l'Ethene !\nPerissez ! Timeseer Box oooooooh !!"
+    },
+    "209224": {
+        "<center>おのれ……エテーネの血族め……。\nかりそめの物といえども　この我の器を\n損壊せしめるとは！　": "Maudit soit... la lignee d'Ethene... Meme si\nce n'est qu'un corps temporaire, oser\nendommager mon receptacle !"
+    },
+    "209225": {
+        "<center>来たる　終焉の訪れを\nふるえて待つがいい……。": "Tremblez en attendant l'arrivee de la fin..."
+    },
+    "209226": {
+        "「……王国軍は　苦戦してるようキュ。": "Il semble que l'armee du royaume soit en\ndifficulte, kyu."
+    },
+    "209227": {
+        "「町をおそってるのって　指針監督官が\n　使役していたバケモノと　同じよね？": "Les monstres qui attaquent la ville sont les\nmemes que ceux utilises par le directeur des\ndirectives, n'est-ce pas ?"
+    },
+    "209228": {
+        "「あのバケモノ……私の歌を聞いて\n　混乱していたでしょ？\n　私なら　兵隊さんの役に立てるんじゃ……。": "Ce monstre... Il etait confus apres avoir\nentendu ma chanson, n'est-ce pas ? Je pourrais\npeut-etre etre utile aux soldats..."
+    },
+    "209229": {
+        "「余計なことを　考えるなって。\n　兵士たちの　ジャマになるだけだ。": "Ne pense pas a des choses inutiles. Cela ne\nferait que gener les soldats."
+    },
+    "209230": {
+        "「ええい！　増援は　まだか？\n　このままでは　守りきれんぞッ！": "Eh bien ! Les renforts ne sont-ils pas encore\narrives ? Nous ne tiendrons pas longtemps a ce\nrythme !"
+    },
+    "209231": {
+        "「手が　回らないそうです！\n　総がかりで　負傷されたクオード王を\n　司令部へ　お運びしているとのこと……ひぃっ！": "On dirait qu'ils sont debordes ! Tout le monde\ns'active pour transporter le roi Quard blesse\njusqu'au quartier general... Ah !"
+    },
+    "209232": {
+        "「たっ　隊長ぉ！\n　おしつぶされるぅぅぅ…………。": "Ta... Taichou ! Je vais etre ecrase..."
+    },
+    "209233": {
+        "「行くなッ！　シャンテ！！": "Ne pars pas ! Shante !!"
+    },
+    "209234": {
+        "「くそ！": "Merde !"
+    },
+    "209235": {
+        "「どいて　姉さん。": "Laisse-moi passer, grande soeur."
+    },
+    "209236": {
+        "「ラーーララーーーーーーーーー！\n　ララァーーーーーアーーーーーーッ！！": "Laーーlaラーーーーーーーーー！ La laーーーaーーーーーーッ！！"
+    },
+    "209237": {
+        "「ギギ……ッ！　ギギ…ギギィーーーーッ！！ ": "Guuh... ! Guuh... Guaaahhh!!"
+    },
+    "209238": {
+        "「あ　頭がガンガンする……おえっ……。": "Ah, ma tete me martele... Urgh..."
+    },
+    "209239": {
+        "「くたばれェ！　バケモノぉおおお！": "Creve ! Monstre !"
+    },
+    "209240": {
+        "「カァ～　見ちゃいられねェな　コンチクショウ！": "Kaah~ Je ne peux pas rester la a regarder ca,\nbon sang !"
+    },
+    "209241": {
+        "「もし　指針書が更新されてれば……\n　俺のには　あの嬢ちゃんを　助けろとでも\n　書いてあったんだろうぜ！": "Si le livre de directives a ete mis a jour...\nIl aurait surement ete ecrit d'aller sauver\ncette demoiselle !"
+    },
+    "209242": {
+        "「指針が　示されてないときは\n　何もせず　おとなしくしていたほうが\n　身のためだというのに…………。": "Quand aucune directive n'est donnee, il vaut\nmieux rester tranquille et ne rien faire pour\nsa propre securite..."
+    },
+    "209243": {
+        "「ええい　くそっ！！\n　今から　わしの指針は　わしが決める！\n　本日の指針は　バケモノ退治だッ！": "Eh, zut !! A partir de maintenant, c'est moi\nqui decide de mes directives ! La directive du\njour est : Chasser les monstres !"
+    },
+    "209244": {
+        "「キュキュキュ！？\n　戦況が　変わりつつあるキュ！": "Kyu kyu kyu !? La situation de combat est en\ntrain de changer, kyu !"
+    },
+    "209245": {
+        "「<cs_pchero>……\n　私　どうしちゃったのかしら……。": "<cs_pchero>... Qu'est-ce qui m'arrive...?"
+    },
+    "209246": {
+        "「おどろいてる場合じゃないキュ！\n　メレアーデ　今すぐ　永久時環を操作して\n　隕石の落下を　食い止めるっキュ！": "Ce n'est pas le moment de s'etonner, Kyu !\nMereade, utilise immediatement l'Eternal Ring\npour arreter la chute de la meteorite, Kyu !"
+    },
+    "209247": {
+        "「念じるだけで　できるから　やってみるキュ！": "Il te suffit d'y penser pour le realiser,\nessaie donc kyu!"
+    },
+    "209248": {
+        "「すごいわ……完全に止まったの！？": "Incroyable... Il s'est completement arrete !"
+    },
+    "209249": {
+        "「今は　あの隕石の時間を　遅らせただけキュ。\n　でも　これで　隕石が　地面に到達するまで\n　約１００年の時間が　稼げたキュ。": "Pour l'instant, nous avons seulement retarde\nl'arrivee de cette meteorite, kyu. Mais grace\na cela, nous avons gagne environ 100 ans avant<br>que la meteorite n'atteigne la surface, kyu."
+    },
+    "209250": {
+        "「<cs_pchero>さん　メレアーデ様！\n　ご無事でしたか！": "<cs_pchero> san, Dame Mereade ! Etes-vous en\nsecurite !"
+    },
+    "209251": {
+        "「クオード陛下が　お呼びです。\n　至急　軍団長室に　お越しください！": "Sa Majeste Quard vous convoque. Veuillez vous\nrendre d'urgence a la salle du commandant !"
+    },
+    "209252": {
+        "「ク…クオード！？\n　ああ……なんてことなの……": "Qu... Quard !? Ah... Comment est-ce\npossible..."
+    },
+    "209253": {
+        "「ね…ねえさん……\n　隕石……隕石は　どうなった…………。": "He... grande soeur... Qu'est-il arrive a la\nmeteorite...?"
+    },
+    "209254": {
+        "「大丈夫。隕石は　消えたわ。\n　もう　なんの心配も　いらないのよ。": "Tout va bien. La meteorite a disparu. Il n'y a\nplus rien a craindre maintenant."
+    },
+    "209255": {
+        "「そう…か……\n　エテーネは　これで　救われるんだな……。": "Je vois... Ethene sera sauvee grace a cela..."
+    },
+    "209256": {
+        "「ええ……もう　何も起こらない。\n　エテーネは　救われたのよ。だから…………": "Oui... Plus rien ne se passera. Ethene a ete\nsauvee. Donc..."
+    },
+    "209257": {
+        "「私は　あなたを赦すわ　クオード。": "Je te pardonne, Quard."
+    },
+    "209258": {
+        "「幾千　幾万の憎しみが　向けられようとも\n　私だけは　あなたを赦す。": "Des milliers, des dizaines de milliers de\nhaines peuvent etre dirigees contre toi, mais\nmoi seul te pardonnerai."
+    },
+    "209259": {
+        "「……ありがとう　ねえ…さん。\n　知ら……れるのが　こわかった……\n　ね…えさんに　グルヤン…ラシュの……。": "Merci, nēsan. J'avais peur que tu le\ndecouvres... Que tu apprennes a propos de\nGuluyan... Rashu..."
+    },
+    "209260": {
+        "「あなたが　やったことを　聞いたときは\n　ショックだったし……悲しかったわ。\n　しかり飛ばして　やりたかった……。": "Quand j'ai appris ce que tu avais fait, j'ai\nete choquee... et triste. J'avais envie de te\ngronder et de te lancer une lance..."
+    },
+    "209261": {
+        "「でもね……何があっても　私はクオードの\n　お姉さんよ……。あなたを　憎んだり\n　きらいになったりなんて……できないわ。": "Mais tu sais... Quoi qu'il arrive, je resterai\nla grande soeur de Quard... Je ne pourrai\njamais te detester ou te hair..."
+    },
+    "209262": {
+        "「ねえさん……エテーネを……たの…む……": "Grande soeur... Prends soin de... Ethene..."
+    },
+    "209263": {
+        "「クオード様ぁあああ！": "Quard-samaaaa !"
+    },
+    "209264": {
+        "「みみ…みっともないぞ　ディアンジ！\n　メレアーデ様が　こらえておられるのに\n　ななな　泣くやつが　あるか！": "Mimi... Ce n'est pas tres digne de toi, Dianji\n! Alors que Mereade-sama retient ses larmes,\ncomment peux-tu pleurer comme ca !"
+    },
+    "209265": {
+        "「メレアーデ様……このようなことを\n　今　申さざるを得ない　私を　どうか\n　非情な人間だと　思わないでください。": "Mereade-sama... Je vous en prie, ne me\nconsiderez pas comme une personne insensible\npour devoir vous dire cela en ce moment."
+    },
+    "209266": {
+        "「隕石は　依然　王都の上空にあり\n　エテーネ王国は　国家存亡の瀬戸際にあります。\n　このうえ　王を失ったとあれば　我が国は……。": "La meteorite se trouve toujours au-dessus de\nla capitale, et le royaume d'Ethene est au\nbord de l'effondrement. Si nous perdons notre<br>roi en plus de cela, notre pays..."
+    },
+    "209267": {
+        "「クオードの死を　隠せ……と？": "Cacher la mort de Quard... ?"
+    },
+    "209268": {
+        "「新たな国王が　即位されるまで\n　公表を　ひかえたほうが　よろしいかと。": "Il serait preferable de garder cela secret\njusqu'a ce que le nouveau roi soit couronne."
+    },
+    "209269": {
+        "「……わかりました。\n　すべてが　片付いた後　私から\n　クオードの死を　国民に伝えましょう。": "......D'accord. Une fois que tout sera regle,\nj'annoncerai moi-meme la mort de Quard au\npeuple."
+    },
+    "209270": {
+        "「それまで　クオードの死は\n　この場にいる者だけの　秘密とします。": "Jusqu'a ce moment-la, la mort de Quard restera\nun secret entre ceux presents ici."
+    },
+    "209271": {
+        "「では　行きましょう　<cs_pchero>。\n　私たちには　まだ　なすべきことがあります。": "Alors, allons-y, <cs_pchero>. Nous avons\nencore des choses a accomplir."
+    },
+    "209272": {
+        "「いよいよ　時獄の迷宮に向かうキュね。\n　そのための知識は　キュレクスから\n　しっかり　受け継いでいるキュよ！": "Nous allons enfin nous diriger vers le Time\nLabyrinth, kyu. J'ai bien herite de toutes les\nconnaissances necessaires de Kyurex, kyu !"
+    },
+    "209273": {
+        "「キュルル。ちょっとだけ……\n　ちょっとだけで　いいから　待って。": "Kyururu. Juste un peu... Juste un peu,\nattends-moi."
+    },
+    "209274": {
+        "「すぐ　すむから……。": "Ca sera vite termine..."
+    },
+    "209275": {
+        "「メレアーデ……悲しんでるキュ……？": "Mereade... tu es triste, n'est-ce pas... ?"
+    },
+    "209276": {
+        "「キュレクスが死んだときの　ボクと同じ……\n　いや……もっと　ずっと深い　悲しみを\n　味わってるキュね……。": "C'est comme lorsque Kyurex est mort pour\nmoi... Non... C'est une tristesse bien plus\nprofonde que tu ressens, Kyu..."
+    },
+    "209277": {
+        "「チョコレートをあげるキュ。\n　元気　出すキュ。": "Je te donne du chocolat, kyu. Ca va te\nremonter le moral, kyu."
+    },
+    "209278": {
+        "「……ありがとう　キュルル。\n　もう　大丈夫だから　続きを話して。": "...Merci, Kyururu. Je vais bien maintenant, tu\npeux continuer ton histoire."
+    },
+    "209279": {
+        "「わかったキュ。時獄の迷宮に　行く方法だけど\n　キューブに　ちょっとした設定を施すだけで\n　行けるようになると　判明したキュ。": "D'accord, Kyu. En ce qui concerne la maniere\nde se rendre au Time Labyrinth, il a ete\ndecouvert qu'il suffit d'effectuer un leger<br>reglage sur le Cube pour y acceder."
+    },
+    "209280": {
+        "「ふたりとも　キューブを出すキュ。\n　さっそく　設定しなおすキュ。": "Vous deux, sortez vos cubes, Kyu. Je vais\nimmediatement reajuster les parametres, Kyu."
+    },
+    "209281": {
+        "「うまくいったキュ！": "Ca a bien marche, kyu !"
+    },
+    "209282": {
+        "なんと　エテーネルキューブの行き先に\n時獄の迷宮・入口が　追加された！<me 71>": "Incroyable ! L'Entry du Time Labyrinth a ete\najoute a la destination du Ethenel Cube !"
+    },
+    "209283": {
+        "「行きましょう　時獄の迷宮へ。\n　みんなで　マローネ叔母様を救いだし\n　キュロノスを　倒しましょう。": "Allons-y au Time Labyrinth. Ensemble, sauvons\ntante Marone et vainquons Kyuronos."
+    },
+    "209284": {
+        "「いよいよ　時獄の迷宮なのね。\n　先に行った叔父様は　無事かしら……？": "Nous voici enfin au Time Labyrinth. Je me\ndemande si mon oncle, qui est parti en\npremier, est en securite..."
+    },
+    "209285": {
+        "「たったひとりで　キュロノスに\n　戦いを　挑んだりしていなければ\n　よいのだけれど……。": "J'espere qu'il n'est pas alle defier Kyuronos\ntout seul..."
+    },
+    "209286": {
+        "「あの男が　キュロノスを倒してくれるなら\n　ボクらとしても　願ったり　かなったりキュ！": "Si cet homme peut vaincre Kyuronos, ce serait\nun reve devenu realite pour nous !"
+    },
+    "209287": {
+        "「じきに　回廊を抜けるキュ！": "Bientot, nous sortirons du couloir, kyu !"
+    },
+    "209288": {
+        "「時空の狭間にあるという　時獄の迷宮には\n　ボクも　行ったことがないキュ。 ": "Je n'ai jamais ete au Time Labyrinth, qui est\ncense se trouver dans la Spacetime Rift, kyu."
+    },
+    "209289": {
+        "「着いたとたんに　キュロノスのワナが\n　待ちかまえてるかも　しれないキュ。\n　気を引きしめて　行くっキュよ！": "Il se peut qu'un piege de Kyuronos nous\nattende des notre arrivee, kyu. Restons sur\nnos gardes et avancons prudemment, kyu !"
+    },
+    "209290": {
+        "「着いたキュ。\n　ここが　時獄の迷宮だキュ。": "Nous sommes arrives, kyu. Voici le Labyrinthe\ndu Temps, kyu."
+    },
+    "209291": {
+        "「……って　なんだか\n　見覚えがある　風景キュね。": "…C'est un paysage qui me semble familier, Kyu."
+    },
+    "209292": {
+        "「た…大変キュ！！\n　メレアーデが　いないキュ！": "Ta... Tais-toi, Kyu !! Mereade n'est pas la,\nKyu !"
+    },
+    "209293": {
+        "「どうして　こんなことに……？\n　ちょっと　キュレクスの知識を\n　あさってみるキュ…………": "Comment en est-on arrive la... ? Je vais\nexplorer un peu les connaissances de Curex..."
+    },
+    "209294": {
+        "「……どうやら　時獄の迷宮は　人それぞれの\n　心の在り様によって　その構造が変わる\n　特殊な法則に　支配されているらしいキュ。": "Il semble que le Time Labyrinth soit regi par\nune regle speciale ou sa structure change en\nfonction de l'etat d'esprit de chaque<br>personne."
+    },
+    "209295": {
+        "「メレアーデは　こことは　別の場所に\n　到着してるはずキュ。探索してるうちに\n　きっと　合流できるはずキュ。": "Mereade devrait etre arrivee dans un endroit\ndifferent d'ici. En explorant, nous devrions\ncertainement reussir a la rejoindre."
+    },
+    "209296": {
+        "「見覚えがあると思ったら　ここは\n　なつかしの　エテーネ王宮だったキュね。": "Je me disais bien que cet endroit me disait\nquelque chose, c'est le nostalgique Palais\nRoyal d'Ethene, Kyune."
+    },
+    "209297": {
+        "「キュロノスは　自分の根城として利用するため\n　時空の狭間に　エテーネ王宮を\n　飛ばしたのかも　しれないキュ……。": "Il se pourrait que Kyuronos ait envoye le\nPalais Royal d'Ethene dans la Faille\nSpatio-Temporelle pour l'utiliser comme sa<br>propre base..."
+    },
+    "209298": {
+        "「立ち止まってても　始まらないキュ。\n　はぐれた　メレアーデを探しつつ\n　奥へ進んでみるキュ。": "Rester ici ne nous menera nulle part, kyu.\nCherchons Mereade qui s'est egaree et avancons\nplus loin, kyu."
+    },
+    "209299": {
+        "「……<pc>なのか！？\n　俺のことが　見えているのだな？": "......Es-tu <pc> !? Tu peux me voir,\nn'est-ce pas ?"
+    },
+    "209300": {
+        "「……どうやら　本物のようだ。": "…On dirait que c'est le veritable."
+    },
+    "209301": {
+        "「もう　わかっていると思うが\n　迷宮と化した　このエテーネ王宮では　扉の先が\n　まったく別の場所に　通じていることもある。": "Je pense que tu le sais deja, mais dans ce\npalais royal d'Ethene devenu un labyrinthe, il\narrive que l'endroit ou conduit une porte soit<br>completement different."
+    },
+    "209302": {
+        "「しかも　過去や未来にさえだ。\n　お前たちも　別の時間の　自分の姿を\n　見てきたんじゃないのか？": "De plus, cela concerne meme le passe et le\nfutur. N'avez-vous pas deja vu une version de\nvous-meme a une autre epoque ?"
+    },
+    "209303": {
+        "「それにしても　たいしたものだ。\n　まさか　本当に　時獄の迷宮まで\n　追ってこられるとはな……。": "En tout cas, c'est impressionnant. Je n'aurais\njamais pense que tu reussirais reellement a\nnous suivre jusqu'au Time Labyrinth..."
+    },
+    "209304": {
+        "「たしか　キュルル……と言ったか。\n　開祖レトリウスの友　キュレクスより生ぜし\n　キュロノスと　同等の存在……。": "Je crois que c'etait Kyururu... n'est-ce pas ?\nUne entite nee de Kyurex, l'ami du fondateur\nRetrius, un etre equivalent a Kyuronos..."
+    },
+    "209305": {
+        "「お前の助力が　あったればこそ\n　ここまで来ることが　できたというわけか？": "C'est grace a ton aide que nous avons pu\narriver jusqu'ici, n'est-ce pas ?"
+    },
+    "209306": {
+        "「言葉や文字を　介さなければ\n　情報伝達も　満足にできない生き物は\n　つくづく　不便キュねぇ。": "Les creatures qui ne peuvent pas communiquer\nefficacement sans mots ou lettres sont\nvraiment desavantagees, n'est-ce pas, Kyu ?"
+    },
+    "209307": {
+        "「仕方がない。\n　てっとりばやく　教えてやるキュ！": "Pas le choix. Je vais te l'apprendre\nrapidement, kyu !"
+    },
+    "209308": {
+        "「……なるほど　漂流者キュレクスのチカラを\n　継いだか……同行していた　メレアーデとは\n　到着時に　はぐれてしまったようだな。": "…Je vois, tu as herite du pouvoir de Castaway\nKyurex... Il semble que tu t'es separe de\nMereade a votre arrivee."
+    },
+    "209309": {
+        "「だが　進み続ければ\n　いずれ　合流できるはずだ。": "Cependant, si nous continuons a avancer, nous\ndevrions finir par nous retrouver."
+    },
+    "209310": {
+        "「……そして　マローネを助けだす機会も\n　きっと　めぐってくるだろう。": "......Et l'occasion de secourir Marone viendra\nsurement aussi."
+    },
+    "209311": {
+        "「キュロノスのことだが……エテーネ王宮の下に\n　時見の神殿があったのを　覚えているな？\n　奴は　その最奥を　拠点にしていた。": "A propos de Kyuronos... Tu te souviens qu'il y\navait le Temple du Timeseer sous le Palais\nRoyal d'Ethene, n'est-ce pas ? C'est la que<br>cet individu avait etabli son repaire, au fond\ndu temple."
+    },
+    "209312": {
+        "「４体の魔獣のチカラを　取り込んだ今\n　キュロノスは　繭から羽化する時を\n　時見の祭壇で　じっと　待っているはずだ。": "Maintenant que Kyuronos a absorbe le pouvoir\ndes quatre betes magiques, il doit attendre\npatiemment le moment de son eclosion au<br>Timeseer Altar."
+    },
+    "209313": {
+        "「羽化した　究極の肉体が　奴の手に落ちれば\n　まちがいなく　世界は　終わりだ。": "Si le corps ultime qui a emerge tombe entre\nses mains, le monde touchera a sa fin, sans\naucun doute."
+    },
+    "209314": {
+        "「だから　そうなる前に　キュロノスをたたく。": "C'est pourquoi, avant que cela n'arrive, nous\ndevons frapper Kyuronos."
+    },
+    "209315": {
+        "「先に進めば　いずれ　別々の場所に\n　飛ばされてしまうかも　しれない……。": "Si nous avancons, il se pourrait que nous\nsoyons transportes vers des endroits\ndifferents..."
+    },
+    "209316": {
+        "「それでも　同じ目的に向かって　進み続ければ\n　道は　ふたたび　まじわるはずだ。\n　さあ行こう　<pc>。": "Mais si nous continuons a avancer vers le meme\nobjectif, nos chemins finiront par se croiser\na nouveau. Allez, allons-y, <pc>."
+    },
+    "209317": {
+        "「えっ　<pc>！？": "Hein, <pc> !?"
+    },
+    "209318": {
+        "「よかった！\n　もう　会えないんじゃないかと　思ったわ。": "Je suis soulagee ! J'avais peur de ne plus\njamais te revoir."
+    },
+    "209319": {
+        "「メレアーデと　はぐれたのは　ボクとしても\n　想定外の事故だったキュ。\n　教えてあげられなくて　すまなかったキュ……。": "Me separer de Mereade a ete un accident\nimprevu pour moi aussi, kyu. Je suis desole de\nne pas avoir pu te prevenir, kyu..."
+    },
+    "209320": {
+        "「いいのよ　そんなこと。\n　ふたりに再会できて　うれしいわ。": "Ce n'est rien du tout. Je suis heureuse de\nvous retrouver tous les deux."
+    },
+    "209321": {
+        "「ここに来る途中　パドレと会ったキュ。\n　でも　はぐれてしまったキュ……。": "Sur le chemin pour venir ici, j'ai rencontre\nPadre, kyu. Mais nous nous sommes perdus de\nvue, kyu..."
+    },
+    "209322": {
+        "「そう……。この　時獄の迷宮では\n　誰もが　それぞれの道を　行くことでしか\n　先へ進めない仕組みに　なっているようね。": "Je vois... Dans ce Time Labyrinth, il semble\nque chacun ne puisse avancer qu'en suivant son\npropre chemin."
+    },
+    "209323": {
+        "「私も　ここに来るまでに\n　いろいろな場所へ　迷い込んだわ。\n　場所だけでなく　時間も　バラバラで……。": "私もここに来るまでに いろいろな場所へ迷い込んだわ 場所だけでなく時間もBarabaラで\nMoi aussi, avant d'arriver ici, je me suis\negaree dans divers endroits. Non seulement des<br>lieux, mais aussi des epoques, c'etait\nBarabaラ..."
+    },
+    "209324": {
+        "「それどころか　私の記憶にない場面で\n　<pc>と　会っていたりもしたわ。\n　あれは　なんだったのかしら……？": "Ca ne s'arrete pas la, il y a meme des moments\ndont je n'ai aucun souvenir ou j'ai rencontre\n<pc>. Qu'est-ce que c'etait que ca...?"
+    },
+    "209325": {
+        "「それは　たぶん　未来に起こることキュ。": "Cela arrivera probablement dans le futur, kyu."
+    },
+    "209326": {
+        "「未来……なの？\n　あれは　いずれ　私が　おこなうべきこと……？": "Le futur... vraiment ? Est-ce quelque chose\nque je devrai accomplir un jour...?"
+    },
+    "209327": {
+        "「……今から　未来のことを思い悩んでも\n　どうにも　ならないキュ。": "...... Inutile de se tracasser maintenant pour\nl'avenir. Cela ne changera rien, kyu."
+    },
+    "209328": {
+        "「今　できるのは　キュロノスのいる\n　神殿を目指して　進み続けることだけキュ。": "Ce que je peux faire maintenant, c'est\nsimplement continuer a avancer vers le temple\nou se trouve Kyuronos."
+    },
+    "209329": {
+        "「……そうね。あれこれ悩んで\n　時間をムダにしている　場合じゃない。\n　私も　前に進み続けるわ！": "…C'est vrai. Ce n'est pas le moment de perdre\ndu temps a m'inquieter de tout et de rien. Je\nvais aussi continuer a avancer !"
+    },
+    "209330": {
+        "「あっ　<cs_pchero>。それに　叔父様も……。\n　よかったわ　また合流できて。": "Ah, <cs_pchero>. Et oncle aussi... Je suis\ncontente que nous ayons pu nous retrouver."
+    },
+    "209331": {
+        "「身を低くして　こっちに来てくれ。": "Baisse-toi et viens par ici."
+    },
+    "209332": {
+        "「お前たちが来てくれて　助かった。\n　広場に　マローネがいるのが　見えるな？": "Vous etes venus a notre secours. Vous voyez\nMarone sur la place, n'est-ce pas ?"
+    },
+    "209333": {
+        "「マローネの救出に　役立つだろうと思って\n　お前が　俺に使った　胡蝶の護符を\n　持ってきたのだ。": "Je pense que cela pourrait etre utile pour\nsauver Marone, alors j'ai apporte le Butterfly\nCharm que tu as utilise sur moi."
+    },
+    "209334": {
+        "「これで　マローネを解放する！": "Nous allons liberer Marone maintenant !"
+    },
+    "209335": {
+        "「まず　気付かれないよう　近づきたいのだが……\n　お前たちのチカラを　貸してくれるか？": "D'abord, j'aimerais m'approcher sans etre\nremarque... Pourriez-vous me preter votre\nforce ?"
+    },
+    "209336": {
+        "「なんでも言って　叔父様。\n　私たちは　そのために来たんですもの。": "Dis-nous tout, oncle. Nous sommes venus ici\npour ca, apres tout."
+    },
+    "209337": {
+        "「フフッ　たのもしくなったものだ。": "Fufu... Tu es devenu quelqu'un de fiable."
+    },
+    "209338": {
+        "「頼みたいのは　おとり役だ。\n　俺が　胡蝶の護符を使えるよう　マローネを\n　挑発して　気を引きつけてほしい。": "Je veux que tu joues le role de l'appat.\nProvoque Marone pour attirer son attention\nafin que je puisse utiliser le Butterfly<br>Charm."
+    },
+    "209339": {
+        "「待っていたぞ　時の異分子。": "Je vous attendais, element perturbateur du\ntemps."
+    },
+    "209340": {
+        "「キュロノスの支配する　この時獄の迷宮に\n　乗り込んでくるとは　無謀なことよ……。\n　ここから　生きて帰れると　思うな。": "Il est insense de s'introduire dans ce\nLabyrinthe du Temps controle par Kyuronos...\nNe pense pas que tu pourras en sortir vivant."
+    },
+    "209341": {
+        "「黄金の釜に囚われたる　けがれし魂よ！": "O ame souillee, emprisonnee dans le chaudron\nd'or !"
+    },
+    "209342": {
+        "「キュロノスの求めに　応じ\n　長き眠りより　よみがえれ！": "Repondez a l'appel de Kyuronos et\nreveillez-vous de votre long sommeil !"
+    },
+    "209343": {
+        "「何をする……き…さま……。": "Que fais-tu... toi...?"
+    },
+    "209344": {
+        "「ふたりは　大丈夫なの？　<cs_pchero>……。": "Est-ce que vous deux allez bien,\n<cs_pchero>... ?"
+    },
+    "209345": {
+        "「おお！　<cs_pchero>じゃねえか！\n　会いたかったぜぇ　兄弟！！": "Oh ! Mais c'est <cs_pchero> ! J'esperais te\nrevoir, Brothers !!"
+    },
+    "209346": {
+        "「俺だよ　俺。バディンドだよ。\n　黄金刑を食らう前日　いっしょの牢で\n　ひと晩を　過ごした仲じゃねえか。": "C'est moi, c'est moi. C'est Badindo. La veille\nde ma condamnation a la peine d'or, on a passe\nla nuit ensemble dans la meme cellule, non ?"
+    },
+    "209347": {
+        "「さあ　兄弟　俺と一緒に\n　キュロノスがもたらす　清浄なる世界へ\n　旅立とうぜ……グゲ…グゲゲゲ……。": "Allons-y, Brothers. Partons ensemble vers le\nmonde purifie que Kyuronos nous apportera...\nGuge... Gugegege..."
+    },
+    "209348": {
+        "「グゲゲゲ……。\n　そのためにも　まずは　キュロノスに\n　仇なす者を　排除しないとなぁぁぁ！！": "Gugegege... Pour cela, nous devons d'abord\neliminer ceux qui s'opposent a Kyuronos !!"
+    },
+    "209349": {
+        "「黄金の釜に囚われし　同胞たちよぉぉ！\n　今こそ　自由への戦いの狼煙を\n　上げるのだぁぁぁ！！": "O mes camarades emprisonnes dans le chaudron\ndore ! Le moment est venu de lever le flambeau\nde la lutte pour la liberte !!"
+    },
+    "209350": {
+        "「叔父様の　邪魔をするつもりね？\n　<cs_pchero>　魔物のむれから\n　ふたりを守りましょう！": "Vous comptez vous opposer a mon oncle,\nn'est-ce pas ? <cs_pchero> Protegeons ces\ndeux-la de la horde de monstres !"
+    },
+    "209351": {
+        "「やったわね　<cs_pchero>。\n　叔父様と叔母様を　守りきったわ。": "Bien joue, <cs_pchero>. Tu as reussi a\nproteger ton oncle et ta tante."
+    },
+    "209352": {
+        "「ふたりとも……面倒を　かけたな。\n　おかげで　マローネを救い出すことができた。": "Vous deux... Vous m'avez bien aide. Grace a\nvous, j'ai pu sauver Marone."
+    },
+    "209353": {
+        "「よかった……。\n　これで　元の優しい叔母様に　戻るのね。": "Je suis soulage... Maintenant, elle pourra\nredevenir la gentille tante qu'elle etait."
+    },
+    "209354": {
+        "「マローネの精神世界で　蝶を追い\n　キュロノスの支配を　断ち切った。\n　目を覚ませば　きっと　元通りのはずだ。": "Dans le monde spirituel de Marone, tu as\npourchasse le papillon et brise le controle de\nKyuronos. En te reveillant, tout devrait etre<br>revenu a la normale."
+    },
+    "209355": {
+        "「……だが　俺たちは　キュロノスの始末を\n　急がねばならん。ここで　目覚めを待つのは\n　あまりに　時間が惜しいな……。": "...Cependant, nous devons nous depecher de\nregler le sort de Kyuronos. Attendre son\nreveil ici serait une perte de temps<br>precieuse..."
+    },
+    "209356": {
+        "「そのとおりキュ。モタモタしてるうちに\n　キュロノスが　究極の肉体を\n　手に入れてしまうかも　しれないキュ。": "Exactement, Kyu. Si on traine trop, Kyuronos\npourrait bien reussir a obtenir le corps\nultime, Kyu."
+    },
+    "209357": {
+        "「けど……　<cs_pchero>の母親を\n　置き去りにも　できないキュね……。": "Mais... je ne peux pas non plus abandonner la\nmere de <cs_pchero>..."
+    },
+    "209358": {
+        "「私が　叔母様を連れて　脱出するわ。\n　叔父様と　<cs_pchero>は\n　先に　キュロノスを倒しにいって。": "Je vais emmener ma tante et nous echapperons.\nMon oncle et <cs_pchero>, allez vaincre\nKyuronos en premier."
+    },
+    "209359": {
+        "「叔母様を　安全な場所に　かくまったあと\n　私も　すぐに　あとを追うから。": "Apres avoir mis ma tante en securite, je vous\nrejoindrai rapidement."
+    },
+    "209360": {
+        "「いや……お前が　戻る必要はない。\n　キュロノスとの決着は\n　俺たちに　まかせておけばいい。": "Non... Tu n'as pas besoin de revenir.\nLaisse-nous regler les comptes avec Kyuronos."
+    },
+    "209361": {
+        "「そんな…………": "Impossible..."
+    },
+    "209362": {
+        "「……いえ　叔父様の言うとおりね。\n　私がいると　かえって\n　足手まといに　なるだけだもの……。": "Non, vous avez raison, oncle. Ma presence ne\nferait que vous gener davantage..."
+    },
+    "209363": {
+        "「でも　おかげで気づけたわ。\n　私にしか　できないことがあるって。": "Mais grace a cela, j'ai realise qu'il y a des\nchoses que seule moi peut accomplir."
+    },
+    "209364": {
+        "「クオードが託してくれた　このキューブがあれば\n　今の私なら　自分の狙った通りの時代に\n　飛ぶことができるはず……。": "Quard m'a confie ce cube. Avec ca, je devrais\npouvoir voyager a l'epoque que je vise\nmaintenant..."
+    },
+    "209365": {
+        "「メレアーデ……。\n　もしかして　これから　長い長い旅路へ\n　歩みだそうと　考えているキュね？": "Mereade... Te preparerais-tu a entreprendre un\nlong, tres long voyage ?"
+    },
+    "209366": {
+        "「<cs_pchero>……これまで　あなたは\n　私の知らない　私に\n　何度も　導かれてきたはずよ。": "<cs_pchero>... Jusqu'a present, tu as surement\nete guide plusieurs fois par un moi que je ne\nconnais pas."
+    },
+    "209367": {
+        "「エテーネ王宮の牢獄や\n　１０００年前の　グランゼドーラ王国……\n　黒猫の姿に変身していた　私に。": "La prison du palais royal d'Ethene, le royaume\nde Gran Zedora d'il y a 1000 ans... et moi,\ntransformee en chat noir."
+    },
+    "209368": {
+        "「どんな妨害にあおうとも　あなたが\n　かならず　今　この時に到達できるよう\n　私が　導いてみせる。": "Peu importe les obstacles qui se dresseront\ndevant vous, je vous guiderai pour que vous\npuissiez atteindre ce moment precis."
+    },
+    "209369": {
+        "「この時獄の迷宮で　私は　私のなすべき\n　この先のことを　見てきたのよ。": "Dans ce Labyrinthe du Temps, j'ai vu ce que je\ndevais faire pour l'avenir."
+    },
+    "209370": {
+        "「メレアーデ……どうやら　思っていたより\n　ずっと　お前は　強くなっていたのだな。": "Mereade... il semble que tu sois devenue bien\nplus forte que je ne le pensais."
+    },
+    "209371": {
+        "「マローネのことは　頼んだ。\n　俺たちは　キュロノスを倒し\n　アストルティアの未来を　守りぬく。": "Je compte sur toi pour Marone. Nous allons\nvaincre Kyuronos et proteger l'avenir\nd'Astoltia."
+    },
+    "209372": {
+        "「メレアーデの選んだ道が\n　正しい未来に　つながるよう　願ってるキュ。": "Je souhaite que le chemin choisi par Mereade\nmene a un avenir radieux, kyu."
+    },
+    "209373": {
+        "「<cs_pchero>。次に会えるのは\n　きっと　墜落前のドミネウス邸……\n　私が　あなたと　初めて会った　あの日ね。": "<cs_pchero> La prochaine fois que nous nous\nverrons, ce sera surement avant la chute du\nDomineus Mansion... Le jour ou je t'ai<br>rencontre pour la premiere fois."
+    },
+    "209374": {
+        "「再会できるのを　楽しみにしているわ。": "Je suis impatiente de te revoir."
+    },
+    "209375": {
+        "「俺たちも　先を　急ぐとしよう。": "Nous devrions egalement nous depecher\nd'avancer."
+    },
+    "209376": {
+        "「俺が　キュロノスの傀儡だったころは\n　この先が　時見の神殿だったはずだが……": "Quand j'etais la marionnette de Kyuronos, il\nme semble que cet endroit menait au Temple de\nTimeseer..."
+    },
+    "209377": {
+        "「奴のことだ。俺たちを妨害するため\n　神殿にも　手を加えているだろうな。": "C'est de sa part. Il a surement modifie le\ntemple pour nous mettre des batons dans les\nroues."
+    },
+    "209378": {
+        "「エテーネの村で　お前を拾った　ご婦人は\n　知り合いの夫婦に　お前を預けると\n　言っていたな……。": "La dame qui t'a trouve au village d'Ethene a\ndit qu'elle te confierait a un couple qu'elle\nconnait..."
+    },
+    "209379": {
+        "「どんな人たちなんだ？　今も　健在なのか？": "Quel genre de personnes sont-ils ? Sont-ils\nencore en vie ?"
+    },
+    "209380": {
+        "<pc>は　パドレに\nエテーネの村の　両親のことを話した。": "<pc> parla a Padre de ses parents au\nvillage d'Ethene."
+    },
+    "209381": {
+        "「立派な方に　育ててもらったのだな……。\n　今の　お前を見ていれば　よく　わかる。": "Tu as ete bien eleve par quelqu'un de\nremarquable, n'est-ce pas... En te regardant\nmaintenant, cela se voit clairement."
+    },
+    "209382": {
+        "「その方たちには　感謝しても　しきれない。": "Je ne pourrai jamais assez remercier ces\npersonnes."
+    },
+    "209383": {
+        "「だが　本音を言えば……\n　成長していく　お前のそばで\n　お前と同じ時間を　過ごしたかった。": "Mais pour etre honnete... J'aurais voulu\npasser du temps a tes cotes, a mesure que tu\ngrandis."
+    },
+    "209384": {
+        "「マローネとて……同じ思いだろう。": "Marone doit probablement ressentir la meme\nchose."
+    },
+    "209385": {
+        "<if_woman>「そうだ！　マローネは　お前が\n　自分の娘だと　知っているのか？<else>「そうだ！　マローネは　お前が\n　自分の息子だと　知っているのか？<endif>": "<if_woman>> Dis-moi ! Marone sait-elle que tu\nes sa fille ?<else>> Dis-moi ! Marone sait-elle que tu es son\nfils ? <endif>"
+    },
+    "209386": {
+        "「……すべて終わったら\n　一緒に　マローネに会いにいこう。": "Une fois que tout sera termine, allons\nensemble voir Marone."
+    },
+    "209387": {
+        "<if_woman>「行方不明の夫が　成長した娘を連れて\n　帰ってきたとあれば　あいつも\n　さぞや　びっくりするだろうな。<else>「行方不明の夫が　成長した息子を連れて\n　帰ってきたとあれば　あいつも\n　さぞや　びっくりするだろうな。<endif>": "<if_woman>>Si le mari disparu revient avec sa\nfille grandie, il sera surement tres surpris.<else>>Si le mari disparu revient avec son fils\ngrandi, il sera surement tres surpris.<endif>"
+    },
+    "209388": {
+        "「エテーネ王国と　キュロノスの因縁を断つ……。\n　それが　王族として　生まれた者の義務だ。": "Rompre le lien entre le royaume d'Ethene et\nKyuronos... C'est le devoir de ceux qui sont\nnes dans la royaute."
+    },
+    "209389": {
+        "「兄上……ドミネウスは　時見に依存したがために\n　キュロノスに　いいように　利用された。": "Frere aine... Domineus, en se fiant trop au\npouvoir de la vision du temps, a ete manipule\npar Kyuronos."
+    },
+    "209390": {
+        "「俺は俺で　キュロノスの傀儡と成り果て\n　奴の企みに　手を貸してしまった。": "Moi, je suis devenu une marionnette de\nKyuronos et j'ai fini par soutenir ses\nmachinations."
+    },
+    "209391": {
+        "「そして　この手で兄上を…………。": "Et avec ces mains, je vais... grand frere..."
+    },
+    "209392": {
+        "「決して　あがなうことのできない　罪だ。\n　だからこそ　俺は　この身に代えてでも\n　キュロノスを　討たねばならない！": "C'est un peche qu'on ne peut jamais racheter.\nC'est pourquoi, meme si cela doit me couter la\nvie, je dois vaincre Kyuronos !"
+    },
+    "209393": {
+        "「お前もまた　みずからの運命と\n　世界の未来を　切り開くため\n　この戦いに　身を投じたのだろう？": "Toi aussi, tu t'es lance dans cette bataille\npour forger ton propre destin et l'avenir du\nmonde, n'est-ce pas ?"
+    },
+    "209394": {
+        "「巻き込みたくない……などと思うのは\n　それこそ　親の身勝手だな。": "Ne pas vouloir vous impliquer... C'est bien la\nl'egoisme d'un parent."
+    },
+    "209395": {
+        "「すべてを　俺の手で　終わらせるつもりだったが\n　事ここに至っては　是非もない。": "J'avais l'intention de tout finir de mes\npropres mains, mais a ce stade, il n'y a pas\nd'autre choix."
+    },
+    "209396": {
+        "「なさけない父だが　手伝ってくれ。\n　<pc>。お前のチカラが　必要だ。": "Quel pere pitoyable je fais, mais aide-moi,\ns'il te plait. <pc>. J'ai besoin de ta\nforce."
+    },
+    "209397": {
+        "「……時見の箱が！？": "...La Boite de l'Oracle du Temps !?"
+    },
+    "209398": {
+        "「ならば　キュロノスは　あの中に！": "Alors, Kyuronos est a l'interieur !"
+    },
+    "209399": {
+        "<center>来たか　時の異分子よ。": "Te voila, particule etrangere du temps."
+    },
+    "209400": {
+        "<center>我は　究極の肉体を　手に入れる。\nそして　世にはびこる　不完全な生命体を\nあとかたもなく　一掃してくれよう。": "J'acquerrai le corps ultime. Et j'eliminerai\nsans laisser de trace les creatures\nimparfaites qui pullulent dans ce monde."
+    },
+    "209401": {
+        "「させるかッ！\n　生まれる前に　果てるがいい！": "Je ne te laisserai pas faire ! Peris avant\nmeme de naitre !"
+    },
+    "209402": {
+        "「そんな攻撃では　傷ひとつ　つかぬな。": "Une attaque de ce genre ne laissera meme pas\nune egratignure."
+    },
+    "209403": {
+        "「この肉体ならば　我が復讐も　果たせよう。": "Dans ce corps, ma vengeance pourra enfin etre\naccomplie."
+    },
+    "209404": {
+        "「かつて　際限なく　くり返された\n　時見の果て……": "Autrefois, a la fin du Temps, ou les cycles se\nrepetaient sans fin..."
+    },
+    "209405": {
+        "「我は　貴様ら　人間どもの醜悪さ　邪悪さを\n　幾度となく　目の当たりにしてきた。": "Moi, j'ai ete temoin a maintes reprises de la\nlaideur et de la malveillance de vous, les\nhumains."
+    },
+    "209406": {
+        "「なんとも　不完全　かつ　惰弱な存在に\n　使役させられてきたものよ。\n　その　絶望の念が　我に悟りを与えた。": "Quelles creatures imparfaites et faibles\nsommes-nous, forcees de nous soumettre. Ce\ndesespoir m'a apporte la sagesse."
+    },
+    "209407": {
+        "「不完全な生物どもは　世界をむしばみ\n　雑音を生みだす　害悪に過ぎぬ。\n　ゆえに　絶滅させねばなるまい……と。": "Les creatures imparfaites rongent le monde, ne\ngenerant que du bruit nuisible. Ainsi, il est\nnecessaire de les eradiquer..."
+    },
+    "209408": {
+        "「代々の王を　我の意のままに　あやつるのは\n　たやすかったぞ。時見の託宣で　ほんの少し\n　不安を植えつけてやれば　充分だった。": "Il a ete facile de manipuler les rois de\ngeneration en generation selon ma volonte. Il\nsuffisait de leur insuffler un peu<br>d'inquietude a travers les propheties du\ntemps."
+    },
+    "209409": {
+        "「そして　我の望みをかなえるのに　不可欠な\n　時渡りの使い手…………パドレ。": "Et puis, il y a l'utilisateur du voyage\ntemporel, indispensable pour realiser mon\nsouhait... Padre."
+    },
+    "209410": {
+        "「お前を堕とすため　あの俗物……\n　ドミネウスを　利用させてもらった。": "Pour te faire tomber, j'ai utilise ce\nvulgaire... Domineus."
+    },
+    "209411": {
+        "「…………黙れ。": "... Tais-toi."
+    },
+    "209412": {
+        "「かくして　我は　究極へと至った。\n　あとは　世界中の不完全な生物を　一掃し\n　完全なる生命として　我のみが存在すればよい。": "Ainsi, je suis parvenu a l'ultime achevement.\nIl ne me reste plus qu'a balayer toutes les\ncreatures imparfaites du monde, et a exister<br>seul en tant que vie parfaite."
+    },
+    "209413": {
+        "「時の異分子よ。その命を差しだし\n　我の完全性を示すための　いしずえとなれ！": "O anomalie du temps, offre ta vie et deviens\nla pierre angulaire qui demontrera ma\nperfection !"
+    },
+    "209414": {
+        "「黙れっ！　呪われた異形の怪物め！\n　お前などに　この世界の未来を\n　好きにはさせぬ！": "Tais-toi ! Creature monstrueuse et maudite !\nJe ne te laisserai pas decider de l'avenir de\nce monde a ta guise !"
+    },
+    "209415": {
+        "「いくぞ　<cs_pchero>！！": "Allons-y, <cs_pchero> !!"
+    },
+    "209416": {
+        "「世界にとって　不要なのは\n　貴様のほうだったようだな……。": "Il semblerait que c'est toi qui es inutile au\nmonde..."
+    },
+    "209417": {
+        "「<cs_pchero>。悲願を達成できたのも\n　お前の協力　あってこそだ……礼を言う。": "<cs_pchero>. Si j'ai pu realiser mon voeu le\nplus cher, c'est grace a ton aide... Je te\nremercie."
+    },
+    "209418": {
+        "「<cs_pchero>！\n　何かが　おかしいキュ！": "<cs_pchero> ! Quelque chose ne va pas, kyu !"
+    },
+    "209419": {
+        "「キュロノスは　たしかに　生命活動を\n　停止してるキュ。でも　それなのに\n　存在の消滅が　認められないキュ！": "Kyuronos a certainement cesse toute activite\nvitale, kyu. Mais malgre cela, sa disparition\nn'est pas constatee, kyu !"
+    },
+    "209420": {
+        "「な…何が　起こっているんだ……？": "Qu… qu'est-ce qui se passe… ?"
+    },
+    "209421": {
+        "「羽化する前の状態に\n　時間を　戻したんだキュ……。": "J'ai ramene le temps a l'etat avant la\nmetamorphose, kyu..."
+    },
+    "209422": {
+        "<center>教えてやろう　不完全な生物たちよ。\n我の完全性とは　敗北の事実さえ　くつがえして\n何度でも　やり直せることにある。": "Je vais vous apprendre, etres imparfaits. Ma\nperfection reside dans le fait de pouvoir\nrenverser meme la defaite et reparer Spear<br>autant de fois que necessaire."
+    },
+    "209423": {
+        "<center>そして　そのたびに　我はより強く\nより究極へと　近づいていくのだ。": "Et a chaque fois, je deviens plus fort et je\nme rapproche de l'ultime."
+    },
+    "209424": {
+        "<center>時渡りのチカラをもつ　お前たちは\n我を高みへと押しあげる　よき道具であった。\nだが　それも　もう終わりだ。": "Vous, possesseurs du pouvoir de voyager dans\nle temps, avez ete de precieux outils pour\nm'elever vers de plus hauts sommets.<br>Cependant, cela prend fin maintenant."
+    },
+    "209425": {
+        "<center>アストルティアの文明を　破壊しつくし\nいっさいの不完全が　排除された\n雑音なき　清浄なる世界を創造しよう。": "Je vais detruire completement la civilisation\nd'Astoltia et eliminer toutes les\nimperfections pour creer un monde pur et sans<br>bruit."
+    },
+    "209426": {
+        "<center>この創造をもって\n我は　時間と空間を支配する　神となる。": "Avec cette creation, je deviens le dieu qui\ncontrole le temps et l'espace."
+    },
+    "209427": {
+        "「ここは　時間が圧縮された空間キュ。\n　外の世界と　時間の流れる速さが　ちがうキュ。": "Ici, c'est un espace ou le temps est\ncompresse, kyu. La vitesse a laquelle le temps\ns'ecoule est differente de celle du monde<br>exterieur, kyu."
+    },
+    "209428": {
+        "「長居すると　外の世界では\n　どんどん　時間が経ってしまうキュよ。": "Si tu restes trop longtemps, le temps dans le\nmonde exterieur continuera de s'ecouler\nrapidement, kyu."
+    },
+    "209429": {
+        "「俺たちには　時渡りのチカラがある。\n　どこであろうと　抜け出せるはず。": "Nous avons le pouvoir de voyager a travers le\ntemps. Peu importe ou nous sommes, nous\ndevrions pouvoir nous echapper."
+    },
+    "209430": {
+        "「時渡りのチカラ　そのものを\n　封じられてるわけでは　なさそうだが……\n　簡単には　出られないようだ。": "Il ne semble pas que le pouvoir de voyager\ndans le temps soit completement scelle,\nmais... il ne sera pas facile de sortir d'ici."
+    },
+    "209431": {
+        "「キュレクスの　知識によれば……\n　圧縮された時間に　時渡りのチカラで介入し\n　時空の裂け目を作れば　脱出できるキュ。": "Selon les connaissances de Curex... Si nous\nintervenons dans le temps compresse avec le\npouvoir de traverser les epoques et creons une<br>fissure dans le continuum espace-temps, nous\npourrons nous echapper, Kyu."
+    },
+    "209432": {
+        "「そういうことなら　さっそく\n　その裂け目の　作りかたを教えてくれ。": "Dans ce cas, apprends-moi vite comment creer\ncette fissure."
+    },
+    "209433": {
+        "「<cs_pchero>にも　教えておくキュ。": "Je vais aussi t'apprendre, <cs_pchero>."
+    },
+    "209434": {
+        "「いや……不要だ。\n　この役は　俺が引き受ける。": "Non... Ce n'est pas necessaire. Je vais\nprendre ce role."
+    },
+    "209435": {
+        "「………………。": ""
+    },
+    "209436": {
+        "「そういえば　<cs_pchero>。まだ　お前から\n　一度も　呼んでもらっていなかったな……。": "Au fait, <cs_pchero>. Je realise que tu ne\nm'as pas encore appele une seule fois..."
+    },
+    "209437": {
+        "「父さんと　呼んでくれないか？\n<select_nc>\n父さん\n…………\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Pourrais-tu m'appeler papa ? <select_nc> Papa\n<select_end> <case 1> <close> <case 2> <close>\n<case_cancel> <close> <case_end>"
+    },
+    "209438": {
+        "「……聞こえないぞ。\n　もっと　大きな声で　頼む。\n<select_nc>\n父さん\n…………\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Je n'entends pas. Parle plus fort, je te prie.\n<select_nc> Papa <select_end> <case 1> <close>\n<case 2> <close> <case_cancel> <close><br><case_end>"
+    },
+    "209439": {
+        "「うれしいよ　<cs_pchero>。\n　俺の願いが　ひとつ　かなった。": "Je suis tellement content, <cs_pchero>. Un de\nmes souhaits s'est realise."
+    },
+    "209440": {
+        "「いつの日か　我が子に　父と呼んでもらう。\n　乳飲み子だった　お前と過ごしていたころ\n　どれほど　望んで　やまなかったことか……。": "Un jour, mon enfant m'appellera 'pere'. Quand\ntu etais encore un nourrisson, combien j'ai\nardemment desire ce moment..."
+    },
+    "209441": {
+        "「先に行けっ！": "Va devant !"
+    },
+    "209442": {
+        "「……<cs_pchero>。\n　キュロノスを倒してくれ。": "......<cs_pchero>. Abats Kyuronos, je te prie."
+    },
+    "209443": {
+        "「そして！　マローネのことを頼む！": "Et aussi ! Prends soin de Marone !"
+    },
+    "209444": {
+        "「……時空の裂け目は　開いた側の空間から\n　常に　時渡りのチカラを　放出しつづけないと\n　維持することが　できないキュ。": "...La dechirure spatio-temporelle doit\nconstamment emettre l'energie du voyage\ntemporel depuis l'espace d'ou elle s'est<br>ouverte pour pouvoir etre maintenue."
+    },
+    "209445": {
+        "「つまり……時の牢獄から　脱出するには\n　どちらかが　残るしかなかったキュ。": "En d'autres termes... pour s'echapper de la\nprison du temps, l'un de nous devait rester\nderriere, kyu."
+    },
+    "209446": {
+        "「それを先に知った　パドレは　即座に\n　<cs_pchero>を行かせることを　選んだキュね。\n　さすがの決断力と　言わざるを得ないキュ。": "Padre, ayant appris cela en premier, a\nimmediatement choisi d'envoyer <cs_pchero>. Je\ndois dire que c'est une decision<br>impressionnante."
+    },
+    "209447": {
+        "「キュロノスの波動を　現代に感じるキュ！": "Je ressens les ondes de Kyuronos dans la\ngeneration P. Kyu！"
+    },
+    "209448": {
+        "「……パドレの意志を　継げるのは\n　<cs_pchero>だけなんだキュ。\n　キュロノスを　倒しにいこうキュ。": "Seul <cs_pchero> peut perpetuer la volonte de\nPadre, kyu. Allons vaincre Kyuronos, kyu."
+    },
+    "209449": {
+        "「キュキュキュ！？　これは　いったい……？\n　まちがいなく　現代に…………\n　<cs_pchero>の時代に　時渡りしたはずキュ。": "キュキュキュ！？ Qu'est-ce que c'est que ca... ? Il\nn'y a aucun doute... je suis bien arrive dans\nl'ere de P... dans l'ere de <cs_pchero> avec<br>le voyage temporel."
+    },
+    "209450": {
+        "「すべてが　死滅してるキュ……。\n　誰もいない……生命の息吹を\n　まったく　感じ取れないキュ！？": "Tout est aneanti... Il n'y a personne... Je ne\nressens aucune trace de vie ici !"
+    },
+    "209451": {
+        "「生きているのは　ボクと　<cs_pchero>だけ。\n　もしかして　ここは……ボクらが\n　回避しようとしてきた　滅びの未来キュ？": "En vie, il n'y a que moi et <cs_pchero>.\nSerait-ce possible que ce soit... le futur de\ndestruction que nous avons essaye d'eviter ?"
+    },
+    "209452": {
+        "「ボクらが　時の牢獄で過ごしたのは\n　たった　数分だったけど　現実の世界では\n　数ヶ月も　経過していたみたいキュ……。": "Nous n'avons passe que quelques minutes dans\nla prison du temps, mais dans le monde de P.,\nil semble que plusieurs mois se soient<br>ecoules..."
+    },
+    "209453": {
+        "「その間に　キュロノスは　宣言通り\n　アストルティアを　滅ぼしてしまったキュ！！": "Pendant ce temps, Kyuronos a, comme il l'avait\ndeclare, detruit Astoltia !!"
+    },
+    "209454": {
+        "<center>不快な雑音を　感知……": "Bruit desagreable detecte..."
+    },
+    "209455": {
+        "<center>……時の異分子か。\n我を討たんがために　追ってくるとは\nすさまじいまでの　執念よ。": "Un element perturbateur du temps, n'est-ce pas\n? Me poursuivre dans le but de me vaincre...\nQuelle incroyable tenacite."
+    },
+    "209456": {
+        "<center>だが　すべてが終わった後に　現れるなど\nまさに　不完全の象徴ともいうべき　愚行。\n我が世界を完全なものとするため　排除する。": "Cependant, etre abandonne apres que tout soit\ntermine est veritablement une folie, symbole\nd'imperfection. Pour rendre mon monde parfait,<br>je vais l'eliminer."
+    },
+    "209457": {
+        "「これが　世界を滅ぼした\n　キュロノスの　究極の姿……。": "Voici la forme ultime de Kyuronos, celui qui a\ndetruit le monde..."
+    },
+    "209458": {
+        "「我は　すべての　時間と空間を統べる者。\n　唯一にして　絶対なる　永劫の支配者。": "Je suis celui qui regne sur tout le temps et\nl'espace. L'unique et absolu maitre eternel."
+    },
+    "209459": {
+        "「神の座に至った我に　あらがう雑音どもは\n　すべて　ひとしく　無力であった。": "Pour moi, qui a atteint le trone des dieux,\ntoutes ces nuisances qui s'opposent ne sont\nrien d'autre qu'impuissance."
+    },
+    "209460": {
+        "「我にひれ伏し　因果律より　消滅せよ。": "Prosternez-vous devant moi et disparaissez du\ncycle de la causalite."
+    },
+    "209461": {
+        "「キュキュキュッ！？\n　また　時をあやつって\n　復活しようとしてるキュ！！": "Kyu kyu kyu !? Encore en train de manipuler le\ntemps pour tenter de revenir a la vie, kyu !!"
+    },
+    "209462": {
+        "「ボクが　介入して\n　キュロノスの時間操作を　妨害するキュ！": "Je vais intervenir pour contrer la\nmanipulation temporelle de Kyuronos, kyu !"
+    },
+    "209463": {
+        "「あまり　もちそうにないキュ……。\n　今のうちに　キュロノスにトドメを……。": "Ca ne va pas durer longtemps, kyu... Il faut\nen finir avec Kyuronos pendant qu'on le\npeut..."
+    },
+    "209464": {
+        "「時渡りのチカラを凝集した　刃でなら\n　キュロノスの核を……\n　チカラの源を　破壊できるキュ！": "Avec une lame impregnee du pouvoir des\nvoyageurs temporels, il est possible de\ndetruire le noyau de Kyuronos... la source de<br>son pouvoir !"
+    },
+    "209465": {
+        "「目の前に　刃を作るつもりで\n　時渡りのチカラを　集中させるキュ！\n　<cs_pchero>なら　きっと　できるキュ……。": "Concentre la puissance du voyage temporel\ndevant toi comme si tu forgeais une lame !\n<cs_pchero>, je suis sur que tu peux le<br>faire..."
+    },
+    "209466": {
+        "「あとは　キュロノスの核の　ありかを…………": "Ensuite, l'emplacement du noyau de Kyuronos..."
+    },
+    "209467": {
+        "「赤く光ってるところを　つらぬくキュ！\n　その奥に　ヤツのチカラの源があるキュ！": "Traverse l'endroit qui brille en rouge kyu !\nC'est la que se trouve la source de son\npouvoir kyu !"
+    },
+    "209468": {
+        "「おのれェ！！　時の異分子ィィ！\n　おのれ……エテーネ人！！": "Maudits soient les intrus du temps !! Maudits\nsoient... les Ethene !"
+    },
+    "209469": {
+        "「だが　この滅びは　絶対不変の終着点！\n　幾たび　時を渡り　未来を変えるべく\n　小細工を　重ねたところで　かなわぬと知れ！": "Cependant, cette destruction est un point\nfinal absolu et immuable ! Peu importe combien\nde fois tu traverseras le temps pour tenter de<br>changer l'avenir, sache que tes petites ruses\nne reussiront pas !"
+    },
+    "209470": {
+        "「未来永劫　アストルティアに　ふたたび\n　生命が満ちることは　ないであろう！！": "Jamais plus, a l'avenir, Astoltia ne sera\nremplie a nouveau de vie !!"
+    },
+    "209471": {
+        "<cs_pchero>は\n戦禍のタネ（だいじなもの）を\n手に入れた。<me 60>": "<cs_pchero> a obtenu la Graine de Conflit\n(objet cle). <me 60>"
+    },
+    "209472": {
+        "「残念だけど……キュロノスの言ってた通り\n　滅びの未来は　すでに　確定してしまったキュ。": "C'est regrettable, mais... comme Kyuronos\nl'avait dit, l'avenir de la destruction est\ndeja scelle, kyu."
+    },
+    "209473": {
+        "「これから　過去に　さかのぼって\n　やり直そうとしても　時間の修正力が働いて\n　必ず　世界は滅びてしまうはずキュ。": "A partir de maintenant, meme si tu essaies de\nretourner dans le passe pour reparer la Lance,\nla force de correction du temps agira, et le<br>monde finira inevitablement par etre detruit,\nkyu."
+    },
+    "209474": {
+        "「ずっと　未来を変えるために\n　戦ってきたけど……\n　ボクたちは　失敗したんだキュ……。": "Nous avons toujours combattu pour changer\nl'avenir... Mais nous avons echoue, kyu..."
+    },
+    "209475": {
+        "「<cs_pchero>は　これから　どうしたいキュ？\n　まだ　人のいる時代に　戻ってみるキュ？": "<cs_pchero>, que veux-tu faire maintenant, kyu\n? Veux-tu revenir a l'epoque ou les humains\nexistaient, kyu ?"
+    },
+    "209476": {
+        "「キュキュ！？ \n　大規模な　時渡りの予兆キュ！ \n　巨大な何かが　迫っているキュ！": "Kyukyu!? Un grand presage de voyage temporel,\nkyu! Quelque chose de gigantesque approche,\nkyu!"
+    },
+    "209477": {
+        "「キュロノスが宿していた　時渡りのチカラが\n　たった今　現れたばかりの島に\n　引き寄せられているキュ……。": "Le pouvoir du voyage temporel que Kyuronos\nabritait est en train d'etre attire vers cette\nile qui vient tout juste d'emerger... Kyu..."
+    },
+    "209478": {
+        "「ボクらも　行って　確かめてみるキュ！": "Nous devrions y aller et verifier par\nnous-memes, Kyu !"
+    },
+    "209479": {
+        "「さっきまで　昼間だったのに……。": "Il y a un instant, c'etait encore le jour..."
+    },
+    "209480": {
+        "「おい！　隕石が　消えてるぞ！": "He ! La meteorite a disparu !"
+    },
+    "209481": {
+        "「これは……５０００年の時を超えて\n　エテーネ王国が　まるごと\n　現代に　現れたキュ！？": "C'est... le royaume d'Ethene tout entier qui a\ntraverse 5000 ans de temps pour se retrouver\nici !?"
+    },
+    "209482": {
+        "「こんな　とてつもないこと\n　いったい　誰が　どうやって……？": "Comment une chose aussi incroyable a-t-elle pu\nse produire, et qui en est responsable...?"
+    },
+    "209483": {
+        "「覚えてるキュ？　<cs_pchero>。\n　５０００年前のマデ神殿で　もうひとりの\n　メレアーデが　時見の泉に入っていったのを。": "Tu te souviens, <cs_pchero> ? Il y a 5000 ans,\ndans le temple de Made, une autre Mereade est\nentree dans la source des Voyants du Temps."
+    },
+    "209484": {
+        "「こんな大それたことを　やってのけるのは\n　あの　メレアーデだけキュ。": "Une chose aussi audacieuse ne peut etre\naccomplie que par cette Mereade."
+    },
+    "209485": {
+        "「時見の泉には　キュレクスが\n　アストルティアに　渡ってくるために使った\n　航界船があったはずキュ。": "A Timeseer Spring, il devrait y avoir le\nnavire interdimensionnel que Curex a utilise\npour traverser vers Astoltia, kyu."
+    },
+    "209486": {
+        "「航界船には　時渡りのチカラを動力にして\n　周囲の空間ごと　安全に　時渡りさせる\n　驚異のテクノロジーが　そなわっているキュ。": "La navire de traverse utilise la puissance de\nla traversee temporelle comme energie pour\neffectuer un voyage dans le temps en toute<br>securite, en emportant avec lui l'espace\nenvironnant grace a une technologie\nincroyable."
+    },
+    "209487": {
+        "「あの船の持つ機能と　永久時環に残っていた\n　時渡りのチカラを使って　いずれ　隕石に\n　滅ぼされるはずの故郷を　救おうとしたキュね。": "Avec les fonctionnalites de ce navire et le\npouvoir de traverser le temps qui restait dans\nl'Eternal Ring, Kyuu a essaye de sauver son<br>village natal qui devait etre detruit par une\nmeteorite."
+    },
+    "209488": {
+        "「これだけのことを　やったからには\n　身体にも　相当な負担が　かかってるはずキュ。\n　今も　無事かどうか……。": "Apres avoir fait tout ca, ton corps doit\nressentir une sacree pression, kyu. Je me\ndemande si tu vas bien..."
+    },
+    "209489": {
+        "「……きっと　メレアーデは　自分が\n　平和に暮らしていた　５０００年後の世界を\n　思い浮かべて　王国を時渡りさせたキュル。": "......Mereade a surement pense a son monde\npaisible de 5000 ans dans le futur et a fait\ntraverser le temps au royaume."
+    },
+    "209490": {
+        "「でも　この　滅んでしまった世界では\n　メレアーデも　時渡りしてきた人たちも\n　誰も　浮かばれないキュ……。": "Mais dans ce monde devaste, ni Mereade ni les\nvoyageurs du temps ne trouvent la paix, kyu..."
+    },
+    "209491": {
+        "「キュロノスが宿していた　時渡りのチカラが\n　みるみる　吸収されてくキュ。\n　これだけの量があれば　もしかしたら……？": "Le pouvoir du voyage temporel que Kyuronos\ndetenait est en train d'etre absorbe a vue\nd'oeil, kyu. Avec une telle quantite, peut-etre<br>que... ?"
+    },
+    "209492": {
+        "「ちょっと　永久時環を確かめてくるキュ！": "Je vais juste aller verifier l'Eternal Ring,\nkyu !"
+    },
+    "209493": {
+        "「………………。": ""
+    },
+    "209494": {
+        "「キュロノスの死　という事象を維持したまま\n　世界の時間を戻すのは　<pc>が\n　考えている以上に　繊細な作業キュよ。": "Tout en maintenant l'evenement de la mort de\nKyuronos, remonter le temps du monde est une\ntache plus delicate que <pc> ne<br>l'imagine, kyu."
+    },
+    "209495": {
+        "「もし　しくじったら\n　ただ　キュロノスを　復活させただけってことに\n　なりかねないキュ……。": "Si jamais on echoue, cela pourrait simplement\naboutir a la resurrection de Kyuronos, kyu..."
+    },
+    "209496": {
+        "「けれど　アストルティアを元通りにしたいという\n　<pc>の意志は　固いキュね。": "Cependant, la volonte de <pc> de\nrestaurer Astoltia est ferme, kyu ne."
+    },
+    "209497": {
+        "「<pc>が　そう望むなら\n　ここまで　がんばってくれた　ご褒美に\n　ボクが　ひと肌ぬいでやらないでもないキュ。": "Si <pc> le souhaite, je ne serais pas\ncontre lui donner un coup de main pour le\nrecompenser de tous ses efforts jusqu'ici,<br>kyu."
+    },
+    "209498": {
+        "「うまくいったら　お礼に　特大チョコレートを\n　プレゼントしてほしいキュ。": "Si tout se passe bien, j'aimerais que tu\nm'offres un chocolat geant en guise de\nremerciement, kyu."
+    },
+    "209499": {
+        "「成功を祈って　見守っててほしいキュ！": "Je prie pour notre succes, alors j'aimerais\nque tu nous surveilles, Kyu !"
+    },
+    "209500": {
+        "「キュルルルルゥー！！": "Kyururu Lulu !!"
+    },
+    "209501": {
+        "「あれ！？　なんで　なんで？\n　さっきまで　不気味な空だったのに！": "Ah !? Pourquoi, pourquoi ? Il y a un instant,\nle ciel etait encore lugubre !"
+    },
+    "209502": {
+        "「あなただって　見たわよね？　ね？": "Tu l'as vu aussi, n'est-ce pas ? N'est-ce pas\n?"
+    },
+    "209503": {
+        "「キュロノスの存在は　感知できないキュ。\n　因果律操作は……成功したキュ！": "Je ne peux pas detecter la presence de\nKyuronos, kyu. L'operation de manipulation des\nlois causales a... reussi, kyu !"
+    },
+    "209504": {
+        "「これで　アストルティアは　元通り……\n　でも　今回ばかりは　へろへろキュゥ……。": "Astoltia est enfin revenue a la normale...\nMais cette fois, je suis completement\nepuise..."
+    },
+    "209505": {
+        "「キュロノスを倒すのに　かなり消耗して\n　それに加えて　因果律操作まで……\n　さすがに　ちょっと　無理をしすぎたキュル。": "J'ai beaucoup depense d'energie pour vaincre\nKyuronos, et en plus, manipuler la\ncausalite... Je crois que j'en ai un peu trop<br>fait, Kyuru."
+    },
+    "209506": {
+        "「ボクは　キュレクスや　キュロノスみたいに\n　成熟してないから……大きなチカラを使うのは\n　存在への負担が　大きいキュ。": "Je ne suis pas aussi mature que Kyurex ou\nKyuronos... Utiliser un grand pouvoir\nrepresente une lourde charge pour mon<br>existence."
+    },
+    "209507": {
+        "「今回は……身体を維持するだけの　\n　チカラまで　使い切ってしまったみたいキュ。\n　どうやら……ここで　お別れキュゥ。": "Cette fois... il semble que j'ai epuise toute\nl'energie necessaire pour maintenir mon corps\nen etat, kyu. Il semblerait... que nous<br>devions nous dire adieu ici, kyuu."
+    },
+    "209508": {
+        "「でも　悲しむ必要は　まったく　ないキュ。\n　時の妖精は　肉体が消滅すると　存在まで\n　失ってしまう　キミたちとは　格がちがうキュ。": "Mais il n'y a absolument pas besoin d'etre\ntriste, kyu. Les fees du temps sont d'un tout\nautre niveau que vous, qui perdez votre<br>existence lorsque votre corps disparait, kyu."
+    },
+    "209509": {
+        "「もう　こんなふうに　話せなくなるけれど……\n　ボクは世界の一部となって　これからも\n　<pc>を　見守っていくキュ。": "Je ne pourrai plus te parler ainsi, mais... Je\nvais devenir une partie du monde et continuer\na veiller sur <pc>, kyu."
+    },
+    "209510": {
+        "「キミは……ボクの友だちキュ。\n　友だちのために　やれることがあるってのは\n　ちょっと　誇らしい気分キュ……。": "Toi... tu es mon ami, Kyu. Pouvoir faire\nquelque chose pour un ami, ca me rend un peu\nfier, Kyu..."
+    },
+    "209511": {
+        "「たのしい旅路だったキュ。\n　<pc>…………": "C'etait un voyage amusant, kyu. <pc>..."
+    },
+    "209512": {
+        "<center>マデ島の　時見の泉で　メレアーデが\n<pc>が来るのを　待っているキュ。\n迎えにいってやると　いいキュ。": "Mereade attend <pc> a la Source du Devin\ndu Temps sur l'ile Made Isle, kyu. Tu devrais\naller la chercher, kyu."
+    },
+    "209513": {
+        "「あ……<pc>……？\n　迎えにきてくれたのね。": "Ah... <pc>... ? Tu es venu me chercher."
+    },
+    "209514": {
+        "「また　あなたに会えるなんて　夢のよう……\n　約束を守ってくれて……ありがとう。": "C'est comme un reve de te revoir... Merci\nd'avoir tenu ta promesse..."
+    },
+    "209515": {
+        "「私の　時渡りのチカラは\n　尽き果てて　しまったようね……。\n　けれど　やりとげたんだわ。": "Mon pouvoir de voyager a travers le temps\nsemble s'etre epuise... Mais j'ai reussi a\nobtenir la Lance."
+    },
+    "209516": {
+        "「あなたが　迎えにきてくれた　ということは\n　エテーネ王国の時渡りに　成功した……。\n　ここは　あなたが暮らす　５０００年後なの？": "Le fait que tu sois venu me chercher signifie\nque tu as reussi le voyage temporel au royaume\nd'Ethene... Sommes-nous ici, 5000 ans dans le<br>futur ou tu vis ?"
+    },
+    "209517": {
+        "「よかった……本当に　よかった。\n　私　エテーネを救えたんだわ。": "Je suis soulagee... Vraiment soulagee. J'ai pu\nsauver Ethene."
+    },
+    "209518": {
+        "「ここで別れたときの　キュルルの言葉……\n　かならず　キュロノスを倒すって\n　言ってくれたでしょ？": "Les mots de Kyururu lorsque nous nous sommes\nsepares ici... Tu as dit que tu vaincrais\nKyuronos, n'est-ce pas ?"
+    },
+    "209519": {
+        "「ふたりを信じ　この装置で　王都の永久時環に\n　はたらきかけて　王国を時渡りさせたの。\n　過去の私が　永久時環を　起動させたあとにね。": "Je croyais en vous deux et, grace a cet\nappareil, j'ai influence l'Eternal Ring de la\ncapitale royale pour faire voyager le royaume<br>a travers le temps. Cela s'est produit apres\nque mon moi du passe ait active l'Eternal\nRing."
+    },
+    "209520": {
+        "「その代わり　私は　５０００年前のマデ神殿に\n　ひとり　取り残されてしまったわ……。": "En revanche, je me suis retrouvee seule,\nlaissee derriere dans le Temple Made d'il y a\n5000 ans..."
+    },
+    "209521": {
+        "「もし　マデ神殿が　なくなっていたら\n　私も無事では　いられなかったでしょうね。": "Si le Temple Made avait disparu, je ne serais\nprobablement pas indemne non plus."
+    },
+    "209522": {
+        "「ねえ…………叔父様と　キュルルは？": "Dis-moi... et oncle-sama et Kyururu ?"
+    },
+    "209523": {
+        "「そんなことって…………。": "Ce n'est pas possible..."
+    },
+    "209524": {
+        "「もう　ふたりに会えないなんて……。\n　私……とても　信じられないわ。": "Je ne peux pas croire que je ne verrai plus\njamais vous deux... Je... c'est vraiment\nincroyable."
+    },
+    "209525": {
+        "「時の停止した　５０００年の眠りの中で\n　そんなはずないのに　ずっと\n　夢を　見ていた気がするの……。": "Dans ce sommeil de 5000 ans ou le temps s'est\narrete, j'ai l'impression d'avoir constamment\nreve, meme si cela ne devrait pas etre<br>possible..."
+    },
+    "209526": {
+        "「平和になった　この時代で　叔父様　叔母様\n　……クオードや　ファラスまで。\n　みんなで　幸せに暮らしていく夢を……。": "Dans cette epoque de paix, mon oncle et ma\ntante... jusqu'a Quard et Faras. Je reve que\nnous vivions tous heureux ensemble..."
+    },
+    "209527": {
+        "「<pc>　ここを出ましょう。\n　ちゃんと　エテーネを救えたか　どうか\n　自分の目で　確かめたいわ。": "<pc>, sortons d'ici. Je veux verifier de\nmes propres yeux si nous avons vraiment reussi\na sauver Ethene."
+    },
+    "209528": {
+        "「見る影もない……。\n　ほとんど　沈んでしまったのね……。": "Il ne reste presque rien... Il a presque\nentierement sombre..."
+    },
+    "209529": {
+        "「あれは　キィンベル……よかった。\n　滅亡の未来から　大勢の命を救えたんだわ。": "C'est Kynbel... Quelle chance. Nous avons\nreussi a sauver de nombreuses vies d'un avenir\nde destruction."
+    },
+    "209530": {
+        "「だけど　あの　なつかしい空の色は\n　もう　見られない……。": "Mais cette couleur de ciel nostalgique, je ne\npeux plus la voir..."
+    },
+    "209531": {
+        "「エテーネ王宮も……失われたまま。": "Le Palais Royal d'Ethene aussi... reste perdu."
+    },
+    "209532": {
+        "「クオード…………": "Quard..."
+    },
+    "209533": {
+        "「この時代では　存在しないはずの\n　エテーネ王国を　復活させてしまった。": "Dans cette epoque, le royaume d'Ethene, qui\nn'aurait pas du exister, a ete ressuscite."
+    },
+    "209534": {
+        "「私は　歴史を歪めてしまったのね……。": "Je suis donc celle qui a deforme l'histoire..."
+    },
+    "209535": {
+        "「……でも　迫りくる滅びに　立ち向かい\n　必死に　生き抜こうとすることが\n　まちがいだなんて　思いたくないわ。": "…Mais je ne veux pas croire que se dresser\ncontre la destruction imminente et lutter\ndesesperement pour survivre soit une erreur."
+    },
+    "209536": {
+        "「クオード…………誓うわ。": "Quard... je te le jure."
+    },
+    "209537": {
+        "「あなたが　命をかけて守りぬいた\n　エテーネ王国が　この時代の人々に\n　受け入れてもらえるよう　尽くす……と。": "Je ferai en sorte que le royaume d'Ethene, que\ntu as protege au peril de ta vie, soit accepte\npar les gens de cette epoque..."
+    },
+    "209538": {
+        "「それが　私たちの選んだ道が\n　より良い未来へ　つながったという\n　なによりの　証になるはずだから。": "Parce que cela prouvera que le chemin que nous\navons choisi mene vers un avenir meilleur."
+    },
+    "209539": {
+        "「…………そうよね？": "...... N'est-ce pas ?"
+    },
+    "209540": {
+        "<if_woman>「姉ちゃん！\n　<pc>姉ちゃんなんだろ？<else>「兄ちゃん！\n　<pc>兄ちゃんなんだろ？<endif>": "<if_woman>>Grande soeur ! C'est toi, grande\nsoeur <pc> ?<else>>Grand frere ! C'est toi, grand frere\n<pc> ? <endif>"
+    },
+    "209541": {
+        "「ああ！　よかった。\n　まぼろしじゃ　ないんだね。": "Ah ! Je suis tellement soulage. Ce n'etait pas\nun mirage."
+    },
+    "209542": {
+        "<if_woman>「こんな場所で　姉ちゃんと出会えるなんて\n　夢にも　思わなかったよ！<else>「こんな場所で　兄ちゃんと出会えるなんて\n　夢にも　思わなかったよ！<endif>": "<if_woman>>Rencontrer ma grande soeur dans un\nendroit comme celui-ci, je n'aurais jamais ose\nen rever !<else>>Rencontrer mon grand frere dans un endroit\ncomme celui-ci, je n'aurais jamais ose en\nrever ! <endif>"
+    },
+    "209543": {
+        "「だけど……ここは　いったい\n　どういう場所なんだろう？": "Mais... quel est donc cet endroit ?"
+    },
+    "209544": {
+        "「もうずっと　この建物の中を\n　さまよってるんだけど　いくら進んでも\n　いっこうに　出られないんだ。": "Je me perds dans ce batiment depuis un bon\nmoment, mais peu importe combien j'avance, je\nn'arrive pas a en sortir."
+    },
+    "209545": {
+        "「それには　ボクが答えるキュ。": "C'est moi qui vais repondre a cela, kyu."
+    },
+    "209546": {
+        "「キュルルじゃないか！？": "N'est-ce pas Kyururu !?"
+    },
+    "209547": {
+        "<if_woman>「そうか！　姉ちゃんが　おいらのキューブを\n　使っているんだね。<else>「そうか！　兄ちゃんが　おいらのキューブを\n　使っているんだね。<endif>": "<if_woman>>Je vois ! Grande soeur utilise mon\ncube.<else>>Je vois ! Grand frere utilise mon cube.<endif>"
+    },
+    "209548": {
+        "「ボクと　<pc>は　世界の滅亡を\n　阻止するため　ここ　時獄の迷宮に\n　乗り込んできたんだキュ。": "Moi et <pc> sommes venus ici, dans le\nLabyrinthe du Temps, pour empecher la\ndestruction du monde, kyu."
+    },
+    "209549": {
+        "<if_woman>「姉ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<else>「兄ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<endif>": "<if_woman>>Grande soeur... tu te meles encore\nd'une telle affaire...<else>>Grand frere... tu te meles encore d'une telle\naffaire... <endif>"
+    },
+    "209550": {
+        "「つい　このあいだ　ナドラガンドで\n　大変な目に　あったばかりだってのに……。": "Il n'y a pas si longtemps, j'ai eu une\nterrible experience a Nadragand..."
+    },
+    "209551": {
+        "「<kyodai>にとっては　ナドラガンドで\n　別れた直後でも　<pc>にとっては\n　ウルベア地下帝国で　別れて以来キュよ。": "Pour <kyodai>, nous nous sommes separes\njuste apres le Dragon Land, mais pour\n<pc>, cela fait depuis notre separation<br>a l'Empire d'Urbea."
+    },
+    "209552": {
+        "「えっ　そうなの……？\n　あれ？　ってことはさ……もしかして　あの時\n　キュルルも　ウルベアにいたんじゃ……。": "Hein, vraiment... ? Attends une minute, ca\nveut dire que... peut-etre que, a ce\nmoment-la, Kyururu etait aussi a Ulbear..."
+    },
+    "209553": {
+        "「水臭いなぁ……。\n　なんで　姿を　見せてくれなかったのさ。": "C'est un peu froid de ta part... Pourquoi ne\npas avoir montre ton visage ?"
+    },
+    "209554": {
+        "「ウルベアにいたころの　<kyodai>は\n　まだ　ボクと　面識がなかったキュ。\n　不必要な情報を　与えたくなかったキュ。": "A l'epoque ou j'etais a Urbea, <kyodai> ne\nme connaissait pas encore. Je ne voulais pas\nlui donner d'informations inutiles."
+    },
+    "209555": {
+        "「えらそうなこと言って　ホントはまた\n　グースカ　眠りこけてただけじゃないの？": "Tu fais le malin, mais en realite, tu dormais\nprofondement, non ?"
+    },
+    "209556": {
+        "「……けど　そんな物言いも　なつかしいや。": "...Cependant, ce genre de discours me rend\nnostalgique."
+    },
+    "209557": {
+        "<if_woman>「おいらの代わりに　信頼できる友だちが\n　姉ちゃんを　ささえてくれてるなら　心強いよ。<else>「おいらの代わりに　信頼できる友だちが\n　兄ちゃんを　ささえてくれてるなら　心強いよ。<endif>": "<if_woman>>Si un ami de confiance soutient ma\ngrande soeur a ma place, cela me rassure\nbeaucoup.<else>>Si un ami de confiance soutient mon grand\nfrere a ma place, cela me rassure beaucoup.<endif>"
+    },
+    "209558": {
+        "<if_woman>「世界の滅亡の　阻止だっけ？\n　おいらにも協力させてよ　姉ちゃん。<else>「世界の滅亡の　阻止だっけ？\n　おいらにも協力させてよ　兄ちゃん。<endif>": "<if_woman>>C'est pour empecher la fin du\nmonde, n'est-ce pas ? Laisse-moi t'aider,\ngrande soeur.<else>>C'est pour empecher la fin du monde, n'est-ce\npas ? Laisse-moi t'aider, grand frere.<endif>"
+    },
+    "209559": {
+        "<if_woman>「いつも　迷惑かけっぱなしだったからね。\n　ようやく　おいらの錬金の技を　姉ちゃんの\n　役に立てられるかと思うと　うれしいよ！<else>「いつも　迷惑かけっぱなしだったからね。\n　ようやく　おいらの錬金の技を　兄ちゃんの\n　役に立てられるかと思うと　うれしいよ！<endif>": "<if_woman>>Je t'ai toujours cause des ennuis.\nJe suis vraiment content de pouvoir enfin\nmettre mes competences en alchimie au service<br>de ma grande soeur !<else>>Je t'ai toujours cause des ennuis. Je suis\nvraiment content de pouvoir enfin mettre mes\ncompetences en alchimie au service de mon<br>grand frere !<endif>"
+    },
+    "209560": {
+        "<if_woman>「あっ　まただよ！\n　くそっ　ひどいや　こんなときに……。\n　せっかく　姉ちゃんに会えたのに！<else>「あっ　まただよ！\n　くそっ　ひどいや　こんなときに……。\n　せっかく　兄ちゃんに会えたのに！<endif>": "<if_woman>>Ah, encore une fois ! Zut, c'est\nterrible, surtout en ce moment... J'ai enfin\npu revoir ma grande soeur !<else>>Ah, encore une fois ! Zut, c'est terrible,\nsurtout en ce moment... J'ai enfin pu revoir\nmon grand frere ! <endif>"
+    },
+    "209561": {
+        "<if_woman>「忘れないで　姉ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　おいらは　ずっと　姉ちゃんの味方だか……<else>「忘れないで　兄ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　おいらは　ずっと　兄ちゃんの味方だか……<endif>": "<if_woman>>N'oublie pas, grande soeur ! Peu\nimporte le temps qui passe ou ce qui se passe,\nje serai toujours de ton cote...<else>> N'oublie pas, grand frere ! Peu importe le\ntemps qui passe ou ce qui se passe, je serai\ntoujours de ton cote... <endif>"
+    },
+    "209562": {
+        "「……消えちゃったキュル。": "... Il a disparu, Kyuru."
+    },
+    "209563": {
+        "「まったく　<kyodai>は　とことん\n　落ち着きのないやつキュね。\n　気を取り直して　先を急ぐキュ！": "Vraiment, <kyodai> est un etre totalement\nagite, kyu. Reprends-toi et avancons\nrapidement, kyu !"
+    },
+    "209564": {
+        "「<pc>！？　<pc>なのか？": "<pc> !? Est-ce bien toi, <pc> ?"
+    },
+    "209565": {
+        "「<pc>！？　<pc>なのね？": "<pc> !? C'est bien <pc>, n'est-ce\npas ?"
+    },
+    "209566": {
+        "<if_woman>「お姉ちゃん！\n　<pc>お姉ちゃんなんでしょ？<else>「お兄ちゃん！\n　<pc>お兄ちゃんなんでしょ？<endif>": "<if_woman>>Grande soeur ! Tu es <pc>,\nn'est-ce pas ?<else>>Grand frere ! Tu es <pc>, n'est-ce pas\n? <endif>"
+    },
+    "209567": {
+        "「ああ！　よかった。\n　まぼろしじゃ　ないんだな。": "Ah ! Je suis soulage. Ce n'est donc pas une\nillusion."
+    },
+    "209568": {
+        "「ああ！　よかった。\n　まぼろしじゃ　ないのね。": "Ah ! Je suis soulage. Ce n'est pas une\nillusion."
+    },
+    "209569": {
+        "「ああ！　よかった。\n　まぼろしじゃなくて。": "Ah ! Je suis soulage. Ce n'etait pas une\nillusion."
+    },
+    "209570": {
+        "「こんな場所で　出会えるなんて\n　夢にも　思わなかった！": "Je n'aurais jamais imagine te rencontrer dans\nun endroit pareil !"
+    },
+    "209571": {
+        "「こんな場所で　出会えるなんて\n　夢にも　思わなかったわ！": "Je n'aurais jamais reve de te rencontrer dans\nun tel endroit !"
+    },
+    "209572": {
+        "「こんな場所で　出会えるなんて\n　夢にも　思わなかったよ！": "Je n'aurais jamais imagine te rencontrer dans\nun endroit pareil !"
+    },
+    "209573": {
+        "「だが……ここは　いったい\n　どういう場所なんだ？": "Mais... quel est cet endroit exactement ?"
+    },
+    "209574": {
+        "「だけど……ここは　いったい\n　どういう場所なの？": "Mais... quel est donc cet endroit ?"
+    },
+    "209575": {
+        "「だけど……ここは　いったい\n　どういう場所なのかな？": "Mais... quel est cet endroit exactement ?"
+    },
+    "209576": {
+        "「もうずっと　この建物の中を\n　さまよっているんだが　いくら進んでも\n　いっこうに　出られないんだ。": "Je suis perdu dans ce batiment depuis un bon\nmoment, mais peu importe combien j'avance, je\nn'arrive pas a en sortir."
+    },
+    "209577": {
+        "「もうずっと　この建物の中を\n　さまよってるんだけど　いくら進んでも\n　いっこうに　出られないのよ。": "Je erre dans ce batiment depuis un bon moment\nmaintenant, mais peu importe combien j'avance,\nje n'arrive pas a sortir."
+    },
+    "209578": {
+        "「もうずっと　この建物の中を\n　さまよってるんだけど　いくら進んでも\n　いっこうに　出られないの。": "Je erre dans ce batiment depuis un bon moment,\nmais peu importe combien j'avance, je n'arrive\npas a en sortir."
+    },
+    "209579": {
+        "「キュルルなのか！？": "C'est Kyururu !?"
+    },
+    "209580": {
+        "「キュルルじゃない！？": "Ce n'est pas Kyururu !?"
+    },
+    "209581": {
+        "「キュルル！？": "Kyururu !?"
+    },
+    "209582": {
+        "「そうか！　<pc>が\n　オレのキューブを　使っているのか！": "Je vois ! <pc> utilise mon cube !"
+    },
+    "209583": {
+        "「そっか！　<pc>が\n　あたしのキューブを　使っているのね！": "Ah, je vois ! <pc> utilise mon cube !"
+    },
+    "209584": {
+        "<if_woman>「そうか！　お姉ちゃんが　私のキューブを\n　使っているんだね。<else>「そうか！　お兄ちゃんが　私のキューブを\n　使っているんだね。<endif>": "<if_woman>>Ah, je vois ! Grande soeur utilise\nmon cube.<else>>Ah, je vois ! Grand frere utilise mon cube.<endif>"
+    },
+    "209585": {
+        "「<pc>……またそんな　大ごとに\n　首を　つっ込んでるのか……。": "<pc>... Encore en train de te meler de\ngrandes affaires, n'est-ce pas..."
+    },
+    "209586": {
+        "「<pc>……またそんな　大ごとに\n　首を　つっ込んでるのね……。": "<pc>... tu te meles encore de grandes\naffaires, n'est-ce pas...?"
+    },
+    "209587": {
+        "<if_woman>「お姉ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<else>「お兄ちゃん……またそんな　大ごとに\n　首を　つっ込んでるんだね……。<endif>": "<if_woman>>Grande soeur... Tu te meles encore\nde quelque chose de si important...<else>>Grand frere... Tu te meles encore de quelque\nchose de si important... <endif>"
+    },
+    "209588": {
+        "「つい　このあいだ　ナドラガンドで\n　大変な目に　あったばかりだというのに……。": "Il n'y a pas longtemps, j'ai vecu une terrible\nexperience a Dragan..."
+    },
+    "209589": {
+        "「つい　このあいだ　ナドラガンドで\n　大変な目に　あったばかりなのに……。": "Il n'y a pas si longtemps, j'ai deja eu de\ngros ennuis a NaDragan..."
+    },
+    "209590": {
+        "「つい　このあいだ　ナドラガンドで\n　大変な目に　あったばかりなのに……。": "Il n'y a pas si longtemps, j'ai deja eu de\ngros ennuis a NaDragan..."
+    },
+    "209591": {
+        "「えっ　そうなのか……。\n　ということは　もしかして　あの時\n　キュルルも　ウルベアにいたんじゃ……。": "Eh, vraiment... Cela signifie que peut-etre\nKyururu etait aussi a Urbea a ce moment-la..."
+    },
+    "209592": {
+        "「えっ　そうなの……。\n　あれ？　ってことはさ　もしかして　あの時\n　キュルルも　ウルベアにいたんじゃ……。": "Eh, vraiment... ? Hein ? Ca veut dire que\npeut-etre, a ce moment-la, Kyururu etait aussi\na Ulbea..."
+    },
+    "209593": {
+        "「えっ　そうなの……。\n　あれ？　っていうことは　もしかして　あの時\n　キュルルも　ウルベアにいたんじゃ……。": "Eh, vraiment... Alors ? Ca veut dire que\nKyururu etait peut-etre aussi a Ulbear a ce\nmoment-la..."
+    },
+    "209594": {
+        "「水臭いな……。\n　なんで　姿を　見せてくれなかったんだ。": "C'est froid de ta part... Pourquoi ne t'es-tu\npas montre ?"
+    },
+    "209595": {
+        "「水臭いわね……。\n　なんで　姿を　見せてくれなかったの？": "Tu es distant... Pourquoi ne t'es-tu pas\nmontre ?"
+    },
+    "209596": {
+        "「水臭いなぁ……。\n　なんで　姿を　見せてくれなかったの？": "Tu es distant, hein... Pourquoi ne m'as-tu pas\nmontre ton visage ?"
+    },
+    "209597": {
+        "「えらそうなこと言って　ホントはまた\n　グースカ　眠りこけてただけなんじゃないか？": "Tu fais le malin, mais en realite, tu etais\nprobablement en train de dormir profondement,\npas vrai ?"
+    },
+    "209598": {
+        "「えらそうなこと言って　ホントはまた\n　ぐっすり　眠りこけてただけなんじゃないの？": "Tu parles comme si tu savais tout, mais en\nrealite, tu etais simplement en train de\ndormir profondement, non ?"
+    },
+    "209599": {
+        "「えらそうなこと言って　ホントはまた\n　ぐっすり　眠りこけてただけなんじゃ……？": "Tu te donnes des airs, mais en realite, tu\netais simplement en train de dormir\nprofondement, n'est-ce pas... ?"
+    },
+    "209600": {
+        "「……けど　そんな物言いも　なつかしいな。": "...Mais c'est aussi nostalgique d'entendre ce\ngenre de discours."
+    },
+    "209601": {
+        "「……でも　そんな物言いも　なつかしいわ。": "…Mais meme cette facon de parler me rend\nnostalgique."
+    },
+    "209602": {
+        "「……でも　そんな物言いも　なつかしいな。": "...Mais, cette facon de parler me rend\nnostalgique."
+    },
+    "209603": {
+        "「オレの代わりに　信頼できる友だちが\n　お前を　ささえてくれてるなら　心強いよ。": "C'est rassurant de savoir qu'un ami de\nconfiance te soutient a ma place."
+    },
+    "209604": {
+        "「あたしの代わりに　信頼できる友だちが\n　あんたを　ささえてくれてるなら　心強いわ。": "Je suis rassuree de savoir qu'un ami de\nconfiance te soutient a ma place."
+    },
+    "209605": {
+        "<if_woman>「私の代わりに　信頼できる友だちが\n　お姉ちゃんをささえてくれてるなら　心強いよ。<else>「私の代わりに　信頼できる友だちが\n　お兄ちゃんをささえてくれてるなら　心強いよ。<endif>": "<if_woman>>C'est rassurant de savoir qu'un ami\nfiable soutient ma grande soeur a ma place.<else>>C'est rassurant de savoir qu'un ami fiable\nsoutient mon grand frere a ma place. <endif>"
+    },
+    "209606": {
+        "「世界の滅亡の　阻止だったか？\n　オレも協力させてくれ　<pc>。": "Alors, tu cherches a empecher la fin du monde\n? Laisse-moi t'aider, <pc>."
+    },
+    "209607": {
+        "「世界の滅亡の　阻止だったかしら？\n　あたしも協力するわ　<pc>。": "Etait-ce pour empecher la fin du monde ? Je\nvais aussi t'aider, <pc>."
+    },
+    "209608": {
+        "<if_woman>「世界の滅亡の　阻止だったっけ？\n　私も協力させてよ　お姉ちゃん。<else>「世界の滅亡の　阻止だったっけ？\n　私も協力させてよ　お兄ちゃん。<endif>": "<if_woman>>C'etait pour empecher la fin du\nmonde, non ? Laisse-moi t'aider aussi, grande\nsoeur.<else>>C'etait pour empecher la fin du monde, non ?\nLaisse-moi t'aider aussi, grand frere.<endif>"
+    },
+    "209609": {
+        "「いつも　迷惑かけっぱなしだったからな。\n　ようやく　オレの錬金の技を　お前の\n　役に立てられるかと思うと　うれしいぜ！": "Je vous ai toujours cause des ennuis, n'est-ce\npas ? Ca me rend heureux de penser que je peux\nenfin mettre mes competences en alchimie a<br>votre service !"
+    },
+    "209610": {
+        "「いつも　迷惑かけっぱなしだったからね。\n　ようやく　あたしの錬金の技を　あんたの\n　役に立てられるかと思うと　うれしいわ！": "J'ai toujours ete un fardeau pour toi. Alors,\npouvoir enfin mettre mes competences\nd'alchimie a ton service me rend vraiment<br>heureuse !"
+    },
+    "209611": {
+        "<if_woman>「いつも　迷惑かけっぱなしだったから。\n　ようやく　私の錬金の技を　お姉ちゃんの\n　役に立てられるかと思うと　うれしい！<else>「いつも　迷惑かけっぱなしだったから。\n　ようやく　私の錬金の技を　お兄ちゃんの\n　役に立てられるかと思うと　うれしい！<endif>": "<if_woman>>J'ai toujours cause des soucis,\nalors je suis heureuse de pouvoir enfin\nutiliser mes competences en alchimie pour etre<br>utile a ma grande soeur !<else>>J'ai toujours cause des soucis, alors je suis\nheureux de pouvoir enfin utiliser mes\ncompetences en alchimie pour etre utile a mon<br>grand frere ! <endif>"
+    },
+    "209612": {
+        "「あっ　またかよ！\n　くそっ　こんなときに……。\n　せっかく　<pc>に会えたってのに！": "Ah, encore ca ! Mince, pourquoi maintenant...\nAlors que j'avais enfin pu rencontrer\n<pc> !"
+    },
+    "209613": {
+        "「あっ　またなの！？\n　ひどいわ　こんなときに……。\n　せっかく　<pc>に会えたのに！": "Ah, encore une fois !? C'est horrible, surtout\nen ce moment... Et dire que j'avais enfin pu\nrencontrer <pc> !"
+    },
+    "209614": {
+        "<if_woman>「あっ　また！？\n　ひどいよ　こんなときに……。\n　せっかく　お姉ちゃんに会えたのに！<else>「あっ　また！？\n　ひどいよ　こんなときに……。\n　せっかく　お兄ちゃんに会えたのに！<endif>": "<if_woman>>Oh, encore !? C'est pas possible a\nun moment pareil... J'etais si heureuse de te\nrevoir, grande soeur !<else>>Oh, encore !? C'est pas possible a un moment\npareil... J'etais si heureux de te revoir,\ngrand frere ! <endif>"
+    },
+    "209615": {
+        "「忘れんな　<pc>！\n　どんなに時が過ぎても　この先　何が起こっても\n　オレは　ずっと　お前の味方だか……": "N'oublie pas, <pc> ! Peu importe le\ntemps qui passe, peu importe ce qui arrive a\nl'avenir, Je serai toujours a tes cotes..."
+    },
+    "209616": {
+        "「忘れないで　<pc>！\n　どんなに時が過ぎても　この先　何が起こっても\n　あたしは　ずっと　あんたの味方だか……": "N'oublie jamais, <pc> ! Peu importe le\ntemps qui passe, peu importe ce qui arrive, je\nserai toujours a tes cotes..."
+    },
+    "209617": {
+        "<if_woman>「忘れないで　お姉ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　私　ずっと　お姉ちゃんの味方だか……<else>「忘れないで　お兄ちゃん！\n　どんなに時が過ぎても　この先　何が起こっても\n　私　ずっと　お兄ちゃんの味方だか……<endif>": "<if_woman>>N'oublie pas, grande soeur ! Peu\nimporte combien de temps passe, quoi qu'il\narrive a l'avenir, je serai toujours de ton<br>cote...<else>>N'oublie pas, grand frere ! Peu importe\ncombien de temps passe, quoi qu'il arrive a\nl'avenir, je serai toujours de ton cote...<br><endif>"
+    },
+    "220797": {
+        "「ひとりにして　ご……めん……": "Je suis desole(e) de te laisser seul(e)..."
+    },
+    "229934": {
+        "<center>やむをえぬ……。\nここは退き　壊れた器を捨て\n真なる器の羽化を　急ぐとしよう。": "Je n'ai pas le choix... Il est temps de se\nretirer, de laisser derriere nous les\nrecipients brises et de hater l'emergence de<br>ceux qui sont prets a eclore."
+    },
+    "229936": {
+        "<cs_pchero>と　メレアーデは\n王国軍区画を　後にした。": "<cs_pchero> et Mereade quitterent le quartier\nde l'armee royale."
+    },
+    "229938": {
+        "<center>時の牢獄に　未来永劫　囚われるがいい。": "Puisses-tu etre emprisonne pour l'eternite\ndans la prison du temps."
+    },
+    "229945": {
+        "「さて……行くとするか。": "Bon... Allons-y."
+    },
+    "229947": {
+        "「……アストルティアへ。": "...Vers Astoltia."
+    },
+    "236867": {
+        "パドレと　マローネを包む　光の柱が\n魔物に破壊されてしまうと　敗北となります。\n光の柱を守りながら　黄金のバディンドを倒そう。": "Si le Pilier de Lumiere qui protege Padre et\nMarone est detruit par les monstres, ce sera\nune defaite. Defendez le Pilier de Lumiere<br>tout en battant le Golden Badindo."
+    }
+}

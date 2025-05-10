@@ -1,0 +1,587 @@
+{
+    "301": {
+        "「帰ってきたか。": "Te voila de retour."
+    },
+    "302": {
+        "「おお　フウラ！\n　よくぞ　帰ってきてくれた！": "Oh, Fuura ! Tu es enfin de retour !"
+    },
+    "303": {
+        "「……………………。": "……"
+    },
+    "304": {
+        "「初志を貫きたかった　お前の気持ちはわかる。\n　だが　フウラよ。もっと柔軟に考えてはどうだ。": "Je comprends que tu voulais rester fidele a ta\npremiere intention. Mais, Fuura, ne\npourrais-tu pas envisager les choses avec plus<br>de souplesse ?"
+    },
+    "306": {
+        "「やはり　お前は　カザユラの後を継ぎ\n　風乗りになるべきなのだ。": "Tu dois vraiment succeder a KazaYura et\ndevenir le maitre des vents."
+    },
+    "307": {
+        "「イヤだよ　風乗りなんて……。\n　カムシカに乗るなんて　絶対にイヤ！": "Je ne veux pas devenir un cavalier du vent...\nJe refuse absolument de monter sur un\nAzlantelope !"
+    },
+    "308": {
+        "「フウラよ。あれは　事故だ……。\n　カムシカたちが　悪いわけではない。": "Fuura, c'etait un accident... Les Azlantelopes\nne sont pas en faute."
+    },
+    "309": {
+        "「……………………。": "……"
+    },
+    "310": {
+        "「それに　どうやら　ヨキじいの具合が\n　相当　悪いらしい……。": "De plus, il semble que l'etat de sante de Yoki\nji est assez mauvais..."
+    },
+    "311": {
+        "「じいやが！？": "Le majordome !?"
+    },
+    "312": {
+        "「フウラ。この町は　もう６年も　風送りの儀を\n　おこなっておらん。町の風は　よどみ\n　身体の不調を　うったえる者も　増えている。": "Fuura. Cela fait deja six ans que cette ville\nn’a pas pratique le rite de l’envoi du vent.\nLe vent de la ville stagne, et le nombre de<br>personnes se plaignant de malaises physiques\naugmente."
+    },
+    "313": {
+        "「わしは領主として　新たな風乗りを決め\n　風送りの儀を　とりおこなわねばならん。": "En tant que seigneur du domaine, je dois\ndesigner un nouveau maitre du vent et mener a\nbien la ceremonie d'envoi du vent."
+    },
+    "314": {
+        "「でも………。": "Mais........."
+    },
+    "315": {
+        "「見よ　フウラ。": "Regarde, Fuura."
+    },
+    "316": {
+        "「……！？": "...!?"
+    },
+    "317": {
+        "「お前は　カザユラと同じ\n　カムシカに　愛されし者なのだ。": "Toi aussi, tu es aime de l'Azlantelope, tout\ncomme Kaza Yura."
+    },
+    "318": {
+        "「知らない……。カムシカなんてキライ。\n　それに　私……　すごい子じゃないもん。": "Je ne sais pas... Je deteste Azlantelope. Et\npuis moi... je ne suis pas une personne\nextraordinaire."
+    },
+    "319": {
+        "「お前ほどの素質を持つ者は　他におらぬ。\n　生まれもったチカラを　なぜ人のために\n　役立てようと　考えることができない？": "Il n'y a personne d'autre qui possede un\ntalent comme le tien. Pourquoi ne peux-tu pas\nenvisager d'utiliser ce pouvoir inne pour le<br>bien des autres ?"
+    },
+    "320": {
+        "「フウラよ。まずは　頭を冷やしてきなさい。\n　そして　落ち着いて　よく考えるのだ。": "Fuura, d'abord, va te rafraichir les idees.\nEnsuite, calme-toi et reflechis bien."
+    },
+    "321": {
+        "「今　そなたが見たとおり\n　このアズランは　面倒な問題を抱えている。": "Comme tu as pu le voir, cet AzLMP est\nconfronte a un probleme epineux."
+    },
+    "322": {
+        "「フウラが　風乗りになると決心しないことには\n　風送りの儀は　できぬ。\n　だが　わしも鬼ではない……。": "Si Fuura ne se decide pas a devenir une\nchevaucheuse de vent, la ceremonie de l'envoi\ndu vent ne peut pas avoir lieu. Cependant, je<br>ne suis pas un demon non plus..."
+    },
+    "323": {
+        "「ああは言ったが　娘が\n　かたくなに　風乗りの継承を拒むなら\n　他の方法を探すつもりだ。": "J'ai dit cela, mais si ma fille refuse\nobstinement d'heriter du pouvoir du Vent, je\nchercherai une autre solution."
+    },
+    "324": {
+        "「すまぬが　ひとつ　頼みを聞いてほしい。\n　フウラに会い　胸のうちを\n　聞いてきてほしいのだ……。": "Je suis desole, mais j'ai une requete a te\nfaire. Pourrais-tu aller voir Fuura et ecouter\nce qu'il a sur le coeur...?"
+    },
+    "326": {
+        "「町を出て　北に行った所にある　風泣き岬には\n　フウラおじょうさんの　お母さん……\n　カザユラ奥様の　お墓があるんだけどね。": "En quittant la ville et en allant vers le\nnord, il y a le Cap Venteux ou se trouve la\ntombe de la mere de Mademoiselle Fuura...<br>Madame KazaYura."
+    },
+    "327": {
+        "「おじょうさんは　なにか　つらいことがあると\n　いつも　あの墓に行くんだ。": "La jeune fille, chaque fois qu'elle traverse\nune epreuve difficile, se rend toujours a\ncette tombe."
+    },
+    "328": {
+        "「きゃーっ！！": "Kyaa !!"
+    },
+    "329": {
+        "「<pc>さまっ！？\n　た　助けて……！": "<pc>-sama !? Aidez-moi... !"
+    },
+    "330": {
+        "「た　助けて……！": "Ta... Aidez-moi... !"
+    },
+    "331": {
+        "「な……　なんなの……？": "Qu... Qu'est-ce que c'est...?"
+    },
+    "332": {
+        "「あんたたちになんか　助けてほしくない！": "Je ne veux pas de votre aide !"
+    },
+    "333": {
+        "「大っきらいっ！！": "Je deteste ca !!"
+    },
+    "334": {
+        "「あっ！　ケキちゃんが……": "Ah ! Cakey a..."
+    },
+    "335": {
+        "「よ　よけいなこと　しないでよねっ！": "Ne fais pas de choses inutiles, d'accord !"
+    },
+    "336": {
+        "「ケキちゃんを　取りにいって\n　死なれたりなんかしたら……\n　メーワクなんだから！": "Aller chercher Cakey et mourir en chemin... Ce\nserait vraiment genant !"
+    },
+    "337": {
+        "「もう　行ってよ！": "Va-t'en deja !"
+    },
+    "338": {
+        "「こんな所で　<pc>さまに\n　会うなんて思わなかった……。": "Je ne m'attendais pas a rencontrer\n<pc>-sama dans un endroit comme\ncelui-ci..."
+    },
+    "339": {
+        "「あ……学びの庭　卒業おめでとうございます。\n　言えなかったこと　気になってたの。\n　私　あわてて　出てきちゃったから……。": "Ah... Felicitations pour votre diplome du\njardin d'apprentissage. Je voulais vous le\ndire, ca me tracassait. Je suis sortie<br>precipitamment, alors..."
+    },
+    "340": {
+        "「あ　あの……　あなたは？\n　そういえば　お父さまの部屋でも　会ったけど。": "Ah, euh... Qui etes-vous ? Maintenant que j'y\npense, nous nous sommes deja rencontres dans\nla chambre de mon pere."
+    },
+    "341": {
+        "「そう……　<pc>さまっていうのね。\n　私は　アズラン領主の娘　フウラです。": "Je vois... Vous vous appelez donc\n<pc>-sama. Je suis Fuura, la fille du\nSeigneur de la region d'AzLMP."
+    },
+    "342": {
+        "「その……　今の……。 ": "Ce que... tu viens de faire..."
+    },
+    "343": {
+        "「私を　助けてくれたカムシカに\n　あんな態度を取るなんて……\n　私のこと　ひどいヤツだって思ったでしょ？<yesno><close>": "Je ne peux pas croire que j'ai agi de la sorte\nenvers l'Azlantelope qui m'a aide... Tu dois\npenser que je suis terrible, n'est-ce pas<br>?<yesno><close>"
+    },
+    "344": {
+        "「ふふっ……　正直だね。": "Fufu... Tu es honnete."
+    },
+    "345": {
+        "「そう……？\n　ありがとう。優しいんだね。": "Vraiment... ? Merci. Tu es gentil."
+    },
+    "346": {
+        "「お母さま……\n　ここから落ちて　死んじゃったんだ。": "Maman... Elle est tombee d'ici et est morte."
+    },
+    "347": {
+        "「崖から落ちて　あそこに引っかかってた\n　カムシカの子を　助けようとして……。": "J'ai essaye de sauver le petit Azlantelope qui\netait coince la apres etre tombe de la\nfalaise..."
+    },
+    "348": {
+        "「カムシカなんて　いなければ\n　私　今も　お母さまと　いられたのにな……。": "Si seulement l'Azlantelope n'existait pas, je\npourrais encore etre avec ma mere..."
+    },
+    "349": {
+        "「これ……　お母さまが　好きだった花？": "Cette fleur... c'etait la preferee de maman ?"
+    },
+    "351": {
+        "「そっか……　カムシカが　供えてるんだ。\n　お母さまのために　６年経った　今も……。": "Je vois... Azlantelope fait encore des\noffrandes. Meme apres 6 ans, pour sa mere..."
+    },
+    "352": {
+        "「私……　お母さまが\n　この花を好きだったことも　忘れてた……。": "Je... j'avais meme oublie que ma mere aimait\ncette fleur..."
+    },
+    "354": {
+        "「……………………。": "……"
+    },
+    "355": {
+        "「……決めた。": "…C'est decide."
+    },
+    "356": {
+        "「カムシカのこと　好きには　なれないけど……\n　風乗りは　やっても　いいかなあ。 \n　アズランの……　みんなのためだもんね！": "Je n'arrive pas a aimer Azlantelope, mais...\nPeut-etre que je pourrais essayer d'etre un\npilote du vent. C'est pour l'AzLMP... pour<br>tout le monde, apres tout !"
+    },
+    "357": {
+        "「<pc>さまに\n　話を聞いてもらえて　よかった！\n　なんだか　スッキリしたよ。": "Je suis content d'avoir pu parler avec\n<pc>-sama ! Je me sens tellement soulage\nmaintenant."
+    },
+    "358": {
+        "「私　風乗りになるって\n　お父さまに　言ってくる！": "Je vais dire a mon pere que je veux devenir\nune chevaucheuse de vent !"
+    },
+    "359": {
+        "「またね　<pc>さま！": "A bientot, <pc>-sama !"
+    },
+    "360": {
+        "「おお　<pc>！　そなたを待っていたぞ。\n　風泣き岬に行っていた　フウラを\n　呼び戻してくれたようだな。": "Oh, <pc> ! Je t'attendais. Il semble que\ntu aies reussi a rappeler Fuura, qui etait\nalle a Windy Cape."
+    },
+    "361": {
+        "「わしは　もう　風乗りに　ならなくてよいと……\n　そう言うつもりで　あの子の帰りを待っていた。": "Je m'etais dit que je n'avais plus besoin de\ndevenir un maitre du vent... C'est avec cette\nidee que j'attendais le retour de cet enfant."
+    },
+    "362": {
+        "「だが　先ほど　フウラが帰ってきて\n　風乗りになりたいと　言ってくれたのだ！": "Cependant, Fuura est recemment revenue et m'a\ndit qu'elle voulait devenir une chevaucheuse\nde vent !"
+    },
+    "363": {
+        "「どういう心境の変化があったか　知らないが\n　じつに　よろこばしい。": "Je ne sais pas quel changement d'etat d'esprit\ns'est produit, mais c'est vraiment\nrejouissant."
+    },
+    "364": {
+        "「ときに　そなた。一人前の証を持っておるな。\n　もしや　キーエンブレムを集めるために\n　旅しているのではないか？": "A propos, toi la. Tu as le signe de la\nmaturite, n'est-ce pas ? Serais-tu en voyage\npour rassembler les emblemes cles ?"
+    },
+    "365": {
+        "「ならば　そなたを見込んで\n　わしから　頼みたいことがある！": "Dans ce cas, j'ai quelque chose a te demander,\ncar j'ai confiance en toi !"
+    },
+    "366": {
+        "「フウラが風乗りになり　風送りの儀を行うには\n　風のたづな　風のころもという　ふたつの神具を\n　フウラ自身が　取りにいかねばならぬのだ。": "Pour que Fuura devienne une chevaucheuse du\nvent et accomplisse le rituel d'envoi du vent,\nelle doit elle-meme aller chercher deux<br>artefacts sacres : les renes du vent et la\nWind Robe."
+    },
+    "367": {
+        "「そこでだな……。": "C'est pourquoi..."
+    },
+    "368": {
+        "「そなたには　あの子が \n　無事に　神具を持ってかえれるよう\n　手助けしてやってほしいのだ。": "Je souhaite que tu aides cet enfant a revenir\nsain et sauf avec les artefacts divins."
+    },
+    "369": {
+        "「<pc>さまっ！\n　どうして　ここに……？": "<pc>-sama ! Pourquoi etes-vous ici...?"
+    },
+    "370": {
+        "「……そっか。\n　お父さまに頼まれて　来てくれたんだね。": "Je vois. Tu es venu parce que mon pere te l'a\ndemande."
+    },
+    "371": {
+        "「ねえ　聞いて　<pc>さま！\n　私　魔物　やっつけたんだよ！": "He, ecoute <pc>-sama ! J'ai vaincu un\nmonstre !"
+    },
+    "372": {
+        "「まあ　頼みもしないのに　カムシカが\n　手伝ってくれたってのもあるけど……。": "Eh bien, meme si je ne l'avais pas demande,\nAzlantelope a quand meme decide de m'aider..."
+    },
+    "373": {
+        "「でも　やってみれば　できることって\n　あるんだね！": "Mais tu sais, quand on essaie, on peut y\narriver !"
+    },
+    "375": {
+        "「いやー　こりゃ　たまげたね。 \n　風乗り様は　カムシカに好かれるとは聞くが……": "Eh bien, c'est incroyable. J'ai entendu dire\nque le Maitre des Vents etait apprecie par les\nAzlantelopes, mais..."
+    },
+    "376": {
+        "「なるほど　おじょうちゃんが\n　次の風乗り様に　まちがいないな。\n　アズランのフウラって　あんたなんだろ？": "\nなるほど、お嬢ちゃんが次の風乗り様に間違いないなアズLMPのFuuraって、あんたなんだろ？"
+    },
+    "377": {
+        "「はい。": "Oui."
+    },
+    "378": {
+        "「よし！　じゃあ　領主様から\n　頼まれた品を　持ってってくんな！": "Bien ! Alors, emmene les articles demandes par\nle seigneur des lieux !"
+    },
+    "379": {
+        "フウラは　風のたづなを　受け取った！<me 60>": "Fuura a recu les renes du vent ! <me 60>"
+    },
+    "380": {
+        "「さあて。よく聞きな　おじょうちゃん。\n　向こうに　高く　そびえる塔が見えるだろう。": "Alors. Ecoute bien, jeune demoiselle. Tu vois\ncette tour qui s'eleve haut la-bas ?"
+    },
+    "381": {
+        "「もうひとつの神具　風のころもは\n　あのスイの塔で　新しい風乗り様を待って\n　風のチカラを　たくわえているのさ。": "L'autre artefact sacre, la Wind Robe, attend\nle nouveau maitre du vent dans la tour Sui,\naccumulant la puissance du vent."
+    },
+    "382": {
+        "「風のころもが　祀られている時に\n　最上階の扉を　開くことができるのは\n　風乗り様として　塔に　認められた者だけだ。": "Seules les personnes reconnues par la tour en\ntant que Maitre des Vents peuvent ouvrir la\nporte du dernier etage lorsque la Robe du Vent<br>est veneree."
+    },
+    "383": {
+        "「おじょうちゃんが　風乗り様として\n　ふさわしいかどうかが\n　そこで　試されることだろう。": "La jeune demoiselle sera mise a l'epreuve pour\nvoir si elle est digne d'etre appelee la dame\ndu vent."
+    },
+    "384": {
+        "「カムシカたちは　塔には入れない。\n　塔の中では　カムシカたちのチカラは\n　借りられないが　大丈夫かい？": "Les Azlantelopes ne peuvent pas entrer dans la\ntour. A l'interieur de la tour, tu ne pourras\npas utiliser leur pouvoir. Ca va aller ?"
+    },
+    "385": {
+        "「はいっ！": "Oui !"
+    },
+    "386": {
+        "「<pc>さまは\n　お父さまに言われて　来てるんでしょ？\n　私　先に行ってるねっ！": "<pc>-sama, tu es ici parce que ton pere\nte l'a demande, n'est-ce pas ? Je vais y aller\nen premier !"
+    },
+    "387": {
+        "「なんで　ついてくるかなあ……。\n　あんたたちは　スイの塔に入れないのに。": "Pourquoi tu me suis... Vous ne pouvez meme pas\nentrer dans la Sui Tower."
+    },
+    "388": {
+        "「カムシカって　絶対　アタマ悪いよね。": "Je suis sur que Azlantelope n'est vraiment pas\ntres fute."
+    },
+    "389": {
+        "「やっと　着いた……。": "Enfin arrives..."
+    },
+    "390": {
+        "「なんだか　結局……": "D'une certaine maniere, finalement..."
+    },
+    "391": {
+        "「いろいろ　助けてもらっちゃった……　かな？": "Tu m'as beaucoup aide... n'est-ce pas ?"
+    },
+    "392": {
+        "「あ……　ありがとっ！": "Ah... Merci !"
+    },
+    "393": {
+        "「きゃっ！　<pc>さまっ！？": "Kya ! <pc>-sama !?"
+    },
+    "395": {
+        "「もしかして　今の　聞いてたの？\n　わ…私は　ただ　お礼を言っただけで\n　別に　カムシカのこと　認めたわけじゃないよ！": "Tu as entendu ce que je viens de dire ? Je...\nje voulais juste dire merci, mais ca ne veut\npas dire que j'ai reconnu Azlantelope !"
+    },
+    "396": {
+        "「でも……。": "Mais..."
+    },
+    "397": {
+        "「どうして　カムシカたちは\n　私を　助けてくれるんだろ。": "Pourquoi les Azlantelopes m'aident-elles ?"
+    },
+    "398": {
+        "「お母さまを　死なせちゃったことを\n　悪いと思ってるから？　それとも……　私が\n　カムシカのチカラを引きだせる　風乗りだから？": "Est-ce parce que tu te sens coupable d'avoir\nlaisse mourir maman ? Ou bien... parce que je\nsuis une Chevaucheuse du Vent capable de<br>liberer le pouvoir de l'Azlantelope ?"
+    },
+    "399": {
+        "「カムシカって……　変な動物だよね。": "Azlantelope... c'est un animal etrange,\nn'est-ce pas."
+    },
+    "400": {
+        "「風のころもは　この塔のてっぺんか……。": "La Robe du Vent se trouve au sommet de cette\ntour..."
+    },
+    "401": {
+        "「私　先に行く！\n　<pc>さまも　ついてきてね！": "Je pars devant ! <pc>-sama, suis-moi !"
+    },
+    "406": {
+        "「な　なに　この部屋……？": "Qu'est-ce que c'est que cette piece...?"
+    },
+    "407": {
+        "「誰だっ！？": "Qui va la !?"
+    },
+    "408": {
+        "「この　怪獣プスゴンさまの\n　スウィートホームに\n　土足で　あがりこむヤツは！？": "Qui ose entrer dans le doux foyer de ce\nPusgon-sama avec ses chaussures sales !?"
+    },
+    "409": {
+        "「な　なんてことだ……！": "Qu-Qu'est-ce que c'est que ca... !"
+    },
+    "410": {
+        "「キュートだ……。": "Kawaii..."
+    },
+    "411": {
+        "「ただ　かわいいだけじゃない。\n　ちょっと　毒のある瞳！\n　抱きしめたくなるような　身体のサイズ！": "Pas seulement mignonne. Des yeux avec une\npointe de venin ! Une taille a donner envie de\nla serrer dans ses bras !"
+    },
+    "412": {
+        "「こんな気持ちは　はじめてだ！\n　オレと　いてくれ！\n　ずっとずっと　一緒に暮らそう！！": "Je ressens cela pour la premiere fois ! Reste\navec moi ! Vivons ensemble pour toujours !!"
+    },
+    "413": {
+        "「わ　私……！？": "M... Moi... !?"
+    },
+    "414": {
+        "「ど　どうしよう～。": "Qu-que devrais-je faire...?"
+    },
+    "415": {
+        "「困るわ。だって　あなた　怪獣だし……。": "C'est embetant. Apres tout, tu es un\nmonstre..."
+    },
+    "416": {
+        "「きっと　お父さまも　許してくれないと思う。": "Je pense que mon pere ne me pardonnera jamais."
+    },
+    "417": {
+        "「えっ！？": "Hein !?"
+    },
+    "418": {
+        "「お前っ！": "Toi !"
+    },
+    "419": {
+        "「この……": "La..."
+    },
+    "420": {
+        "「キュートなハニーを　よこせえええっ！！": "Donne-moi cette adorable cherie !!"
+    },
+    "421": {
+        "「えええええええっ！？": "Ehhhhhhh !?"
+    },
+    "422": {
+        "「ケキちゃんは　ダメええっ！！": "Cakey, nonnnn !!"
+    },
+    "423": {
+        "「ぐぬぬぬぬぬううう！！": "Grrrrrrr !!"
+    },
+    "424": {
+        "「くう～～～～～っ！！": "Kuuuuuu !!"
+    },
+    "425": {
+        "「ちっ　なかなかやるな　エルフめ！\n　何しに　来やがった！？": "Chut, tu te debrouilles bien, maudit elfe !\nQue viens-tu faire ici !?"
+    },
+    "426": {
+        "「私たちは……　風のころもを取りに！": "Nous allons... chercher la Cape du Vent !"
+    },
+    "427": {
+        "「風のころも！？": "Wind Robe !?"
+    },
+    "428": {
+        "「くっくっくっく……。\n　お前たちが　そうだったとはな。\n　ちょうどいい！": "Kukukuku... Je vois, c'etait donc vous. C'est\nparfait !"
+    },
+    "429": {
+        "「オレは　風のころもを取りにきたヤツを\n　倒すように言われているんだ！": "On m'a dit de vaincre celui qui vient chercher\nla Wind Robe !"
+    },
+    "430": {
+        "「頼まれた仕事を果たし　ついでに\n　マイ・スウィートハニーを手に入れる！\n　一石二鳥とは　このことだぁっ！": "Accomplir la mission qu'on m'a confiee et en\nprime, conquerir ma douce cherie ! Voila ce\nque j'appelle faire d'une pierre deux coups !"
+    },
+    "431": {
+        "「あうっ！": "Aie !"
+    },
+    "432": {
+        "「あ　あぶねえっ！\n　オレの　ウルトラ・ハイセンスな\n　インテリアが！！": "Ah, c'etait moins une ! Mon interieur\nultra-sophistique est en danger !"
+    },
+    "433": {
+        "「ちょっと　タンマな！": "Un instant, s'il te plait !"
+    },
+    "434": {
+        "「これでよし！\n　まずは　お前から　片付けてやるぜ！\n　さっさと　くたばりなっ！！": "Ca y est ! D'abord, je vais m'occuper de toi !\nCreve vite !!"
+    },
+    "438": {
+        "「ちっ！　しつこいヤツだな！": "Tch ! Quel type collant !"
+    },
+    "439": {
+        "「しかも　またしても　きたない足で\n　オレのスウィートホームに　あがりやがって！": "Et en plus, tu as encore ose entrer dans mon\ndoux foyer avec tes pieds sales !"
+    },
+    "440": {
+        "「礼儀を知らないヤツめ！\n　何度でも　痛い目にあわせてやるぜっ！！": "Espece d'impoli ! Je vais te faire regretter\nencore et encore !!"
+    },
+    "441": {
+        "「ぐおおおお！！\n　お前ら　本気で　オレを怒らせたなっ！！": "Gwoooo !! Vous m'avez vraiment mis en colere\n!!"
+    },
+    "442": {
+        "「オレの　真のチカラを見せてやるぜっ！！\n　お前なんて　メッタメタだぞ！！": "Je vais te montrer ma T. Puissance !! Tu vas\netre completement demoli !!"
+    },
+    "443": {
+        "「やめてっっ！！": "Arrete ca !!"
+    },
+    "444": {
+        "「お……！？": "Oh...!?"
+    },
+    "445": {
+        "「それ　あげるから……": "Je te le donne, alors..."
+    },
+    "446": {
+        "「<cs_pchero>さまに　ヒドイことしないで！": "Ne fais pas de mal a <cs_pchero> sama !"
+    },
+    "447": {
+        "「……………………。": "……"
+    },
+    "448": {
+        "「……わかったよっ。\n　この　ハニーにめんじて　許してやらあ！": "D'accord. Je vais te pardonner en l'honneur de\nma chere Honey !"
+    },
+    "449": {
+        "「あばよっ！": "Adieu !"
+    },
+    "450": {
+        "「いやっほ～～～う　ハニー！！": "Ouais, Hooooo ! Cherie !!"
+    },
+    "451": {
+        "「……いいの。\n　ケキちゃんがいなくても\n　私は　もう大丈夫だから。": "Ce n'est pas grave. Meme sans Cakey, je vais\nbien maintenant."
+    },
+    "452": {
+        "「きれい……！": "C'est magnifique... !"
+    },
+    "453": {
+        "「お母さまの……　においがする……。": "L'odeur de... ma mere..."
+    },
+    "454": {
+        "「そうだ！　こうしてる場合じゃないわ。": "Exact ! Ce n'est pas le moment de rester ici\ncomme ca."
+    },
+    "455": {
+        "「早く帰って　風送りの儀をしなくちゃ！\n　アズランのみんなが　待ってるもの。": "Je dois rentrer rapidement pour accomplir le\nrituel du Vent Envoye ! Tout le monde a AzLMP\nm'attend."
+    },
+    "456": {
+        "「<cs_pchero>さま　ありがとう。\n　私　先に　アズランへ帰ってるね！": "<cs_pchero> sama, merci beaucoup. Je rentre a\nAzLMP en premier !"
+    },
+    "457": {
+        "「カムシカー！　戻るよーっ！！": "Azlantelope ! On rentre !"
+    },
+    "458": {
+        "「<cs_pchero>さまも \n　私がやる　風送りの儀　見にきてねっ！": "<cs_pchero>さまも、私が行う風送りの儀を見に来てねっ！"
+    },
+    "459": {
+        "「ただいまの　風送りの儀により……": "Grace au rituel de l'envoi du vent..."
+    },
+    "460": {
+        "「これまで　アズランに吹いていた古き風は\n　その役目を終え　かなたへと去りゆきました。": "Le vieux vent qui soufflait sur AzLMP a\ntermine son role et s'est eloigne au loin."
+    },
+    "461": {
+        "「今　このアズランに吹くのは\n　育みのチカラあふるる　新しき風！": "En ce moment, ce qui souffle sur cette AzLMP\nest un vent nouveau debordant de la force\nepanouissante de la croissance !"
+    },
+    "462": {
+        "「このアズランに…………　えっと……": "Cet AzLMP... euh..."
+    },
+    "463": {
+        "「えーーーーーと……？": "Euh... ?"
+    },
+    "464": {
+        "「このアズランに……": "Cet AzLMP..."
+    },
+    "465": {
+        "「風乗りフウラが　あるかぎり！": "Il y a un vent qui souffle, Fuura Clef !"
+    },
+    "466": {
+        "「育みの風を　絶え間なく吹かせ\n　町を守り　育ててゆくことを　誓いましょう！": "Faisons le serment de laisser souffler sans\nrelache le vent nourricier pour proteger et\nfaire prosperer notre ville !"
+    },
+    "467": {
+        "「待っておったぞ　<pc>。\n　さあ　わしの部屋へ。": "Je t'attendais, <pc>. Allez, viens dans\nma chambre."
+    },
+    "468": {
+        "「フウラの口上には　ヒヤヒヤさせられたが\n　なんとか無事に　風送りの儀を\n　終えることができた。": "Les paroles de Fuura ont bien failli nous\nfaire trembler, mais nous avons reussi a\nterminer la ceremonie de l'envoi du vent sans<br>encombre."
+    },
+    "469": {
+        "「これも　ひとえに　<pc>のおかげだ。\n　本当にありがとう。": "Tout cela est grace a <pc>. Merci\nbeaucoup."
+    },
+    "470": {
+        "「まだ　大きな変化は　出ておらぬが\n　このアズランに　よい風が吹き始めた。\n　これからは　よい方向へ　向かってゆくだろう。": "まだ大きな変化は出ておらぬが このアズLMPに よい風が吹き始めた これからは よい方向へ\n向かってゆくだろう Bien qu'il n'y ait pas encore de\ngrands changements, un vent favorable commence<br>a souffler sur cet AzLMP. Desormais, nous nous\ndirigerons probablement dans une bonne\ndirection."
+    },
+    "471": {
+        "「この町に　希望をもたらしてくれた\n　アズランの英雄　<pc>よ。": "Dans cette ville, celui qui nous a apporte\nl'espoir, le heros d'AzLMP, <pc>."
+    },
+    "472": {
+        "「そなたに　緑のキーエンブレムを贈ろう。": "Je vais te remettre l'embleme de la cle verte."
+    },
+    "473": {
+        "<pc>は\n緑のキーエンブレム（だいじなもの）を\n手に入れた！<me 72>": "<pc> a obtenu l'embleme-cle vert (objets\ncles) ! <me 72>"
+    },
+    "474": {
+        "「しかし　風のころもが　風乗りの手に渡らぬよう\n　スイの塔に　魔物を配した者がいたのか……。": "Cependant, il y a quelqu'un qui a place des\nmonstres dans la Tour de Sui pour que la Cape\ndu Vent ne tombe pas entre les mains d'un<br>navigateur..."
+    },
+    "475": {
+        "「このような　辺境にまで\n　悪しき魔の手が　およんでいようとは\n　世の中　どうなっておるのだ……。": "Meme dans cette contree reculee, l'influence\nmalefique s'etend... Que devient donc ce\nmonde...?"
+    },
+    "479": {
+        "「<pc>は　旅を続けるのであろう。\n　この先　困ったことがあったときには\n　いつでも　チカラになろう。": "<pc> continuera son voyage. Si jamais il\nrencontre des difficultes a l'avenir, je serai\ntoujours la pour l'aider."
+    },
+    "480": {
+        "「<pc>さま　本当に　ありがとう。\n　おかげで　私も　すこしだけ\n　自分に　自信が持てるようになったよ。": "<pc>-sama, merci beaucoup. Grace a vous,\nj'ai pu prendre un peu plus confiance en moi."
+    },
+    "481": {
+        "「私　風乗りとして　がんばる。\n　大好きな　お母さんの仕事を継いでみせる。\n　助けてくれる人たちだって　たくさんいるもの。": "Je vais m'efforcer en tant que porteur de\nvent. Je vais reprendre le travail de ma mere\nque j'adore. Il y a tellement de gens prets a<br>m'aider."
+    },
+    "482": {
+        "「これからは　お父さまや　町のみんなや……": "A partir de maintenant, avec mon pere, tout le\nmonde en ville, et..."
+    },
+    "9224": {
+        "「そなたは　学びの庭から来たのではないか？\n　ならば　フウラとも　顔なじみであろう。": "Ne viens-tu pas du jardin d'apprentissage ?\nDans ce cas, tu dois bien connaitre Fuura."
+    },
+    "9225": {
+        "「恥ずかしい話だが　娘は　私に\n　心を開いてはくれない。だが　そなたになら……\n　そなたの目は　そんな気にさせてくれるのだ。": "C'est embarrassant a admettre, mais ma fille\nne s'ouvre pas a moi. Cependant, avec toi...\nTes yeux me donnent l'impression qu'elle<br>pourrait le faire."
+    },
+    "9226": {
+        "「そなたの　はたらきで　無事に\n　風送りの儀を　終えることができたら\n　緑のキーエンブレムを授けよう。": "Grace a ton travail, nous avons pu mener a\nbien la ceremonie du Vent sans encombre. Je te\nremettrai l'Embleme de la Cle Verte."
+    },
+    "9227": {
+        "「フウラは　ひとつめの神具　風のたづなを取りに\n　すでに　山間の関所へ向かった。\n　今すぐ出発すれば　向こうで落ち合えるはずだ。": "Fuura est deja partie chercher le premier\nartefact divin, les Renes du Vent, et s'est\ndirigee vers le poste de garde entre les<br>montagnes. Si tu pars immediatement, tu\ndevrais pouvoir la rejoindre la-bas."
+    },
+    "9228": {
+        "「山間の関所は　アズラン地方の南\n　イナミノ街道の　南方にある。\n　娘を頼んだぞ　<pc>！": "Le poste de montagne se trouve au sud de la\nregion d'Azlan, au sud de l'autoroute Inamino.\nJe compte sur toi pour veiller sur ma fille,<br><pc> !"
+    },
+    "9229": {
+        "「……カムシカたちとも　協力して\n　この町のために　できることを　がんばるね！": "......Je vais aussi collaborer avec les\nAzlantelopes et faire de mon mieux pour ce\nvillage !"
+    },
+    "13597": {
+        "「あっ　<pc>さま！": "Ah, <pc>-sama !"
+    },
+    "24614": {
+        "「おや。フウラおじょうさんに　ご用かい？": "Oh, aurais-tu besoin de quelque chose de la\npart de Mademoiselle Fuura ?"
+    },
+    "24615": {
+        "「……なあ　あんた。\n　フウラおじょうさんに　ご用があるのなら\n　風泣き岬まで　行ってみたらどうだい？": "He, toi. Si tu as des affaires avec la\ndemoiselle Fuura, pourquoi ne pas aller\njusqu'au Cap Vent?"
+    },
+    "24619": {
+        "「残念だけど　おじょうさんなら\n　たった今　墓参りに　出かけちまったよ。": "C'est dommage, mais la jeune demoiselle vient\njuste de partir pour se recueillir au\ncimetiere."
+    },
+    "24802": {
+        "「そなたは　旅の者か？\n　ふむ………。よい目をしているな。": "Es-tu un voyageur ? Hmm... Tu as un bon\nregard."
+    },
+    "24803": {
+        "「これでよし！　\n　さあ　かかってきな！\n　コテンパンに　のしてやるぜっ！！": "Voila, c'est pret ! Allez, viens par ici ! Je\nvais t'ecraser avec le Gantelet de Pain !!"
+    },
+    "27580": {
+        "「見て見て！　ほらっ　風のころも！\n　私の　風送りの儀も　ちゃんと見ててくれた？": "Regarde, regarde ! Tiens, la Robe du Vent ! Tu\nas bien regarde mon rituel d'envoi du vent ?"
+    },
+    "28555": {
+        "「恥ずかしい話だが　娘は　私に\n　心を開いてはくれない。だが　そなたになら\n　本音を　打ち明けるかもしれん。": "C'est embarrassant a admettre, mais ma fille\nne s'ouvre pas a moi. Cependant, elle pourrait\nbien se confier a toi."
+    },
+    "28556": {
+        "「すまぬが　ひとつ　頼みを聞いてほしい。\n　フウラに会い　胸のうちを\n　聞いてきてほしいのだ……。": "Je suis desole, mais j'ai une requete a te\nfaire. Pourrais-tu aller voir Fuura et ecouter\nce qu'il a sur le coeur...?"
+    },
+    "28557": {
+        "「フウラの部屋は　この部屋の向かいだ。\n　すまぬが　どうか　頼んだぞ。": "La chambre de Fuura se trouve en face de cette\npiece. Je suis desole, mais je compte sur toi."
+    },
+    "28558": {
+        "「……お母さまは　アズランの歴史の中でも\n　特に　すごい風乗りだったの。\n　だから　町の誰もが　お母さまを慕ってた。": "Ma mere etait une navigatrice exceptionnelle,\nmeme dans l'histoire d'AzLMP. C'est pourquoi\ntout le monde en ville l'admirait."
+    },
+    "28559": {
+        "「カムシカに乗った　お母さまが \n　舞うように駆ける姿は　今でも　目に浮かぶの。\n　ずっと　その背中を見てた……。": "Je revois encore ma mere chevauchant\nl'Azlantelope, galopant avec grace, comme si\nelle dansait. J'ai toujours regarde son dos..."
+    },
+    "28560": {
+        "「私だって　ほんとは　お父さまの言う通り \n　お母さまの後を継いで　風乗りになれたら\n　どんなにいいかって思う……。でもね…………": "Moi aussi, en verite, je pense souvent qu'il\nserait merveilleux de suivre les conseils de\nmon pere et de devenir une maitresse du vent<br>comme ma mere... Mais, tu sais..."
+    },
+    "41429": {
+        "「若葉の試みに　合格できなかったからといって\n　そう　気に病むな！　むしろ　あきらめがついて\n　よかったではないか。": "Ne te tracasse pas trop parce que tu n'as pas\nreussi l'epreuve des jeunes pousses ! Au\ncontraire, n'est-ce pas une bonne chose<br>d'avoir pu tourner la page ?"
+    },
+    "52883": {
+        "「この部屋の中に\n　風のころもが　あるんだね。": "Il y a une Wind Robe dans cette piece,\nn'est-ce pas ?"
+    },
+    "52884": {
+        "「そして　このトビラが\n　風乗りになる　資格を持つ者にしか\n　開くことができないトビラ……。": "Et cette porte... C'est une porte qui ne peut\netre ouverte que par ceux qui possedent le\ntitre de porteur du vent..."
+    },
+    "52885": {
+        "「開いた！": "Ouvert !"
+    },
+    "130567": {
+        "「ワシは　剣士グンザ。 \n　チカラを認められた者の証　キーエンブレムを\n　集めるため　各地を旅しておる。": "Je suis Gunza, le bretteur. Je voyage a\ntravers les terres pour rassembler les Key\nEmblems, preuve de la reconnaissance de ma<br>force."
+    },
+    "130568": {
+        "「しかし　この町の連中は　変わり者ばかりだな。\n　風が　よどんでいると　なげきおるが\n　ワシには　フツーの風にしか思えんわ。": "Cependant, les habitants de cette ville sont\ntous des originaux. Ils se lamentent que le\nvent est stagnant, mais pour moi, c'est un<br>vent tout a fait normal."
+    },
+    "130569": {
+        "「だが　そんな今こそ　絶好のチャンスじゃ！\n　ここで　領主タケトラ様の　お役に立てば\n　キーエンブレムを　もらえるかもしれんしな！": "Mais justement, c'est une excellente\nopportunite maintenant ! Si je peux etre utile\na Lord Taketora ici, je pourrais peut-etre<br>obtenir l'embleme cle !"
+    },
+    "130570": {
+        "「タケトラ様の家なら　町の一番奥にある\n　ひときわ　大きな　お屋敷じゃよ。": "La maison de Taketora-sama se trouve tout au\nfond de la ville, c'est un manoir\nparticulierement grand."
+    },
+    "130571": {
+        "「まずは　お屋敷の南側にある\n　赤い鳥居を　目指すとよい。": "Tout d'abord, il serait bon de viser le torii\nrouge situe au sud du manoir."
+    },
+    "130572": {
+        "「あとは　その先の階段をのぼって道沿いだ。\n　おぬしもキーエンブレムが　ほしいのなら\n　お屋敷で　話を聞いてみるのが　よいじゃろう。": "Ensuite, monte les escaliers la-bas et suis le\nchemin. Si tu veux aussi une cle emblematique,\nil serait bon d'aller ecouter ce qui se dit au<br>manoir."
+    }
+}

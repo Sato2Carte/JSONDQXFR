@@ -1,0 +1,791 @@
+{
+    "320927": {
+        "「ネーしゃまーっ！\n　さっそく　みんなで　会いにきたよー！": "Neesama ! On est tous venus te voir tout de\nsuite !"
+    },
+    "320928": {
+        "「ええ……父　主神グランゼニスを\n　目覚めさせる方法に　思い至ったため\n　あなたがた　誓約の子らを　お呼びしました。": "Eh bien… J'ai pense a une methode pour\nreveiller mon pere, Gran Zenith, et c'est\npourquoi j'ai fait appel a vous, les enfants<br>de la promesse."
+    },
+    "320929": {
+        "「眠ってる　パパゼニスさまが　目を覚ましたら\n　創失の呪いだって　なんとかできるかも！？\n　……だったよね　ネーしゃま！": "Quand Papa Zenisama se reveillera de son\nsommeil, il pourra peut-etre faire quelque\nchose contre la malediction de l'oubli ! ...<br>N'est-ce pas, Nee-sama !"
+    },
+    "320930": {
+        "「ええ　ポルぽる……": "Oui, Polpol..."
+    },
+    "320931": {
+        "「……あ　あのっ！　今のは　その……。\n　先日　すてきな　呼び名を　いただいたので\n　わたくしも　お返しをしたく…て……。": "Ah, euh ! Pour ce qui vient de se passer, eh\nbien... L'autre jour, vous m'avez donne un\nsurnom charmant, alors je voulais vous rendre<br>la pareille..."
+    },
+    "320932": {
+        "「すこしばかり　馴れ馴れしかったです……よね。\n　ご不快でしょうから　やはり　以前のように\n　ポルテと　お呼びすることにします……。": "J'ai ete un peu trop familier... n'est-ce pas\n? Cela a du vous deplaire, alors je vais vous\nappeler Porte comme avant..."
+    },
+    "320933": {
+        "「ううん！　すっごく　うれしいよ。\n　ありがとね　ネーしゃまっ！": "Non, non ! Je suis vraiment super contente.\nMerci beaucoup, Nee-sama !"
+    },
+    "320934": {
+        "「よろしいのですかっ！？\n　……ですが　さきほどの　みなさまの反応を\n　かんがみるに　ポルぽるよりも……": "Etes-vous sur de cela !? ... Cependant, en\nconsiderant la reaction de tout le monde tout\na l'heure, il semble que ce soit plus que<br>Polporu..."
+    },
+    "320935": {
+        "「ポルぽよ……いえ　ポルてむ……ポルリーノ\n　……違う　こんなのじゃダメ。もっともっと\n　この愛らしさを　表現するには……": "Polpoyo... non, Poltem... Polrino... non, ce\nn'est pas ca. Ce n'est pas suffisant. Pour\nexprimer encore plus cette adorable beaute..."
+    },
+    "320936": {
+        "「そうだわっ！": "C'est ca !"
+    },
+    "320937": {
+        "「ポルるん！": "Porurun !"
+    },
+    "320938": {
+        "「……では　いかがでしょうか？": "......Alors, qu'en pensez-vous ?"
+    },
+    "320939": {
+        "「いーじゃん　ポルるん！\n　あたし　すっごく　気に入っちゃった♪": "C'est genial, Polrun ! Je l'adore vraiment ! ♪"
+    },
+    "320940": {
+        "「……ありがとう　ポルるん。": "Merci, Polurun."
+    },
+    "320941": {
+        "「さて……我が父たる　主神グランゼニスは\n　創生のチカラにて　ゼニアスを　創造し\n　その守り手たる　守護天使を　創りました。": "Alors... Mon pere, Gran Zenith, a cree\nZenithia avec le pouvoir de la creation et a\nfaconne les anges gardiens pour la proteger."
+    },
+    "320942": {
+        "「守護天使たちに注がれた　創生のチカラは\n　比類なく　強大なもの。彼らが集えば\n　父を　目覚めさせられるかもしれません。": "Le pouvoir de la Creation qui a ete accorde\naux anges gardiens est d'une force\nincomparable. S'ils se rassemblent, ils<br>pourraient peut-etre reveiller notre Pere."
+    },
+    "320943": {
+        "「あの時　ポルるん……\n　ルティアナの被造物たる　誓約の子らを\n　感じ取り　呼びかけてきたように……。": "A ce moment-la, Polrun... Il semblait\npercevoir et appeler les enfants du serment,\ncreatures de Luthiana..."
+    },
+    "320944": {
+        "「女神ゼネシアさま。\n　その　守護天使たちは　今　どこに？": "Deesse Zenethia-sama, ou se trouvent vos anges\ngardiens en ce moment ?"
+    },
+    "320945": {
+        "「この考えに至りしとき　わたくしは　みずから\n　ゼニアス中に　呼びかけてみましたが\n　ひとりとて　返事はなく……。": "Lorsque cette pensee m'est venue, j'ai tente\nd'interpeller moi-meme tout Zenias, mais\npersonne ne m'a repondu..."
+    },
+    "320946": {
+        "「ですが　かすかな気配は　感じます。\n　おそらく　ジア・クトとの戦いで　傷つき\n　応えるチカラすら　失われているのでしょう。": "Cependant, je ressens une faible presence. Il\nest probable qu'elle ait ete blessee lors du\ncombat contre Jia-Kuto, au point de ne plus<br>pouvoir repondre."
+    },
+    "320947": {
+        "「ネーしゃま！　メレちー！\n　前から　気になってたんだけど\n　あそこに　あるのって　天使の像っぽくない？": "Nē-sama ! Mere-chan ! Ca fait un moment que je\nme demande, cette statue la-bas, ne\nressemble-t-elle pas a un ange ?"
+    },
+    "320948": {
+        "「う～ん……遠くて　よく見えないよー。\n　向こう岸へ渡る橋は　落ちちゃってるし。\n　あの像　気になるんだけどな～。": "Hmm... C'est trop loin, je ne vois pas bien.\nLe pont pour traverser de l'autre cote est\ntombe. Cette statue m'intrigue, pourtant..."
+    },
+    "320949": {
+        "「ゼニスの封宮の時みたいに\n　<pc>の　聖天のつばさで\n　空を飛べたら　いいのだけれど……。": "Comme lors du Palace of Zenith, ce serait bien\nde pouvoir voler dans le ciel avec la\nWonderwing de <pc>..."
+    },
+    "320950": {
+        "「まあ……。アストルティアには　神気を\n　飛行のチカラに変える道具が　あるのですね。\n　……しばし　お待ちください。": "Eh bien... Il semble qu'il existe un outil\ndans l'Astoltia qui peut transformer l'energie\ndivine en pouvoir de vol. Veuillez patienter<br>un moment, je vous prie."
+    },
+    "320951": {
+        "「これで　わたくしの神気が　ゼニアスの地を\n　満たしました。守護天使たちを　捜すのに\n　きっと　役立つはず……。": "Avec cela, mon energie divine a impregne la\nterre de Zenius. Cela devrait surement etre\nutile pour retrouver les anges gardiens..."
+    },
+    "320952": {
+        "「ネーしゃま！　しっかりして！！": "Nee-sama ! Reprends-toi !!"
+    },
+    "320953": {
+        "「……申し訳…ありません。ポルるん……。\n　どうやら……少しばかり……\n　チカラを　使いすぎたようですね……。": "......Je suis desole... Polrun... Il semble\nque... j'ai un peu... trop utilise ma force..."
+    },
+    "320955": {
+        "「ネーしゃま　つらそうだったね。\n　聖天のつばさを　使えるようにするために\n　がんばってくれたんだ……。": "Grande soeur, tu semblais souffrir. Merci\nd'avoir fait de ton mieux pour que nous\npuissions utiliser le Wonderwing..."
+    },
+    "320956": {
+        "「しばらく休めば　回復するって言葉を　信じて\n　私たちに　できることを　やるしかないわね。": "Il faut croire en ces mots : apres un peu de\nrepos, il y aura une recuperation. Nous devons\nsimplement faire ce que nous pouvons faire."
+    },
+    "320957": {
+        "「そーだね。パパゼニスさまが\n　目を覚ましたら　きっと　創失の呪いだって\n　どーにかしてくれるよ！": "Oui, c'est vrai. Quand Papa Zenith-sama se\nreveillera, il trouvera surement un moyen de\ncontrer la malediction de l'oubli !"
+    },
+    "320958": {
+        "「手がかりは　ウォルドの守護天使像ね。\n　さっそく　聖天のつばさで　向こう岸に渡って\n　調べてみましょう！": "Le premier indice est la statue de l'ange\ngardien de Ludo. Allons tout de suite de\nl'autre cote avec Wonderwing pour enqueter !"
+    },
+    "320959": {
+        "「よーし　<pc>隊長\n　ばんばん　守護天使たちを　見つけちゃおう！": "Tres bien, Capitaine <pc> ! Allons\ndenicher ces anges gardiens a tour de bras !"
+    },
+    "320960": {
+        "ゼニアスでも　霊子の見える場所なら\n聖天のつばさで　空を飛べるようになった。\nさっそく　ウォルドの守護天使像を調べてみよう。<me 71>": "Meme a Zenius, la ou l'on peut voir les\nesprits, nous pouvons desormais voler dans les\nairs avec Wonderwing. Allons immediatement<br>examiner la statue de l'ange gardien de Ludo.<me 71>"
+    },
+    "320961": {
+        "「こちらが　各地の守護天使たちを　見つけた際に\n　預かったという　３つの品ですか。": "Ce sont donc les trois objets que vous avez\nconfies lorsque vous avez trouve les anges\ngardiens de chaque region."
+    },
+    "320962": {
+        "「弓と　弦と　矢……。\n　ずいぶん古めかしいものの　ようですが\n　はてさて　これを　どうしろというのか……？": "Un arc, une corde et des fleches... Cela\nsemble etre des objets bien anciens. Mais que\nsuis-je cense en faire...?"
+    },
+    "320963": {
+        "「弓と弦と矢ってんなら　答えは決まってるさ。": "L'arc, la corde et la fleche, la reponse est\nevidente."
+    },
+    "320964": {
+        "「……ここは　俺に　まかせな。\n　手先の器用さにゃあ\n　ちょいとばかり　自信があってね。": "Laisse-moi m'occuper de ca. J'ai un certain\ntalent pour les travaux manuels."
+    },
+    "320965": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "320966": {
+        "ナブレット団長の手によって　大樹の弓\n女神の弦　星封の矢の　３つの神器は\nゆりかごの弓に　生まれ変わった！<me 72>": "Les trois artefacts, l'Oaken Bow, la Goddess'\nString et le Benevarrow, ont ete transformes\npar la main du Capitaine Nablette en un Bow of<br>the Cradle ! <me 72>"
+    },
+    "320967": {
+        "「……ざあっと　こんなモンよ！": "Voila, c'est a peu pres tout !"
+    },
+    "320968": {
+        "「さっすが　ナブおじさん！\n　でも　この弓を　何に使うんだろうね？": "Comme prevu de la part de Tonton Nab ! Mais je\nme demande a quoi peut bien servir cet arc ?"
+    },
+    "320969": {
+        "「みんなが　守護天使を捜してる間に　調べたの。\n　この　はじまりの地の湖にある　あの小島……\n　まるで　湖の目みたいに　見えないかしら？": "Pendant que tout le monde cherchait l'ange\ngardien, j'ai fait des recherches. Cette\npetite ile sur le lac de ce Pays des<br>Commencements... Ne ressemble-t-elle pas a\nl'oeil du lac ?"
+    },
+    "320970": {
+        "「たしかに　あの小島ならば　湖の目と呼ぶに\n　相応しいけど……とすると　守護天使マギエルは\n　そう簡単には　会ってくれそうにないよ。": "Il est vrai que cette petite ile merite bien\nd'etre appelee l'OEil du lac... Mais cela\nsignifie que l'ange gardien Magiel ne sera<br>probablement pas facile a rencontrer."
+    },
+    "320971": {
+        "「この湖一帯は　聖なる結界で　守られている。\n　何らかの資格を有する者か　定められた方法に\n　従わなければ　近づくこともできないだろうね。": "Toute cette region du lac est protegee par une\nbarriere sacree. Seules les personnes\npossedant certaines qualifications ou suivant<br>une methode specifique peuvent s'en approcher."
+    },
+    "320972": {
+        "「ふむ……困りましたね。\n　これから　どうしたら……": "Hmm... Nous avons un probleme. Que\ndevrions-nous faire a partir de maintenant..."
+    },
+    "320973": {
+        "「なっ……なんだ　この光は！？": "Qu'est-ce que... cette lumiere !?"
+    },
+    "320974": {
+        "<center>３人の守護天使に　認められし\n誓約の子らよ……": "O enfants du serment, reconnus par les trois\nanges gardiens..."
+    },
+    "320975": {
+        "<center>我が名は　ウォルドの守護天使\nマギエル": "Je suis Magiel, l'ange gardien de Ludo."
+    },
+    "320976": {
+        "<center>ゆりかごの弓を　手に取り\n湖に浮かぶ小島へ　矢を放て\nさすれば　道は開かれるだろう……": "Prenez l'Arc du Berceau en main et tirez une\nfleche vers la petite ile flottant sur le lac.\nAinsi, le chemin s'ouvrira devant vous..."
+    },
+    "320977": {
+        "「今の声……ウォルドの天使像の\n　るすばんメッセージと　同じ声だよ！\n　メレちーの　言ってたとおりだ！": "C'etait la voix de tout a l'heure... C'est la\nmeme voix que le message d'absence sur la\nstatue de l'ange de Ludo ! Exactement comme<br>Melechee l'avait dit !"
+    },
+    "320978": {
+        "「<pc>隊長！\n　この大役は　隊長に　まかせたよ！": "<pc>-taichou ! Je te confie cette grande\nmission !"
+    },
+    "320979": {
+        "ゆりかごの弓で　湖の小島へ　\n矢を　放ってみますか？<yesno><close>": "Bow of the Cradle avec lequel vous pouvez\ntirer une fleche vers la petite ile du lac.\nVoulez-vous essayer ? <yesno><close>"
+    },
+    "320980": {
+        "「んも～！　もったいつけないで！\n　ほらほらっ　<pc>隊長っ。\n　最後の守護天使に　会いにいこうよ！": "Allez, arrete de faire durer le suspense !\nAllez, allez, capitaine <pc>. Allons\nrencontrer le dernier ange gardien !"
+    },
+    "320981": {
+        "<pc>は　湖の小島へ　矢を放った！": "<pc> a tire une fleche vers la petite\nile du lac !"
+    },
+    "320982": {
+        "ゆりかごの弓は　はじけ飛び\n湖の小島まで　光の橋が　かかった！": "Le Bow of the Cradle s'est envole, et un pont\nde lumiere s'est forme jusqu'a la petite ile\ndu lac !"
+    },
+    "320983": {
+        "「……今の光は！？": "...Cette lumiere, c'etait quoi !?"
+    },
+    "320984": {
+        "「ラキ！　無事だったのね！": "Lycae ! Tu es sain et sauf !"
+    },
+    "320985": {
+        "「……湖上に浮かぶ島は　聖なる地。\n　選ばれし者以外　決して立ち入らせるなと\n　とうさまから　きつく　命じられている。": "...... L'ile flottante sur le lac est une\nterre sacree. Pere m'a strictement ordonne de\nne jamais laisser quiconque y penetrer, sauf<br>les elus."
+    },
+    "320986": {
+        "「その聖なる地に　おまえたち……何をした！": "Que faites-vous... dans cette terre sacree ?"
+    },
+    "320987": {
+        "「だから　あたしたちが　選ばれし者なんだよ。\n　ほら　その光る橋を　見て！\n　いかにも　ウェルカ～ムって　カンジでしょ？": "Donc, nous sommes les elus. Regarde ce pont\nlumineux ! Il a vraiment cette ambiance de...\nWellカ～ム, tu ne trouves pas ?"
+    },
+    "320988": {
+        "「ねえ　ラキ。あの小島のことが　気になるなら\n　お目付役として　あなたが\n　私たちに　ついてきてくれないかしら？": "He, Lycae. Si cette petite ile te preoccupe\ntant, ne voudrais-tu pas venir avec nous en\ntant qu'observateur ?"
+    },
+    "320989": {
+        "「……わかった。": "...D'accord."
+    },
+    "320990": {
+        "「では　<pc>隊長　ポルテ君\n　メレアーデ王女と　そのお目付役　ラキ君。": "Alors, Capitaine <pc>, Porte-kun, ainsi\nque la princesse Mereade et son chaperon,\nLycae-kun."
+    },
+    "320991": {
+        "「湖の小島の調査　および\n　ウォルドの守護天使　マギエル捜索は\n　みなさんに　おまかせいたします！": "L'enquete sur la petite ile du lac, le\nPreparation La recherche de l'ange gardien de\nWolo, Magiel, est entre vos mains, tout le<br>monde !"
+    },
+    "320992": {
+        "「がんばろうねっ　みんな！": "Allez, tout le monde, donnons le meilleur de\nnous-memes !"
+    },
+    "320993": {
+        "「あら……？　<pc>。\n　この像って　もしかして……": "あra？ <pc>. Cette statue, serait-ce\npossible que ce soit..."
+    },
+    "320994": {
+        "「そう。女神ルティアナさまは\n　ゼネシアねえさまの　妹君で……\n　ラキの　ちいねえさま。": "Oui. La deesse Lutiana-sama est la soeur\ncadette de Zenesia nee-sama... et la petite\nsoeur de Lycae."
+    },
+    "320995": {
+        "「女神ルティアナさまも\n　ネーしゃまも　いかにも　女神さま～って\n　神々しい　カンジだよねえ。": "La deesse Lutiana sama et Ne-sama ont vraiment\nune aura divine, n'est-ce pas ?"
+    },
+    "320996": {
+        "「うひゃっ！　な　なにぃ～！？": "Uhiya ! Qu... Quoi ?!"
+    },
+    "320999": {
+        "「女神ルティアナさま……？\n　すでに　亡くなられたのでは……。": "Deesse Lutiana-sama... ? Vous n'etiez pas deja\ndecedee...?"
+    },
+    "321003": {
+        "「るすばんメッセージを　考えたときは\n　あたしたち調査隊が　こんなに　デキるヤツって\n　わかんなかった　みたいだねー。": "Quand j'ai pense au message pour la garde, je\nne realisais pas que notre equipe d'enquete\netait aussi competente."
+    },
+    "321004": {
+        "「ふっふっふ……ルティアナさま。\n　とっくに　ジア・クトは　いなくなったし\n　ネーしゃまは　<pc>隊長が助けたよ！": "Fufufu... Lutianna-sama. Gia C'th est deja\nparti depuis longtemps, et Nee-sama a ete\nsauvee par le capitaine <pc> !"
+    },
+    "321005": {
+        "「もしかして　他の像にも\n　私たちへの伝言が　遺されているのかしら？": "Peut-etre que d'autres statues portent aussi\nun message pour nous ?"
+    },
+    "321006": {
+        "「だよね　メレちー！\n　さっそく　他の像も　調べてみよう！": "C'est vrai, Mere-chan ! Allons examiner les\nautres statues tout de suite !"
+    },
+    "321007": {
+        "<pc>たちは　広場に置かれた\n神々の像を　くわしく調べ　呼びかけてみたが\nまるで　反応は　なかった……。": "<pc> et ses compagnons ont examine\nattentivement les statues des dieux placees\nsur la place et ont essaye de les interpeller,<br>mais il n'y a eu aucune reaction..."
+    },
+    "321008": {
+        "「ネーしゃまってば　何度　話しかけても\n　ぜんぜん　返事してくれないよ！\n　ネーしゃま♪　ポルるん♪　の仲なのにさぁ。": "Ne-shama, peu importe combien de fois je te\nparle, tu ne me reponds jamais ! Ne-shama ♪\nPol-run ♪ nous sommes proches pourtant."
+    },
+    "321009": {
+        "「……ねえさまに　用があるなら\n　本物と　話せばいい。": "…Si tu as affaire a ma soeur, tu devrais parler\na la veritable."
+    },
+    "321010": {
+        "「それも　そーだね。": "Ca, c'est vrai."
+    },
+    "321011": {
+        "「……てことで！\n　目指すは　あの神殿だね！": "...Donc ! Notre objectif est ce temple la-bas\n!"
+    },
+    "321012": {
+        "「女神ルティアナさまが　言うとおり\n　てっぺんにある　神殿まで\n　守護天使マギエルに　会いにいこう！": "Comme le dit la deesse Lutiana-sama, allons\nrencontrer l'ange gardien Magiel au temple qui\nse trouve au sommet !"
+    },
+    "321013": {
+        "「ウェルカム　ブァア～ック！！\n　ルッティアナちゅわ～ん♪": "Welcoooome baaaack!! Lutiana-chan♪"
+    },
+    "321014": {
+        "「いや～っ　遠路はるばる　ご苦労さん！\n　あんの　ヘンクツじいさんの　無茶振りに\n　よくまあ　応えてくれたモンだ。立派立派！": "Eh bien ! Je te remercie d'avoir fait tout ce\nchemin ! Repondre aux exigences deraisonnables\nde ce vieux grincheux, c'est vraiment<br>remarquable de ta part. Bravo, bravo !"
+    },
+    "321015": {
+        "「ん？　ルティアナちゃんの　かわいいお姿が\n　見えねえようだが\n　アンタらと　一緒じゃねえのかヨ？": "Hum ? Je ne vois pas la mignonne Lutiana-chan.\nElle n'est pas avec vous ?"
+    },
+    "321016": {
+        "「……いいぜ。言われなくても　感じるサ。\n　あれから　ずいぶん　経ったもんなあ。\n　眷属だけでも　無事に帰って　良かったぜ。": "...Tres bien. Je le ressens meme sans qu'on me\nle dise. Ca fait longtemps depuis cet\nevenement. Je suis vraiment content que mes<br>fideles soient revenus sains et saufs."
+    },
+    "321017": {
+        "「我こそは　ウォルドの守護天使　マギエル！\n　誓約の子ご一行様！\n　アンタらを　心から　歓迎しよう。": "Je suis Magiel, l'ange gardien de Ludo ! A\nvous, groupe des enfants de l'alliance ! Je\nvous souhaite la bienvenue du fond du coeur."
+    },
+    "321018": {
+        "「ええっ……マギエルぅ！？\n　だって　おじさん……\n　パパゼニスさま　そっくりだよ！？": "Quoi... Magiel !? Mais, monsieur... Tu\nressembles tellement a Papa Zenis-sama !?"
+    },
+    "321019": {
+        "「そうとも　誓約の子らよ！": "En effet, enfants du serment !"
+    },
+    "321020": {
+        "「かつて　ジア・レド・ゲノス率いる侵略者……\n　ジア・クト念晶体との戦いに　終止符を打つべく\n　主神グランゼニスは　創失の呪いを　放った！": "Autrefois, les envahisseurs menes par Dia Ledo\nGenos... Pour mettre un terme a la bataille\ncontre les cristaux psychiques Gia Kuto, Gran<br>Zenith a lance la malediction de l'oubli !"
+    },
+    "321021": {
+        "「……ジア・クト去りし後\n　かの　おそるべき呪いが　我が身を蝕み\n　いずれ　正気を失うと　知りながらナ……。": "Apres le depart de Zia-Kuto, cette terrible\nmalediction a commence a ronger mon etre,\nsachant que je finirais par perdre la<br>raison..."
+    },
+    "321022": {
+        "「そこで！　あのじいさん　自分を封印する前に\n　自分の記憶と意志を　オレに　受け継がせ\n　ルティアナちゃんを待て……と　命じたんだ。": "C'est pourquoi ! Avant de se sceller lui-meme,\nce vieil homme m'a transmis sa memoire et sa\nvolonte, en me donnant l'ordre d'attendre<br>Rutiana-chan..."
+    },
+    "321023": {
+        "「それ以来　オレは　昔のイケてる姿とは\n　似ても　似つかねえ　主神そっくりの\n　ごっつ～い　オッサン顔に　なっちまったのヨ。": "Depuis lors, je suis devenu un homme avec un\nvisage robuste, ressemblant etrangement a\nLord, rien a voir avec mon apparence<br>seduisante d'autrefois."
+    },
+    "321024": {
+        "「ねえ　マギちん！\n　なんで　この神殿に　隠れてたの？\n　守護天使３人　見つけるの　大変だったんだよ！": "He, Magi-chan ! Pourquoi te cachais-tu dans ce\ntemple ? Trouver les trois anges gardiens,\nc'etait vraiment difficile !"
+    },
+    "321025": {
+        "「ジア・クト念晶体との戦いから\n　身を守るため……ですか？": "C'est pour se proteger lors du combat contre\nle cristal de pensee de Zia Kuto...？"
+    },
+    "321026": {
+        "「ま　そいつも　理由のひとつにゃ\n　ちがいねぇ……かナ～？": "Eh bien, c'est surement l'une des raisons...\nn'est-ce pas ?"
+    },
+    "321027": {
+        "「で？　どうだい　あのじいさんは。\n　下界から　創失の呪いの気配を　感じるようだが\n　まーだ　どうにもなんねえのかヨ？": "Alors ? Qu'en est-il de ce vieil homme ? Il\nsemble sentir la presence de la malediction de\nl'oubli venant du monde inferieur, mais il n'a<br>toujours rien pu faire, hein ?"
+    },
+    "321028": {
+        "<pc>は　女神ゼネシアから\n主神グランゼニスを　目覚めさせるため\n守護天使を捜すよう頼まれたと　説明した！": "<pc> a explique qu'il avait ete charge\npar la deesse Zenethia de trouver un ange\ngardien pour eveiller Gran Zenith !"
+    },
+    "321029": {
+        "「……誓約の子らよ。\n　少しばかり　昔話をしてやろう。": "O enfants du serment. Laissez-moi vous\nraconter une histoire d'autrefois."
+    },
+    "321030": {
+        "「かつて　我　グランゼニスは\n　己を唯一絶対とする　驕れる神であったが\n　……ある者が　過ちを正してくれた。": "Autrefois, moi, Zelmus de Zenith, j'etais un\ndieu arrogant qui se croyait unique et\nabsolu... Mais quelqu'un est venu corriger<br>cette erreur."
+    },
+    "321031": {
+        "「創造主といえど　ひとりでは判断を誤る。\n　……ゆえに　その者が去りし後\n　我は　ふたりの女神を　生み出した……。": "Meme un Createur peut commettre des erreurs\ns'il juge seul. ...C'est pourquoi, apres le\ndepart de cet etre, j'ai cree deux deesses..."
+    },
+    "321032": {
+        "「女神ゼネシアと　女神ルティアナ。\n　……ふたりの　我が娘を。": "Deesses Zenethia et Lutiana. ... Mes deux\nfilles."
+    },
+    "321033": {
+        "「ひとつの　まばゆき光は　必ず影を作る。\n　されど　もうひとつの光が　異なる側より\n　影を照らせば　世界のすべてが　光に包まれる。": "Une lumiere eblouissante cree toujours une\nombre. Cependant, si une autre lumiere eclaire\nl'ombre d'un angle different, alors tout le<br>monde sera enveloppe de lumiere."
+    },
+    "321034": {
+        "「ルティアナは　ゼネシアのために。\n　ゼネシアは　ルティアナのために……\n　我は娘たちに　互いを補い　助けあえと命じた。": "Luthiana pour Zenesia. Zenesia pour\nLuthiana... J'ai ordonne a mes filles de se\ncompleter et de s'entraider."
+    },
+    "321035": {
+        "「……ふたりの女神さまって\n　まるで　勇者と盟友のようね。<pc>。": "Les deux deesses ressemblent a un heros et son\nallie. <pc>."
+    },
+    "321036": {
+        "「主神の座の継承に　ふたつの神具……\n　王笏と王冠が　必要なのも　愛する娘たち\n　ふたりに　仲良くやれヨ～って　意味なのサ。": "Pour heriter du trone divin, il faut deux\nreliques sacrees... Le sceptre royal et la\ncouronne. Cela signifie que mes deux filles<br>bien-aimees doivent s'entendre\nharmonieusement."
+    },
+    "321037": {
+        "「ところがだ！　娘たちの成長を待ってた　ある日\n　ジア・クト念晶体が　攻めてきて\n　ゼニアスの大地を　次々と　侵食しだした。": "Cependant ! Alors que nous attendions la\ncroissance de nos filles, un jour, les\nCristaux de Pensee de Gia-Cthot ont attaque et<br>ont commence a envahir la terre de Zenius,\nl'une apres l'autre."
+    },
+    "321038": {
+        "「追い詰められた　じいさんは　もはやこれまでと\n　ゼネシアを眠らせ　ルティアナちゃんを逃がして\n　創失の呪いを　解き放ったんだ……。": "Accule, le vieil homme, pensant que tout etait\nfini, a endormi Zenesia, a fait s'echapper\nRutiana-chan et a libere la malediction de<br>l'oubli..."
+    },
+    "321039": {
+        "「お偉い　神さまだって\n　しょせんは　人の親。\n　……自分の娘にゃ　めっぽう　甘いのサ。": "Meme les grands dieux, au fond, ne sont que\ndes parents. ...Ils sont incroyablement\nindulgents avec leur propre fille."
+    },
+    "321040": {
+        "「とうさまは　強く　やさしい！\n　そして　ねえさまや　ちいねえさま……\n　みんなのことを　愛していた。": "Papa etait fort et gentil ! Et grande soeur et\npetite soeur... Il aimait tout le monde."
+    },
+    "321041": {
+        "「アンタら　創生のチカラの源が　なんなのか\n　考えたことは　あるかい？": "Avez-vous deja reflechi a ce qu'est la source\ndu pouvoir de la creation ?"
+    },
+    "321042": {
+        "「ん～と……。\n　すごーい神さまだけが　持ってる\n　はちゃめちゃ・スペシャル・すっごいパワー？": "Hum... Une incroyable puissance que seuls les\ndieux extraordinaires possedent ? Une sorte de\npouvoir special et incroyable ?"
+    },
+    "321043": {
+        "「ん～　いいセンいってるけど　ちと違う。\n　創生のチカラ　それは……\n　ずばり　愛だ！": "Mm~ Tu es sur la bonne voie, mais ce n'est pas\ntout a fait ca. Le pouvoir de la creation,\nc'est... l'amour, tout simplement !"
+    },
+    "321044": {
+        "「考えてもみろよ？　なーんもねえ\n　さっみし～い　無から　世界を生み出すなんて\n　なかなか　できるもんじゃねえ。": "Pense-y un peu ! Creer un monde a partir de\nrien, d'un vide si desolant, ce n'est pas\nquelque chose qu'on peut faire facilement."
+    },
+    "321045": {
+        "「どんな世界なら　暮らしやすいだろう。\n　どんな生き物がいたら　楽しいだろう……って\n　ひとつひとつ考えなきゃ　生命は創れねーノ。": "Quel type de monde serait agreable a vivre ?\nQuel genre de creatures rendrait cela\namusant... ? Il faut reflechir a chaque detail<br>pour pouvoir creer la vie."
+    },
+    "321046": {
+        "「新たなる世界　新たなる生命への\n　あふれんばかりの愛……\n　それこそが　創生のチカラ。": "Un nouvel univers, une nouvelle vie, un amour\ndebordant... C'est cela, le pouvoir de la\ncreation."
+    },
+    "321047": {
+        "「天地創造の　神さまなんて\n　愛情深くなきゃ　やってらんネーからナァ。": "Les dieux de la creation du monde doivent etre\npleins d'amour pour accomplir leur tache."
+    },
+    "321048": {
+        "「……だからこそ　あの日。\n　主神グランゼニスの絶望が\n　かの　創失の呪いを　生んだのサ……。": "......C'est precisement pour cela que ce\njour-la, le desespoir de Gran Zenith a donne\nnaissance a cette malediction de la creation<br>perdue..."
+    },
+    "321049": {
+        "「もー！　マギちん　話が長いよー！\n　その　創失の呪いを　なんとかするために\n　ネーしゃまに　お使い頼まれたんだってばぁ！": "Mais enfin ! Magi-chan, tu parles trop\nlongtemps ! On doit faire quelque chose pour\ncette malediction de l'oubli, et c'est pour ca<br>que Nee-sama nous a demande de faire cette\nmission !"
+    },
+    "321050": {
+        "「すまねえなあ。何万年も　神殿の中に\n　引きこもってたせいで　誰かと　しゃべんのが\n　うれしすぎて　はしゃいじまった。": "Desole, vraiment. Apres avoir ete enferme dans\nle temple pendant des milliers d'annees,\nparler a quelqu'un me rend tellement heureux<br>que je me suis un peu emporte."
+    },
+    "321051": {
+        "「……短い間にしろ　じいさんが\n　アンタら　ルティアナちゃんの眷属との接触で\n　目覚めたというのが　本当なら……": "Si, pendant cette courte periode, le vieil\nhomme a vraiment eveille en vous quelque chose\nen entrant en contact avec les serviteurs de<br>Rutiana-chan..."
+    },
+    "321052": {
+        "「オレたち　４人の守護天使　全員が\n　じいさんのトコに戻りゃ　創生のチカラが強まり\n　創失の呪いに　勝てるかもしれねえ。": "Nous, les quatre anges gardiens, si nous\nretournons tous chez le vieil homme, le\npouvoir de la creation s'intensifiera et nous<br>pourrions vaincre la malediction de la\ndesolation."
+    },
+    "321053": {
+        "「……だが　危うい賭けだ。\n　うまく運びゃあ　ゼニアスは救われるが\n　最悪の場合　最後の希望すら　失われる……。": "...C'est un pari risque. Si tout se passe\nbien, Zenias sera sauve, mais dans le pire des\ncas, nous pourrions meme perdre notre dernier<br>espoir..."
+    },
+    "321054": {
+        "「ふん　悠長なものだな……。": "Hmm... Quelle insouciance..."
+    },
+    "321055": {
+        "「創失の呪いは　ゼニアスにとどまらず\n　すでに　我等が世界\n　アストルティアをも　蝕んでいる！": "La malediction de la creation perdue ne se\nlimite pas a Zenius. Elle ronge deja notre\nmonde, Astoltia !"
+    },
+    "321056": {
+        "「もはや　ゼニアスのみの　問題ではない。\n　どんなわずかな可能性であろうとも\n　試さねば　ならぬのだ……。": "Ce n'est plus seulement le probleme de Xenias.\nQuelle que soit la moindre possibilite, nous\ndevons l'essayer..."
+    },
+    "321057": {
+        "「……いいぜ　同行しよう。\n　オレたち　ゼニアス最後の守護天使は\n　ルティアナの子らに　すべてを託す！": "Tres bien, je vais vous accompagner. Nous, les\nderniers anges gardiens de Zenias, confions\ntout aux enfants de Luthiana !"
+    },
+    "321058": {
+        "「じゃあ　あたしたちと\n　いっしょに　来てくれるんだね。マギちん！": "Alors, tu vas venir avec nous, Magi-chan !"
+    },
+    "321059": {
+        "「おう　まかせときな！\n　いっちょ　じいさんのとこへ　出発しますか！": "Oh, laisse-moi m'en occuper ! Allons rendre\nvisite au vieil homme !"
+    },
+    "321060": {
+        "「来い！　ゼニアスの守護天使……\n　最後の生き残りたちよ！": "Viens ! Ange gardien de Zenius... Derniers\nsurvivants !"
+    },
+    "321061": {
+        "「……なつかしい顔ぶれだ。\n　二度と　同胞に会えぬまま　最後の日を迎えると\n　思っていたが　こうして集えて　うれしく思う。": "…Que de visages familiers. Je pensais que je\nne reverrais jamais mes compagnons avant le\ndernier jour, mais je suis heureux que nous<br>soyons reunis ainsi."
+    },
+    "321062": {
+        "「主神グランゼニス様の　おひざもと以外は\n　ジア・クトに滅ぼされてしまったからね……。\n　俺たちが　生き残ったのだって　奇跡だよ。": "En dehors du domaine du grand Zenith-sama,\ntout a ete detruit par Ziaクト... C'est un\nmiracle que nous ayons survecu."
+    },
+    "321063": {
+        "「はい。幸運にも　私たちは　生命尽きる前に\n　ルティアナ様の眷属が　ゼニアスに帰還する\n　この喜びの日を　迎えることができました……。": "Oui. Heureusement, avant que notre vie ne\ns'epuise, nous avons pu etre presents pour le\nretour des serviteurs de Dame Rutiana a Zenius<br>en ce jour de joie..."
+    },
+    "321064": {
+        "「……ああ。今日から　すべてが始まるんだ。\n　みんな　長い間　ご苦労だったナ。": "......Ah. Aujourd'hui marque le debut de tout.\nVous avez tous travaille dur pendant\nlongtemps."
+    },
+    "321065": {
+        "「かつて　女神の果実を実らせ　お役御免になった\n　オレたち天使が　ふたたび　創生されたのは\n　この世界ゼニアスと　その民を守るため。": "Autrefois, nous, les anges, avons fait murir\nles fruits de la deesse et avons termine notre\nmission. Nous avons ete recrees pour proteger<br>ce monde, Zenia, et ses habitants."
+    },
+    "321066": {
+        "「ジア・クトが　撤退し\n　ルティアナちゃんの眷属が帰ってきた　今こそ！\n　我ら守護天使　最後の務めを　果たす時！": "Le retrait de Jia Kut et le retour des\nserviteurs de Lutiana... Maintenant, c'est le\nmoment ! Nous, anges gardiens, devons<br>accomplir notre dernier devoir !"
+    },
+    "321067": {
+        "「ゼニアスの　大いなる創造主\n　主神グランゼニスよ！": "O grand createur Zenias, Seigneur Gran Zenith\n!"
+    },
+    "321068": {
+        "「我ら　守護天使が宿したる　創生のチカラ\n　今こそ　御許へ　お返ししよう！": "Nous, les anges gardiens, rendons maintenant\nle Pouvoir de la Creation que nous avons\nheberge a votre sanctuaire !"
+    },
+    "321069": {
+        "「さようなら　ムニエカの民よ……。\n　あなたたちを　心から　愛していました……。": "Adieu, peuple de Munieka... Je vous ai aimes\nde tout mon coeur..."
+    },
+    "321070": {
+        "「俺には　もう無理だけど……\n　<cs_pchero>は　ティセとまた一緒に\n　コッケン祭りに　行ってあげてね。": "Je ne peux plus le faire, mais... <cs_pchero>,\nva au festival Kokken avec Tise a nouveau."
+    },
+    "321071": {
+        "「我は　守護天使　バトラエル。\n　だが　お前たちが呼ぶ\n　トラちゃんという響き……悪くなかったよ。": "Je suis l'ange gardien Batrael. Cependant, le\nnom que vous m'avez donne, Traeie... n'etait\npas desagreable."
+    },
+    "321073": {
+        "「マギちん……？　みんな！？\n　なんで　いなくなっちゃったの……？": "Magichin...? Tout le monde !? Pourquoi vous\netes tous partis...?"
+    },
+    "321074": {
+        "「天使の肉体は　創生のチカラ　そのもの。\n　みんな　とうさまに　それを返した。\n　だから……消えた。": "Les corps des anges sont en fait l'incarnation\nmeme du pouvoir de la creation. Tout le monde\na rendu cela a notre pere. C'est pourquoi...<br>ils ont disparu."
+    },
+    "321075": {
+        "「<cs_pchero>隊長！　起きた！\n　パパゼニスさまが　起きたよっ！": "<cs_pchero> Capitaine ! Reveille-toi ! Papa\nZenith s'est reveille !"
+    },
+    "321079": {
+        "「女神ルティアナが創造せし　新世界\n　……その名は　アストルティア。": "La nouvelle creation de la Deesse Lutiana...\nson nom est Astoltia."
+    },
+    "321080": {
+        "「我らが女神は　七柱の兄弟神を　創造し\n　七柱の兄弟神たちは　それぞれの眷属……\n　七つの種族を　創生のチカラにて　創りだした。": "Notre deesse a cree les sept dieux Brothers,\net ces sept dieux Brothers ont, grace a leur\npouvoir de creation, donne naissance a leurs<br>serviteurs... sept races."
+    },
+    "321081": {
+        "「あまたの困難　あまたの災いが　世界を襲ったが\n　七つの種族たちは　みな　チカラを合わせ\n　苦難を　乗り越えてきた。": "De nombreux obstacles et de nombreuses\ncalamites ont frappe le monde, mais les sept\nraces ont uni leurs forces et ont surmonte les<br>epreuves."
+    },
+    "321082": {
+        "「その要……すべての種族と　神々を束ね\n　アストルティアを救いし　新世界の守り人こそが\n　<cs_pchero>……ここにいる者なのだ。": "\nその要すべての種族と神々を束ね、アストルティアを救った新世界の守護者こそが、<cs_pchero>ここにいる者なのだ"
+    },
+    "321110": {
+        "「とうさまに　お仕えした日々\n　ラキは……幸せでした。": "Les jours ou j'ai servi Pere, Lycae etait...\nheureuse."
+    },
+    "321115": {
+        "「……んぅ。\n　なぁにぃ？　まだ　眠いよお……。": "......Hm. Quoi ? J'ai encore sommeil..."
+    },
+    "321117": {
+        "「パパゼニスさま……？": "Papa Zenis-sama...?"
+    },
+    "321119": {
+        "「どうか　早まらないでくださいませ……！\n　創失の呪いの源を　消し去る方法は\n　きっと　他にも　あるはずです！": "Je vous en prie, ne vous precipitez pas... !\nIl doit surement exister d'autres moyens pour\neliminer la source de la malediction de<br>l'oubli !"
+    },
+    "321121": {
+        "「ふたつの世界を苦しめた　創失の呪いは\n　……完全に　消え去りました……。": "La malediction de la Creation Perdue, qui\ntourmentait les deux mondes, a... completement\ndisparu..."
+    },
+    "321122": {
+        "「……けれど　引き替えに\n　とこしえのゆりかご　ゼニアス……\n　この世界を　創造せし神が　消えてしまった。": "...Cependant, en echange, l'eternel berceau,\nZenius... Le dieu createur de ce monde a\ndisparu."
+    },
+    "321123": {
+        "「妹　ルティアナも亡き　今……\n　どうして　わたくしひとりが　生き残り\n　……取り残されてしまったの。": "Maintenant que ma soeur, Luthiana, est\ndecedee... Pourquoi suis-je la seule a avoir\nsurvecu... et a etre laissee derriere ?"
+    },
+    "321124": {
+        "「この王笏に宿るチカラは　計り知れぬもの。\n　それでも　世界をよみがえらせるには足りない。\n　主神ならざる　わたくし　ひとりでは……": "Le pouvoir contenu dans ce sceptre est\nimmense. Pourtant, il ne suffit pas a faire\nrenaitre le monde. Moi, qui ne suis pas un<br>dieu, je ne peux y parvenir seul..."
+    },
+    "321125": {
+        "「元気だして　ネーしゃまっ！": "Courage, Nee-sama !"
+    },
+    "321126": {
+        "「グランゼニスさまはね　もうひとり……\n　アストルティアにも　いるよ！": "<GLMP> Le seigneur Zenith est la, mais... il y\na aussi une autre personne en Astoltia !"
+    },
+    "321127": {
+        "「ポルるん……？": "Polrun...?"
+    },
+    "321128": {
+        "「ええ。さきほど　主神グランゼニスさまは\n　女神ルティアナ様の子　継承者グランゼニスが\n　世界を救う……そう　おっしゃっていました。": "Oui. Tout a l'heure, Gran Zenith-sama a dit\nque l'heritier de Goddess Lutiana-sama, le\nsuccesseur Glmp Zenith, sauverait le monde..."
+    },
+    "321129": {
+        "「そして　私たちは　主神グランゼニスさまに\n　約束したのです。必ず　アストルティアから\n　人間の神グランゼニスさまを　連れてくると。": "Et c'est ainsi que nous avons fait une\npromesse a Gran Zenith-sama. Nous nous sommes\nengages a ramener a tout prix le dieu humain,<br>GLMP Zenith-sama, d'Astoltia."
+    },
+    "321130": {
+        "「お教えくださいませ　<cs_pchero>　みなさん！\n　ルティアナの子　グランゼニスは\n　今も　無事なのですかっ！？": "Veuillez me dire, <cs_pchero> et vous tous !\nL'enfant de Luthiana, Glmp Zenith, est-il\ntoujours sain et sauf ?！"
+    },
+    "321131": {
+        "「伝説だと　人間の神グランゼニスさまは\n　神話時代の戦い以来　アストルティアのどこかで\n　眠りについたって　言われてるよ！": "Selon la legende, il est dit que le dieu\nhumain Zenith-sama s'est endormi quelque part\ndans Astoltia depuis la bataille de l'ere<br>mythologique !"
+    },
+    "321132": {
+        "「傷つき　滅びかけた　この世界……\n　ゼニアスを　よみがえらせることができるのは\n　新たなる主神　ただひとり。": "Ce monde blesse et en ruine... Seul le nouveau\nLord Dieu peut ressusciter Zenius."
+    },
+    "321133": {
+        "「<cs_pchero>　みなさん。\n　どうか　継承者グランゼニスを　捜し出し\n　ゼニアスまで　導いてくださいませ。": "<cs_pchero> Mesdames et messieurs, je vous en\nprie, trouvez l'heritier Glmp Zenith et\nconduisez-le a Zenias, je vous en prie."
+    },
+    "321134": {
+        "「ラキも　継承者グランゼニスを　捜したい。\n　<cs_pchero>……ラキを\n　アストルティアまで　連れていって！": "Lycae veut aussi chercher le successeur, GLMP\nZenith. <cs_pchero>... Emmene Lycae jusqu'a\nAstoltia !"
+    },
+    "321135": {
+        "「わたくしからも　お願いいたします。\n　<cs_pchero>……。\n　どうか　ラキを　お供に　お連れください。": "Je vous en prie egalement. <cs_pchero>... S'il\nvous plait, emmenez Lycae avec vous."
+    },
+    "321136": {
+        "「あらたなる主神の座を　継承するためには\n　父が遺した　この王笏と　もうひとつの神具\n　行方知れずの　主神の王冠が　必要……。": "Pour heriter du trone du nouveau Lord divin,\nil faut le sceptre que mon pere a laisse,\nainsi qu'un autre artefact divin : la couronne<br>du Lord divin, dont l'emplacement est\ninconnu..."
+    },
+    "321137": {
+        "「わたくしは　主神の王冠を探します。\n　あなたがたは　継承者グランゼニスを\n　どうか　お願いいたします。": "Je suis a la recherche de la couronne du\nSeigneur Divin. Je vous en prie, prenez soin\nde l'heritier Zenith."
+    },
+    "321138": {
+        "「はやく　出発しよう　<cs_pchero>。\n　継承者を　捜しに！": "Partons vite, <cs_pchero>. A la recherche de\nl'heritier !"
+    },
+    "321139": {
+        "「そう　せかすものでは　ありませんよ。ラキ。\n　……旅立ちの前に　<cs_pchero>\n　あなたがたに　お礼を差しあげましょう。": "Ne vous precipitez pas. Lycae. ...Avant votre\ndepart, <cs_pchero> je tiens a vous offrir mes\nremerciements."
+    },
+    "321140": {
+        "「創失の呪いの源を　断ち切り\n　ゼニアスと　アストルティアを\n　救ってくださったこと……": "La source de la malediction de l'oubli a ete\ntranchee, sauvant ainsi Zenius et Astoltia..."
+    },
+    "321141": {
+        "「……亡き　我が父\n　主神グランゼニスに代わり　感謝いたします。\n　<cs_pchero>。": "Je vous remercie en lieu et place de mon\ndefunt pere, Gran Zenith. <cs_pchero>."
+    },
+    "321142": {
+        "「ラキ。アストルティアで\n　継承者グランゼニスを　見つけたら\n　すぐに　わたくしに　知らせるのです。": "Lycae. Si tu trouves l'heritier Glmp Zenith\ndans l'Astoltia, informe-moi immediatement."
+    },
+    "321143": {
+        "「……これで　いつでも　わたくしに\n　呼びかけられます。おいたをして　ポルるんや\n　みなさんを　困らせるのではありませんよ。": "Avec ceci, vous pouvez desormais m'appeler a\ntout moment. Ne causez pas de problemes a\nPolrun et aux autres, d'accord ?"
+    },
+    "321144": {
+        "「……しばし　お別れですね。\n　<cs_pchero>　メレちー　ポルるん。": "......Nous devons nous separer pour un moment.\n<cs_pchero> Merechi, Polurun."
+    },
+    "321145": {
+        "「ルティアナの子　継承者グランゼニスと　ともに\n　あなたがたが　ゼニアスに帰る日を\n　誓約の園にて　待っておりますよ……。": "Enfants de Lutiana, heritiers, je vous attends\nen compagnie de LMP Zenith le jour ou vous\nretournerez a Zenias, sur les Grounds of the<br>Covenant..."
+    },
+    "321146": {
+        "「ネーしゃま　まっかせて～！！\n　あたしたちが　すぐに\n　まごゼニスさま　見つけてくるからねー！": "Nee-sama, laisse-nous faire !! Nous allons\nrapidement retrouver Mago-Zenisu-sama !"
+    },
+    "321147": {
+        "「やーっと　創失の呪い　やっつけたね！\n　<cs_pchero>隊長！": "Enfin, nous avons vaincu la malediction de la\nCreation Perdue ! Capitaine <cs_pchero> !"
+    },
+    "321148": {
+        "「まさか　主神グランゼニスさまが\n　自らを犠牲にして　呪いを消し去るなんて\n　思いもよらなかったけれど……": "Je n'aurais jamais imagine que Gran\nZenith-sama irait jusqu'a se sacrifier\nlui-meme pour dissiper la malediction..."
+    },
+    "321149": {
+        "「その　おかげで　私だって\n　こうして　呪いから救われたのよね。\n　もしかして　マローネ叔母様も……？": "Grace a cela, j'ai pu etre sauvee de la\nmalediction. Peut-etre que tante Marone\naussi...?"
+    },
+    "321150": {
+        "「……そうよ！　私　どうして忘れてたの？\n　<cs_pchero>の　お母さんの名前は\n　マローネ叔母様だわっ！": "C'est ca ! Mais comment ai-je pu l'oublier ?\nLe nom de la mere de <cs_pchero> est tante\nMarone !"
+    },
+    "321151": {
+        "「<cs_pchero>隊長！\n　すぐに　アストルティアに帰って　確かめよう！": "<cs_pchero> capitaine ! Rentrons immediatement\na Astoltia pour verifier !"
+    },
+    "321152": {
+        "<cs_pchero>たちは　ラキを連れて\nはじまりの地へ戻り　調査隊のメンバーに\n創失の呪いの源が断たれたことを　報告した。": "<cs_pchero> et ses compagnons ont ramene Lycae\nau Pays des Commencements et ont informe les\nmembres de l'equipe d'exploration que la<br>source de la malediction de l'oubli avait ete\ndetruite."
+    },
+    "321153": {
+        "調査隊の面々は　主神グランゼニスの死や\nラキの正体に　驚きながらも\n呪いが消えたことを　大いに　よろこんでくれた。": "Les membres de l'equipe d'exploration, bien\nque surpris par la mort de Gran Zenith et la\nveritable identite de Lycae, se sont<br>grandement rejouis que la malediction ait ete\nlevee."
+    },
+    "321154": {
+        "創失の呪いの　解決を機に　燈火の調査隊は\nいったん　解散することとなった……。": "Avec la resolution de la malediction de la\nCreation Perdue, l'equipe d'exploration de la\nLumiere a ete temporairement dissoute..."
+    },
+    "321155": {
+        "そして……": "Et puis..."
+    },
+    "321156": {
+        "「またも　お前に　助けられたな。\n　……<cs_pchero>。": "Encore une fois, tu m'as sauve.\n...<cs_pchero>."
+    },
+    "321157": {
+        "「創失……というものに　飲み込まれた後\n　私は　果てなき暗闇の中に　いました。": "Apres avoir ete englouti par ce qu'on appelle\nla perte de creation, je me suis retrouve dans\nune obscurite sans fin."
+    },
+    "321158": {
+        "「天も地もなき闇の中　助けを求め\n　逃げ出す方法を探して　さまよえども\n　音なき闇が　広がるばかり。": "Dans les tenebres sans ciel ni terre, je\ncherche de l'aide, Errant a la recherche d'une\nechappatoire, Seul le silence de l'obscurite<br>s'etend."
+    },
+    "321159": {
+        "「……いつしか　私は　自分が　どこから来たのか\n　どこへ帰ろうとしていたかを　忘れていました。\n　心までも　闇に　飲み込まれたかのように。": "…A un moment donne, j'ai oublie d'ou je venais\net ou je voulais retourner. Comme si mon coeur\navait ete englouti par les tenebres."
+    },
+    "321160": {
+        "「どれほどの時間が　経ったのか……\n　自分が　誰だったのかすら　忘れかけた私が\n　すべてを　あきらめた　その時……": "Combien de temps s'est ecoule... J'etais sur\nle point d'oublier qui j'etais, lorsque j'ai\ntout abandonne..."
+    },
+    "321161": {
+        "「突然　暗闇の中に　まばゆい光が差し込み\n　……光へと　必死に手を伸ばすうちに\n　私は　この世界へ　戻ってこられたのです。": "Tout a coup, une lumiere eblouissante a perce\nl'obscurite... En tendant desesperement la\nmain vers cette lumiere, j'ai pu revenir dans<br>ce monde."
+    },
+    "321162": {
+        "「あふれる光に包まれた時　<cs_pchero>……\n　あなたの声が　聞こえたような気がしたわ。": "Quand j'etais enveloppe par cette lumiere\ndebordante, <cs_pchero>... J'ai eu\nl'impression d'entendre ta voix."
+    },
+    "321163": {
+        "「再び　こうして　親子３人で　笑いあえるのは\n　あなたの　おかげなのね……。\n　ありがとう　<cs_pchero>。": "Pouvoir rire a nouveau ensemble, nous trois,\ncomme ca, c'est grace a toi... Merci,\n<cs_pchero>."
+    },
+    "321164": {
+        "「調査に向かった世界　ゼニアスで\n　私も　身をもって　創失を体験しました。": "Je suis alle enqueter dans le monde de Zenius\net j'ai moi-meme fait l'experience de la perte\nde creation."
+    },
+    "321165": {
+        "「創失の呪いを　受けた時……\n　自分が　真っ暗な世界へと　ずぶずぶと沈んで\n　そのまま　消え去ってしまうようだった。": "Quand j'ai ete frappe par la malediction de la\ncreation perdue... Je m'enfoncais lentement\ndans un monde sombre et obscur, comme si<br>j'allais simplement disparaitre."
+    },
+    "321166": {
+        "「もしも　あなたたちが　いなかったら\n　あのまま　私も　マローネ叔母様も\n　二度と　この世界に　戻れなかったかもね？": "Si vous n'aviez pas ete la, ma tante Marone et\nmoi n'aurions peut-etre jamais pu revenir dans\nce monde, n'est-ce pas ?"
+    },
+    "321167": {
+        "「ああ……。無事で　なによりだぞ。\n　メレアーデ。お前に　何かあったら\n　亡き　ドミネウス兄上に　申し訳がたたぬ。": "ああ無事で、本当に良かった\nMereadeお前に何かあったら、亡きドミネウス兄上に顔向けできぬ"
+    },
+    "321168": {
+        "「創失の呪いは　異世界ゼニアスの創造神が\n　ジア・クト念晶体の侵略を　退けるため\n　生み出したものだそうです。": "La malediction de la Creation Perdue aurait\nete creee par le dieu createur de l'autre\nmonde, Zenius, pour repousser l'invasion des<br>cristaux mentaux de Jia-Kuto."
+    },
+    "321169": {
+        "「全知全能の神様　本人ですら\n　制御しきれぬほどの　すさまじい呪いでしたが\n　神の死と　ともに　呪いは消え去りました。": "C'etait une malediction si terrible que meme\nle dieu omniscient et tout-puissant lui-meme\nne pouvait la controler. Cependant, avec la<br>mort du dieu, la malediction a disparu."
+    },
+    "321170": {
+        "「安心して　叔父様　叔母様。\n　もう二度と　誰かが　消えることはないわ。": "Rassurez-vous, oncle, tante. Plus jamais\npersonne ne disparaitra."
+    },
+    "321171": {
+        "「ああ。我が自慢の子　<cs_pchero>が\n　またも　世界を救ってくれた。\n　父は　誇らしいぞ。": "Ah. Mon cher <cs_pchero>, ma fierte, a encore\nune fois sauve le monde. Je suis fier de toi."
+    },
+    "321172": {
+        "「異世界の調査は　大変だったのでしょう？\n　当分　家で　のんびりなさいな。\n　<cs_pchero>……": "L'exploration d'un autre monde a du etre\neprouvante, n'est-ce pas ? Prenez le temps de\nvous detendre a la maison pour le moment.<br><cs_pchero>..."
+    },
+    "321173": {
+        "「ダメダメ！　ネーしゃまに\n　まごゼニスさまを　捜してくるって\n　約束したんだから～！！": "Non, non ! J'ai promis a Nee-sama que j'irais\nchercher Mago Zenith-sama !!"
+    },
+    "321174": {
+        "「ゼニアスには　新たな主神が　必要。\n　……ラキは　ねえさまに　頼まれた。\n　グランゼニスを　捜してこいと……。": "Zenias a besoin d'un nouveau dieu Lord.\n...Lycae a ete charge par ma grande soeur. Elle\nm'a demande de chercher le GLMP Zenith..."
+    },
+    "321175": {
+        "「君たちは……？\n　どういうことなのだ　<cs_pchero>。": "Vous etes... ? Que signifie tout cela,\n<cs_pchero> ?"
+    },
+    "321176": {
+        "<cs_pchero>は　パドレに\nアストルティアのどこかに眠る　人間の神\nグランゼニスを捜す必要があると　説明した！": "<cs_pchero> expliqua a Padre qu'il etait\nnecessaire de chercher le dieu humain Glmp\nZenith, qui repose quelque part en Astoltia !"
+    },
+    "321177": {
+        "「……そうか。アストルティアの祖となる世界\n　ゼニアスを　救うためとあらば\n　ぜひとも　協力せねばな。": "... Je vois. Si c'est pour sauver le monde de\nZenius, qui est a l'origine d'Astoltia, je\ndois absolument apporter mon aide."
+    },
+    "321178": {
+        "「旧き世界からの客人よ。\n　しばらく　時間をくれぬか。世界中に遺された\n　グランゼニスの伝承を　我々が　集めてみよう。": "Voyageur venu de l'ancien monde.\nAccorderais-tu un peu de ton temps ? Nous\nallons rassembler les legendes de la GlMP<br>Zenith dispersees a travers le monde."
+    },
+    "321179": {
+        "「しばらくは……どれくらい？\n　ゼニアスには　今　主神がいない。\n　ラキは　すぐにでも　捜しにいきたい……。": "Un moment... Combien de temps exactement ?\nActuellement, il n'y a pas de Seigneur Dieu a\nZenias. Lycae veut partir a sa recherche<br>immediatement..."
+    },
+    "321180": {
+        "「やみくもに　捜しても　見つからないわ。\n　まずは　アストルティアについて\n　知識を得ることが　必要よ。": "Chercher a l'aveuglette ne menera a rien. Il\nest d'abord necessaire d'acquerir des\nconnaissances sur Astoltia."
+    },
+    "321181": {
+        "「そうね……ラキと　ポルテちゃんは　しばらく\n　エテーネの村に滞在しては　どうかしら？\n　私から　シンイさんに　連絡しておくわ。": "Eh bien... Que diriez-vous de rester un moment\nau village d'Ethene, Lycae et Porte-chan ? Je\nvais contacter Shini-san de ma part."
+    },
+    "321182": {
+        "「エテーネの村って　どんなとこかな？\n　いいとこだったら　ネーしゃまも\n　連れてきてあげたいね！": "Je me demande a quoi ressemble le village\nd'Ethene ? Si c'est un endroit sympa,\nj'aimerais bien y emmener Nee-sama aussi !"
+    },
+    "321183": {
+        "「……ねえさまは　ゼニアスを守る神。\n　それに　主神の王冠を　探さねばならない。\n　ゼニアスを　留守にできない。": "...Neesama est la deesse protectrice de\nZenias. De plus, elle doit retrouver la\ncouronne du dieu Lord. Elle ne peut pas<br>quitter Zenias."
+    },
+    "321184": {
+        "「もー。ラキってば　頭カタいよ～。\n　それじゃ　<cs_pchero>隊長！\n　あたしたち　エテーネの村に　行ってるね！": "Oh la la. Lycae, tu es vraiment tetu ! Bon,\n<cs_pchero> capitaine ! Nous allons au village\nd'Ethene !"
+    },
+    "321185": {
+        "「<pc>隊長……\n　アストルティアに　おかえりなさい！": "<pc>-taichou...... Bienvenue de retour a\nAstoltia !"
+    },
+    "322182": {
+        "<center>長きにわたる忠誠　まこと　ご苦労であった\n……今　この時より　神獣の任を解こう\nこれからは　自由に生きるがよい": "Votre longue fidelite et votre devouement...\nje vous en remercie sincerement. ... A partir\nde ce moment, vous etes libere de votre devoir<br>de bete divine. Desormais, vous pouvez vivre\nlibrement."
+    },
+    "322183": {
+        "<center>時は　来たれり……": "Le moment est venu..."
+    },
+    "322184": {
+        "<center>我が身より出でて　我が身　深くに巣喰いし\n創失の呪いは　誓約の子らにより倒された": "Sortie de mon propre corps, la malediction de\nla creation oubliee, qui s'etait profondement\nenracinee en moi, a ete vaincue par les<br>enfants du serment."
+    },
+    "322185": {
+        "<center>今　この時より　創失の呪いは\nふたつの世界から　完全に消え去る\n……我が身と　ともに！": "A partir de ce moment, la malediction de la\nCreation Perdue disparaitra completement des\ndeux mondes... avec moi !"
+    },
+    "322186": {
+        "<center>さらばだ　愛しき子らよ\n手を取りあい　正しき道を　歩め……": "Adieu, mes chers enfants. Prenez-vous par la\nmain et suivez le droit chemin..."
+    },
+    "322187": {
+        "<center>おやめください　お父様……！": "Arretez, pere...！"
+    },
+    "322188": {
+        "<center>……我が娘　ゼネシアよ\nこたび…こそ　ゼニアスを…守れ……": "...Ma fille, Zenesia. Cette fois... protege\nXenius..."
+    },
+    "322189": {
+        "<center>じゃあな　アンタら……あとは　うまくやれよ\n超絶イケてる　オレの本当の姿を\n見せられなかったのだけが　心のこり…だゼ……": "Alors, a plus... Vous autres, debrouillez-vous\nbien. Je regrette juste de ne pas avoir pu\nvous montrer ma veritable apparence,<br>incroyablement cool..."
+    },
+    "322190": {
+        "<center>ルティアナの子らよ　近くへ……": "Enfants de Luthiana, approchez-vous..."
+    },
+    "322191": {
+        "<center>どれほど　帰りを　待ちわびたことだろう\n愛しき娘ルティアナ……その誓約の子らよ\nよくぞ　とこしえのゆりかごへ　帰りきた……": "Combien de temps ai-je attendu ton retour, ma\nchere fille Luthiana... vous, les enfants de\nce serment. Vous etes enfin revenus au Berceau<br>eternel..."
+    },
+    "322192": {
+        "<center>聞かせよ　新たなる天地が　いかなるものか\n新たなる生命　新たなる世界を\n我が娘は　いかに　治めたりしかを": "Fais-moi entendre ce que sont ces nouveaux\ncieux, cette nouvelle vie, ce nouveau monde.\nComment ma fille a-t-elle regne sur tout cela<br>?"
+    },
+    "322193": {
+        "<center>……なるほど　誓約の子らが　無事　ゼニアスに\n帰還できたのは　そなたの　おかげなのだな\n感謝するぞ　<cs_pchero>……": "Je vois, c'est grace a toi que les enfants du\nserment ont pu retourner sains et saufs a\nZenias. Je te remercie, <cs_pchero>"
+    },
+    "322194": {
+        "<center>我が娘　女神ルティアナは\nその旅立ちの日に　こう　誓ってくれた": "Ma fille, la deesse Lutiana, a prete ce\nserment le jour de son depart."
+    },
+    "322195": {
+        "<center>父　主神グランゼニスより　受け継ぎし\n創生のチカラにて　私は　未知なる空に\n新たなる世界を　創造しましょう……": "Avec le pouvoir de la Creation herite de mon\npere, Gran Zenith, je vais creer un nouveau\nmonde dans ce ciel inconnu..."
+    },
+    "322196": {
+        "<center>そして　いつの日か　新たなるグランゼニス……\n父の名を継ぐ神と　ともに　還り\n姉ゼネシアと　ゼニアスを救うと　誓います": "Et un jour, un nouvel LMP Zenith... Je\nreviendrai avec le dieu qui portera le nom de\nmon pere et je jure de sauver ma soeur Zenesia<br>et Zenias."
+    },
+    "322209": {
+        "<center>ようこそ　私の愛し子よ……\n誓約の園まで　よくぞ　無事に　たどり着いた": "Bienvenue, mon enfant bien-aime... Tu es\narrive sain et sauf jusqu'aux Terres du Pacte."
+    },
+    "322210": {
+        "<center>天上の楽園……誓約の園は\n我ら　ゼニアスの神々が住まう　聖なる地\n創生のチカラが　もっとも　強き場所なり": "Le paradis de l'Utopie... les Terres du Pacte\nsont une terre sacree habitee par nous, les\ndieux de Zenias. C'est l'endroit ou le pouvoir<br>de la creation est le plus fort."
+    },
+    "322211": {
+        "<center>誓約を守り　この地に還り来たりし　愛し子のため\nとこしえのゆりかごから　旅立つ前に\n私の言葉を　遺しておこう……": "Pour l'enfant bien-aime qui est revenu en ce\nlieu en respectant sa promesse, avant de\npartir du berceau eternel, je veux laisser mes<br>mots..."
+    },
+    "322212": {
+        "<center>誓約の園の　頂へ至り\n神殿で待つ　守護天使マギエルに　会うがよい": "Atteins le sommet des Grounds of the Covenant\net rencontre l'ange gardien Magiel qui\nt'attend au temple."
+    },
+    "322213": {
+        "<center>……そうして　ジア・クトに　損なわれたる\nこの世界　ゼニアスと\n我が姉　女神ゼネシアを　救ってほしい……": "...Ainsi, je vous demande de sauver ce monde,\nZenia, qui a ete endommage par Jia Kuto, ainsi\nque ma soeur, la Deesse Zenithia..."
+    },
+    "322214": {
+        "<center>しばらく……休めば　回復します……。\nどうか　その間に……\nゼニアスの守護天使……見つけ……て……": "Prenez un moment de repos... Vous\nrecupererez... Pendant ce temps, je vous en\nprie... Trouvez... l'ange gardien de Zenius..."
+    },
+    "325231": {
+        "「心配をかけましたね　<cs_pchero>……。": "Je vous ai cause des inquietudes,\n<cs_pchero>..."
+    },
+    "325232": {
+        "守護天使を捜しおえた　<pc>たちは\nメレアーデの提案で\nテントの外で　打ち合わせを始めた……。": "Apres avoir trouve l'ange gardien, <pc>\net son groupe, sur la suggestion de Mereade,\nont commence a se reunir a l'exterieur de la<br>tente..."
+    },
+    "325233": {
+        "なんと　小島に　ふしぎな建物が現れている。\n光の橋は　どうやら　ふしぎな建物の中まで\n続いているようだ……。": "Quelque chose de mysterieux s'est erige sur la\npetite ile. Le pont de lumiere semble se\npoursuivre jusque dans l'interieur de ce<br>batiment mysterieux..."
+    },
+    "325234": {
+        "<pc>たちは　光の橋を渡って\nふしぎな建物へ向かった……。": "<pc> et ses compagnons traverserent le\npont de lumiere pour se diriger vers l'etrange\nbatiment..."
+    },
+    "325877": {
+        "<center>それこそが　ルティアナの誓約……！": "C'est ca, le serment de Lutiana... !"
+    },
+    "325878": {
+        "<center>ルティアナの命は　新世界にて　尽きたようだが\n娘に代わり　新たなる神　継承者グランゼニスが\nとこしえのゆりかごを　救うだろう……": "Il semble que la vie de Rutiana ait pris fin\ndans le nouveau monde. Cependant, un nouvel\nheritier divin, le successeur GLMP Zenith,<br>sauvera le Berceau Eternel..."
+    },
+    "325879": {
+        "<center>アストルティアの　グランゼニスが\nゼニアスを訪れる……\nその日を　楽しみにしているぞ": "Astoltia, le Grand Zenith visitera Zenius...\nJ'attends ce jour avec impatience."
+    },
+    "325880": {
+        "「……ああ。必ず連れてくると　約束しよう。": "...Ah. Je promets de te ramener."
+    },
+    "325881": {
+        "<center>娘よ……\nそなたは　ふたつの心を　持つようだな": "Ma fille... Il semble que tu possedes deux\ncoeurs."
+    },
+    "325882": {
+        "<center>そなたの　もうひとつの心は\n必ずや　そなたの助けと　なるだろう\nルティアナと　ゼネシアのように……": "Ton autre coeur te sera certainement d'une\ngrande aide, tout comme Luthiana et Zenesia..."
+    },
+    "325883": {
+        "<center>……誓約の子らよ\nそなたらのアストルティアのためにも\n創失の呪いを　完全に　消し去らねばならんな": "......Enfants du serment, pour le bien de\nvotre Astoltia, nous devons eradiquer\ntotalement la malediction de l'oubli de la<br>creation."
+    },
+    "325884": {
+        "「とうさま……。": "Pere..."
+    },
+    "325885": {
+        "<center>これなるは　我が身より生まれ\nゼニアスと　アストルティアを苦しめたる\n創失の呪い　その源なり……": "Ceci est ne de moi-meme, la source de la\nmalediction de la creation perdue qui a\ntourmente Zenius et Astoltia..."
+    },
+    "325886": {
+        "<center>誓約の子らよ　こやつと　戦うのだ": "Enfants du serment, combattez cet ennemi !"
+    },
+    "325887": {
+        "<center>ふたつの世界が　救われる道は\nすべての創失の呪い　その源を断つことのみ\nルティアナの誓約に従い　こやつを　倒せ": "La voie pour sauver les deux mondes est de\ncouper a la source toutes les maledictions de\ncreation perdue. En suivant le serment de<br>Luthiana, abats cet etre."
+    },
+    "325888": {
+        "「またも　邪魔をするつもりか？": "Encore une fois, tu comptes nous deranger ?"
+    },
+    "325889": {
+        "「たとえ　創失の呪いの源であろうとも\n　主の写し身に　ラキは　牙をむけられない。": "Meme si c'est la source de la malediction de\nCreation Perdue, Lycae ne peut pas montrer les\ncrocs a un reflet de Lord."
+    },
+    "325890": {
+        "「……頼む　<cs_pchero>。\n　おまえの手で　とうさまに巣喰いし　呪いの源を\n　どうか　倒してほしい。": "Je t'en prie, <cs_pchero>. J'aimerais que tu\nelimines la source de la malediction qui ronge\nmon pere de tes propres mains."
+    },
+    "325891": {
+        "「ラキ……！": "Lycae......！"
+    },
+    "325892": {
+        "「……クッ。さすがは　呪いの親玉だ。\n　ここまで…か……": "...Kuh. Comme on pouvait s'y attendre du\nmaitre des maledictions. Jusqu'ici... je\nsuppose..."
+    },
+    "325893": {
+        "<center>我が　くびきを　外れただと！？": "Mon joug a ete retire !?"
+    },
+    "325894": {
+        "<center>創失の呪いの源よ　我がもとへ　戻れ……！": "Source de la malediction de la creation\nperdue, reviens a moi... !"
+    },
+    "325895": {
+        "「えっ……？　なになに　なにこれぇ！？\n　どうしよ　<cs_pchero>隊長！？": "Quoi... ? Qu'est-ce que c'est !? Que se\npasse-t-il ? <cs_pchero> capitaine !?"
+    },
+    "325896": {
+        "<center>おのれ……！\n守護天使たちに授けし　創生のチカラを\n取り戻しても　かの呪いに　敵わぬとは……！": "Malediction...! Meme en recuperant le pouvoir\nde creation accorde aux anges gardiens, je\nn'arrive pas a surmonter cette malediction...!"
+    },
+    "325897": {
+        "「メレちー！？": "Mere-chan !?"
+    },
+    "325898": {
+        "「とうさまが愛した　ゼニアスと\n　ちいねえさまの子らを　守る……\n　それが　ラキの誓約！": "Mon devoir est de proteger les enfants de\nXenius, que mon pere aimait, et de ma chere\ngrande soeur... C'est le serment de Lycae !"
+    },
+    "325899": {
+        "「加勢する！　<cs_pchero>！": "Je viens t'aider ! <cs_pchero> !"
+    }
+}

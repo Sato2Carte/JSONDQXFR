@@ -1,0 +1,131 @@
+{
+    "197786": {
+        "「……ああ　ワガハイだ。回収任務指令の\n　第２９１号にて　指定された民家に　到着した。\n　これより　任務を開始する。": "…Ah, c'est moi. Je suis arrive a la maison\ndesignee par l'ordre de mission de\nrecuperation numero 291. Je vais maintenant<br>commencer la mission."
+    },
+    "197787": {
+        "「キミのことは　知っているよ。\n　<pc>君。それがキミの名だ。": "Je te connais. <pc>-kun, c'est ton nom."
+    },
+    "197788": {
+        "「ワガハイを　追ってきたことも　知っている。\n　先を越されるとは　思っていなかったがね。": "Je sais que tu m'as suivi. Je ne pensais pas\nque tu me devancerais."
+    },
+    "197789": {
+        "「しかし……だ。": "Cependant..."
+    },
+    "197790": {
+        "「悪く　思わないでくれたまえ。\n　キミに　かまっている時間は　ないのだよ。": "Ne m'en veux pas. Je n'ai pas le temps de\nm'occuper de toi."
+    },
+    "197791": {
+        "<pc>は　深い眠りに　落ちた……。": "<pc> est tombe dans un profond\nsommeil..."
+    },
+    "197792": {
+        "どこからか　足音が　聞こえてくる……。": "Des bruits de pas se font entendre de quelque\npart..."
+    },
+    "197793": {
+        "「ほう……。もう　回復したか。\n　さすが　<pc>君というところだな。": "Oh... Tu as deja recupere. Comme on pouvait\ns'y attendre de <pc>-kun."
+    },
+    "197794": {
+        "「キミの用件は　わかっている。\n　ある少年に　頼まれて\n　これを　届けにきたのだろう？": "Je comprends pourquoi tu es la. Un certain\ngarcon t'a demande de me remettre ceci,\nn'est-ce pas ?"
+    },
+    "197795": {
+        "<pc>は　ふところに入れておいた\nボンドルの手紙が　なくなっていることに\n気がついた！": "<pc> se rend compte que la Lettre de\nBondor, qu'il avait gardee dans sa poche, a\ndisparu !"
+    },
+    "197796": {
+        "「すまないが　ワガハイは\n　弟子は取らないと　決めているのでね。": "Je suis desole, mais j'ai decide de ne pas\nprendre d'apprenti."
+    },
+    "197797": {
+        "「この手紙の差出人には　キミから\n　丁重に　断っておいてくれたまえ。": "Veuillez informer l'expediteur de cette lettre\nde mon refus avec la plus grande courtoisie."
+    },
+    "197798": {
+        "「では　さらば！": "Eh bien, adieu !"
+    },
+    "197799": {
+        "オルフェアの町にいるボンドルに\n弟子入りの話が　パクレ警部から\n断られてしまったことを　伝えにいこう。": "Allons informer Bondor a Orphea que la demande\nd'apprentissage a ete refusee par l'Inspecteur\nPakul."
+    },
+    "197800": {
+        "「おい　お前。さっきも　ここに　来てたが\n　もしや　オレと同じで　パクレの野郎に\n　借金でも　返してもらおうってのか？": "He, toi. Tu etais la tout a l'heure aussi. Ne\nme dis pas que, comme moi, tu es la pour que\nce salaud de Pakure te rembourse une dette ?"
+    },
+    "197801": {
+        "<if_woman>「あっ　お姉ちゃん。\n　もしかして　パクレ警部に　会えたのかな？<yesno><close><else>「あっ　お兄ちゃん。\n　もしかして　パクレ警部に　会えたのかな？<yesno><close><endif>": "<if_woman>>Ah, grande soeur. Est-ce que tu as\npu rencontrer Inspector Pakul ?<yesno><close<else>>Ah, grand frere. Est-ce que tu as pu\nrencontrer Inspector Pakul\n?<yesno><close><endif>"
+    },
+    "197802": {
+        "「……なんだ　ちがうのか。\n　別の用事ってんなら　オレには　関係ねえな。": "Ah, ce n'est pas ca. Si c'est pour autre\nchose, ca ne me concerne pas."
+    },
+    "197803": {
+        "<if_woman>「あははっ。お姉ちゃんは\n　ウソが　ヘタクソみたいだね。<else>「あははっ。お兄ちゃんは\n　ウソが　ヘタクソみたいだね。<endif>": "<if_woman>>Ahaha. Grande soeur, on dirait que\ntu es mauvaise pour mentir.<else>>Ahaha. Grand frere, on dirait que tu es\nmauvais pour mentir. <endif>"
+    },
+    "197804": {
+        "「パクレ警部と　会ってきたって\n　思いっきり　カオに　書いてあるよ！": "On dirait que tu as rencontre l'Inspecteur\nPakul, ca se lit sur ton visage !"
+    },
+    "197805": {
+        "「どっちにしても　パクレの野郎なら\n　帰ってくる気配は　ねえぜ。\n　お前も　とっとと引き上げるこったな。": "De toute facon, cet idiot de Pakure ne semble\npas revenir. Toi aussi, tu ferais mieux de te\nretirer rapidement."
+    },
+    "197806": {
+        "<if_woman>「よかった。お姉ちゃんなら\n　きっと　見つけてくれるって　信じてたんだ！<else>「よかった。お兄ちゃんなら\n　きっと　見つけてくれるって　信じてたんだ！<endif>": "<if_woman>>Super ! Je savais que ma grande\nsoeur finirait par le retrouver !<else>>Super ! Je savais que mon grand frere\nfinirait par le retrouver ! <endif>"
+    },
+    "197807": {
+        "「……それで　ボクの手紙は　渡してくれたよね。\n　警部は　なんて　言ってたの？": "Alors, tu as bien remis ma lettre, n'est-ce\npas ? Qu'est-ce que l'inspecteur a dit ?"
+    },
+    "197808": {
+        "<pc>は　ボンドルに\n弟子入りの話が　パクレ警部から\n断られてしまったことを　告げた。": "<pc> a informe Bondor que l'Inspector\nPakul avait refuse sa demande de devenir\napprenti."
+    },
+    "197809": {
+        "「……うわ～。\n　やっぱり　ダメだったかあ。\n　そんな気は　してたんだけどね。": "...... Oh, non. Ca n'a pas fonctionne, hein.\nJe m'en doutais un peu, tu sais."
+    },
+    "197810": {
+        "「おいおい。パクレに弟子入りだと？\n　そんなことを　考えていたのか。\n　おかしなヤツだな　お前……。": "Oh la la. Tu veux devenir l'apprenti de Pakure\n? Tu pensais a quelque chose comme ca. Tu es\nvraiment un type etrange..."
+    },
+    "197811": {
+        "「もしかして　パクレの野郎に\n　どこかで　会ってきたってのかよ？": "Peut-etre que tu as rencontre ce fichu Pakure\nquelque part ?"
+    },
+    "197812": {
+        "<if_woman>「ねえ　お姉ちゃん。参考までに\n　パクレ警部が　どこで　何をしてたのか\n　見てきたことを　ぜーんぶ　教えてくれる？<else>「ねえ　お兄ちゃん。参考までに\n　パクレ警部が　どこで　何をしてたのか\n　見てきたことを　ぜーんぶ　教えてくれる？<endif>": "<if_woman>>Dis, grande soeur. Pourrais-tu me\nraconter tout ce que tu as vu et appris sur ce\nque faisait Inspector Pakul et ou il etait ?<else>>Dis, grand frere. Pourrais-tu me raconter\ntout ce que tu as vu et appris sur ce que\nfaisait Inspector Pakul et ou il etait ?<br><endif>"
+    },
+    "197813": {
+        "<pc>は　ボンドルに\nパクレ警部が　ジュレットの町の酒場で\nしでかしたことを　話してあげた。": "<pc> a raconte a Bondor ce que\nl'Inspecteur Pakul avait fait a la taverne de\nJulet."
+    },
+    "197814": {
+        "「はあ？　パクレの野郎が\n　ジュレットの酒場で　あばれてたってか？\n　そいつは　初耳だなあ。": "Hein ? Tu dis que ce vaurien de Pakure faisait\ndes siennes a la taverne de Jurett ? C'est\nbien la premiere fois que j'entends ca."
+    },
+    "197815": {
+        "<if_woman>「ふ～ん。パクレ警部が\n　酒場の置き物を　壊しちゃって\n　お姉ちゃんが　代わりに　弁償したんだね。<else>「ふ～ん。パクレ警部が\n　酒場の置き物を　壊しちゃって\n　お兄ちゃんが　代わりに　弁償したんだね。<endif>": "<if_woman>>Hmm. L'inspecteur Pakul a casse\nl'ornement de la taverne et ta grande soeur a\ndu le remplacer.<else>>Hmm. L'inspecteur Pakul a casse l'ornement de\nla taverne et ton grand frere a du le\nremplacer. <endif>"
+    },
+    "197816": {
+        "「でも　なんで　そんなことに　なったのかな？\n　追いつめた犯人と　現場で格闘の末\n　巻き込んで　壊しちゃった……とかかも。": "Mais pourquoi est-ce que ca s'est passe comme\nca ? Apres avoir accule le criminel, un combat\ns'est engage sur le parking et... Peut-etre<br>que tout a ete detruit dans la melee..."
+    },
+    "197817": {
+        "「それで　その後　警部は　どうしたのかな？": "Alors, que s'est-il passe ensuite avec\nl'inspecteur ?"
+    },
+    "197818": {
+        "<pc>は　ボンドルに\n王都カミハルムイ南の　民家の前で\nパクレ警部と会えたことを　話してあげた。": "<pc> a raconte a Bondor qu'il avait pu\nrencontrer l'inspecteur Pakul devant une\nmaison au sud de la ville de Kamiharmui."
+    },
+    "197819": {
+        "「なにぃ？　あいつは今\n　カミハルムイに　いるってのか！？\n　オレも　後で　行ってみるとするか……。": "Quoi ? Il est a Kamiharmui en ce moment !? Je\ndevrais peut-etre y aller plus tard..."
+    },
+    "197820": {
+        "<if_woman>「……ふんふん。警部は\n　お姉ちゃんを　眠らせている間に\n　その家に　入っていったんだね。<else>「……ふんふん。警部は\n　お兄ちゃんを　眠らせている間に\n　その家に　入っていったんだね。<endif>": "<if_woman>>... Hum hum. Le commissaire est\nentre dans cette maison pendant que grande\nsoeur dormait.<else>>... Hum hum. Le commissaire est entre dans\ncette maison pendant que grand frere dormait.<endif>"
+    },
+    "197821": {
+        "「そして　何かを持って　出てきた……と。": "Et ensuite, il est sorti en tenant quelque\nchose..."
+    },
+    "197822": {
+        "「それ　なんだろうね？\n　もしかして　その家は　凶悪な強盗犯のアジトで\n　盗まれたものを　取り返しにいったとか……？": "Qu'est-ce que cela pourrait etre ? Peut-etre\nque cette maison etait la cachette d'un\ndangereux voleur, un repaire nomme Horse<br>Mackerel, et qu'on est alle recuperer ce qui\navait ete vole..."
+    },
+    "197823": {
+        "「……あっ。家宅捜査ってヤツじゃないかな。\n　きっと　証拠品を押さえて\n　強盗犯を　バッチリ　捕まえる気なんだよ！": "...Ah. Ce doit etre une perquisition. Ils\nveulent surement saisir des preuves et\nattraper le voleur en un clin d'oeil !"
+    },
+    "197824": {
+        "「やっぱり　パクレ警部は　すごいなあ。\n　ますます　あこがれちゃった。": "Comme prevu, l'Inspecteur Pakul est vraiment\nincroyable. Je l'admire de plus en plus."
+    },
+    "197825": {
+        "「しかし　よりによって　カミハルムイかよ。\n　あの辺りには　あんまり　近寄りたく\n　ねえんだよなあ……。": "Mais pourquoi Kamiharmui, de tous les endroits\npossibles ? Je n'ai vraiment pas envie de\nm'approcher de cette region..."
+    },
+    "197826": {
+        "<if_woman>「弟子入りを断られたのは　残念だったけど\n　お姉ちゃんが　行ってくれたおかげで\n　パクレ警部のこと　いろいろ　わかったよ。<else>「弟子入りを断られたのは　残念だったけど\n　お兄ちゃんが　行ってくれたおかげで\n　パクレ警部のこと　いろいろ　わかったよ。<endif>": "<if_woman>>C'est dommage que je n'aie pas pu\ndevenir apprenti, mais grace a toi, grande\nsoeur, j'ai appris beaucoup de choses sur<br>l'Inspecteur Pakul.<else>>C'est dommage que je n'aie pas pu devenir\napprenti, mais grace a toi, grand frere, j'ai\nappris beaucoup de choses sur l'Inspecteur<br>Pakul. <endif>"
+    },
+    "197827": {
+        "「本当に　ありがとう。\n　これ　お礼だよ。受け取ってね！": "Merci beaucoup. Voici un petit cadeau pour te\nremercier. Accepte-le, s'il te plait !"
+    },
+    "197828": {
+        "「でも　ボク　あきらめないよ。\n　パクレ警部を追いかけて　ぜったいに\n　弟子入りしてやるんだ！！": "Mais je n'abandonnerai pas. Je vais poursuivre\nInspector Pakul et je deviendrai absolument\nson disciple !!"
+    }
+}

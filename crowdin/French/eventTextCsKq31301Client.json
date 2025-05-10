@@ -1,0 +1,44 @@
+{
+    "113502": {
+        "<pipipi_mid>「……ふー。やっと　外に出られたか。\n　まさか　翼が　背のボタンに届かぬとは……\n　ブツブツ……。": "<pipipi_mid>...Ouf. Enfin, je suis sorti. Je\nne m'attendais pas a ce que mes ailes ne\npuissent pas atteindre le bouton dans mon<br>dos... Murmure, murmure..."
+    },
+    "113503": {
+        "「ピピ　こんにちは！\n　ボクは　チャコロットです。": "Pi pi, bonjour ! Je suis Chacolot."
+    },
+    "113504": {
+        "「ああ　こんな時に　親切な冒険者さんに\n　出会えるなんて　なんという幸運でしょう！\n　日頃のおこないが　よかったおかげですね。": "Ah, croiser un aventurier aussi aimable en ce\nmoment, quelle chance incroyable ! C'est\nsurement grace a mon bon comportement<br>habituel."
+    },
+    "113505": {
+        "「冒険者さんに　お願いがあります。 \n　ボクの背中についている　青いボタンを\n　ピピっと　押してもらえませんか？": "Aventurier, j'ai une demande a vous faire.\nPourriez-vous appuyer sur le bouton bleu qui\nse trouve dans mon dos, s'il vous plait ?"
+    },
+    "113506": {
+        "「……いいですね？　押すのは　青いボタンです。\n　となりの赤いボタンには\n　けっして　触れないように　お願いしますよ。": "...D'accord ? Vous devez appuyer sur le bouton\nbleu. Je vous demande de ne surtout pas\ntoucher au bouton rouge a cote, s'il vous<br>plait."
+    },
+    "113507": {
+        "どちらの　ボタンを押しますか？\n<select_nc>\n赤いボタン\n青いボタン\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Quel bouton allez-vous appuyer ? <select_nc>\nBouton rouge Bouton bleu <select_end> <case 1>\n<close> <case 2> <close> <case_cancel> <close><br><case_end>"
+    },
+    "113508": {
+        "<shake_big>「ピィィィィイイイエエエエエエ！": "<shake_big>Piiiiiiiiiiieeeeeeeeee !"
+    },
+    "113509": {
+        "<pipipi_mid><shake_big>「オイ　コラ　何しとんねん　ワレ！ \n　押すボタンは　青だって　言ったろーが！！": "<pipipi_mid><shake_big>He, toi la-bas !\nQu'est-ce que tu fais ?! Je t'avais dit\nd'appuyer sur le bouton bleu !!"
+    },
+    "113510": {
+        "「………………。": ""
+    },
+    "113511": {
+        "「……ピピピ！　そっちは　赤いボタンです。\n　となりの青いボタンを　押してください。\n　今度は　間違えないように　お願いします。": "...... Bip bip ! Ca, c'est le bouton rouge.\nVeuillez appuyer sur le bouton bleu a cote.\nCette fois, faites attention a ne pas vous<br>tromper, s'il vous plait."
+    },
+    "113512": {
+        "どちらの　ボタンを押しますか？\n<select_nc>\n赤いボタン\n青いボタン\n<select_end>\n<case 1>\n<close>\n<case 2>\n<close>\n<case_cancel>\n<close>\n<case_end>": "Quel bouton allez-vous appuyer ? <select_nc>\nBouton rouge Bouton bleu <select_end> <case 1>\n<close> <case 2> <close> <case_cancel> <close><br><case_end>"
+    },
+    "113513": {
+        "「ピピ　やりました！": "Pipi a obtenu la lance !"
+    },
+    "122526": {
+        "<pc>は　青いボタンを押した。": "<pc> a appuye sur le bouton bleu."
+    },
+    "122556": {
+        "「……あっ　冒険者さん。\n　あなたには　まだ　お願いしたいことがあるので\n　ボクの後に　ついてきてください。": "…Ah, aventurier-san. J'ai encore une faveur a\nvous demander, alors veuillez me suivre, s'il\nvous plait."
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "15789": {
+        "「そこにおるのは　<pc>か？": "Est-ce que c'est toi, <pc> ?"
+    },
+    "15790": {
+        "「……フム。ここに来たということは\n　さては　お前さん　妖剣士オーレンのことを\n　調べておるのじゃな？<yesno><close>": "Hum. Si tu es venu jusqu'ici, c'est que tu\nenquetes sur Swordmaster Oren, n'est-ce pas ?\n<yesno><close>"
+    },
+    "15791": {
+        "「……いや　みなまで言うな。\n　どうせ　チグリ大臣あたりの差し金であろう。": "Non, inutile d'en dire plus. C'est surement un\ncoup de Minister Chigri."
+    },
+    "15792": {
+        "「お前さんに　忠告しておこう！\n　悪いことは言わんから　オーレンのことは\n　捨て置くがよい。": "Je te donne un conseil ! Je ne vais pas te\nmentir, laisse tomber l'affaire Oren."
+    },
+    "15793": {
+        "「そんなもの　調べるだけ　時間のムダ。\n　決して　真実には　たどり着けぬ。\n　チグリ大臣にも　そう伝えておけ！": "S'en occuper serait une perte de temps. Jamais\ntu ne pourras atteindre T. 実. Informe-en\negalement le Ministre Chigri !"
+    },
+    "15794": {
+        "ダンデルは　歴史書を解読するため\n部屋から　飛びだしていった！": "Danderu s'est precipite hors de la piece pour\ndechiffrer le livre d'histoire !"
+    },
+    "15795": {
+        "「どうやら　ダンデルからの依頼を\n　果たしてくれたようですな。": "Il semble que vous ayez accompli la mission de\nDanderu."
+    },
+    "15796": {
+        "「それでは　報酬は　私のほうから\n　お渡ししておきましょう。\n　どうぞ　これを　受け取ってくだされ。": "Alors, permettez-moi de vous remettre la\nrecompense de ma part. Veuillez accepter ceci,\nje vous prie."
+    },
+    "15797": {
+        "<pc>は　チグリ大臣に\nエイドスからの忠告を伝えた。": "<pc> a transmis l'avertissement d'Eidos\nau ministre Chigri."
+    },
+    "15798": {
+        "「……なんと！　洞くつの前に\n　エイドスさまが　現れて　そんなことを……。": "…Quoi ! Devant la grotte, Eidos-sama a ete P.\net cela…."
+    },
+    "15799": {
+        "「う～む。じつに　不可解ですな。\n　いったい　エイドスさまは　オーレンの\n　何を知っているのじゃろうか……。": "Hmmm. C'est vraiment mysterieux. Que pourrait\nbien savoir Eidos-sama a propos de Oren..."
+    },
+    "15800": {
+        "「見つかったのデス！！": "Je l'ai trouve !!"
+    },
+    "15801": {
+        "「やはり　４７巻でしたっ！\n　オーレンの名前を発見したのデス！": "C'etait bien le volume 47 ! J'ai trouve le nom\nde Oren !"
+    },
+    "15802": {
+        "「おお　でかしたぞ！\n　……して　妖剣士オーレンとは\n　いったい　何者だったのじゃ？": "Oh, bien joue ! ... Mais qui etait donc ce\nSwordmaster Oren ?"
+    },
+    "15803": {
+        "「おっほ！　\n　これは　大臣サマ。来ておられたのデスか！？": "Oh ! Voila Monsieur le Ministre. Vous etes\nvenu, n'est-ce pas ?"
+    },
+    "15804": {
+        "「……オッホン！\n　それでは　妖剣士オーレンの半生を\n　語らせていただきましょう。": "Hum, hum ! Permettez-moi de vous raconter une\npartie de la vie de Swordmaster Oren."
+    },
+    "15805": {
+        "「生前の彼は　グレン城に仕える騎士であり\n　剣聖オーレンと呼ばれる　英雄だったそうデス。\n　……そう。ある事件が　起こるまでは。": "De son vivant, il etait un chevalier au\nservice de Glen Castle et un heros connu sous\nle nom de l'epeiste sacre Oren. ...Oui,<br>jusqu'a ce qu'un certain incident se produise."
+    },
+    "15806": {
+        "「ある時　オーレンは　ベコン渓谷を\n　調査するという任務を負って\n　部下を引きつれ　グレン城を出発しました。": "A un moment donne, Oren a recu pour mission\nd'enqueter sur la vallee de Becon. Il est\nparti du chateau de Glen accompagne de ses<br>subordonnes."
+    },
+    "15807": {
+        "「ところが　彼は　その途中で姿をくらまし\n　次に　ガートラントの　さる大商人宅に\n　姿を現しました。": "Cependant, en chemin, il disparut et reapparut\nensuite chez un grand marchand de GarトLMPト."
+    },
+    "15808": {
+        "「そして　信じられないことに　オーレンは\n　大商人をおそって　その持ち物であった\n　レムルの聖杯と　商人の娘を強奪したのデス。": "Et incroyable mais vrai, Oren a attaque le\ngrand marchand et a vole le Calice de Lemur\nainsi que la fille du marchand."
+    },
+    "15809": {
+        "「この事件は　グレン　ガートラント両国の\n　関係を悪化させ　やがて　戦争へと発展する\n　引き金となりました。": "Cet incident a deteriore les relations entre\nles deux nations, Glen et GartoLMP, et a\nfinalement declenche une guerre."
+    },
+    "15810": {
+        "「以来　オーレンは　国を裏切った逆賊。\n　戦争を引き起こした大罪人として\n　表の歴史では　語られなくなったのデス。": "Depuis lors, Oren est considere comme un\ntraitre a la nation, un rebelle. En tant que\ngrand criminel responsable d'avoir declenche<br>la guerre, il n'est plus mentionne dans\nl'histoire officielle."
+    },
+    "15811": {
+        "「……いやはや　妖剣士オーレンとは\n　とんでもない悪党だったのデスな。\n　魔物になるのも　うなずける話デス。": "Eh bien, Swordmaster Oren etait un veritable\nscelerat, n'est-ce pas ? Il est comprehensible\nqu'il soit devenu un monstre."
+    },
+    "15812": {
+        "「むむう……。\n　今の話を聞いて　ますます\n　わからなくなってきましたわい。": "Hmm... Apres avoir entendu ca, je suis encore\nplus confus."
+    },
+    "15813": {
+        "「エイドスさまは　どうして\n　そんな悪党を　のさばらせておくのか……？": "Pourquoi Eidos-sama laisse-t-il de tels\nscelerats agir impunement...?"
+    }
+}
