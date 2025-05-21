@@ -62,6 +62,22 @@ def download_with_retry(url, attempts=3, delay=3):
                 time.sleep(delay)
     raise Exception(f"Échec du téléchargement après {attempts} tentatives : {url}")
 
+def get_language_from_settings():
+    config_path = Path(__file__).parent / "user_settings.ini"
+    if not config_path.exists():
+        print("user_settings.ini introuvable, utilisation de EN par défaut.")
+        return "EN"
+
+    with open(config_path, encoding="utf-8") as f:
+        for line in f:
+            if line.strip().lower().startswith("language"):
+                lang = line.split("=")[1].strip().upper()
+                if lang in ["FR", "EN"]:
+                    return lang
+                break
+    print("Langue non valide dans user_settings.ini. Utilisation de EN par défaut.")
+    return "EN"
+
 @click.command()
 @click.option('-u', '--disable-update-check', is_flag=True)
 @click.option('-c', '--communication-window', is_flag=True)
@@ -81,11 +97,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
     UserConfig(warnings=True)
 
     if update_dat:
-        choice = input("Tapez une langue : [EN/FR] ").strip().upper()
-        if choice not in ['EN', 'FR']:
-            print("Choix invalide. Par défaut, EN sera utilisé.")
-            choice = 'EN'
-
+        choice = get_language_from_settings()
         if choice == 'FR':
             switch_db_path_to_fr()
             log.info("Téléchargement des fichiers DAT et IDX en FR...")
