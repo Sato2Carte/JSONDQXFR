@@ -66,7 +66,8 @@ def get_settings():
     config_path = Path(__file__).parent / "user_settings.ini"
     settings = {
         "language": "EN",
-        "patchdaily": False
+        "patchdaily": False,
+        "serversidefr": False
     }
     if not config_path.exists():
         print("user_settings.ini introuvable. Utilisation des valeurs par défaut.")
@@ -82,8 +83,73 @@ def get_settings():
                 settings["language"] = value.upper()
             elif key == "patchdaily":
                 settings["patchdaily"] = value.lower() == "true"
+            elif key == "serversidefr":
+                settings["serversidefr"] = value.lower() == "true"
 
     return settings
+
+def update_serverside_fr(log):
+    switch_db_path_to_fr()
+    log.info("Création de la structure de la DB.")
+    create_db_schema()
+
+    log.info("Updating custom text in db.")
+    check_for_updates(update=True)
+    download_custom_files()
+
+    log.info("Mise à jour du contenu FR dans la base locale...")
+    xlsx_files = [
+        "extracted_bad_strings.xlsx",
+        "extracted_fixed_dialog_template.xlsx",
+        "extracted_m00_strings.xlsx",
+        "extracted_quests.xlsx",
+        "extracted_story_so_far_template.xlsx",
+        "extracted_walkthrough.xlsx"
+    ]
+    GITHUB_BASE = "https://github.com/Sato2Carte/ServSideText/raw/refs/heads/main/fr/"
+    db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
+
+    def update_table_from_excel(table_name, xlsx_url, db_path):
+        log.info(f"Traitement de {table_name}")
+        try:
+            response = download_with_retry(xlsx_url)
+        except Exception as e:
+            log.error(f"Échec critique du téléchargement : {e}")
+            return
+        wb = load_workbook(filename=BytesIO(response.content), read_only=True)
+        ws = wb.active
+        conn = sqlite3.connect(db_path)
+        cursor = conn.cursor()
+        count_updated = 0
+        count_skipped = 0
+        count_inserted = 0
+        for row in ws.iter_rows(min_row=2, values_only=True):
+            if len(row) < 3:
+                continue
+            ja, _, fr = row[0], row[1], row[2]
+            if not ja or not fr:
+                continue
+            ja, fr = ja.strip(), fr.strip()
+            cursor.execute(f"SELECT en FROM {table_name} WHERE ja = ?", (ja,))
+            result = cursor.fetchone()
+            if result is None:
+                cursor.execute(f"INSERT INTO {table_name} (ja, en) VALUES (?, ?)", (ja, fr))
+                count_inserted += 1
+            else:
+                current_en = result[0].strip() if result[0] else ""
+                if current_en == fr:
+                    count_skipped += 1
+                    continue
+                cursor.execute(f"UPDATE {table_name} SET en = ? WHERE ja = ?", (fr, ja))
+                count_updated += 1
+        conn.commit()
+        conn.close()
+        log.info(f"✅ {count_updated} maj, {count_inserted} insérés, {count_skipped} inchangés")
+
+    for file_name in xlsx_files:
+        table = file_name.replace("extracted_", "").replace(".xlsx", "")
+        url = GITHUB_BASE + file_name
+        update_table_from_excel(table, url, str(db_path))
 
 
 @click.command()
@@ -106,7 +172,17 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
     settings = get_settings()
     choice = settings["language"]
     patchdaily = settings["patchdaily"]
+    serversidefr = settings["serversidefr"]
 
+    if serversidefr :
+        update_serverside_fr(log)
+    else:
+        switch_db_path_to_en()
+        create_db_schema()
+        if not disable_update_check:
+            log.info("Updating custom text in db.")
+            check_for_updates(update=True)
+            download_custom_files()
 
     if update_dat:
         if choice == 'FR':
@@ -136,85 +212,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
                 log.info(f'IDX FR sauvegardé dans {file_path}')
             except Exception as e:
                 log.error(f"Erreur IDX FR: {e}")
-            log.info("Création de la structure de la DB.")
-            create_db_schema()
-
-            if not disable_update_check:
-                log.info("Updating custom text in db.")
-                check_for_updates(update=True)
-                download_custom_files()
-
-                log.info("Mise à jour du contenu FR dans la base locale...")
-                xlsx_files = [
-                    "extracted_bad_strings.xlsx",
-                    "extracted_fixed_dialog_template.xlsx",
-                    "extracted_m00_strings.xlsx",
-                    "extracted_quests.xlsx",
-                    "extracted_story_so_far_template.xlsx",
-                    "extracted_walkthrough.xlsx"
-                ]
-                GITHUB_BASE = "https://github.com/Sato2Carte/ServSideText/raw/refs/heads/main/fr/"
-                db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
-
-                def update_table_from_excel(table_name, xlsx_url, db_path):
-                    log.info(f"Traitement de {table_name}")
-                    try:
-                        response = download_with_retry(xlsx_url)
-                    except Exception as e:
-                        log.error(f"Échec critique du téléchargement : {e}")
-                        return
-                    wb = load_workbook(filename=BytesIO(response.content), read_only=True)
-                    ws = wb.active
-                    conn = sqlite3.connect(db_path)
-                    cursor = conn.cursor()
-                    count_updated = 0
-                    count_skipped = 0
-                    count_inserted = 0
-                    for row in ws.iter_rows(min_row=2, values_only=True):
-                        if len(row) < 3:
-                            continue
-                        ja, _, fr = row[0], row[1], row[2]
-                        if not ja or not fr:
-                            continue
-                        ja, fr = ja.strip(), fr.strip()
-                        cursor.execute(f"SELECT en FROM {table_name} WHERE ja = ?", (ja,))
-                        result = cursor.fetchone()
-                        if result is None:
-                            cursor.execute(f"INSERT INTO {table_name} (ja, en) VALUES (?, ?)", (ja, fr))
-                            count_inserted += 1
-                        else:
-                            current_en = result[0].strip() if result[0] else ""
-                            if current_en == fr:
-                                count_skipped += 1
-                                continue
-                            cursor.execute(f"UPDATE {table_name} SET en = ? WHERE ja = ?", (fr, ja))
-                            count_updated += 1
-                    conn.commit()
-                    conn.close()
-                    log.info(f"✅ {count_updated} maj, {count_inserted} insérés, {count_skipped} inchangés")
-
-                for file_name in xlsx_files:
-                    table = file_name.replace("extracted_", "").replace(".xlsx", "")
-                    url = GITHUB_BASE + file_name
-                    update_table_from_excel(table, url, str(db_path))
-        else:
-            switch_db_path_to_en()
-            log.info("Langue choisie : EN. Préparation de la base de données.")
-            create_db_schema()
-            if not disable_update_check:
-                log.info("Updating custom text in db.")
-                check_for_updates(update=True)
-                download_custom_files()
-            download_dat_files()
-    else:
-        log.info("Par défaut, DB en EN.")
-        switch_db_path_to_en()
-        create_db_schema()
-        if not disable_update_check:
-            log.info("Updating custom text in db.")
-            check_for_updates(update=True)
-            download_custom_files()
-
+                
     import_name_overrides()
 
     try:
