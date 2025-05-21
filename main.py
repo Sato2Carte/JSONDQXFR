@@ -62,21 +62,29 @@ def download_with_retry(url, attempts=3, delay=3):
                 time.sleep(delay)
     raise Exception(f"Échec du téléchargement après {attempts} tentatives : {url}")
 
-def get_language_from_settings():
+def get_settings():
     config_path = Path(__file__).parent / "user_settings.ini"
+    settings = {
+        "language": "EN",
+        "patchdaily": False
+    }
     if not config_path.exists():
-        print("user_settings.ini introuvable, utilisation de EN par défaut.")
-        return "EN"
+        print("user_settings.ini introuvable. Utilisation des valeurs par défaut.")
+        return settings
 
     with open(config_path, encoding="utf-8") as f:
         for line in f:
-            if line.strip().lower().startswith("language"):
-                lang = line.split("=")[1].strip().upper()
-                if lang in ["FR", "EN"]:
-                    return lang
-                break
-    print("Langue non valide dans user_settings.ini. Utilisation de EN par défaut.")
-    return "EN"
+            if line.strip().startswith("#") or "=" not in line:
+                continue
+            key, value = line.strip().split("=", 1)
+            key, value = key.strip().lower(), value.strip()
+            if key == "language" and value.upper() in ["FR", "EN"]:
+                settings["language"] = value.upper()
+            elif key == "patchdaily":
+                settings["patchdaily"] = value.lower() == "true"
+
+    return settings
+
 
 @click.command()
 @click.option('-u', '--disable-update-check', is_flag=True)
@@ -95,14 +103,22 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
     log.info("Getting started. DO NOT TOUCH THE GAME OR REMOVE YOUR MEMORY CARD.")
     log.info("Checking user_settings.ini.")
     UserConfig(warnings=True)
+    settings = get_settings()
+    choice = settings["language"]
+    patchdaily = settings["patchdaily"]
+
 
     if update_dat:
         choice = get_language_from_settings()
         if choice == 'FR':
             switch_db_path_to_fr()
             log.info("Téléchargement des fichiers DAT et IDX en FR...")
-            fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.dat1'
-            fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.idx'
+            if patchdaily:
+                fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1'
+                fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.idx'
+            else:
+                fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.dat1'
+                fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.idx'
             try:
                 response = download_file(fr_dat_url)
                 response.raise_for_status()
