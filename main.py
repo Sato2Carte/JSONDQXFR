@@ -109,7 +109,6 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
 
 
     if update_dat:
-        choice = get_language_from_settings()
         if choice == 'FR':
             switch_db_path_to_fr()
             log.info("Téléchargement des fichiers DAT et IDX en FR...")
