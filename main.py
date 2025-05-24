@@ -88,45 +88,41 @@ def get_settings():
 
     return settings
 
+import json
+
 def update_serverside_fr(log):
     switch_db_path_to_fr()
     log.info("Création de la structure de la DB.")
     create_db_schema()
 
-    log.info("Updating custom text in db.")
-    check_for_updates(update=True)
-    download_custom_files()
-
-    log.info("Mise à jour du contenu FR dans la base locale...")
-    xlsx_files = [
-        "extracted_bad_strings.xlsx",
-        "extracted_fixed_dialog_template.xlsx",
-        "extracted_m00_strings.xlsx",
-        "extracted_quests.xlsx",
-        "extracted_story_so_far_template.xlsx",
-        "extracted_walkthrough.xlsx"
+    log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
+    json_files = [
+        "fixed_dialog_template.json",
+        "m00_strings.json",
+        "quests.json",
+        "story_so_far_template.json",
+        "walkthrough.json",
+        "glossary.json"
     ]
-    GITHUB_BASE = "https://github.com/Sato2Carte/ServSideText/raw/refs/heads/main/fr/"
+    GITHUB_BASE = "https://raw.githubusercontent.com/Sato2Carte/Server-Side-Text/SSTFR/fr/"
     db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
 
-    def update_table_from_excel(table_name, xlsx_url, db_path):
+    def update_table_from_json(table_name, json_url, db_path):
         log.info(f"Traitement de {table_name}")
         try:
-            response = download_with_retry(xlsx_url)
+            response = download_with_retry(json_url)
+            data = json.loads(response.content.decode("utf-8"))
         except Exception as e:
-            log.error(f"Échec critique du téléchargement : {e}")
+            log.error(f"Échec du téléchargement ou du parsing de {json_url} : {e}")
             return
-        wb = load_workbook(filename=BytesIO(response.content), read_only=True)
-        ws = wb.active
+
         conn = sqlite3.connect(db_path)
         cursor = conn.cursor()
         count_updated = 0
         count_skipped = 0
         count_inserted = 0
-        for row in ws.iter_rows(min_row=2, values_only=True):
-            if len(row) < 3:
-                continue
-            ja, _, fr = row[0], row[1], row[2]
+
+        for ja, fr in data.items():
             if not ja or not fr:
                 continue
             ja, fr = ja.strip(), fr.strip()
@@ -142,15 +138,15 @@ def update_serverside_fr(log):
                     continue
                 cursor.execute(f"UPDATE {table_name} SET en = ? WHERE ja = ?", (fr, ja))
                 count_updated += 1
+
         conn.commit()
         conn.close()
         log.info(f"✅ {count_updated} maj, {count_inserted} insérés, {count_skipped} inchangés")
 
-    for file_name in xlsx_files:
-        table = file_name.replace("extracted_", "").replace(".xlsx", "")
+    for file_name in json_files:
+        table = file_name.replace(".json", "")
         url = GITHUB_BASE + file_name
-        update_table_from_excel(table, url, str(db_path))
-
+        update_table_from_json(table, url, str(db_path))
 
 @click.command()
 @click.option('-u', '--disable-update-check', is_flag=True)
