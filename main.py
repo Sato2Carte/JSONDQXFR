@@ -144,15 +144,15 @@ def update_serverside_fr(log):
         log.info(f"✅ {count_updated} maj, {count_inserted} insérés, {count_skipped} inchangés")
 
     for file_name in json_files:
-    table = file_name.replace(".json", "")
-    url = GITHUB_BASE + file_name
+        table = file_name.replace(".json", "")
+        url = GITHUB_BASE + file_name
 
-    # Cas spécial : fixed_dialog_template.json => appliqué à 2 tables
-    if table == "fixed_dialog_template":
-        update_table_from_json("fixed_dialog_template", url, str(db_path))
-        update_table_from_json("dialog", url, str(db_path))
-    else:
-        update_table_from_json(table, url, str(db_path))
+        # Cas spécial : fixed_dialog_template.json => appliqué à 2 tables
+        if table == "fixed_dialog_template":
+            update_table_from_json("fixed_dialog_template", url, str(db_path))
+            update_table_from_json("dialog", url, str(db_path))
+        else:
+            update_table_from_json(table, url, str(db_path))
 
 
 @click.command()
