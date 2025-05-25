@@ -215,7 +215,9 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
                 log.info(f'IDX FR sauvegardé dans {file_path}')
             except Exception as e:
                 log.error(f"Erreur IDX FR: {e}")
-                
+        if choice == 'EN':      
+            log.info("Updating DAT mod.")
+            download_dat_files()  
     import_name_overrides()
 
     try:
