@@ -7,7 +7,6 @@ from io import BytesIO
 from pathlib import Path
 from openpyxl import load_workbook
 from common.config import UserConfig
-from common.db_ops import create_db_schema
 from common.lib import get_project_root, setup_logging
 from common.process import wait_for_dqx_to_launch
 from common.update import (
@@ -93,6 +92,7 @@ import json
 def update_serverside_fr(log):
     switch_db_path_to_fr()
     log.info("Création de la structure de la DB.")
+    from common.db_ops import create_db_schema
     create_db_schema()
 
     log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
@@ -181,6 +181,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
         update_serverside_fr(log)
     else:
         switch_db_path_to_en()
+        from common.db_ops import create_db_schema
         create_db_schema()
         if not disable_update_check:
             log.info("Updating custom text in db.")
