@@ -26,6 +26,14 @@ def switch_db_path_to_en():
     target_file = Path(__file__).parent / "common" / "db_ops.py"
     original_line = 'db_file = get_project_root("misc_files/clarity_dialogFR.db")'
     english_line = 'db_file = get_project_root("misc_files/clarity_dialog.db")'
+
+    with open(target_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+        if english_line in content:
+            # ✅ Déjà en EN, ne rien faire
+            return
+
+    # 🔁 Sinon, on modifie
     with open(target_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     with open(target_file, 'w', encoding='utf-8') as f:
@@ -35,10 +43,24 @@ def switch_db_path_to_en():
             else:
                 f.write(line)
 
+    print("[!] Redémarrage du script pour prendre en compte le changement de DB.")
+    time.sleep(1)
+    os.execv(sys.executable, [sys.executable] + sys.argv)
+
+import os
+
 def switch_db_path_to_fr():
     target_file = Path(__file__).parent / "common" / "db_ops.py"
     original_line = 'db_file = get_project_root("misc_files/clarity_dialog.db")'
     french_line = 'db_file = get_project_root("misc_files/clarity_dialogFR.db")'
+
+    with open(target_file, 'r', encoding='utf-8') as f:
+        content = f.read()
+        if french_line in content:
+            # ✅ Déjà en FR, ne rien faire
+            return
+
+    # 🔁 Sinon, appliquer le changement
     with open(target_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
     with open(target_file, 'w', encoding='utf-8') as f:
@@ -47,6 +69,11 @@ def switch_db_path_to_fr():
                 f.write(line.replace(original_line, french_line))
             else:
                 f.write(line)
+
+    print("[!] Redémarrage du script pour prendre en compte le changement de DB.")
+    time.sleep(1)
+    os.execv(sys.executable, [sys.executable] + sys.argv)
+
 
 def download_with_retry(url, attempts=3, delay=3):
     for attempt in range(attempts):
@@ -94,6 +121,7 @@ def update_serverside_fr(log):
     log.info("Création de la structure de la DB.")
     from common.db_ops import create_db_schema
     create_db_schema()
+
 
     log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
     json_files = [
@@ -147,12 +175,11 @@ def update_serverside_fr(log):
         table = file_name.replace(".json", "")
         url = GITHUB_BASE + file_name
 
-        # Cas spécial : fixed_dialog_template.json => appliqué à 2 tables
         if table == "fixed_dialog_template":
-            update_table_from_json("fixed_dialog_template", url, str(db_path))
             update_table_from_json("dialog", url, str(db_path))
         else:
             update_table_from_json(table, url, str(db_path))
+
 
 
 @click.command()
@@ -183,6 +210,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
         switch_db_path_to_en()
         from common.db_ops import create_db_schema
         create_db_schema()
+
         if not disable_update_check:
             log.info("Updating custom text in db.")
             check_for_updates(update=True)
