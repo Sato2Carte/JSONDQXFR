@@ -68,6 +68,43 @@ def get_settings():
 
 import json
 
+from configparser import ConfigParser
+
+from configparser import ConfigParser
+from pathlib import Path
+
+def get_verified_dqx_data_path():
+    """Lit user_settings.ini et retourne le chemin Game/Content/Data."""
+    ini_path = Path(__file__).parent / "user_settings.ini"
+    config = ConfigParser()
+    config.read(ini_path, encoding="utf-8")
+
+    game_path = config.get("config", "installdirectory", fallback="").strip()
+    if not game_path:
+        raise RuntimeError("Chemin d'installation DQX manquant dans user_settings.ini.")
+
+    return Path(game_path) / "Game" / "Content" / "Data"
+
+
+def ensure_default_install_path(log):
+    """Remplit installdirectory dans user_settings.ini si vide."""
+    ini_path = Path(__file__).parent / "user_settings.ini"
+    if not ini_path.exists():
+        log.warning("user_settings.ini introuvable.")
+        return
+
+    config = ConfigParser()
+    config.read(ini_path, encoding="utf-8")
+
+    if "config" in config:
+        current_value = config["config"].get("installdirectory", "").strip()
+        if not current_value:
+            default_path = "C:/Program Files (x86)/SquareEnix/DRAGON QUEST X"
+            config["config"]["installdirectory"] = default_path
+            with open(ini_path, "w", encoding="utf-8") as f:
+                config.write(f)
+            log.info(f"Chemin d'installation par défaut appliqué : {default_path}")
+
 def update_serverside_fr(log):
     log.info("Création de la structure de la DB.")
     from common.db_ops import create_db_schema
@@ -168,6 +205,8 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
 
     if update_dat:
         if choice == 'FR':
+            ensure_default_install_path(log)
+            data_path = get_verified_dqx_data_path()
             log.info("Téléchargement des fichiers DAT et IDX en FR...")
             if patchdaily:
                 fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1'
@@ -178,7 +217,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
             try:
                 response = download_file(fr_dat_url)
                 response.raise_for_status()
-                file_path = Path(UserConfig().game_path) / 'Game/Content/Data/data00000000.win32.dat1'
+                file_path = data_path / 'data00000000.win32.dat1'
                 with open(file_path, 'wb') as f:
                     f.write(response.content)
                 log.info(f'DAT1 FR sauvegardé dans {file_path}')
@@ -187,7 +226,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
             try:
                 response = download_file(fr_idx_url)
                 response.raise_for_status()
-                file_path = Path(UserConfig().game_path) / 'Game/Content/Data/data00000000.win32.idx'
+                file_path = data_path / 'data00000000.win32.idx'
                 with open(file_path, 'wb') as f:
                     f.write(response.content)
                 log.info(f'IDX FR sauvegardé dans {file_path}')
