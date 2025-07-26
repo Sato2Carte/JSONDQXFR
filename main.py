@@ -22,57 +22,63 @@ from clarity import loop_scan_for_walkthrough, run_scans
 from multiprocessing import Process
 import threading
 
+import os
+import sys
+from pathlib import Path
+
 def switch_db_path_to_en():
     target_file = Path(__file__).parent / "common" / "db_ops.py"
     original_line = 'db_file = get_project_root("misc_files/clarity_dialogFR.db")'
     english_line = 'db_file = get_project_root("misc_files/clarity_dialog.db")'
 
-    with open(target_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-        if english_line in content:
-            # ✅ Déjà en EN, ne rien faire
-            return
+    # Empêche de reboucler si déjà redémarré une fois
+    if '--no-reload' in sys.argv:
+        return
 
-    # 🔁 Sinon, on modifie
     with open(target_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
+
+    modified = False
     with open(target_file, 'w', encoding='utf-8') as f:
         for line in lines:
             if original_line in line:
                 f.write(line.replace(original_line, english_line))
+                modified = True
             else:
                 f.write(line)
 
-    print("[!] Redémarrage du script pour prendre en compte le changement de DB.")
-    time.sleep(1)
-    os.execv(sys.executable, [sys.executable] + sys.argv)
-
-import os
+    if modified:
+        print("[!] Redémarrage du script pour passer en EN.")
+        import time
+        time.sleep(1)
+        os.execv(sys.executable, [sys.executable] + sys.argv + ['--no-reload'])
 
 def switch_db_path_to_fr():
     target_file = Path(__file__).parent / "common" / "db_ops.py"
     original_line = 'db_file = get_project_root("misc_files/clarity_dialog.db")'
     french_line = 'db_file = get_project_root("misc_files/clarity_dialogFR.db")'
 
-    with open(target_file, 'r', encoding='utf-8') as f:
-        content = f.read()
-        if french_line in content:
-            # ✅ Déjà en FR, ne rien faire
-            return
+    # Empêche de reboucler si déjà redémarré une fois
+    if '--no-reload' in sys.argv:
+        return
 
-    # 🔁 Sinon, appliquer le changement
     with open(target_file, 'r', encoding='utf-8') as f:
         lines = f.readlines()
+
+    modified = False
     with open(target_file, 'w', encoding='utf-8') as f:
         for line in lines:
             if original_line in line:
                 f.write(line.replace(original_line, french_line))
+                modified = True
             else:
                 f.write(line)
 
-    print("[!] Redémarrage du script pour prendre en compte le changement de DB.")
-    time.sleep(1)
-    os.execv(sys.executable, [sys.executable] + sys.argv)
+    if modified:
+        print("[!] Redémarrage du script pour passer en FR.")
+        import time
+        time.sleep(1)
+        os.execv(sys.executable, [sys.executable] + sys.argv + ['--no-reload'])
 
 
 def download_with_retry(url, attempts=3, delay=3):
