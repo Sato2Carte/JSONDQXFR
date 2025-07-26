@@ -26,60 +26,6 @@ import os
 import sys
 from pathlib import Path
 
-def switch_db_path_to_en():
-    target_file = Path(__file__).parent / "common" / "db_ops.py"
-    original_line = 'db_file = get_project_root("misc_files/clarity_dialogFR.db")'
-    english_line = 'db_file = get_project_root("misc_files/clarity_dialog.db")'
-
-    # Empêche de reboucler si déjà redémarré une fois
-    if '--no-reload' in sys.argv:
-        return
-
-    with open(target_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-
-    modified = False
-    with open(target_file, 'w', encoding='utf-8') as f:
-        for line in lines:
-            if original_line in line:
-                f.write(line.replace(original_line, english_line))
-                modified = True
-            else:
-                f.write(line)
-
-    if modified:
-        print("[!] Redémarrage du script pour passer en EN.")
-        import time
-        time.sleep(1)
-        os.execv(sys.executable, [sys.executable] + sys.argv + ['--no-reload'])
-
-def switch_db_path_to_fr():
-    target_file = Path(__file__).parent / "common" / "db_ops.py"
-    original_line = 'db_file = get_project_root("misc_files/clarity_dialog.db")'
-    french_line = 'db_file = get_project_root("misc_files/clarity_dialogFR.db")'
-
-    # Empêche de reboucler si déjà redémarré une fois
-    if '--no-reload' in sys.argv:
-        return
-
-    with open(target_file, 'r', encoding='utf-8') as f:
-        lines = f.readlines()
-
-    modified = False
-    with open(target_file, 'w', encoding='utf-8') as f:
-        for line in lines:
-            if original_line in line:
-                f.write(line.replace(original_line, french_line))
-                modified = True
-            else:
-                f.write(line)
-
-    if modified:
-        print("[!] Redémarrage du script pour passer en FR.")
-        import time
-        time.sleep(1)
-        os.execv(sys.executable, [sys.executable] + sys.argv + ['--no-reload'])
-
 
 def download_with_retry(url, attempts=3, delay=3):
     for attempt in range(attempts):
@@ -123,7 +69,6 @@ def get_settings():
 import json
 
 def update_serverside_fr(log):
-    switch_db_path_to_fr()
     log.info("Création de la structure de la DB.")
     from common.db_ops import create_db_schema
     create_db_schema()
@@ -213,7 +158,6 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
     if serversidefr :
         update_serverside_fr(log)
     else:
-        switch_db_path_to_en()
         from common.db_ops import create_db_schema
         create_db_schema()
 
@@ -224,7 +168,6 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
 
     if update_dat:
         if choice == 'FR':
-            switch_db_path_to_fr()
             log.info("Téléchargement des fichiers DAT et IDX en FR...")
             if patchdaily:
                 fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1'
