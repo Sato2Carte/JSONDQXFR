@@ -41,19 +41,19 @@ def inject_updater_patch():
             return
 
         injection_code = [
-            '        try:\n',
-            '            with open("updater.py", "r", encoding="utf-8") as f:\n',
-            '                lines = f.readlines()\n',
-            '            for i, line in enumerate(lines):\n',
-            '                if line.strip().startswith("ignored_files = ["):\n',
-            '                    if not any("dqxclarityFR.exe" in l for l in lines[i+1:i+5]):\n',
-            '                        lines.insert(i + 1, \'    "dqxclarityFR.exe",\\n\')\n',
-            '                    break\n',
-            '            with open("updater.py", "w", encoding="utf-8") as f:\n',
-            '                f.writelines(lines)\n',
-            '            print("[PATCH] dqxclarityFR.exe injecté dans updater.py.")\n',
-            '        except Exception as e:\n',
-            '            print("[PATCH ERROR]", e)\n'
+            '                    try:\n',
+            '                        with open("updater.py", "r", encoding="utf-8") as f:\n',
+            '                            lines = f.readlines()\n',
+            '                        for i, line in enumerate(lines):\n',
+            '                            if line.strip().startswith("ignored_files = ["):\n',
+            '                                if not any("dqxclarityFR.exe" in l for l in lines[i+1:i+5]):\n',
+            '                                    lines.insert(i + 1, \'    "dqxclarityFR.exe",\\n\')\n',
+            '                                break\n',
+            '                        with open("updater.py", "w", encoding="utf-8") as f:\n',
+            '                            f.writelines(lines)\n',
+            '                        print("[PATCH] dqxclarityFR.exe injecté dans updater.py.")\n',
+            '                    except Exception as e:\n',
+            '                        print("[PATCH ERROR]", e)\n'
         ]
 
         # Trouve la ligne juste après f.write(response.content)
