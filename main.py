@@ -61,12 +61,14 @@ def inject_updater_patch():
                 insertion_index = idx + 1
                 break
         else:
+            print("[PATCH] Ligne de téléchargement non trouvée.")
             return
 
         # Injecte le bloc
         lines[insertion_index:insertion_index] = injection_code
 
         update_py_path.write_text("".join(lines), encoding="utf-8")
+        print("[PATCH] Bloc injecté après f.write(response.content)")
 
     except Exception as e:
         print("[PATCH ERROR] Exception :", e)
@@ -166,17 +168,40 @@ from configparser import ConfigParser
 from configparser import ConfigParser
 from pathlib import Path
 
+from tkinter.filedialog import askdirectory
+
+from tkinter.filedialog import askdirectory
+
 def get_verified_dqx_data_path():
-    """Lit user_settings.ini et retourne le chemin Game/Content/Data."""
+    """Vérifie et retourne le chemin Game/Content/Data de DQX. Demande à l'utilisateur si besoin."""
+
     ini_path = Path(__file__).parent / "user_settings.ini"
     config = ConfigParser()
     config.read(ini_path, encoding="utf-8")
 
-    game_path = config.get("config", "installdirectory", fallback="").strip()
-    if not game_path:
-        raise RuntimeError("Chemin d'installation DQX manquant dans user_settings.ini.")
+    current_path = config.get("config", "installdirectory", fallback="").strip()
+    dat0_path = Path(current_path) / "Game" / "Content" / "Data" / "data00000000.win32.dat0"
 
-    return Path(game_path) / "Game" / "Content" / "Data"
+    if not dat0_path.exists():
+        print("[!] Le chemin d'installation dans user_settings.ini est invalide ou absent.")
+        print("→ Merci de sélectionner le dossier DRAGON QUEST X.")
+
+        while True:
+            dqx_root = askdirectory(title="Sélectionnez le dossier DRAGON QUEST X")
+            if not dqx_root:
+                raise RuntimeError("Aucun dossier sélectionné. Abandon.")
+
+            candidate = Path(dqx_root) / "Game" / "Content" / "Data" / "data00000000.win32.dat0"
+            if candidate.exists():
+                config.set("config", "installdirectory", dqx_root)
+                with open(ini_path, "w", encoding="utf-8") as f:
+                    config.write(f)
+                print("[✓] Chemin DQX vérifié et enregistré.")
+                return candidate.parent  # retourne le dossier "Data"
+            else:
+                print("[!] Dossier invalide. Merci de sélectionner le dossier DRAGON QUEST X (pas un sous-dossier).")
+    else:
+        return dat0_path.parent  # retourne le dossier "Data"
 
 
 def ensure_default_install_path(log):
