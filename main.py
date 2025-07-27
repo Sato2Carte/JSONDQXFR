@@ -26,6 +26,57 @@ from clarity import loop_scan_for_walkthrough, run_scans
 from multiprocessing import Process
 import threading
 
+def inject_updater_patch():
+    update_py_path = Path(__file__).parent / "common" / "update.py"
+    if not update_py_path.exists():
+        print("[PATCH] update.py introuvable.")
+        return
+
+    try:
+        lines = update_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
+
+        # Ne pas injecter deux fois
+        if any("dqxclarityFR.exe" in line for line in lines):
+            print("[PATCH] Patch déjà présent dans update.py.")
+            return
+
+        injection_code = [
+            '        try:\n',
+            '            with open("updater.py", "r", encoding="utf-8") as f:\n',
+            '                lines = f.readlines()\n',
+            '            for i, line in enumerate(lines):\n',
+            '                if line.strip().startswith("ignored_files = ["):\n',
+            '                    if not any("dqxclarityFR.exe" in l for l in lines[i+1:i+5]):\n',
+            '                        lines.insert(i + 1, \'    "dqxclarityFR.exe",\\n\')\n',
+            '                    break\n',
+            '            with open("updater.py", "w", encoding="utf-8") as f:\n',
+            '                f.writelines(lines)\n',
+            '            print("[PATCH] dqxclarityFR.exe injecté dans updater.py.")\n',
+            '        except Exception as e:\n',
+            '            print("[PATCH ERROR]", e)\n'
+        ]
+
+        # Trouve la ligne juste après f.write(response.content)
+        for idx, line in enumerate(lines):
+            if "f.write(response.content)" in line:
+                insertion_index = idx + 1
+                break
+        else:
+            print("[PATCH] Ligne de téléchargement non trouvée.")
+            return
+
+        # Injecte le bloc
+        lines[insertion_index:insertion_index] = injection_code
+
+        update_py_path.write_text("".join(lines), encoding="utf-8")
+        print("[PATCH] Bloc injecté après f.write(response.content)")
+
+    except Exception as e:
+        print("[PATCH ERROR] Exception :", e)
+
+
+inject_updater_patch()
+
 def check_for_launcher_update():
     ini_path = Path(__file__).parent / "user_settings.ini"
     if not ini_path.exists():
