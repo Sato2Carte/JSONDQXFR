@@ -6,6 +6,10 @@ import sqlite3
 from io import BytesIO
 from pathlib import Path
 from openpyxl import load_workbook
+from configparser import ConfigParser
+import subprocess
+import os
+
 from common.config import UserConfig
 from common.lib import get_project_root, setup_logging
 from common.process import wait_for_dqx_to_launch
@@ -22,10 +26,51 @@ from clarity import loop_scan_for_walkthrough, run_scans
 from multiprocessing import Process
 import threading
 
-import os
-import sys
-from pathlib import Path
+def check_for_launcher_update():
+    ini_path = Path(__file__).parent / "user_settings.ini"
+    if not ini_path.exists():
+        return
 
+    config = ConfigParser()
+    config.read(ini_path, encoding="utf-8")
+
+    if config.has_section("launcher") and config.get("launcher", "mode", fallback="") == "maj":
+        print("[MAJ] Mode 'maj' détecté. Lancement de la mise à jour...")
+
+        exe_name = "dqxclarityFR.exe"
+        new_url = "https://github.com/Sato2Carte/JSONDQXFR/releases/download/dqxclarityFR.exe/dqxclarityFR.exe"
+        exe_path = Path(__file__).parent / exe_name
+
+        try:
+            # Supprime l'ancien exe
+            if exe_path.exists():
+                os.remove(exe_path)
+                print("[MAJ] Ancien EXE supprimé.")
+
+            # Télécharge le nouveau
+            response = requests.get(new_url, timeout=30)
+            response.raise_for_status()
+
+            with open(exe_path, "wb") as f:
+                f.write(response.content)
+            print("[MAJ] Nouveau EXE téléchargé.")
+
+            # Nettoyage de l'ini
+            config.set("launcher", "mode", "")
+            with open(ini_path, "w", encoding="utf-8") as configfile:
+                config.write(configfile)
+            print("[MAJ] INI nettoyé.")
+
+            # Relance le nouveau EXE
+            subprocess.Popen([str(exe_path)])
+            print("[MAJ] Nouveau launcher lancé. Fermeture...")
+            sys.exit()
+
+        except Exception as e:
+            print("[ERREUR MAJ]", e)
+            sys.exit(1)
+
+check_for_launcher_update()
 
 def download_with_retry(url, attempts=3, delay=3):
     for attempt in range(attempts):
