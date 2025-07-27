@@ -37,7 +37,6 @@ def inject_updater_patch():
 
         # Ne pas injecter deux fois
         if any("dqxclarityFR.exe" in line for line in lines):
-            print("[PATCH] Patch déjà présent dans update.py.")
             return
 
         injection_code = [
@@ -62,14 +61,12 @@ def inject_updater_patch():
                 insertion_index = idx + 1
                 break
         else:
-            print("[PATCH] Ligne de téléchargement non trouvée.")
             return
 
         # Injecte le bloc
         lines[insertion_index:insertion_index] = injection_code
 
         update_py_path.write_text("".join(lines), encoding="utf-8")
-        print("[PATCH] Bloc injecté après f.write(response.content)")
 
     except Exception as e:
         print("[PATCH ERROR] Exception :", e)
