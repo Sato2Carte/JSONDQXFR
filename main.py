@@ -26,74 +26,62 @@ from clarity import loop_scan_for_walkthrough, run_scans
 from multiprocessing import Process
 import threading
 
-def inject_updater_patch():
+def patch_update_and_updater():
+    # --- 1. Modifier common/update.py : supprimer bloc complet de téléchargement updater.py
     update_py_path = Path(__file__).parent / "common" / "update.py"
-    if not update_py_path.exists():
+    if update_py_path.exists():
+        try:
+            lines = update_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
+            cleaned_lines = []
+            skip = False
+            for line in lines:
+                if line.strip().startswith('# if we make updates to the updater'):
+                    skip = True
+                    continue
+                if skip and 'log.info("Grabbing latest updater.")' in line:
+                    continue
+                if skip and 'update_url = ' in line:
+                    continue
+                if skip and 'response = download_file(update_url)' in line:
+                    skip = False
+                    continue
+                if not skip:
+                    cleaned_lines.append(line)
+            update_py_path.write_text("".join(cleaned_lines), encoding="utf-8")
+            print("[PATCH] Bloc 'Grabbing latest updater' supprimé complètement de update.py.")
+        except Exception as e:
+            print("[PATCH ERROR] Impossible de modifier update.py :", e)
+    else:
         print("[PATCH] update.py introuvable.")
-        return
 
-    try:
-        lines = update_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
-
-        injection_code = [
-            '                    try:\n',
-            '                        with open("updater.py", "r", encoding="utf-8") as f:\n',
-            '                            lines = f.readlines()\n',
-            '                        for i, line in enumerate(lines):\n',
-            '                            if line.strip().startswith("ignored_files = ["):\n',
-            '                                if not any("dqxclarityFR.exe" in l for l in lines[i+1:i+5]):\n',
-            '                                    lines.insert(i + 1, \'    "dqxclarityFR.exe",\\n\')\n',
-            '                                break\n',
-            '                        with open("updater.py", "w", encoding="utf-8") as f:\n',
-            '                            f.writelines(lines)\n',
-            '                        print("[PATCH] dqxclarityFR.exe injecté dans updater.py.")\n',
-            '                    except Exception as e:\n',
-            '                        print("[PATCH ERROR]", e)\n'
-        ]
-
-        # Supprimer exactement 4 espaces au début de chaque ligne
-        injection_code_minus_1_indent = [line[8:] if line.startswith("    ") else line for line in injection_code]
-
-        injected_1 = False
-        injected_2 = False
-
-        # Vérifie injection après f.write(response.content)
-        already_injected_1 = any("dqxclarityFR.exe" in line for i, line in enumerate(lines)
-                                 if i > 0 and "f.write(response.content)" in lines[i - 1])
-        if not already_injected_1:
-            for idx, line in enumerate(lines):
-                if "f.write(response.content)" in line:
-                    lines[idx + 1:idx + 1] = injection_code
-                    print("[PATCH] Bloc injecté après f.write(response.content)")
-                    injected_1 = True
-                    break
-        else:
-            print("[PATCH] Bloc déjà présent après f.write(response.content)")
-
-        # Vérifie injection après ew_ver == cur_ver + log.success
-        already_injected_2 = any("dqxclarityFR.exe" in line for i, line in enumerate(lines)
-                                 if i > 1 and "log.success(f\"Up to date. Version: {cur_ver}\")" in lines[i - 1]
-                                 and "ew_ver == cur_ver:" in lines[i - 2])
-        if not already_injected_2:
-            for idx, line in enumerate(lines):
-                if "ew_ver == cur_ver:" in line:
-                    for j in range(idx + 1, min(idx + 5, len(lines))):
-                        if 'log.success(f"Up to date. Version: {cur_ver}")' in lines[j]:
-                            lines[j + 1:j + 1] = injection_code_minus_1_indent
-                            print("[PATCH] Bloc injecté après log.success (version à jour)")
-                            injected_2 = True
+    # --- 2. Modifier updater.py : ajouter "dqxclarityFR.exe" à ignored_files
+    updater_py_path = Path(__file__).parent / "updater.py"
+    if updater_py_path.exists():
+        try:
+            lines = updater_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
+            for i, line in enumerate(lines):
+                if line.strip().startswith("ignored_files = ["):
+                    # Cherche les prochaines lignes du tableau
+                    j = i + 1
+                    while j < len(lines) and not lines[j].strip().startswith("]"):
+                        if "dqxclarityFR.exe" in lines[j]:
+                            print("[PATCH] 'dqxclarityFR.exe' déjà présent dans ignored_files.")
                             break
+                        j += 1
+                    else:
+                        # Insère avant la fermeture du tableau
+                        lines.insert(j, '    "dqxclarityFR.exe",\n')
+                        updater_py_path.write_text("".join(lines), encoding="utf-8")
+                        print("[PATCH] 'dqxclarityFR.exe' ajouté à ignored_files dans updater.py.")
                     break
-        else:
-            print("[PATCH] Bloc déjà présent après log.success")
+            else:
+                print("[PATCH] Liste ignored_files non trouvée dans updater.py.")
+        except Exception as e:
+            print("[PATCH ERROR] Impossible de modifier updater.py :", e)
+    else:
+        print("[PATCH] updater.py introuvable.")
 
-        if injected_1 or injected_2:
-            update_py_path.write_text("".join(lines), encoding="utf-8")
-
-    except Exception as e:
-        print("[PATCH ERROR] Exception :", e)
-
-inject_updater_patch()
+patch_update_and_updater()
 
 def check_for_launcher_update():
     ini_path = Path(__file__).parent / "user_settings.ini"
@@ -330,7 +318,8 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
     serversidefr = settings["serversidefr"]
 
     if serversidefr :
-        check_for_updates(update=True)
+        if not disable_update_check:
+            check_for_updates(update=True)
         update_serverside_fr(log)
     else:
         from common.db_ops import create_db_schema
