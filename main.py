@@ -26,62 +26,42 @@ from clarity import loop_scan_for_walkthrough, run_scans
 from multiprocessing import Process
 import threading
 
-def patch_update_and_updater():
-    # --- 1. Modifier common/update.py : supprimer bloc complet de téléchargement updater.py
+def patch_and_download_custom_updater():
     update_py_path = Path(__file__).parent / "common" / "update.py"
+    updater_dest_path = Path(__file__).parent / "updater.py"
+    custom_url = "https://raw.githubusercontent.com/Sato2Carte/JSONDQXFR/main/updater.py"
+
+    # Étape 1 : Patch update.py
     if update_py_path.exists():
         try:
             lines = update_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
-            cleaned_lines = []
-            skip = False
+            new_lines = []
+
             for line in lines:
-                if line.strip().startswith('# if we make updates to the updater'):
-                    skip = True
-                    continue
-                if skip and 'log.info("Grabbing latest updater.")' in line:
-                    continue
-                if skip and 'update_url = ' in line:
-                    continue
-                if skip and 'response = download_file(update_url)' in line:
-                    skip = False
-                    continue
-                if not skip:
-                    cleaned_lines.append(line)
-            update_py_path.write_text("".join(cleaned_lines), encoding="utf-8")
-            print("[PATCH] Bloc 'Grabbing latest updater' supprimé complètement de update.py.")
-        except Exception as e:
-            print("[PATCH ERROR] Impossible de modifier update.py :", e)
-    else:
-        print("[PATCH] update.py introuvable.")
+                if line.strip().startswith("update_url ="):
+                    new_line = f'                update_url = "{custom_url}"\n'
+                    new_lines.append(new_line)
+                    print("[PATCH] Ligne update_url remplacée par le lien vers ton GitHub.")
+                else:
+                    new_lines.append(line)
 
-    # --- 2. Modifier updater.py : ajouter "dqxclarityFR.exe" à ignored_files
-    updater_py_path = Path(__file__).parent / "updater.py"
-    if updater_py_path.exists():
-        try:
-            lines = updater_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
-            for i, line in enumerate(lines):
-                if line.strip().startswith("ignored_files = ["):
-                    # Cherche les prochaines lignes du tableau
-                    j = i + 1
-                    while j < len(lines) and not lines[j].strip().startswith("]"):
-                        if "dqxclarityFR.exe" in lines[j]:
-                            print("[PATCH] 'dqxclarityFR.exe' déjà présent dans ignored_files.")
-                            break
-                        j += 1
-                    else:
-                        # Insère avant la fermeture du tableau
-                        lines.insert(j, '    "dqxclarityFR.exe",\n')
-                        updater_py_path.write_text("".join(lines), encoding="utf-8")
-                        print("[PATCH] 'dqxclarityFR.exe' ajouté à ignored_files dans updater.py.")
-                    break
-            else:
-                print("[PATCH] Liste ignored_files non trouvée dans updater.py.")
+            update_py_path.write_text("".join(new_lines), encoding="utf-8")
         except Exception as e:
-            print("[PATCH ERROR] Impossible de modifier updater.py :", e)
+            print("[PATCH ERROR] Erreur lors de la modification de update.py :", e)
     else:
-        print("[PATCH] updater.py introuvable.")
+        print("[PATCH] Fichier update.py introuvable.")
 
-patch_update_and_updater()
+    # Étape 2 : Télécharger updater.py depuis ton GitHub
+    try:
+        import requests
+        response = requests.get(custom_url, timeout=15)
+        response.raise_for_status()
+        updater_dest_path.write_text(response.text, encoding="utf-8")
+        print("[PATCH] updater.py téléchargé depuis ton GitHub.")
+    except Exception as e:
+        print("[PATCH ERROR] Échec du téléchargement de updater.py :", e)
+
+patch_and_download_custom_updater()
 
 def check_for_launcher_update():
     ini_path = Path(__file__).parent / "user_settings.ini"
