@@ -35,10 +35,6 @@ def inject_updater_patch():
     try:
         lines = update_py_path.read_text(encoding="utf-8").splitlines(keepends=True)
 
-        # Ne pas injecter deux fois
-        if any("dqxclarityFR.exe" in line for line in lines):
-            return
-
         injection_code = [
             '                    try:\n',
             '                        with open("updater.py", "r", encoding="utf-8") as f:\n',
@@ -55,24 +51,47 @@ def inject_updater_patch():
             '                        print("[PATCH ERROR]", e)\n'
         ]
 
-        # Trouve la ligne juste après f.write(response.content)
-        for idx, line in enumerate(lines):
-            if "f.write(response.content)" in line:
-                insertion_index = idx + 1
-                break
+        # Supprimer exactement 4 espaces au début de chaque ligne
+        injection_code_minus_1_indent = [line[8:] if line.startswith("    ") else line for line in injection_code]
+
+        injected_1 = False
+        injected_2 = False
+
+        # Vérifie injection après f.write(response.content)
+        already_injected_1 = any("dqxclarityFR.exe" in line for i, line in enumerate(lines)
+                                 if i > 0 and "f.write(response.content)" in lines[i - 1])
+        if not already_injected_1:
+            for idx, line in enumerate(lines):
+                if "f.write(response.content)" in line:
+                    lines[idx + 1:idx + 1] = injection_code
+                    print("[PATCH] Bloc injecté après f.write(response.content)")
+                    injected_1 = True
+                    break
         else:
-            print("[PATCH] Ligne de téléchargement non trouvée.")
-            return
+            print("[PATCH] Bloc déjà présent après f.write(response.content)")
 
-        # Injecte le bloc
-        lines[insertion_index:insertion_index] = injection_code
+        # Vérifie injection après ew_ver == cur_ver + log.success
+        already_injected_2 = any("dqxclarityFR.exe" in line for i, line in enumerate(lines)
+                                 if i > 1 and "log.success(f\"Up to date. Version: {cur_ver}\")" in lines[i - 1]
+                                 and "ew_ver == cur_ver:" in lines[i - 2])
+        if not already_injected_2:
+            for idx, line in enumerate(lines):
+                if "ew_ver == cur_ver:" in line:
+                    for j in range(idx + 1, min(idx + 5, len(lines))):
+                        if 'log.success(f"Up to date. Version: {cur_ver}")' in lines[j]:
+                            lines[j + 1:j + 1] = injection_code_minus_1_indent
+                            print("[PATCH] Bloc injecté après log.success (version à jour)")
+                            injected_2 = True
+                            break
+                    break
+        else:
+            print("[PATCH] Bloc déjà présent après log.success")
 
-        update_py_path.write_text("".join(lines), encoding="utf-8")
-        print("[PATCH] Bloc injecté après f.write(response.content)")
+        if injected_1 or injected_2:
+            update_py_path.write_text("".join(lines), encoding="utf-8")
 
     except Exception as e:
         print("[PATCH ERROR] Exception :", e)
-
 
 inject_updater_patch()
 
