@@ -311,6 +311,7 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
     serversidefr = settings["serversidefr"]
 
     if serversidefr :
+        check_for_updates(update=True)
         update_serverside_fr(log)
     else:
         from common.db_ops import create_db_schema
