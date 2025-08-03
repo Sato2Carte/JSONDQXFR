@@ -41,7 +41,6 @@ def patch_and_download_custom_updater():
                 if line.strip().startswith("update_url ="):
                     new_line = f'                update_url = "{custom_url}"\n'
                     new_lines.append(new_line)
-                    print("[PATCH] Ligne update_url remplacée par le lien vers ton GitHub.")
                 else:
                     new_lines.append(line)
 
@@ -57,7 +56,6 @@ def patch_and_download_custom_updater():
         response = requests.get(custom_url, timeout=15)
         response.raise_for_status()
         updater_dest_path.write_text(response.text, encoding="utf-8")
-        print("[PATCH] updater.py téléchargé depuis ton GitHub.")
     except Exception as e:
         print("[PATCH ERROR] Échec du téléchargement de updater.py :", e)
 
