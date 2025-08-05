@@ -308,38 +308,42 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
             check_for_updates(update=True)
             download_custom_files()
 
-    if update_dat:
-        if choice == 'FR':
-            ensure_default_install_path(log)
-            data_path = get_verified_dqx_data_path()
-            log.info("Téléchargement des fichiers DAT et IDX en FR...")
-            if patchdaily:
-                fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1'
-                fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.idx'
-            else:
-                fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.dat1'
-                fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.idx'
-            try:
-                response = download_file(fr_dat_url)
-                response.raise_for_status()
-                file_path = data_path / 'data00000000.win32.dat1'
-                with open(file_path, 'wb') as f:
-                    f.write(response.content)
-                log.info(f'DAT1 FR sauvegardé dans {file_path}')
-            except Exception as e:
-                log.error(f"Erreur DAT1 FR: {e}")
-            try:
-                response = download_file(fr_idx_url)
-                response.raise_for_status()
-                file_path = data_path / 'data00000000.win32.idx'
-                with open(file_path, 'wb') as f:
-                    f.write(response.content)
-                log.info(f'IDX FR sauvegardé dans {file_path}')
-            except Exception as e:
-                log.error(f"Erreur IDX FR: {e}")
-        if choice == 'EN':      
-            log.info("Updating DAT mod.")
-            download_dat_files()  
+    if choice == 'FR':
+        ensure_default_install_path(log)
+        data_path = get_verified_dqx_data_path()
+        log.info("Téléchargement des fichiers DAT et IDX en FR...")
+
+        if patchdaily:
+            fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1'
+            fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.idx'
+        else:
+            fr_dat_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.dat1'
+            fr_idx_url = 'https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.idx'
+
+        try:
+            response = download_file(fr_dat_url)
+            response.raise_for_status()
+            file_path = data_path / 'data00000000.win32.dat1'
+            with open(file_path, 'wb') as f:
+                f.write(response.content)
+            log.info(f'DAT1 FR sauvegardé dans {file_path}')
+        except Exception as e:
+            log.error(f"Erreur DAT1 FR: {e}")
+
+        try:
+            response = download_file(fr_idx_url)
+            response.raise_for_status()
+            file_path = data_path / 'data00000000.win32.idx'
+            with open(file_path, 'wb') as f:
+                f.write(response.content)
+            log.info(f'IDX FR sauvegardé dans {file_path}')
+        except Exception as e:
+            log.error(f"Erreur IDX FR: {e}")
+
+    if update_dat and choice == 'EN':
+        log.info("Updating DAT mod.")
+        download_dat_files()
+
     import_name_overrides()
 
     try:
