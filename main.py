@@ -24,6 +24,7 @@ from dqxcrypt.dqxcrypt import start_logger
 from hooking.hook import activate_hooks
 from clarity import loop_scan_for_walkthrough, run_scans
 from multiprocessing import Process
+from common.db_ops import create_db_schema
 import threading
 
 def patch_and_download_custom_updater():
@@ -210,9 +211,8 @@ def ensure_default_install_path(log):
 
 def update_serverside_fr(log):
     log.info("Création de la structure de la DB.")
-    from common.db_ops import create_db_schema
     create_db_schema()
-
+    download_custom_files()
 
     log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
     json_files = [
@@ -300,7 +300,6 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
             check_for_updates(update=True)
         update_serverside_fr(log)
     else:
-        from common.db_ops import create_db_schema
         create_db_schema()
 
         if not disable_update_check:
