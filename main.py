@@ -214,102 +214,119 @@ def update_serverside_fr(log):
     create_db_schema()
     download_custom_files()
 
-    log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
+    GITHUB_BASE = "https://raw.githubusercontent.com/Sato2Carte/Server-Side-Text/SSTFR/fr/"
     json_files = [
         "fixed_dialog_template.json",
         "m00_strings.json",
         "quests.json",
         "story_so_far_template.json",
         "walkthrough.json",
-        "glossary.json"
+        "glossary.json",
     ]
-    GITHUB_BASE = "https://raw.githubusercontent.com/Sato2Carte/Server-Side-Text/SSTFR/fr/"
+
     db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
 
-    PLACEHOLD_TAGS = ["<pnplacehold>", "<snplacehold>", "<kyodai_rel1>", "<kyodai_rel2>", "<kyodai_rel3>"]
+    # 1) Vider fixed_dialog_template
+    try:
+        with sqlite3.connect(db_path) as conn:
+            conn.execute("PRAGMA journal_mode=WAL;")
+            conn.execute("PRAGMA synchronous=NORMAL;")
+            conn.execute('DELETE FROM "fixed_dialog_template";')
+            conn.commit()
+            log.info("🧹 Table fixed_dialog_template vidée.")
+    except Exception as e:
+        log.warning(f"Impossible de vider fixed_dialog_template: {e}")
 
-def update_serverside_fr(log):
-    log.info("Création de la structure de la DB.")
-    create_db_schema()
-    download_custom_files()
-
-    log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
-    json_files = [
-        "fixed_dialog_template.json",
-        "m00_strings.json",
-        "quests.json",
-        "story_so_far_template.json",
-        "walkthrough.json",
-        "glossary.json"
-    ]
-    GITHUB_BASE = "https://raw.githubusercontent.com/Sato2Carte/Server-Side-Text/SSTFR/fr/"
-    db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
-
-    PLACEHOLD_TAGS = ["<pnplacehold>", "<snplacehold>", "<kyodai_rel1>", "<kyodai_rel2>", "<kyodai_rel3>"]
-
-    def ensure_table_exists(table_name: str):
-        conn = sqlite3.connect(db_path)
-        cursor = conn.cursor()
-        cursor.execute(f"""
-        CREATE TABLE IF NOT EXISTS {table_name} (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            ja TEXT,
-            en TEXT
-        )
+    # --- Helpers schémas -----------------------------------------------------
+    def ensure_table_schema(conn, table_name: str, unique_idx: bool = True):
+        conn.execute(f"""
+            CREATE TABLE IF NOT EXISTS "{table_name}" (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                ja TEXT,
+                en TEXT
+            );
         """)
-        conn.commit()
-        conn.close()
+        if unique_idx:
+            try:
+                conn.execute(f'CREATE UNIQUE INDEX IF NOT EXISTS idx_{table_name}_ja ON "{table_name}"(ja);')
+            except Exception as ie:
+                log.warning(f'Index unique non créé pour {table_name}: {ie}')
 
-def update_serverside_fr(log):
-    log.info("Création de la structure de la DB.")
-    create_db_schema()
-    download_custom_files()
+    def ensure_fixed_dialog_schema(conn):
+        """Schéma spécifique pour fixed_dialog_template avec bad_string DEFAULT 0."""
+        conn.execute("""
+            CREATE TABLE IF NOT EXISTS "fixed_dialog_template" (
+                id INTEGER PRIMARY KEY AUTOINCREMENT,
+                ja TEXT,
+                en TEXT,
+                bad_string INTEGER NOT NULL DEFAULT 0
+            );
+        """)
+        try:
+            conn.execute('CREATE UNIQUE INDEX IF NOT EXISTS idx_fixed_dialog_template_ja ON "fixed_dialog_template"(ja);')
+        except Exception as ie:
+            log.warning(f'Index unique non créé pour fixed_dialog_template: {ie}')
 
-    log.info("Mise à jour du contenu FR depuis les fichiers JSON...")
-    json_files = [
-        "fixed_dialog_template.json",
-        "m00_strings.json",
-        "quests.json",
-        "story_so_far_template.json",
-        "walkthrough.json",
-        "glossary.json"
-    ]
-    GITHUB_BASE = "https://raw.githubusercontent.com/Sato2Carte/Server-Side-Text/SSTFR/fr/"
-    db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
-
-    PLACEHOLD_TAGS = ["<pnplacehold>", "<snplacehold>", "<kyodai_rel1>", "<kyodai_rel2>", "<kyodai_rel3>"]
-
-    def update_table_from_json(table_name, data: dict, db_path):
-        log.info(f"Traitement de {table_name}")
-        conn = sqlite3.connect(db_path)
-        cursor = conn.cursor()
-        count_updated = 0
-        count_skipped = 0
-        count_inserted = 0
-
-        for ja, fr in data.items():
-            if not ja or not fr:
+    # --- Helpers d'upsert/maj -----------------------------------------------
+    def upsert_rows(conn, table_name: str, items: dict):
+        """Upsert générique (ja/en)."""
+        sql = f"""
+            INSERT INTO "{table_name}" (ja, en)
+            VALUES (?, ?)
+            ON CONFLICT(ja) DO UPDATE SET en = excluded.en;
+        """
+        rows = []
+        for ja, fr in items.items():
+            if not ja:
                 continue
-            ja, fr = ja.strip(), fr.strip()
-            cursor.execute(f"SELECT en FROM {table_name} WHERE ja = ?", (ja,))
-            result = cursor.fetchone()
-            if result is None:
-                cursor.execute(f"INSERT INTO {table_name} (ja, en) VALUES (?, ?)", (ja, fr))
-                count_inserted += 1
+            rows.append((str(ja).strip(), str(fr or "").strip()))
+        if rows:
+            conn.executemany(sql, rows)
+
+    def upsert_fixed_dialog(conn, items: dict):
+        """Upsert spécifique fixed_dialog_template en forçant bad_string = 0."""
+        sql = """
+            INSERT INTO "fixed_dialog_template" (ja, en, bad_string)
+            VALUES (?, ?, 0)
+            ON CONFLICT(ja) DO UPDATE SET
+                en = excluded.en,
+                bad_string = 0;
+        """
+        rows = []
+        for ja, fr in items.items():
+            if not ja:
+                continue
+            rows.append((str(ja).strip(), str(fr or "").strip()))
+        if rows:
+            conn.executemany(sql, rows)
+
+    def update_only_en_by_ja(conn, table_name: str, items: dict):
+        """
+        UPDATE-only (m00_strings) pour préserver les autres colonnes (ex: 'file').
+        Ne crée jamais de nouvelles lignes.
+        """
+        cur = conn.cursor()
+        updated = 0
+        skipped = 0
+        for ja, fr in items.items():
+            if not ja:
+                continue
+            ja_s = str(ja).strip()
+            fr_s = "" if fr is None else str(fr).strip()
+            if not ja_s:
+                continue
+            cur.execute(f'UPDATE "{table_name}" SET en = ? WHERE ja = ?;', (fr_s, ja_s))
+            if cur.rowcount == 0:
+                skipped += 1
             else:
-                current_en = result[0].strip() if result[0] else ""
-                if current_en == fr:
-                    count_skipped += 1
-                    continue
-                cursor.execute(f"UPDATE {table_name} SET en = ? WHERE ja = ?", (fr, ja))
-                count_updated += 1
+                updated += 1
+        return updated, skipped
 
-        conn.commit()
-        conn.close()
-        log.info(f"✅ {count_updated} maj, {count_inserted} insérés, {count_skipped} inchangés")
-
+    # 2) Télécharger chaque JSON et injecter dans sa table
     for file_name in json_files:
+        table = file_name.replace(".json", "")
         url = GITHUB_BASE + file_name
+
         try:
             response = download_with_retry(url)
             data = json.loads(response.content.decode("utf-8"))
@@ -317,26 +334,47 @@ def update_serverside_fr(log):
             log.error(f"Échec du téléchargement ou parsing de {url} : {e}")
             continue
 
-        table = file_name.replace(".json", "")
-
-        if file_name == "fixed_dialog_template.json":
-            # Séparer les entrées
-            dialog_entries = {}
-            fixed_entries = {}
-            for ja, fr in data.items():
-                if any(tag in ja or tag in fr for tag in PLACEHOLD_TAGS):
-                    fixed_entries[ja] = fr
-                else:
-                    dialog_entries[ja] = fr
-
-            # Mise à jour des deux tables sans doublon
-            if dialog_entries:
-                update_table_from_json("dialog", dialog_entries, str(db_path))
-            if fixed_entries:
-                update_table_from_json("fixed_dialog_template", fixed_entries, str(db_path))
-
+        # Normaliser en dict {ja: fr}
+        if isinstance(data, list):
+            items = {entry.get("ja", ""): entry.get("fr", "") for entry in data if isinstance(entry, dict)}
+        elif isinstance(data, dict):
+            items = data
         else:
-            update_table_from_json(table, data, str(db_path))
+            log.error(f"Format JSON non supporté pour {file_name}")
+            continue
+
+        try:
+            with sqlite3.connect(db_path) as conn:
+                conn.execute("PRAGMA journal_mode=WAL;")
+                conn.execute("PRAGMA synchronous=NORMAL;")
+                before = time.time()
+
+                if table == "fixed_dialog_template":
+                    # Schéma + upsert avec bad_string=0
+                    ensure_fixed_dialog_schema(conn)
+                    upsert_fixed_dialog(conn, items)
+                    conn.commit()
+                    dt_ms = int((time.time() - before) * 1000)
+                    log.info(f"✅ {table}: {len(items)} lignes upsert (bad_string=0) en {dt_ms} ms.")
+
+                elif table == "m00_strings":
+                    # UPDATE-only pour préserver 'file' (et autres colonnes)
+                    ensure_table_schema(conn, table, unique_idx=False)
+                    updated, skipped = update_only_en_by_ja(conn, table, items)
+                    conn.commit()
+                    dt_ms = int((time.time() - before) * 1000)
+                    log.info(f"✅ {table}: {updated} MAJ, {skipped} non trouvées (UPDATE-only) en {dt_ms} ms.")
+
+                else:
+                    # Autres tables → upsert standard
+                    ensure_table_schema(conn, table, unique_idx=True)
+                    upsert_rows(conn, table, items)
+                    conn.commit()
+                    dt_ms = int((time.time() - before) * 1000)
+                    log.info(f"✅ {table}: {len(items)} lignes upsert en {dt_ms} ms.")
+        except Exception as e:
+            log.error(f"Erreur d'injection pour {table}: {e}")
+
 
 @click.command()
 @click.option('-u', '--disable-update-check', is_flag=True)
@@ -553,7 +591,7 @@ def update_serverside_fr(log):
     GITHUB_BASE = "https://raw.githubusercontent.com/Sato2Carte/Server-Side-Text/SSTFR/fr/"
     db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
 
-    def update_table_from_json(table_name, json_url, db_path):
+    def update_table_from_json(table_name, json_url, db_path, allow_insert=True):
         log.info(f"Traitement de {table_name}")
         try:
             response = download_with_retry(json_url)
@@ -568,35 +606,39 @@ def update_serverside_fr(log):
         count_skipped = 0
         count_inserted = 0
 
-        for ja, fr in data.items():
-            if not ja or not fr:
+        # normalise {ja: fr}
+        if isinstance(data, list):
+            items = {entry.get("ja",""): entry.get("fr","") for entry in data if isinstance(entry, dict)}
+        elif isinstance(data, dict):
+            items = data
+        else:
+            log.error(f"Format JSON non supporté pour {table_name}")
+            conn.close()
+            return
+
+        for ja, fr in items.items():
+            if not ja:
                 continue
-            ja, fr = ja.strip(), fr.strip()
-            cursor.execute(f"SELECT en FROM {table_name} WHERE ja = ?", (ja,))
-            result = cursor.fetchone()
-            if result is None:
-                cursor.execute(f"INSERT INTO {table_name} (ja, en) VALUES (?, ?)", (ja, fr))
-                count_inserted += 1
-            else:
-                current_en = result[0].strip() if result[0] else ""
-                if current_en == fr:
-                    count_skipped += 1
-                    continue
-                cursor.execute(f"UPDATE {table_name} SET en = ? WHERE ja = ?", (fr, ja))
+            ja, fr = str(ja).strip(), ("" if fr is None else str(fr).strip())
+            cursor.execute(f'SELECT 1 FROM "{table_name}" WHERE ja = ? LIMIT 1;', (ja,))
+            exists = cursor.fetchone() is not None
+
+            if exists:
+                # Ne modifie QUE la colonne en → file et le reste restent intacts
+                cursor.execute(f'UPDATE "{table_name}" SET en = ? WHERE ja = ?;', (fr, ja))
                 count_updated += 1
+            else:
+                if allow_insert:
+                    cursor.execute(f'INSERT INTO "{table_name}" (ja, en) VALUES (?, ?);', (ja, fr))
+                    count_inserted += 1
+                else:
+                    # on ne crée pas la ligne pour préserver l’intégrité (ex: colonne file NOT NULL)
+                    count_skipped += 1
 
         conn.commit()
         conn.close()
         log.info(f"✅ {count_updated} maj, {count_inserted} insérés, {count_skipped} inchangés")
 
-    for file_name in json_files:
-        table = file_name.replace(".json", "")
-        url = GITHUB_BASE + file_name
-
-        if table == "fixed_dialog_template":
-            update_table_from_json("dialog", url, str(db_path))
-        else:
-            update_table_from_json(table, url, str(db_path))
 
 
 
