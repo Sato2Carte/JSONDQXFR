@@ -433,25 +433,6 @@ def blast_off(disable_update_check=False, communication_window=False, player_nam
 if __name__ == "__main__":
     blast_off()
 
-            with open(exe_path, "wb") as f:
-                f.write(response.content)
-            print("[MAJ] Nouveau EXE téléchargé.")
-
-            # Nettoyage de l'ini
-            config.set("launcher", "mode", "")
-            with open(ini_path, "w", encoding="utf-8") as configfile:
-                config.write(configfile)
-            print("[MAJ] INI nettoyé.")
-
-            # Relance le nouveau EXE
-            subprocess.Popen([str(exe_path)])
-            print("[MAJ] Nouveau launcher lancé. Fermeture...")
-            sys.exit()
-
-        except Exception as e:
-            print("[ERREUR MAJ]", e)
-            sys.exit(1)
-
 check_for_launcher_update()
 
 def download_with_retry(url, attempts=3, delay=3):
