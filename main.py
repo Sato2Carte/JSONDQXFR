@@ -229,7 +229,7 @@ def update_serverside_fr(log):
     # 1) Vider fixed_dialog_template
     try:
         with sqlite3.connect(db_path) as conn:
-            conn.execute("PRAGMA journal_mode=WAL;")
+            conn.execute("PRAGMA journal_mode=DELETE;")
             conn.execute("PRAGMA synchronous=NORMAL;")
             conn.execute('DELETE FROM "fixed_dialog_template";')
             conn.commit()
@@ -345,7 +345,7 @@ def update_serverside_fr(log):
 
         try:
             with sqlite3.connect(db_path) as conn:
-                conn.execute("PRAGMA journal_mode=WAL;")
+                conn.execute("PRAGMA journal_mode=DELETE;")
                 conn.execute("PRAGMA synchronous=NORMAL;")
                 before = time.time()
 
