@@ -1,0 +1,1310 @@
+{
+    "8090": {
+        "<if_woman>「お姉ちゃん　誰？\n　ここは　フルッカおばちゃんの　おうちよ。<else>「お兄ちゃん　誰？\n　ここは　フルッカおばちゃんの　おうちよ。<endif>": "<if_woman>>Grande soeur, qui es-tu ? Ici, c'est\nla maison de Fluka tante.<else>>Grand frere, qui es-tu ? Ici, c'est la maison\nde Fluka tante. <endif>"
+    },
+    "8091": {
+        "「あっ！": "Ah !"
+    },
+    "8092": {
+        "「フルッカおばちゃん！\n　あたし　フルッカおばちゃんに\n　また　魔法を教わりにきたの！": "Tante Fluka ! Je suis venue apprendre a\nnouveau la magie avec toi, tante Fluka !"
+    },
+    "8093": {
+        "「あら　フィーフィ　ごきげんよう。\n　来てたのね。": "Ah, Fifi, bonjour. Tu es venue."
+    },
+    "8094": {
+        "「それから　あなたは……。": "Et ensuite, vous..."
+    },
+    "8095": {
+        "「あ　あなたは……。\n　まさか……！": "Ah, vous etes... Impossible... !"
+    },
+    "8096": {
+        "「失礼ですが　あなたは\n　<pc>という名前の方では\n　ありませんか？<yesno><close>": "Excusez-moi, ne seriez-vous pas la personne\nqui s'appelle <pc> ?<yesno><close>"
+    },
+    "8097": {
+        "「フフフ。ごまかしたって　ムダですよ。\n　私には　わかるのですから。": "Fufu. Ca ne sert a rien de me mentir. Je peux\nle voir."
+    },
+    "8098": {
+        "「ああ！　ついに　破邪舟師の悲願が\n　果たされるときが　きたのですね。": "Ah ! Le moment est enfin venu pour que le reve\ntant attendu de Sacred Ship-shi se realise."
+    },
+    "8099": {
+        "「ああ！　やはり！\n　ついに　破邪舟師の悲願が\n　果たされるときが　きたのですね。": "Ah ! Je le savais ! Le moment est enfin venu\nou le souhait de maitre Sacred Ship va se\nrealiser."
+    },
+    "8100": {
+        "「おとぎ話のように　聞かせてたけどね\n　あれは　本当にあった話……。\n　この方こそ　私たちが待ち望んでいた人よ。": "Je te racontais cela comme un conte de fees,\nmais en realite, c'est une histoire vraie...\nC'est cette personne que nous avons tant<br>attendue."
+    },
+    "8101": {
+        "「あの子は　私のめい　フィーフィ。\n　賢く　礼儀正しい彼女を\n　次の継承者にと　考えておりますの。": "Cette enfant est ma niece, Fifi. Elle est\nintelligente et bien elevee. Je pense a elle\ncomme la prochaine heritiere."
+    },
+    "8102": {
+        "「……そう。われら　破邪舟師の一族は\n　あなたのことを語り継ぎ　悠久の時の中で\n　その到着を　お待ちしていたのです。": "C'est cela. Notre clan, les maitres du Sacred\nShip, a transmis votre histoire de generation\nen generation et, a travers les ages, nous<br>avons attendu votre arrivee."
+    },
+    "8103": {
+        "「この世に　大いなる闇が生まれしとき\n　<pc>という名の旅人が\n　破邪舟の術を求め　我ら一族の前に現れる。": "この世に 大いなる闇が生まれしとき <pc>という名の旅人が Sacred\nShipの術を求め 我ら一族の前に現れる"
+    },
+    "8104": {
+        "「そのときがくるまで　絶対に\n　破邪舟の術を　絶やしてはいけない……。": "Jusqu'a ce que ce moment arrive, il ne faut\nabsolument pas laisser la magie du Sacred Ship\ns'eteindre..."
+    },
+    "8105": {
+        "「父祖エルジュより　５００年\n　破邪舟師は　代々その言いつけを\n　守ってまいりました。": "Depuis 500 ans depuis notre ancetre Erju, les\nmaitres du Sacred Ship ont fidelement respecte\nleurs instructions."
+    },
+    "8106": {
+        "「そして　今から数か月前　東の海より\n　大いなる闇……　冥王の心臓が　誕生するさまを\n　この目で見たとき　確信したのです。": "Et puis, il y a quelques minutes a peine, j'ai\nete temoin de la naissance d'une grande\nobscurite... Hades' Heart, provenant de la mer<br>de l'Est. C'est a ce moment-la que j'en ai ete\nconvaincu."
+    },
+    "8107": {
+        "「<pc>さまを\n　冥王のもとまで運ぶ　破邪舟師に\n　私が　選ばれたのだと……。": "J'ai ete choisi pour etre le maitre du Navire\nSacre qui transportera <pc>-sama\njusqu'au roi des tenebres..."
+    },
+    "8108": {
+        "「私は　これより　冥王の心臓のある\n　ランドン山脈　山頂へ向かい\n　<pc>さまの到着を　待っております。": "Je me dirige maintenant vers le sommet des\nmontagnes Landon ou se trouve le Coeur d'Hades,\npour y attendre l'arrivee de <pc>-sama."
+    },
+    "8109": {
+        "「激しい戦いが　予想されます。\n　くれぐれも準備は　念入りに。\n　それでは……。": "Une bataille intense est a prevoir. Veuillez\nvous preparer avec soin. Alors, allons-y..."
+    },
+    "8110": {
+        "「ふっふっふ。<pc>よ。\n　よくぞ　やってくれたのう。": "Fufufu. <pc>, hein. Bien joue."
+    },
+    "8111": {
+        "「おぬしの働きで　破邪舟の術は　ぶじ継承され\n　あの　ものぐさだったフルッカも\n　見ちがえるような　真人間になったわい。": "Grace a tes efforts, la technique du Sacred\nShip a ete transmise en toute securite. Meme\nFluka, qui etait si paresseuse, est devenue<br>une personne totalement differente."
+    },
+    "8112": {
+        "「さて……　ついに\n　このときが　きたようじゃ。": "Alors... il semble que ce moment soit enfin\narrive."
+    },
+    "8113": {
+        "「わしからは　もう何も言うまい。\n　おぬしが　ネルゲルを打ち滅ぼすことを\n　ただただ　祈るのみじゃ。": "Je n'ai plus rien a dire. Je ne fais que prier\npour que tu detruises Nergel."
+    },
+    "8114": {
+        "「さあ　行くがよい。\n　ランドン山脈の山頂で　フルッカが\n　おぬしを　待っておる。": "Allez, pars maintenant. Fluka t'attend au\nsommet des montagnes Landon."
+    },
+    "8115": {
+        "「頼んだぞ　<pc>！\n　わしは　おぬしのチカラを\n　信じておるからな！": "Je compte sur toi, <pc> ! Je crois en\nton pouvoir !"
+    },
+    "8116": {
+        "「それでは　参りましょう。": "Alors, allons-y."
+    },
+    "8117": {
+        "「はああああぁぁぁぁぁ……。": "Ahhhhhhh..."
+    },
+    "8118": {
+        "「いかがです？": "Comment ca va ?"
+    },
+    "8119": {
+        "「あら。ずいぶんと不安げな　ご様子ですこと。": "Ah. Vous semblez vraiment inquiet."
+    },
+    "8120": {
+        "「さあ　<pc>さま。中へ……。": "Allez-y, <pc>-sama. Entrez a\nl'interieur..."
+    },
+    "8121": {
+        "「……冥王の心臓へ向かう前に　ひとつだけ\n　お話しさせていただいても　よろしいかしら？": "...Puis-je vous parler d'une chose avant que\nnous nous dirigions vers le Coeur d'Hades ?"
+    },
+    "8122": {
+        "「冥王ネルゲルは　かつて　あなたと\n　父祖エルジュが戦った　レイダメテスより\n　生まれいでし存在と　聞きおよんでおります。": "J'ai entendu dire que le Netherlord Nergel est\nune entite nee de Rei Dametes, que vous et\nvotre ancetre Erju avez autrefois combattu."
+    },
+    "8123": {
+        "「すなわち　冥王ネルゲルの討伐は\n　我ら四術師にとっても　５００年越しの悲願。\n　どうか　よろしくお願いいたします。": "Autrement dit, vaincre le Netherlord Nergel\nest un souhait vieux de 500 ans pour nous, les\nquatre mages. Je vous en prie, comptez sur<br>nous."
+    },
+    "8124": {
+        "「それでは　<pc>さま。\n　破邪舟が動くよう　念じてください。": "Alors, <pc>-sama. Veuillez prier pour\nque le Sacred Ship se mette en mouvement."
+    },
+    "8125": {
+        "「どうか　お気をつけて。\n　ご武運を　お祈りしております……。": "S'il vous plait, faites attention. Je prie\npour votre succes au combat..."
+    },
+    "8126": {
+        "「それでは　参りましょう。": "Alors, allons-y."
+    },
+    "8128": {
+        "「冥王ネルゲルの討伐は\n　我ら四術師にとっても　悲願……。\n　どうか　よろしくお願いいたします。": "La defaite de Netherlord Nergel est un souhait\ncher pour nous, les quatre mages... Je vous en\nprie, comptez sur nous."
+    },
+    "8129": {
+        "「どうか　お気をつけて。\n　ご武運を　お祈りしております……。": "S'il vous plait, faites attention. Je prie\npour votre succes au combat..."
+    },
+    "8130": {
+        "「おお。<pc>か。": "Oh. C'est <pc>."
+    },
+    "8131": {
+        "「おぬしの働きで　破邪舟の術は　ぶじ継承され\n　あの　ものぐさだったフルッカも\n　見ちがえるような　真人間になったわい。": "Grace a tes efforts, la technique du Sacred\nShip a ete transmise en toute securite. Meme\nFluka, qui etait si paresseuse, est devenue<br>une personne totalement differente."
+    },
+    "8132": {
+        "「わしからは　もう何も言うまい。\n　おぬしが　ネルゲルを打ち滅ぼすことを\n　ただただ　祈るのみじゃ。": "Je n'ai plus rien a dire. Je ne fais que prier\npour que tu detruises Nergel."
+    },
+    "8133": {
+        "「さあ　行くがよい。\n　ランドン山脈の山頂で　フルッカが\n　おぬしを　待っておる。": "Allez, pars maintenant. Fluka t'attend au\nsommet des montagnes Landon."
+    },
+    "8134": {
+        "「頼んだぞ　<pc>！\n　わしは　おぬしのチカラを\n　信じておるからな！": "Je compte sur toi, <pc> ! Je crois en\nton pouvoir !"
+    },
+    "8135": {
+        "<center>　ついに　ここまで　たどり着いたか。\n　忌々しき　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Survivant\nmaudit d'Ethene."
+    },
+    "8136": {
+        "<center>　やはり　貴様たち　エテーネの民は\n　この冥王の野望を　おびやかす\n　危険な芽であったな……。": "Vous, peuple d'Ethene, etes decidement un\ngerme dangereux qui menace les ambitions de ce\nroi des tenebres..."
+    },
+    "8137": {
+        "<center>　だが　我が居城　冥王の心臓に\n　乗り込んでくるとは　おろかなことよ。": "Cependant, quelle folie d'oser penetrer dans\nma forteresse, le Coeur d'Hades."
+    },
+    "8138": {
+        "<center>　貴様が　いくら　チカラをつけようとも\n　この　死が支配する世界において　我は無敵。": "Peu importe a quel point tu deviens puissant,\ndans ce monde gouverne par la mort, je suis\ninvincible."
+    },
+    "8139": {
+        "<center>　さあ　早く　我が玉座まで　来るがよい。\n　我は　貴様の訪れを　歓迎するぞ。": "Allez, hate-toi de venir jusqu'a mon trone. Je\nt'accueille a bras ouverts."
+    },
+    "8140": {
+        "「また　お会いできましたね。\n　エテーネの村の　<pc>。\n　よくぞ　ここまで　来てくれました。": "Nous nous rencontrons a nouveau. <pc> du\nvillage d'Ethene. Merci d'etre venu jusqu'ici."
+    },
+    "8141": {
+        "「この異空間……冥王の心臓は\n　冥王ネルゲルが　作りだした\n　魂の牢獄とでも言うべき場所です。": "Cet espace interdimensionnel... Hades' Heart\nest un lieu que l'on pourrait qualifier de\nprison des ames, cree par le Netherlord<br>Nergel."
+    },
+    "8142": {
+        "「その役目は　死者の魂を集め\n　闇の魔力に変えて　ネルゲルに与える\n　いわば　回復装置のようなもの。": "Ce role consiste a rassembler les ames des\ndefunts, a les transformer en energie sombre\net a les offrir a Nergel. C'est comme un<br>dispositif de recuperation."
+    },
+    "8143": {
+        "「レンダーシアを封印するために\n　大量の魔力を使ったネルゲルは　以来ずっと\n　この地の最深部に　こもっているそうです。": "On raconte que Nergel, ayant utilise une\ngrande quantite de magie pour sceller\nRendaashia, s'est depuis retire dans les<br>profondeurs de cette terre."
+    },
+    "8144": {
+        "「そして　冥王は　すでに回復を果たし\n　レンダーシアを封印したとき以上の\n　絶大な魔力を　身につけているといいます。": "Et il est dit que le Roi des Ombres a deja\nrecupere et possede desormais une puissance\nmagique encore plus grande que lorsqu'il a<br>scelle Lendasia."
+    },
+    "8145": {
+        "「このままでは　すべての大陸が\n　闇の封印に　落とされてしまうのは\n　時間の問題でしょう……。": "Si cela continue ainsi, il ne sera qu'une\nquestion de temps avant que tous les\ncontinents ne soient plonges dans le sceau des<br>tenebres..."
+    },
+    "8146": {
+        "「エテーネの村の　<pc>。\n　あなたなら　どんな強大な相手でも\n　きっと　倒してくれると　信じています。": "<pc> du village d'Ethene. Je crois\nfermement que, peu importe l'adversaire\nredoutable, vous serez toujours capable de le<br>vaincre."
+    },
+    "8147": {
+        "「ですが　冥王ネルゲルは　\n　チカラと知恵をかねそなえた　恐るべき魔人。\n　くれぐれも　油断はしないでください。": "Cependant, le Netherlord Nergel est un demon\nredoutable dote a la fois de force et de\nsagesse. Veuillez ne pas baisser votre garde."
+    },
+    "8148": {
+        "「……ここでは　あまり長い時間\n　この姿を　たもっていられないようです。\n　どうか　お気をつけて……。": "Il semble que je ne puisse pas conserver cette\nforme tres longtemps ici. Prenez soin de vous."
+    },
+    "8149": {
+        "「また　お会いできましたわね。\n　エテーネの村の　<pc>。\n　よく　ここまで　来てくださいました。": "Nous nous rencontrons a nouveau. <pc> du\nvillage d'Ethene. Merci d'etre venu jusqu'ici."
+    },
+    "8150": {
+        "「この異空間……冥王の心臓は\n　冥王ネルゲルが　作りだした\n　魂の牢獄とでも言うべき場所なのです。": "Cet espace interdimensionnel... Hades' Heart,\nest un endroit qui pourrait etre decrit comme\nune prison des ames, creee par Netherlord<br>Nergel."
+    },
+    "8151": {
+        "「その役目は　死者の魂を集め\n　闇の魔力に変えて　彼に与えるという\n　いわば　回復装置のようなもの。": "Ce role consiste a rassembler les ames des\nmorts, a les transformer en energie sombre et\na les offrir a lui. En quelque sorte, c'est<br>comme un dispositif de recuperation."
+    },
+    "8152": {
+        "「レンダーシアを封印するために\n　大量の魔力を使ったネルゲルは　以来ずっと\n　この地の最深部に　こもっているそうです。": "On raconte que Nergel, ayant utilise une\ngrande quantite de magie pour sceller\nRendaashia, s'est depuis retire dans les<br>profondeurs de cette terre."
+    },
+    "8153": {
+        "「そして　冥王は　すでに回復を果たし\n　レンダーシアを封印したとき以上の\n　絶大な魔力を身につけているとのこと。": "Et de plus, il parait que le Roi des Ombres a\ndeja recupere ses forces, acquerant une\npuissance magique encore plus immense que<br>lorsqu'il a scelle Rendashia."
+    },
+    "8154": {
+        "「このままでは　すべての大陸が\n　闇の封印に　落とされてしまうのは\n　時間の問題ですわ……。": "Si cela continue ainsi, il ne sera qu'une\nquestion de temps avant que tous les\ncontinents ne soient plonges dans le sceau des<br>tenebres..."
+    },
+    "8155": {
+        "「エテーネの村の　<pc>。\n　あなたなら　どんな強大な相手でも\n　きっと　倒してくれると　信じております。": "<pc> du village d'Ethene. Je suis\nconvaincu que, peu importe la puissance de\nl'adversaire, vous reussirez a le vaincre."
+    },
+    "8156": {
+        "「ですが　冥王ネルゲルは　\n　チカラと知恵をかねそなえた　恐るべき魔人。\n　くれぐれも　油断しないでくださいませ。": "Cependant, le Netherlord Nergel est un demon\nredoutable, dote a la fois de puissance et de\nsagesse. Je vous prie d'etre extremement<br>vigilant."
+    },
+    "8157": {
+        "「……ここでは　あまり長い時間\n　この姿を　たもっていられないようですわ。\n　どうか　お気をつけて……。": "...Il semble que je ne peux pas conserver\ncette apparence tres longtemps ici. Prenez\nsoin de vous..."
+    },
+    "8158": {
+        "「おう！　また会えたなぁ。\n　エテーネの村の　<pc>。\n　こんなヘンピな場所まで　よく来たもんだ。": "Oh ! On se retrouve enfin. <pc> du\nvillage d'Ethene. Tu as bien fait de venir\njusqu'a cet endroit recule."
+    },
+    "8159": {
+        "「この冥王の心臓ってとこはよぉ\n　冥王ネルゲルの野郎が　死者の魂を\n　集めるため　作りだしたらしいぞ。": "Cet endroit appele Hades' Heart, il parait que\nce maudit Netherlord Nergel l'a cree pour\nrassembler les ames des morts."
+    },
+    "8160": {
+        "「なんでも　集めた魂を喰らって\n　闇の魔力ってのに変えて　ヤツ自身を\n　回復させるためのもんだって話さ。": "Il parait que c'est pour recuperer les ames\ncollectees, les transformer en une sorte de\npuissance obscure, et permettre a ce type de<br>se regenerer."
+    },
+    "8161": {
+        "「レンダーシアを封印するのに\n　どえらい魔力を使った　あの野郎は\n　ずっと　ここの奥で　休んでたんだってよ。": "Il parait que ce type a utilise une immense\nquantite de magie pour sceller Rendasia, et\nqu'il se repose depuis tout ce temps au fond<br>de cet endroit."
+    },
+    "8162": {
+        "「そんで　今のヤツは　もう回復しきってて\n　レンダーシアを封印したとき以上に\n　ギンギンに　みなぎってるって話だぜ。": "Et maintenant, il parait qu'il a completement\nrecupere, encore plus puissant qu'au moment ou\nil a scelle Rendashia."
+    },
+    "8163": {
+        "「このままじゃあ　すべての大陸が\n　闇の封印に　落とされちまうかも\n　しれねえって　あせってたんだよ。": "Si ca continue comme ca, tous les continents\nrisquent d'etre plonges dans le sceau des\ntenebres, c'est pour ca que j'etais si<br>inquiet."
+    },
+    "8164": {
+        "「でも　エテーネの村の　<pc>が\n　ここまで　来てくれたんなら\n　もう　ダイジョーブだよな？": "Mais puisque <pc> du village d'Ethene\nest venu jusqu'ici, tout ira bien, n'est-ce\npas ?"
+    },
+    "8165": {
+        "「ネルゲルの野郎は　強い上に　\n　ズルがしこいヤツだけど　あんたなら\n　きっと　倒してくれるって　信じてるよ。": "Nergel est non seulement fort, mais aussi\nsournois. Pourtant, je crois fermement que tu\nparviendras a le vaincre."
+    },
+    "8166": {
+        "「……おっと　ここじゃ　光の神殿みたいに\n　長いこと　話してらんねぇみたいだ。\n　それじゃ　がんばってくれよ！": "Oups, on dirait qu'on ne peut pas discuter\naussi longtemps ici que dans le Temple of\nLight. Alors, bon courage a toi !"
+    },
+    "8167": {
+        "「あれ？　また会えただわね。\n　エテーネの村の　<pc>。\n　よく　ここまで　来てくれたもんだわ。　": "Ah ? On se rencontre a nouveau. <pc> du\nvillage d'Ethene. Tu es vraiment venu\njusqu'ici."
+    },
+    "8168": {
+        "「この冥王の心臓ってとこはさ\n　冥王ネルゲルの野郎が　死者の魂を\n　集めるため　作りだしたらしいんだわ。": "Cet endroit qu'on appelle le Coeur d'Hades, il\nparait que ce salaud de Netherlord Nergel l'a\ncree pour rassembler les ames des morts."
+    },
+    "8169": {
+        "「なんでも　集めた魂を喰らって\n　闇の魔力に変えちゃって　ヤツ自身を\n　回復させるためのもんだって話なんよ。": "On raconte qu'il devore les ames rassemblees\npour les transformer en une sombre magie,\nservant ainsi a sa propre regeneration."
+    },
+    "8170": {
+        "「レンダーシアを封印するのに\n　どえらい魔力を使っちゃった　ネルゲルは\n　ずっと　ここで　休んでたんだってよ。": "Il parait que Nergel a utilise une enorme\nquantite de magie pour sceller Rendashia, et\nqu'il se repose ici depuis lors."
+    },
+    "8171": {
+        "「そんで　今は　もうすっかり　回復しちまって\n　レンダーシアを封印したとき以上に\n　全開バリバリらしいんだわ。": "Et maintenant, il a completement recupere,\nsemblant etre encore plus en pleine forme\nqu'au moment ou il a scelle Rendaashia."
+    },
+    "8172": {
+        "「このままじゃ　すべての大陸が\n　闇の封印に　落とされちまうかもしんねぇ\n　……って思ってたけどさ。": "Ce n'est pas possible, tous les continents\nrisquent de sombrer dans le sceau des\ntenebres... C'est ce que je pensais, mais bon."
+    },
+    "8173": {
+        "「エテーネの村の　<pc>の顔を見たら\n　なんか　安心したよ。": "Quand j'ai vu le visage de <pc> du\nvillage d'Ethene, je me suis senti rassure."
+    },
+    "8174": {
+        "「ネルゲルの野郎は　強い上に　 \n　ズルがしこいヤツだって　評判だけど\n　あんたは　きっと　倒してくれるわ。": "On dit que ce salaud de Nelgel est non\nseulement puissant, mais aussi ruse. Mais je\nsuis sur que tu pourras le vaincre."
+    },
+    "8175": {
+        "「……あれ？　ここじゃ　光の神殿みたいに\n　長いこと　話してらんねぇみたいだわ。\n　それじゃ　がんばっとくれよ！": "...Tiens ? On dirait qu'ici, on ne peut pas\ndiscuter aussi longtemps que dans le Temple of\nLight. Allez, fais de ton mieux !"
+    },
+    "8176": {
+        "「よう！　また会ったな。\n　エテーネの村の　<pc>。\n　よく　ここまで　たどり着いてくれた！": "Salut ! On se retrouve encore. <pc> du\nvillage d'Ethene. Merci d'etre parvenu\njusqu'ici !"
+    },
+    "8177": {
+        "「この冥王の心臓ってぇとこはな\n　冥王ネルゲルの野郎が　作りだした\n　死者の魂を　閉じ込める場所なんだよ。": "Cet endroit, appele le Coeur d'Hades, a ete\ncree par ce salaud de Netherlord Nergel pour\nemprisonner les ames des morts."
+    },
+    "8178": {
+        "「あの野郎は　そうやって集めた魂を\n　喰らって　自分の魔力を回復させ\n　さらに　チカラをつけてるって話だ。": "Cet enfoire devore les ames qu'il a collectees\nde cette maniere pour recuperer sa magie et\naccroitre encore sa puissance."
+    },
+    "8179": {
+        "「自分の肉体を　きたえるんじゃなく\n　他人のチカラを　奪うってのが\n　いかにも　陰険な　やりくちだぜ。": "Plutot que de renforcer son propre corps,\nvoler la force des autres est vraiment une\nfacon sournoise de faire pour un Spear."
+    },
+    "8180": {
+        "「そんなワケで　今の野郎は\n　レンダーシアを封印したとき以上に\n　強くなってるらしい。": "C'est pourquoi, apparemment, ce type est\ndevenu encore plus fort qu'il ne l'etait\nlorsqu'il a scelle Rendashia."
+    },
+    "8181": {
+        "「ヤツの目的は　レンダーシアだけじゃなく\n　すべての大陸を封印することだからな。\n　そろそろ　動きだすかもしれねぇぜ。　": "Son objectif n'est pas seulement de sceller\nRendaashia, mais tous les continents. Il\npourrait bien commencer a bouger bientot."
+    },
+    "8182": {
+        "「だが　あんたは　間に合ってくれた。\n　ネルゲルが　これ以上　何かしようとしても\n　先に　倒しちまえばいいんだからな。": "Mais tu es arrive a temps. Peu importe ce que\nNergel essaie de faire de plus, si nous le\nbattons d'abord, ca ira."
+    },
+    "8183": {
+        "「……おっと　あまり　のん気に\n　話してられる時間は無いみてぇだな。": "…Oh, il semblerait que nous n'ayons pas\nbeaucoup de temps pour discuter\ntranquillement."
+    },
+    "8184": {
+        "「ここじゃ　この姿を　たもっているのも\n　きついんで　ちょっと消えさせてもらうぜ。\n　それじゃ　後のことは　まかせたからな！": "Il est difficile de maintenir cette forme ici,\nalors je vais me retirer un moment. Je compte\nsur toi pour la suite !"
+    },
+    "8185": {
+        "「また　会ったね。\n　エテーネの村の　<pc>。\n　あんたが　ここに来るのを　待ってたよ。": "On se retrouve encore. <pc> du village\nd'Ethene. Je t'attendais ici."
+    },
+    "8186": {
+        "「この冥王の心臓ってとこは\n　冥王ネルゲルの野郎が　作りだした\n　死者の魂を　閉じ込めておく場所なのさ。": "Cet endroit appele Hades' Heart est un lieu\ncree par ce vaurien de Netherlord Nergel pour\nemprisonner les ames des defunts."
+    },
+    "8187": {
+        "「ネルゲルは　そうやって集めた魂を\n　喰らって　自分の魔力を回復させることで\n　以前よりも　チカラをつけてるらしいね。": "Nergel a apparemment renforce ses pouvoirs en\ndevorant les ames qu'il a ainsi rassemblees,\nrecuperant ainsi sa magie."
+    },
+    "8188": {
+        "「自分の肉体を　きたえるんじゃなく\n　他人のチカラを　奪うなんて\n　いかにも　陰険な　やり方じゃないか。": "Plutot que de renforcer son propre corps,\nvoler le pouvoir des autres... C'est vraiment\nune methode sournoise typique de Spear,<br>n'est-ce pas ?"
+    },
+    "8189": {
+        "「とにかく　今のヤツは\n　レンダーシアを封印したとき以上に\n　強くなっちまってるらしいよ。": "En tout cas, il parait qu'il est devenu encore\nplus puissant qu'au moment ou il a scelle\nLendasia."
+    },
+    "8190": {
+        "「そのチカラは　もう　世界のすべてを\n　闇の封印に　落とせるほどかもね？\n　どうだい　ビビっちまったかい？　": "その力はもう世界のすべてを 闇の封印に落とせるほどかもね どうだい、ビビっちまったかい？"
+    },
+    "8191": {
+        "「……フッ。バカにするなって顔だね。　\n　さすが　アタシが　自分の姿を\n　ゆずった相手だ。心強いじゃないか。": "…Hmph. Tu fais une tete qui dit 'Ne te moque\npas de moi.' Comme on pouvait s'y attendre de\nla personne a qui j'ai confie mon apparence.<br>Tu es vraiment rassurant."
+    },
+    "8192": {
+        "「……おや？\n　ここじゃあ　あまり　長い間\n　この姿を　たもってられないみたいだね。": "…Oh ? Il semble que je ne puisse pas garder\ncette apparence tres longtemps ici."
+    },
+    "8193": {
+        "「まあ　言いたいことは　全部言ったし　\n　後のことは　まかせるからさ。\n　どうか　アタシの期待に　応えておくれよ！": "Eh bien, j'ai dit tout ce que j'avais a dire.\nJe te laisse gerer le reste. S'il te plait,\nreponds a mes attentes !"
+    },
+    "8194": {
+        "「また会えて　うれしいよ。　\n　エテーネの村の　<pc>。\n　君が　ここに来るのを　待っていた。": "Je suis content de te revoir. <pc> du\nvillage d'Ethene. Je t'attendais ici."
+    },
+    "8195": {
+        "「ここは　冥王の心臓の内部。\n　冥王ネルゲルが　作りだした\n　死者の魂を　閉じ込めておく異空間さ。": "Ici, c'est l'interieur du Coeur d'Hades. Un\nespace dimensionnel cree par Netherlord Nergel\npour emprisonner les ames des defunts."
+    },
+    "8196": {
+        "「ネルゲルは　死者の魂を捕らえて\n　闇の魔力に変えて　吸収し\n　自分のチカラを　回復させているんだ。　": "Nergel capture les ames des defunts, les\ntransforme en energie obscure et les absorbe\npour recuperer sa propre puissance."
+    },
+    "8197": {
+        "「レンダーシアの封印以来　ヤツは\n　ここに　こもり続け　その魔力は\n　今や　計り知れないほどだって話だよ。　": "Depuis le sceau de Lendersia, il s'est enferme\nici. On dit que sa puissance magique est\ndesormais incommensurable."
+    },
+    "8198": {
+        "「このままじゃ　すべての大陸が\n　ネルゲルの手によって　闇の封印に\n　落とされてしまうかもしれないんだ。": "Si cela continue, tous les continents\npourraient etre plonges dans le sceau des\ntenebres par la main de Nelgel."
+    },
+    "8199": {
+        "「でも　君なら……<pc>なら\n　きっと　何とかしてくれるって信じてるよ。": "Mais toi... <pc>, je crois vraiment que\ntu trouveras une solution."
+    },
+    "8200": {
+        "「だって　君は　そのために生き返しを受け\n　ウデをみがいて　キーエンブレムを集め\n　ここまで　たどり着いたんだからね。": "Parce que tu as ete ramene a la vie pour cela,\ntu as aiguise tes competences et rassemble les\nemblemes cles pour arriver jusqu'ici."
+    },
+    "8201": {
+        "「……くっ　どうやら　この姿のままで\n　いられるのは　限界みたいだ。": "... Grr... Apparemment, je ne peux plus rester\nsous cette forme. C'est la limite."
+    },
+    "8202": {
+        "「幽霊の僕には　何もできないけれど\n　いつも　応援してるから……きっと\n　ネルゲルを倒して　世界に平和を……。": "En tant que fantome, je ne peux rien faire,\nmais je te soutiens toujours... Je suis sur\nque tu vaincras Nelgel et rameneras la paix<br>dans le monde..."
+    },
+    "8203": {
+        "「やほー！　また会えたわね。　　\n　エテーネの村の　<pc>さん。\n　ここに来てくれると　思ってたわ。": "Salut ! On se retrouve encore. <pc>-san\ndu village d'Ethene. Je savais que tu\nviendrais ici."
+    },
+    "8204": {
+        "「ねえ　知ってる？　この冥王の心臓って\n　冥王ネルゲルが　作りだした\n　死者の魂を　閉じ込める空間なのよ。": "He, tu sais quoi ? Cet Hades' Heart, c'est un\nespace cree par Netherlord Nergel pour\nemprisonner les ames des defunts."
+    },
+    "8205": {
+        "「ネルゲルは　死者の魂を捕らえて\n　自分の魔力として　吸収しちゃって\n　チカラを　回復させてるんだって。　": "Nergel capture les ames des morts et les\nabsorbe pour en faire sa propre magie,\nrecuperant ainsi sa puissance."
+    },
+    "8206": {
+        "「レンダーシアの封印以来\n　アイツってば　ここに　引きこもっててさ。\n　今じゃ　その魔力　ヤバいくらいらしいわ。　　": "Depuis le sceau de Lendersia, il s'est terre\nici. Maintenant, son pouvoir magique est\napparemment devenu incroyablement dangereux."
+    },
+    "8207": {
+        "「次に　アイツが　動きだしたら\n　レンダーシアどころか　この世界全部\n　封印されちゃうかもね？": "La prochaine fois qu'il bouge, ce ne sera pas\nseulement Rendaashia, mais peut-etre le monde\nentier qui sera scelle."
+    },
+    "8208": {
+        "「……って　でも　それを止めるのが\n　あなたの使命だったよね？\n　そのために　ここまで　来たんだし。": "... Mais c'etait ta mission de l'arreter,\nn'est-ce pas ? C'est pour cela que tu es venu\njusqu'ici."
+    },
+    "8209": {
+        "「……うん。私は　あなただったら\n　きっと　やってくれるって信じてるわ。\n　私の姿を　託した人なんだし！": "…Oui. Je crois en toi. Je suis sure que tu y\narriveras. Apres tout, tu es celui a qui j'ai\nconfie mon apparence !"
+    },
+    "8210": {
+        "「……あれ？\n　この姿のままでいるの　もう限界みたい。\n　無理してると　消えちゃいそう。": "…Oh ? Il semble que rester sous cette forme\natteint ses limites. Si je force, je risque de\ndisparaitre."
+    },
+    "8211": {
+        "「とにかくさ。私　オーエンしてるから\n　きっと　ネルゲルのネクラ野郎を\n　やっつけちゃってよねっ！　": "En tout cas, je te soutiens ! Alors, fais en\nsorte de botter les fesses de ce sombre cretin\nde Nelgel, d'accord ?"
+    },
+    "8212": {
+        "「やあ！　エテーネの村の　<pc>。\n　こんなトコで　会えるなんて\n　すっごい　ぐーぜんだね！　": "Salut ! <pc> du village Ethene. Te\nrencontrer ici, c'est vraiment une sacree\ncoincidence !"
+    },
+    "8213": {
+        "「……って　せっかく　ボケてるのに\n　どーして　ツッコんでくれないかなぁ。": "... Je fais expres de plaisanter, mais\npourquoi tu ne reagis pas ?"
+    },
+    "8214": {
+        "「ここ　冥王ネルゲルのアジト！\n　死者の魂が集められて　ヤツの魔力として\n　吸収されちゃうような場所なんだよ！　": "Ici, c'est le repaire de Netherlord Nergel !\nC'est un endroit ou les ames des morts sont\nrassemblees et absorbees pour alimenter sa<br>magie !"
+    },
+    "8215": {
+        "「そんなとこに　このボクが　いるのが\n　ぐーぜんなワケないじゃないか！": "Il n'y a pas de hasard au fait que je sois ici\n!"
+    },
+    "8216": {
+        "「……ハッ！　もしかして　あえて\n　スルーすることで　ボクのツッコミを\n　さそう　ボケ返し！？": "Hah ! Est-ce que tu essaies de m'ignorer\nexpres pour provoquer ma reaction avec une\nreplique decalee !?"
+    },
+    "8217": {
+        "「……やるなぁ！！\n　さすが　ボクが　自分の姿を託した男。\n　いつの間にか　ここまで　成長してるとはね。": "Pas mal !! Comme prevu de l'homme a qui j'ai\nconfie mon apparence. Tu as bien grandi sans\nque je m'en apercoive."
+    },
+    "8218": {
+        "「これなら　いくら　ネルゲルが\n　パワーアップしてても　問題なしだよ。": "Avec ca, meme si Nelgel s'est renforce, il n'y\naura aucun probleme."
+    },
+    "8219": {
+        "「……そうなんだ。アイツってば　ずっと\n　この冥王の心臓にこもって　魔力をたくわえて\n　前より　ずっと　強くなってるらしいんだ。": "C'est vrai. Ce type est reste tout ce temps\nenferme dans ce Hades' Heart, accumulant de la\nmagie, et il parait qu'il est devenu beaucoup<br>plus puissant qu'avant."
+    },
+    "8220": {
+        "「このままじゃ　すべての大陸が封印されて\n　笑いのひとつもない　暗黒の世界に　\n　なっちゃうんじゃって　心配してたんだよ。": "Si ca continue comme ca, tous les continents\nseront scelles et le monde sombrera dans les\ntenebres, sans meme un seul rire. C'est ce qui<br>m'inquietait."
+    },
+    "8221": {
+        "「でも　キミが来てくれたなら　安心だ。\n　そのみがきあげた　お笑いセンスで\n　ネルゲルを　笑い地獄に　たたき込んでくれ！": "Mais te voila, je suis rassure. Avec ton sens\nde l'humour affute, envoie Nelgel en enfer de\nrire !"
+    },
+    "8222": {
+        "「……おっとと。ここじゃ　長いこと\n　この姿のままで　いられないみたいだ。": "… Oups. On dirait que je ne peux pas rester\nsous cette forme trop longtemps ici."
+    },
+    "8223": {
+        "「ボクのりりしい　ファニーフェイスが\n　見られなくなるのは　残念だろうけど\n　気を落とさずに　がんばってくれよ！": "C'est dommage que tu ne puisses plus admirer\nmon visage charmant et drole, mais ne te\ndecourage pas, continue de faire de ton mieux<br>!"
+    },
+    "8224": {
+        "「やっほ！　エテーネの村の　<pc>。\n　こんなトコで　会えるなんて\n　すっごい　ぐーぜんじゃない？　": "Salut ! Je suis <pc> du Village\nd'Ethene. C'est une sacree coincidence de se\nrencontrer ici, non ?"
+    },
+    "8225": {
+        "「……って　アタシ　ボケてるんですけどぉ。\n　どーして　ツッコんでくれないのぉ！": "...Je fais une blague, la. Pourquoi tu ne\nreagis pas !"
+    },
+    "8226": {
+        "「ここ　冥王ネルゲルのアジト！\n　死者の魂が集められて　ヤツの魔力として\n　吸収されちゃうような場所よぉ！　": "Ici, c'est le repaire du seigneur des tenebres\nNergel ! Les ames des defunts y sont\nrassemblees et absorbees pour alimenter sa<br>magie !"
+    },
+    "8227": {
+        "「そんなトコで　再会したんだから\n　ぐーぜんなワケないじゃんか！": "Ce n'est pas un hasard si nous nous sommes\nretrouves ici !"
+    },
+    "8228": {
+        "「……ハッ！　もしかして　あえて\n　スルーすることで　アタシのツッコミを\n　さそう　ボケ返し！？": "...Ha ! Serait-ce une technique pour ignorer\nexpres et ainsi provoquer ma replique\nhumoristique ?!"
+    },
+    "8229": {
+        "「……いつの間に　そんな高等テクを？\n　<pc>……おそろしい子。\n　さすが　アタシの姿を受け継いだだけあるわ。": "Depuis quand as-tu acquis une telle technique\navancee ? <pc>tu es vraiment effrayant.\nComme on pouvait s'y attendre de quelqu'un qui<br>a herite de mon apparence."
+    },
+    "8230": {
+        "「これなら　いくら　ネルゲルが\n　パワーアップしてても　問題なさそうね。": "Avec ca, meme si Nelgel se renforce, ca ne\ndevrait pas poser de probleme."
+    },
+    "8231": {
+        "「……そうなのよ。アイツってば　ずっと\n　この冥王の心臓にこもって　魔力をたくわえて\n　前より　ずっと　強くなってるらしいの。": "C'est ca. Il parait qu'il est reste enferme\ntout ce temps dans ce Hades' Heart, accumulant\ndes pouvoirs magiques, et qu'il est devenu<br>bien plus puissant qu'avant."
+    },
+    "8232": {
+        "「このままじゃ　すべての大陸が封印されて\n　笑いのひとつもない　暗黒の世界に　\n　なっちゃうんじゃ……って　心配してたんだ。": "Si ca continue comme ca, tous les continents\nseront scelles et le monde deviendra un\nendroit sombre sans meme un sourire... C'est<br>ce qui m'inquietait."
+    },
+    "8233": {
+        "「でも　キミが来てくれたなら　安心ね。\n　みがきあげた　お笑いセンスで\n　ネルゲルを　笑い地獄に　たたき込んでよ！": "Mais si tu es venu, je suis rassuree. Avec ton\nsens de l'humour affute, envoie Nelgel en\nenfer de rire !"
+    },
+    "8234": {
+        "「……ありゃりゃん。ここじゃ　長いこと\n　この姿のままで　いられないみたいね。": "…Oh la la. On dirait que je ne peux pas rester\nsous cette forme ici tres longtemps."
+    },
+    "8235": {
+        "「アタシのかわゆい　プリティフェイスが\n　見られなくなるのは　ショックだろうけど\n　気を落とさずに　がんばってね！": "Mon adorable petit visage ne pourra plus etre\nvu, ce qui est surement un choc pour toi, mais\nne te laisse pas abattre et continue de faire<br>de ton mieux !"
+    },
+    "8236": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8237": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8238": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8239": {
+        "「この鎖を生みだした　死者たちの怨念は\n　すべて　私が　引き受け\n　共に　天へと　連れていきましょう。　　": "Je vais absorber toute la rancoeur des defunts\nqui a cree ces chaines, et les emmener avec\nmoi au paradis."
+    },
+    "8240": {
+        "「……ですから　あなたは　必ずや　\n　ネルゲルを倒し　レンダーシアの封印を\n　解いてください。": "......C'est pourquoi vous devez absolument\nvaincre Nergel et lever le sceau de Lendashia."
+    },
+    "8241": {
+        "「そして　私の……": "Et ensuite, mon..."
+    },
+    "8242": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8243": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8244": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8245": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8246": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8247": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8248": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8249": {
+        "「この鎖を生みだした　死者たちの怨念は\n　すべて　私が　引き受け\n　共に　天へと　連れてまいりましょう。　　": "Je vais prendre sur moi toute la rancoeur des\nmorts qui a engendre ces chaines et les\nemmener avec moi au ciel."
+    },
+    "8250": {
+        "「……ですから　あなたは　必ずや　\n　ネルゲルを倒し　レンダーシアの封印を\n　解いてくださいまし。": "......C'est pourquoi vous devez absolument\nvaincre Nergel et lever le sceau de\nRendaashia."
+    },
+    "8251": {
+        "「そして　私の……": "Et ensuite, mon..."
+    },
+    "8252": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8253": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8254": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8255": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8256": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8257": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8258": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8259": {
+        "「この鎖を作ってる　死者たちの怨念は\n　オイラが　引き受けた。\n　一緒に　あの世に連れてってやんよ。　　": "Les rancunes des morts qui forgent cette\nchaine, je les ai acceptees. Je vais t'emmener\navec moi dans l'autre monde."
+    },
+    "8260": {
+        "「……だからよ　あんたは\n　絶対に　ネルゲルを倒して\n　レンダーシアの封印を　解いてくれよな。": "Alors... tu dois absolument vaincre Nelgel et\nbriser le sceau de Lendarsia."
+    },
+    "8261": {
+        "「それで　オイラの……": "Et donc, mon..."
+    },
+    "8262": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8263": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8264": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8265": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8266": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8267": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8268": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8269": {
+        "「この鎖を作ってる　死者たちの怨念は\n　あたしが　引き受けるよ。\n　一緒に　あの世に連れてくんだわ。　　": "Je vais prendre en charge la rancune des morts\nqui forment ces chaines. Je les emmenerai avec\nmoi dans l'au-dela."
+    },
+    "8270": {
+        "「……その代わり　あんたには\n　絶対に　ネルゲルを倒してもらって\n　レンダーシアの封印を　解いてほしいんだわ。": "En echange, je veux que tu battes absolument\nNergel et que tu leves le sceau de Lendersia."
+    },
+    "8271": {
+        "「そしたら　あたしの……": "Et ensuite, mon..."
+    },
+    "8272": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8273": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8274": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8275": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8276": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8277": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8278": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8279": {
+        "「この鎖を生みだした　死者たちの怨念は\n　オレに　まかせてくれ！\n　一緒に　あの世まで連れてってやる。　　": "Laisse-moi m'occuper de la rancoeur des morts\nqui a engendre ces chaines ! Je les emmenerai\navec moi jusqu'au monde des morts."
+    },
+    "8280": {
+        "「……だからよ　あんたには\n　ネルゲル退治を　まかせたぜ！\n　必ず　レンダーシアの封印を　解いてくれ！": "...C'est pourquoi je te confie la tache de\nvaincre Nelgel ! Assure-toi de briser le sceau\nde Lendashia !"
+    },
+    "8281": {
+        "「そして　オレの……": "Et puis, mon..."
+    },
+    "8282": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8283": {
+        "「だが　貴様ごときに\n　この我を倒せとは　片腹痛い。　": "Mais penser que quelqu'un comme toi pourrait\nme vaincre est ridicule."
+    },
+    "8284": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8285": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！　負けて、再びこのマップまで来ると、ＣＳ[冥王ネルゲル再戦前]が始まります。": "Et tous les etres vivants, sans exception,\nne peuvent echapper a la mort !!\n\n(Si vous perdez et revenez sur cette carte, la\nscene [Revanche contre le Roi des Enfers\nNergel] commencera.)"
+    },
+    "8286": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8287": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8288": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8289": {
+        "「この鎖を生みだした　死者たちの怨念は\n　アタシに　まかせてくれよ！\n　一緒に　あの世まで連れてってやる。　　": "Laisse-moi m'occuper de la rancune des morts\nqui ont cree ces chaines ! Je les emmenerai\navec moi dans l'au-dela."
+    },
+    "8290": {
+        "「……だからさ　あんたには\n　ネルゲルの退治を　まかせたよ！\n　必ず　レンダーシアの封印を　解いておくれ！": "Donc, je compte sur toi pour vaincre Nelgel !\nAssure-toi de briser le sceau de Rendarcia !"
+    },
+    "8291": {
+        "「そして　アタシの……": "Et ensuite, mon..."
+    },
+    "8292": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8293": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8294": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8295": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8296": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8297": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8298": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8299": {
+        "「この鎖を生みだした　死者たちの怨念は\n　僕が　引き受けた！\n　一緒に　あの世へ連れていくよ。　　": "Les rancunes des morts qui ont cree cette\nchaine, je les ai prises sur moi ! Je vais\nt'emmener dans l'autre monde avec moi."
+    },
+    "8300": {
+        "「……だから　君は　ネルゲルの方を。\n　必ず　ヤツを倒して　このアストルティアに\n　平和を　もたらしてくれよな！": "Donc, toi, occupe-toi de Nelgel. Assure-toi de\nle vaincre et d'apporter la paix a Astoltia !"
+    },
+    "8301": {
+        "「そして　レンダーシアで　僕の……": "Et puis, a Lendarsia, mon..."
+    },
+    "8302": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8303": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8304": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8305": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8306": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8307": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8308": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8309": {
+        "「この鎖を作ってる　死者さんの怨念は\n　私が　引き受けておくね。\n　一緒に　連れていってあげるよ。　　": "Je vais prendre sur moi la rancoeur des defunts\nqui forgent ces chaines. Je les emmenerai avec\nmoi."
+    },
+    "8310": {
+        "「……だから　君は　ネルゲルをよろしく！\n　必ず　アイツを倒して　アストルティアを\n　平和な世界にしちゃってよ！": "…Donc, je compte sur toi pour t'occuper de\nNelgel ! Assure-toi de le vaincre et de\ntransformer Astoltia en un monde paisible !"
+    },
+    "8311": {
+        "「そしたら　レンダーシアで　私の……": "Ensuite, sur Lendersia, mon..."
+    },
+    "8312": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8313": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8314": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8315": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！　": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8316": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8317": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8318": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8319": {
+        "「こんな　怨念で作られた鎖なんか\n　ボクにかかれば　チョチョイのチョイさ。\n　笑いのチカラで　浄化しちゃうよ。　　": "Une chaine forgee par une telle rancoeur ? Pour\nmoi, c'est un jeu d'enfant. Je vais la\npurifier avec le pouvoir du rire."
+    },
+    "8320": {
+        "「……だから　キミは　ネルゲルを倒すことに\n　集中するといいよ。\n　レンダーシアを　封印から解き放つんだ。": "Donc, tu devrais te concentrer sur la defaite\nde Nelgeru. Libere Lendashia de son sceau."
+    },
+    "8321": {
+        "「そして　レンダーシアで　ボクの……": "Et puis, a Lendarsia, mon..."
+    },
+    "8322": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8323": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8324": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8325": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8326": {
+        "「ようやく　ここまで　たどり着いたか。\n　待ちかねたぞ　エテーネの生き残りよ。": "Enfin, tu es arrive jusqu'ici. Je t'attendais,\nsurvivant d'Ethene."
+    },
+    "8327": {
+        "「この冥王に　己が魂を捧げるため\n　自ら　現れるとは　よい心がけよな。": "Ce n'est pas une mauvaise idee de venir offrir\nvolontairement ton ame au roi des tenebres."
+    },
+    "8328": {
+        "「その冥府の縛鎖は　死者たちの怨念で\n　編まれたもの。\n　生者には　決して　解くことはできぬ。": "Les chaines de l'Underworld sont tissees par\nle ressentiment des morts. Il est impossible\npour les vivants de les defaire."
+    },
+    "8329": {
+        "「こんな　怨念で作られた鎖なんか\n　アタシにかかれば　ポポイのポイね。\n　笑いのチカラで　浄化しちゃうわ。　　": "Une chaine forgee par une telle rancoeur ?\nLaisse-moi faire, je la reduirai en poussiere.\nAvec le pouvoir du rire, je vais la purifier."
+    },
+    "8330": {
+        "「……だから　キミは　ネルゲルを倒すことに\n　集中してよね。\n　レンダーシアを　封印から解き放ってよ。": "......C'est pourquoi, concentre-toi sur la\ndefaite de Nelgel. Libere Lendersia du sceau."
+    },
+    "8331": {
+        "「そして　レンダーシアで　アタシの……": "Et puis, sur Lendersia, mon..."
+    },
+    "8332": {
+        "「……よもや　霊魂が　我に逆らい\n　冥府の縛鎖さえも　解き放つとはな。\n　めずらしいものを　見せてもらった。　　": "Je n'aurais jamais cru qu'une ame puisse\ns'opposer a moi et meme briser les chaines de\nThe Underworld. C'est un spectacle rare que tu<br>m'as offert."
+    },
+    "8333": {
+        "「だが　貴様ごときが\n　この我を倒そうとは　片腹痛い。　": "Mais l'idee qu'un etre comme toi puisse me\nvaincre me fait rire."
+    },
+    "8334": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8335": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "8336": {
+        "「ふたたび　我に　魂を捧げるために\n　現われるとは　見上げた心がけよな。": "De nouveau, pour offrir ton ame a moi, P. Je\ndois dire, c'est une attitude admirable."
+    },
+    "8337": {
+        "「……それとも　今一度戦えば\n　我に　勝てるなどと思ったか？\n　だとすれば　思い上がりも　はなはだしい！": "...Ou bien pensais-tu qu'en m'affrontant a\nnouveau, tu pourrais me vaincre ? Si c'est le\ncas, quelle arrogance demesuree !"
+    },
+    "8338": {
+        "「冥王とは　あまねく　死を統べる者。": "Le Roi des Ombres est celui qui regne sur la\nmort universelle."
+    },
+    "8339": {
+        "「ぐぬををを……バ　バカなっ！\n　エテーネの生き残りごときが\n　この冥王に　ひざをつかせるなど……。": "ぐぬををを Ba-Baka naっ！ Qu'une simple survivante\nd'Ethene puisse faire plier le genou a ce Roi\ndes Tenebres..."
+    },
+    "8340": {
+        "「だが　まだ　倒れるわけにはいかぬっ！\n　我には　全世界を闇の封印に落とすという\n　大望があるのだ。　　　": "Mais je ne peux pas encore tomber ! J'ai une\ngrande ambition : plonger le monde entier dans\nle sceau des tenebres."
+    },
+    "8341": {
+        "「……大いなる闇の根源よ。\n　我にチカラを　与えたまえ！\n　供物として　この身を捧げようぞ！": "...O grande source des tenebres. Accorde-moi\nla puissance ! Je t'offre ce corps en\nsacrifice !"
+    },
+    "8342": {
+        "「ぐぬはぁぁぁ！！！": "Gnnnhaaa !!!"
+    },
+    "8343": {
+        "「見よっ　この強靭なる肉体をぉ！\n　この絶大なる魔力をぉ！": "Regarde ce corps puissant ! Et cette magie\nimmense !"
+    },
+    "8344": {
+        "「我は　冥獣王ネルゲル！！\n　すべての死を創りだしぃぃ\n　すべてを死に帰せし者ぉぉ。": "Je suis le Netherfiend Nergel !! Createur de\ntoutes les morts Celui qui ramene tout a la\nmort."
+    },
+    "8345": {
+        "「ゴオオォォォォ！！\n　我の前に　立つ者すべてにぃぃ\n　等しく　死を与えん！！": "Gooohhh !! A tous ceux qui se dressent devant\nmoi, j'apporterai la mort egale !!"
+    },
+    "8346": {
+        "「ガアアアァァァ……！！": "Gaaahhh......!!"
+    },
+    "8347": {
+        "「グッ……グハハハハ。\n　我を倒して　仇を討つことができて\n　満足か　エテーネの生き残りよ。": "Guh... Gwahahaha. Etes-vous satisfait d'avoir\npu me vaincre et venger les votres, survivants\nd'Ethene ?"
+    },
+    "8348": {
+        "「だが　我を倒しても　我を生みだせし\n　闇の根源が　絶たれたわけではない。": "Mais meme si vous me battez, la source des\ntenebres qui m'a engendre n'est pas encore\ndetruite."
+    },
+    "8349": {
+        "「いずれ　深き闇の根源より\n　さらなる災厄が　生まれ落ち\n　この世界に　滅びをもたらすだろう……。": "Un jour, des profondeurs de l'obscurite, une\ncalamite encore plus grande naitra et\napportera la ruine a ce monde..."
+    },
+    "8350": {
+        "「ついに　冥王ネルゲルを倒したのですね。": "Tu as enfin vaincu Netherlord Nergel."
+    },
+    "8351": {
+        "「この世界の　生きとし生ける者に代わって\n　お礼を言わせてもらいます。\n　ありがとう　エテーネの村の　<cs_pchero>。": "Au nom de tous les etres vivants de ce monde,\nje tiens a vous remercier. Merci, <cs_pchero>\ndu Village d'Ethene."
+    },
+    "8352": {
+        "「生前　私は　不思議な夢を見ました。\n　その夢の中で　私は　ある光景を見せられ\n　ひとつのお告げを　得たのです。": "De mon vivant, j'ai fait un reve etrange. Dans\nce reve, on m'a montre une certaine scene et\nj'ai recu une revelation."
+    },
+    "8353": {
+        "「その光景とは　エルフの暮らす大地の緑が\n　荒れ果て　やがて　すべて失われるという\n　恐ろしいものでした。": "Le spectacle etait terrifiant : la verdure de\nla terre ou vivent les Elfes se devastait,\npour finalement tout perdre."
+    },
+    "8354": {
+        "「そして　お告げは　私に道を示しました。\n　世界中に眠る　エルフの失われし呪文を\n　身につけることで　その危機を止めるようにと。": "Et ensuite, l'oracle m'a montre la voie. En\nmaitrisant les sorts perdus des Elfes qui\ndorment partout dans le monde, je pourrais<br>arreter cette menace."
+    },
+    "8355": {
+        "「目を覚ました私は　自分の使命を自覚し\n　苦労の末　ついに　失われし呪文をひとつ\n　見つけだしたのですが……": "Quand je me suis reveillee, j'ai pris\nconscience de ma mission. Apres bien des\nefforts, j'ai finalement reussi a trouver l'un<br>des sorts perdus, mais..."
+    },
+    "8356": {
+        "「呪文を復活させるのに　失敗し\n　その反動によって起こった衝撃で\n　命を　落としてしまったのです。": "J'ai echoue a restaurer le sortilege, et le\ncontrecoup de cet echec a provoque une onde de\nchoc qui m'a coute la vie."
+    },
+    "8357": {
+        "「思えば　あなたの魂が　乗りうつったのは\n　その直後のことでした。": "En y repensant, c'est peu apres que ton ame a\npris possession de moi."
+    },
+    "8358": {
+        "「私の心残りは　夢のお告げを\n　達成できなかったこと。\n　ですから　それを　あなたに託したいのです。": "Mon seul regret est de n'avoir pas pu\naccomplir la prophetie de mon reve. C'est\npourquoi je veux te confier cette mission."
+    },
+    "8359": {
+        "「どうか　レンダーシアへ渡り\n　私の姿を使って　失われし呪文を身につけ\n　大地が荒れ果てるのを　止めてください。　": "Je vous en prie, rendez-vous a Rendaashia,\nutilisez mon apparence pour maitriser les\nsorts perdus et empechez la terre de devenir<br>sterile."
+    },
+    "8360": {
+        "「……いけませんね。自分勝手な望みを\n　押しつけてしまって……。\n　どうするかは　あなたに　おまかせします。": "...... Ce n'est pas bien. Je vous ai impose\nmes desirs egoistes... Je vous laisse decider\nquoi faire."
+    },
+    "8361": {
+        "「とにかく　私の思いを伝えることができて\n　スッキリしました。\n　これで　安心して　眠りにつけます。　": "En tout cas, je me sens soulagee d'avoir pu\nexprimer mes sentiments. Maintenant, je peux\nm'endormir en paix."
+    },
+    "8362": {
+        "「ええ。今度こそ　本当にお別れです。\n　もちろん　私の姿は\n　これからも　自由に使ってください。": "Eh bien. Cette fois-ci, c'est vraiment un\nadieu. Bien sur, vous pouvez continuer a\nutiliser mon apparence librement."
+    },
+    "8363": {
+        "「さようなら　エテーネの村の　<cs_pchero>。\n　どうか　末永く　お元気で。": "Au revoir, <cs_pchero> du village d'Ethene.\nPrenez soin de vous et restez en bonne sante."
+    },
+    "8364": {
+        "「ついに　冥王ネルゲルを\n　倒してくださったのですね。": "Vous avez enfin vaincu Netherlord Nergel."
+    },
+    "8365": {
+        "「この世界の　生きとし生ける者に代わり\n　お礼を　言わせていただきましょう。\n　ありがとう　エテーネの村の　<cs_pchero>。": "Permettez-moi de vous remercier au nom de tous\nles etres vivants de ce monde. Merci,\n<cs_pchero> du village d'Ethene."
+    },
+    "8366": {
+        "「生前　私は　不思議な夢を見ました。\n　その夢の中で　私は　ある光景を見せられ\n　ひとつのお告げを　得たのです。": "De mon vivant, j'ai fait un reve etrange. Dans\nce reve, on m'a montre une certaine scene et\nj'ai recu une revelation."
+    },
+    "8367": {
+        "「その光景とは　エルフの暮らす大地の緑が\n　荒れ果て　やがて　すべて失われるという\n　恐ろしいものでしたわ。": "Ce spectacle etait terrifiant : la verdure de\nla terre ou vivent les Elfes se devastait et\nfinissait par tout perdre."
+    },
+    "8368": {
+        "「そして　お告げは　私に道を示しました。\n　世界中に眠る　エルフの失われし呪文を\n　身につけることで　その危機を止めるようにと。": "Et ensuite, l'oracle m'a montre la voie. En\nmaitrisant les sorts perdus des Elfes qui\ndorment partout dans le monde, je pourrais<br>arreter cette menace."
+    },
+    "8369": {
+        "「目を覚ました私は　自分の使命を自覚し\n　苦労の末　ついに　失われし呪文のひとつを\n　見つけだしたのですが……": "Lorsque je me suis reveille, j'ai pris\nconscience de ma mission. Apres bien des\nefforts, j'ai finalement reussi a retrouver<br>l'un des sorts perdus..."
+    },
+    "8370": {
+        "「呪文を復活させるのに　失敗し\n　その反動によって起こった衝撃で\n　命を　落としてしまったのです。": "J'ai echoue a restaurer le sortilege, et le\ncontrecoup de cet echec a provoque une onde de\nchoc qui m'a coute la vie."
+    },
+    "8371": {
+        "「思えば　あなたの魂が　乗りうつったのは\n　その直後のことでしたわね。": "En y repensant, c'est juste apres cela que ton\name a pris possession de moi."
+    },
+    "8372": {
+        "「私の心残りは　夢のお告げを\n　達成できなかったことなのですわ。\n　ですから　それを　あなたに託したいのです。": "Mon regret est de ne pas avoir pu accomplir la\nprophetie de mon reve. C'est pourquoi je\nsouhaite vous confier cette mission."
+    },
+    "8373": {
+        "「どうか　レンダーシアへ渡り\n　私の姿を使って　失われし呪文を身につけ\n　大地の荒廃を　止めてくださいまし。": "S'il vous plait, rendez-vous a Lendashia,\nutilisez mon apparence pour maitriser les\nsorts perdus et arretez la devastation de la<br>terre."
+    },
+    "8374": {
+        "「……いけませんわね。\n　無理強いするような言い方でしたわ。\n　記憶のすみにだけ　留めておいてください。": "......Ce n'etait pas bien, n'est-ce pas ? J'ai\nutilise un ton trop insistant. Veuillez\nsimplement garder cela au coin de votre<br>memoire."
+    },
+    "8375": {
+        "「とにかく　私の思いを伝えることができて\n　なんだか　ホッとしましたわ。\n　これで　安心して　眠りにつけます。": "En tout cas, je suis soulagee d'avoir pu\nexprimer mes sentiments. Je peux maintenant\nm'endormir paisiblement."
+    },
+    "8376": {
+        "「ええ。今度こそ　本当に　お別れです。\n　むろん　私の姿は　これからも\n　あなたに　おまかせしますわ。": "Oui. Cette fois-ci, c'est vraiment un adieu.\nBien sur, je compte sur vous pour prendre soin\nde mon apparence a l'avenir."
+    },
+    "8377": {
+        "「さようなら　エテーネの村の　<cs_pchero>。\n　どうか　末永く　お元気でいてください。": "Adieu, <cs_pchero> de Ethene Village. Prenez\nbien soin de vous pour longtemps."
+    },
+    "8378": {
+        "「とうとう　冥王ネルゲルの野郎を\n　倒してくれやがったな！": "Tu as enfin reussi a vaincre ce salaud de\nNetherlord Nergel !"
+    },
+    "8379": {
+        "「この世界の　みんなに代わって\n　礼を言わせてもらうぞ。\n　ありがとな　エテーネの村の　<cs_pchero>。": "Au nom de tout le monde dans ce monde, je\ntiens a te remercier. Merci beaucoup,\n<cs_pchero> du village d'Ethene."
+    },
+    "8380": {
+        "「じつは　あんたに　話があるんだ。\n　オイラは　孤児育ちだったんだけど　\n　一緒に育った　兄貴がいてよぅ。": "En fait, j'ai quelque chose a te dire. J'ai\ngrandi comme orphelin, mais j'avais un grand\nfrere avec qui j'ai ete eleve."
+    },
+    "8381": {
+        "「オイラと兄貴は　ガキの頃から\n　とにかく　地面を掘るのが　大好きで\n　あっちこっち　掘ってまわったもんさ。": "Moi et mon frere, depuis qu'on est gamins, on\nadore creuser la terre. On a creuse un peu\npartout."
+    },
+    "8382": {
+        "「兄貴は　よく　いつか　伝説のお宝を\n　掘りあてたいって言っててなぁ。\n　オイラも　気持ちはおんなじだったよ。": "Mon frere disait souvent qu'un jour, il\naimerait decouvrir un tresor legendaire. Moi\naussi, je ressentais la meme chose."
+    },
+    "8383": {
+        "「で　オイラたちは　その目的を果たすため\n　おたがいに　もっと　チカラをつけようと　\n　一度別れて　それぞれ修行を始めたんだ。": "Alors, pour atteindre cet objectif, nous avons\ndecide de nous separer temporairement afin de\ndevenir plus forts chacun de notre cote et<br>avons commence notre entrainement respectif."
+    },
+    "8384": {
+        "「兄貴は　レンダーシアに渡ってったし\n　オイラは　アグラニに　たどり着いて\n　鉱山掘りの手伝いをしてたんだよ。": "Mon frere est parti pour Rendaashia, et moi,\nje suis arrive a Agurani pour aider a creuser\ndans la mine."
+    },
+    "8385": {
+        "「その矢先だったな……\n　オイラが　落盤事故で死んじまって　\n　そこに　あんたの魂が　乗りうつったのは。": "C'etait a ce moment-la... Je suis mort dans\ncet effondrement, et c'est la que ton ame a\npris possession de mon corps."
+    },
+    "8386": {
+        "「だからよ　このままじゃ　オイラ\n　兄貴に会わせる顔が　ねえんだわ。": "Donc, tu vois, si ca continue comme ca, je\nn'aurai pas la face pour affronter mon grand\nfrere."
+    },
+    "8387": {
+        "「なあ　エテーネの村の　<cs_pchero>。\n　あんた　オイラに代わって　兄貴に会って\n　伝説のお宝探しに　協力してくれねえか？": "He, <cs_pchero> de Ethene Village. Est-ce que\ntu pourrais rencontrer mon grand frere a ma\nplace et l'aider a chercher le tresor<br>legendaire ?"
+    },
+    "8388": {
+        "「……っと　いけねえな。\n　これじゃあ　気持ちの押しつけだ。\n　今の話は　忘れてくれていいよ。": "…Ah, desole. C'etait un peu impose de ma part.\nOublie ce que je viens de dire."
+    },
+    "8389": {
+        "「まあ　なんにしても　オイラの心残りを\n　話すことができて　スッキリしたな。\n　これで　キッチリ　お別れも言えるよ。": "Eh bien, quoi qu'il en soit, je me sens\nsoulage d'avoir pu parler de ce qui pesait sur\nmon coeur. Je peux maintenant dire au revoir<br>sereinement."
+    },
+    "8390": {
+        "「ああ。今度こそ　ホントに最後だ。\n　ま　オイラの姿は　これからもずっと\n　あんたと　一緒だけどな。": "Ah. Cette fois, c'est vraiment la fin. Mais\nbon, ma presence sera toujours avec toi."
+    },
+    "8391": {
+        "「じゃあな　エテーネの村の　<cs_pchero>。\n　時々は　オイラのこと　思いだしてくれよ！　": "A plus tard, <cs_pchero> du Village d'Ethene.\nDe temps en temps, pense a moi !"
+    },
+    "8392": {
+        "「とうとう　冥王ネルゲルを\n　やっつけてくれたねぇ！": "Enfin, tu as reussi a vaincre Netherlord\nNergel !"
+    },
+    "8393": {
+        "「この世界の　みんなに代わって\n　あたしが　礼を言わせてもらうわ。\n　あんがとね　エテーネの村の　<cs_pchero>。": "Au nom de tous dans ce monde, je tiens a te\nremercier. Merci, <cs_pchero>, du village\nd'Ethene."
+    },
+    "8394": {
+        "「じつは　ちょっと　話があってね。　\n　あたしって　孤児だったんだけど　\n　一緒に育った　兄ちゃんが　いるんだよ。": "En fait, j'ai quelque chose a te dire. Je suis\norpheline, mais j'ai un grand frere avec qui\nj'ai grandi."
+    },
+    "8395": {
+        "「兄ちゃんとあたしは　チビの頃から\n　とにかく　地面を掘るのが　大好きでさ。\n　あっちこっちを　掘ってまわったもんだわ。": "Mon frere et moi, depuis qu'on est tout\npetits, on adore creuser la terre. On passait\nnotre temps a creuser ici et la."
+    },
+    "8396": {
+        "「兄ちゃんは　よく　いつか　伝説のお宝を　　\n　掘りあてるんだって言っててなぁ。\n　あたしも　気持ちは同じだったよ。": "Mon frere disait souvent qu'un jour, il\ndecouvrirait un tresor legendaire. Moi aussi,\nje ressentais la meme chose."
+    },
+    "8397": {
+        "「で　あたしたちは　その目的を果たすため\n　おたがいに　もっと　チカラをつけようと　\n　別れて　それぞれに修行を始めたんだわ。": "Et donc, pour accomplir cet objectif, nous\navons decide de nous separer et de commencer\nchacun notre propre entrainement afin de<br>devenir plus forts."
+    },
+    "8398": {
+        "「兄ちゃんは　レンダーシアに渡り\n　あたしは　アグラニに　たどり着いて\n　鉱山掘りの手伝いをしてたんだっけ。": "Mon frere est parti pour Lendersia, et moi,\nj'ai reussi a atteindre Agrani. Je me souviens\nque j'aidais a la mine."
+    },
+    "8399": {
+        "「その矢先だったね……\n　あたしが　落盤事故で死んじまって　\n　そこに　あんたの魂が　乗りうつったのは。": "C'est a ce moment-la... que je suis morte dans\ncet eboulement, et que ton ame s'est emparee\nde mon corps."
+    },
+    "8400": {
+        "「だからさ　このままじゃ　あたし\n　兄ちゃんに会わせる顔が　ないんだわ。": "Donc, comme ca, je ne peux pas affronter mon\nfrere."
+    },
+    "8401": {
+        "「なあ　エテーネの村の　<cs_pchero>。\n　あんた　あたしに代わって　兄ちゃんの\n　伝説のお宝探しに　協力してくれない？": "He, <cs_pchero> de Ethene Village. Tu ne\nvoudrais pas m'aider en remplacant mon frere\npour chercher le tresor legendaire ?"
+    },
+    "8402": {
+        "「……いや　答えなくていいわ。\n　あたしの話を聞いて　どうするかは\n　あんたの判断に　まかせるよ。": "...... Non, tu n'as pas besoin de repondre.\nEcoute simplement ce que j'ai a dire, et je te\nlaisse decider quoi faire."
+    },
+    "8403": {
+        "「まあ　なんにしても　あたしの心残りを\n　話すことができて　スッキリしたわ。\n　これで　キッチリ　お別れも言えるよ。": "Enfin, peu importe, je suis soulagee d'avoir\npu parler de ce qui me tenait a coeur.\nMaintenant, je peux te dire adieu en toute<br>serenite."
+    },
+    "8404": {
+        "「うん。今度こそ　ホントに最後なんだわ。\n　ま　あたしの姿は　これからもずっと\n　あんたと　一緒だけどなぁ。": "Oui. Cette fois, c'est vraiment la fin. Mais\nbon, ma presence restera toujours avec toi."
+    },
+    "8405": {
+        "「じゃあね　エテーネの村の　<cs_pchero>。\n　時々は　あたしのことも\n　思いだしてほしいのだわ。　": "Au revoir, <cs_pchero> de Ethene Village. De\ntemps en temps, j'aimerais que tu penses a moi\naussi."
+    },
+    "8406": {
+        "「ついに　やったな！\n　本当に　冥王ネルゲルの野郎を\n　ブッ倒してくれやがった！": "Tu l'as enfin fait ! Tu as vraiment reussi a\nterrasser ce salaud de Netherlord Nergel !"
+    },
+    "8407": {
+        "「ありがとな　エテーネの村の　<cs_pchero>。\n　幽霊のオレが言うのも　変な感じだが\n　みんなに代わって　礼を言わせてもらうぜ。": "Merci, <cs_pchero> de Ethene Village. C'est un\npeu etrange venant d'un fantome comme moi,\nmais je tiens a te remercier de la part de<br>tout le monde."
+    },
+    "8408": {
+        "「……オレ　あんたに　どうしても\n　話しておきたいことが　あったんだ。": "Il y a quelque chose que je tenais absolument\na te dire."
+    },
+    "8409": {
+        "「じつは　オレ　レンダーシアの出身でな。\n　ランガーオ村に　流れてきたのには\n　それなりに　ワケがあるんだ。": "En fait, je suis originaire de Rendarcia. Il y\na une raison pour laquelle je suis arrive\njusqu'au village de Langao."
+    },
+    "8410": {
+        "「レンダーシアのとある村で　平和に暮らしてた\n　オレの家族は　ある日　赤マントをまとう\n　謎の集団に　おそわれたんだ。": "Dans un certain village de Lendasia, ou nous\nvivions paisiblement, ma famille a ete\nattaquee un jour par un mysterieux groupe vetu<br>de capes rouges."
+    },
+    "8411": {
+        "「オヤジは　そいつらの首領に殺され\n　オフクロは　逃げる途中　負ったケガが元で\n　命を落とすことになった……。": "Mon pere a ete tue par le chef de ces\nindividus, et ma mere, blessee en fuyant, a\nperdu la vie..."
+    },
+    "8412": {
+        "「赤マントの一団に　仇討ちを誓ったオレは\n　ランガーオ村で　修行に打ち込んでいたんだが\n　あいにく　戦いの才能が　なくってな。": "Je m'etais jure de venger mes ennemis, ces\nhommes a la cape rouge, et je me suis consacre\na l'entrainement dans le village de Langao.<br>Mais malheureusement, je n'avais aucun talent\npour le combat."
+    },
+    "8413": {
+        "「なかなか強くなれず　あせって\n　無理な修行を続けるうちに\n　とうとう　おっ死んじまった。　": "Je n'arrivais pas a devenir plus fort et, en\nm'entrainant de maniere imprudente avec\nimpatience, j'ai fini par mourir."
+    },
+    "8414": {
+        "「あんたの魂が　オレの姿に乗りうつったのは\n　そんなときだったんだ。": "C'est a ce moment-la que ton ame s'est\nincarnee en moi."
+    },
+    "8415": {
+        "「なあ　これも　何かの縁だ。\n　オレの代わりに　レンダーシアに渡り　\n　仇討ちを　果たしちゃくれないか？　": "Eh bien, c'est peut-etre le destin.\nPourrais-tu te rendre a Rendaashia a ma place\net venger notre cause ?"
+    },
+    "8416": {
+        "「……いや。返事はしなくていい。\n　オレは　消えていく存在だからな。\n　どうするかは　あんたに　まかせるよ。": "... Non, pas besoin de repondre. Je suis une\nexistence vouee a disparaitre, apres tout. Je\nte laisse decider quoi faire."
+    },
+    "8417": {
+        "「なんにしても　話を聞いてもらえて\n　よかったよ。\n　ちょっとした　心残りだったんだ。": "En tout cas, je suis content d'avoir pu te\nparler. C'etait un petit poids sur le coeur."
+    },
+    "8418": {
+        "「……じゃあ　今度こそ　お別れだ。\n　ああ　オレの姿のほうは　これからも\n　自由に　使ってくれていいからな。": "…Alors, cette fois, c'est vraiment un adieu.\nAh, tu peux continuer a utiliser mon apparence\nlibrement a partir de maintenant."
+    },
+    "8419": {
+        "「いろいろと　世話になったな\n　エテーネの村の　<cs_pchero>。\n　あんたは　せいぜい長生きしてくれよ！　": "Je te suis vraiment reconnaissant pour tout,\n<cs_pchero> du Village d'Ethene. Fais de ton\nmieux pour vivre longtemps !"
+    },
+    "8420": {
+        "「とうとう　やってくれたね！\n　冥王ネルゲルを　倒しちゃうなんて\n　あんた　ホントに　大したもんだよ。": "とうとうやってくれたね！ Netherlord Nergelを倒しちゃうなんて\nあんたホントに大したもんだよ"
+    },
+    "8421": {
+        "「幽霊のアタシが　言うのもなんだけど\n　みんなに代わって　礼を言わせてもらうよ。\n　ありがとう　エテーネの村の　<cs_pchero>。　": "Je suis peut-etre un fantome pour dire ca,\nmais je vais te remercier au nom de tout le\nmonde. Merci, <cs_pchero>, de la part d'Ethene<br>Village."
+    },
+    "8422": {
+        "「……アタシ　あんたには　どうしても\n　話しておきたいことが　あったんだ。": "Je tenais absolument a te parler de quelque\nchose."
+    },
+    "8423": {
+        "「じつは　アタシ　レンダーシアの出身でね。\n　ランガーオ村に　流れてきたのには\n　それなりに　ワケがあるんだよ。": "En realite, je viens de Rendaashia. J'ai mes\nraisons pour etre arrivee ici, au village de\nLangao."
+    },
+    "8424": {
+        "「レンダーシアのとある村で　平和に暮らしてた\n　アタシたち家族は　ある日　赤マントをまとう\n　謎の集団に　おそわれたんだ。": "Dans un certain village de Rendaashia, ou nous\nvivions paisiblement, ma famille et moi avons\nete attaques un jour par un mysterieux groupe<br>portant des capes rouges."
+    },
+    "8425": {
+        "「父さんは　そいつらの首領に殺され\n　母さんは　逃げる途中　負ったケガが\n　悪化しちまって　そのまま……。": "Mon pere a ete tue par leur chef, et ma mere,\nen tentant de fuir, a vu sa blessure\ns'aggraver, et elle est partie ainsi..."
+    },
+    "8426": {
+        "「赤マントの一団に　仇討ちを誓ったアタシは\n　ランガーオ村で　修行に打ち込んでいたんだけど\n　どうにも　戦いの才能が　欠けてたみたいでね。": "J'ai jure de me venger du groupe a la cape\nrouge, alors je me suis consacree a\nl'entrainement au village de Langao. Mais il<br>semble que je manque de talent pour le combat."
+    },
+    "8427": {
+        "「なかなか強くなれないで　あせって\n　無理な修行を続けるうちに\n　とうとう　命を落としちまったよ。　": "Je n'arrivais pas a devenir plus fort, et dans\nma precipitation, j'ai continue un\nentrainement impossible... Jusqu'a ce que je<br>perde finalement la vie."
+    },
+    "8428": {
+        "「あんたの魂が　アタシの姿に乗りうつったのは\n　まさに　そのときだったんだ。": "C'est a ce moment precis que ton ame s'est\nincarnee en moi."
+    },
+    "8429": {
+        "「……ねえ　これも　何かの縁だし\n　アタシの代わりに　レンダーシアに渡って　\n　仇討ちを　果たしてくれないか？": "Ecoute, c'est peut-etre le destin qui nous a\nreunis. Peux-tu te rendre a Rendashia a ma\nplace et venger ce qui doit l'etre ?"
+    },
+    "8430": {
+        "「……いや。返事はしなくていいよ。\n　アタシは　消えていく存在だからね。\n　どうするかは　あんたに　まかせるさ。": "Non, tu n'as pas besoin de repondre. Je suis\nune existence qui est destinee a disparaitre,\ntu sais. La decision te revient."
+    },
+    "8431": {
+        "「なんにしても　話を聞いてもらえて\n　よかったよ。\n　ちょっとばかり　心残りだったんだ。": "Quoi qu'il en soit, je suis content que tu\naies ecoute mon histoire. Ca me pesait un peu\nsur le coeur."
+    },
+    "8432": {
+        "「じゃあ　今度こそ　お別れだね。\n　ああ。アタシの姿のことは　これからも\n　あんたに　まかせておくから。": "Alors, cette fois, c'est vraiment un adieu.\nAh. Je te laisse continuer a te charger de mon\napparence."
+    },
+    "8433": {
+        "「いろいろと世話に　なっちまったね\n　エテーネ村の　<cs_pchero>。\n　あんたは　せいぜい長生きしてくれよ！　": "Je te suis vraiment reconnaissant pour tout ce\nque tu as fait pour moi, <cs_pchero> du\nvillage d'Ethene. Fais en sorte de vivre<br>longtemps !"
+    },
+    "8434": {
+        "「ついに　やってくれたね！\n　ホントに　冥王ネルゲルを倒せるなんて\n　今も　信じられないよ！": "Tu l'as finalement fait ! Je n'arrive toujours\npas a croire que tu as vraiment pu vaincre\nNetherlord Nergel !"
+    },
+    "8435": {
+        "「この世界の　すべての民に代わって\n　お礼を言わせてもらうよ！\n　ありがとう　エテーネの村の　<cs_pchero>。": "Au nom de tous les habitants de ce monde, je\ntiens a te remercier ! Merci, <cs_pchero> du\nvillage d'Ethene."
+    },
+    "8436": {
+        "「じつは　僕　どうしても　君に\n　話しておきたいことが　あったんだよ。": "En fait, il y a quelque chose que je voulais\nabsolument te dire."
+    },
+    "8437": {
+        "「僕が　幼い頃に　レーンの村に流れ着き\n　フィーヤ孤児院で　育てられたのは\n　君も　よく知ってることだろ？": "Quand j'etais petit, j'ai echoue au village de\nLen et j'ai ete eleve a l'orphelinat Fiya, tu\nle sais bien, n'est-ce pas ?"
+    },
+    "8438": {
+        "「だから　僕は　一人前の証を手に入れて\n　本当の両親を探す旅に　出ようとしたんだけど\n　その矢先に　死んじゃったんだよね。": "Donc, j'ai voulu obtenir la preuve que j'etais\ndevenu un adulte pour partir a la recherche de\nmes vrais parents, mais c'est a ce moment-la<br>que je suis mort."
+    },
+    "8439": {
+        "「手がかりは　記憶の中にある　大きな城と \n　両親が　何かの研究者であるらしいこと。\n　……だけど　もうひとつ　思いだしたんだ！": "Les indices sont un grand chateau grave dans\nma memoire et le fait que mes parents\nsemblaient etre des chercheurs.<br>…Mais je viens de me souvenir d’autre chose !"
+    },
+    "8440": {
+        "「幼い時の記憶だから　おぼろげだけど……\n　その城では　僕たち親子以外\n　周りにいるのは　人間ばかりだったんだ。": "C'est un souvenir flou de mon enfance, mais...\nDans ce chateau, a part ma famille et moi, il\nn'y avait que des humains autour de nous."
+    },
+    "8441": {
+        "「つまり　その城がある場所は\n　人間たちが暮らす大地　レンダーシアである\n　可能性が　高いってことさ！": "Autrement dit, il est fort probable que ce\nchateau se trouve dans la terre des humains,\nRendashia !"
+    },
+    "8442": {
+        "「お願いだ　エテーネの村の　<cs_pchero>。\n　死んだ僕に代わって　レンダーシアに渡り\n　僕の両親を　見つけだしてくれないか？": "Je t'en prie, <cs_pchero> du village d'Ethene.\nA ma place, traverse jusqu'a Lendarsia et\nretrouve mes parents, s'il te plait."
+    },
+    "8443": {
+        "「自分が死んでるのに　親を探してほしいなんて\n　おかしなことを頼むと　思ってるんだろ？\n　僕だって　そう思うからね。": "Meme si je suis mort, tu dois penser que c'est\netrange de demander a chercher mes parents,\nn'est-ce pas ? Moi aussi, je trouve ca<br>bizarre."
+    },
+    "8444": {
+        "「でも　予感がするんだよ！\n　僕の両親は　何か　とんでもないトラブルに\n　巻き込まれて　僕を手放したんだって……。": "Mais j'ai un pressentiment ! Mes parents ont\nete entraines dans un terrible probleme et ont\ndu m'abandonner..."
+    },
+    "8445": {
+        "「だから　両親を見つけることができたら\n　そのトラブルから　ふたりを救ってほしいんだ。\n　君の実力なら　それくらい　朝メシ前だろ？": "Donc, si tu pouvais retrouver mes parents,\nj'aimerais que tu les sauves de ce probleme.\nAvec tes competences, c'est un jeu d'enfant,<br>non ?"
+    },
+    "8446": {
+        "「……いや。返事はいいよ。\n　僕は　このまま　消えていく存在。\n　この先どうするかは　生者に　まかせるさ。": "Non. Pas besoin de reponse. Je suis une\nexistence vouee a disparaitre. Je laisse le\nchoix aux vivants de decider de la suite."
+    },
+    "8447": {
+        "「まあ　とにかく　君に　僕の事情を\n　話すことができて　スッキリしたよ。\n　正直　心残りだったんだ。": "Enfin, de toute facon, ca m'a fait du bien de\npouvoir te parler de ma situation. Pour etre\nhonnete, ca me pesait sur le coeur."
+    },
+    "8448": {
+        "「……さて　それじゃあ　今度こそ\n　本当に　お別れだ。もちろん　僕の姿は\n　これからも　自由に使って　いいからね。　": "...Eh bien, cette fois-ci, c'est vraiment un\nadieu. Bien sur, tu pourras continuer a\nutiliser librement mon apparence a partir de<br>maintenant."
+    },
+    "8449": {
+        "「さようなら　もうひとりの　<cs_pchero>！\n　君と出会えて　本当に　よかったよ。　": "Adieu, mon autre <cs_pchero> ! Je suis\nvraiment heureux de t'avoir rencontre."
+    },
+    "8450": {
+        "「うは～　あなたってば　やるぅ！\n　ホントに　冥王ネルゲルを倒しちゃうなんて\n　今でも　信じられないよ！": "Oh la la, tu es incroyable ! Je n'arrive\ntoujours pas a croire que tu as vraiment\nvaincu Netherlord Nergel !"
+    },
+    "8451": {
+        "「世界中の　みんなに代わって\n　お礼を言わせてもらうね！\n　ありがとう　エテーネの村の　<cs_pchero>。": "Je te remercie au nom de tout le monde dans le\nmonde entier ! Merci, <cs_pchero> du Village\nd'Ethene."
+    },
+    "8452": {
+        "「じつは　私　どうしても　あなたに\n　話しておきたいことが　あったんだ。": "En fait, il y a quelque chose dont je voulais\nabsolument te parler."
+    },
+    "8453": {
+        "「私が　幼い頃に　レーンの村に流れ着き\n　フィーヤ孤児院で　育てられたのは\n　あなたも　知ってることだよね。": "Quand j'etais enfant, je me suis echouee dans\nle village de Lene et j'ai ete elevee a\nl'orphelinat Fiya. Tu le sais, n'est-ce pas ?"
+    },
+    "8454": {
+        "「だから　私　一人前の証を手に入れて\n　パパとママを探す旅に　出ようとしたんだけど\n　その初っ端に　死んじゃったんだよね。": "Alors, j'ai essaye d'obtenir la preuve que je\nsuis devenue adulte et je voulais partir a\nl'aventure pour retrouver papa et maman, mais<br>des le debut... je suis morte."
+    },
+    "8455": {
+        "「手がかりは　記憶の中にある　大きな城と \n　パパとママが　何かの研究者だったこと。\n　……でも　もうひとつ　思いだしたんだよ！": "Les indices se trouvent dans mes souvenirs :\nun grand chateau et le fait que papa et maman\netaient chercheurs dans quelque domaine.<br>...Mais je me suis souvenu d'une autre chose !"
+    },
+    "8456": {
+        "「幼い時の記憶だから　ボンヤリだけど……\n　その城では　私とパパとママ以外\n　周りにいるのは　人間ばかりだったの。": "C'est un souvenir de mon enfance, donc c'est\nun peu flou... Mais dans ce chateau, a part\npapa, maman et moi, il n'y avait que des<br>humains autour de nous."
+    },
+    "8457": {
+        "「よーするに　お城がある場所は\n　人間たちが暮らす大地　レンダーシアだった\n　可能性が　高いってことなのよ！": "En gros, l'endroit ou se trouve le chateau a\nde grandes chances d'etre sur le continent ou\nvivent les humains, Rendasia !"
+    },
+    "8458": {
+        "「お願い　エテーネの村の　<cs_pchero>！\n　可哀想な私の代わりに　レンダーシアに渡って\n　パパとママを　見つけだしてくれない？": "S'il te plait, <cs_pchero> du village d'Ethene\n! Pourrais-tu traverser vers Lendashia a ma\nplace et retrouver mon papa et ma maman ?"
+    },
+    "8459": {
+        "「自分が死んでるのに　親を探してほしいなんて\n　おかしなこと言ってると　思うかもだけどさ。\n　どーしても　気になっちゃうんだよー。": "Meme si je suis mort, tu pourrais penser que\nc'est etrange de te demander de chercher mes\nparents. Mais ca me preoccupe vraiment."
+    },
+    "8460": {
+        "「私のパパとママ……\n　何か　とんでもないトラブルに巻き込まれて\n　私を手放したんだと　思うんだ。": "Mon papa et ma maman... Je pense qu'ils ont\nete impliques dans un probleme incroyable, et\nont du se separer de moi."
+    },
+    "8461": {
+        "「だから　パパとママを見つけられたら\n　そのトラブルから　ふたりを救ってほしいの。\n　あなたなら　それくらい　カンタンでしょ？": "Donc, si tu arrives a retrouver Papa et Maman,\nj'aimerais que tu les sauves de ce probleme.\nPour toi, ce serait facile, n'est-ce pas ?"
+    },
+    "8462": {
+        "「……あー　返事はいいや。\n　私　このまま　消えちゃう存在だからさ。\n　実際どうするかは　あなたに　まかせるよ。": "Ah, pas besoin de reponse. Je suis destinee a\ndisparaitre de toute facon. Je te laisse\ndecider de ce que tu veux reellement faire."
+    },
+    "8463": {
+        "「とにかく　私の込み入った事情を\n　話せて　スッキリしちゃった。\n　正直　心残りだったんだよー。": "En tout cas, ca m'a vraiment soulagee de\npouvoir parler de mes affaires compliquees.\nHonnetement, ca me pesait sur le coeur."
+    },
+    "8464": {
+        "「……それじゃ　今度こそ　本当にお別れだね。\n　でも　私の姿は　これからも\n　ずっと　一緒だから　忘れないでよ。　　": "...... Alors, cette fois-ci, c'est vraiment un\nadieu. Mais n'oublie pas, je resterai toujours\navec toi."
+    },
+    "8465": {
+        "「じゃあね　もうひとりの　<cs_pchero>！\n　あなたに出会えて　私　うれしかったよ。　": "Au revoir, <cs_pchero> ! J'ai ete heureuse de\nte rencontrer."
+    },
+    "8466": {
+        "「いやもう　冥王ネルゲルを倒すなんて\n　最初は　どんな玉砕ギャグかと思ってたけど\n　ホントに　やっちゃうなんてなぁ。": "Je n'y croyais pas au debut, je pensais que\nc'etait une blague absurde de vouloir vaincre\nNetherlord Nergel, mais tu l'as vraiment fait."
+    },
+    "8467": {
+        "「これはこれで　意外性があって面白かったよ。\n　笑いの極意は　相手の予想を\n　プイっと　裏切ることだからね。": "C'etait surprenant et interessant a sa\nmaniere. L'essence de l'humour reside dans le\nfait de dejouer les attentes des autres."
+    },
+    "8468": {
+        "「ギャラリーがいないのが　残念だけど\n　その分　このボクが　ほめてあげるよ。": "C'est dommage qu'il n'y ait pas de public,\nmais en echange, je vais te feliciter\nmoi-meme."
+    },
+    "8469": {
+        "「ブラボー！　すばらしいよ！\n　エテーネの村の　<cs_pchero>。": "Bravo ! C'est merveilleux ! Heros de Ethene\nVillage, <cs_pchero>."
+    },
+    "8470": {
+        "「……なーんて　じつは　どーしても\n　キミに　伝えておきたいことがあってね。\n　それで　ちょっと　戻ってきたんだ。": "…En fait, il y a quelque chose que je voulais\nabsolument te dire. C'est pour ca que je suis\nrevenu un moment."
+    },
+    "8471": {
+        "「ボクには　ひとつの夢がある！\n　それは　アストルティア最大の役者の祭典\n　ワールド演芸グランプリで　優勝することだ！　": "J'ai un reve ! C'est de remporter le grand\nfestival des acteurs d'Astoltia, le celebre\nLudo Performances Grand Prix !"
+    },
+    "8472": {
+        "「ワールド演芸グランプリは\n　あこがれのプクリポ名優　パノン師匠が\n　全盛期の時でさえ　準優勝だった大会なんだ。": "Le Grand Prix des Arts de la Scene de Ludo est\nun tournoi ou meme le maitre Tom Foolery,\nl'acteur de renom Pukulipo, n'a atteint que la<br>deuxieme place a l'apogee de sa carriere."
+    },
+    "8473": {
+        "「でも　いくら　ボクが　演技の天才でも\n　今のままじゃ　予選落ちするのが\n　関の山だってことも　わかってるんだ。": "Mais, meme si je suis un genie de l'art\ndramatique, je sais tres bien qu'avec mon\nniveau actuel, je ne passerai meme pas les<br>qualifications."
+    },
+    "8474": {
+        "「海千山千の出場者たちに　勝つためには\n　明らかに　経験値が不足してる。\n　もっともっと　勉強しないと……。": "Pour vaincre ces participants aguerris, il est\nevident que notre experience est insuffisante.\nNous devons etudier bien plus encore..."
+    },
+    "8475": {
+        "「そのためには　レンダーシアに伝わる\n　伝説の『アクター極意書全５巻』を手に入れて\n　実力を　つけなくちゃいけないんだ。": "Pour cela, je dois me procurer les cinq\nvolumes legendaires du Manuel Ultime de\nl'Acteur transmis a Lendarsia et renforcer mes<br>competences."
+    },
+    "8476": {
+        "「……で　ものは相談なんだけど\n　死んじゃって　夢を果たせなくなった\n　ボクの代わりに　キミ　やってくれない？": "... Eh bien, j'ai une proposition a te faire.\nJe suis mort et je n'ai pas pu realiser mon\nreve. Est-ce que tu pourrais le faire a ma<br>place ?"
+    },
+    "8477": {
+        "「ああ　返事は　しなくてもいいよ。\n　キミの気持ちは　よーくわかってるから。": "Ah, tu n'as pas besoin de repondre. Je\ncomprends tres bien ce que tu ressens."
+    },
+    "8478": {
+        "「まあ　なんにせよ　伝えたいことを\n　伝えたら　満足しちゃったな。\n　これでもう　心残りは　ないや。　": "Eh bien, quoi qu'il en soit, je suis satisfait\nd'avoir transmis ce que je voulais dire. Je\nn'ai plus aucun regret maintenant."
+    },
+    "8479": {
+        "「……さて　そろそろ　幕引きだ。\n　出番が終わっても　ステージに出続けるのは\n　スマートじゃないからね。": "Bon, il est temps de tirer le rideau. Rester\nsur scene apres le final, ce n'est pas tres\nelegant, n'est-ce pas ?"
+    },
+    "8480": {
+        "「ああ。ボクの姿は　これまで通り\n　キミに　あずけとくよ。\n　使用料も　負けておいてあげるし。": "Ah. Je vais continuer a te confier mon\napparence comme avant. Je te ferai meme une\nremise sur les frais d'utilisation."
+    },
+    "8481": {
+        "「それじゃあ　サラバだ　<cs_pchero>。\n　キミのこれからの人生が　笑いに\n　彩られたものであることを　祈ってる！　　": "Alors, adieu, <cs_pchero>. Je prie pour que le\nreste de ta vie soit pare de rires !"
+    },
+    "8482": {
+        "「冥王ネルゲルを倒すとか　言いだして\n　最初は　夢見がちな人かと　思ったんだけど\n　ホントに　やっちゃうなんてねぇ。": "Au debut, je pensais que c'etait une personne\nun peu reveuse qui disait vouloir vaincre le\nNetherlord Nergel, mais il l'a vraiment fait."
+    },
+    "8483": {
+        "「これはこれで　新しい芸風として\n　成立してるのかも……？\n　うーん　役者の道は　奥が深いわぁ。": "C'est peut-etre une nouvelle forme d'art qui\nse tient en soi... Hmm, la voie de l'acteur\nest vraiment profonde."
+    },
+    "8484": {
+        "「とにかく　誰も見てなくて　かわいそうだから\n　せめて　アタシが　ほめてあげるよ！": "En tout cas, personne ne te regarde et c'est\ndommage, alors au moins, je vais te feliciter\n!"
+    },
+    "8485": {
+        "「よっ！　エテーネの村の　<cs_pchero>。\n　えらいっ！　アンタ　最高っ！！　　": "Yo ! <cs_pchero> du village d'Ethene. Bravo !\nTu es genial !!"
+    },
+    "8486": {
+        "「それはさておき　じつは　どーしても\n　キミに　伝えておきたいことがあってさ。\n　それで　ちょっと　戻ってきたんだ。": "Cela dit, en fait, il y a quelque chose que je\ntenais absolument a te dire. C'est pour ca que\nje suis revenu un moment."
+    },
+    "8487": {
+        "「アタシには　ひとつの夢があってね。\n　そ・れ・は……　レンダーシアで開催される\n　ワールド演芸グランプリで　優勝すること<heart>": "J'ai un reve, tu sais. Ce reve, c'est de\nremporter le Grand Prix de l'art du spectacle\nde Ludo qui se tient a Lendashia<heart>"
+    },
+    "8488": {
+        "「キャー　言っちゃった！　言っちゃった！\n　夢とか語っちゃって　ハズカシー！": "Kyaa ! Je l'ai dit ! Je l'ai dit ! Parler de\nmes reves comme ca, c'est tellement\nembarrassant !"
+    },
+    "8489": {
+        "「……なんで　優勝を目指してるかって？\n　そりゃあ　あこがれのプクリポ名優\n　パノン様が　優勝を逃がした大会だからよ。　": "...Pourquoi viser la victoire, tu demandes ?\nEh bien, c'est parce que le celebre acteur de\nPukulipo, Tom Foolery-sama, a rate la victoire<br>lors de ce tournoi."
+    },
+    "8490": {
+        "「こうなったら　アタシが　優勝して\n　パノン様の仇討ちを　果たすしかないでしょ！": "Dans ce cas, je n'ai pas d'autre choix que de\nremporter la victoire pour venger Tom\nFoolery-sama !"
+    },
+    "8491": {
+        "「でも　いくら　アタシが　イケてても\n　今のままじゃ　予選も通らないってのは\n　わかってるんだ。": "Mais meme si je suis au top, je sais bien\nqu'avec mon niveau actuel, je ne passerai pas\nles qualifications."
+    },
+    "8492": {
+        "「センスだけの演技って　結局　浅いのよね。\n　ワールドクラスで勝つには　経験と知識に\n　裏打ちされた演技が　必要なのよ！": "La performance basee uniquement sur le style\nde Sen est finalement superficielle. Pour\ngagner dans la classe WarLudo, il est<br>necessaire d'avoir une prestation soutenue par\nl'experience et la connaissance !"
+    },
+    "8493": {
+        "「それには　レンダーシアに伝わる\n　伝説の『アクター極意書全５巻』を手に入れて\n　実力を　つけなくちゃいけないの。": "Pour cela, tu dois te procurer les cinq\nvolumes du legendaire Guide ultime des acteurs\ntransmis a Lendashia pour renforcer tes<br>competences."
+    },
+    "8494": {
+        "「……で　ものは相談なんだけどさ。\n　死んじゃって　夢を果たせなくなった\n　アタシの代わりに　キミ　やってくれない？": "…Alors, j'ai une proposition a te faire. Je\nsuis morte et je ne peux plus realiser mon\nreve. Est-ce que tu pourrais le faire a ma<br>place ?"
+    },
+    "8495": {
+        "「ああ　返事は　しなくてもいいよ。\n　キミの気持ちは　よーくわかってるから。": "Ah, tu n'as pas besoin de repondre. Je\ncomprends tres bien ce que tu ressens."
+    },
+    "8496": {
+        "「ってゆーか　言いたいことを言ったら\n　満足しちゃったな。\n　これでもう　心残りはない感じだよ。　　": "En fait, maintenant que j'ai exprime ce que je\nvoulais dire, je me sens satisfait. Je n'ai\nplus aucun regret."
+    },
+    "8497": {
+        "「……さって　そろそろ　アタシ行くね！\n　とっくに出番が終わってるのに　ステージに\n　居座りつづけるのって　サムいし。": "…Bon, il est temps pour moi de partir ! Rester\nsur scene alors que mon tour est termine\ndepuis longtemps, c'est un peu genant."
+    },
+    "8498": {
+        "「でも　私の姿だけは　これからも\n　ステージに　上がり続けるのか……。\n　まあ　大切にしてちょうだいな。": "Mais mon image continuera a monter sur scene a\nl'avenir... Eh bien, prends-en bien soin."
+    },
+    "8499": {
+        "「じゃあねー　もうひとりの　<cs_pchero>。\n　キミが　これからも　おもしろおかしく\n　生きていけるよう　祈ってるから！　　": "Alors, a plus tard, l'autre <cs_pchero>. Je\nprie pour que tu puisses continuer a vivre\ndans la joie et l'amusement !"
+    },
+    "8500": {
+        "「大丈夫ですか　<cs_pchero>さん！？　": "Tout va bien, <cs_pchero> san !?"
+    },
+    "8501": {
+        "「とにかく　ここは　危険な様子。\n　一刻も早く　脱出しましょう。": "En tout cas, cet endroit semble dangereux.\nQuittons-le au plus vite."
+    },
+    "8502": {
+        "「少々　荒っぽくなりますから\n　しっかり　つかまっていてください。\n　": "Ca va devenir un peu chaotique, alors\ntenez-vous bien."
+    },
+    "8503": {
+        "「外から見ていたら　突然\n　冥王の心臓が　ふるえだし\n　ただならぬ様子に　見受けられました。": "En observant de l'exterieur, j'ai soudain vu\nle Hades' Heart se mettre a vibrer, semblant\ndans un etat inhabituel."
+    },
+    "8504": {
+        "「そこで　意を決し　破邪舟を創りだして\n　駆けつけたのですが　間一髪でしたね。\n　間に合って　よかった……。": "C'est alors que nous avons pris la decision de\ncreer le Sacred Ship et de nous precipiter\nici. Nous sommes arrives juste a temps. Je<br>suis vraiment soulage..."
+    },
+    "8505": {
+        "「私は　ふたたび　山頂に戻って\n　冥王の心臓の様子を　見張っておりましょう。\n　それでは　道中　お気をつけください。": "Je vais retourner au sommet pour surveiller\nl'etat du Coeur d'Hades. Prenez soin de vous en\nchemin."
+    },
+    "8506": {
+        "「おお　ここにおったか　<cs_pchero>！\n　すっかり　探してしまったぞい。": "Oh, te voila, <cs_pchero> ! Je t'ai cherche\npartout."
+    },
+    "8507": {
+        "「……おぬしの顔を見れば　わかる。\n　ついに　冥王ネルゲルを倒したようじゃな。": "En regardant ton visage, je comprends. Tu as\nfinalement vaincu le Netherlord Nergel,\nn'est-ce pas."
+    },
+    "8508": {
+        "「……本当に　よくやってくれた。\n　これで　ヤツに滅ぼされた　エテーネの民たちも\n　浮かばれることじゃろう……。": "Tu as vraiment bien agi. Avec cela, le peuple\nd'Ethene, qui a ete detruit par cet etre,\npourra enfin reposer en paix…"
+    },
+    "8509": {
+        "「だが　これで　おぬしの旅が\n　終わったわけではない。": "Cependant, cela ne signifie pas que ton voyage\nest termine."
+    },
+    "8510": {
+        "「冥王ネルゲルは　滅んだかもしれぬが\n　今もって　レンダーシアを包む\n　闇の封印が　解かれる様子はない……。": "Peut-etre que Netherlord Nergel a ete vaincu,\nmais l'obscurite qui enveloppe toujours\nRendashia ne montre aucun signe de se<br>dissiper..."
+    },
+    "8511": {
+        "「だが　かの地への航路も　いずれ復活しよう。\n　おぬしは　そのときに備えて\n　さらに　ウデに　みがきをかけておくのじゃ。": "Cependant, la route maritime vers cette terre\nrenaitra un jour. Prepare-toi pour ce moment\nen affinant encore davantage tes competences."
+    },
+    "8512": {
+        "「レンダーシアにある　グランゼドーラ王国。\n　かの国の王女こそが　覚醒した勇者なのじゃ。\n　おぬしには　姫君の手助けを頼みたいからな。": "Le Royaume de Gran Zedora, situe a Rendashia.\nLa princesse de ce pays est la heroine\neveillee. Je souhaite que tu l'assistes dans<br>sa quete."
+    },
+    "8513": {
+        "「……さて。わしも　これから\n　色々と　忙しくなる。\n　そろそろ　立ち去るとしようぞ。": "Bon. A partir de maintenant, je vais etre tres\noccupe avec diverses choses. Il est temps pour\nmoi de partir."
+    },
+    "8514": {
+        "「では　今は　しばしのお別れじゃ。\n　運命の線路が　交差するとき\n　次は　レンダーシアの地で会おう！": "Alors, c'est un au revoir pour l'instant.\nQuand les rails du destin se croiseront, nous\nnous retrouverons sur les terres de Lendersia<br>!"
+    },
+    "8515": {
+        "「それでは　参りましょう。": "Alors, allons-y."
+    },
+    "8516": {
+        "「テキスト削除": "Texte supprimer"
+    },
+    "15396": {
+        "「ゴォォォォォォッ！！": "Goouuuuuh!!"
+    },
+    "15397": {
+        "<center>今こそ　チカラを貸しましょう！\n私の創りだせし　光輪の上を\n戦いの場としなさい！": "Je vais vous preter ma force maintenant !\nUtilisez l'aureole que j'ai creee comme\nterrain de combat !"
+    },
+    "16680": {
+        "「でも　このスワンちゃんが　最高の破邪舟だと\n　すぐに　おわかりに　なりますわ。": "Mais vous comprendrez rapidement que ce navire\nnomme Swan-chan est le meilleur des Sacred\nShips."
+    },
+    "22639": {
+        "<if_woman>「えっ！　それじゃ　この　お姉ちゃんが\n　あの　エルジュさまと　一緒に……？\n　あれって　おとぎ話じゃなかったの！？<else>「えっ！　それじゃ　この　お兄ちゃんが\n　あの　エルジュさまと　一緒に……？\n　あれって　おとぎ話じゃなかったの！？<endif>": "<if_woman>>Quoi ! Alors cette grande soeur est\navec ce fameux Erju-sama... ? Ce n'etait pas\nun conte de fees !?<else>>Quoi ! Alors ce grand frere est avec ce\nfameux Erju-sama... ? Ce n'etait pas un conte\nde fees !?<endif>"
+    },
+    "22640": {
+        "「さあ　私は　<pc>さまと\n　大切な　お話があるわ。\n　お勉強は　またにしましょうね。": "Alors, j'ai une conversation importante a\navoir avec <pc>-sama. Nous reprendrons\nles etudes plus tard."
+    },
+    "22641": {
+        "「フフフ。あの子　おどろいたでしょうね。\n　寝る前に聞かせていた　おとぎ話の主人公が\n　突然　目の前に　現れたんですもの。": "Fufu. Cette enfant a du etre surprise,\nn'est-ce pas ? Le heros du conte de fees\nqu'elle ecoutait avant de dormir est<br>soudainement apparu devant elle."
+    },
+    "25806": {
+        "「……ムフッ。\n　やっぱり　夢を語っちゃうとか\n　そういうのって　ちょっと　テレるな。": "…Mufufu. Parler de ses reves, ca met un peu\nmal a l'aise."
+    },
+    "25807": {
+        "「彼をこえるには　優勝するしかない！\n　これは　ボクの役者生命を賭けてでも\n　達成する価値のあることなんだよ！": "Pour le surpasser, il n'y a pas d'autre choix\nque de gagner ! C'est quelque chose qui vaut\nla peine d'etre realise, meme si je dois y<br>mettre ma vie d'acteur en jeu !"
+    },
+    "27329": {
+        "「そして　生きとし生ける者は　すべて\n　死からは　逃れられぬのだ！！": "Et tous les etres vivants, sans exception,  \nne peuvent echapper a la mort !!"
+    },
+    "28342": {
+        "「なかなかモダンな\n　おもむきで　ございましょ？\n　おほほほ……。": "Ce lieu a un charme plutot moderne, n'est-ce\npas ? Ohohoho..."
+    }
+}

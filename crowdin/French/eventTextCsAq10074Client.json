@@ -1,0 +1,68 @@
+{
+    "19042": {
+        "「イッツ　ア　エキシビションダーンス！\n　アー　ユー　レディ？": "It's a exhibition dance! Are you ready?"
+    },
+    "19043": {
+        "「１……２……１・２・３！": "1... 2... 1, 2, 3 !"
+    },
+    "19044": {
+        "「フウッ！！": "Fouh !!"
+    },
+    "19045": {
+        "「エキシビション♪　エキシビション♪\n　かなり・たのしい　エキシビション！": "Exhibition♪ Exhibition♪ C'est vraiment\namusant, l'Exhibition !"
+    },
+    "19046": {
+        "「こ・ん・か・い・の・メ・イ・ンは……\n　あ～あ～あ～♪": "Le plat principal de cette fois-ci est... Ah~\nah~ ah~ ♪"
+    },
+    "19047": {
+        "「<pc>！": "<pc> !"
+    },
+    "19048": {
+        "「オオオオーーー！　<pc>だ！": "Ooooh ! C'est <pc> !"
+    },
+    "19049": {
+        "「レディース　アーンドゥ　ジェントルメーン！\n　演芸グランプリの審査員による\n　華麗なダンスを　お楽しみください！": "Mesdames et Messieurs ! Profitez d'une danse\neblouissante presentee par les juges du\nconcours de divertissement LMP !"
+    },
+    "19050": {
+        "「では　<pc>！　どうぞ～～！": "Alors, <pc> ! Je vous en prie~~ !"
+    },
+    "19051": {
+        "しぐさ　『エンジョイダンス』を\n踊りますか？<yesno><close>": "Souhaitez-vous executer le geste Enjoy Dance ?\n<yesno><close>"
+    },
+    "19052": {
+        "「……こら　<pc>。\n　このままじゃ　あぶない空気になって\n　みんな騒ぎだすぞ。はよ　踊るんじゃ。": "...Eh bien, <pc>. Si ca continue comme\nca, l'atmosphere va devenir dangereuse et tout\nle monde va commencer a s'agiter. Allez, danse<br>vite."
+    },
+    "19053": {
+        "「ボクも　おどっちゃお～♪": "Moi aussi, je vais danser~♪"
+    },
+    "19054": {
+        "「わしも　わしも～♪": "Moi aussi, moi aussi~ ♪"
+    },
+    "19055": {
+        "会場は　おだやかな空気に包まれた。": "La salle fut enveloppee d'une atmosphere\npaisible."
+    },
+    "19056": {
+        "「うん。ヒマつぶしには　ちょうどいいね。": "Oui. C'est parfait pour passer le temps."
+    },
+    "19057": {
+        "「これにて　エキシビションは終了じゃ！\n　みんな！　決勝戦で　また会おうね！": "C'est ainsi que se termine l'exhibition ! Tout\nle monde ! On se retrouve pour la finale !"
+    },
+    "19058": {
+        "「決勝戦は　こんな\n　なごやかな空気には　ならんぞ！": "La finale ne sera pas aussi paisible !"
+    },
+    "19059": {
+        "「フッ。よかろう。受けて立つわい。": "Fuh. Tres bien. J'accepte le defi."
+    },
+    "29393": {
+        "<%sEV_QUE_NAME0>を　<%nEV_QUE_S_NUM0>匹　たおした！\nこれで　<%nEV_QUE_T_NUM0>匹　たおしおわった！": "<%sEV_QUE_NAME0> a ete vaincu\n<%nEV_QUE_S_NUM0> fois ! Cela fait\n<%nEV_QUE_T_NUM0> fois que nous les avons<br>vaincus !"
+    },
+    "29394": {
+        "身体中の筋肉が　反応し\n思わず　身体が動きだす。": "Les muscles de tout mon corps reagissent, et\navant meme de m'en rendre compte, mon corps se\nmet en mouvement."
+    },
+    "29395": {
+        "<pc>は\nしぐさ『エンジョイダンス』を　覚えた！<me 71>": "<pc> a appris le geste Danse Enjouee !<me 71>"
+    },
+    "48735": {
+        "<pc>は\nしぐさ『エンジョイダンス』に　みがきをかけた！<me 71>": "<pc> a perfectionne le geste Danse de\nl'Enjoy! <me 71>"
+    }
+}

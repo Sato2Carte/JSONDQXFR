@@ -1,0 +1,761 @@
+{
+    "245980": {
+        "「ああっ……\n　いや……こないで…………！": "Ah... Non... ne viens pas... !"
+    },
+    "245981": {
+        "「ひきかえせ……。": "Retourne sur tes pas..."
+    },
+    "245982": {
+        "「ひきかえせ！": "Reculez !"
+    },
+    "245983": {
+        "「おねがい！　誰か　たすけてーっ！": "S'il vous plait ! Quelqu'un, aidez-moi !"
+    },
+    "245984": {
+        "「ひきかえせ！　ひきかえせ！　ひきかえせ！\n　ひきかえせ！　ひきかえせ！　ひきかえせ！\n　ひきかえせ！　ひきかえせ！　ひきかえせ！": "Reculez ! Reculez ! Reculez ! Reculez !\nReculez ! Reculez ! Reculez ! Reculez !\nReculez !"
+    },
+    "245985": {
+        "「ひ……き……か…え…………せ………………": "Reviens... en arriere..."
+    },
+    "245986": {
+        "「……こんな場所で　君に会うとはな。": "…Je ne m'attendais pas a te rencontrer dans un\nendroit comme celui-ci."
+    },
+    "245987": {
+        "「魔瘴の巫女　イルーシャを返せ……か？": "Rendez-nous Irusha, la pretresse de la\nmiasme..."
+    },
+    "245988": {
+        "「彼女は　ファラザード城にいる。\n　だが　私は　別の目的があって\n　ここに来たのだ。": "Elle est au chateau de Farazard. Cependant, je\nsuis venu ici pour une raison differente."
+    },
+    "245989": {
+        "「すまないが　君と争う　時間も意思もない。\n　今は　それよりも……。": "Je suis desole, mais je n'ai ni le temps ni\nl'envie de me battre avec toi. En ce moment,\nil y a quelque chose de plus important..."
+    },
+    "245990": {
+        "「はひっ……！": "Ha hi...!"
+    },
+    "245991": {
+        "「おびえることはない。\n　悲鳴が聞こえたので　駆けつけたのだ。\n　ケガは　ないだろうか？": "N'aie pas peur. J'ai accouru en entendant un\ncri. Tu n'es pas blesse, j'espere ?"
+    },
+    "245992": {
+        "「……私は　敵ではない。 \n　さあ　こちらへ　来たまえ。": "......Je ne suis pas un ennemi. Allez, viens\npar ici."
+    },
+    "245993": {
+        "「その子を連れて　ついてきてくれ。 \n　安全な場所に　案内しよう。": "Emmene cet enfant et suis-moi. Je vais te\nconduire dans un endroit sur."
+    },
+    "245994": {
+        "「この像のまわりには　亡者が近寄らない。\n　少しは　落ち着いて　話せるだろう。": "Autour de cette statue, les ames errantes ne\ns'approchent pas. On devrait pouvoir parler\ncalmement ici."
+    },
+    "245995": {
+        "「はっ　はい……！\n　助けていただき　ありがとうございました！\n　私　ランテルと申します。": "Ha, oui... ! Merci beaucoup de m'avoir aide !\nJe m'appelle Rantel."
+    },
+    "245996": {
+        "「ファラザードから　ゲルヘナ幻野へ \n　薬草を探しに　出たのですが\n　砂漠に　戻れなくなってしまってて……。": "Je suis parti de Farazard vers Gerhena Field a\nla recherche d'herbes medicinales, mais je ne\nparviens plus a retourner dans le desert..."
+    },
+    "245997": {
+        "「帰り道を探して　歩いてるうちに\n　すっかり　迷ってしまいました。\n　あの……ここは　どこなのでしょう？": "En cherchant le chemin du retour, je me suis\ncompletement perdu. Hum... Ou sommes-nous ici\n?"
+    },
+    "245998": {
+        "「ここは　悲憤の灰が降る　呪われた地……。": "Ici, c'est une terre maudite ou tombent les\ncendres de la desolation..."
+    },
+    "245999": {
+        "「数百年前　この場所には　豊富な鉱脈資源で \n　栄華を誇った　ネクロデアという国があった。": "Il y a plusieurs centaines d'annees, en ce\nlieu existait un royaume appele Necrodea, qui\nse vantait de sa prosperite grace a ses riches<br>gisements de ressources minerales."
+    },
+    "246000": {
+        "「だが　あのバルディスタに　鉱脈資源と \n　高度な製鉄技術を狙われ　攻め滅ぼされたのだ。\n　むごたらしい　大虐殺の末にな。": "Cependant, Balzista a convoite nos ressources\nminieres et notre technologie avancee de\nmetallurgie, et nous avons ete attaques et<br>detruits. Ce fut un massacre horrible."
+    },
+    "246001": {
+        "「他でもない…… \n　これが　ネクロデアを滅ぼした\n　バルディスタの凶将　ゾブリス将軍だ。": "Il n'y a pas de doute... C'est le terrible\ngeneral de Valdista, General Zobris, qui a\ndetruit Necrodea."
+    },
+    "246002": {
+        "「で……でもっ　倒したんですよね？": "Et... et bien, vous l'avez vaincu, n'est-ce\npas ?"
+    },
+    "246003": {
+        "「奴の身体に　突き刺さっているのが\n　魔剣アストロンだ。\n　あれに貫かれている間は　全身が鉄塊と化す。": "Ce qui est plante dans son corps, c'est la\nMagic Blade Astoron. Tant qu'il est transperce\npar cela, tout son corps se transforme en une<br>masse de fer."
+    },
+    "246004": {
+        "「……私が　ここに来たのは\n　魔剣アストロンを　手に入れるためなのだ。": "Je suis venu ici pour obtenir la Magic Blade\nAstoron."
+    },
+    "246005": {
+        "「あの魔剣を　我が主に献上することで \n　こたびの大戦の　勝機をつかめると……\n　私は　そう確信している。": "En offrant cette epee demoniaque a notre\nseigneur, je suis convaincu que nous pourrons\nsaisir l'opportunite de victoire dans cette<br>grande guerre..."
+    },
+    "246006": {
+        "「だが　こんな場所で　ファラザードの子を\n　保護することになろうとはな……。": "Mais qui aurait cru que nous finirions par\nproteger un enfant de Farazard dans un endroit\npareil..."
+    },
+    "246007": {
+        "「私は　君と　取り引きがしたい。\n　もちろん　互いに　益のある話だ……。": "Je souhaite conclure un accord avec toi. Bien\nsur, c'est une affaire qui sera benefique pour\nnous deux..."
+    },
+    "246008": {
+        "「もしも　君に　その気があるならば \n　あらためて　声をかけてもらえないだろうか？": "Si tu es interesse, pourrais-tu me le faire\nsavoir a nouveau ?"
+    },
+    "246009": {
+        "「誓いを立てた　あの日から　２００年……\n　ようやく　この時が来た。": "Depuis le jour ou j'ai fait ce serment, 200\nans se sont ecoules... Enfin, le moment est\nvenu."
+    },
+    "246010": {
+        "「ゾブリス……。\n　今こそ　貴様を　完全に消滅させる。": "Zoblis... Il est temps de te faire disparaitre\npour de bon."
+    },
+    "246011": {
+        "「ぐっ……ウ…ぁあ…………ッ！？": "Ou… ah… !?"
+    },
+    "246012": {
+        "「私のこと　まだ気づかないなんて……\n　本当に素敵だわ　ナジーン。あなたって\n　大人になっても　愚かで　美しいままなのね。": "Tu ne m'as pas encore reconnue... C'est\nvraiment charmant, Najinn. Meme adulte, tu\nrestes aussi insouciant et magnifique<br>qu'avant."
+    },
+    "246013": {
+        "「私は　魔界最強の幻術師にして\n　バルディスタの将軍　ゾブリス。": "Je suis Zobris, le plus puissant illusionniste\ndu monde demoniaque et general de Valdista."
+    },
+    "246014": {
+        "「かわいいランテルは　ただの幻影……。 \n　正体は　斬り落とされた　私の左手だったの。\n　ウフフ！　ウソつき娘で　ごめんなさいね。": "La mignonne Rantel n'etait qu'une illusion...\nEn realite, elle etait ma main gauche coupee.\nUfufu ! Je suis desolee d'avoir menti."
+    },
+    "246015": {
+        "「おぉ……うるわしのネクロデア！ \n　王も民も　皆　誇り高く　自信に満ちていた。": "Oh... Splendide Necrodea ! Roi et citoyens,\ntous etaient fiers et pleins de confiance."
+    },
+    "246016": {
+        "「だから　ねえ……？\n　侵略に抗う勇気を　その誇りを……\n　徹底的に　けがしてあげたでしょう？": "Donc, tu vois... Le courage de resister a\nl'invasion, cette fierte... Je l'ai\ncompletement souille, n'est-ce pas ?"
+    },
+    "246017": {
+        "「だめだ……やめろ……だまされるな！\n　父上　母上……ああ……行くな…………ッ。": "C'est impossible... Arrete... Ne te laisse pas\ntromper ! Pere, mere... Ah... Ne partez pas..."
+    },
+    "246018": {
+        "「抵抗をやめれば　人質にとった\n　ネクロデアの王子　ナジーンの命だけは\n　助けてあげる…………なぁんて。": "Si tu arretes de resister, je pourrais au\nmoins epargner la vie du prince de Necrodea\nque j'ai pris en otage, Najinn... Enfin,<br>peut-etre."
+    },
+    "246019": {
+        "「見えすいた嘘に　はかない幻を見て \n　あなたたちは　素直に信じて　従ったわ。\n　私が　ウソつきだとも　知らずにね！": "Vous avez cru et obei naivement a un mensonge\nflagrant et a une illusion ephemere. Sans meme\nsavoir que j'etais une menteuse !"
+    },
+    "246020": {
+        "「誇り高きネクロデア王も　王妃も　国民も\n　隅から隅まで　踏みにじられて……アァ。\n　美しいものは　けがれてこそ　輝くの。": "Le fier roi de Necrodea, ainsi que la reine et\nses citoyens, ont ete pietines de bout en\nbout... Ah. C'est lorsqu'une belle chose est<br>souillee qu'elle brille vraiment."
+    },
+    "246021": {
+        "「ほら　見て！　わかるでしょう？ \n　滅びたネクロデアの　なんて美しいこと！\n　ウフッ…ウフフッ……ウフフフフフフフ！！": "Regarde ca ! Tu vois, n'est-ce pas ? Comme\nc'est magnifique, cette Necrodea devastee !\nOuf… Oufufu… Oufufufufu !"
+    },
+    "246022": {
+        "「ゾブリス　貴様ッ！": "Zobris, espece de... !"
+    },
+    "246023": {
+        "「最後に生き残った　あなたから　もらった右目\n　絶望に染まって　とっても　キレイだった。\n　かわいがりたかったわ　いつまでも……。": "Le dernier oeil droit que j'ai recu de toi, le\nsurvivant, etait impregne de desespoir, et\npourtant il etait si beau. J'aurais aime en<br>prendre soin pour toujours..."
+    },
+    "246024": {
+        "「だが　そこに　あの　いまいましい \n　赤毛の小僧が現れて　私の手を　斬り落とし\n　魔剣アストロンを　身体に突き刺した……！": "Mais la, ce maudit gamin aux cheveux roux est\napparu, a tranche ma main et a plante Magic\nBlade Astoron dans mon corps... !"
+    },
+    "246025": {
+        "「この左手だけで　逃げのびて……\n　あなたが　魔剣を引き抜いてくれる日を\n　ずっと　ずっと　待っていたんだから……。": "Je n'ai survecu que grace a cette main\ngauche... J'ai toujours, toujours attendu le\njour ou tu viendrais pour extraire l'epee<br>demoniaque..."
+    },
+    "246026": {
+        "「サァ……あの日の続きを　しましょう？\n　その誇りを　グチャグチャに　すりつぶして\n　残った左目も　私のものにしてあげる。": "Alors... Continuons ce que nous avons commence\nce jour-la, voulez-vous ? Je vais ecraser\ncette fierte en miettes et faire de votre oeil<br>gauche ce qui reste, le mien."
+    },
+    "246027": {
+        "「ウフ！　そう　あなた…… \n　はじめて見たときから　気になっていたの。\n　幻さえ見通すような　まっすぐな瞳。": "Ouf ! Oui, toi... Depuis la premiere fois que\nje t'ai vu, tu as attire mon attention. Tes\nyeux droits, capables de percer meme les<br>illusions."
+    },
+    "246028": {
+        "「アァ……あなたのことも　けがしたい。": "Ah... J'ai aussi envie de te blesser."
+    },
+    "246029": {
+        "「私が作りだす　幻の中で \n　泣いて　わめいて　踏みつけられて\n　誰よりも美しく　散ってちょうだい！": "Dans l'illusion que je cree, pleure, hurle et\nfais-toi pietiner. Disparais plus\nmagnifiquement que quiconque !"
+    },
+    "246030": {
+        "「そんな…………これで　終わり？\n　いや……いや…………いやよッ！！": "Non... est-ce vraiment la fin ? Non... non...\nje ne veux pas !!"
+    },
+    "246031": {
+        "「まだ　誰も見たことのない……美しさを……\n　もっと……もっと…………ああ……っ。": "Une beaute que personne n'a encore vue...\nToujours plus... Encore plus... Ah..."
+    },
+    "246032": {
+        "「なぜ……戻ってきた　ユシュカ！\n　アストロンは　魔界を救うための剣……。": "Pourquoi... es-tu revenu, Yushka ! Astron est\nune epee destinee a sauver le monde des\ndemons..."
+    },
+    "246033": {
+        "「自国を滅ぼした　王子など\n　捨て置いてくれれば　よかった。": "Si seulement vous aviez pu abandonner le\nprince qui a detruit son propre royaume."
+    },
+    "246034": {
+        "「すべてを失った　私に\n　もはや　生きる価値などない…………。": "Ayant tout perdu, il n'y a plus aucune valeur\na ma vie desormais..."
+    },
+    "246038": {
+        "「ああ。そうだったな　ユシュカ……。\n　その言葉に救われて　私は　決めたんだ。": "ああそうだったな Yushka その言葉に救われて 私は 決めたんだ"
+    },
+    "246039": {
+        "「どこまでも　お前と共に　生きていこう……。": "Ou que cela nous mene, vivons ensemble..."
+    },
+    "246040": {
+        "「ついに　仇敵を　討ち果たすことができた。\n　この地に留まる魂も　安らかに旅立てるだろう。\n　ありがとう……君がいてくれて　よかった。": "Enfin, nous avons pu terrasser notre ennemi\njure. Les ames qui etaient retenues ici\npourront enfin reposer en paix. Merci... Je<br>suis heureux que tu aies ete la."
+    },
+    "246041": {
+        "「魔剣アストロンは　ユシュカのために \n　ふたりで　きたえあげた剣だった。\n　だが　私のために　使えなくしてしまった……。": "Le Magic Blade Astoron etait une epee que nous\navions forgee ensemble pour Yushka. Mais je\nl'ai rendue inutilisable pour mon propre<br>interet..."
+    },
+    "246042": {
+        "「こたびの戦争は　新興国ファラザードと\n　ユシュカが直面した　未曽有の大戦。\n　今こそ　魔剣のチカラが　必要になるだろう。": "Cette guerre est un conflit sans precedent\nauquel sont confrontes le pays emergent\nFarazard et Yushka. C'est maintenant que nous<br>aurons besoin du pouvoir de l'epee magique."
+    },
+    "246043": {
+        "「そして　君もだ……　<cs_pchero>殿。\n　敵対している関係で　おかしな話だが\n　やはり　ユシュカには　君が必要だと思う。": "Et toi aussi... <cs_pchero> dono. Bien que\nnous soyons ennemis, c'est etrange a dire, je\npense que Yushka a besoin de toi."
+    },
+    "246044": {
+        "「共に　ファラザードへ　向かおう。\n　すべては　それからだ。": "Allons ensemble a PharaZard. Tout commence a\npartir de la."
+    },
+    "246045": {
+        "「旧ネクロデア領の南　血潮の浜辺に\n　鉄のほこらと呼ばれる　建物がある。\n　まずは　そこに　向かってほしい。": "Au sud de la region de l'Ancienne Necrodea,\nsur la Plage Sanglante, il y a un batiment\nappele le Sanctuaire de Fer. Je veux que tu<br>t'y diriges en premier."
+    },
+    "246046": {
+        "「あの日　ネクロデアの王子は　死んだ。\n　今の私は　ただの　ナジーン。\n　ファラザードのナジーンなのだ……。": "Ce jour-la, le prince de Necrodia est mort.\nAujourd'hui, je ne suis que Najinn. Je suis\nNajinn de Pharazard..."
+    },
+    "246047": {
+        "「鉱物資源が豊富だった　ネクロデアは \n　ジャリムバハ砂漠の小国家群と\n　交易をおこなう機会も　多かった。": "Necrodea, riche en ressources minerales, avait\nde nombreuses occasions de commercer avec les\npetits Etats de la region desertique de<br>Jyarimbaha."
+    },
+    "246048": {
+        "「我々は　さまざまな工夫を　凝らして\n　盗賊への対策を　おこなった。\n　これも　そのひとつ……。": "Nous avons mis en place diverses strategies\npour contrer les voleurs. Ceci en fait\npartie..."
+    },
+    "246049": {
+        "「この　隠し砂州を　利用することで\n　安全な交易路を　確保していたのだ。\n　開拓には　なかなか　苦労したらしい。": "En utilisant ce banc de sable cache, ils ont\npu securiser une route commerciale sure. Il\nsemble que le developpement de cette voie ait<br>ete assez difficile."
+    },
+    "246050": {
+        "「昔　ユシュカから　聞いたことがある。\n　アストルティアの海は　どこまでも青く\n　澄み渡っているそうだな。": "Il y a longtemps, j'ai entendu Yushka en\nparler. On dit que la mer d'Astoltia est d'un\nbleu profond et que ses eaux sont<br>cristallines."
+    },
+    "246051": {
+        "「交易船が行き交う　活気にあふれた海か。\n　一度　見てみたいものだ……。": "Une mer animee, debordante d'energie, avec des\nnavires marchands qui vont et viennent.\nJ'aimerais bien la voir un jour..."
+    },
+    "246052": {
+        "「……さて　この砂州を東に向かうと\n　ファラザードの下水道に　入れる。": "...... Bien, si tu te diriges vers l'est sur\nce banc de sable, tu pourras entrer dans les\negouts de Pharazad."
+    },
+    "246053": {
+        "「下水道には　ファラザード城の地下に\n　つながっている　秘密のハシゴがあるのだ。\n　そこから　城内に入るとしよう。": "Dans les egouts, il y a une echelle secrete\nqui mene au sous-sol du chateau de Farazard.\nEntrons dans le chateau par la."
+    },
+    "246054": {
+        "「あなたの光が近づいてくるのを　感じていたわ。 \n　必ず　来てくれると思ってた……。": "Je sentais ta lumiere se rapprocher. Je savais\nque tu viendrais..."
+    },
+    "246055": {
+        "「フン……。遅すぎるくらいだな。\n　だが　どうやって　城の中に入った？": "Hmm... Tu es vraiment en retard. Mais comment\nas-tu fait pour entrer dans le chateau ?"
+    },
+    "246056": {
+        "「ナジーン！　バルディスタと交戦中だぞ。\n　偵察にどれだけ　時間をかけて……\n　まさか　こいつを　手引きしてたのか？": "Najinn！ Nous sommes en pleine bataille avec\nBaldista. Combien de temps as-tu passe en\nreconnaissance... Ne me dis pas que tu etais<br>en train d'aider cet individu ?"
+    },
+    "246057": {
+        "「それは……　魔剣アストロン！？": "C'est... la Magic Blade Astoron !?"
+    },
+    "246058": {
+        "「そう……か。\n　お前　ネクロデアに　行ってたのか……。": "Je vois... Tu es alle a Necrodea, alors..."
+    },
+    "246059": {
+        "「あの時の借りを　返すために。 \n　ですが　その前に　我が王よ……\n　あなたに　ひと言だけ　申し上げたい。": "Pour rembourser la dette de ce moment-la. Mais\navant cela, o mon roi... Permettez-moi de vous\ndire un mot."
+    },
+    "246060": {
+        "「いつか　あなたは　私に語ってくれました。 \n　アストルティアの師から　学んだ\n　協調という　ものの考え方を。": "Un jour, vous m'avez parle de la notion de\ncooperation que vous avez apprise du maitre\nd'Astoltia."
+    },
+    "246061": {
+        "「考え方が違えば　衝突することもある。\n　それでも　他者と交わることで　生まれる\n　新しい価値こそ　かけがえないのだと……。": "Lorsque les facons de penser different, des\nconflits peuvent survenir. Cependant, c'est\nprecisement la nouvelle valeur qui nait de<br>l'interaction avec les autres qui est\nirremplacable..."
+    },
+    "246062": {
+        "「それならば　なぜ……\n　<pc>殿とは　協調できないのですか？": "Dans ce cas, pourquoi ne pouvez-vous pas\ncooperer avec <pc>-dono...?"
+    },
+    "246063": {
+        "「結局　今のあなたは　私情に流され \n　おのれの自尊心が　守られる範囲で\n　状況を選んでいるに　過ぎない。": "Au final, vous ne faites que choisir des\nsituations qui preservent votre fierte\npersonnelle, influencee par vos emotions."
+    },
+    "246064": {
+        "「だからって……もう一度　組めと言うのか？\n　俺のしもべじゃ　なくなった　こいつと！？": "Donc, tu veux que je m'associe a nouveau avec\nlui... meme s'il n'est plus mon serviteur ?"
+    },
+    "246065": {
+        "「魔王たちが一堂に集い　大審門が開かれ\n　新たな大魔王の　選定がおこなわれたのは\n　あなたがたが出会い　協力したからこそ……。": "Les seigneurs demoniaques se sont rassembles\nen un seul lieu, et le Demongate s'est ouvert.\nC'est grace a votre rencontre et a votre<br>cooperation qu'une nouvelle selection du grand\nroi demon a eu lieu..."
+    },
+    "246066": {
+        "「ふたりの　選ぶ道が交わった　その時\n　大きなチカラが　生まれるのです。\n　魔界を動かすほどの　途方もないチカラが。": "Lorsque les chemins que vous choisissez se\ncroisent, une grande puissance nait. Une force\nincroyable, capable de deplacer le monde<br>demoniaque."
+    },
+    "246067": {
+        "「……チッ。昔っから　変わらないな。\n　お前は　いつも……正論ばかりだ。": "Tch. Ca n'a pas change depuis le temps. Tu as\ntoujours ete... si plein de bon sens."
+    },
+    "246068": {
+        "「で…で…伝令ェッ！　伝令だど～ッ！！": "De... de... Depeche ! Une depeche arrive !"
+    },
+    "246069": {
+        "「ファラザードの特攻隊長　シシカバブ様がぁ\n　じきじぎに　伝令に来てやっだど！！": "Le chef des forces speciales de Pharaazard,\nShish Kebab-sama, est venu lui-meme pour\ntransmettre le message !!"
+    },
+    "246070": {
+        "「報告しろ　シシカバブ。": "Fais ton rapport, Shish Kebab."
+    },
+    "246071": {
+        "「ジャリムバハ砂漠から　バルディスタ軍が\n　あわでて　引ぎ上げでいっだど！\n　なんが　別の所で　戦争が始まっだらしいど！": "Il parait que l'armee de Baldista s'est\nsoudainement retiree du desert de Jyarimbaha !\nOn dirait qu'une guerre a eclate ailleurs !"
+    },
+    "246072": {
+        "「いや～っ！　はっはっはっ。\n　うまくいきましたな　ユシュカ王。\n　あなた様のお手並みには　感服いたしました！": "Ahaha ! Ca a parfaitement marche, roi Yushka.\nJe suis vraiment impressionne par votre\nhabilete !"
+    },
+    "246073": {
+        "「いいタイミングで動いてくれて　助かったぞ。 \n　険悪だったゼクレスと　同盟を結べたのも\n　貴殿のおかげだ　オジャロス殿。": "Merci d'avoir agi avec un excellent timing,\nRed Snapper. Grace a vous, nous avons pu\nformer une alliance avec le Zekres, avec qui<br>nous etions en mauvais termes. Tout cela,\nc'est grace a vous, Ojalos-dono."
+    },
+    "246074": {
+        "「ファラザードが　バルディスタ軍の本隊を \n　砂漠に引きつけておき　ガラ空きの本国を\n　我がゼクレスが攻める　華麗なる奇襲作戦！": "Farazard attire la principale armee de\nBaldista dans le desert, tandis que notre\nZekress attaque leur pays desormais sans<br>defense. Une attaque surprise des plus\nelegantes !"
+    },
+    "246075": {
+        "「この大戦　不干渉を貫いていた　ゼクレスが\n　介入してくるとは　予想できますまい。\n　バルディスタの本国は　大パニックでしょう！": "Il etait impossible de prevoir que Zekres, qui\navait maintenu une position de\nnon-intervention pendant cette grande guerre,<br>allait s'impliquer. Le pays de Baldista doit\netre en pleine panique !"
+    },
+    "246076": {
+        "「俺たちが　魔瘴の巫女をさらったのは \n　バルディスタを挑発して　攻めてこさせるための\n　単なる　エサだったのさ。": "Nous avons enleve la pretresse de la miasme\nsimplement pour provoquer Valdista et les\ninciter a attaquer. C'etait un simple appat."
+    },
+    "246077": {
+        "「俺の計画通りに　戦況は動いた。\n　これ以上　こいつを　束縛するつもりはない。\n　後は　好きにしてくれ。": "Mon plan s'est deroule comme prevu. La\nsituation a evolue exactement comme je l'avais\nenvisage. Je n'ai plus l'intention de le<br>retenir davantage. A partir de maintenant,\nfais comme bon te semble."
+    },
+    "246078": {
+        "「……無理に連れてきて　悪かったな。": "......Je suis desole de t'avoir force a venir."
+    },
+    "246079": {
+        "「バルディア山岳地帯で　戦端は開かれました。\n　今こそ　ヴァレリアを討ち取る　絶好の機会。\n　いざ　参りましょうぞ　ユシュカ殿！": "Dans la region de la Montagne Valdia, les\nhostilites ont ete declenchees. C'est\nmaintenant l'occasion ideale pour vaincre<br>Valeria. Allons-y, Yushka-dono !"
+    },
+    "246080": {
+        "「うおおおおっ！　ウデが鳴るろぉん！\n　戦場が　オデを呼んでるどぉおおおん！！": "Oooohhhh ! Mes bras fremissent d'excitation !\nLe champ de bataille m'appelle !!!"
+    },
+    "246081": {
+        "「アストルティアへの　再侵攻をたくらむ\n　ヴァレリアを討ち　魔瘴への対抗策を守る。\n　俺は　俺のやり方で　魔界を救ってみせよう。": "Je complote une nouvelle invasion d'Astoltia.\nJe vaincrai Valeria et protegerai les mesures\ncontre la miasme. Avec ma lance, je sauverai<br>le monde des demons."
+    },
+    "246082": {
+        "「お前のチカラが　必要だ。\n　一緒に来い　ナジーン！": "Ton pouvoir est necessaire. Viens avec moi,\nNajinn !"
+    },
+    "246083": {
+        "「まったく　しかたのない人だ。\n　お供しましょう……どこまでも。": "Vous etes vraiment incorrigible. Je vais vous\naccompagner... jusqu'au bout."
+    },
+    "246084": {
+        "「ふたりとも　行ってしまった。\n　でも　なんだか　胸がざわついて……。": "Ils sont tous les deux partis. Mais j'ai comme\nune etrange agitation dans la poitrine..."
+    },
+    "246085": {
+        "「ええ……私は　大丈夫よ。\n　ファラザードの人は　みんな優しくて\n　怖い思いなんて　しなかった。": "Oui... Je vais bien. Les gens de Pharazard\nsont tous gentils et je n'ai pas eu peur."
+    },
+    "246086": {
+        "「ユシュカは…… \n　あなたのことを　思いだしては\n　いつも　苦しそうに　悩んでいたわ。": "Yushka... Pensait souvent a toi et semblait\ntoujours tourmente."
+    },
+    "246087": {
+        "「どうして　大魔王に　選ばれたのが\n　自分ではなく　あなただったのか…………。": "Pourquoi est-ce que le Grand Roi Demon a\nchoisi vous et non moi... ?"
+    },
+    "246088": {
+        "「なんだか　嫌な予感がして　たまらない。\n　きっと　あなたのチカラが　必要だわ……。": "Je ressens un mauvais pressentiment, c'est\ninsupportable. Je suis sure que j'aurai besoin\nde ton aide..."
+    },
+    "246089": {
+        "「お願い　<pc>……。\n　バルディア山岳地帯へ　向かって\n　ユシュカに　手を差しのべてあげて。": "Je t'en prie, <pc>... Rends-toi dans la\nregion de Valdia Mountain et tends la main a\nYushka."
+    },
+    "246090": {
+        "「それが　魔界の未来に　つながる。 \n　そんな気が　するの……。": "J'ai l'impression que cela est lie a l'avenir\ndu monde demoniaque..."
+    },
+    "246091": {
+        "魔界の戦況に　変化が起きて\n砂の都ファラザードと　ジャリムバハ砂漠の\nアビスゲートが　開かれたようだ。<se_nots System 7>": "Il semble qu'un changement se soit produit\ndans la situation de guerre du monde\ndemoniaque, et que les Abyss Gates de Farazard<br>et du desert de Jyarimbaha se soient ouvertes."
+    },
+    "246092": {
+        "「はぁっ！": "Ha !"
+    },
+    "246093": {
+        "「うおおおおおっ！！": "Uooooooh !!"
+    },
+    "246094": {
+        "「くそっ……。ゼクレスと組んで　なお \n　バルディスタの兵力に　押されるとはな。": "Merde... Meme en s'associant avec Zegless,\nnous sommes toujours accules par la puissance\nmilitaire de Valdista."
+    },
+    "246095": {
+        "「…………それでも　やるしかありません。": "...... Malgre tout, nous n'avons pas d'autre\nchoix que de continuer."
+    },
+    "246096": {
+        "「お前　どうして……？": "Pourquoi... toi ?"
+    },
+    "246097": {
+        "「……我々に　加勢してくれるのだな。": "Tu vas nous preter main-forte, alors."
+    },
+    "246098": {
+        "「俺が　直接　ヴァレリアを討つ。\n　援護しろ　ナジーン！": "Je vais affronter Valeria moi-meme.\nCouvre-moi, Najinn !"
+    },
+    "246099": {
+        "「ファラザードの魔王　ユシュカ！\n　覚悟ォオーーーーッ！！": "Yushka, le Roi Demon de Pharazard !\nPrepare-toi !ーーー！！"
+    },
+    "246100": {
+        "「君のおかげで　ユシュカを守れる。\n　我々の背中を　あずかってくれ。\n　後は　頼んだぞ……！": "Grace a toi, nous pouvons proteger Yushka.\nGarde notre dos. Nous comptons sur toi pour le\nreste... !"
+    },
+    "246101": {
+        "「バルディスタに　栄光……あ……れ……。": "Gloire a Baldista... ah..."
+    },
+    "246102": {
+        "「ヴァレリア！　ここで　お前を倒し \n　俺は実力で　大魔王になってみせる！": "Valeria ! C'est ici que je te vaincrai et\nprouverai ma valeur pour devenir le grand roi\ndemon !"
+    },
+    "246103": {
+        "「知略と悪知恵を　はき違えた \n　小僧ごときに　何ができるかッ！！\n　魔界を支配するのは　チカラのみ！": "Que pourrait bien faire un jeune impertinent\nqui confond ruse et sournoiserie ?! Seule la\nforce regne sur le monde demoniaque !"
+    },
+    "246104": {
+        "「雑草どもが　身のほど知らずな夢を\n　わめいておるわ……。": "Les mauvaises herbes crient des reves sans\nconnaitre leur place..."
+    },
+    "246105": {
+        "「この魔界を統べるのは　我がゼクレスと\n　最初から　決まっているのに。": "C'est decide depuis le debut que ce serait\nnotre Zekres qui gouvernerait ce monde\ndemoniaque."
+    },
+    "246106": {
+        "「のう？　アスバル。\n　わらわの　かわいい息子よ……。": "Dis-moi, Asbal. Mon cher fils adorable..."
+    },
+    "246107": {
+        "「このミアラの宝杖は　ゼクレスが誇る秘宝……\n　アスバルが生まれ持った　絶大な魔力を糧に\n　いにしえの魔人を　降臨させるのだ！": "Ce baton precieux de Miala est le tresor\nsecret dont Zekles est fier... En puisant dans\nla formidable puissance magique innee d'Asbal,<br>il invoquera l'ancien demon !"
+    },
+    "246108": {
+        "「は…母上……いやだ……こんな………………\n　ぐぉっ…はっ……がが……ガッ………！": "M... Mere... Non... Pas comme ca... Guh...\nHa... Gah... Gah... !"
+    },
+    "246109": {
+        "「ガアアアアァァァアァアアアアアアァァァ\n　ァアァァアアアアアアアアアアアアッ！！！": "GRAAAAAAAAAAAAAAAAAAAAAAAAHHH !!!"
+    },
+    "246110": {
+        "「おお！　なんと　まがまがしい……。": "Oh ! Quelle presence sinistre..."
+    },
+    "246111": {
+        "「魔界を　我がゼクレスの掌中に。\n　お前の魔力で　すべてを\n　焼きはらっておしまい！": "Dans le creux de ma main, je tiendrai le monde\ndemoniaque de Zekres. Avec ta puissance\nmagique, reduis tout en cendres !"
+    },
+    "246112": {
+        "「なんだ　あれは……！？": "Qu'est-ce que c'est que ca... !?"
+    },
+    "246113": {
+        "「あっ　姉上！　このままでは……\n　アスバルの身体が　もちませんぞ！？": "Ah, grande soeur ! A ce rythme... Le corps\nd'Asbal ne tiendra pas !"
+    },
+    "246114": {
+        "「フフ……。\n　しばし　休ませれば　また使えよう。": "Fufu... Avec un peu de repos, il pourra a\nnouveau etre utilise."
+    },
+    "246115": {
+        "「この戦　ゼクレスの勝利は　決まったも同然。 \n　もはや　ファラザードも　バルディスタも\n　立ち上がるチカラなど　残っていまい。": "Cette bataille, la victoire de Zekress est\npratiquement assuree. Desormais, ni Farazard\nni Baldista n'ont plus la force de se relever."
+    },
+    "246116": {
+        "「生き残った者に　撤収命令を出せ。 \n　あとは　捨て置け。": "Donnez l'ordre de repli aux survivants.\nLaissez le reste derriere."
+    },
+    "246117": {
+        "「おのれ　ゼクレス……！": "Maudit soit Zekres... !"
+    },
+    "246118": {
+        "「………………。\n　無事…ですね……ユシュカ？": "……  \nTu es sain et sauf… Yushka ?"
+    },
+    "246119": {
+        "「……ナジーン！！": "...Najinn !!"
+    },
+    "246120": {
+        "「待ってろ。今……助けるから。\n　こんなキズ　すぐに　治してやる。\n　だから……　だから………………。": "Attends-moi. Je vais te sauver maintenant. Je\nvais soigner cette blessure tout de suite.\nAlors... alors..."
+    },
+    "246121": {
+        "「うろたえるな。ファラザードの魔王よ……。": "Ne panique pas. O roi demon de Farazard..."
+    },
+    "246122": {
+        "「あなたは…魔界を救うために……\n　夢を……為すべきことを　成さなければ……。": "Vous devez... pour sauver le monde des\ndemons... accomplir le reve... ce que vous\ndevez faire..."
+    },
+    "246123": {
+        "「その夢は……！\n　お前とじゃなきゃ　果たせないんだ。\n　お前が　いなかったら　意味ないだろ！？": "Ce reve... ! Je ne peux le realiser qu'avec\ntoi. Sans toi, cela n'a aucun sens !"
+    },
+    "246124": {
+        "「…………ああ……ユシュカ……。": "...Ah... Yushka..."
+    },
+    "246125": {
+        "「灰にまみれた　旅立ちの日も…… \n　ファラザードを興した　朝焼けの日も……\n　あなたは　語って聞かせてくれた。": "Le jour ou vous etes parti, couvert de\ncendres... Et le jour ou vous avez fonde\nFarazard, a l'aube... Vous avez partage ces<br>recits avec moi."
+    },
+    "246126": {
+        "「今までの　どんな魔王も……\n　成し得なかった方法で\n　理想郷を築き　魔界を救ってみせる……と。": "Je vais construire une utopie et sauver le\nmonde des demons d'une maniere qu'aucun roi\ndemon n'a jamais pu accomplir..."
+    },
+    "246127": {
+        "「あなたが語る　破天荒な夢が…… \n　とても……好きだった……。": "Les reves extravagants dont tu parlais... Je\nles aimais tellement..."
+    },
+    "246128": {
+        "「だから……　どうか………… \n　あなただけのやり方で……　魔界を…………。": "Alors... je vous en prie... Avec votre propre\nstyle de lance... sauvez le monde\ndemoniaque..."
+    },
+    "246129": {
+        "「だめだ……ナジーン！\n　逝かないでくれ……。": "Non... Najinn ! Ne pars pas, je t'en prie..."
+    },
+    "246130": {
+        "「私は　あなたの副官…… \n　あなたが　必要と……するなら……": "Je suis votre adjointe... si vous avez besoin\nde moi..."
+    },
+    "246131": {
+        "「ユシュカ。いつまでも　そばに…………": "Yushka. Je serai toujours a tes cotes..."
+    },
+    "246132": {
+        "「……あぁ……っ……\n　くっ……あ……あぁあ……っ…………。": "...Ah... Kuh... Ah... Aaah..."
+    },
+    "246133": {
+        "「うあああぁああああああああああああああああぁ\n　ああああああぁぁああああああああああっっ！！": "Uaaaaaahhhhhhhhhh! Aaaaaahhhhhhhhhh!!"
+    },
+    "246134": {
+        "「バルディスタも　ゼクレスも\n　みんな　引ぎ上げていっだど……。\n　オデたちも　ファラザードに　引き上げるど。": "Balzista et Zekles se sont tous retires...\nNous allons nous aussi nous retirer a\nPhalazard."
+    },
+    "246135": {
+        "「だから　ユシュカぁ……。\n　お前も…………。": "Alors, Yushka... Toi aussi..."
+    },
+    "246136": {
+        "「…………………………。": ""
+    },
+    "246137": {
+        "<cs_pchero>は　ユシュカたちと共に\n戦場から　引き上げた……。": "<cs_pchero> se retira du champ de bataille\navec Yushka et les autres..."
+    },
+    "246138": {
+        "「おかえりなさい。無事でよかった……。": "Bienvenue a la maison. Je suis soulage que tu\nsois sain et sauf..."
+    },
+    "246139": {
+        "「ユシュカは　自分の部屋に　こもったままよ。\n　帰ってきてから　ずっと……。": "Yushka est reste enferme dans sa chambre.\nDepuis qu'il est rentre..."
+    },
+    "246140": {
+        "「あなたの言葉なら　応えてくれるかもしれない。\n　どうか　彼に　声をかけてあげて。": "Si c'est toi qui lui parles, il pourrait\npeut-etre repondre. S'il te plait, essaie de\nlui parler."
+    },
+    "246141": {
+        "「ユシュカ……<pc>が　来てくれたわ。 \n　みんな　あなたのことを　心配してる。\n　お願いだから　扉を開けて……。": "Yushka... <pc> est venu te voir. Tout le\nmonde s'inquiete pour toi. Je t'en prie, ouvre\nla porte..."
+    },
+    "246142": {
+        "「…………………………。": ""
+    },
+    "246143": {
+        "「うぉおおおお～～～い　おいおいおい……\n　オロロ～～～ン　ウォンウォンウォ～～～ン！！": "Ooooooh～～～he he he Olorooooon Wouuuh Wouuuh\nWouuuuh！！"
+    },
+    "246144": {
+        "「ユシュカあぁぁ……かわいそうだどぉ……！！\n　オデだっで　大事な子分を　なくじだら\n　かなじぐで　がなじぐで　泣いちゃうろぉおん！": "Yushka, aaah... c'est tellement triste... !!\nSi je perdais un de mes precieux camarades, je\npleurerais de chagrin aussi !"
+    },
+    "246145": {
+        "「あのう……ごめんなさい～。\n　お取込み中　失礼します！": "Euh... Pardon... Je suis desole de vous\nderanger !"
+    },
+    "246146": {
+        "「魔仙卿さまから　あなたに　緊急の伝言です！\n　この　記憶の結晶を　再生しますね～。": "The Oracle sama vous a envoye un message\nurgent ! Je vais lire ce Memory Crystal pour\nvous, d'accord ?"
+    },
+    "246147": {
+        "「先の戦い……我も　神殿より見守っていた。 \n　数々の犠牲　あまりにも痛ましい……。\n　ことに　ゼクレスの魔人は　ゆゆしき脅威だ。": "La bataille precedente... Je l'ai observee\ndepuis le temple. Les nombreuses pertes...\ntellement douloureuses... En particulier, le<br>demon de Zekres represente une menace\nredoutable."
+    },
+    "246148": {
+        "「ゼクレスの者が持つ　ミアラの宝杖は \n　かつて　魔界を　壊滅的な危機におとしいれた。\n　放置すれば　さらなる災いを　呼び寄せよう。": "Le baton precieux de Miara, detenu par les\nhabitants de Zekres, a autrefois plonge le\nmonde des demons dans une crise devastatrice.<br>Si nous le laissons de cote, cela attirera de\nnouveaux malheurs."
+    },
+    "246149": {
+        "「どうか　これより　ゼクレス城へ向かい\n　ミアラの宝杖を　破壊してもらえぬか？\n　これは　そなたにしか　出来ぬことなれば……。": "S'il te plait, pourrais-tu te rendre au\nChateau de Zechres et detruire le baton\nprecieux de Miala ? C'est une tache que toi<br>seul peux accomplir..."
+    },
+    "246150": {
+        "「オデは　決めたど！\n　ナジーンのカタキを討ちに　ゼクレスへ行ぐ！\n　お前も　ユシュカの子分なら　一緒に来い！！": "Je l'ai decide ! Je vais a Zekress pour venger\nNajinn ! Si tu es aussi un disciple de Yushka,\nviens avec moi !!"
+    },
+    "246151": {
+        "「えっへへー！\n　おやびんが　そー言うと思って\n　先に　偵察に　行ってきたよーお！": "Eh he he ! Je me doutais que le chef dirait\nca, alors je suis alle faire du reperage a\nl'avance !"
+    },
+    "246152": {
+        "「今　ゼクレスは　エラいことになってるヨゥ。 \n　あれだけ痛い目にあった　バルディスタ軍が\n　報復に乗り込んで　ドンパチやってんだヨゥ！": "En ce moment, c'est le chaos a Zekres. L'armee\nde Valdista, qui a subi de lourdes pertes, a\nlance une contre-attaque et c'est la bagarre<br>la-bas !"
+    },
+    "246153": {
+        "「ほとんど　捨て身みたいな大攻勢に\n　ゼクレス城は　もちろん　ベルヴァインの森の\n　東側にすら　ヨゥヨゥ　近寄れんヨゥ……。": "A cause de cette grande offensive presque\nsuicidaire, il est bien sur impossible de\ns'approcher de Zechres Castle, et meme du cote<br>est de la foret de Belvine..."
+    },
+    "246154": {
+        "「ベルヴァインの森には　城から脱出するための\n　秘密の通路が　あるらしいよー！\n　そこが使えれば　城に入れるかもねー？": "Il parait qu'il y a un passage secret dans la\nforet de Belvine pour s'echapper du chateau !\nSi on peut l'utiliser, on pourrait peut-etre<br>entrer dans le chateau, non ?"
+    },
+    "246155": {
+        "「オヨヨッ……！？　お前さん\n　その抜け道を　通ったことあるのかヨゥ！\n　ヨゥヨゥ　さすがだヨゥ！": "Oh oh... !? Tu as deja emprunte ce passage\nsecret, toi ! Je dois dire, tu es\nimpressionnant !"
+    },
+    "246156": {
+        "「ガハハ！　よォォーーーっし　野郎ども！！ \n　オデたちは　ベルヴァインの森にいるっで\n　兵士どもを　どっがに　引ぎづけるど。": "Gahaha ! Bon, les gars !! Nous sommes dans la\nforet de Belvaine et nous allons attirer les\nsoldats quelque part."
+    },
+    "246157": {
+        "「お前は　そのスキに　ゼクレス城に入っで\n　あのバケモノを　ブッ倒しでごい。\n　頼んだど！！": "Tu profites de cette opportunite pour entrer\ndans le chateau de Zechres et vaincre ce\nmonstre. Je compte sur toi !!"
+    },
+    "246158": {
+        "「きっと　魔仙卿の　言う通りだわ……。 \n　東の方で　嫌な気配が　大きくなっている。": "Je suis sure que The Oracle a raison... Une\npresence inquietante grandit a l'est."
+    },
+    "246159": {
+        "「ユシュカのことは　私に　まかせて。\n　気をつけてね……。": "Laisse-moi m'occuper de Yushka. Prends soin de\ntoi..."
+    },
+    "246160": {
+        "「ねえ　ユシュカ。\n　そのままでいいから　聞いて……。": "Dis, Yushka. Reste comme tu es et ecoute-moi…"
+    },
+    "246161": {
+        "「私　記憶がなくて　何も覚えてないけど……\n　自分が　何をしたいのか\n　何をするべきなのかは　わかるわ……。": "Je n'ai pas de souvenirs et je ne me souviens\nde rien, mais... Je sais ce que je veux faire\net ce que je dois accomplir..."
+    },
+    "246162": {
+        "「……あなたも　そうでしょう？\n　ナジーンと　一緒に見てきた　夢がある。\n　あなたにしか　できない役目が　あるはずよ。": "Toi aussi, n'est-ce pas ? Tu as partage des\nreves avec Najinn. Il y a un role que seul toi\npeux accomplir."
+    },
+    "246163": {
+        "「ユシュカ……。\n　あなたは　これから　どうしたい……？": "Yushka... Que souhaites-tu faire a partir de\nmaintenant ?"
+    },
+    "246164": {
+        "ゲルヘナ幻野の　東にある関所から\nベルヴァインの森に入り　ゼクレス城を目指そう。": "Depuis le poste de garde a l'est du champ de\nGerhena, entre dans la foret de Belvaine et\ndirige-toi vers le chateau de Zechres."
+    },
+    "246165": {
+        "「地下の侵入者とは　お前か。\n　卑しい　宝石売りのしもべめ……。": "Ainsi, c'est toi l'intrus venu des\nsouterrains. Serviteur meprisable d'un\nmarchand de pierres precieuses..."
+    },
+    "246166": {
+        "「一度ならず　二度までも　わらわに\n　歯向かったこと　後悔するがよいぞ！": "Non seulement une fois, mais deux fois, tu\nt'es oppose a moi. Tu vas le regretter !"
+    },
+    "246167": {
+        "「あ…姉上ぇっ！\n　城の正面も　突破されたようですぞ！": "Ah… Grande soeur ! Il semble que l'avant du\nchateau ait egalement ete franchi !"
+    },
+    "246168": {
+        "「エルガドーラぁ！ \n　バルディスタを愚弄した　その罪\n　貴様らの命で　あがなわせるッ！！": "Elgadora ! Pour le crime d'avoir insulte\nValdista, vous allez le payer de votre vie !"
+    },
+    "246169": {
+        "「滅ぶのはお前のほうだ　野蛮なサルめ。 \n　ゼクレス魔導国の　深淵なる叡智の結晶\n　その身で　とくと　味わうがよい！": "C'est toi qui periras, sale singe sauvage.\nGoute donc a l'incarnation de la sagesse, le\ncristal de Ravine de Zechres !"
+    },
+    "246170": {
+        "「は…母上…………僕は……\n　もう……やめ…………っ………………": "Mere... Je suis... Je ne peux plus...\narreter..."
+    },
+    "246171": {
+        "「ウ…ウォオオォオオッ……ガァ……\n　グアアアアアアアアアァァァァァッ！！": "Ou… Wooooh… Gaaah… Guaaaaaaaaah !!"
+    },
+    "246172": {
+        "「ハァアアアアアッッ！！": "Haaaahhh !!"
+    },
+    "246173": {
+        "「う…うっそだろ　おい…………。\n　ヴァレリアが………………やられた？": "I... Impossible, non... Valeria a ete...\nvaincue ?"
+    },
+    "246174": {
+        "「て　撤退ッ！　全軍　撤退だーーーッ！！": "Re... Retraite ! Toutes les troupes, battez en\nretraite !!!"
+    },
+    "246175": {
+        "「これで　わかっただろう　アスバル？ \n　母の言う通りにしていれば　この世のすべてを\n　ひざまずかせることが　できるのだ。": "Tu comprends maintenant, Asbal ? En suivant\nles conseils de maman, nous pourrons faire\nplier le monde entier."
+    },
+    "246176": {
+        "「お前は人形！　永遠に……わらわの人形！\n　アッハハハハハ……！！": "Tu es ma poupee ! Pour l'eternite... ma poupee\n! Ahahahaha... !!"
+    },
+    "246177": {
+        "「そんな　くされババアのざれ言などに\n　耳を貸すな　アスバル。": "N'ecoute pas les divagations de cette vieille\nsorciere, Asbal."
+    },
+    "246178": {
+        "「魔王たる者が　大魔王以外に\n　ひざを屈するなど　あってはならん。\n　俺が　お前を……　自由にしてやる！": "Un Seigneur des Tenebres ne devrait jamais\nplier le genou devant quiconque d'autre que le\nGrand Seigneur Demon. Je vais te liberer !"
+    },
+    "246179": {
+        "「オォォォオオォオオオオッ………！！": "Ooooooohhh... !!"
+    },
+    "246180": {
+        "「ちぃっ……なんだ　あの剣は！？\n　どこまでも　いまいましい男よ　ユシュカ！": "Chh... Qu'est-ce que c'est que cette epee !?\nCet homme est vraiment agacant, Yushka !"
+    },
+    "246181": {
+        "「わらわの魔力すべてを　お前にゆだねよう！\n　殺せ！　ユシュカを……殺してしまええぇッ！！": "Je te confie toute ma puissance magique !\nTue-le ! Tue Yushka !!"
+    },
+    "246182": {
+        "「アァ……アアアアァァァッ……！！": "Aaah... Aaaahhh... !!"
+    },
+    "246183": {
+        "「俺たちの　選ぶ道が交わった　その時\n　大きなチカラが　生まれる……。\n　魔界を動かすほどの　途方もないチカラが。": "Au moment ou nos chemins se croisent, une\ngrande puissance nait... Une force incroyable,\ncapable de faire bouger le monde des demons."
+    },
+    "246184": {
+        "「……あいつは　いつも　正論ばかりだ。\n　今なら　どんな強敵にも　負ける気がしない。": "Cet individu a toujours raison. En ce moment,\nje ne pense pas pouvoir perdre contre\nn'importe quel adversaire puissant."
+    },
+    "246185": {
+        "「さあ　俺たちが相手だ。\n　かかってこい　アスバル！！": "Allez, c'est nous que tu affrontes. Viens nous\ndefier, Asbal !!"
+    },
+    "246186": {
+        "「グオォオオォォオオオオオオオオオオッッ！！": "Groooooaaaarrrr !!"
+    },
+    "246187": {
+        "「ゥォオ……オオオォォオオオオン…………。": "Oooh... OooooOn........"
+    },
+    "246188": {
+        "「うう……っ…………。": "Ooh..."
+    },
+    "246189": {
+        "「…………アスバル。 \n　お前が………………": "Asbal. Toi..."
+    },
+    "246190": {
+        "「お前が……ナジーンを………………。": "Tu es... celui qui a... vaincu Najinn..."
+    },
+    "246191": {
+        "「ここは　こらえてくれ　ユシュカ王！ \n　ゼクレスの裏切りは　すべて　姉上が……\n　エルガドーラが　企んだことだったのだ。": "Je t'en prie, supporte cela, Roi Yushka ! La\ntrahison de Zekres, c'est entierement...\nC'etait un complot de ma soeur ainee, Elgadora."
+    },
+    "246192": {
+        "「見てくれ　アスバルの首輪を！\n　エルガドーラは　あれを介して\n　アスバルの意識を　ずっと　支配していた。": "Regarde le collier d'Asbal ! Elgadora\ncontrolait l'esprit d'Asbal grace a ca."
+    },
+    "246193": {
+        "「だが　エルガドーラは　もう死んだ！！\n　ミアラの宝杖も　壊されて\n　もう二度と　魔人が現れることはないっ！": "Cependant, Elgadora est deja mort ! Le baton\nprecieux de Miara a egalement ete detruit, et\nplus jamais le demon ne pourra etre invoque !"
+    },
+    "246194": {
+        "「き…貴殿は……アスバルの　友人だったはずだ。\n　だから　どうか　許してくれえっ……。": "Toi... Tu etais cense etre un ami d'Asbal.\nAlors, je t'en prie, pardonne-moi..."
+    },
+    "246195": {
+        "「………………許せない。": "Je ne peux pas pardonner."
+    },
+    "246196": {
+        "「ああ……許されるはずがない。 \n　どうしようもない　俺の落ち度だ…………。": "ああ Cela ne peut etre pardonne. C'est\nirremediablement ma faute..."
+    },
+    "246197": {
+        "「アスバルの異変に　気づけなかったのも！\n　ナジーンが……死んだのも……！\n　全部……全部……未熟だった　俺の…………。": "Le fait de ne pas avoir remarque le changement\nd'Asbal ! Que Najinn soit... mort... ! C'est\ntout... tout a cause de mon inexperience..."
+    },
+    "246198": {
+        "「……ふたりとも　無事でよかった。": "Je suis tellement soulage que vous soyez tous\nles deux en securite..."
+    },
+    "246199": {
+        "「この女が　しつこく　つきまとってきたんだ。\n　お前を助けに　ゼクレスに行け……とな。": "Cette femme s'est obstinee a me suivre. Elle\nm'a dit d'aller a Zecles pour te sauver...\nvoila."
+    },
+    "246200": {
+        "「魔界の三国　それぞれが　深手を負った。\n　もはや　戦争など　続けられるはずもない。\n　俺は　ファラザードを立て直す……。": "Les trois royaumes du monde demoniaque ont\nchacun subi de lourdes pertes. Il n'est plus\npossible de continuer la guerre. Je vais<br>reconstruire Pharazard..."
+    },
+    "246201": {
+        "「お前は　どうする？\n　この魔界を　どうしたいと思ってる？": "Que veux-tu faire ? Que souhaites-tu pour ce\nmonde demoniaque ?"
+    },
+    "246202": {
+        "「かなうことなら…… \n　お前が選ぶ　この先の道が\n　俺が選ぶ道と　交わっていてほしいものだ。": "Si possible... J'aimerais que le chemin que tu\nchoisis a partir de maintenant croise celui\nque j'ai choisi."
+    },
+    "246203": {
+        "「少なくとも　ナジーンは　それを望んでた。\n　……そうだろ？": "Au moins, Najinn le souhaitait. ...N'est-ce\npas ?"
+    },
+    "246204": {
+        "「今は　お互いに　時間が必要だ。\n　またな　<cs_pchero>……。": "Pour l'instant, nous avons besoin de temps\nchacun de notre cote. A plus tard,\n<cs_pchero>..."
+    },
+    "246205": {
+        "「……心の痛みを　乗り越えた時\n　人は　きっと　強くなれる。": "...Lorsque l'on surmonte la douleur du coeur,\non devient surement plus fort."
+    },
+    "246206": {
+        "「彼も　乗り越えられるわ。\n　あなたが　いろんな痛みを　乗り越えて\n　今　ここに　立っているように……。": "Il pourra aussi surmonter cela. Tout comme\ntoi, qui as surmonte tant de souffrances et te\ntiens ici maintenant..."
+    },
+    "246207": {
+        "「さあ……魔仙卿の所へ　戻りましょう。 \n　ずいぶん　長旅になってしまったから……\n　これまでのことを　報告したいわ。": "Allons... Retournons voir The Oracle. Ce\nvoyage a ete si long... Je veux lui faire un\nrapport sur tout ce qui s'est passe."
+    },
+    "246209": {
+        "「ヴァレリア…… \n　あんたが　いないんじゃ…………。": "Valeria... Sans toi ici..."
+    },
+    "246210": {
+        "「あ…あぁ…………。\n　僕は……なんてことを………………。": "Ah... Ah... Qu'ai-je donc fait... ?"
+    },
+    "246212": {
+        "「待て……。貴様　そこで止まれ！ ": "Attends... Toi, arrete-toi la !"
+    },
+    "246213": {
+        "「これより　我ら　バルディスタ軍は \n　砂漠を越え　ファラザードを攻める。\n　なんぴとたりとも　近づくことは許さん！": "A partir de maintenant, notre armee de\nValdistia traversera le desert et attaquera\nFarazard. Personne n'est autorise a<br>s'approcher !"
+    },
+    "246214": {
+        "「即刻　ここから立ち去れ！\n　さもなくば　容赦はしない……。": "Quittez immediatement cet endroit ! Sinon, je\nne ferai preuve d'aucune clemence..."
+    },
+    "246215": {
+        "「この砂漠の果て　ファラザードで \n　薄汚い盗っ人の王　ユシュカが\n　籠城を決め込んでいる……。": "A l'extremite de ce desert, a Phalazard, le\nroi des voleurs crasseux, Yushka, s'est\nretranche..."
+    },
+    "246216": {
+        "「奴は　我が手から　魔瘴の巫女を奪い去った。 \n　これは　我らへの　宣戦布告に他ならない。": "Il a arrache la pretresse du miasme de mes\nmains. Ceci n'est rien d'autre qu'une\ndeclaration de guerre contre nous."
+    },
+    "246217": {
+        "「真にチカラある者だけが　魔界を統べるに足る。 \n　魔界をたいらげ　アストルティアをこの手に。\n　大魔瘴期を生き残るのは　我らバルディスタだ！": "T. Seuls ceux qui possedent la force peuvent\nregner sur le monde demoniaque. Conquerir le\nmonde demoniaque et prendre Astoltia en main.<br>Nous, Baldista, survivrons a l'ere du Grand\nMiasme !"
+    },
+    "246218": {
+        "「全軍……進めッ！！": "Toute l'armee... En avant !!"
+    },
+    "246219": {
+        "「いたいたーっ！　探しちゃいましたよ～。\n　ぼく　魔仙卿さまの使いで　やってきました！": "Te voila ! Je t'ai cherche partout. Je suis\nvenu en tant qu'emissaire de The Oracle-sama !"
+    },
+    "246220": {
+        "「ああ　かわいそうな　イルーシャさん！\n　まさか　さらわれてしまうなんて……。": "Ah, pauvre Irusha-san ! Je n'aurais jamais\nimagine qu'elle serait enlevee..."
+    },
+    "246221": {
+        "「すぐにでも　助けてあげてほしいですけど\n　このまま　砂漠を進んだら\n　大きな戦いに　巻き込まれてしまいます……。": "Je voudrais que vous puissiez l'aider\nimmediatement, mais si vous continuez a\navancer dans le desert comme ca, vous serez<br>entraine dans une grande bataille..."
+    },
+    "246222": {
+        "「そこで　魔仙卿さまは　おっしゃいました。\n　少し遠回りですが　旧ネクロデア領から\n　ファラザードに入る道を　探してはどうかと～。": "C'est alors que The Oracle-sama a dit :\nPourquoi ne pas chercher un chemin pour entrer\na Farazard en passant par la region de Old<br>Necrodea, meme si c'est un petit detour ?"
+    },
+    "246223": {
+        "「はるか昔　戦争で滅んだ　ネクロデア王国……。  \n　かの国の王族は　領土と砂漠とを結ぶ\n　隠された交易路を　使っていたそうなんです。": "Il y a bien longtemps, le royaume de Necrodea\nfut detruit par la guerre... On raconte que la\nfamille royale de ce pays utilisait une route<br>commerciale cachee reliant leur territoire au\ndesert."
+    },
+    "246226": {
+        "「ゲルヘナ幻野の南西に　旧ネクロデア領への\n　関所があります。その巻物を持っていけば\n　関所の封印が　解けるでしょう。": "Au sud-ouest de Gerhena Field, il y a un poste\nde controle menant a la region de Old\nNecrodea. Si vous apportez ce parchemin, le<br>sceau du poste de controle devrait etre leve."
+    },
+    "246227": {
+        "「それから……戦争にそなえて　魔界のあちこちで\n　アビスゲートが　閉ざされてるみたいです～。": "Et puis... il semble que les Abyss Gate soient\nfermees un peu partout dans le monde des\ndemons en prevision de la guerre."
+    },
+    "246228": {
+        "「戦争が終われば　また　開放されるはずですが\n　それも　いつのことになるやら……。": "Quand la guerre sera finie, nous devrions etre\nliberes a nouveau... Mais qui sait quand cela\narrivera..."
+    },
+    "246229": {
+        "「では　ぼくは　これで……！\n　イルーシャさんのこと　よろしくお願いします！": "Alors, je vais y aller... ! Je compte sur vous\npour prendre soin d'Irusha-san !"
+    },
+    "247709": {
+        "「……さらばだ　ネクロデアよ。": "… Adieu, Necrodea."
+    },
+    "247710": {
+        "バルディア山岳地帯の\nアビスゲートが　閉ざされたようだ。": "Il semble que la Porte de l'Abime de la region\nde la Montagne Valdia ait ete fermee."
+    },
+    "248130": {
+        "「ユシュカ……<pc>が　来てくれたわ。 \n　みんな　あなたのことを　心配してる。\n　お願いだから　扉を開けて……。": "Yushka... <pc> est venu te voir. Tout le\nmonde s'inquiete pour toi. Je t'en prie, ouvre\nla porte..."
+    },
+    "249309": {
+        "「それならば　なぜ……\n　<pc>殿とは　協調できないのですか？": "Dans ce cas, pourquoi ne pouvez-vous pas\ncooperer avec <pc>-dono...?"
+    },
+    "249313": {
+        "<center>だったら　俺のために　生きろ。": "Dans ce cas, vis pour moi."
+    },
+    "249314": {
+        "<center>俺は　新しい国を作る。\nお前のチカラが　必要なんだ。": "Je vais creer un nouveau royaume. J'ai besoin\nde ta force."
+    },
+    "249315": {
+        "<center>一緒に行こう　ナジーン。": "Allons-y ensemble, Najinn."
+    },
+    "251321": {
+        "「どうか　旧ネクロデア領の　王都ネクロデア跡で\n　手がかりを　探してください！\n　こちらの巻物が　お役に立つはずです～。": "Je vous en prie, cherchez des indices dans les\nRuines de la Capitale de Necrodea, dans\nl'Ancienne Zone de Necrodea ! Ce parchemin<br>devrait vous etre utile ~."
+    },
+    "251322": {
+        "<pc>は　モモモから\n幽冥の巻物（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Scroll of the Dead de\nSanguin (objets cles) ! <me 60>"
+    },
+    "251323": {
+        "「……一緒に行こう　ナジーン。": "Allons-y ensemble, Najinn."
+    }
+}

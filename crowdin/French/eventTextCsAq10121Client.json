@@ -1,0 +1,107 @@
+{
+    "16059": {
+        "「先に　着いていたか。<pc>。": "Tu es deja arrive, <pc>."
+    },
+    "16060": {
+        "「では　今回の魔物狩りは\n　このメンバーで　行うこととしよう。": "Alors, cette fois, nous partirons chasser les\nmonstres avec cette equipe."
+    },
+    "16061": {
+        "「グロスナー王　直々の　お召しにより\n　ガートラントの華　このスピンドルも\n　緊急参戦いたしますぞ！": "Sur l'ordre direct de King Grossner, moi,\nSpindle, la fleur de Garro LMP, participe\nd'urgence au combat !"
+    },
+    "16062": {
+        "「自分は　いつ　いかなるときも\n　グロスナー王のそばにあって\n　護衛の任を　果たすのみであります。": "Je suis toujours aux cotes du Roi Grossner\npour accomplir mon devoir de garde du corps."
+    },
+    "16063": {
+        "「私　荒っぽいのは　苦手だと言ってるのに\n　無理矢理　参加させられてしまいました……。": "J'ai dit que je n'etais pas douee pour les\nchoses brutales, mais on m'a forcee a\nparticiper..."
+    },
+    "16064": {
+        "「ボヤくな　ボヤくな。\n　城に　閉じこもってばかりいないで\n　たまには　身体を動かすのも　いいものだぞ。": "Ne te plains pas, ne te plains pas. Ca fait du\nbien de bouger un peu de temps en temps,\nplutot que de rester toujours enferme dans le<br>chateau."
+    },
+    "16065": {
+        "「さて　今回の獲物だが……\n　このザマ峠の　博愛の碑辺りに　出現する\n　<%sEV_QUE_NAME0>にしようと思う。": "さて、今回の獲物だが このZama\nPassの博愛の碑辺りに出現する<%sEV_QUE_NAME0>にしようと思う"
+    },
+    "16066": {
+        "「だが　普通に倒すだけでは　つまらんからな。\n　ひとつ　競争することにしようか。\n　優勝者には　わしから　ほうびを取らせよう。": "Mais simplement le vaincre serait ennuyeux.\nPourquoi ne pas faire une petite competition ?\nJe recompenserai le vainqueur."
+    },
+    "16067": {
+        "「<%sEV_QUE_NAME0>が　よく落とす\n　地竜のツノ。これを　いちばん早く\n　持ってきた者を　優勝としようぞ！": "<%sEV_QUE_NAME0> fait souvent tomber la Corne\nde Dragon de Terre. Celui qui l'apportera le\nplus rapidement sera declare vainqueur !"
+    },
+    "16068": {
+        "「それなら　審判は　私が　引き受けましょう。\n　地竜のツノを　手に入れた方は　\n　私のところまで　持ってきてください。": "Dans ce cas, je prendrai le role du juge. La\npersonne qui obtiendra le Earth Dragon Horn\ndevra me l'apporter."
+    },
+    "16069": {
+        "「では　今から　狩りの開始じゃ！\n　皆　ケガなどせぬよう　気をつけて\n　ハンティングするのじゃぞ！": "Alors, la chasse commence maintenant ! Faites\nattention a ne pas vous blesser et chassez\nprudemment, tout le monde !"
+    },
+    "16070": {
+        "「き　貴様たちっ　何者だっ！？": "Qu- Qui etes-vous donc !?"
+    },
+    "16071": {
+        "「今のは　グロスナー王の声っ！？": "C'etait la voix de King Grossner ?!"
+    },
+    "16072": {
+        "「大丈夫か　リッグ？": "Ca va, Rigg ?"
+    },
+    "16073": {
+        "「ぐうう……。": "Grrr..."
+    },
+    "16074": {
+        "「……貴様ら。わしを　ガートラント国王\n　グロスナーと知っての　ろうぜきかっ！？": "Vous miserable"
+    },
+    "16075": {
+        "「もちろん　よーく　ご存知さ。\n　オーガという種族全体を　堕落させる\n　罪深き　ガートラント王家のグロスナー王。": "Bien sur, je suis parfaitement au courant. Le\npecheur King Grossner de la famille royale\nGarトLMPト qui a corrompu toute la race Ogre."
+    },
+    "16076": {
+        "「我らは　ガズバランの牙！\n　オーガの未来を憂う　秘密結社よ。": "Nous sommes les crocs du GazubaLMP ! Une\nsociete secrete preoccupee par l'avenir des\nOgre."
+    },
+    "16077": {
+        "「ガズバランの……だと？": "Le Gazba LMP... quoi ?"
+    },
+    "16078": {
+        "「その生涯を　ひたすら修行に費やす\n　オーガ本来の生き方を　取り戻すため\n　ジャマ者の陛下には　ご退場願いましょう。": "Consacrons notre vie entiere a l'entrainement,\nafin de retrouver le mode de vie originel des\nOgres. Demandons donc a Sa Majeste, qui nous<br>entrave, de se retirer."
+    },
+    "16079": {
+        "「グロスナー王　ご無事ですかーっ！！": "King Grossner, etes-vous en securite ?!!"
+    },
+    "16080": {
+        "<center>待て……。": "Attends..."
+    },
+    "16081": {
+        "<center>あの後ろにいる　旅人。\nヤツには　お前たちでは勝てぬ。\n今は　退け……。": "Le voyageur derriere vous. Vous ne pouvez pas\nle vaincre. Retirez-vous pour l'instant..."
+    },
+    "16082": {
+        "「上からの命令だ。退くぞ！": "C'est un ordre d'en haut. On se retire !"
+    },
+    "16083": {
+        "グロスナー王を救った　<pc>たちは\nケガを負った　兵士リッグを運んで\nザマ烽火台まで　戻った。": "Les <pc>, ayant sauve le Roi Grossner,\ntransporterent le soldat blesse Rigg jusqu'a\nla tour de guet de Zama."
+    },
+    "16084": {
+        "参謀マグナスや　スピンドル兵士長も合流し\n魔物狩りは　終了となった。": "Le stratege Magnus et le capitaine Spindle se\nsont egalement joints a nous, et la chasse aux\nmonstres a pris fin."
+    },
+    "16085": {
+        "「ガズバランの牙……\n　そのような　危険な秘密結社が\n　ガートラント王家を狙っていたとは……。": "Les crocs de Gazba LMP... Je ne peux croire\nqu'une societe secrete aussi dangereuse visait\nla famille royale Garto LMP..."
+    },
+    "16086": {
+        "「その場にいれば　このスピンドルが\n　けちらしてやりましたものを……\n　無念であります。": "Si j'avais ete present, ce Spindle aurait\ndisperse ceux qui s'opposaient... Quelle\nfrustration."
+    },
+    "16087": {
+        "「ともかく　大事なくて　よかった。\n　リッグのケガも　たいしたことがなくて\n　ひと安心じゃ。": "Quoi qu'il en soit, je suis soulage qu'il n'y\nait rien de grave. La blessure de Rigg n'est\npas non plus tres serieuse, c'est un<br>soulagement."
+    },
+    "16088": {
+        "「ところで　魔物狩り競争は　どうなった？\n　わしは　ウヤムヤにするつもりは　ないぞ。": "Au fait, qu'en est-il de la competition de\nchasse aux monstres ? Je n'ai pas l'intention\nde laisser ca dans le flou."
+    },
+    "16089": {
+        "「それでしたら　１位は　グロスナー王。\n　２位は　<pc>さんです。\n　他の方は　地竜のツノを持っていませんな。": "Si c'est le cas, le premier est King Grossner.\nLe deuxieme est <pc>-san. Les autres\nn'ont pas de Corne de Dragon Terrestre."
+    },
+    "16090": {
+        "「……フム。そうか　わしの優勝か！\n　しかし　わしが　賞品をもらっても　仕方ない。\n　優勝の名誉だけを　いただくとしよう。": "...Hmm. Je vois, c'est ma victoire !\nCependant, il ne serait pas approprie que je\nrecoive le prix. Je vais me contenter de<br>l'honneur de la victoire."
+    },
+    "16091": {
+        "「というわけで　優勝賞品は　２位である\n　<pc>に　贈るとしよう。\n　さあ　ありがたく　受け取るがよいぞ。": "Et donc, le prix du vainqueur sera offert a\n<pc> qui est arrive en deuxieme\nposition. Allez, accepte-le avec gratitude."
+    },
+    "16092": {
+        "「今回の魔物狩りは　これで終了とする。\n　思いがけぬトラブルも　起こったが\n　ひさしぶりで　なかなか　楽しめたぞ。": "Cette chasse aux monstres se termine ici. Bien\nqu'il y ait eu des imprevus, cela faisait\nlongtemps et je me suis bien amuse."
+    },
+    "16093": {
+        "「では　わしらは　城に戻るとしよう！\n　<pc>　ジャンガ　ご苦労であった。": "Alors, retournons au chateau ! <pc>,\nJanga, bon travail."
+    }
+}

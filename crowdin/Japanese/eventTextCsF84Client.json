@@ -1,0 +1,2360 @@
+{
+    "201401": {
+        "「……イア・タア　シンパッ・ケウ。\n　イア・タア　シンパッ・ケウ。": "...Ia Taa Shinpa Kew. Ia Taa Shinpa Kew."
+    },
+    "201402": {
+        "「親愛なる　市民のみなさん。\n　私は　永世管理者プクラスです。": "Chers citoyens, Je suis Pukulas,\nl'administrateur eternel."
+    },
+    "201403": {
+        "「まもなく　奉仕の時間が　始まります。": "Le temps de service va bientot commencer."
+    },
+    "201404": {
+        "「本日　奉仕当番にエントリーされている\n　市民番号の方は　すみやかに\n　奉仕室へ　移動してください。": "Aujourd'hui, les citoyens dont le numero est\ninscrit pour le service de garde sont pries de\nse rendre rapidement a la salle de service."
+    },
+    "201405": {
+        "「思考や　感情は　エネルギー効率を損ないます。\n　市民のみなさんは　全体の幸福のために\n　管理者プクラスの命令に　従ってください。": "Les pensees et les emotions nuisent a\nl'efficacite energetique. Citoyens, pour le\nbonheur de tous, veuillez suivre les ordres de<br>l'administrateur Pukulas."
+    },
+    "201406": {
+        "<pipipi_low>「はい　プクラス様。\n　我々は　模範的な市民です。": "<pipipi_low> Oui, Pukulas-sama. Nous sommes\ndes citoyens exemplaires."
+    },
+    "201407": {
+        "<pipipi_low>「個人の意思など　不要。\n　我々は　全体のため奉仕すること以外を\n　望みません。": "<pipipi_low>La volonte individuelle est\ninutile. Nous ne souhaitons rien d'autre que\nde servir le collectif."
+    },
+    "201408": {
+        "「市民のみなさんの　精神エネルギーが\n　我々　全員の生活を　維持しています。": "L'energie spirituelle de vous, citoyens,\nsoutient la vie de nous tous."
+    },
+    "201409": {
+        "「これからも　全体の幸福のため\n　どうか　模範的な市民で　いてください。\n　さあ……もっと　エネルギーを……": "Pour le bien-etre de tous, je vous prie de\nrester des citoyens exemplaires. Allez...\nencore plus d'energie..."
+    },
+    "201410": {
+        "<pipipi_low>「イア・タア　シンパッ・ケウ。\n　はい……我々は　幸福です。": "<pipipi_low>Ia! Taa Shinpakkew. Oui... Nous\nsommes heureux."
+    },
+    "201411": {
+        "<pipipi_low>「我々は　幸福です。": "<pipipi_low>Nous sommes heureux."
+    },
+    "201412": {
+        "<pipipi_low>「イア・タア　シンパッ・ケウ……\n　イア・タア　シンパッ・ケウ……！": "<pipipi_low>イア・タア シンパッ・ケウ イア・タア シンパッ・ケウ！"
+    },
+    "201413": {
+        "しばらくして　プクリポたちは\n謎の機械から　出ると\nそれぞれ　町へ帰っていった……。": "Apres un moment, les Pukulipo sortirent de la\nmysterieuse machine et retournerent chacun\ndans leur ville..."
+    },
+    "201414": {
+        "なんと　知理の石版が　突然　光りだした！": "Le Wisdom Tablet s'est soudainement mis a\nbriller !"
+    },
+    "201415": {
+        "<center>！　緊急モード　！": "! Mode d'urgence !"
+    },
+    "201416": {
+        "<center>この　◎？……▲＃ットの　指示に従い\n休眠中の管理者……■○＆％を\n目覚めさせ＝……★！＠Ｘ……": "Suivez les instructions de cet ◎？▲＃ット pour\nreveiller l'administrateur en sommeil■○＆％＝★！＠Ｘ"
+    },
+    "201417": {
+        "「緊急モードを　認証しました♪": "Mode d'urgence active ♪"
+    },
+    "201418": {
+        "「エレベーターの　ロックを　解除いたしまーす♪\n　上層にある　管理棟へ　向かってくださーい♪": "Je vais deverrouiller l'ascenseur ♪ Veuillez\nvous diriger vers le batiment Admin situe a\nl'etage superieur ♪"
+    },
+    "201419": {
+        "「ひさしぶりね　<pc>！\n　賢者ルシェンダ様から　連絡を受けて\n　エテーネの村から　やって来たのよ。": "Ca fait longtemps, <pc> ! Je suis venue\ndu village d'Ethene apres avoir recu un\nmessage de Sage Lushenda-sama."
+    },
+    "201420": {
+        "「メレアーデ姫に　関わりのある話ゆえ\n　グランゼドーラまで　ご足労いただいたのだ。\n　さて　残るは　あとひとりだが……": "Etant donne que cela concerne la princesse\nMereade, vous avez fait l'effort de venir\njusqu'a GlLMP Zedora. Maintenant, il ne reste<br>plus qu'une personne..."
+    },
+    "201421": {
+        "「ちょうどいいところへ　来たようだ。\n　入ってくれ。": "Tu arrives au bon moment. Entre, je te prie."
+    },
+    "201422": {
+        "「ファラス……！\n　よかった……。やっと　話せるのね。": "Faras... ! Je suis soulagee... On peut enfin\nparler."
+    },
+    "201423": {
+        "「メレアーデ様！\n　よくぞ　ご無事でいらっしゃいました！": "Mereade-sama ! Je suis tellement soulage que\nvous soyez saine et sauve !"
+    },
+    "201424": {
+        "「賢者ルシェンダ殿。\n　メレアーデ様は　我が主の　姪御にあたる方。\n　お引き合わせくださり　感謝いたします。": "Sage Lushenda-dono. Mereade-sama est la niece\nde notre Seigneur. Je vous remercie de nous\navoir mis en contact."
+    },
+    "201425": {
+        "「そして　<pc>殿も！\n　そなたまで　この時代に　飛ばされてきたとは\n　なんと　奇遇であろうか。": "Et <pc>-dono aussi ! Que tu aies ete\nprojete dans cette epoque, quelle coincidence\nincroyable."
+    },
+    "201426": {
+        "「逆なのよ　ファラス。\n　<pc>は　この時代の住人。\n　エテーネ王国の時代へ　時渡りしてきていたの。": "En fait, c'est le contraire, Faras. <pc>\nest un habitant de cette epoque. Il a voyage\ndans le temps jusqu'a l'epoque du royaume<br>d'Ethene."
+    },
+    "201427": {
+        "「この時代から　時渡りを……？\n　エテーネ王家の者でもない　そなたに\n　そのようなことが　可能とは……": "Voyager dans le temps depuis cette epoque... ?\nCe n'est pas possible, meme pour quelqu'un de\nla famille royale d'Ethene, alors comment cela<br>pourrait-il etre possible pour toi..."
+    },
+    "201428": {
+        "「いえ　なんでもございません。\n　……して　ルシェンダ殿。\n　自分は　何を話せば　よいのでしょうか。": "Non, ce n'est rien. ...Alors, Dame Lushenda.\nDe quoi devrais-je parler ?"
+    },
+    "201429": {
+        "「思いだしたこと　その　すべてを。\n　ファラス殿の記憶が　この世界を救うカギと\n　なるやもしれんのでな。": "Tout ce que j'ai rappele. Les souvenirs de\nFaras-dono pourraient etre la cle pour sauver\nce monde."
+    },
+    "201430": {
+        "「承知いたしました。": "Je comprends."
+    },
+    "201431": {
+        "「<pc>殿も　知っての通り……\n　あの日　いずこかから現れた　異形の魔物は\n　エテーネ王宮を　襲いました。": "Comme vous le savez, <pc>-dono... Ce\njour-la, une creature monstrueuse venue d'on\nne sait ou a attaque le Palais Royal d'Ethene."
+    },
+    "201432": {
+        "「我が主の奥方　マローネ様と　その愛し子を\n　お助けするため　自分も　必死に戦いましたが\n　とうとう　魔物の群れに取り囲まれ……": "Pour venir en aide a Lady Marone, l'epouse de\nnotre Lord, ainsi qu'a leur cher enfant, je me\nsuis battu avec acharnement. Mais finalement,<br>nous avons ete encercles par la horde de\nmonstres..."
+    },
+    "201433": {
+        "「もはや　これまでと思った　その時。\n　マローネ様の　ウデの中の赤子が\n　突然　時渡りのチカラを　発揮なされたのです。": "Au moment ou nous pensions que tout etait\nperdu, soudain, l'enfant dans les bras de\nMarone-sama a manifeste le pouvoir de voyager<br>a travers le temps."
+    },
+    "201434": {
+        "「あの子に　そんなチカラが！？": "Cette fille a un tel pouvoir !?"
+    },
+    "201435": {
+        "「赤子ながらに　身の危険を　感じとられたのか\n　お父上ゆずりの　類まれなる才能を発揮し\n　いずこかへと　時渡りなされてしまいました。": "Bien que ce soit encore un bebe, il semble\navoir ressenti le danger qui le menacait. Il a\nmanifeste le talent exceptionnel herite de son<br>pere et a voyage a travers le temps vers un\nlieu inconnu."
+    },
+    "201436": {
+        "「そこで　マローネ様は　赤子を守るようにと\n　かすかに残る　時渡りの痕跡をたどり　すぐさま\n　この　ファラスを　時間跳躍させたのです。": "C'est ainsi que Marone-sama, pour proteger\nl'enfant, a suivi les faibles traces restantes\ndu voyage temporel et a immediatement fait<br>sauter Faras dans le temps."
+    },
+    "201437": {
+        "「その間際　マローネ様は　ご自身の持つ\n　時渡りのチカラでは　ひとりを送りだすのが\n　精一杯だと……　そう　おっしゃっていました。": "Pendant ce moment-la, Marone-sama a dit que,\navec son propre pouvoir de traverser le temps,\nelle ne pouvait envoyer qu'une seule<br>personne... C'est ce qu'elle a dit."
+    },
+    "201438": {
+        "「……ひとりを　送り出すのが　精一杯？\n　じゃあ　マローネ叔母様は　エテーネ王宮から\n　時渡りすることも　逃げることもできずに……": "Envoyer une seule personne, c'est tout ce que\nnous pouvons faire ? Alors, Tante Marone ne\npourra ni traverser le temps depuis le Palais<br>Royal d'Ethene, ni s'enfuir..."
+    },
+    "201439": {
+        "「マローネ叔母様……。私たち　姉弟を\n　あんなに　かわいがってくださったのに……。\n　クオードが知ったら　どんなに　悲しむか……。": "Marone tante-sama... Vous nous avez tant\ncheris, mon frere et moi... Quard sera\ntellement triste quand il l'apprendra..."
+    },
+    "201440": {
+        "「メレアーデ様。\n　クオード坊っちゃんは　どちらに？\n　ご一緒では　ないのですか？": "Mereade-sama. Ou est le jeune maitre Quard ?\nN'etes-vous pas avec lui ?"
+    },
+    "201441": {
+        "「あの子の行方も　わからないの。\n　まったく　手がかりがなくて……。": "Je ne sais pas non plus ou est passe cet\nenfant. Je n'ai absolument aucun indice..."
+    },
+    "201442": {
+        "「……あなた方に　お集まりいただいた理由は\n　もうひとつ。まさしく　そのクオード殿について\n　報告せねばならんことが　あったからだ。": "......La raison pour laquelle je vous ai\nreunis ici est double. En effet, j'ai une\ninformation importante a vous communiquer au<br>sujet de Quard-dono."
+    },
+    "201443": {
+        "賢者ルシェンダは　<pc>が\n古代ウルベア帝国で　成長したクオードと　再会し\n彼が　死に至るまでの経緯を　説明した。": "Sage Lushenda a retrouve Quard, qui avait\ngrandi a <pc> dans l'ancien Empire\nUrbea, et lui a explique les circonstances qui<br>l'ont conduit a la mort."
+    },
+    "201444": {
+        "「まさか……そんな！　クオードが！？": "Impossible... Non ! Quard !?"
+    },
+    "201445": {
+        "「クオード坊っちゃん……。\n　時渡りの果てに　異郷の地で　十数年も……\n　どんなにか　おつらかったことでしょう。": "Quard, jeune maitre... Apres avoir traverse le\ntemps et passe plus de dix ans en terre\netrangere... Cela a du etre terriblement<br>difficile pour vous."
+    },
+    "201446": {
+        "「エテーネ王国を　救うためとはいえ\n　坊っちゃんが　なされたという所業は\n　決して　許されることでは　ありませんが……": "Bien que ce soit pour sauver le royaume\nd'Ethene, ce que le jeune maitre a accompli\nest quelque chose qui ne peut jamais etre<br>pardonne..."
+    },
+    "201447": {
+        "「今は　ただ　クオード様の魂が\n　安らかならんことを　祈るばかりです……。": "En ce moment, je ne peux que prier pour que\nl'ame de Quard-sama repose en paix..."
+    },
+    "201448": {
+        "「………………。": ""
+    },
+    "201449": {
+        "「エテーネ王宮の消失と　それにともなう\n　数々の悲劇について　異なる時代の　我々には\n　理解しきれるものではないが……": "La disparition du Palais Royal d'Ethene et les\nnombreuses tragedies qui l'accompagnent sont\ndes evenements que nous, appartenant a une<br>epoque differente, ne pouvons pas completement\ncomprendre..."
+    },
+    "201450": {
+        "「親しい者を亡くした　その哀しみ……\n　生きる時代が違えども　察して　あまりある。\n　……お悔やみを申し上げる。": "La perte d’un etre cher... Cette douleur... Je\nla comprends, meme si nous vivons a des\nepoques differentes. ...Je vous presente mes<br>sinceres condoleances."
+    },
+    "201451": {
+        "「そして　その元凶であった　黒衣の剣士パドレ。\n　彼の背後に　うごめく存在も\n　ついに　姿を現したのだったな。": "Et donc, le Pere, qui etait la cause de tout\ncela. L'entite qui se mouvait dans son ombre a\nfinalement revele sa presence."
+    },
+    "201452": {
+        "「我が主　パドレ様の　あの変わりよう……。\n　いったい　何が　あったのです？\n　<pc>殿！　教えてください！！": "Le changement de notre Seigneur Padre-sama...\nQu'est-ce qui a bien pu se passer ?\n<pc>-dono ! S'il vous plait, dites-le<br>moi !!"
+    },
+    "201453": {
+        "<pc>は　ファラスに\nウルベア大魔神のもとに現れた\n黒衣の剣士パドレと　戦ったこと……": "<pc> a raconte a Faras qu'il a combattu\nPadre sous Urbea Colossus..."
+    },
+    "201454": {
+        "そして　黒衣の剣士パドレが\nキュロノスと名乗る　時見の箱に\nあやつられているらしいと　説明した！": "Et puis, Padre a explique qu'il semblait etre\nmanipule par la Timeseer Box qui se fait\nappeler Kyuronos !"
+    },
+    "201455": {
+        "「時見の箱が　我が主を！？": "La Timeseer Box a pris notre Seigneur !"
+    },
+    "201456": {
+        "「そうか……それが　まことなら\n　これまでの違和感にも　納得がいく。": "Je vois... Si c'est vrai, ca expliquerait les\nincongruites que j'ai ressenties jusqu'a\npresent."
+    },
+    "201457": {
+        "「やはり　パドレ様を信じていて　よかった。\n　……<pc>殿　ご報告　感謝する。": "Je suis vraiment content d'avoir fait\nconfiance a Padre-sama. ...<pc>-dono, je\nte remercie pour ton rapport."
+    },
+    "201458": {
+        "「だが　エテーネ王家　最高の\n　時渡りのチカラの持ち主と　呼ばれた\n　我が主を　あやつるとは……。": "Cependant, manipuler notre Seigneur, qui etait\nappele le plus grand maitre du voyage temporel\nde la famille royale d'Ethene..."
+    },
+    "201459": {
+        "「……うむ。\n　おそるべきは　時見の箱……だな。": "Hmm. Ce qui est redoutable, c'est la Timeseer\nBox... n'est-ce pas ?"
+    },
+    "201460": {
+        "「……賢者ルシェンダ様。\n　パドレ叔父様を　時見の箱から　解放し\n　正気に戻す方法は　ないのですか？": "Sage Lushenda-sama. N'y a-t-il pas un moyen de\nliberer Oncle Padre de la Timeseer Box et de\nlui rendre sa lucidite ?"
+    },
+    "201461": {
+        "「私の　大切な人たちは　みんな死んでしまった。\n　せめて……パドレ叔父様だけでも\n　なんとか　助けたいんです！": "Mes proches, tous ceux qui comptaient pour\nmoi, sont morts. Au moins... Je veux sauver au\nmoins mon oncle Padre !"
+    },
+    "201462": {
+        "「そう　言われるだろうと　思ってな。\n　すでに　ある人物に　調査させておいた。": "Je m'y attendais. J'ai deja charge quelqu'un\nde mener l'enquete."
+    },
+    "201463": {
+        "「現在　メレアーデ姫が　滞在している\n　エテーネの村の　シンイ……あやつが\n　人の記憶をあやつる術に　くわしいのだ。": "P. A propos, la princesse Mereade reside\nactuellement au village d'Ethene... Shini...\nelle est tres versee dans l'art de manipuler<br>la memoire des gens."
+    },
+    "201464": {
+        "「メレアーデ姫。エテーネの村へ　戻り\n　シンイに　相談するとよい。\n　きっと　チカラになってくれるはずだ。": "Mereade-hime. Retourne au village d'Ethene et\nconsulte Shini. Je suis sur qu'il pourra\nt'aider."
+    },
+    "201465": {
+        "「賢者ルシェンダ殿　感謝いたします！": "Sage Lushenda-dono, je vous remercie !"
+    },
+    "201466": {
+        "「エテーネの村までは\n　私が　案内するわ。ファラス。\n　<pc>　あなたも　一緒に……": "Jusqu'au village d'Ethene, je vais te guider.\nFaras. <pc>, tu viens aussi avec nous..."
+    },
+    "201467": {
+        "「失礼いたします！\n　メギストリス王国　ラグアス王子より　急使が！": "Excusez-moi ! Un messager urgent de la part du\nPrince Raguas du Royaume de Megistris !"
+    },
+    "201468": {
+        "「<pc>さんに　大切なご用事があるため\n　すぐに　メギストリス城まで\n　おいで願いたいとの　お言葉です！": "<pc>-san a une affaire importante a\nregler, il vous demande donc de bien vouloir\nvous rendre immediatement au chateau de<br>Megistris !"
+    },
+    "201469": {
+        "「ラグアス王子が？\n　もしや　プクランドにも　あの繭が……！？": "Prince Raguas ? Se pourrait-il que le cocon\nsoit aussi dans le Puk LMPド... !?"
+    },
+    "201470": {
+        "「そういうことなら　エテーネ村へは\n　ファラスと私が　行きましょう。": "Si c'est comme ca, Faras et moi irons au\nvillage d'Ethene."
+    },
+    "201471": {
+        "「かしこまりました！　では　参りましょう。\n　メレアーデ様！": "Bien compris ! Allons-y alors. Mereade-sama !"
+    },
+    "201472": {
+        "「<pc>。お前は　ラグアス王子が待つ\n　メギストリス城へ　向かってくれ。\n　……頼んだぞ。": "<pc>. Dirige-toi vers le chateau de\nMegistris ou le prince Raguas t'attend. Je\ncompte sur toi."
+    },
+    "201473": {
+        "「……見える。\n　滅びゆく世界を照らす　かすかな光。\n　ぼくたちを　導いてくれる　その者は……": "Je vois. Une faible lumiere eclaire le monde\nen perdition. Celui qui nous guidera est..."
+    },
+    "201474": {
+        "「これが……\n　アストルティアの未来を守る　カギなんだね。\n　アルウェお母さん……！": "Ca, c'est donc... la cle pour proteger\nl'avenir d'Astoltia. Maman Alwe... !"
+    },
+    "201475": {
+        "「……<pc>さん！？\n　いつから　そこに　いらしたんですか？": "<pc>-san !? Depuis quand etes-vous la ?"
+    },
+    "201476": {
+        "「お久しぶりです。\n　突然　お呼び立てして　申し訳ありません。": "Ca fait longtemps. Je suis desole de vous\navoir appele si soudainement."
+    },
+    "201477": {
+        "「先日　城に立ちよった　賢者ホーロー様から\n　<pc>さんが　ドワチャッカに出現した\n　大魔神を退治したと　聞きましたよ。": "L'autre jour, le sage Hollow-sama, en passant\npar le chateau, nous a dit que <pc>-san\navait vaincu le grand demon a Dwachakka."
+    },
+    "201478": {
+        "「さすがは　<pc>さんです。\n　……あなたの活躍ぶりを　聞いて\n　ぼくは　自分の予知に　確信を持ちました。": "Comme attendu de <pc>-san. ...En\nentendant parler de vos exploits, je suis\ndevenu certain de ma premonition."
+    },
+    "201479": {
+        "「……そう　ぼくは　予知をしたのです。": "…Oui, j'ai eu une premonition."
+    },
+    "201480": {
+        "<center>プクラスという名の　プクリポ\nピィピのお宿に捨てられた　古びた石版\nそして……救世の英雄　<pc>。": "Le Pukulipo nomme Pukulas, la vieille tablette\nabandonnee a l'auberge de Piipi, et... le\nheros sauveur <pc>."
+    },
+    "201481": {
+        "<center>時を超えし魔獣がもたらす　滅びより\nアストルティアを　救えるのは\nプクラスと　古びた石版　<pc>のみ……。": "Le seul moyen de sauver Astoltia de la\ndestruction apportee par la bete temporelle\nest grace a Pukulas et a l'ancienne tablette<br><pc>..."
+    },
+    "201482": {
+        "「プクランド中を　探しても\n　プクラスという名の　プクリポは　存在しない。\n　だから　はじめ　予知は間違いだと思いました。": "Meme en cherchant au coeur de PukuLMP, un\nPukulipo nomme Pukulas n'existe pas. C'est\npourquoi, au debut, j'ai cru que la<br>premonition etait erronee."
+    },
+    "201483": {
+        "「偶然にも　予知は　ふたりのプクラスを示した。\n　でも　プクランド中を探しても　もうひとりは\n　見つからない。ぼくは　予知を疑いました。": "Par coincidence, la prophetie designait deux\nPukulas. Cependant, meme en cherchant dans\ntout PlukLMP, je n'ai pas trouve le second.<br>J'ai commence a douter de la prophetie."
+    },
+    "201484": {
+        "「けれど　予知が示した場所……\n　ピィピのお宿の　片隅で\n　この　古びた石版が　見つかったのです。": "Cependant, a l'endroit indique par la\nprophetie... Dans un coin de l'auberge de\nPiipi, cette vieille tablette a ete<br>decouverte."
+    },
+    "201485": {
+        "「これだけなら　偶然かもしれません。\n　ですが　予知は　<pc>さんを　示した。": "Cela pourrait etre une coincidence si c'etait\ntout. Mais la premonition a indique\n<pc>-san."
+    },
+    "201486": {
+        "「あなたは　プクランドを……いえ　世界を\n　幾度となく救ってきた　英雄です。\n　だから　ぼくは　自分の予知を　信じます。": "Vous etes un heros qui a sauve le Royaume de\nPuku... non, le monde a plusieurs reprises.\nC'est pourquoi je crois en ma propre<br>premonition."
+    },
+    "201488": {
+        "「お話し中　失礼いたします！": "Excusez-moi de vous interrompre pendant votre\nconversation !"
+    },
+    "201489": {
+        "「エピステーサ丘陵の　底なし穴　内部に\n　巨大な繭が　出現したそうです！": "Il parait qu'un immense cocon est apparu a\nl'interieur du gouffre sans fond d'Epistesa\nHills !"
+    },
+    "201491": {
+        "「まさか……世界各地に出現した　あの繭なのか？\n　たしか　あの地の底には　莫大な魔瘴が……。": "Serait-ce possible... que ce soit le meme\ncocon qui est apparu dans le monde entier ? Si\nje me souviens bien, il y a une immense<br>concentration de miasmes malefiques sous cette\nterre..."
+    },
+    "201492": {
+        "「賢者ホーロー様の話では　これまでの魔獣は\n　それぞれの大陸で　何らかのチカラを\n　吸収してきたそうですね。": "Selon les dires de Sage Hollow-sama, il semble\nque les betes demoniaques ont absorbe une\ncertaine forme de pouvoir sur chaque continent<br>jusqu'a present."
+    },
+    "201493": {
+        "「もし　繭とともに　出現した生物が\n　例の魔獣だとすれば　目的は　プクランド大陸の\n　地底に眠る　莫大な魔瘴なのかも　しれません。": "Si la creature apparue avec le cocon est bien\nla fameuse bete magique, son objectif pourrait\netre la vaste energie malefique qui sommeille<br>sous le continent de Puku LMP."
+    },
+    "201495": {
+        "「はっ！　主任研究員　パルミオ博士の管理下にて\n　厳重に施錠され　一般市民の立ち入りは\n　禁じられているはずです！": "Ah ! Sous la supervision stricte du chercheur\nLord Nin et du Dr. Palmio, cet endroit est\nfermement verrouille et l'acces aux citoyens<br>ordinaires est interdit !"
+    },
+    "201497": {
+        "「<pc>さん。あなたに\n　魔瘴調査区画の調査を　お願いします。\n　まずは　パルミオ博士に　会ってください。": "<pc>-san. Je vous confie la mission\nd'explorer la zone d'etude de Miasma.\nCommencez par rencontrer le Dr. Palmio, s'il<br>vous plait."
+    },
+    "201498": {
+        "「おお！　かぐわしくも　濃密なる　魔瘴の香り！\n　……長年　この場所の調査を　やっているが\n　こんな下層まで　降りてきたのは　はじめてだ。": "Oh ! Le parfum envoutant et dense de cette\nmiasme magique ! ...Cela fait des annees que\nj'etudie cet endroit, mais c'est la premiere<br>fois que je descends aussi profondement."
+    },
+    "201499": {
+        "「これっ　勝手に　先に行くでない！\n　何が　待ち受けているか　わからんのだぞ！": "He, ne pars pas tout seul devant ! On ne sait\npas ce qui nous attend la-bas !"
+    },
+    "201500": {
+        "「まったく……。\n　この　デンジャーかつ　シリアスな局面で\n　はしゃぎおるとは。困ったヤツじゃ。": "Vraiment... Dans cette situation a la fois\ndangereuse et serieuse, il trouve encore le\nmoyen de s'amuser. Quel personnage."
+    },
+    "201501": {
+        "「おお　<pc>か。\n　ルシェンダさまから　例の繭が　現れたと聞き\n　わしも　駆けつけてみたんじゃが……": "Oh, c'est toi, <pc>. J'ai entendu dire\npar Dame Lushenda que le fameux cocon a ete\nacheve, alors je suis venu en toute hate..."
+    },
+    "201502": {
+        "「どうやら　アタリだったようじゃな。": "On dirait que c'etait un coup gagnant."
+    },
+    "201503": {
+        "「この穴の　上にあるのは\n　あちこちに　現れた　例の繭と同じもの。\n　とすると　近くに魔獣が……？": "Ce qui est au-dessus de ce trou, c'est le meme\ncocon que celui que l'on trouve un peu\npartout. Ce qui signifie qu'il y a<br>probablement une bete magique a proximite..."
+    },
+    "201504": {
+        "「いやったああああああ！　新発見だああっ！": "Yeahhhhhh ! Une nouvelle decouverte !"
+    },
+    "201505": {
+        "「アストルティアの生物でも　魔物でもない……\n　なんという　奇妙にして　美しい姿なのだ！": "Ce n'est ni une creature d'Astoltia ni un\nmonstre... Quelle apparence etrange et\nmagnifique !"
+    },
+    "201506": {
+        "「触手の１本でも　手に入れれば\n　歴史を塗り替える　大発見になるぞっ！！\n　これは　ぜひともっ　持ち帰らねば……": "Si je pouvais obtenir ne serait-ce qu'un\ntentacule, ce serait une decouverte\nrevolutionnaire qui reecrirait l'histoire ! Je<br>dois absolument le ramener..."
+    },
+    "201507": {
+        "「ええい！　うかつに　近づくでない！\n　あやつの正体が　危険なものじゃったら\n　どうするつもりじゃ！？": "Eh ! Ne t'approche pas imprudemment ! Que\nferas-tu si sa veritable nature est dangereuse\n!?"
+    },
+    "201508": {
+        "「せ　せめて　ツメのひとかけらでも……！": "Au moins... un eclat de Claws... !"
+    },
+    "201509": {
+        "「<pc>！\n　お前は　その大バカものを　見張っていてくれ！": "<pc> ! Garde un oeil sur cet imbecile !"
+    },
+    "201510": {
+        "「グランゼドーラを襲った魔獣と　似た波動じゃ。\n　つまり　こやつも……？": "C'est une onde similaire a celle de la bete\nqui a attaque LMP Zedora. Cela signifie que\ncette creature aussi...?"
+    },
+    "201511": {
+        "「地下の魔瘴には　近づかせんぞ！\n　叡智の冠がひとり　放浪の賢者ホーローが\n　直々に　相手をしてやろう！": "Je ne te laisserai pas approcher des miasmes\nsouterrains ! Le sage errant, Hollow, portant\nla Couronne de Sagesse, va s'occuper de toi en<br>personne !"
+    },
+    "201512": {
+        "「なっ……分裂したのか！？": "Quoi... Il s'est divise !?"
+    },
+    "201513": {
+        "「すばらしい！！　なんたる能力だ！\n　やはり　ツメのひとかけらを……": "Incroyable !! Quelle capacite incroyable !\nC'est bien un fragment de Claws que..."
+    },
+    "201514": {
+        "「ええい　魔獣に　近づくでない！\n　しばらく　これでも食っておれ！": "Eh bien, n'approche pas de la bete magique !\nTiens, mange ca pour l'instant !"
+    },
+    "201515": {
+        "「フゴフゴ……。\n　な　なんですか　これは！？": "Fugo fugo... Qu'est-ce que c'est que ca !?"
+    },
+    "201516": {
+        "「うんまあああああい！\n　いやったああああ！　おいしさ　新発見だ！": "Mmmm deeeelicieux ! Ouiiii ! Une nouvelle\ndecouverte de saveur !"
+    },
+    "201517": {
+        "「なにぃっ！？\n　またも　増殖したじゃと！\n　……これでは　きりがないではないか！": "Quoi !? Ca s'est encore multiplie ! ...A ce\nrythme, ca ne finira jamais !"
+    },
+    "201518": {
+        "「<pc>！　今の　わしらでは\n　こやつを　完全に倒すことは　できんようじゃ。\n　ここは　いったん退却じゃ！": "<pc> ! Nous ne pouvons pas vaincre cet\nennemi completement avec nos forces actuelles.\nRetirons-nous pour l'instant !"
+    },
+    "201519": {
+        "「ラグアス王子にも　ここでの一件を\n　報告せねばならんな。<pc>よ。\n　メギストリス城で　あらためて　策を練ろう！": "Nous devons egalement faire un rapport sur cet\nincident au Prince Raguas. <pc>,\nelaborons un plan au chateau de Megistris !"
+    },
+    "201520": {
+        "「はぁ～っ　おいしかった！": "Ah, c'etait delicieux !"
+    },
+    "201521": {
+        "「いやったああああああ！　思いだしたぞ！！\n　この奥に　新生物が　いたはずだっ！": "Yeahhhhhhh ! Je m'en souviens maintenant !! Il\ndoit y avoir une nouvelle creature la-bas, au\nfond !"
+    },
+    "201522": {
+        "「あああああっ　入れない！？\n　封印されてるーっ！！": "Aaaaaah, je ne peux pas entrer !? C'est scelle\n!"
+    },
+    "201523": {
+        "「いや　だが　あの増殖する生物の\n　構造と機能……再現できれば……\n　……うん　うん。すごいことになるぞ！": "Non, mais si nous pouvions comprendre la\nstructure et la fonction de ces organismes qui\nse multiplient... et les reproduire... Hmm,<br>hmm. Cela pourrait etre incroyable !"
+    },
+    "201524": {
+        "「さっそく　家に帰って\n　この　アイディアを練り上げねば！！\n　よーしっ　やるぞー！！！": "Je dois rentrer a la maison immediatement pour\npeaufiner cette idee ! Allons-y, je vais le\nfaire !"
+    },
+    "201525": {
+        "「そうそう　<pc>さん。私は忙しいので\n　メギストリス城の　ラグアス王子に　地底で\n　すばらしい発見をしたと　伝えといてください！": "Ah oui, <pc>-san. Je suis occupe, donc\npourriez-vous transmettre au Prince Raguas du\nChateau de Megistris que j'ai fait une<br>decouverte incroyable sous terre ?"
+    },
+    "201526": {
+        "「よかった。無事に　戻られたのですね。\n　<pc>さん！\n　賢者ホーロー様から　事情は　うかがいました。": "Ah, je suis soulage. Vous etes revenu sain et\nsauf, <pc>-san ! J'ai ete informe de la\nsituation par le sage Hollow-sama."
+    },
+    "201527": {
+        "「……うむ。わしは　この目で　見た！\n　エピステーサの底なし穴に　出現したのは\n　グランゼドーラに現れたのと　同じ　繭じゃ！": "Hum. J'ai vu de mes propres yeux ! Ce qui est\napparu dans le gouffre d'Epistea est le meme\ncocon que celui qui a ete emporte par<br>Glmpzedora !"
+    },
+    "201528": {
+        "「ならば　あの増殖する魔獣も　姿形は違えども\n　これまで　アストルティア各地を　襲った\n　魔獣どもと　近しい存在なのじゃろう。": "Alors, ces monstres en proliferation, bien que\nleur apparence soit differente, sont\nprobablement des creatures proches de celles<br>qui ont attaque divers endroits d'Astoltia\njusqu'a present."
+    },
+    "201529": {
+        "「さまざまな能力を持つ魔獣が　各大陸に現れ\n　黒衣の剣士によって　そのチカラは\n　あの　まがまがしき繭へ　注ぎ込まれていく……": "Diverses creatures magiques dotees de\ncapacites variees apparaissent sur chaque\ncontinent, et leur pouvoir est canalise par le<br>Dark Swordsman vers ce sinistre cocon..."
+    },
+    "201530": {
+        "「ここらで　食い止めねば\n　……いよいよ　あの繭の中身が\n　目覚めるかもしれん。": "Ici, nous devons les arreter... sinon, le\ncontenu de ce cocon pourrait bien se\nreveiller."
+    },
+    "201531": {
+        "「賢者ホーロー様の　お話によれば\n　エピステーサの底なし穴に　現れた魔獣は\n　倒そうとしても　何匹も増殖するそうですね……": "Selon ce que nous raconte le sage Hollow-sama,\nil parait que les betes magiques du gouffre\nsans fond d'Episteasa se multiplient sans<br>cesse, meme si on essaie de les abattre..."
+    },
+    "201532": {
+        "「……どうして　急に　石版が！？": "......Pourquoi soudainement cette stele !?"
+    },
+    "201533": {
+        "「これは……文字なのか？\n　いったい　いかなる仕組みなのじゃ！\n　どれどれ……": "Ceci... est-ce un texte ? Quel est donc ce\nmecanisme ! Voyons voir..."
+    },
+    "201534": {
+        "<center>プクランドに現れし　増殖する魔獣により\nアストルティアは滅びる。\nみな　脱出に備えよ。": "Puk LMPドにP. Astoltia sera detruite par les\nbetes magiques qui se multiplient.\nPreparez-vous tous a evacuer."
+    },
+    "201535": {
+        "「……これは　もしや！": "…Serait-ce possible !"
+    },
+    "201536": {
+        "「はるか古代……\n　世界の歴史のすべてを予言する　神秘の秘宝\n　知理の石版が　存在したという伝説がある。": "Il y a bien longtemps, a l'epoque ancienne...\nUne legende raconte qu'il existait un tresor\nmystique capable de prophetiser toute<br>l'histoire du monde : la tablette de la\nsagesse."
+    },
+    "201537": {
+        "「知理の石版をたずさえし　予言者の言葉は\n　６０００年前の　ゴフェル計画の\n　根拠になったとも　言われておるのじゃ。": "Les paroles du prophete, porteur de la Wisdom\nTablet, auraient servi de fondement au plan\nGopher il y a 6000 ans."
+    },
+    "201538": {
+        "「ゴフェル計画……大いなる災厄より\n　種族の未来を守るため　アストルティアを捨て\n　安全なる世界へ　旅立とうとしたという……。": "Le projet Gofel... Pour proteger l'avenir des\nraces face a la grande calamite, ils ont\ndecide d'abandonner Astoltia et de partir vers<br>un monde sur..."
+    },
+    "201539": {
+        "「エピステーサの底なし穴に　出現した\n　あの魔獣は　それほどまでに\n　おそるべきもの　なのですね。": "L'horrible creature qui est apparue dans le\ngouffre sans fond d'Epistesa est donc vraiment\nredoutable."
+    },
+    "201540": {
+        "「ああっ　ふたたび　知理の石版が！\n　まさか……魔獣への対抗策を　予言して……？": "Ah ! Le Wisdom Tablet encore une fois !\nSerait-ce possible... qu'il prophetise une\nstrategie pour contrer les creatures<br>demoniaques... ?"
+    },
+    "201541": {
+        "<center>増殖…する魔獣……対抗策は……\nこの　○○◎■……にて　Ｘ％□◆】を……\n△●・Ｘ■■Ｘ…………": "La multiplication... des creatures magiques...\nContre-mesures a prendre... Ici, au ○○◎■...\nX％□◆】pour... △●・Ｘ■■Ｘ..."
+    },
+    "201542": {
+        "「文字が　消えた……。\n　壊れてしまったのでしょうか。": "Les lettres ont disparu... Serait-ce casse ?"
+    },
+    "201543": {
+        "「ええっ！？\n　その　不思議な生き物は……！\n　もしや　こちらが　時の精霊キュルルさん？": "Quoi !? Cette creature mysterieuse est... !\nSerait-ce vous, l'esprit du temps, Kyururu-san\n?"
+    },
+    "201544": {
+        "「この　知理の石版とやらは\n　時間跳躍の触媒に　なりそうキュ！\n　石版が作られた時代へ　行けるキュよ。": "Cette Wisdom Tablet semble pouvoir servir de\ncatalyseur pour le saut temporel, kyu ! Nous\npouvons voyager a l'epoque ou la tablette a<br>ete creee, kyu."
+    },
+    "201545": {
+        "「……そうじゃ！\n　この石版を作った　予言者なら\n　壊れた　知理の石版を　修理できるはずじゃ！": "…C'est ca ! Le prophete qui a cree cette\ntablette de pierre devrait etre capable de\nreparer la Wisdom Tablet cassee !"
+    },
+    "201546": {
+        "「そうすれば　今の予言の内容……\n　魔獣への対抗策が　わかるかもしれません！": "Si nous faisons cela, le contenu actuel de la\nprophetie... Nous pourrions peut-etre\ndecouvrir une strategie pour contrer les<br>monstres !"
+    },
+    "201547": {
+        "「そこまでは　保証できないキュルが\n　時間跳躍する価値は　あるかもしれないキュ。": "Je ne peux pas garantir jusqu'a ce point, mais\ncela pourrait valoir le coup de tenter un saut\ndans le temps, kyu."
+    },
+    "201548": {
+        "「……<pc>さん！\n　この　知理の石版を　あなたに　託します。\n　過去へ　持っていってください！": "...<pc>-san ! Je vous confie cette\nWisdom Tablet. Veuillez l'emmener dans le\npasse !"
+    },
+    "201549": {
+        "<pc>は　ラグアス王子から\n知理の石版（だいじなもの）を　受け取った！<me 60>": "<pc> a recu la Tablette de Sagesse\n(objet cle) de la part du Prince Raguas !"
+    },
+    "201550": {
+        "「ぼくは　この時代で　プクラスという名の\n　プクリポを探しておきます。\n　どうか　魔獣の対策方法を　見つけてください！": "Je vais chercher un Pukulipo du nom de Pukulas\ndans cette epoque. S'il vous plait, trouvez un\nmoyen de contrer la bete magique !"
+    },
+    "201551": {
+        "「それじゃ　時間跳躍を開始するキュ。\n　時間設定……知理の石版の　波動をもとに\n　製造年代まで　飛ぶキュ。": "Alors, nous allons commencer le saut temporel,\nkyu. Reglage du temps... En se basant sur les\nondes de la Tablette de Sagesse, nous allons<br>sauter jusqu'a l'epoque de sa fabrication,\nkyu."
+    },
+    "201552": {
+        "「ポイント設定……\n　当時　知理の石版が存在した地点。\n　これで　完璧キュ！": "Definir le point... L'emplacement ou la Wisdom\nTablet existait a l'epoque. C'est parfait, kyu\n!"
+    },
+    "201553": {
+        "「気をつけて行ってこい　<pc>！\n　魔獣について　何か　わかったら\n　すぐに　わしら叡智の冠に　知らせてくれ！": "Fais attention en y allant, <pc> ! Si tu\ndecouvres quelque chose a propos de la bete\nmagique, informe-nous immediatement, la<br>Couronne de Sagesse !"
+    },
+    "201554": {
+        "「行ってらっしゃい　<pc>さん！": "Bonne journee, <pc>-san !"
+    },
+    "201555": {
+        "「……設定完了。\n　エテーネルキューブ　起動キュ！": "...Configuration terminee. Ethenel Cube,\nactivation kyu !"
+    },
+    "201556": {
+        "「うう……座標が　ずいぶん乱れてるキュ。\n　いつ　どこに到着したのか\n　このボクにも　判断がつかないキュ！": "Ugh... Les coordonnees sont vraiment\nperturbees, kyu. Je n'arrive pas a determiner\nquand et ou nous avons atterri, meme moi, kyu<br>!"
+    },
+    "201557": {
+        "「<pc>。まずは　現地人と接触して\n　ここが　どこで　いつの時代なのかを\n　解明するキュ。予言者探しも　忘れるなキュ！": "<pc>. Tout d'abord, entre en contact\navec les habitants de P. pour decouvrir ou\nnous sommes et a quelle epoque nous nous<br>trouvons. N'oublie pas non plus de chercher le\nprophete !"
+    },
+    "201558": {
+        "「……というわけで　ボクは　疲れたので\n　しばらく　休息を取るキュ。": "......C'est pourquoi je suis fatigue, donc je\nvais prendre un peu de repos, kyu."
+    },
+    "201563": {
+        "「いや　それよりも　まず…… \n　ボクの管理タブレットを　返してくれ。": "Non, avant tout... rends-moi ma tablette de\ngestion."
+    },
+    "201565": {
+        "「なんだ……何を　言ってるんだ？": "Qu'est-ce que... qu'est-ce que tu racontes ?"
+    },
+    "201613": {
+        "「物理エラーのため　再起動いたしまーす♪": "En raison d'une erreur physique, nous allons\nredemarrer~ ♪"
+    },
+    "201615": {
+        "「排除いたしまーす♪": "Je vais vous eliminer ♪"
+    },
+    "201616": {
+        "「やめろ　Ｃ１４１っ！！": "Arrete, C141 !!"
+    },
+    "201617": {
+        "「できそこないの原始種よ。\n　……今度こそ　永遠に　眠り続けるがいい。": "Creature primitive ratee. ...Cette fois, dors\npour l'eternite."
+    },
+    "201618": {
+        "「イア・タア　シンパッ・ケウ……\n　イア・タア　シンパッ・ケウ……。": "イア・タア シンパッ・ケウ イア・タア シンパッ・ケウ"
+    },
+    "201619": {
+        "「原始種どもは　みな　我が支配に屈した！\n　創造主よ！　今こそ　よみがえり\n　我等に　永遠の生命と　祝福を与えたまえ！": "Les primitifs se sont tous soumis a ma\ndomination ! O Createur Seigneur ! Il est\ntemps de ressusciter et d'accorder a nous tous<br>la vie eternelle et votre benediction !"
+    },
+    "201620": {
+        "「イア・タア　シンパッ・ケウ！！": "Ia Taa Shinpa' Keu!!"
+    },
+    "201621": {
+        "「廃棄物を　ゴミ処理場へ　移送いたしまーす♪": "Transfert des dechets vers la Garbage Plant en\ncours ♪"
+    },
+    "201622": {
+        "「フゥ～。なんとか　助かったキュルね。": "Fuu~. On a reussi a se sauver, Kyuru."
+    },
+    "201623": {
+        "「まだ　増殖する魔獣の情報が　足りないキュ。\n　さっさと　脱出して　寝てたほうのプクラスから\n　増殖獣の情報収集キュ！　<cs_pchero>！": "Nous n'avons pas encore assez d'informations\nsur les betes magiques qui se multiplient,\nkyu. Depeche-toi de t'echapper et collecte des<br>informations sur les betes en proliferation a\npartir de l'autre Pukulas qui dormait, kyu !\n<cs_pchero> !"
+    },
+    "201624": {
+        "「もう忘れたキュルか？\n　知理の石版を　扉に　かざすキュ！": "Tu as deja oublie, Kyuru ? Il faut brandir la\nWisdom Tablet devant la Door, Kyu !"
+    },
+    "201625": {
+        "<pc>は　知理の石版を　かざした！": "<pc> brandit la Tablette de Sagesse !"
+    },
+    "201626": {
+        "しかし　何も　起こらなかった！": "Cependant, rien ne s'est passe !"
+    },
+    "201627": {
+        "「アルウェーンに　市民登録されていない方の\n　管理棟への　出入りは　禁じられていまーす♪": "L'acces au batiment administratif est interdit\naux personnes non enregistrees en tant que\ncitoyens d'Alweyn ♪"
+    },
+    "201628": {
+        "「コールドスリープ室　研究室　無限動力炉への\n　入室を　ご希望でしたら\n　市民登録された方と　ご同行くださーい♪": "Salle de repos Ludo - Laboratoire - Reacteur a\nenergie infinie Si vous souhaitez entrer,\nveuillez etre accompagne d'une personne<br>enregistree en tant que citoyen. ♪"
+    },
+    "201629": {
+        "なんと　知理の石版が　突然　光りだした！": "Le Wisdom Tablet s'est soudainement mis a\nbriller !"
+    },
+    "201630": {
+        "<center>！　緊急通信　！": "！ Urgence de communication !"
+    },
+    "201631": {
+        "<center>ボクだよ　プクラスだ。\n万一の事態に　そなえて　思考転送で\nこのメッセージを　キミたちに　残しておいた。": "C'est moi, Pukulas. En prevision d'une\nsituation d'urgence, j'ai laisse ce message\npour vous grace au transfert de pensee."
+    },
+    "201632": {
+        "<center>この町にある　管理コンピューターは　すべて\n町の住人の意思に　従うように　作られている。": "Tous les ordinateurs de gestion dans cette\nville ont ete concus pour obeir a la volonte\ndes habitants."
+    },
+    "201633": {
+        "<center>自由意思を　なくしてしまった　プクリポたちが\n自我と感情を　取り戻すことができれば\n管理コンピューターは　ボクたちの味方に戻る。": "Si les Pukulipo, qui ont perdu leur libre\narbitre, peuvent retrouver leur conscience et\nleurs emotions, l'ordinateur de controle<br>redeviendra notre allie."
+    },
+    "201634": {
+        "<center>Ｃ１４１から　この町の　全権限を掌握できる\n管理タブレットを　取り返すことも\nそれで　可能に　なるはずだ。": "En reprenant la tablette de gestion depuis le\nC141, nous devrions etre capables de reprendre\nle controle total de cette ville."
+    },
+    "201635": {
+        "<center>町のみんなも　ボクや　キミと同じように\n本来は　喜怒哀楽を持っている。\n強く　感情を揺さぶることができれば　きっと……": "Les habitants de la ville, tout comme toi et\nmoi, ont a l'origine des emotions comme la\njoie, la colere, la tristesse et le plaisir.<br>Si tu parviens a toucher profondement leurs\nsentiments, alors surement..."
+    },
+    "201636": {
+        "<center><pc>。この宇宙船の　プクリポたちに\n感情を　取り戻す方法を　見つけてくれ！": "<pc>. Trouve un moyen de rendre leurs\nemotions aux Pukulipo de ce vaisseau spatial !"
+    },
+    "201637": {
+        "<center>……たとえ　ボクが　殺されてしまっても\n宇宙船アルウェーンが\n秩序を　取り戻すことができるように……。": "...Meme si je devais etre tue, j'espere que le\nvaisseau spatial Alweyn pourra retablir\nl'ordre..."
+    },
+    "201638": {
+        "「プクラスの作戦は　悪くないキュル。\n　とはいえ　この時代のプクリポどもや\n　<pc>では　役に立ちそうにないキュ。": "La strategie de Pukulas n'est pas mauvaise,\nKuru. Toutefois, les Pukulipo de cette epoque\net <pc> ne semblent pas tres utiles,<br>Kyu."
+    },
+    "201639": {
+        "「プクリポたちの感情を　揺さぶりたいなら\n　ここは　あえて　現代に戻って\n　方法を考えてみては　どうキュルか？": "Si tu veux bouleverser les emotions des\nPukulipo, pourquoi ne pas revenir\nintentionnellement a l'epoque de P. et<br>reflechir a une methode ?"
+    },
+    "201640": {
+        "「……というわけで　あとは　まかせたキュ！\n　<pc>！": "Donc, je te laisse la suite, Kyu ! <pc>\n!"
+    },
+    "201641": {
+        "「<pc>さん　ファラスさん。\n　心をあやつられた者を　正気に戻す方法\n　……ようやく　見つかりました。": "<pc>-san, Faras-san. J'ai enfin trouve\nun moyen de ramener a la raison ceux dont\nl'esprit a ete manipule..."
+    },
+    "201642": {
+        "「シンイ殿！\n　我が主パドレ様を　時見の箱の支配から\n　解き放つ方法とは　いかなるものなのですか？": "Shini-dono ! Quel est donc le moyen de liberer\nnotre LordPadre-sama du controle de la\nTimeseer Box ?"
+    },
+    "201643": {
+        "「竜族に古来より伝わる　胡蝶の秘術……\n　かつて　クロウズが　アンルシア姫におこなった\n　他者の記憶に入る術の　究極奥義です。": "La technique secrete du papillon transmise\ndepuis l'ancienne epoque chez les Dragons...\nC'est l'ultime art de la technique d'entrer<br>dans la memoire d'autrui, que Claws a\nautrefois utilisee sur la Princesse Anlucia."
+    },
+    "201644": {
+        "「古い文献のほとんどは　散逸してしまい\n　入手が　困難でしたが……\n　もうひとりの私が　助けてくれました。": "La plupart des vieux documents ont ete\ndisperses et sont devenus difficiles a\nobtenir... Mais une autre version de moi-meme<br>m'a aide."
+    },
+    "201645": {
+        "「竜族の隠れ里に　古い書物が　たくさん\n　保管されていたのです。古文書のひとつに\n　胡蝶の秘術について　記してありました。": "Dans Nadravian's Rest, de vieux ecrits etaient\nconserves en grand nombre. L'un des anciens\ndocuments faisait mention des secrets de l'art<br>des papillons."
+    },
+    "201646": {
+        "「シンイさん。胡蝶の秘術とは\n　いったい　どういうものなんですか？": "Shini-san. Qu'est-ce que c'est exactement\nl'art secret de la papillon ?"
+    },
+    "201647": {
+        "「竜族に伝わる秘術にて　胡蝶の護符を作り\n　心　あやつられたる者へ\n　その者と親しき存在が　護符を捧げよ……。": "Grace a l'art secret transmis par le peuple\ndes dragons, fabriquez le Butterfly Charm et\noffrez-le a celui dont l'esprit est manipule,<br>par une personne qui lui est chere..."
+    },
+    "201648": {
+        "「竜族の隠れ里より　取り寄せた　古文書には\n　そう　記されていました。": "Les anciens documents obtenus de Nadravian's\nRest indiquaient cela."
+    },
+    "201649": {
+        "「パドレ叔父様に　近しい存在というと\n　私よりも　ファラスのほうが　ふさわしそうね。": "En parlant de quelqu'un de proche de l'oncle\nPadre, il semble que Faras soit plus approprie\nque moi."
+    },
+    "201650": {
+        "「……それとも\n　<pc>のほうが　いいのかしら？": "...Ou peut-etre que <pc> serait mieux ?"
+    },
+    "201651": {
+        "「メレアーデ様。\n　それは　どういう意味なのですか？": "Mereade-sama. Que signifie cela ?"
+    },
+    "201652": {
+        "「私ね……しばらく前から　考えていたの。": "Je... Je reflechissais a quelque chose depuis\nun certain temps."
+    },
+    "201653": {
+        "「もしかして　どこかの時代へ　時間跳躍した\n　マローネ叔母様の赤ちゃんって\n　<pc>なんじゃないのかなって。": "Peut-etre que le bebe de tante Marone, a\ntravers un saut temporel, est <pc>."
+    },
+    "201654": {
+        "「……<pc>。王家の者以外には　まだ\n　発表されてなかったけど　ファラスが探してる\n　赤ちゃんの名前……あなたと　同じなのよ。": "<pc>. Le nom du bebe que Faras\nrecherche, bien qu'il n'ait pas encore ete\nannonce en dehors de la famille royale... est<br>le meme que le tien."
+    },
+    "201655": {
+        "「それは……確かに　マローネ様も\n　お子を　あやすとき　<pc>という名で\n　呼んでおられましたが……": "C'est vrai... Marone-sama appelait aussi son\nenfant par le nom de <pc> lorsqu'elle le\nbercait..."
+    },
+    "201656": {
+        "「自分が探すお子は　いまだ　乳飲み子。\n　<pc>殿とは　年齢が　違いすぎます。\n　ただの　偶然では？": "Le bebe que je cherche est encore un\nnourrisson. Il y a une trop grande difference\nd'age avec <pc>-dono. Ce n'est peut-etre<br>qu'une simple coincidence."
+    },
+    "201657": {
+        "「５０００年も　時間跳躍したなら\n　１０年や　２０年は　誤差の範囲キュ。": "Si tu as saute dans le temps de 5000 ans, une\ndifference de 10 ou 20 ans est negligeable,\nkyu."
+    },
+    "201658": {
+        "「それに　古代エテーネ王国の時代から\n　現代まで　一気に　時間跳躍するには\n　莫大な時渡りのチカラが　必要になるキュ。": "De plus, pour faire un saut temporel massif de\nl'epoque du vieux royaume d'Ethene jusqu'a\nl'epoque de P., il faudra une quantite enorme<br>de puissance de voyage temporel, kyu."
+    },
+    "201659": {
+        "「ボクが　知るかぎり　そんな　とてつもない\n　時渡りのチカラを持つ人間は\n　ここにいる　<pc>だけキュル！": "Je ne connais qu'une seule personne ici\npossedant un pouvoir de voyage temporel aussi\nextraordinaire, et c'est toi, <pc>-kun !"
+    },
+    "201660": {
+        "「王族である　私だって　この時代から\n　古代エテーネ王国へ　時間跳躍したら\n　すっかり　参ってしまったわ。": "Meme moi, qui suis de la famille royale, si je\nfaisais un saut temporel de cette epoque au\nvieux royaume d'Ethene, je serais completement<br>depassee."
+    },
+    "201661": {
+        "「うむ。丈夫なのが取り柄の　このファラスとて\n　時渡りの後　しばし　記憶を失い\n　寝込んでしまったほどでした。": "Hum. Meme moi, Faras, dont la robustesse est\nune qualite, j'ai perdu la memoire pendant un\nmoment apres avoir traverse le temps et je<br>suis reste alite."
+    },
+    "201662": {
+        "「なのに　<pc>は　様々な時代へ\n　時間跳躍しても　ケロっとしてる。\n　それに　その名前だって。偶然とは思えない。": "Pourtant, <pc> reste imperturbable meme\nlorsqu'il voyage a travers differentes\nepoques. Et puis, ce nom... Cela ne peut pas<br>etre une coincidence."
+    },
+    "201663": {
+        "「<pc>殿が　あの　幼き赤子だと……？": "<pc>-dono serait ce jeune enfant... ?"
+    },
+    "201664": {
+        "「そうであれば　どんなに　救われるか。\n　ですが　今の自分には　確信が持てませぬ……。": "Si seulement c'etait le cas, je serais\ntellement soulage. Mais pour l'instant, je ne\npeux pas en etre sur..."
+    },
+    "201665": {
+        "「<pc>さんは　ここ　エテーネの村で\n　温かい家族とともに　育ちました。\n　お探しの方と　同一人物とは　思えませんが……": "<pc>-san a grandi ici, dans le village\nd'Ethene, entoure de sa chaleureuse famille.\nCela ne semble pas correspondre a la personne<br>que vous recherchez..."
+    },
+    "201666": {
+        "「ともあれ　まずは　胡蝶の護符を作ることに\n　ご協力ください。<pc>さん。\n　ファラスさん。": "Quoi qu'il en soit, veuillez d'abord\ncollaborer a la creation du Butterfly Charm,\n<pc>-san, Faras-san."
+    },
+    "201667": {
+        "「はっ！\n　……して　自分たちは　何をすれば？": "Ha ! ... et ensuite, que devons-nous faire ?"
+    },
+    "201668": {
+        "「胡蝶の護符を　作るためには\n　材料である　胡蝶の花が　必要になります。": "Pour fabriquer le Butterfly Charm, vous aurez\nbesoin de la Butterfly Flower comme materiau."
+    },
+    "201669": {
+        "「この島の　名もなき草原から　北へ抜けた\n　谷間の広場で　胡蝶の花を　手に入れて\n　私のところまで　持ってきてください。": "Traversez le nord depuis la prairie sans nom\nde cette ile jusqu'a la clairiere dans la\nvallee, obtenez une Butterfly Flower et<br>apportez-la-moi."
+    },
+    "201670": {
+        "「承知いたしました。では。": "Bien compris. A bientot."
+    },
+    "201671": {
+        "「待って　ファラス！　あなたは　まだ\n　この時代の地理に　明るくないわ。\n　<pc>と　一緒に　行ったらどう？": "Attends, Faras ! Tu ne connais pas encore bien\nla geographie de cette epoque. Pourquoi ne pas\ny aller avec <pc> ?"
+    },
+    "201672": {
+        "「そうしたら　あなたの記憶も\n　もう少し　はっきりするかもしれないし……。\n　ねっ　<pc>も　いいでしょ？<yesno><close>": "Peut-etre que ta memoire deviendra un peu plus\nclaire comme ca... Hein, <pc>, ca te\nconvient ?<yesno><close>"
+    },
+    "201673": {
+        "「えっ　私も　一緒に来いって？\n　ダメよ。今回は　あなたと　ファラスが\n　ふたりで　行くべきだわ。ねっ　いいでしょ！<yesno><close>": "Quoi ? Tu veux que je vienne aussi ? Non, je\nne peux pas. Cette fois, vous devriez y aller\ntous les deux, toi et Faras. Allez, d'accord !"
+    },
+    "201674": {
+        "「それじゃ　決まりね！\n　私と　シンイさんは　エテーネ村で待ってるから\n　胡蝶の花探し　がんばってね！　ふたりとも！": "Alors, c'est decide ! Shini-san et moi vous\nattendrons au village d'Ethene. Bonne chance\npour trouver la Butterfly Flower, vous deux !"
+    },
+    "201675": {
+        "「それでは　<pc>殿。\n　谷間の広場まで　出発いたしましょう！": "Alors, <pc>-dono. Partons pour la\nclairiere dans la vallee !"
+    },
+    "201676": {
+        "「<pc>殿！\n　そこにあるのは　もしや……": "<pc>-dono ! Serait-ce la..."
+    },
+    "201677": {
+        "「やはり　これが　胡蝶の花。\n　この花さえあれば　我が主は……！": "Donc, c'est bien la Butterfly Flower. Avec\ncette fleur, notre Seigneur peut... !"
+    },
+    "201678": {
+        "「………………。": ""
+    },
+    "201679": {
+        "「心をあやつられた姿しか知らぬ　そなたには\n　信じられんかもしれんが\n　我が主パドレ様は　まこと　心正しきお方。": "Je comprends que tu ne connaisses que la\nversion manipulee de lui, et cela peut etre\ndifficile a croire, mais notre LordPadre-sama<br>est en realite une personne au coeur pur et\njuste."
+    },
+    "201680": {
+        "「時見の箱に　あやつられる前の　あのお方は……\n　<pc>殿。どことなく　そなたと似た\n　聡明で　優しい瞳を　されていたのだ。": "Avant que cette personne ne soit manipulee par\nla Timeseer Box... Il s'agissait de\n<pc>-dono. D'une certaine maniere, il<br>avait des yeux intelligents et gentils,\nsemblables aux tiens."
+    },
+    "201681": {
+        "「あれは……そう。\n　パドレ様が　ちょうど　そなたと\n　同じ年頃だったときのことだ。": "Cela... Oui. C'etait a l'epoque ou Padre-sama\navait a peu pres le meme age que toi."
+    },
+    "201682": {
+        "<center>代々の王族に仕える　従者の家系に生まれついた\n自分は　幼少期より　パドレ様にお仕えし\nそのまま　一生を終えるのだと　思っていた……。": "Ne dans une lignee de serviteurs qui ont servi\nla famille royale depuis des generations, j'ai\nservi Padre-sama depuis mon enfance et je<br>pensais que je passerais ainsi toute ma vie..."
+    },
+    "201683": {
+        "<center>ところが　ある日……": "Cependant, un jour..."
+    },
+    "201684": {
+        "「……なにゆえ　従者の任を解くなどと\n　おっしゃるのですか！　パドレ様！": "…Pourquoi donc me liberer de mon devoir de\nserviteur, Padre-sama !"
+    },
+    "201685": {
+        "「至らぬところが　あるのでしたら\n　すぐさま　改めます！\n　どうか　今一度　お考え直しを！": "Si jamais il y a des points a ameliorer, je\nles corrigerai immediatement ! Je vous en\nprie, reconsiderez votre decision !"
+    },
+    "201686": {
+        "「お前の　せいではない。\n　……ただ　俺には　従者は不要なのだ。": "Ce n'est pas de ta faute. ...C'est juste que\nje n'ai pas besoin de serviteur."
+    },
+    "201687": {
+        "「俺だけではない。\n　代々　我が王家に仕え　主のためなら命も捨てる\n　……そんな　従者という身分は　間違っている。": "Ce n'est pas que moi. Depuis des generations,\nceux qui ont servi notre famille royale, prets\na donner leur vie pour le Lord... Ce statut de<br>serviteur est errone."
+    },
+    "201688": {
+        "「俺も　お前も　ひとしく　同じ人間ではないか。\n　自らのため　自らの望むままに　生きるべきだ。": "Toi et moi, ne sommes-nous pas tous les deux\ndes etres humains, egaux ? Nous devrions vivre\npour nous-memes, comme nous le desirons."
+    },
+    "201689": {
+        "「……父上には　すでに　話をつけてある。\n　ファラス。お前も　お前の一族も\n　今日から　自由だ。": "J'ai deja parle a Pere. Faras. Toi et ta\nfamille, vous etes libres a partir\nd'aujourd'hui."
+    },
+    "201690": {
+        "「王国一とうたわれた　剣のウデがあれば\n　軍人でも　冒険者でも　大成することだろう。\n　お前の好きなように　生きるがよい。": "Avec tes competences en epee, reconnues comme\nles meilleures du royaume, tu pourrais reussir\naussi bien en tant que militaire qu'en tant<br>qu'aventurier. Vis ta vie comme tu l'entends."
+    },
+    "201691": {
+        "「………………！": "！"
+    },
+    "201692": {
+        "「どうした　ファラス？": "Que se passe-t-il, Faras ?"
+    },
+    "201693": {
+        "「パドレ様。ならば　俺は　自分の意思で\n　あなたに　お仕えするとしよう。": "Padre-sama. Dans ce cas, je vais vous servir\nde mon propre gre."
+    },
+    "201694": {
+        "「なんだと！？": "Quoi !?"
+    },
+    "201695": {
+        "「……俺は　あなたの心意気に　ほれた。\n　従者の血筋だからではない。\n　俺　個人として　あなたに仕えたい。": "Je suis tombe sous le charme de votre esprit.\nCe n'est pas parce que je suis de lignee de\nserviteurs. C'est en tant qu'individu que je<br>veux vous servir."
+    },
+    "201696": {
+        "「これからは　俺が　望むまま\n　好きなように　していい。\n　そう　おっしゃいましたな？　パドレ様。": "A partir de maintenant, je peux faire ce que\nje veux, comme bon me semble. C'est bien ce\nque vous avez dit, Padre-sama ?"
+    },
+    "201697": {
+        "「……まったく　困ったやつだ。": "Vraiment, il est tout a fait problematique."
+    },
+    "201698": {
+        "「ならば　気が変わるまでは　好きにしろ。": "Dans ce cas, fais ce que tu veux jusqu'a ce\nque tu changes d'avis."
+    },
+    "201699": {
+        "「……心得ました　我が主。": "......J'ai compris, mon Seigneur."
+    },
+    "201700": {
+        "「もし　そなたが……５０００年の時を越え\n　古代エテーネ王国より　この時代に　たどり着き\n　成長した　あの赤子だというなら……": "Si tu es vraiment ce bebe qui a traverse les\n5000 ans pour arriver a cette epoque depuis\nl'ancien royaume d'Ethene... et qui a<br>grandi..."
+    },
+    "201701": {
+        "「マローネ様も……そして　パドレ様も\n　どんなにか　喜ばれることだろう。": "Marone-sama... et Padre-sama... seraient\ncertainement tres heureux."
+    },
+    "201702": {
+        "「だが　もし　そうだとすれば\n　そなたと　パドレ様……じつの親子同士が\n　殺し合うなど　断じて　あってはならぬことだ！": "Cependant, si c'est le cas, il est absolument\ninacceptable que toi et Padre-sama, un pere et\nson veritable enfant, en veniez a vous<br>entretuer !"
+    },
+    "201703": {
+        "「すまぬ……おしゃべりが　過ぎたな。\n　この　胡蝶の花を　持って\n　エテーネの村の　シンイ殿のもとへ　帰ろう。": "Excuse-moi... je me suis un peu trop laisse\nemporter par la conversation. Prenons cette\nButterfly Flower et retournons aupres de<br>Shini-dono au village d'Ethene."
+    },
+    "201704": {
+        "<pc>は\n胡蝶の花（だいじなもの）を　手に入れた！<me 60>": "<pc> a obtenu la Butterfly Flower (objet\ncle) ! <me 60>"
+    },
+    "201705": {
+        "「……しばらく　ひとりで　考えたいのだ。\n　自分は先に　エテーネ村に　戻らせてもらおう。\n　では　<pc>殿。また　のちほど！": "J'aimerais reflechir seul pendant un moment.\nJe vais retourner au village d'Ethene en\npremier. A plus tard, <pc>-dono."
+    },
+    "201706": {
+        "「これが……胡蝶の花なのですね。\n　私も　実物を見るのは　はじめてですが\n　なんと　美しい……！": "Alors c'est ca... la Butterfly Flower. C'est\nla premiere fois que je la vois en vrai, et\ncomme elle est magnifique...!"
+    },
+    "201707": {
+        "「<pc>さん　ファラスさん。\n　お疲れ様でした。では　さっそく\n　胡蝶の護符を　作ってみましょう。": "<pc>-san, Faras-san. Bon travail. Alors,\nessayons immediatement de creer le Butterfly\nCharm."
+    },
+    "201708": {
+        "「……これで　パドレ叔父様が\n　本当に　元に戻ると　いいんだけど。": "...J'espere vraiment que l'oncle Padre\nreviendra a son etat normal."
+    },
+    "201709": {
+        "「そういえば　<pc>。\n　あなた　また新たな時代へ　時渡りしたのよね。\n　そこでは　どんなことが　あったの？": "Au fait, <pc>. Tu as encore voyage a\ntravers le temps vers une nouvelle epoque,\nn'est-ce pas ? Qu'est-ce qui s'est passe<br>la-bas ?"
+    },
+    "201710": {
+        "「もしも　何か　困っているなら\n　私に手伝えることは　ないかしら？\n　よかったら　話してみて。": "Si tu as des soucis, y a-t-il quelque chose\nque je puisse faire pour t'aider ? N'hesite\npas a m'en parler."
+    },
+    "201711": {
+        "<pc>は　メレアーデたちに\n未来世界の　感情を失くしたプクリポたちに\n心を取り戻させる必要があることを　説明した！": "<pc> a explique a Mereade et aux autres\nqu'il est necessaire de redonner un coeur aux\nPukulipo du monde futur qui ont perdu leurs<br>emotions !"
+    },
+    "201712": {
+        "「未来の世界が　そんなことに！？\n　……しかも　陽気なプクリポたちが\n　感情をなくしてしまったなんて……。": "Le monde du futur est dans un tel etat !? ...\nEt en plus, les joyeux Pukulipo ont perdu\nleurs emotions..."
+    },
+    "201713": {
+        "「うーん。感情を　取り戻させるか……。\n　それだったら　今　作ってもらっている\n　胡蝶の護符が　役に立たないかしら？": "Hum... Recuperer les emotions, hein... Dans ce\ncas, le Butterfly Charm que je fais fabriquer\nen ce moment pourrait etre utile, n'est-ce pas<br>?"
+    },
+    "201714": {
+        "「……それは　難しいでしょうね。": "...Cela doit etre difficile, n'est-ce pas ?"
+    },
+    "201715": {
+        "「黒衣の剣士は　心をあやつる　なんらかの術を\n　かけられていると推測できますが　お話を聞くに\n　未来のプクリポは　長年　そう育てられてきた。": "Il est probable que le Dark Swordsman soit\nsous l'emprise d'une technique de manipulation\nmentale, mais d'apres ce que vous dites, il<br>semble que les Pukulipo du futur ont ete\neleves de cette maniere depuis longtemps."
+    },
+    "201716": {
+        "「もし　胡蝶の護符を\n　未来のプクリポたちに　使ったとしても\n　おそらく　効果はないでしょう。": "Meme si vous utilisez le Butterfly Charm sur\nles Pukulipo du futur, cela n'aura\nprobablement aucun effet."
+    },
+    "201717": {
+        "「……そっか。\n　いいアイディアだと　思ったんだけどな。": "Je vois. Je pensais que c'etait une bonne\nidee, pourtant."
+    },
+    "201718": {
+        "「シンイ殿。その　胡蝶の護符とやらは\n　いつごろ　完成するのですか？": "Shini-dono. Ce Butterfly Charm, quand\nsera-t-il termine ?"
+    },
+    "201719": {
+        "「なにぶん　古い秘術です。\n　どれぐらい　時間がかかるものなのか\n　私にも　見当つきません。": "Il s'agit d'une tres ancienne magie. Je ne\nsaurais dire combien de temps cela prendra."
+    },
+    "201720": {
+        "「それまで　<pc>さんを\n　引き止めておくことは　できません。\n　完成したら　メギストリスまで　届けましょう。": "Je ne peux pas retenir <pc>-san jusqu'a\nce moment-la. Une fois termine, livrons-le a\nMegistris."
+    },
+    "201721": {
+        "「……なんとも　歯がゆいですな。\n　こうしている間にも　我が主は……。": "C'est vraiment frustrant. Pendant que nous\nrestons ici, notre Seigneur..."
+    },
+    "201722": {
+        "「シンイ！　メレアーデちゃん！\n　おおっ　やはり　<pc>も\n　エテーネ村に　おったのか！": "Shini ! Mereade-chan ! Oh, <pc> etait\naussi dans le village d'Ethene !"
+    },
+    "201723": {
+        "「ラグアス王子から　<pc>が\n　この時代に　戻ってきたと聞いてな。\n　メギストリスから　追いかけてきたんじゃ！": "J'ai entendu dire que <pc> est revenu a\ncette epoque de la part de Prince Raguas. Je\nl'ai donc poursuivi depuis Megistris !"
+    },
+    "201724": {
+        "「古代で　例の予言者には　会えたのか？\n　魔獣については　どうじゃ？\n　この　ホーローに　話してみい！": "As-tu pu rencontrer le fameux prophete a Old\nDai ? Qu'en est-il de la bete magique ?\nParle-en a Hollow !"
+    },
+    "201725": {
+        "「……<pc>が　時渡りしたのが\n　まさか　未来だったとは……しかも　あの陽気な\n　プクリポたちが　そんなことにのう。": "Que <pc> ait voyage dans le temps\njusqu'au futur, c'est incroyable… et en plus,\nque ces joyeux Pukulipo soient impliques dans<br>quelque chose comme ca."
+    },
+    "201726": {
+        "「心を　あやつられたわけでもなく　長年かけて\n　プクリポたちは　教育されているそうで。\n　正直　私の知識では　どうにも……。": "Il parait que les Pukulipo ne sont pas\nmanipules mentalement, mais qu'ils sont\neduques pendant de longues annees.<br>Honnetement, avec mes connaissances, je ne\npeux pas vraiment..."
+    },
+    "201727": {
+        "「……ほっほっほ！\n　これしきで　お手上げとは　情けないぞ。\n　シンイよ！": "...Ho ho ho ! Se declarer vaincu pour si peu,\nc'est bien triste. Shini !"
+    },
+    "201728": {
+        "「おじいさま！　何か　方法があるなら\n　もったいつけずに　教えてください！": "Grand-pere ! S'il y a une solution, ne faites\npas de mystere et dites-le-moi !"
+    },
+    "201729": {
+        "「オホン！　すべての生き物には\n　本能……というものがある。": "Hum hum ! Tous les etres vivants ont ce qu'on\nappelle... un instinct."
+    },
+    "201730": {
+        "「生まれたばかりのヒナは　飛ぶことを知らぬが\n　やがて　大空へと　羽ばたいていく。\n　か弱く小さき子猫も　いずれ　ネズミを狩る。": "Les oisillons qui viennent de naitre ne savent\npas voler, mais ils s'envoleront bientot vers\nle vaste ciel. Meme les chatons fragiles et<br>minuscules finiront par chasser les souris."
+    },
+    "201731": {
+        "「確かに……。\n　ネコちゃんたちは\n　あんなに　かわいいのに　狩りの達人だわ！": "En effet... Les petits chats sont si mignons,\net pourtant ce sont de veritables maitres de\nla chasse !"
+    },
+    "201732": {
+        "「そして　笑いを愛する　陽気な種族\n　プクリポの本能……": "Et ainsi, l'instinct de la joyeuse race\nPukulipo, qui aime rire..."
+    },
+    "201733": {
+        "「それは　お笑いじゃ！": "C'est de l'humour !"
+    },
+    "201734": {
+        "「ちょうど　わしの秘蔵の　記憶の結晶がある。\n　これに　現代のプクリポたちの　お笑いや\n　楽しい芸を　記録して　見せてみれば……": "J'ai justement un Memory Crystal precieux. Si\nnous y enregistrons les comedies et les\nspectacles amusants des Pukulipo de l'epoque<br>P., et que nous les montrons..."
+    },
+    "201735": {
+        "「未来のプクリポたちも　本能に目覚め\n　感情を　取り戻すかもしれんぞ！": "Les Pukulipo du futur pourraient eux aussi\ns'eveiller a leur instinct et retrouver leurs\nemotions !"
+    },
+    "201736": {
+        "「いいアイディアです　賢者ホーロー様！\n　<pc>。\n　ぜひとも　やってみるべきよ！　ねっ！": "C'est une excellente idee, Sage Hollow-sama !\n<pc>. Nous devrions absolument essayer\nca ! N'est-ce pas !"
+    },
+    "201737": {
+        "<pc>は　賢者ホーローから\nホーローの記憶の結晶（だいじなもの）を\n受け取った！<me 60>": "<pc> a recu le Cristal de Memoire de\nHollow (objet cle) du sage Hollow ! <me 60>"
+    },
+    "201738": {
+        "「ちょうど　プクランドに　わしが昔から\n　ひいきにしている　パノンという　芸人がおる。\n　そやつの芸を　記憶の結晶に　記録するのじゃ！": "Il y a justement un artiste nomme Tom Foolery\nque je favorise depuis longtemps a PukuLMPド.\nEnregistre son spectacle dans le Memory<br>Crystal !"
+    },
+    "201739": {
+        "「やつは　宿無しのパノンと　呼ばれておってな。\n　舞台に上がる時以外は　別の名前を\n　使っておるから　それらしい者を　探すといい。": "On l'appelle le vagabond Tom Foolery. En\ndehors de la scene, il utilise un autre nom.\nCherche quelqu’un qui pourrait correspondre a<br>cette description."
+    },
+    "201740": {
+        "「今は……おそらく　オルフェア地方東の\n　ピィピのお宿あたりに　いるはずじゃ。": "En ce moment... il doit probablement se\ntrouver quelque part autour de l'auberge\nPii-Pii dans la region Est d'Orphea."
+    },
+    "201741": {
+        "「それらしい者を見つけたら　チャットの\n　『まわりに』で　『フォステイルが！』と\n　呼びかければ　すぐに　反応するはずじゃぞ。": "Si tu trouves quelqu'un qui semble\ncorrespondre, utilise le chat en selectionnant\nAutour de moi et appelle Fostail!. Il devrait<br>reagir immediatement."
+    },
+    "201742": {
+        "「未来世界を救うためにも　がんばってね！\n　<pc>！": "Pour sauver le monde futur, fais de ton mieux\n! <pc> !"
+    },
+    "201743": {
+        "「……胡蝶の護符が　完成次第\n　自分が　メギストリスまで　届けます。\n　それまで　どうぞ　ご無事で。": "......Une fois le Butterfly Charm termine, je\nm'assurerai de le livrer moi-meme jusqu'a\nMegistris. Jusque-la, prenez soin de vous."
+    },
+    "201744": {
+        "「お集まり　ありがとうございます。\n　メギストリス王国　次期国王　ラグアスです。": "Merci de vous etre rassembles. Je suis Laguas,\nle futur roi du royaume de Megistris."
+    },
+    "201745": {
+        "「アストルティア各地を　騒がせている\n　不気味な繭と　魔獣……あいつらが　とうとう\n　このプクランドの地に　出現してしまいました。": "Les cocons etranges et les betes demoniaques\nqui troublent les differentes regions\nd'Astoltia... ont finalement fait leur<br>apparition ici, sur ces terres de PukuLMP."
+    },
+    "201746": {
+        "「……ですが　心配はありません。\n　すでに　ぼくは\n　アストルティアを救う方法を　予知しました！": "... Cependant, ne vous inquietez pas. J'ai\ndeja predit la facon de sauver Astoltia !"
+    },
+    "201747": {
+        "「世界中から集まった　プクリポの芸人たちが\n　今日　この場で　すばらしい芸を披露し……": "Les artistes Pukulipo venus du monde entier\nvont aujourd'hui, ici-meme, presenter leurs\nmerveilleux talents..."
+    },
+    "201748": {
+        "「そこにいる　<pc>さんが\n　記憶の結晶に　記録すれば\n　この世界は　救われるのです！": "La ou se trouve <pc>-san, si vous\nenregistrez dans le Memory Crystal, ce monde\nsera sauve !"
+    },
+    "201749": {
+        "「お集まりのみなさんは\n　どうぞ　珠玉の芸の数々を\n　ぞんぶんに　お楽しみください！": "Chers invites, profitez pleinement des\nnombreux joyaux artistiques qui vous sont\npresentes !"
+    },
+    "201750": {
+        "「レディース　エンド　ジェントルメン！\n　エーンド　プクランドの　チルドレン！\n　そして……": "Mesdames et Messieurs ! Et... chers enfants de\nLudo ! Et ensuite..."
+    },
+    "201751": {
+        "「未来の　プクリポたちよ！！": "O vous, Pukulipo du futur !!"
+    },
+    "201752": {
+        "「今日は　この時代の　プクリポたちが\n　どんなに　楽しく　陽気に　やってるかを\n　おめえたちに　しかと　見せてやるぜっ！！": "Aujourd'hui, je vais vous montrer a quel point\nles Pukulipo de cette epoque s'amusent et sont\njoyeux !!"
+    },
+    "201753": {
+        "「そして……本日の　スペシャル・ゲストだ！\n　さあ　登場していただこうじゃねえか。": "Et maintenant... le guest special du jour !\nAllez, faisons-le entrer !"
+    },
+    "201754": {
+        "「伝説の芸人……パノン！": "Le legendaire comedien... Tom Foolery !"
+    },
+    "201755": {
+        "<pc>は　ホーローの記憶の結晶に\nプクリポたちの芸を　録画した！": "<pc> a enregistre les performances des\nPukulipo dans le Cristal de Memoire de Hollow\n!"
+    },
+    "201756": {
+        "「……いやーっ　ひさびさの大舞台。\n　キンチョーしちまったぜ！": "Ah... Ca faisait longtemps que je n'avais pas\nete sur une si grande scene. J'etais vraiment\nnerveux !"
+    },
+    "201757": {
+        "「さすがは　伝説の芸人パノンだ。\n　俺も　ひさびさに　笑い転げたぜ！": "Comme on pouvait s'y attendre du legendaire\ncomedien Tom Foolery. Ca faisait longtemps que\nje n'avais pas ri aux eclats !"
+    },
+    "201758": {
+        "「すっごく　面白かったです！\n　ねっ　王子！": "C'etait vraiment passionnant ! N'est-ce pas,\nPrince !"
+    },
+    "201759": {
+        "「ええ。最高の芸を　見せていただきました！\n　ご協力に　感謝いたします。": "Eh bien. Vous nous avez montre un spectacle\nincroyable ! Je vous remercie de votre\ncollaboration."
+    },
+    "201760": {
+        "「<pc>さん。\n　記憶の結晶への　記録は　うまくいきましたか？": "<pc>-san. Avez-vous reussi a enregistrer\ndans le Crystal de Memoire ?"
+    },
+    "201761": {
+        "「よかった！　では　その記憶の結晶を\n　プクラスが待つ　未来の町　アルウェーンへ\n　届けてあげてください！": "Je suis soulage ! Dans ce cas, veuillez\napporter ce Memory Crystal a Alweyn, la ville\ndu futur ou Pukulas vous attend !"
+    },
+    "201762": {
+        "「このパノンが　一世一代の　芸を見せたんだ！\n　絶対に　その大仕事を　成功させてくださいよ。\n　<pc>さん！": "Ce Tom Foolery a montre le spectacle de sa vie\n! Assurez-vous de reussir ce grand projet.\n<pc>-san !"
+    },
+    "201763": {
+        "「……イア・タア　シンパッ・ケウ。\n　イア・タア　シンパッ・ケウ。": "...Ia Taa Shinpa Kew. Ia Taa Shinpa Kew."
+    },
+    "201764": {
+        "「親愛なる市民のみなさん。\n　奉仕の時間です。": "Chers citoyens, C'est l'heure du service."
+    },
+    "201765": {
+        "「本日　奉仕当番にエントリーされている\n　市民番号の方は　すみやかに\n　奉仕室へ　移動してください……。": "Aujourd'hui, les citoyens dont le numero est\ninscrit pour le service doivent se rendre\nimmediatement a la salle de service..."
+    },
+    "201766": {
+        "「あいつら　例の　奉仕室に向かうみたいキュね。\n　１匹ずつに見せる手間が　はぶけたキュ！\n　<pc>！　追いかけるキュ！": "Ils semblent se diriger vers la fameuse salle\nde service, kyuu. Ca nous evite de devoir les\nmontrer un par un, kyuu ! <pc> !<br>Suivons-les, kyuu !"
+    },
+    "201767": {
+        "「今だキュ！\n　記憶の結晶を　再生するキュル！": "Maintenant, Kyu ! Rejouons le Memory Crystal,\nKyuru !"
+    },
+    "201768": {
+        "<pc>は　ホーローの記憶の結晶を\n集まった　プクリポたちに　再生して見せた！": "<pc> a montre aux Pukulipo rassembles la\nmemoire cristallisee de Hollow !"
+    },
+    "201769": {
+        "<pipipi_low>「………………。": "<pipipi_low>"
+    },
+    "201770": {
+        "<pipipi_low>「見た…ことのない……市民たち……？\n　……誰……なんだ。": "<pipipi_low> Des citoyens... que je n'ai\njamais vus... ? ... Qui... sont-ils ?"
+    },
+    "201771": {
+        "<pipipi_low>「……あんなに　たくさん　食べて……。\n　配給糧食じゃない　いろんな色の食べ物……。\n　しかも　みんな……おかしな顔をしている……。": "<pipipi_low>...Ils ont mange autant de\nchoses... Des aliments de toutes les couleurs,\npas des rations... Et en plus, tout le<br>monde... a des expressions etranges..."
+    },
+    "201772": {
+        "<pipipi_low>「高く……ジャンプして……回って……。\n　集まって……": "<pipipi_low> Saute haut... Tourne autour...\nRassemble-toi..."
+    },
+    "201773": {
+        "<pipipi_low>「あの市民……失敗……したのに……\n　処罰されない……？　見ている　みんな……": "<pipipi_low>Ce citoyen... il a echoue...\nmais... Il n'est pas puni...? Tout le monde\nregarde..."
+    },
+    "201774": {
+        "<pipipi_low>「……笑って…いる……？": "<pipipi_low>... Tu... ris...?"
+    },
+    "201775": {
+        "<pipipi_low>「笑い……。\n　笑いという言葉……なんだか　懐かしい……。": "<pipipi_low>Rire... Le mot rire... Cela me\nsemble si nostalgique..."
+    },
+    "201776": {
+        "「そして……本日の　スペシャル・ゲストだ！\n　さあ　登場していただこうじゃねえか。": "Et maintenant... le guest special du jour !\nAllez, faisons-le entrer !"
+    },
+    "201777": {
+        "「伝説の芸人……パノン！": "Le legendaire comedien... Tom Foolery !"
+    },
+    "201778": {
+        "「どうもー！　パノンでーす！！\n　伝説の芸人の名に　ふさわしい\n　とびっきりの笑いを　お見せしましょう！": "Salut tout le monde ! C'est Tom Foolery !!\nLaissez-moi vous offrir un spectacle de rire a\nla hauteur du nom legendaire des comediens !"
+    },
+    "201779": {
+        "「えー　オホン。団長さん。\n　じつは　おりいって　お話があるんですよ。\n　ちょっと　私の服のすそを　持ってくれますか？": "Euh... Ahem. Chef d'equipe. J'ai en fait\nquelque chose d'important a discuter avec\nvous. Pourriez-vous tenir le bas de ma robe,<br>s'il vous plait ?"
+    },
+    "201780": {
+        "「……そうです。では　いきますよ。": "......Tres bien. Alors, allons-y."
+    },
+    "201781": {
+        "「おはなしっ！": "L'Histoire !"
+    },
+    "201782": {
+        "「…………。": ""
+    },
+    "201783": {
+        "<pipipi_low>「………………。": "<pipipi_low>"
+    },
+    "201784": {
+        "「って　それだけかーい！！": "C'est tout ce que tu as a dire ?!"
+    },
+    "201785": {
+        "<pipipi_low>「あ……れ……？\n　なんだ……この　気持ち……？": "<pipipi_low>Ah... Qu'est-ce que... ? Qu'est-ce\nque c'est que... ce sentiment... ?"
+    },
+    "201786": {
+        "<pipipi_low>「胸が……なんだか　あたたかくて……\n　身体が　ソワソワして……。": "<pipipi_low>Ma poitrine... c'est comme si elle\netait toute chaude... Mon corps se sent tout\nagite..."
+    },
+    "201787": {
+        "「楽しい……！！": "C'est amusant... !!"
+    },
+    "201788": {
+        "「市民のみなさん……ポッドに　入ってください。\n　全体の幸福のため\n　管理者プクラスの命令に　従うのです……。": "Citoyens... Veuillez entrer dans les capsules.\nPour le bonheur de tous, suivez les ordres de\nl'administrateur Pukulas..."
+    },
+    "201789": {
+        "「なんだよ……。\n　プクラス様　こんな時に！": "Que se passe-t-il... Pukulas-sama, a un moment\npareil !"
+    },
+    "201790": {
+        "「そうだ　そうだ！\n　せっかく　楽しいものを　見ていたのに\n　邪魔するなんて　全体の幸福に反するぞっ！": "C'est ca, c'est ca ! On etait en train de\nprofiter de quelque chose de sympa, et vous\nvenez tout gacher ! Vous allez a l'encontre du<br>bonheur de tous !"
+    },
+    "201791": {
+        "「市民のみなさんの　精神エネルギーが\n　我々　全員の生活を　維持しています。\n　これからも　全体の幸福のため……": "Citoyens, l'energie spirituelle de chacun\nd'entre vous soutient la vie de nous tous.\nPour le bonheur de tous..."
+    },
+    "201792": {
+        "「管理コンピューター・ペコリア！\n　この放送　うるさいから　切っちゃって！": "Ordinateur de gestion, Pekoria ! Ce bruit de\ndiffusion est agacant, coupe-le !"
+    },
+    "201793": {
+        "「アルウェーン　市民登録を　確認しました♪\n　永世管理者プクラスの複製体　Ｃ１４１の\n　定時放送を　切断しまーす♪": "Inscription citoyenne d'Alweyn confirmee ♪\nNous allons couper la diffusion reguliere du\nreplicant C141 de l'administrateur eternel<br>Pukulas ♪"
+    },
+    "201794": {
+        "「イア・タア　シンパッ・ケ……": "<イア・タア シンパッ・ケ>"
+    },
+    "201795": {
+        "<center>ブチッ！": "Bruit de dechirure !"
+    },
+    "201796": {
+        "「イタ・タア！　シンパッ・ケウーッ……\n　だってさー！": "Aie ! Ca fait mal... Mais enfin !"
+    },
+    "201797": {
+        "「あはははは！\n　どうして今まで　こんな　ヘンな響きが\n　全体の幸福を　満たしてたんだろう！？": "Ahahahaha ! Comment se fait-il que jusqu'a\npresent, un son aussi etrange ait pu remplir\nle bonheur de tous !?"
+    },
+    "201798": {
+        "「いたたーっ！　いやったー！\n　アハハハハッ！　ケウーッ！　ケウーッ！！": "Aie aie aie ! Yahou ! Ahahahah ! Keuh ! Keuh\n!!"
+    },
+    "201799": {
+        "「あれ……キミって\n　アルウェーンの市民では　ないようだね。\n　いったい　どこから来たの？": "あれ Tu n'es pas un citoyen d'Alweyn, on dirait.\nD'ou viens-tu exactement ?"
+    },
+    "201800": {
+        "「ホントだ！　市民じゃないよ！\n　ねえねえ　あの映像は　キミのなの？\n　よかったら　ボクたちに　ちょうだい！　ねっ！": "C'est vrai ! Tu n'es pas un citoyen ! He, he,\nest-ce que cette video est a toi ? Si tu veux\nbien, donne-la nous ! Allez !"
+    },
+    "201801": {
+        "未来のプクリポたちは　強引に\n<pc>の手から\nホーローの記憶の結晶を　奪ってしまった！": "Les Pukulipo du futur ont arrache de force le\nCristal de Memoire de Hollow des mains de\n<pc> !"
+    },
+    "201802": {
+        "「ねえねえ！　キミってば\n　この町に　どうやって来たの！？\n　博物館の標本室から　逃げ出したの？": "Hey, hey ! Comment es-tu arrive dans cette\nville ? Tu t'es echappe de la salle des\nspecimens du musee ?"
+    },
+    "201803": {
+        "<pc>は　未来のプクリポたちに\n本物のプクラスが　複製体に捕まったこと\nみんなが　感情を奪われていたことを　説明した！": "<pc> a explique aux futurs Pukulipo que\nle veritable Pukulas avait ete capture par des\nclones et que tout le monde s'etait fait voler<br>ses emotions !"
+    },
+    "201804": {
+        "「……ボクたちに　ずっと命令していた\n　あの　プクラス様は　本物じゃなかったの！？": "Le Pukulas-sama qui nous donnait des ordres\ntout ce temps n'etait pas le vrai !?"
+    },
+    "201805": {
+        "「ププッ。だから　ヘンな言葉を　言ってたんだ！\n　イヤーッ！　イターッ！\n　シンパッケウ！　シンパッケウ！　あははは！": "Plouf plouf. C'est pour ca qu'il disait des\nmots bizarres ! Aie ! Ca fait mal ! Shinpakewu\n! Shinpakewu ! Ah ah ah !"
+    },
+    "201806": {
+        "「キミは　全体の幸福を満たす映像を\n　見せてくれた　恩人だもん。\n　その話を　信じるよ。ねっ　みんなっ！": "Tu es celui qui nous a montre une vision qui a\ncomble le bonheur de tous. Tu es notre\nbienfaiteur. Je crois en ce que tu dis.<br>N'est-ce pas, tout le monde ?"
+    },
+    "201807": {
+        "「全体の幸福のために　本物のプクラス様を\n　助けてあげなきゃね！\n　もちろん　協力しちゃうとも！": "Pour le bonheur de tous, nous devons aider le\nveritable Pukulas-sama ! Bien sur, je vais\ncollaborer !"
+    },
+    "201808": {
+        "「管理コンピューター・ペコリア！\n　すべての　ロックされている扉を　開いて！": "Ordinateur de controle, Pekoria ! Ouvre toutes\nles portes verrouillees !"
+    },
+    "201809": {
+        "「すべての扉　ロック解除いたしまーす♪": "Toutes les portes sont deverrouillees~ ♪"
+    },
+    "201810": {
+        "「ただし　現在の永世管理者　複製体Ｃ１４１が\n　管理タブレットによって　ロックした扉は\n　暗号化されているため　開きませーん♪": "Cependant, la porte verrouillee par le\ngestionnaire eternel P. Zai, replique C141, a\nl'aide de la tablette de gestion est cryptee,<br>donc elle ne s'ouvrira pas ♪"
+    },
+    "201811": {
+        "「……悪い複製体め！　<pc>さんを\n　管理棟に近づけないつもりだな！\n　でも　他の道から　行けたはずだよ。": "Sale copie ! Tu comptes empecher\n<pc>-san d'approcher l'Admin Building !\nMais, il doit y avoir un autre chemin pour y<br>acceder."
+    },
+    "201812": {
+        "「自然遺産保護区の　立入禁止区画が\n　管理棟に通じてるって　聞いたことがあるよ！\n　ペコリアに頼んで　通してもらおう！": "J'ai entendu dire que la zone interdite de la\nHeritage Reserve mene au batiment\nadministratif ! Demandons a Pekoria de nous<br>faire passer !"
+    },
+    "201813": {
+        "「さあ　みんな　出発だ！\n　本物のプクラス様を　助けて\n　さっきの楽しい映像を　お見せしてやるぜいっ！": "Allez, tout le monde, en route ! Aidons le\nveritable Pukulas-sama et montrons-lui les\nimages amusantes d'avant !"
+    },
+    "201814": {
+        "「種族の本能というのは　おどろくべきものキュ。\n　たった　あれだけで　本来の姿を\n　取り戻してしまったキュル。": "La force de l'instinct racial est vraiment\nsurprenante, kyu. Avec si peu, il a retrouve\nsa forme originelle, kyuru."
+    },
+    "201815": {
+        "「ほれ　ボサーっと　してるなキュ！\n　増殖する魔獣の情報は　本物のプクラスしか\n　持っていないキュ！　さっさと助けにいくキュ！": "Allez, ne restez pas plante la ! Seul le vrai\nPukulas a des informations sur les monstres\nproliferants ! Allons vite le sauver !"
+    },
+    "201816": {
+        "「ホントだ！　プクラス様と　同じ顔だよ！\n　この部屋には　いっぱい　いっぱいいるね！\n　あははははは！": "Vraiment ! Vous avez le meme visage que\nPukulas-sama ! Il y en a plein, plein dans\ncette piece ! Ahahahaha !"
+    },
+    "201817": {
+        "「でも　どれが　本物のプクラス様なんだろう？\n　間違えて　複製体を　起こしちゃったら\n　また　イヤタ！　イヤッタ！　だよ。": "Mais lequel est le veritable Pukulas-sama ? Si\non reveille par erreur un clone, ce sera a\nnouveau Iyata ! Iyatta ! !"
+    },
+    "201818": {
+        "「管理コンピューター・ペコリア！\n　本物の　プクラス様を　起こして！": "Ordinateur de gestion, Pekoria ! Reveillez le\nveritable Pukulas-sama !"
+    },
+    "201819": {
+        "「………………。": ""
+    },
+    "201820": {
+        "「現在　このポッドは　特別管理命令によって\n　ロックされていまーす♪": "P. En raison d'une commande de gestion\nspeciale, cette capsule est verrouillee en ce\nmoment ♪"
+    },
+    "201821": {
+        "「管理タブレットからの　許可がなければ\n　解凍することは　できませーん♪": "Sans l'autorisation de la tablette de gestion,\nil est impossible de proceder a la\ndecongelation♪"
+    },
+    "201822": {
+        "なんと　知理の石版が　突然　光りだした！": "Le Wisdom Tablet s'est soudainement mis a\nbriller !"
+    },
+    "201823": {
+        "「……出してくれっ　Ｃ１４１！！": "... Laisse-moi sortir, C141 !!"
+    },
+    "201824": {
+        "「キミたちは　アルウェーンの町の……\n　それに　<pc>！　無事だったのか！": "Vous etes ceux de la ville d'Alweyn... Et\n<pc> ! Vous etes indemnes !"
+    },
+    "201825": {
+        "「イヤターッ！！　シン・パケー！！": "Iyaaah !! Shin-Pake !!"
+    },
+    "201826": {
+        "「……ありがとう　<pc>。\n　キミは　本当に時間を超えて……\n　この船のみんなを　救ってくれたんだね。": "......Merci, <pc>. Tu as vraiment\ntraverse le temps... et sauve tout le monde\nsur ce navire."
+    },
+    "201827": {
+        "「プクラス様！　<pc>から　もらった\n　すっごく　幸福になる映像があるんだ！\n　一緒に　観ようよ！": "Pukulas-sama ! J'ai une video incroyablement\nheureuse que j'ai recue de <pc> ! Viens,\nregardons-la ensemble !"
+    },
+    "201828": {
+        "「ありがとう……。\n　でも　その前に　やるべきことがあってね。": "Merci... Mais avant cela, il y a quelque chose\nque je dois faire."
+    },
+    "201829": {
+        "「ボクや　ここにいる　みんなは　助かったけど\n　いまだに　宇宙船アルウェーンの全権限を持つ\n　管理タブレットは　Ｃ１４１の手にある。": "Moi et tout le monde ici avons ete sauves,\nmais la tablette de gestion, qui detient\ntoujours tous les droits de l'astronef Alweyn,<br>est encore entre les mains de C141."
+    },
+    "201830": {
+        "「アイツに　気づかれる前に\n　ペコリアたちを　利用して\n　ボクのタブレットを　取り戻さなきゃ……": "Avant qu'il ne s'en apercoive, je dois\nutiliser Pekoria et les autres pour recuperer\nma tablette..."
+    },
+    "201831": {
+        "「プクラス様！　向かいの　研究室には\n　複製体は　いなかったよ！": "Pukulas-sama ! Dans le laboratoire en face, il\nn'y avait pas de repliques !"
+    },
+    "201832": {
+        "「ありがとう。とすると……": "Merci. Alors..."
+    },
+    "201833": {
+        "「管理コンピューター・ペコリア！\n　複製体　Ｃ１４１の　居場所を　教えてくれ！": "Ordinateur de gestion Pekoria ! Dis-moi ou se\ntrouve la replique C141 !"
+    },
+    "201834": {
+        "「……なるほど。やはり　そうか！\n　ボクの複製体　Ｃ１４１が　いるのは\n　この　真下にある　無限動力炉だ！": "Je vois. C'est donc ca ! Mon clone, le C141,\nse trouve dans le reacteur a energie infinie\nsous ce T. !"
+    },
+    "201835": {
+        "「……無限動力炉に　停止命令を出して\n　みんなに　奉仕室で　エネルギーを供給しろと\n　命令していたのは　あいつのはずだ。": "C'est lui qui a donne l'ordre d'arreter le\nreacteur a energie infinie et d'ordonner a\ntout le monde de fournir de l'energie dans la<br>salle de service."
+    },
+    "201836": {
+        "「今更　あの場所に　何の用が……？\n　理由はわからないけど　なんだか胸騒ぎがする。\n　とにかく　行ってみよう！": "Pourquoi retourner a cet endroit maintenant...\n? Je ne sais pas pourquoi, mais j'ai un\nmauvais pressentiment. Quoi qu'il en soit,<br>allons-y !"
+    },
+    "201837": {
+        "「管理コンピューター・ペコリア！\n　無限動力炉への　通路を　開いてくれ！": "Ordinateur de controle Pekoria ! Ouvre le\npassage vers le reacteur a energie infinie !"
+    },
+    "201838": {
+        "プクラスは　閉ざされていた\n無限動力炉への通路を　開通させた！": "Pukulas a ouvert le passage vers le reacteur\nd'energie infinie !"
+    },
+    "201839": {
+        "「さあ！　みんな　行こう！": "Allez ! Tout le monde, en avant !"
+    },
+    "201840": {
+        "「……Ｃ１４１っ！！": "...C141 !!"
+    },
+    "201841": {
+        "「イア・タア　シンパッ・ケウ……\n　イア・タア　シンパッ・ケウ……。": "イア・タア シンパッ・ケウ イア・タア シンパッ・ケウ"
+    },
+    "201842": {
+        "「……これは　創造主パルミオが\n　つねに　唱えていたという　神言だ。": "C'est une parole divine que le Createur Lord\nParumio recitait constamment."
+    },
+    "201843": {
+        "「創造主パルミオは　はじめに　世界の光たる\n　無限動力炉を　創られた。": "Le Seigneur Createur Pal Mio a d'abord cree le\nReacteur a Energie Infinie, lumiere du monde."
+    },
+    "201844": {
+        "「次に　世界そのものである　アルウェーンを。\n　そして　最後に……この新世界に住む者として\n　我等　複製体たちを　創られたのだ。": "Ensuite, il y a Alweyn, qui constitue le monde\nlui-meme. Et enfin... en tant qu'habitants de\nce nouveau monde, nous, les clones, avons ete<br>crees."
+    },
+    "201845": {
+        "「……愚かなる原始種どもよ。\n　貴様らは　創造主パルミオに　創られたる\n　このアルウェーンの主には　ふさわしくない。": "O vous, primitifs insenses. Vous ne meritez\npas d'exister dans ce monde d'Alweyn, cree par\nle grand Lord Parumio."
+    },
+    "201846": {
+        "「創造主……？\n　ボクの父さんを　神だと　思い込んでいるのか？": "Seigneur Createur... ? Tu crois vraiment que\nmon pere est un dieu ?"
+    },
+    "201847": {
+        "「管理コンピューター・ペコリア！\n　全機　その場を動くんじゃない！\n　複製体の命令は　以降　無視するんだ！": "Ordinateur de gestion, Pekoria ! Ne bougez pas\nd'un pouce ! A partir de maintenant, ignorez\nles ordres des clones !"
+    },
+    "201848": {
+        "「永世管理者プクラス・オリジナル個体の\n　市民登録を　確認しましたー♪\n　全機　待機いたしまーす♪": "L'enregistrement citoyen de l'administrateur\neternel Pukulas, version originale, a ete\nconfirme ♪ Tous les appareils sont en attente<br>♪"
+    },
+    "201849": {
+        "「……もうやめろ！\n　本来のお前は　アルウェーン住民を\n　傷つけるようなヤツじゃ　ないはずだろう！？": "Arrete ca ! Tu n'es pas vraiment quelqu'un qui\nferait du mal aux habitants d'Alweyn, n'est-ce\npas !?"
+    },
+    "201850": {
+        "「……これまでは　そうだったかもしれないな。": "...Cela a peut-etre ete le cas jusqu'a\npresent."
+    },
+    "201851": {
+        "「なんだって？": "Qu'est-ce que tu racontes ?"
+    },
+    "201852": {
+        "「だが　私は　新たなる種として　生まれ変わる！\n　イア・タア　シンパッ・ケウ！！": "Cependant, je vais renaitre en tant que\nnouvelle espece ! Ia Taah Shinpah Keu !!"
+    },
+    "201853": {
+        "「私は　Ｃ１４１にあらず！\n　我が名は　パルミオ２世！！": "Je ne suis pas C141 ! Mon nom est Palmio II !!"
+    },
+    "201854": {
+        "「無限動力炉より　採取せし　魔獣の細胞にて\n　私は　無限のチカラを　手に入れた！": "A partir des cellules de la bete magique\nextraites du reacteur d'energie infinie, j'ai\nacquis une puissance sans limites !"
+    },
+    "201855": {
+        "「このチカラを得た　代償に\n　複製体としての肉体は　崩壊するだろう！\n　……だが　それで　かまわぬ！": "En echange d'avoir obtenu ce pouvoir, mon\ncorps de replique va se desintegrer ! ... Mais\npeu importe !"
+    },
+    "201856": {
+        "「もはや　我等は　誰の命令にも　従わぬ！！\n　己の意思で　己の為すべきことを　決め！\n　生も死も　すべて　己で選ぶのだ！！": "Nous ne suivrons plus les ordres de qui que ce\nsoit !! Nous deciderons par nous-memes de ce\nque nous devons accomplir ! La vie et la mort,<br>tout sera choisi par nous !!"
+    },
+    "201857": {
+        "「イア・タア　シンパッ・ケウ……！": "<Ia Ta'a Shinpa-Keu...!>"
+    },
+    "201858": {
+        "「ひっ　ひええええ！！\n　助けて！　ペコリア！": "Hi... Hiiiii ! A l'aide ! Pekoria !"
+    },
+    "201859": {
+        "「アルウェーン　市民登録を　確認しました♪\n　救援要請に　従いまーす♪": "Alweyn, l'enregistrement des citoyens a ete\nconfirme ♪ Nous allons repondre a la demande\nde secours ♪"
+    },
+    "201860": {
+        "「イヤターッ！！　シン・パケー！": "Yaaah!! Shin-Pake!"
+    },
+    "201861": {
+        "「創造主パルミオの神言を　言い違えるとは！\n　……恥を知れ！\n　イア・タア　シンパッ・ケウ！！": "Oser deformer les paroles sacrees du Seigneur\nCreateur ParMio ! ... Quelle honte ! Ia-Taa\nShinpa-Keu !!"
+    },
+    "201862": {
+        "「自己増殖機能だと……！？\n　それに　無限動力炉から　採取した細胞……。\n　あいつ……もしかして！": "Une fonction d'auto-replication... !? Et des\ncellules prelevees dans un reacteur a energie\ninfinie... Cet individu... serait-il possible<br>que... !?"
+    },
+    "201863": {
+        "「<cs_pchero>！\n　キミの持っている　管理タブレットを\n　ボクに　貸してくれ！": "<cs_pchero> ! Prete-moi la tablette de gestion\nque tu as !"
+    },
+    "201864": {
+        "「増殖機能……動力炉と　同じなら……\n　……よしっ！\n　自己増殖機能　停止命令！": "Fonction de proliferation... Si c'est pareil\nque le reacteur moteur... ...Tres bien ! Ordre\nd'arret de la fonction d'auto-proliferation !"
+    },
+    "201865": {
+        "プクラスは　知理の石版をあやつり\n複製体Ｃ１４１の増殖機能を\n停止する信号を　発信した！": "Pukulas utilise la Tablette de Sagesse pour\nemettre un signal qui arrete la fonction de\nmultiplication du clone C141 !"
+    },
+    "201866": {
+        "「……不快なノイズだ。\n　ふん。停止信号ごときで\n　今の私を　止められると思ったか！": "...... Un bruit desagreable. Hum. Tu pensais\nvraiment qu'un simple signal d'arret pouvait\nm'arreter dans mon etat actuel ?"
+    },
+    "201867": {
+        "「命令信号の出力が　弱すぎる！\n　そうか……無限動力炉が停止しているから\n　船全体の　エネルギーが　足りないんだ！": "La puissance du signal de commande est trop\nfaible ! Je vois... c'est parce que le\nreacteur a energie infinie est arrete,<br>l'energie de tout le vaisseau est insuffisante\n!"
+    },
+    "201868": {
+        "「ならば……無限動力炉　活動再開！！": "Dans ce cas... Reacteur a energie infinie,\nredemarrage !!"
+    },
+    "201869": {
+        "「ぬおおおおおおっ！？\n　原始種どもめぇえええ！！！": "Nuoohhhhhh !? Espece de primitifs !!!"
+    },
+    "201870": {
+        "「忌まわしき原始種よ！　滅びし世界の残滓よ！！\n　この宇宙船を　貴様らの墓標にしてくれる！！\n　イア・タア　シンパッ・ケウッ！！": "O creatures primitives maudites ! Vestiges\nd'un monde dechu !! Je ferai de ce vaisseau\nspatial votre tombeau !! Ia Taah Shinpa-Kew !!"
+    },
+    "201871": {
+        "「イァ……・タ　シンパ……ケ……": "Ia... ta... sympa... que..."
+    },
+    "201872": {
+        "「創造主…パルミオ……よみがえりて……\n　我…ら……創られし者たち……永遠の生命を……\n　喜びの園…へ……導き……たま…え……": "Seigneur de la Creation... Pal Mio...\nressuscite... Nous... ceux qui ont ete\ncrees... une vie eternelle... Guide-nous...<br>vers le jardin de la joie..."
+    },
+    "201873": {
+        "「……イア・タア　シンパッ・ケウ。\n　父さんの　クチぐせ『やったぁ　新発見だ』を\n　神の言葉だと　あいつは……信じていたのか。": "Iya taa, shinpat-keu. La phrase fetiche de mon\npere, 'Youpi, une nouvelle decouverte', il\ncroyait vraiment que c'etait une parole<br>divine..."
+    },
+    "201874": {
+        "「なんて　悲しい生き物だったんだ……。\n　ボクたちは　アルウェーンで生き延びるために\n　あいつら　複製体たちを　ずっと犠牲に……。": "Quel etre triste j'etais... Nous avons\ntoujours sacrifie ces repliques pour survivre\na Alweyn..."
+    },
+    "201875": {
+        "「プクラス様！\n　これで　全体の幸福を損なう　悪い複製体は\n　いなくなったんですよね！？": "Pukulas-sama ! Maintenant, les mauvais clones\nqui compromettaient le bonheur de tous ont\ndisparu, n'est-ce pas ?"
+    },
+    "201876": {
+        "「<cs_pchero>さん　すごいや！\n　プクラス様と同じぐらい　アルウェーンの幸福に\n　貢献してくれたよっ！": "<cs_pchero> san, c'est incroyable ! Tu as\ncontribue au bonheur d'Alweyn autant que\nPukulas sama !"
+    },
+    "201877": {
+        "「……ああ。ありがとう　<cs_pchero>。\n　キミこそが　アルウェーンの……\n　アストルティアの　救世主だ。": "Ah. Merci, <cs_pchero>. Tu es veritablement le\nsauveur d'Alweyn... Le Seigneur sauveur\nd'Astoltia."
+    },
+    "201878": {
+        "「それと……\n　感謝のしるしとして　これを　受け取ってくれ。": "Et puis... En signe de gratitude, prends ceci."
+    },
+    "201879": {
+        "「ボクたちの　かけがえのない仲間である　キミを\n　アルウェーンの名誉市民として　迎えたい。\n　管理コンピューターにも　登録しておくよ。": "Nous souhaitons accueillir toi, notre camarade\nirremplacable, en tant que citoyen d'honneur\nd'Alweyn. Je vais egalement t'enregistrer dans<br>l'ordinateur de gestion."
+    },
+    "201880": {
+        "「それから　もうひとつ……。\n　キミが持っている　その　管理タブレットに\n　ボクと同等の　管理権限を与えよう。": "Et puis, une chose de plus... Je vais accorder\na ta tablette de gestion les memes droits\nd'administration que les miens."
+    },
+    "201881": {
+        "プクラスは　知理の石版に\n宇宙船アルウェーンの　全権限を　与えた！": "Pukulas a accorde a la Wisdom Tablet tous les\npouvoirs sur le vaisseau spatial Alweyn !"
+    },
+    "201882": {
+        "「これで　アルウェーン内の移動は自由だ。\n　狭い船だけど　どうか　くつろいでいってくれ。": "A present, tu es libre de te deplacer dans\nAlweyn. Ce n'est qu'un petit navire, mais fais\ncomme chez toi et detends-toi."
+    },
+    "201883": {
+        "「ねえねえ　プクラス様！\n　悪い複製体が　どんどん　増えていったのを\n　どうやって　止めたんですか？": "Dis-moi, Pukulas-sama ! Comment avez-vous\nreussi a arreter la proliferation des\nmauvaises copies ?"
+    },
+    "201884": {
+        "「……ボクの父　パルミオは　かつて\n　みずから発見した　増殖獣バイロゴーグの\n　細胞をもとに　無限動力炉を　発案した。": "...Mon pere, ParuMio, a autrefois concu un\nreacteur a energie infinie base sur les\ncellules de Biologog qu'il avait lui-meme<br>decouvertes."
+    },
+    "201885": {
+        "「ボクも　幼い頃　滅びかけたアストルティアで\n　魔獣を見たが　やはり　Ｃ１４１と同じように\n　自分を　増殖させていたんだ。": "Moi aussi, lorsque j'etais jeune, j'ai vu des\nbetes demoniaques dans une Astoltia en ruine.\nElles se multipliaient de la meme maniere que<br>C141."
+    },
+    "201886": {
+        "「父は　魔獣の細胞を　ひそかに採取。培養して\n　無限動力炉を　作り上げ……安全装置として\n　管理タブレットに　強制停止命令を組み込んだ。": "Le pere a secretement preleve des cellules de\nbetes magiques, les a cultivees et a cree un\nreacteur a energie infinie... Il a integre une<br>commande d'arret d'urgence dans la tablette de\ngestion comme dispositif de securite."
+    },
+    "201887": {
+        "「だから　一か八か　無限動力炉の増殖を停止する\n　操作信号を　あいつに向けて　送ってみたんだ。\n　……そしたら　うまくいったっていうわけさ。": "Donc, j'ai tente le tout pour le tout en\nenvoyant un signal a ce type pour arreter la\nproliferation du reacteur a energie infinie.<br>... Et il se trouve que ca a fonctionne."
+    },
+    "201888": {
+        "「<cs_pchero>。キミは　増殖獣バイロゴーグに\n　対抗する方法を探すために\n　この船へ　きたんだろう？　だとしたら……": "<cs_pchero>Tu es venu sur ce navire pour\nchercher un moyen de contrer Biologog,\nn'est-ce pas ? Dans ce cas..."
+    },
+    "201889": {
+        "「………………。": ""
+    },
+    "201890": {
+        "「何者だ！？　無限動力炉に　何をした！": "Qui etes-vous !? Qu'avez-vous fait au reacteur\nd'energie infinie !"
+    },
+    "201891": {
+        "<center>やはり　我が前に　立ちはだかるか。\n時の異分子よ。": "Ainsi, tu te dresses a nouveau devant moi.\nToi, l'anomalie du temps."
+    },
+    "201892": {
+        "<center>時の狭間にて　我に歯向かいし罪を\n永遠に　悔み続けるがよい。あるいは……": "Dans l'entre-deux du temps, vous porterez a\njamais le poids de votre rebellion contre moi.\nOu bien..."
+    },
+    "201893": {
+        "<center>これを持ちこたえるか……。\nでは　これなら　どうだ？": "Tu tiens bon... Voyons comment tu geres ca !"
+    },
+    "201894": {
+        "「まったく　<cs_pchero>ときたら\n　マヌケなやつキュルね……。\n　しょうがないから　助けてやるキュ！": "Vraiment, <cs_pchero> est un vrai maladroit,\nkyu... Je n'ai pas le choix, je vais t'aider,\nkyu !"
+    },
+    "201895": {
+        "「……キュルルルルゥッ！！！": "......Kyururuルルゥッ!!!"
+    },
+    "201896": {
+        "<center>跳ね返した……だと？\nそなた……まさか……？": "Tu as repousse... quoi ? Toi... ne me dis pas\nque...?"
+    },
+    "201897": {
+        "<center>……時の異分子よ。\nお前には　時の狭間へ　飛ばすよりも\n有益な使いみちが　ありそうだな……。": "Etranger du temps. Il semble que j'ai une\nutilisation plus utile pour toi que de\nsimplement te jeter dans le vide temporel..."
+    },
+    "201898": {
+        "<center>よかろう……。\nこたびは　お前を　見逃してやろう。": "Tres bien... Cette fois, je vais te laisser\npartir."
+    },
+    "201899": {
+        "「……みっともない　負け惜しみキュ。\n　とはいえ……ちょっとだけ…疲れ…たキュね。": "...Quelle lamentable excuse de mauvais\nperdant, Kyu. Cela dit... je suis un peu...\nfatigue... Kyu."
+    },
+    "201900": {
+        "「心配は　いらないキュ……。\n　……すこし…休めば……高貴なる時の妖精……\n　すぐ……元気に……": "Ne t'inquiete pas, kyu... ... Avec un peu de\nrepos... La noble fee du temps... sera bientot\nde nouveau en forme..."
+    },
+    "201901": {
+        "「……<cs_pchero>さん。プクラス様は？": "<cs_pchero>san. Ou est Pukulas-sama ?"
+    },
+    "201902": {
+        "「宇宙船アルウェーンの　エネルギー源\n　無限動力炉も　壊れちゃって……。\n　ボクたち　これから　どうしたら……。": "La source d'energie du vaisseau spatial\nAlweyn, le reacteur a energie infinie, est\negalement en panne... Qu'allons-nous faire<br>maintenant..."
+    },
+    "201903": {
+        "「……イア・タア　シンパッ・ケウ。\n　イア・タア　シンパッ・ケウ。": "...Ia Taa Shinpa Kew. Ia Taa Shinpa Kew."
+    },
+    "201904": {
+        "「親愛なる市民のみなさん。奉仕の時間です。\n　本日　奉仕当番にエントリーされている\n　市民番号の方は　すみやかに　奉仕室へ……": "Chers citoyens. C'est l'heure du service. Les\npersonnes dont le numero de citoyen est\ninscrit pour le service aujourd'hui, veuillez<br>vous rendre rapidement a la salle de\nservice..."
+    },
+    "201905": {
+        "「フン！　こんな時に　あいつの定期放送なんて\n　聞きたくないよ！": "Humph ! Je n'ai pas envie d'ecouter sa\ndiffusion reguliere en ce moment !"
+    },
+    "201906": {
+        "「……そうだ　奉仕室だ！": "...Oui, c'est ca, la salle de service !"
+    },
+    "201907": {
+        "「これまでも　無限動力炉は　動いていなかった。\n　奉仕室で　ボクたちのエネルギーを　供給すれば\n　アルウェーンは　持ちこたえられる！": "Jusqu'a present, le reacteur a energie infinie\nne fonctionnait pas. Si nous fournissons notre\nenergie dans la salle de service, Alweyn<br>pourra tenir le coup !"
+    },
+    "201908": {
+        "「みんな　町へ戻ろう。奉仕室へ行くんだ！": "Tout le monde, retournons en ville. Allons a\nla salle de service !"
+    },
+    "201909": {
+        "「……やあ　<pc>さん。\n　来てくれたんだね。": "......Salut, <pc>-san. Tu es venu,\nn'est-ce pas ?"
+    },
+    "201910": {
+        "「今　みんなで　エネルギーを供給したから\n　この船は　大丈夫だよ。\n　心配してくれて　ありがとう。": "Maintenant que tout le monde a fourni de\nl'energie, ce vaisseau est sur. Merci de t'en\netre inquiete."
+    },
+    "201911": {
+        "「でも……プクラス様は……。": "Mais... Pukulas-sama est..."
+    },
+    "201912": {
+        "「管理コンピューター・ペコリア！\n　プクラス様を　探して！": "Ordinateur de gestion, Pekoria ! Cherche\nPukulas-sama !"
+    },
+    "201913": {
+        "「永世管理者プクラスの生体反応を　探しまーす♪": "Je vais chercher les signes de vie de\nl'Eternel Administrateur Pukulas ♪"
+    },
+    "201914": {
+        "「…………。\n　………………宇宙船　アルウェーン内には\n　永世管理者プクラスは　存在しませーん♪": "........ .................. A l'interieur du\nvaisseau spatial Alweyn, l'administrateur\neternel Pukulas n'existe pas ici ♪"
+    },
+    "201915": {
+        "「コールドスリープ中の　プクラス複製体\n　Ｃ１４２　Ｃ１４３　Ｃ１４４の解凍でしたら\n　可能でーす♪": "Pendant le sommeil de Ludo, la decongelation\ndes repliques de Pukulas C142, C143 et C144\nest possible♪"
+    },
+    "201916": {
+        "「ううん。目覚めさせちゃ　ダメだ。\n　せっかく　全体の幸福を取り戻したのに\n　あの頃には　戻りたくないもん。": "Non, il ne faut pas le reveiller. Apres tout,\nnous avons enfin retrouve le bonheur collectif\n; je ne veux pas revenir a cette epoque."
+    },
+    "201917": {
+        "「ぼくたちは……ぼくたちだけで\n　なんとか　やっていかなくちゃ……。": "Nous devons... nous debrouiller par\nnous-memes..."
+    },
+    "201918": {
+        "「プクラス様にも……\n　この　楽しい映像　見せてあげたかったのに。": "Je voulais aussi montrer ces images amusantes\na Pukulas-sama..."
+    },
+    "201919": {
+        "「……ぷっ。": "... Pff."
+    },
+    "201920": {
+        "「あははははははっ！！\n　あの映像を　思い出したら　笑えて来ちゃった！": "Ahahahahaha !! En repensant a cette scene, ca\nme fait encore rire !"
+    },
+    "201921": {
+        "「そうだね！　楽しく　笑って\n　全体の幸福に　奉仕しよう！\n　笑ってれば　元気が　わいてくるもん！": "Oui, c'est ca ! Rions joyeusement et servons\nle bonheur de tous ! Quand on rit, la vitalite\njaillit !"
+    },
+    "201922": {
+        "「管理コンピューター・ペコリア！\n　無限動力炉　なしでも　やっていけるかな？": "Ordinateur de gestion, Pekoria ! Pourrons-nous\nnous debrouiller sans le reacteur a energie\ninfinie ?"
+    },
+    "201923": {
+        "「イレギュラーな事態が　起きなければ\n　奉仕室からの　エネルギー供給だけでも\n　アルウェーンの運営は　可能でーす♪": "Si une situation irreguliere ne se produit\npas, il est possible de gerer Alweyn\nuniquement avec l'energie fournie par la salle<br>de service ♪"
+    },
+    "201924": {
+        "「何も　起きなければ……か。": "Si rien ne se passe... hein."
+    },
+    "201925": {
+        "「幸福にいこうよ！\n　大丈夫　無限動力炉は　直せるよ！": "Allons vers le bonheur ! Ne t'inquiete pas, je\npeux reparer le reacteur a energie infinie !"
+    },
+    "201926": {
+        "「悪い複製体を　探してるときに\n　管理棟の研究室に　入ったんだ。\n　そしたら　無限動力炉の設計図が　あったよ！": "Pendant que je cherchais le mauvais clone, je\nsuis entre dans le laboratoire de recherche du\nbatiment Admin. Et la, j'ai trouve les plans<br>du reacteur a energie infinie !"
+    },
+    "201927": {
+        "「どうやったら　直せるかは\n　まだ　わからないけど……設計図があるなら\n　何度も　試せば　いつかは　絶対できるよ！": "Je ne sais pas encore comment le reparer,\nmais... s'il y a un plan, alors en essayant\nplusieurs fois, on y arrivera forcement un<br>jour !"
+    },
+    "201928": {
+        "「……そうだね。プクラス様みたいには\n　できないかも　しれないけど。\n　みんなで　笑いながら　がんばれば　いつかは。": "C'est vrai. Je ne pourrai peut-etre pas faire\ncomme Pukulas-sama. Mais si nous faisons de\nnotre mieux en riant ensemble, un jour, nous y<br>arriverons."
+    },
+    "201929": {
+        "「そうして　この宇宙船アルウェーンが\n　安全で　楽しい場所になったら　町のみんなにも\n　楽しい映像を　見せてあげようよ！": "Et quand ce vaisseau spatial Alweyn sera\ndevenu un endroit sur et agreable, montrons\naussi des images amusantes a tous les<br>habitants de la ville !"
+    },
+    "201930": {
+        "「みんなにも　笑うことや　楽しむことを\n　思いださせて……いろんなことが　あって\n　すっごく大変だったよ！　って笑い話にしよう！": "Rappelons a tout le monde l'importance de rire\net de s'amuser... Il s'est passe tellement de\nchoses, c'etait vraiment dur ! Transformons<br>tout cela en une anecdote amusante !"
+    },
+    "201931": {
+        "「うん！　みんなで　笑おうね！！": "Oui ! Rions tous ensemble !!"
+    },
+    "201932": {
+        "「<pc>さんは　遠い遠い世界から\n　大事な旅の途中に　この宇宙船に来たんだって\n　プクラス様が　言ってたよ。": "<pc>-san est venu de tres, tres loin,\nd'un monde lointain, pour une mission\nimportante et a atterri sur ce vaisseau<br>spatial. C'est ce que disait Pukulas-sama."
+    },
+    "201933": {
+        "「ぼくたちは　もう　大丈夫だから\n　<pc>さんは　自分の旅に戻って。\n　でも　また　遊びに来てよね！": "Nous, ca va aller maintenant, alors\n<pc>-san, retourne a ton propre voyage.\nMais reviens nous voir pour jouer a nouveau !"
+    },
+    "201934": {
+        "「それまでに　がんばって\n　この宇宙船を　安全で　楽しいところにするから\n　楽しみにしててね！": "D'ici la, je vais faire de mon mieux pour\nrendre ce vaisseau spatial sur et amusant,\nalors j'espere que tu es impatient !"
+    },
+    "201935": {
+        "「じゃあね　<pc>さん！\n　絶対　また会おうね！": "A plus, <pc>-san ! On se reverra, c'est\nsur !"
+    },
+    "201936": {
+        "「うぅ～ん　<kyodai>……。\n　もっと　チョコレートを供給しなければ\n　時間跳躍は　できないキュ……": "Hmm, <kyodai>... Je dois fournir plus de\nchocolat pour pouvoir effectuer un saut\ntemporel, kyu..."
+    },
+    "201937": {
+        "「……と…時見の箱は　どこへ行ったキュ！？": "Et… ou est donc passee la Timeseer Box, kyu !?"
+    },
+    "201938": {
+        "「……どうやら\n　現代に　戻ってきたようキュルね。": "...On dirait que nous sommes revenus a\nl'epoque de P., Kyuru."
+    },
+    "201939": {
+        "「大変キュ！\n　いつのまにか　この時間軸の先にある未来に\n　大きなゆらぎが　発生しているキュ！": "C'est terrible, Kyu ! A un moment donne, une\ngrande perturbation est survenue dans le futur\nde cette ligne temporelle, Kyu !"
+    },
+    "201940": {
+        "なんと　知理の石版が　突然　光りだした！": "Le Wisdom Tablet s'est soudainement mis a\nbriller !"
+    },
+    "201941": {
+        "<center>……遠い未来に生きる　<pc>へ": "......A <pc> qui vit dans un futur\nlointain"
+    },
+    "201942": {
+        "<center>ひさしぶりだね　<pc>。\nボクだよ　プクラスだ。": "Ca fait longtemps, <pc>. C'est moi,\nPukulas."
+    },
+    "201943": {
+        "<center>ボクは　どうやら　爆発のショックで\nはるか古代へと　飛ばされてしまったようだ。": "Il semble que j'ai ete projete loin dans le\npasse, a l'epoque ancienne, a cause du choc de\nl'explosion."
+    },
+    "201944": {
+        "<center>はっきりした年代は　わからないが\n植物相や地形から　ここは　キミの時代から\n６０００年ほど過去ではないかと　推測される。": "On ne connait pas l'epoque exacte, mais en se\nbasant sur la flore et la geographie, on\nsuppose que nous sommes environ 6000 ans dans<br>le passe par rapport a ton epoque."
+    },
+    "201945": {
+        "<center>まさか　過去の世界に　来られるとはね。\nキミのおかげで　刺激的な体験が　できたよ。": "Je n'aurais jamais imagine pouvoir venir dans\nle monde du passe. Grace a toi, j'ai vecu une\nexperience stimulante."
+    },
+    "201946": {
+        "<center>１０００年以上　夢見てきた　はるかなる故郷\nアストルティアの大地に　再び　降り立つことが\nできたんだ。この運命も　悪くはないさ。": "Pendant plus de 1000 ans, j'ai reve de mon\nlointain pays natal. J'ai enfin pu redescendre\nsur la terre d'Astoltia. Ce destin n'est pas<br>si mauvais."
+    },
+    "201947": {
+        "<center>……おそらく　ボクは\n自分のいた時代に　戻ることは　できないだろう。": "Il est probable que je ne pourrai jamais\nretourner a l'epoque d'ou je viens."
+    },
+    "201948": {
+        "<center>だから　少しでも　よりよい未来が　訪れるように\nこの時代の人々のために\n自分の知識を　役立てていくつもりだ。": "C'est pourquoi je compte utiliser mes\nconnaissances pour aider les gens de cette\nepoque, afin qu'un avenir meilleur puisse se<br>realiser, meme un peu."
+    },
+    "201949": {
+        "<center>……いつか　ボクの管理タブレットが\n知理の石版と　名を変え\nキミの手に渡って　世界が救われると　信じて。": "......Un jour, je crois que ma tablette de\ngestion changera de nom pour devenir la Wisdom\nTablet, passera entre tes mains et sauvera le<br>monde."
+    },
+    "201950": {
+        "<center>あの時　言いかけた通り\n無限動力炉と　増殖獣バイロゴーグは\n同じ特性を持っている可能性が　高い。": "Comme je l'avais commence a dire a ce\nmoment-la, il est fort probable que le\nReacteur a Energie Infinie et le Biologog<br>partagent les memes caracteristiques."
+    },
+    "201951": {
+        "<center>魔獣の増殖能力を　知理の石版で　停止するんだ。\nそう…れば……■Ｘ獣　◎？にも……\n……勝利…％★…◎％＃……！！！": "Tu dois utiliser la Wisdom Tablet pour arreter\nla capacite de multiplication des betes\nmagiques. Ainsi... on pourra... ■X betes<br>◎？meme... ... Victoire...％★...◎％＃...!!!"
+    },
+    "201952": {
+        "「たった今　未来が　変わったキュル！": "A l'instant, l'avenir a change, Kyuru !"
+    },
+    "201953": {
+        "「増殖獣バイロゴーグの　増殖する能力は\n　知理の石版で　止められるキュ！\n　これなら　アイツを　倒せるキュル！": "La capacite de proliferation de Biologog peut\netre stoppee avec la Wisdom Tablet, kyu ! Avec\nca, nous pourrons le vaincre, kyuru !"
+    },
+    "201954": {
+        "「<pc>！\n　さっそく　増殖獣との戦いに　向かうキュ……": "<pc> ! Nous nous dirigeons immediatement\nvers la bataille contre les betes de\nmultiplication, kyu..."
+    },
+    "201955": {
+        "「<pc>殿　会えてよかった！": "<pc>-dono, je suis ravi de vous avoir\nrencontre !"
+    },
+    "201956": {
+        "「ようやく　胡蝶の護符が　完成したため\n　自分が　持ってまいりました！": "Enfin, le Butterfly Charm est termine, je l'ai\napporte moi-meme !"
+    },
+    "201957": {
+        "<pc>は　ファラスから\n胡蝶の護符（だいじなもの）を　受け取った！<me 60>": "<pc> a recu le Butterfly Charm (objet\ncle) de Faras ! <me 60>"
+    },
+    "201958": {
+        "「して　どうじゃったのだ　<pc>？\n　未来の　プクリポたちは\n　パノンたちの芸で　救われたのか？": "Et alors, qu'en est-il, <pc> ? Les\nPukulipo du futur ont-ils ete sauves par les\ntalents des Tom Foolery ?"
+    },
+    "201959": {
+        "「……そうか。未来のプクリポたちは\n　感情を　取り戻したものの\n　またもや　黒衣の剣士パドレが……。": "…Je vois. Les Pukulipo du futur ont retrouve\nleurs emotions, mais une fois de plus,\nPadre..."
+    },
+    "201960": {
+        "「………………。": ""
+    },
+    "201961": {
+        "「これまで通りであれば　我が主は\n　魔獣討伐の後　そのチカラを\n　繭に吸収させるため　現れるはずです。": "Si tout se passe comme d'habitude, notre Lord\ndevrait, apres avoir vaincu la bete magique,\npermettre a cette puissance d'etre absorbee<br>par le cocon."
+    },
+    "201962": {
+        "「もはや　一刻たりとも　ムダにはできません。\n　この時代を脅かす　魔獣を倒し\n　胡蝶の護符で　我が主を元に戻すのです！": "Nous ne pouvons plus perdre une seule seconde.\nNous devons vaincre la bete demoniaque qui\nmenace cette epoque et restaurer notre<br>Seigneur grace au Butterfly Charm !"
+    },
+    "201963": {
+        "「このファラスも　助太刀いたします。\n　急いで　増殖する魔獣を　倒しましょう！": "Moi, Faras, je viens aussi vous preter\nmain-forte. Depechons-nous d'abattre ces\nmonstres qui se multiplient !"
+    },
+    "201964": {
+        "「もちろん　わしも　一緒に　ついていくぞ！\n　ではな　<pc>！\n　エピステーサの底なし穴で　会おう！": "Bien sur, je vais t'accompagner ! Allons-y,\n<pc> ! Rendez-vous au gouffre\nd'Epistesia !"
+    },
+    "201965": {
+        "「<cs_pchero>殿！　助太刀いたします！": "<cs_pchero> dono ! Je viens a votre secours !"
+    },
+    "201966": {
+        "<center>！　管理者モード　！": "！ Mode administrateur ！"
+    },
+    "201967": {
+        "<center>無限動力炉は　現在　稼働中です。\n管理者権限にて　無限動力炉を　停止させる場合は\n決定ボタンを　押してください。": "L'infinie generateur d'energie est\nactuellement en fonctionnement. Pour arreter\nl'infinie generateur d'energie avec les droits<br>administrateur, veuillez appuyer sur le bouton\nde confirmation."
+    },
+    "201968": {
+        "知理の石版には　無限動力炉を停止させる\n決定ボタンが　表示されている。\nボタンを　押しますか？<yesno><close>": "La Wisdom Tablet affiche un bouton de\nconfirmation pour arreter le reacteur a\nenergie infinie. Voulez-vous appuyer sur le<br>bouton ? <yesno><close>"
+    },
+    "201969": {
+        "「<cs_pchero>！　ためらうでない！\n　未来で　教わってきたという方法で\n　魔獣の増殖を　止めるのじゃ！": "<cs_pchero> ! Ne tergiverse pas ! Utilise la\nmethode que tu as apprise dans le futur pour\narreter la proliferation des betes magiques !"
+    },
+    "201970": {
+        "<cs_pchero>は　決定ボタンを　押した！": "<cs_pchero> a appuye sur le bouton de\nvalidation !"
+    },
+    "201971": {
+        "「お見事です　<cs_pchero>殿！": "Felicitations, <cs_pchero> dono !"
+    },
+    "201972": {
+        "「……さあ　いまわしき魔獣よ。\n　我らが相手だ！　かかってこい！！": "… Allez, vile creature ! Nous sommes tes\nadversaires ! Viens nous affronter !!"
+    },
+    "201973": {
+        "なんと　知理の石版は　壊れてしまった！": "Oh non ! La Tablette de la Sagesse s'est\nbrisee !"
+    },
+    "201974": {
+        "「やりましたな　<cs_pchero>殿！": "Vous avez maitrise la lance, <cs_pchero> dono\n!"
+    },
+    "201975": {
+        "「油断はならぬぞ　ふたりとも！\n　魔獣を　倒したということは……": "Ne baissez pas votre garde, vous deux ! Le\nfait d'avoir vaincu la bete magique signifie\nque..."
+    },
+    "201976": {
+        "「我が主……パドレ様が　来る！": "Mon Seigneur... Padre-sama arrive !"
+    },
+    "201977": {
+        "<center>我が眷属では　もはや　相手にはならぬか\n……すばらしき　戦闘能力よ。": "Il semble que mes subordonnes ne soient plus a\nla hauteur... …Quelle formidable capacite de\ncombat."
+    },
+    "201978": {
+        "<center><cs_pchero>よ\nこの時間軸に存在する　すべての生命体の中で\nお前が　もっとも　我が目的にふさわしき個体。": "<cs_pchero> Yo, parmi tous les etres vivants\nexistant sur cette ligne temporelle, tu es\ncelui qui correspond le mieux a mon objectif."
+    },
+    "201979": {
+        "<center>……この　使い古しに代わって\nお前を　新たなる傀儡と　してやろう。": "Je vais te transformer en une nouvelle\nmarionnette a la place de ce vieil outil."
+    },
+    "201980": {
+        "「おやめください　パドレ様！": "Arretez, Padre-sama !"
+    },
+    "201981": {
+        "<center>そうか　この欠損品の　ヒトとしての名前は\nパドレだったな。": "Je vois, le nom de cette personne defectueuse\netait Padre."
+    },
+    "201982": {
+        "<center>パドレよ　これが　最後の仕事だ。\nそこな代用品が　我が支配を　受け容れるまで\n痛みと　苦痛を与えてやるがよい。": "Padre, ceci est la derniere mission. Continue\nd'infliger douleur et souffrance a cet\nimposteur jusqu'a ce qu'il accepte ma<br>domination."
+    },
+    "201983": {
+        "<center>下等なる生命体め……。\n貴様に　用はない。": "Miserable creature inferieure... Je n'ai rien\na te dire."
+    },
+    "201984": {
+        "「お前さんより　知恵は回るようじゃな！\n　時見の箱　キュロノスよ！": "Il semble que tu sois plus intelligent,\nn'est-ce pas ! Timeseer Box Kyuronos !"
+    },
+    "201985": {
+        "「ホーロー殿！　感謝いたします！": "Hollow-dono ! Je vous remercie !"
+    },
+    "201986": {
+        "「……時の異分子よ　覚悟！": "…Element perturbateur du temps, prepare-toi !"
+    },
+    "201987": {
+        "「……いけません　パドレ様。\n　<cs_pchero>殿…は……あなたの……": "Ce n'est pas possible, Padre-sama. <cs_pchero>\ndono... est... votre..."
+    },
+    "201988": {
+        "「がはッ！": "Gaha !"
+    },
+    "201989": {
+        "「何をする　貴様っ……！？": "Que fais-tu, espece de... !?"
+    },
+    "201990": {
+        "「今だ……<cs_pchero>殿……！\n　パドレ様に　胡蝶の護符を……ッ！！": "C'est le moment... <cs_pchero> dono... !\nOffrez le Butterfly Charm a Padre-sama... !!"
+    },
+    "201991": {
+        "<cs_pchero>は　黒衣の剣士パドレに\n胡蝶の護符を　使った！": "<cs_pchero> utilise le Charme Papillon sur\nPadre !"
+    },
+    "201992": {
+        "「こ……これが　胡蝶の術か！？": "Ce... c'est donc la technique du papillon !?"
+    },
+    "201993": {
+        "「<cs_pchero>！\n　あの光の柱に　入るんじゃ！\n　パドレを　時見の箱の支配から　解放してやれ！": "<cs_pchero> ! Entre dans ce Pilier de Lumiere\n! Libere Padre du controle de la Timeseer Box\n!"
+    },
+    "201994": {
+        "「この蝶は……？\n　<pc>殿。我が主は　いずこに……": "Ce papillon est... ? <pc>-dono. Ou est\nmon Seigneur... ?"
+    },
+    "201995": {
+        "「……では　リンジャハル行きを\n　承諾なされたと　そうおっしゃるのですか。\n　パドレ様。": "Donc, vous dites que vous avez accepte de vous\nrendre a Linjaharu, n'est-ce pas, Padre-sama ?"
+    },
+    "201996": {
+        "「はやり病により　かの　海洋都市リンジャハルは\n　甚大なる被害を受けた。\n　同盟国として　放置するわけには　いくまい。": "La cite maritime de Linjaharl a subi\nd'immenses degats a cause de la maladie Spear.\nEn tant qu'allie, nous ne pouvons pas rester<br>les bras croises."
+    },
+    "201997": {
+        "「王子である俺が　リンジャハルまで　出向けば\n　両国の友好は　いっそう　確かなものとなろう。\n　ドミネウス兄上も　よく考えたものだ。": "En tant que prince, si je me rends a Linjahal,\nl'amitie entre nos deux royaumes deviendra\nencore plus solide. Mon frere Dominus a bien<br>reflechi a cela."
+    },
+    "201998": {
+        "「ですが……国王陛下が　ご病床にある\n　この時期に　エテーネ王宮を離れるとは……。": "Cependant... quitter le Palais Royal d'Ethene\nalors que Sa Majeste le Roi est alite..."
+    },
+    "201999": {
+        "「……リンジャハルを襲った　はやり病の被害が\n　それほど　おそるべきものだったというだけさ。\n　これも　王家に連なる者の　役目だよ。": "......Les ravages causes par la maladie Spear\nqui a frappe Linjaharu ont ete terribles.\nC'est aussi le devoir de ceux qui<br>appartiennent a la famille royale."
+    },
+    "202000": {
+        "「父上の　おそばには\n　第一王子である　兄上が　ついているのだ。\n　何も　案ずることはあるまい。": "Aupres de notre pere, il y a notre frere aine,\nle premier prince. Il n'y a rien a craindre."
+    },
+    "202001": {
+        "「……おそれながら　今この時に　わざわざ\n　じつの弟を　遠方へ追いやるのは　パドレ様が\n　次期国王に指名されるのを　防ぐためでは？": "...Je crains que, en verite, envoyer votre\npropre frere au loin en ce moment precis ne\nsoit une manoeuvre pour empecher Padre-sama<br>d'etre designe comme le prochain roi, n'est-ce\npas ?"
+    },
+    "202002": {
+        "「ドミネウス兄上は　国王代理という重責により\n　いささか　気難しくなっているものの\n　心根は　優しい方だ。他意などあるはずがない。": "Mon frere Domineus, bien qu'il soit devenu\nquelque peu difficile a cause des lourdes\nresponsabilites en tant que regent du roi, a<br>un coeur fondamentalement gentil. Il ne peut\navoir d'arriere-pensees."
+    },
+    "202003": {
+        "「お前とて　長年　父上の補佐を務められてきた\n　兄上の手腕は　よく　知っておろう。\n　そもそも　長子が王位を継ぐのは　当然のこと。": "Toi aussi, tu as servi de nombreuses annees en\ntant qu'assistant de notre pere. Tu connais\nbien les competences de notre frere aine. Il<br>est naturel que l'aine herite du trone."
+    },
+    "202004": {
+        "「……それに　海洋都市リンジャハルの長は\n　懐かしき　我が学友　召喚士リンジャーラだ。": "...... De plus, le chef de la cite marine\nLinjaharu est mon cher camarade d'etude, le\nSummoner Linjara."
+    },
+    "202005": {
+        "「この任務は　軍務続きで疲れていた　この俺に\n　しばらく　友と　旧交を温めてこいという\n　兄上なりの　優しさなのだ。": "Cette mission est une marque de la gentillesse\nde mon frere aine. Il m'a dit de prendre\nquelque temps pour me reposer de mes devoirs<br>militaires et de raviver mes vieilles amities."
+    },
+    "202006": {
+        "「まあいい。先ほどの発言は　忘れるとしよう。\n　だが　二度と　ドミネウス兄上のことを\n　悪く言うのではないぞ。ファラスよ。": "Bon, passons. Oublions ce qui a ete dit plus\ntot. Mais ne parle plus jamais en mal de notre\nfrere Dominus, Faras."
+    },
+    "202007": {
+        "「かしこまりました　我が主！": "Bien compris, mon Lord !"
+    },
+    "202008": {
+        "「そうだ……よく覚えている。\n　かつて　ここで　パドレ様と交わした会話だ。\n　だが　今の幻影は　いったい……？": "Oui... Je m'en souviens bien. C'etait une\nconversation que j'avais eue ici autrefois\navec Padre-sama. Mais cette illusion<br>actuelle... qu'est-ce que c'est... ?"
+    },
+    "202009": {
+        "「これが　胡蝶の護符のチカラ……。\n　今　見たものが　パドレ様の心に\n　深く刻み込まれた　記憶だというのか？": "Ca, c'est le pouvoir du Butterfly Charm... Ce\nque je viens de voir est-il vraiment un\nsouvenir profondement grave dans le coeur de<br>Padre-sama ?"
+    },
+    "202010": {
+        "「………………？": "？"
+    },
+    "202011": {
+        "「あの蝶を　追いかけてみましょう。\n　<pc>殿！": "Poursuivons ce papillon. <pc>-dono !"
+    },
+    "202012": {
+        "「<pc>殿！\n　次の蝶だ。さあ　触れてみてくれ。": "<pc>-dono ! Voici le prochain papillon.\nAllez, touche-le."
+    },
+    "202013": {
+        "「……海洋都市リンジャハルへの　ご出発は\n　今日からでしたね。": "......Votre depart pour la cite marine de\nLinjaharl est prevu pour aujourd'hui."
+    },
+    "202014": {
+        "「あの　おそろしい疫病から　数ヶ月……。\n　かの地の復興は　めざましいものだと聞きます。\n　リンジャーラ様にも　よろしくお伝えください。": "Cela fait quelques mois depuis cette terrible\nepidemie... Je suis impressionne par la\nrapidite de la reconstruction de cette region.<br>Veuillez transmettre mes salutations a\nLinjalla-sama."
+    },
+    "202015": {
+        "「うむ。リンジャーラの招待状には\n　そなたも　ぜひ　復興を祝う宴に\n　連れてきてくれと　書いてあったのだが……": "Hum. Dans l'invitation de Rinjara, il etait\necrit que tu devais absolument l'amener pour\ncelebrer le banquet de la reconstruction..."
+    },
+    "202016": {
+        "「<pc>が　生まれたばかりだからな。\n　まだ　しばらく　遠出はできまい。\n　落ち着いたら　親子三人で　訪れるとしよう。": "<pc> vient juste de naitre, donc il est\nencore trop tot pour voyager loin. Une fois\nque tout sera stable, nous viendrons te rendre<br>visite tous les trois, en famille."
+    },
+    "202017": {
+        "<pipipi_shigh>「あばばー！": "<pipipi_shigh>Aba-ba !"
+    },
+    "202018": {
+        "「はっはっは！　いい返事だぞ。\n　<pc>！　楽しみにしているといい！": "Ha ha ha ! C'est une bonne reponse. <pc>\n! J'ai hate de voir ca !"
+    },
+    "202019": {
+        "「……ご出立に　水を差すようですが\n　海洋都市リンジャハルの　よくないうわさを\n　耳にしたのです。": "…Je suis desole de vous interrompre avant\nvotre depart, mais j'ai entendu de mauvaises\nrumeurs concernant la cite maritime de<br>Linjahal."
+    },
+    "202020": {
+        "「このところ　かの国の民が　相次いで\n　失踪しているとか。\n　あなたに　もしものことがあったら……。": "Ces derniers temps, il parait que les\nhabitants de ce pays disparaissent les uns\napres les autres. Si jamais quelque chose<br>devait t'arriver..."
+    },
+    "202021": {
+        "「もし　そのうわさが　真実であるなら\n　我が友リンジャーラと　この俺で\n　みごと　解決してやらねばならないな。": "Si cette rumeur concernant T. est vraie, alors\nmon ami Linjara et moi devons absolument la\nresoudre brillamment."
+    },
+    "202022": {
+        "「事件が片付いた暁には　みやげに\n　海洋都市リンジャハル名物の　新鮮なカニを\n　たっぷり　持ちかえってやろう！": "Une fois que l'affaire sera reglee, je\nramenerai en souvenir une bonne quantite de\ncrabes frais, specialite de la cite marine de<br>Linjaharu !"
+    },
+    "202023": {
+        "「ご無事に　帰ってきてくださることが\n　一番の　おみやげですよ。\n　……ねえ　<pc>。": "Le plus beau cadeau, c'est que vous reveniez\nsain et sauf. ...N'est-ce pas, <pc> ?"
+    },
+    "202024": {
+        "「マローネ。これを　持っていてくれ。\n　……俺の　時の指針書だ。": "Marone. Tiens, prends ca. ...C'est mon Time\nGuidebook."
+    },
+    "202025": {
+        "「この　時の指針書があれば\n　俺が　リンジャハルで　どう過ごしているか\n　わかって　安心だろう？": "Avec ce Time Guidebook, tu sauras comment je\npasse mon temps a Linjahal, et ca te\nrassurera, n'est-ce pas ?"
+    },
+    "202026": {
+        "「ならば　私の　時の指針書も　お持ちください。\n　<pc>と　私が　どれほど\n　あなたを　待ちわびているか　わかるように。": "Dans ce cas, prenez aussi mon Guide du Temps.\n<pc> et moi-meme avons attendu votre\nvenue avec impatience."
+    },
+    "202027": {
+        "<pipipi_shigh>「だぁ　だぁ！　ばばー！": "<pipipi_shigh> Da da! Babaa!"
+    },
+    "202028": {
+        "「パドレ様には　自分が　ついております。\n　何があろうとも　お守りしますので\n　マローネ様も　どうか　ご心配なく！": "Padre-sama, je suis a vos cotes. Quoi qu'il\narrive, je vous protegerai, alors Marone-sama,\nne vous inquietez pas !"
+    },
+    "202029": {
+        "「……では　行ってくる。": "...Alors, je pars."
+    },
+    "202030": {
+        "「……ええ。ご無事で　お帰りくださることを\n　<pc>と　共に　待っておりますわ。\n　あなた。": "Eh bien. Nous attendrons votre retour en toute\nsecurite, avec <pc>. Mon cher."
+    },
+    "202031": {
+        "「だが……パドレ様は\n　リンジャーラが召喚した　魔人との戦いに\n　巻き込まれ　それきり……。": "Cependant... Padre-sama a ete pris dans le\ncombat contre le demon invoque par Linjara, et\ndepuis lors..."
+    },
+    "202032": {
+        "「しかし……ならば　どうやって\n　パドレ様は　崩壊したリンジャハルから\n　生還なされたのだ？": "Cependant... dans ce cas, comment Padre-sama\na-t-il pu survivre a la destruction de\nLintahhal ?"
+    },
+    "202033": {
+        "「あの蝶を　追いかければ\n　真相が　わかるはずだ。\n　行ってみよう　<pc>殿！": "Si nous poursuivons ce papillon, nous devrions\netre en mesure de comprendre T. Sou. Allons-y,\n<pc>-dono !"
+    },
+    "202034": {
+        "「……あそこにいる　蝶に触れれば\n　海洋都市リンジャハルでの　戦いの後\n　パドレ様に　何が起きたのか　わかるはず……。": "Si tu touches ce papillon la-bas, apres la\nbataille de la cite marine de Linjahal, tu\ndevrais comprendre ce qui est arrive a<br>Padre-sama..."
+    },
+    "202035": {
+        "「<pc>殿！\n　あの蝶に　触れてみてくれ。": "<pc>-dono ! Essaie de toucher ce\npapillon."
+    },
+    "202036": {
+        "「邪法に手を染め……数々の生命を　奪い\n　……魔人と　成り果ててまで……望んだのは……\n　パドレ……君を　超える…こと……。": "En me tournant vers les arts obscurs... j'ai\npris tant de vies... ...et meme devenu un\ndemon... tout ce que je desirais... Padre...<br>c'etait te surpasser..."
+    },
+    "202037": {
+        "「最初から……わかっていたよ。\n　そんなことは　絶対に　無理なんだ……って。\n　だが　それでも……私……は……": "Depuis le debut... je le savais. C'etait\nabsolument impossible... de toute facon. Mais\nmalgre tout... moi... je..."
+    },
+    "202038": {
+        "「はは……。\n　やっぱり……君には　かなわないな……。": "Haha... Finalement... je ne peux vraiment pas\nte surpasser..."
+    },
+    "202039": {
+        "「……俺が勝てたのは　ほんの　紙一重の差さ。": "... J'ai gagne d'un cheveu, vraiment."
+    },
+    "202040": {
+        "「お前だけが　俺の好敵手だ。\n　もう一度　やったら　結果は　変わっていた。\n　……だろ？": "Toi seul es mon rival. Si nous nous\naffrontions encore une fois, le resultat\nserait different. ...Pas vrai ?"
+    },
+    "202041": {
+        "「……そう…かもね……。\n　次…こそ……負けや……しないよ……": "......Oui... peut-etre...... La prochaine\nfois... je ne... perdrai pas......"
+    },
+    "202042": {
+        "「パドレ……君と……\n　最後に　全力で戦うことができて　よかった……": "Padre... Je suis content d'avoir pu me battre\nde toutes mes forces contre toi une derniere\nfois..."
+    },
+    "202043": {
+        "<center>……あり…がとう……": "...Merci..."
+    },
+    "202044": {
+        "「……リンジャーラ！": "...Rinjara !"
+    },
+    "202045": {
+        "「もはや……\n　全てのチカラを　使い果たしたか……。\n　ここから……脱出は　できそうにないな……。": "Je vois… J'ai deja epuise toutes mes forces…\nIl semble que je ne puisse pas m'echapper\nd'ici…"
+    },
+    "202046": {
+        "「……だが　アイツの魂を……救えたのなら\n　それで……満足だ……。": "…Cependant, si j'ai pu… sauver son ame… alors\nje suis… satisfait…"
+    },
+    "202047": {
+        "「……これで…いい。\n　いつ…か……　この記憶の結晶が……\n　マローネと……<pc>に届くように……。": "...C'est bien ainsi. Un jour... que ce Crystal\nde Memoire... parvienne a Marone et...\n<pc>..."
+    },
+    "202048": {
+        "「マローネ……約束…守れず……すまん……。\n　どうか　<pc>を……\n　良い…子に……育ててくれ……。": "Marone... Je suis desole de ne pas avoir pu\ntenir ma promesse... S'il te plait, eleve\n<pc>... Pour qu'il devienne un enfant<br>bien..."
+    },
+    "202049": {
+        "「……ファラスよ。俺……は……\n　お前の　信に足る……主で　あったか……？": "Faras. Moi... est-ce que j'ai ete... un Lord\ndigne de ta confiance... ?"
+    },
+    "202050": {
+        "「兄…上……\n　エテーネ王国を……どうか　良き未来へと\n　お導きください……": "Frere aine... Je vous en prie, guidez le\nroyaume d'Ethene vers un avenir radieux..."
+    },
+    "202051": {
+        "<center>いいや……その願いは　かなわない。": "Non... ce souhait ne peut etre exauce."
+    },
+    "202052": {
+        "「何者……だ……？": "Qui... es-tu... ?"
+    },
+    "202053": {
+        "<center>ドミネウスは　お前の　妻子を殺し\nエテーネ王国を　恐怖をもって　支配するだろう。": "Domineus va tuer ta femme et tes enfants, et\nregner sur le royaume d'Ethene avec terreur."
+    },
+    "202054": {
+        "「兄上を　愚弄する気か！？\n　何者かは知らぬが　許さぬ……っ": "Oses-tu te moquer de mon frere aine !? Je ne\nsais pas qui tu es, mais je ne te pardonnerai\npas..."
+    },
+    "202055": {
+        "「うぐっ……ゲホッ　ゲホッ！": "Ugh... *tousse* *tousse* !"
+    },
+    "202056": {
+        "<center>これは　お前の妻　マローネの時の指針書……\n何が書かれているか　見えるだろう？": "Ceci est le Guide du Temps de ta femme,\nMarone... Peux-tu voir ce qui y est ecrit ?"
+    },
+    "202057": {
+        "<center>エテーネ王国　第二王子パドレの妃　マローネよ。\nそなたに与える指針は　ない。": "Je suis Marone, la princesse du deuxieme\nprince Padre du royaume d'Ethene. Je n'ai\naucune directive a te donner."
+    },
+    "202058": {
+        "「ま……まやかしだ！\n　時の指針書が　我が妻に\n　そのような未来を　告げるはずがないっ！": "Ce... ce n'est qu'une illusion ! Le Time\nGuidebook ne pourrait jamais annoncer un tel\navenir a ma femme !"
+    },
+    "202059": {
+        "<center>ならば……我がチカラを　貸してやる。\n時見によって　自分の目で　確かめてみるがいい。": "Alors... je vais te preter ma force. Grace a\nla vision du temps, tu devrais verifier par\ntoi-meme."
+    },
+    "202060": {
+        "<center>お前の兄が　差し向けた　魔獣が\n幼き我が子と　愛しき妻を殺し\n……エテーネ王国が　暗黒に包まれるさまを。": "La bete demoniaque envoyee par ton frere a tue\nmon jeune enfant et ma chere epouse... et le\nroyaume d'Ethene est enveloppe dans les<br>tenebres."
+    },
+    "202061": {
+        "「……我がチカラ…だと？\n　貴様　何者……なんだ……": "Mon pouvoir... tu dis ? Qui es-tu vraiment...?"
+    },
+    "202062": {
+        "「これ…は……なんなのだ……？": "Qu'est-ce que c'est que ca... ?"
+    },
+    "202063": {
+        "「そうだ……かつて　父上と　ともに\n　時見の神殿で　見たことがある……！": "Oui... Je l'ai deja vu autrefois, avec mon\npere, au Temple de Timeseer... !"
+    },
+    "202064": {
+        "<center>我が名は　キュロノス。": "Mon nom est Kyuronos."
+    },
+    "202065": {
+        "<center>正しき時の流れを　守るため\nこの世界に　舞い降りしもの。": "Pour proteger le cours juste du temps, je suis\ndescendu dans ce monde."
+    },
+    "202066": {
+        "<center>ドミネウスは　お前への憎しみから\n時を歪め　エテーネ王国を滅ぼす。": "Dominus, pousse par sa haine envers toi, va\ntordre le temps et detruire le royaume\nd'Ethene."
+    },
+    "202067": {
+        "「……ドミネウス兄上が\n　エテーネ王国を……滅ぼす……？": "Domineus, mon frere, va-t-il vraiment detruire\nle royaume d'Ethene？"
+    },
+    "202068": {
+        "<center>エテーネ王国だけではない　時の歪みは\n世界を巡りながら　崩壊の連鎖を巻き起こし\nやがて　すべての未来が　闇に閉ざされる。": "Ce n'est pas seulement le royaume d'Ethene.\nLes distorsions du temps se propagent a\ntravers le monde, entrainant une chaine de<br>destruction qui finira par plonger tous les\nfuturs dans les tenebres."
+    },
+    "202069": {
+        "「未来が……闇に……": "L'avenir... dans les tenebres..."
+    },
+    "202070": {
+        "<center>お前の　時渡りのチカラがあれば\nアストルティアの未来を　救えるのだ。": "Avec ton pouvoir de traverser le temps, tu\npeux sauver l'avenir d'Astoltia."
+    },
+    "202071": {
+        "<center>……パドレよ　我が手を取るがよい。": "......Padre, prends ma main."
+    },
+    "202072": {
+        "<center>さあ　行こうではないか。\n即位せし　ドミネウスが　何を為すか\nその目で　確かめるといい。": "Allons-y. Voyons de nos propres yeux ce que le\nnouvellement couronne Domineus va accomplir."
+    },
+    "202073": {
+        "<center>我が望む　正しき時の流れには\nお前のチカラが　必要なのだ……": "Pour que le cours du temps suive la voie que\nje desire, j'ai besoin de ton pouvoir..."
+    },
+    "202074": {
+        "「……<cs_pchero>……マローネ……。\n　お前たちだけは　幸せになってほしいと\n　そう　願っていたのに……。": "<cs_pchero> Marone Je souhaitais tellement que\nvous soyez les seuls a trouver le bonheu"
+    },
+    "202075": {
+        "「おのれ……ドミネウスよ……。\n　よくも　愛しき妻子の命を……！": "Maudit sois-tu... Domineus... Comment as-tu pu\noter la vie de ma femme et de mon enfant\nbien-aimes... !"
+    },
+    "202076": {
+        "「パドレ様！\n　どうぞ　お気をたしかに！": "Padre-sama ! Je vous en prie, reprenez-vous !"
+    },
+    "202077": {
+        "「時見の箱の言葉は　すべて　まやかし！\n　あなたのお子　<cs_pchero>様は\n　命を落としては　おられませぬぞ！！": "Les paroles de la Timeseer Box ne sont que\ntromperie ! Votre enfant, <cs_pchero>sama, n'a\npas perdu la vie !!"
+    },
+    "202078": {
+        "<center>この者を　解き放たせは　せぬぞ……。": "Je ne laisserai pas liberer cette personne..."
+    },
+    "202079": {
+        "「……貴様が　我が主を！！": "Toi, tu oses defier notre Seigneur !!"
+    },
+    "202080": {
+        "「このままでは　時の流れは\n　正しき未来より　外れてしまう。\n　ゆえに　我が　介入せねばならぬ……。": "Si les choses continuent ainsi, le cours du\ntemps s'ecartera du futur qui est juste. C'est\npourquoi je dois intervenir..."
+    },
+    "202081": {
+        "<center>アストルティアを　滅びから救うため\n時の異分子は　ことごとく　処分してくれる！": "Pour sauver Astoltia de la destruction, nous\neliminerons toutes les anomalies temporelles !"
+    },
+    "202082": {
+        "「<cs_pchero>……ファラス……。\n　あやつら　首尾よくやったかのう。": "<cs_pchero>Faras Ont-ils reussi leur mission,\nje me demande."
+    },
+    "202083": {
+        "「……ここ…は……？": "......Ou... suis-je... ?"
+    },
+    "202084": {
+        "「俺は……今まで　なんということを……！": "Je... Qu'ai-je fait jusqu'a maintenant... !"
+    },
+    "202085": {
+        "「……よかった　我が主よ。\n　正気に　戻られたのですね……。": "... Je suis soulage, mon cher Seigneur. Vous\navez retrouve vos esprits..."
+    },
+    "202086": {
+        "「しっかりしろ　ファラス！！": "Reprends-toi, Faras !!"
+    },
+    "202087": {
+        "「俺は……まさか　お前を……！": "Je... jamais je n'aurais pense... te... !"
+    },
+    "202088": {
+        "「よろしいのですよ…パドレ様……。\n　……この程度では　返しきれぬほどの　ご恩を\n　俺は……これまで……。": "C'est bien ainsi... Padre-sama... ...A ce\npoint, je ne pourrai jamais te rendre toute la\ngratitude que j'ai... jusqu'a present..."
+    },
+    "202089": {
+        "「最後……あなたの…役…立てて……\n　よかっ……た……。": "A la fin... d'avoir pu... vous etre utile...\nje suis... content..."
+    },
+    "202090": {
+        "「………………！！": "！！"
+    },
+    "202091": {
+        "<center>まさか　我が支配から　逃れようとは……。\nさすがは　エテーネ王族の血と　いったところか。": "Je n'aurais jamais cru que tu pourrais\nechapper a mon emprise... C'est bien digne du\nsang royal d'Ethene."
+    },
+    "202092": {
+        "「……おのれ　キュロノス！！\n　貴様だけは許さぬぞ！": "Maudit soit-tu, Kyuronos !! Je ne te\npardonnerai jamais !"
+    },
+    "202093": {
+        "「なっ……新手か！？": "Quoi... un nouvel ennemi !?"
+    },
+    "202094": {
+        "「……バカな！": "...C'est insense !"
+    },
+    "202095": {
+        "<center><cs_pchero>を　新たなる傀儡にと\n考えていたが　なかなか　手強いのでな……。": "Je pensais faire de <cs_pchero> une nouvelle\nmarionnette, mais il s'avere plutot coriace..."
+    },
+    "202096": {
+        "<center>我が目的を　果たすまでの間は\nこの代用品で　我慢するとしよう……。\nなあ　パドレよ？": "Jusqu'a ce que j'accomplisse mon objectif, je\nvais me contenter de ce substitut... N'est-ce\npas, Padre ?"
+    },
+    "202097": {
+        "「……マローネェェェェッ！！": "......Maroneeeee !!"
+    },
+    "202098": {
+        "「……<cs_pchero>　と　いったか。": "......<cs_pchero>, c'est bien ca ?"
+    },
+    "202099": {
+        "「我が従者　ファラスとともに\n　時見の箱の支配から　解き放ってくれたこと\n　……感謝する。": "Je te remercie d'avoir libere mon serviteur\nFaras et moi-meme du joug de la Timeseer Box."
+    },
+    "202100": {
+        "「貴様の行き先は　わかっているぞ。\n　キュロノス！": "Je sais ou tu vas. Kyuronos !"
+    },
+    "202101": {
+        "「無理じゃ！　今の　お前さんは\n　立っているのも　やっとではないか！": "Impossible ! Dans ton etat actuel, tu as du\nmal a rester debout !"
+    },
+    "202102": {
+        "「俺…は……なんとしてでも！\n　……我が妻　マローネを　時獄の迷宮から\n　助け出さねば……ならんのだ……っ！！": "Je... dois absolument ! ... Je dois sauver ma\nfemme, Marone, du Labyrinthe du Temps... !!"
+    },
+    "202103": {
+        "「……行ってしまったか。": "… Il est parti, alors."
+    },
+    "202104": {
+        "「あの男……無事に　目指す場所へ\n　たどり着けると　よいのじゃがな……。": "Cet homme... J'espere qu'il arrivera sain et\nsauf a destination..."
+    },
+    "202105": {
+        "「……そうでしたか。\n　ファラスさんは　命がけで　時見の箱から\n　パドレさんを　解き放ったのですね。": "…Je vois. Faras-san a risque sa vie pour\nliberer Padre-san de la Timeseer Box."
+    },
+    "202106": {
+        "「クオードに続いて　ファラスまで……。": "Apres Quard, voila que nous devons aller\njusqu'a Faras..."
+    },
+    "202107": {
+        "「賢者ホーロー様。\n　パドレ叔父様は　無事なんですよね。\n　いったい　どこへ　消えてしまったの！？": "Sage Hollow-sama. Mon oncle Padre est en\nsecurite, n'est-ce pas ? Ou a-t-il bien pu\ndisparaitre !?"
+    },
+    "202108": {
+        "「あやつは　時見の箱の　新たな傀儡となった\n　マローネという　ご婦人を　追いかけて\n　時獄の迷宮とやらへ　時渡りしたようじゃ。": "Il semble qu'il ait poursuivi une dame nommee\nMarone, devenue la nouvelle marionnette de la\nTimeseer Box, et qu'il ait voyage a travers le<br>temps jusqu'au Time Labyrinth."
+    },
+    "202109": {
+        "「……じゃが　パドレは　見たところ\n　ずいぶん　衰弱しておった。\n　無事に　たどり着けたかどうか……。": "...Cependant, il semble que Padre soit tres\naffaibli. Je me demande s'il a pu arriver a\ndestination sans encombre..."
+    },
+    "202110": {
+        "「そんな……！\n　マローネ叔母様まで　あの　時見の箱に！？\n　どうして　こんな　むごいことに……。": "Non... ! Meme tante Marone a ete prise par\ncette boite de Timeseer !? Comment cela a-t-il\npu arriver... ?"
+    },
+    "202111": {
+        "「……犠牲は　大きかったものの\n　エピステーサの底なし穴から　繭と魔獣は消え\n　滅びの脅威は　ひとまず　遠ざかりました。": "...Bien que le sacrifice ait ete grand, le\ncocon et la creature ont disparu du gouffre\nsans fond d'Epistea, eloignant temporairement<br>la menace de la destruction."
+    },
+    "202112": {
+        "「<cs_pchero>さん。ぼくの予知どおり\n　あなたと　プクラス　知理の石版は\n　現代の　アストルティアを　救ってくれた。": "<cs_pchero>さんComme je l'avais predit, vous et\nla Tablette de Sagesse de Pukulas avez sauve\nl'ere P. d'Astoltia."
+    },
+    "202113": {
+        "「ささやかでは　ありますが\n　どうか　このお礼を　受け取ってください。": "Bien que ce soit modeste, je vous prie\nd'accepter ce remerciement."
+    },
+    "202114": {
+        "「……未来の世界を　救うことができなかったのは\n　ひとえに　ぼくの予知が　未熟だったせいです。": "...Si nous n'avons pas pu sauver le monde du\nfutur, c'est uniquement parce que ma capacite\nde prevision etait insuffisante."
+    },
+    "202115": {
+        "「いやいや　そんなことは　ないぞ！\n　あの予知がなければ　プクランド大陸は\n　増殖する魔獣に　滅ぼされていたじゃろう。": "Non, non, ce n'est pas le cas ! Sans cette\nprophetie, le grand continent de PukuLMP\naurait ete aneanti par les betes magiques en<br>pleine proliferation."
+    },
+    "202116": {
+        "「なあに。敵の親玉の正体も　わかったのじゃ！\n　事態は　良き方向へと　向かっている。\n　じゃから　そう　落ち込むでないぞ。": "Quoi donc ? Nous connaissons maintenant\nl'identite du chef ennemi ! La situation\ns'oriente dans une bonne direction. Alors ne<br>te laisse pas abattre."
+    },
+    "202117": {
+        "「……はい。ありがとうございます。": "...... Oui. Merci beaucoup."
+    },
+    "202118": {
+        "「さてと！　わしは　叡智の冠の　みなに\n　ことの次第を　報告せねばならん。\n　名残り惜しいが　ここらで　失礼しよう。": "さてと！ わしは 叡智の冠の みなに ことの次第を 報告せねばならん 名残り惜しいが\nここらで 失礼しよう"
+    },
+    "202119": {
+        "「メレアーデちゃんは　どうするのじゃ？": "Que va faire Mereade-chan ?"
+    },
+    "202120": {
+        "「私は……エテーネの村に　帰ります。\n　これまでのことや　これからのことを\n　あの場所で　しばらく　考えてみたいの。": "Je vais... retourner au village d'Ethene.\nJ'aimerais reflechir a tout ce qui s'est passe\net a ce qui va arriver la-bas pendant un<br>certain temps."
+    },
+    "202121": {
+        "「<cs_pchero>　また　会いましょう。\n　……約束よ。": "<cs_pchero> On se reverra. ...C'est une\npromesse."
+    },
+    "202122": {
+        "「ではな　ラグアス王子！　<cs_pchero>！\n　困ったことがあれば\n　また　いつでも　チカラになろう！": "Alors, Prince Raguas ! <cs_pchero> ! Si jamais\nvous avez des ennuis, je serai toujours la\npour vous aider !"
+    },
+    "202123": {
+        "「……感じる。\n　新たなる　未来の姿を……これは……": "...Je le ressens. Une nouvelle vision de\nl'avenir... Ceci est..."
+    },
+    "202124": {
+        "「そ……そんな　バカなっ！？\n　……<cs_pchero>さんや　ぼくたちが\n　どう　あがこうと……": "Ce... ce n'est pas possible !? ...Peu importe\ncomment toi, <cs_pchero> san, et nous essayons\nde lutter..."
+    },
+    "202125": {
+        "「アストルティアは　滅びるのか……。": "Est-ce que Astoltia va perir..."
+    },
+    "202389": {
+        "「むむ？　さっき　すばらしい発見をしたような\n　気がするが　あれは　いったい……？": "Mmm ? J'ai l'impression d'avoir fait une\ndecouverte extraordinaire tout a l'heure, mais\nqu'etait-ce donc...?"
+    },
+    "202623": {
+        "「動力室には　複製体は　いなかったよ。\n　その様子では　研究室にも\n　あいつは　いなかったようだね。": "Il n'y avait pas de repliques dans la salle\ndes machines. A en juger par ton air, il\nsemble qu'il n'etait pas non plus dans le<br>laboratoire."
+    },
+    "202624": {
+        "「ボクが　コールドスリープしていた間に\n　この宇宙船で　何が　起きたというんだ……。": "Pendant que j'etais en Ludo-Sommeil, qu'est-ce\nqui a bien pu se passer a bord de ce vaisseau\nspatial... ?"
+    },
+    "202625": {
+        "「……なぜ　目覚めてしまった？": "Pourquoi t'es-tu reveille ?"
+    },
+    "202626": {
+        "「複製体　Ｃ１４１。\n　アルウェーンに　いったい　何が起きてる？\n　１０年ごとの覚醒は　どうして　失敗したんだ。": "<複製体 C141> Que se passe-t-il a Alweyn ?\nPourquoi l'eveil qui a lieu tous les dix ans\na-t-il echoue ?"
+    },
+    "202627": {
+        "「イア・タア　シンパッ・ケウ……\n　イア・タア……シンパッ・ケウ。": "Ia Taa Shinpa... Keu... Ia Taa... Shinpa...\nKeu."
+    },
+    "202628": {
+        "「……何ひとつ　失敗など　していないさ。\n　できそこないの原始種よ。\n　アルウェーンは　正しき姿へと　進化したのだ。": "Je n'ai commis aucune erreur. Espece primitive\nratee. Alweyn a evolue vers sa forme\nveritable."
+    },
+    "202629": {
+        "「私こそが　本物のプクラス。\n　お前の遺伝子を改良し　全てにおいて優れた\n　このＣ１４１こそが　永世管理者にふさわしい！": "Je suis le veritable Pukulas. En ameliorant\nton ADN, je suis devenu superieur en tout\npoint. C'est moi, le C141, qui merite de<br>devenir l'administrateur eternel !"
+    },
+    "202630": {
+        "「イア・タア　シンパッ・ケウ！\n　さあ　管理コンピューター・ペコリアよ！\n　そこにいる原始種どもを　捕らえよ！！": "Ia Taah Shinpah Keu! Allez, ordinateur de\ncontrole Pekoria ! Capturez ces primitifs qui\nsont la-bas !!"
+    },
+    "202631": {
+        "<center>！　緊急モード　！": "! Mode d'urgence !"
+    },
+    "202632": {
+        "<center>か　か管理者……■○＆ラ％が　眠る\nコールドス△×プポッド……に\n……この　管理タ★！ット……かざし◎％＃……！": "Le... l'administrateur... ■○＆ラ％ dort dans le\npod de sommeil de Ludoコース△×プ... ... Ce module\nde gestionタ★！ット... scanner◎％＃...！"
+    },
+    "202633": {
+        "「管理タブレットの\n　緊急モードを　認証しました♪": "Mode d'urgence de la tablette de gestion\nauthentifie ♪"
+    },
+    "202634": {
+        "「ただちに　アルウェーンの\n　永世管理者を　目覚めさせまーす♪\n　解凍まで　しばらく　お待ちくださーい♪": "Je vais immediatement reveiller\nl'administrateur eternel de Alweyn♪ Veuillez\npatienter pendant la decongelation♪"
+    },
+    "202635": {
+        "「……緊急…モード？\n　Ｃ１４１……状況を　説明してくれないか。": "Mode…urgence ? C141… peux-tu m'expliquer la\nsituation ?"
+    },
+    "202636": {
+        "「キミは……？\n　アルウェーンの住人では　ないようだね。\n　数百年ぶりの　訪問者とは　面白い……。": "Toi... ? Tu ne sembles pas etre un habitant\nd'Alweyn. Un visiteur apres plusieurs\ncentaines d'annees, c'est interessant..."
+    },
+    "202637": {
+        "「……生まれつき　身体が弱くてね。\n　それに　コールドスリープから　覚醒した直後で\n　調子が出ないんだ。": "...Je suis ne avec un corps fragile. Et en\nplus, je viens juste de me reveiller du\nLudoSleep, donc je ne suis pas encore en<br>pleine forme."
+    },
+    "202638": {
+        "「ボクは　この　アルウェーンの永世管理者\n　……プクラスだ。\n　キミが　悪意ある侵入者ではないことを祈るよ。": "Je suis l'administrateur eternel de cet\nendroit, Alweyn... Pukulas. J'espere que tu\nn'es pas un intrus malveillant."
+    },
+    "202639": {
+        "「それにしても　Ｃ１４１は　どこへ行ったんだ。\n　ボクの管理タブレットも　見当たらないし。\n　……おや？": "En tout cas, ou est passe le C141 ? Je ne\ntrouve pas non plus ma tablette de gestion.\n...Oh ?"
+    },
+    "202640": {
+        "「キミが　持っているのは　もしかして……？\n　ちょっと　ボクに　見せてくれないかい。": "Ce que tu as la, ce ne serait pas... ?\nPourrais-tu me le montrer un instant ?"
+    },
+    "202641": {
+        "<pc>は　プクラスに\n知理の石版を　渡した！": "<pc> a remis la Tablette de la Sagesse a\nPukulas !"
+    },
+    "202642": {
+        "「なんだ　データが　壊れてるみたいだね。\n　修復して　再起動しておこう。\n　……これでよし。": "Tiens, il semble que les donnees soient\ncorrompues. Je vais les reparer et redemarrer.\n...Voila, c'est bon."
+    },
+    "202643": {
+        "プクラスは　<cs_pchero>が持っていた\n知理の石版を　直してくれたようだ。": "Pukulas semble avoir repare la Tablette de\nSagesse que <cs_pchero> avait en sa\npossession."
+    },
+    "202644": {
+        "「ずいぶん古びてるけど　組成も　製造番号も\n　ボクが所有する　管理タブレットと　同じだ。\n　世界にひとつしか　存在しないはずなのに……。": "C'est vraiment vieux, mais la composition et\nle numero de serie sont identiques a ceux de\nma tablette de gestion. Il ne devrait en<br>exister qu'un seul exemplaire dans le monde..."
+    },
+    "202645": {
+        "「炭素分析結果は……\n　第１次ゴフェル計画　当時のものだって！？": "Les resultats de l'analyse carbone indiquent\nque... cela date de la premiere phase du Plan\nGophel !?"
+    },
+    "202646": {
+        "「まさか　キミたち……\n　７０００年前から　現れたとでも　いうのかい？": "Vous n'allez pas me dire que vous... avez ete\ntransportes depuis il y a 7000 ans ?"
+    },
+    "202647": {
+        "「…………？　\n　キミ　おかしな物体を　持っているようだね。\n　ちょっと　見せてくれないか。": "......? Il semble que tu possedes un objet\netrange. Pourrais-tu me le montrer un instant\n?"
+    },
+    "202648": {
+        "「成分組成……不明！　内部に　生命反応あり！\n　……完全なる　未知の…生命体！？\n　やった！　こっ……これは　新発見だぞっ！！": "Composition... inconnue ! Il y a une reaction\nvitale a l'interieur ! ... Une forme de vie\ntotalement inconnue !? Incroyable ! C'est...<br>c'est une nouvelle decouverte !!"
+    },
+    "202649": {
+        "「……おっと　失礼！\n　うちの家系は　めずらしいものを　発見すると\n　つい　はしゃいでしまうんだ。": "…Oh, pardon ! Dans notre famille, des qu'on\ndecouvre quelque chose d'inhabituel, on ne\npeut s'empecher de s'exciter."
+    },
+    "202650": {
+        "<pc>は　プクラスから\n知理の石版を　返してもらった。": "<pc> a recupere la Tablette de Sagesse\nde Pukulas."
+    },
+    "202651": {
+        "「存在するはずのない　管理タブレット。\n　現れるはずのない　訪問者。\n　未知の生命体の出現。すべてを　総合するに……": "Il existe une tablette de gestion qui ne\ndevrait pas etre la. Un visiteur qui ne\ndevrait pas etre la. L'apparition d'une forme<br>de vie inconnue. En combinant tout cela..."
+    },
+    "202652": {
+        "「キミたちは　この　管理タブレットを持って\n　異なる時代から　やってきた。\n　……違うかな？": "Vous, vous etes venus de differentes epoques\navec cette tablette de gestion. ...N'est-ce\npas ?"
+    },
+    "202653": {
+        "「時間跳躍の概念とは　無縁の\n　現地民にしては　察しがいいキュ。": "Le concept de saut temporel est etranger aux\nhabitants de P. Pourtant, ils comprennent\nrapidement, c'est impressionnant."
+    },
+    "202654": {
+        "「しらばっくれても　しょうがないキュね。\n　まあ　何か問題が起きたら\n　コイツのアタマを処理すれば　いいだけキュル。": "Meme si tu fais semblant de ne rien savoir, ca\nne sert a rien, kyu. Eh bien, s'il y a un\nprobleme, tu n'auras qu'a te debarrasser de sa<br>tete, kyu."
+    },
+    "202655": {
+        "「<cs_pchero>！\n　コイツに　事情を　洗いざらい話してやるキュ！": "<cs_pchero> ! Je vais tout raconter a\ncelui-ci, kyu !"
+    },
+    "202656": {
+        "<pc>は　プクラスに\n突然　出現した　増殖する魔獣の情報を求めて\n時間跳躍してきたことを　説明した！": "<pc> a explique a Pukulas qu'il avait\nvoyage dans le temps a la recherche\nd'informations sur les betes magiques qui se<br>multiplient soudainement."
+    },
+    "202657": {
+        "「エピステーサに　増殖する魔獣が……。\n　それじゃ　キミたちは\n　あの　世界の終末の　目撃者だというのか！？": "Les monstres qui proliferent a Epistesa...\nAlors, vous seriez les temoins de la fin du\nmonde !?"
+    },
+    "202658": {
+        "「……そうとも。ここは　キミたちの時代から\n　１０００年近く　未来にあたる時代。": "......En effet. Nous sommes dans une epoque\nqui se situe presque 1000 ans dans le futur\npar rapport a votre epoque."
+    },
+    "202659": {
+        "「世界の終末……と呼ばれし　忌まわしき年。\n　アストルティアは　増殖する魔獣……\n　バイロゴーグの襲撃を受けた。": "Le funeste annee appelee La Fin du Monde...\nAstoltia fut attaquee par les creatures\ndemoniaques en proliferation... l'invasion des<br>Bairougog."
+    },
+    "202660": {
+        "「当時　メギストリス王国を　統治していた\n　ラグアス王子は　苦渋の決断のすえ\n　第２次ゴフェル計画を発動。": "A l'epoque, le Prince Raguas, qui gouvernait\nle royaume de Megistris, a pris la decision\ndifficile de lancer le deuxieme projet Gopher."
+    },
+    "202661": {
+        "「ボクの父は　移民宇宙船を製造し……\n　プクランドにいた　わずかばかりの人々だけが\n　かろうじて　外宇宙へと　逃げ延びた。": "Mon pere fabriquait des vaisseaux spatiaux\npour les immigrants... Seules quelques\npersonnes de PukuLMPdo ont pu s'echapper de<br>justesse vers l'espace exterieur."
+    },
+    "202662": {
+        "「……ここは　宇宙船アルウェーン。": "......Ici, c'est le vaisseau spatial Alweyn."
+    },
+    "202663": {
+        "「宇宙へ旅立ってから　１０００年あまり……\n　ボクは　コールドスリープをくり返し\n　亡き父に代わり　この船を管理しているのさ。": "Cela fait plus de 1000 ans que nous sommes\npartis pour l'espace... Je suis en sommeil\ncryogenique a intervalles reguliers, et je<br>gere ce vaisseau a la place de mon defunt\npere."
+    },
+    "202664": {
+        "「それにしても　この　閉ざされた宇宙船に\n　外界から　訪問者が来てくれるなんてね。\n　さぞ　町のみんなも　喜んだことだろう。": "En tout cas, c'est incroyable qu'un visiteur\nsoit venu de l'exterieur jusqu'a ce vaisseau\nspatial ferme. Les habitants de la ville ont<br>du etre ravis."
+    },
+    "202665": {
+        "「……なんだい？　おかしな顔をして。\n　アルウェーンの住人は　陽気な連中ばかりだ。\n　キミたちを見たら　大はしゃぎしたはずさ。": "...Qu'est-ce qu'il y a ? Tu fais une drole de\ntete. Les habitants d'Alweyn sont tous des\ngens joyeux. Ils auraient surement fait la<br>fete en vous voyant."
+    },
+    "202666": {
+        "<pc>は　プクラスに\n町で出会った　プクリポたちの様子が\nおかしかったことを　説明した！": "<pc> a explique a Pukulas que le\ncomportement des Pukulipo qu'il avait\nrencontres en ville etait etrange !"
+    },
+    "202667": {
+        "「奉仕室……？　だって　町のエネルギーは\n　無限動力炉で　まかなえているはず……。\n　それに　みんな　うつろな表情を……？": "La salle de service...? Pourtant, l'energie de\nla ville devrait etre assuree par le reacteur\na energie infinie... De plus, tout le monde a<br>l'air si vide..."
+    },
+    "202668": {
+        "「管理コンピューター・ペコリア！\n　ボクが　眠っていた間　アルウェーン船内に\n　何が起きたのかを　教えてくれ！": "Ordinateur de gestion, Pekoria ! Pendant que\nje dormais, dis-moi ce qui s'est passe a bord\ndu vaisseau Alweyn !"
+    },
+    "202669": {
+        "「無限動力炉が　作動していない……？\n　故障中ではないようだけど　何かトラブルが？\n　いや……それよりも！": "Le reacteur a energie infinie ne fonctionne\npas... ? Il ne semble pas etre en panne, mais\ny a-t-il un probleme ? Non... plus important<br>encore !"
+    },
+    "202670": {
+        "「……感情抑制プログラム！？\n　幼少期から……教育して　自由意思を失わせる？\n　それも　何世代も……。": "...Programme de suppression des emotions !?\nDepuis l'enfance... les eduquer pour leur\nfaire perdre leur libre arbitre ? Et cela, sur<br>plusieurs generations..."
+    },
+    "202671": {
+        "「じゃあ　眠りについてから　１００年以上も\n　経ったっていうのか！？　ありえない！！\n　ボクの覚醒は　１０年ごとの　はずだ！": "Alors, cela fait plus de 100 ans que je suis\nendormi ?! Impossible !! Mon reveil est cense\navoir lieu tous les 10 ans !"
+    },
+    "202672": {
+        "「町のプクリポたちが　みな　感情を失くし\n　奉仕室で　魔法力と生体エネルギーを\n　吸われてる……１００年以上も……そんな！": "Les habitants de la ville de Pukulipo ont tous\nperdu leurs emotions, et dans la salle de\nservice, leur energie magique et vitale leur<br>est aspiree... depuis plus de 100 ans...\nQuelle horreur !"
+    },
+    "202673": {
+        "「この宇宙船で　何が　起きているんだ……。": "Que se passe-t-il a bord de ce vaisseau\nspatial...?"
+    },
+    "202674": {
+        "「……１０年ごとに設定された　覚醒が\n　１００年以上も　妨げられていた。\n　それに　ポッドは　外部からロックされて……。": "... L'eveil, qui etait prevu tous les 10 ans,\na ete entrave pendant plus de 100 ans. Et en\nplus, la capsule a ete verrouillee de<br>l'exterieur..."
+    },
+    "202675": {
+        "「こんなことが　できるのは\n　コールドスリープ中　ボクの代理を　務めている\n　複製体だけだけど　それは　ありえない。": "La seule entite capable de faire cela serait\nune replique qui me remplace pendant le\nsommeil de Ludo. Mais c'est impossible."
+    },
+    "202676": {
+        "「だって　あいつらは　やさしくて　気のいい\n　……ボクにとって　兄弟みたいなものなんだ。\n　町のみんなを苦しめるなんて　絶対に……。": "Parce qu'ils sont gentils et de bonne\nnature... Pour moi, ce sont comme des freres.\nFaire souffrir tout le monde en ville, c'est<br>absolument impossible..."
+    },
+    "202677": {
+        "「現在　ボクの代理をしている複製体が\n　管理棟のどこかに　いるはずだ。\n　探して　直接　話を聞いてみよう。": "P. Il doit y avoir quelque part dans le\nbatiment administratif un clone qui me\nremplace. Cherchons-le et essayons de lui<br>parler directement."
+    },
+    "202678": {
+        "「キミは　この部屋を出て　東側にある\n　研究室を　探してみてくれ。\n　ボクは　この下にある　動力室へ行ってみるよ。": "Toi, va explorer la piece situee a l'est de\ncette salle et trouve le laboratoire. Moi, je\nvais descendre pour inspecter la salle des<br>machines."
+    },
+    "202679": {
+        "<center>！　緊急モード　！": "! Mode d'urgence !"
+    },
+    "202680": {
+        "<center>か　か管理者……■○＆ラ％が　眠る\nコールドス△×プポッド……に\n……この　管理タ★！ット……かざし◎％＃……！": "Le... l'administrateur... ■○＆ラ％ dort dans le\npod de sommeil de Ludoコース△×プ... ... Ce module\nde gestionタ★！ット... scanner◎％＃...！"
+    },
+    "202681": {
+        "「管理タブレットの\n　緊急モードを　認証しました♪": "Mode d'urgence de la tablette de gestion\nauthentifie ♪"
+    },
+    "202682": {
+        "「ただちに　アルウェーンの\n　永世管理者を　目覚めさせまーす♪\n　解凍まで　しばらく　お待ちくださーい♪": "Je vais immediatement reveiller\nl'administrateur eternel de Alweyn♪ Veuillez\npatienter pendant la decongelation♪"
+    },
+    "202683": {
+        "「……緊急…モード？\n　Ｃ１４１……状況を　説明してくれないか。": "Mode…urgence ? C141… peux-tu m'expliquer la\nsituation ?"
+    },
+    "202684": {
+        "「キミは……？\n　アルウェーンの住人では　ないようだね。\n　すごいや！　初めての訪問者だ！": "Tu es... ? Il semble que tu ne sois pas un\nhabitant d'Alweyn. Incroyable ! Tu es notre\ntout premier visiteur !"
+    },
+    "202685": {
+        "「……生まれつき　身体が弱くてね。\n　それに　コールドスリープから　覚醒した直後で\n　調子が出ないんだ。": "...Je suis ne avec un corps fragile. Et en\nplus, je viens juste de me reveiller du\nLudoSleep, donc je ne suis pas encore en<br>pleine forme."
+    },
+    "202686": {
+        "「ボクは　この　アルウェーンの永世管理者\n　……プクラスだ。\n　キミが　悪意ある侵入者ではないことを祈るよ。": "Je suis l'administrateur eternel de cet\nendroit, Alweyn... Pukulas. J'espere que tu\nn'es pas un intrus malveillant."
+    },
+    "202687": {
+        "「それにしても　Ｃ１４１は　どこへ行ったんだ。\n　ボクの管理タブレットも　見当たらないし。\n　……おや？": "En tout cas, ou est passe le C141 ? Je ne\ntrouve pas non plus ma tablette de gestion.\n...Oh ?"
+    },
+    "202688": {
+        "「キミが　持っているのは　もしかして……？\n　ちょっと　ボクに　見せてくれないかい。": "Ce que tu as la, ce ne serait pas... ?\nPourrais-tu me le montrer un instant ?"
+    },
+    "202689": {
+        "<pc>は　プクラスに\n知理の石版を　渡した！": "<pc> a remis la Tablette de la Sagesse a\nPukulas !"
+    },
+    "202690": {
+        "「なんだ　データが　壊れてるみたいだね。\n　修復して　再起動しておこう。\n　……これでよし。": "Tiens, il semble que les donnees soient\ncorrompues. Je vais les reparer et redemarrer.\n...Voila, c'est bon."
+    },
+    "202691": {
+        "プクラスは　<cs_pchero>が持っていた\n知理の石版を　直してくれたようだ。": "Pukulas semble avoir repare la Tablette de\nSagesse que <cs_pchero> avait en sa\npossession."
+    },
+    "202692": {
+        "「ずいぶん古びてるけど　組成も　製造番号も\n　ボクが所有する　管理タブレットと　同じだ。\n　世界にひとつしか　存在しないはずなのに……。": "C'est vraiment vieux, mais la composition et\nle numero de serie sont identiques a ceux de\nma tablette de gestion. Il ne devrait en<br>exister qu'un seul exemplaire dans le monde..."
+    },
+    "202693": {
+        "「解析完了。結果は……\n　第１次ゴフェル計画　当時のものだって！？": "Analyse terminee. Le resultat est... C'est lie\nau premier projet Gofel de l'epoque !?"
+    },
+    "202694": {
+        "「まさか　キミは……\n　７０００年前から　現れたとでも　いうのかい？": "Ne me dis pas que tu viens de... 7000 ans dans\nle passe ?"
+    },
+    "202695": {
+        "「…………？　\n　キミ　おかしな物体を　持っているようだね。\n　ちょっと　見せてくれないか。": "......? Il semble que tu possedes un objet\netrange. Pourrais-tu me le montrer un instant\n?"
+    },
+    "202696": {
+        "「成分組成……不明！　内部に　生命反応あり！\n　……完全なる　未知の…生命体！？\n　やった！　こっ……これは　新発見だぞっ！！": "Composition... inconnue ! Il y a une reaction\nvitale a l'interieur ! ... Une forme de vie\ntotalement inconnue !? Incroyable ! C'est...<br>c'est une nouvelle decouverte !!"
+    },
+    "202697": {
+        "「……おっと　失礼！\n　うちの家系は　めずらしいものを　発見すると\n　つい　はしゃいでしまうんだ。": "…Oh, pardon ! Dans notre famille, des qu'on\ndecouvre quelque chose d'inhabituel, on ne\npeut s'empecher de s'exciter."
+    },
+    "202698": {
+        "<pc>は　プクラスから\n知理の石版を　返してもらった。": "<pc> a recupere la Tablette de Sagesse\nde Pukulas."
+    },
+    "202699": {
+        "「存在するはずのない　管理タブレット。\n　現れるはずのない　訪問者。\n　未知の生命体の出現。すべてを　総合するに……": "Il existe une tablette de gestion qui ne\ndevrait pas etre la. Un visiteur qui ne\ndevrait pas etre la. L'apparition d'une forme<br>de vie inconnue. En combinant tout cela..."
+    },
+    "202700": {
+        "「キミたちは　この　管理タブレットを持って\n　異なる時代から　やってきた。\n　……違うかな？": "Vous, vous etes venus de differentes epoques\navec cette tablette de gestion. ...N'est-ce\npas ?"
+    },
+    "202701": {
+        "「時間跳躍の概念とは　無縁の\n　現地民にしては　察しがいいキュ。": "Le concept de saut temporel est etranger aux\nhabitants de P. Pourtant, ils comprennent\nrapidement, c'est impressionnant."
+    },
+    "202702": {
+        "「しらばっくれても　しょうがないキュね。\n　まあ　何か問題が起きたら\n　コイツのアタマを処理すれば　いいだけキュル。": "Meme si tu fais semblant de ne rien savoir, ca\nne sert a rien, kyu. Eh bien, s'il y a un\nprobleme, tu n'auras qu'a te debarrasser de sa<br>tete, kyu."
+    },
+    "202703": {
+        "「<cs_pchero>！\n　コイツに　事情を　洗いざらい話してやるキュ！": "<cs_pchero> ! Je vais tout raconter a\ncelui-ci, kyu !"
+    },
+    "202704": {
+        "<pc>は　プクラスに\n突然　出現した　増殖する魔獣の情報を求めて\n時間跳躍してきたことを　説明した！": "<pc> a explique a Pukulas qu'il avait\nvoyage dans le temps a la recherche\nd'informations sur les betes magiques qui se<br>multiplient soudainement."
+    },
+    "202705": {
+        "「エピステーサに　増殖する魔獣が……。\n　それじゃ　キミたちは\n　あの　世界の終末の　目撃者だというのか！？": "Les monstres qui proliferent a Epistesa...\nAlors, vous seriez les temoins de la fin du\nmonde !?"
+    },
+    "202706": {
+        "「……そうとも。ここは　キミたちの時代から\n　１０００年以上　未来にあたる時代。": "......C'est exact. Nous sommes dans une epoque\nqui se situe plus de 1000 ans dans le futur\npar rapport a votre ere."
+    },
+    "202707": {
+        "「世界の終末……と呼ばれし　忌まわしき年。\n　アストルティアは　増殖する魔獣……\n　バイロゴーグの襲撃を受けた。": "Le funeste annee appelee La Fin du Monde...\nAstoltia fut attaquee par les creatures\ndemoniaques en proliferation... l'invasion des<br>Bairougog."
+    },
+    "202708": {
+        "「当時　メギストリス王国を　統治していた\n　ラグアス王子は　苦渋の決断のすえ\n　第２次ゴフェル計画を発動。": "A l'epoque, le Prince Raguas, qui gouvernait\nle royaume de Megistris, a pris la decision\ndifficile de lancer le deuxieme projet Gopher."
+    },
+    "202709": {
+        "「ボクの父は　移民宇宙船を製造し……\n　プクランドにいた　わずかばかりの人々だけが\n　かろうじて　外宇宙へと　逃げ延びた。": "Mon pere fabriquait des vaisseaux spatiaux\npour les immigrants... Seules quelques\npersonnes de PukuLMPdo ont pu s'echapper de<br>justesse vers l'espace exterieur."
+    },
+    "202710": {
+        "「……ここは　宇宙船アルウェーン。": "......Ici, c'est le vaisseau spatial Alweyn."
+    },
+    "202711": {
+        "「宇宙へ旅立ってから　１０００年あまり……\n　ボクは　コールドスリープをくり返し\n　亡き父に代わり　この船を管理しているのさ。": "Cela fait plus de 1000 ans que nous sommes\npartis pour l'espace... Je suis en sommeil\ncryogenique a intervalles reguliers, et je<br>gere ce vaisseau a la place de mon defunt\npere."
+    },
+    "202712": {
+        "「それにしても　この　閉ざされた宇宙船に\n　外界から　訪問者が来てくれるなんてね。\n　さぞ　町のみんなも　喜んだことだろう。": "En tout cas, c'est incroyable qu'un visiteur\nsoit venu de l'exterieur jusqu'a ce vaisseau\nspatial ferme. Les habitants de la ville ont<br>du etre ravis."
+    },
+    "202713": {
+        "「……なんだい？　おかしな顔をして。\n　アルウェーンの住人は　陽気な連中ばかりだ。\n　キミたちを見たら　大はしゃぎしたはずさ。": "...Qu'est-ce qu'il y a ? Tu fais une drole de\ntete. Les habitants d'Alweyn sont tous des\ngens joyeux. Ils auraient surement fait la<br>fete en vous voyant."
+    },
+    "202714": {
+        "<pc>は　プクラスに\n町で出会った　プクリポたちの様子が\nおかしかったことを　説明した！": "<pc> a explique a Pukulas que le\ncomportement des Pukulipo qu'il avait\nrencontres en ville etait etrange !"
+    },
+    "202715": {
+        "「奉仕室……？　だって　町のエネルギーは\n　無限動力炉で　まかなえているはず……。\n　それに　みんな　うつろな表情を……？": "La salle de service...? Pourtant, l'energie de\nla ville devrait etre assuree par le reacteur\na energie infinie... De plus, tout le monde a<br>l'air si vide..."
+    },
+    "202716": {
+        "「管理コンピューター・ペコリア！\n　ボクが　眠っていた間　アルウェーン船内に\n　何が起きたのかを　教えてくれ！": "Ordinateur de gestion, Pekoria ! Pendant que\nje dormais, dis-moi ce qui s'est passe a bord\ndu vaisseau Alweyn !"
+    },
+    "202717": {
+        "「無限動力炉が　作動していない……？\n　故障中ではないようだけど　何かトラブルが？\n　いや……それよりも！": "Le reacteur a energie infinie ne fonctionne\npas... ? Il ne semble pas etre en panne, mais\ny a-t-il un probleme ? Non... plus important<br>encore !"
+    },
+    "202718": {
+        "「……感情抑制プログラム！？\n　幼少期から……教育して　自由意思を失わせる？\n　それも　何世代も……。": "...Programme de suppression des emotions !?\nDepuis l'enfance... les eduquer pour leur\nfaire perdre leur libre arbitre ? Et cela, sur<br>plusieurs generations..."
+    },
+    "202719": {
+        "「じゃあ　眠りについてから　１００年以上も\n　経ったっていうのか！？　ありえない！！\n　ボクの覚醒は　１０年ごとの　はずだ！": "Alors, cela fait plus de 100 ans que je suis\nendormi ?! Impossible !! Mon reveil est cense\navoir lieu tous les 10 ans !"
+    },
+    "202720": {
+        "「町のプクリポたちが　みな　感情を失くし\n　奉仕室で　魔法力と生体エネルギーを\n　吸われてる……１００年以上も……そんな！": "Les habitants de la ville de Pukulipo ont tous\nperdu leurs emotions, et dans la salle de\nservice, leur energie magique et vitale leur<br>est aspiree... depuis plus de 100 ans...\nQuelle horreur !"
+    },
+    "202721": {
+        "「この宇宙船で　何が　起きているんだ……。": "Que se passe-t-il a bord de ce vaisseau\nspatial...?"
+    },
+    "202722": {
+        "「……１０年ごとに設定された　覚醒が\n　１００年以上も　妨げられていた。\n　それに　ポッドは　外部からロックされて……。": "... L'eveil, qui etait prevu tous les 10 ans,\na ete entrave pendant plus de 100 ans. Et en\nplus, la capsule a ete verrouillee de<br>l'exterieur..."
+    },
+    "202723": {
+        "「こんなことが　できるのは\n　コールドスリープ中　ボクの代理を　務めている\n　複製体だけだけど　それは　ありえない。": "La seule entite capable de faire cela serait\nune replique qui me remplace pendant le\nsommeil de Ludo. Mais c'est impossible."
+    },
+    "202724": {
+        "「だって　あいつらは　やさしくて　気のいい\n　……ボクにとって　兄弟みたいなものなんだ。\n　町のみんなを苦しめるなんて　絶対に……。": "Parce qu'ils sont gentils et de bonne\nnature... Pour moi, ce sont comme des freres.\nFaire souffrir tout le monde en ville, c'est<br>absolument impossible..."
+    },
+    "202725": {
+        "「現在　ボクの代理をしている複製体が\n　管理棟のどこかに　いるはずだ。\n　探して　直接　話を聞いてみよう。": "P. Il doit y avoir quelque part dans le\nbatiment administratif un clone qui me\nremplace. Cherchons-le et essayons de lui<br>parler directement."
+    },
+    "202726": {
+        "「キミは　この部屋を出て　東側にある\n　研究室を　探してみてくれ。\n　ボクは　この下にある　動力室へ行ってみるよ。": "Toi, va explorer la piece situee a l'est de\ncette salle et trouve le laboratoire. Moi, je\nvais descendre pour inspecter la salle des<br>machines."
+    },
+    "203094": {
+        "「……再起動　完了いたしました♪\n　ただちに　侵入者を\n　宇宙船アルウェーンより　排除いたしまーす♪": "...... Redemarrage termine ♪ Je vais\nimmediatement expulser les intrus du vaisseau\nspatial Alweyn ♪"
+    },
+    "203200": {
+        "「……イア・タア　シンパッ・ケウ！！\n　時は　来たれり！": "......Ia-Taah, Shinpah-Keuh!! L'heure est\nvenue !"
+    },
+    "203982": {
+        "「そうだ。キミの　管理タブレットを\n　返しておかなきゃね。本当に　助かったよ。": "Ah, oui. Je dois te rendre ta tablette de\ngestion. Elle m'a vraiment ete d'une grande\naide."
+    },
+    "203983": {
+        "<cs_pchero>は　プクラスから\n知理の石版を　返してもらった！": "<cs_pchero> a recupere la Tablette de Sagesse\nde Pukulas !"
+    },
+    "207311": {
+        "「キシャアアアアア！": "Ki-shaaaah!"
+    },
+    "210531": {
+        "エテーネルキューブに\n自然遺産保護区・南端　が登録されたようだ。<me 71>": "Il semble que le Heritage Reserve - Extremite\nSud ait ete enregistre dans l'Ethenel Cube.<me 71>"
+    },
+    "210532": {
+        "<center>増殖獣バイロゴーグより　造られし\n無限動力炉のチカラ……もらいうける。\nこれで　必要なものは　すべて　そろった。": "Je recois le pouvoir du reacteur a energie\ninfinie cree par Biologog. Avec cela, j'ai\ntout ce dont j'ai besoin."
+    },
+    "210533": {
+        "<center>そなたと　愛し子　<pc>は\nドミネウスが生み出した　異形の魔物に襲撃され\n息絶えるであろう……とな。": "Toi et ton cher <pc> serez attaques par\nles creatures monstrueuses creees par Domineus\net perirez..."
+    },
+    "210849": {
+        "「この　古びた石版と　<pc>さん\n　プクラスが　そろいしとき\n　世界は　滅びから救われるはず。ですから……": "\nこの古びた石版とボビミクランさん、プクラースが揃ったとき、世界は滅びから救われるはずですですから......"
+    },
+    "210850": {
+        "「発見した兵士の話では　巨大な繭だけでなく\n　不気味な生物が　うごめいていたとか……。\n　いかがなさいますか！　ラグアス王子！": "Selon les soldats qui ont fait la decouverte,\nnon seulement il y avait un gigantesque cocon,\nmais aussi d'etranges creatures qui<br>grouillaient... Que voulez-vous faire ? Prince\nRaguas !"
+    },
+    "210851": {
+        "「あそこの　地下にある　魔瘴調査区画は\n　今は　どうなっている？": "Qu'en est-il actuellement de la zone d'etude\ndu Miasma situee sous terre la-bas ?"
+    },
+    "210852": {
+        "「調査に　おもむかれるのでしたら\n　キラキラ大風車塔　井戸の底に住む\n　パルミオ博士の持つ　カギが　必要となります！": "Si vous partez en mission d'exploration, vous\naurez besoin de la cle detenue par le Dr.\nPalmio, qui vit au fond du puits de la grande<br>tour eolienne de Lycae !"
+    },
+    "210853": {
+        "「キラキラ大風車塔の井戸の底が　博士の家です。\n　王子の依頼で　魔瘴調査区画を調査したいと\n　伝えてください。では　お願いしましたよ。": "キLycaeラ大風車塔の井戸の底が博士の家です 王子の依頼で、Miasma Survey\nAreaを調査したいと 伝えてくださいでは、お願いしましたよ"
+    }
+}

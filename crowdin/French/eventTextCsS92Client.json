@@ -1,0 +1,896 @@
+{
+    "75042": {
+        "「ふふ……。ここで　待っていれば\n　会えると思っていました。": "Fufu... Je pensais que si j'attendais ici, je\npourrais te rencontrer."
+    },
+    "75043": {
+        "「あなたは　知らなかったでしょうが\n　この部屋は　村に何かが起こったとき\n　カメさまを　避難させるためのものなのです。": "Vous ne le saviez probablement pas, mais cette\npiece est concue pour abriter Galapagod en cas\nde probleme dans le village."
+    },
+    "75044": {
+        "「この島に　来られたということは\n　飛竜を手に入れることが　できたのですね。\n　おめでとうございます　<pc>さん。": "Vous avez reussi a obtenir le dragon volant\npour venir sur cette ile. Felicitations,\n<pc>-san."
+    },
+    "75045": {
+        "「次に　あなたが　何を求めているのか\n　私には　わかっていますよ。": "Je sais ce que vous cherchez ensuite."
+    },
+    "75046": {
+        "「ペガサスを　探しているのでしょう？\n　エテーネの大地で　眠りについたとされる\n　伝説の天馬　ペガサスを。": "Tu cherches Pegase, n'est-ce pas ? Le\nlegendaire cheval aile, Pegase, qui est dit\ns'etre endormi sur la terre d'Ethene."
+    },
+    "75047": {
+        "「このカメさまこそが　ペガサスなのですよ。": "Ce Galapagod est en realite le Pegase."
+    },
+    "75048": {
+        "「かつての戦いで　チカラを失ったペガサスは\n　カメさまに姿を変えて　生きのびました。\n　そして今は　深い眠りについているのです。": "Dans une bataille passee, le Pegase a perdu sa\nforce et a survecu en prenant la forme de\nGalapagod. Et maintenant, il est plonge dans<br>un profond sommeil."
+    },
+    "75049": {
+        "「カメさまにチカラを与え\n　ふたたび　ペガサスの姿を取り戻させるには\n　テンスの花が　必要となります。": "Pour redonner de la puissance a Galapagod et\nlui permettre de retrouver sa forme de Pegase,\nnous avons besoin de la Fleur de Tens."
+    },
+    "75050": {
+        "「清き水の洞くつに　咲いていた花は\n　焼き尽くされていました。ですが　あなたなら\n　きっと　新たな花を　手に入れられるでしょう。": "Les fleurs qui fleurissaient dans la grotte de\nClearwater ont ete brulees. Cependant, je suis\nsur que vous pourrez obtenir de nouvelles<br>fleurs."
+    },
+    "75051": {
+        "「さあ　<pc>さん。\n　テンスの花を　探しにいってください。\n　この島のどこかに　そのカギがあるはずです。": "Allez, <pc>-san. Partez a la recherche\nde la Tens Flower. La cle doit se trouver\nquelque part sur cette ile."
+    },
+    "75125": {
+        "「どうしたのです　<pc>さん。\n　テンスの花を　探しにいかないのですか。\n　あなたは　ペガサスを求めているのでしょう？": "Comment ca va, <pc>-san ? Ne pars-tu pas\na la recherche de la Fleur des Cieux ? Tu\ncherches bien le Pegase, n'est-ce pas ?"
+    },
+    "75126": {
+        "「カメさまにチカラを与え\n　ふたたび　ペガサスの姿を取り戻させるには\n　テンスの花が　必要となるのです。": "Pour donner la force a Galapagod et lui\npermettre de retrouver sa forme de Pegase, il\nest necessaire d'avoir la Fleur de Tens."
+    },
+    "75127": {
+        "「清き水の洞くつに　咲いていた花は\n　焼き尽くされていました。ですが　あなたなら\n　きっと　新たな花を　手に入れられるでしょう。": "Les fleurs qui fleurissaient dans la grotte de\nClearwater ont ete brulees. Cependant, je suis\nsur que vous pourrez obtenir de nouvelles<br>fleurs."
+    },
+    "75128": {
+        "「さあ　<pc>さん。\n　テンスの花を　探しにいってください。\n　この島のどこかに　そのカギがあるはずです。": "Allez, <pc>-san. Partez a la recherche\nde la Tens Flower. La cle doit se trouver\nquelque part sur cette ile."
+    },
+    "75129": {
+        "「おかえりなさい　<pc>さん。\n　どうやら　テンスの花を\n　手に入れることが　できたようですね。": "Bienvenue, <pc>-san. Il semble que vous\nayez reussi a obtenir la Tens Flower."
+    },
+    "75130": {
+        "「……おお。なんという輝きでしょう。\n　ただのテンスの花では　ないようですね。\n　それならば　きっと……。": "Oh. Quelle eclat eblouissant. Ce n'est pas une\nsimple fleur de Tens, n'est-ce pas ? Dans ce\ncas, c'est surement..."
+    },
+    "75131": {
+        "「さあ　早く　テンスの花をカメさまに！": "Allez, vite, apportons la Tens Flower a\nGalapagod !"
+    },
+    "75132": {
+        "「エテーネの民　<pc>よ……。": "<Ethene>の peuple <pc>…"
+    },
+    "75133": {
+        "「私は　天馬ファルシオン……。\n　勇者の盟友である　あなたを\n　これまで　ずっと　見守り続けてきました。": "Je suis Falchion... J'ai veille sur vous,\nl'allie du heros, depuis toujours."
+    },
+    "75134": {
+        "「あなたと　あなたの<kyodai_rel3>のおかげで\n　私は　真の姿を取り戻すことができたのです。\n　本当に　感謝しています。": "Grace a vous et a votre <kyodai_rel3>, j'ai pu\nretrouver ma veritable apparence. Je vous suis\nvraiment reconnaissant."
+    },
+    "75135": {
+        "「あの日　焼き尽くされたはずのテンスの花を\n　<kyodai>さんは　その生涯をかけて\n　復活させてくれたのですね……。": "Ce jour-la, la Tens Flower, qui aurait du etre\nreduite en cendres, a ete ramenee a la vie\ngrace a <kyodai>-san, qui y a consacre sa<br>vie..."
+    },
+    "75136": {
+        "「……あなたも　真の姿に戻る時です。\n　私が預かっていた身体を　返しましょう。": "...Il est temps que tu retrouves ta forme T.\nJe vais te rendre le corps que j'avais garde\npour toi."
+    },
+    "75137": {
+        "「ありがとうございます　カメさま。": "Merci beaucoup, Galapagod."
+    },
+    "75138": {
+        "「勇者が　私を待っています。\n　大魔王と戦うために　私のチカラを\n　必要としているのです。": "Le heros m'attend. Il a besoin de ma puissance\npour combattre le grand roi demon."
+    },
+    "75139": {
+        "「私は　勇者の元へ　向かいます。\n　<pc>。あなたも　すぐに来てください。": "Je vais me rendre aupres du heros. <pc>.\nVenez vite, vous aussi."
+    },
+    "75140": {
+        "「<pc>さん……。\n　私のことを　覚えていますか？": "<pc>-san... Vous souvenez-vous de moi ?"
+    },
+    "75141": {
+        "「カメさまの巫女　アバの孫　シンイです。\n　おひさしぶり……と言っていいものか。": "Je suis Shini, la petite-fille de la pretresse\nAbba de Galapagod. Ca fait longtemps... enfin,\nsi je puis dire."
+    },
+    "75142": {
+        "「これまで　黙っていて　すみません。\n　クロウズというのは　あなたと同じく\n　生き返しを受けた　私の　もうひとつの姿。": "Je suis desole d'etre reste silencieux jusqu'a\npresent. Claws est une autre facette de moi,\ntout comme vous, ayant egalement beneficie de<br>la resurrection."
+    },
+    "75143": {
+        "「それによって　私も　数奇な運命を\n　背負うことになりました。": "Par consequent, j'ai egalement du porter un\ndestin etrange."
+    },
+    "75144": {
+        "「……あの日。エテーネの村を救うため\n　旅立った　私たち３人は\n　それぞれに　大きな使命を授かったのです。": "... Ce jour-la. Les trois d'entre nous qui\nsont partis pour sauver le village d'Ethene\nont chacun recu une grande mission."
+    },
+    "75145": {
+        "「すべてが　終わって……。\n　いつかまた　あの時のように\n　３人で　笑いあえる日が来るといいですね。": "Tout est termine... J'espere qu'un jour, comme\nautrefois, nous pourrons a nouveau rire\nensemble tous les trois."
+    },
+    "75146": {
+        "「……身体は　返していただきましたが\n　私には　クロウズとして\n　やらねばならないことが　あるのです。": "…J'ai recupere mon corps, mais en tant que\nClaws, j'ai des choses que je dois accomplir."
+    },
+    "75147": {
+        "「あっ……あれは　なんだ？\n　こっちに　来るぞ！！": "Ah... qu'est-ce que c'est ? Ca vient par ici\n!!"
+    },
+    "75148": {
+        "「……勇者アンルシア。\n　会える日を　楽しみにしていました。": "......Hero Anlucia. J'attendais avec\nimpatience le jour ou nous pourrions nous\nrencontrer."
+    },
+    "75149": {
+        "「ああっ　あなたは……。\n　伝説の天馬……。": "Ah, vous etes... le legendaire cheval aile..."
+    },
+    "75150": {
+        "「私の名は　ファルシオン……。\n　あなたの盟友　<pc>の活躍により\n　チカラを取り戻すことが　できたのです。": "Mon nom est FalShion... Grace aux exploits de\nvotre allie <pc>, j'ai pu retrouver ma\npuissance."
+    },
+    "75151": {
+        "「この声　どこかで……？": "Cette voix, je l'ai deja entendue quelque\npart..."
+    },
+    "75152": {
+        "「そうだわ！　トーマ兄さまと一緒に\n　魔元帥ゼルドラドと戦った　あのときの……。": "Oui, c'est ca ! Le moment ou j'ai combattu aux\ncotes de Toma ani-sama contre Marshal\nZeldrad..."
+    },
+    "75153": {
+        "「私を救ってくれたのは　あなただったのですね？": "C'est vous qui m'avez sauve, n'est-ce pas ?"
+    },
+    "75154": {
+        "「あなたには　苦労をかけました。\n　私のチカラが完全ならば　あなたを\n　偽りの世界へ　落としはしなかったのに……。": "Je vous ai cause bien des soucis. Si mes\npouvoirs avaient ete complets, je ne vous\naurais pas laisse tomber dans le monde F..."
+    },
+    "75155": {
+        "「ですが　時は満ちたのです。\n　今こそ　大魔王と戦う勇者のため\n　このチカラを　振るうことを誓いましょう。": "Mais le moment est venu. Je jure d'exercer ce\npouvoir, maintenant, pour le heros qui\ncombattra le grand roi demon."
+    },
+    "75156": {
+        "「さあ　勇者よ。私に　お乗りなさい。\n　大魔王の待つ　魔幻宮殿へ向かうのです。": "Allons, heros. Montez sur mon dos. Nous nous\ndirigeons vers le Palais Demoniaque ou nous\nattend le Roi Demon."
+    },
+    "75157": {
+        "「……ありがとう　<pc>。\n　あなたなら　きっと　ペガサスを\n　見つけてくれると　思っていたわ。": "......Merci, <pc>. Je savais que tu\nfinirais par trouver Pegase."
+    },
+    "75158": {
+        "「今こそ　大魔王と決着をつける時よ。\n　私は　ファルシオンさまに乗り　出陣します。": "Le moment est venu de regler nos comptes avec\nle Grand Roi Demon. Je vais partir au combat,\nmonte sur le dos de Falrion-sama."
+    },
+    "75159": {
+        "「私の盟友として　<pc>……。\n　あなたのチカラも　貸してほしいの。": "En tant qu'allie, <pc>... J'aimerais\naussi que tu me pretes ta force."
+    },
+    "75160": {
+        "「……勇者よ。\n　この結界を　壊さなければ\n　魔幻宮殿に入ることは　かないません。": "... Heros. Si tu ne detruis pas cette\nbarriere, il te sera impossible d'entrer dans\nle Palais Demoniaque."
+    },
+    "75161": {
+        "「私に　まかせてください。\n　今の私ならば　結界を\n　取り除くことができるでしょう。": "Veuillez me laisser faire. Avec mes capacites\nactuelles, je devrais pouvoir enlever cette\nbarriere."
+    },
+    "75162": {
+        "「ここで　待っていて　<cs_pchero>。\n　魔幻宮殿の結界を　壊してくるから！": "Ici, attends-moi, <cs_pchero>. Je vais briser\nla barriere du Palais Demoniaque !"
+    },
+    "75163": {
+        "「……では　勇者よ。\n　私に　しっかり　つかまっていなさい！": "...Alors, heros. Accroche-toi bien a moi !"
+    },
+    "75164": {
+        "「やったわ　<cs_pchero>！\n　これで　魔幻宮殿に入ることができそうよ。": "On a reussi, <cs_pchero> ! Maintenant, on\ndevrait pouvoir entrer dans le Demon Palace."
+    },
+    "75165": {
+        "「大魔王の結界のチカラが強く\n　すべてを　取り除くことは\n　できませんでした。": "Le pouvoir de la barriere du Grand Roi Demon\nest puissant, et je n'ai pas pu la dissiper\ncompletement."
+    },
+    "75166": {
+        "「……勇者よ。私は　ここに残ります。\n　開いた結界が　ふたたび閉じぬよう\n　支えていなければ　なりません。": "... Heros. Je resterai ici. Je dois veiller a\nce que la barriere ouverte ne se referme pas."
+    },
+    "75167": {
+        "「ここは　ファルシオンさまにまかせて\n　私たちだけで　魔幻宮殿に入りましょう。\n　さあ　行くわよ！": "Ici, laissons cela a FalShion-sama et entrons\nseuls dans le Demon Palace. Allez, partons !"
+    },
+    "75168": {
+        "「来たわね　<pc>。": "Te voila, <pc>."
+    },
+    "75169": {
+        "「ここからは　勇者と盟友の戦いよ。\n　大魔王マデサゴーラを倒すために\n　あなたのチカラが　絶対に必要なの。": "A partir de maintenant, c'est le combat du\nheros et de ses allies. Pour vaincre\nMadesagora, nous avons absolument besoin de ta<br>force."
+    },
+    "75170": {
+        "「……大魔王は　きっと\n　この宮殿の　一番奥で待っているはず。\n　慎重に進みましょう　<pc>。": "Le grand roi demon doit surement nous attendre\nau fond de ce palais. Avancons prudemment,\n<pc>."
+    },
+    "75171": {
+        "「……大魔王マデサゴーラ様の御前であるぞ。\n　控えるがいい　勇者と　その盟友よ。": "......Vous etes en presence de\nMadesagora-sama. Tenez-vous en retrait, heros\net ses allies."
+    },
+    "75172": {
+        "「魔元帥ゼルドラド！\n　大魔王との決着を　つけにきたわ。\n　そこを　どきなさい！！": "Marshal Zeldrad ! Je suis venue en finir avec\nle Grand Roi Demon. Ecarte-toi de mon chemin\n!!"
+    },
+    "75173": {
+        "「このゼルドラド　すべて　心得ております。\n　大魔王マデサゴーラ様。": "Je connais parfaitement ce Ludoara.\nMadesagora-sama."
+    },
+    "75174": {
+        "「貧弱な勇者と　頼りない盟友ごとき\n　あなたの手を　わずらわせるまでもありません。\n　私ひとりで滅ぼして　ご覧に入れましょう。": "Un heros insignifiant et des allies peu\nfiables ne devraient pas vous causer le\nmoindre souci. Je vais les aneantir moi-meme<br>et vous le prouver."
+    },
+    "75175": {
+        "「今の私には　盟友　<cs_pchero>がいる。\n　だから　絶対に　あなたなんかに負けない！": "En ce moment, j'ai un allie precieux,\n<cs_pchero>. C'est pourquoi je ne perdrai\njamais contre quelqu'un comme vous !"
+    },
+    "75176": {
+        "「クククッ　よく言った！\n　だが　貴様も　兄と同じく\n　我が剣のサビとなる運命よ！！": "Kuku... Bien dit ! Cependant, comme ton frere,\nton destin est de devenir la rouille de mon\nepee !"
+    },
+    "75177": {
+        "「<cs_pchero>　しっかりして！\n　私たちは　ここで負けるわけにはいかないわ！！": "<cs_pchero> Reste concentre ! Nous ne pouvons\npas perdre ici !!"
+    },
+    "75178": {
+        "「クックック……。いいぞ。\n　何度でも　相手をしてやろう。\n　これほど楽しい　ヒマつぶしもあるまい。": "Kukukku... Tres bien. Je suis pret a\nt'affronter autant de fois que tu le\nsouhaites. Il n'y a rien de tel pour passer le<br>temps de maniere aussi amusante."
+    },
+    "75179": {
+        "「ぬぐあっ！？　こ…このわしが\n　こんな小娘たちに　敗れるだと！？": "Gwaah !? Moi… moi, etre vaincu par de simples\njeunes filles !?"
+    },
+    "75180": {
+        "「……バカな。勇者と盟友のチカラが\n　これほどのものとは……。": "…Incroyable. La puissance du heros et de ses\nallies est a ce point redoutable…"
+    },
+    "75181": {
+        "「だが　これでよい……。\n　わしの役目は　終わったのだ。": "Mais c'est bien ainsi... Mon role est\naccompli."
+    },
+    "75182": {
+        "「……どういうこと？": "......Que veux-tu dire ?"
+    },
+    "75183": {
+        "「まさか……！": "Impossible... !"
+    },
+    "75184": {
+        "「大魔王が　いない……。": "Le Grand Seigneur Demon n'est pas la..."
+    },
+    "75185": {
+        "「大魔王マデサゴーラは　どこへ行ったの？\n　答えなさい　魔元帥ゼルドラド！！": "Ou est alle Madesagora ? Repondez, Marshal\nZeldrad !"
+    },
+    "75186": {
+        "「大魔王様は　大いなるチカラの源\n　創生の霊核を求め　すでに　ここを発たれた。\n　勇者のチカラを持つ者を連れてな。": "Le Grand Roi Demon a deja quitte cet endroit a\nla recherche de la source du Grand Pouvoir, le\nNoyau Spirituel de la Creation. Emmenant avec<br>lui celui qui possede le pouvoir du heros."
+    },
+    "75187": {
+        "「それは　トーマ兄さまのこと……？": "C'est a propos de Toma ni-sama...?"
+    },
+    "75188": {
+        "「チカラを手にするには　勇者が必要。\n　ゆえに　大魔王様は　貴様の兄を\n　手駒として　よみがえらせたのだ……。": "Pour obtenir le pouvoir, un heros est\nnecessaire. C'est pourquoi le grand roi demon\na ressuscite ton frere comme son pion..."
+    },
+    "75189": {
+        "「創生の霊核とは　なんなの？\n　マデサゴーラは　兄さまを\n　いったい　どうするつもりなの！？": "Qu'est-ce que le noyau spirituel de la\ncreation ? Que compte faire Madesagora avec\nmon frere !?"
+    },
+    "75190": {
+        "「……大魔王マデサゴーラ様！\n　この魔元帥ゼルドラド\n　しかと　ご命令を果たしましたぞ！！": "…Madesagora-sama ! Ce Marshal Zeldrad a\nfidelement execute vos ordres !!"
+    },
+    "75191": {
+        "「あなたの創る　新しき世界……。\n　この目に　できぬことだけが\n　唯一の　心残……り…………。": "Le nouveau monde que tu crees... La seule\nchose que je ne peux voir de mes propres\nyeux... C'est mon seul regret..."
+    },
+    "75192": {
+        "「くっ……。": "Argh..."
+    },
+    "75193": {
+        "「ここに　大魔王は　いないわ……。\n　戻りましょう　<cs_pchero>。\n　なんだか　とても悪い予感がするの。": "Le grand roi demon n'est pas ici...\nRetournons, <cs_pchero>. J'ai un tres mauvais\npressentiment."
+    },
+    "75194": {
+        "「勇者アンルシア　<cs_pchero>。\n　無事に戻ってきてくれて　安心しました。": "Anlucia, la heroine <cs_pchero>. Je suis\nsoulage que tu sois revenue saine et sauve."
+    },
+    "75195": {
+        "「ですが　この地の悪しき気配は　いまだ\n　消えることなく　強く　漂っています……。\n　大魔王との決着は　つかなかったようですね。": "Cependant, la mauvaise aura de cette terre ne\ns'est pas encore dissipee et continue de\nflotter puissamment... Il semble que le duel<br>avec le Grand Roi Demon n'ait pas encore\ntrouve de conclusion."
+    },
+    "75196": {
+        "「……ファルシオンさま。\n　じつは　大魔王マデサゴーラは　最初から\n　この魔幻宮殿には　いなかったようなのです。": "...FalShion-sama. En realite, il semblerait\nque Madesagora n'ait jamais ete present dans\nce Palais des Demons depuis le debut."
+    },
+    "75197": {
+        "「大魔王は　創生の霊核を求めて\n　すでに　この地を発った……というのが\n　魔元帥ゼルドラドの　最期の言葉でした。": "Le Grand Roi Demon a quitte ces lieux, en\nquete du Noyau Spirituel de la Creation...\nTelles furent les dernieres paroles de Marshal<br>Zeldrad."
+    },
+    "75202": {
+        "「<pc>　来てくれたのね！\n　大魔王マデサゴーラの行方が　判明したようよ。": "<pc>, tu es venu ! Il semble que l'on\nait decouvert ou se trouve Madesagora."
+    },
+    "75203": {
+        "「……この先は　悠久の回廊と呼ばれる\n　地底深くへと伸びる通路に　つながっています。": "......Au-dela, se trouve un passage appele\nEternal Passage, un couloir qui s'etend\nprofondement sous terre."
+    },
+    "75204": {
+        "「そして　悠久の回廊の果てには\n　ひとつの門が存在し　この神殿は　もともと\n　その門を封じるため　建てられたものなのです。": "Et au bout de l'Eternal Passage, il existe une\nporte, et ce temple a ete construit a\nl'origine pour sceller cette porte."
+    },
+    "75205": {
+        "「門の名は　奈落の門……。\n　その向こうには　創生の霊核というチカラが\n　眠ると　いわれています。": "Le nom de la porte est Abyss Gate... On dit\nqu'au-dela, repose le pouvoir appele le noyau\nspirituel de la creation."
+    },
+    "75206": {
+        "「創生の霊核……。\n　ゼルドラドが　大魔王の目的のことを\n　そう呼んでいたわ！": "Le noyau spirituel de la creation...\nZeludorado appelait cela l'objectif du Grand\nRoi Demon !"
+    },
+    "75207": {
+        "「……ええ。神の緋石を封じた扉と同じく\n　奈落の門を開くには\n　勇者のチカラが　必要となります。": "Eh bien. Tout comme la Porte scellant la\nPierre Ecarlate de Dieu, il est necessaire\nd'avoir le pouvoir d'un heros pour ouvrir<br>l'Abyss Gate."
+    },
+    "75208": {
+        "「ならば　今　光の神殿の封印を破り\n　奈落の門を目指す者こそ\n　大魔王マデサゴーラに　相違ないでしょう。": "Dans ce cas, celui qui briserait le sceau du\nTemple of Light pour atteindre l'Abyss Gate ne\npeut etre autre que Madesagora."
+    },
+    "75209": {
+        "「では　トーマ兄さまも　そこに……。": "Alors, Toma ni-sama est la aussi..."
+    },
+    "75210": {
+        "「勇者姫アンルシア。<pc>。\n　大魔王に　奈落の門を開かせてはなりません！\n　一刻も早く　かの者を止めるのです！": "Hero Anlucia, <pc>. Ne laissez pas le\nGrand Roi Demon ouvrir le Portail des Abysses\n! Arretez-le sans perdre une seconde !"
+    },
+    "75211": {
+        "「……<pc>。\n　今度こそ　この戦いに　幕を下ろしましょう。": "…<pc>. Cette fois, mettons un terme a ce\ncombat."
+    },
+    "75212": {
+        "「まがい物の勇者のチカラでは\n　それが　限界のようだな……。": "Il semble que la force d'un faux heros ait ses\nlimites..."
+    },
+    "75213": {
+        "「そなたには　ぜひ　我が世界創造のための\n　協力者と　なってもらいたかったのだ。\n　さあ　共に手を携え　奇跡を成就させようぞ。": "Je souhaitais vraiment que tu deviennes un\ncollaborateur pour la creation de mon monde.\nAllons-y, unissons nos forces et accomplissons<br>ce miracle ensemble."
+    },
+    "75214": {
+        "「な……何を　言っているの！？\n　私は　あなたを倒すために　ここまで来たのよ！": "Qu... Qu'est-ce que tu racontes !? Je suis\nvenue jusqu'ici pour te vaincre !"
+    },
+    "75215": {
+        "「……ふむ。やはり　理解してはもらえぬか。\n　勇者といえど　所詮は　神の作った道具。\n　芸術を解する心は　持ち得ぬということだな。": "… Hum. Je vois que tu ne peux pas me\ncomprendre. Meme un heros n'est, au fond,\nqu'un outil cree par les dieux. Cela signifie<br>qu'il ne peut pas saisir l'essence de l'art."
+    },
+    "75216": {
+        "「それなら　それでよい。\n　道具に理解を求めても　無意味なことよ。\n　余は　ただ　より優れた道具を求めるのみだ。": "Dans ce cas, cela me convient. Chercher a\nobtenir la comprehension d'un outil est\ninutile. Je ne fais que rechercher un outil<br>superieur."
+    },
+    "75217": {
+        "「さあ　まがい物の勇者　トーマよ。\n　そなたの妹が　余に協力してくれるように\n　そなたからも　説得してやってくれ！": "Allez, faux heros Toma. Demande a ta soeur de\ncooperer avec moi. Toi aussi, persuade-la !"
+    },
+    "75218": {
+        "「トーマ兄さま…………。": "Toma ani-sama..."
+    },
+    "75219": {
+        "「アンルシア……。\n　ここまで来るとは　強くなったのだな。\n　さすがは　真の勇者だ。": "Anlucia... Te voila arrivee jusqu'ici, tu es\ndevenue forte. Comme on pouvait s'y attendre\nde la part d'une veritable heroine."
+    },
+    "75220": {
+        "「だが　お前が　いくら強くなったところで\n　大魔王マデサゴーラ様を　敵に回して\n　勝てる可能性など　万にひとつもない。": "Cependant, meme si tu deviens plus fort, il\nn'y a pas une chance sur dix mille de vaincre\nMadesagora-sama en tant qu'ennemi."
+    },
+    "75221": {
+        "「それはできません　トーマ兄さま……。": "Je ne peux pas faire ca, frere Toma..."
+    },
+    "75222": {
+        "「……ならば　お前は　私の敵だ。": "…Dans ce cas, tu es mon ennemi."
+    },
+    "75223": {
+        "「我が主のために　お前を倒し\n　主の意に　従わせてみせよう！！": "Pour mon Lord, je te vaincrai et te ferai\nsuivre la volonte de Lord !!"
+    },
+    "75224": {
+        "「兄妹が　争う姿を見ることになろうとは\n　嘆かわしい限りよな……。": "Voir un frere et une soeur se disputer est\nvraiment deplorable..."
+    },
+    "75225": {
+        "「だが　これも　偉大なる創造のため。\n　トーマよ。余の道具として\n　最後の役割を　果たすがよい！": "Mais tout cela est pour la grande creation.\nToma, en tant qu'instrument de ma volonte,\naccomplis ton ultime role !"
+    },
+    "75226": {
+        "「たとえ　トーマ兄さまが相手でも\n　私は　引くわけにはいかない……。\n　<cs_pchero>　あなたも　チカラを貸して！": "Meme si c'est contre Toma ni-sama, je ne peux\npas reculer... <cs_pchero>, prete-moi ta\nforce, toi aussi !"
+    },
+    "75227": {
+        "「おろかなる妹よ……。\n　あきらめて　我が主　大魔王マデサゴーラ様に\n　屈服するがよい！": "O ma soeur insensee... Abandonne et soumets-toi\na notre Seigneur Madesagora-sama !"
+    },
+    "75228": {
+        "「<cs_pchero>。私たちは\n　この戦いに　負けるわけにはいかないわ！\n　だから　あなたも　チカラを貸して！！": "<cs_pchero>Nous ne pouvons pas perdre cette\nbataille ! Alors, prete-nous aussi ta force !!"
+    },
+    "75229": {
+        "「トーマとて　すでに我が眷属。\n　その程度の攻撃で　滅びはせぬわ！": "Toma est deja de mes fideles. Une attaque de\nce niveau ne le detruira pas !"
+    },
+    "75230": {
+        "「トーマ兄さま……。\n　今　大魔王の呪縛から　解放してさしあげます。": "Toma ani-sama... Je vais vous liberer de\nl'emprise du grand roi demon."
+    },
+    "75231": {
+        "「グハハハハ……。\n　余の狙い通りになったようだな。": "Guhahahaha... Il semble que tout se soit passe\ncomme prevu pour moi."
+    },
+    "75232": {
+        "「そなたの放った　勇者の技のチカラは\n　トーマの肉体に吸収させてもらったぞ。": "Le pouvoir de la technique du heros que tu as\nlibere a ete absorbe par le corps de Toma."
+    },
+    "75233": {
+        "「これならば　まがい物の勇者であっても\n　奈落の門に施された封印を　破れるだろうよ。\n　ただし　一度限りの使い捨てになろうがな……。": "Meme un faux heros devrait pouvoir briser le\nsceau place sur l'Abyss Gate avec ceci.\nCependant, ce sera a usage unique..."
+    },
+    "75234": {
+        "「我が主の　思し召すままに……。": "Selon la volonte de notre Seigneur..."
+    },
+    "75235": {
+        "「なっ……卑劣な！\n　そんなことは　させないっ！！": "Quoi... Infame ! Je ne te laisserai pas faire\nca !"
+    },
+    "75236": {
+        "「もはや　勇者など　無用の長物……。\n　不要な道具は　処分せねばなるまいな。": "Les heros sont desormais inutiles... Il est\ntemps de se debarrasser des outils superflus."
+    },
+    "75237": {
+        "「大いなる闇の根源よ！\n　古き契約に従い　余にチカラを与えたまえ！": "O grande source des Tenebres ! Conformement a\nl'ancien pacte, accorde-moi ta puissance !"
+    },
+    "75238": {
+        "「余は　世界を　望むままに創り変えよう。\n　勇者よ。余の偉大なる創造のいしずえとして\n　奈落の底に　果てるがよい！": "Je faconnerai ce monde selon mes desirs.\nHeros, en tant que fondation de ma grande\ncreation, peris dans les abysses !"
+    },
+    "75241": {
+        "「勇者よ……。\n　これで　勝ったつもりか？": "Heros... Tu penses avoir gagne avec ca ?"
+    },
+    "75242": {
+        "「……余の野望は　今まさに\n　達成されようとしているというのにっ！！": "Mon ambition est sur le point d'etre realisee\n!!"
+    },
+    "75243": {
+        "「兄さまっ！！": "Frere !!"
+    },
+    "75244": {
+        "「創生の霊核よ！　絶大なるチカラよ！\n　余の望みに応え　余の望むままに\n　そのチカラを供するがよい！！": "O noyau spirituel de la creation ! Puissance\nimmense ! Reponds a mes desirs et accorde-moi\ncette force selon ma volonte !!"
+    },
+    "75245": {
+        "「ほんの一部でも　これほどのチカラか……。": "Ce n'est qu'une fraction, et pourtant, quelle\npuissance incroyable..."
+    },
+    "75246": {
+        "「霊核のチカラを　手に入れることがかなえば\n　余の創造は　必ずや　創世の女神を超えよう！！": "Si je parviens a obtenir le pouvoir du noyau\nspirituel, ma creation surpassera assurement\ncelle de la deesse de la creation !!"
+    },
+    "75247": {
+        "「世界は　余の望み通りに　創り変えられ\n　余は　新たなる創造神と讃えられるのだ……。\n　見るがいい　世界の改変を！！": "Le monde sera recree selon mes desirs, et je\nserai loue comme le nouveau dieu createur...\nAdmire donc la transformation du monde !!"
+    },
+    "75254": {
+        "「こ　これが　創生の霊核のチカラなの……。\n　なんて　おそろしい……。": "Ce... c'est ca, le pouvoir du Noyau Spirituel\nde la Creation... C'est terrifiant..."
+    },
+    "75255": {
+        "「……でも　私は　負けない！": "...Mais je ne vais pas abandonner !"
+    },
+    "75256": {
+        "「グハハハハ……。\n　この姿を見ても　立ち向かってこようとは\n　なかなかに　健気ではないか。": "Guwahahaha... Meme en voyant cette forme, tu\noses encore m'affronter ? Quelle bravoure\nadmirable."
+    },
+    "75257": {
+        "「お　おのれ……。\n　神の道具ごときが　余を追い込むか……。": "Oh... comment oses-tu... Un simple outil divin\nparvient a me coincer..."
+    },
+    "75258": {
+        "「だ…が……　まだ　終わりではないっ。\n　門の向こうへ行けば……\n　創生の霊核さえ　手に入れられれば……": "Da...ga... ce n'est pas encore fini. Si je\nvais au-dela de la porte... Si seulement je\npeux mettre la main sur le noyau spirituel de<br>la creation..."
+    },
+    "75259": {
+        "「きっ　貴様ぁ　何を血迷った……？": "Qu-Qu'est-ce qui te prend, espece de fou ?!"
+    },
+    "75260": {
+        "「……お前のチカラが　弱まったおかげで\n　ようやく　自分の意思で　動けるようになった。": "......Grace a l'affaiblissement de ton\npouvoir, je peux enfin bouger de ma propre\nvolonte."
+    },
+    "75261": {
+        "「自分の意思を……心を踏みにじられ\n　お前の思うまま　操り人形と化しているのは\n　死に勝る　苦しみだったぞ……。": "Se faire pietiner sa volonte... son coeur, et\ndevenir une simple marionnette a ta merci...\nc'etait une souffrance pire que la mort..."
+    },
+    "75262": {
+        "「トーマ兄さまっ！\n　本当の兄さまに戻られたのですね！？": "Toma nii-sama ! Vous etes redevenu votre vrai\nvous-meme !?"
+    },
+    "75263": {
+        "「余のチカラで　よみがえった亡者が\n　余に逆らうとは　なんたる不遜か！": "Que des morts ressuscites par mon pouvoir\nosent me defier, quelle insolence !"
+    },
+    "75264": {
+        "「グヌオォォ……。\n　は　早く　創生の霊核を\n　余の手中に収めねば……。": "Grnuaaah... Je dois rapidement prendre le coeur\nspirituel de la creation entre mes mains..."
+    },
+    "75265": {
+        "「貴様を　門の向こうに　行かせはしない！\n　私の中に残る　わずかな勇者のチカラよ。\n　この仮初めの命を糧に　今一度だけ燃え上がれ！": "Je ne te laisserai pas passer cette porte ! O\nmaigre pouvoir du heros qui reste en moi. En\nme nourrissant de cette premiere vie dans le<br>TMP, brule encore une fois !"
+    },
+    "75266": {
+        "「ええいっ　死にぞこないめが！\n　そこを　どけえっ！！": "Argh, miserable survivant ! Ecarte-toi de mon\nchemin !!"
+    },
+    "75267": {
+        "「アンルシア！　勇者の役目を果たせ！\n　お前の剣で　悪を滅ぼしてくれっ！！": "Anlucia ! Accomplis ton devoir de heros !\nAneantis le mal avec ton epee !!"
+    },
+    "75268": {
+        "「そ…そんな。\n　そんなことをすれば　兄さままで\n　滅ぼすことになってしまいます！": "Ce... ce n'est pas possible. Si vous faites\ncela, vous condamnerez aussi mon frere a la\ndestruction !"
+    },
+    "75269": {
+        "「もとより　一度は　死んだ身だ。\n　それに　この身体も　長くは保ちそうにない。": "De toute facon, j'ai deja ete mort une fois.\nDe plus, ce corps ne semble pas pouvoir tenir\ntres longtemps."
+    },
+    "75270": {
+        "「自分の意思では　ないとはいえ\n　闇に堕ちた　この私が　大魔王の討伐に\n　役立てるのなら　これ以上の最期はない！": "Meme si ce n'est pas par ma propre volonte, si\nje peux etre utile a vaincre le Grand Roi\nDemon apres etre tombe dans les tenebres, je<br>ne pourrais esperer une meilleure fin !"
+    },
+    "75271": {
+        "「でも……でも……。": "Mais... mais..."
+    },
+    "75272": {
+        "「マデサゴーラが　チカラを取り戻せば\n　すぐに　私の意識は　奪われてしまうだろう。": "Si Madesagora recupere son pouvoir, ma\nconscience sera immediatement arrachee."
+    },
+    "75273": {
+        "「アンルシア　頼むっ！\n　私が　私でいられるうちに……。": "Anlucia, je t'en prie ! Tant que je suis\nencore moi-meme..."
+    },
+    "75274": {
+        "「……<cs_pchero>。\n　私が　やるから……あなたは　見届けて。": "<cs_pchero> Je vais m'en occuper... Toi,\nassure-toi de bien observer."
+    },
+    "75275": {
+        "「余は　余の望む新世界を創るのだっ！！\n　貴様ら　神の道具などに　それを邪魔さ…れ……": "Je vais creer le nouveau monde que je desire\n!! Vous, des outils des dieux, ne pourrez\npas... m'en empecher..."
+    },
+    "75276": {
+        "「本当に……強くなったな　アンルシア……。\n　心も……身体も……。": "Vraiment... tu es devenue forte, Anlucia...\nAussi bien dans ton coeur... que dans ton\ncorps..."
+    },
+    "75277": {
+        "<if_woman>「それは……　全部　彼女のおかげです。\n　勇者の……私の盟友　<cs_pchero>の。<else>「それは……　全部　彼のおかげです。\n　勇者の……私の盟友　<cs_pchero>の。<endif>": "<if_woman>>C'est... grace a elle. Mon allie...\nle heros <cs_pchero>.<else>>C'est... grace a lui. Mon allie... le heros\n<cs_pchero>. <endif>"
+    },
+    "75278": {
+        "「キミとは　どこかで　会った気が……？": "J'ai l'impression de t'avoir deja rencontre\nquelque part..."
+    },
+    "75279": {
+        "「……そうだ。\n　あれは　生と死のはざまに見た　夢の中……。\n　遠く　懐かしい　グランゼドーラ城の……。": "C'est vrai. C'etait dans un reve que j'ai vu\nentre la vie et la mort... Le lointain et\nnostalgique chateau de Gran Zedora..."
+    },
+    "75280": {
+        "「トーマ兄さまっ！！": "Toma, grand frere !!"
+    },
+    "75281": {
+        "「ありがとう…………。\n　アンルシアを……私の妹を　救ってくれて……": "Merci beaucoup... D'avoir sauve Anlucia... ma\npetite soeur..."
+    },
+    "79659": {
+        "「どうやら　私たちは\n　ここに　おびき出されたようです。\n　大魔王……それとトーマ兄さまは　今どこに？": "On dirait bien que nous avons ete attires ici.\nOu se trouvent le Grand Roi Demon... et notre\nfrere Toma en ce moment ?"
+    },
+    "79661": {
+        "「創生の霊核……\n　確かに　そう言ったのですね？": "Le Noyau Spirituel de la Creation... Vous avez\nbien dit cela, n'est-ce pas ?"
+    },
+    "79662": {
+        "「何か　心当たりがあるのですか！？": "Avez-vous une idee de ce que cela pourrait\netre !?"
+    },
+    "79663": {
+        "「……事は　一刻を争います。\n　エテーネの島の山頂にある\n　光の神殿へ　急ぎましょう！": "La situation est urgente. Depechons-nous de\nrejoindre le Temple de la Lumiere situe au\nsommet de l'ile d'Ethene !"
+    },
+    "79664": {
+        "「<cs_pchero>！　あなたも　飛竜に乗って\n　すぐに　光の神殿まで来て！": "<cs_pchero> ! Monte sur le dragon et viens\nvite au Temple de la Lumiere !"
+    },
+    "91124": {
+        "「これは……！？": "C'est...!?"
+    },
+    "91125": {
+        "「……まさか！": "… Impossible !"
+    },
+    "91126": {
+        "「……どうやら　これは\n　大魔王が残していった　結界のようです。\n　私に取り除けるか　試してみましょう。": "Il semblerait que ceci soit une barriere\nlaissee par le Grand Roi Demon. Essayons de\nvoir si je peux l'enlever."
+    },
+    "91127": {
+        "「この結界は　闇の魔力とは異なるチカラ……\n　おそらく　創生の魔力で　創られています。\n　私では　取り除けません……。": "Ce barrage est constitue d'une force\ndifferente de celle de la magie noire... Il a\nprobablement ete cree avec la magie de la<br>creation. Je ne peux pas l'eliminer..."
+    },
+    "91128": {
+        "「そんな……。\n　それでは　大魔王を追うことが…………。": "Impossible... Dans ce cas, poursuivre le Grand\nRoi Demon devient..."
+    },
+    "91129": {
+        "「この結界を　取り除く方法を\n　なんとか　探してみましょう。\n　私に　しばしの時間をください。": "Je vais essayer de trouver un moyen de retirer\ncette barriere. Donnez-moi un peu de temps, je\nvous prie."
+    },
+    "91130": {
+        "「ですが　ファルシオンさま！\n　このままでは　大魔王が　先に\n　奈落の門を　開けてしまうのでは！？": "Cependant, FalShion-sama ! Si cela continue\nainsi, le Grand Roi Demon pourrait ouvrir la\nPorte des Abysses en premier !"
+    },
+    "91131": {
+        "「大魔王といえど　悠久の回廊を抜けることは\n　そう簡単には　できないはずです。\n　あせりは禁物ですよ　勇者アンルシア。": "Meme un grand roi demon ne peut pas traverser\nl'Eternal Passage si facilement. Ne vous\nprecipitez pas, hero Anlucia."
+    },
+    "91132": {
+        "「……わかりました。": "...J'ai compris."
+    },
+    "91133": {
+        "「<pc>。私たちは　ファルシオンさまが\n　結界を破る方法を　見つけてくれるまで\n　待つことにしましょう。": "<pc>. Attendons que le seigneur FalShion\ntrouve un moyen de briser la barriere."
+    },
+    "91134": {
+        "「私は　グランゼドーラ城に　戻ります。\n　この時間を無駄にするわけには　いかないわ。\n　修行に　はげまなきゃ。": "Je retourne au chateau de Gran Zedora. Je ne\npeux pas me permettre de perdre du temps. Je\ndois m'entrainer intensement."
+    },
+    "91146": {
+        "「魔幻宮殿の主……。\n　大魔王マデサゴーラは　己の目的を果たすため\n　奈落の門へと　向かった……。": "Le Seigneur du Palais Demoniaque... Madesagora\ns'est dirige vers la Porte des Abysses pour\naccomplir son objectif..."
+    },
+    "91147": {
+        "「……もうすこし。\n　もうすこしで　私の目的に届く……。": "...Encore un peu. Je suis sur le point\nd'atteindre mon objectif..."
+    },
+    "91148": {
+        "「……いえ。本当の戦いは\n　これから　始まるのでしたね。\n　その時まで　今しばらく　待たなくては。": "...Non. La veritable bataille ne fait que\ncommencer. Nous devons patienter encore un peu\njusqu'a ce moment-la."
+    },
+    "91149": {
+        "「<pc>さん。\n　あなたは　私を許してくれますか……？": "<pc>-san. Pourriez-vous me pardonner...?"
+    },
+    "91618": {
+        "「こ　これは……　いったい　なんなの？": "Qu... Qu'est-ce que c'est que ca... ?"
+    },
+    "91619": {
+        "「奈落の門の向こうには\n　いったい　何があるというの……。": "Qu'y a-t-il donc de l'autre cote de la Porte\ndes Abysses..."
+    },
+    "91620": {
+        "「あなたがたが　知る必要はありませんよ。\n　これより先のことは　すべて\n　私に　まかせておけばよいのです。": "Vous n'avez pas besoin de savoir. A partir de\nmaintenant, laissez-moi m'occuper de tout."
+    },
+    "91621": {
+        "「おひさしぶりですね　アンルシア姫。\n　<cs_pchero>とは　つい　この間\n　会ったばかりなのですが……。": "Cela faisait longtemps que nous ne nous etions\npas vus, Princesse Anlucia. Je viens de\ncroiser <cs_pchero> il y a peu de temps..."
+    },
+    "91622": {
+        "「……クロウズさん！？\n　どうして　あなたが　ここに……？": "…Claws-san !? Pourquoi etes-vous ici… ?"
+    },
+    "91623": {
+        "「それは……　この門の向こうに行くことが\n　私の大きな目的の　ひとつだからです。": "Parce que... aller au-dela de cette porte est\nl'un de mes grands objectifs."
+    },
+    "91624": {
+        "「私が　あなた方に協力してきたのも　すべては\n　創生の霊核を求める　大魔王を排除してもらい\n　安全に　門の向こうの世界に行くため……。": "Si j'ai coopere avec vous, c'etait uniquement\npour eliminer le Grand Maitre Demon qui\nrecherche le noyau spirituel de la creation,<br>et pour pouvoir me rendre en toute securite\ndans le monde de l'autre cote du portail..."
+    },
+    "91625": {
+        "「その目的とは　なんなのです！？\n　事と次第によっては　私は　あなたを\n　止めなければ　ならないことになります！": "Quel est donc votre objectif ?! En fonction de\nvos intentions, je devrai peut-etre vous\narreter !"
+    },
+    "91626": {
+        "「残念ですが……　それを今\n　あなた方に　語ることはできません。": "Je suis desole, mais je ne peux pas vous en\nparler pour le moment."
+    },
+    "91627": {
+        "「どのみち　あなたに　私は止められない……。\n　門に憑りついた　悪しき竜たちの怨念にも\n　太刀打ち　できないでしょう。": "De toute facon, tu ne pourras pas m'arreter...\nTu ne pourras pas non plus faire face a la\nrancune des mauvais dragons qui hantent la<br>porte."
+    },
+    "91628": {
+        "「生き返しによって　私が得た姿……\n　その　元の持ち主は　竜族と呼ばれる\n　伝説の種族の生き残りでした。": "Grace a la resurrection, j'ai obtenu cette\napparence... Le seigneur d'origine qui\npossedait cela etait un survivant de la<br>legendaire race appelee les Dragoviens."
+    },
+    "91629": {
+        "「この姿を得た私には　何を犠牲にしてでも\n　なさねばならぬことが　あるのです！": "Avec cette forme, il y a quelque chose que je\ndois accomplir, peu importe le sacrifice !"
+    },
+    "91630": {
+        "「<cs_pchero>さん　アンルシア姫。\n　すぐに　ここを離れることです。": "<cs_pchero> san, Princesse Anlucia. Nous\ndevons quitter cet endroit immediatement."
+    },
+    "91631": {
+        "「大魔王マデサゴーラが　滅んだ今……\n　無理な改変を重ねられた　この場所は\n　そう長く　もたないでしょう。": "Maintenant que Madesagora a ete detruite...\nCet endroit, soumis a de nombreuses\nmodifications forcees, ne tiendra probablement<br>pas tres longtemps."
+    },
+    "91632": {
+        "「……それに　あのような者が\n　ふたたび　現れぬとも限りません。\n　二度と開かぬよう　奈落の門は　私が閉じます。": "De plus, rien ne garantit que ce genre de\npersonne ne reapparaisse pas. Je vais refermer\nla Porte de l'Abime pour qu'elle ne s'ouvre<br>plus jamais."
+    },
+    "91633": {
+        "「許してください　<cs_pchero>さん。\n　この先に待つ戦いには　あなたを…………": "Pardonnez-moi, <cs_pchero> san. Dans le combat\nqui vous attend, je ne pourrai pas vous..."
+    },
+    "91634": {
+        "「どうやら　ここは　危険なようね。\n　クロウズさんのことは　気になるけれど\n　今は　脱出を急ぎましょう！": "Il semble que cet endroit soit dangereux. Meme\nsi je suis inquiete pour Claws-san, nous\ndevons nous depecher de sortir d'ici !"
+    },
+    "91635": {
+        "「大魔王マデサゴーラは　倒された……。": "Madesagora a ete vaincu..."
+    },
+    "91636": {
+        "「これで　世界は平和になる……。\n　私の……勇者の戦いは　終わったのね。": "Le monde est enfin en paix... Mon combat... Le\ncombat du heros est termine."
+    },
+    "91637": {
+        "「……<cs_pchero>。\n　あなたが　私を導いてくれなかったら\n　とても　最後まで　戦い抜けなかったわ。": "<cs_pchero> Si tu ne m'avais pas guidee, je\nn'aurais jamais pu me battre jusqu'au bout."
+    },
+    "91638": {
+        "「あなたと出会い　助けられ　共に戦い\n　勇者と盟友という　深い絆で結ばれた……。\n　そのすべてを　私は　誇りに思っているの。": "Rencontrer, etre aide, combattre ensemble...\nLies par un profond lien en tant que heros et\nallie... Je suis fiere de tout cela."
+    },
+    "91639": {
+        "「この戦いで　失ったものも多いけど……\n　あなたと築いた絆は　私にとって\n　何物にも代えがたい　最高の宝物よ。": "Dans cette bataille, nous avons perdu beaucoup\nde choses... Mais le lien que j'ai tisse avec\ntoi est, pour moi, un tresor inestimable."
+    },
+    "91640": {
+        "「さあ　帰りましょう　グランゼドーラへ！！": "Allons-y, rentrons a GLMP Zedora !!"
+    },
+    "99315": {
+        "「私の使命は　今はまだ　語ることはできません。\n　<pc>さんは　大魔王討伐の使命を\n　勇者とともに　果たしてください。": "Je ne peux pas encore reveler ma mission.\n<pc>-san, accomplissez la mission de\nvaincre le grand roi demon avec le heros."
+    },
+    "99316": {
+        "<pc>は　天馬ファルシオンを追って\nグランゼドーラ城へと　急いだ。": "<pc> se precipita vers le chateau de\nGran Zedora a la poursuite de Falchion."
+    },
+    "99317": {
+        "「そろそろ　戻ってくる頃と思い\n　勇者アンルシアと　あなたを待っていました。": "Je pensais que c'etait presque l'heure de\nvotre retour, alors j'attendais ici avec le\nheros Anlucia."
+    },
+    "99318": {
+        "「すでに　神秘のゴブレットに\n　創生の魔力が　満ちているようですね。\n　さすがは　勇者の盟友　<pc>。": "Il semble que le Mystic Goblet soit deja\nrempli de la magie de la creation. Comme on\npouvait s'y attendre de l'allie du heros,<br><pc>."
+    },
+    "99319": {
+        "「それでは　すぐに　大魔王の残した結界を\n　取り除くことにしましょう。": "Dans ce cas, retirons immediatement la\nbarriere laissee par le Grand Roi Demon."
+    },
+    "99320": {
+        "「それには　勇者アンルシアと\n　その盟友である　あなた……。\n　ふたりの協力が　必要不可欠なのです。": "Pour cela, il est absolument essentiel d'avoir\nla cooperation du heros Anlucia et de vous,\nson allie..."
+    },
+    "99321": {
+        "「さあ……。創生の魔力で満ちた\n　神秘のゴブレットに向けて\n　ふたりで　強く念じてください。": "Allez... Concentrez-vous intensement a deux\nsur le Mystic Goblet, rempli de la magie de la\ncreation."
+    },
+    "99322": {
+        "「創生のチカラで　生まれしものは\n　創生のチカラにて　無に還るべし……と。\n　それで　結界を破れるはずです。": "Ce qui est ne de la force de Creation doit\nretourner au neant par cette meme force...\nC'est ainsi que la barriere devrait etre<br>brisee."
+    },
+    "99323": {
+        "「やりましょう　<pc>。\n　私たちが　チカラを合わせれば\n　きっと　できるわ。": "Unissons nos forces, <pc>. Si nous\ncombinons nos pouvoirs, nous y arriverons\nsurement."
+    },
+    "99324": {
+        "「<pc>　いいわね？\n　あなたも　一緒に念じて……。": "<pc>, c'est bien, n'est-ce pas ? Toi\naussi, concentre-toi avec nous..."
+    },
+    "99325": {
+        "「創生のチカラで　生まれしものは\n　創生のチカラにて　無に還るべし……。": "Ce qui est ne de la Puissance de Creation doit\nretourner au neant par cette meme Puissance de\nCreation..."
+    },
+    "99326": {
+        "「勇者アンルシアと\n　盟友　<pc>の　名において\n　我らの行く手を阻みし結界よ　今　消え去らん！": "Au nom du heros Anlucia et de l'allie\n<pc>, barriere qui entrave notre chemin,\ndisparais maintenant !"
+    },
+    "99327": {
+        "「見て　<pc>。\n　結界を破ることが　できたわ！": "Regarde, <pc>. Nous avons reussi a\nbriser la barriere !"
+    },
+    "99328": {
+        "「ファルシオンさま。\n　私たちは　これより　悠久の回廊に入り\n　大魔王の後を　追います。": "Seigneur FalShion. Nous allons maintenant\nentrer dans le Passage Eternel et poursuivre\nle Grand Roi Demon."
+    },
+    "99329": {
+        "「……奈落の門を目指す者は\n　その途中で　心のチカラを試されます。\n　どうか　ふたりとも　気をつけて。": "...Ceux qui visent la Porte de l'Abime verront\nla force de leur coeur mise a l'epreuve en\nchemin. Je vous en prie, soyez prudents tous<br>les deux."
+    },
+    "99330": {
+        "「<pc>　行きましょう。\n　今度こそ　大魔王との決戦になるわ。\n　準備は　万全にね。": "Allons a <pc>. Cette fois-ci, ce sera la\nbataille decisive contre le grand roi demon.\nAssurons-nous d'etre parfaitement prepares."
+    },
+    "99331": {
+        "<if_woman>「姉ちゃーん！<else>「兄ちゃーん！<endif>": "<if_woman>>Grande soeur !<else>>Grand frere ! <endif>"
+    },
+    "99332": {
+        "「ほら　いいでしょ！？": "Alors, c’est bien, non !?"
+    },
+    "99333": {
+        "「アバさまが　乗っていいって\n　言ってくれたんだ！": "Abba m'a dit que j'avais le droit de monter !"
+    },
+    "99334": {
+        "「ねっ　アバさま？": "Hein, Abba ?"
+    },
+    "99335": {
+        "「ああ。今日は　特別じゃ。": "Bien sur, aujourd'hui est un jour special !"
+    },
+    "99336": {
+        "「村の守り神　カメさまの　お背中に\n　乗せていただく日が　来ようとは……。\n　長生きは　するもんじゃのう。": "Qui aurait cru qu’un jour, je pourrais monter sur le dos de Galapagod, le protecteur du village…  \nVivre longtemps reserve bien des surprises."
+    },
+    "99337": {
+        "「さあ　行くぞ　<kyodai>。\n　他の者たちも　乗せてやらねば。": "Allons-y, <kyodai>.\nNous devons aussi emmener les autres."
+    },
+    "99338": {
+        "「はい　アバさま。": "Oui, Abba-sama."
+    },
+    "99339": {
+        "<if_woman>「さあ！　姉ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<else>「さあ！　兄ちゃんも　乗って乗って！\n　ほら　おいらの手に　つかまって……<endif>": "<if_woman>>Allez ! Grande soeur, monte, monte !\nTiens, attrape ma main…<else>>Allez ! Grand frere, monte, monte ! Tiens,\nattrape ma main… <endif>"
+    },
+    "99340": {
+        "「ダメじゃ！": "C'est impossible !"
+    },
+    "99341": {
+        "「……えっ？": "…Hein ?"
+    },
+    "99342": {
+        "「<pc>は　乗せられん。": "<pc> ne peut pas monter."
+    },
+    "99343": {
+        "「ど　どうして……？": "P-Pourquoi… ?"
+    },
+    "99344": {
+        "「……………………。": "……"
+    },
+    "99345": {
+        "「そ　れ　は　な…………": "C'est… parce que…"
+    },
+    "99346": {
+        "「<pc>が　わしらと同じ時間を\n　生きている者では　ないからなのじゃ……。": "C'est parce que <pc> n'est pas quelqu'un\nqui vit dans le meme temps que nous..."
+    },
+    "99347": {
+        "「だが　案ずるな　<pc>よ。\n　この村で　わしらと　暮らしておれば\n　あるいは　お前も…………。": "Mais ne t'inquiete pas, <pc>. Si tu vis\nici, dans ce village avec nous, peut-etre que\ntoi aussi..."
+    },
+    "99348": {
+        "「<pc>ー！": "<pc>ー !"
+    },
+    "99349": {
+        "「<pc>～！": "<pc>～！"
+    },
+    "99350": {
+        "<if_woman>「お姉ちゃ～ん！<else>「お兄ちゃ～ん！<endif>": "<if_woman>>Grande soeur～！<else>>Grand frere～！<endif>"
+    },
+    "99351": {
+        "「どうだ　いいだろう！？": "Alors, qu'en penses-tu, c'est pas genial !?"
+    },
+    "99352": {
+        "「どう？　いいでしょう！？": "Alors, qu'en penses-tu ? C'est bien, n'est-ce\npas !?"
+    },
+    "99353": {
+        "「どう？　いいでしょ！？": "Alors ? C'est pas mal, non !?"
+    },
+    "99354": {
+        "「アバさまが　乗っていいって\n　言ってくれたんだぜ！": "Abba-sama a dit que je pouvais monter !"
+    },
+    "99355": {
+        "「アバさまが　乗っていいって\n　言ってくれたのよ！": "Abba-sama a dit que tu pouvais monter !"
+    },
+    "99356": {
+        "「アバさまが　乗っていいって\n　言ってくれたんだ～。": "Abba-sama a dit que je pouvais monter."
+    },
+    "99357": {
+        "「なあっ　アバさま？": "He, Abba-sama ?"
+    },
+    "99358": {
+        "「ねえっ　アバさま？": "He, Abba-sama ?"
+    },
+    "99359": {
+        "「ねっ　アバさま？": "Hein, Abba ?"
+    },
+    "99360": {
+        "「おう　アバさま。": "Eh bien, Abba-sama."
+    },
+    "99361": {
+        "「ええ　アバさま。": "Oui, Abba-sama."
+    },
+    "99362": {
+        "「はいっ　アバさま。": "Oui, Abba-sama."
+    },
+    "99363": {
+        "「おら！　<pc>も　乗りな乗りな！\n　ほら　オレの手に　つかまって……": "Allez ! Monte, <pc>, monte ! Tiens,\nattrape ma main..."
+    },
+    "99364": {
+        "「さあ！　<pc>も　乗って乗って！\n　ほら　あたしの手に　つかまって……": "Allez ! <pc>, monte, monte ! Tiens,\nattrape ma main..."
+    },
+    "99365": {
+        "<if_woman>「ねえ！　お姉ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<else>「ねえ！　お兄ちゃんも　乗って乗って！\n　ほら　私の手に　つかまって……<endif>": "<if_woman>> He ! Grande soeur, monte, monte !\nAllez, attrape ma main...<else>> He ! Grand frere, monte, monte ! Allez,\nattrape ma main... <endif>"
+    },
+    "99366": {
+        "「……えっ？": "…Hein ?"
+    },
+    "99367": {
+        "「……えっ？": "...Hein ?"
+    },
+    "99368": {
+        "「……ええっ？": "......Hein ?"
+    },
+    "99369": {
+        "「な　なんで……？": "Pourquoi... ?"
+    },
+    "99370": {
+        "「ど　どうしてよ……？": "Pourquoi... ?"
+    },
+    "99371": {
+        "「ど　どうして……？": "P-Pourquoi… ?"
+    },
+    "99375": {
+        "「おめでとうございます　<pc>様！": "Felicitations, <pc>-sama !"
+    },
+    "99376": {
+        "「なんと　あなたは　このたび\n　ＶＩＰの中の　ＶＩＰ！\n　スーパーＶＩＰとして　認められましたっ！": "Vous avez ete reconnu comme un VIP parmi les\nVIP ! Vous etes desormais un Super VIP !"
+    },
+    "99377": {
+        "「スーパーＶＩＰの特典として\n　この部屋のカジノゲームが　遊び放題！\n　そして　コインも　当たり放題っ！": "En tant que membre VIP de Sue, profitez de cet\navantage exclusif : jouez autant que vous\nvoulez aux jeux de casino dans cette salle !<br>Et surtout, remportez des tonnes de jetons !"
+    },
+    "99378": {
+        "「ジャンジャン　ばりばりっ！\n　出ます　出します　出させますっ！！\n　さあさあ　永遠に遊んでいってくださいねっ！": "JanJan Baribari ! Ca sort, je sors, je fais\nsortir !! Allez, allez, jouez pour l'eternite,\ns'il vous plait !"
+    },
+    "99379": {
+        "「いらっしゃい　<pc>。\n　ちょうど　あなたに会いたいと\n　思っていたところなの。": "Bienvenue, <pc>. Je pensais justement a\ntoi, j'avais envie de te voir."
+    },
+    "99380": {
+        "「ちょっと　場所を変えていいかしら？\n　テラスに出て　風に当たりながら話しましょう。": "Puis-je changer un peu d'endroit ? Sortons sur\nla terrasse et discutons en profitant du vent."
+    },
+    "99381": {
+        "「いまさらって　思うかもしれないけど\n　一度　あなたに　ちゃんと\n　お礼を言っておきたくて……。": "Il est peut-etre un peu tard pour ca, mais je\nvoulais vraiment te remercier correctement..."
+    },
+    "99382": {
+        "「<pc>……。私は　これまでに\n　何度も　あなたに　助けてもらったわ。": "<pc>... Jusqu'a present, tu m'as aidee\ntant de fois."
+    },
+    "99383": {
+        "「最初は　ミシュアと呼ばれていたときだけど\n　大きな手の魔物に　さらわれた私を\n　ラスカと一緒に　救いにきてくれたわね。": "Au debut, quand j'etais appelee Mishua, tu es\nvenu me sauver avec Raska alors que j'avais\nete enlevee par un grand demon aux mains<br>immenses."
+    },
+    "99384": {
+        "「そして　私の記憶を取り戻すために\n　何が起きるかも　わからない\n　記憶の世界の中にまで　飛び込んでくれたわ。": "Et pour retrouver ma memoire, tu as eu le\ncourage de plonger dans le monde de mes\nsouvenirs, sans savoir ce qui pourrait s'y<br>passer."
+    },
+    "99385": {
+        "「勇者の記憶を　封じてしまったのは\n　他の誰でもない。私自身だったのにね……。": "C'est moi-meme, et personne d'autre, qui ai\nscelle les souvenirs du heros..."
+    },
+    "99386": {
+        "「あなたが　いなかったら　私は\n　ミシュアのまま　死んでいたかもしれない。\n　本当に　ありがとう　<pc>。": "Si vous n'aviez pas ete la, je serais\npeut-etre morte en tant que Mishua. Merci\nbeaucoup, <pc>."
+    },
+    "99387": {
+        "「私にとっては　あなたこそが勇者。\n　いつでも　そばにいてくれて\n　私のために　戦ってくれる勇者……。": "Pour moi, c'est toi le veritable heros. Tu es\ntoujours a mes cotes et tu te bats pour moi...\nun heros..."
+    },
+    "99388": {
+        "「同じように　あなたのことを思っている人が\n　他にも　たくさん　いるんだから。\n　ねえ……。みんなで　一緒に暮らさない？": "De la meme maniere, il y a beaucoup d'autres\npersonnes qui pensent a toi. He... Et si on\nvivait tous ensemble ?"
+    },
+    "99389": {
+        "「そのための場所も　用意してあるの。\n　行きましょう　<pc>……。": "Un endroit a ete prepare pour cela. Allons-y,\n<pc>..."
+    },
+    "100788": {
+        "「ねじれたる異形の大地へと\n　変わってしまった　ソーラリア峡谷……。\n　そこに現れた大魔王の居城　魔幻宮殿に来て！": "La Solaria Canyon s'est transformee en une\nTwisted Deformed Earth... Viens au Demon\nPalace, la demeure du grand roi demon scelle<br>la-bas !"
+    },
+    "100789": {
+        "「さらに　現在　お持ちのコインとは関係なく\n　１００００枚のスペシャルなコインを\n　プレゼントいたします！": "De plus, independamment des pieces que vous\npossedez deja, nous vous offrons 10 000 pieces\nspeciales en cadeau !"
+    },
+    "100790": {
+        "<pc>は　スペシャルなコインを\n１００００枚　受け取った。<se_nots System 7>": "<pc> a recu 10 000 pieces speciales.<se_nots System 7>"
+    },
+    "100791": {
+        "「残念ながら　ルーレットとポーカーは\n　現在　調整中につき　プレイできません。\n　その分　スロットマシンが　すごいんです！": "Malheureusement, la roulette et le poker sont\nactuellement en cours de reglage et ne sont\npas disponibles pour le moment. En revanche,<br>les machines a sous sont incroyables !"
+    },
+    "100792": {
+        "「だが……　この歴然たるチカラの差を前に\n　なんとする？": "Mais... face a cette evidente difference de\npuissance, que faire?"
+    },
+    "100793": {
+        "「くぅっ……。": "Grrr..."
+    },
+    "100794": {
+        "「<cs_pchero>…………。": "<cs_pchero>.................."
+    },
+    "100795": {
+        "「グハハハハ……。\n　これは　手かげんが　過ぎたかな？\n　次は　もう少し　強めにいくぞ！": "Guhahahaha... Est-ce que j'y suis alle un peu\ntrop doucement ? La prochaine fois, je vais\nfrapper un peu plus fort !"
+    },
+    "100796": {
+        "「ほう…………面白い。": "Ho... Interessant."
+    },
+    "100797": {
+        "「……ありがとう　<cs_pchero>。\n　もう　大丈夫よ。私は　絶対に負けない……！": "Merci, <cs_pchero>. Tout ira bien maintenant.\nJe ne perdrai jamais... !"
+    },
+    "100798": {
+        "「<cs_pchero>。あなただって　そうでしょ？\n　私に　くじけない勇気を示してくれたのは\n　いつだって　あなただったもの。": "<cs_pchero> Toi aussi, n'est-ce pas ? C'est\ntoujours toi qui m'as montre le courage de ne\npas abandonner."
+    },
+    "100799": {
+        "「あなたが　私の盟友でよかった。\n　ふたりなら　どんな強大な敵にだって\n　立ち向かっていける……勝てるって信じられる！": "Je suis vraiment heureux que vous soyez mon\nallie. Ensemble, nous pouvons affronter\nn'importe quel ennemi puissant... Je suis<br>convaincu que nous pouvons gagner !"
+    },
+    "100800": {
+        "「グハハハハッ。威勢のよいことだが\n　余の創りし世界では　そなたの勇者のチカラなど\n　なんの役にも　立たぬぞ。": "Guhahaha ! Quelle bravoure, mais dans le monde\nque j'ai cree, le pouvoir de ton heros ne te\nservira a rien."
+    },
+    "100801": {
+        "「余は　この絶大なるチカラを\n　そなたたちを使って　試したいのだ。\n　くれぐれも　簡単に壊れてくれるなよ！": "Je souhaite tester ce pouvoir immense en vous\nutilisant. Ne vous brisez pas trop facilement\n!"
+    },
+    "101017": {
+        "<center>勇者よ……あまり急くと　器が知れるぞ。\nそなた　戦いの美学というものを知らんとみえる。\n教えてやるがよい　ゼルドラドよ。": "Heros... Ne te precipite pas trop, sinon tu\nreveleras tes limites. Il semble que tu ne\nconnaisses pas l'esthetique du combat.<br>Laisse-moi te l'enseigner, Ludo."
+    },
+    "102313": {
+        "「…………さん。\n　本当に　おひさしぶりですね。": "…san. Cela fait vraiment longtemps."
+    },
+    "102314": {
+        "「……ふふっ。見違えましたか？\n　この姿については　<cs_pchero>さんにも\n　ずいぶん　おどろかれましたよ。": "…Fufu. Je suis meconnaissable, n'est-ce pas ?\n<cs_pchero> san a ete vraiment surpris par\ncette apparence."
+    },
+    "102315": {
+        "「……ええ。<cs_pchero>さんなら\n　アストルティアに　残してきました。\n　その点は　ご安心ください。": "Oui. <cs_pchero> san est reste en Astoltia.\nVous pouvez etre rassure a ce sujet."
+    },
+    "102316": {
+        "「さあ　それでは　始めましょう。\n　私たちの　新たなる戦いを。": "Bien, commencons alors. Notre nouveau combat."
+    },
+    "102704": {
+        "「やはり　本物の勇者のチカラでなければ\n　奈落の門の封印は　破れないということか。": "Il semble qu'il n'y ait que la veritable\npuissance du heros qui puisse briser le sceau\nde l'Abyss Gate."
+    },
+    "102705": {
+        "「……まあ　よい。\n　ちょうど　待ち人が　来てくれたようだからな。": "...Eh bien, soit. Il semble que la personne\nque j'attendais soit enfin arrivee."
+    },
+    "102706": {
+        "「よくぞ参られた　勇者よ。\n　余は　大魔王マデサゴーラ。\n　魔族の王にして　創世の女神への挑戦者。": "Bienvenu, brave heros. Je suis Madesagora. Roi\ndes demons et challenger de la deesse de la\ncreation."
+    },
+    "102709": {
+        "「それより　お前も　大魔王様のもとへ来い。\n　我々が　争うことなど何もない。\n　また　兄妹ともに　助け合っていこう。": "Cela dit, viens aussi aupres du grand roi\ndemon, s'il te plait. Il n'y a aucune raison\npour nous de nous battre. Aidons-nous a<br>nouveau, en tant que frere et soeur."
+    },
+    "102710": {
+        "「私には　守るべきものがあるのです！\n　それに　私は　勇者だから……\n　勇者として　大魔王は　ここで倒します！": "J'ai quelque chose a proteger ! Et puis, je\nsuis un heros... En tant que heros, je vais\nvaincre le grand roi demon ici !"
+    },
+    "112608": {
+        "「もう　会うことは　ないでしょう。\n　さようなら　<cs_pchero>さん…………。": "Nous ne nous reverrons probablement jamais.\nAdieu, <cs_pchero> san..."
+    },
+    "112609": {
+        "「本当に　ありがとう　<cs_pchero>！": "Vraiment, merci beaucoup <cs_pchero> !"
+    },
+    "112829": {
+        "「グハハハハッ。\n　余の創りし世界では　勇者のチカラなど\n　なんの役にも　立たぬぞ。": "Guhahahaha ! Dans le monde que j'ai cree, la\nforce du heros ne sert a rien."
+    },
+    "112830": {
+        "「余は　この絶大なるチカラを\n　そなたたちを使って　試したいのだ。\n　くれぐれも　簡単に壊れてくれるなよ！": "Je souhaite tester ce pouvoir immense en vous\nutilisant. Ne vous brisez pas trop facilement\n!"
+    }
+}

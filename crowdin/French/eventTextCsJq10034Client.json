@@ -1,0 +1,164 @@
+{
+    "13431": {
+        "「……ああ　届いてくれた。\n　<pc>さん　私です！\n　リュナンです！": "…Ah, tu as bien recu mon message.\n<pc>-san, c'est moi ! C'est Lunan !"
+    },
+    "13432": {
+        "「……っと　大声は　マズいですね。\n　申し訳ないですが　<pc>さんも\n　お静かに　お願いします。": "…Oups, je ne devrais pas parler si fort. Je\nsuis desole, mais <pc>-san,\npourriez-vous aussi rester silencieux, s'il<br>vous plait ?"
+    },
+    "13433": {
+        "「じつは　私　今　メギドロームの\n　手下の魔物に　捕まっている状態なんです。": "En realite, je suis actuellement capturee par\nles sbires du demon Megidrome."
+    },
+    "13434": {
+        "「そうです。この間の会話のときに　突然\n　奴らが　私の家に押し入ってきて……。\n　おかげで　シーバの鏡も　割れてしまいました。": "Oui, c'est ca. Lors de notre derniere\nconversation, ils ont soudainement fait\nirruption chez moi... Et a cause de cela, le<br>miroir de Sheba s'est brise."
+    },
+    "13435": {
+        "「この会話も　そのとき　隠しもった\n　鏡の破片を使って　おこなってるんです。\n　……ああ　連絡が通じて　本当によかった。": "Cette conversation se deroule aussi grace a un\neclat de miroir cache a ce moment-la. …Ah, je\nsuis vraiment soulage que nous ayons pu<br>etablir le contact."
+    },
+    "13436": {
+        "「ここは　どうやら　エルトナ大陸の\n　夢幻の森……　捨てられた城のどこかの\n　建物のようです。": "Il semble que nous soyons dans la Dream Forest\ndu continent d'Eltona... Cela ressemble a l'un\ndes batiments de l'Abandoned Castle."
+    },
+    "13437": {
+        "「そんなワケで　<pc>さん。\n　ご迷惑だとは思いますが　どうか　私を\n　助けにきてもらえないでしょうか？": "C'est pourquoi, <pc>-san. Je sais que\ncela pourrait vous deranger, mais\npourriez-vous venir a mon secours, s'il vous<br>plait ?"
+    },
+    "13438": {
+        "「ありがとうございます。\n　今は　<pc>さんだけが　頼りですよ。": "Merci beaucoup. En ce moment, vous etes notre\nseul espoir, <pc>-san."
+    },
+    "13439": {
+        "「奴らに　見つかるとマズいので\n　今後　連絡は　ひかえるようにしますが\n　どうか　よろしくお願いします。": "Il serait problematique qu'ils nous\ndecouvrent, donc je vais limiter nos\ncommunications a l'avenir. Je compte sur votre<br>comprehension. Merci."
+    },
+    "13440": {
+        "「よかった！……と言いたいところですが\n　あなたは　今　たくさんの頼まれごとを\n　抱えているみたいですね。": "Super !... C'est ce que j'aimerais dire, mais\nil semble que tu as beaucoup de demandes a\ngerer en ce moment."
+    },
+    "13441": {
+        "「私のほうは　まだ　しばらく\n　持ちこたえられそうですから\n　まずは　そちらを　片付けてきてください。": "Je peux encore tenir un moment de mon cote,\nalors occupez-vous d'abord de cette affaire."
+    },
+    "13442": {
+        "「……そうですか。\n　残念ですけど　しかたないですね。": "...Je vois. C'est regrettable, mais c'est\ncomme ca."
+    },
+    "13443": {
+        "「それでも　もし……もし　少しでも\n　私を　助けてくれてもいいと思ったなら\n　また　この鏡に　話しかけてみてください。": "Et pourtant, si... si jamais, meme un peu,\nvous pensez que vous pourriez m'aider, alors\nessayez de parler a ce miroir a nouveau."
+    },
+    "13445": {
+        "「さっそくですが　お願いです。\n　ご迷惑だとは　わかっていますが\n　どうか　助けにきてもらえませんか？": "Aussitot dit, j'ai une requete a vous faire.\nJe comprends que cela puisse vous deranger,\nmais pourriez-vous venir nous aider, s'il vous<br>plait ?"
+    },
+    "13446": {
+        "「もしかして　そこにいるのは\n　<pc>さんですか！？": "Serait-ce <pc>-san qui est la !?"
+    },
+    "13447": {
+        "「よく　こんな危険な場所まで……\n　本当に　お礼の言葉もありません。": "Vous etes vraiment venu jusqu'a cet endroit\ndangereux... Je ne sais comment vous\nremercier."
+    },
+    "13448": {
+        "「メギドロームが　私をさらい\n　こんな場所に　閉じ込めたのは\n　ある目的を　果たすため……。": "Megidrome m'a enleve et m'a enferme dans cet\nendroit pour atteindre un certain objectif..."
+    },
+    "13449": {
+        "「そして　奴は　すでに　その野望をかなえて\n　用なしとなった私は　そのまま\n　ここに　捨てさられたというワケです。": "Et ensuite, il a deja realise son ambition, et\ncomme je ne lui etais plus utile, il m'a\nsimplement abandonne ici."
+    },
+    "13450": {
+        "「今　あなたの目の前にあるのは\n　メギドロームが　私を逃がさないために張った\n　魔法の結界で　ふつうには通れません。": "Ce que vous avez devant vous en ce moment est\nune barriere magique que Megidrome a erigee\npour m'empecher de m'echapper. Vous ne pouvez<br>pas la traverser normalement."
+    },
+    "13451": {
+        "「この結界を解くには　<%sEV_QUE_NAME0>に\n　ヒャドで　とどめをさしたときだけ\n　手に入るという　トラマナ石が　必要なんです。": "Pour briser cette barriere, nous avons besoin\nde la Pierre de Passage Sur, que l'on ne peut\nobtenir qu'en portant le coup de grace a<br><%sEV_QUE_NAME0> avec un sort de Hyado."
+    },
+    "13452": {
+        "「<%sEV_QUE_NAME0>は　夢幻の森に\n　夜だけ　現れるそうです。どうか\n　トラマナ石を　持ってきてもらえませんか？<yesno><close>": "<%sEV_QUE_NAME0> apparait dans la Foret des\nReves seulement la nuit. Pourriez-vous, s'il\nvous plait, nous rapporter la Pierre de<br>Passage Sur ?<yesno><close>"
+    },
+    "13453": {
+        "「ありがとうございます。\n　お手数をおかけして　申し訳ありませんが\n　どうか　よろしくお願いしますね。": "Merci beaucoup. Je suis desole de vous causer\ndes ennuis, mais je compte sur vous."
+    },
+    "13454": {
+        "「……そうですか。\n　残念ですが　しかたありませんね。\n　でも　来てくれただけで　うれしいですよ。": "…Je vois. C'est dommage, mais c'est comme ca.\nMais je suis content que tu sois venu(e)."
+    },
+    "13456": {
+        "「……<pc>さんですか？\n　また　来てくれたんですね。": "......Est-ce que c'est vous, <pc>-san ?\nVous etes revenu, n'est-ce pas ?"
+    },
+    "13457": {
+        "「でも　その結界は　トラマナ石がないと\n　解くことは　できないんです。": "Cependant, sans la Safe Passage Stone, il est\nimpossible de briser cette barriere."
+    },
+    "13458": {
+        "「トラマナ石は　<%sEV_QUE_NAME0>に\n　ヒャドで　とどめをさしたときだけ\n　手に入るという　めずらしい石です。": "La Safe Passage Stone est une pierre rare que\nl'on ne peut obtenir qu'en donnant le coup de\ngrace a <%sEV_QUE_NAME0> avec un sort de<br>Hyado."
+    },
+    "13459": {
+        "「たしか　<%sEV_QUE_NAME0>は\n　夢幻の森に　夜だけ現れるはずです。\n　どうか　トラマナ石を　持ってきてください。": "Il me semble que <%sEV_QUE_NAME0> n'apparait\nque la nuit dans la Foret des Reves. S'il vous\nplait, apportez la Pierre de Passage Sur."
+    },
+    "13460": {
+        "トラマナ石のチカラで　結界は消し飛んだ！": "La barriere a ete detruite grace au pouvoir de\nla Pierre de Passage Sur !"
+    },
+    "13461": {
+        "「入らないでくださいっ！！": "Ne rentrez pas, s'il vous plait !"
+    },
+    "13462": {
+        "「どうか　それ以上は　近づかないでください！\n　今は……今は　会えません……。": "Je vous en prie, ne vous approchez pas\ndavantage ! Pour le moment... pour le moment,\nje ne peux pas vous rencontrer..."
+    },
+    "13463": {
+        "「これまで　さんざん　お世話になっておいて\n　顔も見せられないとは　何事かと思うでしょうが\n　どうか　許してください。": "J'imagine que vous devez vous demander\npourquoi je ne peux meme pas vous montrer mon\nvisage apres tout ce que vous avez fait pour<br>moi, mais je vous en prie, pardonnez-moi."
+    },
+    "13464": {
+        "「閉じ込められていたせいで　ひどい姿ですし\n　何より　今は　自分に自信が持てないから……。": "Je suis dans un etat deplorable a cause de mon\nemprisonnement, et surtout, je manque de\nconfiance en moi en ce moment..."
+    },
+    "13465": {
+        "「どうやら　<pc>さんが\n　結界を解いてくれたおかげで\n　呪文で　脱出できるようになったみたいです。": "Il semble que grace a <pc>-san, la\nbarriere a ete levee et nous pouvons\nmaintenant nous echapper avec un sort."
+    },
+    "13466": {
+        "「ひと足先に　失礼させていただきますね。\n　くわしい話は　後ほど　シーバの鏡で！": "Je vous prie de m'excuser de partir un peu\nplus tot. Je vous donnerai plus de details\nplus tard, avec le miroir de Shiva !"
+    },
+    "13539": {
+        "「あなたには　私が　ねらわれていた理由……\n　話しておかないわけには　いきませんね。": "Je ne peux pas ne pas vous parler des raisons\npour lesquelles j'etais visee..."
+    },
+    "13540": {
+        "「私は　魔法使いの必殺技　ミラクルゾーンを\n　他者に　授けることができるという\n　特別な術を継承する　魔法使いなのです。": "Je suis un magicien qui a herite d'une\ntechnique speciale permettant de conferer la\ncompetence ultime des magiciens, la Zone<br>Miracle, a d'autres."
+    },
+    "13541": {
+        "「ミラクルゾーンは　ＭＰを消費せず\n　魔法を使いまくれるという　秘術。\n　強力な術者ほど　恩恵に　あずかれるでしょう。": "La Zone Miracle est une technique secrete\npermettant d'utiliser la magie sans consommer\nde MP. Plus le lanceur de sorts est puissant,<br>plus il pourra en beneficier."
+    },
+    "13542": {
+        "「メギドロームは　強大にして残忍な魔術師。\n　ミラクルゾーンを　覚えたら　どんな悪事を\n　巻き起こすか　知れない存在でした。": "Megidrome etait un puissant et cruel magicien.\nOn ne savait pas quels mefaits il aurait pu\naccomplir s'il avait maitrise la Miracle Zone."
+    },
+    "13543": {
+        "「そのため　技を覚えさせろという要求を\n　断ってきたのですが……今回　こばみきれず\n　奴に　ミラクルゾーンを授けてしまいました。": "Pour cette raison, j'ai toujours refuse sa\ndemande d'apprendre des techniques. Cependant,\ncette fois-ci, je n'ai pas pu resister et je<br>lui ai accorde la Miracle Zone."
+    },
+    "13544": {
+        "「ですが　このままでは　すませませんよ。\n　秘術の継承者として　私は\n　課せられた責任を　果たしてみせます！": "Mais je ne peux pas laisser les choses ainsi.\nEn tant qu'heritiere des arts secrets, je\nremplirai la responsabilite qui m'a ete<br>confiee !"
+    },
+    "13545": {
+        "「……っと　<pc>さんには\n　関係のない話でしたね。\n　それより　今回のお礼をさせてください。": "......Ah, cela ne concerne pas <pc>-san.\nMais permettez-moi de vous remercier pour\ncette fois-ci."
+    },
+    "13546": {
+        "「あなたならば　ミラクルゾーンを会得しても\n　悪事に用いることは　ないでしょう。\n　これが　私にできる　最大のお礼です。": "Si c'est vous, meme en maitrisant la Zone\nMiracle, vous ne l'utiliserez pas a des fins\nmauvaises. C'est le plus grand remerciement<br>que je puisse vous offrir."
+    },
+    "13547": {
+        "「深き知恵と　大いなる魔力を持つ者よ。\n　汝の名は　<pc>。\n　今こそ　魔術の深奥へと　至らんっ！！": "O toi, qui possedes une sagesse profonde et un\ngrand pouvoir magique. Ton nom est <pc>.\nIl est temps d'atteindre les profondeurs de la<br>magie !"
+    },
+    "13548": {
+        "「鏡を通してでも可能なのか　心配でしたが\n　どうやら　無事　会得できたようですね。\n　ミラクルゾーン　役に立ててください。": "Meme a travers un miroir, j'etais inquiet,\nmais il semble que vous ayez reussi a\nl'apprendre sans encombre. Utilisez la Zone<br>Miracle a bon escient."
+    },
+    "13549": {
+        "「私は　これから　メギドロームを探しつつ\n　奴を倒すための修行に　入ろうと思います。": "Je vais maintenant chercher le Megidrome tout\nen m'engageant dans un entrainement pour le\nvaincre."
+    },
+    "13550": {
+        "「フフ。心配なさらないでください。\n　奴は強敵ですが　負ける気はありませんよ。": "Fufu. Ne vous inquietez pas. Cet adversaire\nest redoutable, mais je n'ai pas l'intention\nde perdre."
+    },
+    "13551": {
+        "「どうか　私の勝利を　祈っていてください。\n　それでは　お元気で！": "Veuillez prier pour ma victoire. Prenez soin\nde vous !"
+    },
+    "28313": {
+        "「私です！　リュナンです！": "C'est moi ! Lunan !"
+    },
+    "41549": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    },
+    "41550": {
+        "「……さん……　<pc>さ…ん。<yesno><close>": "......san...... <pc>-san. <yesno><close>"
+    },
+    "41551": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    },
+    "41552": {
+        "「……ああ　<pc>さん。\n　また　来てくれたんですね。\n　よかった！　ひとりで　心細かったんですよ。": "...Ah, <pc>-san. Tu es revenu. Je suis\nsoulage ! J'etais un peu inquiet tout seul."
+    },
+    "41553": {
+        "<pc>は　鏡のある客室に　泊まった。": "<pc> a sejourne dans une chambre d'hotes\navec un miroir."
+    },
+    "41554": {
+        "「助けていただいて　ありがとうございました。\n　本当に　<pc>さんには\n　お世話になりっぱなしで……。": "Merci beaucoup de m'avoir aide. Je suis\nvraiment redevable envers vous,\n<pc>-san..."
+    }
+}
