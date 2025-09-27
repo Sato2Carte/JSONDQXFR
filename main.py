@@ -132,11 +132,11 @@ def main():
                 if args.update_dat:log.info('Updating DAT mod.');download_dat_files()
                 if not args.disable_update_check:
                         log.info(A);check_for_updates(update=_B)
-                        if is_serversidefr_enabled():mettre_a_jour_db_fr(log)
+                        if is_serversidefr_enabled():download_custom_files();mettre_a_jour_db_fr(log)
                         else:download_custom_files()
         elif not args.disable_update_check:
                 telecharger_patch_fr();log.info(A);check_for_updates(update=_B)
-                if is_serversidefr_enabled():mettre_a_jour_db_fr(log)
+                if is_serversidefr_enabled():download_custom_files();mettre_a_jour_db_fr(log)
                 else:download_custom_files()
         import_name_overrides()
         try:
