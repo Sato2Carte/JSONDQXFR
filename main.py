@@ -143,6 +143,29 @@ def mettre_a_jour_db_fr(log):
                 if unique_idx:
                         try:conn.execute(f'CREATE UNIQUE INDEX IF NOT EXISTS idx_{table_name}_ja ON "{table_name}"(ja);')
                         except Exception as ie:log.warning(f"Index unique non créé pour {table_name}: {ie}")
+        def ensure_dialog_schema(conn):
+            conn.execute("""
+                CREATE TABLE IF NOT EXISTS "dialog" (
+                    id INTEGER PRIMARY KEY AUTOINCREMENT,
+                    ja TEXT,
+                    en TEXT
+                );
+            """)
+            try:
+                conn.execute('CREATE UNIQUE INDEX IF NOT EXISTS idx_dialog_ja ON "dialog"(ja);')
+            except Exception as ie:
+                log.warning(f"Index unique non créé pour dialog: {ie}")
+        
+        def upsert_dialog(conn, items):
+            sql = '''
+                INSERT INTO "dialog" (ja, en)
+                VALUES (?, ?)
+                ON CONFLICT(ja) DO UPDATE SET en = excluded.en;
+            '''
+            rows = [(str(ja).strip(), '' if fr is None else str(fr).strip())
+                    for (ja, fr) in items.items() if ja]
+            if rows:
+                conn.executemany(sql, rows)
         def ensure_fixed_dialog_schema(conn):
                 conn.execute('\n            CREATE TABLE IF NOT EXISTS "fixed_dialog_template" (\n                id INTEGER PRIMARY KEY AUTOINCREMENT,\n                ja TEXT,\n                en TEXT,\n                bad_string INTEGER NOT NULL DEFAULT 0\n            );\n        ')
                 try:conn.execute('CREATE UNIQUE INDEX IF NOT EXISTS idx_fixed_dialog_template_ja ON "fixed_dialog_template"(ja);')
@@ -171,12 +194,35 @@ def mettre_a_jour_db_fr(log):
                 elif isinstance(data,dict):items={str(k):A if v is _A else str(v)for(k,v)in data.items()}
                 else:log.error(f"Format JSON non supporté pour {file_name}");continue
                 try:
-                        with sqlite3.connect(db_path)as conn:
-                                conn.execute(C);conn.execute(D);t0=time.time()
-                                if table=='fixed_dialog_template':ensure_fixed_dialog_schema(conn);upsert_fixed_dialog(conn,items);conn.commit();log.info(f"✅ {table}: {len(items)} lignes upsert (bad_string=0) en {int((time.time()-t0)*1000)} ms.")
-                                elif table=='m00_strings':ensure_table_schema(conn,table,unique_idx=_E);updated,skipped=update_only_en_by_ja(conn,table,items);conn.commit();log.info(f"✅ {table}: {updated} MAJ, {skipped} non trouvées (UPDATE-only) en {int((time.time()-t0)*1000)} ms.")
-                                else:ensure_table_schema(conn,table,unique_idx=_B);upsert_rows(conn,table,items);conn.commit();log.info(f"✅ {table}: {len(items)} lignes upsert en {int((time.time()-t0)*1000)} ms.")
-                except Exception as e:log.error(f"Erreur d'injection pour {table}: {e}")
+                    with sqlite3.connect(db_path) as conn:
+                        conn.execute(C); conn.execute(D)
+                        t0 = time.time()
+                        if table == 'fixed_dialog_template':
+                            # Crée les deux schémas
+                            ensure_fixed_dialog_schema(conn)
+                            ensure_dialog_schema(conn)
+                        
+                            # Upsert dans fixed_dialog_template (avec bad_string)
+                            upsert_fixed_dialog(conn, items)
+                            log.info(f"✅ fixed_dialog_template: {len(items)} lignes upsert (bad_string=0)")
+                        
+                            # Upsert dans dialog (sans bad_string)
+                            upsert_dialog(conn, items)
+                            log.info(f"✅ dialog (dup from fixed_dialog_template): {len(items)} lignes upsert")
+                        
+                            conn.commit()
+                        elif table == 'm00_strings':
+                            ensure_table_schema(conn, table, unique_idx=_E)
+                            updated, skipped = update_only_en_by_ja(conn, table, items)
+                            conn.commit()
+                            log.info(f"✅ {table}: {updated} MAJ, {skipped} non trouvées (UPDATE-only) en {int((time.time()-t0)*1000)} ms.")
+                        else:
+                            ensure_table_schema(conn, table, unique_idx=_B)
+                            upsert_rows(conn, table, items)
+                            conn.commit()
+                            log.info(f"✅ {table}: {len(items)} lignes upsert en {int((time.time()-t0)*1000)} ms.")
+                except Exception as e:
+                    log.error(f"Erreur d'injection pour {table}: {e}")
 def telecharger_patch_fr(log):
         "Télécharge et applique le patch FR (DAT/IDX) dans le dossier DQX de l'utilisateur.";F='w+b';E='installdirectory';D='config';C='data00000000.win32.dat0';B='Game/Content/Data';A='/'
         if is_dqx_process_running():log.exception('Veuillez fermer DQX avant de mettre à jour les fichiers DAT/IDX traduits.');return
@@ -216,11 +262,11 @@ def main():
                 if args.update_dat:log.info('Updating DAT mod.');download_dat_files()
                 if not args.disable_update_check:
                         log.info(A);check_and_update_clarity_inplace(update=_G,log=log);telecharger_patch_fr(log)
-                        if is_serversidefr_enabled():mettre_a_jour_db_fr(log)
+                        if is_serversidefr_enabled():download_custom_files(),mettre_a_jour_db_fr(log)
                         else:download_custom_files()
         elif not args.disable_update_check:
                 log.info(A);check_and_update_clarity_inplace(update=_G,log=log);telecharger_patch_fr(log)
-                if is_serversidefr_enabled():mettre_a_jour_db_fr(log)
+                if is_serversidefr_enabled():download_custom_files(),mettre_a_jour_db_fr(log)
                 else:download_custom_files()
         import_name_overrides()
         try:
