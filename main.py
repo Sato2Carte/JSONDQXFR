@@ -223,59 +223,101 @@ def mettre_a_jour_db_fr(log):
                             log.info(f"✅ {table}: {len(items)} lignes upsert en {int((time.time()-t0)*1000)} ms.")
                 except Exception as e:
                     log.error(f"Erreur d'injection pour {table}: {e}")
+from os.path import join as pjoin
+
 def telecharger_patch_fr(log):
-        "Télécharge et applique le patch FR (DAT/IDX) dans le dossier DQX de l'utilisateur.";F='w+b';E='installdirectory';D='config';C='data00000000.win32.dat0';B='Game/Content/Data';A='/'
-        if is_dqx_process_running():log.exception('Veuillez fermer DQX avant de mettre à jour les fichiers DAT/IDX traduits.');return
-        if not check_if_running_as_admin():log.exception('Ce programme doit être exécuté en administrateur pour appliquer le patch FR DAT/IDX. Relancez-le en administrateur puis réessayez.');return    
-        config=UserConfig();read_game_path=A.join([config.game_path,B,C])
+        F='w+b';E='installdirectory';D='config';C='data00000000.win32.dat0';B='Game/Content/Data'
+        if is_dqx_process_running(): log.exception('Veuillez fermer DQX avant de mettre à jour les fichiers DAT/IDX traduits.'); return
+        if not check_if_running_as_admin(): log.exception('Ce programme doit être exécuté en administrateur pour appliquer le patch FR DAT/IDX. Relancez-le en administrateur puis réessayez.'); return
+        config=UserConfig()
+        read_game_path=pjoin(config.game_path,B,C)
         if not os.path.exists(read_game_path):
                 default_game_path='C:/Program Files (x86)/SquareEnix/DRAGON QUEST X'
-                if os.path.exists(default_game_path):config.update(section=D,key=E,value=default_game_path)
+                if os.path.exists(default_game_path):
+                        config.update(section=D,key=E,value=default_game_path)
                 else:
                         log.warning('Impossible de vérifier le dossier DRAGON QUEST X. Sélectionnez manuellement le dossier « DRAGON QUEST X » où le jeu est installé.')
                         while _B:
                                 dqx_path=askdirectory()
-                                if not dqx_path:log.error("Aucun dossier sélectionné (fenêtre fermée). Le programme va s'arrêter.");return
-                                dat0_path=A.join([dqx_path,B,C])
-                                if os.path.isfile(dat0_path):config.update(section=D,key=E,value=dqx_path);log.success('Chemin DRAGON QUEST X vérifié.');break
-                                else:log.warning('Chemin invalide. Sélectionnez le dossier « DRAGON QUEST X » où le jeu est installé.')
-                config.reinit();dqx_path=A.join([config.game_path,B])
-                if is_patchdaily_enabled():fr_dat_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1'];fr_idx_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.idx'];log.info('Téléchargement des fichiers FR (Patch quotidien (Instable))…')
-                else:fr_dat_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.dat1'];fr_idx_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.idx'];log.info('Téléchargement des fichiers FR…')
-                dat_request,last_err=_A,_A
-                for url in fr_dat_urls:
-                        try:dat_request=download_file(url);break
-                        except Exception as e:last_err=e;log.warning(f"Échec depuis {url} ({e}); tentative suivante…")
-                if dat_request is _A:raise last_err or RuntimeError('Impossible de télécharger le fichier DAT1 FR.')
-                idx_request,last_err=_A,_A
-                for url in fr_idx_urls:
-                        try:idx_request=download_file(url);break
-                        except Exception as e:last_err=e;log.warning(f"Échec depuis {url} ({e}); tentative suivante…")
-                if idx_request is _A:raise last_err or RuntimeError('Impossible de télécharger le fichier IDX FR.')
-                with open(dqx_path+'/data00000000.win32.dat1',F)as f:f.write(dat_request.content)
-                with open(dqx_path+'/data00000000.win32.idx',F)as f:f.write(idx_request.content)
-                log.success('Patch FR DAT/IDX appliqué avec succès.')
+                                if not dqx_path: log.error("Aucun dossier sélectionné (fenêtre fermée). Le programme va s'arrêter."); return
+                                dat0_path=pjoin(dqx_path,B,C)
+                                if os.path.isfile(dat0_path):
+                                        config.update(section=D,key=E,value=dqx_path); log.success('Chemin DRAGON QUEST X vérifié.'); break
+                                else:
+                                        log.warning('Chemin invalide. Sélectionnez le dossier « DRAGON QUEST X » où le jeu est installé.')
+        config.reinit()
+        dqx_path=pjoin(config.game_path,B)
+        if is_patchdaily_enabled():
+                fr_dat_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.dat1']
+                fr_idx_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/sub/data00000000.win32.idx']
+                log.info('Téléchargement des fichiers FR (Patch quotidien (Instable))…')
+        else:
+                fr_dat_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.dat1']
+                fr_idx_urls=['https://github.com/Sato2Carte/JSONDQXFR/releases/download/dat%2Fidx/data00000000.win32.idx']
+                log.info('Téléchargement des fichiers FR…')
+        dat_request,last_err=_A,_A
+        for url in fr_dat_urls:
+                try: dat_request=download_file(url); break
+                except Exception as e: last_err=e; log.warning(f"Échec depuis {url} ({e}); tentative suivante…")
+        if dat_request is _A: raise last_err or RuntimeError('Impossible de télécharger le fichier DAT1 FR.')
+        idx_request,last_err=_A,_A
+        for url in fr_idx_urls:
+                try: idx_request=download_file(url); break
+                except Exception as e: last_err=e; log.warning(f"Échec depuis {url} ({e}); tentative suivante…")
+        if idx_request is _A: raise last_err or RuntimeError('Impossible de télécharger le fichier IDX FR.')
+        with open(pjoin(dqx_path,'data00000000.win32.dat1'),F) as f: f.write(dat_request.content)
+        with open(pjoin(dqx_path,'data00000000.win32.idx'),F) as f: f.write(idx_request.content)
+        log.success('Patch FR DAT/IDX appliqué avec succès.')
 def parse_arguments():A='store_true';parser=argparse.ArgumentParser(description='dqxclarity: A Japanese to English translation tool for Dragon Quest X.');parser.add_argument('-u','--disable-update-check',action=A,help='Disables checking for updates on each launch.');parser.add_argument('-c','--communication-window',action=A,help='Writes hooks into the game to translate the dialog window with a live translation service.');parser.add_argument('-p','--player-names',action=A,help='Scans for player names and changes them to their Romaji counterpart.');parser.add_argument('-n','--npc-names',action=A,help='Scans for NPC names and changes them to their Romaji counterpart.');parser.add_argument('-l','--community-logging',action=A,help='Enables dumping important game information that the dqxclarity devs need to continue this project.');parser.add_argument('-d','--update-dat',action=A,help='Update the translated idx and dat file with the latest from Github. Requires the game to be closed.');return parser.parse_args()
 def main():
-        A='Updating custom text in db.';args=parse_arguments();logs_dir=Path(get_project_root('logs'));logs_dir.mkdir(parents=_B,exist_ok=_B);log_path=get_project_root('logs/console.log');Path(log_path).unlink(missing_ok=_B);log=setup_logging();log.info('Running. Please wait until this window says "Done!" before logging into your character.');log.debug('Ensuring db structure.');create_db_schema();log.debug('Checking user_settings.ini.');UserConfig(warnings=_B)
-        if not is_fr_launcher(_D):
-                if args.update_dat:log.info('Updating DAT mod.');download_dat_files()
-                if not args.disable_update_check:
-                        log.info(A);check_and_update_clarity_inplace(update=_G,log=log);telecharger_patch_fr(log)
-                        if is_serversidefr_enabled():download_custom_files(),mettre_a_jour_db_fr(log)
-                        else:download_custom_files()
-        elif not args.disable_update_check:
-                log.info(A);check_and_update_clarity_inplace(update=_G,log=log);telecharger_patch_fr(log)
-                if is_serversidefr_enabled():download_custom_files(),mettre_a_jour_db_fr(log)
-                else:download_custom_files()
+        A = 'Updating custom text in db.'
+        args = parse_arguments()
+        logs_dir = Path(get_project_root('logs'))
+        logs_dir.mkdir(parents=_B, exist_ok=_B)
+        log_path = get_project_root('logs/console.log')
+        Path(log_path).unlink(missing_ok=_B)
+        log = setup_logging()
+        log.info('Running. Please wait until this window says "Done!" before logging into your character.')
+        log.debug('Ensuring db structure.')
+        create_db_schema()
+        log.debug('Checking user_settings.ini.')
+        UserConfig(warnings=_B)
+
+        fr_enabled = is_fr_launcher(_D)
+        daily_enabled = is_patchdaily_enabled(_D)
+        serverside_fr = is_serversidefr_enabled(_D)
+
+        if args.update_dat:
+            log.info('Updating DAT mod.')
+            download_dat_files()
+
+        if not args.disable_update_check:
+            log.info(A)
+            check_and_update_clarity_inplace(update=_G, log=log)
+            if daily_enabled or fr_enabled:
+                telecharger_patch_fr(log)
+            download_custom_files()
+            if serverside_fr:
+                mettre_a_jour_db_fr(log)
+
         import_name_overrides()
         try:
-                if not any(vars(args).values()):log.success('No options were selected. dqxclarity will exit.');time.sleep(3);sys.exit(0)
-                wait_for_dqx_to_launch()
-                if args.player_names or args.communication_window:start_process(name='Hook loader',target=activate_hooks,args=(args.player_names,args.communication_window))
-                if args.communication_window:start_process(name='Walkthrough scanner',target=loop_scan_for_walkthrough,args=())
-                if args.community_logging:log.warning('Logs can be found in the "logs" folder. You should only enable this flag if you were asked to by the dqxclarity team. This feature is unstable. You will not receive help if you\'ve enabled this on your own. Once you\'re done logging, you will need to manually close the dqxclarity window.');start_process(name='Community logging',target=start_logger,args=())
-                if args.player_names or args.npc_names:start_process(name='Name scanner',target=run_scans,args=(args.player_names,args.npc_names))
-                log.success('Done! Keep this window open (minimize it) and have fun on your adventure!')
-        except Exception:log.exception('An exception occurred. dqxclarity will exit.');sys.exit(1)
+            if not any(vars(args).values()):
+                log.success('No options were selected. dqxclarity will exit.')
+                time.sleep(3)
+                sys.exit(0)
+            wait_for_dqx_to_launch()
+            if args.player_names or args.communication_window:
+                start_process(name='Hook loader', target=activate_hooks, args=(args.player_names, args.communication_window))
+            if args.communication_window:
+                start_process(name='Walkthrough scanner', target=loop_scan_for_walkthrough, args=())
+            if args.community_logging:
+                log.warning('Logs can be found in the "logs" folder. You should only enable this flag if you were asked to by the dqxclarity team. This feature is unstable. You will not receive help if you\'ve enabled this on your own. Once you\'re done logging, you will need to manually close the dqxclarity window.')
+                start_process(name='Community logging', target=start_logger, args=())
+            if args.player_names or args.npc_names:
+                start_process(name='Name scanner', target=run_scans, args=(args.player_names, args.npc_names))
+            log.success('Done! Keep this window open (minimize it) and have fun on your adventure!')
+        except Exception:
+            log.exception('An exception occurred. dqxclarity will exit.')
+            sys.exit(1)
 if __name__=='__main__':main()
