@@ -37,6 +37,34 @@ from pathlib import Path
 from urllib.request import Request,urlopen
 from zipfile import ZipFile as Zip
 from tkinter.filedialog import askdirectory
+import sqlite3, unicodedata
+from pathlib import Path
+
+def _norm_nfkc(s: str) -> str:
+    return unicodedata.normalize("NFKC", s or "").strip()
+
+def db_manuelle(log):
+    db_path = Path(__file__).parent / "misc_files" / "clarity_dialogFR.db"
+    if not db_path.exists():
+        log.warning(f"DB introuvable: {db_path}")
+        return
+
+    ja_target = _norm_nfkc("おおきづち")
+    with sqlite3.connect(db_path) as conn:
+        cols = [r[1] for r in conn.execute("PRAGMA table_info('m00_strings')")]
+        if "file" not in cols:
+            log.warning("Colonne 'file' absente de m00_strings : aucune mise à jour effectuée.")
+            return
+
+        # Mise à jour ciblée
+        cur = conn.execute("""
+            UPDATE "m00_strings"
+               SET en = ?
+             WHERE ja = ?
+               AND file LIKE '%' || ? || '%';
+        """, ("Maillet geant", ja_target, "items"))
+        conn.commit()
+
 def check_and_update_clarity_inplace(update=_G,version_file='version.update',github_api_url='https://api.github.com/repos/dqx-translation-project/dqxclarity/releases/latest',release_zip_url='https://github.com/dqx-translation-project/dqxclarity/releases/latest/download/dqxclarity.zip',log=None):
         C='dqxclarity/';B='dqxclarity-updater';A='User-Agent';import json,os,sys,glob,shutil;from io import BytesIO;from pathlib import Path;from urllib.request import Request,urlopen;from zipfile import ZipFile as Zip;from contextlib import suppress
         def _info(msg):log.info(msg)if log else print(msg)
@@ -299,7 +327,7 @@ def main():
             download_custom_files()
             if serverside_fr:
                 mettre_a_jour_db_fr(log)
-
+                db_manuelle(log)
         import_name_overrides()
         try:
             if not any(vars(args).values()):
